@@ -1,0 +1,32 @@
+{
+  "id": "I282604492552",
+  "sex": "M",
+  "link": {
+    "confidence": "confirmed",
+    "note": "This is me (site owner)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "funFacts": [],
+  "residences": [
+    {
+      "date": "2009\u20132016",
+      "place": "Ashburn, Virginia, USA"
+    },
+    {
+      "date": "2016\u20132020",
+      "place": "Arlington, Virginia, USA"
+    }
+  ],
+  "military": [],
+  "notable": "",
+  "media": [],
+  "sources": [],
+  "researchLog": [
+    {
+      "date": "2026-10-07",
+      "note": "Imported from Ancestry GEDCOM (Meier Family Tree, exported 7 Oct 2026). Sex set to male by hand; GEDCOM had none."
+    }
+  ]
+}

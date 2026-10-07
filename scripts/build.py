@@ -71,6 +71,10 @@ def main():
             if k != "id":
                 people[pid][k] = v
         research_count += 1
+    for p in people.values():
+        tags = list(p.get("treeTags", [])) + list(p.get("tags", []))
+        if tags:
+            p["tags"] = sorted(set(tags))
 
     for s in stories:
         for pid in s.get("people", []):

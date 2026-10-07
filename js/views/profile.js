@@ -82,7 +82,7 @@
       (p.residences || []).forEach(rs => places.push({ date: rs.date, place: rs.place, what: rs.note || 'Lived' }));
       if (p.death && p.death.place) places.push({ date: p.death.date, place: p.death.place, what: 'Died' });
       if (places.length) main.appendChild(section('Places', 'pin', [el('ol', { class: 'places' }, places.map(pl => el('li', {}, [
-        el('span', { class: 'place-when', text: pl.date ? (pl.date.includes('–') ? pl.date : F.formatDate(pl.date, true)) : '' }),
+        el('span', { class: 'place-when', text: pl.date ? F.formatDate(pl.date, true) : '' }),
         el('span', { class: 'place-what', text: pl.what }),
         el('a', { class: 'place-where', href: 'https://www.google.com/maps/search/' + encodeURIComponent(pl.place), target: '_blank', rel: 'noopener', text: pl.place })
       ])))]));
@@ -110,6 +110,24 @@
       if (media.length) {
         const images = media.filter(m => m.file && /\.(jpe?g|png|gif|webp|svg)$/i.test(m.file));
         main.appendChild(section(`Media & documents (${media.length})`, 'image', [el('div', { class: 'media-grid' }, media.map(m => mediaCard(m, images)))]));
+      }
+
+      /* Records on Ancestry (citations from the GEDCOM) and media not yet downloaded */
+      const cites = p.citations || [];
+      if (cites.length) {
+        const groups = {};
+        cites.forEach(c => { (groups[c.source] = groups[c.source] || []).push(c); });
+        main.appendChild(section(`Records (${cites.length})`, 'doc', [el('ul', { class: 'records' }, Object.keys(groups).map(src => el('li', {}, [
+          el('b', { text: src }),
+          el('ul', {}, groups[src].filter(c => c.page).map(c => el('li', { class: 'muted small', text: c.page })))
+        ])))], 'records-card'));
+      }
+      const am = p.ancestryMedia || [];
+      if (am.length) {
+        main.appendChild(section(`On Ancestry, not yet downloaded (${am.length})`, 'image', [
+          el('p', { class: 'muted small', text: 'These items are attached to this person in the Ancestry tree. The export does not include the files; once they are copied into the media folder they will appear in Media & documents.' }),
+          el('ul', { class: 'fun' }, am.map(m => el('li', { text: [m.title || 'Untitled', m.kind, m.form].filter(Boolean).join(' · ') + (m.primary ? ' (profile photo)' : '') })))
+        ]));
       }
 
       /* Sources & research */

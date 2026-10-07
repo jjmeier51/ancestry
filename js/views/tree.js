@@ -153,12 +153,12 @@
         const W = stage.clientWidth, H = stage.clientHeight;
         const bw = bbox.maxX - bbox.minX, bh = bbox.maxY - bbox.minY;
         let k = Math.min(W / bw, H / bh, 1);
-        const minK = W < 700 ? 0.62 : 0.45;
+        const minK = W < 700 ? 0.62 : 0.55;
         if (k < minK) {
           k = minK;
           state.k = k;
           // Root is at (0,0): centre it horizontally, and vertically in proportion to how much tree lies above vs below it.
-          const frac = Math.min(0.78, Math.max(0.22, (0 - bbox.minY) / (bbox.maxY - bbox.minY)));
+          const frac = Math.min(0.9, Math.max(0.1, (0 - bbox.minY) / (bbox.maxY - bbox.minY)));
           state.tx = W / 2; state.ty = H * frac;
         } else {
           state.k = k;

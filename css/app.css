@@ -268,3 +268,8 @@ body.has-banner .hud-top { top: 66px; }
 .lightbox p { color: var(--muted); margin: 12px 0 0; text-align: center; }
 .lightbox button { position: absolute; width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--line-strong); background: var(--glass); color: #fff; display: flex; align-items: center; justify-content: center; cursor: pointer; }
 .lb-close { top: calc(var(--sat) + 14px); right: 14px; } .lb-prev { left: 10px; top: 50%; } .lb-next { right: 10px; top: 50%; }
+
+/* ===== Records ===== */
+.records { margin: 0; padding: 0; list-style: none; display: grid; gap: 10px; }
+.records > li > b { display: block; font-weight: 600; }
+.records ul { margin: 2px 0 0; padding-left: 16px; display: grid; gap: 2px; }

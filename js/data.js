@@ -47,6 +47,7 @@
     const d = parseDate(str);
     if (!d) return '';
     if (d.year === null) return d.text;
+    if (/^\d{4}\s*[-–]\s*\d{4}$/.test(d.text)) return d.text.replace(/\s*[-–]\s*/, '–');
     const mon = d.month ? (short ? MONTHS[d.month - 1].slice(0, 3) : MONTHS[d.month - 1]) : '';
     const core = d.day && d.month ? `${d.day} ${mon} ${d.year}` : d.month ? `${mon} ${d.year}` : String(d.year);
     if (d.qualifier === 'between') return d.text.replace(/^BET(WEEN)?\s+/i, 'between ').replace(/\s+AND\s+/i, ' and ');
