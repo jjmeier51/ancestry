@@ -159,7 +159,8 @@
           state.k = k;
           // Root is at (0,0): centre it horizontally, and vertically in proportion to how much tree lies above vs below it.
           const frac = Math.min(0.9, Math.max(0.1, (0 - bbox.minY) / (bbox.maxY - bbox.minY)));
-          state.tx = W / 2; state.ty = H * frac;
+          state.tx = W / 2;
+          state.ty = Math.min(H - 84 - NH * k / 2, Math.max(84 + NH * k / 2, H * frac)); // keep the root clear of the floating controls
         } else {
           state.k = k;
           state.tx = (W - bw * k) / 2 - bbox.minX * k;
