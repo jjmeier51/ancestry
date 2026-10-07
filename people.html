@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>People</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header"></header>
+  <main>
+    <div class="wrap">
+      <h1 style="margin-top:36px">People</h1>
+      <div class="toolbar">
+        <input type="search" id="people-q" placeholder="Filter by name, place or year…" aria-label="Filter people">
+        <select id="people-surname" aria-label="Surname"><option value="">All surnames</option></select>
+        <select id="people-sort" aria-label="Sort">
+          <option value="surname">Sort by surname</option>
+          <option value="given">Sort by first name</option>
+          <option value="birth">Sort by birth year</option>
+        </select>
+        <span class="count" id="people-count"></span>
+      </div>
+      <div id="people-list"></div>
+    </div>
+  </main>
+  <footer class="site-footer"></footer>
+  <script src="data/family.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/people.js"></script>
+</body>
+</html>

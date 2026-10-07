@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="The Forge">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5a3a2e"/><stop offset="1" stop-color="#2a2118"/></linearGradient>
+  <filter id="grain"><feTurbulence baseFrequency=".9" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .08 0"/></filter></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect width="800" height="600" filter="url(#grain)"/>
+  <rect x="28" y="28" width="744" height="544" fill="none" stroke="#f6f0e4" stroke-opacity=".6" stroke-width="3"/>
+  <rect x="40" y="40" width="720" height="520" fill="none" stroke="#f6f0e4" stroke-opacity=".35" stroke-width="1"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#f6f0e4" font-weight="bold">The Forge</text>
+  <text x="400" y="335" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#f6f0e4" fill-opacity=".85" font-style="italic">Lyell Avenue, about 1905</text>
+  <text x="400" y="520" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#f6f0e4" fill-opacity=".7">Sample placeholder — replace with a real photograph</text>
+</svg>

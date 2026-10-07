@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Home</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header"></header>
+  <main>
+    <div class="wrap">
+      <section class="hero">
+        <p class="eyebrow">Family history</p>
+        <h1 id="home-title">Our Family</h1>
+        <p class="lead" id="home-subtitle"></p>
+        <div class="actions">
+          <a class="btn" href="tree.html">Explore the family tree</a>
+          <a class="btn ghost" href="people.html">Browse all people</a>
+        </div>
+      </section>
+      <div class="stats" id="stats"></div>
+      <section class="block">
+        <div class="section-head"><h2>Start here</h2><a href="tree.html">Full tree →</a></div>
+        <div id="start-here" class="mini-pedigree"></div>
+      </section>
+      <div class="two-col">
+        <section class="block">
+          <div class="section-head"><h2>Stories</h2><a href="stories.html">All stories →</a></div>
+          <div id="home-stories"></div>
+        </section>
+        <section class="block">
+          <div class="section-head"><h2>Earliest ancestors</h2><a href="timeline.html">Timeline →</a></div>
+          <div id="earliest" class="card-grid" style="grid-template-columns:1fr"></div>
+          <h2 style="margin-top:32px">Family names</h2>
+          <div id="surnames" class="surname-cloud"></div>
+        </section>
+      </div>
+    </div>
+  </main>
+  <footer class="site-footer"></footer>
+  <script src="data/family.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>
