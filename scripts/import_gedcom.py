@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""Convert a GEDCOM (.ged) export into data/family.js for this website.
+"""Import a GEDCOM (.ged) file into data/tree.json.
 
 Usage:
-    python3 scripts/gedcom_to_data.py path/to/export.ged -o data/family.js
-    python3 scripts/gedcom_to_data.py export.ged --title "The Smith Family" --root @I1@
+    python3 scripts/import_gedcom.py data/source/export.ged
+    python3 scripts/import_gedcom.py export.ged -o data/tree.json
 
-Works with exports from Ancestry, FamilySearch, MyHeritage, Gramps, RootsMagic
-and most other genealogy programs (GEDCOM 5.5 / 5.5.1 / 7.0). Only the
-standard library is used.
+Then run  python3 scripts/build.py  to regenerate data/family.js.
+
+Only the core tree (people, families, vital events, residences, notes) is
+imported. Research enrichment lives in data/research/<id>.json and is never
+touched by this script, so re-importing is safe. Works with GEDCOM 5.5 /
+5.5.1 / 7.0 exports from Ancestry, FamilySearch, MyHeritage, Gramps, etc.
 """
 import argparse
 import json
@@ -17,7 +20,6 @@ from collections import OrderedDict
 
 
 def read_lines(path):
-    """Yield (level, xref, tag, value) tuples; handles CONT/CONC continuation."""
     with open(path, "rb") as fh:
         raw = fh.read()
     for enc in ("utf-8-sig", "utf-8", "cp1252", "latin-1"):
@@ -46,7 +48,6 @@ def read_lines(path):
 
 
 def build_tree(lines):
-    """Turn flat lines into nested records: [{tag, xref, value, children:[...]}]."""
     root = {"children": []}
     stack = [root]
     for level, xref, tag, value in lines:
@@ -75,9 +76,9 @@ def event(node, tag):
         return None
     out = {}
     d, p = child(ev, "DATE"), child(ev, "PLAC")
-    if d and d["value"]:
+    if d and d["value"].strip():
         out["date"] = d["value"].strip()
-    if p and p["value"]:
+    if p and p["value"].strip():
         out["place"] = p["value"].strip()
     if not out and ev["value"].strip().upper() == "Y":
         return {}
@@ -89,7 +90,6 @@ def clean_id(xref):
 
 
 def parse_name(value):
-    """'John Henry /Smith/ Jr.' -> given, surname, suffix"""
     m = re.match(r"^\s*([^/]*?)\s*/([^/]*)/\s*(.*)$", value)
     if m:
         return m.group(1).strip(), m.group(2).strip(), m.group(3).strip()
@@ -99,7 +99,16 @@ def parse_name(value):
     return value.strip(), "", ""
 
 
-def convert(records, title=None, root=None):
+EVENT_TAGS = [
+    ("IMMI", "Immigration"), ("EMIG", "Emigration"), ("NATU", "Naturalization"),
+    ("CENS", "Census"), ("EDUC", "Education"), ("GRAD", "Graduation"),
+    ("MILI", "Military service"), ("_MILT", "Military service"), ("BAPM", "Baptism"),
+    ("CHR", "Christening"), ("CONF", "Confirmation"), ("RETI", "Retirement"),
+    ("PROB", "Probate"), ("WILL", "Will"), ("EVEN", None),
+]
+
+
+def convert(records):
     people, families, notes = [], [], {}
     for r in records:
         if r["tag"] == "NOTE" and r["xref"]:
@@ -108,7 +117,8 @@ def convert(records, title=None, root=None):
     def note_text(node):
         texts = []
         for n in children(node, "NOTE"):
-            texts.append(notes.get(n["value"].strip(), n["value"]) if n["value"].strip().startswith("@") else n["value"])
+            v = n["value"].strip()
+            texts.append(notes.get(v, v) if v.startswith("@") else n["value"])
         return "\n\n".join(t.strip() for t in texts if t.strip())
 
     for r in records:
@@ -118,50 +128,56 @@ def convert(records, title=None, root=None):
             given, surname, suffix = parse_name(name["value"]) if name else ("", "", "")
             if name:
                 g, s, ns = child(name, "GIVN"), child(name, "SURN"), child(name, "NSFX")
-                if g and g["value"]: given = g["value"].strip()
-                if s and s["value"]: surname = s["value"].strip()
-                if ns and ns["value"]: suffix = ns["value"].strip()
+                if g and g["value"].strip(): given = g["value"].strip()
+                if s and s["value"].strip(): surname = s["value"].strip()
+                if ns and ns["value"].strip(): suffix = ns["value"].strip()
                 nick = child(name, "NICK")
-                if nick and nick["value"]:
+                if nick and nick["value"].strip():
                     p["nickname"] = nick["value"].strip()
             p["given"], p["surname"] = given, surname
             if suffix:
                 p["suffix"] = suffix
             sex = child(r, "SEX")
-            p["sex"] = (sex["value"].strip().upper()[:1] if sex and sex["value"].strip() else "U")
+            p["sex"] = sex["value"].strip().upper()[:1] if sex and sex["value"].strip() else "U"
             if p["sex"] not in ("M", "F"):
                 p["sex"] = "U"
             for tag, key in (("BIRT", "birth"), ("DEAT", "death"), ("BURI", "burial")):
                 ev = event(r, tag)
                 if ev is not None:
                     p[key] = ev
-            occ = child(r, "OCCU")
-            if occ and occ["value"].strip():
-                p["occupation"] = occ["value"].strip()
+            occs = [o["value"].strip() for o in children(r, "OCCU") if o["value"].strip()]
+            if occs:
+                p["occupation"] = "; ".join(OrderedDict.fromkeys(occs))
+            residences = []
+            for res in children(r, "RESI"):
+                d, pl = child(res, "DATE"), child(res, "PLAC")
+                item = {}
+                if d and d["value"].strip(): item["date"] = d["value"].strip()
+                if pl and pl["value"].strip(): item["place"] = pl["value"].strip()
+                elif res["value"].strip(): item["place"] = res["value"].strip()
+                if item:
+                    residences.append(item)
+            if residences:
+                p["residences"] = residences
             extra = []
-            for tag, label in (("RESI", "Residence"), ("IMMI", "Immigration"), ("EMIG", "Emigration"),
-                               ("NATU", "Naturalization"), ("CENS", "Census"), ("EDUC", "Education"),
-                               ("GRAD", "Graduation"), ("MILI", "Military service"), ("BAPM", "Baptism"),
-                               ("CHR", "Christening"), ("EVEN", None)):
+            for tag, label in EVENT_TAGS:
                 for ev_node in children(r, tag):
-                    ev = {"type": "event", "title": label or (child(ev_node, "TYPE") or {"value": "Event"})["value"] or "Event"}
+                    typ = child(ev_node, "TYPE")
+                    ev = {"title": label or (typ["value"].strip() if typ and typ["value"].strip() else "Event")}
+                    if label and typ and typ["value"].strip():
+                        ev["title"] = typ["value"].strip()
                     d, pl = child(ev_node, "DATE"), child(ev_node, "PLAC")
-                    if d and d["value"]: ev["date"] = d["value"].strip()
-                    if pl and pl["value"]: ev["place"] = pl["value"].strip()
+                    if d and d["value"].strip(): ev["date"] = d["value"].strip()
+                    if pl and pl["value"].strip(): ev["place"] = pl["value"].strip()
                     if ev_node["value"].strip() and ev_node["value"].strip().upper() != "Y":
                         ev["description"] = ev_node["value"].strip()
-                    if "date" in ev or "place" in ev:
+                    if "date" in ev or "place" in ev or "description" in ev:
                         extra.append(ev)
             if extra:
                 p["events"] = extra
-            bio = note_text(r)
-            if bio:
-                p["bio"] = bio
-            obje = child(r, "OBJE")
-            if obje:
-                f = child(obje, "FILE")
-                if f and f["value"] and re.search(r"\.(jpe?g|png|gif|webp)$", f["value"], re.I):
-                    p["photo"] = "images/" + f["value"].replace("\\", "/").split("/")[-1]
+            note = note_text(r)
+            if note:
+                p["notes"] = note
             people.append(p)
         elif r["tag"] == "FAM":
             f = OrderedDict(id=clean_id(r["xref"]))
@@ -176,44 +192,21 @@ def convert(records, title=None, root=None):
                 f["divorce"] = d
             f["children"] = [clean_id(c["value"]) for c in children(r, "CHIL")]
             families.append(f)
-
-    head = next((r for r in records if r["tag"] == "HEAD"), None)
-    if not title:
-        surnames = {}
-        for p in people:
-            if p["surname"]:
-                surnames[p["surname"]] = surnames.get(p["surname"], 0) + 1
-        top = max(surnames, key=surnames.get) if surnames else "Our"
-        title = "The %s Family" % top
-    data = OrderedDict(title=title, subtitle="", rootPerson=clean_id(root) if root else (people[0]["id"] if people else ""),
-                       people=people, families=families, stories=[], photos=[])
-    return data
-
-
-HEADER = """/*
- * Family data file — generated from a GEDCOM export by scripts/gedcom_to_data.py.
- * You can edit this file by hand: add "bio", "photo", "stories" and "photos".
- * Re-running the script will overwrite it, so keep hand edits in a copy or in
- * your genealogy program's notes.
- */
-window.FAMILY_DATA = """
+    return people, families
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("gedcom", help="path to the .ged file")
-    ap.add_argument("-o", "--output", default="data/family.js", help="output file (default data/family.js)")
-    ap.add_argument("--title", help="site title, e.g. 'The Smith Family'")
-    ap.add_argument("--root", help="GEDCOM id of the home person, e.g. @I1@ or I1")
+    ap.add_argument("gedcom")
+    ap.add_argument("-o", "--output", default="data/tree.json")
     args = ap.parse_args()
-
-    records = build_tree(read_lines(args.gedcom))
-    data = convert(records, title=args.title, root=args.root)
+    people, families = convert(build_tree(read_lines(args.gedcom)))
+    data = OrderedDict(_comment="Generated by scripts/import_gedcom.py from %s. Do not hand-edit; put research in data/research/<id>.json." % args.gedcom.split("/")[-1],
+                       source=args.gedcom.split("/")[-1], people=people, families=families)
     with open(args.output, "w", encoding="utf-8") as fh:
-        fh.write(HEADER)
         json.dump(data, fh, ensure_ascii=False, indent=2)
-        fh.write(";\n")
-    print("Wrote %s: %d people, %d families" % (args.output, len(data["people"]), len(data["families"])), file=sys.stderr)
+        fh.write("\n")
+    print("Wrote %s: %d people, %d families. Now run: python3 scripts/build.py" % (args.output, len(people), len(families)), file=sys.stderr)
 
 
 if __name__ == "__main__":

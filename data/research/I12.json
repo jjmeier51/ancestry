@@ -1,0 +1,25 @@
+{
+  "id": "I12",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "funFacts": [],
+  "residences": [],
+  "military": [],
+  "notable": "",
+  "media": [
+    {
+      "file": "images/sample-cottage.svg",
+      "type": "photo",
+      "title": "The Sodus Bay cottage, nearly finished, 1940.",
+      "date": "1940",
+      "source": "Family collection"
+    }
+  ],
+  "sources": [],
+  "researchLog": []
+}

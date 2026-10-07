@@ -1,122 +1,89 @@
-# Family Ancestry Website
+# Meier Family Tree · meiertree.com
 
-A fast, private, dependency-free website for your family history and family
-tree. Everything is plain HTML, CSS and JavaScript, so it runs from a folder on
-your computer or from any static host such as GitHub Pages. There is no build
-step, no database and nothing to install.
+A fast, modern, mobile-first family-tree website. Plain HTML/CSS/JS with no
+build tooling: the whole site is static files, so it runs from a folder or from
+Vercel. The homepage is the interactive tree.
 
-## What's included
+## Features
 
-| Page | What it does |
-| --- | --- |
-| **Home** | Overview statistics, the home person with parents and grandparents, featured stories, earliest ancestors, surname cloud |
-| **Family Tree** | Interactive pedigree (ancestors) and descendant charts with pan, zoom and expandable generations; click anyone to re-centre the tree or open their profile |
-| **People** | Searchable, filterable directory of everyone in the file, grouped by surname, first name or decade of birth |
-| **Person** | Profile page: dates and places, biography, immediate family, grandparents, personal timeline, stories and photos, and a relationship calculator ("Emily is the great-granddaughter of Thomas") |
-| **Timeline** | Every dated birth, marriage, death, story and custom event, grouped by decade, with filters |
-| **Stories** | Long-form family stories linked to the people in them |
-| **Gallery** | Photographs with captions, dates and the people pictured; lightbox view |
+- **Tree homepage**: hourglass view (ancestors above, descendants below) of any
+  person, plus ancestors-only and descendants-only modes. Drag to pan, pinch or
+  scroll to zoom, double-tap to zoom in, tap `+` to reveal more generations.
+  Tap a person for a sheet with *View profile*, *View their tree* and quick
+  jumps to parents, spouse and children.
+- **Profiles**: dates, places lived, family, military service, noteworthy
+  facts, fun facts, stories, media and documents, sources, research log, and a
+  confidence badge showing how solid the link to you is
+  (confirmed / probable / possible / unverified). Includes a relationship
+  calculator ("James is the grandfather of Emily").
+- **People** directory with filters by surname, confidence and tags (military,
+  immigrant, artist, …). **Timeline** by decade. **Stories**. **Media** gallery.
+- Global search (`/` or ⌘K on desktop, magnifier on mobile).
+- Dark navy theme, iPhone-optimised layout with bottom tabs, safe-area support,
+  and "Add to Home Screen" support.
 
-Global search in the header works on every page. The design adapts to phones
-and to light/dark mode, and prints cleanly.
-
-## Quick start
-
-1. Open `index.html` in a browser. The site ships with a fictional sample
-   family (the Hartwells) so you can see how everything works.
-2. Replace the sample with your family. Either:
-   - **Import a GEDCOM file.** Export a `.ged` from Ancestry, FamilySearch,
-     MyHeritage, Gramps, RootsMagic, etc., then run:
-     ```sh
-     python3 scripts/gedcom_to_data.py path/to/export.ged -o data/family.js --title "The Smith Family" --root I1
-     ```
-   - **Or edit `data/family.js` by hand.** It is a readable JSON-style file;
-     the format is described below.
-3. Drop photographs into `images/` and reference them from the data file.
-4. Refresh the browser.
-
-## Publishing on GitHub Pages
-
-1. Push this repository to GitHub.
-2. On GitHub, open **Settings → Pages** and set **Source** to **GitHub Actions**.
-3. Every push to `main` now deploys automatically via
-   `.github/workflows/pages.yml`. Your site appears at
-   `https://<username>.github.io/<repository>/`.
-
-Because the data file is public once deployed, consider omitting exact birth
-dates and places for living relatives. The importer keeps whatever your
-genealogy program exported, so review `data/family.js` before publishing.
-
-## Data format
-
-`data/family.js` assigns one object to `window.FAMILY_DATA`:
-
-```js
-window.FAMILY_DATA = {
-  "title": "The Hartwell Family",
-  "subtitle": "Four generations, two continents, one family",
-  "rootPerson": "I23",                 // the "home person" for the tree and relationships
-  "people": [
-    {
-      "id": "I1",                        // unique; any string
-      "given": "Thomas", "surname": "Hartwell", "suffix": "", "nickname": "",
-      "sex": "M",                        // "M", "F" or "U"
-      "birth": { "date": "1872-03-14", "place": "Bridport, Dorset, England" },
-      "death": { "date": "1941-11-02", "place": "Rochester, New York, USA" },
-      "burial": { "date": "", "place": "" },      // optional
-      "occupation": "Blacksmith",                 // optional
-      "photo": "images/thomas.jpg",               // optional portrait
-      "bio": "Free text. Blank lines make paragraphs.",
-      "events": [                                 // optional extra events for the timeline
-        { "type": "event", "title": "Emigrated", "date": "1891", "place": "New York" }
-      ],
-      "facts": [ { "label": "Religion", "value": "Methodist" } ],   // optional extra rows
-      "sources": [ "1900 US Census", "Dorset parish register" ]      // optional
-    }
-  ],
-  "families": [
-    {
-      "id": "F1",
-      "husband": "I1", "wife": "I2",     // either may be omitted
-      "marriage": { "date": "1896-06-20", "place": "Rochester, New York, USA" },
-      "children": ["I3", "I4", "I5"]     // in birth order (the site re-sorts by birth date anyway)
-    }
-  ],
-  "stories": [
-    { "id": "S1", "title": "The Crossing", "date": "1896", "people": ["I1", "I2"],
-      "body": "Paragraphs separated by blank lines.", "image": "images/ship.jpg" }
-  ],
-  "photos": [
-    { "src": "images/forge.jpg", "caption": "The forge, about 1905.", "date": "ABT 1905", "people": ["I1"] }
-  ]
-};
-```
-
-**Dates** can be `YYYY-MM-DD`, `YYYY-MM`, `YYYY`, GEDCOM style (`14 MAR 1872`),
-or qualified (`ABT 1890`, `BEF 1900`, `AFT 1900`, `BET 1890 AND 1892`). Unknown
-dates can simply be left out.
-
-A person is treated as deceased if they have a `death` entry or were born more
-than 105 years ago.
-
-## Project layout
+## Data
 
 ```
-index.html, tree.html, people.html, person.html,
-timeline.html, stories.html, gallery.html     # pages
-css/style.css                                  # theme (light + dark)
-js/data.js      # data access, date parsing, relationship calculator
-js/ui.js        # header, search, person cards
-js/tree.js      # pedigree & descendant chart rendering
-js/*.js         # one script per page
-data/family.js  # YOUR FAMILY DATA
-images/         # photographs
-scripts/gedcom_to_data.py   # GEDCOM importer
-.github/workflows/pages.yml # GitHub Pages deployment
+data/source/        your GEDCOM export(s)               → never edited
+data/tree.json      core tree, generated from the GEDCOM → scripts/import_gedcom.py
+data/research/*.json  research per person (bio, facts, media, confidence…)
+data/stories.json   long-form stories
+data/site.json      title, root person, confidence definitions
+media/<id>/         photos and documents per person
+data/family.js      GENERATED bundle the site loads       → scripts/build.py
 ```
 
-## Customising
+### Import your GEDCOM
 
-- Colours and fonts are CSS variables at the top of `css/style.css`.
-- The navigation links are the `NAV` list in `js/ui.js`.
-- Node sizes and spacing for the tree are constants at the top of `js/tree.js`.
+```sh
+cp ~/Downloads/export.ged data/source/
+python3 scripts/import_gedcom.py data/source/export.ged
+python3 scripts/build.py
+```
+
+### Attach a photo or document to a person
+
+```sh
+python3 scripts/attach_media.py I12 ~/Downloads/1900-census.jpg \
+  --title "1900 US Census, Rochester NY" --date 1900 --type record --source FamilySearch
+python3 scripts/attach_media.py I12 portrait.jpg --portrait
+python3 scripts/attach_media.py I12 --url https://www.findagrave.com/memorial/123 --type link --title "Find a Grave"
+```
+
+The script copies the file into `media/<id>/`, records it in
+`data/research/<id>.json`, and rebuilds.
+
+### Edit research by hand
+
+Open `data/research/<id>.json` (schema in `CLAUDE.md`), then run
+`python3 scripts/build.py`.
+
+## Run locally
+
+```sh
+python3 -m http.server 8000
+# open http://localhost:8000
+```
+
+## Deploy on Vercel + meiertree.com
+
+1. Push this repo to GitHub (done).
+2. In Vercel: **Add New → Project → Import** the `ancestry` repository.
+   Framework preset: **Other**. Build command: *(leave empty)*. Output
+   directory: *(leave empty, the repo root is the site)*. Deploy.
+3. In the Vercel project: **Settings → Domains → Add** `meiertree.com` and
+   `www.meiertree.com`. Vercel shows the DNS records to add at your registrar:
+   an `A` record for `@` pointing to `76.76.21.21` and a `CNAME` for `www`
+   pointing to `cname.vercel-dns.com` (use the exact values Vercel displays).
+4. Every push to `main` deploys automatically; other branches get preview URLs.
+
+`vercel.json` sets caching for `media/` and `images/` and basic security
+headers. `.vercelignore` keeps source data and scripts out of the deployment
+(only the generated `data/family.js` ships).
+
+## Project memory
+
+`CLAUDE.md` documents the workflow for research sessions and `research/LOG.md`
+is the running log, so new findings are written into the repository and the
+site in the same step.

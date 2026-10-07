@@ -2,3 +2,6 @@
 Thumbs.db
 *.ged.bak
 node_modules/
+*.ged.bak
+__pycache__/
+.vercel

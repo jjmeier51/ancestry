@@ -1,0 +1,34 @@
+{
+  "id": "I13",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "tags": [
+    "historian"
+  ],
+  "summary": "",
+  "bio": "Alice never married and spent her career at the Rochester Public Library. She is the family's unofficial historian and the first to record these stories.",
+  "funFacts": [],
+  "residences": [],
+  "military": [],
+  "notable": "The family's unofficial historian; her fourteen notebooks are the basis of this site.",
+  "media": [
+    {
+      "file": "images/sample-cottage.svg",
+      "type": "photo",
+      "title": "The Sodus Bay cottage, nearly finished, 1940.",
+      "date": "1940",
+      "source": "Family collection"
+    },
+    {
+      "file": "images/sample-reunion.svg",
+      "type": "photo",
+      "title": "Family reunion at the cottage, summer 1995.",
+      "date": "1995",
+      "source": "Family collection"
+    }
+  ],
+  "sources": [],
+  "researchLog": []
+}

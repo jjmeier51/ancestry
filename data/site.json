@@ -1,0 +1,15 @@
+{
+  "title": "Meier Family Tree",
+  "shortTitle": "Meier Tree",
+  "tagline": "Our family, generation by generation",
+  "domain": "meiertree.com",
+  "rootPerson": "I23",
+  "owner": "I23",
+  "defaultGenerations": 4,
+  "confidenceLevels": {
+    "confirmed": { "label": "Confirmed", "description": "Link to me is documented by primary records (birth, marriage, census, DNA)." },
+    "probable": { "label": "Probable", "description": "Strong evidence from secondary sources; one more record would confirm it." },
+    "possible": { "label": "Possible", "description": "A reasonable guess from indirect evidence; treat with caution." },
+    "unverified": { "label": "Unverified", "description": "No research done yet beyond the imported tree." }
+  }
+}

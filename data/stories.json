@@ -1,0 +1,54 @@
+[
+  {
+    "id": "S1",
+    "title": "The Crossing",
+    "date": "1896",
+    "people": [
+      "I2",
+      "I1"
+    ],
+    "body": "Margaret Ellis sailed from Southampton on the SS Paris in May 1896 with one trunk, a sewing machine, and a wedding dress she had made herself. She was seasick for nine of the eleven days. Thomas met her at the pier in New York holding a sign with her name on it, because, as she later admitted, after three years of letters she was not entirely sure she would recognise him. They were married three weeks later."
+  },
+  {
+    "id": "S2",
+    "title": "The Biscuit Tin Letters",
+    "date": "1922–1958",
+    "people": [
+      "I4",
+      "I7",
+      "I8"
+    ],
+    "body": "When Karin Lindqvist married into the Hartwells, her mother Ingrid began a correspondence with Edith Hartwell that lasted thirty-six years. Ingrid wrote in Swedish; Edith replied in English; each had a neighbour translate. The letters, kept in a Huntley & Palmers biscuit tin, record births, deaths, recipes, the price of butter, and a long-running disagreement about the correct way to prepare herring."
+  },
+  {
+    "id": "S3",
+    "title": "Seven Summers at Sodus Bay",
+    "date": "1934–1941",
+    "people": [
+      "I3",
+      "I11",
+      "I12",
+      "I13"
+    ],
+    "body": "William Hartwell bought a lakeside lot in 1934 for $120 and spent every summer weekend for seven years building a cottage on it with his children as labourers. James mixed concrete, Ruth painted, and Alice, the youngest, was in charge of nails. The cottage is still in the family and has never had a right angle in it."
+  },
+  {
+    "id": "S4",
+    "title": "The Radio Operator",
+    "date": "1943–1945",
+    "people": [
+      "I11"
+    ],
+    "body": "James Hartwell enlisted at eighteen and trained as a radio operator. He served on a destroyer escort in the Pacific and rarely spoke about it, except to say that he had learned Morse code so thoroughly he still dreamed in it. His discharge papers and a photograph of his ship are in the gallery."
+  },
+  {
+    "id": "S5",
+    "title": "Aunt Alice's Notebooks",
+    "date": "1975–2018",
+    "people": [
+      "I13",
+      "I23"
+    ],
+    "body": "Alice Hartwell began writing down family stories in 1975 after her mother Karin's eightieth birthday party, when she realised nobody had recorded what the old people were saying. She filled fourteen notebooks over forty years. Her niece Emily inherited them in 2018 and built this website so that the stories would not stay in a drawer."
+  }
+]

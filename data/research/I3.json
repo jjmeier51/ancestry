@@ -1,0 +1,32 @@
+{
+  "id": "I3",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "The eldest of the Rochester Hartwells, William followed his father into metalwork and spent forty years at the same plant. He built the lake cottage at Sodus Bay by hand over seven summers.",
+  "funFacts": [],
+  "residences": [],
+  "military": [],
+  "notable": "",
+  "media": [
+    {
+      "file": "images/sample-wedding.svg",
+      "type": "photo",
+      "title": "William and Karin on their wedding day, Jamestown, 1922.",
+      "date": "1922-09-16",
+      "source": "Family collection"
+    },
+    {
+      "file": "images/sample-cottage.svg",
+      "type": "photo",
+      "title": "The Sodus Bay cottage, nearly finished, 1940.",
+      "date": "1940",
+      "source": "Family collection"
+    }
+  ],
+  "sources": [],
+  "researchLog": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "I23",
+  "link": {
+    "confidence": "confirmed",
+    "note": "This is me."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "Emily built this website. She started researching the family after inheriting Aunt Alice's notebooks.",
+  "funFacts": [],
+  "residences": [
+    {
+      "date": "1980–1998",
+      "place": "Rochester, New York"
+    },
+    {
+      "date": "1998–",
+      "place": "Brooklyn, New York"
+    }
+  ],
+  "military": [],
+  "notable": "",
+  "media": [
+    {
+      "file": "images/sample-reunion.svg",
+      "type": "photo",
+      "title": "Family reunion at the cottage, summer 1995.",
+      "date": "1995",
+      "source": "Family collection"
+    }
+  ],
+  "sources": [],
+  "researchLog": []
+}

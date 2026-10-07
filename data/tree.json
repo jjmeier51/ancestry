@@ -1,0 +1,433 @@
+{
+  "_comment": "Core tree data. Generated from GEDCOM by scripts/import_gedcom.py; do not hand-edit when a GEDCOM is the source of truth. Enrichment lives in data/research/<id>.json.",
+  "sample": true,
+  "people": [
+    {
+      "id": "I1",
+      "given": "Thomas",
+      "surname": "Hartwell",
+      "sex": "M",
+      "birth": {
+        "date": "1872-03-14",
+        "place": "Bridport, Dorset, England"
+      },
+      "death": {
+        "date": "1941-11-02",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Blacksmith, later machinist"
+    },
+    {
+      "id": "I2",
+      "given": "Margaret",
+      "surname": "Ellis",
+      "sex": "F",
+      "birth": {
+        "date": "1875-08-30",
+        "place": "Lyme Regis, Dorset, England"
+      },
+      "death": {
+        "date": "1950-01-19",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Dressmaker"
+    },
+    {
+      "id": "I3",
+      "given": "William Thomas",
+      "surname": "Hartwell",
+      "sex": "M",
+      "birth": {
+        "date": "1898-05-02",
+        "place": "Rochester, New York, USA"
+      },
+      "death": {
+        "date": "1967-09-21",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Tool and die maker"
+    },
+    {
+      "id": "I4",
+      "given": "Edith May",
+      "surname": "Hartwell",
+      "sex": "F",
+      "birth": {
+        "date": "1901-02-11",
+        "place": "Rochester, New York, USA"
+      },
+      "death": {
+        "date": "1989-06-05",
+        "place": "Buffalo, New York, USA"
+      },
+      "occupation": "Telephone operator"
+    },
+    {
+      "id": "I5",
+      "given": "Robert",
+      "surname": "Hartwell",
+      "sex": "M",
+      "birth": {
+        "date": "1905-12-01",
+        "place": "Rochester, New York, USA"
+      },
+      "death": {
+        "date": "1918-10-24",
+        "place": "Rochester, New York, USA"
+      }
+    },
+    {
+      "id": "I6",
+      "given": "Anders",
+      "surname": "Lindqvist",
+      "sex": "M",
+      "birth": {
+        "date": "1868-06-09",
+        "place": "Växjö, Småland, Sweden"
+      },
+      "death": {
+        "date": "1932-03-17",
+        "place": "Jamestown, New York, USA"
+      },
+      "occupation": "Cabinetmaker"
+    },
+    {
+      "id": "I7",
+      "given": "Ingrid",
+      "surname": "Berg",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1874",
+        "place": "Kalmar, Sweden"
+      },
+      "death": {
+        "date": "1958-04-28",
+        "place": "Jamestown, New York, USA"
+      }
+    },
+    {
+      "id": "I8",
+      "given": "Karin",
+      "surname": "Lindqvist",
+      "sex": "F",
+      "birth": {
+        "date": "1900-01-23",
+        "place": "Jamestown, New York, USA"
+      },
+      "death": {
+        "date": "1984-11-30",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Schoolteacher"
+    },
+    {
+      "id": "I9",
+      "given": "Erik",
+      "surname": "Lindqvist",
+      "sex": "M",
+      "birth": {
+        "date": "1903-09-15",
+        "place": "Jamestown, New York, USA"
+      },
+      "death": {
+        "date": "1979-02-08",
+        "place": "Jamestown, New York, USA"
+      },
+      "occupation": "Furniture maker"
+    },
+    {
+      "id": "I10",
+      "given": "Charles",
+      "surname": "Brennan",
+      "sex": "M",
+      "birth": {
+        "date": "1899-04-04",
+        "place": "Buffalo, New York, USA"
+      },
+      "death": {
+        "date": "1970-07-12",
+        "place": "Buffalo, New York, USA"
+      },
+      "occupation": "Railroad conductor"
+    },
+    {
+      "id": "I11",
+      "given": "James William",
+      "surname": "Hartwell",
+      "sex": "M",
+      "birth": {
+        "date": "1924-07-18",
+        "place": "Rochester, New York, USA"
+      },
+      "death": {
+        "date": "2001-03-03",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Engineer"
+    },
+    {
+      "id": "I12",
+      "given": "Ruth",
+      "surname": "Hartwell",
+      "sex": "F",
+      "birth": {
+        "date": "1927-10-05",
+        "place": "Rochester, New York, USA"
+      },
+      "death": {
+        "date": "2010-12-14",
+        "place": "San Diego, California, USA"
+      },
+      "occupation": "Nurse"
+    },
+    {
+      "id": "I13",
+      "given": "Alice",
+      "surname": "Hartwell",
+      "sex": "F",
+      "birth": {
+        "date": "1931-03-27",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Librarian"
+    },
+    {
+      "id": "I14",
+      "given": "Patrick",
+      "surname": "Brennan",
+      "sex": "M",
+      "birth": {
+        "date": "1926-11-20",
+        "place": "Buffalo, New York, USA"
+      },
+      "death": {
+        "date": "2003-05-09",
+        "place": "Buffalo, New York, USA"
+      }
+    },
+    {
+      "id": "I15",
+      "given": "Hazel",
+      "surname": "Moore",
+      "sex": "F",
+      "birth": {
+        "date": "1906-02-14",
+        "place": "Erie, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1990-08-21",
+        "place": "Jamestown, New York, USA"
+      }
+    },
+    {
+      "id": "I16",
+      "given": "Linnea",
+      "surname": "Lindqvist",
+      "sex": "F",
+      "birth": {
+        "date": "1930-06-30",
+        "place": "Jamestown, New York, USA"
+      }
+    },
+    {
+      "id": "I17",
+      "given": "Dorothy",
+      "surname": "Keane",
+      "sex": "F",
+      "birth": {
+        "date": "1927-01-09",
+        "place": "Syracuse, New York, USA"
+      },
+      "death": {
+        "date": "2015-04-17",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Bookkeeper"
+    },
+    {
+      "id": "I18",
+      "given": "Michael James",
+      "surname": "Hartwell",
+      "sex": "M",
+      "birth": {
+        "date": "1951-08-22",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "High school teacher"
+    },
+    {
+      "id": "I19",
+      "given": "Carol",
+      "surname": "Hartwell",
+      "sex": "F",
+      "birth": {
+        "date": "1955-04-11",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Architect"
+    },
+    {
+      "id": "I20",
+      "given": "Frank",
+      "surname": "Delgado",
+      "sex": "M",
+      "birth": {
+        "date": "1925-05-30",
+        "place": "San Diego, California, USA"
+      },
+      "death": {
+        "date": "1998-09-02",
+        "place": "San Diego, California, USA"
+      },
+      "occupation": "Navy machinist"
+    },
+    {
+      "id": "I21",
+      "given": "Maria",
+      "surname": "Delgado",
+      "sex": "F",
+      "birth": {
+        "date": "1952-12-19",
+        "place": "San Diego, California, USA"
+      }
+    },
+    {
+      "id": "I22",
+      "given": "Susan",
+      "surname": "Park",
+      "sex": "F",
+      "birth": {
+        "date": "1953-10-02",
+        "place": "Seoul, South Korea"
+      },
+      "occupation": "Pharmacist"
+    },
+    {
+      "id": "I23",
+      "given": "Emily",
+      "surname": "Hartwell",
+      "sex": "F",
+      "birth": {
+        "date": "1980-02-29",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Software developer"
+    },
+    {
+      "id": "I24",
+      "given": "Daniel",
+      "surname": "Hartwell",
+      "sex": "M",
+      "birth": {
+        "date": "1983-07-07",
+        "place": "Rochester, New York, USA"
+      },
+      "occupation": "Chef"
+    }
+  ],
+  "families": [
+    {
+      "id": "F1",
+      "husband": "I1",
+      "wife": "I2",
+      "marriage": {
+        "date": "1896-06-20",
+        "place": "Rochester, New York, USA"
+      },
+      "children": [
+        "I3",
+        "I4",
+        "I5"
+      ]
+    },
+    {
+      "id": "F2",
+      "husband": "I6",
+      "wife": "I7",
+      "marriage": {
+        "date": "1895-11-02",
+        "place": "Jamestown, New York, USA"
+      },
+      "children": [
+        "I8",
+        "I9"
+      ]
+    },
+    {
+      "id": "F3",
+      "husband": "I3",
+      "wife": "I8",
+      "marriage": {
+        "date": "1922-09-16",
+        "place": "Jamestown, New York, USA"
+      },
+      "children": [
+        "I11",
+        "I12",
+        "I13"
+      ]
+    },
+    {
+      "id": "F4",
+      "husband": "I10",
+      "wife": "I4",
+      "marriage": {
+        "date": "1924-05-10",
+        "place": "Buffalo, New York, USA"
+      },
+      "children": [
+        "I14"
+      ]
+    },
+    {
+      "id": "F5",
+      "husband": "I9",
+      "wife": "I15",
+      "marriage": {
+        "date": "1928-08-25",
+        "place": "Jamestown, New York, USA"
+      },
+      "children": [
+        "I16"
+      ]
+    },
+    {
+      "id": "F6",
+      "husband": "I11",
+      "wife": "I17",
+      "marriage": {
+        "date": "1949-06-11",
+        "place": "Rochester, New York, USA"
+      },
+      "children": [
+        "I18",
+        "I19"
+      ]
+    },
+    {
+      "id": "F7",
+      "husband": "I20",
+      "wife": "I12",
+      "marriage": {
+        "date": "1950-02-04",
+        "place": "San Diego, California, USA"
+      },
+      "children": [
+        "I21"
+      ]
+    },
+    {
+      "id": "F8",
+      "husband": "I18",
+      "wife": "I22",
+      "marriage": {
+        "date": "1978-10-14",
+        "place": "Rochester, New York, USA"
+      },
+      "children": [
+        "I23",
+        "I24"
+      ]
+    }
+  ]
+}
