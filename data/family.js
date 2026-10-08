@@ -11371,10 +11371,27 @@ window.FAMILY_DATA = {
      "source": "Find a Grave (cited on WikiTree Harrison-914)",
      "note": "",
      "url": "https://www.findagrave.com/memorial/8624/john_scott-harrison"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: John Scott Harrison",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "John Scott Harrison (October 4, 1804 – May 25, 1878) was an American politician who served as a member of the United States House of Representatives from Ohio from 1853 to 1857. Harrison was a son of U.S. president William Henry Harrison and First Lady Anna Harrison as well as the father of U.S. pre",
+     "url": "https://en.wikipedia.org/wiki/John_Scott_Harrison"
+    },
+    {
+     "type": "photo",
+     "title": "John Scott Harrison (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:JSHarrison.jpg",
+     "note": "http://www.presidentbenjaminharrison.org/Harrison/beninfo.htmlOriginally uploaded on en.wikipedia (Transferred by roseohioresident)",
+     "file": "media/I282695486894/john-scott-harrison-portrait.jpg"
     }
    ],
    "sources": [],
-   "researchLog": []
+   "researchLog": [],
+   "photo": "media/I282695486894/john-scott-harrison-portrait.jpg"
   },
   {
    "id": "I282695486911",
@@ -11546,6 +11563,22 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-5",
      "note": "",
      "file": "media/I282695486913/i282695486913-harrison-913-5.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Benjamin Harrison",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Benjamin Harrison (August 20, 1833 – March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia—a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison V, a Founding Father.",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Harrison"
+    },
+    {
+     "type": "photo",
+     "title": "Benjamin Harrison (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Benjamin_Harrison,_head_and_shoulders_bw_photo,_1896.jpg",
+     "note": "Pach Brothers",
+     "file": "media/I282695486913/benjamin-harrison-portrait.jpg"
     }
    ],
    "photo": "media/I282695486913/i282695486913-harrison-913-5.jpg"
@@ -11622,6 +11655,22 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Harrison-912; https://www.wikitree.com/photo/jpg/Harrison-912-10",
      "note": "",
      "file": "media/I282695486914/i282695486914-harrison-912-10.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: William Henry Harrison",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "William Henry Harrison (February 9, 1773 – April 4, 1841) was the ninth president of the United States from March to April 1841. He died 31 days into his term, making him the shortest serving president and the first president to die in office.",
+     "url": "https://en.wikipedia.org/wiki/William_Henry_Harrison"
+    },
+    {
+     "type": "photo",
+     "title": "William Henry Harrison (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:William_Henry_Harrison_by_James_Reid_Lambdin,_1835.jpg",
+     "note": "James Lambdin",
+     "file": "media/I282695486914/william-henry-harrison-portrait.jpg"
     }
    ],
    "photo": "media/I282695486914/i282695486914-harrison-912-10.jpg"
@@ -27185,6 +27234,14 @@ window.FAMILY_DATA = {
      "source": "WikiTree",
      "note": "Judson Edward LaMoure, 1839-03-27 – 1918-03-16",
      "url": "https://www.wikitree.com/wiki/LaMoure-17"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Judson LaMoure",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Judson LaMoure (March 27, 1839 – March 16, 1918) was one of the first men to serve in the North Dakota state legislature; he served in the State Senate as a Republican. The state towns of Jud, Judson, and LaMoure along with LaMoure County were named after him.",
+     "url": "https://en.wikipedia.org/wiki/Judson_LaMoure"
     }
    ]
   },
