@@ -68710,7 +68710,7 @@ window.FAMILY_DATA = {
     "date": "1969",
     "place": "Pennsylvania, USA"
    },
-   "nickname": "Terry",
+   "nickname": "Terri",
    "aka": [
     "Terri Meier",
     "Terry Meier",
