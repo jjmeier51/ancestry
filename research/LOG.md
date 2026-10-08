@@ -4,6 +4,18 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Jamie Meier at Waynewood Elementary
+
+- Owner's lead: Jamie was principal of Waynewood Elementary (Alexandria,
+  Fort Hunt). Confirmed: principal by Mar 2006 (Connection), Academic
+  Excellence Award four straight years to 2012 (Mount Vernon Gazette), Girl
+  Scout appreciation Jun 2011 (Patch), retired Jun 2017 after 31 years in
+  FCPS and 11 as principal (Covering the Corridor; successor Katie Reynolds,
+  Gazette Sep 2017), Waynewood Citizens Association Citizen of the Year
+  21 Feb 2018 (Patch: 30-mile commute from Chantilly, daily classroom
+  visits, crossing-guard duty). `M0014` bio, events, facts and six links
+  updated. Still unknown: his FCPS posts 1986–2006.
+
 ## 2026-10-08 — Deeper research on Thomas Sr. and his siblings
 
 - Owner's leads: Jamie (Chantilly VA, wife Marie, daughters Sarah and
