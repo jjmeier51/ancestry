@@ -129,7 +129,13 @@
       main.appendChild(container);
       main.scrollTop = 0; window.scrollTo(0, 0);
       const v = views[r.name] || views['404'];
-      current = v.render(container, r) || {};
+      try {
+        current = v.render(container, r) || {};
+      } catch (e) {
+        console.error('view failed to render', r, e);
+        container.appendChild(el('div', { class: 'wrap empty' }, [el('p', { class: 'muted', text: 'Part of this page could not be shown.' })]));
+        current = {};
+      }
       currentName = r.name;
       updateChrome(r);
     };

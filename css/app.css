@@ -253,6 +253,8 @@ body.has-banner .hud-top { top: 66px; }
 .log time { color: var(--accent-2); font-weight: 600; font-size: .8rem; }
 .rel-out { margin: 10px 0 0; font-weight: 600; }
 .col-side select { width: 100%; }
+.profile-foot { margin-top: 16px; }
+.profile-foot .research .sources li, .profile-foot .research .log li { max-width: 72ch; }
 
 /* ===== Timeline ===== */
 .timeline { position: relative; padding-left: 8px; margin-top: 10px; }

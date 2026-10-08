@@ -54,7 +54,8 @@
     "[R4-S10] Langley High School, staff directory (Wayback capture 21 Nov 2007): 'Meier, Thomas - Asst. Principal' (primary) https://web.archive.org/web/20071121031141/http://www.fcps.edu:80/LangleyHS/staff.html",
     "[R4-S11] Langley High School, Administrative Team (Wayback capture 31 Jan 2010): Thomas Meier, Grade 12, Foreign Language, Performing Arts, CTE, Cafe, Graduation; principal Matthew Ragone (primary) https://web.archive.org/web/20100131143154/http://www.fcps.edu:80/LangleyHS/admin.html",
     "[R4-S12] Langley High School administration page (Wayback capture 16 May 2015) - no Meier listed; staff photo files meier_sm.jpg (captured 2012) and tommymeier2013-2014.jpg (captured 2013) (primary) https://web.archive.org/web/20150516042456/http://www.fcps.edu:80/LangleyHS/assets/administration.html",
-    "[R4-S13] Herndon High School, alphabetical faculty list (Wayback capture 11 Oct 2004): 'Meier, Thomas F. - PE' (primary) https://web.archive.org/web/20041011113123/http://www.fcps.edu:80/HerndonHS/faculty/hrndfacalpha.htm"
+    "[R4-S13] Herndon High School, alphabetical faculty list (Wayback capture 11 Oct 2004): 'Meier, Thomas F. - PE' (primary) https://web.archive.org/web/20041011113123/http://www.fcps.edu:80/HerndonHS/faculty/hrndfacalpha.htm",
+    "East Stroudsburg University, 2018 Football Media Guide, yearly leaders and record lists (passing 1980: Tommy Meier 45-71, 521, 3 TD; scoring 1980: 7 TD, 42 pts; \"T. Meier (2), B. Nast (2) vs. Bloomsburg, 1980\"; long pass plays 58 and 55 yards): https://static.esuwarriors.com/custompages/Football/2018/2018%20ESU%20Football%20Media%20Guide.pdf"
   ],
   "handoff": {
     "section": "3.1 John and his parents",
@@ -109,6 +110,10 @@
     {
       "date": "2026-10-08",
       "note": "John: he is one of the winningest coaches in Virginia high-school history with over 100 career wins; wording set accordingly."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "ESU 2018 media guide (text extracted): 1980 passing 45-71, 521 yds, 3 TD; 1980 scoring 7 TD / 42 pts; two rushing TDs vs Bloomsburg 1980; long pass plays 58 (from Barry Kennedy at Central Conn.) and 55 (from Guy Braccia vs Cheyney). Lettermen list has only Tom (1978-80) and Jamie (1977-80) Meier: Jack did not letter at ESU."
     }
   ],
   "nickname": "Tommy",
@@ -257,6 +262,18 @@
       "date": "2007-2014",
       "place": "",
       "description": "Listed among Langley's new staff for 2007-08 ('Thomas Meier, Administration'). In Nov 2007 he was the 10th-grade administrator, supervising Career and Technical Education, Foreign Language, Performing Arts, the Library, Food Services, federal survey forms, the Human Relations Committee and the Safe Community Coalition. In Jan 2010 he was the Grade 12 administrator (Foreign Language, Performing Arts, CTE, cafeteria, graduation). Staff photos of him were posted in 2012 and for 2013-14; the 2015 administration page no longer lists him, consistent with retirement in 2014. [R4-S8] [R4-S9] [R4-S10] [R4-S11] [R4-S12]"
+    },
+    {
+      "title": "East Stroudsburg quarterback, 1980 season",
+      "date": "1980",
+      "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+      "description": "Completed 45 of 71 passes for 521 yards and three touchdowns, the Warriors' second passer behind Barry Kennedy, and scored seven touchdowns (42 points) to share the team scoring lead with kicker Scott Taylor. Ran for two touchdowns against Bloomsburg in 1980, one of the school's listed two-player two-touchdown rushing games."
+    },
+    {
+      "title": "Long pass plays in the East Stroudsburg record book",
+      "date": "1978–1980",
+      "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+      "description": "The record book's list of long pass plays credits him with a 58-yard catch from Barry Kennedy at Central Connecticut and a 55-yard catch from Guy Braccia against Cheyney."
     }
   ],
   "manual": true,
