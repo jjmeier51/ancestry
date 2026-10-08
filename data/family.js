@@ -16597,8 +16597,7 @@ window.FAMILY_DATA = {
     "[R4-S1] meiertree.com live data file family.js (people and families arrays), searched for her ID (derivative) https://www.meiertree.com/data/family.js"
    ],
    "bio": "Cassie Hayes was born in 1991. She is known only from a 2007 yearbook of Marshall High School in Marshall, Missouri, which carries two photographs of her, and she has no recorded parents, spouse or children. No branch of John's family is connected with Marshall, Missouri, and no kinship between her and the family is known.",
-   "summary": "Cassie Hayes, born 1991, known only from a 2007 Marshall High School yearbook in Marshall, Missouri; no kinship to John's family is known.",
-   "birthDateReduced": true
+   "summary": "Cassie Hayes, born 1991, known only from a 2007 Marshall High School yearbook in Marshall, Missouri; no kinship to John's family is known."
   },
   {
    "id": "I282695307188",
@@ -20546,8 +20545,7 @@ window.FAMILY_DATA = {
      "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864"
     }
    ],
-   "researchNotes": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives.\n\nround5: No death record or obituary for Mary (Cognetti) Petriello was found as of 8 Oct 2026: searches of the web, the Scranton Times-Tribune / Legacy indexes (via search engines), Echovita and the Solfanelli-Fiorillo funeral-home site turned up nothing after her husband's March 2025 obituary, which names her as surviving spouse 'Mary Cognetti Petriello' ([R4-S1]). She is therefore still presumed living. The Nov 2016 newspaper story on the 50th Cognetti family Thanksgiving ([R4-S2], already on the site) carried a staff photograph of Mary Petriello (83) and her brother Leo Cognetti (87) looking over the 186-name Cognetti family tree compiled by their niece Maria Cognetti (daughter of Joseph F. and Domenica Cognetti); the photo is copyrighted and was not downloaded.",
-   "birthDateReduced": true
+   "researchNotes": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives.\n\nround5: No death record or obituary for Mary (Cognetti) Petriello was found as of 8 Oct 2026: searches of the web, the Scranton Times-Tribune / Legacy indexes (via search engines), Echovita and the Solfanelli-Fiorillo funeral-home site turned up nothing after her husband's March 2025 obituary, which names her as surviving spouse 'Mary Cognetti Petriello' ([R4-S1]). She is therefore still presumed living. The Nov 2016 newspaper story on the 50th Cognetti family Thanksgiving ([R4-S2], already on the site) carried a staff photograph of Mary Petriello (83) and her brother Leo Cognetti (87) looking over the 186-name Cognetti family tree compiled by their niece Maria Cognetti (daughter of Joseph F. and Domenica Cognetti); the photo is copyrighted and was not downloaded."
   },
   {
    "id": "I282695503559",
@@ -67789,8 +67787,7 @@ window.FAMILY_DATA = {
     }
    ],
    "manual": true,
-   "bio": "Kathryn 'Kathy' Meier, the eldest of the eight Meier children, grew up in Levittown, Pennsylvania. She married Richard 'Rick' McGinley, and they have three children, Ryan, Daniel and Kate. The family lives near Doylestown in Bucks County.",
-   "birthDateReduced": true
+   "bio": "Kathryn 'Kathy' Meier, the eldest of the eight Meier children, grew up in Levittown, Pennsylvania. She married Richard 'Rick' McGinley, and they have three children, Ryan, Daniel and Kate. The family lives near Doylestown in Bucks County."
   },
   {
    "id": "M0013",
@@ -68141,8 +68138,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
-   "researchNotes": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019.\n\nround5: North Carolina State's football programmes from the Lou Holtz years confirm Danny's college career and tie him to Levittown. The 1974 roster lists \"*Dan Meier\", middle guard, 234 lb, of Levittown, Pa., where the asterisk marks one varsity letter already won. The 1975 roster lists \"**Dan Meier, Levittown, Pa.\" with two letters. The 1976 outlook names \"tackle Dan Meier\" among the chief losses from the 1975 team ([R4-S1], [R4-S2], [R4-S3]). He therefore lettered in 1973, 1974 and 1975, playing middle guard and tackle.\n\nAfter retiring as Robinson principal he kept stepping in as a stand-in principal. He was interim principal of Herndon High in autumn 2016, where he had once been director of counselling ([R4-S4]), and of Oakton High in spring 2017. There he told the student paper that he had been a football coach for 17 years, a history teacher, guidance counsellor, director of student services, assistant principal and principal of Rocky Run and Robinson, and that he had filled in at Herndon, Woodson, Madison and four or five middle schools ([R4-S5]). His sons' West Point athletic biographies call their parents \"Dan and Ann Meier\" and note that their father played football, as a defensive lineman, at North Carolina State ([R4-S7], [R4-S8]).",
-   "birthDateReduced": true
+   "researchNotes": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019.\n\nround5: North Carolina State's football programmes from the Lou Holtz years confirm Danny's college career and tie him to Levittown. The 1974 roster lists \"*Dan Meier\", middle guard, 234 lb, of Levittown, Pa., where the asterisk marks one varsity letter already won. The 1975 roster lists \"**Dan Meier, Levittown, Pa.\" with two letters. The 1976 outlook names \"tackle Dan Meier\" among the chief losses from the 1975 team ([R4-S1], [R4-S2], [R4-S3]). He therefore lettered in 1973, 1974 and 1975, playing middle guard and tackle.\n\nAfter retiring as Robinson principal he kept stepping in as a stand-in principal. He was interim principal of Herndon High in autumn 2016, where he had once been director of counselling ([R4-S4]), and of Oakton High in spring 2017. There he told the student paper that he had been a football coach for 17 years, a history teacher, guidance counsellor, director of student services, assistant principal and principal of Rocky Run and Robinson, and that he had filled in at Herndon, Woodson, Madison and four or five middle schools ([R4-S5]). His sons' West Point athletic biographies call their parents \"Dan and Ann Meier\" and note that their father played football, as a defensive lineman, at North Carolina State ([R4-S7], [R4-S8])."
   },
   {
    "id": "M0014",
@@ -68417,8 +68413,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
-   "researchNotes": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven (2006–17) as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running (2009–12), and he became known for visiting every classroom every day, knowing nearly every child by name and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.\n\nround5: An April 2013 neighbourhood guide to Alexandria, written for military families, singled out Waynewood Elementary's principal, \"Mr. Meier\", as one of the school's crossing guards who knew students and parents by name and was always out around the school ([R4-S1]). This is the same crossing-guard habit later cited when he was named Citizen of the Year in 2018.",
-   "birthDateReduced": true
+   "researchNotes": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven (2006–17) as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running (2009–12), and he became known for visiting every classroom every day, knowing nearly every child by name and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.\n\nround5: An April 2013 neighbourhood guide to Alexandria, written for military families, singled out Waynewood Elementary's principal, \"Mr. Meier\", as one of the school's crossing guards who knew students and parents by name and was always out around the school ([R4-S1]). This is the same crossing-guard habit later cited when he was named Citizen of the Year in 2018."
   },
   {
    "id": "M0015",
@@ -68476,8 +68471,7 @@ window.FAMILY_DATA = {
    "openQuestions": [
     "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names.",
     "Married surname unknown; no public source found naming her. John may know it, and it would unlock further searching."
-   ],
-   "birthDateReduced": true
+   ]
   },
   {
    "id": "M0016",
@@ -68562,8 +68556,7 @@ window.FAMILY_DATA = {
     }
    ],
    "manual": true,
-   "bio": "Nancy Meier grew up in Levittown, Pennsylvania, one of the eight children of James C. and Kathryn (McGuire) Meier and a younger sister of John's father, Tommy. She married Anthony 'Tony' Russo and they live in Doylestown, Bucks County, where they raised four children: Anthony Jr., Chelsea, Gianna and Emily.\n\nThe family's football line ran on through her son. Anthony Russo Jr., born in Doylestown in 1997, quarterbacked Archbishop Wood to Catholic League and state titles, set passing records at Temple University from 2018 to 2020, finished his college career at Michigan State and played professionally in 2023. His college bios name Nancy and Tony as his parents and note that his uncle Dan Meier played football at North Carolina State.",
-   "birthDateReduced": true
+   "bio": "Nancy Meier grew up in Levittown, Pennsylvania, one of the eight children of James C. and Kathryn (McGuire) Meier and a younger sister of John's father, Tommy. She married Anthony 'Tony' Russo and they live in Doylestown, Bucks County, where they raised four children: Anthony Jr., Chelsea, Gianna and Emily.\n\nThe family's football line ran on through her son. Anthony Russo Jr., born in Doylestown in 1997, quarterbacked Archbishop Wood to Catholic League and state titles, set passing records at Temple University from 2018 to 2020, finished his college career at Michigan State and played professionally in 2023. His college bios name Nancy and Tony as his parents and note that his uncle Dan Meier played football at North Carolina State."
   },
   {
    "id": "M0017",
@@ -68620,8 +68613,7 @@ window.FAMILY_DATA = {
    ],
    "openQuestions": [
     "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
-   ],
-   "birthDateReduced": true
+   ]
   },
   {
    "id": "M0018",
@@ -68703,8 +68695,7 @@ window.FAMILY_DATA = {
     }
    ],
    "manual": true,
-   "bio": "Theresa 'Terry' Meier, the youngest of the eight Meier children, grew up in Levittown, Pennsylvania. She married a Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in Yardley, Bucks County.",
-   "birthDateReduced": true
+   "bio": "Theresa 'Terry' Meier, the youngest of the eight Meier children, grew up in Levittown, Pennsylvania. She married a Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in Yardley, Bucks County."
   },
   {
    "id": "M0019",
@@ -69023,8 +69014,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
-   "bio": "Michael \"Mike\" Meier was born in 1989, the eldest child of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. He played football at Robinson Secondary School in Fairfax, where he was first-team all-district and all-region and was chosen for the Virginia state all-star game, and then went on to the United States Military Academy at West Point, where he majored in law.\n\nAt West Point he played sprint football, the version of the game for players under a weight limit. In 2010, his first season, he was named to the All-CSFL first team and led Army in rushing with 48.8 yards a game, 293 yards on 59 carries and five touchdowns; he scored in his first two games, at RPI and Mansfield, ran for 103 yards and a touchdown against Princeton and scored in the season-ending win at Navy that decided the league title. He wore No. 5 and was listed as a linebacker as a senior in 2011, when his brother Tim was also on the team. After graduating he served as Army's athletic intern, and by 2013 he was a second lieutenant in the US Army at Fort Sill, Oklahoma.",
-   "birthDateReduced": true
+   "bio": "Michael \"Mike\" Meier was born in 1989, the eldest child of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. He played football at Robinson Secondary School in Fairfax, where he was first-team all-district and all-region and was chosen for the Virginia state all-star game, and then went on to the United States Military Academy at West Point, where he majored in law.\n\nAt West Point he played sprint football, the version of the game for players under a weight limit. In 2010, his first season, he was named to the All-CSFL first team and led Army in rushing with 48.8 yards a game, 293 yards on 59 carries and five touchdowns; he scored in his first two games, at RPI and Mansfield, ran for 103 yards and a touchdown against Princeton and scored in the season-ending win at Navy that decided the league title. He wore No. 5 and was listed as a linebacker as a senior in 2011, when his brother Tim was also on the team. After graduating he served as Army's athletic intern, and by 2013 he was a second lieutenant in the US Army at Fort Sill, Oklahoma."
   },
   {
    "id": "M0024",
@@ -69136,8 +69126,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
-   "bio": "Timothy \"Tim\" Meier, known in the family as Timmy, was born in 1991, a son of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. At Robinson Secondary School he was a four-time letterwinner and three-year starter in football and a member of the National Honor Society; the highlight of his school career was an upset of Chantilly in the playoffs as a junior.\n\nHe entered West Point in 2009 and was the Army sprint football team's starting quarterback from his first season, when he averaged 118 passing and 63 rushing yards a game, threw 10 touchdown passes and was named second-team All-CSFL. He repeated as second-team All-CSFL in 2010, opening the season with 307 passing yards and three touchdowns at RPI and then running for a career-high 142 yards and three touchdowns in the league-title win at Navy, finishing just behind his older brother Mike in rushing average. In 2011, wearing No. 4, he played running back, quarterback, punter and kick returner and earned honourable mention. His team biography named his parents Dan and Ann Meier and his siblings Mike, Joe and Mary, noted that his father had been a defensive lineman at NC State, and recorded that his favourite athlete was Brett Favre and that he enjoyed skydiving and rollercoasters. He was still a West Point cadet in 2013.",
-   "birthDateReduced": true
+   "bio": "Timothy \"Tim\" Meier, known in the family as Timmy, was born in 1991, a son of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. At Robinson Secondary School he was a four-time letterwinner and three-year starter in football and a member of the National Honor Society; the highlight of his school career was an upset of Chantilly in the playoffs as a junior.\n\nHe entered West Point in 2009 and was the Army sprint football team's starting quarterback from his first season, when he averaged 118 passing and 63 rushing yards a game, threw 10 touchdown passes and was named second-team All-CSFL. He repeated as second-team All-CSFL in 2010, opening the season with 307 passing yards and three touchdowns at RPI and then running for a career-high 142 yards and three touchdowns in the league-title win at Navy, finishing just behind his older brother Mike in rushing average. In 2011, wearing No. 4, he played running back, quarterback, punter and kick returner and earned honourable mention. His team biography named his parents Dan and Ann Meier and his siblings Mike, Joe and Mary, noted that his father had been a defensive lineman at NC State, and recorded that his favourite athlete was Brett Favre and that he enjoyed skydiving and rollercoasters. He was still a West Point cadet in 2013."
   },
   {
    "id": "M0025",
@@ -69240,8 +69229,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
-   "bio": "Joseph Francis \"Joe\" Meier was born in 1993, a son of Danny and Annie Meier of Fairfax Station, Virginia, and John's first cousin. After Robinson Secondary School he followed his brothers Mike and Tim to West Point and onto the Army sprint football team, playing defensive end and wearing No. 51 as a sophomore in 2013. He graduated with the United States Military Academy Class of 2016 and was commissioned into the Field Artillery.",
-   "birthDateReduced": true
+   "bio": "Joseph Francis \"Joe\" Meier was born in 1993, a son of Danny and Annie Meier of Fairfax Station, Virginia, and John's first cousin. After Robinson Secondary School he followed his brothers Mike and Tim to West Point and onto the Army sprint football team, playing defensive end and wearing No. 51 as a sophomore in 2013. He graduated with the United States Military Academy Class of 2016 and was commissioned into the Field Artillery."
   },
   {
    "id": "M0026",
@@ -69305,8 +69293,7 @@ window.FAMILY_DATA = {
    "openQuestions": [
     "Music career after 2013 not found; she may perform under a married or stage name. The Spotify/SoundCloud \"Mary Meyer\" and Nashville \"Mair\" (Mary Meyer, from Missouri) are different people."
    ],
-   "bio": "Mary Meier was born in 1995, the youngest child and only daughter of Danny and Annie Meier, and John's first cousin. At Robinson Secondary School, where her father was principal, she sang in the choral programme; in November 2011 she told a preview of the Robinson Singers' Major Works Concert that the long rehearsals made her feel \"really accomplished\", and in 2012 she was one of three Robinson students chosen for the Virginia All-State Chorus, which performed that April at E.C. Glass High School in Lynchburg. She graduated from Robinson in 2013 planning a career in music.",
-   "birthDateReduced": true
+   "bio": "Mary Meier was born in 1995, the youngest child and only daughter of Danny and Annie Meier, and John's first cousin. At Robinson Secondary School, where her father was principal, she sang in the choral programme; in November 2011 she told a preview of the Robinson Singers' Major Works Concert that the long rehearsals made her feel \"really accomplished\", and in 2012 she was one of three Robinson students chosen for the Virginia All-State Chorus, which performed that April at E.C. Glass High School in Lynchburg. She graduated from Robinson in 2013 planning a career in music."
   },
   {
    "id": "M0027",
@@ -69809,8 +69796,7 @@ window.FAMILY_DATA = {
    ],
    "openQuestions": [
     "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
-   ],
-   "birthDateReduced": true
+   ]
   },
   {
    "id": "M0034",
@@ -69864,8 +69850,7 @@ window.FAMILY_DATA = {
    ],
    "openQuestions": [
     "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
-   ],
-   "birthDateReduced": true
+   ]
   },
   {
    "id": "M0035",
@@ -69916,8 +69901,7 @@ window.FAMILY_DATA = {
    ],
    "openQuestions": [
     "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
-   ],
-   "birthDateReduced": true
+   ]
   },
   {
    "id": "M0036",
