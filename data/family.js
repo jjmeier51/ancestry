@@ -4363,6 +4363,174 @@ window.FAMILY_DATA = {
    "lon": -76.23232,
    "label": "Huntington Township, Luzerne County, Pennsylvania, United States",
    "precision": "approximate"
+  },
+  "Frostburg, Allegany County, Maryland, USA": {
+   "lat": 39.65833,
+   "lon": -78.92842,
+   "label": "Frostburg, Allegany County, Maryland, 21532, United States",
+   "precision": "exact"
+  },
+  "Wise, Wise County, Virginia, USA": {
+   "lat": 36.97593,
+   "lon": -82.57571,
+   "label": "Wise, Wise County, Virginia, 24293, United States",
+   "precision": "exact"
+  },
+  "1217 [street not legible], Scranton, Pennsylvania (E.D. 79-22)": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1217 [street], Scranton": {
+   "lat": 41.40819,
+   "lon": -75.68675,
+   "label": "1217, North Rock Street, Hyde Park, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+   "precision": "exact"
+  },
+  "1219 Providence Rd, Scranton, Pennsylvania": {
+   "lat": 41.42891,
+   "lon": -75.66529,
+   "label": "1219, Providence Road, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+   "precision": "exact"
+  },
+  "1313 Short Ave, Scranton, Pennsylvania": {
+   "lat": 41.42995,
+   "lon": -75.66304,
+   "label": "1313, Short Avenue, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+   "precision": "exact"
+  },
+  "1506 Farr St, Scranton, Pennsylvania": {
+   "lat": 41.42596,
+   "lon": -75.67489,
+   "label": "1506, Farr Street, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+   "precision": "exact"
+  },
+  "1628 Farr St, Scranton": {
+   "lat": 41.42672,
+   "lon": -75.67644,
+   "label": "1628, Farr Street, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+   "precision": "exact"
+  },
+  "604 E. Drinker St, Dunmore, Pennsylvania": {
+   "lat": 41.41963,
+   "lon": -75.62106,
+   "label": "604, East Drinker Street, Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+   "precision": "exact"
+  },
+  "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "612 Philo St, Scranton, Pennsylvania": {
+   "lat": 41.42943,
+   "lon": -75.66223,
+   "label": "612, Philo Street, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+   "precision": "exact"
+  },
+  "At home, Exton, Chester County, Pennsylvania": {
+   "lat": 40.02998,
+   "lon": -75.62904,
+   "label": "Exton, West Whiteland Township, Chester County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Brutico's restaurant, Old Forge, Pennsylvania": {
+   "lat": 41.37119,
+   "lon": -75.73491,
+   "label": "Old Forge, Lackawanna County, Pennsylvania, 18518, United States",
+   "precision": "approximate"
+  },
+  "Chinchilla (South Abington Township), Lackawanna County, Pennsylvania": {
+   "lat": 41.47508,
+   "lon": -75.67713,
+   "label": "Chinchilla, South Abington Township, Lackawanna County, Pennsylvania, 18410, United States",
+   "precision": "exact"
+  },
+  "Dasà, Calabria, Italy": {
+   "lat": 38.56465,
+   "lon": 16.19494,
+   "label": "Dasà, Vibo Valentia, Calabria, 89832, Italy",
+   "precision": "exact"
+  },
+  "Drexel Hill, Delaware County, Pennsylvania": {
+   "lat": 39.94833,
+   "lon": -75.30689,
+   "label": "Drexel Hill, Garrettford, Upper Darby, Delaware County, Pennsylvania, 19026, United States",
+   "precision": "exact"
+  },
+  "Ellis Island, New York": {
+   "lat": 40.69859,
+   "lon": -74.04201,
+   "label": "Ellis Island, Manhattan, Communipaw, Jersey City, Hudson County, New Jersey, United States",
+   "precision": "exact"
+  },
+  "Glenmaura, Moosic, Lackawanna County, Pennsylvania": {
+   "lat": 41.34697,
+   "lon": -75.69543,
+   "label": "Glenmaura, Moosic, Lackawanna County, Pennsylvania, 18507, United States",
+   "precision": "exact"
+  },
+  "Hospice Inpatient Unit, Mercy Hospital, Scranton, Pennsylvania": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Old Forge, Lackawanna County, Pennsylvania": {
+   "lat": 41.37119,
+   "lon": -75.73491,
+   "label": "Old Forge, Lackawanna County, Pennsylvania, 18518, United States",
+   "precision": "exact"
+  },
+  "Paoli Hospital, Paoli, Chester County, Pennsylvania (residence Exton)": {
+   "lat": 40.04443,
+   "lon": -75.50202,
+   "label": "Paoli Hospital, 255, West Lancaster Avenue, Knickerbocker, Willistown Township, Chester County, Pennsylvania, 19301, United States",
+   "precision": "exact"
+  },
+  "Scranton (Local Board No. 2)": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Scranton, Lackawanna County, Pennsylvania (E.D. 79-23)": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Scranton, Pennsylvania (private interment)": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "St. Elizabeth Church, Chester Springs, Pennsylvania": {
+   "lat": 40.08912,
+   "lon": -75.69091,
+   "label": "Saint Elizabeth Catholic Church, 110, St. Elizabeth Drive, Byers, Eagle, Upper Uwchlan Township, Chester County, Pennsylvania, 19425, United States",
+   "precision": "exact"
+  },
+  "Strada Via Grande, Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy": {
+   "lat": 38.96684,
+   "lon": 16.32007,
+   "label": "Lamezia Terme-Nicastro, Via Timavo, Lamezia Terme, Catanzaro, Calabria, 88046, Italy",
+   "precision": "approximate"
+  },
+  "VNA Hospice, Community Medical Center, Scranton (residence Moosic), Pennsylvania": {
+   "lat": 41.4004,
+   "lon": -75.64667,
+   "label": "Geisinger Community Medical Center, 1800, Mulberry Street, Scranton, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "approximate"
+  },
+  "Vestal, Broome County, New York": {
+   "lat": 42.08507,
+   "lon": -76.05381,
+   "label": "Town of Vestal, Broome County, New York, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -20353,7 +20521,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "As father of Mary Cognetti and husband of Helen: confirmed by obituaries (Joseph F. 'son of the late Frank and Helen Cognetti'; Anthony R.; Leo S.) and census images 1920/1930/1950. His parentage (son of Giovanni Cognetta of Dasà) is only probable (tree only)."
+    "note": "As father of Mary Cognetti and husband of Helen: confirmed by obituaries (Joseph F. 'son of the late Frank and Helen Cognetti'; Anthony R.; Leo S.) and census images 1920/1930/1950. His parentage (son of Giovanni Cognetta of Dasà) stays probable: round 6 found a Giovanni Cognetta of Dasà with sons Nicola and Francesco on Ellis Island manifests, which supports the family's account, but identity with Frank of Scranton is not yet proven."
    },
    "occupation": "Coal-mine laborer (1920); hoisting engineer at a coal breaker (1930); mechanic (1940); conveyor-line repairman, coal mines (1950)",
    "aka": [
@@ -20363,7 +20531,7 @@ window.FAMILY_DATA = {
     "immigrant"
    ],
    "summary": "Italian-born Scranton coal-breaker hoisting engineer and conveyor repairman, husband of Helen Ferlaino; John's maternal great-grandfather.",
-   "bio": "Frank Cognetti, born Francesco Cognetta, was born in Italy between about 1890 and 1892, though some family records say 1892 or 1895, and family records name his parents as Giovanni Cognetta (1855-1930) and Mariarosa C. Lamanna, born 1863. He came to America in 1907 or 1908 and was in Scranton, Pennsylvania, by 1912 at the latest. There, in about 1912 or 1913, when he was 21 and she was 16, he married Helen Ferlaino; their first child, Ralph, was born in August 1913. He was John's maternal great-grandfather.\n\nIn January 1920 he was a coal-mine laborer, still an alien, living with Helen and their sons Ralph, Salvador and Joseph in the household of his widowed mother-in-law Josephine Ferlaino at 1306 Diamond Avenue. By 1930 he had become a citizen, worked as a hoisting engineer at a coal breaker and owned a home of his own at 612 Philo Street, near Diamond Avenue in Scranton's Second Ward, valued at $5,000. He was still there in 1940, when he was described as a mechanic, and in 1950, when he repaired conveyor lines in the coal mines. A son born in 1929, Leo S., appears in some records as Leopold, a name taken from Helen's father Leopoldo Ferlaino. The 'second wife, Philomena' that some trees attach to him is almost certainly Helen herself under her baptismal name, Maria Filomena, since every record shows Helen as the mother of all his children. Helen died in March 1965.\n\nHe was not the Frank Cognetti (1894-1978) of Scranton and Dunmore who came from Nicastro and married Maria Grazia Paradiso.",
+   "bio": "Frank Cognetti, born Francesco Cognetta, was born in Italy between about 1890 and 1892, though some family records say 1892 or 1895, and family records name his parents as Giovanni Cognetta (1855-1930) and Mariarosa C. Lamanna, born 1863. He came to America in 1907 or 1908 and was in Scranton, Pennsylvania, by 1912 at the latest. There, in about 1912 or 1913, when he was 21 and she was 16, he married Helen Ferlaino; their first child, Ralph, was born in August 1913. He was John's maternal great-grandfather.\n\nEllis Island's passenger lists hold no Francesco Cognetta of Dasà arriving in 1906 to 1909, the years Frank later gave to census takers, but they do show a small chain of Cognettas moving from Dasà to Stamford, Connecticut. In June 1905 a seventeen-year-old Francesco Cognetta of Dasà landed in New York on his way to his brother Nicola in Stamford, and in May 1910 that brother, Nicola Cognetta, 23, sailed back to Stamford to join his brother Francesco on Branch Street, naming as his nearest relative at home his father Giovanni of Dasà. A Giovanni Cognetta of Dasà with sons Nicola and Francesco fits the family's account of Frank's parentage, and the Francesco of 1905 may well be Frank, though he was two to four years older than Frank's census ages suggest and arrived earlier than 1907 or 1908; he may have gone home and come back. Whether that Francesco was the Frank who married Helen Ferlaino in Scranton is not proven.\n\nIn January 1920 he was a coal-mine laborer, still an alien, living with Helen and their sons Ralph, Salvador and Joseph in the household of his widowed mother-in-law Josephine Ferlaino at 1306 Diamond Avenue. By 1930 he had become a citizen, worked as a hoisting engineer at a coal breaker and owned a home of his own at 612 Philo Street, near Diamond Avenue in Scranton's Second Ward, valued at $5,000. He was still there in 1940, when he was described as a mechanic, and in 1950, when he repaired conveyor lines in the coal mines. A son born in 1929, Leo S., appears in some records as Leopold, a name taken from Helen's father Leopoldo Ferlaino. The 'second wife, Philomena' that some trees attach to him is almost certainly Helen herself under her baptismal name, Maria Filomena, since every record shows Helen as the mother of all his children. Helen died in March 1965.\n\nHe was not the Frank Cognetti (1894-1978) of Scranton and Dunmore who came from Nicastro and married Maria Grazia Paradiso. Frank was still living in Scranton in 1950; the date of his death is not known.",
    "events": [
     {
      "title": "Immigration",
@@ -20381,6 +20549,18 @@ window.FAMILY_DATA = {
      "date": "1951-1966",
      "place": "Pennsylvania",
      "description": "He does not appear in the state death-certificate indexes for 1951-1966, so he probably died in 1967 or later (or outside Pennsylvania). His wife Helen's death appears in March 1965. [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Candidate arrival (Francesco Cognetta of Dasà)",
+     "date": "1905-06-18",
+     "place": "Ellis Island, New York",
+     "description": "A Francesco Cognetta, 17 (b. c.1888), single peasant of Dasà, arrived on the Citta di Milano bound for Stamford, Connecticut, to join his brother Nicola. In May 1910 Nicola, son of Giovanni of Dasà, returned to Stamford to join 'brother Francesco, Branch St'. CANDIDATE only: age is 2-4 years older than Frank's census ages and the date is earlier than the 1907/1908 immigration years Frank gave. [R6-S1] [R6-S2] [R6-S3]"
+    },
+    {
+     "title": "Not in PA death index 1950",
+     "date": "1950",
+     "place": "Pennsylvania",
+     "description": "No Frank Cognetti/Cognetto in the 1950 PA death-certificate index (Soundex C253); together with round 4 this covers 1950-1966. [R6-S7]"
     }
    ],
    "facts": [
@@ -20408,7 +20588,16 @@ window.FAMILY_DATA = {
     "[R4-S1] Pennsylvania State Archives, death-certificate index (RG-11), 1965, C-D volume, p. 92 (PDF): COGNETTI, HELEN, 69, S ABTN T [South Abington Twp.], county 35, d. 03/14/65, file 027518, residence 35001. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
     "[R4-S2] Pennsylvania State Archives, death-certificate index PDFs, 1951-1966 (C/Co volumes), read page by page under Cognetti. (derivative) https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/vital-records/death-records",
     "[R4-S3] FamilySearch published tree, Frank Cognetti GJB1-P6Y (JSON), with relatives and attached sources. (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJB1-P6Y",
-    "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
+    "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R6-S1] Statue of Liberty-Ellis Island Foundation passenger index (FamilySearch-backed), record JF7W-PY9: Francesco 'Cagnetta', male, 17, single, last residence Dasa, b. c.1888, arrived Ellis Island 18 Jun 1905, SS Citta di Milano from Napoli (sailed 1 Jun 1905); NARA microfilm T715, roll 591, frame 82, line 26. Queried via the site's search service (arrival-search page; admin-ajax passenger_search_api / passenger_details_page). (derivative) https://www.statueofliberty.org/arrival-details/?id=JF7W-PY9",
+    "[R6-S2] List or Manifest of Alien Passengers, SS Citta di Milano, Napoli to New York, arr. June 1905, List 25, line 26 (image read): 'Cagnetta [Cognetta] Francesco', 17, m, single, peasant, can read and write, Italy/South Italian, last residence Dasa, final destination Stamford [Conn.], ticket no, paid by self, $12, never before in US, going to join 'brother Nicola, Stamford Co[nn].' NARA T715 roll 591 frame 82 (FamilySearch image 3:1:33S7-91J1-8H5). (primary) https://www.familysearch.org/ark:/61903/3:1:33S7-91J1-8H5",
+    "[R6-S3] List or Manifest of Alien Passengers, SS Regina d'Italia, Napoli 19 Apr 1910, arr. New York 2 May 1910, List 141, line 15 (images read, both pages): 'Cognetta Nicola', 23, m, single, last residence Dasa; nearest relative in Italy 'father Giovanni, Dasa'; destination Stamford, Conn.; previously in the US (col. 17: 'yes', '04/09', 'Conn'); going to join 'brother Francesco, 3 [?] Branch St' [Stamford]. NARA T715 roll 1468 frames 645-646. Index record JJNS-FNT (b. c.1887). (primary) https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+    "[R6-S4] List or Manifest of Alien Passengers, SS Citta di Napoli, Napoli 18 Nov 1903, arr. New York 3 Dec 1903, List R, line 21 (image read): 'Cognetta Nicola', 17, m, single, shoemaker(?), reads yes; residence ditto 'Rosa' [index; probably a misreading of Dasa]; destination Stamford Conn.; to cousin '... Box 530'. Index record JFYR-8MQ (b. c.1886). (primary) https://www.familysearch.org/ark:/61903/3:1:33S7-L161-VSK",
+    "[R6-S5] List or Manifest of Alien Passengers, SS Europa, Napoli 29 Jan 1908, arr. New York 11 Feb 1908, line 26 (image read): 'Cugnetto Francesco', 17, m, single, peasant, last residence Catanzaro / Nicastro, nearest relative 'father Raffaele, Nicastro', destination N.Y., Utica. Index record JXG8-GWT (b. c.1891), NARA T715 roll 1076 frame 85. (primary) https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95R-H9R4-K",
+    "[R6-S6] Statue of Liberty-Ellis Island Foundation passenger index, surname searches 1892-1925 for Cognetta, Cognetti, Cognetto, Cugnetta, Cugnetto, Cugnetti, Coguetta, Cagnetta, Conetta, Cognata, Gagnetta (and first-name Francesco/Frank searches 1904-1940), plus residence-filtered searches for Dasa/Dasà/Daso. (derivative) https://www.statueofliberty.org/arrival-search/",
+    "[R6-S7] Pennsylvania State Archives, death-certificate index 1950, C(000)-D(662) volume, Soundex C253 (p. 273 of the volume): A-M given names list Anthony Cognetto (Greensburg) and Michelina Cagnetti but no Frank Cognetti/Cognetto. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1950/D-50%20C(000)-D(662).pdf",
+    "[R6-S8] FamilySearch published tree, Frank Cognetti GJB1-P6Y (JSON), re-checked: still no parents, no death, no draft card or naturalization attached; attached sources = 1950 census 6X1W-37K9, Lackawanna marriage records VF7X-JLJ and VF7J-VGZ. (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJB1-P6Y",
+    "[R6-S9] FamilySearch published tree, Frank Cognetti P7MS-NB2 (the Nicastro Frank, H0381) and his parents Bruno Cognetto GV9T-HLM and Rosa GV9T-7DG, siblings GH1F-J7T, GKXW-NPF (JSON). (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/P7MS-NB2"
    ],
    "mediaKnown": [
     "1920, 1930, 1950 census images (FamilySearch published sources)"
@@ -20419,7 +20608,10 @@ window.FAMILY_DATA = {
     "Link to Giovanni Cognetta (probable, tree only)",
     "Marriage license c.1912-13 (Lackawanna Co. Orphans' Court)",
     "Death 1967 or later: check the SSDI (Frank Cognetti, b. c.1890-92, last residence Scranton 18505) and the Scranton Times obituary index.",
-    "Immigration 1907: manifest still not found (Ellis Island/Steve Morse are blocked); search Francesco Cognetta, age c.15, destination Scranton."
+    "Was Frank in Stamford, CT, c.1905-1910? Check the 1910 census of Stamford (Branch St) for Francesco/Frank Cognetta and Nicola Cognetta.",
+    "WWI draft card (Lackawanna County, 5 Jun 1917): its birth date and birthplace would test the Dasà/1888 candidate. FamilySearch record search is blocked (401). The Nicastro Frank's card is K6VD-FMF, so look for a second card.",
+    "Death: not in PA indexes 1950-1966. Check whether Helen was a widow in 1965 (her death certificate, file 027518) and search outside PA (Stamford CT?) and the SSDI.",
+    "From the scranton_family worker (PA death indexes, not checked by me): Giuseppe Cognetto, Scranton, d. 2 Aug 1922 (file 79110); Salvatore Cognetti, Scranton, d. 9 Sep 1938 (file 80521); Frances Cognetti, Scranton, d. 24 Feb 1939 (file 16802). These are not Frank and Helen's children; any could be a Cognetta relative of Frank (or of the Nicastro family). Their death certificates would name parents and birthplaces."
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -20448,6 +20640,25 @@ window.FAMILY_DATA = {
      "people": [
       "I282695503581"
      ]
+    },
+    {
+     "file": "media/I282695503559/manifest-1905-06-18-citta-di-milano-francesco-cognetta-dasa.jpg",
+     "type": "record",
+     "title": "1905 Ellis Island manifest: Francesco Cognetta of Dasà, 17, to brother Nicola in Stamford",
+     "date": "1905-06-18",
+     "source": "NARA microfilm T715 roll 591 (via FamilySearch / Statue of Liberty-Ellis Island Foundation), public_domain",
+     "note": "US government record created 1905 (Immigration Service), public domain. Line 26. Identity with Frank of Scranton is a candidate, not proven.",
+     "people": [],
+     "url": "https://www.statueofliberty.org/arrival-details/?id=JF7W-PY9"
+    },
+    {
+     "url": "https://www.statueofliberty.org/arrival-details/?id=JXG8-GWT",
+     "type": "link",
+     "title": "1908 Ellis Island manifest: Francesco Cugnetto of Nicastro, son of Raffaele (rejected candidate)",
+     "date": "1908-02-11",
+     "source": "NARA microfilm T715 roll 1076, public_domain",
+     "note": "Not downloaded to the media folder because it is probably NOT our Frank (father Raffaele, bound for Utica). Kept for John's judgment. (not downloaded: rights public_domain)",
+     "people": []
     }
    ],
    "researchLog": [
@@ -20478,6 +20689,30 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence confirmed → keep confirmed; keep parentage at probable: The new manifests show a Giovanni Cognetta of Dasà with sons Nicola and Francesco, which supports the tree, but identity with Frank of Scranton is not yet proven."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Immigration 1907: manifest still not found (Ellis Island/Steve Morse are blocked); search Francesco Cognetta, age c.15, destination Scranton. → Partly. The Ellis Island index is now reachable through statueofliberty.org. There is no Dasà Francesco Cognetta arrival in 1906-09. The only Dasà Francesco Cognetta was the 1905 arrival to Stamford (brother of Nicola, son of Giovanni), a candidate. The 1908 Nicastro Francesco Cugnetto, son of Raffaele, bound for Utica, is probably not him."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ellis Island index (statueofliberty.org) 1904-1940, first name Francesco/Frank with surnames Cognetta, Cognetti, Cagnetta, Cognata, Cugnata, Cognitto, Conetta, Gagnetta, Cagnatta: no Dasà Francesco 1906-09, no Scranton-bound Cognetta; PA death index 1950 C253 (no Frank Cognetti/Cognetto); FamilySearch published tree GJB1-P6Y re-checked: no new attachments; FamilySearch record search API (service/search/hr): 401 blocked; jewishgen/Steve Morse Ellis Island gold form: redirects to error page; NARA catalog API: requires key/HTML only; sortedbyname.com SSDI pages: 403; WebSearch: \"Frank Cognetti\" Scranton 1890-92 death Social Security (no hits); fold3 Cognetti SSDI (no hits); \"Cognetta\" Scranton (only Paige Cognetti, living, ignored); WikiTree API: only Cognetti-1 (Ralph A.), no Frank"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: Ellis Island index reached via statueofliberty.org; found Dasà Cognetta chain migration to Stamford, CT, with a Francesco Cognetta of Dasà (b. c.1888, arr. 1905) whose brother Nicola was son of Giovanni of Dasà (1910 manifest), a candidate for Frank; rejected 1908 Nicastro Francesco (son of Raffaele); PA death index 1950 negative."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503559.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
    "conflicts": [
@@ -20486,9 +20721,24 @@ window.FAMILY_DATA = {
      "site": "Two wives: Helen Ferlaino (I282695503581) and Filomena Ferlaino (I282695503686)",
      "found": "Helen's baptismal name was Maria Filomena (Philumena) Ferlaino, b. 8 Oct 1894, San Mango d'Aquino",
      "assessment": "Probable duplicate: merge Filomena into Helen. Frank had one wife."
+    },
+    {
+     "field": "immigration",
+     "site": "1907 (1930 census) / 1908 (1920 census)",
+     "found": "Candidate Dasà arrival 18 Jun 1905 (Francesco Cognetta, 17)",
+     "assessment": "Unresolved. If the 1905 Francesco is Frank, the census years would reflect a later re-entry, or the census years are wrong. No 1906-09 Dasà Cognetta arrival was found."
+    },
+    {
+     "field": "birth.date",
+     "site": "BET 1890 AND 1892",
+     "found": "c.1888 (age 17 in June 1905, candidate only)",
+     "assessment": "Do not change the site's date unless the identity is proved (WWI or WWII draft card, or naturalization)."
     }
    ],
-   "researchNotes": "Tree: Frank Cognetti (b. 1895), husband of Helen (b. 1896), son of Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863). FS tree GJB1-P6Y: born 1892, immigrated 1907. Census evidence (images read): age 29 in Jan 1920, 38 in Apr 1930, 59 in Apr 1950, so born in Italy c.1890-92 (the tree's 1895 is too late). Immigrated 1907 (1930 census) or 1908 (1920). Alien in 1920; naturalized by 1930. Married Helen c.1912-13 when he was 21 and she 16 (1930 census ages at first marriage); first child Ralph born Aug 1913, so he was in Scranton by 1912 at the latest (Round 1 said by 1913). In the 1920 census (Scranton Ward 2, ED 105, sheet 2A, enumerated 2-3 Jan 1920) he is listed as a 'boarder' (in effect son-in-law), 29, married, born Italy, alien, coal-mine laborer, in the household of his widowed mother-in-law Josephine 'Farino' (Ferlaino) at 1306 Diamond Avenue, with his sons Ralf, Salvador and Joseph listed as grandsons. Occupations: coal-mine laborer (1920); hoisting engineer at a coal breaker (1930); 'mechanic' (son Ralph's 1940 marriage license); repairs conveyor line, coal mines (1950). Home: 612 Philo St, Scranton (Ward 2, near Diamond Ave), owned, valued at $5,000 in 1930; still there in 1940-50 (1940 and 1943 licenses). Birthplace (comune) not found: no WWI or WWII draft card reachable; FS has no draft card or naturalization attached. The FS tree attaches a second wife 'Philomena' to him with no sources (she appears only as Leopold's mother); every census and license shows Helen as mother of all the children, so this is probably an error (or Helen's Italian name - speculative). DO NOT MERGE with the other Scranton/Dunmore Frank Cognetti (1894-1978) from Nicastro, son of Bruno Cognetto, husband of Maria Grazia Paradiso (FS P7MS-NB2), nor with 'Frank and Mary Grace Paradise Cognetti', parents of Victor L. Cognetti (same Nicastro family). Caution on Dasà: Dasà's emigrants went mainly to Stamford, CT; paese.app records no Cognetta/Cognetti arrival from Dasà (Calabrian Cognetti arrivals 1830-1912 came from Cropani, CZ, 4 people); an FS-tree Vincenzo Cognetta (1891-1958) married at Laureana di Borrello in 1914 (GD4C-85X), about 20 km from Dasà. Web searches for his death or naturalization found nothing; his death date is not recorded in the files.\n\nA full pass through the Pennsylvania death-certificate indexes for 1951 through 1966 found no entry for Frank Cognetti, although his wife Helen appears in March 1965 ([R4-S1], [R4-S2]). Since he was alive for the April 1950 census, his death most likely falls in 1967 or later, which the online PDF indexes do not cover, or occurred outside Pennsylvania. His published FamilySearch profile (GJB1-P6Y) carries only three record attachments: the 1950 census and the 1940 and 1943 marriage licenses of sons Ralph and Sal, both already known. It names no parents and has no draft card, naturalization or death record ([R4-S3]). The same profile shows his son Leo S. as 'Leopold' (b. 19 May 1929), a name taken from Helen's father Leopoldo Ferlaino. In the San Mango d'Aquino baptism register, the only child of Leopoldo Ferlaino and Giuseppina Fiorillo is Maria Filomena, born 8 October 1894 (see Helen's file). The second wife 'Philomena' that FamilySearch and the site attach to Frank is therefore almost certainly Helen herself under her baptismal name, not a second marriage."
+   "researchNotes": "Tree: Frank Cognetti (b. 1895), husband of Helen (b. 1896), son of Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863). FS tree GJB1-P6Y: born 1892, immigrated 1907. Census evidence (images read): age 29 in Jan 1920, 38 in Apr 1930, 59 in Apr 1950, so born in Italy c.1890-92 (the tree's 1895 is too late). Immigrated 1907 (1930 census) or 1908 (1920). Alien in 1920; naturalized by 1930. Married Helen c.1912-13 when he was 21 and she 16 (1930 census ages at first marriage); first child Ralph born Aug 1913, so he was in Scranton by 1912 at the latest (Round 1 said by 1913). In the 1920 census (Scranton Ward 2, ED 105, sheet 2A, enumerated 2-3 Jan 1920) he is listed as a 'boarder' (in effect son-in-law), 29, married, born Italy, alien, coal-mine laborer, in the household of his widowed mother-in-law Josephine 'Farino' (Ferlaino) at 1306 Diamond Avenue, with his sons Ralf, Salvador and Joseph listed as grandsons. Occupations: coal-mine laborer (1920); hoisting engineer at a coal breaker (1930); 'mechanic' (son Ralph's 1940 marriage license); repairs conveyor line, coal mines (1950). Home: 612 Philo St, Scranton (Ward 2, near Diamond Ave), owned, valued at $5,000 in 1930; still there in 1940-50 (1940 and 1943 licenses). Birthplace (comune) not found: no WWI or WWII draft card reachable; FS has no draft card or naturalization attached. The FS tree attaches a second wife 'Philomena' to him with no sources (she appears only as Leopold's mother); every census and license shows Helen as mother of all the children, so this is probably an error (or Helen's Italian name - speculative). DO NOT MERGE with the other Scranton/Dunmore Frank Cognetti (1894-1978) from Nicastro, son of Bruno Cognetto, husband of Maria Grazia Paradiso (FS P7MS-NB2), nor with 'Frank and Mary Grace Paradise Cognetti', parents of Victor L. Cognetti (same Nicastro family). Caution on Dasà: Dasà's emigrants went mainly to Stamford, CT; paese.app records no Cognetta/Cognetti arrival from Dasà (Calabrian Cognetti arrivals 1830-1912 came from Cropani, CZ, 4 people); an FS-tree Vincenzo Cognetta (1891-1958) married at Laureana di Borrello in 1914 (GD4C-85X), about 20 km from Dasà. Web searches for his death or naturalization found nothing; his death date is not recorded in the files.\n\nA full pass through the Pennsylvania death-certificate indexes for 1951 through 1966 found no entry for Frank Cognetti, although his wife Helen appears in March 1965 ([R6-S1], [R6-S2]). Since he was alive for the April 1950 census, his death most likely falls in 1967 or later, which the online PDF indexes do not cover, or occurred outside Pennsylvania. His published FamilySearch profile (GJB1-P6Y) carries only three record attachments: the 1950 census and the 1940 and 1943 marriage licenses of sons Ralph and Sal, both already known. It names no parents and has no draft card, naturalization or death record ([R6-S3]). The same profile shows his son Leo S. as 'Leopold' (b. 19 May 1929), a name taken from Helen's father Leopoldo Ferlaino. In the San Mango d'Aquino baptism register, the only child of Leopoldo Ferlaino and Giuseppina Fiorillo is Maria Filomena, born 8 October 1894 (see Helen's file). The second wife 'Philomena' that FamilySearch and the site attach to Frank is therefore almost certainly Helen herself under her baptismal name, not a second marriage.\n\nRound 6: The Ellis Island passenger index, searched under every spelling of the name, contains no Francesco Cognetta of Dasà arriving in 1906-1909, the years Frank later gave to census takers. It does show a small chain migration of Cognettas from Dasà to Stamford, Connecticut ([R6-S6]). In June 1905 a 17-year-old Francesco Cognetta of Dasà landed in New York on his way to his brother Nicola in Stamford ([R6-S1], [R6-S2]). In May 1910 that brother, Nicola Cognetta, 23, whose nearest relative at home was his 'father Giovanni, Dasà', sailed back to Stamford to join his 'brother Francesco' on Branch Street ([R6-S3]). So a Giovanni Cognetta of Dasà had sons named Nicola and Francesco, which fits the family tree's claim that Frank was the son of Giovanni Cognetta of Dasà and grandson of Nicola. Whether that Francesco is the Frank who married Helen Ferlaino in Scranton around 1912 is not proven. He was about two to four years older than Frank's census ages suggest, and he arrived in 1905, not 1907 or 1908. He may, however, have gone home and come back.\n\nThe best-looking alternative, a Francesco Cugnetto, 17, who arrived on the Europa on 11 February 1908, can be set aside. He was the son of Raffaele of Nicastro and was bound for Utica, New York ([R6-S5]). Nothing in the records ties Frank to the Nicastro Cognetto family of the other Scranton Frank (H0381), whose father was Bruno ([R6-S9]). The 1950 Pennsylvania death index also has no Frank Cognetti ([R6-S7]), so his death is now unaccounted for in Pennsylvania from 1950 to 1966.",
+   "funFacts": [
+    "Dasà's emigrants went overwhelmingly to Stamford, Connecticut: every Dasà Cognetta found at Ellis Island between 1903 and 1916 was bound there, among them shoemakers named Nicola and Francesco."
+   ]
   },
   {
    "id": "I282695503581",
@@ -20515,6 +20765,21 @@ window.FAMILY_DATA = {
     {
      "date": "1950",
      "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+     "date": "1930-04",
+     "place": "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania",
+     "note": "House owned by the family, valued at $5,000 [R6-S1]"
+    },
+    {
+     "date": "1940-04",
+     "place": "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania",
+     "note": "Owned, valued at $3,000; same house in 1935 [R6-S2]"
+    },
+    {
+     "date": "1950-04",
+     "place": "Scranton, Lackawanna County, Pennsylvania (E.D. 79-23)",
+     "note": "Keeping house, aged 55 [R6-S3]"
     }
    ],
    "citations": [
@@ -20547,7 +20812,7 @@ window.FAMILY_DATA = {
     "immigrant"
    ],
    "summary": "Born Maria Filomena at San Mango d'Aquino in Calabria, she came to Scranton as a child and married Frank Cognetti; John's maternal great-grandmother.",
-   "bio": "Helen Ferlaino was born at San Mango d'Aquino in Catanzaro, Calabria, on 8 October 1894 and was baptized the next day in the parish of San Tommaso d'Aquino as Maria Filomena, the daughter of Leopoldo Ferlaino (1871-1915) and Giuseppina Fiorillo (1871-1943); her godmother was Saveria Sacco. She was the couple's only child recorded in the San Mango registers. Helen was the name she used in America, and records that list a Filomena Ferlaino as Frank Cognetti's wife refer to the same woman under her baptismal name.\n\nShe emigrated to the United States with her mother in 1900 or 1901 and married Frank Cognetti of Scranton at about sixteen, around 1912 or 1913. In January 1920 the family were living at 1306 Diamond Avenue in Scranton, the home of her widowed mother Josephine, who owned the house outright and took in boarders from San Mango; also there were Helen's brother Frank, a 17-year-old coal-mine laborer, her sister Raffaela, her husband, and her sons Ralph, Salvatore and Joseph. Another son was named Leopold Salvatore after her father. The census taker wrote the whole household's surname as Farino, and that spelling, or Farina, followed her through later American records, including her sons' marriage licences and a 2008 obituary that called her Helen Farina Cognetti; her baptism shows she was born a Ferlaino.\n\nBy 1930 the family had moved to Philo Street in Scranton, where she was still living in 1950; in 1942 she was named as next of kin on her son Anthony's draft card. She died on 14 March 1965, aged 69, in South Abington Township, Lackawanna County, while a resident of Scranton. She was John's maternal great-grandmother.",
+   "bio": "Helen Ferlaino was born at San Mango d'Aquino in Catanzaro, Calabria, on 8 October 1894 and was baptized the next day in the parish of San Tommaso d'Aquino as Maria Filomena, the daughter of Leopoldo Ferlaino (1871-1915) and Giuseppina Fiorillo (1871-1943); her godmother was Saveria Sacco. She was the couple's only child recorded in the San Mango registers. Helen was the name she used in America, and records that list a Filomena Ferlaino as Frank Cognetti's wife refer to the same woman under her baptismal name.\n\nShe emigrated to the United States with her mother in 1900 or 1901 and married Frank Cognetti of Scranton at about sixteen, around 1912 or 1913. In January 1920 the family were living at 1306 Diamond Avenue in Scranton, the home of her widowed mother Josephine, who owned the house outright and took in boarders from San Mango; also there were Helen's brother Frank, a 17-year-old coal-mine laborer, her sister Raffaela, her husband, and her sons Ralph, Salvatore and Joseph. Another son was named Leopold Salvatore after her father. The census taker wrote the whole household's surname as Farino, and that spelling, or Farina, followed her through later American records, including her sons' marriage licences and a 2008 obituary that called her Helen Farina Cognetti; her baptism shows she was born a Ferlaino.\n\nThe censuses fill in her American life. In 1930 she said she had married at sixteen and come to the United States in 1901, and that she could read and write; the family owned the house at 612 Philo Street, then valued at $5,000. By 1940 the Depression had cut its value to $3,000. Helen, 44, had finished seventh grade, was a naturalized citizen and kept house for her husband and eight children; in 1950 five of the children were still at home. Her son Leo's obituary records that five brothers and a sister died before him, so all eight of the children she raised lived to adulthood.\n\nBy 1930 the family had moved to Philo Street in Scranton, where she was still living in 1950; in 1942 she was named as next of kin on her son Anthony's draft card. She died on 14 March 1965, aged 69, in South Abington Township, Lackawanna County, while a resident of Scranton. She was John's maternal great-grandmother.",
    "events": [
     {
      "title": "Immigration",
@@ -20560,6 +20825,18 @@ window.FAMILY_DATA = {
      "date": "1894-10-09",
      "place": "Parish of San Tommaso d'Aquino, San Mango d'Aquino",
      "description": "Baptized the day after her birth as Maria Philumena, daughter of Leopoldo Ferlaino and Josepha (Giuseppina) Fiorillo; godmother Saveria Sacco. [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Age at marriage",
+     "date": "ABT 1911-1912",
+     "place": "",
+     "description": "The 1930 census gives her age at first marriage as 16 and Frank's as 21, which fits a marriage about 1911-12. [R6-S1]"
+    },
+    {
+     "title": "Naturalization status",
+     "date": "by 1940",
+     "place": "",
+     "description": "The 1940 census marks her 'Na' (naturalized) and the 1950 census answers 'Yes' to 'naturalized?'. The 1930 entry is overwritten and cannot be read with confidence. No naturalization paper has been found; if Frank was naturalized before 22 Sep 1922 she would have derived citizenship through him. [R6-S1] [R6-S2] [R6-S3]"
     }
    ],
    "facts": [
@@ -20570,6 +20847,14 @@ window.FAMILY_DATA = {
     {
      "label": "PA death index",
      "value": "1965, file 027518, age 69"
+    },
+    {
+     "label": "Education (1940 census)",
+     "value": "Highest grade completed: 7"
+    },
+    {
+     "label": "Literacy (1930 census)",
+     "value": "Able to read and write"
     }
    ],
    "sources": [
@@ -20583,7 +20868,12 @@ window.FAMILY_DATA = {
     "Round 1 correction 3o; Round 2 report 3e; notes/round2/italian_gaps.md section 2; notes/round3/italian_origins.md section 5",
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino, San Tommaso d'Aquino parish, Battesimi 1888-1901 (Book 13), photograph 'Book 13 (65).jpg', p. 195 (MS), entry 61, M[ari]a Philumena Ferlaino; read by me (Latin): 'baptizavi infantem pridie natam ex Leopoldo Ferlaino et Josepha Fiorillo, cui nomen M[ari]a Philumena impositum est'. (primary) https://drive.usercontent.google.com/download?id=1H3Xnxq1LsAd42jJhZ83sPsAnGduoRqx8&export=download&confirm=t",
-    "[R4-S3] Pennsylvania State Archives, death-certificate index, 1965, C-D volume, PDF p. 92: COGNETTI HELEN, 69, S ABTN T, county 35, 03/14/65, file 027518, res. 35001. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf"
+    "[R4-S3] Pennsylvania State Archives, death-certificate index, 1965, C-D volume, PDF p. 92: COGNETTI HELEN, 69, S ABTN T, county 35, 03/14/65, file 027518, res. 35001. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+    "[R6-S1] 1930 US census, Scranton Ward 2, Lackawanna Co., PA, E.D. 35-12, sheet 28A, dwelling 612 [Philo St], lines 29-30 (Frank Cognetti household); FS index XH3R-XB1, image attached to FS tree G3NN-88N (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3NN-88N/images/i/0/image.jpg",
+    "[R6-S2] 1940 US census, Scranton Ward 2, Lackawanna Co., PA, E.D. 71-15, sheet 13B, lines 64-75 (612 [Philo St], Frank Cognetti household); FS index KQZZ-JKH, image attached to FS tree GBQH-TGM (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S3] 1950 US census, Scranton, Lackawanna Co., PA, E.D. 79-23, sheet 71, lines 24-30 (Frank Cognetti household); FS index 6X1W-37K7, image attached to FS tree GJB1-8HT (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-8HT/images/i/0/image.jpg",
+    "[R6-S4] Obituary of Leo S. Cognetti (1929-2019), James J. Terry Funeral Homes, Inc. (secondary) https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+    "[R6-S5] Pennsylvania State Archives, death-certificate indexes 1913-1940 (C-D / C volumes), checked under COGNETTI/COGNETTO and Soundex C253 for every year 1913-1940 (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1938/D-38%20C-D.pdf"
    ],
    "mediaKnown": [
     "1920 and 1930 census images",
@@ -20593,7 +20883,10 @@ window.FAMILY_DATA = {
     "Frank & Helen's c.1912-13 Lackawanna County marriage license",
     "SS-5 application",
     "Order or view PA death certificate 1965 file 027518 (Ancestry \"Pennsylvania, U.S., Death Certificates, 1906-1970\").",
-    "San Mango civil birth act, Nati 1894 (FamilySearch \"Italia, Catanzaro, Stato Civile\" 1866-1910)."
+    "San Mango civil birth act, Nati 1894 (FamilySearch \"Italia, Catanzaro, Stato Civile\" 1866-1910).",
+    "Helen's naturalization: was it derivative through Frank (if he naturalized before 22 Sep 1922) or by her own petition in Lackawanna County?",
+    "Funeral and burial of Helen Cognetti, March 1965 (Scranton Times/Tribune obituary, probably 15-17 Mar 1965); burial presumably Cathedral Cemetery like her sons, unconfirmed.",
+    "Helen died in South Abington Township (1965); her daughter Angeline Butchko later lived at Chinchilla in that township (2008). Whether Helen died at Angeline's home is unverified; the death certificate (file 027518) would say."
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -20648,6 +20941,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Find a Grave / BillionGraves: blocked per brief, not retried for Helen; WebSearch: Helen Cognetti obituary 1965 Scranton: nothing online; PA death indexes 1913-1940 for Cognetti children: none attributable (see S5)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: added 1930/1940/1950 census details (married at 16, 7th-grade schooling, naturalized by 1940, owned 612 Philo St) and confirmed eight children (Leo's obituary); PA death indexes 1913-40 show no child death for the couple."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503581.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
    "death": {
@@ -20689,9 +20998,27 @@ window.FAMILY_DATA = {
      "source": "Pennsylvania State Archives, unknown",
      "note": "PDF page 92 (C-D volume). (not downloaded: rights unknown)",
      "people": []
+    },
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:KQZZ-JKH",
+     "type": "link",
+     "title": "1940 census, Frank and Helen Cognetti household, 612 Philo St, Scranton",
+     "date": "1940-04-11",
+     "source": "FamilySearch / NARA, unknown",
+     "note": "Sheet 13B, lines 64-75. Federal record, but post-1931, so rights treated as unknown per the brief and not downloaded. (not downloaded: rights unknown)",
+     "people": [
+      "I282695503559",
+      "I282695503685",
+      "I282695503586",
+      "I282695503585",
+      "I282695503587",
+      "I282695503583",
+      "I282695503584",
+      "H0346"
+     ]
     }
    ],
-   "researchNotes": "Tree: Helen (b. 1896), wife of Frank Cognetti, daughter of Leopoldo Ferlaino (1871-1915) + Giuseppina Fiorillo (1871-1943). CONFLICT: Anthony R. Cognetti's 2008 obituary calls her 'Helen Farina Cognetti'. Round 1 left this unresolved (explanations: Americanization/mishearing of Ferlaino; obituary wrong; or the tree's Ferlaino attachment wrong). Round 2 evidence: (1) 1920 US census, Scranton Ward 2, ED 105, sheet 2A (enumerated 2-3 Jan 1920), 1306 Diamond Avenue: Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; Helen, daughter, 25, married, born Italy, immigrated 1900; Frank, son, 17, born PA, coal-mine laborer; 'Rofella' (Raffaela?), daughter, 15, born PA; Frank Cognetti 'boarder' (son-in-law) 29; grandsons Ralf, Salvador, Joseph; boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. (2) Round 1's forum source says 1306 Diamond Ave 'was the home of the Ferlaino family who took in boarders from San Mango' and names boarder Antonio Epifano - same address, same boarder. (3) Widowed mother Josephine (= Giuseppina) fits Giuseppina Fiorillo, widow of Leopoldo (d. 1915). (4) Her son was named Leopold Salvatore ('Leopoldo' in the 1930 census). (5) Two sons' marriage licenses give mother's maiden name 'Farino': Ralph 1940 (No. 817) and Sal 1943 (No. 1716). The 1920 enumerator wrote the whole Ferlaino household as 'Farino'; 'Farina' in the 2008 obituary is a later echo. Verdict: probable, close to confirmed (Helen = Elena Ferlaino). Arrival: 1900 (1920 census) or 1901 (1930 census), with her mother. Age 25 in Jan 1920 suggests birth c.1894; married at 16 (1930 census) c.1912-13. Her FS tree profile shows 'Deceased' with no date. In 1942 she was listed as next of kin ('Mrs. Helen Cognetti') on son Anthony's draft card at 614 Philo St. Antenati's San Mango coverage ends in 1860, so her birth act and her parents' marriage could not be reached.\n\nHelen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco ([R4-S1]). I read the register entry myself on the volunteer-photographed page ([R4-S2]). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) ([R4-S3]). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling."
+   "researchNotes": "Tree: Helen (b. 1896), wife of Frank Cognetti, daughter of Leopoldo Ferlaino (1871-1915) + Giuseppina Fiorillo (1871-1943). CONFLICT: Anthony R. Cognetti's 2008 obituary calls her 'Helen Farina Cognetti'. Round 1 left this unresolved (explanations: Americanization/mishearing of Ferlaino; obituary wrong; or the tree's Ferlaino attachment wrong). Round 2 evidence: (1) 1920 US census, Scranton Ward 2, ED 105, sheet 2A (enumerated 2-3 Jan 1920), 1306 Diamond Avenue: Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; Helen, daughter, 25, married, born Italy, immigrated 1900; Frank, son, 17, born PA, coal-mine laborer; 'Rofella' (Raffaela?), daughter, 15, born PA; Frank Cognetti 'boarder' (son-in-law) 29; grandsons Ralf, Salvador, Joseph; boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. (2) Round 1's forum source says 1306 Diamond Ave 'was the home of the Ferlaino family who took in boarders from San Mango' and names boarder Antonio Epifano - same address, same boarder. (3) Widowed mother Josephine (= Giuseppina) fits Giuseppina Fiorillo, widow of Leopoldo (d. 1915). (4) Her son was named Leopold Salvatore ('Leopoldo' in the 1930 census). (5) Two sons' marriage licenses give mother's maiden name 'Farino': Ralph 1940 (No. 817) and Sal 1943 (No. 1716). The 1920 enumerator wrote the whole Ferlaino household as 'Farino'; 'Farina' in the 2008 obituary is a later echo. Verdict: probable, close to confirmed (Helen = Elena Ferlaino). Arrival: 1900 (1920 census) or 1901 (1930 census), with her mother. Age 25 in Jan 1920 suggests birth c.1894; married at 16 (1930 census) c.1912-13. Her FS tree profile shows 'Deceased' with no date. In 1942 she was listed as next of kin ('Mrs. Helen Cognetti') on son Anthony's draft card at 614 Philo St. Antenati's San Mango coverage ends in 1860, so her birth act and her parents' marriage could not be reached.\n\nHelen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco ([R6-S1]). I read the register entry myself on the volunteer-photographed page ([R6-S2]). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) ([R6-S3]). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling.\n\nRound 6: The censuses add some detail to Helen's American life. In 1930 she gave her age at marriage as sixteen, said she had come to the United States in 1901, and could read and write; the family owned their house at 612 Philo Street, valued at $5,000 ([R6-S1]). By 1940 the Depression had cut the house's value to $3,000; Helen, aged 44, had completed seventh grade, was recorded as naturalized, and was keeping house for her husband and eight children ([R6-S2]). In 1950 she was 55, still naturalized and keeping house, with five of her children at home ([R6-S3]). Her son Leo's 2019 obituary says he was predeceased by five brothers and a sister, which confirms that Frank and Helen raised eight children ([R6-S4]). A year-by-year check of the Pennsylvania death indexes for 1913-1940 found no infant or child death that can be tied to the couple ([R6-S5])."
   },
   {
    "id": "I282695503583",
@@ -20737,8 +21064,8 @@ window.FAMILY_DATA = {
     "notable",
     "politician"
    ],
-   "summary": "WWII Army veteran, president of Scranton City Council and of the Scranton Red Sox baseball club; John's great-granduncle.",
-   "bio": "Anthony Ralph Cognetti, known as Tony, was born on 19 June 1924 at Scranton, Lackawanna County, Pennsylvania, the son of Frank Cognetti and Helen Ferlaino, whose maiden name appears as Farina in his obituary. He grew up in Scranton and was a student at Central High School when he registered for the draft in June 1942, naming his mother as his next of kin. He entered the Army on 10 July 1943 and served in the Second World War.\n\nAfter the war he attended Keystone Junior College and Penn State. In 1950, aged 25, he was living at home and working in an ice-cream store. He married Mary Carol Ruth (1929–1978). He went on to serve as president of Scranton City Council, and in the 1970s he was president of the Scranton Red Sox collegiate baseball club. He died at Scranton on 19 September 2008. He was John's great-granduncle.",
+   "summary": "WWII Army veteran, president of Scranton City Council, state workers' compensation official and president of the Scranton Red Sox baseball club; John's great-uncle.",
+   "bio": "Anthony Ralph Cognetti, known as Tony, was born on 19 June 1924 at Scranton, Lackawanna County, Pennsylvania, the son of Frank Cognetti and Helen Ferlaino, whose maiden name appears as Farina in his obituary. He grew up in Scranton, finished eighth grade by 1940, and was a student at Central High School when he registered for the draft in June 1942, naming his mother as his next of kin. He entered the Army on 10 July 1943 and served in the Second World War.\n\nAfter the war he attended Keystone Junior College and Penn State. In 1950, aged 25, he was living at home and running an ice-cream store. He married Mary Carol Ruth (1929–1978). He went on to serve as president of Scranton City Council, and in the 1970s he was president of the Scranton Red Sox collegiate baseball club. In state government he was director of the State Workmen's Insurance Fund and later a commissioner of the Workmen's Compensation Appeal Board, lectured often at workers' compensation seminars, and in his last years was a consultant to the Scranton law firm O'Malley & Langan. He had also been president of the Junior Chamber of Commerce and of the Keystone Heart Association. He died at Scranton on 19 September 2008, leaving four sons and twelve grandchildren, and was buried in Cathedral Cemetery. He was John's great-uncle.",
    "notable": "President of Scranton City Council; president of the Scranton Red Sox collegiate baseball club (1970s)",
    "military": [
     {
@@ -20750,13 +21077,19 @@ window.FAMILY_DATA = {
     {
      "label": "Tree display (IMG_7830-7840)",
      "value": "Anthony 1924-Deceased"
+    },
+    {
+     "label": "Occupation (round 4)",
+     "value": "Ice-cream store/restaurant owner (1950); director, State Workmen's Insurance Fund; commissioner, Workmen's Compensation Appeal Board; consultant to O'Malley & Langan P.C. (2008)"
     }
    ],
    "sources": [
     "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
     "Draft card Q2Q2-NKPY: https://familysearch.org/ark:/61903/1:1:Q2Q2-NKPY",
     "FS tree PW2S-1KJ: https://ancestors.familysearch.org/en/PW2S-1KJ",
-    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576",
+    "[R6-S1] Obituary of Anthony R. Cognetti, The Times-Tribune (Scranton), Sept 2008, Legacy.com id 24081273; page blocked (403); content known only from two search-engine summaries (2026-10-08) (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "[R6-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 70 (Anthony, son, 16, 612 Philo St) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -20787,9 +21120,61 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Legacy.com obituary: blocked (403); WebSearch 'Anthony Cognetti' council president / Red Sox / Workers' Compensation Appeal Board: no primary or newspaper page found; Google Books API: daily quota exhausted (429); Wikimedia Commons / LOC: no photo found in searches"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: obituary summaries add SWIF director, WCAB commissioner, Jaycees and Heart Association presidencies, Cathedral Cemetery burial; full obituary still blocked."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503583.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
-   "researchNotes": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton."
+   "researchNotes": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton.\n\nRound 6: Summaries of Tony's 2008 obituary add a career in state government to his time on city council: he was director of the State Workmen's Insurance Fund and later a commissioner of the Workmen's Compensation Appeal Board, lectured often at workers' compensation seminars, and at his death was a consultant to the Scranton law firm O'Malley & Langan. He had also been president of the Junior Chamber of Commerce and of the Keystone Heart Association. He left four sons and twelve grandchildren and was buried in Cathedral Cemetery ([R6-S1]). In 1940 he was a 16-year-old schoolboy who had finished eighth grade ([R6-S2]).",
+   "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania"
+   },
+   "events": [
+    {
+     "title": "Public offices",
+     "date": "",
+     "place": "Pennsylvania",
+     "description": "Director of the State Workmen's Insurance Fund (SWIF), later commissioner of the Workmen's Compensation Appeal Board; earlier president of Scranton City Council (dates not found). [R6-S1]"
+    },
+    {
+     "title": "Civic offices",
+     "date": "",
+     "place": "Scranton",
+     "description": "President of the (Scranton) Junior Chamber of Commerce and of the Keystone Heart Association. [R6-S1]"
+    },
+    {
+     "title": "Second marriage",
+     "date": "ABT 1980",
+     "place": "",
+     "description": "Married the former Mary Flanagan; married 28 years at his death. [R6-S1]"
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "education",
+     "site": "Keystone Junior College and Penn State",
+     "found": "One search summary of the obituary gives Penn State and the University of Scranton; another gives Keystone Junior College and Penn State",
+     "assessment": "Unresolved until the obituary text is read; keep the site value."
+    }
+   ],
+   "openQuestions": [
+    "Years of his City Council service and presidency, and of his SWIF/WCAB appointments (Pennsylvania Manual; Scranton Times archives).",
+    "Second wife Mary (Flanagan) Cognetti: status (may be living) - check before adding.",
+    "Scranton Red Sox presidency (1970s): a newspaper source and photo still to be found."
+   ]
   },
   {
    "id": "I282695503584",
@@ -20833,6 +21218,10 @@ window.FAMILY_DATA = {
     {
      "label": "Tree display (IMG_7830-7840)",
      "value": "John 1928-Deceased"
+    },
+    {
+     "label": "Education (1940 census)",
+     "value": "6th grade completed, at school"
     }
    ],
    "sources": [
@@ -20841,7 +21230,9 @@ window.FAMILY_DATA = {
     "Thanksgiving article 2016",
     "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service; also published in the Pittsburgh Post-Gazette on 10 Nov 2013 (Legacy pid 167940321, blocked) (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti",
     "[R4-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
-    "[R4-S3] FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9"
+    "[R4-S3] FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] 1950 US census, Scranton, E.D. 79-23, line 28 (John, son, 23); FS index 6X1W-37KW (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-8HT/images/i/0/image.jpg"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -20872,6 +21263,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Evelyn Cognetti' Pittsburgh obituary: nothing; NARA AAD WWII Navy records: AAD blocked (403); Slater Funeral obituary already on site; no burial text found"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: only minor census detail (6th grade in 1940); Navy dates, burial and Evelyn's maiden name still open."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503584.json."
     }
    ],
    "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived).\n\nround5: John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 ([R4-S1]). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 ([R4-S1]). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton ([R4-S2]). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",
@@ -20945,6 +21348,16 @@ window.FAMILY_DATA = {
     {
      "date": "1940",
      "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    },
+    {
+     "date": "1940-04",
+     "place": "612 Philo St, Scranton, Pennsylvania",
+     "note": "Single, with parents [R6-S1]"
+    },
+    {
+     "date": "2009",
+     "place": "Glenmaura, Moosic, Lackawanna County, Pennsylvania",
+     "note": "Retirement home with his wife [R6-S2] [R6-S3]"
     }
    ],
    "citations": [
@@ -20959,7 +21372,7 @@ window.FAMILY_DATA = {
    },
    "death": {
     "date": "2009-05-25",
-    "place": "Moosic, Lackawanna County, Pennsylvania, USA"
+    "place": "VNA Hospice, Community Medical Center, Scranton (residence Moosic), Pennsylvania"
    },
    "occupation": "Food/confectionery broker; chairman, D.C. Sales Co.",
    "aka": [
@@ -20969,8 +21382,8 @@ window.FAMILY_DATA = {
     "military",
     "notable"
    ],
-   "summary": "WWII Army Air Corps veteran, chairman of D.C. Sales Co. and Candy Hall of Fame member; John's great-granduncle.",
-   "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940. During the Second World War he served in the US Army Air Corps from 1942 to 1946.\n\nHe made his career in the food and confectionery trade as a partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. His standing in the industry brought him the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he started the Cognetti family Thanksgiving, a gathering that continued long after him: the 50th, in 2016, drew 151 relatives. He died at Moosic, Pennsylvania, on 25 May 2009. He is John's great-granduncle.",
+   "summary": "WWII Army Air Corps veteran, chairman of D.C. Sales Co., Candy Hall of Fame member and founder of the Cognetti family Thanksgiving; John's great-uncle.",
+   "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940, when he was a 22-year-old salesman living at home on Philo Street with two years of high school behind him; he had started out as a lumber salesman in 1937. During the Second World War he served in the US Army Air Corps from 1942 to 1946, and in 1946 he married Domenica, known to the family as Aunt Min; they were married 63 years.\n\nHe made his career in the food and confectionery trade, entering the brokerage business in 1956 as a partner in D.C. Sales Co. and later becoming its chairman. His standing in the industry brought him the Lou Spector Award in 1961, the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he and Domenica started the Cognetti family Thanksgiving in a back room of Brutico's restaurant in Old Forge, a gathering that continued long after them: the 50th, in 2016, drew 151 relatives. The couple retired to Glenmaura in Moosic. Domenica died in the spring of 2009, and Joe died two months later, on 25 May 2009, in hospice care at Community Medical Center in Scranton. He is John's great-uncle.",
    "notable": "Candy Hall of Fame 1975; AWMA Hall of Fame 1993",
    "funFacts": [
     "Founded the 50-year Cognetti family Thanksgiving tradition (151 relatives in 2016)"
@@ -20986,13 +21399,28 @@ window.FAMILY_DATA = {
     {
      "label": "Tree display (IMG_7830-7840)",
      "value": "Joseph 1918-Deceased"
+    },
+    {
+     "label": "Occupation (round 4)",
+     "value": "Lumber salesman (from 1937); salesman (1940); food and confectionery broker, partner and chairman of D.C. Sales Co. (from 1956)"
+    },
+    {
+     "label": "Education (1940 census)",
+     "value": "2nd year of high school"
+    },
+    {
+     "label": "FamilySearch ID",
+     "value": "GBQH-LWX"
     }
    ],
    "sources": [
     "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?pid=127764806",
     "Candy Hall of Fame: https://candyhalloffame.org/inductee/joseph-f-cognetti/",
     "Thanksgiving article: https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
-    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 68 (Joseph, son, 22, Frank Cognetti household, 612 Philo St; supplementary-question line); FS index KQZZ-JKQ, image attached to GBQH-TGM / GBQH-LWX (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] Obituary of Joseph F. Cognetti, The Times-Tribune (Scranton), 28 May 2009, via Legacy.com (id 23435864); page blocked (403), content known only from search-engine summaries (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
+    "[R6-S3] 'Family celebrates 50 years of Thanksgiving gatherings', The Times-Tribune (Scranton), Nov 2016, reprinted by Hinerfeld Commercial (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21027,9 +21455,57 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Legacy.com obituary pages: blocked (403); WebSearch 'Domenica Cognetti' obituary 2009: no obituary found; NARA AAD WWII enlistment records: blocked"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: wife Domenica (m. 1946, d. 2009) identified; 1940 census and obituary details (lumber salesman 1937, D.C. Sales 1956, Lou Spector Award 1961) added."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503585.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
-   "researchNotes": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household."
+   "researchNotes": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household.\n\nRound 6: In 1940 Joe was 22, living at home on Philo Street and working as a salesman; he had finished two years of high school ([R6-S1]). His obituary, known so far only from search summaries, says he began as a lumber salesman in 1937, served in the Army Air Corps, and in 1946 married Domenica, his wife of 63 years. He entered the food and confectionery brokerage business in 1956 as a partner in D.C. Sales Co., received the CBA's Lou Spector Award in 1961, and with Domenica retired to Glenmaura in Moosic ([R6-S2]). The couple started the family Thanksgiving in 1966 in a back room of Brutico's restaurant in Old Forge; Domenica, 'Aunt Min' to the family, died two months before Joe in 2009 ([R6-S2], [R6-S3]).",
+   "events": [
+    {
+     "title": "Marriage to Domenica",
+     "date": "1946",
+     "place": "",
+     "description": "Married Domenica ('Aunt Min'), maiden name not yet found, after his return from the Army Air Corps; they were married 63 years. [R6-S2] [R6-S3]"
+    },
+    {
+     "title": "Lou Spector Award",
+     "date": "1961",
+     "place": "",
+     "description": "Received the CBA Lou Spector Award (per obituary summary). [R6-S2]"
+    },
+    {
+     "title": "Founded the Cognetti family Thanksgiving",
+     "date": "1966",
+     "place": "Brutico's restaurant, Old Forge, Pennsylvania",
+     "description": "First dinner held in a back room at Brutico's with fewer than two dozen relatives. [R6-S3]"
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "death.place",
+     "site": "Moosic, Lackawanna County",
+     "found": "VNA Hospice at Community Medical Center (Scranton); residence Moosic",
+     "assessment": "Both can stand: Moosic was his residence; the hospice is the place of death (per search summary of the obituary)."
+    }
+   ],
+   "openQuestions": [
+    "Domenica Cognetti's maiden name, birth and 2009 death date (her obituary c. March 2009; their 1946 marriage license, Lackawanna County or wherever they married).",
+    "Read the full 2009 obituary (Legacy id 23435864) to confirm the summary details."
+   ]
   },
   {
    "id": "I282695503586",
@@ -21048,6 +21524,11 @@ window.FAMILY_DATA = {
     {
      "date": "1940",
      "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    },
+    {
+     "date": "1940-04",
+     "place": "612 Philo St, Scranton, Pennsylvania",
+     "note": "Single, in his parents' household [R6-S1]"
     }
    ],
    "citations": [
@@ -21070,8 +21551,8 @@ window.FAMILY_DATA = {
    "tags": [
     "military"
    ],
-   "summary": "John's great-granduncle, a Scranton-born Second World War Army veteran who married Elizabeth Notarianni in 1943.",
-   "bio": "Salvatore D. Cognetti, known as Sal, was born in Scranton, Lackawanna County, Pennsylvania, on 21 September 1915, and was John's great-granduncle. As a small boy he was living in his Ferlaino grandparents' household in 1920, recorded there as Salvador, and he was still in Scranton in 1935 and 1940.\n\nHe enlisted in the US Army at Wilkes-Barre on 5 January 1942 and was a serving soldier when he married Elizabeth Notarianni on 16 October 1943. He died on 19 October 1990 and was buried in Cathedral Cemetery.",
+   "summary": "John's great-uncle, a Scranton-born salesman and Second World War Army veteran who married Elizabeth Notarianni in 1943.",
+   "bio": "Salvatore D. Cognetti, known as Sal, was born in Scranton, Lackawanna County, Pennsylvania, on 21 September 1915, and was John's great-uncle. As a small boy he was living in his Ferlaino grandparents' household in 1920, recorded there as Salvador, and he was still in Scranton in 1935 and 1940. In April 1940 he was 25, single and living with his parents on Philo Street; he had finished a year of high school and was working as a salesman, putting in seventy hours a week.\n\nHe enlisted in the US Army at Wilkes-Barre on 5 January 1942 and was a serving soldier, home on leave, when he married Elizabeth Notarianni, a stenographer, on 16 October 1943; the priest was the same who had married his brother Ralph three years earlier. He died on 19 October 1990 and was buried in Cathedral Cemetery.",
    "military": [
     {
      "branch": "US Army",
@@ -21083,12 +21564,23 @@ window.FAMILY_DATA = {
     {
      "label": "Tree display (IMG_7830-7840)",
      "value": "Salvatore 1915-Deceased"
+    },
+    {
+     "label": "FamilySearch ID",
+     "value": "GJB1-GYW"
+    },
+    {
+     "label": "Education (1940 census)",
+     "value": "1st year of high school"
     }
    ],
    "sources": [
     "FS tree GJB1-GYW: https://ancestors.familysearch.org/en/GJB1-GYW",
     "Enlistment K8PX-Z8K: https://familysearch.org/ark:/61903/1:1:K8PX-Z8K",
-    "1943 license VF7J-VGC: https://familysearch.org/ark:/61903/1:1:VF7J-VGC"
+    "1943 license VF7J-VGC: https://familysearch.org/ark:/61903/1:1:VF7J-VGC",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 67 (Salvatore, son, 25, Frank Cognetti household, 612 Philo St); FS image attached to GBQH-TGM (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] Lackawanna County Orphans' Court, marriage license application no. 1716 (1943), Sal. Cognetti and Elizabeth Notarianni, p. 216; FS index VF7J-VGC, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+    "[R6-S3] FamilySearch tree GJB1-GYW, Salvatore 'Sal' D Cognetti 1915-1990 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJB1-GYW"
    ],
    "mediaKnown": [
     "1943 marriage license image"
@@ -21122,9 +21614,44 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Salvatore Cognetti' / 'Sal Cognetti' Scranton obituary 1990: nothing; NARA AAD WWII Army enlistment records: blocked (403); Find a Grave (Cathedral Cemetery): blocked per brief"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: 1940 census (salesman, 1st-year high school) and officiant of 1943 wedding added; obituary and WWII details still not found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503586.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
-   "researchNotes": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household."
+   "researchNotes": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household.\n\nRound 6: In April 1940 Sal was 25, single and living with his parents on Philo Street; he had completed one year of high school and was working as a salesman, putting in 70 hours a week and earning $1,300 the year before ([R6-S1]). When he married Elizabeth Notarianni on 16 October 1943 he was a soldier home on leave, and the couple were married by the same priest who had married his brother Ralph in 1940 ([R6-S2]).",
+   "occupation": "Salesman (1940); soldier (1943)",
+   "events": [
+    {
+     "title": "Social Security application",
+     "date": "1936-11",
+     "place": "",
+     "description": "Listed in the FamilySearch tree (Social Security applications index); record not opened. [R6-S3]"
+    },
+    {
+     "title": "Marriage officiant",
+     "date": "1943-10-16",
+     "place": "Scranton",
+     "description": "Married to Elizabeth Notarianni by Rev. Luigino R[angi?], 1402 Short Ave, who had married Sal's brother Ralph in 1940. [R6-S2]"
+    }
+   ],
+   "openQuestions": [
+    "Sal's WWII unit and discharge (NARA AAD enlistment record K8PX-Z8K details; AAD blocked) and his 1990 obituary (Scranton Times, c.20-22 Oct 1990).",
+    "Children of Sal and Elizabeth: none identified; check the 1990 and 1994 obituaries."
+   ]
   },
   {
    "id": "I282695503587",
@@ -21143,6 +21670,16 @@ window.FAMILY_DATA = {
     {
      "date": "1940",
      "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    },
+    {
+     "date": "1940-04",
+     "place": "612 Philo St, Scranton, Pennsylvania",
+     "note": "At home; housework [R6-S1]"
+    },
+    {
+     "date": "2008-09",
+     "place": "Chinchilla (South Abington Township), Lackawanna County, Pennsylvania",
+     "note": "Residence given in her brother Anthony's obituary [R6-S3]"
     }
    ],
    "citations": [
@@ -21156,20 +21693,30 @@ window.FAMILY_DATA = {
     "note": "Named as sister in brothers' obituaries; 1950 census at home (age 28)."
    },
    "aka": [
-    "Angeline Butchko"
+    "Angeline Butchko",
+    "Angeline Cognetti Butchko",
+    "Anglean Cognetti (1950 census)"
    ],
    "tags": [],
-   "summary": "Scranton-born daughter of the Cognetti family who married a Butchko; John's great-grandaunt.",
-   "bio": "Angeline Cognetti was born in Pennsylvania in 1922 and was John's great-grandaunt. She grew up in Scranton, where the family was living in 1935 and 1940, and was still at home with her parents in 1950, aged twenty-eight. She later married and took the name Butchko. She had died by 2016.",
+   "summary": "Scranton-born daughter of Frank and Helen Cognetti who married Nicholas Butchko; John's great-aunt.",
+   "bio": "Angeline Cognetti was born in Scranton in 1922 and was John's great-aunt. In 1940 she was eighteen, at home on Philo Street and keeping house, having finished a year of high school, and she was still with her parents in 1950, aged twenty-eight. She later married Nicholas Butchko, probably in the 1950s, and they were married about fifty years before his death. In 2008 she was living at Chinchilla, north of Scranton. She died in 2009, aged 87, in the hospice unit of Mercy Hospital in Scranton, a few months after her brother Joseph.",
    "facts": [
     {
      "label": "Tree display (IMG_7830-7840)",
      "value": "Angeline 1922-Deceased"
+    },
+    {
+     "label": "Education (1940 census)",
+     "value": "1st year of high school"
     }
    ],
    "sources": [
     "Anthony R. and Joseph F. Cognetti obituaries",
-    "1950 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg"
+    "1950 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 69 (Angeline, daughter, 18, 612 Philo St); FS index KQZZ-JK7, image attached to GBQH-TGM / GBQH-FG8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] Search-engine summary (WebSearch, 2026-10-08) of an obituary titled 'Angeline Butchko Obituary (2009) - Scranton, PA' (Scranton Times / Legacy.com); the page itself was not reached (Legacy and the aggregator idcrawl.com both 403) (derivative) https://www.idcrawl.com/nicholas-butchko",
+    "[R6-S3] Obituary of Anthony R. Cognetti, The Times-Tribune, Sept 2008 (Legacy id 24081273; blocked), as quoted in a search-engine summary (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "[R6-S4] Obituary of Joseph F. Cognetti, The Times-Tribune, 28 May 2009 (Legacy id 23435864; blocked), as quoted in a search-engine summary (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21196,56 +21743,44 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Angeline: married name? death? → Married Nicholas Butchko (c.1950s); died 2009 aged 87 at Mercy Hospital hospice, Scranton (obituary known only from a search summary)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Angeline Butchko' obituary: only snippets; Legacy.com and idcrawl.com: blocked (403); augusthaasfuneralhome.com 2009/2010 obituary pages: no Butchko/Cognetti"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: married Nicholas Butchko; lived Chinchilla 2008; died 2009 aged 87 at Mercy Hospital hospice (obituary snippet; full text still needed)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503587.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
-   "researchNotes": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article."
-  },
-  {
-   "id": "I282695503588",
-   "given": "Ralph",
-   "surname": "Cognetti",
-   "sex": "M",
-   "birth": {
-    "date": "abt 1913",
-    "place": "Pennsylvania"
+   "researchNotes": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article.\n\nRound 6: In 1940 Angeline was 18, living at home on Philo Street and keeping house; she had completed one year of high school ([R6-S1]). She married Nicholas Butchko, apparently in the 1950s, and they were married about fifty years before his death. In 2008 she was living in Chinchilla, north of Scranton ([R6-S3]). She survived her brother Joseph, who died in May 2009 ([R6-S4]), and according to a summary of her own obituary died later in 2009, aged 87, in the hospice unit of Mercy Hospital, Scranton ([R6-S2]).",
+   "death": {
+    "date": "2009",
+    "place": "Hospice Inpatient Unit, Mercy Hospital, Scranton, Pennsylvania"
    },
-   "residences": [
+   "events": [
     {
-     "date": "1935",
-     "place": "Scranton, Lackawanna, Pennsylvania"
-    },
-    {
-     "date": "1940",
-     "place": "Scranton, Lackawanna, Pennsylvania, USA"
+     "title": "Marriage to Nicholas Butchko",
+     "date": "ABT 1950s",
+     "place": "",
+     "description": "Married about 50 years when he died (per obituary summary); exact date not found. She was still single and at home in April 1950. [R6-S2]"
     }
    ],
-   "citations": [
-    {
-     "source": "1940 United States Federal Census",
-     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
-    }
-   ],
-   "researchLog": [
-    {
-     "date": "2026-10-08",
-     "note": "Round 4 searched without result: n/a: duplicate profile"
-    },
-    {
-     "date": "2026-10-08",
-     "note": "Round 4: duplicate of Ralph A. Cognetti (I282695503685); merge (Round 1 correction 3m)."
-    },
-    {
-     "date": "2026-10-08",
-     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503588.json."
-    }
-   ],
-   "conflicts": [
-    {
-     "field": "duplicate",
-     "site": "Ralph Cognetti abt 1913",
-     "found": "Same person as Ralph A. Cognetti (7 Aug 1913-16 Apr 2009)",
-     "assessment": "Merge into I282695503685."
-    }
+   "openQuestions": [
+    "Read Angeline Butchko's 2009 obituary (Scranton Times / Legacy) for exact death date, burial, and children; children may be living (privacy rule).",
+    "Nicholas Butchko: dates and parents; marriage record (after Apr 1950)."
    ]
   },
   {
@@ -21273,6 +21808,18 @@ window.FAMILY_DATA = {
      ]
     }
    ],
+   "aka": [
+    "Ralf Cognetti",
+    "Ralph Anthony Cognetti",
+    "Ralph D. Cognetti (1940 census, error)"
+   ],
+   "mergedFrom": [
+    {
+     "id": "I282695503588",
+     "name": "Ralph Cognetti",
+     "reason": "Round 6: only one Ralph appears in Frank and Helen Cognetti's family in 1920–1950; 'Ralph Cognetti abt 1913' duplicated Ralph Anthony Cognetti (1913–2009)."
+    }
+   ],
    "link": {
     "confidence": "confirmed",
     "note": "WikiTree Cognetti-1 (SSDI and 1930 census) and 1940 marriage license No. 817 (image read)."
@@ -21282,23 +21829,37 @@ window.FAMILY_DATA = {
     "place": "Scranton, Lackawanna County, Pennsylvania, USA"
    },
    "occupation": "Salesman (1940)",
-   "aka": [
-    "Ralf Cognetti"
-   ],
    "tags": [],
-   "summary": "Eldest son of Frank and Helen Cognetti of Scranton, a salesman who married Marguerite Forgione in 1940; John's great-granduncle.",
-   "bio": "Ralph A. Cognetti was born on 7 August 1913 at Scranton, Lackawanna County, Pennsylvania, the eldest son of Frank Cognetti, a mechanic, and his wife Helen. In 1920 the boy, recorded as \"Ralf\", was living on Diamond Avenue in the household of his mother's family, the Ferlainos, and he was still in Scranton in 1930. He worked as a salesman, and on 1 June 1940 he married Marguerite Forgione.\n\nRalph and Marguerite had sons Frank, born in 1942, Peter, born in 1948, and Anthony, born in 1949, who is probably the Anthony Paul Cognetti of the Candy Hall of Fame. Ralph died at Scranton on 16 April 2009.",
+   "summary": "Eldest son of Frank and Helen Cognetti of Scranton, a bottling-company man and beer-distributor salesman who married Marguerite Forgione in 1940; John's great-uncle.",
+   "bio": "Ralph Anthony Cognetti was born on 7 August 1913 at Scranton, Lackawanna County, Pennsylvania, the eldest son of Frank Cognetti, a mechanic, and his wife Helen. In 1920 the boy, recorded as \"Ralf\", was living on Diamond Avenue in the household of his mother's family, the Ferlainos, and he was still in Scranton in 1930. In April 1940 he was a 27-year-old truck driver for a beverage firm, living at home on Philo Street, and on 1 June 1940 he married Marguerite Forgione, a seamstress; the priest, Father Luigino of Short Avenue, married his brother Sal three years later. When Ralph registered for the draft that October he and his wife lived on Farr Street and he worked for the Royal Bottling Company on Wyoming Avenue; he stood five feet seven, weighed 145 pounds, and had blue eyes and brown hair. He did not serve in the Second World War. By 1950 he was a salesman for a beer distributor with four children at home.\n\nRalph and Marguerite's sons were Frank, born in 1942, Peter, born in 1948, and Anthony, born in 1949, who is probably the Anthony Paul Cognetti of the Candy Hall of Fame; the 1950 census also lists a daughter, Helen, born about 1941. Ralph died at Scranton on 16 April 2009, and Marguerite outlived him by five years. He was John's great-uncle.",
    "facts": [
     {
      "label": "Tree display (IMG_7830-7840)",
      "value": "Ralph 1913-Deceased (entered twice)"
+    },
+    {
+     "label": "Occupation (round 4)",
+     "value": "Truck driver for a beverage firm (1940), Royal Bottling Co. (Oct 1940), salesman for a beer distributor (1950)"
+    },
+    {
+     "label": "FamilySearch ID",
+     "value": "L6CN-7HV"
+    },
+    {
+     "label": "Physical description (1940)",
+     "value": "5 ft 7 in, 145 lb, blue eyes, brown hair, light complexion"
     }
    ],
    "sources": [
     "WikiTree Cognetti-1: https://www.wikitree.com/wiki/Cognetti-1",
     "1940 license VF7X-JLN: https://familysearch.org/ark:/61903/1:1:VF7X-JLN ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg",
     "FS tree L6CN-7HV: https://ancestors.familysearch.org/en/L6CN-7HV",
-    "notes/italian.md 3.1; notes/round2/italian_gaps.md 2-3"
+    "notes/italian.md 3.1; notes/round2/italian_gaps.md 2-3",
+    "[R6-S1] WWII draft registration card (Selective Service, 'Fourth'/1940 registration), Ralph Anthony Cognetti, serial no. 213, Local Board No. 2, Scranton, registered 16 Oct 1940; FS index 'Pennsylvania, World War II Draft Registration Cards, 1940-1945' Q2Q2-NK1C, image attached to FS tree L6CN-7HV (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/2/image.jpg",
+    "[R6-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 66 (as 'Ralph D', son, 27, in Frank Cognetti household, 612 Philo St); FS image attached to GBQH-TGM (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S3] Lackawanna County Orphans' Court, marriage license application no. 817 (1940), Ralph A. Cognetti and Margaret (signed Marguerite) Forgione, pp. 316-317; FS index VF7X-JLN, image attached to FS tree L6CN-7HV (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg",
+    "[R6-S4] 1950 US census, Scranton, Lackawanna Co., PA, E.D. 79-22, sheet 3, house no. 1217, lines 24-29 (Ralph Cognetti household; sample line 24); FS index 6XB1-VXVB, image attached to FS tree LJQW-QT8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/0/image.jpg",
+    "[R6-S5] FamilySearch tree L6CN-7HV, Ralph A Cognetti 1913-2009 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L6CN-7HV"
    ],
    "mediaKnown": [
     "1940 marriage license image"
@@ -21340,6 +21901,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Ralph A. Cognetti' obituary 2009 Scranton: no hits; Legacy.com: blocked (403); NARA AAD WWII enlistment database: blocked (403)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: draft card (Ralph Anthony, 1506 Farr St, Royal Bottling, 1940), 1940/1950 censuses (beer salesman; no WWII service; daughter Helen missing from tree); duplicate I282695503588 confirmed."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503685.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
    "media": [
@@ -21350,9 +21927,79 @@ window.FAMILY_DATA = {
      "source": "WikiTree",
      "note": "Ralph A Cognetti, 1913-08-07 – 2009-04-16",
      "url": "https://www.wikitree.com/wiki/Cognetti-1"
+    },
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:Q2Q2-NK1C",
+     "type": "link",
+     "title": "WWII draft card of Ralph Anthony Cognetti, 16 Oct 1940",
+     "date": "1940-10-16",
+     "source": "FamilySearch / NARA (Selective Service records), unknown",
+     "note": "Front and back; Selective Service record. Post-1931, rights treated as unknown per the brief; not downloaded. (not downloaded: rights unknown)",
+     "people": [
+      "H0498"
+     ]
+    },
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:6XB1-VXVB",
+     "type": "link",
+     "title": "1950 census, Ralph and Marguerite Cognetti household, Scranton",
+     "date": "1950-04-18",
+     "source": "FamilySearch / NARA, unknown",
+     "note": "E.D. 79-22, lines 24-29; Bruno Cognetti of the unrelated(?) Nicastro family is on line 1 of the same sheet. (not downloaded: rights unknown)",
+     "people": [
+      "H0498"
+     ]
     }
    ],
-   "researchNotes": "Tree shows 'Ralph 1913' twice - one man (Round 1 correction 3m). WikiTree Cognetti-1: b. 7 Aug 1913, d. 16 Apr 2009 Scranton; m. Marguerite Forgione 1 Jun 1940; in Scranton in the 1930 census (ED 12, p. 28A). 1920 census: grandson 'Ralf' in the Ferlaino household at 1306 Diamond Ave. 1940 marriage license No. 817: salesman; mother's maiden name 'Farino'; father 'mechanic'; at 612 Philo St. Children (FS L6CN-7HV): Frank (1942), Peter (1948), Anthony (b. 14 Dec 1949, probably Anthony Paul Cognetti of the Candy Hall of Fame)."
+   "researchNotes": "Tree shows 'Ralph 1913' twice - one man (Round 1 correction 3m). WikiTree Cognetti-1: b. 7 Aug 1913, d. 16 Apr 2009 Scranton; m. Marguerite Forgione 1 Jun 1940; in Scranton in the 1930 census (ED 12, p. 28A). 1920 census: grandson 'Ralf' in the Ferlaino household at 1306 Diamond Ave. 1940 marriage license No. 817: salesman; mother's maiden name 'Farino'; father 'mechanic'; at 612 Philo St. Children (FS L6CN-7HV): Frank (1942), Peter (1948), Anthony (b. 14 Dec 1949, probably Anthony Paul Cognetti of the Candy Hall of Fame).\n\nRound 6: Ralph's draft card gives his full name as Ralph Anthony Cognetti. When he registered on 16 October 1940 he and his new wife lived at 1506 Farr Street in Scranton, and he worked for the Royal Bottling Company on Wyoming Avenue; he was 5 ft 7 in, 145 lb, with blue eyes and brown hair ([R6-S1]). Six months earlier the census had found him at home on Philo Street, a 27-year-old truck driver for a beverage firm who had finished eighth grade ([R6-S2]). He married Marguerite Forgione on 1 June 1940; the priest, Rev. Luigino R[angi?] of 1402 Short Avenue, also married his brother Sal three years later ([R6-S3]). In 1950 Ralph was a salesman for a beer distributor, earning $3,000 a year, with four children at home, and the census notes that he had not served in the Second World War ([R6-S4]).",
+   "residences": [
+    {
+     "date": "1940-04",
+     "place": "612 Philo St, Scranton, Pennsylvania",
+     "note": "With his parents, single [R6-S2] [R6-S3]"
+    },
+    {
+     "date": "1940-10-16",
+     "place": "1506 Farr St, Scranton, Pennsylvania",
+     "note": "With his wife [R6-S1]"
+    },
+    {
+     "date": "1950-04",
+     "place": "1217 [street not legible], Scranton, Pennsylvania (E.D. 79-22)",
+     "note": "Head of household [R6-S4]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Draft registration",
+     "date": "1940-10-16",
+     "place": "Scranton (Local Board No. 2)",
+     "description": "Registered as Ralph Anthony Cognetti, working for Royal Bottling Company, 1121 Wyoming Ave. [R6-S1]"
+    },
+    {
+     "title": "Marriage officiant",
+     "date": "1940-06-01",
+     "place": "Scranton",
+     "description": "Married to Marguerite Forgione by Rev. Luigino R[angi?] of 1402 Short Ave, the same priest who married his brother Sal in 1943. [R6-S3]"
+    }
+   ],
+   "military": [
+    {
+     "note": "Registered for the draft 16 Oct 1940; the 1950 census records that he did not serve in WWII. [R6-S1] [R6-S4]"
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "children",
+     "site": "Sons Frank (1942), Peter (1948), Anthony (1949)",
+     "found": "1950 census also lists a daughter Helen, aged 9 (born c.1940-41)",
+     "assessment": "A daughter named for her grandmother appears to be missing from the tree. She may be living (born c.1941), so she was not researched further."
+    }
+   ],
+   "openQuestions": [
+    "Daughter Helen Cognetti (aged 9 in 1950) is not on the tree; check privacy status before adding.",
+    "Ralph's 2009 obituary (Scranton Times-Tribune) and burial place: not found online (Legacy blocked)."
+   ]
   },
   {
    "id": "I282695504010",
@@ -23406,11 +24053,16 @@ window.FAMILY_DATA = {
     "immigrant"
    ],
    "summary": "Candle-maker's son from Dasà in Calabria and father of Frank Cognetti; probably John's maternal 2nd great-grandfather.",
-   "bio": "Giovanni Cognetta was born on 22 March 1855 at Dasà, then in the Monteleone district of the province of Catanzaro and now in Vibo Valentia, Calabria, Italy. His father, Mastro Nicola Cognetta, was a ceraiuolo, a wax-chandler or candle-maker, then aged 51; his mother was Donna Mariangela Cannatello, aged 32. The titles Mastro and Donna mark a family of slightly elevated artisan standing. With his wife Mariarosa C. Lamanna, born in 1863, he was the father of Frank Cognetti.\n\nThere is no sign that Giovanni himself ever emigrated; he probably remained in Italy. He died in 1930, at a place recorded as Nicasetro, Italy. He is probably John's maternal 2nd great-grandfather.",
+   "bio": "Giovanni Cognetta was born on 22 March 1855 at Dasà, then in the Monteleone district of the province of Catanzaro and now in Vibo Valentia, Calabria, Italy. His father, Mastro Nicola Cognetta, was a ceraiuolo, a wax-chandler or candle-maker, then aged 51; his mother was Donna Mariangela Cannatello, aged 32. The titles Mastro and Donna mark a family of slightly elevated artisan standing. With his wife Mariarosa C. Lamanna, born in 1863, he was the father of Frank Cognetti.\n\nIn April 1910 a 23-year-old Nicola Cognetta of Dasà, sailing from Naples back to Stamford, Connecticut, named his nearest relative at home as his father Giovanni of Dasà and said he was going to join his brother Francesco. The names fit the Calabrian custom of calling the eldest son after his paternal grandfather, Mastro Nicola, and the record agrees with the family's account of Giovanni as the father of a Francesco, although it does not prove that this Francesco was Frank Cognetti of Scranton. It also shows that Giovanni was still living at Dasà in 1910, and there is no sign that he ever emigrated.\n\nHe died in 1930. The place recorded for his death, 'Nicasetro', has no support in any record and is probably a garbled entry, perhaps borrowed from the unrelated Cognetto family of Nicastro, about fifty kilometres to the north; he more likely died at Dasà, though this is unproven. He is probably John's maternal 2nd great-grandfather.",
    "residences": [
     {
      "date": "1855",
      "place": "Dasà, Vibo Valentia, Calabria, Italy"
+    },
+    {
+     "date": "1910-04",
+     "place": "Dasà, Calabria, Italy",
+     "note": "Named as 'father Giovanni, Dasa', the nearest relative at home, by his son Nicola when Nicola sailed to Stamford, CT in April 1910 (identity with Giovanni b. 1855 probable by place, surname and naming pattern). [R6-S1]"
     }
    ],
    "facts": [
@@ -23422,7 +24074,9 @@ window.FAMILY_DATA = {
    "sources": [
     "Antenati, Dasà, Nati 1855, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0JPovJv ; index https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0Zo8bdo",
     "Ancestry tree transcription",
-    "notes/italian.md 3.2; notes/round2/italian_gaps.md 3; notes/round3/italian_origins.md 4"
+    "notes/italian.md 3.2; notes/round2/italian_gaps.md 3; notes/round3/italian_origins.md 4",
+    "[R6-S1] List or Manifest of Alien Passengers, SS Regina d'Italia, Napoli 19 Apr 1910, arr. New York 2 May 1910, List 141, line 15, both pages (images read): Nicola Cognetta, 23, single, of Dasa; nearest relative in Italy 'father Giovanni, Dasa'; destination Stamford, Conn.; previously in the US ('04/09', Conn.); joining 'brother Francesco, 3 [?] Branch St'. NARA T715 roll 1468 frames 645-646; index JJNS-FNT. (primary) https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+    "[R6-S2] Statue of Liberty-Ellis Island Foundation passenger index (FamilySearch-backed), searches 1892-1925 for Cognetta and variants, and residence-filtered searches for Dasa/Dasà. (derivative) https://www.statueofliberty.org/arrival-search/"
    ],
    "mediaKnown": [
     "1855 birth act image (Antenati)"
@@ -23431,7 +24085,7 @@ window.FAMILY_DATA = {
     "Proof he is Frank Cognetti's father (Frank's birth act; Dasà has no births online 1862-1910)",
     "Marriage to Mariarosa Lamanna (Dasà, c.1880s)",
     "Death place 1930",
-    "Did Giovanni ever emigrate? No PA death-index trace; the tree's 1930 death place is unknown (probably Dasà)."
+    "Is 'Nicasetro' a garbled 'Dasà' or a real move to Nicastro? Check the Dasà Morti 1930 (Vibo Valentia Archivio di Stato, 1910-1951 on FamilySearch/Antenati)."
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -23458,9 +24112,63 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Did Giovanni ever emigrate? No PA death-index trace; the tree's 1930 death place is unknown (probably Dasà). → No emigration record found. In 1910 his son Nicola gave him as living at Dasà; he seems to have stayed in Italy."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ellis Island index: no Giovanni Cognetta/Cognetti of Dasà 1892-1925; Antenati (Dasà registry search): 403, blocked; FamilySearch catalog search API: 401, blocked; WebSearch: Cognetta Dasà 1855/1930 Giovanni Lamanna (no relevant hits)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: 1910 manifest of son Nicola names 'father Giovanni, Dasa' (alive at Dasà 1910) and brother Francesco in Stamford; 'Nicasetro' death place unsupported."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102020.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
-   "researchNotes": "Tree: Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863), parents of Frank Cognetti. Round 3 confirmed: born 22 Mar 1855, Dasà (Monteleone district; then province of Catanzaro / Calabria Ultra II, now Vibo Valentia), Nati 1855 act 18; father Mastro Nicola Cognetta, 51 (b. c.1804), ceraiuolo (wax-chandler/candle-maker); mother Donna Mariangela Cannatello, 32 (b. c.1823) - the tree's 'Mariantonia' is wrong. 'Mastro' and 'Donna' mark a family of slightly elevated, artisan status. Emigration unknown: no US record found; he is not in any Scranton census with Frank; probably stayed in Italy (speculative). Where he died in 1930 is not recorded. Index entries show Lamanna and Malvaso surnames in Dasà in 1854-55."
+   "researchNotes": "Tree: Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863), parents of Frank Cognetti. Round 3 confirmed: born 22 Mar 1855, Dasà (Monteleone district; then province of Catanzaro / Calabria Ultra II, now Vibo Valentia), Nati 1855 act 18; father Mastro Nicola Cognetta, 51 (b. c.1804), ceraiuolo (wax-chandler/candle-maker); mother Donna Mariangela Cannatello, 32 (b. c.1823) - the tree's 'Mariantonia' is wrong. 'Mastro' and 'Donna' mark a family of slightly elevated, artisan status. Emigration unknown: no US record found; he is not in any Scranton census with Frank; probably stayed in Italy (speculative). Where he died in 1930 is not recorded. Index entries show Lamanna and Malvaso surnames in Dasà in 1854-55.\n\nRound 6: In April 1910 a 23-year-old Nicola Cognetta of Dasà sailed from Naples to New York on his way back to Stamford, Connecticut, and gave his 'father Giovanni, Dasa' as his nearest relative at home. In Stamford he was going to join his brother Francesco ([R6-S1]). This is almost certainly a Giovanni Cognetta of Dasà with sons named Nicola and Francesco. The names fit the Calabrian custom of naming the eldest son after the paternal grandfather: Giovanni's father was Mastro Nicola Cognetta. So the record supports the tree's picture of Giovanni (born 1855) as father of a Francesco, although it does not prove that this Francesco was Frank Cognetti of Scranton. It also shows that Giovanni was still living at Dasà in 1910, and no record of him emigrating was found ([R6-S2]).\n\nThe tree's death place for him, 'Nicasetro' in 1930, has no support in any record found. The Nicastro Cognetto family of Scranton's other Frank (H0381) descends from Bruno Cognetto (b. 1857) and his parents Pietro Giuseppe Cognetto and Giovanna Cuda, and has no Giovanni. Nicastro (now Lamezia Terme) lies about 50 km north of Dasà. 'Nicasetro' is probably a garbled entry, perhaps borrowed from the other family, and his 1930 death was more likely at Dasà; this is unproven.",
+   "conflicts": [
+    {
+     "field": "death.place",
+     "site": "Nicasetro, Italy (1930)",
+     "found": "Living at Dasà in April 1910 (son's manifest); no record of a move to Nicastro",
+     "assessment": "Keep the 1930 year as tree-only. Flag 'Nicasetro' as doubtful; Dasà is more likely. Needs his death act (Dasà Morti 1930, on FamilySearch 'Italia, Vibo Valentia, Stato Civile 1910-1951', or Antenati when it is accessible)."
+    }
+   ],
+   "media": [
+    {
+     "file": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p1.jpg",
+     "type": "record",
+     "title": "1910 Ellis Island manifest (page 1): Nicola Cognetta of Dasà, 'father Giovanni, Dasa'",
+     "date": "1910-05-02",
+     "source": "NARA microfilm T715 roll 1468 (via FamilySearch / Statue of Liberty-Ellis Island Foundation), public_domain",
+     "note": "1910 US Immigration Service record, public domain. Line 15.",
+     "people": [
+      "I282695503559"
+     ],
+     "url": "https://www.statueofliberty.org/arrival-details/?id=JJNS-FNT"
+    },
+    {
+     "file": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p2.jpg",
+     "type": "record",
+     "title": "1910 Ellis Island manifest (page 2): Nicola joins 'brother Francesco', Branch St, Stamford",
+     "date": "1910-05-02",
+     "source": "NARA microfilm T715 roll 1468, public_domain",
+     "note": "Line 15, columns 13-29.",
+     "people": [
+      "I282695503559"
+     ],
+     "url": "https://www.statueofliberty.org/arrival-details/?id=JJNS-FNT"
+    }
+   ]
   },
   {
    "id": "I282697102027",
@@ -23529,6 +24237,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable); Ellis Island index: no Lamanna/La Manna arrivals with last residence Dasà 1892-1925; WebSearch: Cognetta Lamanna Dasà (no hits)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new; no Dasà Lamanna emigrants or online records found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102027.json."
     }
    ],
    "researchNotes": "Tree: Mariarosa C. Lamanna (b. 1863), wife of Giovanni Cognetta. Round 1: Lamanna is a widespread surname; Calabrian clusters at Melissa, Carpanzano, Tiriolo and Parenti (paese.app). A Maria Rosa Lamanna b. 1865 at Casino (now Castelsilano) is a DIFFERENT woman - she married a Girimonte (Girimonti research p306). Round 3 confirmed (index) that Lamanna occurs in Dasà in 1854-55, which supports the tree's Dasà connections."
@@ -23581,7 +24301,8 @@ window.FAMILY_DATA = {
    "openQuestions": [
     "Death act 1878 (Dasà Morti)",
     "Marriage to Mariangela Cannatello (Dasà, c.1840s)",
-    "Birth c.1802-04 and parents"
+    "Birth c.1802-04 and parents",
+    "A grandson named Nicola (b. c.1886-87, son of Giovanni, shoemaker, Stamford CT 1903-1910) fits the custom of naming the eldest son after the paternal grandfather (see NEW-1501)."
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -23612,6 +24333,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable); WebSearch: Cognetta Dasà genealogy (no hits)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new on Nicola himself; a grandson namesake, Nicola Cognetta b. c.1887 (son of Giovanni, of Dasà), went to Stamford CT 1903-1910 (see Giovanni's file)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102034.json."
     }
    ],
    "researchNotes": "Tree: Nicola Cognetta (1802-1878) + Mariantonia Cannatello (b. 1816); parents Francesco Cognetta (b. 1771) + Domenica Malvaso (1781-1848). Round 1: a MyHeritage index entry (via search extract) shows Mariangiola Cognetta née Cannatello, born 1818 in Dasà, married to Nicola Cognetta - almost certainly the same couple. Round 3: in Giovanni's birth act (22 Mar 1855, Dasà, Nati 1855 act 18) he is 'Mastro Nicola Cognetta', 51 (b. c.1804, not 1802), ceraiuolo (wax-chandler / candle-maker, who made votive and church candles). 'Mastro' marks an artisan of slightly elevated status."
@@ -23669,6 +24402,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new; no records before 1809 reachable online."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102090.json."
     }
    ],
    "researchNotes": "Tree: Francesco Cognetta (b. 1771) + Domenica Malvaso (1781-1848), parents of Nicola Cognetta. Not researched in civil records. Probably of Dasà (Vibo Valentia)."
@@ -23732,6 +24477,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable); Ellis Island index: Malvaso arrivals from Dasà exist (Giuseppe 1910, Antonio 1913) but nothing ties them to Domenica"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new; 1848 Dasà Morti still unreachable (Antenati 403)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102107.json."
     }
    ],
    "researchNotes": "Tree: Domenica Malvaso (1781-1848), wife of Francesco Cognetta; parents Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742). Malvaso is concentrated in Acquaro, the comune adjacent to Dasà (5 of 13 US arrivals per paese.app), and occurs in Dasà in 1854-55 (Antenati index). Her 1848 death act should be in the Dasà Morti (civil registration from 1809)."
@@ -23964,6 +24721,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697103483.json."
     }
    ],
    "researchNotes": "Tree: Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742), with record images. Round 1 flagged the b. 1740 / b. 1742 dates as unsourced. Probably of Dasà or Acquaro."
@@ -24034,6 +24803,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697103489.json."
     }
    ],
    "researchNotes": "Tree: Catarina Croce (b. 1742), wife of Nicola Malvaso. Not researched."
@@ -55744,6 +56525,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable); Ellis Island index: no Cannatello arrivals with last residence Dasà 1892-1925"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0337.json."
     }
    ],
    "conflicts": [
@@ -56283,7 +57076,7 @@ window.FAMILY_DATA = {
    },
    "death": {
     "date": "2019-07-01",
-    "place": "Exton, Chester County, Pennsylvania, USA"
+    "place": "At home, Exton, Chester County, Pennsylvania"
    },
    "occupation": "Machine operator, PA State Highway Department (1950)",
    "source": "research",
@@ -56291,7 +57084,9 @@ window.FAMILY_DATA = {
     "Leopold Salvatore Cognetti",
     "Leopoldo Cognetti",
     "Levyso",
-    "Leupo"
+    "Leupo",
+    "Leupo Cognetti (1940 census)",
+    "Leopoldo Cognetti (1930 census)"
    ],
    "mergedFrom": [
     {
@@ -56305,19 +57100,27 @@ window.FAMILY_DATA = {
     "note": "Echovita obituary (parents Frank and Helen; sister Mary Petriello (John)); 1930 census; WWII draft card; 1950 census."
    },
    "tags": [],
-   "summary": "Scranton-born state highway machine operator who lived to ninety, brother of Mary Cognetti Petriello; John's great-granduncle.",
-   "bio": "Leo S. Cognetti, whose full name was Leopold Salvatore, was born in Scranton on 19 May 1929 and named for his maternal grandfather, Leopoldo Ferlaino; the 1930 census lists him as Leopoldo. He registered for the draft during the Second World War, and in 1950 he was working as a machine operator for the Pennsylvania State Highway Department. He died at Exton in Chester County, Pennsylvania, on 1 July 2019, aged ninety. His obituary names his sister Mary Petriello, John's great-grandmother, and her husband John, which makes Leo John's great-granduncle.",
+   "summary": "Scranton-born Korean War Army veteran who spent 34 years with IBM, brother of Mary Cognetti Petriello; John's great-uncle.",
+   "bio": "Leo S. Cognetti, whose full name was Leopold Salvatore, was born in Scranton on 19 May 1929 and named for his maternal grandfather, Leopoldo Ferlaino; the 1930 census lists him as Leopoldo and the 1940 census as Leupo. He registered for the draft during the Second World War, and in 1950 he was working as a machine operator for the Pennsylvania State Highway Department. He served in the US Army during the Korean War and then spent 34 years with IBM, retiring as a finance controller.\n\nAround 1954 he married Jean D. Rossi of Old Forge, and they were married for 65 years. He died at home in Exton, Chester County, Pennsylvania, on 1 July 2019, aged ninety; his funeral Mass was said at St. Elizabeth Church in Chester Springs and he was buried privately in Scranton. His obituary names his sister Mary Petriello, John's grandmother, and her husband John, which makes Leo John's great-uncle. It also records that five brothers and a sister had died before him, so all eight of Frank and Helen Cognetti's children lived to adulthood.",
    "facts": [
     {
      "label": "Tree display",
      "value": "Levyso 1930-Living (wrong: Leo S., d. 2019)"
+    },
+    {
+     "label": "Occupation (round 4)",
+     "value": "Machine operator, Pa. State Highway Dept. (1950); IBM, retired as finance controller after 34 years"
     }
    ],
    "sources": [
     "Echovita: https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
     "1930 census XH3R-XB1: https://familysearch.org/ark:/61903/1:1:XH3R-XB1",
     "Draft card Q2Q2-N2SB: https://familysearch.org/ark:/61903/1:1:Q2Q2-N2SB",
-    "Thanksgiving article 2016"
+    "Thanksgiving article 2016",
+    "[R6-S1] Obituary of Leo S. Cognetti, James J. Terry Funeral Homes, Inc. (text in page data), 2019 (secondary) https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+    "[R6-S2] Obituary of Jean D. Cognetti (28 Apr 1932-27 Apr 2023), James J. Terry Funeral Homes, Inc. (secondary) https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti",
+    "[R6-S3] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 72 ('Leupo', son, 10) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S4] FamilySearch tree G3NN-88N, Leopold Cognetti 1929-2019 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3NN-88N"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -56344,9 +57147,70 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch Leo Cognetti Korean War records: nothing beyond obituary"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: full funeral-home obituary read: Korean War Army, IBM 34 years, wife Jean D. Rossi (1932-2023), private burial in Scranton."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0346.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
-   "researchNotes": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error."
+   "researchNotes": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error.\n\nRound 6: Leo served in the US Army during the Korean War and then spent 34 years with IBM, retiring as a finance controller. Around 1954 he married Jean D. Rossi of Old Forge, and they were married 65 years. He died at home in Exton on 1 July 2019, aged 90; his funeral Mass was said at St. Elizabeth Church, Chester Springs, and he was buried privately in Scranton ([R6-S1], [R6-S2]). His obituary notes that he was predeceased by five brothers and a sister, confirming the eight Cognetti children ([R6-S1]).",
+   "burial": {
+    "place": "Scranton, Pennsylvania (private interment)"
+   },
+   "residences": [
+    {
+     "date": "1999-2001",
+     "place": "Drexel Hill, Delaware County, Pennsylvania",
+     "note": "Public-records index in FS tree [R6-S4]"
+    },
+    {
+     "date": "2004",
+     "place": "Vestal, Broome County, New York",
+     "note": "Public-records index in FS tree [R6-S4]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to Jean D. Rossi",
+     "date": "ABT 1954",
+     "place": "",
+     "description": "Married 65 years at his death in 2019. [R6-S1] [R6-S2]"
+    },
+    {
+     "title": "Funeral",
+     "date": "2019-07-20",
+     "place": "St. Elizabeth Church, Chester Springs, Pennsylvania",
+     "description": "Mass of Christian Burial; private interment in Scranton. [R6-S1]"
+    }
+   ],
+   "military": [
+    {
+     "note": "US Army during the Korean War [R6-S1]"
+    }
+   ],
+   "media": [
+    {
+     "url": "https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+     "type": "link",
+     "title": "Portrait of Leo S. Cognetti (funeral-home obituary photo)",
+     "date": "",
+     "source": "James J. Terry Funeral Homes, Inc., copyrighted",
+     "note": "Family/funeral-home photo; not downloaded. Ask the family for permission if wanted. (not downloaded: rights copyrighted)",
+     "people": []
+    }
+   ]
   },
   {
    "id": "H0347",
@@ -58957,23 +59821,29 @@ window.FAMILY_DATA = {
    "surname": "Cognetti",
    "sex": "M",
    "birth": {
-    "date": "1894",
+    "date": "1894-09-20",
     "place": "Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy"
    },
    "death": {
-    "date": "1978"
+    "date": "Jan 1978",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
    },
    "source": "research",
    "link": {
     "confidence": "unverified",
-    "note": "NOT KIN: a different Scranton/Dunmore Frank Cognetti (confirmed separate family). Do not merge with Frank Cognetti (b. c.1891), husband of Helen Ferlaino."
+    "note": "Not kin: a different Scranton/Dunmore Frank Cognetti, from Nicastro, son of Bruno Cognetto; do not merge with Frank Cognetti (b. c.1891), husband of Helen Ferlaino. Round 6: his identity is now documented by his 1917 draft card, but no relationship to John's line was found."
    },
    "tags": [],
    "summary": "A Scranton Frank Cognetti from Nicastro who was a different man from John's relative of the same name.",
-   "bio": "Frank Cognetti was born in 1894 at Nicastro (now Lamezia Terme) in Catanzaro, Calabria, Italy, the son of Bruno Cognetto. He settled in Scranton, Pennsylvania, and married Maria Grazia Paradiso, known in America as Mary Grace Paradise. Their children were Bruno, Jane, Antoinette, Anthony (1929–2013), Russell and Victor L. He died in 1978. He shared his name and his adopted city with a Frank Cognetti in John's family, but he was not the same man and is not a proven relative.",
+   "bio": "Frank Cognetti was born on 20 September 1894 at Nicastro (now Lamezia Terme) in Catanzaro, Calabria, Italy, the son of Bruno Cognetto. His draft card of 1917, signed Francesco Cognetto, finds him a married alien living on East Drinker Street in Dunmore, Pennsylvania, working as a labourer for a Throop contractor and claiming exemption for a dependent wife. That wife, Maria Grazia Paradiso, known in America as Mary Grace Paradise, was also from Nicastro, the daughter of Francesco Paradiso and Theresa Tolerico, and had come through Ellis Island in 1915. Their children were Bruno, Jane, Antoinette, Anthony (1929–2013), Russell and Victor L. By 1942 the family lived on Short Avenue in Scranton, where Frank was a naturalized citizen by 1950. He died in Scranton in January 1978.\n\nHis father Bruno Cognetto, born in 1857 on the Strada Via Grande in Nicastro, was a son of Pietro Giuseppe Cognetto and Giovanna Cuda; a sister Giovanna stayed in Nicastro and married Michelangelo Gallo, and a brother Giuseppe died in Victoria, Australia, in 1971.\n\nHe shared his name and his adopted city with a Frank Cognetti in John's family, but the two came from different places and different families. This Frank spelled his name Cognetto or Cugnetto and came from Nicastro; John's great-grandfather was a Cognetta, by family account the son of Giovanni of Dasà, about fifty kilometres to the south, and the Dasà Cognettas who emigrated settled in Stamford, Connecticut.",
    "sources": [
     "FS tree P7MS-NB2: https://ancestors.familysearch.org/en/P7MS-NB2",
-    "Victor L. Cognetti obituary: https://www.legacy.com/us/obituaries/name/victor-cognetti-obituary?id=59852747"
+    "Victor L. Cognetti obituary: https://www.legacy.com/us/obituaries/name/victor-cognetti-obituary?id=59852747",
+    "[R6-S1] United States WWI Draft Registration Card, Lackawanna Co., PA, Local Board 819(?), card no. 124 (image read): Francesco Cognetto, 23, 604 E. Drinker [St.], Dunmore, Pa.; born September 20, 1894, Nicastro, Catanzaro, Italy; alien, citizen of Italy; laborer for Luis Cortese, Throop; supports wife; married; Caucasian; no military service; claims exemption (wife); signed Francesco Cognetto. FamilySearch record K6VD-FMF, image attached to tree P7MS-NB2. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/P7MS-NB2/images/i/2/image.jpg",
+    "[R6-S2] FamilySearch published tree P7MS-NB2 (JSON): Frank Cognetti, alt. Francesco Cognetto, b. 20 Sep 1894 Nicastro, d. Jan 1978 Scranton; immigration 3 Jun 1913 Philadelphia (unsourced); parents Bruno Cognetto GV9T-HLM and Rosa GV9T-7DG; siblings Giovanna GH1F-J7T and Giuseppe GKXW-NPF; wife Maria Grazia Paradiso LB1F-NRS; 13 children listed. (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/P7MS-NB2",
+    "[R6-S3] FamilySearch published tree: Bruno Cognetto GV9T-HLM (b. 6 Nov 1857, Strada Via Grande, Nicastro; son of Pietro Giuseppe Cognetto b. 1826 and Giovanna Cuda b. 1838); Giovanna Cugnetto GH1F-J7T (b. 19 Jun 1897 Nicastro, d. 22 Mar 1990 Lamezia Terme, m. Michelangelo Gallo); Giuseppe Cugnetto GKXW-NPF (b. c.1900 Nicastro, d. 26 Jul 1971 Parkville, Victoria, Australia); Maria Grazia Paradiso LB1F-NRS (b. 29 May 1901 Nicastro, dau. of Francesco Paradiso and Theresa Tolerico; arr. Ellis Island 19 Oct 1915; d. c.1978). (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GV9T-HLM",
+    "[R6-S4] Lackawanna Co. Orphans' Court, application for marriage license no. 1051, 1942 (image read): Jane Cognetti, 21, of 1313 Short Ave., Scranton, daughter of Frank Cognetti (laborer, born Italy) and Mary Paradise; married Francis August Boino 20 Jun 1942. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/P7MS-NB2/images/i/1/image.jpg",
+    "[R6-S5] 1950 US census, Scranton, Lackawanna Co., ED 79-27, sheet 11 (image read): 1313 [Short Ave], Frank Cognetti, head, 54, married, born Italy, naturalized; wife Mary 49, born Italy; children incl. Rose, Antoinette, Anthony, Frank, Joseph. FamilySearch 6X1Q-41R8. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/P7MS-NB2/images/i/0/image.jpg"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -59000,9 +59870,82 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → unverified (not kin): Identity now documented (WWI card), but no relationship to John's line found; keep as a separate, unrelated family."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 relationship evidence (parent H0513, probable): FS tree: Bruno Cognetto is father of Frank Cognetti P7MS-NB2."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ellis Island index: no Francesco Cognetto/Cugnetto b. c.1894 arrival found (FS tree's 3 Jun 1913 Philadelphia not confirmed); 20 Dec 1913 'Francesco Cugnetto' of S. Pietro, 18, is crossed off the Napoli manifest; PA death index: 1978 outside the online volumes"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: WWI draft card read (b. 20 Sep 1894 Nicastro; Dunmore 1917); FS family of Bruno Cognetto mapped; no link to John's Frank found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0381.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ],
-   "researchNotes": "Son of Bruno Cognetto; married Maria Grazia Paradiso ('Mary Grace Paradise'); children Bruno, Jane, Antoinette, Anthony (1929-2013), Russell and Victor L."
+   "researchNotes": "Son of Bruno Cognetto; married Maria Grazia Paradiso ('Mary Grace Paradise'); children Bruno, Jane, Antoinette, Anthony (1929-2013), Russell and Victor L.\n\nRound 6: His WWI draft card, signed 'Francesco Cognetto', gives his birth as 20 September 1894 at Nicastro, Catanzaro. In 1917 he was a married alien living at 604 East Drinker Street in Dunmore and working as a laborer for Luis Cortese of Throop ([R6-S1]). His FamilySearch family places his father Bruno Cognetto, born 1857 on the Strada Via Grande in Nicastro, as a son of Pietro Giuseppe Cognetto and Giovanna Cuda. It also gives him a sister Giovanna (1897-1990), who stayed in Nicastro and married Michelangelo Gallo, and a brother Giuseppe (c.1900-1971), who died in Parkville, Victoria, Australia ([R6-S2], [R6-S3]). His wife Maria Grazia Paradiso, also of Nicastro, was the daughter of Francesco Paradiso and Theresa Tolerico and came through Ellis Island in 1915 ([R6-S3]). The family lived at 1313 Short Avenue in Scranton by 1942 and in 1950, when Frank was a naturalized citizen ([R6-S4], [R6-S5]).\n\nNo link to John's Frank Cognetti (I282695503559) was found. This family spelled the name Cognetto/Cugnetto, came from Nicastro and descends from Bruno and Pietro Giuseppe. John's Frank was a Cognetta, by family tradition the son of Giovanni of Dasà, about 50 km to the south, and the Dasà Cognettas who emigrated went to Stamford, Connecticut. Keep the two separate.",
+   "aka": [
+    "Francesco Cognetto"
+   ],
+   "occupation": "Laborer (1917, for Luis Cortese of Throop; 1942)",
+   "residences": [
+    {
+     "date": "1917",
+     "place": "604 E. Drinker St, Dunmore, Pennsylvania",
+     "note": "WWI draft card [R6-S1]"
+    },
+    {
+     "date": "1942-1950",
+     "place": "1313 Short Ave, Scranton, Pennsylvania",
+     "note": "daughter Jane's 1942 license; 1950 census [R6-S4] [R6-S5]"
+    }
+   ],
+   "military": [
+    {
+     "note": "Registered for the WWI draft (1917) at Dunmore as an alien, married; claimed exemption for a dependent wife. [R6-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "P7MS-NB2"
+    },
+    {
+     "label": "Parents (FS tree)",
+     "value": "Bruno Cognetto (b. 1857 Nicastro) and Rosa"
+    }
+   ],
+   "funFacts": [
+    "The Nicastro Frank's younger brother Giuseppe ended his days in Australia (d. 1971, Parkville, Victoria), while their sister Giovanna stayed in Nicastro until 1990."
+   ],
+   "openQuestions": [
+    "Relationship to I282695503559: none found; a common ancestor before c.1800 cannot be excluded, but Nicastro and Dasà are different comuni and the surname forms differ (Cognetto vs Cognetta)."
+   ],
+   "media": [
+    {
+     "file": "media/H0381/wwi-draft-card-1917-francesco-cognetto.jpg",
+     "type": "record",
+     "title": "WWI draft card, 1917: Francesco Cognetto, b. 20 Sep 1894 Nicastro, of Dunmore",
+     "date": "1917",
+     "source": "NARA M1509 via FamilySearch, public_domain",
+     "note": "US government record (Selective Service, 1917), public domain. The ark record page itself was not loaded (FS record pages 401/redirect).",
+     "people": [],
+     "url": "https://familysearch.org/ark:/61903/1:1:K6VD-FMF"
+    }
+   ]
   },
   {
    "id": "H0382",
@@ -64766,8 +65709,8 @@ window.FAMILY_DATA = {
    "sex": "U",
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 6 (unverified → confirmed): Primary marriage license links her to Ralph A. Cognetti, son of Frank and Helen."
    },
    "tags": [],
    "researchLog": [
@@ -64786,8 +65729,107 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0498.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → confirmed: Primary marriage license links her to Ralph A. Cognetti, son of Frank and Helen."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 relationship evidence (spouse I282695503685, proven): 1940 marriage license no. 817"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Marguerite Cognetti' obituary 2014: not found (only the 2012 Amori obituary); Legacy.com: blocked"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: from 1940 license and 1950 census: seamstress, daughter of shoemaker Peter Forgione and Elizabeth D'Ettore; alive 2012; FS gives death 30 May 2014."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0498.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
-   ]
+   ],
+   "birth": {
+    "date": "ABT 1913-1914",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+   },
+   "death": {
+    "date": "2014-05-30",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+   },
+   "aka": [
+    "Margaret Forgione",
+    "Marguerite Cognetti",
+    "Mrs. Margaret Cognetti",
+    "Marguerita Foragrone (1940 census index)"
+   ],
+   "occupation": "Seamstress (1940); housewife (1950)",
+   "residences": [
+    {
+     "date": "1940-04",
+     "place": "1628 Farr St, Scranton",
+     "note": "With her parents [R6-S1] [R6-S3]"
+    },
+    {
+     "date": "1950",
+     "place": "1217 [street], Scranton",
+     "note": "With husband and four children [R6-S2]"
+    },
+    {
+     "date": "2012",
+     "place": "Scranton",
+     "note": "Named as surviving sister in Amelia Amori's obituary [R6-S5]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to Ralph A. Cognetti",
+     "date": "1940-06-01",
+     "place": "Scranton",
+     "description": "License no. 817; Rev. Luigino R[angi?] officiated. [R6-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "LJQW-QT8"
+    }
+   ],
+   "researchNotes": "Round 6: Marguerite (on her licence 'Margaret') Forgione was born in Scranton about 1913, a daughter of Peter (Pietro) Forgione, an Italian-born shoemaker, and Elizabeth D'Ettore; she was one of at least nine children ([R6-S1], [R6-S4]). A 26-year-old seamstress living with her family on Farr Street, she married Ralph A. Cognetti on 1 June 1940 ([R6-S1]). In 1950 she was keeping house for Ralph and their four children ([R6-S2]). She outlived Ralph by five years and was still living in Scranton in 2012, when she was named as a surviving sister in her sister Amelia Amori's obituary ([R6-S5]); the FamilySearch tree gives her death as 30 May 2014 in Scranton, aged about 101 ([R6-S4]).",
+   "openQuestions": [
+    "Marguerite's 2014 obituary (Scranton Times) to confirm the 30 May 2014 death and her burial place.",
+    "Daughter Helen (aged 9 in 1950) is missing from the tree; privacy check needed."
+   ],
+   "sources": [
+    "[R6-S1] Lackawanna County Orphans' Court, marriage license application no. 817 (1940), Ralph A. Cognetti and Margaret Forgione (signed Marguerite), p. 317; FS index VF7X-JLK, image attached to FS tree LJQW-QT8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+    "[R6-S2] 1950 US census, Scranton, E.D. 79-22, sheet 3, house 1217, line 25 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/0/image.jpg",
+    "[R6-S3] 1940 US census, 'Marguerita Foragrone' in the household of Peter 'Foragrone', Scranton; FS index KQWV-NWH, image attached to LJQW-QT8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/2/image.jpg",
+    "[R6-S4] FamilySearch tree LJQW-QT8, Marguerite Forgione 1913-2014 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8",
+    "[R6-S5] Obituary of Amelia Amori, The Times-Tribune, 2012 (Legacy id 20497979; blocked), as quoted in a search summary (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/amelia-amori-obituary?id=20497979"
+   ],
+   "media": [
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:VF7X-JLK",
+     "type": "link",
+     "title": "1940 marriage license no. 817, Ralph A. Cognetti and Margaret Forgione",
+     "date": "1940-04-22",
+     "source": "FamilySearch (Lackawanna County Orphans' Court), unknown",
+     "note": "Same image as on Ralph's record; rights unknown; not downloaded. (not downloaded: rights unknown)",
+     "people": [
+      "I282695503685",
+      "I282695503559",
+      "I282695503581"
+     ]
+    }
+   ],
+   "summary": "Scranton seamstress, daughter of a Farr Street shoemaker, who married Ralph A. Cognetti in 1940 and lived to about 101; wife of John's great-uncle.",
+   "bio": "Marguerite Forgione, recorded as Margaret on her marriage licence, was born in Scranton about 1913, one of at least nine children of Peter Forgione, an Italian-born shoemaker, and his wife Elizabeth D'Ettore. In 1940 she was a 26-year-old seamstress living with her family on Farr Street, and on 1 June that year she married Ralph A. Cognetti, the eldest brother of John's grandmother Mary Cognetti Petriello. By 1950 she was keeping house for Ralph and their four children.\n\nShe outlived Ralph by five years and was still living in Scranton in 2012, when her sister Amelia Amori's obituary named her among the survivors. Family records give her death as 30 May 2014 in Scranton, at about 101."
   },
   {
    "id": "H0499",
@@ -64796,8 +65838,8 @@ window.FAMILY_DATA = {
    "sex": "U",
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 6 (unverified → confirmed): Primary marriage license links her to Sal Cognetti, son of Frank and Helen."
    },
    "tags": [],
    "researchLog": [
@@ -64816,8 +65858,98 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0499.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → confirmed: Primary marriage license links her to Sal Cognetti, son of Frank and Helen."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 relationship evidence (spouse I282695503586, proven): 1943 marriage license no. 1716"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Elizabeth Cognetti' Notarianni Scranton 1994 obituary: nothing; Find a Grave memorial (index CVV7-9XT2): site blocked per brief"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: from her 1943 marriage license and FS tree: b. 24 Sep 1914 Scranton, stenographer, parents Joseph Notarianni and Michelina Carabia; d. 20 Sep 1994, Cathedral Cemetery."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0499.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
-   ]
+   ],
+   "birth": {
+    "date": "1914-09-24",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+   },
+   "death": {
+    "date": "1994-09-20",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+   },
+   "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania"
+   },
+   "aka": [
+    "Elizabeth Mary Notarianni",
+    "Elizabeth M. Notarianni Cognetti",
+    "Elizabeth Notarianna (1930 census)"
+   ],
+   "occupation": "Stenographer (1943)",
+   "residences": [
+    {
+     "date": "1930",
+     "place": "Scranton, Pennsylvania",
+     "note": "With her parents [R6-S3]"
+    },
+    {
+     "date": "1943-10",
+     "place": "1219 Providence Rd, Scranton, Pennsylvania",
+     "note": "At marriage [R6-S1]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to Sal Cognetti",
+     "date": "1943-10-16",
+     "place": "Scranton, Pennsylvania",
+     "description": "License no. 1716; Rev. Luigino R[angi?] officiated. [R6-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "GJ6T-768"
+    }
+   ],
+   "researchNotes": "Round 6: Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, a daughter of Joseph Notarianni (1880-1940) and Michelina Carabia (1889-1953), both born in Italy ([R6-S1], [R6-S2]). She was working as a stenographer and living at 1219 Providence Road when she married Sal Cognetti, then a soldier, on 16 October 1943; her father had died three years earlier ([R6-S1]). She outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery ([R6-S2]).",
+   "sources": [
+    "[R6-S1] Lackawanna County Orphans' Court, marriage license application no. 1716 (1943), Sal. Cognetti and Elizabeth Notarianni, p. 216; FS index VF7J-VGD (bride), image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+    "[R6-S2] FamilySearch tree GJ6T-768, Elizabeth Mary Notarianni 1914-1994 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJ6T-768",
+    "[R6-S3] 1930 US census, Scranton, 'Elizabeth Notarianna' in her parents' household; FS index XH3R-8DM, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/0/image.jpg"
+   ],
+   "media": [
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:VF7J-VGD",
+     "type": "link",
+     "title": "1943 marriage license application no. 1716, Sal Cognetti and Elizabeth Notarianni",
+     "date": "1943-10-13",
+     "source": "FamilySearch (Lackawanna County Orphans' Court), unknown",
+     "note": "Already known to the site under Sal; listed here for Elizabeth. Rights unknown; not downloaded. (not downloaded: rights unknown)",
+     "people": [
+      "I282695503586",
+      "I282695503559",
+      "I282695503581"
+     ]
+    }
+   ],
+   "summary": "Scranton stenographer, daughter of the produce dealer Joseph Notarianni, who married Sal Cognetti in 1943; wife of John's great-uncle.",
+   "bio": "Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, the daughter of Joseph Notarianni, a produce dealer, and Michelina Caravia, both born in Italy; her mother came from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino. She was working as a stenographer and living on Providence Road when she married Sal Cognetti, then a soldier home on leave, on 16 October 1943; her father had died three years earlier. The same priest had married Sal's brother Ralph in 1940.\n\nShe outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery."
   },
   {
    "id": "H0500",
@@ -64862,6 +65994,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Anthony R. Cognetti obituary summaries (Legacy id 24081273, blocked): confirm only that he was predeceased by his first wife Mary Ruth (already on site); WebSearch 'Mary Ruth Cognetti' 1978 obituary: nothing"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new beyond round 5."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0500.json."
     }
    ],
    "death": {
@@ -65443,7 +66587,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "note": "Father of the unrelated Scranton Frank Cognetti (H0381), from Nicastro; outside John's line. Round 6: birth and parents from a FamilySearch tree only."
    },
    "tags": [],
    "researchLog": [
@@ -65462,8 +66606,60 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0513.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → unverified (not kin): Tree data only; outside John's line."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 relationship evidence (child H0381, probable): FS tree GV9T-HLM lists Frank Cognetti P7MS-NB2 as his son, b. 20 Sep 1894 Nicastro (matches Frank's WWI card)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ellis Island index: Bruno Cugnetto / Bruno Cognetto 1892-1925 (no matching arrival)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: FS tree gives b. 6 Nov 1857 Nicastro, parents Pietro Giuseppe Cognetto and Giovanna Cuda, children Frank, Giovanna, Giuseppe; no emigration found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0513.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
-   ]
+   ],
+   "birth": {
+    "date": "1857-11-06",
+    "place": "Strada Via Grande, Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy"
+   },
+   "aka": [
+    "Bruno Cugnetto"
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "GV9T-HLM"
+    }
+   ],
+   "researchNotes": "Round 6: Bruno Cognetto, also written Cugnetto, was born on 6 November 1857 on the Strada Via Grande in Nicastro (now Lamezia Terme), Calabria. According to the FamilySearch tree he was the son of Pietro Giuseppe Cognetto (b. 1826) and Giovanna Cuda (b. 1838) and had a brother Vincenzo (b. 1860). With his wife Rosa (maiden name not given) he had Francesco/Frank (1894-1978), who emigrated to Dunmore and Scranton, Pennsylvania; Giovanna (1897-1990), who married Michelangelo Gallo and died at Lamezia Terme; and Giuseppe (c.1900-1971), who died in Victoria, Australia ([R6-S1]). No record of Bruno himself emigrating was found ([R6-S2]). He is the father of the 'other' Scranton Frank Cognetti (H0381) and is not known to be related to John's family.",
+   "conflicts": [
+    {
+     "field": "marriage",
+     "site": "(none)",
+     "found": "FS tree shows a marriage on 17 Aug 1856, before his own birth",
+     "assessment": "That date probably belongs to his parents' marriage; ignore it."
+    }
+   ],
+   "sources": [
+    "[R6-S1] FamilySearch published tree, Bruno Cognetto GV9T-HLM (JSON), with parents, sibling, spouse and children. (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GV9T-HLM",
+    "[R6-S2] Statue of Liberty-Ellis Island Foundation passenger index: Bruno Cognetto/Cugnetto 1892-1925. (derivative) https://www.statueofliberty.org/arrival-search/"
+   ],
+   "summary": "Of Nicastro in Calabria, father of the Scranton Frank Cognetti who was not John's relative; no known kinship to John's family.",
+   "bio": "Bruno Cognetto, whose name is also written Cugnetto, was born on 6 November 1857 on the Strada Via Grande in Nicastro, now Lamezia Terme, in Calabria. According to a family genealogy he was the son of Pietro Giuseppe Cognetto, born 1826, and Giovanna Cuda, born 1838, and had a brother Vincenzo. With his wife Rosa, whose maiden name is not given, he had Francesco, later Frank Cognetti of Dunmore and Scranton (1894–1978); Giovanna (1897–1990), who married Michelangelo Gallo and died at Lamezia Terme; and Giuseppe (about 1900–1971), who died in Victoria, Australia. No record shows Bruno himself leaving Italy. He was the father of the Scranton Frank Cognetti who was not John's relative, and no kinship between his family and John's Cognettas of Dasà is known."
   },
   {
    "id": "H0514",
@@ -69704,6 +70900,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Evelyn Cognetti' Pittsburgh obituary: no match; Legacy.com (Post-Gazette): blocked"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6: nothing new; maiden name and dates still unknown."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/M0079.json."
     }
    ],
    "researchNotes": "round5: Wife of John F. Cognetti (I282695503584) of Green Tree, PA; predeceased him (died before Nov 2013). Maiden name unknown."
@@ -69959,19 +71167,30 @@ window.FAMILY_DATA = {
    "surname": "Notarianni",
    "sex": "F",
    "aka": [
+    "Carabia",
     "Caravia"
    ],
+   "birth": {
+    "date": "1889",
+    "place": "Italy"
+   },
+   "death": {
+    "date": "1953-02-11",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
    "source": "research",
    "link": {
-    "confidence": "possible",
-    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
+    "confidence": "confirmed",
+    "note": "Parents of Elizabeth Notarianni, wife of John's great-uncle Sal Cognetti, per her 1943 marriage licence; related to John by marriage only."
    },
    "tags": [],
    "summary": "Michelena Caravia Notarianni of San Mango d'Aquino, Calabria, wife of the Scranton produce dealer Joseph Notarianni and the namesake of Caravia Fresh Foods.",
-   "bio": "Michelena Notarianni, born Caravia, came from San Mango d'Aquino in Calabria, the same village as John's great-grandmother Helen Ferlaino. She was the wife of Joseph Notarianni, a Scranton produce dealer, and the mother of Elizabeth Notarianni, who married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. Her grandson Joe Cognetti named his store, Caravia Fresh Foods in Clarks Summit, after her.",
+   "bio": "Michelena Notarianni, born Caravia, came from San Mango d'Aquino in Calabria, the same village as John's great-grandmother Helen Ferlaino. She was the wife of Joseph Notarianni, a Scranton produce dealer, and the mother of Elizabeth Notarianni, who married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. Her grandson Joe Cognetti named his store, Caravia Fresh Foods in Clarks Summit, after her.\n\nShe was born in Italy in 1889 and died in Scranton on 11 February 1953; Elizabeth's 1943 marriage licence gives her name as Michelina and her maiden name as Caravia, also written Carabia.",
    "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
-    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "Lackawanna County marriage license application no. 1716, Sal Cognetti and Elizabeth Notarianni, 13 Oct 1943 (names her parents Joseph Notarianni, deceased, and Michelina Caravia): https://familysearch.org/ark:/61903/1:1:VF7J-VGD",
+    "FamilySearch tree, Michelina Carabia/Caravia Notarianni (1889–1953), GJ6T-7B8"
    ],
    "manual": true,
    "researchLog": [
@@ -69982,6 +71201,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): birth and death years and the 1943 marriage licence added; the round-6 file created a duplicate of this person, which was folded back in."
     }
    ],
    "researchNotes": "round5: From San Mango d'Aquino, Calabria (the same village as Helen Ferlaino). Wife of Joseph Notarianni, Scranton produce dealer; mother of Elizabeth (Notarianni) Cognetti, wife of Sal D. Cognetti. Grandmother for whom Caravia Fresh Foods is named."
@@ -69991,17 +71214,27 @@ window.FAMILY_DATA = {
    "given": "Joseph",
    "surname": "Notarianni",
    "sex": "M",
+   "birth": {
+    "date": "1880",
+    "place": "Italy"
+   },
+   "death": {
+    "date": "1940-12-03",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
    "source": "research",
    "link": {
-    "confidence": "possible",
-    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
+    "confidence": "confirmed",
+    "note": "Parents of Elizabeth Notarianni, wife of John's great-uncle Sal Cognetti, per her 1943 marriage licence; related to John by marriage only."
    },
    "tags": [],
    "summary": "Scranton produce dealer who founded Joseph Notarianni Produce about 1925; father of Elizabeth Notarianni, wife of Sal D. Cognetti.",
-   "bio": "Joseph Notarianni was a produce dealer in Scranton, Pennsylvania, who founded Joseph Notarianni Produce about 1925; the firm stayed in the family until his great-grandson Joe Cognetti sold it in 1999. He married Michelena Caravia of San Mango d'Aquino, Calabria, and their daughter Elizabeth married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello.",
+   "bio": "Joseph Notarianni was a produce dealer in Scranton, Pennsylvania, who founded Joseph Notarianni Produce about 1925; the firm stayed in the family until his great-grandson Joe Cognetti sold it in 1999. He married Michelena Caravia of San Mango d'Aquino, Calabria, and their daughter Elizabeth married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello.\n\nJoseph Notarianni was born in Italy in 1880 and died in Scranton on 3 December 1940, three years before his daughter Elizabeth's wedding; her marriage licence names him as her late father.",
    "sources": [
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
-    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "Lackawanna County marriage license application no. 1716, Sal Cognetti and Elizabeth Notarianni, 13 Oct 1943 (names her parents Joseph Notarianni, deceased, and Michelina Caravia): https://familysearch.org/ark:/61903/1:1:VF7J-VGD",
+    "FamilySearch tree, Joseph Notarianni (1880–1940)"
    ],
    "manual": true,
    "researchLog": [
@@ -70012,6 +71245,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): birth and death years and the 1943 marriage licence added; the round-6 file created a duplicate of this person, which was folded back in."
     }
    ],
    "researchNotes": "round5: Scranton produce dealer, founder (c.1925) of Joseph Notarianni Produce; husband of Michelena Caravia; father of Elizabeth (Notarianni) Cognetti."
@@ -70228,6 +71465,319 @@ window.FAMILY_DATA = {
     }
    ],
    "researchNotes": "round5: Son of Anthony and Ann Marie Genello; wife Kathleen; of Fleetville, PA; children Brianna, Bryce and Bradyn (names only) (father's 2024 obituary)."
+  },
+  {
+   "id": "M0097",
+   "given": "Nicola",
+   "surname": "Cognetta",
+   "sex": "M",
+   "birth": {
+    "date": "ABT 1886",
+    "place": "Dasà, Vibo Valentia, Calabria, Italy"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Son of Giovanni Cognetta of Dasà per his 1910 manifest; brother of John's great-grandfather Frank only if the Francesco Cognetta of Stamford was Frank, which is probable but unproven."
+   },
+   "tags": [],
+   "summary": "Shoemaker from Dasà who emigrated to Stamford, Connecticut, in 1903; son of Giovanni Cognetta and probably an elder brother of Frank Cognetti of Scranton.",
+   "bio": "Nicola Cognetta was born at Dasà in Calabria about 1886 or 1887, the son of Giovanni Cognetta, and carried the name of his grandfather, the candle-maker Mastro Nicola Cognetta. A shoemaker, he landed in New York in December 1903, aged seventeen, bound for Stamford, Connecticut, where many families from Dasà settled. He went home and sailed again from Naples in April 1910, telling the clerk at Ellis Island that his nearest relative at home was his father Giovanni at Dasà and that he was joining his brother Francesco on Branch Street in Stamford. A Francesco Cognetta of Dasà, also seventeen, had arrived in 1905 to join a brother Nicola there.\n\nIf, as the family's account of Frank Cognetti's parentage suggests, that Francesco was John's great-grandfather, Nicola was Frank's elder brother and John's great-great-uncle; the identification is probable but not proven. He should not be confused with an older Nicola Cognetta of Dasà, born about 1870, who went to Stamford with his family in 1911 and 1916.",
+   "sources": [
+    "[R6-S1] Manifest, SS Regina d'Italia, arr. New York 2 May 1910, List 141, line 15 (images read); index JJNS-FNT. (primary) https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+    "[R6-S2] Manifest, SS Citta di Napoli, arr. New York 3 Dec 1903, List R, line 21 (image read); index JFYR-8MQ (residence indexed 'Rosa'). (primary) https://www.familysearch.org/ark:/61903/3:1:33S7-L161-VSK",
+    "[R6-S3] Manifest, SS Citta di Milano, arr. New York 18 Jun 1905, List 25, line 26 (image read); index JF7W-PY9. (primary) https://www.familysearch.org/ark:/61903/3:1:33S7-91J1-8H5"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1501 → M0097; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ],
+   "occupation": "Shoemaker (1903)",
+   "residences": [
+    {
+     "date": "1903–1910",
+     "place": "Stamford, Fairfield County, Connecticut, USA",
+     "note": "Branch Street in 1910, with his brother Francesco"
+    }
+   ],
+   "events": [
+    {
+     "title": "Arrived at Ellis Island",
+     "date": "1903-12",
+     "place": "New York, New York, USA",
+     "description": "Aged 17, a shoemaker, bound for Stamford, Connecticut."
+    },
+    {
+     "title": "Returned to America",
+     "date": "1910-05-02",
+     "place": "New York, New York, USA",
+     "description": "On the Regina d'Italia from Naples, aged 23, naming his father Giovanni at Dasà and joining his brother Francesco on Branch Street, Stamford."
+    }
+   ]
+  },
+  {
+   "id": "M0098",
+   "given": "Jean D. Rossi",
+   "surname": "Cognetti",
+   "sex": "F",
+   "birth": {
+    "date": "1932-04-28",
+    "place": "Old Forge, Lackawanna County, Pennsylvania"
+   },
+   "death": {
+    "date": "2023-04-27",
+    "place": "Paoli Hospital, Paoli, Chester County, Pennsylvania (residence Exton)"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Wife of John's great-uncle Leo S. Cognetti (both obituaries); related by marriage only."
+   },
+   "tags": [],
+   "summary": "School librarian from Old Forge, wife of Leo S. Cognetti for 65 years (1932–2023).",
+   "bio": "Jean D. Rossi was born in Old Forge, Pennsylvania, on 28 April 1932, the daughter of Santino 'Sandy' Rossi and Elizabeth Marino Rossi. About 1954 she married Leo S. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and they were married 65 years. A homemaker, school librarian and keen golfer, she lived in later life at Exton in Chester County and died at Paoli Hospital on 27 April 2023, the day before her 91st birthday.",
+   "sources": [
+    "[R6-S1] Obituary of Leo S. Cognetti, James J. Terry Funeral Homes, 2019 (secondary) https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+    "[R6-S2] Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023 (secondary) https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1551 → M0098; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ],
+   "occupation": "School librarian; homemaker"
+  },
+  {
+   "id": "M0099",
+   "given": "Domenica 'Min'",
+   "surname": "Cognetti",
+   "sex": "F",
+   "death": {
+    "date": "2009",
+    "place": "probably Moosic or Scranton, Pennsylvania"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Wife of John's great-uncle Joseph F. Cognetti (his obituary); related by marriage only."
+   },
+   "tags": [],
+   "summary": "'Aunt Min', wife of Joseph F. Cognetti for 63 years and co-founder of the Cognetti family Thanksgiving.",
+   "bio": "Domenica Cognetti, called Aunt Min by the family, married Joseph F. Cognetti in 1946, after his Army Air Corps service. In 1966 the couple started the Cognetti family Thanksgiving in a back room of Brutico's restaurant in Old Forge, a gathering that grew to 151 relatives by its fiftieth year. They retired to Glenmaura in Moosic and died two months apart in 2009, after 63 years of marriage. Her maiden name is not yet known.",
+   "sources": [
+    "[R6-S1] Joseph F. Cognetti obituary, Times-Tribune 28 May 2009 (Legacy id 23435864; blocked; search summary only) (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
+    "[R6-S2] 'Family celebrates 50 years of Thanksgiving gatherings', Times-Tribune, Nov 2016 (Hinerfeld reprint) (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1552 → M0099; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ]
+  },
+  {
+   "id": "M0102",
+   "given": "Pietro",
+   "surname": "Forgione",
+   "sex": "M",
+   "aka": [
+    "Peter"
+   ],
+   "birth": {
+    "date": "1877",
+    "place": "Italy"
+   },
+   "death": {
+    "date": "1948-12-10",
+    "place": "Scranton, Pennsylvania"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Father of Marguerite Forgione per her 1940 marriage licence; related to John by marriage only."
+   },
+   "tags": [],
+   "summary": "Italian-born Scranton shoemaker, father of Marguerite Forgione, wife of Ralph A. Cognetti.",
+   "bio": "Pietro Forgione, known in America as Peter, was born in Italy in 1877 and settled in Scranton, Pennsylvania, where he worked as a shoemaker and raised at least nine children with his wife Elizabeth D'Ettore. Their daughter Marguerite married Ralph A. Cognetti, the eldest brother of John's grandmother, in 1940. He died in Scranton on 10 December 1948.",
+   "sources": [
+    "[R6-S1] Lackawanna Co. marriage license no. 817 (1940), Ralph A. Cognetti and Margaret Forgione (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+    "[R6-S2] FamilySearch tree LJQW-QT8 (Marguerite Forgione) with parents L6CM-QWS and L6CM-7C3 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1555 → M0102; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "L6CM-QWS"
+    }
+   ],
+   "occupation": "Shoemaker (1940)"
+  },
+  {
+   "id": "M0103",
+   "given": "Elizabeth D'Ettore",
+   "surname": "Forgione",
+   "sex": "F",
+   "birth": {
+    "date": "1888",
+    "place": "Italy"
+   },
+   "death": {
+    "date": "1964-01-05",
+    "place": "Scranton, Pennsylvania"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Mother of Marguerite Forgione per her 1940 marriage licence; related to John by marriage only."
+   },
+   "tags": [],
+   "summary": "Italian-born Scranton mother of Marguerite Forgione Cognetti.",
+   "bio": "Elizabeth D'Ettore was born in Italy in 1888 and married the shoemaker Pietro Forgione; they lived in Scranton, Pennsylvania, and had at least nine children, among them Marguerite, who married Ralph A. Cognetti in 1940. She died in Scranton on 5 January 1964.",
+   "sources": [
+    "[R6-S1] Lackawanna Co. marriage license no. 817 (1940), Ralph A. Cognetti and Margaret Forgione (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+    "[R6-S2] FamilySearch tree LJQW-QT8 (Marguerite Forgione) with parents L6CM-QWS and L6CM-7C3 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1556 → M0103; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "L6CM-7C3"
+    }
+   ]
+  },
+  {
+   "id": "M0104",
+   "given": "Nicholas",
+   "surname": "Butchko",
+   "sex": "M",
+   "death": {
+    "date": "BEF 2009"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Husband of John's great-aunt Angeline Cognetti per a summary of her obituary; related by marriage only."
+   },
+   "tags": [],
+   "summary": "Husband of Angeline Cognetti for about fifty years.",
+   "bio": "Nicholas Butchko married Angeline Cognetti, a daughter of Frank and Helen Cognetti of Scranton and John's great-aunt, probably in the 1950s. They were married about fifty years, and he died before her; she died in 2009.",
+   "sources": [
+    "[R6-S1] Search-engine summary of 'Angeline Butchko Obituary (2009) - Scranton, PA' (page not reached; idcrawl/Legacy 403) (derivative) https://www.idcrawl.com/nicholas-butchko"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1557 → M0104; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ]
+  },
+  {
+   "id": "M0105",
+   "given": "Santino",
+   "surname": "Rossi",
+   "sex": "M",
+   "aka": [
+    "Sandy"
+   ],
+   "death": {
+    "date": "BEF 2023"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Father of Jean Rossi Cognetti per her obituary; related to John by marriage only."
+   },
+   "tags": [],
+   "summary": "Of Old Forge, Pennsylvania; father of Jean D. Rossi Cognetti.",
+   "bio": "Santino Rossi, known as Sandy, lived at Old Forge, Pennsylvania, and with his wife Elizabeth Marino was the father of Jean D. Rossi, who married Leo S. Cognetti about 1954. He died before his daughter, who died in 2023.",
+   "sources": [
+    "[R6-S2] Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023 (secondary) https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1558 → M0105; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ]
+  },
+  {
+   "id": "M0106",
+   "given": "Elizabeth Marino",
+   "surname": "Rossi",
+   "sex": "F",
+   "death": {
+    "date": "BEF 2023"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Mother of Jean Rossi Cognetti per her obituary; related to John by marriage only."
+   },
+   "tags": [],
+   "summary": "Of Old Forge, Pennsylvania; mother of Jean D. Rossi Cognetti.",
+   "bio": "Elizabeth Marino married Santino 'Sandy' Rossi of Old Forge, Pennsylvania, and was the mother of Jean D. Rossi, who married Leo S. Cognetti about 1954. She died before her daughter, who died in 2023.",
+   "sources": [
+    "[R6-S2] Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023 (secondary) https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 6 (Cognetti research): new relative NEW-1559 → M0106; research/imported/round6/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+   ]
   }
  ],
  "families": [
@@ -70674,7 +72224,8 @@ window.FAMILY_DATA = {
    "husband": "I282697102020",
    "wife": "I282697102027",
    "children": [
-    "I282695503559"
+    "I282695503559",
+    "M0097"
    ]
   },
   {
@@ -71684,15 +73235,14 @@ window.FAMILY_DATA = {
    "id": "F155",
    "wife": "I282695503581",
    "children": [
-    "I282695503588",
+    "I282695503685",
     "I282695503586",
     "I282695503585",
     "I282695503587",
     "I282695503583",
     "I282695503584",
     "H0346",
-    "I282695503537",
-    "I282695503685"
+    "I282695503537"
    ],
    "husband": "I282695503559",
    "marriage": {
@@ -73753,14 +75303,48 @@ window.FAMILY_DATA = {
    "husband": "M0089"
   },
   {
-   "id": "CF0413",
+   "id": "MF0031",
+   "children": [],
+   "wife": "M0098",
+   "husband": "H0346"
+  },
+  {
+   "id": "MF0032",
+   "children": [],
+   "wife": "M0099",
+   "husband": "I282695503585"
+  },
+  {
+   "id": "MF0035",
+   "children": [],
+   "husband": "M0104",
+   "wife": "I282695503587"
+  },
+  {
+   "id": "MF0036",
+   "children": [
+    "H0498"
+   ],
+   "husband": "M0102",
+   "wife": "M0103"
+  },
+  {
+   "id": "MF0037",
+   "children": [
+    "M0098"
+   ],
+   "husband": "M0105",
+   "wife": "M0106"
+  },
+  {
+   "id": "CF0418",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0414",
+   "id": "CF0419",
    "children": [
     "I282608085305"
    ],
@@ -73768,8 +75352,8 @@ window.FAMILY_DATA = {
   }
  ],
  "counts": {
-  "gedcom": 342,
-  "research": 609
+  "gedcom": 341,
+  "research": 617
  },
  "stories": [
   {
@@ -75720,6 +77304,64 @@ window.FAMILY_DATA = {
    ],
    "body": "The full obituary of Sharon Meier's father, John T. (Johnny) Petriello Sr. (1932-2025), gives details not on the site. He graduated from Dunmore High School and attended New Mexico Western College, Lackawanna College and Penn State. He then served four years in the US Air Force as a staff sergeant during the Korean War. At Tobyhanna Army Depot he became a staffing specialist and the depot's program manager for the handicapped. He took pride in hiring severely handicapped workers, was commended by General William McGrath, and helped the depot earn national recognition for one of the finest such programs in the Department of the Army.\n\nAfter retiring from the government he was Director of Personnel at Lackawanna College for 14 years. He was a Eucharistic Minister at St Anthony's in Scranton and a member of Holy Rosary, a hunter who raised beagles and went to buck camp each year, and a lover of the Jersey Shore and winters in Cocoa Beach. A former Tobyhanna colleague wrote on the tribute wall that he was 'an important part of the personnel office there'. The Mass was at St. Gregory's, Clarks Green, with private interment in Cathedral Cemetery.",
    "source": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181; Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+  },
+  {
+   "id": "S197",
+   "title": "From Dasà to Stamford: the Cognetta brothers on Ellis Island",
+   "date": "1903-1910",
+   "people": [
+    "I282695503559",
+    "I282697102020",
+    "M0097"
+   ],
+   "body": "Ellis Island passenger lists show that the Cognettas of Dasà, a hill village in what is now the province of Vibo Valentia, followed the same route as most of their neighbours: to Stamford, Connecticut. In December 1903 a 17-year-old shoemaker named Nicola Cognetta landed in New York bound for Stamford. In June 1905 his younger brother Francesco, also 17, followed him. Francesco had $12 in his pocket and gave his brother Nicola in Stamford as the man he was joining.\n\nNicola went home and in April 1910 sailed again from Naples. This time the clerk recorded that his nearest relative at home was his 'father Giovanni, Dasa', and that he was going to his 'brother Francesco' on Branch Street in Stamford. A Giovanni Cognetta of Dasà with sons named Nicola and Francesco is exactly what John's family tree describes: Frank Cognetti of Scranton was said to be the son of Giovanni Cognetta of Dasà and the grandson of the candle-maker Mastro Nicola Cognetta.\n\nThe last step, from Stamford to Scranton, is not documented. Frank was in Scranton and married to Helen Ferlaino by about 1912, and in later censuses he gave his arrival as 1907 or 1908 and ages two to four years younger than the Francesco of 1905. The Stamford Francesco is a strong candidate to be Frank, but the match is not proven.",
+   "source": "Manifest, SS Regina d'Italia, arr. New York 2 May 1910, List 141, line 15 (images read); index JJNS-FNT. https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T; Manifest, SS Citta di Napoli, arr. New York 3 Dec 1903, List R, line 21 (image read); index JFYR-8MQ (residence indexed 'Rosa'). https://www.familysearch.org/ark:/61903/3:1:33S7-L161-VSK; Manifest, SS Citta di Milano, arr. New York 18 Jun 1905, List 25, line 26 (image read); index JF7W-PY9. https://www.familysearch.org/ark:/61903/3:1:33S7-91J1-8H5"
+  },
+  {
+   "id": "S198",
+   "title": "612 Philo Street: the Cognettis through three censuses",
+   "date": "1930-1950",
+   "people": [
+    "I282695503559",
+    "I282695503581",
+    "I282695503685",
+    "I282695503586",
+    "I282695503585",
+    "I282695503587",
+    "I282695503583",
+    "I282695503584",
+    "H0346"
+   ],
+   "body": "In 1930 Frank and Helen Cognetti owned their house at 612 Philo Street in Scranton, valued at $5,000. Frank, 38, had come from Italy in 1907, married at 21 and was a naturalized citizen; he worked as a hoisting engineer at a coal breaker. The census taker recorded that he could not read or write, while Helen, who married at 16 and had come over in 1901, could.\n\nThe Depression hit hard. By 1940 the house was valued at $3,000, and Frank, now a repairman at a mine breaker, had worked only 20 weeks of 1939 and earned $300. The older sons carried the household: Ralph drove a truck for a beverage firm and Sal and Joseph were salesmen, together bringing in more than $3,600. Helen, who had finished seventh grade, kept house for eight children, and the younger ones were all in school.\n\nBy 1950 Frank, 59, was repairing a conveyor line at a coal mine and had earned $2,400 the previous year. Anthony, back from the war, ran an ice-cream store; John worked for a wholesale grocer; Leo was a machine operator for the state highway department; Angeline and Mary were still at home. The family that grew from this house would later fill Genetti Manor at its fiftieth Thanksgiving.",
+   "source": "1930 US census, Scranton Ward 2, E.D. 35-12, sheet 28A, Frank Cognetti household https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3NN-88N/images/i/0/image.jpg; 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, lines 64-73 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg; 1950 US census, Scranton, E.D. 79-23, lines 24-30 (sample line 24 = Frank) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-8HT/images/i/0/image.jpg"
+  },
+  {
+   "id": "S199",
+   "title": "Six brothers and two wars",
+   "date": "1940-1953",
+   "people": [
+    "I282695503685",
+    "I282695503586",
+    "I282695503585",
+    "I282695503583",
+    "I282695503584",
+    "H0346"
+   ],
+   "body": "All six Cognetti sons were caught up in the draft. Ralph, the eldest, registered in October 1940, newly married and working for the Royal Bottling Company, but the 1950 census records that he did not serve in the Second World War. Sal enlisted at Wilkes-Barre in January 1942 and was a soldier when he married in October 1943. Joseph served in the Army Air Corps from 1942 to 1946. Anthony registered while still a Central High student in June 1942 and entered the Army in July 1943. John served in the Navy, and the youngest, Leo, served in the Army during the Korean War.",
+   "source": "Ralph Anthony Cognetti WWII draft card, 16 Oct 1940 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/2/image.jpg; 1950 US census, Ralph Cognetti household (sample line) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/0/image.jpg; Leo S. Cognetti obituary, James J. Terry Funeral Homes, 2019 https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti; John F. Cognetti obituary, Slater Funeral Service, 2013 https://www.slaterfuneral.com/obituaries/john-cognetti"
+  },
+  {
+   "id": "S200",
+   "title": "The Philo Street weddings and Father Luigino",
+   "date": "1940-1943",
+   "people": [
+    "I282695503685",
+    "H0498",
+    "I282695503586",
+    "H0499"
+   ],
+   "body": "Two of the Cognetti brothers were married by the same priest. On 1 June 1940 Ralph, a salesman, married Marguerite Forgione, a 26-year-old seamstress and daughter of a Farr Street shoemaker. On 16 October 1943 Sal, home as a soldier, married Elizabeth Notarianni, a stenographer of Providence Road. Both certificates were returned by the Rev. Luigino of 1402 Short Avenue, Scranton, presumably the priest of the family's Italian parish.",
+   "source": "Marriage license no. 817 (1940) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg; Marriage license no. 1716 (1943) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg"
   }
  ],
  "generated": "2026-10-08"

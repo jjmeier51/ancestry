@@ -4,6 +4,45 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Round 6 (Cognetti line) imported
+
+- John uploaded a sixth overnight run on the Cognetti line (24 existing people,
+  10 new relatives, 4 stories, 16 leads, 11 media items, 4 manifest/draft-card
+  images), archived under `research/imported/round6/` and merged with
+  `ROUND=round6 scripts/import_round4.py` (24 files; new ids `M0097`–`M0106`
+  in `_work/new_ids.json`). The importer now labels its notes by round
+  (`LABEL`, `RTAG`) instead of "Round 4" everywhere.
+- Fixes on top of the import: the run's Joseph Notarianni and Michelina
+  Carabia duplicated `M0089`/`M0088` from round 5 (dates and licence folded
+  into them, `PRESET_IDS` set so a re-run is idempotent); a childless
+  duplicate Forgione couple family dropped; three confidence values that the
+  run wrote as prose reset to the scale; `I282695503588` ("Ralph abt 1913")
+  merged into Ralph Anthony Cognetti; the six children's bios corrected from
+  "great-granduncle/aunt" to great-uncle/aunt and Mary Cognetti Petriello
+  from great-grandmother to grandmother (she is John's grandmother).
+- Findings now in the About texts: the Dasà Cognettas went to Stamford CT
+  (1905 Francesco, 17, to brother Nicola; 1910 Nicola, 23, "father Giovanni,
+  Dasa", to brother Francesco, Branch St) — a candidate for Frank's arrival,
+  kept at probable; Giovanni's "Nicasetro" death place unsupported; the
+  Nicastro Cognetto family (H0381/H0513) documented from the 1917 draft card
+  and kept separate; marriage licences for Marguerite Forgione (1940) and
+  Elizabeth Notarianni (1943), both now confirmed; Leo (Korean War, 34 years
+  IBM, wife Jean Rossi 1932–2023), Joseph F. (lumber salesman 1937, D.C.
+  Sales 1956, Lou Spector Award 1961, wife Domenica "Aunt Min"), Anthony R.
+  (State Workmen's Insurance Fund director, Workmen's Compensation Appeal
+  Board), Ralph (Royal Bottling 1940, no WWII service), Angeline (m.
+  Nicholas Butchko, d. 2009), Helen (married at 16, 612 Philo St); all eight
+  children lived to adulthood (Leo's obituary; no child deaths 1913–40).
+- Two stories trimmed of research-process wording (S197 last paragraph,
+  S200 priest's surname). Leads: `research/leads-round6.md` (Frank's WWI
+  card, 1942 registration and naturalization; 1910 Stamford census; PA death
+  certificates incl. Helen 1965; Dasà civil records; full obituaries).
+- For John to decide: adding Ralph's daughter Helen (b. c.1941, 1950 census;
+  possibly living) as a person; Frank's arrival 1905 vs 1907/08 and birth
+  c.1888 vs 1890–92 (unchanged); Anthony R.'s colleges (Keystone/Penn State
+  vs Penn State/Scranton); Joseph F.'s death place (hospice in Scranton while
+  living at Moosic; the bio says both).
+
 ## 2026-10-08 — Tommy Jr. and Matt accolades; View As mode; tighter tree
 
 - Tommy Jr. (`M0001`): Broad Run football 2006–07 (MaxPreps), first-team

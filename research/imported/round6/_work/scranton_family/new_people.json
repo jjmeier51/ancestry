@@ -1,0 +1,473 @@
+[
+  {
+    "id": "NEW-1551",
+    "name": "Jean D. Rossi Cognetti",
+    "sex": "F",
+    "birth": {
+      "date": "1932-04-28",
+      "place": "Old Forge, Lackawanna County, Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "2023-04-27",
+      "place": "Paoli Hospital, Paoli, Chester County, Pennsylvania (residence Exton)",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "occupation": "School librarian; homemaker",
+    "bioAdditions": "Jean D. Rossi was born in Old Forge on 28 April 1932, the daughter of Santino (Sandy) Rossi and Elizabeth Marino Rossi. She married Leo S. Cognetti about 1954 and they were married 65 years. A homemaker and school librarian and a keen golfer, she died at Paoli Hospital on 27 April 2023, aged 90 (S1, S2).",
+    "relationships": [
+      {
+        "type": "spouse",
+        "personId": "H0346",
+        "evidence": "Both obituaries: married 65 years",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ],
+        "strength": "proven"
+      },
+      {
+        "type": "parent",
+        "personId": "NEW-1558",
+        "evidence": "Obituary names father Santino (Sandy) Rossi",
+        "sourceRefs": [
+          "S2"
+        ],
+        "strength": "proven"
+      },
+      {
+        "type": "parent",
+        "personId": "NEW-1559",
+        "evidence": "Obituary names mother Elizabeth Marino Rossi",
+        "sourceRefs": [
+          "S2"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S1",
+        "citation": "Obituary of Leo S. Cognetti, James J. Terry Funeral Homes, 2019",
+        "url": "https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+        "class": "secondary",
+        "accessed": "2026-10-08",
+        "supports": "Wife Jean D. Rossi Cognetti, married 65 years"
+      },
+      {
+        "ref": "S2",
+        "citation": "Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023",
+        "url": "https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti",
+        "class": "secondary",
+        "accessed": "2026-10-08",
+        "supports": "Born 28 Apr 1932 Old Forge; died 27 Apr 2023 Paoli Hospital aged 90; parents Santino (Sandy) Rossi and Elizabeth Marino Rossi; school librarian, homemaker, golfer"
+      }
+    ],
+    "note": "Deceased 2023. Her two sons and grandchildren are living: not recorded.",
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1552",
+    "name": "Domenica 'Min' Cognetti",
+    "sex": "F",
+    "death": {
+      "date": "2009 (about March, two months before her husband)",
+      "place": "probably Moosic or Scranton, Pennsylvania",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "bioAdditions": "Domenica, called 'Aunt Min' by the family, married Joseph F. Cognetti in 1946 after his Army Air Corps service. They founded the Cognetti family Thanksgiving in 1966, retired to Glenmaura in Moosic, and died two months apart in 2009 after 63 years of marriage. Her maiden name has not been found (S1, S2).",
+    "relationships": [
+      {
+        "type": "spouse",
+        "personId": "I282695503585",
+        "evidence": "Joseph's obituary and the 2016 Thanksgiving article",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S1",
+        "citation": "Joseph F. Cognetti obituary, Times-Tribune 28 May 2009 (Legacy id 23435864; blocked; search summary only)",
+        "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
+        "class": "secondary",
+        "accessed": "2026-10-08",
+        "supports": "'preceded in death by his wife of 63 years ... Domenica', married 1946"
+      },
+      {
+        "ref": "S2",
+        "citation": "'Family celebrates 50 years of Thanksgiving gatherings', Times-Tribune, Nov 2016 (Hinerfeld reprint)",
+        "url": "https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+        "class": "secondary",
+        "accessed": "2026-10-08",
+        "supports": "Joe and Domenica ('Aunt Min') Cognetti of Moosic died in 2009, two months apart"
+      }
+    ],
+    "note": "Maiden name unknown; their son and daughter are presumably living: not recorded.",
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1553",
+    "name": "Joseph Notarianni",
+    "sex": "M",
+    "birth": {
+      "date": "1880",
+      "place": "Italy",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1940-12-03",
+      "place": "Scranton, Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "bioAdditions": "Italian-born father of Elizabeth Notarianni (wife of Sal Cognetti); dead by Oct 1943 per her marriage license.",
+    "relationships": [
+      {
+        "type": "child",
+        "personId": "H0499",
+        "evidence": "1943 marriage license names father Joseph",
+        "sourceRefs": [
+          "S1"
+        ],
+        "strength": "proven"
+      },
+      {
+        "type": "spouse",
+        "personId": "NEW-1554",
+        "evidence": "License and FS tree",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GJ6T-3CX"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S1",
+        "citation": "Lackawanna Co. marriage license no. 1716 (1943), Sal Cognetti and Elizabeth Notarianni",
+        "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+        "class": "primary",
+        "accessed": "2026-10-08",
+        "supports": "Bride's father Joseph (dead, born Italy); mother Michelina, maiden name Caravia/Carabia, of Scranton, born Italy"
+      },
+      {
+        "ref": "S2",
+        "citation": "FamilySearch tree GJ6T-768 (Elizabeth Mary Notarianni) with parents GJ6T-3CX and GJ6T-7B8",
+        "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GJ6T-768",
+        "class": "derivative",
+        "accessed": "2026-10-08",
+        "supports": "Joseph Notarianni 1880-1940 (d. 3 Dec 1940, Scranton); Michaelina Carabia 1889-1953 (d. 11 Feb 1953, Scranton)"
+      }
+    ],
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1554",
+    "name": "Michelina Carabia (Caravia) Notarianni",
+    "sex": "F",
+    "birth": {
+      "date": "1889",
+      "place": "Italy",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1953-02-11",
+      "place": "Scranton, Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "bioAdditions": "Italian-born mother of Elizabeth Notarianni; living in Scranton in 1943.",
+    "relationships": [
+      {
+        "type": "child",
+        "personId": "H0499",
+        "evidence": "1943 marriage license names mother Michelina, maiden name Caravia",
+        "sourceRefs": [
+          "S1"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GJ6T-7B8"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S1",
+        "citation": "Lackawanna Co. marriage license no. 1716 (1943), Sal Cognetti and Elizabeth Notarianni",
+        "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+        "class": "primary",
+        "accessed": "2026-10-08",
+        "supports": "Bride's father Joseph (dead, born Italy); mother Michelina, maiden name Caravia/Carabia, of Scranton, born Italy"
+      },
+      {
+        "ref": "S2",
+        "citation": "FamilySearch tree GJ6T-768 (Elizabeth Mary Notarianni) with parents GJ6T-3CX and GJ6T-7B8",
+        "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GJ6T-768",
+        "class": "derivative",
+        "accessed": "2026-10-08",
+        "supports": "Joseph Notarianni 1880-1940 (d. 3 Dec 1940, Scranton); Michaelina Carabia 1889-1953 (d. 11 Feb 1953, Scranton)"
+      }
+    ],
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1555",
+    "name": "Pietro (Peter) Forgione",
+    "sex": "M",
+    "birth": {
+      "date": "1877",
+      "place": "Italy",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1948-12-10",
+      "place": "Scranton, Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "occupation": "Shoemaker (1940)",
+    "bioAdditions": "Italian-born shoemaker of Scranton, father of Marguerite Forgione (wife of Ralph A. Cognetti) and at least eight other children.",
+    "relationships": [
+      {
+        "type": "child",
+        "personId": "H0498",
+        "evidence": "1940 marriage license names father Peter, shoemaker",
+        "sourceRefs": [
+          "S1"
+        ],
+        "strength": "proven"
+      },
+      {
+        "type": "spouse",
+        "personId": "NEW-1556",
+        "evidence": "License and FS tree",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L6CM-QWS"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S1",
+        "citation": "Lackawanna Co. marriage license no. 817 (1940), Ralph A. Cognetti and Margaret Forgione",
+        "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+        "class": "primary",
+        "accessed": "2026-10-08",
+        "supports": "Bride's father Peter, shoemaker, born Italy, of Scranton; mother Elizabeth, maiden name D'Ettore, born Italy"
+      },
+      {
+        "ref": "S2",
+        "citation": "FamilySearch tree LJQW-QT8 (Marguerite Forgione) with parents L6CM-QWS and L6CM-7C3",
+        "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8",
+        "class": "derivative",
+        "accessed": "2026-10-08",
+        "supports": "Pietro Forgione 1877-1948 (d. 10 Dec 1948, Scranton); Elizabeth D'Ettore 1888-1964 (d. 5 Jan 1964, Scranton)"
+      }
+    ],
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1556",
+    "name": "Elizabeth D'Ettore Forgione",
+    "sex": "F",
+    "birth": {
+      "date": "1888",
+      "place": "Italy",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1964-01-05",
+      "place": "Scranton, Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "bioAdditions": "Italian-born mother of Marguerite Forgione.",
+    "relationships": [
+      {
+        "type": "child",
+        "personId": "H0498",
+        "evidence": "1940 marriage license: mother Elizabeth, maiden name D'Ettore",
+        "sourceRefs": [
+          "S1"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L6CM-7C3"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S1",
+        "citation": "Lackawanna Co. marriage license no. 817 (1940), Ralph A. Cognetti and Margaret Forgione",
+        "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+        "class": "primary",
+        "accessed": "2026-10-08",
+        "supports": "Bride's father Peter, shoemaker, born Italy, of Scranton; mother Elizabeth, maiden name D'Ettore, born Italy"
+      },
+      {
+        "ref": "S2",
+        "citation": "FamilySearch tree LJQW-QT8 (Marguerite Forgione) with parents L6CM-QWS and L6CM-7C3",
+        "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8",
+        "class": "derivative",
+        "accessed": "2026-10-08",
+        "supports": "Pietro Forgione 1877-1948 (d. 10 Dec 1948, Scranton); Elizabeth D'Ettore 1888-1964 (d. 5 Jan 1964, Scranton)"
+      }
+    ],
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1557",
+    "name": "Nicholas Butchko",
+    "sex": "M",
+    "death": {
+      "date": "before 2009",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "bioAdditions": "Husband of Angeline Cognetti for about 50 years; died before her (2009). Details only from a search summary of her obituary.",
+    "relationships": [
+      {
+        "type": "spouse",
+        "personId": "I282695503587",
+        "evidence": "Angeline's obituary (summary): widow of Nicholas Butchko",
+        "sourceRefs": [
+          "S1"
+        ],
+        "strength": "probable"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S1",
+        "citation": "Search-engine summary of 'Angeline Butchko Obituary (2009) - Scranton, PA' (page not reached; idcrawl/Legacy 403)",
+        "url": "https://www.idcrawl.com/nicholas-butchko",
+        "class": "derivative",
+        "accessed": "2026-10-08",
+        "supports": "Angeline was the widow of Nicholas Butchko, her husband of about 50 years"
+      }
+    ],
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1558",
+    "name": "Santino (Sandy) Rossi",
+    "sex": "M",
+    "death": {
+      "date": "before 2023",
+      "place": "",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "bioAdditions": "Of Old Forge; father of Jean D. Rossi Cognetti ('the late').",
+    "relationships": [
+      {
+        "type": "child",
+        "personId": "NEW-1551",
+        "evidence": "Jean's obituary",
+        "sourceRefs": [
+          "S2"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S2",
+        "citation": "Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023",
+        "url": "https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti",
+        "class": "secondary",
+        "accessed": "2026-10-08",
+        "supports": "Born 28 Apr 1932 Old Forge; died 27 Apr 2023 Paoli Hospital aged 90; parents Santino (Sandy) Rossi and Elizabeth Marino Rossi; school librarian, homemaker, golfer"
+      }
+    ],
+    "researchedAt": "2026-10-08"
+  },
+  {
+    "id": "NEW-1559",
+    "name": "Elizabeth Marino Rossi",
+    "sex": "F",
+    "death": {
+      "date": "before 2023",
+      "place": "",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "bioAdditions": "Mother of Jean D. Rossi Cognetti ('the late').",
+    "relationships": [
+      {
+        "type": "child",
+        "personId": "NEW-1551",
+        "evidence": "Jean's obituary",
+        "sourceRefs": [
+          "S2"
+        ],
+        "strength": "proven"
+      }
+    ],
+    "sources": [
+      {
+        "ref": "S2",
+        "citation": "Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023",
+        "url": "https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti",
+        "class": "secondary",
+        "accessed": "2026-10-08",
+        "supports": "Born 28 Apr 1932 Old Forge; died 27 Apr 2023 Paoli Hospital aged 90; parents Santino (Sandy) Rossi and Elizabeth Marino Rossi; school librarian, homemaker, golfer"
+      }
+    ],
+    "researchedAt": "2026-10-08"
+  }
+]

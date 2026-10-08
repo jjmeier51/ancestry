@@ -1,0 +1,32 @@
+{
+  "id": "M0102",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Father of Marguerite Forgione per her 1940 marriage licence; related to John by marriage only."
+  },
+  "tags": [],
+  "summary": "Italian-born Scranton shoemaker, father of Marguerite Forgione, wife of Ralph A. Cognetti.",
+  "bio": "Pietro Forgione, known in America as Peter, was born in Italy in 1877 and settled in Scranton, Pennsylvania, where he worked as a shoemaker and raised at least nine children with his wife Elizabeth D'Ettore. Their daughter Marguerite married Ralph A. Cognetti, the eldest brother of John's grandmother, in 1940. He died in Scranton on 10 December 1948.",
+  "sources": [
+    "[R6-S1] Lackawanna Co. marriage license no. 817 (1940), Ralph A. Cognetti and Margaret Forgione (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+    "[R6-S2] FamilySearch tree LJQW-QT8 (Marguerite Forgione) with parents L6CM-QWS and L6CM-7C3 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): new relative NEW-1555 → M0102; research/imported/round6/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "L6CM-QWS"
+    }
+  ],
+  "occupation": "Shoemaker (1940)"
+}

@@ -20,8 +20,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's great-granduncle, a Scranton-born Second World War Army veteran who married Elizabeth Notarianni in 1943.",
-  "bio": "Salvatore D. Cognetti, known as Sal, was born in Scranton, Lackawanna County, Pennsylvania, on 21 September 1915, and was John's great-granduncle. As a small boy he was living in his Ferlaino grandparents' household in 1920, recorded there as Salvador, and he was still in Scranton in 1935 and 1940.\n\nHe enlisted in the US Army at Wilkes-Barre on 5 January 1942 and was a serving soldier when he married Elizabeth Notarianni on 16 October 1943. He died on 19 October 1990 and was buried in Cathedral Cemetery.",
+  "summary": "John's great-uncle, a Scranton-born salesman and Second World War Army veteran who married Elizabeth Notarianni in 1943.",
+  "bio": "Salvatore D. Cognetti, known as Sal, was born in Scranton, Lackawanna County, Pennsylvania, on 21 September 1915, and was John's great-uncle. As a small boy he was living in his Ferlaino grandparents' household in 1920, recorded there as Salvador, and he was still in Scranton in 1935 and 1940. In April 1940 he was 25, single and living with his parents on Philo Street; he had finished a year of high school and was working as a salesman, putting in seventy hours a week.\n\nHe enlisted in the US Army at Wilkes-Barre on 5 January 1942 and was a serving soldier, home on leave, when he married Elizabeth Notarianni, a stenographer, on 16 October 1943; the priest was the same who had married his brother Ralph three years earlier. He died on 19 October 1990 and was buried in Cathedral Cemetery.",
   "military": [
     {
       "branch": "US Army",
@@ -33,12 +33,23 @@
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "Salvatore 1915-Deceased"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "GJB1-GYW"
+    },
+    {
+      "label": "Education (1940 census)",
+      "value": "1st year of high school"
     }
   ],
   "sources": [
     "FS tree GJB1-GYW: https://ancestors.familysearch.org/en/GJB1-GYW",
     "Enlistment K8PX-Z8K: https://familysearch.org/ark:/61903/1:1:K8PX-Z8K",
-    "1943 license VF7J-VGC: https://familysearch.org/ark:/61903/1:1:VF7J-VGC"
+    "1943 license VF7J-VGC: https://familysearch.org/ark:/61903/1:1:VF7J-VGC",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 67 (Salvatore, son, 25, Frank Cognetti household, 612 Philo St); FS image attached to GBQH-TGM (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] Lackawanna County Orphans' Court, marriage license application no. 1716 (1943), Sal. Cognetti and Elizabeth Notarianni, p. 216; FS index VF7J-VGC, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+    "[R6-S3] FamilySearch tree GJB1-GYW, Salvatore 'Sal' D Cognetti 1915-1990 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJB1-GYW"
   ],
   "mediaKnown": [
     "1943 marriage license image"
@@ -72,7 +83,57 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Salvatore Cognetti' / 'Sal Cognetti' Scranton obituary 1990: nothing; NARA AAD WWII Army enlistment records: blocked (403); Find a Grave (Cathedral Cemetery): blocked per brief"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: 1940 census (salesman, 1st-year high school) and officiant of 1943 wedding added; obituary and WWII details still not found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503586.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
-  "researchNotes": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household."
+  "researchNotes": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household.\n\nRound 6: In April 1940 Sal was 25, single and living with his parents on Philo Street; he had completed one year of high school and was working as a salesman, putting in 70 hours a week and earning $1,300 the year before ([R6-S1]). When he married Elizabeth Notarianni on 16 October 1943 he was a soldier home on leave, and the couple were married by the same priest who had married his brother Ralph in 1940 ([R6-S2]).",
+  "occupation": "Salesman (1940); soldier (1943)",
+  "residences": [
+    {
+      "date": "1935",
+      "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+      "date": "1940",
+      "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    },
+    {
+      "date": "1940-04",
+      "place": "612 Philo St, Scranton, Pennsylvania",
+      "note": "Single, in his parents' household [R6-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Social Security application",
+      "date": "1936-11",
+      "place": "",
+      "description": "Listed in the FamilySearch tree (Social Security applications index); record not opened. [R6-S3]"
+    },
+    {
+      "title": "Marriage officiant",
+      "date": "1943-10-16",
+      "place": "Scranton",
+      "description": "Married to Elizabeth Notarianni by Rev. Luigino R[angi?], 1402 Short Ave, who had married Sal's brother Ralph in 1940. [R6-S2]"
+    }
+  ],
+  "openQuestions": [
+    "Sal's WWII unit and discharge (NARA AAD enlistment record K8PX-Z8K details; AAD blocked) and his 1990 obituary (Scranton Times, c.20-22 Oct 1990).",
+    "Children of Sal and Elizabeth: none identified; check the 1990 and 1994 obituaries."
+  ]
 }

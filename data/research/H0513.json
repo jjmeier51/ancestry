@@ -2,7 +2,7 @@
   "id": "H0513",
   "link": {
     "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "note": "Father of the unrelated Scranton Frank Cognetti (H0381), from Nicastro; outside John's line. Round 6: birth and parents from a FamilySearch tree only."
   },
   "tags": [],
   "researchLog": [
@@ -21,6 +21,58 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0513.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → unverified (not kin): Tree data only; outside John's line."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 relationship evidence (child H0381, probable): FS tree GV9T-HLM lists Frank Cognetti P7MS-NB2 as his son, b. 20 Sep 1894 Nicastro (matches Frank's WWI card)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Ellis Island index: Bruno Cugnetto / Bruno Cognetto 1892-1925 (no matching arrival)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: FS tree gives b. 6 Nov 1857 Nicastro, parents Pietro Giuseppe Cognetto and Giovanna Cuda, children Frank, Giovanna, Giuseppe; no emigration found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0513.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
-  ]
+  ],
+  "birth": {
+    "date": "1857-11-06",
+    "place": "Strada Via Grande, Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy"
+  },
+  "aka": [
+    "Bruno Cugnetto"
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GV9T-HLM"
+    }
+  ],
+  "researchNotes": "Round 6: Bruno Cognetto, also written Cugnetto, was born on 6 November 1857 on the Strada Via Grande in Nicastro (now Lamezia Terme), Calabria. According to the FamilySearch tree he was the son of Pietro Giuseppe Cognetto (b. 1826) and Giovanna Cuda (b. 1838) and had a brother Vincenzo (b. 1860). With his wife Rosa (maiden name not given) he had Francesco/Frank (1894-1978), who emigrated to Dunmore and Scranton, Pennsylvania; Giovanna (1897-1990), who married Michelangelo Gallo and died at Lamezia Terme; and Giuseppe (c.1900-1971), who died in Victoria, Australia ([R6-S1]). No record of Bruno himself emigrating was found ([R6-S2]). He is the father of the 'other' Scranton Frank Cognetti (H0381) and is not known to be related to John's family.",
+  "conflicts": [
+    {
+      "field": "marriage",
+      "site": "(none)",
+      "found": "FS tree shows a marriage on 17 Aug 1856, before his own birth",
+      "assessment": "That date probably belongs to his parents' marriage; ignore it."
+    }
+  ],
+  "sources": [
+    "[R6-S1] FamilySearch published tree, Bruno Cognetto GV9T-HLM (JSON), with parents, sibling, spouse and children. (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GV9T-HLM",
+    "[R6-S2] Statue of Liberty-Ellis Island Foundation passenger index: Bruno Cognetto/Cugnetto 1892-1925. (derivative) https://www.statueofliberty.org/arrival-search/"
+  ],
+  "summary": "Of Nicastro in Calabria, father of the Scranton Frank Cognetti who was not John's relative; no known kinship to John's family.",
+  "bio": "Bruno Cognetto, whose name is also written Cugnetto, was born on 6 November 1857 on the Strada Via Grande in Nicastro, now Lamezia Terme, in Calabria. According to a family genealogy he was the son of Pietro Giuseppe Cognetto, born 1826, and Giovanna Cuda, born 1838, and had a brother Vincenzo. With his wife Rosa, whose maiden name is not given, he had Francesco, later Frank Cognetti of Dunmore and Scranton (1894–1978); Giovanna (1897–1990), who married Michelangelo Gallo and died at Lamezia Terme; and Giuseppe (about 1900–1971), who died in Victoria, Australia. No record shows Bruno himself leaving Italy. He was the father of the Scranton Frank Cognetti who was not John's relative, and no kinship between his family and John's Cognettas of Dasà is known."
 }

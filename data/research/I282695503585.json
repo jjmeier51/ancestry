@@ -12,7 +12,7 @@
   },
   "death": {
     "date": "2009-05-25",
-    "place": "Moosic, Lackawanna County, Pennsylvania, USA"
+    "place": "VNA Hospice, Community Medical Center, Scranton (residence Moosic), Pennsylvania"
   },
   "occupation": "Food/confectionery broker; chairman, D.C. Sales Co.",
   "aka": [
@@ -22,8 +22,8 @@
     "military",
     "notable"
   ],
-  "summary": "WWII Army Air Corps veteran, chairman of D.C. Sales Co. and Candy Hall of Fame member; John's great-granduncle.",
-  "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940. During the Second World War he served in the US Army Air Corps from 1942 to 1946.\n\nHe made his career in the food and confectionery trade as a partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. His standing in the industry brought him the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he started the Cognetti family Thanksgiving, a gathering that continued long after him: the 50th, in 2016, drew 151 relatives. He died at Moosic, Pennsylvania, on 25 May 2009. He is John's great-granduncle.",
+  "summary": "WWII Army Air Corps veteran, chairman of D.C. Sales Co., Candy Hall of Fame member and founder of the Cognetti family Thanksgiving; John's great-uncle.",
+  "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940, when he was a 22-year-old salesman living at home on Philo Street with two years of high school behind him; he had started out as a lumber salesman in 1937. During the Second World War he served in the US Army Air Corps from 1942 to 1946, and in 1946 he married Domenica, known to the family as Aunt Min; they were married 63 years.\n\nHe made his career in the food and confectionery trade, entering the brokerage business in 1956 as a partner in D.C. Sales Co. and later becoming its chairman. His standing in the industry brought him the Lou Spector Award in 1961, the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he and Domenica started the Cognetti family Thanksgiving in a back room of Brutico's restaurant in Old Forge, a gathering that continued long after them: the 50th, in 2016, drew 151 relatives. The couple retired to Glenmaura in Moosic. Domenica died in the spring of 2009, and Joe died two months later, on 25 May 2009, in hospice care at Community Medical Center in Scranton. He is John's great-uncle.",
   "notable": "Candy Hall of Fame 1975; AWMA Hall of Fame 1993",
   "funFacts": [
     "Founded the 50-year Cognetti family Thanksgiving tradition (151 relatives in 2016)"
@@ -39,13 +39,28 @@
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "Joseph 1918-Deceased"
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Lumber salesman (from 1937); salesman (1940); food and confectionery broker, partner and chairman of D.C. Sales Co. (from 1956)"
+    },
+    {
+      "label": "Education (1940 census)",
+      "value": "2nd year of high school"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "GBQH-LWX"
     }
   ],
   "sources": [
     "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?pid=127764806",
     "Candy Hall of Fame: https://candyhalloffame.org/inductee/joseph-f-cognetti/",
     "Thanksgiving article: https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
-    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 68 (Joseph, son, 22, Frank Cognetti household, 612 Philo St; supplementary-question line); FS index KQZZ-JKQ, image attached to GBQH-TGM / GBQH-LWX (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] Obituary of Joseph F. Cognetti, The Times-Tribune (Scranton), 28 May 2009, via Legacy.com (id 23435864); page blocked (403), content known only from search-engine summaries (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
+    "[R6-S3] 'Family celebrates 50 years of Thanksgiving gatherings', The Times-Tribune (Scranton), Nov 2016, reprinted by Hinerfeld Commercial (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -80,7 +95,75 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Legacy.com obituary pages: blocked (403); WebSearch 'Domenica Cognetti' obituary 2009: no obituary found; NARA AAD WWII enlistment records: blocked"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: wife Domenica (m. 1946, d. 2009) identified; 1940 census and obituary details (lumber salesman 1937, D.C. Sales 1956, Lou Spector Award 1961) added."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503585.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
-  "researchNotes": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household."
+  "researchNotes": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household.\n\nRound 6: In 1940 Joe was 22, living at home on Philo Street and working as a salesman; he had finished two years of high school ([R6-S1]). His obituary, known so far only from search summaries, says he began as a lumber salesman in 1937, served in the Army Air Corps, and in 1946 married Domenica, his wife of 63 years. He entered the food and confectionery brokerage business in 1956 as a partner in D.C. Sales Co., received the CBA's Lou Spector Award in 1961, and with Domenica retired to Glenmaura in Moosic ([R6-S2]). The couple started the family Thanksgiving in 1966 in a back room of Brutico's restaurant in Old Forge; Domenica, 'Aunt Min' to the family, died two months before Joe in 2009 ([R6-S2], [R6-S3]).",
+  "residences": [
+    {
+      "date": "1935",
+      "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+      "date": "1940",
+      "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    },
+    {
+      "date": "1940-04",
+      "place": "612 Philo St, Scranton, Pennsylvania",
+      "note": "Single, with parents [R6-S1]"
+    },
+    {
+      "date": "2009",
+      "place": "Glenmaura, Moosic, Lackawanna County, Pennsylvania",
+      "note": "Retirement home with his wife [R6-S2] [R6-S3]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to Domenica",
+      "date": "1946",
+      "place": "",
+      "description": "Married Domenica ('Aunt Min'), maiden name not yet found, after his return from the Army Air Corps; they were married 63 years. [R6-S2] [R6-S3]"
+    },
+    {
+      "title": "Lou Spector Award",
+      "date": "1961",
+      "place": "",
+      "description": "Received the CBA Lou Spector Award (per obituary summary). [R6-S2]"
+    },
+    {
+      "title": "Founded the Cognetti family Thanksgiving",
+      "date": "1966",
+      "place": "Brutico's restaurant, Old Forge, Pennsylvania",
+      "description": "First dinner held in a back room at Brutico's with fewer than two dozen relatives. [R6-S3]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.place",
+      "site": "Moosic, Lackawanna County",
+      "found": "VNA Hospice at Community Medical Center (Scranton); residence Moosic",
+      "assessment": "Both can stand: Moosic was his residence; the hospice is the place of death (per search summary of the obituary)."
+    }
+  ],
+  "openQuestions": [
+    "Domenica Cognetti's maiden name, birth and 2009 death date (her obituary c. March 2009; their 1946 marriage license, Lackawanna County or wherever they married).",
+    "Read the full 2009 obituary (Legacy id 23435864) to confirm the summary details."
+  ]
 }

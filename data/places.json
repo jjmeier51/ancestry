@@ -5190,5 +5190,202 @@
   "label": "Huntington Township, Luzerne County, Pennsylvania, United States",
   "matched": "Huntington Twp., Luzerne Co., PA",
   "precision": "approximate"
- }
+ },
+ "Frostburg, Allegany County, Maryland, USA": {
+  "lat": 39.65833,
+  "lon": -78.92842,
+  "label": "Frostburg, Allegany County, Maryland, 21532, United States",
+  "matched": "Frostburg, Allegany County, Maryland, USA",
+  "precision": "exact"
+ },
+ "Wise, Wise County, Virginia, USA": {
+  "lat": 36.97593,
+  "lon": -82.57571,
+  "label": "Wise, Wise County, Virginia, 24293, United States",
+  "matched": "Wise, Wise County, Virginia, USA",
+  "precision": "exact"
+ },
+ "1217 [street not legible], Scranton, Pennsylvania (E.D. 79-22)": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton, Pennsylvania",
+  "precision": "approximate"
+ },
+ "1217 [street], Scranton": {
+  "lat": 41.40819,
+  "lon": -75.68675,
+  "label": "1217, North Rock Street, Hyde Park, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+  "matched": "1217 [street], Scranton",
+  "precision": "exact"
+ },
+ "1219 Providence Rd, Scranton, Pennsylvania": {
+  "lat": 41.42891,
+  "lon": -75.66529,
+  "label": "1219, Providence Road, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+  "matched": "1219 Providence Rd, Scranton, Pennsylvania",
+  "precision": "exact"
+ },
+ "1313 Short Ave, Scranton, Pennsylvania": {
+  "lat": 41.42995,
+  "lon": -75.66304,
+  "label": "1313, Short Avenue, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+  "matched": "1313 Short Ave, Scranton, Pennsylvania",
+  "precision": "exact"
+ },
+ "1506 Farr St, Scranton, Pennsylvania": {
+  "lat": 41.42596,
+  "lon": -75.67489,
+  "label": "1506, Farr Street, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+  "matched": "1506 Farr St, Scranton, Pennsylvania",
+  "precision": "exact"
+ },
+ "1628 Farr St, Scranton": {
+  "lat": 41.42672,
+  "lon": -75.67644,
+  "label": "1628, Farr Street, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+  "matched": "1628 Farr St, Scranton",
+  "precision": "exact"
+ },
+ "604 E. Drinker St, Dunmore, Pennsylvania": {
+  "lat": 41.41963,
+  "lon": -75.62106,
+  "label": "604, East Drinker Street, Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+  "matched": "604 E. Drinker St, Dunmore, Pennsylvania",
+  "precision": "exact"
+ },
+ "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton Ward 2, Lackawanna County, Pennsylvania",
+  "precision": "approximate"
+ },
+ "612 Philo St, Scranton, Pennsylvania": {
+  "lat": 41.42943,
+  "lon": -75.66223,
+  "label": "612, Philo Street, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+  "matched": "612 Philo St, Scranton, Pennsylvania",
+  "precision": "exact"
+ },
+ "At home, Exton, Chester County, Pennsylvania": {
+  "lat": 40.02998,
+  "lon": -75.62904,
+  "label": "Exton, West Whiteland Township, Chester County, Pennsylvania, United States",
+  "matched": "Exton, Chester County, Pennsylvania",
+  "precision": "approximate"
+ },
+ "Brutico's restaurant, Old Forge, Pennsylvania": {
+  "lat": 41.37119,
+  "lon": -75.73491,
+  "label": "Old Forge, Lackawanna County, Pennsylvania, 18518, United States",
+  "matched": "Old Forge, Pennsylvania",
+  "precision": "approximate"
+ },
+ "Chinchilla (South Abington Township), Lackawanna County, Pennsylvania": {
+  "lat": 41.47508,
+  "lon": -75.67713,
+  "label": "Chinchilla, South Abington Township, Lackawanna County, Pennsylvania, 18410, United States",
+  "matched": "Chinchilla, Lackawanna County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Dasà, Calabria, Italy": {
+  "lat": 38.56465,
+  "lon": 16.19494,
+  "label": "Dasà, Vibo Valentia, Calabria, 89832, Italy",
+  "matched": "Dasà, Calabria, Italy",
+  "precision": "exact"
+ },
+ "Drexel Hill, Delaware County, Pennsylvania": {
+  "lat": 39.94833,
+  "lon": -75.30689,
+  "label": "Drexel Hill, Garrettford, Upper Darby, Delaware County, Pennsylvania, 19026, United States",
+  "matched": "Drexel Hill, Delaware County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Ellis Island, New York": {
+  "lat": 40.69859,
+  "lon": -74.04201,
+  "label": "Ellis Island, Manhattan, Communipaw, Jersey City, Hudson County, New Jersey, United States",
+  "matched": "Ellis Island, New York",
+  "precision": "exact"
+ },
+ "Glenmaura, Moosic, Lackawanna County, Pennsylvania": {
+  "lat": 41.34697,
+  "lon": -75.69543,
+  "label": "Glenmaura, Moosic, Lackawanna County, Pennsylvania, 18507, United States",
+  "matched": "Glenmaura, Moosic, Lackawanna County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Hospice Inpatient Unit, Mercy Hospital, Scranton, Pennsylvania": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton, Pennsylvania",
+  "precision": "approximate"
+ },
+ "Old Forge, Lackawanna County, Pennsylvania": {
+  "lat": 41.37119,
+  "lon": -75.73491,
+  "label": "Old Forge, Lackawanna County, Pennsylvania, 18518, United States",
+  "matched": "Old Forge, Lackawanna County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Paoli Hospital, Paoli, Chester County, Pennsylvania (residence Exton)": {
+  "lat": 40.04443,
+  "lon": -75.50202,
+  "label": "Paoli Hospital, 255, West Lancaster Avenue, Knickerbocker, Willistown Township, Chester County, Pennsylvania, 19301, United States",
+  "matched": "Paoli Hospital, Paoli, Chester County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Scranton (Local Board No. 2)": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton",
+  "precision": "exact"
+ },
+ "Scranton, Lackawanna County, Pennsylvania (E.D. 79-23)": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton, Lackawanna County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Scranton, Pennsylvania (private interment)": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton, Pennsylvania",
+  "precision": "exact"
+ },
+ "St. Elizabeth Church, Chester Springs, Pennsylvania": {
+  "lat": 40.08912,
+  "lon": -75.69091,
+  "label": "Saint Elizabeth Catholic Church, 110, St. Elizabeth Drive, Byers, Eagle, Upper Uwchlan Township, Chester County, Pennsylvania, 19425, United States",
+  "matched": "St. Elizabeth Church, Chester Springs, Pennsylvania",
+  "precision": "exact"
+ },
+ "Strada Via Grande, Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy": {
+  "lat": 38.96684,
+  "lon": 16.32007,
+  "label": "Lamezia Terme-Nicastro, Via Timavo, Lamezia Terme, Catanzaro, Calabria, 88046, Italy",
+  "matched": "Nicastro, Catanzaro, Calabria, Italy",
+  "precision": "approximate"
+ },
+ "VNA Hospice, Community Medical Center, Scranton (residence Moosic), Pennsylvania": {
+  "lat": 41.4004,
+  "lon": -75.64667,
+  "label": "Geisinger Community Medical Center, 1800, Mulberry Street, Scranton, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "Community Medical Center, Scranton, Pennsylvania",
+  "precision": "approximate"
+ },
+ "Vestal, Broome County, New York": {
+  "lat": 42.08507,
+  "lon": -76.05381,
+  "label": "Town of Vestal, Broome County, New York, United States",
+  "matched": "Vestal, Broome County, New York",
+  "precision": "exact"
+ },
+ "probably Moosic or Scranton, Pennsylvania": null
 }

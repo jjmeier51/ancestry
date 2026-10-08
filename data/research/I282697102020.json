@@ -12,11 +12,16 @@
     "immigrant"
   ],
   "summary": "Candle-maker's son from Dasà in Calabria and father of Frank Cognetti; probably John's maternal 2nd great-grandfather.",
-  "bio": "Giovanni Cognetta was born on 22 March 1855 at Dasà, then in the Monteleone district of the province of Catanzaro and now in Vibo Valentia, Calabria, Italy. His father, Mastro Nicola Cognetta, was a ceraiuolo, a wax-chandler or candle-maker, then aged 51; his mother was Donna Mariangela Cannatello, aged 32. The titles Mastro and Donna mark a family of slightly elevated artisan standing. With his wife Mariarosa C. Lamanna, born in 1863, he was the father of Frank Cognetti.\n\nThere is no sign that Giovanni himself ever emigrated; he probably remained in Italy. He died in 1930, at a place recorded as Nicasetro, Italy. He is probably John's maternal 2nd great-grandfather.",
+  "bio": "Giovanni Cognetta was born on 22 March 1855 at Dasà, then in the Monteleone district of the province of Catanzaro and now in Vibo Valentia, Calabria, Italy. His father, Mastro Nicola Cognetta, was a ceraiuolo, a wax-chandler or candle-maker, then aged 51; his mother was Donna Mariangela Cannatello, aged 32. The titles Mastro and Donna mark a family of slightly elevated artisan standing. With his wife Mariarosa C. Lamanna, born in 1863, he was the father of Frank Cognetti.\n\nIn April 1910 a 23-year-old Nicola Cognetta of Dasà, sailing from Naples back to Stamford, Connecticut, named his nearest relative at home as his father Giovanni of Dasà and said he was going to join his brother Francesco. The names fit the Calabrian custom of calling the eldest son after his paternal grandfather, Mastro Nicola, and the record agrees with the family's account of Giovanni as the father of a Francesco, although it does not prove that this Francesco was Frank Cognetti of Scranton. It also shows that Giovanni was still living at Dasà in 1910, and there is no sign that he ever emigrated.\n\nHe died in 1930. The place recorded for his death, 'Nicasetro', has no support in any record and is probably a garbled entry, perhaps borrowed from the unrelated Cognetto family of Nicastro, about fifty kilometres to the north; he more likely died at Dasà, though this is unproven. He is probably John's maternal 2nd great-grandfather.",
   "residences": [
     {
       "date": "1855",
       "place": "Dasà, Vibo Valentia, Calabria, Italy"
+    },
+    {
+      "date": "1910-04",
+      "place": "Dasà, Calabria, Italy",
+      "note": "Named as 'father Giovanni, Dasa', the nearest relative at home, by his son Nicola when Nicola sailed to Stamford, CT in April 1910 (identity with Giovanni b. 1855 probable by place, surname and naming pattern). [R6-S1]"
     }
   ],
   "facts": [
@@ -28,7 +33,9 @@
   "sources": [
     "Antenati, Dasà, Nati 1855, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0JPovJv ; index https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0Zo8bdo",
     "Ancestry tree transcription",
-    "notes/italian.md 3.2; notes/round2/italian_gaps.md 3; notes/round3/italian_origins.md 4"
+    "notes/italian.md 3.2; notes/round2/italian_gaps.md 3; notes/round3/italian_origins.md 4",
+    "[R6-S1] List or Manifest of Alien Passengers, SS Regina d'Italia, Napoli 19 Apr 1910, arr. New York 2 May 1910, List 141, line 15, both pages (images read): Nicola Cognetta, 23, single, of Dasa; nearest relative in Italy 'father Giovanni, Dasa'; destination Stamford, Conn.; previously in the US ('04/09', Conn.); joining 'brother Francesco, 3 [?] Branch St'. NARA T715 roll 1468 frames 645-646; index JJNS-FNT. (primary) https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+    "[R6-S2] Statue of Liberty-Ellis Island Foundation passenger index (FamilySearch-backed), searches 1892-1925 for Cognetta and variants, and residence-filtered searches for Dasa/Dasà. (derivative) https://www.statueofliberty.org/arrival-search/"
   ],
   "mediaKnown": [
     "1855 birth act image (Antenati)"
@@ -37,7 +44,7 @@
     "Proof he is Frank Cognetti's father (Frank's birth act; Dasà has no births online 1862-1910)",
     "Marriage to Mariarosa Lamanna (Dasà, c.1880s)",
     "Death place 1930",
-    "Did Giovanni ever emigrate? No PA death-index trace; the tree's 1930 death place is unknown (probably Dasà)."
+    "Is 'Nicasetro' a garbled 'Dasà' or a real move to Nicastro? Check the Dasà Morti 1930 (Vibo Valentia Archivio di Stato, 1910-1951 on FamilySearch/Antenati)."
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -64,7 +71,61 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Did Giovanni ever emigrate? No PA death-index trace; the tree's 1930 death place is unknown (probably Dasà). → No emigration record found. In 1910 his son Nicola gave him as living at Dasà; he seems to have stayed in Italy."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Ellis Island index: no Giovanni Cognetta/Cognetti of Dasà 1892-1925; Antenati (Dasà registry search): 403, blocked; FamilySearch catalog search API: 401, blocked; WebSearch: Cognetta Dasà 1855/1930 Giovanni Lamanna (no relevant hits)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: 1910 manifest of son Nicola names 'father Giovanni, Dasa' (alive at Dasà 1910) and brother Francesco in Stamford; 'Nicasetro' death place unsupported."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102020.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
-  "researchNotes": "Tree: Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863), parents of Frank Cognetti. Round 3 confirmed: born 22 Mar 1855, Dasà (Monteleone district; then province of Catanzaro / Calabria Ultra II, now Vibo Valentia), Nati 1855 act 18; father Mastro Nicola Cognetta, 51 (b. c.1804), ceraiuolo (wax-chandler/candle-maker); mother Donna Mariangela Cannatello, 32 (b. c.1823) - the tree's 'Mariantonia' is wrong. 'Mastro' and 'Donna' mark a family of slightly elevated, artisan status. Emigration unknown: no US record found; he is not in any Scranton census with Frank; probably stayed in Italy (speculative). Where he died in 1930 is not recorded. Index entries show Lamanna and Malvaso surnames in Dasà in 1854-55."
+  "researchNotes": "Tree: Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863), parents of Frank Cognetti. Round 3 confirmed: born 22 Mar 1855, Dasà (Monteleone district; then province of Catanzaro / Calabria Ultra II, now Vibo Valentia), Nati 1855 act 18; father Mastro Nicola Cognetta, 51 (b. c.1804), ceraiuolo (wax-chandler/candle-maker); mother Donna Mariangela Cannatello, 32 (b. c.1823) - the tree's 'Mariantonia' is wrong. 'Mastro' and 'Donna' mark a family of slightly elevated, artisan status. Emigration unknown: no US record found; he is not in any Scranton census with Frank; probably stayed in Italy (speculative). Where he died in 1930 is not recorded. Index entries show Lamanna and Malvaso surnames in Dasà in 1854-55.\n\nRound 6: In April 1910 a 23-year-old Nicola Cognetta of Dasà sailed from Naples to New York on his way back to Stamford, Connecticut, and gave his 'father Giovanni, Dasa' as his nearest relative at home. In Stamford he was going to join his brother Francesco ([R6-S1]). This is almost certainly a Giovanni Cognetta of Dasà with sons named Nicola and Francesco. The names fit the Calabrian custom of naming the eldest son after the paternal grandfather: Giovanni's father was Mastro Nicola Cognetta. So the record supports the tree's picture of Giovanni (born 1855) as father of a Francesco, although it does not prove that this Francesco was Frank Cognetti of Scranton. It also shows that Giovanni was still living at Dasà in 1910, and no record of him emigrating was found ([R6-S2]).\n\nThe tree's death place for him, 'Nicasetro' in 1930, has no support in any record found. The Nicastro Cognetto family of Scranton's other Frank (H0381) descends from Bruno Cognetto (b. 1857) and his parents Pietro Giuseppe Cognetto and Giovanna Cuda, and has no Giovanni. Nicastro (now Lamezia Terme) lies about 50 km north of Dasà. 'Nicasetro' is probably a garbled entry, perhaps borrowed from the other family, and his 1930 death was more likely at Dasà; this is unproven.",
+  "conflicts": [
+    {
+      "field": "death.place",
+      "site": "Nicasetro, Italy (1930)",
+      "found": "Living at Dasà in April 1910 (son's manifest); no record of a move to Nicastro",
+      "assessment": "Keep the 1930 year as tree-only. Flag 'Nicasetro' as doubtful; Dasà is more likely. Needs his death act (Dasà Morti 1930, on FamilySearch 'Italia, Vibo Valentia, Stato Civile 1910-1951', or Antenati when it is accessible)."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p1.jpg",
+      "type": "record",
+      "title": "1910 Ellis Island manifest (page 1): Nicola Cognetta of Dasà, 'father Giovanni, Dasa'",
+      "date": "1910-05-02",
+      "source": "NARA microfilm T715 roll 1468 (via FamilySearch / Statue of Liberty-Ellis Island Foundation), public_domain",
+      "note": "1910 US Immigration Service record, public domain. Line 15.",
+      "people": [
+        "I282695503559"
+      ],
+      "url": "https://www.statueofliberty.org/arrival-details/?id=JJNS-FNT"
+    },
+    {
+      "file": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p2.jpg",
+      "type": "record",
+      "title": "1910 Ellis Island manifest (page 2): Nicola joins 'brother Francesco', Branch St, Stamford",
+      "date": "1910-05-02",
+      "source": "NARA microfilm T715 roll 1468, public_domain",
+      "note": "Line 15, columns 13-29.",
+      "people": [
+        "I282695503559"
+      ],
+      "url": "https://www.statueofliberty.org/arrival-details/?id=JJNS-FNT"
+    }
+  ]
 }

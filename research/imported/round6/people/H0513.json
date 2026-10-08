@@ -1,0 +1,74 @@
+{
+ "id": "H0513",
+ "name": "Bruno Cognetto",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1857-11-06",
+   "place": "Strada Via Grande, Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Bruno Cugnetto"
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "GV9T-HLM"
+   }
+  ]
+ },
+ "bioAdditions": "Bruno Cognetto, also written Cugnetto, was born on 6 November 1857 on the Strada Via Grande in Nicastro (now Lamezia Terme), Calabria. According to the FamilySearch tree he was the son of Pietro Giuseppe Cognetto (b. 1826) and Giovanna Cuda (b. 1838) and had a brother Vincenzo (b. 1860). With his wife Rosa (maiden name not given) he had Francesco/Frank (1894-1978), who emigrated to Dunmore and Scranton, Pennsylvania; Giovanna (1897-1990), who married Michelangelo Gallo and died at Lamezia Terme; and Giuseppe (c.1900-1971), who died in Victoria, Australia (S1). No record of Bruno himself emigrating was found (S2). He is the father of the 'other' Scranton Frank Cognetti (H0381) and is not known to be related to John's family.",
+ "conflicts": [
+  {
+   "field": "marriage",
+   "siteValue": "(none)",
+   "foundValue": "FS tree shows a marriage on 17 Aug 1856, before his own birth",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "That date probably belongs to his parents' marriage; ignore it."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "H0381",
+   "evidence": "FS tree GV9T-HLM lists Frank Cognetti P7MS-NB2 as his son, b. 20 Sep 1894 Nicastro (matches Frank's WWI card).",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "unverified (not kin)",
+  "justification": "Tree data only; outside John's line."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch published tree, Bruno Cognetto GV9T-HLM (JSON), with parents, sibling, spouse and children.",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GV9T-HLM",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, parents, children"
+  },
+  {
+   "ref": "S2",
+   "citation": "Statue of Liberty-Ellis Island Foundation passenger index: Bruno Cognetto/Cugnetto 1892-1925.",
+   "url": "https://www.statueofliberty.org/arrival-search/",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "No matching arrival"
+  }
+ ],
+ "searchedNoResult": [
+  "Ellis Island index: Bruno Cugnetto / Bruno Cognetto 1892-1925 (no matching arrival)"
+ ],
+ "researchLogEntry": "Round 6: FS tree gives b. 6 Nov 1857 Nicastro, parents Pietro Giuseppe Cognetto and Giovanna Cuda, children Frank, Giovanna, Giuseppe; no emigration found."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "M0097",
+  "link": {
+    "confidence": "probable",
+    "note": "Son of Giovanni Cognetta of Dasà per his 1910 manifest; brother of John's great-grandfather Frank only if the Francesco Cognetta of Stamford was Frank, which is probable but unproven."
+  },
+  "tags": [],
+  "summary": "Shoemaker from Dasà who emigrated to Stamford, Connecticut, in 1903; son of Giovanni Cognetta and probably an elder brother of Frank Cognetti of Scranton.",
+  "bio": "Nicola Cognetta was born at Dasà in Calabria about 1886 or 1887, the son of Giovanni Cognetta, and carried the name of his grandfather, the candle-maker Mastro Nicola Cognetta. A shoemaker, he landed in New York in December 1903, aged seventeen, bound for Stamford, Connecticut, where many families from Dasà settled. He went home and sailed again from Naples in April 1910, telling the clerk at Ellis Island that his nearest relative at home was his father Giovanni at Dasà and that he was joining his brother Francesco on Branch Street in Stamford. A Francesco Cognetta of Dasà, also seventeen, had arrived in 1905 to join a brother Nicola there.\n\nIf, as the family's account of Frank Cognetti's parentage suggests, that Francesco was John's great-grandfather, Nicola was Frank's elder brother and John's great-great-uncle; the identification is probable but not proven. He should not be confused with an older Nicola Cognetta of Dasà, born about 1870, who went to Stamford with his family in 1911 and 1916.",
+  "sources": [
+    "[R6-S1] Manifest, SS Regina d'Italia, arr. New York 2 May 1910, List 141, line 15 (images read); index JJNS-FNT. (primary) https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+    "[R6-S2] Manifest, SS Citta di Napoli, arr. New York 3 Dec 1903, List R, line 21 (image read); index JFYR-8MQ (residence indexed 'Rosa'). (primary) https://www.familysearch.org/ark:/61903/3:1:33S7-L161-VSK",
+    "[R6-S3] Manifest, SS Citta di Milano, arr. New York 18 Jun 1905, List 25, line 26 (image read); index JF7W-PY9. (primary) https://www.familysearch.org/ark:/61903/3:1:33S7-91J1-8H5"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): new relative NEW-1501 → M0097; research/imported/round6/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+  ],
+  "occupation": "Shoemaker (1903)",
+  "residences": [
+    {
+      "date": "1903–1910",
+      "place": "Stamford, Fairfield County, Connecticut, USA",
+      "note": "Branch Street in 1910, with his brother Francesco"
+    }
+  ],
+  "events": [
+    {
+      "title": "Arrived at Ellis Island",
+      "date": "1903-12",
+      "place": "New York, New York, USA",
+      "description": "Aged 17, a shoemaker, bound for Stamford, Connecticut."
+    },
+    {
+      "title": "Returned to America",
+      "date": "1910-05-02",
+      "place": "New York, New York, USA",
+      "description": "On the Regina d'Italia from Naples, aged 23, naming his father Giovanni at Dasà and joining his brother Francesco on Branch Street, Stamford."
+    }
+  ]
+}

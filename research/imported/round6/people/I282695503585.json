@@ -1,0 +1,135 @@
+{
+  "id": "I282695503585",
+  "name": "Joseph F. Cognetti",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "2009-05-25",
+      "place": "VNA Hospice, Community Medical Center, Scranton (residence Moosic), Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "occupation": "Lumber salesman (from 1937); salesman (1940); food and confectionery broker, partner and chairman of D.C. Sales Co. (from 1956)",
+    "residences": [
+      {
+        "date": "1940-04",
+        "place": "612 Philo St, Scranton, Pennsylvania",
+        "note": "Single, with parents",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2009",
+        "place": "Glenmaura, Moosic, Lackawanna County, Pennsylvania",
+        "note": "Retirement home with his wife",
+        "sourceRefs": [
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage to Domenica",
+        "date": "1946",
+        "place": "",
+        "description": "Married Domenica ('Aunt Min'), maiden name not yet found, after his return from the Army Air Corps; they were married 63 years.",
+        "sourceRefs": [
+          "S2",
+          "S3"
+        ]
+      },
+      {
+        "title": "Lou Spector Award",
+        "date": "1961",
+        "place": "",
+        "description": "Received the CBA Lou Spector Award (per obituary summary).",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Founded the Cognetti family Thanksgiving",
+        "date": "1966",
+        "place": "Brutico's restaurant, Old Forge, Pennsylvania",
+        "description": "First dinner held in a back room at Brutico's with fewer than two dozen relatives.",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Education (1940 census)",
+        "value": "2nd year of high school"
+      },
+      {
+        "label": "FamilySearch ID",
+        "value": "GBQH-LWX"
+      }
+    ]
+  },
+  "bioAdditions": "In 1940 Joe was 22, living at home on Philo Street and working as a salesman; he had finished two years of high school (S1). His obituary, known so far only from search summaries, says he began as a lumber salesman in 1937, served in the Army Air Corps, and in 1946 married Domenica, his wife of 63 years. He entered the food and confectionery brokerage business in 1956 as a partner in D.C. Sales Co., received the CBA's Lou Spector Award in 1961, and with Domenica retired to Glenmaura in Moosic (S2). The couple started the family Thanksgiving in 1966 in a back room of Brutico's restaurant in Old Forge; Domenica, 'Aunt Min' to the family, died two months before Joe in 2009 (S2, S3).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "NEW-1552",
+      "evidence": "Obituary: 'his wife of 63 years, Domenica', married 1946; Thanksgiving article names Joe and Domenica Cognetti of Moosic",
+      "sourceRefs": [
+        "S2",
+        "S3"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.place",
+      "siteValue": "Moosic, Lackawanna County",
+      "foundValue": "VNA Hospice at Community Medical Center (Scranton); residence Moosic",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Both can stand: Moosic was his residence; the hospice is the place of death (per search summary of the obituary)."
+    }
+  ],
+  "openQuestionsNew": [
+    "Domenica Cognetti's maiden name, birth and 2009 death date (her obituary c. March 2009; their 1946 marriage license, Lackawanna County or wherever they married).",
+    "Read the full 2009 obituary (Legacy id 23435864) to confirm the summary details."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 68 (Joseph, son, 22, Frank Cognetti household, 612 Philo St; supplementary-question line); FS index KQZZ-JKQ, image attached to GBQH-TGM / GBQH-LWX",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Single, 22, completed 2nd year of high school, salesman, 50 hours, 52 weeks, $1,040 in 1939; supplementary line: father and mother born Italy, mother tongue Italian, has a Social Security number"
+    },
+    {
+      "ref": "S2",
+      "citation": "Obituary of Joseph F. Cognetti, The Times-Tribune (Scranton), 28 May 2009, via Legacy.com (id 23435864); page blocked (403), content known only from search-engine summaries",
+      "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Died aged 90 at VNA Hospice, Community Medical Center; predeceased two months earlier by his wife of 63 years, Domenica; married 1946 after Army Air Corps service; began as a lumber salesman in 1937; partner in D.C. Sales Co. from 1956; CBA Lou Spector Award 1961; retired to Glenmaura, Moosic. (Summary only; verify against the full text.)"
+    },
+    {
+      "ref": "S3",
+      "citation": "'Family celebrates 50 years of Thanksgiving gatherings', The Times-Tribune (Scranton), Nov 2016, reprinted by Hinerfeld Commercial",
+      "url": "https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joe and Domenica ('Aunt Min') Cognetti of Moosic founded the gathering in 1966 in a back room of Brutico's restaurant, Old Forge; both died in 2009, two months apart; a son and a daughter organised the 50th dinner"
+    }
+  ],
+  "searchedNoResult": [
+    "Legacy.com obituary pages: blocked (403)",
+    "WebSearch 'Domenica Cognetti' obituary 2009: no obituary found",
+    "NARA AAD WWII enlistment records: blocked"
+  ],
+  "researchLogEntry": "Round 6: wife Domenica (m. 1946, d. 2009) identified; 1940 census and obituary details (lumber salesman 1937, D.C. Sales 1956, Lou Spector Award 1961) added."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "M0099",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Wife of John's great-uncle Joseph F. Cognetti (his obituary); related by marriage only."
+  },
+  "tags": [],
+  "summary": "'Aunt Min', wife of Joseph F. Cognetti for 63 years and co-founder of the Cognetti family Thanksgiving.",
+  "bio": "Domenica Cognetti, called Aunt Min by the family, married Joseph F. Cognetti in 1946, after his Army Air Corps service. In 1966 the couple started the Cognetti family Thanksgiving in a back room of Brutico's restaurant in Old Forge, a gathering that grew to 151 relatives by its fiftieth year. They retired to Glenmaura in Moosic and died two months apart in 2009, after 63 years of marriage. Her maiden name is not yet known.",
+  "sources": [
+    "[R6-S1] Joseph F. Cognetti obituary, Times-Tribune 28 May 2009 (Legacy id 23435864; blocked; search summary only) (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
+    "[R6-S2] 'Family celebrates 50 years of Thanksgiving gatherings', Times-Tribune, Nov 2016 (Hinerfeld reprint) (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): new relative NEW-1552 → M0099; research/imported/round6/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+  ]
+}

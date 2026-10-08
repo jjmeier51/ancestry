@@ -23,7 +23,7 @@
     "immigrant"
   ],
   "summary": "Born Maria Filomena at San Mango d'Aquino in Calabria, she came to Scranton as a child and married Frank Cognetti; John's maternal great-grandmother.",
-  "bio": "Helen Ferlaino was born at San Mango d'Aquino in Catanzaro, Calabria, on 8 October 1894 and was baptized the next day in the parish of San Tommaso d'Aquino as Maria Filomena, the daughter of Leopoldo Ferlaino (1871-1915) and Giuseppina Fiorillo (1871-1943); her godmother was Saveria Sacco. She was the couple's only child recorded in the San Mango registers. Helen was the name she used in America, and records that list a Filomena Ferlaino as Frank Cognetti's wife refer to the same woman under her baptismal name.\n\nShe emigrated to the United States with her mother in 1900 or 1901 and married Frank Cognetti of Scranton at about sixteen, around 1912 or 1913. In January 1920 the family were living at 1306 Diamond Avenue in Scranton, the home of her widowed mother Josephine, who owned the house outright and took in boarders from San Mango; also there were Helen's brother Frank, a 17-year-old coal-mine laborer, her sister Raffaela, her husband, and her sons Ralph, Salvatore and Joseph. Another son was named Leopold Salvatore after her father. The census taker wrote the whole household's surname as Farino, and that spelling, or Farina, followed her through later American records, including her sons' marriage licences and a 2008 obituary that called her Helen Farina Cognetti; her baptism shows she was born a Ferlaino.\n\nBy 1930 the family had moved to Philo Street in Scranton, where she was still living in 1950; in 1942 she was named as next of kin on her son Anthony's draft card. She died on 14 March 1965, aged 69, in South Abington Township, Lackawanna County, while a resident of Scranton. She was John's maternal great-grandmother.",
+  "bio": "Helen Ferlaino was born at San Mango d'Aquino in Catanzaro, Calabria, on 8 October 1894 and was baptized the next day in the parish of San Tommaso d'Aquino as Maria Filomena, the daughter of Leopoldo Ferlaino (1871-1915) and Giuseppina Fiorillo (1871-1943); her godmother was Saveria Sacco. She was the couple's only child recorded in the San Mango registers. Helen was the name she used in America, and records that list a Filomena Ferlaino as Frank Cognetti's wife refer to the same woman under her baptismal name.\n\nShe emigrated to the United States with her mother in 1900 or 1901 and married Frank Cognetti of Scranton at about sixteen, around 1912 or 1913. In January 1920 the family were living at 1306 Diamond Avenue in Scranton, the home of her widowed mother Josephine, who owned the house outright and took in boarders from San Mango; also there were Helen's brother Frank, a 17-year-old coal-mine laborer, her sister Raffaela, her husband, and her sons Ralph, Salvatore and Joseph. Another son was named Leopold Salvatore after her father. The census taker wrote the whole household's surname as Farino, and that spelling, or Farina, followed her through later American records, including her sons' marriage licences and a 2008 obituary that called her Helen Farina Cognetti; her baptism shows she was born a Ferlaino.\n\nThe censuses fill in her American life. In 1930 she said she had married at sixteen and come to the United States in 1901, and that she could read and write; the family owned the house at 612 Philo Street, then valued at $5,000. By 1940 the Depression had cut its value to $3,000. Helen, 44, had finished seventh grade, was a naturalized citizen and kept house for her husband and eight children; in 1950 five of the children were still at home. Her son Leo's obituary records that five brothers and a sister died before him, so all eight of the children she raised lived to adulthood.\n\nBy 1930 the family had moved to Philo Street in Scranton, where she was still living in 1950; in 1942 she was named as next of kin on her son Anthony's draft card. She died on 14 March 1965, aged 69, in South Abington Township, Lackawanna County, while a resident of Scranton. She was John's maternal great-grandmother.",
   "residences": [
     {
       "date": "1920",
@@ -40,6 +40,21 @@
     {
       "date": "1950",
       "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1930-04",
+      "place": "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania",
+      "note": "House owned by the family, valued at $5,000 [R6-S1]"
+    },
+    {
+      "date": "1940-04",
+      "place": "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania",
+      "note": "Owned, valued at $3,000; same house in 1935 [R6-S2]"
+    },
+    {
+      "date": "1950-04",
+      "place": "Scranton, Lackawanna County, Pennsylvania (E.D. 79-23)",
+      "note": "Keeping house, aged 55 [R6-S3]"
     }
   ],
   "events": [
@@ -54,6 +69,18 @@
       "date": "1894-10-09",
       "place": "Parish of San Tommaso d'Aquino, San Mango d'Aquino",
       "description": "Baptized the day after her birth as Maria Philumena, daughter of Leopoldo Ferlaino and Josepha (Giuseppina) Fiorillo; godmother Saveria Sacco. [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Age at marriage",
+      "date": "ABT 1911-1912",
+      "place": "",
+      "description": "The 1930 census gives her age at first marriage as 16 and Frank's as 21, which fits a marriage about 1911-12. [R6-S1]"
+    },
+    {
+      "title": "Naturalization status",
+      "date": "by 1940",
+      "place": "",
+      "description": "The 1940 census marks her 'Na' (naturalized) and the 1950 census answers 'Yes' to 'naturalized?'. The 1930 entry is overwritten and cannot be read with confidence. No naturalization paper has been found; if Frank was naturalized before 22 Sep 1922 she would have derived citizenship through him. [R6-S1] [R6-S2] [R6-S3]"
     }
   ],
   "facts": [
@@ -64,6 +91,14 @@
     {
       "label": "PA death index",
       "value": "1965, file 027518, age 69"
+    },
+    {
+      "label": "Education (1940 census)",
+      "value": "Highest grade completed: 7"
+    },
+    {
+      "label": "Literacy (1930 census)",
+      "value": "Able to read and write"
     }
   ],
   "sources": [
@@ -77,7 +112,12 @@
     "Round 1 correction 3o; Round 2 report 3e; notes/round2/italian_gaps.md section 2; notes/round3/italian_origins.md section 5",
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino, San Tommaso d'Aquino parish, Battesimi 1888-1901 (Book 13), photograph 'Book 13 (65).jpg', p. 195 (MS), entry 61, M[ari]a Philumena Ferlaino; read by me (Latin): 'baptizavi infantem pridie natam ex Leopoldo Ferlaino et Josepha Fiorillo, cui nomen M[ari]a Philumena impositum est'. (primary) https://drive.usercontent.google.com/download?id=1H3Xnxq1LsAd42jJhZ83sPsAnGduoRqx8&export=download&confirm=t",
-    "[R4-S3] Pennsylvania State Archives, death-certificate index, 1965, C-D volume, PDF p. 92: COGNETTI HELEN, 69, S ABTN T, county 35, 03/14/65, file 027518, res. 35001. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf"
+    "[R4-S3] Pennsylvania State Archives, death-certificate index, 1965, C-D volume, PDF p. 92: COGNETTI HELEN, 69, S ABTN T, county 35, 03/14/65, file 027518, res. 35001. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+    "[R6-S1] 1930 US census, Scranton Ward 2, Lackawanna Co., PA, E.D. 35-12, sheet 28A, dwelling 612 [Philo St], lines 29-30 (Frank Cognetti household); FS index XH3R-XB1, image attached to FS tree G3NN-88N (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3NN-88N/images/i/0/image.jpg",
+    "[R6-S2] 1940 US census, Scranton Ward 2, Lackawanna Co., PA, E.D. 71-15, sheet 13B, lines 64-75 (612 [Philo St], Frank Cognetti household); FS index KQZZ-JKH, image attached to FS tree GBQH-TGM (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S3] 1950 US census, Scranton, Lackawanna Co., PA, E.D. 79-23, sheet 71, lines 24-30 (Frank Cognetti household); FS index 6X1W-37K7, image attached to FS tree GJB1-8HT (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-8HT/images/i/0/image.jpg",
+    "[R6-S4] Obituary of Leo S. Cognetti (1929-2019), James J. Terry Funeral Homes, Inc. (secondary) https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+    "[R6-S5] Pennsylvania State Archives, death-certificate indexes 1913-1940 (C-D / C volumes), checked under COGNETTI/COGNETTO and Soundex C253 for every year 1913-1940 (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1938/D-38%20C-D.pdf"
   ],
   "mediaKnown": [
     "1920 and 1930 census images",
@@ -87,7 +127,10 @@
     "Frank & Helen's c.1912-13 Lackawanna County marriage license",
     "SS-5 application",
     "Order or view PA death certificate 1965 file 027518 (Ancestry \"Pennsylvania, U.S., Death Certificates, 1906-1970\").",
-    "San Mango civil birth act, Nati 1894 (FamilySearch \"Italia, Catanzaro, Stato Civile\" 1866-1910)."
+    "San Mango civil birth act, Nati 1894 (FamilySearch \"Italia, Catanzaro, Stato Civile\" 1866-1910).",
+    "Helen's naturalization: was it derivative through Frank (if he naturalized before 22 Sep 1922) or by her own petition in Lackawanna County?",
+    "Funeral and burial of Helen Cognetti, March 1965 (Scranton Times/Tribune obituary, probably 15-17 Mar 1965); burial presumably Cathedral Cemetery like her sons, unconfirmed.",
+    "Helen died in South Abington Township (1965); her daughter Angeline Butchko later lived at Chinchilla in that township (2008). Whether Helen died at Angeline's home is unverified; the death certificate (file 027518) would say."
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -142,6 +185,22 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Find a Grave / BillionGraves: blocked per brief, not retried for Helen; WebSearch: Helen Cognetti obituary 1965 Scranton: nothing online; PA death indexes 1913-1940 for Cognetti children: none attributable (see S5)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: added 1930/1940/1950 census details (married at 16, 7th-grade schooling, naturalized by 1940, owned 612 Philo St) and confirmed eight children (Leo's obituary); PA death indexes 1913-40 show no child death for the couple."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503581.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
   "death": {
@@ -183,7 +242,25 @@
       "source": "Pennsylvania State Archives, unknown",
       "note": "PDF page 92 (C-D volume). (not downloaded: rights unknown)",
       "people": []
+    },
+    {
+      "url": "https://familysearch.org/ark:/61903/1:1:KQZZ-JKH",
+      "type": "link",
+      "title": "1940 census, Frank and Helen Cognetti household, 612 Philo St, Scranton",
+      "date": "1940-04-11",
+      "source": "FamilySearch / NARA, unknown",
+      "note": "Sheet 13B, lines 64-75. Federal record, but post-1931, so rights treated as unknown per the brief and not downloaded. (not downloaded: rights unknown)",
+      "people": [
+        "I282695503559",
+        "I282695503685",
+        "I282695503586",
+        "I282695503585",
+        "I282695503587",
+        "I282695503583",
+        "I282695503584",
+        "H0346"
+      ]
     }
   ],
-  "researchNotes": "Tree: Helen (b. 1896), wife of Frank Cognetti, daughter of Leopoldo Ferlaino (1871-1915) + Giuseppina Fiorillo (1871-1943). CONFLICT: Anthony R. Cognetti's 2008 obituary calls her 'Helen Farina Cognetti'. Round 1 left this unresolved (explanations: Americanization/mishearing of Ferlaino; obituary wrong; or the tree's Ferlaino attachment wrong). Round 2 evidence: (1) 1920 US census, Scranton Ward 2, ED 105, sheet 2A (enumerated 2-3 Jan 1920), 1306 Diamond Avenue: Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; Helen, daughter, 25, married, born Italy, immigrated 1900; Frank, son, 17, born PA, coal-mine laborer; 'Rofella' (Raffaela?), daughter, 15, born PA; Frank Cognetti 'boarder' (son-in-law) 29; grandsons Ralf, Salvador, Joseph; boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. (2) Round 1's forum source says 1306 Diamond Ave 'was the home of the Ferlaino family who took in boarders from San Mango' and names boarder Antonio Epifano - same address, same boarder. (3) Widowed mother Josephine (= Giuseppina) fits Giuseppina Fiorillo, widow of Leopoldo (d. 1915). (4) Her son was named Leopold Salvatore ('Leopoldo' in the 1930 census). (5) Two sons' marriage licenses give mother's maiden name 'Farino': Ralph 1940 (No. 817) and Sal 1943 (No. 1716). The 1920 enumerator wrote the whole Ferlaino household as 'Farino'; 'Farina' in the 2008 obituary is a later echo. Verdict: probable, close to confirmed (Helen = Elena Ferlaino). Arrival: 1900 (1920 census) or 1901 (1930 census), with her mother. Age 25 in Jan 1920 suggests birth c.1894; married at 16 (1930 census) c.1912-13. Her FS tree profile shows 'Deceased' with no date. In 1942 she was listed as next of kin ('Mrs. Helen Cognetti') on son Anthony's draft card at 614 Philo St. Antenati's San Mango coverage ends in 1860, so her birth act and her parents' marriage could not be reached.\n\nHelen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco ([R4-S1]). I read the register entry myself on the volunteer-photographed page ([R4-S2]). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) ([R4-S3]). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling."
+  "researchNotes": "Tree: Helen (b. 1896), wife of Frank Cognetti, daughter of Leopoldo Ferlaino (1871-1915) + Giuseppina Fiorillo (1871-1943). CONFLICT: Anthony R. Cognetti's 2008 obituary calls her 'Helen Farina Cognetti'. Round 1 left this unresolved (explanations: Americanization/mishearing of Ferlaino; obituary wrong; or the tree's Ferlaino attachment wrong). Round 2 evidence: (1) 1920 US census, Scranton Ward 2, ED 105, sheet 2A (enumerated 2-3 Jan 1920), 1306 Diamond Avenue: Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; Helen, daughter, 25, married, born Italy, immigrated 1900; Frank, son, 17, born PA, coal-mine laborer; 'Rofella' (Raffaela?), daughter, 15, born PA; Frank Cognetti 'boarder' (son-in-law) 29; grandsons Ralf, Salvador, Joseph; boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. (2) Round 1's forum source says 1306 Diamond Ave 'was the home of the Ferlaino family who took in boarders from San Mango' and names boarder Antonio Epifano - same address, same boarder. (3) Widowed mother Josephine (= Giuseppina) fits Giuseppina Fiorillo, widow of Leopoldo (d. 1915). (4) Her son was named Leopold Salvatore ('Leopoldo' in the 1930 census). (5) Two sons' marriage licenses give mother's maiden name 'Farino': Ralph 1940 (No. 817) and Sal 1943 (No. 1716). The 1920 enumerator wrote the whole Ferlaino household as 'Farino'; 'Farina' in the 2008 obituary is a later echo. Verdict: probable, close to confirmed (Helen = Elena Ferlaino). Arrival: 1900 (1920 census) or 1901 (1930 census), with her mother. Age 25 in Jan 1920 suggests birth c.1894; married at 16 (1930 census) c.1912-13. Her FS tree profile shows 'Deceased' with no date. In 1942 she was listed as next of kin ('Mrs. Helen Cognetti') on son Anthony's draft card at 614 Philo St. Antenati's San Mango coverage ends in 1860, so her birth act and her parents' marriage could not be reached.\n\nHelen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco ([R6-S1]). I read the register entry myself on the volunteer-photographed page ([R6-S2]). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) ([R6-S3]). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling.\n\nRound 6: The censuses add some detail to Helen's American life. In 1930 she gave her age at marriage as sixteen, said she had come to the United States in 1901, and could read and write; the family owned their house at 612 Philo Street, valued at $5,000 ([R6-S1]). By 1940 the Depression had cut the house's value to $3,000; Helen, aged 44, had completed seventh grade, was recorded as naturalized, and was keeping house for her husband and eight children ([R6-S2]). In 1950 she was 55, still naturalized and keeping house, with five of her children at home ([R6-S3]). Her son Leo's 2019 obituary says he was predeceased by five brothers and a sister, which confirms that Frank and Helen raised eight children ([R6-S4]). A year-by-year check of the Pennsylvania death indexes for 1913-1940 found no infant or child death that can be tied to the couple ([R6-S5])."
 }

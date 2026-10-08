@@ -31,6 +31,10 @@
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "John 1928-Deceased"
+    },
+    {
+      "label": "Education (1940 census)",
+      "value": "6th grade completed, at school"
     }
   ],
   "sources": [
@@ -39,7 +43,9 @@
     "Thanksgiving article 2016",
     "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service; also published in the Pittsburgh Post-Gazette on 10 Nov 2013 (Legacy pid 167940321, blocked) (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti",
     "[R4-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
-    "[R4-S3] FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9"
+    "[R4-S3] FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] 1950 US census, Scranton, E.D. 79-23, line 28 (John, son, 23); FS index 6X1W-37KW (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-8HT/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -70,6 +76,18 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Evelyn Cognetti' Pittsburgh obituary: nothing; NARA AAD WWII Navy records: AAD blocked (403); Slater Funeral obituary already on site; no burial text found"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: only minor census detail (6th grade in 1940); Navy dates, burial and Evelyn's maiden name still open."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503584.json."
     }
   ],
   "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived).\n\nround5: John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 ([R4-S1]). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 ([R4-S1]). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton ([R4-S2]). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",

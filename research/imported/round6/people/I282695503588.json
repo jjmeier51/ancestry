@@ -1,0 +1,19 @@
+{
+  "id": "I282695503588",
+  "name": "Ralph Cognetti",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "conflicts": [
+    {
+      "field": "duplicate",
+      "siteValue": "Ralph Cognetti abt 1913",
+      "foundValue": "Same person as Ralph A. (Ralph Anthony) Cognetti, 7 Aug 1913-16 Apr 2009 (I282695503685)",
+      "sourceRefs": [],
+      "assessment": "Merge confirmed: 1920-1950 censuses and the 1940 draft card show only one Ralph in Frank and Helen's family. Evidence is in I282695503685.json."
+    }
+  ],
+  "searchedNoResult": [
+    "n/a: duplicate profile; see I282695503685"
+  ],
+  "researchLogEntry": "Round 6: duplicate of Ralph A. Cognetti confirmed again (draft card 1940); merge."
+}

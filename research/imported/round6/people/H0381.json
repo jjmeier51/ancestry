@@ -1,0 +1,155 @@
+{
+ "id": "H0381",
+ "name": "Frank Cognetti",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1894-09-20",
+   "place": "Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "Jan 1978",
+   "place": "Scranton, Lackawanna County, Pennsylvania",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "aka": [
+   "Francesco Cognetto"
+  ],
+  "occupation": "Laborer (1917, for Luis Cortese of Throop; 1942)",
+  "residences": [
+   {
+    "date": "1917",
+    "place": "604 E. Drinker St, Dunmore, Pennsylvania",
+    "note": "WWI draft card",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1942-1950",
+    "place": "1313 Short Ave, Scranton, Pennsylvania",
+    "note": "daughter Jane's 1942 license; 1950 census",
+    "sourceRefs": [
+     "S4",
+     "S5"
+    ]
+   }
+  ],
+  "military": [
+   {
+    "note": "Registered for the WWI draft (1917) at Dunmore as an alien, married; claimed exemption for a dependent wife.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "P7MS-NB2"
+   },
+   {
+    "label": "Parents (FS tree)",
+    "value": "Bruno Cognetto (b. 1857 Nicastro) and Rosa"
+   }
+  ]
+ },
+ "bioAdditions": "His WWI draft card, signed 'Francesco Cognetto', gives his birth as 20 September 1894 at Nicastro, Catanzaro. In 1917 he was a married alien living at 604 East Drinker Street in Dunmore and working as a laborer for Luis Cortese of Throop (S1). His FamilySearch family places his father Bruno Cognetto, born 1857 on the Strada Via Grande in Nicastro, as a son of Pietro Giuseppe Cognetto and Giovanna Cuda. It also gives him a sister Giovanna (1897-1990), who stayed in Nicastro and married Michelangelo Gallo, and a brother Giuseppe (c.1900-1971), who died in Parkville, Victoria, Australia (S2, S3). His wife Maria Grazia Paradiso, also of Nicastro, was the daughter of Francesco Paradiso and Theresa Tolerico and came through Ellis Island in 1915 (S3). The family lived at 1313 Short Avenue in Scranton by 1942 and in 1950, when Frank was a naturalized citizen (S4, S5).\n\nNo link to John's Frank Cognetti (I282695503559) was found. This family spelled the name Cognetto/Cugnetto, came from Nicastro and descends from Bruno and Pietro Giuseppe. John's Frank was a Cognetta, by family tradition the son of Giovanni of Dasà, about 50 km to the south, and the Dasà Cognettas who emigrated went to Stamford, Connecticut. Keep the two separate.",
+ "funFacts": [
+  "The Nicastro Frank's younger brother Giuseppe ended his days in Australia (d. 1971, Parkville, Victoria), while their sister Giovanna stayed in Nicastro until 1990."
+ ],
+ "conflicts": [],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "H0513",
+   "evidence": "FS tree: Bruno Cognetto is father of Frank Cognetti P7MS-NB2.",
+   "sourceRefs": [
+    "S2",
+    "S3"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "unverified (not kin)",
+  "justification": "Identity now documented (WWI card), but no relationship to John's line found; keep as a separate, unrelated family."
+ },
+ "openQuestionsResolved": [],
+ "openQuestionsNew": [
+  "Relationship to I282695503559: none found; a common ancestor before c.1800 cannot be excluded, but Nicastro and Dasà are different comuni and the surname forms differ (Cognetto vs Cognetta)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "United States WWI Draft Registration Card, Lackawanna Co., PA, Local Board 819(?), card no. 124 (image read): Francesco Cognetto, 23, 604 E. Drinker [St.], Dunmore, Pa.; born September 20, 1894, Nicastro, Catanzaro, Italy; alien, citizen of Italy; laborer for Luis Cortese, Throop; supports wife; married; Caucasian; no military service; claims exemption (wife); signed Francesco Cognetto. FamilySearch record K6VD-FMF, image attached to tree P7MS-NB2.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/P7MS-NB2/images/i/2/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Birth date and place, Dunmore address, employer, married by 1917"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch published tree P7MS-NB2 (JSON): Frank Cognetti, alt. Francesco Cognetto, b. 20 Sep 1894 Nicastro, d. Jan 1978 Scranton; immigration 3 Jun 1913 Philadelphia (unsourced); parents Bruno Cognetto GV9T-HLM and Rosa GV9T-7DG; siblings Giovanna GH1F-J7T and Giuseppe GKXW-NPF; wife Maria Grazia Paradiso LB1F-NRS; 13 children listed.",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/P7MS-NB2",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Family structure"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch published tree: Bruno Cognetto GV9T-HLM (b. 6 Nov 1857, Strada Via Grande, Nicastro; son of Pietro Giuseppe Cognetto b. 1826 and Giovanna Cuda b. 1838); Giovanna Cugnetto GH1F-J7T (b. 19 Jun 1897 Nicastro, d. 22 Mar 1990 Lamezia Terme, m. Michelangelo Gallo); Giuseppe Cugnetto GKXW-NPF (b. c.1900 Nicastro, d. 26 Jul 1971 Parkville, Victoria, Australia); Maria Grazia Paradiso LB1F-NRS (b. 29 May 1901 Nicastro, dau. of Francesco Paradiso and Theresa Tolerico; arr. Ellis Island 19 Oct 1915; d. c.1978).",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GV9T-HLM",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents, grandparents, siblings, wife's parents"
+  },
+  {
+   "ref": "S4",
+   "citation": "Lackawanna Co. Orphans' Court, application for marriage license no. 1051, 1942 (image read): Jane Cognetti, 21, of 1313 Short Ave., Scranton, daughter of Frank Cognetti (laborer, born Italy) and Mary Paradise; married Francis August Boino 20 Jun 1942.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/P7MS-NB2/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Family address 1313 Short Ave in 1942"
+  },
+  {
+   "ref": "S5",
+   "citation": "1950 US census, Scranton, Lackawanna Co., ED 79-27, sheet 11 (image read): 1313 [Short Ave], Frank Cognetti, head, 54, married, born Italy, naturalized; wife Mary 49, born Italy; children incl. Rose, Antoinette, Anthony, Frank, Joseph. FamilySearch 6X1Q-41R8.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/P7MS-NB2/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Naturalized by 1950; residence 1950"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "WWI draft card, 1917: Francesco Cognetto, b. 20 Sep 1894 Nicastro, of Dunmore",
+   "date": "1917",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:K6VD-FMF",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/P7MS-NB2/images/i/2/image.jpg",
+   "repository": "NARA M1509 via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0381/wwi-draft-card-1917-francesco-cognetto.jpg",
+   "people": [
+    "H0381"
+   ],
+   "suggestedFile": "media/H0381/wwi-draft-card-1917-francesco-cognetto.jpg",
+   "note": "US government record (Selective Service, 1917), public domain. The ark record page itself was not loaded (FS record pages 401/redirect)."
+  }
+ ],
+ "searchedNoResult": [
+  "Ellis Island index: no Francesco Cognetto/Cugnetto b. c.1894 arrival found (FS tree's 3 Jun 1913 Philadelphia not confirmed); 20 Dec 1913 'Francesco Cugnetto' of S. Pietro, 18, is crossed off the Napoli manifest",
+  "PA death index: 1978 outside the online volumes"
+ ],
+ "researchLogEntry": "Round 6: WWI draft card read (b. 20 Sep 1894 Nicastro; Dunmore 1917); FS family of Bruno Cognetto mapped; no link to John's Frank found."
+}

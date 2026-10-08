@@ -1,0 +1,38 @@
+{
+  "id": "I282695503584",
+  "name": "John Cognetti",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "updates": {
+    "facts": [
+      {
+        "label": "Education (1940 census)",
+        "value": "6th grade completed, at school"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "At school, highest grade completed 6"
+    },
+    {
+      "ref": "S2",
+      "citation": "1950 US census, Scranton, E.D. 79-23, line 28 (John, son, 23); FS index 6X1W-37KW",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-8HT/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Laborer, wholesale grocer, 40 hours, private employer"
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch 'Evelyn Cognetti' Pittsburgh obituary: nothing",
+    "NARA AAD WWII Navy records: AAD blocked (403)",
+    "Slater Funeral obituary already on site; no burial text found"
+  ],
+  "researchLogEntry": "Round 6: only minor census detail (6th grade in 1940); Navy dates, burial and Evelyn's maiden name still open."
+}

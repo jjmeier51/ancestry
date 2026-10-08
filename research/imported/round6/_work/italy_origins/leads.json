@@ -1,0 +1,50 @@
+[
+ {
+  "personId": "I282695503559",
+  "collection": "United States World War I Draft Registration Cards, 1917-1918 (FamilySearch / Ancestry; NARA M1509), Pennsylvania, Lackawanna County, Scranton boards",
+  "site": "FamilySearch (record search blocked here) / Ancestry",
+  "searchTerms": "Frank or Francesco Cognetti / Cognetta, b. c.1888-1892, Scranton (Diamond Ave area)",
+  "whatTheSnippetShows": "Not seen. The Nicastro Frank's card (Francesco Cognetto, K6VD-FMF) exists, so the collection covers the area.",
+  "whyItMatters": "Gives exact birth date and comune: settles Dasà vs. elsewhere and whether he is the 1905 Dasà arrival (b. c.1888)."
+ },
+ {
+  "personId": "I282695503559",
+  "collection": "1910 US census, Stamford, Fairfield Co., Connecticut (Branch St)",
+  "site": "FamilySearch / Ancestry",
+  "searchTerms": "Francesco / Frank Cognetta (or Cagnetta, Cognetti), b. c.1888-91, Italy, Stamford",
+  "whatTheSnippetShows": "Not searched (FS record search 401). The 1910 manifest of Nicola Cognetta places 'brother Francesco' at Branch St, Stamford in May 1910.",
+  "whyItMatters": "Finds Francesco's age and immigration year; if he matches Frank's 1890-92 birth or disappears from Stamford by 1912, that supports the identity."
+ },
+ {
+  "personId": "I282695503559",
+  "collection": "US World War II Draft Registration Cards, 1942 ('old man's draft'), Pennsylvania",
+  "site": "FamilySearch / Ancestry / Fold3",
+  "searchTerms": "Frank Cognetti, b. c.1890-92, 612 Philo St, Scranton",
+  "whatTheSnippetShows": "Not seen.",
+  "whyItMatters": "Gives exact birth date and birthplace."
+ },
+ {
+  "personId": "I282695503559",
+  "collection": "Naturalization records, US District Court Middle District of PA (Scranton) and Lackawanna Co. Court of Common Pleas, 1920-1930 (NARA Philadelphia; FamilySearch 'Pennsylvania, Naturalization Records')",
+  "site": "NARA / FamilySearch / Ancestry",
+  "searchTerms": "Frank Cognetti / Francesco Cognetta, Scranton, petition c.1920-30",
+  "whatTheSnippetShows": "Not seen; NARA catalog API needs a key.",
+  "whyItMatters": "A petition gives his birth date, birthplace and arrival ship, and would confirm or reject the 1905 manifest."
+ },
+ {
+  "personId": "I282695503581",
+  "collection": "Pennsylvania death certificate 1965, file 027518 (Helen Cognetti)",
+  "site": "PA State Archives / Ancestry 'Pennsylvania, Death Certificates'",
+  "searchTerms": "Helen Cognetti, d. 14 Mar 1965, South Abington Twp",
+  "whatTheSnippetShows": "Index entry only (round 4).",
+  "whyItMatters": "Her marital status (widow or married) dates Frank's death before or after March 1965; he is in no PA death index 1950-1966."
+ },
+ {
+  "personId": "I282697102020",
+  "collection": "Italia, Vibo Valentia, Stato Civile (Archivio di Stato), 1910-1951: Dasà Morti 1930; and Italy, Vibo Valentia, Civil Registration (Tribunale) 1861-1910: Dasà Nati c.1886-1892",
+  "site": "FamilySearch (collection 5000300 / 2043785) or Antenati",
+  "searchTerms": "Giovanni Cognetta death 1930; births of Nicola (c.1886) and Francesco (c.1888-92) Cognetta, sons of Giovanni and Mariarosa Lamanna",
+  "whatTheSnippetShows": "Collections exist (WebSearch); images blocked here (Antenati 403, FS 401).",
+  "whyItMatters": "Francesco's birth act proves (or disproves) the Dasà origin; the 1930 death act settles 'Nicasetro'."
+ }
+]

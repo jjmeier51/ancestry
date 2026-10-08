@@ -1,0 +1,24 @@
+{
+  "id": "M0105",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Father of Jean Rossi Cognetti per her obituary; related to John by marriage only."
+  },
+  "tags": [],
+  "summary": "Of Old Forge, Pennsylvania; father of Jean D. Rossi Cognetti.",
+  "bio": "Santino Rossi, known as Sandy, lived at Old Forge, Pennsylvania, and with his wife Elizabeth Marino was the father of Jean D. Rossi, who married Leo S. Cognetti about 1954. He died before his daughter, who died in 2023.",
+  "sources": [
+    "[R6-S2] Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023 (secondary) https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): new relative NEW-1558 → M0105; research/imported/round6/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+  ]
+}

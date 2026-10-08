@@ -9,22 +9,32 @@
     "Leopold Salvatore Cognetti",
     "Leopoldo Cognetti",
     "Levyso",
-    "Leupo"
+    "Leupo",
+    "Leupo Cognetti (1940 census)",
+    "Leopoldo Cognetti (1930 census)"
   ],
   "tags": [],
-  "summary": "Scranton-born state highway machine operator who lived to ninety, brother of Mary Cognetti Petriello; John's great-granduncle.",
-  "bio": "Leo S. Cognetti, whose full name was Leopold Salvatore, was born in Scranton on 19 May 1929 and named for his maternal grandfather, Leopoldo Ferlaino; the 1930 census lists him as Leopoldo. He registered for the draft during the Second World War, and in 1950 he was working as a machine operator for the Pennsylvania State Highway Department. He died at Exton in Chester County, Pennsylvania, on 1 July 2019, aged ninety. His obituary names his sister Mary Petriello, John's great-grandmother, and her husband John, which makes Leo John's great-granduncle.",
+  "summary": "Scranton-born Korean War Army veteran who spent 34 years with IBM, brother of Mary Cognetti Petriello; John's great-uncle.",
+  "bio": "Leo S. Cognetti, whose full name was Leopold Salvatore, was born in Scranton on 19 May 1929 and named for his maternal grandfather, Leopoldo Ferlaino; the 1930 census lists him as Leopoldo and the 1940 census as Leupo. He registered for the draft during the Second World War, and in 1950 he was working as a machine operator for the Pennsylvania State Highway Department. He served in the US Army during the Korean War and then spent 34 years with IBM, retiring as a finance controller.\n\nAround 1954 he married Jean D. Rossi of Old Forge, and they were married for 65 years. He died at home in Exton, Chester County, Pennsylvania, on 1 July 2019, aged ninety; his funeral Mass was said at St. Elizabeth Church in Chester Springs and he was buried privately in Scranton. His obituary names his sister Mary Petriello, John's grandmother, and her husband John, which makes Leo John's great-uncle. It also records that five brothers and a sister had died before him, so all eight of Frank and Helen Cognetti's children lived to adulthood.",
   "facts": [
     {
       "label": "Tree display",
       "value": "Levyso 1930-Living (wrong: Leo S., d. 2019)"
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Machine operator, Pa. State Highway Dept. (1950); IBM, retired as finance controller after 34 years"
     }
   ],
   "sources": [
     "Echovita: https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
     "1930 census XH3R-XB1: https://familysearch.org/ark:/61903/1:1:XH3R-XB1",
     "Draft card Q2Q2-N2SB: https://familysearch.org/ark:/61903/1:1:Q2Q2-N2SB",
-    "Thanksgiving article 2016"
+    "Thanksgiving article 2016",
+    "[R6-S1] Obituary of Leo S. Cognetti, James J. Terry Funeral Homes, Inc. (text in page data), 2019 (secondary) https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+    "[R6-S2] Obituary of Jean D. Cognetti (28 Apr 1932-27 Apr 2023), James J. Terry Funeral Homes, Inc. (secondary) https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti",
+    "[R6-S3] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 72 ('Leupo', son, 10) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S4] FamilySearch tree G3NN-88N, Leopold Cognetti 1929-2019 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3NN-88N"
   ],
   "occupation": "Machine operator, PA State Highway Department (1950)",
   "handoff": {
@@ -52,7 +62,72 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch Leo Cognetti Korean War records: nothing beyond obituary"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: full funeral-home obituary read: Korean War Army, IBM 34 years, wife Jean D. Rossi (1932-2023), private burial in Scranton."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0346.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
-  "researchNotes": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error."
+  "researchNotes": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error.\n\nRound 6: Leo served in the US Army during the Korean War and then spent 34 years with IBM, retiring as a finance controller. Around 1954 he married Jean D. Rossi of Old Forge, and they were married 65 years. He died at home in Exton on 1 July 2019, aged 90; his funeral Mass was said at St. Elizabeth Church, Chester Springs, and he was buried privately in Scranton ([R6-S1], [R6-S2]). His obituary notes that he was predeceased by five brothers and a sister, confirming the eight Cognetti children ([R6-S1]).",
+  "death": {
+    "date": "2019-07-01",
+    "place": "At home, Exton, Chester County, Pennsylvania"
+  },
+  "burial": {
+    "place": "Scranton, Pennsylvania (private interment)"
+  },
+  "residences": [
+    {
+      "date": "1999-2001",
+      "place": "Drexel Hill, Delaware County, Pennsylvania",
+      "note": "Public-records index in FS tree [R6-S4]"
+    },
+    {
+      "date": "2004",
+      "place": "Vestal, Broome County, New York",
+      "note": "Public-records index in FS tree [R6-S4]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to Jean D. Rossi",
+      "date": "ABT 1954",
+      "place": "",
+      "description": "Married 65 years at his death in 2019. [R6-S1] [R6-S2]"
+    },
+    {
+      "title": "Funeral",
+      "date": "2019-07-20",
+      "place": "St. Elizabeth Church, Chester Springs, Pennsylvania",
+      "description": "Mass of Christian Burial; private interment in Scranton. [R6-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "US Army during the Korean War [R6-S1]"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+      "type": "link",
+      "title": "Portrait of Leo S. Cognetti (funeral-home obituary photo)",
+      "date": "",
+      "source": "James J. Terry Funeral Homes, Inc., copyrighted",
+      "note": "Family/funeral-home photo; not downloaded. Ask the family for permission if wanted. (not downloaded: rights copyrighted)",
+      "people": []
+    }
+  ]
 }

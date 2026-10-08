@@ -1,8 +1,8 @@
 {
   "id": "H0499",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 6 (unverified → confirmed): Primary marriage license links her to Sal Cognetti, son of Frank and Helen."
   },
   "tags": [],
   "researchLog": [
@@ -21,6 +21,96 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0499.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Primary marriage license links her to Sal Cognetti, son of Frank and Helen."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 relationship evidence (spouse I282695503586, proven): 1943 marriage license no. 1716"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Elizabeth Cognetti' Notarianni Scranton 1994 obituary: nothing; Find a Grave memorial (index CVV7-9XT2): site blocked per brief"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: from her 1943 marriage license and FS tree: b. 24 Sep 1914 Scranton, stenographer, parents Joseph Notarianni and Michelina Carabia; d. 20 Sep 1994, Cathedral Cemetery."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0499.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
-  ]
+  ],
+  "birth": {
+    "date": "1914-09-24",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+  },
+  "death": {
+    "date": "1994-09-20",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+  },
+  "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania"
+  },
+  "aka": [
+    "Elizabeth Mary Notarianni",
+    "Elizabeth M. Notarianni Cognetti",
+    "Elizabeth Notarianna (1930 census)"
+  ],
+  "occupation": "Stenographer (1943)",
+  "residences": [
+    {
+      "date": "1930",
+      "place": "Scranton, Pennsylvania",
+      "note": "With her parents [R6-S3]"
+    },
+    {
+      "date": "1943-10",
+      "place": "1219 Providence Rd, Scranton, Pennsylvania",
+      "note": "At marriage [R6-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to Sal Cognetti",
+      "date": "1943-10-16",
+      "place": "Scranton, Pennsylvania",
+      "description": "License no. 1716; Rev. Luigino R[angi?] officiated. [R6-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GJ6T-768"
+    }
+  ],
+  "researchNotes": "Round 6: Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, a daughter of Joseph Notarianni (1880-1940) and Michelina Carabia (1889-1953), both born in Italy ([R6-S1], [R6-S2]). She was working as a stenographer and living at 1219 Providence Road when she married Sal Cognetti, then a soldier, on 16 October 1943; her father had died three years earlier ([R6-S1]). She outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery ([R6-S2]).",
+  "sources": [
+    "[R6-S1] Lackawanna County Orphans' Court, marriage license application no. 1716 (1943), Sal. Cognetti and Elizabeth Notarianni, p. 216; FS index VF7J-VGD (bride), image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+    "[R6-S2] FamilySearch tree GJ6T-768, Elizabeth Mary Notarianni 1914-1994 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJ6T-768",
+    "[R6-S3] 1930 US census, Scranton, 'Elizabeth Notarianna' in her parents' household; FS index XH3R-8DM, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/0/image.jpg"
+  ],
+  "media": [
+    {
+      "url": "https://familysearch.org/ark:/61903/1:1:VF7J-VGD",
+      "type": "link",
+      "title": "1943 marriage license application no. 1716, Sal Cognetti and Elizabeth Notarianni",
+      "date": "1943-10-13",
+      "source": "FamilySearch (Lackawanna County Orphans' Court), unknown",
+      "note": "Already known to the site under Sal; listed here for Elizabeth. Rights unknown; not downloaded. (not downloaded: rights unknown)",
+      "people": [
+        "I282695503586",
+        "I282695503559",
+        "I282695503581"
+      ]
+    }
+  ],
+  "summary": "Scranton stenographer, daughter of the produce dealer Joseph Notarianni, who married Sal Cognetti in 1943; wife of John's great-uncle.",
+  "bio": "Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, the daughter of Joseph Notarianni, a produce dealer, and Michelina Caravia, both born in Italy; her mother came from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino. She was working as a stenographer and living on Providence Road when she married Sal Cognetti, then a soldier home on leave, on 16 October 1943; her father had died three years earlier. The same priest had married Sal's brother Ralph in 1940.\n\nShe outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery."
 }

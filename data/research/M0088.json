@@ -1,15 +1,17 @@
 {
   "id": "M0088",
   "link": {
-    "confidence": "possible",
-    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
+    "confidence": "confirmed",
+    "note": "Parents of Elizabeth Notarianni, wife of John's great-uncle Sal Cognetti, per her 1943 marriage licence; related to John by marriage only."
   },
   "tags": [],
   "summary": "Michelena Caravia Notarianni of San Mango d'Aquino, Calabria, wife of the Scranton produce dealer Joseph Notarianni and the namesake of Caravia Fresh Foods.",
-  "bio": "Michelena Notarianni, born Caravia, came from San Mango d'Aquino in Calabria, the same village as John's great-grandmother Helen Ferlaino. She was the wife of Joseph Notarianni, a Scranton produce dealer, and the mother of Elizabeth Notarianni, who married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. Her grandson Joe Cognetti named his store, Caravia Fresh Foods in Clarks Summit, after her.",
+  "bio": "Michelena Notarianni, born Caravia, came from San Mango d'Aquino in Calabria, the same village as John's great-grandmother Helen Ferlaino. She was the wife of Joseph Notarianni, a Scranton produce dealer, and the mother of Elizabeth Notarianni, who married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. Her grandson Joe Cognetti named his store, Caravia Fresh Foods in Clarks Summit, after her.\n\nShe was born in Italy in 1889 and died in Scranton on 11 February 1953; Elizabeth's 1943 marriage licence gives her name as Michelina and her maiden name as Caravia, also written Carabia.",
   "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
-    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "Lackawanna County marriage license application no. 1716, Sal Cognetti and Elizabeth Notarianni, 13 Oct 1943 (names her parents Joseph Notarianni, deceased, and Michelina Caravia): https://familysearch.org/ark:/61903/1:1:VF7J-VGD",
+    "FamilySearch tree, Michelina Carabia/Caravia Notarianni (1889–1953), GJ6T-7B8"
   ],
   "manual": true,
   "researchLog": [
@@ -20,6 +22,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): birth and death years and the 1943 marriage licence added; the round-6 file created a duplicate of this person, which was folded back in."
     }
   ],
   "researchNotes": "round5: From San Mango d'Aquino, Calabria (the same village as Helen Ferlaino). Wife of Joseph Notarianni, Scranton produce dealer; mother of Elizabeth (Notarianni) Cognetti, wife of Sal D. Cognetti. Grandmother for whom Caravia Fresh Foods is named."

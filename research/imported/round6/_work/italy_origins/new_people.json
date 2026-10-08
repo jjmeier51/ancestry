@@ -1,0 +1,106 @@
+[
+ {
+  "id": "NEW-1501",
+  "name": "Nicola Cognetta",
+  "researchedAt": "2026-10-08",
+  "updates": {
+   "birth": {
+    "date": "ABT 1886-1887",
+    "place": "Dasà, Calabria, Italy",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   },
+   "occupation": "Shoemaker (1903)",
+   "residences": [
+    {
+     "date": "1903-1909",
+     "place": "Stamford, Connecticut",
+     "note": "1910 manifest: previously in US, Conn.; 1903 arrival bound for Stamford (probable same man)",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ]
+    },
+    {
+     "date": "1910",
+     "place": "Stamford, Connecticut",
+     "note": "returning to join brother Francesco, Branch St",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ],
+   "events": [
+    {
+     "title": "Arrival",
+     "date": "1903-12-03",
+     "place": "Ellis Island",
+     "description": "Probable: Nicola Cognetta, 17, shoemaker, SS Citta di Napoli, to Stamford",
+     "sourceRefs": [
+      "S2"
+     ]
+    },
+    {
+     "title": "Arrival",
+     "date": "1910-05-02",
+     "place": "Ellis Island",
+     "description": "Nicola Cognetta, 23, single, SS Regina d'Italia, father Giovanni at Dasà, to brother Francesco in Stamford",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ]
+  },
+  "bioAdditions": "Nicola Cognetta, born at Dasà about 1886-87, was the son of a Giovanni Cognetta of Dasà. He had been in Connecticut before, probably arriving in December 1903 as a 17-year-old shoemaker bound for Stamford. In May 1910 he returned to Stamford to join his brother Francesco on Branch Street. If, as the family tree holds, Frank Cognetti of Scranton was Giovanni's son, Nicola was Frank's elder brother, and he carried the name of their grandfather, Mastro Nicola Cognetta. Not to be confused with the older Nicola Cognetta of Dasà (b. c.1870, shoemaker, wife Maria, sons Pasquale and Giuseppe), who went to Stamford in 1911 and 1916.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "I282697102020",
+    "evidence": "1910 manifest: 'father Giovanni, Dasa'",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "sibling",
+    "personId": "I282695503559",
+    "evidence": "1910 manifest: joining 'brother Francesco' in Stamford; 1905 manifest: Francesco Cognetta of Dasà joining 'brother Nicola, Stamford'. Identity of Francesco with Frank of Scranton unproven.",
+    "sourceRefs": [
+     "S1",
+     "S3"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Manifest, SS Regina d'Italia, arr. New York 2 May 1910, List 141, line 15 (images read); index JJNS-FNT.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Age 23, single, of Dasà, father Giovanni, brother Francesco, Branch St, Stamford"
+   },
+   {
+    "ref": "S2",
+    "citation": "Manifest, SS Citta di Napoli, arr. New York 3 Dec 1903, List R, line 21 (image read); index JFYR-8MQ (residence indexed 'Rosa').",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:33S7-L161-VSK",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Nicola Cognetta, 17, shoemaker, to Stamford (probable same man)"
+   },
+   {
+    "ref": "S3",
+    "citation": "Manifest, SS Citta di Milano, arr. New York 18 Jun 1905, List 25, line 26 (image read); index JF7W-PY9.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:33S7-91J1-8H5",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Francesco Cognetta, 17, of Dasà, joining brother Nicola in Stamford"
+   }
+  ],
+  "media": []
+ }
+]

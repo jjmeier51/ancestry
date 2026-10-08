@@ -1,0 +1,153 @@
+{
+  "id": "H0346",
+  "name": "Leo S. Cognetti",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "2019-07-01",
+      "place": "At home, Exton, Chester County, Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Scranton, Pennsylvania (private interment)",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Machine operator, Pa. State Highway Dept. (1950); IBM, retired as finance controller after 34 years",
+    "military": [
+      {
+        "note": "US Army during the Korean War",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1999-2001",
+        "place": "Drexel Hill, Delaware County, Pennsylvania",
+        "note": "Public-records index in FS tree",
+        "sourceRefs": [
+          "S4"
+        ]
+      },
+      {
+        "date": "2004",
+        "place": "Vestal, Broome County, New York",
+        "note": "Public-records index in FS tree",
+        "sourceRefs": [
+          "S4"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage to Jean D. Rossi",
+        "date": "c.1954",
+        "place": "",
+        "description": "Married 65 years at his death in 2019.",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Funeral",
+        "date": "2019-07-20",
+        "place": "St. Elizabeth Church, Chester Springs, Pennsylvania",
+        "description": "Mass of Christian Burial; private interment in Scranton.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "aka": [
+      "Leupo Cognetti (1940 census)",
+      "Leopoldo Cognetti (1930 census)"
+    ]
+  },
+  "bioAdditions": "Leo served in the US Army during the Korean War and then spent 34 years with IBM, retiring as a finance controller. Around 1954 he married Jean D. Rossi of Old Forge, and they were married 65 years. He died at home in Exton on 1 July 2019, aged 90; his funeral Mass was said at St. Elizabeth Church, Chester Springs, and he was buried privately in Scranton (S1, S2). His obituary notes that he was predeceased by five brothers and a sister, confirming the eight Cognetti children (S1).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "NEW-1551",
+      "evidence": "Both obituaries: married 65 years",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "bio (relationship wording)",
+      "siteValue": "'his sister Mary Petriello, John's great-grandmother' and 'Leo John's great-granduncle'",
+      "foundValue": "Mary Cognetti Petriello is John's grandmother (Helen is his great-grandmother per site), so Leo is John's great-uncle (granduncle)",
+      "sourceRefs": [],
+      "assessment": "Wording error on the site; the same 'great-granduncle' wording appears in the bios of Sal, Joseph, Angeline and Anthony while John F.'s bio says 'great-uncle'. Please check and harmonise."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of Leo S. Cognetti, James J. Terry Funeral Homes, Inc. (text in page data), 2019",
+      "url": "https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Died Monday 1 July 2019 at home, Exton, aged 90; husband of Jean D. Rossi Cognetti, married 65 years; born Scranton, son of Frank and Helen; US Army, Korean War; IBM, retired as Finance Controller after 34 years; two sons, five grandchildren, two great-grandchildren, 24 nieces and nephews; predeceased by 5 brothers and a sister; Mass 20 July 2019 at St. Elizabeth Church, Chester Springs; private interment in Scranton"
+    },
+    {
+      "ref": "S2",
+      "citation": "Obituary of Jean D. Cognetti (28 Apr 1932-27 Apr 2023), James J. Terry Funeral Homes, Inc.",
+      "url": "https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Wife of the late Leo S. Cognetti, married 65 years; born Old Forge, daughter of Santino (Sandy) Rossi and Elizabeth Marino Rossi"
+    },
+    {
+      "ref": "S3",
+      "citation": "1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 72 ('Leupo', son, 10)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "At school, 5th grade completed"
+    },
+    {
+      "ref": "S4",
+      "citation": "FamilySearch tree G3NN-88N, Leopold Cognetti 1929-2019",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3NN-88N",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Residences Drexel Hill, PA (1999-2001) and Vestal, NY (2004) from a public-records index; tree has 1 photo and 1 memory (not viewable)"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Portrait of Leo S. Cognetti (funeral-home obituary photo)",
+      "date": "",
+      "pageUrl": "https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+      "directUrl": "https://d1q40j6jx1d8h6.cloudfront.net/Obituaries/32728788/Image.jpg",
+      "repository": "James J. Terry Funeral Homes, Inc.",
+      "rights": "copyrighted",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0346"
+      ],
+      "suggestedFile": "media/H0346/obituary-portrait.jpg",
+      "note": "Family/funeral-home photo; not downloaded. Ask the family for permission if wanted."
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch Leo Cognetti Korean War records: nothing beyond obituary"
+  ],
+  "researchLogEntry": "Round 6: full funeral-home obituary read: Korean War Army, IBM 34 years, wife Jean D. Rossi (1932-2023), private burial in Scranton."
+}

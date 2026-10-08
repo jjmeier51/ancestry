@@ -1,0 +1,185 @@
+{
+  "id": "H0498",
+  "name": "Marguerite Forgione",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "c.1913-1914",
+      "place": "Scranton, Lackawanna County, Pennsylvania",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    },
+    "death": {
+      "date": "2014-05-30",
+      "place": "Scranton, Lackawanna County, Pennsylvania",
+      "sourceRefs": [
+        "S4"
+      ]
+    },
+    "aka": [
+      "Margaret Forgione",
+      "Marguerite Cognetti",
+      "Mrs. Margaret Cognetti",
+      "Marguerita Foragrone (1940 census index)"
+    ],
+    "occupation": "Seamstress (1940); housewife (1950)",
+    "residences": [
+      {
+        "date": "1940-04",
+        "place": "1628 Farr St, Scranton",
+        "note": "With her parents",
+        "sourceRefs": [
+          "S1",
+          "S3"
+        ]
+      },
+      {
+        "date": "1950",
+        "place": "1217 [street], Scranton",
+        "note": "With husband and four children",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "2012",
+        "place": "Scranton",
+        "note": "Named as surviving sister in Amelia Amori's obituary",
+        "sourceRefs": [
+          "S5"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage to Ralph A. Cognetti",
+        "date": "1940-06-01",
+        "place": "Scranton",
+        "description": "License no. 817; Rev. Luigino R[angi?] officiated.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LJQW-QT8"
+      }
+    ]
+  },
+  "bioAdditions": "Marguerite (on her licence 'Margaret') Forgione was born in Scranton about 1913, a daughter of Peter (Pietro) Forgione, an Italian-born shoemaker, and Elizabeth D'Ettore; she was one of at least nine children (S1, S4). A 26-year-old seamstress living with her family on Farr Street, she married Ralph A. Cognetti on 1 June 1940 (S1). In 1950 she was keeping house for Ralph and their four children (S2). She outlived Ralph by five years and was still living in Scranton in 2012, when she was named as a surviving sister in her sister Amelia Amori's obituary (S5); the FamilySearch tree gives her death as 30 May 2014 in Scranton, aged about 101 (S4).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "I282695503685",
+      "evidence": "1940 marriage license no. 817",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "NEW-1555",
+      "evidence": "License: father Peter, shoemaker, born Italy; FS: Pietro Forgione 1877-1948",
+      "sourceRefs": [
+        "S1",
+        "S4"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "NEW-1556",
+      "evidence": "License: mother Elizabeth, maiden name D'Ettore",
+      "sourceRefs": [
+        "S1",
+        "S4"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "Primary marriage license links her to Ralph A. Cognetti, son of Frank and Helen."
+  },
+  "openQuestionsNew": [
+    "Marguerite's 2014 obituary (Scranton Times) to confirm the 30 May 2014 death and her burial place.",
+    "Daughter Helen (aged 9 in 1950) is missing from the tree; privacy check needed."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Lackawanna County Orphans' Court, marriage license application no. 817 (1940), Ralph A. Cognetti and Margaret Forgione (signed Marguerite), p. 317; FS index VF7X-JLK, image attached to FS tree LJQW-QT8",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Margaret Forgione, seamstress, 26, born Scranton, of 1628 Farr St; father Peter, shoemaker, born Italy, of Scranton; mother Elizabeth, maiden name D'Ettore, born Italy, housewife; first marriage; married 1 June 1940"
+    },
+    {
+      "ref": "S2",
+      "citation": "1950 US census, Scranton, E.D. 79-22, sheet 3, house 1217, line 25",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Marguerite, wife, 37, keeping house; children Helen 9, Frank 8, Peter 2, Anthony (b. Dec 1949)"
+    },
+    {
+      "ref": "S3",
+      "citation": "1940 US census, 'Marguerita Foragrone' in the household of Peter 'Foragrone', Scranton; FS index KQWV-NWH, image attached to LJQW-QT8",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "With her parents in 1940 (image downloaded; lines not transcribed)"
+    },
+    {
+      "ref": "S4",
+      "citation": "FamilySearch tree LJQW-QT8, Marguerite Forgione 1913-2014",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Born 1913 Pennsylvania; died 30 May 2014, Scranton, aged about 101 (unsourced in tree); parents Pietro Forgione (1877-1948, d. 10 Dec 1948) and Elizabeth D'Ettore (1888-1964, d. 5 Jan 1964); siblings Jennie C., James Edward, Dominick Ovidio, Olga, Helen T., Amelia (1920-2012), Charles, Joseph Samuel"
+    },
+    {
+      "ref": "S5",
+      "citation": "Obituary of Amelia Amori, The Times-Tribune, 2012 (Legacy id 20497979; blocked), as quoted in a search summary",
+      "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/amelia-amori-obituary?id=20497979",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Survivors include 'a sister, Marguerite Cognetti, Scranton' (Amelia = Amelia Forgione, 1920-2012, in the FS tree)"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1940 marriage license no. 817, Ralph A. Cognetti and Margaret Forgione",
+      "date": "1940-04-22",
+      "pageUrl": "https://familysearch.org/ark:/61903/1:1:VF7X-JLK",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+      "repository": "FamilySearch (Lackawanna County Orphans' Court)",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0498",
+        "I282695503685",
+        "I282695503559",
+        "I282695503581"
+      ],
+      "suggestedFile": "media/H0498/marriage-license-1940.jpg",
+      "note": "Same image as on Ralph's record; rights unknown; not downloaded."
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch 'Marguerite Cognetti' obituary 2014: not found (only the 2012 Amori obituary)",
+    "Legacy.com: blocked"
+  ],
+  "researchLogEntry": "Round 6: from 1940 license and 1950 census: seamstress, daughter of shoemaker Peter Forgione and Elizabeth D'Ettore; alive 2012; FS gives death 30 May 2014."
+}
