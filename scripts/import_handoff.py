@@ -570,7 +570,7 @@ s0, s1 = section(r'^## 5\. Stories\s*$', r'^## 6\. Sources')
 stories = []; cur = None; key = None
 for l in lines[s0:s1]:
     if l.startswith('#### '):
-        cur = OrderedDict(id='S%03d' % (len(stories) + 1), title=l[5:].strip().strip('"“”'), date='', people=[], body='', source=''); stories.append(cur); key = None; continue
+        cur = OrderedDict(id='S%03d' % (len(stories) + 1), title=l[5:].strip(), date='', people=[], body='', source=''); stories.append(cur); key = None; continue
     if cur is None: continue
     m = re.match(r'^\s*-\s*\**(Approximate date|People involved|Text|Source)\**:?\**\s*(.*)$', l)
     if m:

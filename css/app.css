@@ -222,11 +222,12 @@ body.has-banner .hud-top { top: 66px; }
 .hero-rel .icon { color: var(--accent-2); }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 8px; }
 @media (max-width: 600px) { .hero-inner { flex-direction: column; align-items: center; text-align: center; padding-top: 22px; } .hero-badges, .hero-actions { justify-content: center; } }
-.profile-grid { display: grid; grid-template-columns: 1.6fr 1fr; gap: 16px; align-items: start; }
-@media (max-width: 820px) { .profile-grid { grid-template-columns: 1fr; } }
-.facts { margin: 0; display: grid; gap: 8px; } .fact { display: grid; grid-template-columns: 110px 1fr; gap: 10px; } .fact dt { color: var(--muted); font-size: .85rem; padding-top: 2px; } .fact dd { margin: 0; }
+.profile-grid { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: 16px; align-items: start; }
+.col-main, .col-side { min-width: 0; }
+@media (max-width: 820px) { .profile-grid { grid-template-columns: minmax(0, 1fr); } }
+.facts { margin: 0; display: grid; gap: 8px; } .fact { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 10px; } .fact dt { color: var(--muted); font-size: .85rem; padding-top: 2px; } .fact dd { margin: 0; }
 .places { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
-.places li { display: grid; grid-template-columns: 96px 1fr; gap: 4px 12px; align-items: baseline; padding-left: 14px; border-left: 2px solid var(--line-strong); }
+.places li { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 4px 12px; align-items: baseline; padding-left: 14px; border-left: 2px solid var(--line-strong); }
 .place-when { color: var(--muted); font-size: .85rem; } .place-what { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--accent-2); grid-column: 2; } .place-where { grid-column: 2; color: var(--text); }
 .place-where:hover { color: var(--accent-2); }
 .military { padding: 10px 12px; border-radius: var(--radius-sm); background: var(--card); margin-bottom: 8px; } .military p { margin: 6px 0 0; }
@@ -243,7 +244,7 @@ body.has-banner .hud-top { top: 66px; }
 .media-owner { display: inline-flex; align-items: center; gap: 6px; margin-top: 4px; color: var(--accent-2); }
 .research-conf { display: flex; flex-direction: column; gap: 6px; margin-bottom: 8px; }
 .research { border-left: 3px solid var(--c); }
-.sources, .log { margin: 0; padding-left: 18px; font-size: .9rem; color: var(--muted); display: grid; gap: 4px; }
+.sources, .log { margin: 0; padding-left: 18px; font-size: .9rem; color: var(--muted); } .sources li, .log li { margin: 0 0 4px; }
 .log time { color: var(--accent-2); font-weight: 600; font-size: .8rem; }
 .rel-out { margin: 10px 0 0; font-weight: 600; }
 .col-side select { width: 100%; }
@@ -284,3 +285,10 @@ p, li, dd, .tl-body, .story-body, .media-cap, .fact dd, .research { overflow-wra
 .row-list { grid-template-columns: minmax(0, 1fr); }
 @media (min-width: 700px) { .row-list { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 #view { overflow-x: hidden; }
+
+/* never let a card or its grid children grow past the viewport */
+.card, .wrap, .hero-inner, .hero-text, .story, .tl-body, .ps-text { min-width: 0; max-width: 100%; overflow-wrap: anywhere; word-break: break-word; }
+.card a { overflow-wrap: anywhere; word-break: break-all; }
+.story h2 { overflow-wrap: anywhere; }
+.story-when { margin: -4px 0 12px; }
+strong { font-weight: 700; color: var(--text); }

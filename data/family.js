@@ -31,7 +31,7 @@ window.FAMILY_DATA = {
    "id": "I282604492552",
    "given": "Johnny",
    "surname": "Meier",
-   "sex": "M",
+   "sex": "U",
    "birth": {
     "date": "16 Jun 1992",
     "place": "Alexandria, Virginia, USA"
@@ -85,7 +85,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "This is me (site owner). The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
+    "note": "The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
    },
    "aka": [
     "Johnny Meier",
@@ -36029,7 +36029,7 @@ window.FAMILY_DATA = {
  "stories": [
   {
    "id": "S001",
-   "title": "Whisper\", the Smithtown Bull statue",
+   "title": "\"Whisper\", the Smithtown Bull statue",
    "date": "the statue was proposed in the early 1900s and installed in Smithtown in 1941. Bull Smith died on 7 Mar 1692.",
    "people": [],
    "body": "Theories about Bull Smith's nickname include his stubbornness, and the idea that he issued his own \"Smith Bull\", like a papal bull, to settle his boundary disputes.\nLawrence Smith Butler proposed a bronze bull statue to his friend Charles Cary Rumsey. It sat in the Brooklyn Museum for years before it was installed in Smithtown in 1941. The bull is named \"Whisper\".\nFor years, local graduating seniors would sneak out and paint one particular part of the bull bright red.\nThe statue stands at the junction of Routes 25 and 25A. Bull Smith actually lived at Nissequogue.\nThe bull-ride legend itself (that Smith won his land by riding a bull around it in a day) is a myth, according to John's uploaded deep-dive report.",
@@ -36073,7 +36073,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S005",
-   "title": "A brother-in-law with \"fever & ague",
+   "title": "A brother-in-law with \"fever & ague\"",
    "date": "11 Jun 1880",
    "people": [
     "H0029",
@@ -36109,7 +36109,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S008",
-   "title": "A census-taker's slip: \"born in New York",
+   "title": "A census-taker's slip: \"born in New York\"",
    "date": "Jan 1920",
    "people": [
     "I282608064820"
@@ -36487,7 +36487,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S043",
-   "title": "Pitter\": a family record kept in French",
+   "title": "\"Pitter\": a family record kept in French",
    "date": "1726",
    "people": [
     "H0086"
@@ -36519,7 +36519,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S046",
-   "title": "Charity Danforth",
+   "title": "\"Charity Danforth\"",
    "date": "18th century; recorded 1919",
    "people": [
     "H0073",
@@ -36590,7 +36590,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S052",
-   "title": "The \"Davenport congress",
+   "title": "The \"Davenport congress\"",
    "date": "1812–1820",
    "people": [
     "H0186",
@@ -36667,7 +36667,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S059",
-   "title": "A divorced nurse \"beyond reproach",
+   "title": "A divorced nurse \"beyond reproach\"",
    "date": "1857–1893",
    "people": [
     "I282608053698",
@@ -36754,7 +36754,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S066",
-   "title": "Married Fifty Years",
+   "title": "\"Married Fifty Years\"",
    "date": "1 Sep 1918",
    "people": [
     "I282608060497",
@@ -36955,7 +36955,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S085",
-   "title": "Old Crib,” the family blunderbuss",
+   "title": "“Old Crib,” the family blunderbuss",
    "date": "will of 1707/8; still held 1898",
    "people": [
     "H0293",
@@ -37067,7 +37067,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S095",
-   "title": "Henry Tuthill and wife, of Saxlingham",
+   "title": "“Henry Tuthill and wife, of Saxlingham”",
    "date": "1637–1644",
    "people": [
     "I282608060188",
@@ -37088,7 +37088,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S097",
-   "title": "Unreverent speeches” and the oldest tombstone in Suffolk",
+   "title": "“Unreverent speeches” and the oldest tombstone in Suffolk",
    "date": "1643–1671",
    "people": [
     "I282608055977"
@@ -37110,7 +37110,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S099",
-   "title": "How Mary Wells became “Mary Youngs",
+   "title": "How Mary Wells became “Mary Youngs”",
    "date": "26 Dec 1678",
    "people": [
     "I282608059414"
@@ -37141,7 +37141,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S102",
-   "title": "Wast paper” (now collateral)",
+   "title": "“Wast paper” (now collateral)",
    "date": "1646",
    "people": [
     "H0260"
@@ -37249,7 +37249,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S112",
-   "title": "Overflowed land”: the name Hauppauge",
+   "title": "“Overflowed land”: the name Hauppauge",
    "date": "colonial",
    "people": [],
    "body": "A Winnecomack survey calls the springs at the head of the Nissequogue “a place of Springs called by the Indians Happogs.” The usual gloss is “land of sweet waters”; W. W. Tooker rejected that and gave “overflowed land”. Hauppauge straddles the Smithtown patent, the Islip (Nicoll) patent and the 1703 Winnecomack patent; its main street, Townline Road, is the Smithtown–Islip boundary.",
@@ -37581,7 +37581,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "S144",
-   "title": "Farino\": how a census clerk hid the Ferlainos",
+   "title": "\"Farino\": how a census clerk hid the Ferlainos",
    "date": "2–3 Jan 1920; 1940; 1943; 2008",
    "people": [
     "I282695503581",
