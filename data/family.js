@@ -629,6 +629,1680 @@ window.FAMILY_DATA = {
    "lon": -76.66186,
    "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
    "precision": "approximate"
+  },
+  "Easton, Northampton, Pennsylvania": {
+   "lat": 40.69161,
+   "lon": -75.20999,
+   "label": "Easton, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Easton, Northampton, Pennsylvania, USA": {
+   "lat": 40.69161,
+   "lon": -75.20999,
+   "label": "Easton, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Easton, Northamton, County, Pennsylvania, USA": {
+   "lat": 40.27543,
+   "lon": -75.24456,
+   "label": "County, Walnut Street, New Britain Township, Bucks County, Pennsylvania, 18915, United States",
+   "precision": "approximate"
+  },
+  "Ebringen, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.95788,
+   "lon": 7.77555,
+   "label": "Ebringen, VVG der Gemeinde Schallstadt, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79285, Germany",
+   "precision": "exact"
+  },
+  "Ehrenstetten, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.91377,
+   "lon": 7.75259,
+   "label": "Ehrenstetten, Ehrenkirchen, VVG der Gemeinde Ehrenkirchen, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79238, Germany",
+   "precision": "exact"
+  },
+  "Elmira, Chemung County, New York, USA": {
+   "lat": 42.0898,
+   "lon": -76.80773,
+   "label": "City of Elmira, Chemung County, New York, United States",
+   "precision": "exact"
+  },
+  "England": {
+   "lat": 52.53102,
+   "lon": -1.26491,
+   "label": "England, United Kingdom",
+   "precision": "exact"
+  },
+  "England (Bristol c.1599 per unsourced pages)": {
+   "lat": 52.53102,
+   "lon": -1.26491,
+   "label": "England, United Kingdom",
+   "precision": "exact"
+  },
+  "England (or Hingham, Massachusetts)": {
+   "lat": 52.53102,
+   "lon": -1.26491,
+   "label": "England, United Kingdom",
+   "precision": "exact"
+  },
+  "Erie, Erie County, Pennsylvania, USA": {
+   "lat": 42.12947,
+   "lon": -80.08527,
+   "label": "Erie, Erie County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Eschweiler, Zweibrucken, Rheinland-Pfalz, Germany": {
+   "lat": 49.24865,
+   "lon": 7.3642,
+   "label": "Zweibrücken, Rhineland-Palatinate, 66482, Germany",
+   "precision": "approximate"
+  },
+  "Exton, Chester County, Pennsylvania, USA": {
+   "lat": 40.02998,
+   "lon": -75.62904,
+   "label": "Exton, West Whiteland Township, Chester County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Fordham Manor and West Farms, Westchester County, New York, USA": {
+   "lat": 41.17631,
+   "lon": -73.79076,
+   "label": "Westchester County, New York, United States",
+   "precision": "approximate"
+  },
+  "Forks Township, Northampton County, Pennsylvania, USA": {
+   "lat": 40.73907,
+   "lon": -75.21727,
+   "label": "Forks Township, Northampton County, Pennsylvania, 18040, United States",
+   "precision": "exact"
+  },
+  "France": {
+   "lat": 46.60335,
+   "lon": 1.88833,
+   "label": "France",
+   "precision": "exact"
+  },
+  "Freiburg im Breisgau, Baden-Württemberg, Germany": {
+   "lat": 47.99609,
+   "lon": 7.8494,
+   "label": "Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Freshford Parish, Kilkenny, Ireland": {
+   "lat": 52.71253,
+   "lon": -7.38848,
+   "label": "Freshford RC Parish, The Municipal District of Castlecomer, County Kilkenny, Leinster, Ireland",
+   "precision": "exact"
+  },
+  "Gardiner's Island, East Hampton, Suffolk County, New York, USA": {
+   "lat": 41.09584,
+   "lon": -72.10702,
+   "label": "Gardiner's Island Cemetery, Gardner Island Road, Town of East Hampton, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Germany": {
+   "lat": 51.16382,
+   "lon": 10.44783,
+   "label": "Germany",
+   "precision": "exact"
+  },
+  "Geroldstal,Oberried,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Glan-Münchweiler, Kusel, Rhineland-Palatinate, Germany": {
+   "lat": 49.47254,
+   "lon": 7.44042,
+   "label": "Glan-Münchweiler, Oberes Glantal, Landkreis Kusel, Rhineland-Palatinate, 66907, Germany",
+   "precision": "exact"
+  },
+  "Gortnahoe, County Tipperary, Ireland": {
+   "lat": 52.67572,
+   "lon": -7.6024,
+   "label": "Gortnahoe, The Municipal District of Thurles, County Tipperary, Munster, Ireland",
+   "precision": "exact"
+  },
+  "Goshen Precinct, Orange County, New York, USA": {
+   "lat": 41.38733,
+   "lon": -74.25073,
+   "label": "Orange County, New York, United States",
+   "precision": "approximate"
+  },
+  "Goshen, Orange County, New York, USA": {
+   "lat": 41.40215,
+   "lon": -74.32421,
+   "label": "Village of Goshen, Town of Goshen, Orange County, New York, 10924, United States",
+   "precision": "exact"
+  },
+  "Great Yarmouth, Norfolk, England": {
+   "lat": 52.60717,
+   "lon": 1.73148,
+   "label": "Great Yarmouth, Norfolk, England, NR30 2AH, United Kingdom",
+   "precision": "exact"
+  },
+  "Grezhausen, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.96707,
+   "lon": 7.6448,
+   "label": "Grezhausen, Breisach am Rhein, VVG der Stadt Breisach am Rhein, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79206, Germany",
+   "precision": "exact"
+  },
+  "Guardia Lombardi, Avellino, Campania, Italie": {
+   "lat": 40.95382,
+   "lon": 15.20918,
+   "label": "Guardia Lombardi, Avellino, Campania, Italy",
+   "precision": "exact"
+  },
+  "Guardia Lombardi, Avellino, Campania, Italy": {
+   "lat": 40.95382,
+   "lon": 15.20918,
+   "label": "Guardia Lombardi, Avellino, Campania, Italy",
+   "precision": "exact"
+  },
+  "Hanover Township, Luzerne County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  },
+  "Hanover, Luzerne County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  },
+  "Hauppauge, Suffolk County, New York, USA": {
+   "lat": 40.82374,
+   "lon": -73.20623,
+   "label": "Hauppauge, Brentwood, Town of Islip, Suffolk County, New York, 11788, United States",
+   "precision": "exact"
+  },
+  "Hazleton, Luzerne County, Pennsylvania, USA": {
+   "lat": 40.9549,
+   "lon": -75.97696,
+   "label": "Hazleton, Luzerne County, Pennsylvania, 18201, United States",
+   "precision": "exact"
+  },
+  "Hazleton, Luzerne County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  },
+  "Hingham, Plymouth County, Massachusetts, USA": {
+   "lat": 42.24177,
+   "lon": -70.88977,
+   "label": "Hingham, Plymouth County, Massachusetts, 02043, United States",
+   "precision": "exact"
+  },
+  "Hinterzarten, Baden, Germany": {
+   "lat": 47.90637,
+   "lon": 8.10362,
+   "label": "Hinterzarten, VVG der Gemeinde Hinterzarten, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79856, Germany",
+   "precision": "exact"
+  },
+  "House 55, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "House No. 68, Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany": {
+   "lat": 47.96964,
+   "lon": 7.69823,
+   "label": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Household of John H. Jones, Plymouth, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24036,
+   "lon": -75.94464,
+   "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "approximate"
+  },
+  "Hunlock's Creek / Nanticoke, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Huntington Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.18166,
+   "lon": -76.23232,
+   "label": "Huntington Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Huntington, Luzerne, Pennsylvania, USA": {
+   "lat": 41.18166,
+   "lon": -76.23232,
+   "label": "Huntington Township, Luzerne County, Pennsylvania, 18622, United States",
+   "precision": "exact"
+  },
+  "Huntington, Suffolk County, New York, USA": {
+   "lat": 40.86815,
+   "lon": -73.42568,
+   "label": "Town of Huntington, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Husbands Bosworth, Harborough District, Leicestershire, England, United Kingdom": {
+   "lat": 52.68491,
+   "lon": -1.18477,
+   "label": "Leicestershire, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Husbands Bosworth, Leicestershire, England, United Kingdom": {
+   "lat": 52.44969,
+   "lon": -1.06048,
+   "label": "Husbands Bosworth, Harborough, Leicestershire, England, United Kingdom",
+   "precision": "exact"
+  },
+  "IN": {
+   "lat": 22.35111,
+   "lon": 78.66774,
+   "label": "India",
+   "precision": "exact"
+  },
+  "Ilketshall St Margaret, Suffolk, , England": {
+   "lat": 52.41613,
+   "lon": 1.45434,
+   "label": "St Margaret, Ilketshall, East Suffolk, Suffolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Ilketshall St Margaret, Waveney District, Suffolk, England": {
+   "lat": 52.01743,
+   "lon": 1.0691,
+   "label": "Waveney, Folly Lane, Copdock and Washbrook, Copdock, Babergh, Suffolk, England, IP8 3JQ, United Kingdom",
+   "precision": "approximate"
+  },
+  "Ilketshall, Suffolk, England": {
+   "lat": 52.41574,
+   "lon": 1.48448,
+   "label": "St Lawrence, Ilketshall, East Suffolk, Suffolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Inova Loudoun Hospital, Ashburn, Virginia, USA": {
+   "lat": 39.02978,
+   "lon": -77.47441,
+   "label": "Ashburn, Loudoun County, Virginia, United States",
+   "precision": "approximate"
+  },
+  "Ipswich, Ipswich Borough, Suffolk, England": {
+   "lat": 52.05793,
+   "lon": 1.15281,
+   "label": "Ipswich, Suffolk, England, IP1 1DD, United Kingdom",
+   "precision": "exact"
+  },
+  "Ireland": {
+   "lat": 52.8652,
+   "lon": -7.97946,
+   "label": "Ireland",
+   "precision": "exact"
+  },
+  "Ireland, United Kingdom": {
+   "lat": 52.06003,
+   "lon": -0.34748,
+   "label": "Ireland, Southill, Central Bedfordshire, England, SG17 5QL, United Kingdom",
+   "precision": "exact"
+  },
+  "Italy": {
+   "lat": 42.63843,
+   "lon": 12.6743,
+   "label": "Italy",
+   "precision": "exact"
+  },
+  "Jackson Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.28001,
+   "lon": -75.9829,
+   "label": "Jackson Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Jettenbach, Kusel, Rhineland-Palatinate, Germany": {
+   "lat": 49.53454,
+   "lon": 7.55674,
+   "label": "Jettenbach, Lauterecken-Wolfstein, Landkreis Kusel, Rhineland-Palatinate, Germany",
+   "precision": "exact"
+  },
+  "Jägerhof, Unteribental, Buchenbach, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.98522,
+   "lon": 8.00672,
+   "label": "Jägerhof, Unteribental, Buchenbach, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79256, Germany",
+   "precision": "exact"
+  },
+  "Kilkenny, Ireland": {
+   "lat": 52.65063,
+   "lon": -7.25144,
+   "label": "Kilkenny, County Kilkenny, Leinster, Ireland",
+   "precision": "exact"
+  },
+  "Killenaule, County Tipperary, Ireland": {
+   "lat": 52.58549,
+   "lon": -7.68859,
+   "label": "Killenaule, The Municipal District of Carrick-on-Suir, County Tipperary, Munster, E41 XY95, Ireland",
+   "precision": "exact"
+  },
+  "Killenaule, Tipperary, Ireland": {
+   "lat": 52.58549,
+   "lon": -7.68859,
+   "label": "Killenaule, The Municipal District of Carrick-on-Suir, County Tipperary, Munster, E41 XY95, Ireland",
+   "precision": "exact"
+  },
+  "Kingsbury, Washington, New York, USA": {
+   "lat": 43.36368,
+   "lon": -73.5315,
+   "label": "Town of Kingsbury, Washington County, New York, 12839, United States",
+   "precision": "exact"
+  },
+  "Kingston Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.32762,
+   "lon": -75.9062,
+   "label": "Kingston Township, Luzerne County, Pennsylvania, 18708, United States",
+   "precision": "exact"
+  },
+  "Kingston, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.26201,
+   "lon": -75.8972,
+   "label": "Kingston, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Kingston, Luzerne, Pennsylvania": {
+   "lat": 41.26201,
+   "lon": -75.8972,
+   "label": "Kingston, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Kirchhofen, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.92269,
+   "lon": 7.74099,
+   "label": "Kirchhofen, Ehrenkirchen, VVG der Gemeinde Ehrenkirchen, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Kirchzarten, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.96263,
+   "lon": 7.9542,
+   "label": "Kirchzarten, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79199, Germany",
+   "precision": "exact"
+  },
+  "Kirchzarten,Freiburg im Breisgau,Baden,D": {
+   "lat": 47.99126,
+   "lon": 7.82923,
+   "label": "D, Staudingerstraße, Haslach-Egerten, Haslach, Freiburg im Breisgau, Baden-Württemberg, 79115, Germany",
+   "precision": "approximate"
+  },
+  "Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Kollweiler, Kusel, Rhineland-Palatinate, Germany": {
+   "lat": 49.54375,
+   "lon": 7.58846,
+   "label": "Kollweilerstraße, Rothselberg, Lauterecken-Wolfstein, Landkreis Kusel, Rhineland-Palatinate, 67753, Germany",
+   "precision": "exact"
+  },
+  "Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.44061,
+   "lon": -75.62603,
+   "label": "Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Lamezia Terme, Catanzaro, Calabria, Italy": {
+   "lat": 38.96451,
+   "lon": 16.30215,
+   "label": "Lamezia Terme, Catanzaro, Calabria, 88046, Italy",
+   "precision": "exact"
+  },
+  "Langley Marish, Buckinghamshire, England": {
+   "lat": 51.84089,
+   "lon": -0.89981,
+   "label": "Buckinghamshire, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Larksville, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24508,
+   "lon": -75.93075,
+   "label": "Larksville, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Larksville, Luzerne County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  },
+  "Larksville, Luzerne, Pennsylvania, USA": {
+   "lat": 41.24508,
+   "lon": -75.93075,
+   "label": "Larksville, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Lauterecken, Kusel, Rhineland-Palatinate, Germany": {
+   "lat": 49.65005,
+   "lon": 7.59183,
+   "label": "Lauterecken, Lauterecken-Wolfstein, Landkreis Kusel, Rhineland-Palatinate, Germany",
+   "precision": "exact"
+  },
+  "Lavenham, Suffolk, England": {
+   "lat": 52.11004,
+   "lon": 0.79789,
+   "label": "Lavenham, Babergh, Suffolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Lechlade, Gloucestershire, (Ingleton, Staffordshire ?), England": {
+   "lat": 51.69449,
+   "lon": -1.69221,
+   "label": "Lechlade, Cotswold District, Gloucestershire, England, GL7 3AD, United Kingdom",
+   "precision": "exact"
+  },
+  "Lenox, Madison County, New York, USA": {
+   "lat": 43.11128,
+   "lon": -75.75818,
+   "label": "Town of Lenox, Madison County, New York, United States",
+   "precision": "exact"
+  },
+  "Levittown, Bucks County, Pennsylvania, USA": {
+   "lat": 40.15756,
+   "lon": -74.83213,
+   "label": "Levittown, Bristol Township, Bucks County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Levittown, Bucks, Pennsylvania, USA": {
+   "lat": 40.15756,
+   "lon": -74.83213,
+   "label": "Levittown, Bristol Township, Bucks County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Lickfinn, Gortnahoe, County Tipperary, Ireland": {
+   "lat": 52.67572,
+   "lon": -7.6024,
+   "label": "Gortnahoe, The Municipal District of Thurles, County Tipperary, Munster, Ireland",
+   "precision": "approximate"
+  },
+  "Llanddwyn, Montgomeryshire, Wales": {
+   "lat": 52.61527,
+   "lon": -3.465,
+   "label": "VC47 Montgomeryshire, Powys, Wales, United Kingdom",
+   "precision": "approximate"
+  },
+  "Llanfair, Montgomeryshire, Wales, UK": {
+   "lat": 52.61527,
+   "lon": -3.465,
+   "label": "VC47 Montgomeryshire, Powys, Wales, United Kingdom",
+   "precision": "approximate"
+  },
+  "Llangadfan, Montgomeryshire, Wales": {
+   "lat": 52.61527,
+   "lon": -3.465,
+   "label": "VC47 Montgomeryshire, Powys, Wales, United Kingdom",
+   "precision": "approximate"
+  },
+  "Llangadfan, Montgomeryshire, Wales, UK": {
+   "lat": 52.61527,
+   "lon": -3.465,
+   "label": "VC47 Montgomeryshire, Powys, Wales, United Kingdom",
+   "precision": "approximate"
+  },
+  "Llanllugan, Montgomeryshire, Wales, UK": {
+   "lat": 52.61527,
+   "lon": -3.465,
+   "label": "VC47 Montgomeryshire, Powys, Wales, United Kingdom",
+   "precision": "approximate"
+  },
+  "Llanymondon, Merionethshire, Wales": {
+   "lat": 52.79398,
+   "lon": -3.87496,
+   "label": "VC48 Merionethshire, Gwynedd, Wales, United Kingdom",
+   "precision": "approximate"
+  },
+  "London, England": {
+   "lat": 51.50745,
+   "lon": -0.12777,
+   "label": "Greater London, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Long Island": {
+   "lat": 40.8515,
+   "lon": -73.09943,
+   "label": "Long Island, New York, United States",
+   "precision": "exact"
+  },
+  "Long Island City, Queens, New York": {
+   "lat": 40.74553,
+   "lon": -73.9485,
+   "label": "Long Island City, Queens, Queens County, New York, 11109, United States",
+   "precision": "exact"
+  },
+  "Long Island City, Queens, New York Colony": {
+   "lat": 40.76764,
+   "lon": -73.92366,
+   "label": "The Colony, 29th Street, Queens, Queens County, New York, 11102, United States",
+   "precision": "approximate"
+  },
+  "Long Island, NY, Southold": {
+   "lat": 41.09972,
+   "lon": -72.36402,
+   "label": "Long Island Train Museum, Shelter Island North Ferry, Village of Greenport, Town of Southold, Suffolk County, New York, 11944, United States",
+   "precision": "exact"
+  },
+  "Long Melford, Suffolk, England": {
+   "lat": 52.07366,
+   "lon": 0.71521,
+   "label": "Long Melford, Babergh, Suffolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Long Stratton, Norfolk, England": {
+   "lat": 52.48783,
+   "lon": 1.23309,
+   "label": "Long Stratton, Tharston, South Norfolk, Norfolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Los Angeles, California, USA": {
+   "lat": 34.05369,
+   "lon": -118.24277,
+   "label": "Los Angeles, Los Angeles County, California, United States",
+   "precision": "exact"
+  },
+  "Lucera, Foggia, Italy": {
+   "lat": 41.50827,
+   "lon": 15.33765,
+   "label": "Lucera, Foggia, Apulia, 71036, Italy",
+   "precision": "exact"
+  },
+  "Luzerne County, PA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Luzerne County, Pennsylvania": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Luzerne County, Pennsylvania, USA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Luzerne, Luzerne, Pennsylvania, United States": {
+   "lat": 41.28576,
+   "lon": -75.90089,
+   "label": "Luzerne, Luzerne County, Pennsylvania, 18709, United States",
+   "precision": "exact"
+  },
+  "Luzerne, Pennsylvania, USA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Lynn, Essex, Massachusetts, USA": {
+   "lat": 42.46676,
+   "lon": -70.94949,
+   "label": "Lynn, Essex County, Massachusetts, United States",
+   "precision": "exact"
+  },
+  "Mahoning Township (P.O. Danville), Montour County, Pennsylvania, USA": {
+   "lat": 40.96183,
+   "lon": -76.58485,
+   "label": "Mahoning Township, Montour County, Pennsylvania, 17822, United States",
+   "precision": "exact"
+  },
+  "Mahoning Township, Montour County, Pennsylvania, USA": {
+   "lat": 40.96183,
+   "lon": -76.58485,
+   "label": "Mahoning Township, Montour County, Pennsylvania, 17822, United States",
+   "precision": "exact"
+  },
+  "Maple Shade, Burlington County, New Jersey, USA": {
+   "lat": 39.95261,
+   "lon": -74.99239,
+   "label": "Maple Shade Township, Burlington County, New Jersey, 08052, United States",
+   "precision": "exact"
+  },
+  "Mardyke, Killenaule, County Tipperary, Ireland": {
+   "lat": 52.58549,
+   "lon": -7.68859,
+   "label": "Killenaule, The Municipal District of Carrick-on-Suir, County Tipperary, Munster, E41 XY95, Ireland",
+   "precision": "approximate"
+  },
+  "Marshall, Missouri, USA": {
+   "lat": 39.12308,
+   "lon": -93.19687,
+   "label": "Marshall, Saline County, Missouri, 65340, United States",
+   "precision": "exact"
+  },
+  "Mattituck, Suffolk County, New York, USA": {
+   "lat": 41.01191,
+   "lon": -72.55054,
+   "label": "Mattituck, Town of Southold, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Mattituck, Suffolk, New York, United States": {
+   "lat": 41.01191,
+   "lon": -72.55054,
+   "label": "Mattituck, Town of Southold, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Mauch Chunk, Carbon County, Pennsylvania, USA": {
+   "lat": 40.85201,
+   "lon": -75.7744,
+   "label": "Mauch Chunk Creek, Hacklebernie, Jim Thorpe, Carbon County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "McVeytown, Mifflin County, Pennsylvania, USA": {
+   "lat": 40.49791,
+   "lon": -77.7414,
+   "label": "McVeytown, Mifflin County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Melcherhof,Unteribental,Buchenbach,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 47.99126,
+   "lon": 7.82923,
+   "label": "D, Staudingerstraße, Haslach-Egerten, Haslach, Freiburg im Breisgau, Baden-Württemberg, 79115, Germany",
+   "precision": "approximate"
+  },
+  "Mendham, New Jersey, USA": {
+   "lat": 40.77594,
+   "lon": -74.60096,
+   "label": "Mendham, Morris County, New Jersey, 07945, United States",
+   "precision": "exact"
+  },
+  "Meschers-sur-Gironde, Charente-Maritime, France": {
+   "lat": 45.5581,
+   "lon": -0.95385,
+   "label": "Meschers-sur-Gironde, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, Metropolitan France, 17132, France",
+   "precision": "exact"
+  },
+  "Miami, Miami-Dade County, Florida, USA": {
+   "lat": 25.77416,
+   "lon": -80.1936,
+   "label": "Miami, Miami-Dade County, Florida, United States",
+   "precision": "exact"
+  },
+  "Milford, New Haven County, Connecticut, USA": {
+   "lat": 41.40686,
+   "lon": -72.90789,
+   "label": "New Haven County, South Central Connecticut Planning Region, Connecticut, United States",
+   "precision": "approximate"
+  },
+  "Millcreek Township, Erie County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  },
+  "Monroe, Orange County, New York, USA": {
+   "lat": 41.33048,
+   "lon": -74.18663,
+   "label": "Town of Monroe, Orange County, New York, United States",
+   "precision": "exact"
+  },
+  "Moosic, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.35341,
+   "lon": -75.73825,
+   "label": "Moosic, Lackawanna County, Pennsylvania, 18507, United States",
+   "precision": "exact"
+  },
+  "Moriches, Brookhaven, Suffolk County, New York, USA": {
+   "lat": 40.8033,
+   "lon": -72.82103,
+   "label": "Moriches, Town of Brookhaven, Suffolk County, New York, 11955, United States",
+   "precision": "exact"
+  },
+  "Mowsley, Leicestershire, England": {
+   "lat": 52.49081,
+   "lon": -1.05041,
+   "label": "Mowsley, Harborough, Leicestershire, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Moëze, Charente-Maritime, France": {
+   "lat": 45.90416,
+   "lon": -1.0355,
+   "label": "Moëze, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, Metropolitan France, 17780, France",
+   "precision": "exact"
+  },
+  "Munzingen, Baden-Wuerttemberg, Germany": {
+   "lat": 47.96964,
+   "lon": 7.69823,
+   "label": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany": {
+   "lat": 47.96964,
+   "lon": 7.69823,
+   "label": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Munzingen, Freiburg, Baden, Baden Wurttemberg, Allemagne": {
+   "lat": 47.96964,
+   "lon": 7.69823,
+   "label": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Munzingen, Freiburg, Baden-Württemberg, Germany": {
+   "lat": 47.96964,
+   "lon": 7.69823,
+   "label": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Münzingen, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.94116,
+   "lon": 7.84717,
+   "label": "Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, Germany",
+   "precision": "approximate"
+  },
+  "Nanticoke, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.20527,
+   "lon": -76.00494,
+   "label": "Nanticoke, Luzerne County, Pennsylvania, 18634, United States",
+   "precision": "exact"
+  },
+  "Neuhäuser, Kirchzarten, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.97219,
+   "lon": 7.92322,
+   "label": "Neuhäuser, Kirchzarten, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79199, Germany",
+   "precision": "exact"
+  },
+  "New Haven, New Haven County, Connecticut, USA": {
+   "lat": 41.40686,
+   "lon": -72.90789,
+   "label": "New Haven County, South Central Connecticut Planning Region, Connecticut, United States",
+   "precision": "approximate"
+  },
+  "New Haven, New Haven, Connecticut, United States": {
+   "lat": 41.30821,
+   "lon": -72.92505,
+   "label": "New Haven, South Central Connecticut Planning Region, Connecticut, United States",
+   "precision": "exact"
+  },
+  "New Jersey": {
+   "lat": 40.07574,
+   "lon": -74.40416,
+   "label": "New Jersey, United States",
+   "precision": "exact"
+  },
+  "New Philadelphia, Schuylkill County, Pennsylvania, USA": {
+   "lat": 40.71953,
+   "lon": -76.11577,
+   "label": "New Philadelphia, Schuylkill County, Pennsylvania, 17959, United States",
+   "precision": "exact"
+  },
+  "New Rochelle; Bedford; Philipse Precinct (Philipstown), New York, USA": {
+   "lat": 40.71273,
+   "lon": -74.00602,
+   "label": "New York, United States",
+   "precision": "approximate"
+  },
+  "New Windsor, Ulster (now Orange) County, New York, USA": {
+   "lat": 41.86893,
+   "lon": -74.26185,
+   "label": "Ulster County, New York, United States",
+   "precision": "approximate"
+  },
+  "New York": {
+   "lat": 40.71273,
+   "lon": -74.00602,
+   "label": "New York, United States",
+   "precision": "exact"
+  },
+  "New York City, New York, USA": {
+   "lat": 40.71273,
+   "lon": -74.00602,
+   "label": "New York, United States",
+   "precision": "exact"
+  },
+  "New York, New York, USA": {
+   "lat": 40.71273,
+   "lon": -74.00602,
+   "label": "New York, United States",
+   "precision": "exact"
+  },
+  "New York, USA": {
+   "lat": 40.71273,
+   "lon": -74.00602,
+   "label": "New York, United States",
+   "precision": "exact"
+  },
+  "Newport Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.18402,
+   "lon": -76.04393,
+   "label": "Newport Township, Luzerne County, Pennsylvania, 18617, United States",
+   "precision": "exact"
+  },
+  "Newtown, Fairfield County, Connecticut, USA": {
+   "lat": 41.3084,
+   "lon": -73.31363,
+   "label": "Fairfield County, Greater Bridgeport Planning Region, Connecticut, United States",
+   "precision": "approximate"
+  },
+  "Nicastro (now Lamezia Terme), Catanzaro, Calabria, Italy": {
+   "lat": 38.96684,
+   "lon": 16.32007,
+   "label": "Lamezia Terme-Nicastro, Via Timavo, Lamezia Terme, Catanzaro, Calabria, 88046, Italy",
+   "precision": "exact"
+  },
+  "Nissequogue, Smithtown, Suffolk County, New York, USA": {
+   "lat": 40.90399,
+   "lon": -73.19789,
+   "label": "Village of Nissequogue, Town of Smithtown, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "North Atlantic Ocean (RMS Titanic)": {
+   "lat": 40.0,
+   "lon": -40.0,
+   "label": "North Atlantic Ocean",
+   "precision": "exact"
+  },
+  "North Bend, Ohio": {
+   "lat": 39.15256,
+   "lon": -84.748,
+   "label": "North Bend, Miami Township, Hamilton County, Ohio, 45052, United States",
+   "precision": "exact"
+  },
+  "Northampton County, Pennsylvania, USA": {
+   "lat": 40.74514,
+   "lon": -75.32893,
+   "label": "Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Northeast Branch of the Nissequogue River (Hauppauge edge), Smithtown, Suffolk County, New York, USA": {
+   "lat": 40.85593,
+   "lon": -73.20067,
+   "label": "Town of Smithtown, Suffolk County, New York, United States",
+   "precision": "approximate"
+  },
+  "Norwich, Norfolk, England": {
+   "lat": 52.62856,
+   "lon": 1.2924,
+   "label": "Norwich, Norfolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Oberbirken, Freiburg, Baden": {
+   "lat": 47.99609,
+   "lon": 7.8494,
+   "label": "Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "approximate"
+  },
+  "Oberbrombach, Birkenfeld, Rhineland-Palatinate, Germany": {
+   "lat": 49.69838,
+   "lon": 7.26075,
+   "label": "Oberbrombach, Birkenfeld, Landkreis Birkenfeld, Rhineland-Palatinate, Germany",
+   "precision": "exact"
+  },
+  "Orange County, New York, USA": {
+   "lat": 41.38733,
+   "lon": -74.25073,
+   "label": "Orange County, New York, United States",
+   "precision": "exact"
+  },
+  "Orange, New South Wales, Australia": {
+   "lat": -33.28205,
+   "lon": 149.09716,
+   "label": "Orange, New South Wales, 2800, Australia",
+   "precision": "exact"
+  },
+  "Orange/Ulster County, New York, USA": {
+   "lat": 41.76675,
+   "lon": -74.34855,
+   "label": "Orange Brook, Town of Wawarsing, Ulster County, New York, 12489, United States",
+   "precision": "exact"
+  },
+  "Oyster Bay, Queens (now Nassau) County, New York, USA": {
+   "lat": 40.65156,
+   "lon": -73.79268,
+   "label": "Queens County, New York, United States",
+   "precision": "approximate"
+  },
+  "Oysterponds (Orient), Southold, Suffolk County, New York, USA": {
+   "lat": 41.1446,
+   "lon": -72.30062,
+   "label": "Oysterponds Elementary School, 23405, Main Road, Orient, Town of Southold, Suffolk County, New York, 11957, United States",
+   "precision": "exact"
+  },
+  "Parish Currin, Co Monaghan, Ireland": {
+   "lat": 54.11788,
+   "lon": -7.22986,
+   "label": "Currin Parish Union, Ballybay-Clones Municipal District, County Monaghan, Ulster, Ireland",
+   "precision": "exact"
+  },
+  "Parish, Leicestershire, England": {
+   "lat": 52.80527,
+   "lon": -1.28588,
+   "label": "Parish Church of All Saints, Mill Lane, Long Whatton and Diseworth, Long Whatton, North West Leicestershire, Leicestershire, England, LE12 5DR, United Kingdom",
+   "precision": "exact"
+  },
+  "Pennsylvania": {
+   "lat": 40.96999,
+   "lon": -77.72788,
+   "label": "Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Pennsylvania, USA": {
+   "lat": 40.96999,
+   "lon": -77.72788,
+   "label": "Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Pfaffenweiler, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.93613,
+   "lon": 7.75417,
+   "label": "Pfaffenweiler, VVG der Gemeinde Schallstadt, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79292, Germany",
+   "precision": "exact"
+  },
+  "Philadelphia, Pennsylvania, USA": {
+   "lat": 39.95272,
+   "lon": -75.16353,
+   "label": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Philadelphia, Philadelphia, Pennsylvania": {
+   "lat": 39.95272,
+   "lon": -75.16353,
+   "label": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Philipstown, Dutchess (now Putnam) County, New York, USA": {
+   "lat": 41.71943,
+   "lon": -73.75162,
+   "label": "Dutchess County, New York, United States",
+   "precision": "approximate"
+  },
+  "Phoenix, Maricopa County, Arizona, USA": {
+   "lat": 33.44844,
+   "lon": -112.07414,
+   "label": "Phoenix, Maricopa County, Arizona, United States",
+   "precision": "exact"
+  },
+  "Pittsburgh, Allegheny County, Pennsylvania, USA": {
+   "lat": 40.4407,
+   "lon": -80.00257,
+   "label": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Pittston, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.32591,
+   "lon": -75.78936,
+   "label": "Pittston, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Pittstown,  Luzerne, Pennsylvania, USA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Plainfield Township, Northampton County, Pennsylvania, USA": {
+   "lat": 40.82349,
+   "lon": -75.2648,
+   "label": "Plainfield Township, Northampton County, Pennsylvania, 18072, United States",
+   "precision": "exact"
+  },
+  "Plymouth Township, ED 145, p.4": {
+   "lat": 47.27866,
+   "lon": -1.51885,
+   "label": "P, 4, Allée Jean-Baptiste Fourier, La Chantrerie, Chantrerie - Gachet, Nantes Erdre, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44300, France",
+   "precision": "approximate"
+  },
+  "Plymouth Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24158,
+   "lon": -76.01622,
+   "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Plymouth Ward 1, Luzerne, Pennsylvania, USA": {
+   "lat": 41.24036,
+   "lon": -75.94464,
+   "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "exact"
+  },
+  "Plymouth, Kingston, Luzerne, Pennsylvania, USA": {
+   "lat": 41.26201,
+   "lon": -75.8972,
+   "label": "Kingston, Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Plymouth, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24036,
+   "lon": -75.94464,
+   "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "exact"
+  },
+  "Plymouth, Luzerne, Pennsylvania, USA": {
+   "lat": 41.24036,
+   "lon": -75.94464,
+   "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "exact"
+  },
+  "Plymouth, Pennsylvania": {
+   "lat": 41.24036,
+   "lon": -75.94464,
+   "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "exact"
+  },
+  "Potomac River (USS Princeton), USA": {
+   "lat": 39.07391,
+   "lon": -77.42764,
+   "label": "Potomac River, Maryland, United States",
+   "precision": "exact"
+  },
+  "Princeton / Skillman, New Jersey, USA": {
+   "lat": 40.40676,
+   "lon": -74.65867,
+   "label": "Princeton Allergy & Asthma Associates, 24, Vreeland Drive, Montgomery Township, Somerset County, New Jersey, 08558, United States",
+   "precision": "exact"
+  },
+  "Pueblo, Colorado, USA": {
+   "lat": 38.264,
+   "lon": -104.61419,
+   "label": "Pueblo, Pueblo County, Colorado, United States",
+   "precision": "exact"
+  },
+  "Raum Geroldstal,Oberried,Kirchzarten": {
+   "lat": 47.95047,
+   "lon": 7.95667,
+   "label": "Segelfluggelände Kirchzarten, Weilersbachstraße, Hannisenhof, Weilersbach, Oberried, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79254, Germany",
+   "precision": "approximate"
+  },
+  "Retreat (Luzerne County home), Luzerne County, Pennsylvania, USA": {
+   "lat": 41.18869,
+   "lon": -76.07882,
+   "label": "State Correctional Institution - Retreat, 600, Retreat Road, Newport Township, Luzerne County, Pennsylvania, 18621, United States",
+   "precision": "exact"
+  },
+  "Reyden, Southwold, Suffolk, England": {
+   "lat": 52.32608,
+   "lon": 1.67931,
+   "label": "Southwold, East Suffolk, Suffolk, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Reydon, Waveney District, Suffolk, England": {
+   "lat": 52.01743,
+   "lon": 1.0691,
+   "label": "Waveney, Folly Lane, Copdock and Washbrook, Copdock, Babergh, Suffolk, England, IP8 3JQ, United Kingdom",
+   "precision": "approximate"
+  },
+  "Richmond, Virginia, USA": {
+   "lat": 37.53851,
+   "lon": -77.43428,
+   "label": "Richmond, Virginia, United States",
+   "precision": "exact"
+  },
+  "Sagaponack, Southampton, Suffolk County, New York, USA": {
+   "lat": 40.92538,
+   "lon": -72.27814,
+   "label": "Village of Sagaponack, Town of Southampton, Suffolk County, New York, 11962, United States",
+   "precision": "exact"
+  },
+  "San Mango D'Aquino, Catanzaro, Calabria, Italy": {
+   "lat": 39.05911,
+   "lon": 16.19012,
+   "label": "San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "San Mango D'Aquino, Catanzaro, Catanzaro, Calabria, Italy": {
+   "lat": 39.05911,
+   "lon": 16.19012,
+   "label": "San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "San Mango D'Aquino, Catanzaro, Italy": {
+   "lat": 39.05911,
+   "lon": 16.19012,
+   "label": "San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "San Mango D'Aquino, Italy": {
+   "lat": 39.05911,
+   "lon": 16.19012,
+   "label": "San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "San Mango D’Aquino, Catanzaro, Calabria, Italy": {
+   "lat": 39.05911,
+   "lon": 16.19012,
+   "label": "San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "San Mango d'Aquino, Catanzaro, Calabria, Italy": {
+   "lat": 39.05911,
+   "lon": 16.19012,
+   "label": "San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "San Mango di Aquino, Catanzaro, Calabria, Italy": {
+   "lat": 39.05393,
+   "lon": 16.1793,
+   "label": "Cimitero di San Mango d'Aquino, San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "San Mango, d’Aquino, Calabria, Italy": {
+   "lat": 39.05393,
+   "lon": 16.1793,
+   "label": "Cimitero di San Mango d'Aquino, San Mango d'Aquino, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "Sandusky, Erie County, Ohio, USA": {
+   "lat": 41.4561,
+   "lon": -82.71158,
+   "label": "Sandusky, Erie County, Ohio, 44870, United States",
+   "precision": "exact"
+  },
+  "Sant'Angelo dei Lombardi, Avellino, Campania, Italy": {
+   "lat": 40.92703,
+   "lon": 15.17752,
+   "label": "Sant'Angelo dei Lombardi, Avellino, Campania, 83054, Italy",
+   "precision": "exact"
+  },
+  "Savuto, Cosenza, Calabria, Italy": {
+   "lat": 39.16092,
+   "lon": 16.50746,
+   "label": "Savuto, Taverna, Catanzaro, Calabria, 88055, Italy",
+   "precision": "exact"
+  },
+  "Saxlingham Nethergate, Norfolk, England": {
+   "lat": 52.5273,
+   "lon": 1.28829,
+   "label": "Saxlingham Nethergate, South Norfolk, Norfolk, England, NR15 1TD, United Kingdom",
+   "precision": "exact"
+  },
+  "Saxlingham Thorpe and Nethergate, Norfolk, England": {
+   "lat": 52.66667,
+   "lon": 1.0,
+   "label": "Norfolk, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Saxlingham, Norfolk, England": {
+   "lat": 52.91585,
+   "lon": 1.01116,
+   "label": "Saxlingham, North Norfolk, Norfolk, England, NR25 7JZ, United Kingdom",
+   "precision": "exact"
+  },
+  "Schirkenhof,Geroldstal,Oberried,Kirchzarten,Baden,D": {
+   "lat": 38.66813,
+   "lon": -76.74502,
+   "label": "Baden, Prince George's County, Maryland, United States",
+   "precision": "approximate"
+  },
+  "Schirkenhof,Geroldstal,Oberried,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Schuylkill County, Pennsylvania, USA": {
+   "lat": 40.69366,
+   "lon": -76.2278,
+   "label": "Schuylkill County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Schwebeleck,St.Peter-OBERIBENTAL,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Scituate, Plymouth Colony, Massachusetts, USA": {
+   "lat": 41.94822,
+   "lon": -70.71643,
+   "label": "Hampton Inn & Suites Plymouth, 10, Plaza Way, Colony Place, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+   "precision": "approximate"
+  },
+  "Scranton, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Scranton, Lackawanna, Pennsylvania": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Scranton, Lackawanna, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Scranton, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Scranton/Dunmore (Bunker Hill), Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.41072,
+   "lon": -75.60581,
+   "label": "Number Seven Reservoir, Dunmore, Lackawanna County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Setauket, Brookhaven, Suffolk County, New York, USA": {
+   "lat": 40.94675,
+   "lon": -73.11592,
+   "label": "Setauket, Town of Brookhaven, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Sherewog farm, Smithtown Twp, Suffolk Co, Long Island, New York": {
+   "lat": 40.8515,
+   "lon": -73.09943,
+   "label": "Long Island, New York, United States",
+   "precision": "approximate"
+  },
+  "Sherwood Forest Plantation, Charles City County, Virginia, USA": {
+   "lat": 37.33455,
+   "lon": -77.01871,
+   "label": "Sherwood Forest Plantation, 14501, Charles City, Charles City County, Virginia, 23030, United States",
+   "precision": "exact"
+  },
+  "Shutesbury, Franklin, Massachusetts, USA": {
+   "lat": 42.45215,
+   "lon": -72.4098,
+   "label": "Shutesbury, Franklin County, Massachusetts, 01072, United States",
+   "precision": "exact"
+  },
+  "Skillman, Somerset, New Jersey, USA": {
+   "lat": 40.42341,
+   "lon": -74.70779,
+   "label": "Skillman, Montgomery Township, Somerset County, New Jersey, United States",
+   "precision": "exact"
+  },
+  "Smith farm, Southampton, Suffolk Co, Long Island, New York": {
+   "lat": 40.8515,
+   "lon": -73.09943,
+   "label": "Long Island, New York, United States",
+   "precision": "approximate"
+  },
+  "Smith's Clove, Orange County, New York, USA": {
+   "lat": 41.38733,
+   "lon": -74.25073,
+   "label": "Orange County, New York, United States",
+   "precision": "approximate"
+  },
+  "Smithtown (Nissequogue), Suffolk County, New York, USA": {
+   "lat": 40.85593,
+   "lon": -73.20067,
+   "label": "Town of Smithtown, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Smithtown, Suffolk County, New York, USA": {
+   "lat": 40.85593,
+   "lon": -73.20067,
+   "label": "Town of Smithtown, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Somerset, Suffolk, New York, United States": {
+   "lat": 40.79491,
+   "lon": -72.85065,
+   "label": "Somerset Avenue, Mastic, Town of Brookhaven, Suffolk County, New York, 11950, United States",
+   "precision": "exact"
+  },
+  "Southampton, Suffolk County, New York": {
+   "lat": 40.88425,
+   "lon": -72.38971,
+   "label": "Town of Southampton, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Southampton, Suffolk County, New York, USA": {
+   "lat": 40.88425,
+   "lon": -72.38971,
+   "label": "Town of Southampton, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Southampton, Suffolk, New York,": {
+   "lat": 40.88425,
+   "lon": -72.38971,
+   "label": "Town of Southampton, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Southampton, Suffolk, New York, USA": {
+   "lat": 40.88425,
+   "lon": -72.38971,
+   "label": "Town of Southampton, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Southold, Suffolk County, New York, USA": {
+   "lat": 41.06722,
+   "lon": -72.4408,
+   "label": "Southold, Town of Southold, Suffolk County, New York, 11971, United States",
+   "precision": "exact"
+  },
+  "Southold, Suffolk, England": {
+   "lat": 52.241,
+   "lon": 1.04657,
+   "label": "Suffolk, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Southold, Suffolk, New York, USA": {
+   "lat": 41.06722,
+   "lon": -72.4408,
+   "label": "Southold, Town of Southold, Suffolk County, New York, 11971, United States",
+   "precision": "exact"
+  },
+  "Southold, Suffolk, New York, United States": {
+   "lat": 41.06722,
+   "lon": -72.4408,
+   "label": "Southold, Town of Southold, Suffolk County, New York, 11971, United States",
+   "precision": "exact"
+  },
+  "Southwold, Suffolk, , England": {
+   "lat": 52.32608,
+   "lon": 1.67931,
+   "label": "Southwold, East Suffolk, Suffolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Southwold, Suffolk, England": {
+   "lat": 52.32608,
+   "lon": 1.67931,
+   "label": "Southwold, East Suffolk, Suffolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "St. Bride'S Parish, London, England": {
+   "lat": 51.50745,
+   "lon": -0.12777,
+   "label": "Greater London, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "St. Louis, Missouri, USA": {
+   "lat": 38.62541,
+   "lon": -90.19001,
+   "label": "Saint Louis, Missouri, United States",
+   "precision": "exact"
+  },
+  "St. Mary's Cemetery, Hanover Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.21931,
+   "lon": -75.92133,
+   "label": "Saint Mary's Cemetery, 1594, Lee Park, Wilkes-Barre, Luzerne County, Pennsylvania, 18706, United States",
+   "precision": "exact"
+  },
+  "St.Peter,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Stamford, Fairfield County, Connecticut, USA": {
+   "lat": 41.3084,
+   "lon": -73.31363,
+   "label": "Fairfield County, Greater Bridgeport Planning Region, Connecticut, United States",
+   "precision": "approximate"
+  },
+  "Stegen, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.98155,
+   "lon": 7.96415,
+   "label": "Stegen, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79252, Germany",
+   "precision": "exact"
+  },
+  "Stewart's Flats, Plymouth, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24036,
+   "lon": -75.94464,
+   "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "approximate"
+  },
+  "Summit Hill, Carbon County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  },
+  "Summit Township, Crawford County, Pennsylvania": {
+   "lat": 41.66497,
+   "lon": -80.33176,
+   "label": "Summit Township, Crawford County, Pennsylvania, 16422, United States",
+   "precision": "exact"
+  },
+  "Sunderland, Massachusetts": {
+   "lat": 42.46369,
+   "lon": -72.58056,
+   "label": "Sunderland, Franklin County, Massachusetts, 01375, United States",
+   "precision": "exact"
+  },
+  "Tamaqua, Schuylkill County, Pennsylvania, USA": {
+   "lat": 40.79743,
+   "lon": -75.96962,
+   "label": "Tamaqua, Schuylkill County, Pennsylvania, 18252, United States",
+   "precision": "exact"
+  },
+  "Tharston, Norfolk, England": {
+   "lat": 52.50491,
+   "lon": 1.2182,
+   "label": "Tharston, South Norfolk, Norfolk, England, NR15 2YP, United Kingdom",
+   "precision": "exact"
+  },
+  "This City": {
+   "lat": -33.86371,
+   "lon": 151.21148,
+   "label": "This Way Canteen, First Government House Place, Quay Quarter, Sydney, New South Wales, 2000, Australia",
+   "precision": "exact"
+  },
+  "Tipperary, Ireland": {
+   "lat": 52.47348,
+   "lon": -8.16144,
+   "label": "Tipperary, The Municipal District of Cahir — Cashel, County Tipperary, Munster, Ireland",
+   "precision": "exact"
+  },
+  "Tohickon, Bucks County, Pennsylvania, USA": {
+   "lat": 40.46171,
+   "lon": -75.22789,
+   "label": "Tohickon Creek, Bedminster Township, Bucks County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Totternhoe, Bedfordshire, England": {
+   "lat": 51.88443,
+   "lon": -0.57137,
+   "label": "Totternhoe, Central Bedfordshire, England, United Kingdom",
+   "precision": "exact"
+  },
+  "USA": {
+   "lat": 39.78373,
+   "lon": -100.44588,
+   "label": "United States",
+   "precision": "exact"
+  },
+  "Ulmet, Kusel, Rhineland-Palatinate, Germany": {
+   "lat": 49.58461,
+   "lon": 7.45501,
+   "label": "Ulmet, Kusel-Altenglan, Landkreis Kusel, Rhineland-Palatinate, Germany",
+   "precision": "exact"
+  },
+  "Unteribental, Buchenbach, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.98111,
+   "lon": 8.00696,
+   "label": "Unteribental, Buchenbach, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Unteribental,Buchenbach,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 47.99126,
+   "lon": 7.82923,
+   "label": "D, Staudingerstraße, Haslach-Egerten, Haslach, Freiburg im Breisgau, Baden-Württemberg, 79115, Germany",
+   "precision": "approximate"
+  },
+  "Via Piazza, Guardia Lombardi, Avellino, Campania, Italy": {
+   "lat": 40.95382,
+   "lon": 15.20918,
+   "label": "Guardia Lombardi, Avellino, Campania, Italy",
+   "precision": "approximate"
+  },
+  "Village Way, Village of the Branch, Smithtown, Suffolk County, New York, USA": {
+   "lat": 40.85026,
+   "lon": -73.18446,
+   "label": "Village Way, Village of the Branch, Town of Smithtown, Suffolk County, New York, 11787, United States",
+   "precision": "exact"
+  },
+  "Wales": {
+   "lat": 52.29281,
+   "lon": -3.73893,
+   "label": "Wales, United Kingdom",
+   "precision": "exact"
+  },
+  "Walpack, Sussex, New Jersey": {
+   "lat": 41.13589,
+   "lon": -74.89578,
+   "label": "Walpack Township, Sussex County, New Jersey, United States",
+   "precision": "exact"
+  },
+  "Walsgrave on Sowe, Warwickshire, England, United Kingdom": {
+   "lat": 52.32131,
+   "lon": -1.55369,
+   "label": "Warwickshire, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Ward 15, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Ward 16, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Watertown, Middlesex County, Massachusetts, USA": {
+   "lat": 42.36526,
+   "lon": -71.18432,
+   "label": "Watertown, Middlesex County, Massachusetts, United States",
+   "precision": "exact"
+  },
+  "Wehrlebauernhof,Oberried-VÖRLINSBACH,Kirchzarten,Freiburg im Breisgau,Baden,D": {
+   "lat": 47.99126,
+   "lon": 7.82923,
+   "label": "D, Staudingerstraße, Haslach-Egerten, Haslach, Freiburg im Breisgau, Baden-Württemberg, 79115, Germany",
+   "precision": "approximate"
+  },
+  "Wehrlebauernhof,Oberried-VÖRLINSBACH,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Wehrlehof, Vörlinsbach, Oberried, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.92867,
+   "lon": 7.96277,
+   "label": "Vörlinsbach, Oberried, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79254, Germany",
+   "precision": "approximate"
+  },
+  "Weiler, Freiburg, Baden-Württemberg, Germany": {
+   "lat": 47.97442,
+   "lon": 7.82473,
+   "label": "Gerda-Weiler-Straße, Vauban, Freiburg im Breisgau, Baden-Württemberg, 79100, Germany",
+   "precision": "exact"
+  },
+  "Weilersbach, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.94228,
+   "lon": 7.96989,
+   "label": "Weilersbach, Oberried, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79254, Germany",
+   "precision": "exact"
+  },
+  "West Ward, New York City, New York, USA": {
+   "lat": 40.50232,
+   "lon": -74.25746,
+   "label": "Ward Point Bend West Reach, Richmond County, New York, Middlesex County, New York, United States",
+   "precision": "exact"
+  },
+  "Westmoreland County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  },
+  "Wethersfield, Hartford County, Connecticut, USA": {
+   "lat": 41.79189,
+   "lon": -72.74411,
+   "label": "Hartford County, Capitol Planning Region, Connecticut, United States",
+   "precision": "approximate"
+  },
+  "Wethersfield, Hartford, Connecticut,": {
+   "lat": 41.70771,
+   "lon": -72.67131,
+   "label": "Wethersfield High School, 411, Wolcott Hill Road, Griswoldville, Wethersfield, Capitol Planning Region, Connecticut, 06109, United States",
+   "precision": "exact"
+  },
+  "Wethersfield, Hartford, Connecticut, USA": {
+   "lat": 41.70771,
+   "lon": -72.67131,
+   "label": "Wethersfield High School, 411, Wolcott Hill Road, Griswoldville, Wethersfield, Capitol Planning Region, Connecticut, 06109, United States",
+   "precision": "exact"
+  },
+  "Whitchurch, Shropshire Unitary Authority, Shropshire, England": {
+   "lat": 52.65234,
+   "lon": -2.64356,
+   "label": "Shropshire (Ceremonial), England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Wilkes-Barre,  Luzerne County,  PA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Wilkes-Barre, ED 40-102, sheet 2, house 55, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.13844,
+   "lon": -75.93057,
+   "label": "Ice House Drive, Rice Township, Luzerne County, Pennsylvania, 18707, United States",
+   "precision": "approximate"
+  },
+  "Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Williams Township, Northampton County, Pennsylvania, USA": {
+   "lat": 40.63161,
+   "lon": -75.22915,
+   "label": "Williams Township, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Wilmington, Delaware": {
+   "lat": 39.74595,
+   "lon": -75.54659,
+   "label": "Wilmington, New Castle County, Delaware, United States",
+   "precision": "exact"
+  },
+  "Wing, Buckinghamshire, England": {
+   "lat": 51.89754,
+   "lon": -0.73077,
+   "label": "Wing, Buckinghamshire, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Wissett, Suffolk, England": {
+   "lat": 52.36111,
+   "lon": 1.47092,
+   "label": "Wissett, East Suffolk, Suffolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  "Woodbury Clove, Cornwall Precinct, Orange County, New York, USA": {
+   "lat": 41.38733,
+   "lon": -74.25073,
+   "label": "Orange County, New York, United States",
+   "precision": "approximate"
+  },
+  "Woodbury Clove, Orange County, New York, USA": {
+   "lat": 41.38733,
+   "lon": -74.25073,
+   "label": "Orange County, New York, United States",
+   "precision": "approximate"
+  },
+  "Woodford, Bennington, Vermont, USA": {
+   "lat": 42.88036,
+   "lon": -73.07955,
+   "label": "Woodford, Bennington County, Vermont, United States",
+   "precision": "exact"
+  },
+  "Wraysbury, Buckinghamshire, England": {
+   "lat": 51.84089,
+   "lon": -0.89981,
+   "label": "Buckinghamshire, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Zahringen, Freiburg im Breisgau, Baden-Württemberg, Germany": {
+   "lat": 48.02315,
+   "lon": 7.86014,
+   "label": "Zähringen, Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -1188,6 +2862,10 @@ window.FAMILY_DATA = {
     {
      "label": "Children",
      "value": "Kathryn (c.1955), Daniel (c.1956), James (c.1958), Thomas Francis (1959), Susan (c.1960), Nancy (c.1961), John (c.1962), Theresa (c.1963)."
+    },
+    {
+     "label": "Marriage",
+     "value": "Married Kathryn F. McGuire; widowed in 1970 and never remarried (owner's statement, 8 Oct 2026)."
     }
    ],
    "sources": [
@@ -1208,7 +2886,6 @@ window.FAMILY_DATA = {
     "Marriage date/place with Kathryn F. McGuire (not found).",
     "When did the family move to Levittown, PA (built 1952–58)?",
     "Military service (Korea era): VA BIRLS / gravesite locator.",
-    "His 13 Aug 2008 obituary (Bucks County Courier Times, GenealogyBank/NewsBank) should name his nine children and any second wife.",
     "Courier Times obituaries for Mary R. Meier (26 Nov 2003), Kathleen T. Meier (15 Aug 2006) and Fred Meier (15 Jul 2012), all Levittown: check whether they are his wife, siblings or children."
    ],
    "handoff": {
@@ -1232,6 +2909,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Owner listed all eight children (8 Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: James never remarried after Kathryn's death in 1970."
     }
    ]
   },
