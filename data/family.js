@@ -113,11 +113,16 @@ window.FAMILY_DATA = {
     {
      "label": "Siblings",
      "value": "Older brother Thomas Francis \"Tommy\" Meier Jr. (b. 1990); younger brother Matthew \"Matt\" Meier (b. 1998)."
+    },
+    {
+     "label": "Partner (per obituary)",
+     "value": "Listed as \"Johnny (Shannon)\" in grandfather John T. Petriello Sr.'s 2025 obituary; surname and status to be confirmed by the owner."
     }
    ],
    "sources": [
     "John's Ancestry tree screenshots (Google Drive, IMG_7791 and others)",
-    "Richard_Bull_Smith_Lineage.pdf"
+    "Richard_Bull_Smith_Lineage.pdf",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "mediaKnown": [
     "Ancestry profile photo (a collage)"
@@ -170,6 +175,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Owner's statement: full name John Joseph Meier, born 16 Jun 1992 at Alexandria City Hospital; lives in Ashburn, VA; brothers Tommy (b. 1990) and Matt (b. 1998) added."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Named as a grandson in John T. Petriello Sr.'s 2025 obituary, listed as \"Johnny (Shannon)\"."
     }
    ],
    "nickname": "Johnny",
@@ -245,18 +254,22 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "John's father, as shown in his own tree and in the Bull Smith PDF ('Thomas Meier + Sharon Petriello — Dad'). John T. Petriello Jr.'s 2024 obituary names his sister as 'Sharon Meier (Thomas)'."
+    "note": "The owner's father. His father-in-law's 2025 obituary names 'son in law Tommy Meier'."
    },
    "aka": [
-    "Thomas Meier"
+    "Thomas Meier",
+    "Thomas Meier Sr.",
+    "Tommy Meier"
    ],
    "tags": [],
-   "summary": "John's father; a living person, so not researched.",
+   "summary": "The owner's father, known as Tommy; one of nine children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania.",
    "bio": "Thomas F. Meier, born 1959, is John's father and is shown in the tree as 'Thomas F Meier 1959–Living'. His parents are James (C.) Meier (1928–2008) and Kathryn F. McGuire (1930–1970). He married Sharon M. Petriello. Nothing else about him was researched.",
    "sources": [
     "John's Ancestry tree screenshots",
     "Richard_Bull_Smith_Lineage.pdf",
-    "John T. Petriello Jr. obituary, 2024 (cited in research/notes/round2/italian_gaps.md)"
+    "John T. Petriello Jr. obituary, 2024 (cited in research/notes/round2/italian_gaps.md)",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "Owner's statement, 8 Oct 2026 (nine children in the family)"
    ],
    "handoff": {
     "section": "3.1 John and his parents",
@@ -271,7 +284,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Thomas Francis Meier\"; research uses \"Thomas F. Meier\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner reports seven brothers and one sister in Levittown. Searched Legacy, Dignity, Patch, Find a Grave, FamilySearch and the Courier Times archive index for James C. Meier's 2008 obituary: only paywalled index hits (obitsarchive/GenealogyBank). Siblings still to be named."
     }
+   ],
+   "nickname": "Tommy",
+   "facts": [
+    {
+     "label": "Siblings",
+     "value": "Seven brothers and one sister (per the owner); names not yet documented."
+    }
+   ],
+   "openQuestions": [
+    "Names and birth years of his seven brothers and one sister. James C. Meier's August 2008 obituary in the Bucks County Courier Times would list all nine children; it is held in GenealogyBank / NewsBank (paywalled) and was not reachable from free sources.",
+    "Did James C. Meier remarry after Kathryn's death in 1970? A Kathleen T. Meier obituary ran in the Courier Times on 15 Aug 2006, and a Fred Meier on 15 Jul 2012, and a Mary R. Meier on 26 Nov 2003: possible relatives in Levittown to check."
    ]
   },
   {
@@ -329,7 +357,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "John's mother, as shown in his tree and the Bull Smith PDF. John T. Petriello Jr.'s 2024 obituary independently names his sister 'Sharon Meier (Thomas)'."
+    "note": "The owner's mother. Her father's 2025 obituary names 'daughter Sharon Meier & son in law Tommy Meier and their boys Tommy, Johnny & Mathew'."
    },
    "aka": [
     "Sharon Meier",
@@ -340,14 +368,24 @@ window.FAMILY_DATA = {
    "bio": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.",
    "facts": [
     {
-     "label": "Siblings in the records",
-     "value": "John T. Petriello Jr. (c.1958 – 2024-02-29), the eldest of the three children of John and Mary Petriello, born and raised in Scranton; and Paul. Both are named in John Jr.'s obituary, which also names a cousin Ann Marie."
+     "label": "Siblings",
+     "value": "John T. Petriello Jr. (1958–2024) and Paul Petriello."
+    },
+    {
+     "label": "Married",
+     "value": "Thomas F. \"Tommy\" Meier Sr."
+    },
+    {
+     "label": "Children",
+     "value": "Thomas Jr. (Tommy), John (Johnny) and Matthew."
     }
    ],
    "sources": [
     "John's Ancestry tree screenshots",
     "Richard_Bull_Smith_Lineage.pdf",
-    "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)"
+    "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
    ],
    "handoff": {
     "section": "3.1 John and his parents",
@@ -362,6 +400,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Sharon Maria Petriello\"; research uses \"Sharon M. Petriello\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Her father John T. Petriello Sr. died 1 Mar 2025; her mother Mary was living then. Both brothers and all three sons confirmed by the obituaries."
     }
    ]
   },
@@ -551,7 +593,9 @@ window.FAMILY_DATA = {
     "Obituary: Bucks County Courier Times c. 14–20 Aug 2008 (GenealogyBank/newspapers.com) and possibly Wilkes-Barre Times Leader — would name children, siblings, military service.",
     "Marriage date/place with Kathryn F. McGuire (not found).",
     "When did the family move to Levittown, PA (built 1952–58)?",
-    "Military service (Korea era): VA BIRLS / gravesite locator."
+    "Military service (Korea era): VA BIRLS / gravesite locator.",
+    "His 13 Aug 2008 obituary (Bucks County Courier Times, GenealogyBank/NewsBank) should name his nine children and any second wife.",
+    "Courier Times obituaries for Mary R. Meier (26 Nov 2003), Kathleen T. Meier (15 Aug 2006) and Fred Meier (15 Jul 2012), all Levittown: check whether they are his wife, siblings or children."
    ],
    "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -566,6 +610,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"James Meier\"; research uses \"James C. Meier\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner confirms nine children (Thomas Sr. plus seven brothers and one sister). Obituary not reachable from free sources; leads logged."
     }
    ]
   },
@@ -9889,13 +9937,13 @@ window.FAMILY_DATA = {
    "surname": "Petriello",
    "sex": "M",
    "birth": {
-    "date": "1933",
-    "place": "Wilkes-Barre, Luzerne, Pennsylvania, USA"
+    "date": "1932-05-19",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
    },
    "residences": [
     {
-     "date": "ABT 1958",
-     "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+     "date": "1932–2025",
+     "place": "Scranton, Pennsylvania, USA"
     }
    ],
    "citations": [
@@ -9931,26 +9979,33 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "Named as Sharon M. Petriello's father in the Ancestry tree; his marriage to Mary Cognetti is confirmed by Leo S. Cognetti's 2019 obituary (sister \"Mary Petriello (John)\"), and the 2024 obituary of John T. Petriello Jr. names the parents John and Mary Petriello and sibling \"Sharon Meier (Thomas)\". Parentage (James + Mollie) rests on the tree plus the Round 1/2 analysis that 'Mollie' is James's wife."
+    "note": "Sharon Meier's father; his 2025 obituary names Sharon and Tommy Meier and their sons Tommy, Johnny and Matthew."
    },
-   "tags": [],
-   "summary": "John's maternal grandfather; son of James Petriello and Carmela \"Mollie\" Gianetta of Dunmore/Scranton. The tree may show him as living; only what the files record is given here.",
-   "bio": "Ancestry tree: John T. Petriello, b. 1933, husband of Mary Cognetti (b. 1933), parents of Sharon M. Petriello (b. 1960). The tree lists his siblings as James and Ann Marie (1934). The tree originally showed his parents as James Petriello (1911-1998) + 'Mollie' (b. 1911); Round 1 established that Mollie is James's wife (John T.'s mother), not Mary Cognetti (the confusion arose because 'Mollie' is a pet form of Mary). Round 2 identified Mollie as Carmela Gianetta (1910-2000). Through his father he descends from Guardia Lombardi (Avellino) and through his mother from Bisaccia and Sant'Angelo dei Lombardi (Avellino), so he and the whole Petriello side are wholly Irpinian. The obituary of his son John T. Petriello Jr. (d. 29 Feb 2024) says John Jr. was the eldest of the three children of John and Mary Petriello, born and raised in Scranton. Living people were not researched beyond names already in the tree.",
+   "tags": [
+    "military"
+   ],
+   "summary": "Sharon Meier's father: Korean War Air Force veteran, Tobyhanna Army Depot staffing specialist who built its program for hiring severely handicapped workers, and for 14 years Director of Personnel at Lackawanna College.",
+   "bio": "John T. \"Johnny\" Petriello Sr. was born and raised in Scranton, the son of James and Mollie (Gianetta) Petriello. He graduated from Dunmore High School and attended New Mexico Western College, Lackawanna College and Penn State University.\n\nHe served four years in the US Air Force as a staff sergeant and was a Korean War veteran. He retired from Tobyhanna Army Depot as a Staffing Specialist and Depot Program Manager for the Handicapped; he had a passion for hiring severely handicapped people and his program earned the depot national recognition within the Department of the Army, including a citation from General William McGrath. After retiring from government service he was Director of Personnel at Lackawanna College for 14 years.\n\nA devout Catholic, he was a Eucharistic Minister at St. Anthony's Church, Scranton, and a member of Holy Rosary Church. He and his wife Mary spent decades of family vacations on the Jersey Shore and many winters in Cocoa Beach, Florida. He was an avid hunter who raised beagles and looked forward every year to the first week of buck season at hunting camp.\n\nHe died peacefully on 1 March 2025, aged 92, predeceased by his son John Jr. (2024). He was survived by his wife Mary Cognetti Petriello, daughter Sharon Meier and son-in-law Tommy Meier, son Paul and daughter-in-law Rebecca, daughter-in-law Joanne, nine grandchildren and four great-grandchildren, his sister Ann Marie Genello and his brother Jim Petriello (MaryEllen). His funeral Mass was at the Church of St. Gregory, Clarks Green, with private interment in Cathedral Cemetery, Scranton.",
    "facts": [
     {
-     "label": "Siblings (tree)",
-     "value": "James Petriello; Ann Marie Petriello (b. 1934)"
+     "label": "Siblings",
+     "value": "Sister Ann Marie Genello; brother Jim Petriello (wife MaryEllen)."
     },
     {
-     "label": "Tree display (IMG_7830-7840)",
-     "value": "John T Petriello 1933-Living"
+     "label": "Grandchildren",
+     "value": "Marisa (Zach) Westlake, John (Samantha) and James (Emily) Petriello; Tommy (Laura), Johnny (Shannon) and Matthew Meier; Jack and Mollie Petriello."
+    },
+    {
+     "label": "Great-grandchildren",
+     "value": "William, Alex and Olivia Westlake; Luca Meier."
     }
    ],
    "sources": [
     "Ancestry tree transcription (research/tree_transcription.md): John T. Petriello (b. 1933) + Mary Cognetti (b. 1933); siblings James, Ann Marie (1934)",
     "Echovita obituary of Leo S. Cognetti (2019), sister listed as \"Mary Petriello (John)\": https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
     "Montgomery News obituary of John T. Petriello Jr. (d. 29 Feb 2024): https://themontynews.org/single-post/john-t-petriello-jr-65",
-    "notes/italian.md section 2.3; notes/round2/italian_gaps.md sections 1 and 5"
+    "notes/italian.md section 2.3; notes/round2/italian_gaps.md sections 1 and 5",
+    "Obituary of John T. Petriello Sr., Solfanelli-Fiorillo Funeral Home, Scranton, March 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "mediaKnown": [
     "Ancestry tree profile (screenshot transcription)"
@@ -9972,9 +10027,56 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"John Thomas Petriello\"; research uses \"John T. Petriello\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Found his 2025 obituary: born 19 May 1932 (the tree said 1933), died 1 Mar 2025 Scranton; Air Force staff sergeant, Korean War; Tobyhanna Army Depot; Lackawanna College. Full text saved in research/people/I282695503435-obituary-2025.txt."
     }
    ],
-   "birthDateReduced": true
+   "suffix": "Sr.",
+   "nickname": "Johnny",
+   "death": {
+    "date": "2025-03-01",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
+   },
+   "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania, USA"
+   },
+   "occupation": "Staffing specialist and program manager, Tobyhanna Army Depot; later Director of Personnel, Lackawanna College",
+   "military": [
+    {
+     "branch": "US Air Force",
+     "service": "c.1951–1955",
+     "rank": "Staff Sergeant",
+     "theatre": "Korean War era",
+     "note": "Four years' service; Korean War veteran (2025 obituary)."
+    }
+   ],
+   "funFacts": [
+    "Known as Johnny.",
+    "Raised beagles and never missed the first week of buck season at hunting camp.",
+    "Wintered in Cocoa Beach, Florida, and summered on the Jersey Shore with the family."
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "Obituary of John T. Petriello Sr. (1932–2025)",
+     "date": "2025-03",
+     "source": "Solfanelli-Fiorillo Funeral Home, Scranton",
+     "note": "",
+     "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+     "people": [
+      "I282604492910",
+      "I282695503537",
+      "H0348",
+      "H0349",
+      "I282604492836",
+      "I282604492552",
+      "M0001",
+      "M0002"
+     ]
+    }
+   ]
   },
   {
    "id": "I282695503537",
@@ -9987,8 +10089,8 @@ window.FAMILY_DATA = {
    },
    "residences": [
     {
-     "date": "1950",
-     "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+     "date": "1933–",
+     "place": "Scranton, Pennsylvania, USA"
     }
    ],
    "citations": [
@@ -10024,23 +10126,19 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "Leo S. Cognetti's 2019 obituary lists sister \"Mary Petriello (John)\"; the 2016 Thanksgiving article names Mary Petriello as one of two surviving siblings of Joseph F. Cognetti; 1950 census lists Mary (17) at home with Frank and Helen Cognetti."
+    "note": "Sharon Meier's mother; named with husband John in her brothers' obituaries (2008, 2009, 2019) and in her husband's 2025 obituary."
    },
    "aka": [
     "Mary Petriello",
     "Mary Cognetti Petriello"
    ],
    "tags": [],
-   "summary": "John's maternal grandmother; youngest child of Frank Cognetti and Helen (Ferlaino) Cognetti of Scranton. Tree may show her living; only what files record is included.",
+   "summary": "Sharon Meier's mother, one of the eight Cognetti children of Frank and Helen (Ferlaino) Cognetti of Scranton; living as of March 2025.",
    "bio": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives.",
    "facts": [
     {
-     "label": "Age in Nov 2016",
-     "value": "83"
-    },
-    {
-     "label": "Tree display (IMG_7830-7840)",
-     "value": "Mary Cognetti 1933-Living"
+     "label": "Siblings",
+     "value": "Ralph, Salvatore, Joseph F. (Candy Hall of Fame), Angeline Butchko, Anthony R. (Scranton City Council president), John, Leo S. (d. 2019); Mary and Leo were the last surviving siblings at the 50th Cognetti Thanksgiving in 2016."
     }
    ],
    "sources": [
@@ -10048,7 +10146,12 @@ window.FAMILY_DATA = {
     "1950 US census, Frank Cognetti household (image): https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg ; index 6X1W-37K9 https://familysearch.org/ark:/61903/1:1:6X1W-37K9",
     "Hinerfeld/Times-Tribune reprint, 'Family celebrates 50 years of Thanksgiving gatherings' (30 Nov 2016): https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
     "Echovita obituary of Leo S. Cognetti (2019): https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
-    "Round 1 report correction 3n; notes/italian.md 2.3 and 3.1"
+    "Round 1 report correction 3n; notes/italian.md 2.3 and 3.1",
+    "Obituary of Leo S. Cognetti, 2019: https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
+    "Obituary of Anthony R. Cognetti, Scranton Times, 2008: https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "Obituary of Joseph F. Cognetti, Scranton Times, 2009: https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
+    "\"Family celebrates 50 years of Thanksgiving gatherings\", Scranton Times-Tribune via Hinerfeld, 30 Nov 2016: https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "mediaKnown": [
     "Ancestry tree profile",
@@ -10063,6 +10166,44 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Alive as of 1 Mar 2025 (husband's obituary). Aged 83 in Nov 2016 (Thanksgiving article), consistent with b. 1933. Listed as \"Mary Petriello (John)\" in Leo Cognetti's 2019 obituary."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "Obituary of her brother Leo S. Cognetti (2019)",
+     "date": "2019-07",
+     "source": "Echovita / James J. Terry Funeral Homes",
+     "note": "",
+     "url": "https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745"
+    },
+    {
+     "type": "link",
+     "title": "50th Cognetti family Thanksgiving, 2016 (Mary Petriello, 83, attended)",
+     "date": "2016-11-30",
+     "source": "Scranton Times-Tribune via Hinerfeld Commercial",
+     "note": "",
+     "url": "https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
+    },
+    {
+     "type": "link",
+     "title": "Obituary of her brother Anthony R. Cognetti (2008)",
+     "date": "2008",
+     "source": "Scranton Times via Legacy.com",
+     "note": "",
+     "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273"
+    },
+    {
+     "type": "link",
+     "title": "Obituary of her brother Joseph F. Cognetti (2009)",
+     "date": "2009",
+     "source": "Scranton Times via Legacy.com",
+     "note": "",
+     "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864"
     }
    ],
    "birthDateReduced": true
@@ -29085,31 +29226,40 @@ window.FAMILY_DATA = {
    "sex": "M",
    "suffix": "Jr.",
    "birth": {
-    "date": "ABT 1958",
-    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+    "date": "1958-12-29",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
    },
    "death": {
-    "date": "2024-02-29"
+    "date": "2024-02-29",
+    "place": "Skillman, Somerset, New Jersey, USA"
    },
    "occupation": "Financial advisor, Merrill Lynch (30 years)",
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Obituary names parents and surviving siblings 'Sharon Meier (Thomas)' and Paul."
+    "note": "Sharon Meier's brother; both his 2024 obituary and his father's 2025 obituary name her."
    },
    "tags": [],
-   "summary": "John's maternal uncle; Merrill Lynch financial advisor whose obituary independently confirms John's mother's family.",
-   "bio": "Eldest of the three children of John and Mary Petriello, born and raised in Scranton. Merrill Lynch financial advisor for 30 years; lived in Mendham, NJ, then Princeton. Died 29 Feb 2024 aged 65. Obituary names surviving siblings 'Sharon Meier (Thomas)' and Paul, and a cousin Ann Marie.",
+   "summary": "Sharon Meier's elder brother, a Merrill Lynch financial advisor for 30 years, who died at home in Skillman, New Jersey, in 2024.",
+   "bio": "John T. Petriello Jr. was born and raised in Scranton, the eldest of the three children of John and Mary Petriello. He lived in Mendham, New Jersey, for 25 years before moving to Princeton in 2021, and worked as a financial advisor at Merrill Lynch for 30 years. He loved golf, tennis, paddle tennis and skiing, coached youth sports, and spent family vacations at the Jersey Shore.\n\nHe died peacefully at home in Skillman on 29 February 2024, aged 65, survived by his wife of 38 years, Joanne, daughter Marissa Westlake (Zachary), sons John (Samantha) and James (Emily), three grandchildren, his sister Sharon Meier (Thomas), brother Paul Petriello (Rebecca) and cousin Ann Marie. His funeral Mass was at St. Paul's Catholic Church, Princeton; memorial gifts were asked for healingals.org.",
    "residences": [
     {
-     "place": "Mendham, Morris County, New Jersey, USA"
+     "date": "1958–",
+     "place": "Scranton, Pennsylvania, USA"
     },
     {
-     "place": "Princeton, Mercer County, New Jersey, USA"
+     "date": "c.1996–2021",
+     "place": "Mendham, New Jersey, USA"
+    },
+    {
+     "date": "2021–2024",
+     "place": "Princeton / Skillman, New Jersey, USA"
     }
    ],
    "sources": [
-    "Montgomery News obituary: https://themontynews.org/single-post/john-t-petriello-jr-65"
+    "Montgomery News obituary: https://themontynews.org/single-post/john-t-petriello-jr-65",
+    "Obituary of John T. Petriello Jr., Mather-Hodge Funeral Home, Princeton, March 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -29120,6 +29270,36 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Full obituary found (Mather-Hodge, Princeton): born 29 Dec 1958, died 29 Feb 2024 Skillman NJ. Text saved in research/people/H0348-obituary-2024.txt."
+    }
+   ],
+   "facts": [
+    {
+     "label": "Married",
+     "value": "Joanne, for 38 years (c.1986)."
+    },
+    {
+     "label": "Children",
+     "value": "Marissa (Westlake), John, James."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "Obituary of John T. Petriello Jr. (1958–2024)",
+     "date": "2024-03",
+     "source": "Mather-Hodge Funeral Home, Princeton",
+     "note": "",
+     "url": "https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+     "people": [
+      "I282604492910",
+      "H0349",
+      "I282695503435",
+      "I282695503537"
+     ]
     }
    ]
   },
@@ -29130,14 +29310,16 @@ window.FAMILY_DATA = {
    "sex": "M",
    "source": "research",
    "link": {
-    "confidence": "probable",
-    "note": "Named only as surviving sibling 'Paul' in John T. Petriello Jr.'s 2024 obituary; presumably living; not researched. Surname assumed."
+    "confidence": "confirmed",
+    "note": "Named as Sharon's brother in his brother's 2024 and father's 2025 obituaries."
    },
    "tags": [],
-   "summary": "John's maternal uncle (presumably living).",
+   "summary": "Sharon Meier's younger brother; a living person, so recorded only from family obituaries.",
    "bio": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary.",
    "sources": [
-    "https://themontynews.org/single-post/john-t-petriello-jr-65"
+    "https://themontynews.org/single-post/john-t-petriello-jr-65",
+    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -29148,6 +29330,20 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confirmed from the 2024 and 2025 Petriello obituaries; wife Rebecca, children Jack and Mollie."
+    }
+   ],
+   "facts": [
+    {
+     "label": "Married",
+     "value": "Rebecca."
+    },
+    {
+     "label": "Children",
+     "value": "Jack and Mollie."
     }
    ]
   },
@@ -32797,12 +32993,23 @@ window.FAMILY_DATA = {
     }
    ],
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "Owner's statement, 8 Oct 2026",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
      "note": "Added from the owner's statement: born 30 Jul 1990 at Alexandria City Hospital; lives in Ashburn, VA."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Named as a grandson in John T. Petriello Sr.'s 2025 obituary, listed as \"Tommy (Laura)\"."
+    }
+   ],
+   "facts": [
+    {
+     "label": "Partner (per obituary)",
+     "value": "Listed as \"Tommy (Laura)\" in grandfather John T. Petriello Sr.'s 2025 obituary; surname and status to be confirmed by the owner."
     }
    ],
    "birthDateReduced": true
@@ -32835,15 +33042,231 @@ window.FAMILY_DATA = {
     }
    ],
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "Owner's statement, 8 Oct 2026",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
      "note": "Added from the owner's statement: born 22 Jan 1998 at Inova Loudoun Hospital, Ashburn, VA; lives in Ashburn, VA."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Named (\"Mathew\") as a grandson in John T. Petriello Sr.'s 2025 obituary."
     }
    ],
    "birthDateReduced": true
+  },
+  {
+   "id": "M0003",
+   "given": "Ann Marie",
+   "surname": "Genello",
+   "sex": "F",
+   "aka": [
+    "Ann Marie Petriello"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "John T. Petriello Sr.'s sister (Sharon Meier's aunt), named in his 2025 obituary."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0004",
+   "given": "James",
+   "surname": "Petriello",
+   "sex": "M",
+   "nickname": "Jim",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "John T. Petriello Sr.'s brother Jim (wife MaryEllen), named in his 2025 obituary."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0005",
+   "given": "Joanne",
+   "surname": "Petriello",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Wife of John T. Petriello Jr. for 38 years, per his 2024 obituary."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0006",
+   "given": "Marissa",
+   "surname": "Westlake",
+   "sex": "F",
+   "aka": [
+    "Marissa Petriello",
+    "Marisa Westlake"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of John T. Petriello Jr. and Joanne; married Zachary Westlake; children William, Alexander and Olivia (2024/2025 obituaries)."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0007",
+   "given": "John",
+   "surname": "Petriello",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of John T. Petriello Jr. and Joanne; wife Samantha (2024/2025 obituaries)."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0008",
+   "given": "James",
+   "surname": "Petriello",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of John T. Petriello Jr. and Joanne; wife Emily (2024/2025 obituaries)."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0009",
+   "given": "Rebecca",
+   "surname": "Petriello",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Wife of Paul Petriello (2024/2025 obituaries)."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0010",
+   "given": "Jack",
+   "surname": "Petriello",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of Paul and Rebecca Petriello (2025 obituary)."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0011",
+   "given": "Mollie",
+   "surname": "Petriello",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of Paul and Rebecca Petriello (2025 obituary)."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the Petriello obituaries (2024, 2025)."
+    }
+   ],
+   "summary": "A living relative; recorded only from family obituaries.",
+   "sources": [
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
   }
  ],
  "families": [
@@ -35885,7 +36308,9 @@ window.FAMILY_DATA = {
   {
    "id": "HF0180",
    "children": [
-    "I282695503435"
+    "I282695503435",
+    "M0003",
+    "M0004"
    ],
    "husband": "I282695504010",
    "wife": "H0332",
@@ -36106,14 +36531,36 @@ window.FAMILY_DATA = {
    "wife": "H0514"
   },
   {
-   "id": "CF0383",
+   "id": "MF0001",
+   "husband": "H0348",
+   "wife": "M0005",
+   "marriage": {
+    "date": "ABT 1986"
+   },
+   "children": [
+    "M0006",
+    "M0007",
+    "M0008"
+   ]
+  },
+  {
+   "id": "MF0002",
+   "husband": "H0349",
+   "wife": "M0009",
+   "children": [
+    "M0010",
+    "M0011"
+   ]
+  },
+  {
+   "id": "CF0385",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0384",
+   "id": "CF0386",
    "children": [
     "I282608085305"
    ],
@@ -36122,7 +36569,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 349,
-  "research": 516
+  "research": 525
  },
  "stories": [
   {

@@ -19,12 +19,23 @@
     }
   ],
   "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "Owner's statement, 8 Oct 2026",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
   ],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Added from the owner's statement: born 30 Jul 1990 at Alexandria City Hospital; lives in Ashburn, VA."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Named as a grandson in John T. Petriello Sr.'s 2025 obituary, listed as \"Tommy (Laura)\"."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Partner (per obituary)",
+      "value": "Listed as \"Tommy (Laura)\" in grandfather John T. Petriello Sr.'s 2025 obituary; surname and status to be confirmed by the owner."
     }
   ]
 }

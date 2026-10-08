@@ -21,9 +21,94 @@
         "date": "1998-01-22",
         "place": "Inova Loudoun Hospital, Ashburn, Virginia, USA"
       }
+    },
+    {
+      "id": "M0003",
+      "given": "Ann Marie",
+      "surname": "Genello",
+      "sex": "F",
+      "aka": [
+        "Ann Marie Petriello"
+      ]
+    },
+    {
+      "id": "M0004",
+      "given": "James",
+      "surname": "Petriello",
+      "sex": "M",
+      "nickname": "Jim"
+    },
+    {
+      "id": "M0005",
+      "given": "Joanne",
+      "surname": "Petriello",
+      "sex": "F"
+    },
+    {
+      "id": "M0006",
+      "given": "Marissa",
+      "surname": "Westlake",
+      "sex": "F",
+      "aka": [
+        "Marissa Petriello",
+        "Marisa Westlake"
+      ]
+    },
+    {
+      "id": "M0007",
+      "given": "John",
+      "surname": "Petriello",
+      "sex": "M"
+    },
+    {
+      "id": "M0008",
+      "given": "James",
+      "surname": "Petriello",
+      "sex": "M"
+    },
+    {
+      "id": "M0009",
+      "given": "Rebecca",
+      "surname": "Petriello",
+      "sex": "F"
+    },
+    {
+      "id": "M0010",
+      "given": "Jack",
+      "surname": "Petriello",
+      "sex": "M"
+    },
+    {
+      "id": "M0011",
+      "given": "Mollie",
+      "surname": "Petriello",
+      "sex": "F"
     }
   ],
-  "families": [],
+  "families": [
+    {
+      "id": "MF0001",
+      "husband": "H0348",
+      "wife": "M0005",
+      "marriage": {
+        "date": "ABT 1986"
+      },
+      "children": [
+        "M0006",
+        "M0007",
+        "M0008"
+      ]
+    },
+    {
+      "id": "MF0002",
+      "husband": "H0349",
+      "wife": "M0009",
+      "children": [
+        "M0010",
+        "M0011"
+      ]
+    }
+  ],
   "familyUpdates": [],
   "setParents": [
     {
@@ -37,6 +122,18 @@
       "father": "I282604492836",
       "mother": "I282604492910",
       "reason": "Owner's statement, 8 Oct 2026."
+    },
+    {
+      "child": "M0003",
+      "father": "I282695504010",
+      "mother": "H0332",
+      "reason": "Named as John T. Petriello Sr.'s sister/brother in his 2025 obituary."
+    },
+    {
+      "child": "M0004",
+      "father": "I282695504010",
+      "mother": "H0332",
+      "reason": "Named as John T. Petriello Sr.'s sister/brother in his 2025 obituary."
     }
   ]
 }

@@ -2,22 +2,30 @@
   "id": "H0348",
   "link": {
     "confidence": "confirmed",
-    "note": "Obituary names parents and surviving siblings 'Sharon Meier (Thomas)' and Paul."
+    "note": "Sharon Meier's brother; both his 2024 obituary and his father's 2025 obituary name her."
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's maternal uncle; Merrill Lynch financial advisor whose obituary independently confirms John's mother's family.",
-  "bio": "Eldest of the three children of John and Mary Petriello, born and raised in Scranton. Merrill Lynch financial advisor for 30 years; lived in Mendham, NJ, then Princeton. Died 29 Feb 2024 aged 65. Obituary names surviving siblings 'Sharon Meier (Thomas)' and Paul, and a cousin Ann Marie.",
+  "summary": "Sharon Meier's elder brother, a Merrill Lynch financial advisor for 30 years, who died at home in Skillman, New Jersey, in 2024.",
+  "bio": "John T. Petriello Jr. was born and raised in Scranton, the eldest of the three children of John and Mary Petriello. He lived in Mendham, New Jersey, for 25 years before moving to Princeton in 2021, and worked as a financial advisor at Merrill Lynch for 30 years. He loved golf, tennis, paddle tennis and skiing, coached youth sports, and spent family vacations at the Jersey Shore.\n\nHe died peacefully at home in Skillman on 29 February 2024, aged 65, survived by his wife of 38 years, Joanne, daughter Marissa Westlake (Zachary), sons John (Samantha) and James (Emily), three grandchildren, his sister Sharon Meier (Thomas), brother Paul Petriello (Rebecca) and cousin Ann Marie. His funeral Mass was at St. Paul's Catholic Church, Princeton; memorial gifts were asked for healingals.org.",
   "residences": [
     {
-      "place": "Mendham, Morris County, New Jersey, USA"
+      "date": "1958–",
+      "place": "Scranton, Pennsylvania, USA"
     },
     {
-      "place": "Princeton, Mercer County, New Jersey, USA"
+      "date": "c.1996–2021",
+      "place": "Mendham, New Jersey, USA"
+    },
+    {
+      "date": "2021–2024",
+      "place": "Princeton / Skillman, New Jersey, USA"
     }
   ],
   "sources": [
-    "Montgomery News obituary: https://themontynews.org/single-post/john-t-petriello-jr-65"
+    "Montgomery News obituary: https://themontynews.org/single-post/john-t-petriello-jr-65",
+    "Obituary of John T. Petriello Jr., Mather-Hodge Funeral Home, Princeton, March 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
   ],
   "occupation": "Financial advisor, Merrill Lynch (30 years)",
   "handoff": {
@@ -29,6 +37,47 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Full obituary found (Mather-Hodge, Princeton): born 29 Dec 1958, died 29 Feb 2024 Skillman NJ. Text saved in research/people/H0348-obituary-2024.txt."
+    }
+  ],
+  "given": "John T.",
+  "surname": "Petriello",
+  "suffix": "Jr.",
+  "birth": {
+    "date": "1958-12-29",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "2024-02-29",
+    "place": "Skillman, Somerset, New Jersey, USA"
+  },
+  "facts": [
+    {
+      "label": "Married",
+      "value": "Joanne, for 38 years (c.1986)."
+    },
+    {
+      "label": "Children",
+      "value": "Marissa (Westlake), John, James."
+    }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "Obituary of John T. Petriello Jr. (1958–2024)",
+      "date": "2024-03",
+      "source": "Mather-Hodge Funeral Home, Princeton",
+      "note": "",
+      "url": "https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+      "people": [
+        "I282604492910",
+        "H0349",
+        "I282695503435",
+        "I282695503537"
+      ]
     }
   ]
 }

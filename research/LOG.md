@@ -4,6 +4,46 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Living family: Petriello side documented, Meier side blocked
+
+- Owner asked (8 Oct 2026) for research on his immediate living family:
+  his own household, Thomas F. Meier Sr.'s family and his seven brothers and
+  one sister from Levittown, and Sharon (Petriello) Meier's two brothers.
+  Rule applied: public records and obituaries only; no people-search sites,
+  no addresses or phone numbers; living people show birth years only.
+- **Found:** John T. "Johnny" Petriello Sr. (Sharon's father) died 1 Mar
+  2025 in Scranton, aged 92 (b. 19 May 1932, not 1933 as the tree had).
+  His obituary (Solfanelli-Fiorillo Funeral Home) gives: US Air Force staff
+  sergeant, Korean War; Tobyhanna Army Depot staffing specialist and
+  handicapped-hiring program manager; 14 years Director of Personnel at
+  Lackawanna College; wife Mary Cognetti Petriello living; children John Jr.
+  (d. 2024), Sharon (Tommy Meier) and Paul (Rebecca); grandchildren incl.
+  "Tommy (Laura), Johnny (Shannon) & Mathew" Meier; great-grandchild Luca
+  Meier; siblings Ann Marie Genello and Jim Petriello (MaryEllen). Buried
+  Cathedral Cemetery, Scranton. Text in research/people/I282695503435-obituary-2025.txt.
+- **Found:** John T. Petriello Jr. (b. 29 Dec 1958 Scranton, d. 29 Feb 2024
+  Skillman NJ), Merrill Lynch financial advisor 30 years, Mendham then
+  Princeton; wife Joanne (38 years), children Marissa Westlake (Zachary),
+  John (Samantha), James (Emily). Text in research/people/H0348-obituary-2024.txt.
+- Mary Cognetti Petriello: living as of Mar 2025; aged 83 in Nov 2016
+  (Cognetti Thanksgiving article); named in brothers Anthony (2008), Joseph
+  (2009) and Leo (2019) Cognetti obituaries.
+- Added to `data/additions-manual.json`: Ann Marie Genello and Jim Petriello
+  (John Sr.'s siblings), Joanne Petriello and children Marissa Westlake, John
+  and James, Rebecca Petriello and children Jack and Mollie. Source links
+  attached to the people concerned.
+- **Not found:** James C. Meier's Aug 2008 obituary (Bucks County Courier
+  Times) and therefore the names of Thomas Sr.'s eight siblings. It is
+  indexed only in paywalled archives (GenealogyBank/NewsBank, obitsarchive).
+  Legacy.com, Dignity, Patch, Find a Grave (blocked) and FamilySearch gave
+  nothing. Leads: Courier Times obituaries for Mary R. Meier (26 Nov 2003),
+  Kathleen T. Meier (15 Aug 2006) and Fred Meier (15 Jul 2012), all
+  Levittown. Kathryn (McGuire) Meier's Sept 1970 death notice (Times Leader)
+  likewise not online for free.
+- **Ask the owner:** names of his father's siblings (or a copy of James C.
+  Meier's 2008 obituary); whether Shannon and Laura should be added as
+  spouses/partners; whose son Luca is.
+
 ## 2026-10-08 — Owner's family details; story clean-up; phone crash fix
 
 - Owner's statement (8 Oct 2026): full name John Joseph Meier, born 16 Jun
