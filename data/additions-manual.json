@@ -93,7 +93,11 @@
         "date": "ABT 1955",
         "place": "Pennsylvania, USA"
       },
-      "nickname": "Kathy"
+      "nickname": "Kathy",
+      "aka": [
+        "Kathy Meier",
+        "Kathy McGinley"
+      ]
     },
     {
       "id": "M0013",
@@ -112,10 +116,14 @@
       "surname": "Meier",
       "sex": "M",
       "birth": {
-        "date": "ABT 1958",
+        "date": "BET 1958 AND 1959",
         "place": "Pennsylvania, USA"
       },
-      "nickname": "Jamie"
+      "nickname": "Jamie",
+      "aka": [
+        "Jamie Meier",
+        "Jaime Meier"
+      ]
     },
     {
       "id": "M0015",
@@ -136,7 +144,10 @@
       "birth": {
         "date": "ABT 1961",
         "place": "Pennsylvania, USA"
-      }
+      },
+      "aka": [
+        "Nancy Russo"
+      ]
     },
     {
       "id": "M0017",
@@ -160,7 +171,9 @@
       },
       "nickname": "Terry",
       "aka": [
-        "Teresa Meier"
+        "Terry Meier",
+        "Teresa Meier",
+        "Terry Borgman"
       ]
     },
     {
@@ -172,7 +185,7 @@
     {
       "id": "M0020",
       "given": "Laura",
-      "surname": "Meier",
+      "surname": "De Santis",
       "sex": "F"
     },
     {
@@ -225,6 +238,69 @@
       "birth": {
         "date": "ABT 1995"
       }
+    },
+    {
+      "id": "M0027",
+      "given": "Rick",
+      "surname": "McGinley",
+      "sex": "M"
+    },
+    {
+      "id": "M0028",
+      "given": "Marie",
+      "surname": "Meier",
+      "sex": "F"
+    },
+    {
+      "id": "M0029",
+      "given": "Sarah",
+      "surname": "Meier",
+      "sex": "F"
+    },
+    {
+      "id": "M0030",
+      "given": "Samantha",
+      "surname": "Meier",
+      "sex": "F"
+    },
+    {
+      "id": "M0031",
+      "given": "Anthony",
+      "surname": "Russo",
+      "sex": "M",
+      "aka": [
+        "Tony Russo"
+      ]
+    },
+    {
+      "id": "M0032",
+      "given": "Anthony",
+      "surname": "Russo",
+      "sex": "M"
+    },
+    {
+      "id": "M0033",
+      "given": "Chelsea",
+      "surname": "Russo",
+      "sex": "F"
+    },
+    {
+      "id": "M0034",
+      "given": "Gianna",
+      "surname": "Russo",
+      "sex": "F"
+    },
+    {
+      "id": "M0035",
+      "given": "Emily",
+      "surname": "Russo",
+      "sex": "F"
+    },
+    {
+      "id": "M0036",
+      "given": "",
+      "surname": "Borgman",
+      "sex": "M"
     }
   ],
   "families": [
@@ -275,6 +351,39 @@
         "M0025",
         "M0026"
       ]
+    },
+    {
+      "id": "MF0006",
+      "husband": "M0027",
+      "wife": "M0012",
+      "children": []
+    },
+    {
+      "id": "MF0007",
+      "husband": "M0014",
+      "wife": "M0028",
+      "children": [
+        "M0029",
+        "M0030"
+      ]
+    },
+    {
+      "id": "MF0008",
+      "husband": "M0031",
+      "wife": "M0016",
+      "children": [
+        "M0032",
+        "M0033",
+        "M0034",
+        "M0035"
+      ]
+    },
+    {
+      "id": "MF0009",
+      "husband": "M0036",
+      "wife": "M0018",
+      "status": "divorced",
+      "children": []
     }
   ],
   "familyUpdates": [],

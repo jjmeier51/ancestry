@@ -4,6 +4,56 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Deeper research on Thomas Sr. and his siblings
+
+- Owner's leads: Jamie (Chantilly VA, wife Marie, daughters Sarah and
+  Samantha, elementary principal, assistant football coach, East Stroudsburg
+  football); Kathy m. Rick McGinley; Nancy m. Anthony "Tony" Russo (children
+  Anthony, Chelsea, Gianna, Emily); Terry m. a Borgman, divorced; Laura's
+  surname is De Santis; Thomas Sr. head coach George Mason HS and Herndon HS,
+  Langley administrator, retired 2014, East Stroudsburg football with Jamie,
+  met Sharon there.
+- **Thomas F. Meier Sr. (`I282604492836`)** verified: ESU 2018 media guide
+  lists Tom Meier as a 1978–80 letterman; 1980 passing 45-71-521-3 TD, 7 TD
+  scored (42 pts), 2 rushing TD vs Bloomsburg, 58- and 55-yd TD catches.
+  Washington Post 20 Sep 1990 ("family affair": first-year Herndon coach,
+  brother Danny at West Potomac, brother Jamie on Danny's staff), 21 Sep
+  1991 (second brothers matchup, 49-6 in 1990), 24 Sep 1993 (No. 7 Herndon
+  beats Robinson in OT), 9 Oct 2003 (Guyer homecoming). Connection 2012
+  profiles of Jon Carman (22-8 in 1991–93, 8-2 in 1993) and Brandon Guyer
+  (7-4 in 2003, ended six-year playoff drought). Herndon HS lists football
+  district titles 1985 and 1990 (his first season). MaxPreps: 2006-07 head
+  coach Tom Meier 6-4, Joe Sheaffer from 2007. Langley's Saxon Scope names
+  Thomas Meier assistant principal and renovation-committee coordinator
+  2011–14. George Mason seasons: not in the Post archive (only a Feb 1985
+  story on the programme's Group A struggles). The Washington Post archive
+  is readable through the r.jina.ai text proxy (direct fetches 403); ledes
+  only, body paywalled on some pieces. Media: three guide pages attached,
+  16 links.
+- **Jamie (`M0014`)**: ESU letterman 1977–80, split end; All-PSAC East first
+  team 1979 (26-476-4; 215 yds at Bloomsburg, 11th-best single game in school
+  history; 102 at Cortland); 1980 leader 37-496-1; 69-yd TD from Frank Bell
+  1977. Washington Post 21 Dec 1989: "Jamie {Meier, Danny's brother and
+  offensive coordinator}" on the 1989 state-title trick play. Connection
+  7 Jun 2006: "Jaime Meier, an elementary-school principal" (school not
+  named; FCPS site search found no Meier principal page). Given name set to
+  James, aka Jaime. Wife Marie `M0028`, daughters `M0029`–`M0030`, `MF0007`.
+- Added in-laws from the owner: Rick McGinley `M0027` (`MF0006`), Tony Russo
+  `M0031` and children `M0032`–`M0035` (`MF0008`), Terry's former husband
+  Borgman `M0036` (`MF0009`, status `divorced`; site now labels former
+  spouses). Laura `M0020` surname → De Santis. Sharon: East Stroudsburg
+  added (owner).
+- Searched and found nothing public for Kathy/Rick McGinley, Nancy/Tony
+  Russo and children, Terry/Borgman, Susie, Jack (web search; no
+  people-search sites). A LinkedIn "Rick McGinley" in Newtown PA exists but
+  is unverified and not recorded. A Mike Meier (Robinson senior) was a 2006
+  Post All-Met honorable-mention running back while Danny was Robinson's
+  principal; noted on `M0023` as probable, unconfirmed.
+- Still wanted: James C. Meier's Aug 2008 Courier Times obituary (would give
+  married names and towns for all eight); season records for Tom at George
+  Mason and Herndon (VHSL/Post archive); Jamie's school; Susie and Jack's
+  married names/towns.
+
 ## 2026-10-08 — Danny Meier researched; maps feature
 
 - **Daniel F. "Danny" Meier (`M0013`)**, the owner's uncle: nose guard for Lou

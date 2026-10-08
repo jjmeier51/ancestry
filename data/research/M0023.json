@@ -9,10 +9,18 @@
     {
       "date": "2026-10-08",
       "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "A Mike Meier, Robinson Secondary senior, was a Washington Post All-Met honorable-mention running back in fall 2006, while Danny Meier was Robinson's principal. Probably this Mike; not confirmed. https://www.washingtonpost.com/wp-srv/sports/hssports/longterm/allmets/fall06/football.html"
     }
   ],
   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. An Army second lieutenant at Fort Sill in 2013.",
   "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
-  ]
+  ],
+  "openQuestions": [
+    "Confirm whether he is the Mike Meier named Washington Post All-Met honorable mention (running back, Robinson, 2006)."
+  ],
+  "manual": true
 }

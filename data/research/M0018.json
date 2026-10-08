@@ -9,9 +9,13 @@
     {
       "date": "2026-10-08",
       "note": "Added from the owner's list of his father's siblings (estimated birth year 1963, known as Terry)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner: was married to a Borgman, later divorced. No public record found by web search."
     }
   ],
-  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+  "summary": "Known as Terry (Theresa or Teresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt.",
   "sources": [
     "Owner's statement, 8 Oct 2026"
   ],
@@ -23,6 +27,14 @@
     }
   ],
   "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
-  ]
+    "Spelling of her first name (Theresa/Teresa); exact birth date; the Borgman husband's first name; where she lives; profession."
+  ],
+  "nickname": "Terry",
+  "facts": [
+    {
+      "label": "Married",
+      "value": "A Borgman; the marriage ended in divorce."
+    }
+  ],
+  "manual": true
 }
