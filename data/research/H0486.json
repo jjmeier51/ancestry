@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0486.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -26,7 +30,7 @@
     "date": "1682"
   },
   "occupation": "First Governor of New Jersey (1665-73) and of East Jersey (1674-82)",
-  "bio": "Married Elizabeth (Smith) Lawrence in 1681; she kept by prenuptial instrument the right to give her Lawrence lands to her Lawrence children, and he left her his whole East Jersey estate ([R4-S2]). Lawrence 1858 also says she managed the colony's affairs in his absence and that Elizabethtown was named for her; the naming claim is family tradition and conflicts with the usual explanation (see openQuestionsNew). In-law.",
+  "bio": "Philip Carteret was born in 1639 and served as the first Governor of New Jersey from 1665 to 1673 and of East Jersey from 1674 to 1682. In 1681 he married Elizabeth (Smith) Lawrence, who kept by a prenuptial agreement the right to leave her Lawrence lands to her Lawrence children; he in turn left her his whole East Jersey estate. According to a Lawrence family history, she managed the colony's affairs in his absence and Elizabethtown was named for her, though the naming is family tradition and conflicts with the usual explanation. He died in 1682. He is connected to John's family only by his marriage.",
   "openQuestions": [
     "Lawrence 1858 claims Elizabethtown, NJ, was named for Elizabeth (Smith) Carteret; New Jersey histories usually credit Lady Elizabeth Carteret, wife of proprietor Sir George Carteret. Verify before using the claim."
   ],
@@ -44,5 +48,7 @@
       "note": "Commons description calls it a 'portrait de l'explorateur Philip Carteret' and it lacks source information; it is used on the governor's Wikipedia article. Do not use for the governor. (not downloaded: rights unknown)",
       "people": []
     }
-  ]
+  ],
+  "researchNotes": "Married Elizabeth (Smith) Lawrence in 1681; she kept by prenuptial instrument the right to give her Lawrence lands to her Lawrence children, and he left her his whole East Jersey estate ([R4-S2]). Lawrence 1858 also says she managed the colony's affairs in his absence and that Elizabethtown was named for her; the naming claim is family tradition and conflicts with the usual explanation (see openQuestionsNew). In-law.",
+  "summary": "First Governor of New Jersey and of East Jersey, who married Elizabeth (Smith) Lawrence in 1681; related to John's Smith line only by marriage."
 }

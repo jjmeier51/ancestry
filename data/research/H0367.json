@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nSam came over from Italy with his mother about 1909 and was working at a coal breaker by 1920 ([R4-S1], [R4-S2]). His wife was Mamie (Dominica Maria) Bocchicchio, named 'Mamie ... Bocchio' as the mother of their daughter Angelica A. Genett on Angelica's 1947 marriage license. Angelica married Irving J. Weibel at Dunmore on 19 Apr 1947 ([R4-S3]).",
+  "summary": "Bisaccia-born coal-breaker worker of Dunmore known as Sam Genett, brother of Carmela \"Mollie\" Gianetta; John's great-granduncle.",
+  "bio": "Savino Giannetta, known in America as Sam Genett or Genet, was born about 1897 at Bisaccia, Italy. He came over with his mother about 1909, and the family settled in Dunmore, Pennsylvania, where they lived through the 1910s and 1920s; by 1920 Sam was working at a coal breaker. His brothers and sisters included Carmela \"Mollie\", John's great-grandmother, Mariano Martin (1899–1941), Maria (born 1902), Antonio (1907–1998), Giuseppe (1912–1971), Rosa (born 1914) and Charles J. (1916–1975).\n\nSam married Mamie (Dominica Maria) Bocchicchio. Their daughter Angelica A. Genett married Irving J. Weibel at Dunmore on 19 April 1947. Sam died in 1964. He is John's great-granduncle.",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
     "notes/round2/italian_gaps.md 1",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0367.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -57,5 +61,6 @@
       "place": "133 Sand St, Dunmore, PA",
       "note": "'Sam', 21, laborer at a coal breaker [R4-S2]"
     }
-  ]
+  ],
+  "researchNotes": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nSam came over from Italy with his mother about 1909 and was working at a coal breaker by 1920 ([R4-S1], [R4-S2]). His wife was Mamie (Dominica Maria) Bocchicchio, named 'Mamie ... Bocchio' as the mother of their daughter Angelica A. Genett on Angelica's 1947 marriage license. Angelica married Irving J. Weibel at Dunmore on 19 Apr 1947 ([R4-S3])."
 }

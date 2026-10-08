@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of John's 3rd-great-grandmother Catherine Scott (John's 3rd-great-grand-aunt).",
-  "bio": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 9 in 1850.\n\nFamilySearch gives Caroline's married name as Cook, wife of John E. Cook (1833-1882), in the 1870 and 1880 censuses, with children from 1861. It also lists her in Stephen Scott's 1850 household ([R4-S1]).",
+  "summary": "Daughter of Stephen and Julia Ann Scott of Kingston and wife of John E. Cook; John's 3rd-great-grand-aunt.",
+  "bio": "Caroline H. Scott was born in 1841, probably a daughter of Stephen and Julia Ann Scott of Kingston; she was nine years old in Stephen Scott's household in 1850. She married John E. Cook (1833–1882), and the couple, who had children from 1861, appear together in the 1870 and 1880 censuses. She died in 1895.",
   "sources": [
     "FamilySearch (Scott children)",
     "1850 census Kingston Twp dwelling 262",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0221.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -40,5 +44,6 @@
       "label": "FamilySearch ID",
       "value": "9KXX-MHC"
     }
-  ]
+  ],
+  "researchNotes": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 9 in 1850.\n\nFamilySearch gives Caroline's married name as Cook, wife of John E. Cook (1833-1882), in the 1870 and 1880 censuses, with children from 1861. It also lists her in Stephen Scott's 1850 household ([R4-S1])."
 }

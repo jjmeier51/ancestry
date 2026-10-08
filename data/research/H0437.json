@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0437.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -53,9 +57,11 @@
       "value": "LCTB-XHG"
     }
   ],
-  "bio": "Clark Smith Davenport was a son of Stephen Davenport (b. 1751) and Sarah Smith, and a grandson of Oliver Davenport of the Philipstown (Putnam Co., NY) Davenports, which made him a cousin of the Plymouth Davenports. He married Temperance Pringle of Plymouth, daughter of Samuel and Martha (Lamoreux) Pringle, on 16 Oct 1825; they lived 11 years in Ohio, and he died in 1875 and was buried in Plymouth ([R4-S1]). Their nine children were James (1826), Ziba Samuel (1829-1895), Martha (1830), Sarah Lydia (1831-1918), Samuel Marshall (1834-1920, m. 1861 Harriet Gould), Charles (1836), Lydia (1837-1918), Clark (1840) and William (1843) ([R4-S1], [R4-S2]). The FamilySearch tree has him in Plymouth for the 1830, 1850 and 1860 censuses and in Washington Twp., Wood Co., Ohio, in 1870, so the Ohio years were probably about 1865-75 ([R4-S2]).",
+  "bio": "Clark Smith Davenport was born in 1803, by family record at Smith's Clove, now Monroe, in Orange Co., NY. He was a son of Stephen Davenport, born in 1751, and Sarah Smith, and a grandson of Oliver Davenport of the Philipstown Davenports of Putnam Co., NY, which made him a cousin of the Davenports of Plymouth. On 16 October 1825 he married Temperance Pringle of Plymouth, daughter of Samuel and Martha (Lamoreux) Pringle.\n\nThe family lived in Plymouth Twp. through the 1830s, 1840s and 1850s and then spent eleven years in Ohio, where they were living in Washington Twp., Wood Co., in 1870; the Ohio years were probably about 1865 to 1875. Their nine children were James (1826), Ziba Samuel (1829–1895), Martha (1830), Sarah Lydia (1831–1918), Samuel Marshall (1834–1920), who married Harriet Gould in 1861, Charles (1836), Lydia (1837–1918), Clark (1840) and William (1843). Clark died in 1875 and was buried in Plymouth.",
   "sources": [
     "[R4-S1] Giles & Franklin, Thomas Davenport ... and his Descendants (1962), p.329 (secondary) https://archive.org/details/thomasdavenportp00gile",
     "[R4-S2] FamilySearch Family Tree (published), Clark Smith Davenport LCTB-XHG and Temperance Pringle K8G2-K9C (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LCTB-XHG"
-  ]
+  ],
+  "researchNotes": "Clark Smith Davenport was a son of Stephen Davenport (b. 1751) and Sarah Smith, and a grandson of Oliver Davenport of the Philipstown (Putnam Co., NY) Davenports, which made him a cousin of the Plymouth Davenports. He married Temperance Pringle of Plymouth, daughter of Samuel and Martha (Lamoreux) Pringle, on 16 Oct 1825; they lived 11 years in Ohio, and he died in 1875 and was buried in Plymouth ([R4-S1]). Their nine children were James (1826), Ziba Samuel (1829-1895), Martha (1830), Sarah Lydia (1831-1918), Samuel Marshall (1834-1920, m. 1861 Harriet Gould), Charles (1836), Lydia (1837-1918), Clark (1840) and William (1843) ([R4-S1], [R4-S2]). The FamilySearch tree has him in Plymouth for the 1830, 1850 and 1860 censuses and in Washington Twp., Wood Co., Ohio, in 1870, so the Ohio years were probably about 1865-75 ([R4-S2]).",
+  "summary": "Husband of Temperance Pringle of Plymouth (1803–1875), a Davenport from Orange County, New York, who spent eleven years in Ohio and was buried in Plymouth."
 }

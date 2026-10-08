@@ -10,8 +10,8 @@
     "Charity Lamoree"
   ],
   "tags": [],
-  "summary": "John's 7th-great-grandmother; daughter of Capt. Thomas Davenport of Philipstown and mother of Ensign Thomas Lamoreaux.",
-  "bio": "Charity Davenport was a daughter of Capt. Thomas Davenport (1682-1759) of Philipstown; which of his wives was her mother is unchecked (the second wife Elizabeth was 'believed' to be a Leggett). In 1752 her father deeded Goshen-precinct land to 'Charity Lamoree, wife of John Lamoree', next to her brother Oliver Davenport. The 1919 Lamoureux Record calls her 'Charity Danforth' - 'Danforth's' was simply how people in the Hudson Highlands said 'Davenport's'; it even appears on Erskine's Revolutionary map of West Point.\n\nThe text of her father's will, printed in the Davenport genealogy, settles her mother. The will names the first family (Thomas, William, and the children of his daughters Sarah Mandeville, Mary Henion and Elizabeth Nelson) separately from 'my Children, Oliver, Charity, Phebe, Robert, Hannah, Stephen, and Abigail Davenport'. Those seven were still to be brought up by his wife Elizabeth and paid their shares as they came of age ([R4-S1]). Charity was therefore a daughter of the second wife, Elizabeth. The will also shows she was an unmarried minor (under 18) when it was made in 1746. She was 'Charity Lamoree, wife of John Lamoree' by the July 1752 deed, so she married between 1746 and 1752. That conflicts with the book's own statement that she married in 1745 and that her son Thomas was born in 1745 ([R4-S1]). The second wife's maiden name Leggett is only 'believed' in the book: she is supposed to be a sister of Sarah, Martha and Alice Leggett of Fordham, and the first wife is also only 'believed' to be Sarah Leggett ([R4-S1]).",
+  "summary": "Daughter of Capt. Thomas Davenport of Philipstown, wife of John Lamoree and mother of Ensign Thomas Lamoreaux; John's 7th-great-grandmother.",
+  "bio": "Charity Davenport was a daughter of Capt. Thomas Davenport (1682-1759) of Philipstown, in what is now Putnam County, New York, by his second wife Elizabeth, who is believed to have been a Leggett of Fordham. Her father's will, made in 1746, names her among 'my Children, Oliver, Charity, Phebe, Robert, Hannah, Stephen, and Abigail Davenport', the younger family who were still to be brought up by his wife Elizabeth and paid their shares as they came of age, which shows that Charity was then an unmarried minor. By 29 July 1752, when her father deeded her land in Goshen precinct, Orange County, next to her brother Oliver's, she was 'Charity Lamoree, wife of John Lamoree'. She therefore married between 1746 and 1752, though the family genealogy also says she married in 1745 and that her son Thomas was born that year, and the two statements cannot both be right.\n\nShe was the mother of Ensign Thomas Lamoreaux and John's 7th-great-grandmother. A family record printed in 1919 calls her 'Charity Danforth', but 'Danforth's' was simply how people in the Hudson Highlands said 'Davenport's'; the same form appears on Erskine's Revolutionary map of West Point.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp. xvii, 355-361",
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0073.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -65,5 +69,6 @@
       "found": "Between 1746 and July 1752",
       "assessment": "The 1746 will treats Charity as an unmarried minor named Davenport, so a 1745 marriage, and a 1745 birth for son Thomas, look too early. Unless the will was older than its stated date, Thomas was probably born c.1747-1752."
     }
-  ]
+  ],
+  "researchNotes": "Charity Davenport was a daughter of Capt. Thomas Davenport (1682-1759) of Philipstown; which of his wives was her mother is unchecked (the second wife Elizabeth was 'believed' to be a Leggett). In 1752 her father deeded Goshen-precinct land to 'Charity Lamoree, wife of John Lamoree', next to her brother Oliver Davenport. The 1919 Lamoureux Record calls her 'Charity Danforth' - 'Danforth's' was simply how people in the Hudson Highlands said 'Davenport's'; it even appears on Erskine's Revolutionary map of West Point.\n\nThe text of her father's will, printed in the Davenport genealogy, settles her mother. The will names the first family (Thomas, William, and the children of his daughters Sarah Mandeville, Mary Henion and Elizabeth Nelson) separately from 'my Children, Oliver, Charity, Phebe, Robert, Hannah, Stephen, and Abigail Davenport'. Those seven were still to be brought up by his wife Elizabeth and paid their shares as they came of age ([R4-S1]). Charity was therefore a daughter of the second wife, Elizabeth. The will also shows she was an unmarried minor (under 18) when it was made in 1746. She was 'Charity Lamoree, wife of John Lamoree' by the July 1752 deed, so she married between 1746 and 1752. That conflicts with the book's own statement that she married in 1745 and that her son Thomas was born in 1745 ([R4-S1]). The second wife's maiden name Leggett is only 'believed' in the book: she is supposed to be a sister of Sarah, Martha and Alice Leggett of Fordham, and the first wife is also only 'believed' to be Sarah Leggett ([R4-S1])."
 }

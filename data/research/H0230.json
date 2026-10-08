@@ -10,8 +10,8 @@
     "Elnathan Topping of Sagg"
   ],
   "tags": [],
-  "summary": "John's 10th-great-grandfather, of Sagg (Sagaponack); gravestone at Bridgehampton.",
-  "bio": "Capt. Elnathan Topping of Sagg (1640–1705); recorded children 1664–1682; gravestone at Bridgehampton. In 1686 his father deeded Southampton lands to sons Elnathan and James. The Toppings lived at Sagg (Sagaponack) and Bridgehampton.\n\nSavage records Elnathan's baptism at Milford on 2 Aug 1640, son of Thomas and Emma Topping, and his father's 1686 deed of the Southampton lands to Elnathan and James ([R4-S1]). Weygant (1897) gives his birth as 'Aug. 6, 1640' ([R4-S2]).",
+  "summary": "Captain Elnathan Topping of Sagg, baptized at Milford, Connecticut, in 1640, who held the Southampton lands his father gave him; John's 10th-great-grandfather.",
+  "bio": "Elnathan Topping, known as Captain Elnathan Topping of Sagg, was baptized at Milford, Connecticut, on 2 August 1640, the son of Thomas and Emma Topping; one later account gives his birth as 6 August of that year. He settled at Sagg, now Sagaponack, in the town of Southampton, where his children were recorded between 1664 and 1682. In October 1686 his father deeded his Southampton lands to Elnathan and his brother James. The Toppings lived at Sagg and Bridgehampton, and Elnathan died in 1705; his gravestone stands at Bridgehampton. He is John's 10th-great-grandfather.",
   "residences": [
     {
       "date": "BET 1664 AND 1705",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0230.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -87,5 +91,6 @@
       "found": "bapt. 2 Aug 1640 (Savage); 'born Aug. 6, 1640' (Weygant)",
       "assessment": "Prefer the Milford church baptism of 2 Aug 1640; Weygant's 6 Aug is probably a misreading."
     }
-  ]
+  ],
+  "researchNotes": "Capt. Elnathan Topping of Sagg (1640–1705); recorded children 1664–1682; gravestone at Bridgehampton. In 1686 his father deeded Southampton lands to sons Elnathan and James. The Toppings lived at Sagg (Sagaponack) and Bridgehampton.\n\nSavage records Elnathan's baptism at Milford on 2 Aug 1640, son of Thomas and Emma Topping, and his father's 1686 deed of the Southampton lands to Elnathan and James ([R4-S1]). Weygant (1897) gives his birth as 'Aug. 6, 1640' ([R4-S2])."
 }

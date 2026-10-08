@@ -16,7 +16,7 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 3rd great-aunt; sister of Henry J. Meier.",
+  "summary": "Born Maria Mayer at Munzingen in Baden, she married Henry Rose and raised four daughters at Hazleton; John's 3rd-great-aunt and sister of Henry J. Meier.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "1870 census Hazleton East Ward p.42 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/0/image.jpg",
@@ -51,6 +51,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085065.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -97,7 +101,7 @@
       "value": "GRCN-TFK"
     }
   ],
-  "bio": "Mary was born at Munzingen on 3 Sept 1864 at four in the afternoon and baptized the next day as 'Maria Mayer, legitimate daughter of the local citizen and mason Friedrich Mayer and Marianna Birkenmaier, both Catholic' ([R4-S1]). She is indexed as 'Mayer Maria d. Friedrich, p. 526'. This corrects the tree's birth year of 1865, and the 1865 Munzingen birth index has no Mayer child of Friedrich. The FamilySearch tree has her marriage to Henry Rose in 1885, four daughters, and her death at Hazleton on 9 Dec 1938 ([R4-S2]).",
+  "bio": "Mary Meier was born Maria Mayer at Munzingen on 3 September 1864, at four in the afternoon, and was baptized the next day as the \"legitimate daughter of the local citizen and mason Friedrich Mayer and Marianna Birkenmaier, both Catholic\". Some records give her birth year as 1865, but the Munzingen baptism settles it as 1864. She was a sister of John's 2nd-great-grandfather Henry J. Meier.\n\nIn Pennsylvania she married Henry Rose at Hazleton in 1885 and had four daughters, among them Josephine, who named her mother at her own marriage to a Flynn in 1920. Mary died at Hazleton, Luzerne County, on 9 December 1938 and was buried there.",
   "openQuestions": [
     "PA death index 1938 (Rose, Mary, Hazleton, Dec 1938) for the certificate number."
   ],
@@ -115,5 +119,6 @@
       ],
       "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-473"
     }
-  ]
+  ],
+  "researchNotes": "Mary was born at Munzingen on 3 Sept 1864 at four in the afternoon and baptized the next day as 'Maria Mayer, legitimate daughter of the local citizen and mason Friedrich Mayer and Marianna Birkenmaier, both Catholic' ([R4-S1]). She is indexed as 'Mayer Maria d. Friedrich, p. 526'. This corrects the tree's birth year of 1865, and the 1865 Munzingen birth index has no Mayer child of Friedrich. The FamilySearch tree has her marriage to Henry Rose in 1885, four daughters, and her death at Hazleton on 9 Dec 1938 ([R4-S2])."
 }

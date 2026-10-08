@@ -9,8 +9,8 @@
     "Johann Peter Grub (1655)"
   ],
   "tags": [],
-  "summary": "John's 8th-great-grandfather; Kirchenzensor (church elder) of Jettenbach from 1700 - the earliest Grub at Jettenbach.",
-  "bio": "Baptized 28 Feb 1655 at Berschweiler; married 19 Oct 1694 at Glan-Münchweiler; Kirchenzensor (church elder) at Jettenbach from 1700; died at Jettenbach 15 Oct 1739. The family moved from Oberbrombach to Berschweiler to Jettenbach in the generations after the Thirty Years' War.\n\nJohann Peter Grub married twice. The Reichenbach register shows him with a wife Gretha Catharina at the baptism of his daughter Anna Catharina in Aug 1684, and with Margretha Catharina at a daughter's baptism in 1687 ([R4-S1], [R4-S2]). FamilySearch gives that first wife's death as before Oct 1694 and has her children born from 1679 to 1694, ending with Johann Nickel. On 19 Oct 1694 at Glan-Münchweiler he married Elisabetha Catharina Jung (c.1674-1734), daughter of Paul Jung, and had at least eight more children ([R4-S3]). The 1694 marriage is the date the site gives for him, but the site attaches it to a single wife, 'Gretha Catharina Jung', which merges the two women (see H0078).",
+  "summary": "Church elder of Jettenbach in the Palatinate, baptized at Berschweiler in 1655; John's 8th-great-grandfather.",
+  "bio": "Johann Peter Grub was baptized on 28 February 1655 at Berschweiler bei Kirn, Birkenfeld, Rhineland-Palatinate, Germany. In the generations after the Thirty Years' War his family moved from Oberbrombach to Berschweiler and then to Jettenbach, where from 1700 he served as Kirchenzensor, or church elder. He died at Jettenbach on 15 October 1739.\n\nHe married twice. His first wife, Gretha Catharina, also written Margretha Catharina, stood with him at the baptisms of their daughters Anna Catharina in August 1684 and Margretha Catharina in 1687 in the Reichenbach Lutheran parish; her children were born between 1679 and 1694, the last being Johann Nickel, and she died before October 1694. On 19 October 1694, at Glan-Münchweiler, he married Elisabetha Catharina Jung (about 1674–1734), daughter of Paul Jung, and had at least eight more children with her. Some family records run the two wives together as a single \"Gretha Catharina Jung\". He was John's 8th-great-grandfather.",
   "sources": [
     "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191772: https://gedbas.genealogy.net/person/show/1193191772",
     "[R4-S1] Reichenbach Lutheran register, baptisms 1684 p.7: Anna Catharina, daughter of Peter Grub and Gretha Catharina of Jettenbach (image attached to FamilySearch PSFH-GPD) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/1/image.jpg",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0077.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -83,5 +87,6 @@
         "H0078"
       ]
     }
-  ]
+  ],
+  "researchNotes": "Baptized 28 Feb 1655 at Berschweiler; married 19 Oct 1694 at Glan-Münchweiler; Kirchenzensor (church elder) at Jettenbach from 1700; died at Jettenbach 15 Oct 1739. The family moved from Oberbrombach to Berschweiler to Jettenbach in the generations after the Thirty Years' War.\n\nJohann Peter Grub married twice. The Reichenbach register shows him with a wife Gretha Catharina at the baptism of his daughter Anna Catharina in Aug 1684, and with Margretha Catharina at a daughter's baptism in 1687 ([R4-S1], [R4-S2]). FamilySearch gives that first wife's death as before Oct 1694 and has her children born from 1679 to 1694, ending with Johann Nickel. On 19 Oct 1694 at Glan-Münchweiler he married Elisabetha Catharina Jung (c.1674-1734), daughter of Paul Jung, and had at least eight more children ([R4-S3]). The 1694 marriage is the date the site gives for him, but the site attaches it to a single wife, 'Gretha Catharina Jung', which merges the two women (see H0078)."
 }

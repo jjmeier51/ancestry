@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probable 6th great-uncle of John; hunter and tailor.",
-  "bio": "Owned house No. 36 in Oberbirken.",
+  "summary": "Hunter and tailor of Oberbirken; probably John's 6th-great-uncle.",
+  "bio": "Jakob Heitzler was born in 1781 and died in 1847. A hunter and tailor by trade, he owned a house, number 36, in Oberbirken. He was probably John's 6th-great-uncle.",
   "sources": [
     "GEDBAS 1262175038 https://gedbas.genealogy.net/person/show/1262175038"
   ],
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0040.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Owned house No. 36 in Oberbirken."
 }

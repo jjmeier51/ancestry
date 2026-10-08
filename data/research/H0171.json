@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 7x removed.",
-  "bio": "Son of George P. Ransom and Elizabeth Lamoreaux (1808-1893).\n\nMunsell (1880) and Bradsby (1893) both say that George P. Ransom's sawmill of 1815 wore out and that 'his son Chester' built a new one in 1840 ([R4-S1], [R4-S2]). Bradsby's biography of a Mr. Frisbie says that in 1890 Frisbie bought 'the old mill property of Chester Ransom' on Harvey's Creek, which had a fall of eighteen feet, renovated it and added a cider mill ([R4-S1]).",
+  "summary": "Sawmill owner on Harvey's Creek in Jackson Township, Luzerne County, and son of George P. Ransom and Elizabeth Lamoreaux; John's 1st cousin 7 times removed.",
+  "bio": "Chester Ransom (1808–1893) was a son of George P. Ransom and Elizabeth Lamoreaux, which makes him John's 1st cousin 7 times removed. His father's sawmill of 1815 on Harvey's Creek in Jackson Township, Luzerne County, Pennsylvania, eventually wore out, and in 1840 Chester built a new one. The mill had a fall of eighteen feet. In 1890 a Mr. Frisbie bought 'the old mill property of Chester Ransom', renovated it and added a cider mill.",
   "sources": [
     "research/notes/round2/colonial_cousins.md 2f",
     "[R4-S1] H. C. Bradsby, History of Luzerne County (1893), p.589 and Frisbie biography (Jackson Twp.) (secondary) https://archive.org/details/historyofluzerne00brad",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0171.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "Sawmill owner, Jackson Twp.",
@@ -48,5 +52,6 @@
       "place": "Harvey's Creek, Jackson Twp., Luzerne Co., PA",
       "description": "Replaced his father's 1815 mill. The 'old mill property of Chester Ransom' on Harvey's Creek (18-ft fall) was bought in 1890 by Mr. Frisbie, who rebuilt it and added a cider mill. [R4-S1] [R4-S2]"
     }
-  ]
+  ],
+  "researchNotes": "Son of George P. Ransom and Elizabeth Lamoreaux (1808-1893).\n\nMunsell (1880) and Bradsby (1893) both say that George P. Ransom's sawmill of 1815 wore out and that 'his son Chester' built a new one in 1840 ([R4-S1], [R4-S2]). Bradsby's biography of a Mr. Frisbie says that in 1890 Frisbie bought 'the old mill property of Chester Ransom' on Harvey's Creek, which had a fall of eighteen feet, renovated it and added a cider mill ([R4-S1])."
 }

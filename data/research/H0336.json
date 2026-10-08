@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's maternal 3rd great-grandmother; daughter of a Bisaccia shepherd, mother of Frank Giannetta.",
-  "bio": "Married Savino Giannetta at Bisaccia on 20 Jul 1867 (Matrimoni 1867, act 17) aged 18 (born c.1849); daughter of Bartolomeo Fede, pecoraio, and Luigia(?) Roberto. Living in 1896 when her son Frank married (act 18).\n\nAngelamaria's FamilySearch profile (LCXQ-84D) carries three indexed Avellino records, including the 1867 marriage (6J4L-ZFYB) and a record grouped with Savino (89S6-17N2). It names her parents as Bartolomeo Fede and Nunzianna Roberto (married 10 Jul 1835) ([R4-S1]). The child profiles give her children as Francesco (1869), Lucia (1872), Antonio (1874–1903), Lucia (1877–1878), Maria Giuseppa (1880), Nunzianda (c.1885–1888) and Bartolomeo (1889). If her c.1849 birth is right, her last child was born when she was about 40 ([R4-S1], [R4-S2]).",
+  "summary": "Daughter of a Bisaccia shepherd, wife of Savino Giannetta and mother of Frank Giannetta; John's maternal 3rd-great-grandmother.",
+  "bio": "Angelamaria Fede was born about 1849 at Bisaccia in Avellino, the daughter of Bartolomeo Fede, a pecoraio or shepherd, and his wife, a Roberto whose first name is given as Nunzianna in one record and, less clearly, as Luigia in another; her parents had married on 10 July 1835. At 18 she married Savino Giannetta at Bisaccia on 20 July 1867. Their children were Francesco, born in 1869, Lucia (1872), Antonio (1874–1903), a second Lucia (1877–1878), Maria Giuseppa (1880), Nunzianda (about 1885–1888) and Bartolomeo (1889); if her birth year is right, her last child was born when she was about 40. She was still living in 1896 when her son Frank married. She is John's maternal 3rd-great-grandmother.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
     "Antenati, Bisaccia, Matrimoni 1896, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua445513/5glz731",
@@ -39,6 +39,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0336.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Married Savino Giannetta at Bisaccia on 20 Jul 1867 (Matrimoni 1867, act 17) aged 18 (born c.1849); daughter of Bartolomeo Fede, pecoraio, and Luigia(?) Roberto. Living in 1896 when her son Frank married (act 18).\n\nAngelamaria's FamilySearch profile (LCXQ-84D) carries three indexed Avellino records, including the 1867 marriage (6J4L-ZFYB) and a record grouped with Savino (89S6-17N2). It names her parents as Bartolomeo Fede and Nunzianna Roberto (married 10 Jul 1835) ([R4-S1]). The child profiles give her children as Francesco (1869), Lucia (1872), Antonio (1874–1903), Lucia (1877–1878), Maria Giuseppa (1880), Nunzianda (c.1885–1888) and Bartolomeo (1889). If her c.1849 birth is right, her last child was born when she was about 40 ([R4-S1], [R4-S2])."
 }

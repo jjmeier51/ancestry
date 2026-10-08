@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's maternal 4th great-grandfather; a pecoraio (shepherd) of Bisaccia.",
-  "bio": "Father of Angelamaria Fede; occupation pecoraio (shepherd), per Bisaccia Matrimoni 1867 act 17.\n\nThe FamilySearch tree gives Bartolomeo's birth as about 1811 in Bisaccia, his marriage to Nunzianna Roberto as 10 Jul 1835, and his parents as Giuseppe Fede (c.1758 – 12 Jan 1829) and Angela Maria Loffa (1780 – after 1835) ([R4-S1], [R4-S2]). Giuseppe's father was another Bartolomeo Fede, so the name ran in the family. Round 3 found Bartolomeo working as a pecoraio (shepherd) in 1867.",
+  "summary": "Shepherd of Bisaccia in Campania and father of Angelamaria Fede; John's maternal 4th-great-grandfather.",
+  "bio": "Bartolomeo Fede was born about 1811 at Bisaccia, Avellino, in Campania, a son of Giuseppe Fede (about 1758 to 12 January 1829) and Angela Maria Loffa (born 1780 and still living in 1835). The name ran in the family: his grandfather was also a Bartolomeo Fede. On 10 July 1835 he married Nunzianna Roberto at Bisaccia; one record may give her name as Luigia. He worked as a pecoraio, or shepherd, and was still following that trade in 1867. Through his daughter Angelamaria he was John's maternal 4th-great-grandfather.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
     "notes/round3/italian_origins.md 3",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0343.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -49,5 +53,6 @@
       "place": "Bisaccia",
       "description": "Per FS tree. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Father of Angelamaria Fede; occupation pecoraio (shepherd), per Bisaccia Matrimoni 1867 act 17.\n\nThe FamilySearch tree gives Bartolomeo's birth as about 1811 in Bisaccia, his marriage to Nunzianna Roberto as 10 Jul 1835, and his parents as Giuseppe Fede (c.1758 – 12 Jan 1829) and Angela Maria Loffa (1780 – after 1835) ([R4-S1], [R4-S2]). Giuseppe's father was another Bartolomeo Fede, so the name ran in the family. Round 3 found Bartolomeo working as a pecoraio (shepherd) in 1867."
 }

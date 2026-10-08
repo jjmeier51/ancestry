@@ -5,8 +5,8 @@
     "note": "Tree only; Marsico is a San Mango surname (68 stati entries; x5 in 1990s directory) but this woman is not verified."
   },
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Chiarello pedigree.",
-  "bio": "Tree: Giulia Marsico (1712-Deceased).",
+  "summary": "An ancestor in the Chiarello line born about 1712, whose connection to John's family has not been proven.",
+  "bio": "Giulia Marsico was born about 1712. Family records place her in the Chiarello line of John's ancestry, but that part of the pedigree is not supported by records and her link to the family remains unproven.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815457.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Giulia Marsico (1712-Deceased)."
 }

@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of I282824816503 (proven)."
   },
   "tags": [],
-  "summary": "Father of Maria Colosimo (d",
-  "bio": "Father of Maria Colosimo (d. 1845), wife of Vincenzo Ferlaino; his wife was Carmela Cicco. Direct ancestor.",
+  "summary": "Husband of Carmela Cicco and father of Maria Colosimo, the wife of Vincenzo Ferlaino; John's 6th-great-grandfather.",
+  "bio": "Andrea Colosimo married Carmela Cicco. Their daughter Maria Colosimo, who died in 1845, married Vincenzo Ferlaino, and through her Andrea is John's 6th-great-grandfather.",
   "sources": [
     "[R4-S1] San Mango d'Aquino, stato civile, Civil deaths 1845, image 1401, act 5, 23 Jan 1845; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1801-1811 (Book 19), image 25, p. 46, no. 2; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1801-1811'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
@@ -16,6 +16,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-808 → M0058; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Father of Maria Colosimo (d. 1845), wife of Vincenzo Ferlaino; his wife was Carmela Cicco. Direct ancestor."
 }

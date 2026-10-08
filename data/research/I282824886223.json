@@ -8,6 +8,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824886223.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -18,8 +22,10 @@
     "date": "1831-12-08",
     "place": "Albany, New York (FamilySearch)"
   },
-  "bio": "FamilySearch (profile 'Sarah Scott') gives her birth at Shutesbury, Mass., on 12 Nov 1741 from a Massachusetts births index entry for Sarah Chamberlain, and her death on 8 Dec 1831 at Albany, NY, with a Find a Grave index entry as 'Sarah Chamberlain Scott'; a Vermont vital record for her son Jonathan Scott names her ([R4-S1]). As with her husband Matthew, her place in Johnny's ancestry depends on the undocumented Daniel Scott link.",
+  "bio": "Sarah Elizabeth Chamberlain was born on 12 November 1741 at Shutesbury, Hampshire County, Massachusetts. She married Matthew Scott, and a Vermont record of their son Jonathan Scott names her as his mother. She died on 8 December 1831 at Albany, New York, and is remembered as Sarah Chamberlain Scott. As with her husband, her place as John's 6th-great-grandmother rests on the still undocumented link through Daniel Scott.",
   "sources": [
     "[R4-S1] FamilySearch published tree, Sarah Scott (GF8N-M3N), citing Massachusetts Births and Christenings (ark 1:1:FC3J-3HY), Find a Grave index (1:1:QV2Y-KVQJ), Vermont Vital Records (1:1:V8MB-MFD) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GF8N-M3N"
-  ]
+  ],
+  "researchNotes": "FamilySearch (profile 'Sarah Scott') gives her birth at Shutesbury, Mass., on 12 Nov 1741 from a Massachusetts births index entry for Sarah Chamberlain, and her death on 8 Dec 1831 at Albany, NY, with a Find a Grave index entry as 'Sarah Chamberlain Scott'; a Vermont vital record for her son Jonathan Scott names her ([R4-S1]). As with her husband Matthew, her place in Johnny's ancestry depends on the undocumented Daniel Scott link.",
+  "summary": "Massachusetts-born wife of Matthew Scott who died at Albany in 1831; John's 6th-great-grandmother if the Scott line holds."
 }

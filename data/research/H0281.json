@@ -9,8 +9,8 @@
     "Senator Joshua B. Smith"
   ],
   "tags": [],
-  "summary": "John's 3rd cousin 7x removed (Job → Job 2d → Epenetus → Deborah → Joshua B.), also 4C6R and 4C7R; last master of the Hauppauge estate.",
-  "bio": "Buried in Hauppauge Rural Cemetery (former Methodist churchyard, 473 Townline Road). His daughter Ellen left in 1861 on marrying Dr. Jarvis R. Mowbray; the farm was sold in 1868. HABS NY-5414 'Joshua Brewster Smith House' photographs at the Library of Congress.",
+  "summary": "Last master of the Smith family's Hauppauge estate on Long Island; John's 3rd cousin 7 times removed.",
+  "bio": "Joshua Brewster Smith (1801–1860) was the last of his family to preside over the Smith estate at Hauppauge on Long Island. He descended from Bull Smith of Smithtown through Job Smith, Job Smith 2d, Epenetus Smith and Deborah Smith, which makes him John's 3rd cousin seven times removed; by other lines he is also a 4th cousin six and seven times removed.\n\nAfter his death the estate did not stay long in the family. His daughter Ellen left in 1861 on her marriage to Dr. Jarvis R. Mowbray, and the farm was sold in 1868. He was buried in Hauppauge Rural Cemetery, the former Methodist churchyard on Townline Road. His home, known as the Joshua Brewster Smith House, was later photographed for the Historic American Buildings Survey, and the photographs are held by the Library of Congress.",
   "sources": [
     "Find a Grave 38871768, https://www.findagrave.com/memorial/38871768",
     "Wood (1920)",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0281.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -54,5 +58,6 @@
       ],
       "url": "https://commons.wikimedia.org/wiki/File:Joshua_Brewster_Smith_House,_Hauppauge,_Suffolk_County,_NY_HABS_NY,52-HAUP,1-1.tif"
     }
-  ]
+  ],
+  "researchNotes": "Buried in Hauppauge Rural Cemetery (former Methodist churchyard, 473 Townline Road). His daughter Ellen left in 1861 on marrying Dr. Jarvis R. Mowbray; the farm was sold in 1868. HABS NY-5414 'Joshua Brewster Smith House' photographs at the Library of Congress."
 }

@@ -9,8 +9,8 @@
     "Josephine Heffernan Wagner"
   ],
   "tags": [],
-  "summary": "John's 2nd-great-grand-aunt; nurse who lived to 100.",
-  "bio": "Josephine R. Heffernan (30 Dec 1883 - 8 Mar 1984) graduated as a nurse from St. Joseph's Hospital, Reading, in 1906 (Wilkes-Barre Record, 31 Mar 1906), married George J. Wagner, moved to California, and died at Alameda aged 100.\n\nFamilySearch identifies her husband as George Julius Wagner (b. California 27 Jan 1876, d. 1927; WWI draft registration in Alameda Co.), and two daughters, Josephine Eugenia (1909-1976) and Mary Georgia (1911-2008). She was widowed at about 43 and lived another 57 years, in Piedmont, Berkeley and Oakland ([R4-S1], [R4-S2]).",
+  "summary": "Nurse trained at Reading who moved to California with her husband George Wagner and lived to 100; John's 2nd-great-grand-aunt.",
+  "bio": "Josephine R. Heffernan was born on 30 December 1883. She trained as a nurse, graduating from St. Joseph's Hospital at Reading in 1906, and married George Julius Wagner, a Californian born on 27 January 1876. The couple settled in California, where they had two daughters, Josephine Eugenia (1909–1976) and Mary Georgia (1911–2008).\n\nGeorge died in 1927, leaving Josephine a widow at about 43. She lived another 57 years, in Piedmont, Berkeley and Oakland, and died at Alameda, California, on 8 March 1984, aged 100. She rests in the Chapel of the Chimes Columbarium and Mausoleum at Oakland.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "[R4-S1] FamilySearch Family Tree (published), Josephine R Hefferman (1883-1984), PID G3Q2-PCB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3Q2-PCB",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0117.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -61,5 +65,6 @@
       "label": "FamilySearch ID",
       "value": "G3Q2-PCB"
     }
-  ]
+  ],
+  "researchNotes": "Josephine R. Heffernan (30 Dec 1883 - 8 Mar 1984) graduated as a nurse from St. Joseph's Hospital, Reading, in 1906 (Wilkes-Barre Record, 31 Mar 1906), married George J. Wagner, moved to California, and died at Alameda aged 100.\n\nFamilySearch identifies her husband as George Julius Wagner (b. California 27 Jan 1876, d. 1927; WWI draft registration in Alameda Co.), and two daughters, Josephine Eugenia (1909-1976) and Mary Georgia (1911-2008). She was widowed at about 43 and lived another 57 years, in Piedmont, Berkeley and Oakland ([R4-S1], [R4-S2])."
 }

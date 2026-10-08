@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Daughter of Johann Casper Doll (possible 7th-great-grand-aunt).",
-  "bio": "Elizabeth Doll (1753-1829), m. Christopher Stecher; the Stechers also married into the Grubs.\n\nFamilySearch's daughter of Casper Doll and Margaretha Dietz is Elizabeth Margaret Doll (22 Feb 1754 - 23 Oct 1788). She married Christopher Engel (1757-1838) in Plainfield Twp on 11 Aug 1776 and had children there in 1780-87 ([R4-S1]). That differs from the site's Elizabeth (1753-1829), wife of Christopher Stecher. Casper's other daughter Anna Catharina married a Stecher (Lewis), which may be where the confusion started.",
+  "summary": "Daughter of Johann Casper Doll who married Christopher Stecher; possibly John's 7th-great-grand-aunt.",
+  "bio": "Elizabeth Doll was born in 1753 in Plainfield Township, a daughter of Johann Casper Doll, and married Christopher Stecher; the Stechers also married into the Grub family. Family records say she died in 1829.\n\nThe records disagree, however. Another account of Casper Doll's daughters has an Elizabeth Margaret Doll, born 22 February 1754, who married Christopher Engel in Plainfield Township on 11 August 1776, had children there between 1780 and 1787, and died on 23 October 1788. Casper's other daughter Anna Catharina married Lewis Stecher, which may be where the confusion began. If she was Casper's daughter, Elizabeth is possibly John's 7th-great-grand-aunt.",
   "sources": [
     "WikiTree Doll-526: https://www.wikitree.com/wiki/Doll-526",
     "[R4-S1] FamilySearch published tree, Elizabeth Doll (LVKY-RKG), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LVKY-RKG"
@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0216.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -70,5 +74,6 @@
       "label": "FamilySearch ID",
       "value": "LVKY-RKG"
     }
-  ]
+  ],
+  "researchNotes": "Elizabeth Doll (1753-1829), m. Christopher Stecher; the Stechers also married into the Grubs.\n\nFamilySearch's daughter of Casper Doll and Margaretha Dietz is Elizabeth Margaret Doll (22 Feb 1754 - 23 Oct 1788). She married Christopher Engel (1757-1838) in Plainfield Twp on 11 Aug 1776 and had children there in 1780-87 ([R4-S1]). That differs from the site's Elizabeth (1753-1829), wife of Christopher Stecher. Casper's other daughter Anna Catharina married a Stecher (Lewis), which may be where the confusion started."
 }

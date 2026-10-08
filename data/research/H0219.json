@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of John's 3rd-great-grandmother Catherine Scott (John's 3rd-great-grand-aunt).",
-  "bio": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable).\n\nFamilySearch gives Elizabeth's married name as Millheim (Milheine, Millhime), wife of Jacob Millheim (1830-1908). It shows her in the 1870 and 1880 censuses with children born from 1859 and gives her death as 31 Mar 1917; her Find a Grave entry is indexed as 'Elizabeth Scott Millheim' ([R4-S1]).",
+  "summary": "Daughter of Stephen and Julia Ann Scott of Kingston and wife of Jacob Millheim; sister of John's 3rd-great-grandmother Catherine Scott.",
+  "bio": "Elizabeth Scott was born in 1829, probably a daughter of Stephen and Julia Ann Scott of Kingston, Pennsylvania, and so a sister of John's 3rd-great-grandmother Catherine Scott. She married Jacob Millheim (1830-1908), whose name was also spelled Milheine and Millhime, and the couple appear in the 1870 and 1880 censuses with children born from 1859 onward. She died on 31 March 1917 and is remembered as Elizabeth Scott Millheim.",
   "sources": [
     "FamilySearch (Scott children)",
     "1850 census Kingston Twp dwelling 262",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0219.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -43,5 +47,6 @@
       "label": "FamilySearch ID",
       "value": "L1KQ-SRM"
     }
-  ]
+  ],
+  "researchNotes": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable).\n\nFamilySearch gives Elizabeth's married name as Millheim (Milheine, Millhime), wife of Jacob Millheim (1830-1908). It shows her in the 1870 and 1880 censuses with children born from 1859 and gives her death as 31 Mar 1917; her Find a Grave entry is indexed as 'Elizabeth Scott Millheim' ([R4-S1])."
 }

@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0446.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -41,8 +45,10 @@
       "description": "[R4-S1]"
     }
   ],
-  "bio": "The Harvey Book's Nesbitt genealogy gives Samuel Ackley's dates as born 14 Jun 1792, died 14 Aug 1824, and says he married Keturah Lamoreux (b. 18 Feb 1791, d. 9 Dec 1842), daughter of Thomas and Keturah (Tuttle) Lamoreux, on 18 Jun 1815 ([R4-S1]). He died at 32, leaving at least two children. Alba A. Ackley (b. 10 Oct 1818) married Hannah Nesbitt at Plymouth on 29 Jan 1846, moved to La Porte, Indiana, and died there on 4 Dec 1885. Jane Ackley (b. Plymouth 18 Sep 1823) married James Madison Nesbitt on 23 Sep 1841 ([R4-S1]).",
+  "bio": "Samuel Ackley was born on 14 June 1792. On 18 June 1815 he married Keturah Lamoreux (18 February 1791 – 9 December 1842), daughter of Thomas and Keturah (Tuttle) Lamoreux. He died on 14 August 1824, aged 32, leaving at least two children. Their son Alba A. Ackley, born 10 October 1818, married Hannah Nesbitt at Plymouth on 29 January 1846, moved to La Porte, Indiana, and died there on 4 December 1885. Their daughter Jane, born at Plymouth on 18 September 1823, married James Madison Nesbitt on 23 September 1841.",
   "sources": [
     "[R4-S1] Harvey, The Harvey Book (1899), Nesbitt genealogy entries (36) James Madison Nesbitt and (40) Hannah Nesbitt, pp.360-363 (secondary) https://archive.org/details/harveybookgiving00harv"
-  ]
+  ],
+  "researchNotes": "The Harvey Book's Nesbitt genealogy gives Samuel Ackley's dates as born 14 Jun 1792, died 14 Aug 1824, and says he married Keturah Lamoreux (b. 18 Feb 1791, d. 9 Dec 1842), daughter of Thomas and Keturah (Tuttle) Lamoreux, on 18 Jun 1815 ([R4-S1]). He died at 32, leaving at least two children. Alba A. Ackley (b. 10 Oct 1818) married Hannah Nesbitt at Plymouth on 29 Jan 1846, moved to La Porte, Indiana, and died there on 4 Dec 1885. Jane Ackley (b. Plymouth 18 Sep 1823) married James Madison Nesbitt on 23 Sep 1841 ([R4-S1]).",
+  "summary": "Husband of Keturah Lamoreux, daughter of Thomas and Keturah (Tuttle) Lamoreux, who died in 1824 aged 32, leaving young children at Plymouth."
 }

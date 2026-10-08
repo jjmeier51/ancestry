@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Signer of the Declaration of Independence; John's 3rd cousin 8x removed via Bull Smith (formerly also 4C8R via Brewster — affected by the probable Brewster disproof).",
-  "bio": "His sister Ruth married Gen. Nathaniel Woodhull. A 'Charles A. Floyd' gave $1 to the Hauppauge church in 1816 — very likely the Smithtown-born congressman, but no source connects him to the Mastic Floyds.\n\nPath verified in Pelletreau ([R4-S1]): Bull Smith -> Jonathan (eldest son, m. Sarah Brewster) -> Jonathan 2d (b. 9 Nov 1676, m. Elizabeth Platt) -> Tabitha (b. 18 Feb 1704, d. 17 Jan 1755, m. Nicoll Floyd, d. 8 Mar 1755 aged 50) -> William, signer of the Declaration: 3rd cousin 8 times removed. Pelletreau lists his siblings Ruth (Mrs Gen. Nathaniel Woodhull), Tabitha (Mrs Daniel Smith), Nicoll, Charles, Charity (Mrs Ezra L'Hommedieu), Mary (Mrs Edmund Smith), Catherine (Mrs Gen. Thomas Thomas) and Anna (Mrs Hugh Smith).",
+  "summary": "Signer of the Declaration of Independence and great-great-grandson of Bull Smith; John's 3rd cousin 8 times removed.",
+  "bio": "William Floyd, born 17 December 1734, was a signer of the Declaration of Independence. His mother Tabitha Smith (1704-1755) was a daughter of Jonathan Smith 2d and Elizabeth Platt and a granddaughter of Bull Smith's eldest son Jonathan, who married Sarah Brewster; his father, Nicoll Floyd, died in March 1755 aged 50. That descent makes William John's 3rd cousin 8 times removed. He was once also counted a cousin through the Brewster line, but that connection has probably been disproved.\n\nHis sister Ruth married General Nathaniel Woodhull. His other siblings were Tabitha (Mrs Daniel Smith), Nicoll, Charles, Charity (Mrs Ezra L'Hommedieu), Mary (Mrs Edmund Smith), Catherine (Mrs Gen. Thomas Thomas) and Anna (Mrs Hugh Smith).",
   "sources": [
     "Uploaded deep-dive report",
     "Wood (1920) pp. 52–54",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0286.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -48,5 +52,6 @@
       "people": [],
       "url": "https://commons.wikimedia.org/wiki/File:William_floyd.jpg"
     }
-  ]
+  ],
+  "researchNotes": "His sister Ruth married Gen. Nathaniel Woodhull. A 'Charles A. Floyd' gave $1 to the Hauppauge church in 1816 — very likely the Smithtown-born congressman, but no source connects him to the Mastic Floyds.\n\nPath verified in Pelletreau ([R4-S1]): Bull Smith -> Jonathan (eldest son, m. Sarah Brewster) -> Jonathan 2d (b. 9 Nov 1676, m. Elizabeth Platt) -> Tabitha (b. 18 Feb 1704, d. 17 Jan 1755, m. Nicoll Floyd, d. 8 Mar 1755 aged 50) -> William, signer of the Declaration: 3rd cousin 8 times removed. Pelletreau lists his siblings Ruth (Mrs Gen. Nathaniel Woodhull), Tabitha (Mrs Daniel Smith), Nicoll, Charles, Charity (Mrs Ezra L'Hommedieu), Mary (Mrs Edmund Smith), Catherine (Mrs Gen. Thomas Thomas) and Anna (Mrs Hugh Smith)."
 }

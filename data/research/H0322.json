@@ -8,8 +8,8 @@
   "tags": [
     "military"
   ],
-  "summary": "Illinois Congressman, colonel of the 8th Illinois Cavalry, brevet brigadier general; John's 6th cousin 6x removed via Hammond.",
-  "bio": "Path: Lt. John Hammond → Abigail (m. John Hastings) → John Hastings → Hannah (m. Lt. David Farnsworth, captured by Indians at No. 4 in 1757) → Samuel → John → John F. Samuel Farnsworth, drummer at Bunker Hill, is 4C8R.\n\nHammond ([R4-S1]) gives each generation: William Hammond (I) -> Lt. John Hammond (II) -> Abigail (III, m. John Hastings) -> John Hastings (IV) -> Hannah Hastings (V, b. Watertown 1716/17, m. 15 Aug 1735 Lt. David Farnsworth, a settler of 'No. 4' Charlestown, N.H., captured by the French and Indians in April 1757, escaped after seventeen days) -> Samuel Farnsworth (VI, b. 1750, drummer at Bunker Hill, later in Canada) -> John (VII, b. Stoddard, N.H., 15 May 1783, surveyor, d. Michigan 1844) -> John Franklin (VIII, b. 27 Mar 1820). 6th cousin 6 times removed.",
+  "summary": "Illinois Congressman, colonel of the 8th Illinois Cavalry and brevet brigadier general; John's 6th cousin 6x removed through the Hammonds.",
+  "bio": "John Franklin Farnsworth was born on 27 March 1820 at Eaton, Quebec, in Canada. In the Civil War he was colonel of the 8th Illinois Cavalry and was brevetted brigadier general, and he represented Illinois in Congress. He died on 14 July 1897.\n\nHis descent from the Hammonds of Watertown runs from William Hammond through Lt. John Hammond; his daughter Abigail, who married John Hastings; their son John Hastings; and his daughter Hannah Hastings, born at Watertown in 1716/17, who on 15 August 1735 married Lt. David Farnsworth, a settler of 'No. 4', Charlestown, New Hampshire, who was captured by the French and Indians in April 1757 and escaped after seventeen days. Their son Samuel Farnsworth, born in 1750, was a drummer at Bunker Hill and later lived in Canada; his son John, born at Stoddard, New Hampshire, on 15 May 1783, was a surveyor who died in Michigan in 1844 and was the Congressman's father. John F. Farnsworth is John's 6th cousin six times removed, and Samuel Farnsworth the drummer is his 4th cousin eight times removed.",
   "military": [
     {
       "branch": "US Army (Union)",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0322.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -93,5 +97,6 @@
   },
   "death": {
     "date": "1897-07-14"
-  }
+  },
+  "researchNotes": "Path: Lt. John Hammond → Abigail (m. John Hastings) → John Hastings → Hannah (m. Lt. David Farnsworth, captured by Indians at No. 4 in 1757) → Samuel → John → John F. Samuel Farnsworth, drummer at Bunker Hill, is 4C8R.\n\nHammond ([R4-S1]) gives each generation: William Hammond (I) -> Lt. John Hammond (II) -> Abigail (III, m. John Hastings) -> John Hastings (IV) -> Hannah Hastings (V, b. Watertown 1716/17, m. 15 Aug 1735 Lt. David Farnsworth, a settler of 'No. 4' Charlestown, N.H., captured by the French and Indians in April 1757, escaped after seventeen days) -> Samuel Farnsworth (VI, b. 1750, drummer at Bunker Hill, later in Canada) -> John (VII, b. Stoddard, N.H., 15 May 1783, surveyor, d. Michigan 1844) -> John Franklin (VIII, b. 27 Mar 1820). 6th cousin 6 times removed."
 }

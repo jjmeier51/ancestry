@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0517.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -37,9 +41,11 @@
     "Richard Smith 5th",
     "Richard Smith, Esq., of Nissequogue"
   ],
-  "bio": "This record is the key to a closer cousinship for the J. Lawrence Smith family. Pelletreau ([R4-S1]) makes him the son of Richard Smith 4th (d. 1811), whose parents were Ebenezer Smith (son of Richard 2d) and Anna, daughter of Job Smith 2d, son of Job Smith 1st, John's own 10th-great-grandfather. Path via Job: Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th, 4 generations below John's 10th-great-grandparents: 3rd cousin 7 times removed (and 3C8R via Bull Smith -> Richard 2d -> Ebenezer). His mother Sarah was a daughter of Edmund Smith 2d and Charity, another daughter of Job 2d, so he descends from Job 2d twice. Children with Eliza W. Nicoll: Hon. Edward Henry, Judge John Lawrence, Sarah (Mrs I. B. Fenno), Ann Eliza (Mrs Elliott Robins), Marcia (Mrs Crutchett) and Charlotte E. (Mrs David Harries).",
+  "bio": "Richard Smith (1770–1831), known as Richard Smith 5th or Richard Smith, Esq., of Nissequogue, was the son of Richard Smith 4th, who died in 1811, and Sarah Smith. His father's parents were Ebenezer Smith, a son of Richard Smith 2d, and Anna, a daughter of Job Smith 2d; his mother was a daughter of Edmund Smith 2d and Charity, another daughter of Job Smith 2d, so he descended from Job 2d twice over. Job Smith 1st, father of Job 2d, was John's 10th-great-grandfather, which makes Richard John's 3rd cousin seven times removed, and by the line from Bull Smith through Richard 2d and Ebenezer a 3rd cousin eight times removed. This is the closest link between John and the family of Judge J. Lawrence Smith.\n\nWith his wife Eliza W. Nicoll he had six children: the Hon. Edward Henry Smith, Judge John Lawrence Smith, Sarah, who married I. B. Fenno, Ann Eliza, who married Elliott Robins, Marcia, who married a Crutchett, and Charlotte E., who married David Harries.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog",
     "[R4-S2] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 475-476 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
-  ]
+  ],
+  "researchNotes": "This record is the key to a closer cousinship for the J. Lawrence Smith family. Pelletreau ([R4-S1]) makes him the son of Richard Smith 4th (d. 1811), whose parents were Ebenezer Smith (son of Richard 2d) and Anna, daughter of Job Smith 2d, son of Job Smith 1st, John's own 10th-great-grandfather. Path via Job: Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th, 4 generations below John's 10th-great-grandparents: 3rd cousin 7 times removed (and 3C8R via Bull Smith -> Richard 2d -> Ebenezer). His mother Sarah was a daughter of Edmund Smith 2d and Charity, another daughter of Job 2d, so he descends from Job 2d twice. Children with Eliza W. Nicoll: Hon. Edward Henry, Judge John Lawrence, Sarah (Mrs I. B. Fenno), Ann Eliza (Mrs Elliott Robins), Marcia (Mrs Crutchett) and Charlotte E. (Mrs David Harries).",
+  "summary": "Richard Smith, Esq., of Nissequogue, father of Judge J. Lawrence Smith; John's 3rd cousin 7 times removed."
 }

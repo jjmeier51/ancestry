@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0460.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -37,7 +41,7 @@
   "aka": [
     "Christopher Stacher"
   ],
-  "bio": "WikiTree (Stecher-38, a GEDCOM import citing Find a Grave memorial 78699319) gives Christopher Stacher/Stecher as son of Johann Melchior Stecher and Anna Eva Christina (Kauffmann) Stecher, born 1749/50 in Bucks County. It says he died 15 Jun 1831 in Washington County, PA, and was buried at the Dutch Lutheran Cemetery, Ginger Hill. It names his wife as 'Elizabeth Brotzman or Doll' ([R4-S1]). The wife's profile (Doll-526, b. Apr 1753, d. 4 May 1829) is an unsourced 2015 GEDCOM import from an Ancestry tree ([R4-S2]).",
+  "bio": "Christopher Stecher, whose name was also written Stacher, was born in Bucks County, Pennsylvania, on 8 April 1749 or 1750, according to published genealogies, which make him a son of Johann Melchior Stecher and Anna Eva Christina Kauffmann. The same accounts name his wife as Elizabeth Brotzman or Doll, born in April 1753 and died on 4 May 1829, though her identity rests on a genealogy that cites no records. He died in Washington County, Pennsylvania, on 15 June 1831 and was buried at the Dutch Lutheran Cemetery at Ginger Hill. His connection to John's family is possible but not proven.",
   "conflicts": [
     {
       "field": "wife's maiden name",
@@ -49,5 +53,7 @@
   "sources": [
     "[R4-S1] WikiTree profile Stecher-38 (Christopher Stacher), citing Find a Grave 78699319 (derivative) https://api.wikitree.com/api.php?action=getProfile&key=Doll-526&fields=Name,FirstName,BirthDate,DeathDate,Spouses,Bio&bioFormat=text",
     "[R4-S2] WikiTree profile Doll-526 (Elizabeth Doll), GEDCOM import 2015 (derivative) https://api.wikitree.com/api.php?action=getProfile&key=Doll-526&fields=Name,FirstName,BirthDate,DeathDate,Spouses,Bio&bioFormat=text"
-  ]
+  ],
+  "researchNotes": "WikiTree (Stecher-38, a GEDCOM import citing Find a Grave memorial 78699319) gives Christopher Stacher/Stecher as son of Johann Melchior Stecher and Anna Eva Christina (Kauffmann) Stecher, born 1749/50 in Bucks County. It says he died 15 Jun 1831 in Washington County, PA, and was buried at the Dutch Lutheran Cemetery, Ginger Hill. It names his wife as 'Elizabeth Brotzman or Doll' ([R4-S1]). The wife's profile (Doll-526, b. Apr 1753, d. 4 May 1829) is an unsourced 2015 GEDCOM import from an Ancestry tree ([R4-S2]).",
+  "summary": "Bucks County-born Pennsylvanian who died in Washington County in 1831; possibly connected to the family through his wife, Elizabeth Brotzman or Doll."
 }

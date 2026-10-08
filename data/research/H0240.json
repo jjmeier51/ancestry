@@ -9,8 +9,8 @@
     "William Paine"
   ],
   "tags": [],
-  "summary": "John's 12th-great-grandfather, of Lavenham.",
-  "bio": "Buried at Lavenham 9 Jun 1621 (date given as burial). Older Payne generations from Boxted, Suffolk (William b. c.1502, Thomas d. 1544) are on WikiTree but speculative.",
+  "summary": "Of Lavenham, Suffolk, buried there in 1621; John's 12th-great-grandfather.",
+  "bio": "William Payne, or Paine, lived at Lavenham in Suffolk, where he was buried on 9 June 1621. Earlier generations of the Payne family at Boxted, Suffolk, including a William born about 1502 and a Thomas who died in 1544, have been proposed as his forebears, but that descent is speculative.",
   "sources": [
     "NEHGR 69:251–2; 79:82–4",
     "WikiTree Paine-100, Paine-470"
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0240.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Buried at Lavenham 9 Jun 1621 (date given as burial). Older Payne generations from Boxted, Suffolk (William b. c.1502, Thomas d. 1544) are on WikiTree but speculative."
 }

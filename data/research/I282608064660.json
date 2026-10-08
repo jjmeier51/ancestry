@@ -21,8 +21,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 4th-great-grandmother; Tipperary miner's widow who emigrated with her children to Plymouth in the 1860s and lived to 90.",
-  "bio": "Catherine Boney was baptized at Gortnahoe on 28 Feb 1814 (sponsor John Boney), daughter of Thomas Boney, a farmer at Lickfin, and Jude (Judith) Quigley. She married Thomas Heffernan at Gortnahoe on 3 Feb 1833 and lived at Mardyke; her first child was named Jude after her mother. After Thomas died in Ireland she emigrated with her children to Plymouth, Pennsylvania (about 1864-66). In the 1880 census, as 'Catherine Heffressen', 66, she lived with her daughter Catherine Healy in Plymouth. She died at Plymouth on 18 Apr 1904 and was interred there on 20 Apr; the Luzerne Register of Deaths (p.208) reads 'Hefferan, Catharine, F, 90, b. Ireland, d. Plymouth 18 Apr [1904], interred Plymouth 20 Apr, parents Thos & Ann Boney'. Her obituary appeared in the Wilkes-Barre Record of 19 Apr 1904 (text not found online); the tree profile carries an obituary clipping headed 'MRS. CATHERINE HEFFERNAN'. The mother's name conflicts: 'Jude Quigley' in the baptism (preferred) vs 'Ann' in the 1904 register (the informant may have confused her with Anastasia, 'Anty', Boney). Her probable sister Anastasia Boney married Thomas's brother Richard; Dwyer does not state they were sisters.",
+  "summary": "Tipperary miner's widow who emigrated with her children to Plymouth, Pennsylvania, in the 1860s and lived to ninety; John's 4th-great-grandmother.",
+  "bio": "Catherine Boney was baptized at Gortnahoe in County Tipperary on 28 February 1814, the daughter of Thomas Boney, a farmer at Lickfin, and Jude, or Judith, Quigley; her sponsor was John Boney. On 3 February 1833 she married Thomas Heffernan at Gortnahoe, and the couple lived at Mardyke, near Killenaule. Their first child was named Jude after Catherine's mother. Her probable sister Anastasia Boney married Thomas's brother Richard.\n\nAfter Thomas died in Ireland, Catherine emigrated with her children to Plymouth in Luzerne County, Pennsylvania, about 1864 to 1866. In 1880, aged 66, she was living there with her daughter Catherine Healy. She died at Plymouth on 18 April 1904, aged ninety, and was buried there two days later; her obituary appeared in the Wilkes-Barre Record under the heading 'Mrs. Catherine Heffernan'. The death register gave her mother's name as Ann rather than Jude, probably because the informant confused her with Anastasia 'Anty' Boney; the baptism is the better record.",
   "residences": [
     {
       "date": "BET 1833 AND 1864",
@@ -85,6 +85,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064660.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -94,5 +98,6 @@
       "found": "May 1814 (1900 census, as indexed on FS)",
       "assessment": "Year agrees; census month is self-reported at 86. Keep the baptism."
     }
-  ]
+  ],
+  "researchNotes": "Catherine Boney was baptized at Gortnahoe on 28 Feb 1814 (sponsor John Boney), daughter of Thomas Boney, a farmer at Lickfin, and Jude (Judith) Quigley. She married Thomas Heffernan at Gortnahoe on 3 Feb 1833 and lived at Mardyke; her first child was named Jude after her mother. After Thomas died in Ireland she emigrated with her children to Plymouth, Pennsylvania (about 1864-66). In the 1880 census, as 'Catherine Heffressen', 66, she lived with her daughter Catherine Healy in Plymouth. She died at Plymouth on 18 Apr 1904 and was interred there on 20 Apr; the Luzerne Register of Deaths (p.208) reads 'Hefferan, Catharine, F, 90, b. Ireland, d. Plymouth 18 Apr [1904], interred Plymouth 20 Apr, parents Thos & Ann Boney'. Her obituary appeared in the Wilkes-Barre Record of 19 Apr 1904 (text not found online); the tree profile carries an obituary clipping headed 'MRS. CATHERINE HEFFERNAN'. The mother's name conflicts: 'Jude Quigley' in the baptism (preferred) vs 'Ann' in the 1904 register (the informant may have confused her with Anastasia, 'Anty', Boney). Her probable sister Anastasia Boney married Thomas's brother Richard; Dwyer does not state they were sisters."
 }

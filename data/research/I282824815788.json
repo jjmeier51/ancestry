@@ -24,6 +24,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815788.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -38,7 +42,7 @@
       "description": "Married Teresa Cicco [R4-S2]"
     }
   ],
-  "bio": "Giovanni was baptized Domenico Giovanni on 5 August 1759, son of Francesco Colosimo (son of the late Antonio) and Giulia Putaro ([R4-S1]). He married Teresa Cicco on 10 November 1777 ([R4-S2]). He died on 11 February 1833 and was buried the next day as Teresa's widower ([R4-S3], [R4-S4]). The civil death act names his mother as Francesca Manfredi, but his marriage and baptism both say Giulia Putaro.",
+  "bio": "Giovanni Colosimo was baptized Domenico Giovanni at San Mango D'Aquino in Calabria on 5 August 1759, the son of Francesco Colosimo, himself a son of the late Antonio, and Giulia Putaro. He married Teresa Cicco on 10 November 1777. He died on 11 February 1833, by then Teresa's widower, and was buried the next day. His civil death record names his mother as Francesca Manfredi, but his baptism and marriage records both give her as Giulia Putaro.",
   "conflicts": [
     {
       "field": "mother",
@@ -56,5 +60,7 @@
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 30, p. 54, no. 19; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino, stato civile, Civil deaths 1833, image 1013, act 3, 11 Feb 1833; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
     "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1811-1845 (Book 27), image 74, p. 38, no. 6; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Giovanni was baptized Domenico Giovanni on 5 August 1759, son of Francesco Colosimo (son of the late Antonio) and Giulia Putaro ([R4-S1]). He married Teresa Cicco on 10 November 1777 ([R4-S2]). He died on 11 February 1833 and was buried the next day as Teresa's widower ([R4-S3], [R4-S4]). The civil death act names his mother as Francesca Manfredi, but his marriage and baptism both say Giulia Putaro.",
+  "summary": "Giovanni Colosimo of San Mango d'Aquino (1759–1833), husband of Teresa Cicco; John's 6th-great-grandfather."
 }

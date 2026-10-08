@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0490.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,9 +46,11 @@
       "description": "Married Mary Tuthill (b. 1687, d. 1780), daughter of John Tuthill Jr & Mehitable Wells; six children Mary, Eliphaz, Mehitable, Azariah, Lazarus, Ambrose (b. 1708-20). [R4-S1]"
     }
   ],
-  "bio": "Son of Capt. Jonathan Horton (first captain of Suffolk County's first cavalry company) and Bethia, daughter of William Wells ([R4-S2]). So he is himself John's blood cousin: William Wells -> Bethia -> Jonathan, 1st cousin 10 times removed (and 1C11R via Barnabas Horton if the Rachel Browne line holds). His wife Mary Tuthill is John's 9th-great-grandaunt.",
+  "bio": "Jonathan Horton was born at Southold on Long Island on 23 December 1683, the son of Captain Jonathan Horton, first captain of Suffolk County's first cavalry company, and his wife Bethia, a daughter of William Wells. Through his mother he is John's blood cousin, a 1st cousin ten times removed, and if the Rachel Browne line holds he is also a cousin through Barnabas Horton.\n\nOn 27 November 1705 he married Mary Tuthill at Southold; she was John's 9th-great-grandaunt. He died on 2 April 1768.",
   "sources": [
     "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 8 (secondary) https://archive.org/details/tuthillfamilyoft00aker",
     "[R4-S2] George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), pp. 11-12 (secondary) https://archive.org/details/hortongenealogyo00hort"
-  ]
+  ],
+  "researchNotes": "Son of Capt. Jonathan Horton (first captain of Suffolk County's first cavalry company) and Bethia, daughter of William Wells ([R4-S2]). So he is himself John's blood cousin: William Wells -> Bethia -> Jonathan, 1st cousin 10 times removed (and 1C11R via Barnabas Horton if the Rachel Browne line holds). His wife Mary Tuthill is John's 9th-great-grandaunt.",
+  "summary": "Southold man, son of Capt. Jonathan Horton and Bethia Wells and husband of Mary Tuthill; John's 1st cousin 10 times removed."
 }

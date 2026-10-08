@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Possible 6th-great-grandfather of John (father of Samuel Pringle) - a lead only.",
-  "bio": "The Prindle Genealogy (1906, p.41) confirms James Prindle b. 1736, m. 'Anar' Turner, d. Newtown 1800, and a 'James Jr.' in 1771, but lists no children. FamilySearch assigns him children James (c1754), David (1757), Benjamin (1764), Samuel (c1767) and Hannah (1773) - exactly the Orange Co. sibling set plus militia private Benjamin. Note a James Jr. c.1754 predates the 1759 marriage.\n\nTwo Newtown records attached to his FamilySearch profile can now be cited directly. The Newtown church marriage register records 'James Prindle & Anar Turner both of Newtown' married on 22 January 1759 ([R4-S1]), matching the Prindle Genealogy. The Barbour Collection slip abstracted from Newtown Vital Records vol. 2 p.172 reads 'PRINDLE, James, d. Dec. 9, 1800' ([R4-S2]) - December, where the Prindle Genealogy and FamilySearch have 9 November. The 1759 marriage date means that two of the five children FamilySearch assigns to him and Anar (James c.1754 and David 1757) were born before the marriage; they could only be his by an unrecorded earlier wife, or are misattributed. Samuel (c.1767) remains a possible son but is not documented as such.",
+  "summary": "Newtown, Connecticut, man who married Anar Turner in 1759 and may have been the father of Samuel Pringle; a possible 6th-great-grandfather of John.",
+  "bio": "James Prindle was born on 5 August 1736 at Newtown in Fairfield County, Connecticut. On 22 January 1759 he married Anar Turner, \"both of Newtown\", in the Newtown church. He died at Newtown on 9 December 1800, though some accounts give 9 November.\n\nHe is a possible rather than proven ancestor. Children assigned to him and Anar are James (about 1754), David (1757), Benjamin (1764), a militia private, Samuel (about 1767) and Hannah (1773), the same set of siblings found later in Orange County, New York. The first two were born before the 1759 marriage and could only be his by an unrecorded earlier wife, or belong to someone else. If Samuel was his son, James is John's 6th-great-grandfather, but that link is not yet documented.",
   "sources": [
     "The Prindle Genealogy (1906) p.41: https://archive.org/details/prindlegenealogy00prin",
     "FamilySearch G99D-9DZ / L8MP-W4X",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0102.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -97,5 +101,6 @@
       "found": "FS children James c.1754 and David 1757 pre-date the 22 Jan 1759 marriage",
       "assessment": "FS family group unreliable; Samuel's parentage unproven."
     }
-  ]
+  ],
+  "researchNotes": "The Prindle Genealogy (1906, p.41) confirms James Prindle b. 1736, m. 'Anar' Turner, d. Newtown 1800, and a 'James Jr.' in 1771, but lists no children. FamilySearch assigns him children James (c1754), David (1757), Benjamin (1764), Samuel (c1767) and Hannah (1773) - exactly the Orange Co. sibling set plus militia private Benjamin. Note a James Jr. c.1754 predates the 1759 marriage.\n\nTwo Newtown records attached to his FamilySearch profile can now be cited directly. The Newtown church marriage register records 'James Prindle & Anar Turner both of Newtown' married on 22 January 1759 ([R4-S1]), matching the Prindle Genealogy. The Barbour Collection slip abstracted from Newtown Vital Records vol. 2 p.172 reads 'PRINDLE, James, d. Dec. 9, 1800' ([R4-S2]) - December, where the Prindle Genealogy and FamilySearch have 9 November. The 1759 marriage date means that two of the five children FamilySearch assigns to him and Anar (James c.1754 and David 1757) were born before the marriage; they could only be his by an unrecorded earlier wife, or are misattributed. Samuel (c.1767) remains a possible son but is not documented as such."
 }

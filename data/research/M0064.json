@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of H0321 (proven); parent of H0491 (proven); child of M0063 (probable)."
   },
   "tags": [],
-  "summary": "Eldest son of Justice Henry Tuthill (1665-1750) and Bethia Horton (granddaughter of William Wells and of Barnabas Horton)",
-  "bio": "Eldest son of Justice Henry Tuthill (1665-1750) and Bethia Horton (granddaughter of William Wells and of Barnabas Horton). Grandfather of Anna Tuthill Symmes, so great-grandfather of First Lady Anna Symmes Harrison. His father was a brother of John's ancestor John Tuthill Jr, so he is a 1st cousin 10 times removed of John.",
+  "summary": "Eldest son of Justice Henry Tuthill and great-grandfather of First Lady Anna Symmes Harrison; John's 1st cousin 10x removed.",
+  "bio": "Henry Tuthill (1690–1775) was the eldest son of Justice Henry Tuthill (1665–1750) and Bethia Horton, a granddaughter of both William Wells and Barnabas Horton. He died on 1 September 1775. He was the grandfather of Anna Tuthill Symmes and so the great-grandfather of First Lady Anna Symmes Harrison. His father was a brother of John's ancestor John Tuthill Jr., which makes Henry John's 1st cousin 10x removed.",
   "sources": [
     "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 8-9 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
   ],
@@ -15,6 +15,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-608 → M0064; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Eldest son of Justice Henry Tuthill (1665-1750) and Bethia Horton (granddaughter of William Wells and of Barnabas Horton). Grandfather of Anna Tuthill Symmes, so great-grandfather of First Lady Anna Symmes Harrison. His father was a brother of John's ancestor John Tuthill Jr, so he is a 1st cousin 10 times removed of John."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's maternal 4th great-grandfather; earliest known Giannetta ancestor, of Bisaccia.",
-  "bio": "New generation found in Round 3. Dead by 20 Jul 1867 when his son Savino married (Bisaccia Matrimoni 1867 act 17). Wife Lucia Macchia(?) (reading uncertain). His grandson Frank was named Francesco after him.\n\nThe FamilySearch tree gives Francesco Maria Giannetta's birth as 6 Mar 1812 in Bisaccia, his marriage to Lucia Macchia as 27 June 1836, and his death as 16 Feb 1848, aged 35, when his son Savino was six. That fits the 1867 marriage act's description of Savino as son of 'the late Francesco' ([R4-S1]). The tree names his parents as Savino Giannetta (c.1786–1853) and Giuseppa Sena (1790–1822) ([R4-S2], [R4-S3]). After Giuseppa's death, the elder Savino married in 1823 the widow Grazia Maria Gallicchio, Lucia Macchia's mother ([R4-S2], [R4-S4]). If the tree is right, Francesco married his own stepsister. The tree also lists his children Savino (1838–1841) and Savino (1842).",
+  "summary": "Earliest known Giannetta ancestor, of Bisaccia (1812–1848), husband of Lucia Macchia; John's maternal 4th-great-grandfather.",
+  "bio": "Francesco Maria Giannetta was born at Bisaccia, in Avellino, on 6 March 1812, the son of Savino Giannetta (about 1786–1853) and Giuseppa Sena (1790–1822). On 27 June 1836 he married Lucia Macchia, whose surname is an uncertain reading of the handwriting in the records. After Giuseppa's death the elder Savino had married, in 1823, the widow Grazia Maria Gallicchio, who was Lucia's mother; if the records are right, Francesco married his own stepsister. His children were Savino (1838–1841) and a second Savino, born in 1842.\n\nFamily records give his death as 16 February 1848, aged 35, when the younger Savino was six; he was certainly dead by 20 July 1867, when that son's marriage act at Bisaccia described him as the son of 'the late Francesco'. His grandson Frank was named Francesco after him.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
     "notes/round3/italian_origins.md 3",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0341.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -67,5 +71,6 @@
   ],
   "funFacts": [
     "If the FamilySearch tree is right, Francesco married his stepsister: his widowed father Savino had married Lucia Macchia's widowed mother Grazia Maria Gallicchio in 1823, thirteen years before Francesco and Lucia wed."
-  ]
+  ],
+  "researchNotes": "New generation found in Round 3. Dead by 20 Jul 1867 when his son Savino married (Bisaccia Matrimoni 1867 act 17). Wife Lucia Macchia(?) (reading uncertain). His grandson Frank was named Francesco after him.\n\nThe FamilySearch tree gives Francesco Maria Giannetta's birth as 6 Mar 1812 in Bisaccia, his marriage to Lucia Macchia as 27 June 1836, and his death as 16 Feb 1848, aged 35, when his son Savino was six. That fits the 1867 marriage act's description of Savino as son of 'the late Francesco' ([R4-S1]). The tree names his parents as Savino Giannetta (c.1786–1853) and Giuseppa Sena (1790–1822) ([R4-S2], [R4-S3]). After Giuseppa's death, the elder Savino married in 1823 the widow Grazia Maria Gallicchio, Lucia Macchia's mother ([R4-S2], [R4-S4]). If the tree is right, Francesco married his own stepsister. The tree also lists his children Savino (1838–1841) and Savino (1842)."
 }

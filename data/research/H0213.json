@@ -9,8 +9,8 @@
     "Dr. Harry Ward Croop"
   ],
   "tags": [],
-  "summary": "Croop cousin (approx. 5th cousin 2x removed; descent not traced).",
-  "bio": "Dr. Harry Ward Croop (b. 1884), Wilkes-Barre physician; Stanley C. Croop is associated with the Croop's Glen amusement park at Hunlock Creek.\n\nHarvey & Smith's history (vol. V, 1929) has a sketch of Dr. Harry Ward Croop. He was born 16 Sep 1884 in Hunlock Township, son of Benjamin F. Croop (b. Hunlock Twp. 1856/58), owner and manager of the Croop's Glen amusement park at Hunlock's Creek, and Alvaretta Jane Eves (b. Columbia Co. 1858/59). He taught school for seven years, graduated from Jefferson Medical College in 1917, and served two and a half years as a Navy medical officer in World War I. After an internship at Wilkes-Barre General Hospital he practised at Kingston, stayed on the General Hospital staff, and was a Mason (Keystone Consistory, Irem Temple), Elk, Legionnaire and member of the Church of Christ, Kingston ([R4-S1]).\n\nThe same volume's sketch of his brother Stanley Carson Croop (b. 9 Mar 1897) says their father turned a hotel business into Croop's Glen, a picnic and amusement resort with pony rides and novelties, and that Stanley served 18 months on Submarine Chaser No. 62 in 1918-19 and was postmaster and storekeeper at Hunlock Creek from 1924 ([R4-S1]). Hiram Croop's surviving children in 1893 were Martha, Joseph H. and Fredrick W. (Bradsby p.812), so Benjamin F. was not Hiram's son. Harry Ward's exact descent from the pioneer John or Frederick Croop is still not traced.",
+  "summary": "Wilkes-Barre and Kingston physician, Navy medical officer in the First World War and son of the owner of Croop's Glen amusement park; a Croop cousin whose exact line of descent is uncertain.",
+  "bio": "Harry Ward Croop was born on 16 September 1884 in Hunlock Township, Luzerne County, Pennsylvania, the son of Benjamin F. Croop and Alvaretta Jane Eves. His father turned a hotel business at Hunlock's Creek into Croop's Glen, a picnic and amusement resort with pony rides and novelties, which he owned and managed.\n\nHarry taught school for seven years before studying medicine, and graduated from Jefferson Medical College in 1917. When the United States entered the First World War he joined the Medical Corps of the Navy, served about two and a half years and left the service in October 1919 as a lieutenant. He married in 1918. After an internship at Wilkes-Barre General Hospital he practised at Kingston, remained on the General Hospital staff, and was a Mason of Keystone Consistory and Irem Temple, an Elk, a Legionnaire and a member of the Church of Christ in Kingston.\n\nHis brother Stanley Carson Croop, born on 9 March 1897, served eighteen months on Submarine Chaser No. 62 in 1918 and 1919 and from 1924 was postmaster and storekeeper at Hunlock Creek. The brothers were cousins of John's Croop line, though their exact descent from the pioneer Croops is uncertain.",
   "sources": [
     "Harvey & Smith vols. V-VI: https://archive.org/details/historyofwilkesb06harv",
     "[R4-S1] Harvey & Smith, A History of Wilkes-Barre, vol. V (1929), sketches of Harry Ward Croop, M.D. (p.286) and Stanley Carson Croop (p.505-506) (secondary) https://archive.org/details/historyofwilkesb05harv",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0213.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -80,5 +84,6 @@
     "Parentage of Benjamin F. Croop (b. Hunlock Creek 15 May 1858 per Stanley's sketch; 1856 per Harry's) - which son of the Hunlock Croops?",
     "Death date of Dr. Croop (PA death index, 1930s-1970s, not checked without a year).",
     "A Harry W. Croop Jr., Wesleyan 1942, WWII Army, died 12 Dec 2014 aged 94, fits the son b. Nov 1920, but the notice names no parents (candidate only)."
-  ]
+  ],
+  "researchNotes": "Dr. Harry Ward Croop (b. 1884), Wilkes-Barre physician; Stanley C. Croop is associated with the Croop's Glen amusement park at Hunlock Creek.\n\nHarvey & Smith's history (vol. V, 1929) has a sketch of Dr. Harry Ward Croop. He was born 16 Sep 1884 in Hunlock Township, son of Benjamin F. Croop (b. Hunlock Twp. 1856/58), owner and manager of the Croop's Glen amusement park at Hunlock's Creek, and Alvaretta Jane Eves (b. Columbia Co. 1858/59). He taught school for seven years, graduated from Jefferson Medical College in 1917, and served two and a half years as a Navy medical officer in World War I. After an internship at Wilkes-Barre General Hospital he practised at Kingston, stayed on the General Hospital staff, and was a Mason (Keystone Consistory, Irem Temple), Elk, Legionnaire and member of the Church of Christ, Kingston ([R4-S1]).\n\nThe same volume's sketch of his brother Stanley Carson Croop (b. 9 Mar 1897) says their father turned a hotel business into Croop's Glen, a picnic and amusement resort with pony rides and novelties, and that Stanley served 18 months on Submarine Chaser No. 62 in 1918-19 and was postmaster and storekeeper at Hunlock Creek from 1924 ([R4-S1]). Hiram Croop's surviving children in 1893 were Martha, Joseph H. and Fredrick W. (Bradsby p.812), so Benjamin F. was not Hiram's son. Harry Ward's exact descent from the pioneer John or Frederick Croop is still not traced."
 }

@@ -12,9 +12,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815695.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Antonio/Antonino Colosimo was buried on 7 January 1673 ([R4-S1]). The tree has two profiles with this exact death date, I282824815695 and I282824816434; they are almost certainly the same man, the husband of Angila Vaccaro and father of Antonio (bapt. 15 Jun 1659).",
+  "bio": "Antonino Colosimo, also recorded as Antonio, lived at San Mango di Aquino, Catanzaro, Calabria, Italy, where he was buried on 7 January 1673. He was almost certainly the husband of Angila Vaccaro and the father of Antonio Colosimo, who was baptized on 15 June 1659. He is John's 9th-great-grandfather.",
   "conflicts": [
     {
       "field": "duplicate",
@@ -29,5 +33,7 @@
   },
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1672-1687 (Book 2), image 71, p. 11, no. 1; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1672-1687'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Antonio/Antonino Colosimo was buried on 7 January 1673 ([R4-S1]). The tree has two profiles with this exact death date, I282824815695 and I282824816434; they are almost certainly the same man, the husband of Angila Vaccaro and father of Antonio (bapt. 15 Jun 1659).",
+  "summary": "Husband of Angila Vaccaro at San Mango di Aquino in Calabria, buried there in 1673; John's 9th-great-grandfather."
 }

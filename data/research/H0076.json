@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 7th-great-grandfather; of Kollweiler, Kusel district.",
-  "bio": "Jacob Christmann of Kollweiler (Kusel) was dead by his daughter Maria Elisabetha's marriage to Andreas Grub on 19 Sep 1752.\n\nThe Reichenbach baptism of his daughter Maria Elisabetha (9 Aug 1729, baptized 14 Aug) names her parents as Jacob and Anna Margaretha Christmann of Kollweiler (recorded in Round 4 under H0072). That confirms him as her father and gives his wife's first name. He was dead by her marriage on 19 Sep 1752.",
+  "summary": "Villager of Kollweiler in the Kusel district whose daughter Maria Elisabetha married Andreas Grub; John's 7th-great-grandfather.",
+  "bio": "Jacob Christmann lived at Kollweiler, Kusel, Rhineland-Palatinate, Germany, with his wife Anna Margaretha. Their daughter Maria Elisabetha was born on 9 August 1729 and baptized at Reichenbach five days later. Jacob had died by 19 September 1752, when Maria Elisabetha married Andreas Grub.",
   "residences": [
     {
       "date": "1729",
@@ -39,9 +39,14 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0076.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "openQuestions": [
     "His wife Anna Margaretha (surname unknown) is not in the tree."
-  ]
+  ],
+  "researchNotes": "Jacob Christmann of Kollweiler (Kusel) was dead by his daughter Maria Elisabetha's marriage to Andreas Grub on 19 Sep 1752.\n\nThe Reichenbach baptism of his daughter Maria Elisabetha (9 Aug 1729, baptized 14 Aug) names her parents as Jacob and Anna Margaretha Christmann of Kollweiler (recorded in Round 4 under H0072). That confirms him as her father and gives his wife's first name. He was dead by her marriage on 19 Sep 1752."
 }

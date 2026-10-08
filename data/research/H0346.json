@@ -12,8 +12,8 @@
     "Leupo"
   ],
   "tags": [],
-  "summary": "John's great-granduncle; named for his maternal grandfather Leopoldo Ferlaino.",
-  "bio": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error.",
+  "summary": "Scranton-born state highway machine operator who lived to ninety, brother of Mary Cognetti Petriello; John's great-granduncle.",
+  "bio": "Leo S. Cognetti, whose full name was Leopold Salvatore, was born in Scranton on 19 May 1929 and named for his maternal grandfather, Leopoldo Ferlaino; the 1930 census lists him as Leopoldo. He registered for the draft during the Second World War, and in 1950 he was working as a machine operator for the Pennsylvania State Highway Department. He died at Exton in Chester County, Pennsylvania, on 1 July 2019, aged ninety. His obituary names his sister Mary Petriello, John's great-grandmother, and her husband John, which makes Leo John's great-granduncle.",
   "facts": [
     {
       "label": "Tree display",
@@ -48,6 +48,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0346.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error."
 }

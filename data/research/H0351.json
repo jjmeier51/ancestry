@@ -11,8 +11,8 @@
     "Katie Petrillo (probably, 1910 census)"
   ],
   "tags": [],
-  "summary": "John's great-grandaunt.",
-  "bio": "b. 5 Jan 1897; married Joseph DiBiasi (d. 1958); naturalized 29 Jun 1943 (index; reason unknown - possibly citizenship lost by marrying an alien, speculative); d. Mar 1973; buried at St. Mary of Mt Carmel, Dunmore. Peter's birth date 26 Jul 1897 conflicts (twin? dates conflict).\n\nGrace's 1943 'naturalization' was in fact a repatriation. The index card is marked 'Rep.' and gives her country of birth as the U.S.A. ([R4-S1]). Under the Expatriation Act of 1907, an American woman who married a foreigner took his nationality. Grace's husband Joseph DiBiasi was Italian-born, so she must have married him before the Cable Act took effect in September 1922, and she formally regained her citizenship in June 1943. In 1940 she and Joseph lived at 1015 Bunker Hill Street, where Grace, not Joseph, was the merchant running a general grocery store ([R4-S2]). She was carrying on the grocery trade of her father John Petriello, whose store had stood at 1028 on the same street. She is very probably the 'Katie', 13, of the 1910 census ([R4-S3]; see H0350).",
+  "summary": "Scranton grocer on Bunker Hill Street, wife of Joseph DiBiasi, who regained her US citizenship in 1943; John's great-grandaunt.",
+  "bio": "Grace Petrillo, baptized Grazia, was born on 5 January 1897, though this sits uneasily with the July 1897 birth date recorded for Peter Petrillo, and the two dates cannot both be exact. She is very probably the \"Katie\", aged 13, recorded in her family's household in 1910. She married Joseph DiBiasi, who died in 1958.\n\nBecause Joseph was Italian-born and still an alien when they married, before September 1922, Grace lost her American citizenship under the Expatriation Act of 1907, which gave a woman her foreign husband's nationality. She formally regained it by repatriation at the United States District Court in Scranton on 29 June 1943.\n\nIn 1940 she and Joseph lived at 1015 Bunker Hill Street in Scranton, where it was Grace, not her husband, who ran the general grocery store, carrying on the trade of her father John Petriello, whose store had stood a few doors away at number 1028 on the same street. She died in March 1973 and was buried at St. Mary of Mt Carmel, Dunmore. She was John's great-grandaunt.",
   "sources": [
     "FS tree GQWT-QQ8: https://ancestors.familysearch.org/en/GQWT-QQ8",
     "[R4-S1] US District Court, Middle District of PA, naturalization index card (Form N-35), Grace DiBiasi, 1015 Bunker Hill St, Scranton; born Jan 5, 1897, country of birth U.S.A.; 'Rep.' (repatriation) June 29, 1943, vol. 1, certificate 250. Image attached to FamilySearch tree GQWT-QQ8 (index ark 1:1:6KPY-79MP). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0351.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "Merchant, general grocery store (1940)",
@@ -90,5 +94,6 @@
       ],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "b. 5 Jan 1897; married Joseph DiBiasi (d. 1958); naturalized 29 Jun 1943 (index; reason unknown - possibly citizenship lost by marrying an alien, speculative); d. Mar 1973; buried at St. Mary of Mt Carmel, Dunmore. Peter's birth date 26 Jul 1897 conflicts (twin? dates conflict).\n\nGrace's 1943 'naturalization' was in fact a repatriation. The index card is marked 'Rep.' and gives her country of birth as the U.S.A. ([R4-S1]). Under the Expatriation Act of 1907, an American woman who married a foreigner took his nationality. Grace's husband Joseph DiBiasi was Italian-born, so she must have married him before the Cable Act took effect in September 1922, and she formally regained her citizenship in June 1943. In 1940 she and Joseph lived at 1015 Bunker Hill Street, where Grace, not Joseph, was the merchant running a general grocery store ([R4-S2]). She was carrying on the grocery trade of her father John Petriello, whose store had stood at 1028 on the same street. She is very probably the 'Katie', 13, of the 1910 census ([R4-S3]; see H0350)."
 }

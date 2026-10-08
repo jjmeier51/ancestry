@@ -24,6 +24,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815770.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,7 +46,7 @@
       "description": "Married Carmela Moraca [R4-S2]"
     }
   ],
-  "bio": "Luigi (Aloysius) was baptized on Christmas Day 1795, son of Giovanni Colosimo and Teresa Cicco ([R4-S1]). He married Carmela Moraca, daughter of the late Alessio, on 29 January 1818 ([R4-S2]). He was buried on 14 April 1864, a fortnight after his wife ([R4-S3]).",
+  "bio": "Luigi Colosimo, also recorded as Aloysius, was baptized at San Mango d'Aquino on Christmas Day 1795, a son of Giovanni Colosimo and Teresa Cicco. On 29 January 1818 he married Carmela Moraca, daughter of the late Alessio Moraca. He was buried on 14 April 1864, a fortnight after his wife. He was John's 5th-great-grandfather.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): Baptism, marriage and burial indexed; son Raffaele's records name him."
@@ -51,5 +55,7 @@
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 207, p. 407, no. 73; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 11, p. 16, no. 1; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 97, p. 182, no. 35; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Luigi (Aloysius) was baptized on Christmas Day 1795, son of Giovanni Colosimo and Teresa Cicco ([R4-S1]). He married Carmela Moraca, daughter of the late Alessio, on 29 January 1818 ([R4-S2]). He was buried on 14 April 1864, a fortnight after his wife ([R4-S3]).",
+  "summary": "Of San Mango d'Aquino, husband of Carmela Moraca; John's 5th-great-grandfather."
 }

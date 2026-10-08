@@ -8,8 +8,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's 2nd cousin 9x removed via John Thompson (closer than the 3C8R first reported; also 3C8R via Bull Smith, 4C8R via Topping, 3C9R via Brewster — the last affected by the Brewster disproof); husband of Culper spy Anna Strong.",
-  "bio": "Path: John Thompson → Samuel → Susannah (m. Thomas Strong) → Selah. A great-great-grandson of Bull Smith. Delegate to the Provincial Congress, Revolutionary captain, later county judge; held on a British prison ship. His wife Anna Smith Strong is NOT a blood relative (different Smith family). A Selah Strong of Orange County was executor for James Tuthill Jr. (1756) and witness for Daniel Tuthill (1761) — possibly a namesake relative (not established).\n\nPath verified (Thompson [R4-S1]): John Thompson -> Samuel (1668-1749) -> Susannah (1712-88, m. 1734 Thomas Strong) -> Selah: 2nd cousin 9 times removed. A 1792 engraving by Cornelius Tiebout shows 'the seat of the Hon. Selah Strong, Esqr., St. George's Manor' ([R4-S2]).",
+  "summary": "Revolutionary captain, Provincial Congress delegate and county judge, husband of the Culper spy Anna Strong; John's 2nd cousin 9 times removed.",
+  "bio": "Selah Strong (1737–1815) was a delegate to the Provincial Congress and a captain in the Revolution, during which he was held on a British prison ship; after the war he served as a county judge. A 1792 engraving by Cornelius Tiebout shows \"the seat of the Hon. Selah Strong, Esqr., St. George's Manor\". His wife, Anna Smith Strong, is remembered as the Culper spy; she belonged to a different Smith family and is not a blood relative of John's.\n\nSelah was the son of Thomas Strong and Susannah Thompson, a granddaughter of John Thompson, which makes him John's 2nd cousin 9 times removed on the Thompson side. He was also a great-great-grandson of Bull Smith, and he is related to John more distantly through the Topping family and, if that line holds, through the Brewsters.",
   "military": [
     {
       "service": "American Revolution",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0287.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -99,5 +103,6 @@
       "url": "https://commons.wikimedia.org/wiki/File:A_view_of_the_seat_of_the_Hon._Selah_Strong,_Esqr.,_St._George%27s_Manor,_Sussex_County,_Long_Island_-_(%3F)_del._;_Tiebout_sculp._LCCN2004671562.jpg"
     }
   ],
-  "photo": "media/H0287/h0287-strong-2463-1.jpg"
+  "photo": "media/H0287/h0287-strong-2463-1.jpg",
+  "researchNotes": "Path: John Thompson → Samuel → Susannah (m. Thomas Strong) → Selah. A great-great-grandson of Bull Smith. Delegate to the Provincial Congress, Revolutionary captain, later county judge; held on a British prison ship. His wife Anna Smith Strong is NOT a blood relative (different Smith family). A Selah Strong of Orange County was executor for James Tuthill Jr. (1756) and witness for Daniel Tuthill (1761) — possibly a namesake relative (not established).\n\nPath verified (Thompson [R4-S1]): John Thompson -> Samuel (1668-1749) -> Susannah (1712-88, m. 1734 Thomas Strong) -> Selah: 2nd cousin 9 times removed. A 1792 engraving by Cornelius Tiebout shows 'the seat of the Hon. Selah Strong, Esqr., St. George's Manor' ([R4-S2])."
 }

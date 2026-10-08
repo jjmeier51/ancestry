@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 7th-great-grandfather; Lutheran villager of Jettenbach in the Palatinate.",
-  "bio": "Born about 1694 at Jettenbach, confirmed 1707, married Elisabetha Margaretha Lampert there on 16 Apr 1720, died at Jettenbach 7 Feb 1763. Children: Johann Jacob (1722), Johann Peter (1724, the Windsor 1753 immigrant), Andreas (1727), Nicol (1729), Maria Elisabetha (1730), Elisabetha Margaretha (1732), Johann Philipp (1737).\n\nFamilySearch makes Johann Nickel a son of Johann Peter Grub's first wife, Gretha (Margretha) Catharina, who died before Peter's second marriage on 19 Oct 1694, and not of the second wife, Elisabetha Catharina Jung ([R4-S1], [R4-S2]). The register shows Peter's wife was Gretha Catharina in 1684 and Margretha Catharina in 1687 (see H0078). Nickel's own baptism has not been found; the site has him born about 1694 from his 1707 confirmation. Who his mother was depends on whether he was born before or after October 1694. If after, he would be the Jung wife's first child. FamilySearch gives his burial date as 7 Feb 1763 and attaches a Lutheran burial entry ('Nicolaus Gruben'), whose image came back empty ([R4-S1]).",
+  "summary": "Lutheran villager of Jettenbach in the Palatinate (about 1694–1763), husband of Elisabetha Margaretha Lampert; John's 7th-great-grandfather.",
+  "bio": "Johann Nickel Grub was born about 1694 at Jettenbach, Kusel, in the Palatinate, and was confirmed in the Lutheran church there in 1707. He was a son of Johann Peter Grub, probably by Peter's first wife, Gretha or Margretha Catharina, who died before Peter remarried on 19 October 1694; if Nickel was born after that date, his mother would instead have been the second wife, Elisabetha Catharina Jung. On 16 April 1720 he married Elisabetha Margaretha Lampert at Jettenbach.\n\nTheir children were Johann Jacob (1722), Johann Peter (1724), who emigrated on the Windsor in 1753, Andreas (1727), Nicol (1729), Maria Elisabetha (1730), Elisabetha Margaretha (1732) and Johann Philipp (1737). Nickel died at Jettenbach on 7 February 1763 and was buried there. He is John's 7th-great-grandfather.",
   "sources": [
     "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191835: https://gedbas.genealogy.net/person/show/1193191835",
     "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0074.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -52,5 +56,6 @@
   ],
   "openQuestions": [
     "His baptism c.1693-95 in the Reichenbach Lutheran register (Jettenbach entries) decides whether his mother was the first wife Gretha Catharina or Elisabetha Catharina Jung."
-  ]
+  ],
+  "researchNotes": "Born about 1694 at Jettenbach, confirmed 1707, married Elisabetha Margaretha Lampert there on 16 Apr 1720, died at Jettenbach 7 Feb 1763. Children: Johann Jacob (1722), Johann Peter (1724, the Windsor 1753 immigrant), Andreas (1727), Nicol (1729), Maria Elisabetha (1730), Elisabetha Margaretha (1732), Johann Philipp (1737).\n\nFamilySearch makes Johann Nickel a son of Johann Peter Grub's first wife, Gretha (Margretha) Catharina, who died before Peter's second marriage on 19 Oct 1694, and not of the second wife, Elisabetha Catharina Jung ([R4-S1], [R4-S2]). The register shows Peter's wife was Gretha Catharina in 1684 and Margretha Catharina in 1687 (see H0078). Nickel's own baptism has not been found; the site has him born about 1694 from his 1707 confirmation. Who his mother was depends on whether he was born before or after October 1694. If after, he would be the Jung wife's first child. FamilySearch gives his burial date as 7 Feb 1763 and attaches a Lutheran burial entry ('Nicolaus Gruben'), whose image came back empty ([R4-S1])."
 }

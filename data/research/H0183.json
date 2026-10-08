@@ -9,8 +9,8 @@
     "Charity Steel"
   ],
   "tags": [],
-  "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Daughter of Thomas Lamoreaux; married Peter Steel.\n\nFamilySearch gives Charity (Lamoreaux) Steele the dates 1783 to 1873 and her husband as Peter Steele II (1779-1857), with children born from 1800. In 1860 she was living in Henry J. Johnson's household ([R4-S1]). Her daughter Mary Steele (1808-1876), Mrs John Linskill, has been wrongly attached on FamilySearch as a second wife of James Pringle (see H0411).",
+  "summary": "Daughter of Thomas Lamoreaux and wife of Peter Steele; John's 5th-great-grand-aunt.",
+  "bio": "Charity Lamoreaux was born in 1783 in Monroe Township, Orange County, New York, a daughter of Thomas Lamoreaux. She married Peter Steele II (1779–1857), and their children were born from 1800 onward; among them was Mary Steele (1808–1876), who became Mrs John Linskill. In 1860 Charity was living in the household of Henry J. Johnson. She died in 1873. She is John's 5th-great-grand-aunt.",
   "facts": [
     {
       "label": "Disambiguation",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0183.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -59,5 +63,6 @@
       "place": "household of Henry J. Johnson",
       "note": "[R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Thomas Lamoreaux; married Peter Steel.\n\nFamilySearch gives Charity (Lamoreaux) Steele the dates 1783 to 1873 and her husband as Peter Steele II (1779-1857), with children born from 1800. In 1860 she was living in Henry J. Johnson's household ([R4-S1]). Her daughter Mary Steele (1808-1876), Mrs John Linskill, has been wrongly attached on FamilySearch as a second wife of James Pringle (see H0411)."
 }

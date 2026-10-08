@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0459.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -31,7 +35,7 @@
       "description": "The Elizabeth (Capt. Edward Lee, from Rotterdam via Dover), qualified 27 Aug 1733. Its male list (List 30 A) has 'Jacob Server 56', 'Jacob Server, Jun'r 36' and 'Rodolph Server 21'. The signature lists have 'Jacob (X) Server', 'Jacob Surber', 'Jacob Sorber' and 'Rudolff Sorber', and the women's list has 'Fronegh Sorver 54' and 'Barbara Sorver 23'. Identification with this Jacob is speculative. [R4-S1]"
     }
   ],
-  "bio": "The project's only claim about this Jacob Sorber is that he married Maria Engel Doll (H0215, b. Ulmet 1717) in 1739 and was the father of Abraham Sorber (b. 1744), who brought his family from Northampton Co. to Hanover Twp., Luzerne, about 1783. That claim comes from an Ancestry-derived GEDBAS tree (round 3). No primary record of the marriage was found. One possible origin: the Sorber/Server party on the ship Elizabeth, qualified at Philadelphia on 27 Aug 1733. It included a Jacob aged 56 (b. c.1677), Jacob Jr. aged 36 (b. c.1697) and Rudolph aged 21 ([R4-S1]). Jacob Jr. would have been about 42 at a 1739 marriage to a 22-year-old, which is possible as a second marriage. The elder Jacob is too old to fit. There may also have been another Jacob, not on this list. Do not confuse him with the later Jacob Sorber, son of Abraham, who married a Cease (Plumb 1885). That Jacob settled in Plymouth Twp. in 1827 with Henry Cease and George Sorber (Bradsby p.635), and he or another Jacob was the father of the Philip Sorber who settled up Hunlock's Creek (Bradsby p.584).",
+  "bio": "Jacob Sorber is said to have married Maria Engel Doll, who was born at Ulmet in 1717, in 1739, and to have been the father of Abraham Sorber, born in 1744, who brought his family from Northampton County to Hanover Township in Luzerne County about 1783. The marriage rests on family trees rather than on a surviving record.\n\nOne possible origin is the party of Sorbers, or Servers, who arrived at Philadelphia on the ship Elizabeth and qualified there on 27 August 1733. It included a Jacob aged 56, a Jacob Jr. aged 36 and a Rudolph aged 21. Jacob Jr., born about 1697, would have been about 42 at a marriage in 1739 to a bride of 22, which is possible as a second marriage; the elder Jacob is too old to fit, and there may have been another Jacob altogether.\n\nHe should not be confused with the later Jacob Sorber, Abraham's son, who married a Cease and settled in Plymouth Township in 1827 with Henry Cease and George Sorber; that Jacob, or yet another, was the father of the Philip Sorber who settled up Hunlock's Creek.",
   "openQuestions": [
     "Look for Jacob Sorber/Server/Surber in Northampton or Bucks Co. Lutheran/Reformed registers (marriage 1739; baptism of Abraham c.1744). These records are not online free; try the Ancestry PA Church and Town Records collection.",
     "Which Jacob was the father of Philip Sorber of Hunlock's Creek (Bradsby p.584): Abraham's son Jacob (m. Cease), or an otherwise unknown Jacob?"
@@ -40,5 +44,7 @@
     "[R4-S1] Strassburger & Hinke, Pennsylvania German Pioneers, vol. 1 (1934), List 30 A-C, ship Elizabeth, qualified 27 Aug 1733 (derivative) https://archive.org/details/pennsylvaniagerm42stra",
     "[R4-S2] H. C. Bradsby, History of Luzerne County (1893), pp.584 and 635 (secondary) https://archive.org/details/historyofluzerne00brad",
     "[R4-S3] H. B. Plumb, History of Hanover Township (1885), 'The Sorber Family' (ldsgenealogy.com part 38) (secondary) https://ldsgenealogy.com/PA/books/History-of-Hanover-Township-including-Sugar-Notch-Ashley-and-Nanticoke-boroughs-and-also-a-history-of-Wyoming-Valley-in-Luzerne-County-Pennsylvania-part-38.htm"
-  ]
+  ],
+  "researchNotes": "The project's only claim about this Jacob Sorber is that he married Maria Engel Doll (H0215, b. Ulmet 1717) in 1739 and was the father of Abraham Sorber (b. 1744), who brought his family from Northampton Co. to Hanover Twp., Luzerne, about 1783. That claim comes from an Ancestry-derived GEDBAS tree (round 3). No primary record of the marriage was found. One possible origin: the Sorber/Server party on the ship Elizabeth, qualified at Philadelphia on 27 Aug 1733. It included a Jacob aged 56 (b. c.1677), Jacob Jr. aged 36 (b. c.1697) and Rudolph aged 21 ([R4-S1]). Jacob Jr. would have been about 42 at a 1739 marriage to a 22-year-old, which is possible as a second marriage. The elder Jacob is too old to fit. There may also have been another Jacob, not on this list. Do not confuse him with the later Jacob Sorber, son of Abraham, who married a Cease (Plumb 1885). That Jacob settled in Plymouth Twp. in 1827 with Henry Cease and George Sorber (Bradsby p.635), and he or another Jacob was the father of the Philip Sorber who settled up Hunlock's Creek (Bradsby p.584).",
+  "summary": "Jacob Sorber, husband of Maria Engel Doll and father of Abraham Sorber, the pioneer of Hanover Township in Luzerne County; his origins are uncertain."
 }

@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Step-great-great-grandfather: second husband of Catherine A. Murphy McAvoy.",
+  "summary": "Second husband of the widowed Catherine A. Murphy McAvoy at Plymouth, Pennsylvania; John's step-great-great-grandfather.",
   "sources": [
     "FamilySearch K6NQ-ZX8",
     "notes/round3/irish_pa.md",
@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0066.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -56,5 +60,6 @@
       "value": "G7QQ-PP2"
     }
   ],
-  "bio": "FamilySearch places John H. Jones, born about 1879 in Pennsylvania, in Plymouth Ward 1 in 1910, 1920 and 1930, as husband of the widowed Catherine A. (Murphy) McAvoy ([R4-S1]). He was roughly 19 years younger than his wife. No record ties him to Edward F. Jones's family."
+  "bio": "John H. Jones was born about 1879 in Pennsylvania. He became the second husband of the widowed Catherine A. (Murphy) McAvoy, and the couple lived at Plymouth, Luzerne Co., Pa., from 1910 through 1930. He was roughly nineteen years younger than his wife. Despite sharing a surname, he does not appear to have been related to Edward F. Jones's family. He was John's step-great-great-grandfather.",
+  "researchNotes": "FamilySearch places John H. Jones, born about 1879 in Pennsylvania, in Plymouth Ward 1 in 1910, 1920 and 1930, as husband of the widowed Catherine A. (Murphy) McAvoy ([R4-S1]). He was roughly 19 years younger than his wife. No record ties him to Edward F. Jones's family."
 }

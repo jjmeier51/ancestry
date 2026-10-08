@@ -24,14 +24,20 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815604.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Francesca married Bruno Ferlaino on 3 November 1777 ([R4-S1]). The marriage names her parents as Domenico Moraca and Domenica Mendicino, both new to the tree. She was the mother of both Nicola Maria (1778) and Vincenzo (1781) Ferlaino, so she is John's ancestor through two lines.",
+  "bio": "Francesca Moraca was born at San Mango D'Aquino in Calabria, Italy, the daughter of Domenico Moraca and Domenica Mendicino. She married Bruno Ferlaino there on 3 November 1777. She was the mother of both Nicola Maria Ferlaino, born in 1778, and Vincenzo Ferlaino, born in 1781, and since John descends from both sons she is his 5th-great-grandmother through two lines.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
   },
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 30, p. 54, no. 18; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Francesca married Bruno Ferlaino on 3 November 1777 ([R4-S1]). The marriage names her parents as Domenico Moraca and Domenica Mendicino, both new to the tree. She was the mother of both Nicola Maria (1778) and Vincenzo (1781) Ferlaino, so she is John's ancestor through two lines.",
+  "summary": "Francesca Moraca of San Mango D'Aquino, wife of Bruno Ferlaino and mother of two of John's ancestors; John's 5th-great-grandmother."
 }

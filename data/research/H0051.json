@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Munzingen mason; same family group, relationship unknown.",
-  "bio": "He and his wife née Scherer lost twin Stephan in 1853. Other Munzingen Birkenmaier records: infant deaths 1832 (Franziska, Carl Anton, Josepha, stillborn twins; index http://www.landesarchiv-bw.de/plink/?f=5-480946-376); a Joseph Birkenmaier marriage witness 1810 (http://www.landesarchiv-bw.de/plink/?f=5-480946-17).",
+  "summary": "Anton Birkenmaier, a mason of Munzingen in the 1850s, of the same Birkenmaier family as John's ancestors; the exact relationship is unknown.",
+  "bio": "Anton Birkenmaier was a mason at Munzingen in Baden. He and his wife, née Scherer, lost a twin son, Stephan, in 1853. He belonged to the same Birkenmaier family group as John's ancestors, but his exact relationship to them is not known.",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947) http://www.landesarchiv-bw.de/plink/?f=5-480947-286"
   ],
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0051.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "He and his wife née Scherer lost twin Stephan in 1853. Other Munzingen Birkenmaier records: infant deaths 1832 (Franziska, Carl Anton, Josepha, stillborn twins; index http://www.landesarchiv-bw.de/plink/?f=5-480946-376); a Joseph Birkenmaier marriage witness 1810 (http://www.landesarchiv-bw.de/plink/?f=5-480946-17)."
 }

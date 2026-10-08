@@ -12,8 +12,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 10th-great-grandfather; Huguenot of Moëze, Saintonge, remembered as a saddler and captain of a pike company, and hero of the 'three friars' legend.",
-  "bio": "Clute's Annals of Staten Island (1877, pp.408-9), 'from family records and traditions', says Jean Mersereau was a law student turned saddler and captain of a pike company. Family tradition: he greeted three cloaked friars with 'Good evening, gentlemen' instead of 'fathers', saying he knew 'but one Father, who is in Heaven'; when they drew hidden sabres 'he killed one, wounded another, and the third fled'. He died before 1685; the widow and children fled to England in 1685 and, fearing James II, all but son Paul sailed for Philadelphia but were 'driven to New York by stress of weather' and settled on Staten Island. Moëze ('Moise'), a bourg on the marshes south of Rochefort near Brouage, is confirmed as the family home by the 1693 marriages. His father 'Josué, general of the Garde royale', the 'Fontenay-le-Comte' association and his WikiTree birthplace 'Rochefort' are unsupported.",
+  "summary": "Huguenot of Moëze in Saintonge, remembered as a saddler and captain of a pike company and as hero of the 'three friars' legend; John's 10th-great-grandfather.",
+  "bio": "Jean Mersereau was a Huguenot of Moëze, a village on the marshes south of Rochefort near Brouage in Saintonge, which the family's marriages of 1693 confirm as its home. According to the family records and traditions gathered in Clute's Annals of Staten Island, he was a law student turned saddler and captain of a pike company.\n\nFamily tradition tells that he once greeted three cloaked friars with 'Good evening, gentlemen' instead of 'fathers', saying he knew 'but one Father, who is in Heaven'; when they drew hidden sabres, 'he killed one, wounded another, and the third fled'. He died before 1685. In that year his widow and children fled to England and, fearing James II, all but the son Paul sailed for Philadelphia; they were 'driven to New York by stress of weather' and settled on Staten Island. Claims that his father was Josué, a general of the royal guard, that the family came from Fontenay-le-Comte, or that Jean was born at Rochefort are unsupported.",
   "residences": [
     {
       "date": "BEF 1685",
@@ -48,6 +48,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0094.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Clute's Annals of Staten Island (1877, pp.408-9), 'from family records and traditions', says Jean Mersereau was a law student turned saddler and captain of a pike company. Family tradition: he greeted three cloaked friars with 'Good evening, gentlemen' instead of 'fathers', saying he knew 'but one Father, who is in Heaven'; when they drew hidden sabres 'he killed one, wounded another, and the third fled'. He died before 1685; the widow and children fled to England in 1685 and, fearing James II, all but son Paul sailed for Philadelphia but were 'driven to New York by stress of weather' and settled on Staten Island. Moëze ('Moise'), a bourg on the marshes south of Rochefort near Brouage, is confirmed as the family home by the 1693 marriages. His father 'Josué, general of the Garde royale', the 'Fontenay-le-Comte' association and his WikiTree birthplace 'Rochefort' are unsupported."
 }

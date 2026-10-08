@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Brother of James Tuthill (John's 8th-great-grand-uncle); his marriage to Hannah Reeve was merged into James's in the Ancestry tree.",
-  "bio": "Full brother of James, so the Wells/Tuthill descent and the Society of Colonial Wars route via William Wells survive the James-versus-Joshua confusion.\n\nAkerly: Joshua Tuthill of Cutchogue, b. 1690, d. 2 June 1782, married Hannah, daughter of Maj. James Reeve of Mattituck. Their children were James (1727), Samuel, John of Speonk (1728), Isaac, Deborah (m. Elijah Terry), Hannah, Deliverance and possibly Daniel ([R4-S1]).",
+  "summary": "Joshua Tuthill of Cutchogue (1690–1782), husband of Hannah Reeve and brother of James Tuthill, John's 8th-great-grand-uncle.",
+  "bio": "Joshua Tuthill was born in 1690 and lived at Cutchogue in Southold. He married Hannah, a daughter of Maj. James Reeve of Mattituck. Their children were James, born in 1727, Samuel, John of Speonk, born in 1728, Isaac, Deborah, who married Elijah Terry, Hannah, Deliverance and possibly Daniel. He died at Cutchogue on 2 June 1782.\n\nHe was a full brother of James Tuthill, John's 8th-great-grand-uncle, and the two brothers have sometimes been confused in family records, Joshua's marriage to Hannah Reeve having been attributed to James. The family's Wells and Tuthill descent, and its Society of Colonial Wars line through William Wells, stand either way.",
   "sources": [
     "McCurdy p14551",
     "Uploaded deep-dive report",
@@ -34,10 +34,15 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0265.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
     "date": "1782-06-02",
     "place": "Cutchogue, Southold, NY"
-  }
+  },
+  "researchNotes": "Full brother of James, so the Wells/Tuthill descent and the Society of Colonial Wars route via William Wells survive the James-versus-Joshua confusion.\n\nAkerly: Joshua Tuthill of Cutchogue, b. 1690, d. 2 June 1782, married Hannah, daughter of Maj. James Reeve of Mattituck. Their children were James (1727), Samuel, John of Speonk (1728), Isaac, Deborah (m. Elijah Terry), Hannah, Deliverance and possibly Daniel ([R4-S1])."
 }

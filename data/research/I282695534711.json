@@ -14,8 +14,8 @@
     "Maria Young"
   ],
   "tags": [],
-  "summary": "John's 5th-great-grandmother; wife of Frederick Croup.",
-  "bio": "Mary (Maria Jung) Young married Frederick Croup/Grub; Harvey's Shupp genealogy calls Susan Croup Shupp 'daughter of Frederick and Mary (Young) Croup', independently confirming the couple shown in John's tree. She is said to have died in 1841 (tree '-1841'); no record found. Her parents per the tree are John Young Sr. and Anna Maria Doll, a link with no online record.\n\nThe FamilySearch tree gives Maria (Young) Croup a birth in January 1776 and a death on 3 September 1842, and makes her the eldest child of Johannes Jung of Easton (d. before 12 September 1787) and Anna Maria Doll (1751-1813). Its only attached source is 'last will of Maria Young, Northampton Co PA, Will Book 4, p.458' ([R4-S1]) - evidently the 1813 will of her widowed mother, which would be the first document to tie Mary Croup to the Young-Doll family. The tree lists her siblings as Sara (1777), Johannes (1781-1813), Susannah (1783), Peter (1784-1854), Catherine, Elizabeth, Henry, Jacob and Margaretha Young ([R4-S1]). In 1840 a woman in her sixties was living with Frederick Croup in Plymouth Township, matching her ([R4-S2]).",
+  "summary": "Mary (Maria Jung) Young, wife of Frederick Croup of Plymouth Township, Luzerne County; John's 5th-great-grandmother.",
+  "bio": "Mary Young, also recorded as Maria Jung and Mary Croup, was born in Pennsylvania between 1770 and 1780; one account gives January 1776. She is said to have been the eldest child of Johannes Jung (John Young Sr.) of Easton, who died before September 1787, and Anna Maria Doll (1751-1813), a link that rests on her widowed mother's 1813 will. Her siblings were Sara, Johannes, Susannah, Peter, Catherine, Elizabeth, Henry, Jacob and Margaretha Young.\n\nShe married Frederick Croup, also written Grub, and the Shupp family genealogy independently calls their daughter Susan Croup Shupp \"daughter of Frederick and Mary (Young) Croup\". In 1840 a woman in her sixties, matching Mary, was living with Frederick in Plymouth Township. She is said to have died in Pennsylvania in 1841, though one account gives 3 September 1842. She is John's 5th-great-grandmother.",
   "facts": [
     {
       "label": "Tree shows",
@@ -54,6 +54,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695534711.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -87,5 +91,6 @@
       "place": "Plymouth Twp, Luzerne Co., PA",
       "description": "Female aged 60-69 in the household of Fred'k Croup (male 70-79), consistent with birth c.1771-80. [R4-S2]"
     }
-  ]
+  ],
+  "researchNotes": "Mary (Maria Jung) Young married Frederick Croup/Grub; Harvey's Shupp genealogy calls Susan Croup Shupp 'daughter of Frederick and Mary (Young) Croup', independently confirming the couple shown in John's tree. She is said to have died in 1841 (tree '-1841'); no record found. Her parents per the tree are John Young Sr. and Anna Maria Doll, a link with no online record.\n\nThe FamilySearch tree gives Maria (Young) Croup a birth in January 1776 and a death on 3 September 1842, and makes her the eldest child of Johannes Jung of Easton (d. before 12 September 1787) and Anna Maria Doll (1751-1813). Its only attached source is 'last will of Maria Young, Northampton Co PA, Will Book 4, p.458' ([R4-S1]) - evidently the 1813 will of her widowed mother, which would be the first document to tie Mary Croup to the Young-Doll family. The tree lists her siblings as Sara (1777), Johannes (1781-1813), Susannah (1783), Peter (1784-1854), Catherine, Elizabeth, Henry, Jacob and Margaretha Young ([R4-S1]). In 1840 a woman in her sixties was living with Frederick Croup in Plymouth Township, matching her ([R4-S2])."
 }

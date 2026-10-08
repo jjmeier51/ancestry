@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0432.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -30,8 +34,10 @@
   "burial": {
     "place": "St. Vincent de Paul Cemetery, Larksville, Pa."
   },
-  "bio": "FamilySearch: Mary Elizabeth Keating, b. Larksville Mar 1862, d. Plymouth 14 Jun 1914, buried St. Vincent de Paul, Larksville; 1880 census with John F. Connole at Avondale ([R4-S1]).",
+  "bio": "Mary Elizabeth Keating was born at Larksville, Pa., in March 1862. In 1880 she was living at Avondale in the household of John F. Connole. She died at Plymouth, Pa., on 14 June 1914 and was buried in St. Vincent de Paul Cemetery, Larksville.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Mary Elizabeth Keating (1862-1914), PID GC1C-MH9; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GC1C-MH9"
-  ]
+  ],
+  "researchNotes": "FamilySearch: Mary Elizabeth Keating, b. Larksville Mar 1862, d. Plymouth 14 Jun 1914, buried St. Vincent de Paul, Larksville; 1880 census with John F. Connole at Avondale ([R4-S1]).",
+  "summary": "Mary Elizabeth Keating (1862–1914) of Larksville and Plymouth, Pennsylvania, who lived with John F. Connole at Avondale in 1880."
 }

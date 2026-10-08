@@ -11,7 +11,7 @@
     "Nancy McGuire Holland"
   ],
   "tags": [],
-  "summary": "John's great-aunt; sister of Kathryn (possibly twin of Elizabeth).",
+  "summary": "Nancy McGuire Holland of Wilkes-Barre, sister of Kathryn and probably twin of Elizabeth; John's great-aunt.",
   "sources": [
     "FamilySearch G3PC-FFK",
     "notes/round3/irish_pa.md",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0063.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -54,5 +58,6 @@
       "value": "G3PC-FFK"
     }
   ],
-  "bio": "Ann \"Nancy\" McGuire, twin of Elizabeth \"Betsy\" (both b. 8 Mar 1928 per FS), married Robert Holland (1925-1979) and died at Scranton on 4 Jan 2007 ([R4-S1]; a GenealogyBank obituary index entry is attached; the image would not download in round 3)."
+  "bio": "Ann McGuire, known as Nancy, was born at Wilkes-Barre, Pennsylvania, on 8 March 1928, a sister of Kathryn McGuire and, family records say, the twin of Elizabeth 'Betsy' McGuire, who shares her birth date. She married Robert Holland (1925-1979) and died at Scranton on 4 January 2007. She was John's great-aunt.",
+  "researchNotes": "Ann \"Nancy\" McGuire, twin of Elizabeth \"Betsy\" (both b. 8 Mar 1928 per FS), married Robert Holland (1925-1979) and died at Scranton on 4 Jan 2007 ([R4-S1]; a GenealogyBank obituary index entry is attached; the image would not download in round 3)."
 }

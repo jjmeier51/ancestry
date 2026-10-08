@@ -5,8 +5,8 @@
     "note": "FamilySearch tree claim only; only 18 years older than Stephen; no evidence."
   },
   "tags": [],
-  "summary": "FamilySearch-only claimed father of Stephen Scott - unsupported.",
-  "bio": "A FamilySearch profile gives Stephen Scott's father as Daniel Scott 1788-1811. Flagged as speculative/do not copy.\n\nA 'Daniel Scott Jr.' headed a household in Pittston Township in 1810: a man aged 26-44, a woman aged 16-25 and three young children, two of them boys ([R4-S1]). The man's age fits the tree's birth year of 1778 (and rules out FamilySearch's 1788, since he would then have been 22), and the young wife fits Hannah Devens (b. 1787). The 'Jr.' implies an older Daniel Scott in the same area; a Daniel Scott appears among the 1796 taxables of neighbouring Providence Township ([R4-S2]). A Joseph Scott and a Stephen Scott (aged 16-25) were enumerated on the same Pittston page ([R4-S1]). This is consistent with, but does not prove, the FamilySearch claim that Daniel and Hannah (Devens) Scott were the parents of Stephen J. Scott (b. Feb 1806). The FamilySearch profile makes him a son of Matthew Scott of Bennington, Vermont (d. 1789); the 'Jr.' in 1810 sits awkwardly with that, unless 'Jr.' distinguished him from an unrelated older Daniel.",
+  "summary": "Possible father of Stephen J. Scott, head of a Pittston Township household in 1810; John's 5th-great-grandfather if the link holds.",
+  "bio": "Daniel Scott is said to have been born in 1778 at Woodford, Bennington, Vermont, a son of Matthew Scott of Bennington, who died in 1789, and to have died at Pittstown in Luzerne County, Pennsylvania, in 1811. Family trees name him and his wife Hannah Devens, born in 1787, as the parents of Stephen J. Scott, but the claim is unproven.\n\nWhat the records do show is that a 'Daniel Scott Jr.' headed a household in Pittston Township in 1810 made up of a man aged between 26 and 44, a woman between 16 and 25 and three young children, two of them boys, which fits a man born in 1778 with a young wife. The 'Jr.' suggests an older Daniel Scott in the same area, and one appears among the taxpayers of neighbouring Providence Township in 1796. A Joseph Scott and a young Stephen Scott were listed on the same census page. All of this is consistent with, but does not prove, the claim that Daniel was Stephen's father. If he was, he is John's 5th-great-grandfather.",
   "sources": [
     "FamilySearch tree (Stephen Scott 9KXX-MH8 parents)",
     "[R4-S1] 1810 US census, Pittstown [Pittston] Twp, Luzerne Co., PA, p.656 (FS index ark 1:1:XH2B-VYH) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC9K-HF1/images/i/0/image.jpg",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824799104.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -72,5 +76,6 @@
       ],
       "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC9K-HF1"
     }
-  ]
+  ],
+  "researchNotes": "A FamilySearch profile gives Stephen Scott's father as Daniel Scott 1788-1811. Flagged as speculative/do not copy.\n\nA 'Daniel Scott Jr.' headed a household in Pittston Township in 1810: a man aged 26-44, a woman aged 16-25 and three young children, two of them boys ([R4-S1]). The man's age fits the tree's birth year of 1778 (and rules out FamilySearch's 1788, since he would then have been 22), and the young wife fits Hannah Devens (b. 1787). The 'Jr.' implies an older Daniel Scott in the same area; a Daniel Scott appears among the 1796 taxables of neighbouring Providence Township ([R4-S2]). A Joseph Scott and a Stephen Scott (aged 16-25) were enumerated on the same Pittston page ([R4-S1]). This is consistent with, but does not prove, the FamilySearch claim that Daniel and Hannah (Devens) Scott were the parents of Stephen J. Scott (b. Feb 1806). The FamilySearch profile makes him a son of Matthew Scott of Bennington, Vermont (d. 1789); the 'Jr.' in 1810 sits awkwardly with that, unless 'Jr.' distinguished him from an unrelated older Daniel."
 }

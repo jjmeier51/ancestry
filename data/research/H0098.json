@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 10th-great-grandfather; of Cozes, dead before his daughter's baptism.",
-  "bio": "'The deceased Daniel Delatour' was father of Suzanne La Tour, baptized at Cozes 19 Dec 1666.",
+  "summary": "A man of Cozes who died before December 1666, when his daughter Suzanne was baptized; John's 10th-great-grandfather.",
+  "bio": "Daniel Delatour lived at Cozes and was John's 10th-great-grandfather. He had died by 19 December 1666, when his daughter Suzanne La Tour was baptized at Cozes and he was described in the register as \"the deceased Daniel Delatour\".",
   "sources": [
     "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5 p.69"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0098.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "'The deceased Daniel Delatour' was father of Suzanne La Tour, baptized at Cozes 19 Dec 1666."
 }

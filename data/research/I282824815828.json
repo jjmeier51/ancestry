@@ -20,9 +20,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815828.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Teresa Maria Anna was baptized on 29 October 1749, daughter of Bernardo Cicco and Giovanna Moraca ([R4-S1]). She married Bruno Sacco as 'Marianna' on 29 December 1768 ([R4-S2]).",
+  "bio": "Teresa Maria Anna Cicco was baptized on 29 October 1749 at San Mango di Aquino, Catanzaro, Calabria, Italy, the daughter of Bernardo Cicco and Giovanna Moraca. Under the name Marianna she married Bruno Sacco on 29 December 1768. She died in 1807 at San Mango d'Aquino. She was John's 7th-great-grandmother.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -30,5 +34,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1747-1767 (Book 5), image 12, p. 18, no. 26; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 7, p. 8, no. 11; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Teresa Maria Anna was baptized on 29 October 1749, daughter of Bernardo Cicco and Giovanna Moraca ([R4-S1]). She married Bruno Sacco as 'Marianna' on 29 December 1768 ([R4-S2]).",
+  "summary": "Daughter of Bernardo Cicco and Giovanna Moraca of San Mango in Calabria, who married Bruno Sacco in 1768; John's 7th-great-grandmother."
 }

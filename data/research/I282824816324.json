@@ -20,9 +20,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816324.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Antonino was born on 19 January 1685, son of Antonio Colosimo and Giovanna Ierra (indexed 'Jersa') ([R4-S1]). His wife, mother of Francesco (1719), was Antonia Mendicino ([R4-S2]).",
+  "bio": "Antonino Colosimo was born at San Mango D'Aquino in Calabria on 19 January 1685, the son of Antonio Colosimo and Giovanna Ierra. His wife was Antonia Mendicino, the mother of his son Francesco, born in 1719.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -30,5 +34,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1670-1687 (Book 2), image 56, p. 59, no. 4; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 31, p. 25, no. 22; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Antonino was born on 19 January 1685, son of Antonio Colosimo and Giovanna Ierra (indexed 'Jersa') ([R4-S1]). His wife, mother of Francesco (1719), was Antonia Mendicino ([R4-S2]).",
+  "summary": "Antonino Colosimo of San Mango D'Aquino in Calabria, born 1685, husband of Antonia Mendicino; John's 8th-great-grandfather."
 }

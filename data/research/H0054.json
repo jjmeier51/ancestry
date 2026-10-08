@@ -6,7 +6,7 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Lead: 'Anna Meier (Mrs. Frederick)', d. 9 Feb 1940 Wilkes-Barre, aged 47 — possible wife of Fred Aloysius Meier, and a possible source of the tree's 1940 date for Henry.",
+  "summary": "Anna Mather of Wilkes-Barre, wife of Fred Aloysius Meier Sr., eldest son of Henry J. Meier, and mother of four; died in 1940 aged forty-seven.",
   "sources": [
     "Genealogy Trails 1940 deaths M–P http://genealogytrails.com/penn/luzerne/1940_deaths/m_n_o_p.html",
     "notes/round2/meier_gaps.md; notes/round3/meier_line.md",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0054.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -74,5 +78,6 @@
       "description": "FS tree citing Pennsylvania County Marriages (KHFK-S2W). [R4-S1]"
     }
   ],
-  "bio": "'Anna Meier (Mrs. Frederick)', who died in Wilkes-Barre on 9 Feb 1940 aged 47, was Anna Mather, wife of Fred Aloysius Meier Sr. (Henry J. Meier's eldest son). The FamilySearch tree gives her as born 28 Aug 1892 in Pennsylvania, daughter of John Mather (1854–1914) and Hanna M. Flynn (1855–1924). She lived in Wilkes-Barre in 1900 and 1910 (Ward 16), married Fred on 21 Apr 1915, and died 9 Feb 1940. She is buried at St. Mary's Cemetery, Hanover Township (Find a Grave index) ([R4-S1]). Her children were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James 'Harry' (1923–1943). Her death is a separate event from Henry J. Meier's death, which was in December 1950, not 1940."
+  "bio": "Anna Meier was born Anna Mather in Pennsylvania on 28 August 1892, the daughter of John Mather (1854–1914) and Hanna M. Flynn (1855–1924). She grew up in Wilkes-Barre, where the family was living in 1900 and 1910. On 21 April 1915 she married, in Luzerne County, Fred Aloysius Meier Sr., the eldest son of Henry J. Meier.\n\nTheir children were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James \"Harry\" (1923–1943). Anna died at Wilkes-Barre on 9 February 1940, aged forty-seven, and was buried in St. Mary's Cemetery, Hanover Township. Her death in 1940 has sometimes been confused with that of her father-in-law Henry J. Meier, who in fact died in December 1950.",
+  "researchNotes": "'Anna Meier (Mrs. Frederick)', who died in Wilkes-Barre on 9 Feb 1940 aged 47, was Anna Mather, wife of Fred Aloysius Meier Sr. (Henry J. Meier's eldest son). The FamilySearch tree gives her as born 28 Aug 1892 in Pennsylvania, daughter of John Mather (1854–1914) and Hanna M. Flynn (1855–1924). She lived in Wilkes-Barre in 1900 and 1910 (Ward 16), married Fred on 21 Apr 1915, and died 9 Feb 1940. She is buried at St. Mary's Cemetery, Hanover Township (Find a Grave index) ([R4-S1]). Her children were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James 'Harry' (1923–1943). Her death is a separate event from Henry J. Meier's death, which was in December 1950, not 1940."
 }

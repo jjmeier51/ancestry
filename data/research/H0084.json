@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 9th-great-grandmother; of Fockenberg-Limbach.",
-  "bio": "Of Fockenberg-Limbach (Kusel), daughter of Conrad Birgert; married Caspar Grub 1642. Her father Conrad Birgert is John's 10th-great-grandfather (speculative).\n\nFamilySearch (as 'Elisabetha Birkhert') gives her birth in 1618 at Fockenberg-Limbach and her death at Berschweiler on 13 Sep 1685, and names her parents as Conradt Birgert and Anna Eva Jacob ([R4-S1]). Her marriage to Caspar Grub on 9 Jan 1642 is indexed in 'Germany Marriages' with Conradt Birkhert as her father. Her attached records include her appearance as the mother 'Elisabetha Grub' in the baptism of a son Johann ([R4-S1]). None of these was read in Round 4.",
+  "summary": "Daughter of Conrad Birgert of Fockenberg-Limbach and wife of Caspar Grub; John's 9th-great-grandmother.",
+  "bio": "Elisabetha Birgert, whose surname is also written Birkhert, was born in 1618 at Fockenberg-Limbach, near Kusel, the daughter of Conrad Birgert and Anna Eva Jacob. On 9 January 1642 she married Caspar Grub, and she appears as Elisabetha Grub at the baptism of their son Johann. She died at Berschweiler on 13 September 1685. She is John's 9th-great-grandmother, and her father Conrad is, more tentatively, his 10th-great-grandfather.",
   "sources": [
     "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191858",
     "[R4-S1] FamilySearch published tree, Elisabetha Birkhert (KLK9-FD7), citing Germany Marriages 1558-1929 and Lutheran baptism entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KLK9-FD7"
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0084.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -51,5 +55,6 @@
       "label": "FamilySearch ID",
       "value": "KLK9-FD7"
     }
-  ]
+  ],
+  "researchNotes": "Of Fockenberg-Limbach (Kusel), daughter of Conrad Birgert; married Caspar Grub 1642. Her father Conrad Birgert is John's 10th-great-grandfather (speculative).\n\nFamilySearch (as 'Elisabetha Birkhert') gives her birth in 1618 at Fockenberg-Limbach and her death at Berschweiler on 13 Sep 1685, and names her parents as Conradt Birgert and Anna Eva Jacob ([R4-S1]). Her marriage to Caspar Grub on 9 Jan 1642 is indexed in 'Germany Marriages' with Conradt Birkhert as her father. Her attached records include her appearance as the mother 'Elisabetha Grub' in the baptism of a son Johann ([R4-S1]). None of these was read in Round 4."
 }

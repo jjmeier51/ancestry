@@ -10,8 +10,8 @@
     "State Senator Joshua Smith"
   ],
   "tags": [],
-  "summary": "John's 3rd cousin 7x removed (via Job: Job → Job 2d → Anna → Hannah → Joshua II), also 3C8R via Bull Smith; Hauppauge judge and New York state senator.",
-  "bio": "Gave the land for the Hauppauge Methodist church (his son enlarged it); bought 'The Judge's Lane', a right-of-way from the schoolhouse to the King's Highway (Wood pp. 15, 46). In 1798 Caleb Smith II, Joshua Smith II and Isaac Blydenburgh agreed to dam the Nissequogue headwaters and build the 'New Mills' (Stump Pond; now Blydenburgh County Park, NRHP district 1983). Third wife Deborah, daughter of Epenetus Smith 1st (Job 2d's son). Wikipedia calls the Joshua Smith House the 'estate of State Senator Joshua Smith, 1763–1845', 'in the Smithtown section of Hauppauge'. No Find a Grave memorial found; reburial in the Methodist churchyard likely but unconfirmed.",
+  "summary": "Judge of Hauppauge and New York state senator who gave the land for the Hauppauge Methodist church; John's 3rd cousin 7x removed.",
+  "bio": "Joshua Smith, known as Judge Joshua Smith and later as State Senator Joshua Smith, was born in 1763. He descended from Job Smith through Job 2d, Anna and Hannah, and so is John's 3rd cousin 7 times removed, as well as a 3rd cousin 8 times removed through Bull Smith. His third wife was Deborah, daughter of Epenetus Smith 1st, a son of Job 2d.\n\nHe gave the land for the Hauppauge Methodist church, which his son later enlarged, and bought the right-of-way from the schoolhouse to the King's Highway that became known as The Judge's Lane. In 1798 he joined Caleb Smith II and Isaac Blydenburgh in an agreement to dam the headwaters of the Nissequogue and build the New Mills; the mill pond, Stump Pond, now lies within Blydenburgh County Park, a historic district since 1983. His home, the Joshua Smith House in the Smithtown section of Hauppauge, is remembered as the estate of State Senator Joshua Smith. He died on 12 April 1845 and is thought to lie in the Methodist churchyard, though this is unconfirmed.",
   "sources": [
     "Wood (1920) pp. 15, 25–26, 46, 87–88",
     "Pelletreau (1898) App. pp. 466, 472, 478, 480",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0279.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -59,5 +63,6 @@
       "found": "1764 (Pelletreau) vs 27 Jul 1763 (Wikipedia)",
       "assessment": "Prefer Wikipedia's exact 27 Jul 1763; Pelletreau gives only the year."
     }
-  ]
+  ],
+  "researchNotes": "Gave the land for the Hauppauge Methodist church (his son enlarged it); bought 'The Judge's Lane', a right-of-way from the schoolhouse to the King's Highway (Wood pp. 15, 46). In 1798 Caleb Smith II, Joshua Smith II and Isaac Blydenburgh agreed to dam the Nissequogue headwaters and build the 'New Mills' (Stump Pond; now Blydenburgh County Park, NRHP district 1983). Third wife Deborah, daughter of Epenetus Smith 1st (Job 2d's son). Wikipedia calls the Joshua Smith House the 'estate of State Senator Joshua Smith, 1763–1845', 'in the Smithtown section of Hauppauge'. No Find a Grave memorial found; reburial in the Methodist churchyard likely but unconfirmed."
 }

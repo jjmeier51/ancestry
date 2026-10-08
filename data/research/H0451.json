@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0451.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,8 +46,10 @@
       "description": "By Pierre Peiret after banns on three Sundays; Josué 'de Moise en Saintonge', Marie 'de yers en Saintonge'. Signers include Jean Chadeayne, Henri Chadeayne, Josué Mercereau, Marie Chadeyne, Jean La Tourette, Elie Boudinot, Pierre Masse. [R4-S1]"
     }
   ],
-  "bio": "Marie Chadaine (Chadeayne) married Josué Mercereau at the French Church of New York on 16 Jul 1693, the same day as Jean La Tourette and Marie Mercereau. She is described as 'de yers en Saintonge', probably Hiers near Brouage, and he as of Moëze in Saintonge. Jean and Henri Chadeayne, presumably her kinsmen, signed as witnesses ([R4-S1]). She had appeared earlier as a godmother in the same church (index: Marie, s., p.13). Two children were baptized there: Marie (b. 16 May 1695, bapt. 19 May 1695, sponsors Jean Chadene and Elizabeth Mercereau) and Josué (b. 15 May 1696, bapt. 5 Jul 1696, sponsors Daniel Mercereau and Marie Boucherie) ([R4-S1]). That Josué (b. 1696) is the Joshua Mercereau (1696) whose son Joshua (1728-1804) ran the Mersereau spy ring for Washington.",
+  "bio": "Marie Chadaine, whose name was also written Chadeayne and Chadene, came from \"yers en Saintonge\", probably Hiers near Brouage. She had already stood as a godmother at the French Church of New York when, on 16 July 1693, she married there Josué Mercereau of Moëze in Saintonge; Jean La Tourette and Marie Mercereau were married in the same church on the same day. Jean and Henri Chadeayne, presumably her kinsmen, signed as witnesses.\n\nTwo children were baptized at the French Church: Marie, born on 16 May 1695 and baptized three days later with Jean Chadene and Elizabeth Mercereau as sponsors, and Josué, born on 15 May 1696 and baptized on 5 July with Daniel Mercereau and Marie Boucherie as sponsors. This younger Josué was the Joshua Mercereau whose son Joshua (1728–1804) ran the Mersereau spy ring for Washington.",
   "sources": [
     "[R4-S1] Collections of the Huguenot Society of America, vol. I (1886): registers of the French Church (Eglise Françoise à la Nouvelle York), transcribed (primary) https://archive.org/details/collectionsofhug01hugu"
-  ]
+  ],
+  "researchNotes": "Marie Chadaine (Chadeayne) married Josué Mercereau at the French Church of New York on 16 Jul 1693, the same day as Jean La Tourette and Marie Mercereau. She is described as 'de yers en Saintonge', probably Hiers near Brouage, and he as of Moëze in Saintonge. Jean and Henri Chadeayne, presumably her kinsmen, signed as witnesses ([R4-S1]). She had appeared earlier as a godmother in the same church (index: Marie, s., p.13). Two children were baptized there: Marie (b. 16 May 1695, bapt. 19 May 1695, sponsors Jean Chadene and Elizabeth Mercereau) and Josué (b. 15 May 1696, bapt. 5 Jul 1696, sponsors Daniel Mercereau and Marie Boucherie) ([R4-S1]). That Josué (b. 1696) is the Joshua Mercereau (1696) whose son Joshua (1728-1804) ran the Mersereau spy ring for Washington.",
+  "summary": "Marie Chadaine of Saintonge, who married Josué Mercereau at the French Church of New York in 1693; grandmother of the Joshua Mersereau who ran a spy ring for Washington."
 }

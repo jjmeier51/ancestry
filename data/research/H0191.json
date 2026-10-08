@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 7th-great-grand-aunt; wife of James Pringle (m. 1785).",
-  "bio": "Sister of Ensign Thomas; married James Pringle, brother of Samuel, in 1785.\n\nFamilySearch's 'Phebe Hart Lamoreaux' (31 Jan 1765 - 5 Apr 1856) is the wife of a James Pringle (1754-1828) ([R4-S1]). FamilySearch also makes that James Pringle a son of James and Anar Prindle of Newtown, born before their 1759 marriage. Her only source is a Geni/MyHeritage tree. The children's birthplaces (Pennsylvania 1786 and 1790, Orange Co. 1796, New York 1797, Connecticut 1799) suggest the family moved between Plymouth and the Hudson Valley.",
+  "summary": "Sister of Ensign Thomas Lamoreaux and wife of James Pringle, whom she married in 1785; John's 7th-great-grand-aunt.",
+  "bio": "Phebe Lamoreux was born on 31 January 1765, by family record at Cornwall, Orange County, New York, a sister of Ensign Thomas Lamoreaux. In 1785 she married James Pringle (1754–1828), brother of Samuel Pringle; some family records make this James a son of James and Anar Prindle of Newtown, but that rests on a single family tree. The birthplaces of the couple's children, in Pennsylvania in 1786 and 1790, Orange County in 1796, New York in 1797 and Connecticut in 1799, suggest that the family moved between Plymouth and the Hudson Valley. She died on 5 April 1856.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-359",
     "[R4-S1] FamilySearch published tree, Phebe Lamoreux (GQ6F-4XV), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQ6F-4XV"
@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0191.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -43,5 +47,6 @@
       "label": "FamilySearch ID",
       "value": "GQ6F-4XV"
     }
-  ]
+  ],
+  "researchNotes": "Sister of Ensign Thomas; married James Pringle, brother of Samuel, in 1785.\n\nFamilySearch's 'Phebe Hart Lamoreaux' (31 Jan 1765 - 5 Apr 1856) is the wife of a James Pringle (1754-1828) ([R4-S1]). FamilySearch also makes that James Pringle a son of James and Anar Prindle of Newtown, born before their 1759 marriage. Her only source is a Geni/MyHeritage tree. The children's birthplaces (Pennsylvania 1786 and 1790, Orange Co. 1796, New York 1797, Connecticut 1799) suggest the family moved between Plymouth and the Hudson Valley."
 }

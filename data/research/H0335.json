@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's maternal 3rd great-grandfather; a pecoraio (shepherd) of Bisaccia, father of Frank Giannetta.",
-  "bio": "FS tree: Savino Giannetta, b. 1842 (Round 2 tree additions give 12 Jan 1842). Marriage, Bisaccia, 20 Jul 1867, Matrimoni 1867 act 17: Savino, 24 (born c.1843), pecoraio (shepherd), son of the late Francesco Giannetta and Lucia Macchia(?); bride Angelamaria Fede, 18. He was still living at his son Frank's marriage on 1 Aug 1896. The Giannettas and Fedes were shepherds, typical of upland grazing Bisaccia.\n\nAccording to the FamilySearch tree, Savino (b. 12 Jan 1842, Bisaccia) was named after an elder brother Savino (1838–1841) who died in infancy, and after his grandfather Savino Giannetta (c.1786–1853) ([R4-S1], [R4-S2]). The tree lists these children of Savino and Angelamaria Fede: Francesco 'Frank' (2 May 1869), Lucia (14 Apr 1872), Antonio (14 Feb 1874 – 3 Nov 1903), Lucia (19 Feb 1877 – 17 Aug 1878), Maria Giuseppa 'Josephine' (11 Mar 1880; later Mrs. Michele Ragazzo of Hartford, CT), Nunzianda (c.1885 – 10 Mar 1888) and Bartolomeo (5–25 Jul 1889) ([R4-S1]). The repeated names and early deaths reflect the high infant mortality in Bisaccia. The 1896 marriage act (Round 3) shows Savino still living then. His death date is not in the tree.",
+  "summary": "John's maternal 3rd great-grandfather, a shepherd of Bisaccia in Campania and father of Frank Giannetta.",
+  "bio": "Savino Giannetta was born at Bisaccia in Avellino, Campania, Italy, on 12 January 1842, the son of Francesco Giannetta and, probably, Lucia Macchia. He was named after an elder brother Savino (1838–1841) who died in infancy and after his grandfather Savino Giannetta (about 1786–1853). He was John's maternal 3rd great-grandfather.\n\nHe was a pecoraio, or shepherd, as were the Fedes; both families followed the trade typical of the upland grazing country around Bisaccia. On 20 July 1867, aged 24 and with his father already dead, he married eighteen-year-old Angelamaria Fede at Bisaccia. Their children were Francesco 'Frank' (born 2 May 1869), Lucia (14 April 1872), Antonio (14 February 1874 – 3 November 1903), a second Lucia (19 February 1877 – 17 August 1878), Maria Giuseppa 'Josephine' (born 11 March 1880, later Mrs. Michele Ragazzo of Hartford, Connecticut), Nunzianda (about 1885 – 10 March 1888) and Bartolomeo (5–25 July 1889). The repeated names and early deaths reflect the high infant mortality of Bisaccia. Savino was still living when his son Frank married on 1 August 1896.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
     "Antenati, Bisaccia, Matrimoni 1896, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua445513/5glz731",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0335.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -57,5 +61,6 @@
       "label": "FamilySearch ID",
       "value": "2SZL-LPB"
     }
-  ]
+  ],
+  "researchNotes": "FS tree: Savino Giannetta, b. 1842 (Round 2 tree additions give 12 Jan 1842). Marriage, Bisaccia, 20 Jul 1867, Matrimoni 1867 act 17: Savino, 24 (born c.1843), pecoraio (shepherd), son of the late Francesco Giannetta and Lucia Macchia(?); bride Angelamaria Fede, 18. He was still living at his son Frank's marriage on 1 Aug 1896. The Giannettas and Fedes were shepherds, typical of upland grazing Bisaccia.\n\nAccording to the FamilySearch tree, Savino (b. 12 Jan 1842, Bisaccia) was named after an elder brother Savino (1838–1841) who died in infancy, and after his grandfather Savino Giannetta (c.1786–1853) ([R4-S1], [R4-S2]). The tree lists these children of Savino and Angelamaria Fede: Francesco 'Frank' (2 May 1869), Lucia (14 Apr 1872), Antonio (14 Feb 1874 – 3 Nov 1903), Lucia (19 Feb 1877 – 17 Aug 1878), Maria Giuseppa 'Josephine' (11 Mar 1880; later Mrs. Michele Ragazzo of Hartford, CT), Nunzianda (c.1885 – 10 Mar 1888) and Bartolomeo (5–25 Jul 1889) ([R4-S1]). The repeated names and early deaths reflect the high infant mortality in Bisaccia. The 1896 marriage act (Round 3) shows Savino still living then. His death date is not in the tree."
 }

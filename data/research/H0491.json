@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0491.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -33,7 +37,7 @@
   "death": {
     "date": "1744-03-16"
   },
-  "bio": "Wife of Henry Tuthill 'the Justice'. A family record printed in the Horton Genealogy ([R4-S2]) gives her death on 16 Mar 1744 'in the 73d year of her age' and Henry's on 4 Jan 1750 aged 84; Akerly gives her birth as about 1674. As a daughter of Bethia Wells she is John's 1st cousin 10 times removed through William Wells, and the great-grandmother of First Lady Anna Symmes Harrison.",
+  "bio": "Bethia Horton, a daughter of Bethia Wells, married Henry Tuthill, known as \"the Justice\". A family record printed in the Horton genealogy gives her death on 16 March 1744 \"in the 73d year of her age\", which places her birth about 1671, though another account gives about 1674; Henry died on 4 January 1750, aged 84. Through her mother she descends from William Wells, which makes her John's 1st cousin 10 times removed, and she was the great-grandmother of First Lady Anna Symmes Harrison.",
   "conflicts": [
     {
       "field": "birth",
@@ -45,5 +49,7 @@
   "sources": [
     "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 9 (secondary) https://archive.org/details/tuthillfamilyoft00aker",
     "[R4-S2] George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), pp. 11-12 and Tuthill record (secondary) https://archive.org/details/hortongenealogyo00hort"
-  ]
+  ],
+  "researchNotes": "Wife of Henry Tuthill 'the Justice'. A family record printed in the Horton Genealogy ([R4-S2]) gives her death on 16 Mar 1744 'in the 73d year of her age' and Henry's on 4 Jan 1750 aged 84; Akerly gives her birth as about 1674. As a daughter of Bethia Wells she is John's 1st cousin 10 times removed through William Wells, and the great-grandmother of First Lady Anna Symmes Harrison.",
+  "summary": "Wife of Henry Tuthill \"the Justice\" and great-grandmother of First Lady Anna Symmes Harrison; John's 1st cousin 10 times removed."
 }

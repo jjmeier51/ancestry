@@ -19,8 +19,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 4th-great-grandmother; Irish-born wife of Thomas Connole and mother of Mary Connole Heffernan.",
-  "bio": "Honora Dwyre (Bradsby) or 'Mary (Dwyer)' (son John F. Connole's obituary) was born in Ireland about 1825 (FamilySearch; the tree shows 'Honora D Cannole 1828-Deceased'). She emigrated with Thomas Connole in 1848 and bore Mary (Elmira 1850), John F. (Elmira 1853) and Honora (Plymouth Twp c.1855). FamilySearch says she died at Elmira, NY, which would explain why Thomas remarried (speculative). The tree gives her father as Dennis Dwyer (1807-1875), not found online. Her Irish place of origin is unknown.",
+  "summary": "Irish-born wife of Thomas Connole and mother of Mary Connole Heffernan; John's 4th-great-grandmother.",
+  "bio": "Honora Dwyer, who also appears in the records as Mary, was born in Ireland about 1825; family records name her father as Dennis Dwyer (1807-1875). She emigrated with Thomas Connole in 1848, and their children were Mary, born at Elmira, New York, in 1850, John F., born at Elmira in 1853, and Honora, born in Plymouth Township, Pennsylvania, about 1855. Some records say she died at Elmira, which, if true, would explain why Thomas later remarried, though that is only a guess. Through her daughter Mary Connole Heffernan she was John's 4th-great-grandmother.",
   "facts": [
     {
       "label": "Tree shows",
@@ -69,6 +69,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064750.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Honora Dwyre (Bradsby) or 'Mary (Dwyer)' (son John F. Connole's obituary) was born in Ireland about 1825 (FamilySearch; the tree shows 'Honora D Cannole 1828-Deceased'). She emigrated with Thomas Connole in 1848 and bore Mary (Elmira 1850), John F. (Elmira 1853) and Honora (Plymouth Twp c.1855). FamilySearch says she died at Elmira, NY, which would explain why Thomas remarried (speculative). The tree gives her father as Dennis Dwyer (1807-1875), not found online. Her Irish place of origin is unknown."
 }

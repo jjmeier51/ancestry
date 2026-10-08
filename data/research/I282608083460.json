@@ -8,7 +8,7 @@
     "Hannah Topping"
   ],
   "tags": [],
-  "summary": "Removed: the tree's wrong mother for Jerusha Topping.",
+  "summary": "Hannah Sayre (1668–1741), wife of Josiah Topping, once wrongly recorded as the mother of Jerusha Topping; not an ancestor or blood relative of John.",
   "facts": [
     {
       "label": "Tree shows",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608083460.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -65,5 +69,6 @@
       "description": "Named in Daniel Sayre's will as 'Hannah Topping the wife of Mr Josiah Topping'. [R4-S1]"
     }
   ],
-  "bio": "Her father Daniel Sayre's will of 1707 (Banta, [R4-S1]) names her as wife of Josiah Topping; Banta lists only two children, Josiah and John (b. 1706). Not an ancestor of John and, the Sayre line being non-ancestral, not a blood relative."
+  "bio": "Hannah Sayre was born in 1668 at Somerset, Suffolk, New York, and died at Bridgehampton on 2 August 1741. Her father Daniel Sayre's will of 1707 names her as the wife of Josiah Topping, and the couple had two recorded children, Josiah and John, the latter born in 1706. She was once recorded as the mother of Jerusha Topping, but she was not, and since the Sayres are not an ancestral line she is not a blood relative of John.",
+  "researchNotes": "Her father Daniel Sayre's will of 1707 (Banta, [R4-S1]) names her as wife of Josiah Topping; Banta lists only two children, Josiah and John (b. 1706). Not an ancestor of John and, the Sayre line being non-ancestral, not a blood relative."
 }

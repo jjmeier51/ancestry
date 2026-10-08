@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Lead (now excluded): Henry Meier died Huntington, Long Island, 21 Jul 1931, NYS cert. 44888.",
+  "summary": "A Henry Meier who died at Huntington on Long Island in 1931; once considered as John's ancestor Henry J. Meier, but a different man.",
   "sources": [
     "Reclaim the Records NYS Death Index 1931–35 CSV https://archive.org/download/reclaim-the-records-new-york-state-death-index-1880-1971/Reclaim_The_Records_-_New_York_State_Death_Index_-_1931-1935.csv",
     "notes/round2/meier_gaps.md",
@@ -34,7 +34,12 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0055.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "This lead is now definitively excluded. John's 3rd great-grandfather Henry J. Meier was alive in the 1950 census at 16 Barney St, Wilkes-Barre, aged 83 ([R4-S1]), and died at Wilkes-Barre on 20 Dec 1950 (PA death index 1950, file 104173) ([R4-S2]). The Henry Meier who died at Huntington, Long Island, in 1931 is someone else."
+  "bio": "This Henry Meier died at Huntington, Long Island, on 21 July 1931. He was for a time thought possibly to be John's ancestor Henry J. Meier of Wilkes-Barre, but that Henry was still living in Wilkes-Barre in 1950, aged 83, and died there on 20 December 1950. The man who died at Huntington in 1931 was therefore someone else, and he is not known to be related to the family.",
+  "researchNotes": "This lead is now definitively excluded. John's 3rd great-grandfather Henry J. Meier was alive in the 1950 census at 16 Barney St, Wilkes-Barre, aged 83 ([R4-S1]), and died at Wilkes-Barre on 20 Dec 1950 (PA death index 1950, file 104173) ([R4-S2]). The Henry Meier who died at Huntington, Long Island, in 1931 is someone else."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd-great-grand-uncle.",
-  "bio": "Samuel, 17 in 1880 (FamilySearch c.1862).\n\nFamilySearch has Samuel only in Andrew's 1870 and 1880 households (born 1862-63) ([R4-S1]). No later record was found, and Bradsby's 1893 list of Andrew's living children should be checked for his name.",
+  "summary": "A son of Andrew Pringle born about 1863, recorded as a boy in his father's household; John's 3rd-great-grand-uncle.",
+  "bio": "Samuel Pringle was born about 1862 or 1863, a son of Andrew Pringle, and was John's 3rd-great-grand-uncle. He appears as a child in his father's household in 1870 and again in 1880, when he was seventeen.",
   "sources": [
     "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X",
     "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0162.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -41,5 +45,6 @@
       "label": "FamilySearch ID",
       "value": "9KXX-M49"
     }
-  ]
+  ],
+  "researchNotes": "Samuel, 17 in 1880 (FamilySearch c.1862).\n\nFamilySearch has Samuel only in Andrew's 1870 and 1880 households (born 1862-63) ([R4-S1]). No later record was found, and Bradsby's 1893 list of Andrew's living children should be checked for his name."
 }

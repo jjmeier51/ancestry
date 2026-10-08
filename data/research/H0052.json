@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Kirchzarten Birkenmaier emigrant to North America, 1867 — same surname only.",
-  "bio": "The Kreisverkündigungsblatt of 14 Mar 1867 announced he wished to emigrate to North America; he did.",
+  "summary": "Birkenmaier of Kirchzarten who emigrated to North America in 1867; shares the surname only, with no proven kinship to John.",
+  "bio": "Augustin Birkenmaier was born on 24 September 1845 at Neuhäuser, Kirchzarten, in the Breisgau-Hochschwarzwald district of Baden-Württemberg. On 14 March 1867 the district gazette, the Kreisverkündigungsblatt, announced that he wished to emigrate to North America, and he did so. He shares the Birkenmaier surname with John's family, but no kinship has been established.",
   "sources": [
     "GEDBAS 1262179755 https://gedbas.genealogy.net/person/show/1262179755"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0052.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "The Kreisverkündigungsblatt of 14 Mar 1867 announced he wished to emigrate to North America; he did."
 }

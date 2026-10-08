@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th great-grandfather; citizen and carpenter (Zimmermann) of Munzingen — the furthest the Meier line goes in any record found.",
-  "bio": "Michael Mayer was a citizen (Bürger) and carpenter of Munzingen, named in his son Heinrich's 1820 marriage. His wife is not named there and his dates are not found. FamilySearch lists him as a bare name (PW7H-2P6). If he died 1810–39 his death is in the L 10 Nr. 1590 'Todtfälle' sections (not fully scanned). Four generations of the family worked in building trades: Michael carpenter, Heinrich mason, Friedrich stone mason, Henry iron moulder.",
+  "summary": "Citizen and carpenter of Munzingen, the earliest recorded ancestor of the Meier line; John's 5th-great-grandfather.",
+  "bio": "Michael Mayer was a citizen (Bürger) and carpenter (Zimmermann) of Munzingen, near Freiburg im Breisgau in Baden, and is John's 5th-great-grandfather. He is known from the record of his son Heinrich's marriage in 1820, which names him; the record does not name his wife, and his own birth and death dates are unknown. He stands as the earliest known ancestor of John's Meier line.\n\nHe began a family tradition in the building trades that ran through four generations: Michael was a carpenter, his son Heinrich a mason, his grandson Friedrich a stone mason and his great-grandson Henry an iron moulder.",
   "residences": [
     {
       "date": "1820",
@@ -45,6 +45,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0007.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Michael Mayer was a citizen (Bürger) and carpenter of Munzingen, named in his son Heinrich's 1820 marriage. His wife is not named there and his dates are not found. FamilySearch lists him as a bare name (PW7H-2P6). If he died 1810–39 his death is in the L 10 Nr. 1590 'Todtfälle' sections (not fully scanned). Four generations of the family worked in building trades: Michael carpenter, Heinrich mason, Friedrich stone mason, Henry iron moulder."
 }

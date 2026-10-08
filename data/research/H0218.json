@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sibling of John's 3rd-great-grandmother Catherine Scott (John's 3rd-great-grand-uncle).",
-  "bio": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 21 in 1850.\n\nFamilySearch gives Henry a death date of 7 Apr 1895 and a wife, Margaret Ann Davis (1834-1884), with children from 1853. A New York county marriage record of a son, Walter S. Scott, names Henry as his father ([R4-S1]). FamilySearch dates Stephen J. Scott's death to 19 Apr 1856 at Kingston.",
+  "summary": "Brother of John's 3rd-great-grandmother Catherine Scott, a Kingston, Pennsylvania, man who married Margaret Ann Davis; John's 3rd-great-grand-uncle.",
+  "bio": "Henry Scott was born on 24 May 1829, probably a son of Stephen and Julia Ann Scott of Kingston, Pennsylvania, and a brother of John's 3rd-great-grandmother Catherine Scott. He was 21 and still at home in 1850; his father Stephen J. Scott died at Kingston on 19 April 1856. Henry married Margaret Ann Davis (1834–1884), and their children were born from 1853; a son, Walter S. Scott, later married in New York. Henry died on 7 April 1895.",
   "sources": [
     "FamilySearch (Scott children)",
     "1850 census Kingston Twp dwelling 262",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0218.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -40,5 +44,6 @@
       "label": "FamilySearch ID",
       "value": "GM97-D3R"
     }
-  ]
+  ],
+  "researchNotes": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 21 in 1850.\n\nFamilySearch gives Henry a death date of 7 Apr 1895 and a wife, Margaret Ann Davis (1834-1884), with children from 1853. A New York county marriage record of a son, Walter S. Scott, names Henry as his father ([R4-S1]). FamilySearch dates Stephen J. Scott's death to 19 Apr 1856 at Kingston."
 }

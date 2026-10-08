@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Removed (Sayre branch).",
+  "summary": "Daniel Sayre of Southampton, Long Island, whose 1707 will names his daughter Hannah as wife of Josiah Topping; of the Sayre family, which is not an ancestral line of John.",
   "sources": [
     "Banks (1901)",
     "notes/colonial_virginia.md §2a",
@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0253.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -39,5 +43,6 @@
       "description": "Names children Joseph, Daniel, Hannah (wife of Mr Josiah Topping), deceased son Samuel's children, David, Ephraim and Nathan (executor); son-in-law Josiah Topping to sell two slaves, Gordg and Moll; the woman to choose her own master. [R4-S1]"
     }
   ],
-  "bio": "His will (Banta, [R4-S1]; recorded N.Y. Liber 7, folio 480) is the document that shows his daughter Hannah married Josiah Topping and had no daughter Jerusha. A humane touch: he asked that his enslaved woman 'may have Liberty to chuse her master when she is sold' and keep her clothes and box."
+  "bio": "Daniel Sayre lived at Southampton on Long Island. His will, dated 21 August 1707 and proved 13 April 1708, names his daughter Hannah as the wife of Josiah Topping and shows that she had no daughter Jerusha, which is why the Sayres are not among John's ancestors. The will has a humane touch: he asked that his enslaved woman 'may have Liberty to chuse her master when she is sold' and that she keep her clothes and her box.",
+  "researchNotes": "His will (Banta, [R4-S1]; recorded N.Y. Liber 7, folio 480) is the document that shows his daughter Hannah married Josiah Topping and had no daughter Jerusha. A humane touch: he asked that his enslaved woman 'may have Liberty to chuse her master when she is sold' and keep her clothes and box."
 }

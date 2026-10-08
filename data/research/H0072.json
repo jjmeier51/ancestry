@@ -12,8 +12,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 6th-great-grandmother, missing from his tree; wife of Andreas Grub, who remarried in Pennsylvania.",
-  "bio": "Maria Elisabetha Christmann was born 9 Aug 1729 at Kollweiler, daughter of the late Jacob Christmann, and married Johann Andreas Grub at Jettenbach on 19 Sep 1752. She emigrated with him in 1754. Widowed in 1792, she was co-executor with son Frederick, and later married widower Christopher Bittenbender. Her 1810 will names 'her son Frederick Krub'. She died 19 Jan 1815 and was buried at Easton Cemetery (Find a Grave 261051335). Not in John's tree (Round 1 correction 3h: add her).\n\nHer baptism is now read in the original Reichenbach Lutheran register (page 115, 1729): under 9 August, Jacob Christmann of Kollweiler and his wife Anna Margaretha had a daughter born, baptized on the 14th (9th Sunday after Trinity), and named Maria Elisabetha; the godparents included a Conrad ... of Nanzweiler and a Maria Elisabetha ([R4-S1]). This confirms the 9 August 1729 birth and gives her mother's first name, Anna Margaretha. FamilySearch calls the mother 'Anna Margarethe Raab' and gives the parents' marriage as 24 Nov 1722 at Kollweiler ([R4-S2]); the surname Raab is not in the baptism entry and is unverified.",
+  "summary": "Palatinate-born wife of Johann Andreas Grub who emigrated with him to Pennsylvania in 1754 and died at Easton in 1815; John's 6th-great-grandmother.",
+  "bio": "Maria Elisabetha Christmann was born on 9 August 1729 at Kollweiler, in the Reichenbach Lutheran parish, the daughter of Jacob Christmann and his wife Anna Margaretha, and was baptized on the 14th, the ninth Sunday after Trinity; her godparents included a Conrad of Nanzweiler and a Maria Elisabetha. Some family records give her mother's maiden name as Raab and her parents' marriage as 24 November 1722 at Kollweiler, but the surname is unverified. On 19 September 1752 she married Johann Andreas Grub at Jettenbach, and in 1754 she emigrated with him to Pennsylvania.\n\nWidowed in 1792, she served as co-executor of her husband's estate with their son Frederick, and later married the widower Christopher Bittenbender. Her own will of 1810 names \"her son Frederick Krub\". She died on 19 January 1815 at Easton, Northampton County, Pennsylvania, and was buried in Easton Cemetery. She was John's 6th-great-grandmother.",
   "sources": [
     "WikiTree Christmann-662: https://www.wikitree.com/wiki/Christmann-662",
     "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
@@ -49,6 +49,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0072.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -83,5 +87,6 @@
   "birth": {
     "date": "1729-08-09",
     "place": "Kollweiler (Reichenbach Lutheran parish)"
-  }
+  },
+  "researchNotes": "Maria Elisabetha Christmann was born 9 Aug 1729 at Kollweiler, daughter of the late Jacob Christmann, and married Johann Andreas Grub at Jettenbach on 19 Sep 1752. She emigrated with him in 1754. Widowed in 1792, she was co-executor with son Frederick, and later married widower Christopher Bittenbender. Her 1810 will names 'her son Frederick Krub'. She died 19 Jan 1815 and was buried at Easton Cemetery (Find a Grave 261051335). Not in John's tree (Round 1 correction 3h: add her).\n\nHer baptism is now read in the original Reichenbach Lutheran register (page 115, 1729): under 9 August, Jacob Christmann of Kollweiler and his wife Anna Margaretha had a daughter born, baptized on the 14th (9th Sunday after Trinity), and named Maria Elisabetha; the godparents included a Conrad ... of Nanzweiler and a Maria Elisabetha ([R4-S1]). This confirms the 9 August 1729 birth and gives her mother's first name, Anna Margaretha. FamilySearch calls the mother 'Anna Margarethe Raab' and gives the parents' marriage as 24 Nov 1722 at Kollweiler ([R4-S2]); the surname Raab is not in the baptism entry and is unverified."
 }

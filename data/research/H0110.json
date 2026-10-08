@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Brother of John's great-grandmother Florence Pringle (John's great-grand-uncle).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1909 (1910 census). His 1936 Luzerne marriage licence (No. 1732) names his parents as 'Addison F.' and 'Catherine Heffernan'. WWI/WWII service not found online (draft cards need a login).\n\nFamilySearch gives Francis (Frank) Pringle a birth date of 19 Aug 1909 at Plymouth and a death date of 25 Nov 1990, with burial in Hanover Twp, Luzerne Co. It records his marriage on 21 Oct 1936 to Mary Clark (1913-2000) and has him in Wilkes-Barre in 1940 ([R4-S1]). A GenealogyBank obituary index entry for Frank Pringle is attached but was not read.",
+  "summary": "Plymouth-born brother of John's great-grandmother Florence Pringle, who married Mary Clark in 1936 and lived in Wilkes-Barre; John's great-granduncle.",
+  "bio": "Francis Pringle, known as Frank, was born at Plymouth in Luzerne County, Pennsylvania, on 19 August 1909, the son of Addison F. Pringle and Catherine E. Heffernan, and a brother of John's great-grandmother Florence Pringle. On 21 October 1936 he married Mary Clark (1913–2000) in Luzerne County, and in 1940 the couple were living in Wilkes-Barre. He died on 25 November 1990 and was buried in Hanover Township, Luzerne County.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
     "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0110.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -60,5 +64,6 @@
       "label": "FamilySearch ID",
       "value": "L5BP-VZT"
     }
-  ]
+  ],
+  "researchNotes": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1909 (1910 census). His 1936 Luzerne marriage licence (No. 1732) names his parents as 'Addison F.' and 'Catherine Heffernan'. WWI/WWII service not found online (draft cards need a login).\n\nFamilySearch gives Francis (Frank) Pringle a birth date of 19 Aug 1909 at Plymouth and a death date of 25 Nov 1990, with burial in Hanover Twp, Luzerne Co. It records his marriage on 21 Oct 1936 to Mary Clark (1913-2000) and has him in Wilkes-Barre in 1940 ([R4-S1]). A GenealogyBank obituary index entry for Frank Pringle is attached but was not read."
 }

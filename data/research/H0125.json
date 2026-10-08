@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th-great-grand-uncle; husband of Anastasia Boney.",
-  "bio": "Baptized 3 May 1806 (Gortnahoe), son of Humphrey Heffernan and Anastasia Ryan; married Anastasia Boney at Gortnahoe 12 Feb 1827; lived at Mardyke; died in Ireland. Baptisms of their children name 'Dick Heffernan and Anty Boney' (Dwyer Branch 3).",
+  "summary": "Richard Heffernan of Gortnahoe, County Tipperary, husband of Anastasia Boney; John's 4th-great-grand-uncle.",
+  "bio": "Richard Heffernan was baptized at Gortnahoe, County Tipperary, Ireland, on 3 May 1806, a son of Humphrey Heffernan and Anastasia Ryan. He married Anastasia Boney at Gortnahoe on 12 February 1827, and the couple lived at Mardyke; the baptisms of their children record the parents familiarly as \"Dick Heffernan and Anty Boney\". He died in Ireland. He was John's 4th-great-grand-uncle.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0125.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -43,5 +47,6 @@
       "note": "Richard Heffernan, 1806-00-00 – 1874-10-12",
       "url": "https://www.wikitree.com/wiki/Heffernan-570"
     }
-  ]
+  ],
+  "researchNotes": "Baptized 3 May 1806 (Gortnahoe), son of Humphrey Heffernan and Anastasia Ryan; married Anastasia Boney at Gortnahoe 12 Feb 1827; lived at Mardyke; died in Ireland. Baptisms of their children name 'Dick Heffernan and Anty Boney' (Dwyer Branch 3)."
 }

@@ -15,8 +15,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "Aunt by marriage of John's 3rd-great-grandfather Andrew H. Heffernan (wife of his uncle Richard), possibly also his blood aunt, and later stepmother of his wife Mary Connole.",
-  "bio": "Anastasia ('Anty') Boney married Richard Heffernan (bapt. 1806) at Gortnahoe on 12 Feb 1827; they lived at Mardyke; Richard died in Ireland and she emigrated to Plymouth with her children. In the 1860 Plymouth census, as 'Anna S. Heppen', 47, she lived with son James and Jeremiah Boney, 30 (probable relative). After 1860 she became the second wife of the widower Thomas Connole, making her Mary Connole's stepmother. She died at Plymouth on 3 Aug 1896 aged 84. Her obituary says she married twice, her first husband died in Ireland, her children were James Heffernan and Katherine Heffernan Grimes, and her stepchildren were Mrs. Andrew Heffernan, John F. Connole and Mrs. William Dalley; John F. Connole's obituary calls her 'Ann (Boner) Connole'. Surviving children: Catherine (1833-1908, m. Edmund Grimes), John (1835-1891, m. Margaret Fennelly), James (1838-1910, m. Ellen Kelly). The deep-dive report proposed she and Catherine Boney were sisters married to two Heffernans; Dwyer does not state it, so it stays probable-unproven.",
+  "summary": "Tipperary widow who brought her Heffernan children to Plymouth, Pennsylvania, and became stepmother to Mary Connole; aunt by marriage of John's ancestor Andrew H. Heffernan.",
+  "bio": "Anastasia Boney, known as Anty, was born in County Tipperary, Ireland, about 1812. On 12 February 1827 she married Richard Heffernan, baptized in 1806, at Gortnahoe, and the couple lived at Mardyke. Richard died in Ireland, and Anastasia emigrated with her children to Plymouth, Pennsylvania. In 1860 she was living there with her son James and a 30-year-old Jeremiah Boney, probably a relative. After 1860 she became the second wife of the widower Thomas Connole, which made her stepmother to Mary Connole, the wife of Andrew H. Heffernan.\n\nShe died at Plymouth on 3 August 1896, aged 84. Her obituary recorded that she had married twice, that her first husband had died in Ireland, that her children were James Heffernan and Katherine Heffernan Grimes, and that her stepchildren were Mrs. Andrew Heffernan, John F. Connole and Mrs. William Dalley. Her surviving children were Catherine (1833–1908), who married Edmund Grimes; John (1835–1891), who married Margaret Fennelly; and James (1838–1910), who married Ellen Kelly.\n\nAs the widow of Richard Heffernan, brother of Andrew's father Thomas, she was Andrew H. Heffernan's aunt by marriage as well as the stepmother of his wife. It has been suggested that she and Andrew's mother Catherine Boney were sisters who married two Heffernan brothers, which would make her his blood aunt too, but that is unproven.",
   "sources": [
     "Find a Grave 162159301: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=162159301",
     "Find a Grave 183145812 (John F. Connole obituary): https://www.findagrave.com/memorial/183145812/john_francis-connole",
@@ -47,6 +47,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0126.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Anastasia ('Anty') Boney married Richard Heffernan (bapt. 1806) at Gortnahoe on 12 Feb 1827; they lived at Mardyke; Richard died in Ireland and she emigrated to Plymouth with her children. In the 1860 Plymouth census, as 'Anna S. Heppen', 47, she lived with son James and Jeremiah Boney, 30 (probable relative). After 1860 she became the second wife of the widower Thomas Connole, making her Mary Connole's stepmother. She died at Plymouth on 3 Aug 1896 aged 84. Her obituary says she married twice, her first husband died in Ireland, her children were James Heffernan and Katherine Heffernan Grimes, and her stepchildren were Mrs. Andrew Heffernan, John F. Connole and Mrs. William Dalley; John F. Connole's obituary calls her 'Ann (Boner) Connole'. Surviving children: Catherine (1833-1908, m. Edmund Grimes), John (1835-1891, m. Margaret Fennelly), James (1838-1910, m. Ellen Kelly). The deep-dive report proposed she and Catherine Boney were sisters married to two Heffernans; Dwyer does not state it, so it stays probable-unproven."
 }

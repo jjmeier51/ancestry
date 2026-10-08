@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 9th-great-grandfather (via Rachel Browne), of Southold.",
-  "bio": "Of Southold. Given by WikiTree as father of Rachel Browne. 'My brother Joseph Brown' in John Tuthill III's 1740 will is probably his son. Round 3 lists the new ancestry as 'Browne/King, Salmon and Horton'.",
+  "summary": "Of Southold on Long Island, father of Rachel Browne; John's 9th-great-grandfather.",
+  "bio": "Jonathan Browne was born in 1653 and lived at Southold, Suffolk County, New York, where he died in 1710. He is recorded as the father of Rachel Browne, through whom he was John's 9th-great-grandfather. The 'brother Joseph Brown' named in John Tuthill III's will of 1740 was probably his son.",
   "sources": [
     "WikiTree Tuthill-530 (getAncestors)",
     "notes/round3/english_french_origins.md §2i",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0227.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -49,5 +53,6 @@
       "found": "Salmon Record: 'Jonathan Brown died' 18 Sept, within the 1704 run of entries",
       "assessment": "Possibly a different Jonathan Brown; unresolved."
     }
-  ]
+  ],
+  "researchNotes": "Of Southold. Given by WikiTree as father of Rachel Browne. 'My brother Joseph Brown' in John Tuthill III's 1740 will is probably his son. Round 3 lists the new ancestry as 'Browne/King, Salmon and Horton'."
 }

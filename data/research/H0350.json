@@ -9,8 +9,8 @@
     "Katie 'Chas' Petriello"
   ],
   "tags": [],
-  "summary": "John's great-grandaunt.",
-  "bio": "Katie, 13, in the 1910 census at 1030 Ash St. Geni lists 'Katie \"Chas\"'; Round 2 says 'Chas' is a census misreading (Chas = Charles in 1920). Died before 1935.\n\nThe 1910 census lists 'Katie', a daughter aged 13, born in Pennsylvania ([R4-S1]). Marie is recorded as mother of 6 children, all 6 living, and exactly six children are listed: Katie, Peter, Frank, Joseph, Tony and Charlie. Grace Petrillo, born 5 Jan 1897, would have been 13 in April 1910, yet she does not appear unless she is 'Katie'. Grace's 1943 repatriation card confirms she was US-born on that date ([R4-S2]). Katie and Grace are therefore very probably the same girl ('Katie' perhaps a mishearing of 'Gracie'). In the 1920 census the 23-year-old at no. 1028 is recorded as 'Chas', son, male, a coal-mine laborer ([R4-S3]). That entry is unexplained, since Charles Thomas was only 13. It may be a garbled entry for the same child, or a separate son not otherwise recorded.",
+  "summary": "A daughter of John and Marie Petriello of Scranton recorded as Katie in 1910, very probably the same girl as Grace; John's great-grandaunt.",
+  "bio": "Katie Petrillo was born in Pennsylvania about 1897, a daughter of the Scranton grocer John Petriello and his wife Marie, and was John's great-grandaunt. In the 1910 census she appears as Katie, aged thirteen, the eldest of the six children in the household, all six of Marie's children then being alive: Katie, Peter, Frank, Joseph, Tony and Charlie.\n\nShe is very probably the same person as Grace Petrillo, who was born on 5 January 1897 and would have been thirteen in April 1910 yet is not otherwise listed; \"Katie\" may have been a mishearing of \"Gracie\". The 1920 census adds a puzzle, recording a twenty-three-year-old \"Chas\", a son working as a coal-mine labourer, who cannot be the younger Charles, then only thirteen; the entry may be a garbled record of the same child or of another son. If Katie was a separate daughter, she had died by 1935.",
   "sources": [
     "1910 census image GQWT-LP5",
     "Geni Giovanni Petriello profile",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0350.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -54,5 +58,6 @@
       "found": "Only six children existed in 1910 and Grace is not otherwise listed",
       "assessment": "Probable duplicate: merge Katie into Grace (H0351). The 'before 1935' death has no source."
     }
-  ]
+  ],
+  "researchNotes": "Katie, 13, in the 1910 census at 1030 Ash St. Geni lists 'Katie \"Chas\"'; Round 2 says 'Chas' is a census misreading (Chas = Charles in 1920). Died before 1935.\n\nThe 1910 census lists 'Katie', a daughter aged 13, born in Pennsylvania ([R4-S1]). Marie is recorded as mother of 6 children, all 6 living, and exactly six children are listed: Katie, Peter, Frank, Joseph, Tony and Charlie. Grace Petrillo, born 5 Jan 1897, would have been 13 in April 1910, yet she does not appear unless she is 'Katie'. Grace's 1943 repatriation card confirms she was US-born on that date ([R4-S2]). Katie and Grace are therefore very probably the same girl ('Katie' perhaps a mishearing of 'Gracie'). In the 1920 census the 23-year-old at no. 1028 is recorded as 'Chas', son, male, a coal-mine laborer ([R4-S3]). That entry is unexplained, since Charles Thomas was only 13. It may be a garbled entry for the same child, or a separate son not otherwise recorded."
 }

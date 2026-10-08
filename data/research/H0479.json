@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0479.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -29,8 +33,10 @@
   "death": {
     "date": "1788-03-05"
   },
-  "bio": "Daughter of Samuel Thompson & Hannah Brewster, granddaughter of John Thompson of Setauket (John's 11th-great-grandfather): 1st cousin 10 times removed. Married Thomas Strong 16 Aug 1734; children Selah, Abigail, Submit, Ruth, Mary, Susannah, Zipporah, Hannah and Katurah ([R4-S1]).",
+  "bio": "Susannah Thompson was born on 17 August 1712, the daughter of Samuel Thompson and Hannah Brewster and a granddaughter of John Thompson of Setauket, John's 11th-great-grandfather; she is therefore John's 1st cousin 10 times removed. On 16 August 1734 she married Thomas Strong. Their children were Selah, Abigail, Submit, Ruth, Mary, Susannah, Zipporah, Hannah and Katurah. She died on 5 March 1788.",
   "sources": [
     "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296 (secondary) https://archive.org/details/historyoflongisl003thom"
-  ]
+  ],
+  "researchNotes": "Daughter of Samuel Thompson & Hannah Brewster, granddaughter of John Thompson of Setauket (John's 11th-great-grandfather): 1st cousin 10 times removed. Married Thomas Strong 16 Aug 1734; children Selah, Abigail, Submit, Ruth, Mary, Susannah, Zipporah, Hannah and Katurah ([R4-S1]).",
+  "summary": "Susannah Thompson (1712–1788), granddaughter of John Thompson of Setauket and wife of Thomas Strong; John's 1st cousin 10 times removed."
 }

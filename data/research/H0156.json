@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd-great-grand-uncle (brother of Andrew G. Pringle) - the documented brother who proves Andrew's parentage.",
-  "bio": "Noah Pringle was born at Plymouth 16 Feb 1834 and died at Beach Haven 28 Apr 1885. The Harvey Book (pp.370-371) names him son of James and Elizabeth (Croup) Pringle and grandson of Samuel and Martha (Lamoreaux). He was 16, farmer, in the 1850 household. He married Esther Louisa Nesbitt in 1857; six children; she later lived at Ives, Dundee Co., Nebraska. No Civil War service found.\n\nFamilySearch dates Noah's marriage to Esther Louisa Nesbitt to 15 Nov 1857, places him in Plymouth in every census from 1850 to 1880, and attaches an Ohio death record (1908-1953) of a son, Frank E. Pringle, that names Noah as his father ([R4-S1]). That son is not yet in the tree.",
+  "summary": "Farmer of Plymouth, Pennsylvania, and brother of Andrew G. Pringle; John's 3rd-great-grand-uncle.",
+  "bio": "Noah Pringle was born at Plymouth, Luzerne County, Pennsylvania, on 16 February 1834, the son of James and Elizabeth (Croup) Pringle and grandson of Samuel and Martha (Lamoreaux) Pringle. By 1850 he was already working as a farmer at sixteen. On 15 November 1857 he married Esther Louisa Nesbitt, and they had six children; a son, Frank E. Pringle, later died in Ohio. Noah lived at Plymouth throughout the years from 1850 to 1880 and died at Beach Haven, Luzerne County, on 28 April 1885. Esther afterwards lived at Ives, Dundee Co., Nebraska. He was a brother of John's ancestor Andrew G. Pringle, whose parentage his own well-recorded family establishes, and so John's 3rd-great-grand-uncle.",
   "sources": [
     "Harvey Book pp.370-371: https://archive.org/details/harveybookgiving00harv",
     "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0156.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -53,5 +57,6 @@
       "label": "FamilySearch ID",
       "value": "LWNW-PX9"
     }
-  ]
+  ],
+  "researchNotes": "Noah Pringle was born at Plymouth 16 Feb 1834 and died at Beach Haven 28 Apr 1885. The Harvey Book (pp.370-371) names him son of James and Elizabeth (Croup) Pringle and grandson of Samuel and Martha (Lamoreaux). He was 16, farmer, in the 1850 household. He married Esther Louisa Nesbitt in 1857; six children; she later lived at Ives, Dundee Co., Nebraska. No Civil War service found.\n\nFamilySearch dates Noah's marriage to Esther Louisa Nesbitt to 15 Nov 1857, places him in Plymouth in every census from 1850 to 1880, and attaches an Ohio death record (1908-1953) of a son, Frank E. Pringle, that names Noah as his father ([R4-S1]). That son is not yet in the tree."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd-great-grand-uncle; advertising manager of the Sunday Independent.",
-  "bio": "George Paul Heffernan (20 May 1893 - 17 Dec 1953), advertising manager of the Sunday Independent; married Claire P. Lydon in 1927.\n\nFamilySearch gives the marriage date as 18 Apr 1927 and two sons, George Paul (1928-2015) and Andrew Humphrey (1929-1998), both deceased ([R4-S1]). A baptism index entry \"Geo. Heffron\" (Pennsylvania Births and Christenings) is attached.",
+  "summary": "Advertising manager of the Sunday Independent (1893–1953), husband of Claire P. Lydon; John's 2nd-great-grand-uncle.",
+  "bio": "George Paul Heffernan was born on 20 May 1893 and became advertising manager of the Sunday Independent. On 18 April 1927, in Luzerne Co., Pa., he married Claire P. Lydon, and in 1930 they were living in Kingston, Pa. They had two sons, George Paul (1928–2015) and Andrew Humphrey (1929–1998). He died on 17 December 1953 and was buried in St. Mary's Cemetery, Hanover Twp, Pa. He is John's 2nd-great-grand-uncle.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0120.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -64,5 +68,6 @@
       "found": "20 May 1894 (FamilySearch)",
       "assessment": "Same day and month; year differs. The baptism index entry would settle it; keep 1893 (Dwyer) pending."
     }
-  ]
+  ],
+  "researchNotes": "George Paul Heffernan (20 May 1893 - 17 Dec 1953), advertising manager of the Sunday Independent; married Claire P. Lydon in 1927.\n\nFamilySearch gives the marriage date as 18 Apr 1927 and two sons, George Paul (1928-2015) and Andrew Humphrey (1929-1998), both deceased ([R4-S1]). A baptism index entry \"Geo. Heffron\" (Pennsylvania Births and Christenings) is attached."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nMariano (Martin) died in Scranton on 24 February 1941, aged about 41. The state death index records him twice, as 'Mariano Giannett' and as 'Martin Genette', under the same file number 18787 ([R4-S1]). In the 1910 census he appears as 'Marianna', son, 11, and in 1920 as 'Marion', 20, a coal-breaker laborer ([R4-S2], [R4-S3]). His widow was Mary (Santoli). Their daughter Angela Genett, 20, of 138 Sand Street, married Anthony Joseph DePietro at Dunmore on 16 Oct 1943, with her mother's consent because her father was dead ([R4-S4]).",
+  "summary": "Dunmore coal-breaker laborer, brother of Carmela \"Mollie\" Gianetta, who died in Scranton in 1941; John's great-grand-uncle.",
+  "bio": "Mariano Martin Giannetta, known in America as Martin or Marion Genette, was born in 1899, one of the Giannetta children of Dunmore. His siblings were Savino (1897-1964), Maria (born 1902), Antonio (1907-1998), Giuseppe (1912-1971), Rosa (born 1914), Charles J. (1916-1975) and Carmela \"Mollie\"; he is John's great-grand-uncle. The family lived in Dunmore from at least 1910 to 1930. In 1910 he was recorded as Marianna, aged 11, and in 1920, at 20, he was a laborer at a coal breaker living in the family home on Sand Street.\n\nHe married Mary Santoli. He died in Scranton on 24 February 1941, aged about 41, leaving his widow and a daughter, Angela. On 16 October 1943 Angela Genett, then 20, married Anthony Joseph DePietro at Dunmore, with her mother's consent because her father was dead.",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
     "notes/round2/italian_gaps.md 1",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0368.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -60,5 +64,6 @@
       "label": "PA death certificate file no.",
       "value": "18787 (1941)"
     }
-  ]
+  ],
+  "researchNotes": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nMariano (Martin) died in Scranton on 24 February 1941, aged about 41. The state death index records him twice, as 'Mariano Giannett' and as 'Martin Genette', under the same file number 18787 ([R4-S1]). In the 1910 census he appears as 'Marianna', son, 11, and in 1920 as 'Marion', 20, a coal-breaker laborer ([R4-S2], [R4-S3]). His widow was Mary (Santoli). Their daughter Angela Genett, 20, of 138 Sand Street, married Anthony Joseph DePietro at Dunmore on 16 Oct 1943, with her mother's consent because her father was dead ([R4-S4])."
 }

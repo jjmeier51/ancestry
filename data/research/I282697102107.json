@@ -5,8 +5,8 @@
     "note": "Tree only. Malvaso surname is supported in Dasà (1854-55 index) and neighbouring Acquaro."
   },
   "tags": [],
-  "summary": "John's maternal 4th great-grandmother per the tree; mother of Nicola Cognetta.",
-  "bio": "Tree: Domenica Malvaso (1781-1848), wife of Francesco Cognetta; parents Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742). Malvaso is concentrated in Acquaro, the comune adjacent to Dasà (5 of 13 US arrivals per paese.app), and occurs in Dasà in 1854-55 (Antenati index). Her 1848 death act should be in the Dasà Morti (civil registration from 1809).",
+  "summary": "Wife of Francesco Cognetta and mother of Nicola Cognetta, of Dasa in Calabria; John's maternal 4th-great-grandmother according to family records.",
+  "bio": "Domenica Malvaso was born about 1781 at Dasa in Calabria, the daughter of Nicola Malvaso, born in 1740, and Catarina Croce, born in 1742. She married Francesco Cognetta and was the mother of Nicola Cognetta. She died at Dasa on 21 January 1848. The Malvaso surname was concentrated in Acquaro, the comune next to Dasà, and also occurs in Dasà itself in the 1850s. Family records make her John's maternal 4th-great-grandmother, though this has not yet been confirmed by records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -42,6 +42,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282697102107.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Domenica Malvaso (1781-1848), wife of Francesco Cognetta; parents Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742). Malvaso is concentrated in Acquaro, the comune adjacent to Dasà (5 of 13 US arrivals per paese.app), and occurs in Dasà in 1854-55 (Antenati index). Her 1848 death act should be in the Dasà Morti (civil registration from 1809)."
 }

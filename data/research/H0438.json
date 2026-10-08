@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0438.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -48,7 +52,7 @@
       "value": "GL21-ST6"
     }
   ],
-  "bio": "The FamilySearch tree identifies the husband of Keturah Pringle as Charles Carter Robins/Robbins, born 30 Sep 1829 in Greenwich Twp., Gloucester Co., New Jersey, son of John Robbins (1803-1886) and Sarah Carter (1800-1886), who died 23 Sep 1878 in Hanover Twp., Luzerne Co., and is buried in Hanover Cemetery ([R4-S2]). The tree lists their children as Emily (1855-1930), Ella (1859-1919), Lulu M. (1862-1950), Byron S. (1870-1951) and Clarence Howard (1873-1959). Lulu M. matches Bradsby's 'Lulu M., daughter of Charles and Keturah (Pringle) Robbins', who married Plymouth tax collector Charles W. Honeywell on 28 Feb 1883 ([R4-S1]). The widowed Keturah married Philip Manhart on 19 Sep 1883 ([R4-S2]).",
+  "bio": "Charles Carter Robbins, whose surname is also written Robins, was born on 30 September 1829 in Greenwich Township, Gloucester County, New Jersey, according to family records, the son of John Robbins (1803–1886) and Sarah Carter (1800–1886). He married Keturah Pringle, and their children were Emily (1855–1930), Ella (1859–1919), Lulu M. (1862–1950), Byron S. (1870–1951) and Clarence Howard (1873–1959). He died on 23 September 1878 in Hanover Township, Luzerne County, Pennsylvania, and was buried in Hanover Cemetery. His daughter Lulu married Charles W. Honeywell, the Plymouth tax collector, on 28 February 1883, and his widow Keturah married Philip Manhart on 19 September 1883.",
   "conflicts": [
     {
       "field": "birth.place",
@@ -60,5 +64,7 @@
   "sources": [
     "[R4-S1] Bradsby, History of Luzerne County (1893), sketch of Charles W. Honeywell (secondary) https://archive.org/details/historyofluzerne00brad",
     "[R4-S2] FamilySearch Family Tree (published), Charles Carter Robins GL21-ST6; Keturah Pringle K86Y-ZB8 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GL21-ST6"
-  ]
+  ],
+  "researchNotes": "The FamilySearch tree identifies the husband of Keturah Pringle as Charles Carter Robins/Robbins, born 30 Sep 1829 in Greenwich Twp., Gloucester Co., New Jersey, son of John Robbins (1803-1886) and Sarah Carter (1800-1886), who died 23 Sep 1878 in Hanover Twp., Luzerne Co., and is buried in Hanover Cemetery ([R4-S2]). The tree lists their children as Emily (1855-1930), Ella (1859-1919), Lulu M. (1862-1950), Byron S. (1870-1951) and Clarence Howard (1873-1959). Lulu M. matches Bradsby's 'Lulu M., daughter of Charles and Keturah (Pringle) Robbins', who married Plymouth tax collector Charles W. Honeywell on 28 Feb 1883 ([R4-S1]). The widowed Keturah married Philip Manhart on 19 Sep 1883 ([R4-S2]).",
+  "summary": "Husband of Keturah Pringle, born in Gloucester County, New Jersey, who died in Hanover Township, Luzerne County, in 1878."
 }

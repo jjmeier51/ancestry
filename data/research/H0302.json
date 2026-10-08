@@ -9,8 +9,8 @@
     "Judge J. Lawrence Smith"
   ],
   "tags": [],
-  "summary": "Suffolk County DA and county judge; John's 5th cousin 6x removed; his heirs held the blunderbuss 'Old Crib' in 1898.",
-  "bio": "Path: Bull Smith → Richard 2d → Sarah (m. Nathaniel Woodhull) → Gen. Nathaniel Woodhull → Elizabeth (m. Henry Nicoll) → Eliza Willett Nicoll (m. Richard Smith) → J. Lawrence. His Smith surname also comes through his father's own Smithtown line.\n\nA closer route than the 5C6R on the site. Pelletreau ([R4-S2]) gives his father as Richard Smith 5th (1770-1831), son of Richard 4th (d. 1811), son of Ebenezer Smith and Anna, daughter of Job Smith 2d, son of Job Smith 1st, John's 10th-great-grandfather. Path: Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th -> J. Lawrence, 5 generations: 4th cousin 6 times removed (also 4C7R via Bull Smith -> Richard 2d -> Ebenezer, and 5C6R via his mother Eliza Nicoll -> Gen. Nathaniel Woodhull). Princeton 1837; Assembly 1846; Suffolk DA 1850; county judge 1858 ([R4-S1]). Wikipedia ([R4-S3]) adds that his wife Sarah Nicoll Clinch was the niece and adopted daughter of the merchant A. T. Stewart, and that he was perhaps the county's largest landowner. Children: Cornelia (Mrs Prescott Hall Butler), Louise Nicoll (Mrs Frank Sayre Osborne), Kate Annette (Mrs J. Bloomfield Wetherill), Bessie Springs (Mrs Stanford White), Ella Batavia (Mrs Devereux Emmet) and James Clinch.",
+  "summary": "Suffolk County district attorney and county judge, perhaps the county's largest landowner; a cousin of John through several Smithtown Smith lines.",
+  "bio": "Judge J. Lawrence Smith was born at Nissequogue, Long Island, on 20 September 1816. He graduated from Princeton in 1837, sat in the New York Assembly in 1846, became district attorney of Suffolk County in 1850 and county judge in 1858, and was perhaps the largest landowner in the county. His wife, Sarah Nicoll Clinch, was the niece and adopted daughter of the merchant A. T. Stewart. Their children were Cornelia (Mrs Prescott Hall Butler), Louise Nicoll (Mrs Frank Sayre Osborne), Kate Annette (Mrs J. Bloomfield Wetherill), Bessie Springs (Mrs Stanford White), Ella Batavia (Mrs Devereux Emmet) and James Clinch Smith. In 1898 his heirs held the family blunderbuss known as \"Old Crib\".\n\nHe was related to John by more than one Smithtown line. His father, Richard Smith 5th (1770-1831), was a son of Richard 4th, a son of Ebenezer Smith and Anna, daughter of Job Smith 2d, whose father Job Smith 1st was John's 10th-great-grandfather; by that route he was John's 4th cousin 6 times removed. Through his mother, Eliza Willett Nicoll, a granddaughter of General Nathaniel Woodhull and so a descendant of Bull Smith's son Richard, he was also a 5th cousin 6 times removed. He died in New York City on 17 March 1889 and was buried at St. James Episcopal Church in St. James, New York.",
   "sources": [
     "jrm Needham I2596",
     "Pelletreau App. p. 461",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0302.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -60,5 +64,6 @@
       "found": "4C6R via Job Smith (paternal line)",
       "assessment": "Use the closer paternal route."
     }
-  ]
+  ],
+  "researchNotes": "Path: Bull Smith → Richard 2d → Sarah (m. Nathaniel Woodhull) → Gen. Nathaniel Woodhull → Elizabeth (m. Henry Nicoll) → Eliza Willett Nicoll (m. Richard Smith) → J. Lawrence. His Smith surname also comes through his father's own Smithtown line.\n\nA closer route than the 5C6R on the site. Pelletreau ([R4-S2]) gives his father as Richard Smith 5th (1770-1831), son of Richard 4th (d. 1811), son of Ebenezer Smith and Anna, daughter of Job Smith 2d, son of Job Smith 1st, John's 10th-great-grandfather. Path: Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th -> J. Lawrence, 5 generations: 4th cousin 6 times removed (also 4C7R via Bull Smith -> Richard 2d -> Ebenezer, and 5C6R via his mother Eliza Nicoll -> Gen. Nathaniel Woodhull). Princeton 1837; Assembly 1846; Suffolk DA 1850; county judge 1858 ([R4-S1]). Wikipedia ([R4-S3]) adds that his wife Sarah Nicoll Clinch was the niece and adopted daughter of the merchant A. T. Stewart, and that he was perhaps the county's largest landowner. Children: Cornelia (Mrs Prescott Hall Butler), Louise Nicoll (Mrs Frank Sayre Osborne), Kate Annette (Mrs J. Bloomfield Wetherill), Bessie Springs (Mrs Stanford White), Ella Batavia (Mrs Devereux Emmet) and James Clinch."
 }

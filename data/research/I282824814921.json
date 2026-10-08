@@ -5,8 +5,8 @@
     "note": "Not John's ancestor: the tree made her Grazia Di Marino's mother, but Grazia's 1916 death act names Caterina di Leo. A 1855 marriage index names her as mother of Concetta di Marino, so she was probably Gaetano's earlier wife (probable). Her own parents are tree-only."
   },
   "tags": [],
-  "summary": "Probably the first wife of John's 4th great-grandfather Gaetano di Marino; NOT John's ancestor (tree error corrected in Round 3).",
-  "bio": "Tree: Maria d'Ambrosio (Deceased), wife of Gaetano di Marino and mother of Grazia; parents Giuseppe D'Ambrosio (1761-1841) + Maddalena Gialanella (1764-1824). Round 2: conflict with FS (Caterina di Leo). Round 3: Grazia's death act confirms Caterina di Leo; marriage index 1855 #23 lists Giuseppe Petriello (son of Carmine and Maria Marra) marrying Concetta [di] Marino, daughter of Gaetano and Maria d'Ambrosio, 26 Dec 1855. Probable: Gaetano married first Maria d'Ambrosio, then Caterina di Leo. Her parents and the D'Ambrosio/Gialanella/Giordano/Di Vivo/Parisi pedigree are therefore not in John's direct line.",
+  "summary": "Probably the first wife of Gaetano di Marino of Guardia Lombardi and mother of Concetta, not of John's ancestor Grazia; not in his direct line.",
+  "bio": "Maria d'Ambrosio lived and died at Guardia Lombardi, Avellino, Campania, Italy, a daughter of Giuseppe D'Ambrosio (1761–1841) and Maddalena Gialanella (1764–1824). She was probably the first wife of Gaetano di Marino, John's 4th-great-grandfather, who afterwards married Caterina di Leo. Her daughter Concetta di Marino married Giuseppe Petriello, son of Carmine Petriello and Maria Marra, on 26 December 1855.\n\nFamily records once showed Maria as the mother of Gaetano's daughter Grazia, John's ancestor, but Grazia's death record names her mother as Caterina di Leo. Maria and her D'Ambrosio and Gialanella forebears are therefore not in John's direct line.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,6 +44,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814921.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Maria d'Ambrosio (Deceased), wife of Gaetano di Marino and mother of Grazia; parents Giuseppe D'Ambrosio (1761-1841) + Maddalena Gialanella (1764-1824). Round 2: conflict with FS (Caterina di Leo). Round 3: Grazia's death act confirms Caterina di Leo; marriage index 1855 #23 lists Giuseppe Petriello (son of Carmine and Maria Marra) marrying Concetta [di] Marino, daughter of Gaetano and Maria d'Ambrosio, 26 Dec 1855. Probable: Gaetano married first Maria d'Ambrosio, then Caterina di Leo. Her parents and the D'Ambrosio/Gialanella/Giordano/Di Vivo/Parisi pedigree are therefore not in John's direct line."
 }

@@ -5,8 +5,8 @@
     "note": "Tree only (with record-image thumbnail); unsourced birth year."
   },
   "tags": [],
-  "summary": "John's maternal 5th great-grandmother per the tree; mother of Domenica Malvaso.",
-  "bio": "Tree: Catarina Croce (b. 1742), wife of Nicola Malvaso. Not researched.",
+  "summary": "Catarina Croce of Dasa in Calabria, wife of Nicola Malvaso and mother of Domenica Malvaso; John's 5th-great-grandmother.",
+  "bio": "Catarina Croce was born about 1742 at Dasa, Vibo Valentia, Calabria, Italy, and died there. She married Nicola Malvaso and was the mother of Domenica Malvaso. Through that line she was John's 5th-great-grandmother on his mother's side.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -40,6 +40,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282697103489.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Catarina Croce (b. 1742), wife of Nicola Malvaso. Not researched."
 }

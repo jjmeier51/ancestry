@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282824815359 (proven); parent of I282824815347 (proven)."
   },
   "tags": [],
-  "summary": "Wife of Carmine Gabriele Fiorillo (d",
-  "bio": "Wife of Carmine Gabriele Fiorillo (d. 1797) and mother of Domenico (c.1775-1849) and Francesco (c.1789-1853) Gabriele Fiorillo; surname varies by record.",
+  "summary": "Wife of Carmine Gabriele Fiorillo and mother of Domenico and Francesco; John's 6th-great-grandmother.",
+  "bio": "Giacinta, also written Cintia, was the wife of Carmine Gabriele Fiorillo, who died in 1797, and the mother of Domenico Gabriele Fiorillo (about 1775 to 1849) and Francesco Gabriele Fiorillo (about 1789 to 1853). Her maiden name is given differently from record to record, variously as Feraco, Iera or Marrello. She was John's 6th-great-grandmother.",
   "sources": [
     "[R4-S1] San Mango d'Aquino, stato civile, Civil deaths 1849, image 1557, act 22; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 32, p. 58, no. 23; image 61, p. 117, no. 11; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
@@ -16,6 +16,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-810 → M0060; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Wife of Carmine Gabriele Fiorillo (d. 1797) and mother of Domenico (c.1775-1849) and Francesco (c.1789-1853) Gabriele Fiorillo; surname varies by record."
 }

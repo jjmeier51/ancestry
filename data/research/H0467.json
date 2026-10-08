@@ -17,10 +17,16 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0467.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Joan (Harris), widow of Richard Palgrave, was Rev. John Youngs's second wife, married in England after 1630. Her Palgrave daughter Anna came to Salem with her stepfather ([R4-S1]). Not ancestral.",
+  "bio": "Joan, born Harris, was the widow of Richard Palgrave when she became the second wife of the Rev. John Youngs, marrying him in England some time after 1630. Her daughter Anna Palgrave came to Salem with her stepfather. She is not an ancestor of John.",
   "sources": [
     "[R4-S1] Selah Youngs Jr., Youngs Family: Vicar Christopher Yonges, his ancestors in England and his descendants in America (1907), pp. 38-41 (First and Second Generations) (secondary) https://archive.org/details/youngsfamilyvica00youn"
-  ]
+  ],
+  "researchNotes": "Joan (Harris), widow of Richard Palgrave, was Rev. John Youngs's second wife, married in England after 1630. Her Palgrave daughter Anna came to Salem with her stepfather ([R4-S1]). Not ancestral.",
+  "summary": "Joan (Harris) Palgrave, widow of Richard Palgrave and second wife of the Rev. John Youngs; not John's ancestor."
 }

@@ -5,8 +5,8 @@
     "note": "Tree only (shown 1934-Living); not researched."
   },
   "tags": [],
-  "summary": "John's great-aunt per the tree (sister of John T. Petriello).",
-  "bio": "Tree: Ann Marie Petriello 1934-Living. The 2024 obituary of John T. Petriello Jr. mentions a 'cousin Ann Marie' - relationship to this Ann Marie unclear.",
+  "summary": "Sister of John T. Petriello, born in Pennsylvania in 1934; John's great-aunt.",
+  "bio": "Ann Marie Petriello was born in Pennsylvania in 1934, a sister of John T. Petriello, which makes her John's great-aunt. In 1950 she was living at Dunmore, Lackawanna, Pennsylvania. The 2024 obituary of John T. Petriello Jr. mentions a cousin Ann Marie, though whether this is the same woman is unclear.",
   "sources": [
     "Ancestry tree screenshots IMG_7830-7840",
     "https://themontynews.org/single-post/john-t-petriello-jr-65"
@@ -24,6 +24,11 @@
     {
       "date": "2026-10-08",
       "note": "Handoff gives parents James Petriello (b. 1910), Carmela \"Mollie\" Gianetta (b. 1910) but the link is only \"unverified\", so the tree was not changed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Ann Marie Petriello 1934-Living. The 2024 obituary of John T. Petriello Jr. mentions a 'cousin Ann Marie' - relationship to this Ann Marie unclear."
 }

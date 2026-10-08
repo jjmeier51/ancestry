@@ -5,8 +5,8 @@
     "note": ""
   },
   "tags": [],
-  "summary": "John's 4th-great-grand-aunt/uncle (eldest child of Thomas Heffernan and Catherine Boney).",
-  "bio": "Baptized 14 Jul 1839 (Gortnahoe/Killenaule), named after grandmother Jude Quigley.",
+  "summary": "Eldest child of Thomas Heffernan and Catherine Boney, baptised in County Tipperary in 1839; John's 4th-great-grand-aunt or -uncle.",
+  "bio": "Jude Heffernan, the eldest child of Thomas Heffernan and Catherine Boney, was baptised on 14 July 1839 in the parish of Gortnahoe and Killenaule, County Tipperary, Ireland, and was named after a grandmother, Jude Quigley. Jude was John's 4th-great-grand-aunt or -uncle.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -31,6 +31,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0121.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Baptized 14 Jul 1839 (Gortnahoe/Killenaule), named after grandmother Jude Quigley."
 }

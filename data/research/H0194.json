@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Possible distant Lamoreaux cousin (speculative).",
-  "bio": "Judson LaMoure (1839-1918), North Dakota state senator; LaMoure County, ND, is named for him. The 1919 book says the ND LaMoures descend from James (b. 1731); exact line not traced.\n\nJudson LaMoure was born 27 Mar 1839 at Frelighsburg, Lower Canada, the youngest of five children of John Edward LaMoure (1795-1869) and Lois Louisa Perry (1805-1881); his eldest brother Edward Byron LaMoure was killed in an Indian raid at Elk Point, Dakota Territory, on 9 Aug 1865. He came to Davenport, Iowa, in 1859, tried the Pike's Peak gold rush in 1860, and from 1862 was at Elk Point. He moved to Pembina County in 1870, kept a store at Neche, and sat in the territorial and then state legislature until 1913. He married Minnie Ella Nelson on 3 Dec 1874 (six children, four surviving), and died at Stuart, Florida, on 16 Mar 1918 ([R4-S1]).\n\nThe 1919 Lamoureux Record only says the author 'thinks' the North Dakota LaMoures descend from Jacques/James Lamoureux (b. 1731, of Rensselaerville and Westerlo, Albany Co.), and that some of James's grandchildren adopted the spelling LaMoure ([R4-S2]). Judson's Quebec birth is a caution: the same publication notes separate French-Canadian Lamoureux families (from Boucherville, 1660s) in Quebec, including at Bedford, near Frelighsburg ([R4-S2]). Frelighsburg was also settled by Loyalists and New Englanders, so either origin is possible.",
+  "summary": "North Dakota pioneer merchant and state senator for whom LaMoure County is named; possibly a distant Lamoreaux cousin of John.",
+  "bio": "Judson LaMoure was born on 27 March 1839 at Frelighsburg, Lower Canada (Quebec), the youngest of the five children of John Edward LaMoure (1795–1869) and Lois Louisa Perry (1805–1881). His eldest brother, Edward Byron LaMoure, was killed in an Indian raid at Elk Point, Dakota Territory, on 9 August 1865. Judson came to Davenport, Iowa, in 1859, tried his luck in the Pike's Peak gold rush of 1860, and from 1862 was at Elk Point, where in 1865 he served as sub-agent to the Brule Sioux.\n\nIn 1870 he moved to Pembina County, kept a store at Neche, and sat first in the Dakota territorial legislature and then in the North Dakota State Senate from 1872 until 1913. LaMoure County, North Dakota, is named for him. On 3 December 1874 he married Minnie Ella Nelson; they had six children, four of whom survived. He died at Stuart, Florida, on 16 March 1918.\n\nHis kinship to John is speculative. The Lamoureux family record of 1919 thought that the North Dakota LaMoures descended from Jacques or James Lamoureux, born in 1731, of Rensselaerville and Westerlo in Albany County, some of whose grandchildren adopted the spelling LaMoure, but it did not trace the line. Judson's Quebec birth is a caution, since separate French-Canadian Lamoureux families, settled at Boucherville in the 1660s, lived in the province, including at Bedford near Frelighsburg; yet Frelighsburg was also settled by Loyalists and New Englanders, so either origin is possible.",
   "sources": [
     "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
     "[R4-S1] Wikipedia, 'Judson LaMoure' (secondary) https://en.wikipedia.org/wiki/Judson_LaMoure",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0194.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -82,5 +86,6 @@
   ],
   "openQuestions": [
     "Parentage of John Edward LaMoure (1795-1869): is he a grandson of James Lamoureux (1731-1821) of Westerlo, or of a Quebec Lamoureux family?"
-  ]
+  ],
+  "researchNotes": "Judson LaMoure (1839-1918), North Dakota state senator; LaMoure County, ND, is named for him. The 1919 book says the ND LaMoures descend from James (b. 1731); exact line not traced.\n\nJudson LaMoure was born 27 Mar 1839 at Frelighsburg, Lower Canada, the youngest of five children of John Edward LaMoure (1795-1869) and Lois Louisa Perry (1805-1881); his eldest brother Edward Byron LaMoure was killed in an Indian raid at Elk Point, Dakota Territory, on 9 Aug 1865. He came to Davenport, Iowa, in 1859, tried the Pike's Peak gold rush in 1860, and from 1862 was at Elk Point. He moved to Pembina County in 1870, kept a store at Neche, and sat in the territorial and then state legislature until 1913. He married Minnie Ella Nelson on 3 Dec 1874 (six children, four surviving), and died at Stuart, Florida, on 16 Mar 1918 ([R4-S1]).\n\nThe 1919 Lamoureux Record only says the author 'thinks' the North Dakota LaMoures descend from Jacques/James Lamoureux (b. 1731, of Rensselaerville and Westerlo, Albany Co.), and that some of James's grandchildren adopted the spelling LaMoure ([R4-S2]). Judson's Quebec birth is a caution: the same publication notes separate French-Canadian Lamoureux families (from Boucherville, 1660s) in Quebec, including at Bedford, near Frelighsburg ([R4-S2]). Frelighsburg was also settled by Loyalists and New Englanders, so either origin is possible."
 }

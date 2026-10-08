@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nJoseph married the girl next door: Vinchinza (Vincenza) Gillette of 135 Sand Street, a silk-mill hand. They married at St. Rocco's Catholic Church, Dunmore, on 17 June 1933 ([R4-S1]). The Gillette family had lived beside the Giannettas since at least 1910, when Tony Gillette's household is enumerated immediately before Francesco 'Janet''s on Sand Street ([R4-S2]).",
+  "summary": "Dunmore man, known as Joseph Genett, who married the girl next door in 1933; John's great-grand-uncle and brother of Carmela (Mollie) Gianetta.",
+  "bio": "Giuseppe Giannetta, known in America as Joseph Genett, was born in 1912, a brother of John's great-grandmother Carmela \"Mollie\" Gianetta. His brothers and sisters were Savino (1897–1964), Mariano Martin (1899–1941), Maria (born 1902), Antonio (1907–1998), Rosa (born 1914) and Charles J. (1916–1975). The family, headed by Francesco Giannetta, lived in Dunmore from at least 1910 through 1930.\n\nJoseph married the girl next door. Vincenza Gillette, a silk-mill hand whose family had lived beside the Giannettas on Sand Street since at least 1910, became his wife at St. Rocco's Catholic Church, Dunmore, on 17 June 1933. He died in 1971.",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
     "notes/round2/italian_gaps.md 1",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0371.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -61,5 +65,6 @@
         "H0334"
       ]
     }
-  ]
+  ],
+  "researchNotes": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nJoseph married the girl next door: Vinchinza (Vincenza) Gillette of 135 Sand Street, a silk-mill hand. They married at St. Rocco's Catholic Church, Dunmore, on 17 June 1933 ([R4-S1]). The Gillette family had lived beside the Giannettas since at least 1910, when Tony Gillette's household is enumerated immediately before Francesco 'Janet''s on Sand Street ([R4-S2])."
 }

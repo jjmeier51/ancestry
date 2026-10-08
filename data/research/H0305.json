@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Architect, partner at McKim, Mead & White, president of the National Academy of Design; John's 7th cousin 4x removed.",
-  "bio": "His cousin Lawrence Smith Butler (son of Cornelia Smith Butler), an architect, is also 7C4R. J. Lawrence Smith's other daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet (Gilded Age society figures) are 6C5R.\n\nSon of Stanford White and Bessie Springs Smith: 6th cousin 4 times removed via Job Smith (one generation below Bessie), closer than the 7C4R on the site.",
+  "summary": "Architect, partner at McKim, Mead & White and president of the National Academy of Design; John's 7th cousin 4 times removed.",
+  "bio": "Lawrence Grant White (1887–1956) was an architect, a partner in the firm of McKim, Mead & White and president of the National Academy of Design. He was the son of the architect Stanford White and Bessie Springs Smith, of the Smithtown Smiths.\n\nThrough his mother he is John's 7th cousin four times removed, and by a shorter line through Job Smith he can also be reckoned a 6th cousin four times removed. His cousin Lawrence Smith Butler, son of Cornelia Smith Butler and likewise an architect, stands in the same relationship to John. J. Lawrence Smith's daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet, figures in Gilded Age society, are John's 6th cousins five times removed.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Lawrence_Grant_White"
   ],
@@ -28,6 +28,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0305.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -74,5 +78,6 @@
       "found": "6C4R via Job Smith",
       "assessment": "See H0302."
     }
-  ]
+  ],
+  "researchNotes": "His cousin Lawrence Smith Butler (son of Cornelia Smith Butler), an architect, is also 7C4R. J. Lawrence Smith's other daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet (Gilded Age society figures) are 6C5R.\n\nSon of Stanford White and Bessie Springs Smith: 6th cousin 4 times removed via Job Smith (one generation below Bessie), closer than the 7C4R on the site."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 1st cousin 5x removed.",
-  "bio": "Son of widow Hulda; 23, teamster, b. PA, in 1850.\n\nFamilySearch tree KD3Q-Q7P gives Orange Pringle's birth as 7 Feb 1827 in Plymouth Twp., son of Samuel D. Pringle and Hulda Ives. He married Elizabeth Ann Keller (1835-1912). Their children were Samuel (b. Plymouth 26 Nov 1852, d. Edgerton, Wis., 28 Jun 1882), Emma Ann (b. Plymouth 22 Oct 1854, d. 1928), Lenora (1857-1872) and Adelia (b. Dunkirk, Wis., 1873). The family moved to Dane Co., Wisconsin, by 1870, living at Albion and then Dunkirk. Orange died in Rock Co. on 26 Jun 1900 and is buried in Fassett Cemetery, Edgerton ([R4-S1]). He appears as a parent in a Wisconsin marriage entry for a Miles Herrick, probably a daughter's marriage.",
+  "summary": "Teamster of Plymouth Township, Pennsylvania, who moved his family to Wisconsin; probably John's 1st cousin 5x removed.",
+  "bio": "Orange Pringle was born on 7 February 1827 in Plymouth Twp., Luzerne Co., PA, the son of Samuel D. Pringle and Hulda Ives. In 1850 he was a 23-year-old teamster living with his widowed mother. He married Elizabeth Ann Keller (1835–1912), and their children were Samuel, born at Plymouth on 26 November 1852, Emma Ann, born at Plymouth on 22 October 1854, Lenora (1857–1872) and Adelia, born at Dunkirk, Wisconsin, in 1873.\n\nBetween 1857 and 1870 the family moved west to Dane County, Wisconsin, living first at Albion and then at Dunkirk. Their son Samuel died at Edgerton in 1882 and Emma Ann in 1928; Orange also appears as a parent in a Wisconsin marriage record of a Miles Herrick, probably a daughter's marriage. He died in Rock County on 26 June 1900 and was buried in Fassett Cemetery, Edgerton. He is probably John's 1st cousin 5 times removed.",
   "sources": [
     "1850 census dwelling 942",
     "[R4-S1] FamilySearch published tree, Orange Pringle KD3Q-Q7P (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KD3Q-Q7P"
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0153.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -62,5 +66,6 @@
       "place": "Albion / Dunkirk, Dane Co., WI",
       "description": "In Albion, Dane Co., WI, in 1870, and in Dunkirk in 1885 (the 1885 Wisconsin state census is attached in the tree). [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Son of widow Hulda; 23, teamster, b. PA, in 1850.\n\nFamilySearch tree KD3Q-Q7P gives Orange Pringle's birth as 7 Feb 1827 in Plymouth Twp., son of Samuel D. Pringle and Hulda Ives. He married Elizabeth Ann Keller (1835-1912). Their children were Samuel (b. Plymouth 26 Nov 1852, d. Edgerton, Wis., 28 Jun 1882), Emma Ann (b. Plymouth 22 Oct 1854, d. 1928), Lenora (1857-1872) and Adelia (b. Dunkirk, Wis., 1873). The family moved to Dane Co., Wisconsin, by 1870, living at Albion and then Dunkirk. Orange died in Rock Co. on 26 Jun 1900 and is buried in Fassett Cemetery, Edgerton ([R4-S1]). He appears as a parent in a Wisconsin marriage entry for a Miles Herrick, probably a daughter's marriage."
 }

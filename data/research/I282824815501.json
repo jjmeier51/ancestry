@@ -5,8 +5,8 @@
     "note": "Tree only; Palladino absent from San Mango 1674-1804 stati and from the modern San Mango surname list."
   },
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Fiorillo/Fata pedigree.",
-  "bio": "Tree: Fulvia Palladino (1708-1774). Shown as 'Potential' in one view. Unsupported.",
+  "summary": "Fulvia Palladino (about 1708–1774) of Aiello Calabro in Calabria; John's 8th-great-grandmother through a Fiorillo and Fata line that is not yet proven.",
+  "bio": "Fulvia Palladino was born about 1708 and died on 2 September 1774 at Aiello Calabro, Cosenza, Calabria, Italy. She is placed as John's 8th-great-grandmother through the Fiorillo and Fata line, a descent that has not yet been supported by records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815501.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Fulvia Palladino (1708-1774). Shown as 'Potential' in one view. Unsupported."
 }

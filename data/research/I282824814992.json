@@ -5,8 +5,8 @@
     "note": "Tree only; tree wrongly gives her her husband's parents; detached from John's line."
   },
   "tags": [],
-  "summary": "Tree ancestor of Maria d'Ambrosio; not John's ancestor.",
-  "bio": "Tree: Claudia Di Vivo (1722-1811). The tree duplicates Angelo A. Gialanella + Maddalena Parisi as her parents too - an error that would make her Claudio's sister, and her Di Vivo surname contradicts a Gialanella father. Remove. Her real parents are unknown; Di Vivo does occur at Guardia (1 US arrival, paese.app).",
+  "summary": "Claudia Di Vivo (1722–1811), recorded among the forebears of Maria d'Ambrosio but not an ancestor of John.",
+  "bio": "Claudia Di Vivo was born in 1722 and died in 1811. She is recorded among the forebears of Maria d'Ambrosio but is not an ancestor of John. Her parents are unknown; the Di Vivo surname is found at Guardia.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -39,6 +39,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814992.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Claudia Di Vivo (1722-1811). The tree duplicates Angelo A. Gialanella + Maddalena Parisi as her parents too - an error that would make her Claudio's sister, and her Di Vivo surname contradicts a Gialanella father. Remove. Her real parents are unknown; Di Vivo does occur at Guardia (1 US arrival, paese.app)."
 }

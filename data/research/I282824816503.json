@@ -16,13 +16,17 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816503.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
     "date": "1845-01-23",
     "place": "San Mango d'Aquino"
   },
-  "bio": "Maria died on 23 January 1845, aged 58 (born about 1787), and was buried the next day as the wife of Vincenzo Ferlaino ([R4-S1], [R4-S2]). Both records name her parents as Andrea Colosimo and Carmela Cicco, who are new to the tree. Her 1809 marriage also names her father Andrea ([R4-S3]).",
+  "bio": "Maria Colosimo was born about 1787 at San Mango d'Aquino in Calabria, the daughter of Andrea Colosimo and Carmela Cicco. She married Vincenzo Ferlaino in 1809 and was John's 5th-great-grandmother. She died at San Mango on 23 January 1845, aged fifty-eight, and was buried the following day.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): Death, burial and marriage consistent; daughter Giuseppina's records name her."
@@ -31,5 +35,7 @@
     "[R4-S1] San Mango d'Aquino, stato civile, Civil deaths 1845, image 1401, act 5, 23 Jan 1845; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1811-1845 (Book 27), image 131, p. 50, no. 5; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1801-1811 (Book 19), image 25, p. 46, no. 2; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1801-1811'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Maria died on 23 January 1845, aged 58 (born about 1787), and was buried the next day as the wife of Vincenzo Ferlaino ([R4-S1], [R4-S2]). Both records name her parents as Andrea Colosimo and Carmela Cicco, who are new to the tree. Her 1809 marriage also names her father Andrea ([R4-S3]).",
+  "summary": "Daughter of Andrea Colosimo and Carmela Cicco, wife of Vincenzo Ferlaino of San Mango d'Aquino; John's 5th-great-grandmother."
 }

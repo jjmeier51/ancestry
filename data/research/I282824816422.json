@@ -20,9 +20,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816422.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Giovanna married Antonio Colosimo on 11 February 1680 ([R4-S1]) and was buried on 8 January 1707 ([R4-S2]).",
+  "bio": "Giovanna Iera, also called Joanna, was born in May 1658 at San Mango di Aquino, Catanzaro, Calabria, Italy. She married Antonio Colosimo there on 11 February 1680. She died at San Mango di Aquino and was buried on 8 January 1707. She was John's 9th-great-grandmother.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -30,5 +34,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1670-1687 (Book 2), image 121, p. 129; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1687-1713 (Book 3), image 160, p. 279, no. 1; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Giovanna married Antonio Colosimo on 11 February 1680 ([R4-S1]) and was buried on 8 January 1707 ([R4-S2]).",
+  "summary": "Wife of Antonio Colosimo at San Mango di Aquino in Calabria, married in 1680; John's 9th-great-grandmother."
 }

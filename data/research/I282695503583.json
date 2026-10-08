@@ -25,8 +25,8 @@
     "notable",
     "politician"
   ],
-  "summary": "John's great-granduncle; WWII Army veteran and president of Scranton City Council.",
-  "bio": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton.",
+  "summary": "WWII Army veteran, president of Scranton City Council and of the Scranton Red Sox baseball club; John's great-granduncle.",
+  "bio": "Anthony Ralph Cognetti, known as Tony, was born on 19 June 1924 at Scranton, Lackawanna County, Pennsylvania, the son of Frank Cognetti and Helen Ferlaino, whose maiden name appears as Farina in his obituary. He grew up in Scranton and was a student at Central High School when he registered for the draft in June 1942, naming his mother as his next of kin. He entered the Army on 10 July 1943 and served in the Second World War.\n\nAfter the war he attended Keystone Junior College and Penn State. In 1950, aged 25, he was living at home and working in an ice-cream store. He married Mary Carol Ruth (1929–1978). He went on to serve as president of Scranton City Council, and in the 1970s he was president of the Scranton Red Sox collegiate baseball club. He died at Scranton on 19 September 2008. He was John's great-granduncle.",
   "notable": "President of Scranton City Council; president of the Scranton Red Sox collegiate baseball club (1970s)",
   "military": [
     {
@@ -71,6 +71,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503583.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton."
 }

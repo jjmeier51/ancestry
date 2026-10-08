@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Judge of common pleas, assemblyman 1795, of Sagtikos Manor/Apple-Tree Neck, Islip; John's 2nd cousin 9x removed.",
-  "bio": "Path: John Thompson → Samuel → Jonathan (1710–86) → Isaac.\n\nSon of Jonathan Thompson (1710-86) and Mary Woodhull, grandson of Samuel Thompson ([R4-S2]): 2nd cousin 9 times removed via John Thompson. Magistrate for more than forty years, judge of common pleas and assemblyman ([R4-S1]). His wife made their children Bull Smith cousins too.",
+  "summary": "Judge of common pleas and assemblyman, of Sagtikos Manor at Islip, Long Island; John's 2nd cousin 9x removed.",
+  "bio": "Isaac Thompson was born on 18 January 1743, the son of Jonathan Thompson (1710–1786) and Mary Woodhull and a grandson of Samuel Thompson; through John Thompson he is John's 2nd cousin nine times removed. He married on 4 June 1772. He was a magistrate for more than forty years, a judge of common pleas and, in 1795, a member of the Assembly. Through his wife, his children were cousins of Bull Smith's descendants as well. He died at Sagtikos Manor, Apple-Tree Neck, Islip, on 3 January 1816.",
   "sources": [
     "Thompson vol. 3",
     "Wikipedia: Sagtikos Manor",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0314.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -70,5 +74,6 @@
       "place": "",
       "description": "Married Mary Gardiner, daughter of Col. Abraham Gardiner and Mary Smith (a Bull Smith descendant). [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Path: John Thompson → Samuel → Jonathan (1710–86) → Isaac.\n\nSon of Jonathan Thompson (1710-86) and Mary Woodhull, grandson of Samuel Thompson ([R4-S2]): 2nd cousin 9 times removed via John Thompson. Magistrate for more than forty years, judge of common pleas and assemblyman ([R4-S1]). His wife made their children Bull Smith cousins too."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grandfather; farmer at Lickfinn, Gortnahoe parish, Co. Tipperary.",
-  "bio": "Thomas Boney was a farmer at Lickfin, Gortnahoe, flourishing 1814, when his daughter Catherine was baptized (sponsor John Boney, Dwyer fn. 411). FamilySearch gives him a birth 'c1785', derived only from the 1904 register line (speculative). Whether Anastasia 'Anty' Boney (c.1812-1896) was also his daughter is unproven. Possible later Boney kin in Plymouth: Jeremiah Boney, 30, in Anastasia's 1860 household, and James Boney, 22, miner, in an 1870 Plymouth Heffernan household (speculative).",
+  "summary": "Farmer at Lickfinn in the parish of Gortnahoe, County Tipperary, and father of Catherine Boney Heffernan; John's 5th-great-grandfather.",
+  "bio": "Thomas Boney was a farmer at Lickfinn in the parish of Gortnahoe, County Tipperary, where his daughter Catherine, John's 4th-great-grandmother, was baptized in 1814 with a John Boney as sponsor. His birth is estimated at about 1785, though that is only a guess. Whether Anastasia \"Anty\" Boney, who married Richard Heffernan, was also his daughter is unproven. Two Boneys who later turned up in Plymouth, Pennsylvania, Jeremiah in 1860 and James, a young miner, in 1870, may have been his kin. He is John's 5th-great-grandfather.",
   "residences": [
     {
       "date": "1814",
@@ -43,6 +43,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0070.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Thomas Boney was a farmer at Lickfin, Gortnahoe, flourishing 1814, when his daughter Catherine was baptized (sponsor John Boney, Dwyer fn. 411). FamilySearch gives him a birth 'c1785', derived only from the 1904 register line (speculative). Whether Anastasia 'Anty' Boney (c.1812-1896) was also his daughter is unproven. Possible later Boney kin in Plymouth: Jeremiah Boney, 30, in Anastasia's 1860 household, and James Boney, 22, miner, in an 1870 Plymouth Heffernan household (speculative)."
 }

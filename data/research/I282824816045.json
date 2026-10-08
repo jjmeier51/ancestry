@@ -12,9 +12,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816045.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "The San Mango parish burial index has the entry on 26 August 1668 ([R4-S1]), matching the tree's death date.",
+  "bio": "Gio Domenico Riccio, known as Minico, with a surname also written Rizzo, lived at San Mango di Aquino in Calabria. The parish burial register there records his burial on 26 August 1668. He is probably John's 12th-great-grandfather.",
   "funFacts": [
     "Burials in 1668 (49) and 1669 (52) were several times the normal level: an epidemic year in San Mango."
   ],
@@ -24,5 +28,7 @@
   },
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1653-1671 (Book 1), image 85, p. 85, no. 16; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1653-1671'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "The San Mango parish burial index has the entry on 26 August 1668 ([R4-S1]), matching the tree's death date.",
+  "summary": "Known as Minico, of San Mango di Aquino in Calabria, where he was buried in 1668; John's 12th-great-grandfather."
 }

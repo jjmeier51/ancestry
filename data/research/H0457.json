@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0457.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -47,8 +51,10 @@
       "description": "Col. Philip Shupp Sr. built the mill about 1808 ('for a number of years the principal mill in Plymouth') and took Philip Jr. into partnership in 1817; they ran it until 1822. [R4-S1]"
     }
   ],
-  "bio": "Philip Shupp Jr. was a son of Col. Philip Shupp Sr. (of German parentage, born in southern Northampton Co., later of what is now Monroe Co., and in Plymouth by about 1806-07; d. Plymouth 1835) and Catharine Everett. His eldest sister Mary (b. 2 Jun 1791) married James Nesbitt in 1815 ([R4-S1]). About 1808 Colonel Shupp built a grist mill on what became Shupp's Creek, for some years Plymouth's principal mill, and in 1817 took Philip Jr. into partnership until 1822. The Harvey Book gives Philip Jr.'s dates as born 1795 and died 5 Oct 1833. His wife was Susan Croup (b. Nanticoke 1800, d. Plymouth Jan 1863), 'daughter of Frederick and Mary (Young) Croup'. Their daughter Mary (b. Plymouth 16 Nov 1820) married Charles Miner Nesbitt in 1844 and moved to La Porte and then Rolling Prairie, Indiana ([R4-S1]).",
+  "bio": "Philip Shupp Jr. was born in 1791, or 1795 by another account, the son of Colonel Philip Shupp Sr. and Catharine Everett. The Colonel, of German parentage, was born in southern Northampton County, lived for a time in what is now Monroe County, and had settled at Plymouth by about 1806 or 1807; he died there in 1835. About 1808 he built a grist mill on the stream that became Shupp's Creek, for some years the principal mill in Plymouth, and in 1817 he took Philip Jr. into partnership, an arrangement that lasted until 1822. Philip's eldest sister Mary, born on 2 June 1791, married James Nesbitt in 1815.\n\nPhilip married Susan Croup, who was born at Nanticoke in 1800, the daughter of Frederick and Mary (Young) Croup, and who died at Plymouth in January 1863. Their daughter Mary, born at Plymouth on 16 November 1820, married Charles Miner Nesbitt in 1844 and moved with him to La Porte and then to Rolling Prairie, Indiana. Philip died on 5 October 1833.",
   "sources": [
     "[R4-S1] Harvey, The Harvey Book (1899), Nesbitt genealogy pp.343 (Shupp mill, James Nesbitt) and 354-355 (Charles Miner Nesbitt) (secondary) https://archive.org/details/harveybookgiving00harv"
-  ]
+  ],
+  "researchNotes": "Philip Shupp Jr. was a son of Col. Philip Shupp Sr. (of German parentage, born in southern Northampton Co., later of what is now Monroe Co., and in Plymouth by about 1806-07; d. Plymouth 1835) and Catharine Everett. His eldest sister Mary (b. 2 Jun 1791) married James Nesbitt in 1815 ([R4-S1]). About 1808 Colonel Shupp built a grist mill on what became Shupp's Creek, for some years Plymouth's principal mill, and in 1817 took Philip Jr. into partnership until 1822. The Harvey Book gives Philip Jr.'s dates as born 1795 and died 5 Oct 1833. His wife was Susan Croup (b. Nanticoke 1800, d. Plymouth Jan 1863), 'daughter of Frederick and Mary (Young) Croup'. Their daughter Mary (b. Plymouth 16 Nov 1820) married Charles Miner Nesbitt in 1844 and moved to La Porte and then Rolling Prairie, Indiana ([R4-S1]).",
+  "summary": "Philip Shupp Jr. of Plymouth, Pa., miller in his father's grist mill on Shupp's Creek and husband of Susan Croup."
 }

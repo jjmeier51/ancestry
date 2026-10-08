@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0485.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -40,8 +44,10 @@
       "description": "Largest landed proprietor at Flushing; lived on Lawrence's (Tew's) Neck; Dutch magistrate 1655; English military commission. [R4-S1]"
     }
   ],
-  "bio": "Lawrence ([R4-S1]) says his sword, plate and personal effects alone were valued at GBP 4,430 (inventory, NY Surrogate Liber 22 p. 24). By his first wife he had William Jr., who in 1680 married Deborah Smith, the youngest sister of his own second wife Elizabeth Smith; so father and son married sisters. In-law of John's line.",
+  "bio": "William Lawrence was born in 1623 at Great St Albans, Hertfordshire, England, and emigrated to America in 1635. In 1645 he was one of the patentees of Flushing on Long Island. He was a man of substance: his sword, plate and personal effects alone were valued at £4,430 in the inventory of his estate. By his first wife he had a son, William Jr., who in 1680 married Deborah Smith, the youngest sister of his father's second wife Elizabeth Smith, so that father and son married sisters. William Lawrence died in 1680. He is related to John's line by marriage.",
   "sources": [
     "[R4-S1] Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 33-34 (secondary) https://archive.org/details/historicalgeneal00lawr"
-  ]
+  ],
+  "researchNotes": "Lawrence ([R4-S1]) says his sword, plate and personal effects alone were valued at GBP 4,430 (inventory, NY Surrogate Liber 22 p. 24). By his first wife he had William Jr., who in 1680 married Deborah Smith, the youngest sister of his own second wife Elizabeth Smith; so father and son married sisters. In-law of John's line.",
+  "summary": "Emigrant of 1635 and patentee of Flushing, Long Island, in 1645, whose second wife was Elizabeth Smith; related to John by marriage."
 }

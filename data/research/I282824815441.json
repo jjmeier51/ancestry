@@ -8,8 +8,8 @@
     "Marc A. Guercio"
   ],
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Guercio pedigree.",
-  "bio": "Tree: Marc A Guercio (1684-Deceased) + Anna Briglio (1694-Deceased).",
+  "summary": "Marc Antonio Guercio, born 1684 at Aiello Calabro in Calabria, husband of Anna Briglio; his place in John's Guercio ancestry is unproven.",
+  "bio": "Marc Antonio Guercio was born on 7 February 1684 at Aiello Calabro, Cosenza, Calabria, Italy. He married Anna Briglio, who was born in 1694. He is recorded among John's Guercio forebears, but that line of descent has not been confirmed by records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815441.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Marc A Guercio (1684-Deceased) + Anna Briglio (1694-Deceased)."
 }

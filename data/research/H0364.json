@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Half-sister (probable) of Grazia Di Marino; John's 3rd great-grandaunt (half).",
-  "bio": "Daughter of Gaetano and Maria d'Ambrosio; married Giuseppe Petriello (son of Carmine and Maria Marra) 26 Dec 1855. Key evidence that Maria d'Ambrosio was Gaetano's earlier wife.",
+  "summary": "Daughter of Gaetano di Marino and Maria d'Ambrosio, probably a half-sister of Grazia; John's half 3rd-great-grandaunt.",
+  "bio": "Concetta di Marino was a daughter of Gaetano di Marino and Maria d'Ambrosio, who was probably Gaetano's first wife; that would make Concetta a half-sister of John's ancestor Grazia di Marino and John's half 3rd-great-grandaunt. On 26 December 1855 she married Giuseppe Petriello, son of Carmine Petriello and Maria Marra.",
   "sources": [
     "Antenati index 1855 #23: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/wRvYlYY"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0364.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Gaetano and Maria d'Ambrosio; married Giuseppe Petriello (son of Carmine and Maria Marra) 26 Dec 1855. Key evidence that Maria d'Ambrosio was Gaetano's earlier wife."
 }

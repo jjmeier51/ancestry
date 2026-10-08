@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Famous Brooklyn preacher (Lafayette Avenue Presbyterian) and author; John's 5th cousin 5x removed.",
-  "bio": "Path: Mary Tuthill → Azariah Horton → Mary Horton Morrell → Charles Horton Morrell → Louisa Frances Morrell → Theodore. His mother's 'paternal great-grandfather was the Rev. Azariah Horton'.\n\nAkerly ([R4-S2]) independently names Azariah Horton as 'ancestor of the Rev. Theodore L. Cuyler, of Brooklyn', confirming the link already drawn from Cuyler's own Recollections. 5th cousin 5 times removed.",
+  "summary": "Famous Brooklyn preacher of the Lafayette Avenue Presbyterian Church and author; John's 5th cousin 5x removed.",
+  "bio": "Theodore Ledyard Cuyler was born on 10 January 1822 and became one of Brooklyn's best-known preachers, at the Lafayette Avenue Presbyterian Church, and a widely read author. He descends from Mary Tuthill through the Rev. Azariah Horton, Mary Horton Morrell, Charles Horton Morrell and his mother, Louisa Frances Morrell. Cuyler himself wrote in his Recollections that his mother's paternal great-grandfather was the Rev. Azariah Horton, and Akerly's history independently names Horton as the ancestor of 'the Rev. Theodore L. Cuyler, of Brooklyn'. He is John's 5th cousin five times removed. He died on 26 February 1909.",
   "sources": [
     "Cuyler, Recollections of a Long Life, https://www.gutenberg.org/ebooks/12549",
     "Wikipedia, https://en.wikipedia.org/wiki/Theodore_L._Cuyler",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0320.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -51,5 +55,6 @@
       "people": [],
       "url": "https://commons.wikimedia.org/wiki/File:Theodore_L._Cuyler.JPG"
     }
-  ]
+  ],
+  "researchNotes": "Path: Mary Tuthill → Azariah Horton → Mary Horton Morrell → Charles Horton Morrell → Louisa Frances Morrell → Theodore. His mother's 'paternal great-grandfather was the Rev. Azariah Horton'.\n\nAkerly ([R4-S2]) independently names Azariah Horton as 'ancestor of the Rev. Theodore L. Cuyler, of Brooklyn', confirming the link already drawn from Cuyler's own Recollections. 5th cousin 5 times removed."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Munzingen Birkenmayer contemporary of Servatius; possible aunt/cousin — do not confuse with John's Maria Anna (1837).",
-  "bio": "Daughter of Johannes Birkenmayer; married Salesius Schuhmacher; son Ferdinand b. 1828 Munzingen.",
+  "summary": "Daughter of Johannes Birkenmayer of Munzingen and wife of Salesius Schuhmacher (1810–1865); possibly an aunt or cousin of the family, and not John's ancestor Maria Anna.",
+  "bio": "Maria Anna Birkenmayer was born in 1810, a daughter of Johannes Birkenmayer of Munzingen. She married Salesius Schuhmacher, and their son Ferdinand was born at Munzingen in 1828. A contemporary of Servatius Birkenmayer, she may have been his aunt or cousin, but her exact place in the family is not known. She died in 1865 and should not be confused with John's ancestor of the same name, Maria Anna Birkenmayer, who was born in 1837.",
   "sources": [
     "GEDBAS 1370130587 https://gedbas.genealogy.net/person/show/1370130587 ; 1370130568 https://gedbas.genealogy.net/person/show/1370130568",
     "notes/round2/black_forest.md"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0050.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Johannes Birkenmayer; married Salesius Schuhmacher; son Ferdinand b. 1828 Munzingen."
 }

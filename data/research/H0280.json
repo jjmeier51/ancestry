@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd cousin 8x removed (Bull → Daniel → Daniel 2d → Caleb → Caleb II); 1798 mill partner.",
-  "bio": "Built a house in Hauppauge in 1790, reported to have stood at Veterans Highway and Old Willets Path, where the Suffolk County Police Fourth Precinct is today; moved to Commack in 1819; gave the Hauppauge house to daughter Sarah when she married Maj. Ebenezer Smith.\n\nHis wife Elizabeth, daughter of Aaron Smith 2d, was presumably a granddaughter of Aaron Smith (son of Job 1st), which would make his children John's cousins through Job Smith as well; Aaron 2d's parentage was not checked.",
+  "summary": "Smithtown descendant of Bull Smith who built a house at Hauppauge in 1790 and later moved to Commack; John's 3rd cousin 8 times removed.",
+  "bio": "Caleb Smith, the second of that name in his line, was born on 22 September 1762, a descendant of Bull Smith through Daniel Smith, Daniel 2d and the elder Caleb, which makes him John's 3rd cousin 8 times removed. In 1790 he built a house in Hauppauge, reported to have stood at Veterans Highway and Old Willets Path, where the Suffolk County Police Fourth Precinct is today. He married Elizabeth, daughter of Aaron Smith 2d, in 1795, and in 1798 he was a partner in a mill. Elizabeth was presumably a granddaughter of the Aaron Smith who was a son of Job Smith, which would make the children John's cousins through that line as well.\n\nIn 1819 Caleb moved to Commack, giving the Hauppauge house to his daughter Sarah when she married Maj. Ebenezer Smith. He died on 5 December 1831.",
   "residences": [
     {
       "date": "1790",
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0280.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -56,5 +60,6 @@
       "place": "",
       "description": "Married Elizabeth, daughter of Aaron Smith 2d; children Sarah (Mrs Maj. Ebenezer Smith), Martha (Mrs Thomas Mills), Elizabeth (Mrs Richard Blydenburgh), Caleb 3. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Built a house in Hauppauge in 1790, reported to have stood at Veterans Highway and Old Willets Path, where the Suffolk County Police Fourth Precinct is today; moved to Commack in 1819; gave the Hauppauge house to daughter Sarah when she married Maj. Ebenezer Smith.\n\nHis wife Elizabeth, daughter of Aaron Smith 2d, was presumably a granddaughter of Aaron Smith (son of Job 1st), which would make his children John's cousins through Job Smith as well; Aaron 2d's parentage was not checked."
 }

@@ -9,8 +9,8 @@
     "President Benjamin Harrison"
   ],
   "tags": [],
-  "summary": "23rd U.S. President and John's only blood-related president: 6th cousin 5x removed via John Tuthill, also 7th cousin 4x removed via William Wells.",
-  "bio": "Kin only through his Long Island grandmother Anna Symmes, not through the Virginia Harrisons of Berkeley Plantation. William Henry Harrison and John Tyler are related by marriage only; Theodore Roosevelt is not kin. Harrison extension cousins (John Scott Harrison; William Henry Harrison III of Wyoming) were not researched.\n\nPath verified: John Tuthill (1635) -> Henry (1665) -> Henry (1690) -> Henry (d. 1793) -> Anna Tuthill -> Anna Symmes Harrison -> John Scott Harrison -> Benjamin, 7 generations: 6th cousin 5 times removed (Akerly [R4-S2]; Wikipedia [R4-S1] for the Harrison generations). Second route via William Wells (Bethia Wells -> Bethia Horton -> Henry 1690 ...), 8 generations: 7th cousin 4 times removed. Conditional third route via Barnabas Horton (7C5R, twice) if the Rachel Browne line holds. His Virginia Harrison ancestry is not John's.",
+  "summary": "23rd President of the United States and John's only blood-related president, a 6th cousin 5 times removed through the Tuthills of Long Island.",
+  "bio": "Benjamin Harrison, the 23rd President of the United States, was born on 20 August 1833 on a farm on the Ohio River at North Bend, Ohio, and died on 13 March 1901. He is the only president related to John by blood.\n\nThe kinship runs through Harrison's Long Island grandmother, Anna Symmes Harrison, and not through the Virginia Harrisons of Berkeley Plantation. From John Tuthill, born in 1635, the line passes through three generations of Henry Tuthills to Anna Tuthill, then to Anna Symmes Harrison, John Scott Harrison and Benjamin, making him John's 6th cousin 5 times removed. A second line, through William Wells, Bethia Wells and Bethia Horton, makes him also a 7th cousin 4 times removed, and a third through Barnabas Horton would apply if the Rachel Browne line proves sound. William Henry Harrison and John Tyler are relatives by marriage only, and Theodore Roosevelt is not kin at all.",
   "sources": [
     "Uploaded deep-dive report",
     "notes/colonial_virginia.md §4",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486913.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -128,5 +132,6 @@
   },
   "death": {
     "date": "1901-03-13"
-  }
+  },
+  "researchNotes": "Kin only through his Long Island grandmother Anna Symmes, not through the Virginia Harrisons of Berkeley Plantation. William Henry Harrison and John Tyler are related by marriage only; Theodore Roosevelt is not kin. Harrison extension cousins (John Scott Harrison; William Henry Harrison III of Wyoming) were not researched.\n\nPath verified: John Tuthill (1635) -> Henry (1665) -> Henry (1690) -> Henry (d. 1793) -> Anna Tuthill -> Anna Symmes Harrison -> John Scott Harrison -> Benjamin, 7 generations: 6th cousin 5 times removed (Akerly [R4-S2]; Wikipedia [R4-S1] for the Harrison generations). Second route via William Wells (Bethia Wells -> Bethia Horton -> Henry 1690 ...), 8 generations: 7th cousin 4 times removed. Conditional third route via Barnabas Horton (7C5R, twice) if the Rachel Browne line holds. His Virginia Harrison ancestry is not John's."
 }

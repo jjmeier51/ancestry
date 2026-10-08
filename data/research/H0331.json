@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "A different Hauppauge James Smith (d. 1837 aged 95), from Lake Ronkonkoma; not related as far as known.",
-  "bio": "Came from Lake Ronkonkoma with brother Alexander, bought land from Joseph Blydenburgh, married Catherine Blydenburgh; family legend traced them to men who came from England to build Trinity Church; line ran to Moses R. Smith and Judge Wilmot M. Smith. Zephaniah and Jonathan Smith belonged to 'another family of Smiths'.\n\nPelletreau's Blydenburgh sketch lists 'Catharine, married James Smith' among the children of Joseph Blydenburgh 2d (and so a sister of Joseph Blydenburgh, 1732-1833), matching this Hauppauge James Smith's wife Catherine. Not a Bull Smith, and Catherine is not a Bull Smith descendant either (second-wife Blydenburgh line).",
+  "summary": "Hauppauge settler from Lake Ronkonkoma who died in 1837 aged 95; of a different Smith family from Bull Smith's and not known to be related to John.",
+  "bio": "James Smith was born about 1742 and died at Hauppauge, Suffolk County, New York, in 1837, aged 95. He came to Hauppauge from Lake Ronkonkoma with his brother Alexander, bought land from Joseph Blydenburgh and married Catherine Blydenburgh, a daughter of Joseph Blydenburgh 2d and a sister of Joseph Blydenburgh (1732–1833). Family legend traced the brothers to men who had come from England to build Trinity Church. His line ran on to Moses R. Smith and Judge Wilmot M. Smith.\n\nHe belonged to a different family from the Smiths of Smithtown, who were described as \"another family of Smiths\" in the person of Zephaniah and Jonathan Smith. Neither James nor his wife Catherine, whose Blydenburgh line came through a second marriage without Smith blood, descended from Bull Smith, and he is not known to be related to John.",
   "sources": [
     "Wood (1920) pp. 35–37, 42",
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 485-486 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
@@ -29,6 +29,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0331.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Came from Lake Ronkonkoma with brother Alexander, bought land from Joseph Blydenburgh, married Catherine Blydenburgh; family legend traced them to men who came from England to build Trinity Church; line ran to Moses R. Smith and Judge Wilmot M. Smith. Zephaniah and Jonathan Smith belonged to 'another family of Smiths'.\n\nPelletreau's Blydenburgh sketch lists 'Catharine, married James Smith' among the children of Joseph Blydenburgh 2d (and so a sister of Joseph Blydenburgh, 1732-1833), matching this Hauppauge James Smith's wife Catherine. Not a Bull Smith, and Catherine is not a Bull Smith descendant either (second-wife Blydenburgh line)."
 }

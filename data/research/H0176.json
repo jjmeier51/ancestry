@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grand-uncle, disinherited by his father.",
-  "bio": "James Lamoreaux (b. 1774) married Sarah Hunter. His father's will disinherited him 'on account of his disobedience to me' and gave his crippled son Jewel an equal share instead.\n\nFamilySearch gives James a birth date of 30 Jan 1774 at Cornwall, a marriage to Sarah Hunter on 10 May 1795, and census entries in 1800 and 1830, with children born in Jackson Twp from 1796. It has him alive after 1850 ([R4-S1]).",
+  "summary": "James Lamoreaux of Jackson Township, Luzerne County, disinherited by his father for disobedience; John's 5th-great-grand-uncle.",
+  "bio": "James Lamoreaux was born on 30 January 1774 at Cornwall, Orange Co., NY. On 10 May 1795 he married Sarah Hunter, and from 1796 their children were born in Jackson Twp, Luzerne Co., where the family appears in the censuses of 1800 and 1830. His father's will cut him off \"on account of his disobedience to me\" and gave his crippled brother Jewel an equal share instead. James was still alive after 1850. He is John's 5th-great-grand-uncle.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0176.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -57,5 +61,6 @@
       "label": "FamilySearch ID",
       "value": "K2XZ-H6T"
     }
-  ]
+  ],
+  "researchNotes": "James Lamoreaux (b. 1774) married Sarah Hunter. His father's will disinherited him 'on account of his disobedience to me' and gave his crippled son Jewel an equal share instead.\n\nFamilySearch gives James a birth date of 30 Jan 1774 at Cornwall, a marriage to Sarah Hunter on 10 May 1795, and census entries in 1800 and 1830, with children born in Jackson Twp from 1796. It has him alive after 1850 ([R4-S1])."
 }

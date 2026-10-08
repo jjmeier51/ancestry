@@ -21,7 +21,7 @@
     "Frances Miller"
   ],
   "tags": [],
-  "summary": "John's 3rd great-aunt; sister of Henry J. Meier.",
+  "summary": "Munzingen-born sister of Henry J. Meier who married Philip Miller and settled at Coaldale, Pennsylvania; John's 3rd-great-aunt.",
   "facts": [
     {
       "label": "Date conflict",
@@ -69,6 +69,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085070.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -85,7 +89,7 @@
       "description": "Married Philip Miller (1859–1940). Children: Anna (1886–1945), Albert A. (1888–1915), Harry C. (1890–1919), Helen (1897–1964), Charles Joseph (1913–2001). [R4-S2]"
     }
   ],
-  "bio": "Frances was born at Munzingen on 8 Mar 1863 and baptized two days later as 'Franziska Mayer, legitimate daughter of the local citizen and mason Friedrich Mayer and Maria Anna Birkenmaier, both Catholic' ([R4-S1]). She was the first child born after her parents' marriage in Oct 1862. Her godparents came from both sides of the family: her mother's brother Joseph Birkenmaier, then 20, and her father's sister Paulina Mayer, then 22. The register confirms the tree's birth date exactly. FamilySearch has her later life: she married Philip Miller, lived at Coal Dale (Rahn Twp) and Coaldale in Schuylkill County from 1900, died at Coaldale on 10 Dec 1928, and was buried at St Joseph's RC Cemetery, Summit Hill ([R4-S2]).",
+  "bio": "Frances Meier was born at Munzingen in Baden on 8 March 1863 and baptized two days later as Franziska Mayer, 'legitimate daughter of the local citizen and mason Friedrich Mayer and Maria Anna Birkenmaier, both Catholic'. She was the first child born after her parents' marriage in October 1862, and her godparents came from both sides of the family: her mother's brother Joseph Birkenmaier, then twenty, and her father's sister Paulina Mayer, then twenty-two. She was a sister of Henry J. Meier and John's 3rd-great-aunt.\n\nIn America she married Philip Miller and was known as Frances Miller. From 1900 the couple lived at Coal Dale in Rahn Township and then at Coaldale, Schuylkill County, Pennsylvania. She died at Coaldale on 10 December 1928 and was buried at St Joseph's RC Cemetery, Summit Hill.",
   "media": [
     {
       "file": "media/I282608085070/birth-1863-munzingen-l10-1591-img447.jpg",
@@ -102,5 +106,6 @@
       ],
       "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-447"
     }
-  ]
+  ],
+  "researchNotes": "Frances was born at Munzingen on 8 Mar 1863 and baptized two days later as 'Franziska Mayer, legitimate daughter of the local citizen and mason Friedrich Mayer and Maria Anna Birkenmaier, both Catholic' ([R4-S1]). She was the first child born after her parents' marriage in Oct 1862. Her godparents came from both sides of the family: her mother's brother Joseph Birkenmaier, then 20, and her father's sister Paulina Mayer, then 22. The register confirms the tree's birth date exactly. FamilySearch has her later life: she married Philip Miller, lived at Coal Dale (Rahn Twp) and Coaldale in Schuylkill County from 1900, died at Coaldale on 10 Dec 1928, and was buried at St Joseph's RC Cemetery, Summit Hill ([R4-S2])."
 }

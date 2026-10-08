@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282824815323 (proven)."
   },
   "tags": [],
-  "summary": "Brother of Giuseppina Fiorillo; married Maria Mendicino (daughter of Tommaso and Raffaela Ianni) at San Mango on 13 May 1909.",
-  "bio": "Brother of Giuseppina Fiorillo; married Maria Mendicino (daughter of Tommaso and Raffaela Ianni) at San Mango on 13 May 1909.",
+  "summary": "Brother of Giuseppina Fiorillo, born in San Mango d'Aquino in 1886, who married Maria Mendicino there in 1909.",
+  "bio": "Gaetano Fiorillo was born in 1886 in San Mango d'Aquino, a brother of Giuseppina Fiorillo. On 13 May 1909 he married Maria Mendicino, daughter of Tommaso Mendicino and Raffaela Ianni, at San Mango.",
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1876-1887 (Book 12), image 75, no. 66; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1876-1887'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1885-1920 (Book 23), image 89, p. 169, no. 11; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1885-1920'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
@@ -16,6 +16,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-804 → M0054; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Brother of Giuseppina Fiorillo; married Maria Mendicino (daughter of Tommaso and Raffaela Ianni) at San Mango on 13 May 1909."
 }

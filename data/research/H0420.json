@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0420.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -34,8 +38,10 @@
   "death": {
     "date": "1955-04-22"
   },
-  "bio": "FamilySearch: Felix J. Murphy, b. 1876 Pennsylvania, son of John Felix Murphy (1851-1890) and Mary Kelly (1850-1907); 1920 and 1940 census entries; d. 22 Apr 1955 ([R4-S1]).",
+  "bio": "Felix John Murphy was born in Pennsylvania in 1874, or 1876 according to some records, the son of John Felix Murphy (1851–1890) and Mary Kelly (1850–1907). He appears in the censuses of 1920 and 1940 and died on 22 April 1955.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Felix Murphy (1876-1955), PID GKXZ-X3Z; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GKXZ-X3Z"
-  ]
+  ],
+  "researchNotes": "FamilySearch: Felix J. Murphy, b. 1876 Pennsylvania, son of John Felix Murphy (1851-1890) and Mary Kelly (1850-1907); 1920 and 1940 census entries; d. 22 Apr 1955 ([R4-S1]).",
+  "summary": "Pennsylvania-born son of John Felix Murphy and Mary Kelly, who lived from the 1870s until 1955."
 }

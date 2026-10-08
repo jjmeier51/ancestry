@@ -21,13 +21,19 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0475.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
     "date": "1775"
   },
-  "bio": "Eldest son of Zephaniah Platt (1704-1778) and Hannah Saxton. Married Temperance, daughter of Ebenezer Smith 1st (son of Richard 2d); died 1775 aged 44; she died 12 Mar 1813. Their son Col. Richard Platt was aide to Gen. Montgomery on the Quebec expedition; their daughter Elizabeth married Rev. David Schuyler Bogart ([R4-S1]). Not to be confused with Judge Jonas Platt (1769-1834), whose Morse portrait is on Commons; that Jonas was a son of the Plattsburgh founder.",
+  "bio": "Jonas Platt was born in 1731, the eldest son of Zephaniah Platt (1704–1778) and Hannah Saxton. He married Temperance, a daughter of Ebenezer Smith 1st, who was a son of Richard Smith 2d. Their son Col. Richard Platt served as aide to General Montgomery on the Quebec expedition, and their daughter Elizabeth married the Rev. David Schuyler Bogart. Jonas died in 1775, aged 44; Temperance died on 12 March 1813. He was not the Judge Jonas Platt (1769–1834) who was a son of the founder of Plattsburgh.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 473 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
-  ]
+  ],
+  "researchNotes": "Eldest son of Zephaniah Platt (1704-1778) and Hannah Saxton. Married Temperance, daughter of Ebenezer Smith 1st (son of Richard 2d); died 1775 aged 44; she died 12 Mar 1813. Their son Col. Richard Platt was aide to Gen. Montgomery on the Quebec expedition; their daughter Elizabeth married Rev. David Schuyler Bogart ([R4-S1]). Not to be confused with Judge Jonas Platt (1769-1834), whose Morse portrait is on Commons; that Jonas was a son of the Plattsburgh founder.",
+  "summary": "Eldest son of Zephaniah Platt, husband of Temperance Smith of the Bull Smith family, and father of Col. Richard Platt, aide to General Montgomery at Quebec."
 }

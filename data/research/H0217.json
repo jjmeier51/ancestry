@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Daughter of Johann Casper Doll.",
-  "bio": "Baptized 1757 at Tohickon Reformed Church, Bucks Co., to 'Casper Doll and Margaret [Dietz]'.\n\nFamilySearch gives Anna Catharina's birth date as 1 Jan 1757 (baptized 22 Feb 1757 at Tohickon), her marriage in 1775 to Capt. Lewis Stecher Sr. (1743-1821), with children in Plainfield and Forks Twps from 1776, and her death in 1799. Find a Grave indexes her as 'Anna Catharine Doll Stacher' ([R4-S1]).",
+  "summary": "Daughter of Johann Casper Doll, baptized at Tohickon in 1757, and wife of Capt. Lewis Stecher Sr.",
+  "bio": "Anna Catharine Doll was born on 1 January 1757 and baptized on 22 February 1757 at Tohickon Reformed Church in Bucks County, Pennsylvania, the daughter of Casper Doll and his wife Margaret Dietz. In 1775, in Northampton County, she married Capt. Lewis Stecher Sr. (1743-1821), and their children were born in Plainfield and Forks Townships from 1776. She died in 1799; her grave is indexed under the name Anna Catharine Doll Stacher.",
   "sources": [
     "WikiTree Dietz-563: https://www.wikitree.com/wiki/Dietz-563",
     "[R4-S1] FamilySearch published tree, Anna Catharine Doll (LH6M-WWW), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LH6M-WWW"
@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0217.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -47,5 +51,6 @@
       "label": "FamilySearch ID",
       "value": "LH6M-WWW"
     }
-  ]
+  ],
+  "researchNotes": "Baptized 1757 at Tohickon Reformed Church, Bucks Co., to 'Casper Doll and Margaret [Dietz]'.\n\nFamilySearch gives Anna Catharina's birth date as 1 Jan 1757 (baptized 22 Feb 1757 at Tohickon), her marriage in 1775 to Capt. Lewis Stecher Sr. (1743-1821), with children in Plainfield and Forks Twps from 1776, and her death in 1799. Find a Grave indexes her as 'Anna Catharine Doll Stacher' ([R4-S1])."
 }

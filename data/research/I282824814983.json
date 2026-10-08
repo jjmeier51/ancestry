@@ -5,8 +5,8 @@
     "note": "Tree only; same death year as wife (suspect); detached from John's line."
   },
   "tags": [],
-  "summary": "Tree ancestor of Maria d'Ambrosio; not John's ancestor.",
-  "bio": "Tree: Claudio GIALANEL... (1717-1811) + Claudia Di Vivo (1722-1811). Both are shown with parents Angelo A. Gialanella + Maddalena Parisi, which is an error (Round 1 correction 3l): remove them as Claudia's parents.",
+  "summary": "Of Guardia Lombardi, husband of Claudia Di Vivo and an ancestor of Maria d'Ambrosio; not an ancestor of John.",
+  "bio": "Claudio Gialanella was born in 1717 at Guardia Lombardi, Avellino, in Campania, and died there in 1811. His wife was Claudia Di Vivo (1722-1811). He was an ancestor of Maria d'Ambrosio and so belongs to the family by marriage rather than by descent: he was not one of John's own ancestors.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814983.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Claudio GIALANEL... (1717-1811) + Claudia Di Vivo (1722-1811). Both are shown with parents Angelo A. Gialanella + Maddalena Parisi, which is an error (Round 1 correction 3l): remove them as Claudia's parents."
 }

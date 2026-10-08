@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's great-granduncle; coal laborer.",
-  "bio": "Peter, 12 in 1910; in 1920 a laborer for a coal company (name hard to read, 'Quinn'? Coal Co.). Married Ann Horoski; d. 7 Oct 1974. Birth 26 Jul 1897 conflicts with Grace's 5 Jan 1897.\n\nPeter is 12 in April 1910 and 22 in January 1920, which supports birth in 1897–98 ([R4-S1], [R4-S2]). That is consistent with the FS date of 26 Jul 1897 only if Grace/Katie was born in January 1897 and Peter was a twin or the dates are slightly off; the 1910 ages (13 and 12) suggest they were about a year apart, so one of the two dates is probably wrong. The FamilySearch tree links him through a Social Security NUMIDENT entry to a son, Victor M. Petrillo (1926–1989), whose mother is given as 'Anna Harosko' ([R4-S3]).",
+  "summary": "Scranton coal-company laborer who married Ann Horoski; John's great-granduncle.",
+  "bio": "Peter Petrillo was born at Scranton, Lackawanna County, Pennsylvania, in 1897 or 1898; the recorded date of 26 July 1897 sits awkwardly close to the January 1897 birth given for his sister Grace, so one of the two dates is probably wrong. He was 12 in 1910, and by 1920 he was working as a laborer for a coal company. He married Ann Horoski, and their son Victor M. Petrillo lived from 1926 to 1989. Peter died on 7 October 1974.",
   "sources": [
     "FS tree L1QP-W1Q: https://ancestors.familysearch.org/en/L1QP-W1Q",
     "1910 and 1920 census images",
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0352.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Peter, 12 in 1910; in 1920 a laborer for a coal company (name hard to read, 'Quinn'? Coal Co.). Married Ann Horoski; d. 7 Oct 1974. Birth 26 Jul 1897 conflicts with Grace's 5 Jan 1897.\n\nPeter is 12 in April 1910 and 22 in January 1920, which supports birth in 1897–98 ([R4-S1], [R4-S2]). That is consistent with the FS date of 26 Jul 1897 only if Grace/Katie was born in January 1897 and Peter was a twin or the dates are slightly off; the 1910 ages (13 and 12) suggest they were about a year apart, so one of the two dates is probably wrong. The FamilySearch tree links him through a Social Security NUMIDENT entry to a son, Victor M. Petrillo (1926–1989), whose mother is given as 'Anna Harosko' ([R4-S3])."
 }

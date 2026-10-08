@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0480.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -29,8 +33,10 @@
   "death": {
     "date": "1812-08-12"
   },
-  "bio": "Culper Ring signaller of Setauket, wife of Selah Strong ([R4-S1]). No Bull Smith descent was found for her; treat her as an in-law (her husband is the blood cousin).",
+  "bio": "Anna Smith Strong was born on 14 April 1740 and died on 12 August 1812. The wife of Selah Strong, she was the signaller of the Culper Ring at Setauket. She was not herself a descendant of Bull Smith; her husband is the blood cousin, so she belongs to John's family by marriage.",
   "sources": [
     "[R4-S1] Wikipedia, 'Anna Strong (spy)' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Anna_Strong_(spy)"
-  ]
+  ],
+  "researchNotes": "Culper Ring signaller of Setauket, wife of Selah Strong ([R4-S1]). No Bull Smith descent was found for her; treat her as an in-law (her husband is the blood cousin).",
+  "summary": "Signaller of the Culper Ring at Setauket and wife of Selah Strong; connected to John's family by marriage only."
 }

@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's 1st cousin 8x removed if the Doll link holds; the real Revolutionary captain whose 1934 cenotaph stands on Johann Casper Doll's grave.",
-  "bio": "Capt. Casper Dull (1748-1829), nephew of Johann Casper Doll, was cornet (2nd lieutenant) of the Northampton County Light Dragoons and served as a captain in the Revolution; he later received Butler County donation lands and died at McVeytown, Mifflin Co. (Find a Grave 21956570). In 1934 a monument/cenotaph to him was erected on his uncle's grave at Plainfield - the source of the tree's 'Captain' and flag image.",
+  "summary": "Revolutionary captain of the Northampton County Light Dragoons and nephew of Johann Casper Doll; John's 1st cousin 8 times removed if the Doll line holds.",
+  "bio": "Capt. Casper Dull was born in 1748, a nephew of Johann Casper Doll. In the Revolution he served as cornet, the equivalent of second lieutenant, of the Northampton County Light Dragoons in the Pennsylvania militia, and later held the rank of captain. After the war he received donation lands in Butler County. He died in 1829 at McVeytown, Mifflin County, Pennsylvania, where he is buried.\n\nIn 1934 a monument to him was erected on his uncle's grave at Plainfield, which is why Johann Casper Doll has sometimes been mistaken for a Revolutionary captain himself. If the Doll connection holds, Casper Dull was John's 1st cousin 8 times removed.",
   "military": [
     {
       "branch": "Pennsylvania militia",
@@ -47,6 +47,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0214.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Capt. Casper Dull (1748-1829), nephew of Johann Casper Doll, was cornet (2nd lieutenant) of the Northampton County Light Dragoons and served as a captain in the Revolution; he later received Butler County donation lands and died at McVeytown, Mifflin Co. (Find a Grave 21956570). In 1934 a monument/cenotaph to him was erected on his uncle's grave at Plainfield - the source of the tree's 'Captain' and flag image."
 }

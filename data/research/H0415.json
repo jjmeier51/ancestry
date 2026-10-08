@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0415.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -29,11 +33,13 @@
       "value": "G93H-K6H"
     }
   ],
-  "bio": "FamilySearch has 'Conradt Birgert', born in 1588 at Fockenberg-Limbach, married to Anna Eva Jacob (b. 1593), and father of Elisabetha (1618-1685) ([R4-S1]). It carries the line back to Hans Konrad Birckhert (1535-1605) and Barbara Ibelheupt, without sources visible for that generation. His name appears in the indexed 1642 marriage of his daughter to Caspar Grub ('Conradt Birkhert') and in a Lutheran baptism entry ([R4-S1]).",
+  "bio": "Conrad Birgert, whose name was also written Conradt Birkhert, was born in 1588 at Fockenberg-Limbach. He married Anna Eva Jacob, born in 1593, and was the father of Elisabetha (1618–1685), who married Caspar Grub in 1642; he is named in the record of that marriage and in a Lutheran baptism entry. Some genealogies take the line a generation further back, to Hans Konrad Birckhert (1535–1605) and Barbara Ibelheupt, but without visible sources. He was John's 10th-great-grandfather.",
   "openQuestions": [
     "FamilySearch names his wife (Anna Eva Jacob) and parents (Hans Konrad Birckhert and Barbara Ibelheupt); all need records."
   ],
   "sources": [
     "[R4-S1] FamilySearch published tree, Conradt Birgert (G93H-K6H), citing Germany Marriages index (entry for Caspar Grueb) and a Lutheran baptism entry (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G93H-K6H"
-  ]
+  ],
+  "researchNotes": "FamilySearch has 'Conradt Birgert', born in 1588 at Fockenberg-Limbach, married to Anna Eva Jacob (b. 1593), and father of Elisabetha (1618-1685) ([R4-S1]). It carries the line back to Hans Konrad Birckhert (1535-1605) and Barbara Ibelheupt, without sources visible for that generation. His name appears in the indexed 1642 marriage of his daughter to Caspar Grub ('Conradt Birkhert') and in a Lutheran baptism entry ([R4-S1]).",
+  "summary": "Conrad Birgert of Fockenberg-Limbach, husband of Anna Eva Jacob and father of Elisabetha, who married Caspar Grub; John's 10th-great-grandfather."
 }

@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0505.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -39,9 +43,11 @@
       "note": "Wife, 26, of Nicholas 'Petranello' [R4-S1]"
     }
   ],
-  "bio": "In 1940 Genevieve, 26, lived with her husband Nicholas at 1028 Bunker Hill Street; in 1935 she had been living in Taylor ([R4-S1]). FamilySearch gives her life as 1914 (Old Forge) – 2004 (Sun City West, Arizona), with a GenealogyBank obituary index entry ([R4-S2]).",
+  "bio": "Genevieve Schwab was born in 1914 in Old Forge, Lackawanna County, PA. In 1935 she was living in Taylor, and by 1940, when she was 26, she and her husband Nicholas were living on Bunker Hill Street in Scranton. She died in 2004 at Sun City West, Maricopa County, Arizona.",
   "sources": [
     "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
     "[R4-S2] FamilySearch Family Tree published profile GQ49-HXG (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQ49-HXG"
-  ]
+  ],
+  "researchNotes": "In 1940 Genevieve, 26, lived with her husband Nicholas at 1028 Bunker Hill Street; in 1935 she had been living in Taylor ([R4-S1]). FamilySearch gives her life as 1914 (Old Forge) – 2004 (Sun City West, Arizona), with a GenealogyBank obituary index entry ([R4-S2]).",
+  "summary": "Genevieve Schwab (1914–2004), born in Old Forge, Pennsylvania, who lived with her husband Nicholas in Scranton and died in Sun City West, Arizona."
 }

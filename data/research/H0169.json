@@ -9,8 +9,8 @@
     "Elizabeth Lamoreaux Ransom"
   ],
   "tags": [],
-  "summary": "John's 5th-great-grand-aunt; wife of Col. George P. Ransom.",
-  "bio": "Elizabeth Lamoreaux (30 Sep 1776 - 27 Aug 1859) married Col. George Palmer Ransom in 1794; 13 children. Her children, incl. Chester Ransom (1808-1893), are John's 1st cousins 7x removed.\n\nFamilySearch gives Elizabeth's birth as 18 Oct 1776 at Monroe, Orange Co., NY, against 30 Sep 1776 on the site, and her marriage to George Palmer Ransom at Plymouth on 9 Jan 1794. It cites Historical Society of Pennsylvania baptism and marriage records and finds her in his household in 1850 ([R4-S1]).",
+  "summary": "Wife of Colonel George Palmer Ransom of Plymouth, Pennsylvania, and mother of thirteen children; John's 5th-great-grand-aunt.",
+  "bio": "Elizabeth Lamoreaux was born on 30 September 1776, though some records give 18 October 1776 at Monroe, Orange County, New York. On 9 January 1794 she married George Palmer Ransom, later Colonel Ransom, at Plymouth, and they had thirteen children, among them Chester Ransom (1808–1893). She was still living in her husband's household in 1850 and died on 27 August 1859. She is John's 5th-great-grand-aunt, and her children are John's 1st cousins 7 times removed.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0169.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -68,5 +72,6 @@
       "found": "18 Oct 1776 (FamilySearch)",
       "assessment": "Unresolved; neither seen in an original record."
     }
-  ]
+  ],
+  "researchNotes": "Elizabeth Lamoreaux (30 Sep 1776 - 27 Aug 1859) married Col. George Palmer Ransom in 1794; 13 children. Her children, incl. Chester Ransom (1808-1893), are John's 1st cousins 7x removed.\n\nFamilySearch gives Elizabeth's birth as 18 Oct 1776 at Monroe, Orange Co., NY, against 30 Sep 1776 on the site, and her marriage to George Palmer Ransom at Plymouth on 9 Jan 1794. It cites Historical Society of Pennsylvania baptism and marriage records and finds her in his household in 1850 ([R4-S1])."
 }

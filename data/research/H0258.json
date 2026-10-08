@@ -10,8 +10,8 @@
     "Hannah Muncy"
   ],
   "tags": [],
-  "summary": "Formerly shown as John's 10th-great-grandmother (wife of John Thompson); probably disproven — she married Samuel Thompson instead. Not a Mayflower Brewster.",
-  "bio": "Round 1 (correction 3e) had made her a daughter of Francis Brewster of New Haven and sister of Rev. Nathaniel (per F. K. Smith via jrm); Round 3 makes her Nathaniel's daughter married to Samuel Thompson. The deep-dive report (Behling) had flagged one register giving Hannah's husbands as Muncey and Samuel Thompson. Her marriage to Samuel Thompson makes Samuel's descendants (Selah Strong etc.) double Thompson–Brewster descendants.\n\nB. F. Thompson's family account ([R4-S1]) gives her dates (b. 19 May 1679, d. 7 Nov 1755), her first marriage to John Muncy (16 Jan 1703; he d. 12 Jun 1707) and her second to Samuel Thompson (6 Nov 1709), and says she and Samuel are buried at the south-east corner of the Setauket Presbyterian Church. She was the mother of Susannah Thompson Strong and grandmother of Selah Strong. Not John's ancestor.",
+  "summary": "Daughter of Rev. Nathaniel Brewster who married John Muncy and then Samuel Thompson of Setauket; once shown as John's 10th-great-grandmother, but not John's ancestor.",
+  "bio": "Hannah Brewster was born on 19 May 1679, a daughter, most probably, of the Rev. Nathaniel Brewster; her family was not descended from the Mayflower Brewsters. She married first, at Brookhaven on 16 January 1703, John Muncy, who died on 12 June 1707, and second, at Setauket on 6 November 1709, Samuel Thompson. She was the mother of Susannah Thompson Strong and grandmother of Captain Selah Strong, so that Samuel's descendants carry both Thompson and Brewster blood. Hannah died on 7 November 1755 and was buried with Samuel at the south-east corner of the Setauket Presbyterian churchyard.\n\nShe was once shown as the wife of John Thompson and John's 10th-great-grandmother. Her marriage to Samuel Thompson instead makes that link probably wrong, and she is not counted as John's ancestor.",
   "sources": [
     "Jacobus, TAG 12:199–204, 13:221, via WikiTree Thompson-213",
     "Champlin, NYGBR 46:4–9 (1915)",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0258.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -74,5 +78,6 @@
       "place": "Setauket",
       "description": "Her first cousin ('cousin-german') per Thompson. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Round 1 (correction 3e) had made her a daughter of Francis Brewster of New Haven and sister of Rev. Nathaniel (per F. K. Smith via jrm); Round 3 makes her Nathaniel's daughter married to Samuel Thompson. The deep-dive report (Behling) had flagged one register giving Hannah's husbands as Muncey and Samuel Thompson. Her marriage to Samuel Thompson makes Samuel's descendants (Selah Strong etc.) double Thompson–Brewster descendants.\n\nB. F. Thompson's family account ([R4-S1]) gives her dates (b. 19 May 1679, d. 7 Nov 1755), her first marriage to John Muncy (16 Jan 1703; he d. 12 Jun 1707) and her second to Samuel Thompson (6 Nov 1709), and says she and Samuel are buried at the south-east corner of the Setauket Presbyterian Church. She was the mother of Susannah Thompson Strong and grandmother of Selah Strong. Not John's ancestor."
 }

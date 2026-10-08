@@ -10,8 +10,8 @@
     "John Tuthill of Saxlingham"
   ],
   "tags": [],
-  "summary": "John's 13th-great-grandfather, of Saxlingham, Norfolk; linked by Akerly to the armigerous Tuthills.",
-  "bio": "Akerly links him to the armigerous Tuthills: 'Or, on a chevron azure three crescents argent', arms on the tomb at Trowse Newton of Elizabeth, Lady Dalyson (d. 1585), 'granddaughter of John Tuthill, of Saxlingham'. Earlier Johns of Saxlingham (b. c.1530 and c.1480) are on WikiTree without sources (speculative).",
+  "summary": "John Tuthill of Saxlingham, Norfolk, who died in 1618, forebear of the Long Island Tuthills; John's 13th-great-grandfather.",
+  "bio": "John Tuthill, sometimes written Tuttill, lived at Saxlingham in Norfolk and died at Saxlingham Nethergate on 21 November 1618. He was John's 13th-great-grandfather and the English forebear of the Tuthill family of Long Island.\n\nThe Tuthill genealogist Akerly connected him with the armigerous Tuthills of Norfolk, whose arms, \"Or, on a chevron azure three crescents argent\", appear on the tomb at Trowse Newton of Elizabeth, Lady Dalyson, who died in 1585 and is described there as \"granddaughter of John Tuthill, of Saxlingham\". Earlier generations of Tuthills at Saxlingham, born around 1530 and 1480, have been proposed, but they rest on no firm evidence.",
   "facts": [
     {
       "label": "Arms",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0250.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -54,5 +58,6 @@
       "note": "John Tuthill, 1550-00-00 – 1618-11-21",
       "url": "https://www.wikitree.com/wiki/Tuthill-61"
     }
-  ]
+  ],
+  "researchNotes": "Akerly links him to the armigerous Tuthills: 'Or, on a chevron azure three crescents argent', arms on the tomb at Trowse Newton of Elizabeth, Lady Dalyson (d. 1585), 'granddaughter of John Tuthill, of Saxlingham'. Earlier Johns of Saxlingham (b. c.1530 and c.1480) are on WikiTree without sources (speculative)."
 }

@@ -9,8 +9,8 @@
     "Angiolo Petriello"
   ],
   "tags": [],
-  "summary": "John's maternal 4th great-grandfather; earliest known Petriello ancestor, of Guardia Lombardi.",
-  "bio": "New generation found in Round 2 (FS tree) and confirmed Round 3. 'Fu Angelo' in the 1869 birth act of his grandson John means he was dead by 25 Oct 1869. Wife Lucia Marra. Daughter Gaetana married Giuseppantonio Lucadamo 23 Feb 1855 (index 1855 #16), where he appears as 'Angiolo'.",
+  "summary": "Earliest known Petriello ancestor, of Guardia Lombardi in Avellino, husband of Lucia Marra; John's maternal 4th-great-grandfather.",
+  "bio": "Angelo Petriello, sometimes written Angiolo, is the earliest known ancestor of John's Petriello line and lived at Guardia Lombardi in the province of Avellino. His wife was Lucia Marra. Their daughter Gaetana married Giuseppantonio Lucadamo on 23 February 1855, and when his grandson John was born in October 1869 the birth record called him \"the late Angelo\", so he had died by then. He is John's maternal 4th-great-grandfather.",
   "sources": [
     "Antenati, Guardia, Morti 1901, act 28: https://antenati.cultura.gov.it/ark:/12657/an_ua524116/LzaVz4G",
     "Antenati, Guardia, Nati 1869, act 110: https://antenati.cultura.gov.it/ark:/12657/an_ua524165/5vaJMry",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0338.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "New generation found in Round 2 (FS tree) and confirmed Round 3. 'Fu Angelo' in the 1869 birth act of his grandson John means he was dead by 25 Oct 1869. Wife Lucia Marra. Daughter Gaetana married Giuseppantonio Lucadamo 23 Feb 1855 (index 1855 #16), where he appears as 'Angiolo'."
 }

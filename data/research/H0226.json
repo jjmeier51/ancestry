@@ -10,7 +10,7 @@
     "surname unknown"
   ],
   "tags": [],
-  "summary": "John's 9th-great-grandmother, mother of Jerusha Topping; surname unknown.",
+  "summary": "Wife of William Davenport of Fordham and mother of Jerusha Topping, known only by her first name; John's 9th-great-grandmother.",
   "sources": [
     "Howell (1887) pp. 395–396",
     "F. K. Smith (1967) via jrm Needham I2549",
@@ -44,7 +44,12 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0226.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Wife of William Davenport of Fordham; the Davenport family Bible, as reported by the Davenport genealogy, names her only as Mary, 'surname not known', and lists her children Thomas (1682), William (1683), Francis (1685) and Rachel ([R4-S1])."
+  "bio": "Mary, whose maiden name is not known, was the wife of William Davenport of Fordham. The Davenport family Bible, as reported in the Davenport genealogy, records her simply as Mary and lists her children Thomas, born in 1682, William, born in 1683, Francis, born in 1685, and Rachel. Through her daughter Jerusha Topping she is John's 9th-great-grandmother.",
+  "researchNotes": "Wife of William Davenport of Fordham; the Davenport family Bible, as reported by the Davenport genealogy, names her only as Mary, 'surname not known', and lists her children Thomas (1682), William (1683), Francis (1685) and Rachel ([R4-S1])."
 }

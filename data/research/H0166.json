@@ -9,8 +9,8 @@
     "David Prindle"
   ],
   "tags": [],
-  "summary": "Probably John's 5th-great-grand-uncle.",
-  "bio": "David Pringle (Prindle), b. 1757 per FamilySearch, married Susannah Lamoreux in 1783 in Orange Co.; a David Prindle was a private, 1st Regt Orange Co. militia.\n\nThe officiating minister's own journal spells the name Prindle and dates the marriage 3 Sep 1783. Giles & Franklin give 22 July 1783, which in Constant's list is the date of the preceding couple, Francis Gale and Elizabeth Lewis. So 22 July is a misreading, and 3 Sep is the correct date ([R4-S1], [R4-S2]). The journal's editor thought David was 'probably of the Waterbury [Conn.] family of that name' ([R4-S1]). Giles & Franklin say he is also given as 'Pringle-Miller', and list three daughters: Elizabeth (m. Miles Davenport), Minerva (m. ___ Underwood) and Frances (m. Freeman Polk) ([R4-S2]).",
+  "summary": "Husband of Susannah Lamoreux, married in Orange County, New York, in 1783; probably John's 5th-great-grand-uncle.",
+  "bio": "David Pringle, whose name was also written Prindle, was born in 1757. On 3 September 1783 he married Susannah Lamoreux at Smith's Clove (Monroe), Orange Co., NY; the date of 22 July sometimes given for the marriage is a misreading of the minister's own journal, which records it on 3 September. The editor of that journal thought David was probably of the Waterbury, Connecticut, family of Prindles, and a David Prindle served as a private in the 1st Regiment of the Orange County militia. He is also recorded under the name Pringle-Miller. He had three daughters: Elizabeth, who married Miles Davenport; Minerva, who married an Underwood; and Frances, who married Freeman Polk. He was probably John's 5th-great-grand-uncle.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-359",
     "The Prindle Genealogy appendix p.280",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0166.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -62,5 +66,6 @@
   ],
   "openQuestions": [
     "Was 'Prindle' a separate Connecticut family (Waterbury/New Milford Prindles) from Samuel and James 'Pringle'? Harvey says the Pringle name was often pronounced and written Prindle, and that both Pringles and Prindles were among the 1703 New Milford purchasers."
-  ]
+  ],
+  "researchNotes": "David Pringle (Prindle), b. 1757 per FamilySearch, married Susannah Lamoreux in 1783 in Orange Co.; a David Prindle was a private, 1st Regt Orange Co. militia.\n\nThe officiating minister's own journal spells the name Prindle and dates the marriage 3 Sep 1783. Giles & Franklin give 22 July 1783, which in Constant's list is the date of the preceding couple, Francis Gale and Elizabeth Lewis. So 22 July is a misreading, and 3 Sep is the correct date ([R4-S1], [R4-S2]). The journal's editor thought David was 'probably of the Waterbury [Conn.] family of that name' ([R4-S1]). Giles & Franklin say he is also given as 'Pringle-Miller', and list three daughters: Elizabeth (m. Miles Davenport), Minerva (m. ___ Underwood) and Frances (m. Freeman Polk) ([R4-S2])."
 }

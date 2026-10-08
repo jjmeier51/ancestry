@@ -20,8 +20,8 @@
     "Catherine Jones"
   ],
   "tags": [],
-  "summary": "John's 2nd great-grandmother; widowed in 1899 with ten children, remarried John H. Jones.",
-  "bio": "Catherine A. Murphy was born 27 Apr 1860 in Plymouth and died there 4 Apr 1931; buried Larksville (FS K6NQ-ZX8). Widowed by William R. McAvoy's death in 1899, she married (2) John H. Jones; her daughter Elizabeth lived in his household in 1920. The 1923 licence calls her 'Kathryn Murphy, Plymouth, b. Penna'.\n\nShe died as Catherine Jones (her second husband's name): the 1931 index lists CATHERINE JONES, Plymouth, county 40, 4 Apr 1931, file 43660 ([R4-S1]). In 1870 she was \"Catherine,\" 9, in Martin and Alice Murphy's household in Plymouth Township ([R4-S2]). Her daughter Agnes's 1914 marriage docket gives Catharine's birthplace as Schuylkill County ([R4-S3]).",
+  "summary": "Plymouth-born mother of ten, widowed by William R. McAvoy in 1899 and later the wife of John H. Jones (1860–1931); John's 2nd-great-grandmother.",
+  "bio": "Catherine A. Murphy was born on 27 April 1860 in Plymouth, Luzerne County, Pennsylvania, though one daughter's marriage record later gave her birthplace as Schuylkill County. In 1870 she was a girl of nine in the Plymouth Township household of Martin and Alice Murphy. She married William R. McAvoy, and when he died in 1899 she was left a widow with ten children. She then married John H. Jones, and her daughter Elizabeth was living in his household in 1920; at the marriage of another daughter in 1923 she was recorded as Kathryn Murphy of Plymouth. She died as Catherine Jones at Plymouth on 4 April 1931 and was buried at Larksville. She is John's 2nd-great-grandmother.",
   "sources": [
     "FamilySearch tree K6NQ-ZX8",
     "1923 Luzerne licence No. 635",
@@ -51,6 +51,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604498567.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -66,5 +70,6 @@
       "found": "Schuylkill Co., Pa. (daughter Agnes's 1914 marriage docket); \"Penna.\" (daughter Elizabeth's 1923 licence)",
       "assessment": "The Murphys had a child born in Schuylkill Co. in 1857 and were in Plymouth by 1860 (round 3). A Schuylkill birth for Catherine is possible if the move came in 1860-61. Her 1931 death certificate (#43660) should state her birthplace and parents."
     }
-  ]
+  ],
+  "researchNotes": "Catherine A. Murphy was born 27 Apr 1860 in Plymouth and died there 4 Apr 1931; buried Larksville (FS K6NQ-ZX8). Widowed by William R. McAvoy's death in 1899, she married (2) John H. Jones; her daughter Elizabeth lived in his household in 1920. The 1923 licence calls her 'Kathryn Murphy, Plymouth, b. Penna'.\n\nShe died as Catherine Jones (her second husband's name): the 1931 index lists CATHERINE JONES, Plymouth, county 40, 4 Apr 1931, file 43660 ([R4-S1]). In 1870 she was \"Catherine,\" 9, in Martin and Alice Murphy's household in Plymouth Township ([R4-S2]). Her daughter Agnes's 1914 marriage docket gives Catharine's birthplace as Schuylkill County ([R4-S3])."
 }

@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0390.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -58,9 +62,11 @@
       "value": "G9X8-NL4"
     }
   ],
-  "bio": "George Thomas Duffin, a clerk born at Easton on 1 Jun 1880, married Sophia Gertrude Meier there on 3 Jun 1903 ([R4-S1]). After her death in 1909 he married, on 15 Jan 1917 in Luzerne County, Agatha Mary Rose, daughter of Sophia's sister Mary (Meier) Rose. He lived in Williams Township, Northampton Co., in 1930–42, died at Easton on 4 Aug 1966, and was buried in Gethsemane Cemetery ([R4-S2]).",
+  "bio": "George Thomas Duffin was born at Easton, Northampton Co., PA, on 1 June 1880. A clerk, he married Sophia Gertrude Meier at Easton on 3 June 1903. Sophia died in 1909, and on 15 January 1917, in Luzerne County, he married Agatha Mary Rose, a daughter of Sophia's sister Mary (Meier) Rose and so his first wife's niece. He lived in Williams Township, Northampton County, between 1930 and 1942, died at Easton on 4 August 1966, and was buried in Gethsemane Cemetery there.",
   "sources": [
     "[R4-S1] Northampton County Marriage License No. 10968: George Thomas Duffin × Sophia Gertrude Meier, 3 Jun 1903 (FamilySearch index 1:1:KHN6-RNJ) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XH5/images/i/1/image.jpg",
     "[R4-S2] FamilySearch Family Tree, George T Duffin (G9X8-NL4), published-tree JSON, with 1942 draft card (1:1:VQFJ-HCY) (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G9X8-NL4"
-  ]
+  ],
+  "researchNotes": "George Thomas Duffin, a clerk born at Easton on 1 Jun 1880, married Sophia Gertrude Meier there on 3 Jun 1903 ([R4-S1]). After her death in 1909 he married, on 15 Jan 1917 in Luzerne County, Agatha Mary Rose, daughter of Sophia's sister Mary (Meier) Rose. He lived in Williams Township, Northampton Co., in 1930–42, died at Easton on 4 Aug 1966, and was buried in Gethsemane Cemetery ([R4-S2]).",
+  "summary": "Easton clerk who married Sophia Gertrude Meier in 1903 and, after her death, her niece Agatha Mary Rose; joined to John's Meier family by marriage."
 }

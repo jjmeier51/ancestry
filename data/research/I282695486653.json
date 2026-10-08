@@ -5,8 +5,8 @@
     "note": ""
   },
   "tags": [],
-  "summary": "",
-  "bio": "Her descent, step by step from Akerly ([R4-S1]): John Tuthill (1635-1717) -> Henry Tuthill 'the Justice' (b. 1 May 1665, d. 1750, m. Bethia Horton, dau. of Capt. Jonathan Horton & Bethia Wells) -> Henry (b. 1690, d. 1775, m. 1st Hannah, d. 1715) -> Henry (b. before Dec 1715, d. 17 Sep 1793, m. 16 Mar 1738 Phoebe Horton, dau. of Caleb, son of Caleb, son of Caleb, son of Barnabas Horton) -> Anna. She is therefore 4 generations below John Tuthill (1635), John's 12th-great-grandfather: 3C8R. She descends from William Wells (John's 11th-great-grandfather) through Bethia Wells -> Bethia Horton: 3C8R by that route too, and twice from Barnabas Horton (see openQuestionsNew).",
+  "summary": "Daughter of Henry Tuthill and Phoebe Horton and wife of John Cleves Symmes; John's 3rd cousin 8 times removed.",
+  "bio": "Anna Tuthill was born in October 1741, the daughter of Henry Tuthill, who was born before December 1715 and died on 17 September 1793, and Phoebe Horton, whom he married on 16 March 1738. Her father was the son of Henry Tuthill (1690–1775), grandson of Henry Tuthill 'the Justice' (1665–1750) and his wife Bethia Horton, and great-grandson of John Tuthill (1635–1717), John's 12th-great-grandfather. Through Bethia Horton's mother, Bethia Wells, she also descends from William Wells, and through both her grandmother and her mother, Phoebe, from Barnabas Horton. She married John Cleves Symmes and died on 25 July 1776. She is John's 3rd cousin 8 times removed.",
   "funFacts": [],
   "residences": [],
   "military": [],
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486653.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -55,5 +59,6 @@
   ],
   "openQuestions": [
     "Barnabas Horton route: Anna's mother Phoebe Horton (Caleb-Caleb-Caleb-Barnabas) and grandmother Bethia Horton (Jonathan-Barnabas) both descend from Barnabas Horton, whom Round 3 places 13 generations above John via Rachel Browne (probable, compiled). If that holds, Anna is also a 4C9R twice over through Barnabas Horton."
-  ]
+  ],
+  "researchNotes": "Her descent, step by step from Akerly ([R4-S1]): John Tuthill (1635-1717) -> Henry Tuthill 'the Justice' (b. 1 May 1665, d. 1750, m. Bethia Horton, dau. of Capt. Jonathan Horton & Bethia Wells) -> Henry (b. 1690, d. 1775, m. 1st Hannah, d. 1715) -> Henry (b. before Dec 1715, d. 17 Sep 1793, m. 16 Mar 1738 Phoebe Horton, dau. of Caleb, son of Caleb, son of Caleb, son of Barnabas Horton) -> Anna. She is therefore 4 generations below John Tuthill (1635), John's 12th-great-grandfather: 3C8R. She descends from William Wells (John's 11th-great-grandfather) through Bethia Wells -> Bethia Horton: 3C8R by that route too, and twice from Barnabas Horton (see openQuestionsNew)."
 }

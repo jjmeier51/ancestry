@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of I282608065145 (probable); child of M0065 (probable)."
   },
   "tags": [],
-  "summary": "Son of Adam Smith (son of Bull Smith)",
-  "bio": "Son of Adam Smith (son of Bull Smith). Grandfather of the Culper spymaster Abraham Woodhull through his daughter Margaret, and of Abraham's wife Mary Smith through his daughter Anna (Mrs Obadiah Smith). 2nd cousin 9 times removed of John.",
+  "summary": "Grandson of Bull Smith and grandfather of the Culper spymaster Abraham Woodhull and of Woodhull's wife; John's 2nd cousin 9x removed.",
+  "bio": "Edmund Smith, who died in 1734/35, was a son of Adam Smith and so a grandson of Bull Smith of Smithtown. Through his daughter Margaret he was the grandfather of Abraham Woodhull, the spymaster of the Culper ring, and through his daughter Anna, the wife of Obadiah Smith, he was also the grandfather of Abraham's wife Mary Smith. He was John's 2nd cousin 9x removed.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), pp. 46-48; App. pp. 476-478 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
@@ -15,6 +15,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-611 → M0066; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Adam Smith (son of Bull Smith). Grandfather of the Culper spymaster Abraham Woodhull through his daughter Margaret, and of Abraham's wife Mary Smith through his daughter Anna (Mrs Obadiah Smith). 2nd cousin 9 times removed of John."
 }

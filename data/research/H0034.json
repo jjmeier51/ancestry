@@ -10,8 +10,8 @@
     "Friedrich Heizler"
   ],
   "tags": [],
-  "summary": "John's 5th great-uncle; brother of Agatha Heizler; gravedigger at Servatius's burial.",
-  "bio": "'Fridrich Heitzler, geb. 8ten März 1809, lediger Taglöhner, 26 Jahre alt, ehelicher Sohn des + Josef Heizler, gewesenen herrschaftlichen Jägers, und der Anna Federer' married Francisca Widlebacher (b. 28 Sep 1811) on 7 Oct 1835 at Munzingen. In 1853, as Todtengräber, he witnessed his brother-in-law Servatius's burial.\n\nFriedrich died far from Munzingen. A notice from the Protestant parish of a place read here as Brombach, in the Wiese valley near Lörrach, informed the Catholic parish of Munzingen that 'Friedrich Heitzler, Bürger von Munzingen', had died there at five in the evening of 15 Dec 1865. The Catholic vicar buried him on 18 December. Munzingen entered the extract at the head of its 1866 death register as No. 1a ([R4-S1]). The margin gives his age as 56 years, 9 months and 7 days, which counts back exactly to his known birth on 8 Mar 1809. The place name and the names of the witnesses are hard to read; an earlier reading of the place was Lörrach. Why a Munzingen day labourer and former gravedigger was in the Lörrach district is unknown. He may have been working on the railway or in the Wiesental textile mills.",
+  "summary": "Day labourer and gravedigger of Munzingen, brother of Agatha Heizler, who died far from home near Lörrach in 1865; John's 5th great-uncle.",
+  "bio": "Friedrich Heitzler was born at Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany, on 8 March 1809, the son of Josef Heizler, the lordship's gamekeeper, and Anna Federer, and a brother of Agatha Heizler. On 7 October 1835, at Munzingen, a single day labourer of 26 whose father was already dead, he married Francisca Widlebacher, who was born on 28 September 1811. By 1853 he was the village gravedigger, and in that capacity he witnessed the burial of his brother-in-law Servatius Birkenmayer.\n\nFriedrich died far from Munzingen, at five in the evening of 15 December 1865, in a place read as Brombach in the Wiese valley near Lörrach, though an earlier reading of the name was Lörrach itself. The Protestant parish there informed the Catholic parish of Munzingen of the death of \"Friedrich Heitzler, Bürger von Munzingen\", and the Catholic vicar buried him on 18 December. His age was recorded as 56 years, 9 months and 7 days, which matches his birth exactly. Why a Munzingen day labourer and former gravedigger was in the Lörrach district is unknown; he may have been working on the railway or in the textile mills of the Wiesental.",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), marriages 1835 http://www.landesarchiv-bw.de/plink/?f=5-480946-450",
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), deaths 1853 http://www.landesarchiv-bw.de/plink/?f=5-480947-286",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0034.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -72,5 +76,6 @@
       "people": [],
       "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-541"
     }
-  ]
+  ],
+  "researchNotes": "'Fridrich Heitzler, geb. 8ten März 1809, lediger Taglöhner, 26 Jahre alt, ehelicher Sohn des + Josef Heizler, gewesenen herrschaftlichen Jägers, und der Anna Federer' married Francisca Widlebacher (b. 28 Sep 1811) on 7 Oct 1835 at Munzingen. In 1853, as Todtengräber, he witnessed his brother-in-law Servatius's burial.\n\nFriedrich died far from Munzingen. A notice from the Protestant parish of a place read here as Brombach, in the Wiese valley near Lörrach, informed the Catholic parish of Munzingen that 'Friedrich Heitzler, Bürger von Munzingen', had died there at five in the evening of 15 Dec 1865. The Catholic vicar buried him on 18 December. Munzingen entered the extract at the head of its 1866 death register as No. 1a ([R4-S1]). The margin gives his age as 56 years, 9 months and 7 days, which counts back exactly to his known birth on 8 Mar 1809. The place name and the names of the witnesses are hard to read; an earlier reading of the place was Lörrach. Why a Munzingen day labourer and former gravedigger was in the Lörrach district is unknown. He may have been working on the railway or in the Wiesental textile mills."
 }

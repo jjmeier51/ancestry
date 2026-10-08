@@ -8,8 +8,8 @@
   "tags": [
     "military"
   ],
-  "summary": "Probably John's 1st cousin 5x removed; Civil War private, 52nd Pennsylvania ('Luzerne Regiment').",
-  "bio": "Caleb Pringle, b. 1839, son of Benjamin Pringle and Charity Gould, 'went West' (Giles & Franklin). Private Caleb Pringle served in Co. G, 52nd PA Infantry ('Luzerne Regiment') from 4 Nov 1861 to 5 Nov 1864 - the only Luzerne-regiment Pringle in the Bates rosters. Identity of soldier and cousin is probable.\n\nAn Iowa GAR membership card names a 'Caleb A' Pringle, born 1839 in Pennsylvania, who was a private in Co. G, 52nd PA Infantry, enlisted 4 Nov 1861 and discharged 5 Nov 1864 at the end of his term. The card also says he 'formerly resided at Sanborn' in O'Brien Co. ([R4-S1]). The FamilySearch tree for Caleb Atherton Pringle, son of Benjamin Pringle and Charity Gould, attaches this card. It places him in Salem Twp., Luzerne Co., in 1860 and again in 1870, then in Floyd Co., Iowa (1880), Clay Co., Iowa (1885) and Rolla, Missouri (1900, 1910). He died on 22 Apr 1919 and is buried in Rolla Cemetery ([R4-S2]). The middle initial A, the 1839 Pennsylvania birth and the 52nd PA service match on both, so the soldier and the cousin are the same man.",
+  "summary": "Civil War private in the 52nd Pennsylvania, the \"Luzerne Regiment\", who went west to Iowa and Missouri; probably John's 1st cousin 5 times removed.",
+  "bio": "Caleb Atherton Pringle was born in Luzerne County, Pennsylvania, in June 1839, a son of Benjamin Pringle and Charity Gould, and was probably John's 1st cousin 5 times removed. He was living in Salem Township in 1860 when the Civil War came, and on 4 November 1861 he enlisted as a private in Company G of the 52nd Pennsylvania Infantry, known as the \"Luzerne Regiment\", serving until he was discharged at the end of his term on 5 November 1864.\n\nThe family history records that he \"went West\". He was still in Salem Township in 1870, but by 1880 he was in Rockford Township, Floyd County, Iowa, in 1885 in Clay County, Iowa, and he also lived for a time at Sanborn in O'Brien County, where he belonged to the Grand Army of the Republic. By 1900 he had settled at Rolla, Missouri, where he was still living in 1910. He died at Rolla on 22 April 1919 and was buried in Rolla Cemetery.",
   "military": [
     {
       "branch": "US Army (Pennsylvania Volunteers)",
@@ -54,6 +54,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0147.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -96,5 +100,6 @@
       "people": [],
       "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KZGR-Z9K"
     }
-  ]
+  ],
+  "researchNotes": "Caleb Pringle, b. 1839, son of Benjamin Pringle and Charity Gould, 'went West' (Giles & Franklin). Private Caleb Pringle served in Co. G, 52nd PA Infantry ('Luzerne Regiment') from 4 Nov 1861 to 5 Nov 1864 - the only Luzerne-regiment Pringle in the Bates rosters. Identity of soldier and cousin is probable.\n\nAn Iowa GAR membership card names a 'Caleb A' Pringle, born 1839 in Pennsylvania, who was a private in Co. G, 52nd PA Infantry, enlisted 4 Nov 1861 and discharged 5 Nov 1864 at the end of his term. The card also says he 'formerly resided at Sanborn' in O'Brien Co. ([R4-S1]). The FamilySearch tree for Caleb Atherton Pringle, son of Benjamin Pringle and Charity Gould, attaches this card. It places him in Salem Twp., Luzerne Co., in 1860 and again in 1870, then in Floyd Co., Iowa (1880), Clay Co., Iowa (1885) and Rolla, Missouri (1900, 1910). He died on 22 Apr 1919 and is buried in Rolla Cemetery ([R4-S2]). The middle initial A, the 1839 Pennsylvania birth and the 52nd PA service match on both, so the soldier and the cousin are the same man."
 }

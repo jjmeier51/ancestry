@@ -5,8 +5,8 @@
     "note": ""
   },
   "tags": [],
-  "summary": "",
-  "bio": "William J. Jones, son of Edward F. and Margaret Jones, appears in the 1880 census aged 9/12, born in September (1879) in Pennsylvania, the first of the family born in America ([R4-S1]). He is Anna C. (Jones) McGuire's brother.",
+  "summary": "William J. Jones, born in Pennsylvania in 1879, the first of Edward and Margaret Jones's children born in America; brother of Anna C. (Jones) McGuire.",
+  "bio": "William J. Jones was born in September 1879 in Pennsylvania, the son of Edward F. and Margaret Jones and the first of their children born in America. He was a brother of Anna C. (Jones) McGuire.",
   "funFacts": [],
   "residences": [],
   "military": [],
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604498336.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -51,5 +55,6 @@
       ],
       "url": "https://familysearch.org/ark:/61903/1:1:MWNZ-HXR"
     }
-  ]
+  ],
+  "researchNotes": "William J. Jones, son of Edward F. and Margaret Jones, appears in the 1880 census aged 9/12, born in September (1879) in Pennsylvania, the first of the family born in America ([R4-S1]). He is Anna C. (Jones) McGuire's brother."
 }

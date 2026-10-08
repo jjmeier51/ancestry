@@ -16,8 +16,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's maternal 5th great-grandmother, of Guardia Lombardi.",
-  "bio": "Tree: 'Felicia' Magnotta (1760-1808); death act of son gives 'Felicita Magnotta'. Magnotta's #1 comune of US emigration is Guardia Lombardi (26 arrivals 1830-1912, paese.app).",
+  "summary": "Felicita Magnotta of Guardia Lombardi in Campania, 1760–1808; John's maternal 5th-great-grandmother.",
+  "bio": "Felicita Magnotta, whose name is also given as Felicia, was born in 1760 at Guardia Lombardi, Avellino, Campania, Italy, and died there in 1808. The death record of her son gives her name as Felicita Magnotta. The Magnotta surname belongs firmly to Guardia Lombardi, which sent more Magnotta emigrants to the United States between 1830 and 1912 than any other town in Italy. She was John's maternal 5th-great-grandmother.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -57,6 +57,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814934.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: 'Felicia' Magnotta (1760-1808); death act of son gives 'Felicita Magnotta'. Magnotta's #1 comune of US emigration is Guardia Lombardi (26 arrivals 1830-1912, paese.app)."
 }

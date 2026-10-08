@@ -15,8 +15,8 @@
     "place": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany"
   },
   "tags": [],
-  "summary": "John's 5th great-grandmother; wife of Johann Ev. Birkenmayer of Munzingen.",
-  "bio": "Magdalena Erb is named as the late mother of Servatius in the 1836 Munzingen marriage. The Ancestry tree gives 1771–1829. No Erb appears in any Breisgau GEDBAS file (Magdalena Erbs there belong to Friesenheim (Ortenau), Lancaster PA and Ontario); none in Munzingen in GEDBAS.",
+  "summary": "Magdalena Erb of Pfaffenweiler, wife of Johann Evangelist Birkenmayer of Munzingen and mother of Servatius; John's 5th-great-grandmother.",
+  "bio": "Magdalena Erb was born in 1771 at Pfaffenweiler, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany. She married Johann Evangelist Birkenmayer of Munzingen and was the mother of Servatius Birkenmayer. She had died by October 1836, when her son's marriage record named her as his late mother; family records give her death as 1829. She was John's 5th-great-grandmother.",
   "facts": [
     {
       "label": "Tree says",
@@ -60,6 +60,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695502785.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Magdalena Erb is named as the late mother of Servatius in the 1836 Munzingen marriage. The Ancestry tree gives 1771–1829. No Erb appears in any Breisgau GEDBAS file (Magdalena Erbs there belong to Friesenheim (Ortenau), Lancaster PA and Ontario); none in Munzingen in GEDBAS."
 }

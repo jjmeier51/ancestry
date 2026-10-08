@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sharon Meier's elder brother, a Merrill Lynch financial advisor for 30 years, who died at home in Skillman, New Jersey, in 2024.",
-  "bio": "John T. Petriello Jr. was born and raised in Scranton, the eldest of the three children of John and Mary Petriello. He lived in Mendham, New Jersey, for 25 years before moving to Princeton in 2021, and worked as a financial advisor at Merrill Lynch for 30 years. He loved golf, tennis, paddle tennis and skiing, coached youth sports, and spent family vacations at the Jersey Shore.\n\nHe died peacefully at home in Skillman on 29 February 2024, aged 65, survived by his wife of 38 years, Joanne, daughter Marissa Westlake (Zachary), sons John (Samantha) and James (Emily), three grandchildren, his sister Sharon Meier (Thomas), brother Paul Petriello (Rebecca) and cousin Ann Marie. His funeral Mass was at St. Paul's Catholic Church, Princeton; memorial gifts were asked for healingals.org.",
+  "summary": "Sharon Meier's elder brother and so John's uncle, a Merrill Lynch financial advisor for 30 years who died at home in Skillman, New Jersey, in 2024.",
+  "bio": "John T. Petriello Jr. was born in Scranton, Pennsylvania, on 29 December 1958, the eldest of the three children of John and Mary Petriello, and was raised there. He was the elder brother of John's mother, Sharon Meier. He lived in Mendham, New Jersey, for 25 years before moving to Princeton in 2021, and worked as a financial advisor at Merrill Lynch for 30 years. He loved golf, tennis, paddle tennis and skiing, coached youth sports, and spent family vacations at the Jersey Shore.\n\nHe died peacefully at home in Skillman on 29 February 2024, aged 65, survived by Joanne, his wife of 38 years, his daughter Marissa Westlake and sons John and James, three grandchildren, his sister Sharon Meier, his brother Paul Petriello and his cousin Ann Marie. His funeral Mass was held at St. Paul's Catholic Church in Princeton.",
   "residences": [
     {
       "date": "1958–",
@@ -53,6 +53,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0348.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "given": "John T.",
@@ -91,5 +95,6 @@
         "I282695503537"
       ]
     }
-  ]
+  ],
+  "researchNotes": "John T. Petriello Jr. was born and raised in Scranton, the eldest of the three children of John and Mary Petriello. He lived in Mendham, New Jersey, for 25 years before moving to Princeton in 2021, and worked as a financial advisor at Merrill Lynch for 30 years. He loved golf, tennis, paddle tennis and skiing, coached youth sports, and spent family vacations at the Jersey Shore.\n\nHe died peacefully at home in Skillman on 29 February 2024, aged 65, survived by his wife of 38 years, Joanne, daughter Marissa Westlake (Zachary), sons John (Samantha) and James (Emily), three grandchildren, his sister Sharon Meier (Thomas), brother Paul Petriello (Rebecca) and cousin Ann Marie. His funeral Mass was at St. Paul's Catholic Church, Princeton; memorial gifts were asked for healingals.org."
 }

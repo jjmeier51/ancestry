@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 5th-great-grand-aunt; wife of Sheriff Stephen Van Loon.",
-  "bio": "Daughter of Thomas Lamoreaux (named in his will); married Stephen Van Loon, Luzerne County sheriff from 1816 and a militia captain of the War of 1812 era. Their probable son Samuel Van Loon (1811-1885) was sheriff from 1859.\n\nFamilySearch's Hannah in Thomas Lamoreaux's family (b. 28 Apr 1784 Monroe, d. 19 Jul 1830) married Zachariah Ostrom at Pleasant Valley, Dutchess Co., in 1804 and Nicholas Nelson in 1816, and lived in Dutchess Co. ([R4-S1]). That does not fit the site's Hannah, who married Stephen Van Loon, the Luzerne sheriff. The FamilySearch profile probably attaches a different Hannah Lamoree from Dutchess to Thomas's family, and her dates should not be taken over.",
+  "summary": "Daughter of Thomas Lamoreaux and wife of Stephen Van Loon, sheriff of Luzerne County; John's 5th-great-grand-aunt.",
+  "bio": "Hannah Lamoreaux was a daughter of Thomas Lamoreaux, who named her in his will. She married Stephen Van Loon, a militia captain of the War of 1812 era who became sheriff of Luzerne County in 1816. Their probable son Samuel Van Loon (1811–1885) followed his father as sheriff from 1859. She should not be confused with a Hannah Lamoree of Dutchess County, New York, born in 1784, who married Zachariah Ostrom in 1804 and Nicholas Nelson in 1816; that woman's dates do not belong to her.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0172.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -47,5 +51,6 @@
       "found": "Zachariah Ostrom (1804) and Nicholas Nelson (1816), Dutchess Co. (FamilySearch)",
       "assessment": "Probably a different Hannah attached in error; keep the site's version, which rests on Thomas's will."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Thomas Lamoreaux (named in his will); married Stephen Van Loon, Luzerne County sheriff from 1816 and a militia captain of the War of 1812 era. Their probable son Samuel Van Loon (1811-1885) was sheriff from 1859.\n\nFamilySearch's Hannah in Thomas Lamoreaux's family (b. 28 Apr 1784 Monroe, d. 19 Jul 1830) married Zachariah Ostrom at Pleasant Valley, Dutchess Co., in 1804 and Nicholas Nelson in 1816, and lived in Dutchess Co. ([R4-S1]). That does not fit the site's Hannah, who married Stephen Van Loon, the Luzerne sheriff. The FamilySearch profile probably attaches a different Hannah Lamoree from Dutchess to Thomas's family, and her dates should not be taken over."
 }

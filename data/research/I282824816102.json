@@ -24,9 +24,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816102.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Bernardo was baptized Michele Angelo Bernardo on 29 September 1719, son of Giovanni Cicco and Francesca Sposata ([R4-S1]). He married Giovanna Moraca on 26 January 1738 ([R4-S2]).",
+  "bio": "Bernardo Cicco was baptized Michele Angelo Bernardo on 29 September 1719 at San Mango D'Aquino, Catanzaro, Calabria, Italy, the son of Giovanni Cicco and Francesca Sposata. He married Giovanna Moraca on 26 January 1738. He is John's 8th-great-grandfather.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -34,5 +38,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 31, p. 25, no. 25; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 43, p. 82, no. 1; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Bernardo was baptized Michele Angelo Bernardo on 29 September 1719, son of Giovanni Cicco and Francesca Sposata ([R4-S1]). He married Giovanna Moraca on 26 January 1738 ([R4-S2]).",
+  "summary": "Son of Giovanni Cicco and Francesca Sposata of San Mango d'Aquino in Calabria, who married Giovanna Moraca in 1738; John's 8th-great-grandfather."
 }

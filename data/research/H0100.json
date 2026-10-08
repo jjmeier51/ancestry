@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 11th-great-grandfather; earliest known Lamoureux, of Cozes, Saintonge (fl. before 1656).",
-  "bio": "In 1656 'Daniel Lamoureux, son of Jean Lamoureux' stood godparent at Cozes.",
+  "summary": "Earliest known Lamoureux, of Cozes in Saintonge, living before 1656; John's 11th-great-grandfather.",
+  "bio": "Jean Lamoureux of Cozes, in Saintonge, is the earliest known member of the Lamoureux family. He is known from a single record of 1656, in which 'Daniel Lamoureux, son of Jean Lamoureux' stood godparent at Cozes.",
   "facts": [
     {
       "label": "Disambiguation",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0100.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "In 1656 'Daniel Lamoureux, son of Jean Lamoureux' stood godparent at Cozes."
 }

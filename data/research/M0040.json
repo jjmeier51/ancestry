@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0003 (probable)."
   },
   "tags": [],
-  "summary": "Youngest child in the 1870 Danville household (age 3); FamilySearch says he died before 1880.",
-  "bio": "Youngest child in the 1870 Danville household (age 3); FamilySearch says he died before 1880.",
+  "summary": "Youngest child of the McGuire household at Danville, Pennsylvania, born about 1865, who died young.",
+  "bio": "Timothy McGuire was born about 1865 in Pennsylvania, the youngest child of the McGuire family's household at Danville, where he was three years old in 1870. Family records say he died before 1880, in Luzerne Co., Pa.",
   "sources": [
     "[R4-S1] 1870 census; FS G3FR-R9Z (primary) https://www.familysearch.org/service/tree/tree-data/published/persons/G3FR-R9Z"
   ],
@@ -15,6 +15,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-204 → M0040; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Youngest child in the 1870 Danville household (age 3); FamilySearch says he died before 1880."
 }

@@ -15,7 +15,7 @@
     "place": "Hazleton, Luzerne County, Pennsylvania"
   },
   "tags": [],
-  "summary": "John's 3rd great-aunt.",
+  "summary": "Elizabeth Meier, born in Pennsylvania in 1872 and died at Hazleton in 1945; John's 3rd great-aunt.",
   "facts": [
     {
       "label": "Date conflict",
@@ -66,10 +66,15 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085069.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "FamilySearch gives her death as 12 May 1945 at Hazleton ([R4-S1]); the tree had only the year. A search of the 1945 Pennsylvania death index (M–O volume, Soundex M600 block, pp.178–179) found no Elizabeth Meier/Meyer/Mayer dying in May 1945 at Hazleton ([R4-S2]). She may have died under a married name, or the date may be wrong.",
+  "bio": "Elizabeth Meier was born in Pennsylvania on 18 February 1872, though that date falls only seven months before the recorded birth of her sister Theresa, so one of the two dates must be wrong. She died on 12 May 1945 at Hazleton, Luzerne County, Pennsylvania, and was buried there; the death date is not certain, and she may have died under a married name. She was John's 3rd great-aunt.",
   "openQuestions": [
     "Did she marry? No Meier entry fits in the 1945 PA death index, which suggests a married surname. Check the 1900–1940 Hazleton censuses."
-  ]
+  ],
+  "researchNotes": "FamilySearch gives her death as 12 May 1945 at Hazleton ([R4-S1]); the tree had only the year. A search of the 1945 Pennsylvania death index (M–O volume, Soundex M600 block, pp.178–179) found no Elizabeth Meier/Meyer/Mayer dying in May 1945 at Hazleton ([R4-S2]). She may have died under a married name, or the date may be wrong."
 }

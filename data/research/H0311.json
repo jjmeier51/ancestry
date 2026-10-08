@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "One of the 30 founding proprietors of Hudson, NY, its recorder and mayor; John's 3rd cousin 8x removed.",
-  "bio": "Path: Elizabeth → Joseph → John (b. 1703, Newport and Providence shipowner) → David. Brother Joseph Lawrence (b. 1729) wrote the first marine insurance policy in Rhode Island (3C8R).\n\nSeventh son of John, son of Joseph, son of William & Elizabeth Smith ([R4-S1]): 3rd cousin 8 times removed. A Providence merchant and patriot, 'the intimate friend of Benjamin Franklin', who named a son after Samuel Adams; moved to Hudson in 1783 as one of its thirty founding proprietors and served as recorder and mayor.",
+  "summary": "Providence merchant and patriot, a founding proprietor of Hudson, New York, and its recorder and mayor; John's 3rd cousin 8x removed.",
+  "bio": "David Lawrence was born at Newport, Rhode Island, on 18 February 1738, the seventh son of John Lawrence, a Newport and Providence shipowner born in 1703, who was a son of Joseph Lawrence and a grandson of William Lawrence and Elizabeth Smith; he is John's 3rd cousin eight times removed. His brother Joseph Lawrence, born in 1729, wrote the first marine insurance policy in Rhode Island.\n\nDavid married about 1763 at Providence. A Providence merchant and patriot, described as 'the intimate friend of Benjamin Franklin', he named a son after Samuel Adams. In 1783 he moved to Hudson, New York, as one of its thirty founding proprietors, and he served the new city as recorder and mayor. He died at Hudson on 18 October 1809.",
   "sources": [
     "Lawrence (1858)",
     "[R4-S1] Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 55-56 (secondary) https://archive.org/details/historicalgeneal00lawr"
@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0311.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -59,5 +63,6 @@
   ],
   "funFacts": [
     "Named one of his sons after the patriot Samuel Adams."
-  ]
+  ],
+  "researchNotes": "Path: Elizabeth → Joseph → John (b. 1703, Newport and Providence shipowner) → David. Brother Joseph Lawrence (b. 1729) wrote the first marine insurance policy in Rhode Island (3C8R).\n\nSeventh son of John, son of Joseph, son of William & Elizabeth Smith ([R4-S1]): 3rd cousin 8 times removed. A Providence merchant and patriot, 'the intimate friend of Benjamin Franklin', who named a son after Samuel Adams; moved to Hudson in 1783 as one of its thirty founding proprietors and served as recorder and mayor."
 }

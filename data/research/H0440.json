@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0440.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -65,7 +69,7 @@
       "value": "110395 (1938)"
     }
   ],
-  "bio": "The Pennsylvania death index for 1938 lists Regina Pringle of Plymouth (Luzerne Co., county code 40), died 19 Dec 1938, certificate file 110395 ([R4-S1]). The FamilySearch tree names her Regina Stiers (also Styer), born 30 Nov 1862, daughter of John K. Stiers (1830-1893, d. Larksville) and Jane Edwards (1837-1929, d. Plymouth). It shows her at Danville, Montour Co., in 1870 and 1880, married to John S. Pringle in 1887, and living in Plymouth in 1900 and 1910. She was widowed when John died at 25 East Shawnee Avenue, Plymouth, on 22 Dec 1933, and was buried at Forty Fort ([R4-S2]). Bradsby (1893) confirms that John, son of Andrew and Catherine (Scott) Pringle, married 'Miss Regina Stires' ([R4-S3]).",
+  "bio": "Regina Stires, whose surname was also written Stiers and Styer, was born in Pennsylvania on 30 November 1862, a daughter of John K. Stiers (1830–1893) and Jane Edwards (1837–1929). She grew up at Danville, Montour County, where the family was living in 1870 and 1880. In 1887 she married John S. Pringle, son of Andrew and Catherine (Scott) Pringle, and the couple lived at Plymouth, Luzerne County, through 1900 and 1910. John died at Plymouth on 22 December 1933, and Regina followed him on 19 December 1938; she was buried in Forty Fort Cemetery.",
   "openQuestions": [
     "Order death certificate 1938 #110395 (names parents, birth date and informant)."
   ],
@@ -73,5 +77,7 @@
     "[R4-S1] Pennsylvania Death Index 1938, P-R volume, PDF p.89: REGINA PRINGLE, PLYMOUTH, P652, co. 40, 12-19-38, file 110395 (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1938/D-38%20P-R.pdf",
     "[R4-S2] FamilySearch Family Tree (published), Regina Styer or Stiers KVLM-ZHS; John S. Pringle KG4S-X75 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KVLM-ZHS",
     "[R4-S3] Bradsby, History of Luzerne County (1893), Catherine Scott sketch (PAGenWeb transcription) (secondary) https://pagenweb.org/~luzerne/bios/sabios.htm"
-  ]
+  ],
+  "researchNotes": "The Pennsylvania death index for 1938 lists Regina Pringle of Plymouth (Luzerne Co., county code 40), died 19 Dec 1938, certificate file 110395 ([R4-S1]). The FamilySearch tree names her Regina Stiers (also Styer), born 30 Nov 1862, daughter of John K. Stiers (1830-1893, d. Larksville) and Jane Edwards (1837-1929, d. Plymouth). It shows her at Danville, Montour Co., in 1870 and 1880, married to John S. Pringle in 1887, and living in Plymouth in 1900 and 1910. She was widowed when John died at 25 East Shawnee Avenue, Plymouth, on 22 Dec 1933, and was buried at Forty Fort ([R4-S2]). Bradsby (1893) confirms that John, son of Andrew and Catherine (Scott) Pringle, married 'Miss Regina Stires' ([R4-S3]).",
+  "summary": "Daughter of John K. Stiers and Jane Edwards who married John S. Pringle of Plymouth in 1887 and died there in 1938."
 }

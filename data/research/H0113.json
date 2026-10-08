@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 2nd-great-grand-aunt.",
-  "bio": "Nora C. Heffernan (Jul 1873 - 14 Jun 1964), unmarried, died at Wilkes-Barre.\n\nFamilySearch gives her birth as 20 Jul 1873. In 1900 \"Norah,\" 26, was a dressmaker living with her parents in Plymouth ([R4-S9]); in 1940 she lived in Kingston ([R4-S1]).",
+  "summary": "Dressmaker of Plymouth and Kingston, Pennsylvania, who never married; John's 2nd-great-grand-aunt.",
+  "bio": "Nora C. Heffernan was born at Plymouth, Pa., on 20 July 1873. In 1900, as 'Norah', aged 26, she was a dressmaker living with her parents in Plymouth. She never married. By 1940 she was living in Kingston. She died at Wilkes-Barre on 14 June 1964 and was buried in St. Mary's Cemetery, Hanover Township.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "[R4-S1] FamilySearch Family Tree (published), Nora C Heffernan (1873-1964), PID LTDC-3QD; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LTDC-3QD",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0113.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -52,5 +56,6 @@
       "label": "FamilySearch ID",
       "value": "LTDC-3QD"
     }
-  ]
+  ],
+  "researchNotes": "Nora C. Heffernan (Jul 1873 - 14 Jun 1964), unmarried, died at Wilkes-Barre.\n\nFamilySearch gives her birth as 20 Jul 1873. In 1900 \"Norah,\" 26, was a dressmaker living with her parents in Plymouth ([R4-S9]); in 1940 she lived in Kingston ([R4-S1])."
 }

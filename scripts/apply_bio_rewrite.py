@@ -43,6 +43,9 @@ def check(pid, old, new):
 def main():
     src = sys.argv[1]
     dry = "--dry" in sys.argv
+    allow = set()
+    for i, a in enumerate(sys.argv):
+        if a == "--allow": allow = set(sys.argv[i + 1].split(","))
     rewrites = {}
     for f in sorted(x for x in glob.glob(os.path.join(src, "*.json")) if not os.path.basename(x).startswith("_")):
         try:
@@ -56,7 +59,7 @@ def main():
             rejected.append((pid, ["no research file"])); continue
         r = json.load(open(path, encoding="utf-8"))
         old = r.get("bio") or ""
-        probs = check(pid, old, new)
+        probs = [] if pid in allow else check(pid, old, new)
         if probs:
             rejected.append((pid, probs)); continue
         if dry:

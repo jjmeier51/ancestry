@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's 1st cousin 4x removed; Dr. Joseph V. Connole, WWI Navy eye surgeon.",
-  "bio": "Son of John F. Connole; born 1889; eye, ear, nose and throat specialist in Wilkes-Barre. Enlisted Oct 1917; U.S. Navy senior lieutenant in charge of eye work at the Philadelphia Navy Yard for two years.",
+  "summary": "Dr. Joseph V. Connole, Wilkes-Barre eye, ear, nose and throat specialist and First World War Navy eye surgeon; John's 1st cousin 4 times removed.",
+  "bio": "Joseph Vincent Connole was born in 1889 at Plymouth, Pa., a son of John F. Connole. He became a physician specialising in the eye, ear, nose and throat, and practised in Wilkes-Barre.\n\nIn October 1917, during the First World War, he enlisted in the United States Navy and served for two years as a senior lieutenant in charge of eye work at the Philadelphia Navy Yard. He arrived at New York as a ship's passenger in 1936 and was still living in Wilkes-Barre in 1940.",
   "military": [
     {
       "branch": "US Navy",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0138.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -78,5 +82,6 @@
       "place": "New York",
       "description": "Passenger/crew list entry, New York, 1936 (FS index; image attached) [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Son of John F. Connole; born 1889; eye, ear, nose and throat specialist in Wilkes-Barre. Enlisted Oct 1917; U.S. Navy senior lieutenant in charge of eye work at the Philadelphia Navy Yard for two years."
 }

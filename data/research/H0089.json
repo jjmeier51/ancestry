@@ -9,8 +9,8 @@
     "Elizabeth Davenport"
   ],
   "tags": [],
-  "summary": "Possible 8th-great-grandmother of John; second wife of Capt. Thomas Davenport.",
-  "bio": "Capt. Thomas Davenport's second wife Elizabeth was 'believed' to be a Leggett sister. Round 2 listed her as Charity's mother but flagged 'check which wife was Charity's mother'. WikiTree's chain Leggett -> Richardson -> Mead of Watford rests on the belief.\n\nHer husband's will of 10 Oct 1746 names her, Elizabeth Davenport, as his wife and an executrix. It leaves her the household goods and an enslaved person to bring up the seven minor children: Oliver, Charity, Phebe, Robert, Hannah, Stephen and Abigail ([R4-S1]). That makes her Charity's mother. The Davenport genealogy says only that she 'is believed' to have been a sister of Sarah, Martha and Alice Leggett, daughters of Mrs Elizabeth Leggett of Fordham Manor, and that she survived her husband. No document naming her as a Leggett was found.",
+  "summary": "Second wife of Capt. Thomas Davenport and mother of Charity Davenport; John's 8th-great-grandmother, whose Leggett parentage is unproven.",
+  "bio": "Elizabeth was the second wife of Capt. Thomas Davenport of Philipse's Precinct, Dutchess County, New York, and outlived him. His will of 10 October 1746 names her, as Elizabeth Davenport, his wife and an executrix, and leaves her the household goods and an enslaved person to help bring up their seven minor children: Oliver, Charity, Phebe, Robert, Hannah, Stephen and Abigail. That makes her the mother of Charity, John's ancestor. The Davenport family genealogy says she is believed to have been a sister of Sarah, Martha and Alice Leggett, daughters of Mrs Elizabeth Leggett of Fordham Manor, but no document naming her as a Leggett has come to light. She was John's 8th-great-grandmother.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) p.xvii",
     "[R4-S1] Giles, Thomas Davenport, Pioneer, and His Descendants: will of Thomas Davenport dated 10 Oct 1746 (transcribed) and discussion of his two wives (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt"
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0089.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -52,5 +56,6 @@
   ],
   "openQuestions": [
     "Leggett maiden name: check the will of Mrs Elizabeth Leggett of Fordham (Westchester) for a daughter Elizabeth Davenport."
-  ]
+  ],
+  "researchNotes": "Capt. Thomas Davenport's second wife Elizabeth was 'believed' to be a Leggett sister. Round 2 listed her as Charity's mother but flagged 'check which wife was Charity's mother'. WikiTree's chain Leggett -> Richardson -> Mead of Watford rests on the belief.\n\nHer husband's will of 10 Oct 1746 names her, Elizabeth Davenport, as his wife and an executrix. It leaves her the household goods and an enslaved person to bring up the seven minor children: Oliver, Charity, Phebe, Robert, Hannah, Stephen and Abigail ([R4-S1]). That makes her Charity's mother. The Davenport genealogy says only that she 'is believed' to have been a sister of Sarah, Martha and Alice Leggett, daughters of Mrs Elizabeth Leggett of Fordham Manor, and that she survived her husband. No document naming her as a Leggett was found."
 }

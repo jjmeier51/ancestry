@@ -5,8 +5,8 @@
     "note": "Tree only; same death year as his wife (suspect copied date); detached from John's line."
   },
   "tags": [],
-  "summary": "Tree ancestor of Maria d'Ambrosio; not John's ancestor.",
-  "bio": "Tree: Pasquale D'ambrosio (d. 1819) + Arcangiola Giordano (d. 1819). Round 1 flagged identical death years as probably copied.",
+  "summary": "Pasquale D'ambrosio, husband of Arcangiola Giordano and an ancestor of Maria d'Ambrosio; not John's own ancestor.",
+  "bio": "Pasquale D'ambrosio was the husband of Arcangiola Giordano and an ancestor of Maria d'Ambrosio. Family records give 1819 as the year of death for both husband and wife, though the identical dates are probably a copying error. He is not an ancestor of John.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814974.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Pasquale D'ambrosio (d. 1819) + Arcangiola Giordano (d. 1819). Round 1 flagged identical death years as probably copied."
 }

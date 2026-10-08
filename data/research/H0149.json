@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 4th-great-grand-aunt.",
-  "bio": "Temperance Pringle (c.1802 - after 1860), daughter of Samuel and Martha, married Clark Smith Davenport (1803-1875) on 16 Oct 1825; they lived 11 years in Ohio and had 9 children; in Plymouth in the 1850 and 1860 censuses.\n\nFamilySearch attaches an Ohio death record (1908-1953) of a Sarah Lydia Castner that names 'Temperance Pringle' as her mother ([R4-S1]). This is a daughter of Temperance and Clark S. Davenport from the couple's Ohio years, and it independently confirms Temperance's maiden name. The household is in the 1850 and 1860 censuses ([R4-S1]).",
+  "summary": "Daughter of Samuel and Martha Pringle, who raised nine children with Clark Smith Davenport in Ohio and Plymouth; John's 4th-great-grand-aunt.",
+  "bio": "Temperance Pringle was born about 1802, the daughter of Samuel and Martha Pringle, and was John's 4th-great-grand-aunt. On 16 October 1825 she married Clark Smith Davenport (1803–1875). The couple spent eleven years in Ohio, where their daughter Sarah Lydia, later Mrs. Castner, was born, and had nine children in all. They were living at Plymouth, Pennsylvania, in 1850 and 1860, and Temperance was still alive after 1860.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) p.329",
     "WikiTree Pringle-3407: https://www.wikitree.com/wiki/Pringle-3407",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0149.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -40,5 +44,6 @@
   ],
   "openQuestions": [
     "Sarah Lydia (Davenport) Castner's Ohio death certificate names Temperance Pringle as her mother; worth adding to the tree as a child."
-  ]
+  ],
+  "researchNotes": "Temperance Pringle (c.1802 - after 1860), daughter of Samuel and Martha, married Clark Smith Davenport (1803-1875) on 16 Oct 1825; they lived 11 years in Ohio and had 9 children; in Plymouth in the 1850 and 1860 censuses.\n\nFamilySearch attaches an Ohio death record (1908-1953) of a Sarah Lydia Castner that names 'Temperance Pringle' as her mother ([R4-S1]). This is a daughter of Temperance and Clark S. Davenport from the couple's Ohio years, and it independently confirms Temperance's maiden name. The household is in the 1850 and 1860 censuses ([R4-S1])."
 }

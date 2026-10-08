@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Culper Ring courier (code number 725); formerly John's 3C9R via Brewster — AFFECTED BY the probable Brewster disproof; likely not kin.",
-  "bio": "Wikipedia claims Mayflower descent; a Brewster researcher (Behling) rejects that.\n\nContinental Army officer and Culper Ring courier across Long Island Sound ([R4-S1]). With the Brewster ancestry probably disproven (Round 3), no blood route to John is known.",
+  "summary": "Continental Army officer and Culper Ring courier (1747–1827); once counted a Brewster cousin of John, but that Brewster descent is probably disproven.",
+  "bio": "Caleb Brewster was born on 12 September 1747 and died on 13 February 1827. He served as an officer in the Continental Army and as the courier of the Culper spy ring, carrying its messages across Long Island Sound under the code number 725. He has sometimes been credited with Mayflower descent, but a Brewster family researcher rejects that claim.\n\nHe was once placed as John's 3rd cousin 9 times removed through the Brewster family, but that Brewster ancestry has probably been disproven, so no blood relationship to John is known.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Caleb_Brewster",
     "Behling, https://homepages.rootsweb.com/~sam/brewster.html and brewsteri.html",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0290.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,5 +46,6 @@
   },
   "death": {
     "date": "1827-02-13"
-  }
+  },
+  "researchNotes": "Wikipedia claims Mayflower descent; a Brewster researcher (Behling) rejects that.\n\nContinental Army officer and Culper Ring courier across Long Island Sound ([R4-S1]). With the Brewster ancestry probably disproven (Round 3), no blood route to John is known."
 }

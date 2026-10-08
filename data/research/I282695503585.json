@@ -22,8 +22,8 @@
     "military",
     "notable"
   ],
-  "summary": "John's great-granduncle; WWII Army Air Corps veteran, chairman of D.C. Sales Co., Candy Hall of Fame 1975.",
-  "bio": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household.",
+  "summary": "WWII Army Air Corps veteran, chairman of D.C. Sales Co. and Candy Hall of Fame member; John's great-granduncle.",
+  "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940. During the Second World War he served in the US Army Air Corps from 1942 to 1946.\n\nHe made his career in the food and confectionery trade as a partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. His standing in the industry brought him the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he started the Cognetti family Thanksgiving, a gathering that continued long after him: the 50th, in 2016, drew 151 relatives. He died at Moosic, Pennsylvania, on 25 May 2009. He is John's great-granduncle.",
   "notable": "Candy Hall of Fame 1975; AWMA Hall of Fame 1993",
   "funFacts": [
     "Founded the 50-year Cognetti family Thanksgiving tradition (151 relatives in 2016)"
@@ -76,6 +76,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503585.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd great-uncle; younger brother of William F. Meier.",
-  "bio": "Born 30 Jun 1906 in Tamaqua (fixing the family's Tamaqua years); office clerk at a coal company, living with his parents at 16 Barney St, in 1940 aged 33.\n\nFamilySearch has Joseph's later life ([R4-S1]). After 1940 he married Mary Agatha Lyons, the widow of Joseph Francis Moore, who had died in 1945, so the marriage was after 1945. He lived at Merchantville, New Jersey, by 1957. He died in Philadelphia on 16 Feb 1970 and was buried at St Mary's, Hanover Twp. His wife died in 1999 and was buried there too.",
+  "summary": "Coal-company clerk of Wilkes-Barre, born in Tamaqua in 1906, who later lived in New Jersey and died in Philadelphia; John's 2nd great-uncle and younger brother of William F. Meier.",
+  "bio": "Joseph John Meier was born on 30 June 1906 at Tamaqua in Schuylkill County, Pennsylvania, where his parents, Henry J. and Anna Meier, were living at the time; he was a younger brother of John's great-grandfather William F. Meier. In 1940, aged 33 and still single, he was an office clerk at a coal company and lived with his parents on Barney Street in Wilkes-Barre.\n\nSome time after 1945 he married Mary Agatha Lyons, the widow of Joseph Francis Moore, who had died that year. By 1957 the couple were living at Merchantville, New Jersey. Joseph died in Philadelphia on 16 February 1970 and was buried at St. Mary's Cemetery in Hanover Township, Luzerne County; Mary died in 1999 and was buried there beside him.",
   "sources": [
     "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
     "1940 census image",
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0016.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -65,5 +69,6 @@
   "openQuestions": [
     "PA death index 1970 (if online) for Meier, Joseph J., Philadelphia, 16 Feb 1970.",
     "Marriage to Mary Agatha (Lyons) Moore, after 1945, probably New Jersey."
-  ]
+  ],
+  "researchNotes": "Born 30 Jun 1906 in Tamaqua (fixing the family's Tamaqua years); office clerk at a coal company, living with his parents at 16 Barney St, in 1940 aged 33.\n\nFamilySearch has Joseph's later life ([R4-S1]). After 1940 he married Mary Agatha Lyons, the widow of Joseph Francis Moore, who had died in 1945, so the marriage was after 1945. He lived at Merchantville, New Jersey, by 1957. He died in Philadelphia on 16 Feb 1970 and was buried at St Mary's, Hanover Twp. His wife died in 1999 and was buried there too."
 }

@@ -17,11 +17,17 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0489.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Daughter of John Lyon Gardiner, 7th Lord of the Manor of Gardiner's Island; wife of David Thompson ([R4-S1]). She descends from the main Gardiner's Island line, not from Col. Abraham Gardiner and Mary Smith, so no Bull Smith descent is shown: an in-law. Her daughter Sarah G. Thompson married her cousin Col. David Lion Gardiner, Julia Tyler's brother ([R4-S1], [R4-S2]).",
+  "bio": "Sarah Diodati Gardiner was a daughter of John Lyon Gardiner, 7th Lord of the Manor of Gardiner's Island, and the wife of David Thompson. She came from the main Gardiner's Island line rather than from Col. Abraham Gardiner and Mary Smith, so she does not share the family's descent from Bull Smith and is related to John by marriage only. Her daughter Sarah G. Thompson married her cousin Col. David Lion Gardiner, the brother of Julia Gardiner Tyler.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 469-470 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149 (secondary) https://archive.org/details/liongardinerhisd00gard"
-  ]
+  ],
+  "researchNotes": "Daughter of John Lyon Gardiner, 7th Lord of the Manor of Gardiner's Island; wife of David Thompson ([R4-S1]). She descends from the main Gardiner's Island line, not from Col. Abraham Gardiner and Mary Smith, so no Bull Smith descent is shown: an in-law. Her daughter Sarah G. Thompson married her cousin Col. David Lion Gardiner, Julia Tyler's brother ([R4-S1], [R4-S2]).",
+  "summary": "Daughter of John Lyon Gardiner, 7th Lord of the Manor of Gardiner's Island, and wife of David Thompson; related to John by marriage."
 }

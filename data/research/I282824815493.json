@@ -8,8 +8,8 @@
     "Antonio Fata Tang..."
   ],
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Fiorillo/Fata pedigree.",
-  "bio": "Tree: Antonio Fata Tang... (1701-1764) + Fulvia Palladino (1708-1774). Shown as 'Potential' (unaccepted hint) in one view. Not present in San Mango's 1674-1804 stati.",
+  "summary": "Antonio Fata Tangarino Scaffarone of Aiello Calabro, husband of Fulvia Palladino; John's 8th-great-grandfather in the unproven Fata line.",
+  "bio": "Antonio Fata Tangarino Scaffarone was born on 1 June 1701 at Aiello Calabro, Cosenza, Calabria, Italy, and died there on 15 August 1764. He married Fulvia Palladino, who lived from 1708 to 1774. He stands as John's 8th-great-grandfather in the Fiorillo and Fata pedigree, a line that remains unproven.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815493.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Antonio Fata Tang... (1701-1764) + Fulvia Palladino (1708-1774). Shown as 'Potential' (unaccepted hint) in one view. Not present in San Mango's 1674-1804 stati."
 }

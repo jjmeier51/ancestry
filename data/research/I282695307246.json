@@ -5,8 +5,8 @@
     "note": "Tree only; no record found online. Probably Honora's brother or father (unproven); a father born 1807 for a daughter born c.1825 is barely possible."
   },
   "tags": [],
-  "summary": "Tree-only father of John's 4th-great-grandmother Honora Dwyer - unproven.",
-  "bio": "Tree shows Dennis Dwyer 1807-1875 as father of 'Honora D Cannole'. Not found online; possibly her brother.",
+  "summary": "Irish-born Philadelphian recorded as the father of Honora Dwyer, though the link is unproven; John's 5th-great-grandfather.",
+  "bio": "Dennis Dwyer was born about 1807 in Ireland and died in Philadelphia on 25 March 1875. Family records make him the father of Honora Dwyer, John's 4th-great-grandmother, but the relationship is unproven; he may instead have been her brother.",
   "facts": [
     {
       "label": "Tree shows",
@@ -40,6 +40,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695307246.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree shows Dennis Dwyer 1807-1875 as father of 'Honora D Cannole'. Not found online; possibly her brother."
 }

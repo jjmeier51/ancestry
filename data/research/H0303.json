@@ -8,8 +8,8 @@
   "tags": [
     "notable"
   ],
-  "summary": "Titanic victim and brother-in-law of architect Stanford White; John's 6th cousin 5x removed via Bull Smith.",
-  "bio": "Route (6C5R): Bull Smith → Richard Jr. (2d) → Sarah Woodhull → Gen. Nathaniel Woodhull → Elizabeth Woodhull Nicoll → Eliza Nicoll Smith → Judge J. Lawrence Smith → James. Born 1856 in Smithtown; lived in Paris; travelled first class on the Titanic and died in the sinking in 1912; his body was not recovered. His sister Bessie married Stanford White. (Birthplace, Paris residence, first-class travel and body-not-recovered details come from the project's research-thread answer to John's question 'who was James Clinch Smith?' (section 1.4); the research notes record only 'died on the Titanic'.)\n\nSon of Judge J. Lawrence Smith; through his father's line (Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th -> J. Lawrence -> James) he is John's 5th cousin 5 times removed, closer than the 6C5R on the site, and a descendant of John's own ancestor Job Smith. He inherited his father's homestead (Pelletreau 1898, [R4-S1]); married the musician Bertha Ludington Barnes; witnessed the 1906 murder of his brother-in-law Stanford White; and died on the Titanic (Wikipedia, [R4-S2]).",
+  "summary": "Smithtown heir who died in the sinking of the Titanic in 1912, brother-in-law of the architect Stanford White; John's 5th cousin 5x removed.",
+  "bio": "James Clinch Smith was born in 1856 at Smithtown, Long Island, the son of Judge J. Lawrence Smith, and inherited his father's homestead. Through his father's line he descends from Job Smith, John's own ancestor, by way of Job 2d, Anna, Richard 4th, Richard 5th and J. Lawrence Smith, which makes him John's 5th cousin five times removed; through Gen. Nathaniel Woodhull and Bull Smith he is also a 6th cousin five times removed.\n\nHe married the musician Bertha Ludington Barnes and lived in Paris. His sister Bessie married the architect Stanford White, and in 1906 James witnessed White's murder. Travelling first class on the Titanic, he died in the sinking on 15 April 1912; his body was not recovered.",
   "notable": "Died in the sinking of RMS Titanic, 1912.",
   "sources": [
     "notes/round2/colonial_cousins.md §2b",
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0303.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -50,5 +54,6 @@
       "found": "5C5R via Job Smith",
       "assessment": "Update to 5C5R."
     }
-  ]
+  ],
+  "researchNotes": "Route (6C5R): Bull Smith → Richard Jr. (2d) → Sarah Woodhull → Gen. Nathaniel Woodhull → Elizabeth Woodhull Nicoll → Eliza Nicoll Smith → Judge J. Lawrence Smith → James. Born 1856 in Smithtown; lived in Paris; travelled first class on the Titanic and died in the sinking in 1912; his body was not recovered. His sister Bessie married Stanford White. (Birthplace, Paris residence, first-class travel and body-not-recovered details come from the project's research-thread answer to John's question 'who was James Clinch Smith?' (section 1.4); the research notes record only 'died on the Titanic'.)\n\nSon of Judge J. Lawrence Smith; through his father's line (Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th -> J. Lawrence -> James) he is John's 5th cousin 5 times removed, closer than the 6C5R on the site, and a descendant of John's own ancestor Job Smith. He inherited his father's homestead (Pelletreau 1898, [R4-S1]); married the musician Bertha Ludington Barnes; witnessed the 1906 murder of his brother-in-law Stanford White; and died on the Titanic (Wikipedia, [R4-S2])."
 }

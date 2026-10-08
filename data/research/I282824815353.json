@@ -5,8 +5,8 @@
     "note": "Tree only and contradicted: Carmine Fiorillo's 1860 death act names his mother Vittoria Marrelli/Morelli, not Maria. Morrello is absent from San Mango's 1674-1804 stati delle anime. Do not treat as an ancestor until proven. Round 4 (unverified → confirmed): She is Carmine's mother per the 1840 marriage; her burial gives age and father."
   },
   "tags": [],
-  "summary": "Tree's mother of Carmine Fiorillo; superseded by Vittoria Marrelli (confirmed). Possibly a garbled or mis-attached version of her.",
-  "bio": "Tree: Maria Morrello (1786-1846), wife of Domenico G. Fiorillo; parents Vincenzo Morrello M... (1759-1836) + Ippolita Guercio N... (1761-1831). Round 2: Morrello/Morello has 0 entries in San Mango's stati 1674-1804, including fuzzy spellings, and the couple would have been listed in 1800/1804. Round 3: Carmine's death act gives 'Vittoria Marrelli/Morelli'. The whole Morrello/Guercio/Chiarello pedigree above her is flagged unsupported.\n\nMaria Marrello (the tree's 'Morrello') was buried at San Mango on 20 March 1846, aged 60. She is named as the daughter of the late Vincenzo Marrello and of Giacinta Gabriele Fiorillo, and as the wife of Domenico Gabriele Fiorillo ([R4-S1]). Her son Carmine's 1840 marriage names her, still living, as his mother ([R4-S2]). Her daughters Cintia and Antonia were born at Aiello Calabro ([R4-S3]). Her father Vincenzo matches the tree. Her mother is given as Giacinta Gabriele Fiorillo, not the tree's Ippolita Guercio Nuzio. She is therefore a direct ancestor (Carmine's mother), replacing 'Vittoria Marrelli'.",
+  "summary": "Maria Marrello (recorded as Morrello) of Aiello Calabro, wife of Domenico Gabriele Fiorillo and, by the best evidence, mother of Carmine Fiorillo.",
+  "bio": "Maria Marrello, whose name is also written Morrello and Marrelli, was born in 1786 at Aiello Calabro, Cosenza, Calabria, the daughter of Vincenzo Marrello and Giacinta Gabriele Fiorillo. She married Domenico Gabriele Fiorillo; their daughters Cintia and Antonia were born at Aiello Calabro, and their son Carmine named her, still living, as his mother at his marriage in 1840. She was buried at San Mango d'Aquino on 20 March 1846, aged 60.\n\nCarmine's death record instead calls his mother Vittoria Marrelli, so the records disagree, but the marriage record names Maria directly and she is most likely Carmine's mother, and so a direct ancestor of John. The family records that give her mother as Ippolita Guercio and trace a longer pedigree above her are unsupported.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -52,6 +52,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815353.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -75,5 +79,6 @@
       "found": "20 Mar 1846 (burial)",
       "assessment": "Burial the day after death; consistent."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Maria Morrello (1786-1846), wife of Domenico G. Fiorillo; parents Vincenzo Morrello M... (1759-1836) + Ippolita Guercio N... (1761-1831). Round 2: Morrello/Morello has 0 entries in San Mango's stati 1674-1804, including fuzzy spellings, and the couple would have been listed in 1800/1804. Round 3: Carmine's death act gives 'Vittoria Marrelli/Morelli'. The whole Morrello/Guercio/Chiarello pedigree above her is flagged unsupported.\n\nMaria Marrello (the tree's 'Morrello') was buried at San Mango on 20 March 1846, aged 60. She is named as the daughter of the late Vincenzo Marrello and of Giacinta Gabriele Fiorillo, and as the wife of Domenico Gabriele Fiorillo ([R4-S1]). Her son Carmine's 1840 marriage names her, still living, as his mother ([R4-S2]). Her daughters Cintia and Antonia were born at Aiello Calabro ([R4-S3]). Her father Vincenzo matches the tree. Her mother is given as Giacinta Gabriele Fiorillo, not the tree's Ippolita Guercio Nuzio. She is therefore a direct ancestor (Carmine's mother), replacing 'Vittoria Marrelli'."
 }

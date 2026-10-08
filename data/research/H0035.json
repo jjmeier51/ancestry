@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 5th great-aunt; infant sister of Agatha Heizler.",
-  "bio": "Died of measles aged about 1½, 'Tochter des Joseph Heizler'; witness Johann Federer. (Her age suggests a birth c.late 1813, close to Agatha's June 1813 birth — not resolved; ages in death entries are approximate.)",
+  "summary": "Infant sister of Agatha Heizler who died of measles at Munzingen in 1815; John's 5th-great-aunt.",
+  "bio": "Veronica Heitzler was born about 1813, a daughter of Joseph Heizler and a sister of John's ancestor Agatha Heizler. She died of measles at Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany, on 29 April 1815, aged about a year and a half; the burial entry names her as \"Tochter des Joseph Heizler\", with Johann Federer as witness. Her stated age would place her birth late in 1813, close to Agatha's birth that June, but ages in death entries of the period were only approximate.",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), deaths 1815 Act 6 http://www.landesarchiv-bw.de/plink/?f=5-480946-119"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0035.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Died of measles aged about 1½, 'Tochter des Joseph Heizler'; witness Johann Federer. (Her age suggests a birth c.late 1813, close to Agatha's June 1813 birth — not resolved; ages in death entries are approximate.)"
 }

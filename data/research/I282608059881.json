@@ -9,7 +9,7 @@
     "Vicar Christopher Youngs"
   ],
   "tags": [],
-  "summary": "Vicar of Southwold/Reydon, Suffolk; father of Rev. John Youngs; probably not John's ancestor.",
+  "summary": "Vicar of Southwold and Reydon in Suffolk and father of the Rev. John Youngs; probably not John's ancestor.",
   "facts": [
     {
       "label": "Tree shows",
@@ -43,13 +43,17 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608059881.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
     "date": "1626-06-14",
     "place": "Southwold, Suffolk, England"
   },
-  "bio": "Youngs Family (1907) gives Rev. Christopher Yonges b. England about 1545, d. Southwold 14 June 1626, buried in the chancel under a brass tablet. His wife was **Margaret**, buried 5 Nov 1630, whose will of 27 Oct 1630 names her six children John, Joseph, Christopher, Mary, Margaret and Martha ([R4-S1]). The tree's birth of 21 Nov 1575 and wife Johanna Horne are not supported, and the book names no father. He is in any case not an ancestor of John's on present evidence (see Rev. John Youngs).",
+  "bio": "Christopher Yonges, or Youngs, was vicar of St. Edmund's at Southwold, Suffolk, from 1611 until his death there on 14 June 1626, and was buried in the chancel of the church under a brass tablet. The Youngs family history gives his birth as about 1545; the later date of 21 November 1575 at Reydon and a wife named Johanna Horne that appear in some family records are not supported. His wife Margaret was buried on 5 November 1630, and her will of the previous month names their six children: John, Joseph, Christopher, Mary, Margaret and Martha. His son was the Rev. John Youngs.\n\nAlthough he appears in John's family records as a 12th-great-grandfather, on present evidence he is probably not an ancestor of John.",
   "conflicts": [
     {
       "field": "spouse",
@@ -63,5 +67,6 @@
       "found": "about 1545",
       "assessment": "The tree is unsupported."
     }
-  ]
+  ],
+  "researchNotes": "Youngs Family (1907) gives Rev. Christopher Yonges b. England about 1545, d. Southwold 14 June 1626, buried in the chancel under a brass tablet. His wife was **Margaret**, buried 5 Nov 1630, whose will of 27 Oct 1630 names her six children John, Joseph, Christopher, Mary, Margaret and Martha ([R4-S1]). The tree's birth of 21 Nov 1575 and wife Johanna Horne are not supported, and the book names no father. He is in any case not an ancestor of John's on present evidence (see Rev. John Youngs)."
 }

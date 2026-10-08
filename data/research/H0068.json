@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grandfather; coal miner at Lickfinn in the Slieveardagh coalfield, Gortnahoe parish, Tipperary - earliest known Heffernan ancestor.",
-  "bio": "Humphrey Heffernan was a miner living at Lickfin (Lickfinn), parish of Gortnahoe, barony of Slieveardagh, Co. Tipperary, flourishing 1805-1817. He married Anastasia Ryan (record not found). Their children were Lawrence (c.1805-1842), Richard (bapt. 3 May 1806), Thomas (bapt. 10 Sep 1808), James (bapt. 1812), Humphrey (1815), William (1817) and Patrick; the parentage of Lawrence and Patrick is probable. Two sons, James and Patrick, were transported to New South Wales after the 1834 killing of Constable Feeney at Ballynonty. Added to the tree in Round 2 (replacing the tree's Patrick Heffernan/Catherine Neagle line).",
+  "summary": "Coal miner at Lickfinn in the Slieveardagh coalfield of County Tipperary and the earliest known Heffernan ancestor; John's 5th-great-grandfather.",
+  "bio": "Humphrey Heffernan was a coal miner at Lickfinn in the parish of Gortnahoe, barony of Slieveardagh, County Tipperary, where he is recorded between 1805 and 1817. He is the earliest known ancestor of the Heffernan line and John's 5th-great-grandfather. He married Anastasia Ryan.\n\nTheir children were Lawrence (about 1805–1842), Richard, baptized 3 May 1806, Thomas, baptized 10 September 1808, James, baptized 1812, Humphrey, born 1815, William, born 1817, and Patrick; Lawrence and Patrick are probably rather than certainly his sons. Two of the boys, James and Patrick, were transported to New South Wales after the killing of Constable Feeney at Ballynonty in 1834.",
   "residences": [
     {
       "date": "BET 1805 AND 1817",
@@ -44,6 +44,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0068.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Humphrey Heffernan was a miner living at Lickfin (Lickfinn), parish of Gortnahoe, barony of Slieveardagh, Co. Tipperary, flourishing 1805-1817. He married Anastasia Ryan (record not found). Their children were Lawrence (c.1805-1842), Richard (bapt. 3 May 1806), Thomas (bapt. 10 Sep 1808), James (bapt. 1812), Humphrey (1815), William (1817) and Patrick; the parentage of Lawrence and Patrick is probable. Two sons, James and Patrick, were transported to New South Wales after the 1834 killing of Constable Feeney at Ballynonty. Added to the tree in Round 2 (replacing the tree's Patrick Heffernan/Catherine Neagle line)."
 }

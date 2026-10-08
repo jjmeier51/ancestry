@@ -13,8 +13,8 @@
     "military",
     "patriot"
   ],
-  "summary": "John's 5th-great-grand-uncle; Revolutionary militia private (collateral - cannot be used for SAR/DAR).",
-  "bio": "Philip Grub/Croop (1753-1812) was born in Jettenbach, the eldest son of Andreas. He was a private in the 5th Company (Easton), 5th Battalion, Northampton County Militia, 1777-1780 (Pa. Archives 5th ser. vol. VIII p.120). He lived in Chestnuthill Twp in 1790 and 1800, signed the Newport Twp (Luzerne) survey agreement in 1805 as 'Philip Croup', and died in Newport in 1812; his will names 'my dear brother Frederick Grupe' co-executor (Luzerne Will Book A p.128).\n\nFamilySearch gives Philip's baptism as 14 Jan 1753 at Jettenbach (born 9 Jan, citing the German baptism index), so he was born in the Palatinate a year before the family emigrated. It records his marriage in 1779 to Maria Elisabeth Eweritz, finds him as 'Phillip Croop' in Luzerne Co. in the 1810 census, and gives his death as before 7 Apr 1812 in Luzerne ([R4-S1]). Like his brother Frederick, he moved to the Wyoming Valley.",
+  "summary": "Palatine-born Revolutionary militia private (1753–1812) who settled in Newport Township in the Wyoming Valley; John's 5th-great-grand-uncle.",
+  "bio": "Philip Grub, whose name became Croop or Croup in Pennsylvania, was born on 9 January 1753 at Jettenbach in the Palatinate and baptized there on 14 January, the eldest son of Andreas Grub. He was a year old when the family emigrated to America. During the Revolution he served as a private in the 5th Company (Easton) of the 5th Battalion of the Northampton County Militia from 1777 to 1780. In 1779 he married Maria Elisabeth Eweritz.\n\nHe lived in Chestnuthill Twp in 1790 and 1800, and then, like his brother Frederick, moved to the Wyoming Valley: in 1805 he signed the Newport Twp survey agreement in Luzerne County as Philip Croup, and the 1810 census lists him in Luzerne Co. as Phillip Croop. He died in Newport before 7 April 1812, and his will named \"my dear brother Frederick Grupe\" as co-executor. He is John's 5th-great-grand-uncle; because he is a collateral relative rather than a direct ancestor, his service does not qualify John for the Revolutionary lineage societies.",
   "military": [
     {
       "branch": "Northampton County Militia",
@@ -47,6 +47,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0200.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -77,5 +81,6 @@
       "label": "FamilySearch ID",
       "value": "KNC5-16R"
     }
-  ]
+  ],
+  "researchNotes": "Philip Grub/Croop (1753-1812) was born in Jettenbach, the eldest son of Andreas. He was a private in the 5th Company (Easton), 5th Battalion, Northampton County Militia, 1777-1780 (Pa. Archives 5th ser. vol. VIII p.120). He lived in Chestnuthill Twp in 1790 and 1800, signed the Newport Twp (Luzerne) survey agreement in 1805 as 'Philip Croup', and died in Newport in 1812; his will names 'my dear brother Frederick Grupe' co-executor (Luzerne Will Book A p.128).\n\nFamilySearch gives Philip's baptism as 14 Jan 1753 at Jettenbach (born 9 Jan, citing the German baptism index), so he was born in the Palatinate a year before the family emigrated. It records his marriage in 1779 to Maria Elisabeth Eweritz, finds him as 'Phillip Croop' in Luzerne Co. in the 1810 census, and gives his death as before 7 Apr 1812 in Luzerne ([R4-S1]). Like his brother Frederick, he moved to the Wyoming Valley."
 }

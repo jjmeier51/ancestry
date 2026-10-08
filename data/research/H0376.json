@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Judge murdered by the 'Ndrangheta; same-surname figure from the comune next to San Mango d'Aquino, no proven kinship.",
-  "bio": "Born in Conflenti, next to San Mango d'Aquino. Investigating judge and later appeals-court president; murdered by the 'Ndrangheta in Lamezia Terme in 1975; commemorated by President Mattarella. Ferlaino is a small Savuto-valley surname, so a distant link is plausible but unproven.\n\nItalian Wikipedia gives his birth as 23 July 1914 at Conflenti ([R4-S1]). He was a magistrate and was shot dead on 3 July 1975 near his home in Nicastro (Lamezia Terme). He was the paternal uncle of Corrado Ferlaino, the SSC Napoli owner (living; not researched). No genealogical link to John's San Mango Ferlainos was found.",
+  "summary": "Calabrian judge from Conflenti murdered by the 'Ndrangheta in 1975; shares the Ferlaino surname of John's San Mango family, with no proven kinship.",
+  "bio": "Francesco Ferlaino was born on 23 July 1914 at Conflenti, the comune next to San Mango d'Aquino. He became an investigating judge and later president of an appeals court. On 3 July 1975 he was shot dead by the 'Ndrangheta near his home in Nicastro, now part of Lamezia Terme; President Mattarella later commemorated him. He was the paternal uncle of Corrado Ferlaino, the owner of SSC Napoli.\n\nFerlaino is a small surname of the Savuto valley, so a distant link to John's Ferlaino ancestors of San Mango is plausible, but none has been proven.",
   "sources": [
     "Italiani.it: https://en.italiani.it/mattarella-remembers-the-judge-francesco-ferlaino-killed-in-1975/",
     "[R4-S1] Italian Wikipedia, \"Francesco Ferlaino\" (secondary) https://it.wikipedia.org/wiki/Francesco_Ferlaino"
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0376.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,5 +46,6 @@
   "death": {
     "date": "1975-07-03",
     "place": "Lamezia Terme (Nicastro)"
-  }
+  },
+  "researchNotes": "Born in Conflenti, next to San Mango d'Aquino. Investigating judge and later appeals-court president; murdered by the 'Ndrangheta in Lamezia Terme in 1975; commemorated by President Mattarella. Ferlaino is a small Savuto-valley surname, so a distant link is plausible but unproven.\n\nItalian Wikipedia gives his birth as 23 July 1914 at Conflenti ([R4-S1]). He was a magistrate and was shot dead on 3 July 1975 near his home in Nicastro (Lamezia Terme). He was the paternal uncle of Corrado Ferlaino, the SSC Napoli owner (living; not researched). No genealogical link to John's San Mango Ferlainos was found."
 }

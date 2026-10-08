@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd great-grandfather; Irish-born iron-furnace helper at Danville, PA.",
-  "bio": "Edward McGuire was born about 1824 in Ireland and died Apr 1907, buried Plymouth. In the 1870 census, Mahoning Twp., Montour Co. (P.O. Danville), he was a 'furnace helper' with wife Mary Jane and children Edward 14, Mary 12, James 9, 'Mesilla' 5 and Timothy 3, all born PA — so in Pennsylvania by c.1856/1858. Danville was home of the Montour Iron Works, whose rolling mill is credited with the first T-rails in America (1845). FamilySearch claims he was baptized 7 Apr 1824 at St. Mary's, Haddington Road (Donnybrook), Dublin, son of Owen McGuire and Anne Clusky, with a sister Margaret baptized Jan 1819 ('Ireland, Catholic Parish Registers' index; image not released) — nothing ties the Danville furnace hand to this baptism beyond name and year.\n\nThe first-year state death index (1907) lists \"McGuire, Edward; 38426; Plymouth; April 4\" ([R4-S1]). This fits the FamilySearch \"April 1907, buried Plymouth\" and gives an exact date and a certificate number. The certificate should state his age, birthplace in Ireland and parents, which would test the speculative Dublin baptism (Owen McGuire & Anne Clusky). His son James's birthplace was given in 1927 as Danville ([R4-S3]), the post office of the 1870 household ([R4-S2]). FamilySearch identifies further children: Edward (b. c1856), Mary (3 Nov 1858-4 Jun 1942, Mrs. Michael E. Riley of Plymouth), Cecilia Marcella (1864-1918, who married Murdock Dunn at Plymouth in 1887 and emigrated to Vancouver Island, British Columbia) and Timothy (c1865, dead by 1880) ([R4-S4]).",
+  "summary": "Irish-born helper at the iron furnaces of Danville, Pennsylvania, who died at Plymouth in 1907; John's 3rd-great-grandfather.",
+  "bio": "Edward McGuire was born in Ireland about 1824. He may have been the Edward baptized on 7 April 1824 at St. Mary's, Haddington Road, in Dublin, a son of Owen McGuire and Anne Clusky, with a sister Margaret baptized in January 1819, but nothing beyond the name and year ties that baptism to him. He had settled in Pennsylvania by about 1856, when his eldest child was born there.\n\nIn 1870 he was living in Mahoning Township, Montour County, near Danville, and working as a furnace helper in the iron works; Danville was the home of the Montour Iron Works, whose rolling mill is credited with the first T-rails made in America, in 1845. With him were his wife Mary Jane and their children Edward, 14, Mary, 12, James, 9, Marcella, 5, and Timothy, 3, all born in Pennsylvania. His son James gave Danville as his birthplace. Mary (1858-1942) became Mrs. Michael E. Riley of Plymouth; Cecilia Marcella (1864-1918) married Murdock Dunn at Plymouth in 1887 and emigrated to Vancouver Island, British Columbia; Timothy, born about 1865, had died by 1880.\n\nEdward McGuire died at Plymouth, Luzerne County, on 4 April 1907 and was buried there. He is probably John's 3rd-great-grandfather.",
   "residences": [
     {
       "date": "1870",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0003.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -61,5 +65,6 @@
       "label": "FamilySearch ID",
       "value": "994Z-27X"
     }
-  ]
+  ],
+  "researchNotes": "Edward McGuire was born about 1824 in Ireland and died Apr 1907, buried Plymouth. In the 1870 census, Mahoning Twp., Montour Co. (P.O. Danville), he was a 'furnace helper' with wife Mary Jane and children Edward 14, Mary 12, James 9, 'Mesilla' 5 and Timothy 3, all born PA — so in Pennsylvania by c.1856/1858. Danville was home of the Montour Iron Works, whose rolling mill is credited with the first T-rails in America (1845). FamilySearch claims he was baptized 7 Apr 1824 at St. Mary's, Haddington Road (Donnybrook), Dublin, son of Owen McGuire and Anne Clusky, with a sister Margaret baptized Jan 1819 ('Ireland, Catholic Parish Registers' index; image not released) — nothing ties the Danville furnace hand to this baptism beyond name and year.\n\nThe first-year state death index (1907) lists \"McGuire, Edward; 38426; Plymouth; April 4\" ([R4-S1]). This fits the FamilySearch \"April 1907, buried Plymouth\" and gives an exact date and a certificate number. The certificate should state his age, birthplace in Ireland and parents, which would test the speculative Dublin baptism (Owen McGuire & Anne Clusky). His son James's birthplace was given in 1927 as Danville ([R4-S3]), the post office of the 1870 household ([R4-S2]). FamilySearch identifies further children: Edward (b. c1856), Mary (3 Nov 1858-4 Jun 1942, Mrs. Michael E. Riley of Plymouth), Cecilia Marcella (1864-1918, who married Murdock Dunn at Plymouth in 1887 and emigrated to Vancouver Island, British Columbia) and Timothy (c1865, dead by 1880) ([R4-S4])."
 }

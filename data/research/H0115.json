@@ -9,8 +9,8 @@
     "Sister Mary Antonia, IHM"
   ],
   "tags": [],
-  "summary": "John's 2nd-great-grand-aunt; Sister Mary Antonia, IHM, a Catholic school teacher.",
-  "bio": "Mary Heffernan (7 Jan 1879 - 4 Feb 1955) became Sister Mary Antonia of the Sisters of the Immaculate Heart of Mary (IHM) and taught in Catholic schools in New York and Pennsylvania.\n\nFamilySearch records her burial in St. Catherine Cemetery, Moscow, Lackawanna County ([R4-S1]), the cemetery used by the IHM Sisters' Marywood/Scranton community (context).",
+  "summary": "Sister Mary Antonia, IHM, a teacher in Catholic schools in New York and Pennsylvania; John's 2nd-great-grand-aunt.",
+  "bio": "Mary Heffernan was born on 7 January 1879. She entered the Sisters of the Immaculate Heart of Mary and, as Sister Mary Antonia, taught in Catholic schools in New York and Pennsylvania. She died on 4 February 1955 and was buried in St. Catherine Cemetery at Moscow, Lackawanna County, Pa., the cemetery used by the IHM community of Marywood in Scranton. She was John's 2nd-great-grand-aunt.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "Find a Grave 49215308: https://www.findagrave.com/memorial/49215308/sr-mary-antonia-heffernan",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0115.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -48,5 +52,6 @@
       "label": "FamilySearch ID",
       "value": "LTDC-CG1"
     }
-  ]
+  ],
+  "researchNotes": "Mary Heffernan (7 Jan 1879 - 4 Feb 1955) became Sister Mary Antonia of the Sisters of the Immaculate Heart of Mary (IHM) and taught in Catholic schools in New York and Pennsylvania.\n\nFamilySearch records her burial in St. Catherine Cemetery, Moscow, Lackawanna County ([R4-S1]), the cemetery used by the IHM Sisters' Marywood/Scranton community (context)."
 }

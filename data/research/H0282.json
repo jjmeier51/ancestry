@@ -10,8 +10,8 @@
     "Maj. Ebenezer Smith"
   ],
   "tags": [],
-  "summary": "John's 4th cousin 6x removed; his family held the 'Caleb place' until 1907.",
-  "bio": "Married Sarah, daughter of Caleb Smith II. His memorial stands in the northeast corner of the Methodist churchyard just outside the square of evergreens (Wood pp. 87–88). His son Joshua B. Smith died in 1907, 'the last Bull Smith to live in Hauppauge'.",
+  "summary": "Major 'Nezer' Smith of Hauppauge (1795–1879), husband of Sarah, daughter of Caleb Smith II; his family held the 'Caleb place' until 1907. John's 4th cousin 6 times removed.",
+  "bio": "Ebenezer Smith, known as Major 'Nezer' Smith, was born in 1795 and married Sarah, a daughter of Caleb Smith II. Through her the family held the 'Caleb place' at Hauppauge until 1907. He died in 1879, and his memorial stands in the northeast corner of the Methodist churchyard, just outside the square of evergreens. His son Joshua B. Smith died in 1907 and was remembered as 'the last Bull Smith to live in Hauppauge'.",
   "sources": [
     "Wood (1920) pp. 26, 87–88",
     "Rockwell scrapbook"
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0282.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Married Sarah, daughter of Caleb Smith II. His memorial stands in the northeast corner of the Methodist churchyard just outside the square of evergreens (Wood pp. 87–88). His son Joshua B. Smith died in 1907, 'the last Bull Smith to live in Hauppauge'."
 }

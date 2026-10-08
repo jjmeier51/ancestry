@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0501.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -34,7 +38,7 @@
       "note": "Head, 47, born Italy, naturalized, owned home valued $850; not working; wife Grace runs a general grocery store. [R4-S1]"
     }
   ],
-  "bio": "In 1940 Joseph DiBiasi, 47, an Italian-born naturalized citizen, owned the house at 1015 Bunker Hill Street, where his wife Grace (Petrillo) kept a general grocery. James DiBiasi, 45, born in Italy, owned the other half of the same house number ([R4-S1]). The FamilySearch tree gives Joseph's dates as 18 Apr 1891 – 31 May 1958. It makes him a son of Giovanni Pasquale DiBiasi and Rosa Siconolfi, which is impossible on Rosa's age; that would also make Grace his niece ([R4-S2]). His real parents are unknown. A widowed Vincenzo DiBiasi (b. c.1866) at 1022 Bunker Hill Street in 1940 is a candidate father. Grace's 1943 repatriation shows Joseph was still an alien when they married, before Sept 1922.",
+  "bio": "Joseph DiBiasi was born in Italy on 18 April 1891 and died at Scranton, Lackawanna County, PA, on 31 May 1958. He was still an Italian subject when he married Grace Petrillo, some time before September 1922, but by 1940 he had become a naturalized citizen and owned the house at 1015 Bunker Hill Street in Scranton, where Grace kept a general grocery; James DiBiasi, 45, also Italian-born, owned the other half of the same building. Joseph's parents are unknown. The suggestion that he was a son of Giovanni Pasquale DiBiasi and Rosa Siconolfi is impossible on Rosa's age, and would have made Grace his niece; a widowed Vincenzo DiBiasi, born about 1866, who lived a few doors away on Bunker Hill Street in 1940, is a possible father.",
   "conflicts": [
     {
       "field": "parents",
@@ -46,5 +50,7 @@
   "sources": [
     "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
     "[R4-S2] FamilySearch Family Tree published profile GQ4M-G2V (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQ4M-G2V"
-  ]
+  ],
+  "researchNotes": "In 1940 Joseph DiBiasi, 47, an Italian-born naturalized citizen, owned the house at 1015 Bunker Hill Street, where his wife Grace (Petrillo) kept a general grocery. James DiBiasi, 45, born in Italy, owned the other half of the same house number ([R4-S1]). The FamilySearch tree gives Joseph's dates as 18 Apr 1891 – 31 May 1958. It makes him a son of Giovanni Pasquale DiBiasi and Rosa Siconolfi, which is impossible on Rosa's age; that would also make Grace his niece ([R4-S2]). His real parents are unknown. A widowed Vincenzo DiBiasi (b. c.1866) at 1022 Bunker Hill Street in 1940 is a candidate father. Grace's 1943 repatriation shows Joseph was still an alien when they married, before Sept 1922.",
+  "summary": "Italian-born husband of Grace Petrillo, whose grocery stood in their house on Bunker Hill Street in Scranton."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sheriff of London and Benjamin Franklin's agent; not related (Sayre branch removed).",
-  "bio": "Descends from Thomas Sayre through Francis, John and John. Died 1818 'at the residence of his son in Brandon, Virginia' (Richmond Enquirer, 10 Dec 1818); son Samuel W. Sayre married Jane Grymes and Virginia Bassett. Francis B. Sayre likewise not kin.\n\nNot kin (Sayre branch non-ancestral). A Commons public-domain portrait exists (from Banta 1901) if the site wants it for the 'not related' note.",
+  "summary": "Sheriff of London and Benjamin Franklin's agent, who died in Virginia in 1818; of the Sayre family but not a relative of John.",
+  "bio": "Stephen Sayre (1736–1818) served as Sheriff of London and as an agent of Benjamin Franklin. He descended from Thomas Sayre through Francis Sayre and two generations of Johns. He died in 1818 \"at the residence of his son in Brandon, Virginia\"; that son, Samuel W. Sayre, married Jane Grymes and Virginia Bassett.\n\nAlthough he appears in the Sayre family, that branch is not part of John's ancestry, so Stephen Sayre is not a relative. The same is true of Francis B. Sayre.",
   "sources": [
     "Banks (1901)"
   ],
@@ -28,6 +28,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0328.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -40,5 +44,6 @@
       "note": "Public domain, but not downloaded because he is not related. (not downloaded: rights public_domain)",
       "people": []
     }
-  ]
+  ],
+  "researchNotes": "Descends from Thomas Sayre through Francis, John and John. Died 1818 'at the residence of his son in Brandon, Virginia' (Richmond Enquirer, 10 Dec 1818); son Samuel W. Sayre married Jane Grymes and Virginia Bassett. Francis B. Sayre likewise not kin.\n\nNot kin (Sayre branch non-ancestral). A Commons public-domain portrait exists (from Banta 1901) if the site wants it for the 'not related' note."
 }

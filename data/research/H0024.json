@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th great-uncle; sibling of Friedrich Mayer.",
-  "bio": "Died the same year.",
+  "summary": "Infant brother of Friedrich Mayer, born and died at Munzingen in Baden in 1832; John's 4th great-uncle.",
+  "bio": "Karl Mayer was born at Munzingen, near Freiburg im Breisgau in Baden, in 1832, a brother of Friedrich Mayer, and died there in the same year.",
   "sources": [
     "FamilySearch tree G7PF-7J6 / G921-25N",
     "notes/round3/meier_line.md"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0024.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Died the same year."
 }

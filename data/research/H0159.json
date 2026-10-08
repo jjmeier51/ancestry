@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd-great-grand-uncle (brother of Addison); a 13-year-old slate picker in 1880.",
-  "bio": "Orange Pringle was 13 and a slate picker - a breaker boy sitting over the chutes picking slate out of the coal - in the 1880 census (FamilySearch: 1870-1917). In 1910 his mother Catherine Scott lived with him at Larksville.\n\nFamilySearch gives Orange's birth as June 1870 (from the 1900 census) and records his marriage to Gertrude L. Thomas in Luzerne Co. on 13 Oct 1904, with the county marriage record attached. It gives his death at Larksville on 5 Jan 1917, with burial at Plymouth two days later ([R4-S1]). His mother Catherine was living with him at Larksville in 1910.",
+  "summary": "Breaker boy of 1880 who later lived at Larksville, brother of Addison Pringle; John's 3rd-great-grand-uncle.",
+  "bio": "Orange Pringle was born in Pennsylvania about 1867, though a later census gives June 1870. In 1880, aged 13, he was a slate picker, one of the breaker boys who sat over the chutes picking slate out of the coal. On 13 October 1904 he married Gertrude L. Thomas in Luzerne Co. In 1910 his mother, Catherine Scott, was living with him at Larksville. He died at Larksville on 5 January 1917 and was buried at Plymouth two days later. He was a brother of Addison Pringle and is John's 3rd-great-grand-uncle.",
   "sources": [
     "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X",
     "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0159.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -65,5 +69,6 @@
       "label": "FamilySearch ID",
       "value": "9KXX-M43"
     }
-  ]
+  ],
+  "researchNotes": "Orange Pringle was 13 and a slate picker - a breaker boy sitting over the chutes picking slate out of the coal - in the 1880 census (FamilySearch: 1870-1917). In 1910 his mother Catherine Scott lived with him at Larksville.\n\nFamilySearch gives Orange's birth as June 1870 (from the 1900 census) and records his marriage to Gertrude L. Thomas in Luzerne Co. on 13 Oct 1904, with the county marriage record attached. It gives his death at Larksville on 5 Jan 1917, with burial at Plymouth two days later ([R4-S1]). His mother Catherine was living with him at Larksville in 1910."
 }

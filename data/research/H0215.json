@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Possible sister of Johann Casper Doll (speculative); links Dolls, Sorbers and Croops.",
-  "bio": "Maria Engel Doll, b. 15 Sep 1717 at Ulmet, d. 1785, married Jacob Sorber in 1739; their son Abraham Sorber (b. 1744) went from Northampton to Hanover Twp, Luzerne, and his daughter Elizabeth Sorber married John Croop. If Maria Engel was Casper's sister, the Sorbers and Croops who built the Hunlock's Creek sawmills were already cousins.\n\nNo record naming Maria Engel Doll's parents was found online in this round, so her being a sister of Johann Casper Doll remains unproven. Casper, aged 18, came on the Samuel in Aug 1739 with Stoffel Doll (40) and Philip Doll (27) (round 3, Strassburger List 69). Stoffel's age (b. c.1699) makes him too young to be the Christoffel Doll b. 1671 named as Casper's father. Maria Engel is said to have married Jacob Sorber in 1739, the year the Dolls arrived.\n\nA possible origin for her husband: the ship Elizabeth (Capt. Edward Lee), qualified at Philadelphia 27 Aug 1733, carried a Sorber group. Its oath lists have 'Jacob Surber', 'Jacob Sorber', 'Jacob (X) Server' and 'Rudolff Sorber', and its women's list has 'Fronegh Sorver, 54' and 'Barbara Sorver, 23' ([R4-S1]). Whether one of these Jacobs is Maria Engel's husband is unknown; the name is too common to attach.",
+  "summary": "Maria Engel Doll of Ulmet, wife of Jacob Sorber and grandmother of Elizabeth Sorber Croop; possibly a sister of Johann Casper Doll.",
+  "bio": "Maria Engel Doll was born on 15 September 1717 at Ulmet, Kusel, in the Rhineland-Palatinate, and died in 1785. In 1739, the year the Doll immigrants reached Pennsylvania, she married Jacob Sorber. Their son Abraham Sorber, born in 1744, moved from Northampton to Hanover Twp in Luzerne County, and his daughter Elizabeth Sorber married John Croop.\n\nShe may have been a sister of Johann Casper Doll, who arrived at Philadelphia on the Samuel in August 1739, aged 18, with Stoffel Doll (40) and Philip Doll (27), but her parentage is unproven. If she was, the Sorbers and Croops who built the sawmills on Hunlock's Creek were already cousins. Her husband's origin is also uncertain: a Sorber party that arrived at Philadelphia on the ship Elizabeth in August 1733 included several men named Jacob Sorber (spelled Surber and Server as well), a Rudolff Sorber, and the women Fronegh and Barbara Sorver, but the name is too common to say whether one of those Jacobs was Maria Engel's husband.",
   "sources": [
     "GEDBAS 1435014144: https://gedbas.genealogy.net/person/show/1435014144",
     "Plumb 1885 part 38",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0215.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -48,5 +52,6 @@
   ],
   "openQuestions": [
     "Which Jacob Sorber married Maria Engel Doll in 1739 - one of the 1733 'Elizabeth' Sorbers? Check Burgert's Northern Kraichgau/Palatine emigrant volumes and the Tohickon/Plainfield registers."
-  ]
+  ],
+  "researchNotes": "Maria Engel Doll, b. 15 Sep 1717 at Ulmet, d. 1785, married Jacob Sorber in 1739; their son Abraham Sorber (b. 1744) went from Northampton to Hanover Twp, Luzerne, and his daughter Elizabeth Sorber married John Croop. If Maria Engel was Casper's sister, the Sorbers and Croops who built the Hunlock's Creek sawmills were already cousins.\n\nNo record naming Maria Engel Doll's parents was found online in this round, so her being a sister of Johann Casper Doll remains unproven. Casper, aged 18, came on the Samuel in Aug 1739 with Stoffel Doll (40) and Philip Doll (27) (round 3, Strassburger List 69). Stoffel's age (b. c.1699) makes him too young to be the Christoffel Doll b. 1671 named as Casper's father. Maria Engel is said to have married Jacob Sorber in 1739, the year the Dolls arrived.\n\nA possible origin for her husband: the ship Elizabeth (Capt. Edward Lee), qualified at Philadelphia 27 Aug 1733, carried a Sorber group. Its oath lists have 'Jacob Surber', 'Jacob Sorber', 'Jacob (X) Server' and 'Rudolff Sorber', and its women's list has 'Fronegh Sorver, 54' and 'Barbara Sorver, 23' ([R4-S1]). Whether one of these Jacobs is Maria Engel's husband is unknown; the name is too common to attach."
 }

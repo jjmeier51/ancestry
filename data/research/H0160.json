@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd-great-grand-uncle.",
-  "bio": "John S. Pringle (1860-1933), 20 in 1880, married Regina Stires.\n\nFamilySearch gives John's birth as July 1860 and his marriage to Regina Styer (Stiers) in 1887, from a county marriage record. He was in Plymouth Twp in 1900 and Plymouth Ward 9 in 1910. He died on 22 Dec 1933 at 25 East Shawnee Avenue, Plymouth, and was buried at Forty Fort ([R4-S1]).",
+  "summary": "Plymouth, Pennsylvania, resident who married Regina Stires in 1887; John's 3rd-great-grand-uncle.",
+  "bio": "John S. Pringle was born in Pennsylvania in July 1860. In 1887 he married Regina Stires, whose surname also appears as Styer or Stiers. He was living in Plymouth Township in 1900 and in the borough of Plymouth by 1910. He died at Plymouth on 22 December 1933 and was buried at Forty Fort. He is John's 3rd-great-grand-uncle.",
   "sources": [
     "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X",
     "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0160.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -56,5 +60,6 @@
       "label": "FamilySearch ID",
       "value": "KG4S-X75"
     }
-  ]
+  ],
+  "researchNotes": "John S. Pringle (1860-1933), 20 in 1880, married Regina Stires.\n\nFamilySearch gives John's birth as July 1860 and his marriage to Regina Styer (Stiers) in 1887, from a county marriage record. He was in Plymouth Twp in 1900 and Plymouth Ward 9 in 1910. He died on 22 Dec 1933 at 25 East Shawnee Avenue, Plymouth, and was buried at Forty Fort ([R4-S1])."
 }

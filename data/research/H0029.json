@@ -13,8 +13,8 @@
     "Gabriel E. Berkmaier"
   ],
   "tags": [],
-  "summary": "John's 4th great-uncle; brother of Maria Anna; lived with the Meiers in Hazleton in 1880.",
-  "bio": "In the 1880 census he was 'Bergenmyer, Gabriel, 29, brother-in-law, gardener', sick with 'fever & ague' (a malaria-type fever) on census day, in Friedrich Myer's household — the record that confirms Maria's maiden name. He later moved to Sandusky, Ohio, where brother Joseph lived, and died there 2 Dec 1896.\n\nAfter his 1880 stay with his sister's family in Hazleton, Gabriel settled in Sandusky, Ohio. There he married Caroline C. Kratz, an Ohio-born woman from Venice in Erie County, and had at least four children ([R4-S2]). The death certificate of his eldest son Frank Birkmaier names Gabriel as a native of Baden, Germany. Frank was a single machinist of 223 Shelby St who died at Providence Hospital, Sandusky, on 4 Apr 1930, aged 45. His mother is named on the certificate as Caroline Kratz of Venice, Ohio, and he was buried at St Mary's Cemetery on 7 Apr 1930 ([R4-S1]). FamilySearch gives Gabriel's own burial at St Mary's, Sandusky, in Dec 1896. It also attaches an Ohio county birth entry (G. Birkmeyer as a father) and his daughter Rhea's Michigan marriage to Charles W. Prentice ([R4-S2]).",
+  "summary": "Munzingen-born gardener who stayed with the Meiers in Hazleton in 1880 and settled in Sandusky, Ohio; brother of Maria Anna and John's 4th great-uncle.",
+  "bio": "Gabriel E. Birkenmeier was born at Munzingen, near Freiburg in Baden, on 20 January 1849, a brother of Maria Anna Birkenmaier, the wife of Friedrich Mayer. In June 1880 he was living with his sister's family in Hazleton, Pennsylvania, a 29-year-old gardener who was laid up on census day with \"fever & ague\", a malaria-type fever; that census entry, which lists him as Friedrich's brother-in-law, is the record that confirms Maria Anna's maiden name.\n\nHe later moved to Sandusky, Ohio, where his brother Joseph lived. There he married Caroline C. Kratz, an Ohio-born woman from Venice in Erie County, and they had at least four children. His eldest son, Frank Birkmaier, a machinist, died at Providence Hospital in Sandusky on 4 April 1930, aged 45, and his daughter Rhea married Charles W. Prentice in Michigan. Gabriel died at Sandusky on 2 December 1896 and was buried at St. Mary's Cemetery there. He is John's 4th great-uncle.",
   "sources": [
     "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
     "FamilySearch G921-2R4",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0029.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -62,5 +66,6 @@
   "openQuestions": [
     "Sandusky Register obituary, Dec 1896, which may name his brother Joseph and his Hazleton sister.",
     "Erie County, Ohio probate death register 1896."
-  ]
+  ],
+  "researchNotes": "In the 1880 census he was 'Bergenmyer, Gabriel, 29, brother-in-law, gardener', sick with 'fever & ague' (a malaria-type fever) on census day, in Friedrich Myer's household — the record that confirms Maria's maiden name. He later moved to Sandusky, Ohio, where brother Joseph lived, and died there 2 Dec 1896.\n\nAfter his 1880 stay with his sister's family in Hazleton, Gabriel settled in Sandusky, Ohio. There he married Caroline C. Kratz, an Ohio-born woman from Venice in Erie County, and had at least four children ([R4-S2]). The death certificate of his eldest son Frank Birkmaier names Gabriel as a native of Baden, Germany. Frank was a single machinist of 223 Shelby St who died at Providence Hospital, Sandusky, on 4 Apr 1930, aged 45. His mother is named on the certificate as Caroline Kratz of Venice, Ohio, and he was buried at St Mary's Cemetery on 7 Apr 1930 ([R4-S1]). FamilySearch gives Gabriel's own burial at St Mary's, Sandusky, in Dec 1896. It also attaches an Ohio county birth entry (G. Birkmeyer as a father) and his daughter Rhea's Michigan marriage to Charles W. Prentice ([R4-S2])."
 }

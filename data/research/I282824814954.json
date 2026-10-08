@@ -8,8 +8,8 @@
     "Guiseppe D'Ambrosio"
   ],
   "tags": [],
-  "summary": "Tree's father of Maria d'Ambrosio; not John's ancestor after the Round 3 correction.",
-  "bio": "Tree: Guiseppe D'Ambrosio (1761-1841) + Maddalena Gialanella (1764-1824). Not researched in records.",
+  "summary": "Guiseppe D'Ambrosio (1761–1841) of Guardia Lombardi, husband of Maddalena Gialanella; once placed as the father of Maria d'Ambrosio, but not John's ancestor.",
+  "bio": "Guiseppe D'Ambrosio was born in 1761 at Guardia Lombardi, Avellino, Campania, Italy, and died on 10 July 1841. His wife was Maddalena Gialanella (1764–1824). He was formerly placed as the father of Maria d'Ambrosio, but later research showed that he is not John's ancestor.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814954.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Guiseppe D'Ambrosio (1761-1841) + Maddalena Gialanella (1764-1824). Not researched in records."
 }

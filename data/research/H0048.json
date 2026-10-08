@@ -9,8 +9,8 @@
     "Johann Birkenmeyer"
   ],
   "tags": [],
-  "summary": "Munzingen-born mason in Basel; possibly Servatius's brother or half-brother (speculative).",
-  "bio": "Illegitimate son of Walburga Birkenberger, b. 1808 Munzingen, master mason in Basel (GEDBAS). The Munzingen 1844 death register (No. 11) copies a certified extract of the death in Basel on 1 Apr 1844 of Agatha Carolina Birkenmeyer (b. 28 Jan 1838), daughter of Johann Birkenmeyer of Munzingen and Carolina Belinger[?].",
+  "summary": "Munzingen-born master mason who settled in Basel; possibly a brother or half-brother of Servatius Birkenmaier.",
+  "bio": "Johann Birkenmeier was born at Munzingen, near Freiburg in Baden, in 1808, the illegitimate son of Walburga Birkenberger. He became a master mason in Basel. With Carolina Belinger, as her name appears to read, he had a daughter, Agatha Carolina, born on 28 January 1838, who died in Basel on 1 April 1844; her death was certified there and copied into the Munzingen death register. He may have been a brother or half-brother of Servatius Birkenmaier, but that is only a guess.",
   "sources": [
     "GEDBAS 84206299 https://gedbas.genealogy.net/person/show/84206299",
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), deaths 1844 No. 11 http://www.landesarchiv-bw.de/plink/?f=5-480947-125",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0048.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Illegitimate son of Walburga Birkenberger, b. 1808 Munzingen, master mason in Basel (GEDBAS). The Munzingen 1844 death register (No. 11) copies a certified extract of the death in Basel on 1 Apr 1844 of Agatha Carolina Birkenmeyer (b. 28 Jan 1838), daughter of Johann Birkenmeyer of Munzingen and Carolina Belinger[?]."
 }

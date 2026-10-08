@@ -9,8 +9,8 @@
     "Anna P. Murphy"
   ],
   "tags": [],
-  "summary": "John's 2nd-great-grand-aunt.",
-  "bio": "Anna P. Heffernan (29 Jul 1876 - 12 Oct 1960) married at Pueblo, Colorado, on 26 Nov 1901 Felix John Murphy (1874-1955), a banker at First National; one daughter, Florence (b. 1902).\n\nIn 1900 \"Annie,\" 23, was a tailoress in her parents' Plymouth home ([R4-S9]). FamilySearch names her daughter Mary Florence Murphy (1902-1951), who married James F. Poland; that Luzerne marriage record names her mother as Anna Heffernan ([R4-S1]). FS gives Felix Murphy's birth as 1876 and death 22 Apr 1955; his parents were John Felix Murphy (1851-1890) and Mary Kelly ([R4-S2]).",
+  "summary": "Tailoress of Plymouth, Pennsylvania, who married the banker Felix John Murphy at Pueblo, Colorado; John's 2nd-great-grand-aunt.",
+  "bio": "Anna P. Heffernan was born on 29 July 1876. In 1900, as 'Annie', aged 23, she was a tailoress in her parents' home at Plymouth. On 26 November 1901, at Pueblo, Colorado, she married Felix John Murphy, a banker at the First National; he was born in 1874 or 1876, a son of John Felix Murphy (1851–1890) and Mary Kelly, and died on 22 April 1955. They had one daughter, Mary Florence Murphy (1902–1951), who married James F. Poland. Anna died on 12 October 1960 and was buried in St. Mary's Cemetery, Hanover Township.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "[R4-S1] FamilySearch Family Tree (published), Anna Heffernan (1876-1960), PID LTDC-8T2; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LTDC-8T2",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0114.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -53,5 +57,6 @@
       "found": "1876 (FamilySearch GKXZ-X3Z)",
       "assessment": "Minor; unresolved."
     }
-  ]
+  ],
+  "researchNotes": "Anna P. Heffernan (29 Jul 1876 - 12 Oct 1960) married at Pueblo, Colorado, on 26 Nov 1901 Felix John Murphy (1874-1955), a banker at First National; one daughter, Florence (b. 1902).\n\nIn 1900 \"Annie,\" 23, was a tailoress in her parents' Plymouth home ([R4-S9]). FamilySearch names her daughter Mary Florence Murphy (1902-1951), who married James F. Poland; that Luzerne marriage record names her mother as Anna Heffernan ([R4-S1]). FS gives Felix Murphy's birth as 1876 and death 22 Apr 1955; his parents were John Felix Murphy (1851-1890) and Mary Kelly ([R4-S2])."
 }

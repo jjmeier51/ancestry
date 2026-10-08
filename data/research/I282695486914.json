@@ -8,7 +8,7 @@
     "President William Henry Harrison"
   ],
   "tags": [],
-  "summary": "9th U.S. President; related to John by marriage only (husband of cousin Anna Symmes).",
+  "summary": "Ninth President of the United States (1773–1841); related to John by marriage only, as the husband of John's cousin Anna Symmes.",
   "sources": [
     "Uploaded deep-dive report",
     "[R4-S1] Wikipedia, 'William Henry Harrison' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/William_Henry_Harrison"
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486914.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -93,5 +97,6 @@
     }
   ],
   "photo": "media/I282695486914/i282695486914-harrison-912-10.jpg",
-  "bio": "Ninth U.S. President; husband of John's cousin Anna Symmes. In-law only: he descends from the Virginia Harrisons, not from the Long Island lines."
+  "bio": "William Henry Harrison (1773–1841) was the ninth President of the United States. He is connected to John only by marriage, as the husband of John's cousin Anna Symmes. He descended from the Virginia Harrisons, not from the Long Island families on John's side.",
+  "researchNotes": "Ninth U.S. President; husband of John's cousin Anna Symmes. In-law only: he descends from the Virginia Harrisons, not from the Long Island lines."
 }

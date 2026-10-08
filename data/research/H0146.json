@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th-great-grand-uncle (son of Samuel and Martha).",
-  "bio": "Benjamin Pringle (24 Jan 1794 - 6 Jan 1853) married Charity Gould (b. 1800, granddaughter of Thomas and Charity (Lamoreaux) Davenport). His 1853 PA death and burial record names 'Sam Pringle & Martha'. Children: Bethia (m. Caleb Roberts 1852, Iowa), Martha Ann (m. William Hutchinson), Lege (1825), Ira (1833), Jacob Gould (m. (1) VanScoy, (2) the widow Ellen C. (Fuller) Nesbitt, 1864), Martin (California) and Caleb (b. 1839, 'went West'). Proves Benjamin was one of Samuel and Martha's five sons.\n\nIn the 1840 census of Plymouth Twp, 'Benjn Pringle' heads a household of about ten, a few lines above Saml Pringle and James Pringle ([R4-S2]). The age column for the head reads 50-60, which is older than his 1794 birth date suggests. FamilySearch attaches a Minnesota death record of his daughter Bethia (Pringle) Roberts naming 'Benj. Pringle' as her father, which extends the 'Bethia, Iowa' line in the existing bio, and gives his burial at Larksville ([R4-S1]).",
+  "summary": "One of the five sons of Samuel and Martha Pringle of Plymouth (1794–1853), husband of Charity Gould; John's 4th-great-grand-uncle.",
+  "bio": "Benjamin Pringle was born on 24 January 1794, one of the five sons of Samuel and Martha Pringle; his death and burial record of 1853 names his parents as Sam and Martha Pringle. He married Charity Gould, born in 1800, a granddaughter of Thomas and Charity (Lamoreaux) Davenport. In 1840 he headed a household of about ten in Plymouth Twp, a few doors from Samuel and James Pringle.\n\nTheir children were Bethia, who married Caleb Roberts in 1852 and went to Iowa; Martha Ann, who married William Hutchinson; Lege, born in 1825; Ira, born in 1833; Jacob Gould, who married first a VanScoy and in 1864 the widow Ellen C. (Fuller) Nesbitt; Martin, who went to California; and Caleb, born in 1839, who \"went West\". Benjamin died on 6 January 1853 and was buried at Larksville, Luzerne Co., PA. He is John's 4th-great-grand-uncle.",
   "sources": [
     "WikiTree Pringle-3406: https://www.wikitree.com/wiki/Pringle-3406",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.280-281",
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0146.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -59,5 +63,6 @@
       "label": "FamilySearch ID",
       "value": "L7XP-VKX"
     }
-  ]
+  ],
+  "researchNotes": "Benjamin Pringle (24 Jan 1794 - 6 Jan 1853) married Charity Gould (b. 1800, granddaughter of Thomas and Charity (Lamoreaux) Davenport). His 1853 PA death and burial record names 'Sam Pringle & Martha'. Children: Bethia (m. Caleb Roberts 1852, Iowa), Martha Ann (m. William Hutchinson), Lege (1825), Ira (1833), Jacob Gould (m. (1) VanScoy, (2) the widow Ellen C. (Fuller) Nesbitt, 1864), Martin (California) and Caleb (b. 1839, 'went West'). Proves Benjamin was one of Samuel and Martha's five sons.\n\nIn the 1840 census of Plymouth Twp, 'Benjn Pringle' heads a household of about ten, a few lines above Saml Pringle and James Pringle ([R4-S2]). The age column for the head reads 50-60, which is older than his 1794 birth date suggests. FamilySearch attaches a Minnesota death record of his daughter Bethia (Pringle) Roberts naming 'Benj. Pringle' as her father, which extends the 'Bethia, Iowa' line in the existing bio, and gives his burial at Larksville ([R4-S1])."
 }

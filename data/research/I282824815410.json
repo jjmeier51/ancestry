@@ -5,8 +5,8 @@
     "note": "Tree only; Chiarello absent from San Mango 1674-1804 stati."
   },
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Morrello/Chiarello pedigree.",
-  "bio": "Tree: Maria Chiarello (1733-1807). Profile shows the coat of arms.",
+  "summary": "Maria Chiarello of Aiello Calabro in Calabria (1733–1807), an ancestor in the Morrello and Chiarello pedigree, which is not supported by records.",
+  "bio": "Maria Chiarello was born at Aiello Calabro, in the province of Cosenza in Calabria, on 7 March 1733 and died there on 31 August 1807. She belongs to the Morrello and Chiarello pedigree, which has not been supported by any records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815410.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Maria Chiarello (1733-1807). Profile shows the coat of arms."
 }

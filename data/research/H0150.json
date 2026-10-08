@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 4th-great-grand-uncle; husband of Huldah Ives.",
-  "bio": "Inferred son of Samuel and Martha: the widow Hulda (Ives) Pringle's children were named Orange, Ransom and Keturah - Lamoreaux family names - making her husband very probably a Samuel Jr. No record names him directly.\n\nRound 4 found him on a record. The 1840 census of Plymouth Twp has a 'Saml Pringle' household headed by a man aged 30-40 with a wife aged 30-40 and nine children ([R4-S1]). It sits next door to James Pringle and two doors from Joseph Ives. The elder Samuel would have been in his seventies, so this is the younger man, and the Ives neighbour fits his wife Hulda Ives. FamilySearch has him as 'Samuel David Pringle', born 1794, married to Hulda Ives (1804-1886) in 1824 at Plymouth, and attaches the 1830 and 1840 censuses ([R4-S2]). The 1840 age bracket points to a birth in 1800-1810, not 1794. FamilySearch gives him the same death date, 25 Mar 1847, as his father Samuel Sr., which suggests one profile has copied the other. He is buried at Shawnee Cemetery according to FamilySearch.",
+  "summary": "Samuel Pringle the younger of Plymouth Township, husband of Huldah Ives and father of Orange, Ransom and Keturah; probably John's 4th-great-grand-uncle.",
+  "bio": "Samuel Pringle was very probably a son of Samuel and Martha Pringle, and so probably John's 4th-great-grand-uncle. His wife Hulda Ives (1804-1886), whom he married at Plymouth in 1824, gave their children the names Orange, Ransom and Keturah, names that belonged to the Lamoreaux family, which is the main reason for placing him in this family. He was living in Plymouth Township in 1830 and 1840; the 1840 census shows him as a man between thirty and forty with a wife in the same age bracket and nine children, next door to James Pringle and two doors from Joseph Ives. One record gives his birth year as 1794, but his age in 1840 suggests he was born between 1800 and 1810. He is said to have died on 25 March 1847, the same date recorded for his father, so one of the two dates may have been copied from the other. He was buried at Shawnee Cemetery.",
   "sources": [
     "Bradsby pp.716-717",
     "1850 census Plymouth dwelling 942",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0150.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -84,5 +88,6 @@
       ],
       "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KL4L-R8P"
     }
-  ]
+  ],
+  "researchNotes": "Inferred son of Samuel and Martha: the widow Hulda (Ives) Pringle's children were named Orange, Ransom and Keturah - Lamoreaux family names - making her husband very probably a Samuel Jr. No record names him directly.\n\nRound 4 found him on a record. The 1840 census of Plymouth Twp has a 'Saml Pringle' household headed by a man aged 30-40 with a wife aged 30-40 and nine children ([R4-S1]). It sits next door to James Pringle and two doors from Joseph Ives. The elder Samuel would have been in his seventies, so this is the younger man, and the Ives neighbour fits his wife Hulda Ives. FamilySearch has him as 'Samuel David Pringle', born 1794, married to Hulda Ives (1804-1886) in 1824 at Plymouth, and attaches the 1830 and 1840 censuses ([R4-S2]). The 1840 age bracket points to a birth in 1800-1810, not 1794. FamilySearch gives him the same death date, 25 Mar 1847, as his father Samuel Sr., which suggests one profile has copied the other. He is buried at Shawnee Cemetery according to FamilySearch."
 }

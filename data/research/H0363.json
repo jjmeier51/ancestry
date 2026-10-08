@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sister of Pietro Petriello; John's 4th great-grandaunt.",
-  "bio": "Daughter of Angiolo Petriello and Lucia Marra; married Giuseppantonio Lucadamo (son of Ciriaco and Anna Mastrodonato) on 23 Feb 1855.",
+  "summary": "Sister of Pietro Petriello and wife of Giuseppantonio Lucadamo; John's 4th-great-grandaunt.",
+  "bio": "Gaetana Petriello was a daughter of Angiolo Petriello and Lucia Marra and a sister of Pietro Petriello, which makes her John's 4th-great-grandaunt. On 23 February 1855 she married Giuseppantonio Lucadamo, son of Ciriaco Lucadamo and Anna Mastrodonato.",
   "sources": [
     "Antenati index 1855 #16: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/57Ekokq"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0363.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Angiolo Petriello and Lucia Marra; married Giuseppantonio Lucadamo (son of Ciriaco and Anna Mastrodonato) on 23 Feb 1855."
 }

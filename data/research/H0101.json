@@ -9,8 +9,8 @@
     "Thomas Heffernan 1791 (tree)"
   ],
   "tags": [],
-  "summary": "Not John's ancestor: the 1791 Thomas Heffernan the tree mistakenly put above Andrew H. Heffernan.",
-  "bio": "Dwyer's Branch 1: Thomas 'of Lanespark', baptized 1791, son of Patrick Heffernan and Catherine Neagle, married Catherine Shelly in 1831. The tree's 'Thomas Heffernan 1791-Deceased' (obituary clipping image) attached to Catherine Boney conflates him with Thomas of Mardyke (b. 1808).",
+  "summary": "Thomas Heffernan of Lanespark, baptised 1791, son of Patrick Heffernan and Catherine Neagle; not John's ancestor, though once confused with Thomas of Mardyke.",
+  "bio": "Thomas Heffernan \"of Lanespark\" was baptised in 1791, a son of Patrick Heffernan and Catherine Neagle. He married Catherine Shelly in 1831. He has sometimes been confused with Thomas Heffernan of Mardyke, born 1808, the husband of Catherine Boney, but the two were different men, and Thomas of Lanespark is not an ancestor of John.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0101.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Dwyer's Branch 1: Thomas 'of Lanespark', baptized 1791, son of Patrick Heffernan and Catherine Neagle, married Catherine Shelly in 1831. The tree's 'Thomas Heffernan 1791-Deceased' (obituary clipping image) attached to Catherine Boney conflates him with Thomas of Mardyke (b. 1808)."
 }

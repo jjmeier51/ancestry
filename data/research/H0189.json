@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 1st cousin 7x removed; wife of John Pringle.",
-  "bio": "Phoebe Davenport (1799 - after 1873) married John Pringle; nine children (see John Pringle). Will: Plymouth, 1867, vol. D p.344.\n\nGiles & Franklin give Phoebe's birth as 4 May 1799, daughter of Thomas and Charity (Lamoreux) Davenport, and say she married John Pringle (H0155). Their nine children: Thomas (b. 1821), Dennison (b. 1830), Clara (m. Sam Shaffer; d. aged 94), Charity (b. 1832; m. 1855 Andrew Worthington), William, Betsy (d. unmarried), Lydia, Martha (m. ___ Weaver) and Stephen ([R4-S1]). The censuses agree. In 1850 she was 52, in John's household with Thomas, Clarissa, Elizabeth, Lydia, William, Denison, Charity and Martha. In 1860 she was a 62-year-old widow keeping house with the unmarried Elizabeth (Betsy) and Lydia ([R4-S2]). Her will was proved in 1867.",
+  "summary": "Daughter of Thomas and Charity Davenport of Plymouth and wife of John Pringle, mother of nine; John's 1st cousin 7 times removed.",
+  "bio": "Phoebe Davenport was born on 4 May 1799, the daughter of Thomas Davenport and Charity Lamoreux, and was John's 1st cousin seven times removed. She married John Pringle and had nine children: Thomas (born 1821), Dennison (born 1830), Clara, who married Sam Shaffer and lived to ninety-four, Charity (born 1832), who married Andrew Worthington in 1855, William, Betsy, who never married, Lydia, Martha, who married a Weaver, and Stephen.\n\nIn 1850 the family was living in Plymouth Township, Luzerne County, with Thomas, Clarissa, Elizabeth, Lydia, William, Denison, Charity and Martha still at home. By 1860 Phoebe was a widow of sixty-two keeping house at Plymouth with her unmarried daughters Elizabeth and Lydia. Her will was recorded at Plymouth in 1867.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.321-322",
     "Bradsby pp.1483-84",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0189.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -81,5 +85,6 @@
       "people": [],
       "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7J-PJ2"
     }
-  ]
+  ],
+  "researchNotes": "Phoebe Davenport (1799 - after 1873) married John Pringle; nine children (see John Pringle). Will: Plymouth, 1867, vol. D p.344.\n\nGiles & Franklin give Phoebe's birth as 4 May 1799, daughter of Thomas and Charity (Lamoreux) Davenport, and say she married John Pringle (H0155). Their nine children: Thomas (b. 1821), Dennison (b. 1830), Clara (m. Sam Shaffer; d. aged 94), Charity (b. 1832; m. 1855 Andrew Worthington), William, Betsy (d. unmarried), Lydia, Martha (m. ___ Weaver) and Stephen ([R4-S1]). The censuses agree. In 1850 she was 52, in John's household with Thomas, Clarissa, Elizabeth, Lydia, William, Denison, Charity and Martha. In 1860 she was a 62-year-old widow keeping house with the unmarried Elizabeth (Betsy) and Lydia ([R4-S2]). Her will was proved in 1867."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 10th-great-grandfather; Huguenot of Cozes, Saintonge.",
-  "bio": "Daniel Lamoureux, son of Jean Lamoureux, stood godparent at Cozes in 1656 with Marie Touchay; their son André was born 3 Nov 1663.",
+  "summary": "Huguenot of Cozes in Saintonge and father of André Lamoureux; John's 10th-great-grandfather.",
+  "bio": "Daniel Lamoureux, John's 10th-great-grandfather, was a Huguenot of Cozes in Saintonge, in what is now Charente-Maritime, France, and a son of Jean Lamoureux. In 1656 he stood as a godparent at Cozes with Marie Touchay, and their son André was born on 3 November 1663.",
   "residences": [
     {
       "date": "1656",
@@ -44,6 +44,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0096.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Daniel Lamoureux, son of Jean Lamoureux, stood godparent at Cozes in 1656 with Marie Touchay; their son André was born 3 Nov 1663."
 }

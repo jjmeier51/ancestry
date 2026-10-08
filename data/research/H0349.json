@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sharon Meier's younger brother; a living person, so recorded only from family obituaries.",
-  "bio": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary.",
+  "summary": "Younger brother of Sharon Meier and John's maternal uncle; married to Rebecca, father of Jack and Mollie.",
+  "bio": "Paul Petriello, the younger brother of Sharon Meier, was listed as a surviving sibling in the February 2024 obituary of his brother John Jr. He is married to Rebecca, and their children are Jack and Mollie.",
   "sources": [
     "https://themontynews.org/single-post/john-t-petriello-jr-65",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "given": "Paul",
@@ -43,5 +47,6 @@
       "label": "Children",
       "value": "Jack and Mollie."
     }
-  ]
+  ],
+  "researchNotes": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary."
 }

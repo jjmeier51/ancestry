@@ -19,8 +19,8 @@
     "Domenico Gabriele Fiorillo"
   ],
   "tags": [],
-  "summary": "John's maternal 5th great-grandfather; father of Carmine Fiorillo. The tree's pedigree above him is unsupported.",
-  "bio": "Tree: Domenico G. Fiorillo (1785-1849) + Maria Morrello (1786-1846); his parents Carmine G. Fiorillo (d. 1797) + unknown. Carmine's death act (San Mango Morti 1860 act 30) names his parents as the late Domenico Fiorillo and the late Vittoria Marrelli/Morelli, so the wife's given name in the tree is wrong (Maria vs Vittoria). Round 2: San Mango's parish stati delle anime 1674-1804 contain no Fiorillo at all; Domenico (1785) + Maria Morrello (1786) would have been listed in 1800/1804 and are not. The Fiorillos arrived in San Mango in the 1800s, and the pre-1800 pedigree belongs to another comune (perhaps Nocera Terinese, Martirano or Conflenti - speculative) or was copied from another family's tree. His Ancestry profile carries the unidentified coat of arms (black shield, silver rampant lion, crown, wreath).\n\nDomenico died at San Mango on 6 June 1849 and was buried the next day. His age was given as 74, so he was born about 1775, and his birthplace as Cannovali, a hamlet of Aiello Calabro ([R4-S1], [R4-S2]). This makes him about ten years older than the tree's 1785. Both death records name his father as the late Carmine (Gabriele) Fiorillo. His mother's given name is Giacinta ('Cintia') in both, but her surname is uncertain: 'Feraculo' in the civil act, Iera in the parish index ([R4-S1], [R4-S2]). A probable brother, Francesco Gabriele Fiorillo (d. 1853), is recorded as son of Carmine and Giacinta Marrello ([R4-S5]). His wife Maria Marrello died in 1846 ([R4-S3]). The family's absence from San Mango's 1674-1804 stati delle anime is explained: the Fiorillos were Aiello people who moved down the Savuto valley in the early 1800s.",
+  "summary": "Domenico Gabriele Fiorillo, born at Cannovali near Aiello Calabro and died at San Mango in 1849, father of Carmine Fiorillo; John's 5th-great-grandfather.",
+  "bio": "Domenico Gabriele Fiorillo was born at Cannovali, a hamlet of Aiello Calabro in the province of Cosenza, about 1775, the son of Carmine Gabriele Fiorillo and Giacinta, known as 'Cintia'; the records differ on his mother's surname, giving it as Feraculo or Iera. A probable brother, Francesco Gabriele Fiorillo, died in 1853. Some accounts give Domenico's birth year as 1785, but his age at death points to about 1775.\n\nThe Fiorillos were Aiello people who moved down the Savuto valley to San Mango d'Aquino in the early 1800s, which is why no Fiorillo appears in San Mango's parish lists before 1804; the pedigree sometimes given for the family before Domenico is unsupported. His wife, Maria Marrello, died in 1846, although their son Carmine's death record calls her Vittoria. Domenico died at San Mango on 6 June 1849 and was buried the next day. He was the father of John's ancestor Carmine Fiorillo.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -82,6 +82,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815347.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -121,5 +125,6 @@
       "found": "Maria Marrello only",
       "assessment": "Vittoria belongs to Francesco G. Fiorillo; remove from Domenico."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Domenico G. Fiorillo (1785-1849) + Maria Morrello (1786-1846); his parents Carmine G. Fiorillo (d. 1797) + unknown. Carmine's death act (San Mango Morti 1860 act 30) names his parents as the late Domenico Fiorillo and the late Vittoria Marrelli/Morelli, so the wife's given name in the tree is wrong (Maria vs Vittoria). Round 2: San Mango's parish stati delle anime 1674-1804 contain no Fiorillo at all; Domenico (1785) + Maria Morrello (1786) would have been listed in 1800/1804 and are not. The Fiorillos arrived in San Mango in the 1800s, and the pre-1800 pedigree belongs to another comune (perhaps Nocera Terinese, Martirano or Conflenti - speculative) or was copied from another family's tree. His Ancestry profile carries the unidentified coat of arms (black shield, silver rampant lion, crown, wreath).\n\nDomenico died at San Mango on 6 June 1849 and was buried the next day. His age was given as 74, so he was born about 1775, and his birthplace as Cannovali, a hamlet of Aiello Calabro ([R4-S1], [R4-S2]). This makes him about ten years older than the tree's 1785. Both death records name his father as the late Carmine (Gabriele) Fiorillo. His mother's given name is Giacinta ('Cintia') in both, but her surname is uncertain: 'Feraculo' in the civil act, Iera in the parish index ([R4-S1], [R4-S2]). A probable brother, Francesco Gabriele Fiorillo (d. 1853), is recorded as son of Carmine and Giacinta Marrello ([R4-S5]). His wife Maria Marrello died in 1846 ([R4-S3]). The family's absence from San Mango's 1674-1804 stati delle anime is explained: the Fiorillos were Aiello people who moved down the Savuto valley in the early 1800s."
 }

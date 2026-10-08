@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 12th-great-grandfather, father of Capt. Thomas Topping.",
-  "bio": "Baptized at Wing, Bucks., 6 Jul 1578; buried Totternhoe 12 Aug 1623. Earlier Leighton Buzzard generations (Richard, Henry Topping) come from an unsourced tree (speculative).",
+  "summary": "John Topping of Wing, Buckinghamshire, and Totternhoe, Bedfordshire (1578–1623), father of Capt. Thomas Topping; John's 12th-great-grandfather.",
+  "bio": "John Topping was baptized at Wing in Buckinghamshire on 6 July 1578 and was buried at Totternhoe in Bedfordshire on 12 August 1623. He was the father of Capt. Thomas Topping. Earlier generations of the family at Leighton Buzzard, a Richard and a Henry Topping, have been suggested but rest on no documented evidence and remain speculative.",
   "sources": [
     "WikiTree Topping-248, https://www.wikitree.com/wiki/Topping-248",
     "FamilySearch England index",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0242.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -45,5 +49,6 @@
       "note": "John Topping, 1578-07-06 – 1623-08-12",
       "url": "https://www.wikitree.com/wiki/Topping-248"
     }
-  ]
+  ],
+  "researchNotes": "Baptized at Wing, Bucks., 6 Jul 1578; buried Totternhoe 12 Aug 1623. Earlier Leighton Buzzard generations (Richard, Henry Topping) come from an unsourced tree (speculative)."
 }

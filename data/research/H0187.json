@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 7x removed; Luzerne County Commissioner, last of the 'Davenport congress'.",
-  "bio": "Stephen Davenport (1800-1882), son of Thomas and Charity (Lamoreux) Davenport, was a Luzerne County Commissioner and lived later in Huntington Twp.\n\nGiles & Franklin say Stephen, youngest child of Thomas and Charity (Lamoreux) Davenport, was born on 14 Aug 1800 and died on 22 Aug 1882. On 5 May 1822 he married Elizabeth Tubbs (5 May 1802 - 24 Mar 1862). Their children were Hanford (d. 1865, m. Fanny Larned), Thomas M. (b. 1829, m. Diana Good), William (b. 1827, m. 1855 Adaline Harrison), Earl, Samuel, and Charity Adelaide (b. Town Line, Pa., 16/18 Feb 1839, d. Hicks Ferry 9 Sep 1930, m. Charles Good) ([R4-S1]).",
+  "summary": "Luzerne County Commissioner and the last of the \"Davenport congress\"; John's 1st cousin 7 times removed.",
+  "bio": "Stephen Davenport was born at Plymouth, Luzerne Co., PA, on 14 August 1800, the youngest child of Thomas and Charity (Lamoreux) Davenport. He served as a Luzerne County Commissioner and was remembered as the last of the \"Davenport congress\". In later life he lived in Huntington Township.\n\nOn 5 May 1822 he married Elizabeth Tubbs, who was born on 5 May 1802 and died on 24 March 1862. Their children were Hanford, who married Fanny Larned and died in 1865; William, born in 1827, who married Adaline Harrison in 1855; Thomas M., born in 1829, who married Diana Good; Earl; Samuel; and Charity Adelaide, born at Town Line, Pa., in February 1839, who married Charles Good and died at Hicks Ferry on 9 September 1930. Stephen died on 22 August 1882.",
   "sources": [
     "Wright p.386: https://archive.org/details/historicalsketch00wrig_2",
     "[R4-S1] Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.322-323 (secondary) https://archive.org/details/thomasdavenportp00gile"
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0187.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -72,5 +76,6 @@
       "found": "Giles & Franklin also give 'William [Pringle], married Elizabeth Tubbs' for a son of John and Phoebe Pringle",
       "assessment": "Probably a slip in Giles & Franklin. Stephen's wife Elizabeth Tubbs has full dates; William Pringle's wife needs checking."
     }
-  ]
+  ],
+  "researchNotes": "Stephen Davenport (1800-1882), son of Thomas and Charity (Lamoreux) Davenport, was a Luzerne County Commissioner and lived later in Huntington Twp.\n\nGiles & Franklin say Stephen, youngest child of Thomas and Charity (Lamoreux) Davenport, was born on 14 Aug 1800 and died on 22 Aug 1882. On 5 May 1822 he married Elizabeth Tubbs (5 May 1802 - 24 Mar 1862). Their children were Hanford (d. 1865, m. Fanny Larned), Thomas M. (b. 1829, m. Diana Good), William (b. 1827, m. 1855 Adaline Harrison), Earl, Samuel, and Charity Adelaide (b. Town Line, Pa., 16/18 Feb 1839, d. Hicks Ferry 9 Sep 1930, m. Charles Good) ([R4-S1])."
 }

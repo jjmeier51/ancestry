@@ -8,8 +8,8 @@
     "Domenico Morrello M..."
   ],
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Morrello pedigree.",
-  "bio": "Tree: Domenico Morrello M... (1716-1790) + Maria Chiarello (1733-1807). Profile shows the coat of arms.",
+  "summary": "Domenico Morrello Magaro of Aiello Calabro in Calabria, husband of Maria Chiarello; a figure in the family's unproven Morrello line.",
+  "bio": "Domenico Morrello Magaro was born on 8 July 1716 at Aiello Calabro, Cosenza, Calabria, Italy, and died there on 12 January 1790. He married Maria Chiarello, who lived from 1733 to 1807. He belongs to the Morrello pedigree recorded for the family, a line whose descent to John remains unproven.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,6 +44,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815401.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Domenico Morrello M... (1716-1790) + Maria Chiarello (1733-1807). Profile shows the coat of arms."
 }

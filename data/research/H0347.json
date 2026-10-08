@@ -8,8 +8,8 @@
   "tags": [
     "notable"
   ],
-  "summary": "Probably John's first cousin twice removed; Candy Hall of Fame 1996, president of D.C. Sales Co.",
-  "bio": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living.",
+  "summary": "Scranton-born confectionery executive inducted into the Candy Hall of Fame in 1996; probably John's first cousin twice removed.",
+  "bio": "Anthony Paul Cognetti was born in Scranton in 1949. He spent about 23 years with D.C. Sales Co., the firm of Joseph F. Cognetti, and became its president in 1982; in 1996 he was inducted into the Candy Hall of Fame. He is probably the son of Ralph A. Cognetti, which would make him a nephew of Joseph F. Cognetti and of Mary Cognetti Petriello, and John's first cousin twice removed.",
   "notable": "Candy Hall of Fame 1996",
   "sources": [
     "Candy Hall of Fame: https://candyhalloffame.org/inductee/anthony-paul-cognetti",
@@ -24,6 +24,11 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living."
 }

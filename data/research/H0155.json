@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Possibly John's 4th-great-grand-uncle (or a cousin); husband of Phoebe Davenport.",
-  "bio": "John Pringle married Phoebe Davenport (1799 - after 1873), daughter of Thomas and Charity (Lamoreaux) Davenport; nine children 1821-36: Thomas, Elizabeth, Clara, Liddie, William, Dennison, Charity D. (m. liveryman Andrew R. Worthington 1855), Stephen, Martha. Phebe Pringle's will: Plymouth, 1867, vol. D p.344. Whether John was Samuel's son or a nephew is speculative.\n\nThe 1850 census of Plymouth Township (enumerated 18 Sep 1850 by A. Atherton, p.155, dwelling 1054, family 1076) shows John Pringle, 49, farmer, born Pennsylvania, with Phebe, 52 (real estate $150, in her name), and children Thomas 29 (laborer), Clarissa 27, Elizabeth 25, Lydia 24, William 22 (clerk), Denison 19 (farmer), Charity 17 and Martha 13 ([R4-S1]). Stephen (b. 1834) is absent; the FamilySearch tree says he died in 1850. This gives John a birth year of about 1801, in Pennsylvania, which fits Bradsby's statement that John and Phoebe were 'natives of Plymouth' ([R4-S3]).\n\nBy the 1860 census (Plymouth, post office Muhlenburg) Phebe Pringle, 62, keeps house with daughters Elizabeth 36 and Lydia 34, and John is gone, so he died between 1850 and 1860 ([R4-S2]). Wright (1873) calls Jacob Gould and John Pringle, the two sons-in-law of old Thomas Davenport, 'both highly respectable men' ([R4-S4]). The FamilySearch published tree places John (LZVN-JBK, b. 1801 Plymouth) as a son of Samuel Pringle and Martha Lamoreaux ([R4-S5]). A man born in Plymouth about 1801 would almost have to be a son of Samuel or of Samuel's brother James, the only Pringle families there. Giles & Franklin give James and Phebe (Lamoreux) Pringle only three daughters, and Samuel had five sons ([R4-S6]), so a son of Samuel is the better fit. This is still not proven.",
+  "summary": "Plymouth farmer and husband of Phoebe Davenport, father of nine; possibly John's 4th-great-grand-uncle or a cousin.",
+  "bio": "John Pringle was born in Pennsylvania about 1801, a native of Plymouth in Luzerne County according to the county history. He married Phoebe Davenport (1799 to after 1873), a daughter of Thomas and Charity (Lamoreaux) Davenport, and the couple had nine children between 1821 and 1836: Thomas, Elizabeth, Clara, Lydia, William, Dennison, Charity D., who married the liveryman Andrew R. Worthington in 1855, Stephen, who died in 1850, and Martha. A county historian writing in 1873 called Jacob Gould and John Pringle, the two sons-in-law of old Thomas Davenport, \"both highly respectable men\".\n\nIn September 1850 he was a farmer in Plymouth Township, aged 49, with Phebe, who held the family's small real estate in her own name, and eight of their children at home, the eldest sons working as laborer, clerk and farmer. By 1860 Phebe was keeping house with her daughters Elizabeth and Lydia and John was gone, so he died between 1850 and 1860, probably in Plymouth Township. He was most likely a son of Samuel Pringle and Martha Lamoreaux, since Samuel and his brother James had the only Pringle families in Plymouth at the time and James is recorded with daughters only, but this has not been proven; he was therefore either John's 4th-great-grand-uncle or a cousin.",
   "sources": [
     "Bradsby pp.1483-84",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.321-322",
@@ -53,6 +53,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0155.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -102,5 +106,6 @@
       ],
       "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LZVN-JBK"
     }
-  ]
+  ],
+  "researchNotes": "John Pringle married Phoebe Davenport (1799 - after 1873), daughter of Thomas and Charity (Lamoreaux) Davenport; nine children 1821-36: Thomas, Elizabeth, Clara, Liddie, William, Dennison, Charity D. (m. liveryman Andrew R. Worthington 1855), Stephen, Martha. Phebe Pringle's will: Plymouth, 1867, vol. D p.344. Whether John was Samuel's son or a nephew is speculative.\n\nThe 1850 census of Plymouth Township (enumerated 18 Sep 1850 by A. Atherton, p.155, dwelling 1054, family 1076) shows John Pringle, 49, farmer, born Pennsylvania, with Phebe, 52 (real estate $150, in her name), and children Thomas 29 (laborer), Clarissa 27, Elizabeth 25, Lydia 24, William 22 (clerk), Denison 19 (farmer), Charity 17 and Martha 13 ([R4-S1]). Stephen (b. 1834) is absent; the FamilySearch tree says he died in 1850. This gives John a birth year of about 1801, in Pennsylvania, which fits Bradsby's statement that John and Phoebe were 'natives of Plymouth' ([R4-S3]).\n\nBy the 1860 census (Plymouth, post office Muhlenburg) Phebe Pringle, 62, keeps house with daughters Elizabeth 36 and Lydia 34, and John is gone, so he died between 1850 and 1860 ([R4-S2]). Wright (1873) calls Jacob Gould and John Pringle, the two sons-in-law of old Thomas Davenport, 'both highly respectable men' ([R4-S4]). The FamilySearch published tree places John (LZVN-JBK, b. 1801 Plymouth) as a son of Samuel Pringle and Martha Lamoreaux ([R4-S5]). A man born in Plymouth about 1801 would almost have to be a son of Samuel or of Samuel's brother James, the only Pringle families there. Giles & Franklin give James and Phebe (Lamoreux) Pringle only three daughters, and Samuel had five sons ([R4-S6]), so a son of Samuel is the better fit. This is still not proven."
 }

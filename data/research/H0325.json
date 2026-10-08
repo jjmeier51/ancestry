@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Congressman-elect; uncle of Rep. Joseph H. Tuthill; speculative cousin.",
+  "summary": "New York assemblyman and congressman-elect who died in 1821 before taking his seat, and uncle of Rep. Joseph H. Tuthill; possibly a cousin of John's Tuthills.",
   "sources": [
     "notes/round2/colonial_cousins.md §2g",
     "[R4-S1] Wikipedia, 'Selah Tuthill' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Selah_Tuthill"
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0325.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -60,5 +64,6 @@
     "date": "1821-09-07",
     "place": "Goshen, NY"
   },
-  "bio": "Elected to the 17th Congress in April 1821 but died before taking his seat; Assembly member for Ulster (1804-05) and Orange (1820) ([R4-S1]). His parents are still not documented; no Tuthill genealogy consulted names them (Akerly 1898 has no Selah)."
+  "bio": "Selah Tuthill was born at Blooming Grove, New York, on 26 October 1771. He sat in the New York State Assembly for Ulster County in 1804–05 and for Orange County in 1820, and in April 1821 he was elected to the 17th Congress. He died at Goshen on 7 September 1821 before he could take his seat. He was the uncle of Representative Joseph H. Tuthill.\n\nHis parents are not documented, so his connection to John's Tuthill ancestors remains a possibility rather than a proven link.",
+  "researchNotes": "Elected to the 17th Congress in April 1821 but died before taking his seat; Assembly member for Ulster (1804-05) and Orange (1820) ([R4-S1]). His parents are still not documented; no Tuthill genealogy consulted names them (Akerly 1898 has no Selah)."
 }

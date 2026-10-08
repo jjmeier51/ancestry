@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0443.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -38,9 +42,11 @@
       "description": "[R4-S2]"
     }
   ],
-  "bio": "Isaac Lamoreux, born 1762, was a son of John Lamoreux Sr. of Smith's Clove (Monroe), Orange Co., NY, and Charity Davenport, and married Hannah Pringle on 2 Mar 1790 ([R4-S2]). His father's will (Orange County Wills; dated 31 Dec 1808 per the editor of Constant's journal) names him last among the children: Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac ([R4-S1]). The marriage is not in Rev. Silas Constant's list of marriages, so another minister or justice performed it. No later trace of Isaac and Hannah was found in the Luzerne county histories.",
+  "bio": "Isaac Lamoreux was born in 1762, a son of John Lamoreux Sr. of Smith's Clove, now Monroe, in Orange County, New York, and Charity Davenport. He married Hannah Pringle on 2 March 1790; the marriage does not appear among those performed by the Rev. Silas Constant, so another minister or a justice must have officiated. His father's will of 1808 names him last among the children: Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac.",
   "sources": [
     "[R4-S1] Journal of the Rev. Silas Constant (1903), note on John Lamoreux's will, p.35 (secondary) https://archive.org/details/cu31924028826894",
     "[R4-S2] Giles & Franklin (1962), p.360 (secondary) https://archive.org/details/thomasdavenportp00gile"
-  ]
+  ],
+  "researchNotes": "Isaac Lamoreux, born 1762, was a son of John Lamoreux Sr. of Smith's Clove (Monroe), Orange Co., NY, and Charity Davenport, and married Hannah Pringle on 2 Mar 1790 ([R4-S2]). His father's will (Orange County Wills; dated 31 Dec 1808 per the editor of Constant's journal) names him last among the children: Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac ([R4-S1]). The marriage is not in Rev. Silas Constant's list of marriages, so another minister or justice performed it. No later trace of Isaac and Hannah was found in the Luzerne county histories.",
+  "summary": "Son of John Lamoreux Sr. of Smith's Clove, Orange County, New York, and Charity Davenport, born 1762; married Hannah Pringle in 1790."
 }

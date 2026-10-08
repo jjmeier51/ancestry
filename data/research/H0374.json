@@ -9,8 +9,8 @@
     "Frank Farino"
   ],
   "tags": [],
-  "summary": "Brother of Helen (Ferlaino) Cognetti; John's 2nd great-granduncle.",
-  "bio": "1920 census: Frank, son, 17, born PA, coal-mine laborer. His PA birth shows Leopoldo was in Scranton by about 1901. Not to be confused with Francesco 'Frank' Ferlaino (d. 2007), a later San Mango-born Scranton resident (Legacy obituary).",
+  "summary": "Coal-mine laborer born in Pennsylvania about 1902, son of Leopoldo Ferlaino; brother of Helen Ferlaino Cognetti and John's 2nd great-granduncle.",
+  "bio": "Frank Ferlaino, whose name was also written Farino, was born in Pennsylvania in 1902 or 1903, a son of Leopoldo Ferlaino and a brother of Helen Ferlaino Cognetti, which makes him John's 2nd great-granduncle. His American birth shows that his father was already settled in Scranton by about 1901. In 1920, at seventeen, he was living at home and working as a coal-mine laborer. He was not the Francesco \"Frank\" Ferlaino who died in 2007, a later Scranton resident born at San Mango.",
   "sources": [
     "1920 census MFBR-YF8: https://familysearch.org/ark:/61903/1:1:MFBR-YF8",
     "notes/round2/italian_gaps.md 2"
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0374.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "1920 census: Frank, son, 17, born PA, coal-mine laborer. His PA birth shows Leopoldo was in Scranton by about 1901. Not to be confused with Francesco 'Frank' Ferlaino (d. 2007), a later San Mango-born Scranton resident (Legacy obituary)."
 }

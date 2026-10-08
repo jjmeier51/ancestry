@@ -8,8 +8,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "Brother of John's 3rd-great-grandfather Andrew H. Heffernan.",
-  "bio": "Baptized 29 Aug 1852; DL&W railroad brakeman; died at Wilkes-Barre 16 Nov 1904. His obituary (W-B Times 17 Nov 1904) calls him 'for the past forty years a resident of this valley', and the 1900 census gives his immigration as 1866 - the basis for dating the family's emigration to c.1864-66.",
+  "summary": "Tipperary-born railroad brakeman of Wilkes-Barre; brother of John's 3rd-great-grandfather Andrew H. Heffernan.",
+  "bio": "John Heffernan was baptized on 29 August 1852 in County Tipperary, Ireland, a brother of Andrew H. Heffernan, John's 3rd-great-grandfather. He came to America with the family in about 1864 to 1866; the 1900 census gives 1866 as the year of his arrival, and his obituary described him as 'for the past forty years a resident of this valley'. He worked as a brakeman on the DL&W railroad and died at Wilkes-Barre, Luzerne County, Pennsylvania, on 16 November 1904.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (citing Wilkes-Barre Times 17 Nov 1904)"
   ],
@@ -39,6 +39,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0124.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Baptized 29 Aug 1852; DL&W railroad brakeman; died at Wilkes-Barre 16 Nov 1904. His obituary (W-B Times 17 Nov 1904) calls him 'for the past forty years a resident of this valley', and the 1900 census gives his immigration as 1866 - the basis for dating the family's emigration to c.1864-66."
 }

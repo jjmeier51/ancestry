@@ -10,8 +10,8 @@
     "Jeanne Lamoureux"
   ],
   "tags": [],
-  "summary": "John's 8th-great-grandmother; New York-born daughter of Huguenot refugees Pierre Masse and Elizabeth Mersereau.",
-  "bio": "Born 22 May 1696 and baptized 5 Jul 1696 at the French Church of New York. Wife of Daniel Lamoureux (maiden name from Daniel's private family record, quoted 1919; their son Daniel's 1720 baptism names 'Jeane'). Added as a new ancestor in Round 2.\n\nThe French Church registers now place her in her own family before her marriage. On 28 Sep 1718 'Jeane Masse', who signed with a mark, was godmother to Ester, daughter of her brother Daniel Masse and his wife Ester Fourret ([R4-S1]; see NEW-301). That was nine months before her marriage to Daniel Lamoureux, which the Davenport genealogy dates to 28 Jun 1719. In 1722 an Ester Masse was godmother to Jeanne's son Andre. Together these entries connect Jeanne Lamoureux to the Masse family through the parish register, not only through the private family record quoted in 1919. No marriage entry for her is in the register.",
+  "summary": "New York-born daughter of Huguenot refugees Pierre Masse and Elizabeth Mersereau, wife of Daniel Lamoureux; John's 8th-great-grandmother.",
+  "bio": "Jeanne Masse was born in New York City on 22 May 1696 and baptized on 5 July 1696 at the French Church of New York, a daughter of the Huguenot refugees Pierre Masse and Elizabeth Mersereau. On 28 September 1718, signing with a mark, she stood godmother at the same church to Ester, daughter of her brother Daniel Masse and his wife Ester Fourret. Nine months later, on 28 June 1719, she married Daniel Lamoureux. Their son Daniel was baptized at the French Church on 29 May 1720, the register naming her as 'Jeane', and their son Andre on 17 January 1722, with an Ester Masse as godmother. Her maiden name was also preserved in Daniel Lamoureux's private family record. She was John's 8th-great-grandmother.",
   "sources": [
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu",
     "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0087.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -65,5 +69,6 @@
       "place": "French Church, New York",
       "description": "Mother 'Jeane son Epouze'; godmother Ester Masse [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Born 22 May 1696 and baptized 5 Jul 1696 at the French Church of New York. Wife of Daniel Lamoureux (maiden name from Daniel's private family record, quoted 1919; their son Daniel's 1720 baptism names 'Jeane'). Added as a new ancestor in Round 2.\n\nThe French Church registers now place her in her own family before her marriage. On 28 Sep 1718 'Jeane Masse', who signed with a mark, was godmother to Ester, daughter of her brother Daniel Masse and his wife Ester Fourret ([R4-S1]; see NEW-301). That was nine months before her marriage to Daniel Lamoureux, which the Davenport genealogy dates to 28 Jun 1719. In 1722 an Ester Masse was godmother to Jeanne's son Andre. Together these entries connect Jeanne Lamoureux to the Masse family through the parish register, not only through the private family record quoted in 1919. No marriage entry for her is in the register."
 }

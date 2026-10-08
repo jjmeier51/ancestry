@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 11th-great-grandfather (via Rachel Browne → Elisabeth Salmon → Sarah Horton); well-known Southold founder from Mowsley, Leicestershire.",
-  "bio": "Listed by Round 3 among the English origins: Mowsley, Leicestershire, with 'Joseph & Libbeus Horton of Mowsley' as the earliest known Hortons there. His descendants also include the Southold Hortons who married into the Tuthills (Mary Tuthill m. Jonathan Horton; Bethia Horton m. Henry Tuthill the Justice), though those lines are collateral.\n\nHorton Genealogy (1876) gives Barnabas as son of Joseph Horton, b. Mowsley, Leicestershire, 13 July 1600. It says he came in the Swallow (Jeremy Horton master), landed at Hampton, Mass., went to New Haven in 1640 with his wife Mary and sons Joseph and Benjamin, and settled at Southold in Oct 1640 ([R4-S1]). It does not list a daughter who married William Salmon. Its 'Sarah' is b. c.1653 and m. Joseph Conklin ([R4-S1]). But the Southold town records state explicitly that William Salmon, after Katherine's death, 'married with Sarah Hortton', and that John Conckelyne Jr. then took 'the said Sarah Salmon' to wife ([R4-S2]). Recent work (J. Dinan, In Search of Barnabas Horton, via WikiTree) makes her Barnabas's daughter by his first wife Anne Smith, b. c.1635, when he was a baker at Nuneaton, Warwickshire ([R4-S3]). The Horton Genealogy's Sarah/Joseph Conklin entry looks like a garbled version of the Sarah (Horton) Salmon-John Conklin marriage.",
+  "summary": "Founder of Southold on Long Island, from Mowsley in Leicestershire; John's 11th-great-grandfather through his daughter Sarah Salmon.",
+  "bio": "Barnabas Horton was born at Mowsley, Leicestershire, England, the son of Joseph Horton; the Horton genealogy gives the date as 13 July 1600, and the earliest Hortons known at Mowsley are Joseph and Libbeus Horton. According to the same genealogy he sailed in the Swallow, with Jeremy Horton as master, landed at Hampton in Massachusetts, went to New Haven in 1640 with his wife Mary and sons Joseph and Benjamin, and in October 1640 settled at Southold, Suffolk County, New York, where he died and is remembered as one of the town's founders.\n\nJohn descends from him through a daughter Sarah, born about 1635 to his first wife Anne Smith at a time when Barnabas was a baker at Nuneaton, Warwickshire. The Southold town records state that William Salmon, after the death of his wife Katherine, \"married with Sarah Hortton\", and that John Conckelyne Jr. then took \"the said Sarah Salmon\" to wife; the Horton genealogy's entry for a Sarah born about 1653 who married Joseph Conklin seems to be a garbled version of this same marriage. From Sarah the line runs through Elisabeth Salmon and Rachel Browne to John, making Barnabas his 11th-great-grandfather.\n\nHis other descendants include the Southold Hortons who married into the Tuthill family: Mary Tuthill married Jonathan Horton, and Bethia Horton married Henry Tuthill the Justice.",
   "facts": [
     {
       "label": "Earliest known there",
@@ -43,6 +43,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0237.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Listed by Round 3 among the English origins: Mowsley, Leicestershire, with 'Joseph & Libbeus Horton of Mowsley' as the earliest known Hortons there. His descendants also include the Southold Hortons who married into the Tuthills (Mary Tuthill m. Jonathan Horton; Bethia Horton m. Henry Tuthill the Justice), though those lines are collateral.\n\nHorton Genealogy (1876) gives Barnabas as son of Joseph Horton, b. Mowsley, Leicestershire, 13 July 1600. It says he came in the Swallow (Jeremy Horton master), landed at Hampton, Mass., went to New Haven in 1640 with his wife Mary and sons Joseph and Benjamin, and settled at Southold in Oct 1640 ([R4-S1]). It does not list a daughter who married William Salmon. Its 'Sarah' is b. c.1653 and m. Joseph Conklin ([R4-S1]). But the Southold town records state explicitly that William Salmon, after Katherine's death, 'married with Sarah Hortton', and that John Conckelyne Jr. then took 'the said Sarah Salmon' to wife ([R4-S2]). Recent work (J. Dinan, In Search of Barnabas Horton, via WikiTree) makes her Barnabas's daughter by his first wife Anne Smith, b. c.1635, when he was a baker at Nuneaton, Warwickshire ([R4-S3]). The Horton Genealogy's Sarah/Joseph Conklin entry looks like a garbled version of the Sarah (Horton) Salmon-John Conklin marriage."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Probably John's 5th-great-grand-aunt.",
-  "bio": "Hannah Pringle (FamilySearch b. 1773) married Isaac Lamoreux in 1790.",
+  "summary": "Born in 1773, she married Isaac Lamoreux in 1790; probably John's 5th-great-grand-aunt.",
+  "bio": "Hannah Pringle was born in 1773 and married Isaac Lamoreux in 1790. She was probably John's 5th-great-grand-aunt.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-359"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0168.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Hannah Pringle (FamilySearch b. 1773) married Isaac Lamoreux in 1790."
 }

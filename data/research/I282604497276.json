@@ -9,7 +9,7 @@
     "place": "England"
   },
   "tags": [],
-  "summary": "John's 3rd great-grandmother; English-born wife of Edward F. Jones.",
+  "summary": "English-born wife of Edward F. Jones, who kept house at Plymouth, Pennsylvania, and died there in 1912; John's 3rd-great-grandmother.",
   "sources": [
     "FamilySearch L85M-P2Q",
     "notes/round3/irish_pa.md",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604497276.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -47,7 +51,7 @@
       "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
     }
   ],
-  "bio": "1880 census, Plymouth Township: Margret Jones, 35, wife, keeping house, born England; her father born Ireland and mother England ([R4-S1]). Her son Joseph's December 1914 marriage docket records her as deceased, maiden name written \"Kiver\", birthplace \"Don't know\" ([R4-S2]). So she died before Dec 1914.",
+  "bio": "Margaret McIver was born about 1845 in England, the daughter of an Irish father and an English mother. Her arrival in America is given as 1873 in one record and 1882 in another. In 1880 she was 35 and keeping house for her husband Edward F. Jones at Plymouth, Luzerne, Pennsylvania, and the family remained at Plymouth through 1900 and 1910. She died there on 13 May 1912. When her son Joseph married in December 1914 he recorded her as deceased, writing her maiden name as \"Kiver\" and admitting he did not know where she was born. She was John's 3rd-great-grandmother.",
   "media": [
     {
       "file": "media/I282604497276/1880-census-plymouth-twp-edward-f-jones.jpg",
@@ -63,5 +67,6 @@
       ],
       "url": "https://familysearch.org/ark:/61903/1:1:MWNZ-HXR"
     }
-  ]
+  ],
+  "researchNotes": "1880 census, Plymouth Township: Margret Jones, 35, wife, keeping house, born England; her father born Ireland and mother England ([R4-S1]). Her son Joseph's December 1914 marriage docket records her as deceased, maiden name written \"Kiver\", birthplace \"Don't know\" ([R4-S2]). So she died before Dec 1914."
 }

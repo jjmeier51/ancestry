@@ -10,8 +10,8 @@
     "Mrs. William Dalley"
   ],
   "tags": [],
-  "summary": "John's 4th-great-grand-aunt (sister of Mary Connole); mother of Dr. Thomas J. Dailey.",
-  "bio": "Honora 'Nora' Connole was born in Plymouth Township in 1855 (per her son's biography; FamilySearch: Jun 1856) and died 3 Oct 1910. She married William Dailey (b. Schuylkill Co. 1851). Her 1855 Plymouth birth is the main evidence that the Connoles reached Plymouth well before Mary's obituary's '1865'.\n\nFamilySearch gives her husband as William J. Dailey (b. Minersville 17 Feb 1854, d. Wilkes-Barre 18 Jan 1931, son of Michael Dailey and Elizabeth Keating) and lists eleven children, among them Elizabeth A. (1877-1958), Honora (1878-1961), Anna Hilary (1880-1951), Michael (1882-1902), Dr. Thomas Joseph (1884-1934), Gertrude F. (1890-1929), Loretta Alberta (1891-1967), Theressa Rosalind (1893-1985) and Margaret (1895-1987) ([R4-S1], [R4-S2]).",
+  "summary": "Nora Connole Dailey of Plymouth, mother of eleven including Dr. Thomas J. Dailey; sister of Mary Connole and John's 4th-great-grand-aunt.",
+  "bio": "Honora Connole, known as Nora, was born in Plymouth Township, Luzerne County, Pennsylvania, in 1855 according to her son's biography, or in June 1856 by another record. Her birth there shows that the Connole family had settled in Plymouth well before 1865. She was a sister of Mary Connole and John's 4th-great-grand-aunt.\n\nShe married William J. Dailey, a son of Michael Dailey and Elizabeth Keating, who was born at Minersville in Schuylkill County in the early 1850s and died at Wilkes-Barre on 18 January 1931. The family lived at Avondale in 1880 and in Plymouth from 1900 to 1910. They had eleven children, among them Elizabeth A. (1877-1958), Honora (1878-1961), Anna Hilary (1880-1951), Michael (1882-1902), Dr. Thomas Joseph (1884-1934), Gertrude F. (1890-1929), Loretta Alberta (1891-1967), Theressa Rosalind (1893-1985) and Margaret (1895-1987). Nora died on 3 October 1910.",
   "sources": [
     "Harvey & Smith vol. VI, T. J. Dailey sketch p.~422: https://archive.org/details/historyofwilkesb06harv",
     "FamilySearch tree",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0137.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -63,5 +67,6 @@
       "found": "17 Feb 1854, Minersville (FS)",
       "assessment": "FS attaches an 1860 census and a death/burial record; prefer 1854 pending."
     }
-  ]
+  ],
+  "researchNotes": "Honora 'Nora' Connole was born in Plymouth Township in 1855 (per her son's biography; FamilySearch: Jun 1856) and died 3 Oct 1910. She married William Dailey (b. Schuylkill Co. 1851). Her 1855 Plymouth birth is the main evidence that the Connoles reached Plymouth well before Mary's obituary's '1865'.\n\nFamilySearch gives her husband as William J. Dailey (b. Minersville 17 Feb 1854, d. Wilkes-Barre 18 Jan 1931, son of Michael Dailey and Elizabeth Keating) and lists eleven children, among them Elizabeth A. (1877-1958), Honora (1878-1961), Anna Hilary (1880-1951), Michael (1882-1902), Dr. Thomas Joseph (1884-1934), Gertrude F. (1890-1929), Loretta Alberta (1891-1967), Theressa Rosalind (1893-1985) and Margaret (1895-1987) ([R4-S1], [R4-S2])."
 }

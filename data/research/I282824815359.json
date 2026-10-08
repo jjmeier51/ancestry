@@ -5,8 +5,8 @@
     "note": "Tree only (mother/wife field empty). Fiorillo absent from San Mango 1674-1804 stati; pre-1800 Fiorillo pedigree considered unsupported (other comune or copied tree)."
   },
   "tags": [],
-  "summary": "Tree's father of Domenico G. Fiorillo (1785); unsupported pedigree.",
-  "bio": "Tree: Carmine G. Fiorillo (d. 1797), wife unknown/empty; parents Domenico G. Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Flagged unverified by Rounds 1-2.\n\nThis Carmine is known only through his sons' death records. Domenico (b. c.1775 at Cannovali, Aiello Calabro, d. 1849) and Francesco (b. c.1789, d. 1853) are both called sons of the late Carmine Gabriele Fiorillo and of a Giacinta ('Cintia'), whose surname is variously given as Feraculo, Iera and Marrello ([R4-S1], [R4-S2]). Carmine's wife, missing from the tree, was therefore Giacinta. The tree's death date of 22 November 1797 and his parentage (Domenico G. Fiorillo and Cecilia Fata) presumably come from Aiello Calabro registers, which are not indexed here.",
+  "summary": "Of Aiello Calabro in Calabria, died 1797, husband of Giacinta and father of Domenico and Francesco Fiorillo; John's 6th-great-grandfather.",
+  "bio": "Carmine Gabriele Fiorillo died on 22 November 1797 at Aiello Calabro, Cosenza, Calabria, Italy. He is known chiefly through the death records of his sons: Domenico, born about 1775 at Cannovali, Aiello Calabro, who died in 1849, and Francesco, born about 1789, who died in 1853, are both described as sons of the late Carmine Gabriele Fiorillo and of Giacinta, called Cintia, whose surname is variously given as Feraculo, Iera and Marrello. His parents are recorded as Domenico G. Fiorillo, who died in 1770, and Cecilia Fata (1738–1797), though that earlier pedigree has not been verified. He was John's 6th-great-grandfather.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,9 +44,14 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815359.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "openQuestions": [
     "Wife Giacinta: surname Feraco/Iera/Marrello? Check Aiello Calabro (Cannovali) parish records for Domenico's baptism c.1775."
-  ]
+  ],
+  "researchNotes": "Tree: Carmine G. Fiorillo (d. 1797), wife unknown/empty; parents Domenico G. Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Flagged unverified by Rounds 1-2.\n\nThis Carmine is known only through his sons' death records. Domenico (b. c.1775 at Cannovali, Aiello Calabro, d. 1849) and Francesco (b. c.1789, d. 1853) are both called sons of the late Carmine Gabriele Fiorillo and of a Giacinta ('Cintia'), whose surname is variously given as Feraculo, Iera and Marrello ([R4-S1], [R4-S2]). Carmine's wife, missing from the tree, was therefore Giacinta. The tree's death date of 22 November 1797 and his parentage (Domenico G. Fiorillo and Cecilia Fata) presumably come from Aiello Calabro registers, which are not indexed here."
 }

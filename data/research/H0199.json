@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 10th-great-grand-aunt.",
-  "bio": "Marie Mercereau 'de Moise en St. onge' married Jean La Tourette 'd'Osse en Béarn' on 16 Jul 1693 (witnesses Pierre Masse, D. Mercereau, Josue Mercereau).",
+  "summary": "Marie Mercereau of Moise in Saintonge, who married Jean La Tourette of Osse in Béarn in 1693; John's 10th-great-grand-aunt.",
+  "bio": "Marie Mercereau, described in the marriage register as \"de Moise en St. onge\", married Jean La Tourette, \"d'Osse en Béarn\", on 16 July 1693. The witnesses were Pierre Masse, D. Mercereau and Josue Mercereau. She was John's 10th-great-grand-aunt.",
   "sources": [
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu pp.29-31"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0199.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Marie Mercereau 'de Moise en St. onge' married Jean La Tourette 'd'Osse en Béarn' on 16 Jul 1693 (witnesses Pierre Masse, D. Mercereau, Josue Mercereau)."
 }

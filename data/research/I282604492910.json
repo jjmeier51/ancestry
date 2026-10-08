@@ -16,7 +16,7 @@
   ],
   "tags": [],
   "summary": "John's mother; grew up in Scranton, Pennsylvania, studied at East Stroudsburg University, where she met her husband Tom Meier, and lives in Ashburn, Virginia.",
-  "bio": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.",
+  "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They married and raised three sons, Tommy, Johnny and Matt, and live in Ashburn, Virginia.",
   "facts": [
     {
       "label": "Siblings",
@@ -64,6 +64,10 @@
     {
       "date": "2026-10-08",
       "note": "John: she attended East Stroudsburg University and met Tom Meier there."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -73,5 +77,6 @@
       "note": "East Stroudsburg University"
     }
   ],
-  "manual": true
+  "manual": true,
+  "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched."
 }

@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of H0146 (proven); parent of H0435 (proven)."
   },
   "tags": [],
-  "summary": "Eldest child of Benjamin Pringle and Charity Gould of Plymouth, Luzerne Co.; married Caleb Roberts in 1852 and moved to Iowa (children Esther, Alfred, Helen per Giles & Franklin)",
-  "bio": "Eldest child of Benjamin Pringle and Charity Gould of Plymouth, Luzerne Co.; married Caleb Roberts in 1852 and moved to Iowa (children Esther, Alfred, Helen per Giles & Franklin). Died a widow at Verona, Faribault Co., Minnesota, 30 Dec 1897, aged 75y 3m 9d; the register names her parents as Benj. and Charity Pringle, both born Pennsylvania.",
+  "summary": "Bethia Pringle (1822–1897), eldest child of Benjamin and Charity Pringle of Plymouth, who married Caleb Roberts and moved west to Iowa and Minnesota.",
+  "bio": "Bethia Pringle was born in Pennsylvania about 21 September 1822, the eldest child of Benjamin Pringle and Charity Gould of Plymouth, Luzerne Co. In 1852 she married Caleb Roberts, and the couple moved to Iowa, where their children Esther, Alfred and Helen were born. She died a widow at Verona, Faribault Co., Minnesota, on 30 December 1897, aged 75 years, 3 months and 9 days; the death register names her parents as Benjamin and Charity Pringle, both born in Pennsylvania.",
   "sources": [
     "[R4-S1] Faribault Co., Minn., Register of Deaths, Town of Verona, 1897, p.173 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L4WX-HKC/images/i/1/image.jpg",
     "[R4-S2] Giles & Franklin (1962), p.281 (secondary) https://archive.org/details/thomasdavenportp00gile"
@@ -16,6 +16,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-401 → M0074; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -23,5 +27,6 @@
       "label": "FamilySearch ID",
       "value": "K2XY-V32"
     }
-  ]
+  ],
+  "researchNotes": "Eldest child of Benjamin Pringle and Charity Gould of Plymouth, Luzerne Co.; married Caleb Roberts in 1852 and moved to Iowa (children Esther, Alfred, Helen per Giles & Franklin). Died a widow at Verona, Faribault Co., Minnesota, 30 Dec 1897, aged 75y 3m 9d; the register names her parents as Benj. and Charity Pringle, both born Pennsylvania."
 }

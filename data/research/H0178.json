@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grand-uncle.",
-  "bio": "John Lamoreaux (1780-1852) of Jackson Twp, executor of his father's will; the 1826 codicil cut his bequest to $50 'considering... the privileges already he has had'.\n\nFamilySearch gives John a birth date of 21 Nov 1780 at Monroe and a death date of 13 Aug 1853 in Jackson Twp, but a burial in 1852; the site has his death in 1852. It cites a Historical Society of Pennsylvania death card and his father's probate file ([R4-S1]). FamilySearch names Martha Ives as his wife, but she was Joshua's wife (see H0181), so that looks like a cross-attachment.",
+  "summary": "Executor of his father Thomas Lamoreaux's will, settled in Jackson Township, Luzerne County; John's 5th-great-grand-uncle.",
+  "bio": "John Lamoreaux was born on 21 November 1780 in Monroe Township, Orange County, New York, a son of Thomas Lamoreaux. He settled in Jackson Township, Luzerne County, Pennsylvania, and was named executor of his father's will; a codicil of 1826 reduced his own bequest to $50, 'considering... the privileges already he has had'. He died in Jackson Township in 1852, though one record gives 13 August 1853. He is John's 5th-great-grand-uncle.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0178.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -70,5 +74,6 @@
       "label": "FamilySearch ID",
       "value": "KP7J-XC7"
     }
-  ]
+  ],
+  "researchNotes": "John Lamoreaux (1780-1852) of Jackson Twp, executor of his father's will; the 1826 codicil cut his bequest to $50 'considering... the privileges already he has had'.\n\nFamilySearch gives John a birth date of 21 Nov 1780 at Monroe and a death date of 13 Aug 1853 in Jackson Twp, but a burial in 1852; the site has his death in 1852. It cites a Historical Society of Pennsylvania death card and his father's probate file ([R4-S1]). FamilySearch names Martha Ives as his wife, but she was Joshua's wife (see H0181), so that looks like a cross-attachment."
 }

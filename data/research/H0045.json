@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "The competing 'Maria Anna Heitzler 1813' of Unteribental — NOT John's 4th great-grandmother.",
-  "bio": "Schoolteacher's daughter; married the widower J. G. Gremmelspacher at Kirchzarten 23 Oct 1855 (he remarried 1863, so she died before 1863). The deep-dive had proposed she was Servatius's widow; disproven.",
+  "summary": "Schoolteacher's daughter of Unteribental who married J. G. Gremmelspacher in 1855; a namesake of, but not, John's 4th-great-grandmother.",
+  "bio": "Maria Anna Heitzler was born on 8 April 1813 at Unteribental, near Buchenbach in the Black Forest, the daughter of a schoolteacher. On 23 October 1855 she married the widower J. G. Gremmelspacher at Kirchzarten. He married again in 1863, so she must have died before then.\n\nShe shares a name and a birth year with John's 4th-great-grandmother, and it was once proposed that she was the widow of Servatius, but that identification has been disproven: she is a different woman.",
   "sources": [
     "GEDBAS 1420126661 https://gedbas.genealogy.net/person/show/1420126661 ; 1420126660 https://gedbas.genealogy.net/person/show/1420126660",
     "deep-dive report; notes/round2/black_forest.md; notes/round3/german_origins.md"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0045.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Schoolteacher's daughter; married the widower J. G. Gremmelspacher at Kirchzarten 23 Oct 1855 (he remarried 1863, so she died before 1863). The deep-dive had proposed she was Servatius's widow; disproven."
 }

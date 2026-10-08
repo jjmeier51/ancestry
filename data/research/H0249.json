@@ -9,8 +9,8 @@
     "John Hamonde of (Long) Melford"
   ],
   "tags": [],
-  "summary": "John's 14th-great-grandfather; a fuller and cloth-maker of Long Melford, Suffolk, about 1517.",
-  "bio": "Fuller (cloth-finisher) and cloth-maker of Long Melford; executor of John Hamond the elder of Melford (will dated 1517, proved 1528). A link further back to the Lawshall Hammonds is speculative. The Hammonds and Warrens were neighbours on Hall Street in Melford.",
+  "summary": "Fuller and cloth-maker of Long Melford, Suffolk, about 1517; John's 14th-great-grandfather.",
+  "bio": "John Hamonde was a fuller, or cloth-finisher, and cloth-maker of Long Melford in Suffolk around 1517. He was executor of the will of John Hamond the elder of Melford, dated 1517 and proved 1528. The Hammonds and the Warrens were neighbours on Hall Street in Melford. A connection further back to the Hammonds of Lawshall has been suggested but is speculative.",
   "residences": [
     {
       "date": "ABT 1517",
@@ -42,6 +42,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0249.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Fuller (cloth-finisher) and cloth-maker of Long Melford; executor of John Hamond the elder of Melford (will dated 1517, proved 1528). A link further back to the Lawshall Hammonds is speculative. The Hammonds and Warrens were neighbours on Hall Street in Melford."
 }

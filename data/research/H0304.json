@@ -11,7 +11,7 @@
     "Mrs. Stanford White"
   ],
   "tags": [],
-  "summary": "Wife of architect Stanford White; John's 6th cousin 5x removed.",
+  "summary": "Daughter of Judge J. Lawrence Smith and wife of the architect Stanford White; John's 6th cousin 5x removed.",
   "sources": [
     "Pelletreau (1898) App. p. 461",
     "[R4-S1] Wikimedia Commons files from the Metropolitan Museum of Art (Open Access): 'Mrs. Stanford White (Bessie Springs Smith)' by Augustus Saint-Gaudens (primary) https://commons.wikimedia.org/wiki/File:Mrs._Stanford_White_(Bessie_Springs_Smith)_MET_DT2594.jpg"
@@ -33,9 +33,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0304.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Daughter of Judge J. Lawrence Smith; 5th cousin 5 times removed via Job Smith. Augustus Saint-Gaudens made a marble bust (1884, carved by 1888) and a bronze relief medallion (1884, cast 1893) of her, both at the Metropolitan Museum of Art and released by the Met as CC0 ([R4-S1]).",
+  "bio": "Bessie Springs Smith was a daughter of Judge J. Lawrence Smith. She married the architect Stanford White and was known thereafter as Bessie Smith White or Mrs. Stanford White. The sculptor Augustus Saint-Gaudens portrayed her twice: in a marble bust modelled in 1884 and carved by 1888, and in a bronze relief medallion of 1884 that was cast in 1893. Both are now in the Metropolitan Museum of Art. Through Job Smith she is John's 6th cousin 5 times removed.",
   "conflicts": [
     {
       "field": "relationship",
@@ -66,5 +70,6 @@
       "people": [],
       "url": "https://commons.wikimedia.org/wiki/File:Mrs._Stanford_White_(Bessie_Springs_Smith)_MET_1981.55.1.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Judge J. Lawrence Smith; 5th cousin 5 times removed via Job Smith. Augustus Saint-Gaudens made a marble bust (1884, carved by 1888) and a bronze relief medallion (1884, cast 1893) of her, both at the Metropolitan Museum of Art and released by the Met as CC0 ([R4-S1])."
 }

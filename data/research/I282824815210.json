@@ -5,8 +5,8 @@
     "note": "Tree only (with a record-image thumbnail); not researched."
   },
   "tags": [],
-  "summary": "John's maternal 4th great-grandmother per the tree; wife of Domenico Di Biase.",
-  "bio": "Tree: Angela Carrozzino (Deceased), wife of Domenico Di Biase, mother of Giovanni P. Dibiasi. No research result for her in any round.",
+  "summary": "Wife of Domenico Di Biase and mother of Giovanni P. Dibiasi; John's maternal 4th-great-grandmother.",
+  "bio": "Angela Carrozzino was the wife of Domenico Di Biase and the mother of Giovanni P. Dibiasi. Family records give no dates for her life.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -43,6 +43,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815210.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Angela Carrozzino (Deceased), wife of Domenico Di Biase, mother of Giovanni P. Dibiasi. No research result for her in any round."
 }

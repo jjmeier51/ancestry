@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0424.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -46,8 +50,10 @@
       "description": "[R4-S1]"
     }
   ],
-  "bio": "FamilySearch: daughter of Richard Payne and Maria Colton; first married William B. Cucey Jr. in Washington, D.C., on 21 Nov 1911, then Leo G. Heffernan at Chicago on 24 Dec 1915; later Mrs. McLaughlin; died 14 Nov 1972, buried Mount Olivet, Washington ([R4-S1]).",
+  "bio": "Mathilde C. Payne was born on 8 August 1891, the daughter of Richard Payne and Maria Colton. She first married William B. Cucey Jr. in Washington, D.C., on 21 November 1911, and then Leo G. Heffernan at Chicago on 24 December 1915. Later in life she was known as Mrs. McLaughlin. She died on 14 November 1972 and was buried at Mount Olivet Cemetery in Washington, D.C.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Mathilde Payne (1891-1972), PID GKWS-2TR; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GKWS-2TR"
-  ]
+  ],
+  "researchNotes": "FamilySearch: daughter of Richard Payne and Maria Colton; first married William B. Cucey Jr. in Washington, D.C., on 21 Nov 1911, then Leo G. Heffernan at Chicago on 24 Dec 1915; later Mrs. McLaughlin; died 14 Nov 1972, buried Mount Olivet, Washington ([R4-S1]).",
+  "summary": "Daughter of Richard Payne and Maria Colton who married Leo G. Heffernan in Chicago in 1915 and was buried at Mount Olivet Cemetery, Washington, D.C."
 }

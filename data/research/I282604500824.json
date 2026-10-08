@@ -13,8 +13,8 @@
     "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
   },
   "tags": [],
-  "summary": "John's 3rd great-grandmother; Irish-born, buried St. Vincent de Paul, Larksville.",
-  "bio": "Alice Comerford (c.1835 Ireland – 18 Feb 1876) was buried at St. Vincent de Paul Cemetery, Larksville. Comerford is a characteristic surname of north Kilkenny and the Slieveardagh border — the Heffernans' district (speculative surname geography only). A John Comerford household from Ireland lived next to the Pringles in the 1880 Plymouth census.\n\n1870 census: Alice Murphy, 35, keeping house, born Ireland, mother of seven children at home including one-month-old twins Martin and Thomas ([R4-S1]). She died in 1876 (FS) when the twins were about six.",
+  "summary": "Irish-born wife of the Plymouth miner Martin Murphy and mother of seven, buried at St. Vincent de Paul Cemetery, Larksville; John's 3rd-great-grandmother.",
+  "bio": "Alice Comerford was born in Ireland about 1835 and married Martin Murphy, a miner of Plymouth, Luzerne County, Pennsylvania. In 1870 she was keeping house in Plymouth Township with seven children at home, among them the one-month-old twins Martin and Thomas. She died in Plymouth Township on 18 February 1876, when the twins were about six, and was buried at St. Vincent de Paul Cemetery in Larksville.\n\nComerford is a surname characteristic of north Kilkenny and the Slieveardagh border, the same district as the Heffernans, though this is only a hint from surname geography. A John Comerford household from Ireland lived next to the Pringles in Plymouth in 1880. She is probably John's 3rd-great-grandmother.",
   "facts": [
     {
       "label": "Burial",
@@ -47,6 +47,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604500824.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Alice Comerford (c.1835 Ireland – 18 Feb 1876) was buried at St. Vincent de Paul Cemetery, Larksville. Comerford is a characteristic surname of north Kilkenny and the Slieveardagh border — the Heffernans' district (speculative surname geography only). A John Comerford household from Ireland lived next to the Pringles in the 1880 Plymouth census.\n\n1870 census: Alice Murphy, 35, keeping house, born Ireland, mother of seven children at home including one-month-old twins Martin and Thomas ([R4-S1]). She died in 1876 (FS) when the twins were about six."
 }

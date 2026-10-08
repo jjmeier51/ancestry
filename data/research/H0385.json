@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0385.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -46,10 +50,12 @@
       "description": "In Feb 1918 she was living at Hazleton, in domestic service, and her husband Fred was dead. Her birthplace is given as Hazleton, Pa. [R4-S2]"
     }
   ],
-  "bio": "Annie Wenner married Frederick Meier at Hazleton on 12 May 1886, giving her birth as 15 August (year partly legible) ([R4-S1]). FamilySearch has Aug 1861. Her daughter Agnes's 1918 marriage docket names her as 'Anna, maiden name Wenner', of Hazleton, in domestic service and born at Hazleton, with Agnes's father Fred already dead ([R4-S2]). FamilySearch gives her death as 1940 ([R4-S3]).",
+  "bio": "Anna Wenner, known as Annie, was born in August 1861 at Hazleton, Luzerne County, Pennsylvania; at her marriage she gave her birthday as 15 August. She married Frederick Meier at Hazleton on 12 May 1886. By 1918, when their daughter Agnes married, Fred was dead and Anna was living at Hazleton and working in domestic service. Family records give her death as 1940.",
   "sources": [
     "[R4-S1] Luzerne County Orphans' Court Marriage License Docket No. 714: Fred Meir × Annie Wenner, 1886 (FamilySearch index 1:1:Q281-QXBP) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/1/image.jpg",
     "[R4-S2] Luzerne County Marriage License Docket No. 81595: Patrick Sweeney × Agnes Meier, 1918 (FamilySearch index 1:1:KHFL-5LG) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/2/image.jpg",
     "[R4-S3] FamilySearch Family Tree, Anna Wenner (G7G7-K4Q), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G7G7-K4Q"
-  ]
+  ],
+  "researchNotes": "Annie Wenner married Frederick Meier at Hazleton on 12 May 1886, giving her birth as 15 August (year partly legible) ([R4-S1]). FamilySearch has Aug 1861. Her daughter Agnes's 1918 marriage docket names her as 'Anna, maiden name Wenner', of Hazleton, in domestic service and born at Hazleton, with Agnes's father Fred already dead ([R4-S2]). FamilySearch gives her death as 1940 ([R4-S3]).",
+  "summary": "Annie Wenner of Hazleton, Pennsylvania, who married Frederick Meier in 1886 and was widowed by 1918."
 }

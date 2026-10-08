@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd cousin 9x removed (Bull → Daniel → Daniel 2d → Caleb); co-heir of Hauppauge.",
-  "bio": "Wood credits the 'Caleb place' to Caleb I.\n\nPelletreau ([R4-S1]) describes him as 'a sturdy patriot' who refused the oath of allegiance to the King during the British occupation, though many kinsmen signed it.",
+  "summary": "Co-heir of Hauppauge and a 'sturdy patriot' who refused the oath to the King during the British occupation of Long Island; John's 2nd cousin 9 times removed.",
+  "bio": "Caleb Smith I was born on 25 June 1724, a great-grandson of Bull Smith through Daniel Smith and Daniel 2d, and one of the co-heirs of Hauppauge. He married on 3 March 1755. The farm known as the 'Caleb place' at Hauppauge is credited to him.\n\nDuring the British occupation of Long Island in the Revolution he was remembered as 'a sturdy patriot' who refused to take the oath of allegiance to the King, although many of his kinsmen signed it. He died on 23 October 1800.",
   "sources": [
     "Wood (1920) pp. 25–26",
     "Pelletreau (1898)",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0273.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -45,5 +49,6 @@
       "place": "",
       "description": "Married Martha, daughter of William Henry Smith of the 'Tangier' family; children Paul Theodore, Caleb 2d, Martha. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Wood credits the 'Caleb place' to Caleb I.\n\nPelletreau ([R4-S1]) describes him as 'a sturdy patriot' who refused the oath of allegiance to the King during the British occupation, though many kinsmen signed it."
 }

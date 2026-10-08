@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 3rd-great-grand-aunt.",
-  "bio": "Ellen Jane Pringle (1862-1938) married Francis Randell (Bradsby's 'Ellen'). FamilySearch also has an Ellen b. 1858 (infant death and name re-use, or duplicate).\n\nFamilySearch gives Ellen Jane a birth date of 20 Aug 1862 and a marriage at Plymouth on 14 Dec 1876 to Francis J. Randall (1846-1890). She appears as a widow in Plymouth in the censuses of 1900 to 1930, with her daughter Gertrude West in 1930. She died at Wilkes-Barre on 12 Mar 1938 and was buried at Trucksville ([R4-S1]). A 1876 marriage would make her 14, so either the marriage date or the 1862 birth is wrong. The separate FamilySearch Ellen born in 1858 (1860 and 1870 censuses) may be the same woman, which would make her 18 at marriage. The 1900 census entry 'Ella Randal, b. Aug 1860, widow' falls between the two ([R4-S1], [R4-S2]).",
+  "summary": "Wife of Francis J. Randall of Plymouth, widowed for nearly fifty years; John's 3rd-great-grand-aunt.",
+  "bio": "Ellen Jane Pringle was born at Larksville, probably on 20 August 1862, though some records point to a birth about 1858 or 1860. She married Francis J. Randall (1846–1890) at Plymouth on 14 December 1876; if the 1862 birth date is right she would have been only 14, so either that date or the marriage date is wrong. Widowed in 1890, she stayed on at Plymouth for the next four decades, and in 1930 was living with her daughter Gertrude West. She died at Wilkes-Barre on 12 March 1938 and was buried at Trucksville, Luzerne Co.",
   "sources": [
     "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
     "FamilySearch (probable)",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0161.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -65,5 +69,6 @@
       "found": "1858 (FS duplicate, 1860 census); Aug 1860 (1900 census); 20 Aug 1862 (FS)",
       "assessment": "Probably one woman born c.1858-60; the 1876 marriage makes 1862 unlikely."
     }
-  ]
+  ],
+  "researchNotes": "Ellen Jane Pringle (1862-1938) married Francis Randell (Bradsby's 'Ellen'). FamilySearch also has an Ellen b. 1858 (infant death and name re-use, or duplicate).\n\nFamilySearch gives Ellen Jane a birth date of 20 Aug 1862 and a marriage at Plymouth on 14 Dec 1876 to Francis J. Randall (1846-1890). She appears as a widow in Plymouth in the censuses of 1900 to 1930, with her daughter Gertrude West in 1930. She died at Wilkes-Barre on 12 Mar 1938 and was buried at Trucksville ([R4-S1]). A 1876 marriage would make her 14, so either the marriage date or the 1862 birth is wrong. The separate FamilySearch Ellen born in 1858 (1860 and 1870 censuses) may be the same woman, which would make her 18 at marriage. The 1900 census entry 'Ella Randal, b. Aug 1860, widow' falls between the two ([R4-S1], [R4-S2])."
 }

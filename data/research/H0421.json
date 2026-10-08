@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0421.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -26,8 +30,10 @@
   "aka": [
     "Lilian T. Mac Donald"
   ],
-  "bio": "FamilySearch names her parents as John J. MacDonald and Sarah Emery MacDonald; 1920 and 1930 census entries with Dr. Andrew J. Heffernan ([R4-S1]).",
+  "bio": "Lillian T. MacDonald was born in 1887 in Pennsylvania, the daughter of John J. MacDonald and Sarah Emery MacDonald. In 1920 and again in 1930 she was recorded in the household of Dr. Andrew J. Heffernan.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Lillian McDonald (b. 1887), PID LB2N-J9H; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LB2N-J9H"
-  ]
+  ],
+  "researchNotes": "FamilySearch names her parents as John J. MacDonald and Sarah Emery MacDonald; 1920 and 1930 census entries with Dr. Andrew J. Heffernan ([R4-S1]).",
+  "summary": "Lillian T. MacDonald, born 1887 in Pennsylvania, daughter of John J. and Sarah Emery MacDonald, recorded with Dr. Andrew J. Heffernan in 1920 and 1930."
 }

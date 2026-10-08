@@ -17,14 +17,20 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0417.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
     "date": "1597",
     "place": "Oberbrombach"
   },
-  "bio": "FamilySearch has Hans Grub's wife Elsa dying at Oberbrombach in 1597, unsourced ([R4-S1]). The same tree makes Christmann's wife an 'Elssa' born on 11 Apr 1597, which suggests the two Elsas have been confused.",
+  "bio": "Elsa was the wife of Hans Grub. Family records say she died at Oberbrombach in 1597, though the evidence is thin, and she may have been confused with another Elsa of the family, the wife of Christmann, who was born in that same year. She is John's 11th-great-grandmother.",
   "sources": [
     "[R4-S1] FamilySearch published tree, Elsa (GCNN-VTB) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GCNN-VTB"
-  ]
+  ],
+  "researchNotes": "FamilySearch has Hans Grub's wife Elsa dying at Oberbrombach in 1597, unsourced ([R4-S1]). The same tree makes Christmann's wife an 'Elssa' born on 11 Apr 1597, which suggests the two Elsas have been confused.",
+  "summary": "Wife of Hans Grub, said to have died at Oberbrombach in 1597; John's 11th-great-grandmother."
 }

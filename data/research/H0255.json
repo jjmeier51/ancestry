@@ -9,8 +9,8 @@
     "Thomas Sayre of Southampton"
   ],
   "tags": [],
-  "summary": "Removed; ancestor of Stephen Sayre (not kin).",
-  "bio": "Stephen Sayre (1736–1818) descends from him through Francis, John and John (Banks 1901).",
+  "summary": "Thomas Sayre of Southampton, forebear of Stephen Sayre; not a relative of John's.",
+  "bio": "Thomas Sayre of Southampton was the ancestor of Stephen Sayre (1736–1818), who descended from him through Francis Sayre, John Sayre and a second John. He is not related to John's family.",
   "sources": [
     "Banks (1901)",
     "notes/colonial_virginia.md §2a, §3d"
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0255.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Stephen Sayre (1736–1818) descends from him through Francis, John and John (Banks 1901)."
 }

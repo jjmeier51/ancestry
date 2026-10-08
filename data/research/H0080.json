@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 8th-great-grandfather (if the Doll link holds); of Ulmet, Kusel district.",
-  "bio": "Christoffel Doll (1671-1739) and Anna Sara Schuch of Ulmet were the parents of Johann Casper Doll. A 'Stoffel Doll, 40' on the 1739 Samuel is a different (younger) man. Earlier Dolls of Erzweiler, in Ulmet parish - Abraham Doll (d. 4 Nov 1651, Erzweiler), Peter Doll (c.1611-1688, Erzweiler) and Elisabetha Margaretha Doll (bapt. Ulmet 1652) - are in GEDBAS file 20942 but their link to Christoffel is not shown (speculative). A Maria Engel Doll, b. 15 Sep 1717 at Ulmet, d. 1785, married Jacob Sorber in 1739 (possibly Casper's sister; speculative).\n\nRound 4 read his marriage in the Ulmet Lutheran register ([R4-S1]). On 2 Mar 1704 Johann Christoffel Doll, son of Hans Peter Doll of Erzweiler, married Sara, daughter of Joh. Peter Schuch. The bride's village, read as Ratsweiler, is partly obscured. This proves his father's name and the family's village, Erzweiler, which is also the village of the earlier Dolls in the GEDBAS file. FamilySearch gives his baptism as 9 Jul 1671 at Ulmet (born 6 Jul) and his parents as Johannes Peter Doll (1647-1717) and Gertraud Fick ([R4-S2]). It lists twelve children from 1705 to 1729, including Maria Engel (1717-1784), who married Jacob Sorber, and Johann Caspar (1722). It also says he died in 1739 'on Ship Samuel, crossing the Atlantic', which would explain why only his younger relatives qualified at Philadelphia. That death is unsourced. The existing bio's 'Stoffel Doll, 40' on the Samuel list would then be a son or nephew.",
+  "summary": "Of Erzweiler in Ulmet parish, husband of Sara Schuch and father of Johann Casper Doll; John's 8th-great-grandfather if the Doll link holds.",
+  "bio": "Christoffel Doll was born on 6 July 1671 at Erzweiler, in the parish of Ulmet in the Kusel district, and was baptized at Ulmet three days later, the son of Hans Peter Doll of Erzweiler (1647–1717) and Gertraud Fick. On 2 March 1704, in the Lutheran church at Ulmet, he married Sara, daughter of Johann Peter Schuch, whose home village is read, with some uncertainty, as Ratsweiler. They had twelve children between 1705 and 1729, among them Maria Engel (1717–1784), who married Jacob Sorber in 1739, and Johann Casper, born in 1722, who is John's ancestor.\n\nEarlier Dolls of Erzweiler, Abraham Doll, who died there in 1651, Peter Doll (about 1611–1688) and Elisabetha Margaretha Doll, baptized at Ulmet in 1652, may have been of the same family, though their link to Christoffel has not been shown. Family records say that Christoffel died in 1739 on the ship Samuel while crossing the Atlantic, which would explain why only his younger relatives qualified at Philadelphia; the 'Stoffel Doll, aged 40' on that ship's list was a younger man, perhaps a son or nephew. The death at sea is not documented. He is John's 8th-great-grandfather if the Doll link holds.",
   "residences": [
     {
       "date": "1722",
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0080.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -88,5 +92,6 @@
   ],
   "openQuestions": [
     "Is there any record that he died on the Samuel in 1739 (e.g. a note in the Strassburger lists or a Ulmet emigration list)?"
-  ]
+  ],
+  "researchNotes": "Christoffel Doll (1671-1739) and Anna Sara Schuch of Ulmet were the parents of Johann Casper Doll. A 'Stoffel Doll, 40' on the 1739 Samuel is a different (younger) man. Earlier Dolls of Erzweiler, in Ulmet parish - Abraham Doll (d. 4 Nov 1651, Erzweiler), Peter Doll (c.1611-1688, Erzweiler) and Elisabetha Margaretha Doll (bapt. Ulmet 1652) - are in GEDBAS file 20942 but their link to Christoffel is not shown (speculative). A Maria Engel Doll, b. 15 Sep 1717 at Ulmet, d. 1785, married Jacob Sorber in 1739 (possibly Casper's sister; speculative).\n\nRound 4 read his marriage in the Ulmet Lutheran register ([R4-S1]). On 2 Mar 1704 Johann Christoffel Doll, son of Hans Peter Doll of Erzweiler, married Sara, daughter of Joh. Peter Schuch. The bride's village, read as Ratsweiler, is partly obscured. This proves his father's name and the family's village, Erzweiler, which is also the village of the earlier Dolls in the GEDBAS file. FamilySearch gives his baptism as 9 Jul 1671 at Ulmet (born 6 Jul) and his parents as Johannes Peter Doll (1647-1717) and Gertraud Fick ([R4-S2]). It lists twelve children from 1705 to 1729, including Maria Engel (1717-1784), who married Jacob Sorber, and Johann Caspar (1722). It also says he died in 1739 'on Ship Samuel, crossing the Atlantic', which would explain why only his younger relatives qualified at Philadelphia. That death is unsourced. The existing bio's 'Stoffel Doll, 40' on the Samuel list would then be a son or nephew."
 }

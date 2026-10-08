@@ -13,8 +13,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's great-granduncle; WWII-era military service (1945, probable).",
-  "bio": "b. 25 Aug 1913; married Genevieve Schwab in 1937; military service 1945 (FS tree, probable); d. 12 Aug 2000; buried at St. Mary of Mt Carmel, Dunmore.\n\nIn April 1940 Nicholas, his wife Genevieve and their baby daughter Grace rented a unit in the family house at 1028 Bunker Hill Street ([R4-S1]). As 'Nick Petrillo' he was a surviving brother of Josephine Castellano in November 1995 ([R4-S2]).",
+  "summary": "Known as Primo; married Genevieve Schwab in 1937 and lived in the Petriello family house on Bunker Hill Street in Scranton; John's great-granduncle.",
+  "bio": "Nicholas Michael Petriello, known in the family as Primo, was born on 25 August 1913. He married Genevieve Schwab in 1937, and in April 1940 the couple and their baby daughter Grace were renting a unit in the family house at 1028 Bunker Hill Street in Scranton. Family records say he was in military service in 1945, which is probable but not confirmed.\n\nWhen his sister Josephine Castellano died in November 1995 he was named among her surviving brothers as Nick Petrillo. He died on 12 August 2000 and was buried at St. Mary of Mount Carmel in Dunmore. He was John's great-granduncle.",
   "military": [
     {
       "service": "1945",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0358.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -51,5 +55,6 @@
       "place": "1028 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
       "note": "'Nicholas Petranello', head, 29, laborer; wife Genevieve 26 (in Taylor in 1935); daughter Grace, under 1 year old. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "b. 25 Aug 1913; married Genevieve Schwab in 1937; military service 1945 (FS tree, probable); d. 12 Aug 2000; buried at St. Mary of Mt Carmel, Dunmore.\n\nIn April 1940 Nicholas, his wife Genevieve and their baby daughter Grace rented a unit in the family house at 1028 Bunker Hill Street ([R4-S1]). As 'Nick Petrillo' he was a surviving brother of Josephine Castellano in November 1995 ([R4-S2])."
 }

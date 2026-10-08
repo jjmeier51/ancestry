@@ -13,8 +13,8 @@
     "Giovanni Di Biase"
   ],
   "tags": [],
-  "summary": "John's maternal 3rd great-grandfather; father of Maria Antonia DiBiasi.",
-  "bio": "Tree: Giovanni P. Dibiasi (b. 1829) + Rosa Siconolfi (b. 1840); his parents Domenico Di Biase (b. 1789) + Angela Carrozzino. FS tree G4YR-BXY: Giovanni Pasquale DiBiasi (b. c.1829) and Rosa Siconolfi (b. 1839) 'born Lucera, Foggia', with zero sources. Their children Domenico Antonio (1856) and Maria Antonia (1870) were born in Guardia. The same FS profiles list children born in 1891 and 1894, when Rosa would have been 52-55 - mis-attachments. Round 1 concluded the Lucera thumbnail (on Domenico Di Biase in the Ancestry tree) is probably someone else's record: Guardia's records are at AS Avellino, while Lucera holds a branch archive for Foggia-province records and Di Biase is a common Capitanata surname. Round 2: remove Lucera. Round 3: still speculative/unsourced.\n\nThe FamilySearch tree attaches four children to Giovanni Pasquale and Rosa Siconolfi: Domenico Antonio (1856), Maria Antonia (1870), Joseph (b. 18 Apr 1891) and Vincenzo 'James' (b. 2 Mar 1894). It cites no sources for him ([R4-S1]). The two youngest cannot be theirs, because Rosa would have been 52–55. The April 1940 census shows Joseph DiBiasi (47, born Italy) and James DiBiasi (45, born Italy) as neighbours at 1015 Bunker Hill Street ([R4-S2]). Three doors from the Petriello house, at 1022, lived a widowed Vincenzo DiBiasi, aged 74 (born c.1866), with his son Michael ([R4-S3]). That Vincenzo is a more plausible father for Joseph and James, and possibly a younger son of Giovanni Pasquale himself, which would make him Maria Antonia's brother.",
+  "summary": "Man of Guardia Lombardi, husband of Rosa Siconolfi and father of Maria Antonia DiBiasi; John's 3rd-great-grandfather.",
+  "bio": "Giovanni Pasquale Dibiasi, whose surname is also written Di Biase, was born about 1829 at Guardia Lombardi, Avellino, Campania, Italy, a son of Domenico Di Biase (born 1789) and Angela Carrozzino. He married Rosa Siconolfi, born about 1839 or 1840, and their children Domenico Antonio (born 1856) and Maria Antonia (born 1870), John's 2nd-great-grandmother, were born at Guardia. A claim that the couple were born at Lucera in Foggia province is probably a confusion with another family of the same common surname.\n\nTwo younger children sometimes attributed to them, Joseph (born 1891) and Vincenzo, known as James (born 1894), cannot be theirs, since Rosa would then have been in her fifties. In 1940 Joseph and James DiBiasi were living as neighbours on Bunker Hill Street, a few doors from the Petriello house, and close by lived a widowed Vincenzo DiBiasi, aged about 74, with his son Michael. That Vincenzo is a more plausible father for the two, and may himself have been a younger son of Giovanni Pasquale and a brother of Maria Antonia.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -56,6 +56,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814875.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -65,5 +69,6 @@
       "found": "FamilySearch tree adds Joseph (1891-1958) and Vincenzo/James (1894-1965)",
       "assessment": "Reject the FS additions: Rosa Siconolfi (b. c.1839) could not bear children in 1891/1894. Joseph married Grace Petrillo, Giovanni's own granddaughter."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Giovanni P. Dibiasi (b. 1829) + Rosa Siconolfi (b. 1840); his parents Domenico Di Biase (b. 1789) + Angela Carrozzino. FS tree G4YR-BXY: Giovanni Pasquale DiBiasi (b. c.1829) and Rosa Siconolfi (b. 1839) 'born Lucera, Foggia', with zero sources. Their children Domenico Antonio (1856) and Maria Antonia (1870) were born in Guardia. The same FS profiles list children born in 1891 and 1894, when Rosa would have been 52-55 - mis-attachments. Round 1 concluded the Lucera thumbnail (on Domenico Di Biase in the Ancestry tree) is probably someone else's record: Guardia's records are at AS Avellino, while Lucera holds a branch archive for Foggia-province records and Di Biase is a common Capitanata surname. Round 2: remove Lucera. Round 3: still speculative/unsourced.\n\nThe FamilySearch tree attaches four children to Giovanni Pasquale and Rosa Siconolfi: Domenico Antonio (1856), Maria Antonia (1870), Joseph (b. 18 Apr 1891) and Vincenzo 'James' (b. 2 Mar 1894). It cites no sources for him ([R4-S1]). The two youngest cannot be theirs, because Rosa would have been 52–55. The April 1940 census shows Joseph DiBiasi (47, born Italy) and James DiBiasi (45, born Italy) as neighbours at 1015 Bunker Hill Street ([R4-S2]). Three doors from the Petriello house, at 1022, lived a widowed Vincenzo DiBiasi, aged 74 (born c.1866), with his son Michael ([R4-S3]). That Vincenzo is a more plausible father for Joseph and James, and possibly a younger son of Giovanni Pasquale himself, which would make him Maria Antonia's brother."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "U.S. Congressman, NY legislator, president of the Seventh Ward Bank; John's 5th cousin 6x removed.",
-  "bio": "Path: Elizabeth → Joseph → Richard → John → Effingham (b. 1760, a founder of the Tontine Coffee House) → John W. Same family: Watson E. Lawrence, founder of Lawrenceville, Ulster Co., maker of Rosendale hydraulic cement (5C6R).\n\nSon of Effingham Lawrence (b. 6 Jun 1760, a founder of the Tontine Coffee House, d. 13 Dec 1800), son of John, son of Richard, son of Joseph, son of William & Elizabeth Smith ([R4-S1]): 5th cousin 6 times removed. Married Mary K., daughter of Mayor Walter Bowne.",
+  "summary": "U.S. Congressman, New York legislator and president of the Seventh Ward Bank; John's 5th cousin 6 times removed.",
+  "bio": "John W. Lawrence was born on 19 August 1800, the son of Effingham Lawrence (1760–1800), one of the founders of the Tontine Coffee House in New York, who died a few months after the boy's birth. Through Effingham's father John, grandfather Richard and great-grandfather Joseph, he descended from William Lawrence and Elizabeth Smith, which makes him John's 5th cousin six times removed.\n\nHe served in the United States Congress and in the New York legislature and was president of the Seventh Ward Bank. He married Mary K. Bowne, a daughter of Mayor Walter Bowne. He died on 20 December 1888. Another member of the same family, Watson E. Lawrence, founded Lawrenceville in Ulster County and made Rosendale hydraulic cement.",
   "sources": [
     "Lawrence (1858)",
     "[R4-S1] Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 46-47 (secondary) https://archive.org/details/historicalgeneal00lawr",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0310.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -48,5 +52,6 @@
       "note": "Public domain (published 1882). (not downloaded: rights public_domain)",
       "people": []
     }
-  ]
+  ],
+  "researchNotes": "Path: Elizabeth → Joseph → Richard → John → Effingham (b. 1760, a founder of the Tontine Coffee House) → John W. Same family: Watson E. Lawrence, founder of Lawrenceville, Ulster Co., maker of Rosendale hydraulic cement (5C6R).\n\nSon of Effingham Lawrence (b. 6 Jun 1760, a founder of the Tontine Coffee House, d. 13 Dec 1800), son of John, son of Richard, son of Joseph, son of William & Elizabeth Smith ([R4-S1]): 5th cousin 6 times removed. Married Mary K., daughter of Mayor Walter Bowne."
 }

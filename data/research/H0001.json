@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Possible 3rd great-grandfather of John (father of Anna Higgins), per an unsourced FamilySearch tree.",
-  "bio": "The FamilySearch tree names William Higgins and Mary Ann Reilly as Anna Agnes Higgins's parents, without sources. Anna's 1910 census entry gives her father's birthplace as Ireland and her mother's as Pennsylvania. Searches for a William Higgins of New Philadelphia found nothing.",
+  "summary": "Irish-born father of Anna Agnes Higgins according to family records; possibly John's 3rd-great-grandfather.",
+  "bio": "William Higgins is named in family records, without documentation, as the father of Anna Agnes Higgins, with Mary Ann Reilly as her mother; if that is right he was John's 3rd-great-grandfather. He was born in Ireland, which agrees with the 1910 census entry for Anna, who gave her father's birthplace as Ireland and her mother's as Pennsylvania.",
   "sources": [
     "FamilySearch tree LBV1-4CM (parents unsourced)",
     "1910 census (Anna's father born Ireland)",
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0001.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "The FamilySearch tree names William Higgins and Mary Ann Reilly as Anna Agnes Higgins's parents, without sources. Anna's 1910 census entry gives her father's birthplace as Ireland and her mother's as Pennsylvania. Searches for a William Higgins of New Philadelphia found nothing."
 }

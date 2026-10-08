@@ -16,7 +16,7 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 3rd great-aunt.",
+  "summary": "Sister of Henry J. Meier and John's 3rd great-aunt, born at Hazleton in 1868, who married the Irish-born miner Thomas A. Boyle in 1896.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "notes/round3/meier_line.md",
@@ -52,6 +52,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085064.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -73,7 +77,7 @@
       "value": "G7GQ-D75"
     }
   ],
-  "bio": "Theresa's own marriage application gives her birth as 10 September 1868 at Hazleton, not 1872 ([R4-S1]). She married the Irish-born miner Thomas A. Boyle of Hazle Township at Hazleton on 28 Oct 1896. The priest was Rev. E. W. Fitzmaurice, who had also married her brother Fred in 1886 ([R4-S1]). The 1868 date solves a puzzle in the tree. The 1870 census lists an infant 'Clarissa', born in Pennsylvania in September, and the 1880 census lists 'Fressa', 11. Both fit a girl born in Sept 1868 and are very likely Theresa herself, so the separate tree entry H0017 'Clarissa Meier' looks like a duplicate of her. It also removes the clash between two 1872 birth dates in the family (Elizabeth's 18 Feb 1872 stands). And it means the family had reached Pennsylvania by Sept 1868. The FamilySearch tree has her death on 11 Jan 1933 in Hanover Township and one daughter, Catherine Boyle (1897–1960) ([R4-S2]). The 1933 state death index volume read here (M–N) does not cover Boyle, so the death is not yet checked in a record.",
+  "bio": "Theresa Meier was born at Hazleton, Luzerne County, Pennsylvania, on 10 September 1868, which shows that the family had reached Pennsylvania by that autumn. Earlier family records gave her birth as 1872, but her own marriage papers give 1868, and the infant 'Clarissa' of the 1870 census and the eleven-year-old 'Fressa' of 1880 are very likely Theresa herself. She was John's 3rd great-aunt.\n\nOn 28 October 1896 she married Thomas A. Boyle, an Irish-born miner of Hazle Township, at Hazleton. The priest, Rev. E. W. Fitzmaurice, had also married her brother Fred ten years earlier. Family records give the couple a daughter, Catherine Boyle (1897–1960). Theresa died in 1933, probably on 11 January, in Hanover Township, where she was buried.",
   "conflicts": [
     {
       "field": "birth",
@@ -99,5 +103,6 @@
       ],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-D75/images/i/1/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Theresa's own marriage application gives her birth as 10 September 1868 at Hazleton, not 1872 ([R4-S1]). She married the Irish-born miner Thomas A. Boyle of Hazle Township at Hazleton on 28 Oct 1896. The priest was Rev. E. W. Fitzmaurice, who had also married her brother Fred in 1886 ([R4-S1]). The 1868 date solves a puzzle in the tree. The 1870 census lists an infant 'Clarissa', born in Pennsylvania in September, and the 1880 census lists 'Fressa', 11. Both fit a girl born in Sept 1868 and are very likely Theresa herself, so the separate tree entry H0017 'Clarissa Meier' looks like a duplicate of her. It also removes the clash between two 1872 birth dates in the family (Elizabeth's 18 Feb 1872 stands). And it means the family had reached Pennsylvania by Sept 1868. The FamilySearch tree has her death on 11 Jan 1933 in Hanover Township and one daughter, Catherine Boyle (1897–1960) ([R4-S2]). The 1933 state death index volume read here (M–N) does not cover Boyle, so the death is not yet checked in a record."
 }

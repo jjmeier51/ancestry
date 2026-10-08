@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd-great-grand-uncle; associate editor of the Sunday Independent.",
-  "bio": "John Vincent Heffernan (9 Jul 1886 - 1 Mar 1958), associate editor of the Sunday Independent; married Edith Corrine Graham in New York City in 1914; died at Alexandria, Virginia.\n\nFamilySearch gives the marriage as 4 May 1914 in Manhattan and his wife as Edith Corrine Grammes (1896-1938), daughter of Cyrus Randolph Gramm(es) and Martha L. Robinson; she died at Wilkes-Barre on 6 Nov 1938 and is buried at Fairview Cemetery, Danville. Their daughter was Mary Louise Heffernan (1921-2011) ([R4-S1], [R4-S2]).",
+  "summary": "Newspaper editor of the Sunday Independent who died at Alexandria, Virginia, in 1958; John's 2nd-great-grand-uncle.",
+  "bio": "John Vincent Heffernan was born on 9 July 1886 and became a newspaperman, serving as associate editor of the Sunday Independent. On 4 May 1914 he married Edith Corrine Grammes, whose surname is also given as Graham, in Manhattan, New York City. Edith (1896–1938) was a daughter of Cyrus Randolph Grammes and Martha L. Robinson; she died at Wilkes-Barre on 6 November 1938 and was buried at Fairview Cemetery, Danville. Their daughter was Mary Louise Heffernan (1921–2011).\n\nHe was living at Kingston, Pa., in 1930 and was still there when he registered for the Second World War draft in 1942. He died at Alexandria, Virginia, on 1 March 1958. He is John's 2nd-great-grand-uncle.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0118.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -73,5 +77,6 @@
       "found": "Fairfax, Virginia (FS)",
       "assessment": "Neighbouring jurisdictions; unresolved."
     }
-  ]
+  ],
+  "researchNotes": "John Vincent Heffernan (9 Jul 1886 - 1 Mar 1958), associate editor of the Sunday Independent; married Edith Corrine Graham in New York City in 1914; died at Alexandria, Virginia.\n\nFamilySearch gives the marriage as 4 May 1914 in Manhattan and his wife as Edith Corrine Grammes (1896-1938), daughter of Cyrus Randolph Gramm(es) and Martha L. Robinson; she died at Wilkes-Barre on 6 Nov 1938 and is buried at Fairview Cemetery, Danville. Their daughter was Mary Louise Heffernan (1921-2011) ([R4-S1], [R4-S2])."
 }

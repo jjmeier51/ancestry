@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0412.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -47,12 +51,14 @@
       "value": "LZRB-7YT"
     }
   ],
-  "bio": "FamilySearch makes Christopher Bittenbender (1721-1805) of Williams Twp and Easton the second husband of Maria Elisabetha (Christmann) Grub. He emigrated in 1744 and first married at New Hanover in 1749. His first wife died on 7 May 1792, and he married the widow Grub, who had lost Andreas in Aug 1792, in about 1795 ([R4-S1]). He and the Grubs belonged to the same congregation: 'Christoph Buttenbender' and 'Andreas Grub, w. Maria Elisabeth' both appear in its communicant list ([R4-S2]). He died at Easton on 19 Jul 1805. His will of 3 Mar 1803 is in Northampton Will Book 4 p.219 and would show whether he provided for Maria Elisabetha ([R4-S1]).",
+  "bio": "Christopher Bittenbender was born in the Palatinate in 1721 and emigrated in 1744. He first married at New Hanover in 1749. He settled in Williams Township and Easton, Northampton County, and belonged to the same congregation as the Grub family: 'Christoph Buttenbender' and 'Andreas Grub, w. Maria Elisabeth' both appear in its list of communicants in the 1770s. His first wife died on 7 May 1792, and in about 1795 he married Maria Elisabetha (Christmann) Grub, the widow of Andreas Grub, who had died in August 1792. He made his will on 3 March 1803 and died at Easton on 19 July 1805.",
   "openQuestions": [
     "Northampton Will Book 4 p.219 (1803/1805): does it name his wife Elizabeth (widow Grub)?"
   ],
   "sources": [
     "[R4-S1] FamilySearch published tree, Christopher Bittenbender (LZRB-7YT), citing Find a Grave index and 'Northampton Co PA, Will Book 4, p219' (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LZRB-7YT",
     "[R4-S2] Church Records of the Williams Township Congregation, Northampton Co. (Pennsylvania-German Society, 1909), communicant list (derivative) https://archive.org/stream/churchrecordsofw00will/churchrecordsofw00will_djvu.txt"
-  ]
+  ],
+  "researchNotes": "FamilySearch makes Christopher Bittenbender (1721-1805) of Williams Twp and Easton the second husband of Maria Elisabetha (Christmann) Grub. He emigrated in 1744 and first married at New Hanover in 1749. His first wife died on 7 May 1792, and he married the widow Grub, who had lost Andreas in Aug 1792, in about 1795 ([R4-S1]). He and the Grubs belonged to the same congregation: 'Christoph Buttenbender' and 'Andreas Grub, w. Maria Elisabeth' both appear in its communicant list ([R4-S2]). He died at Easton on 19 Jul 1805. His will of 3 Mar 1803 is in Northampton Will Book 4 p.219 and would show whether he provided for Maria Elisabetha ([R4-S1]).",
+  "summary": "Palatine emigrant of 1744, of Williams Township and Easton, Pennsylvania, and second husband of Maria Elisabetha (Christmann) Grub."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Ibental schoolteacher; round-2 candidate A for Agatha's father — ruled out.",
-  "bio": "Born and died on the Jägerhof; shoemaker and from 1786 the Ibental schoolteacher under Austrian rule (village teaching was part-time and poorly paid). Married (2) Maria Pfister 1803. His line leads to Josef (1799–1861, Jägerhof), Felix (b. 1849) and Josef Heitzler 'vom Jägerhof', mayor of Unteribental 1919–24.",
+  "summary": "Shoemaker and Ibental schoolteacher of the Jägerhof, 1765–1828; not the father of John's ancestor Agatha Heizler, despite the shared surname.",
+  "bio": "Joseph Heitzler was born in 1765 on the Jägerhof at Unteribental, Buchenbach, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany, and died there in 1828. A shoemaker by trade, he became the Ibental schoolteacher in 1786, when the district was under Austrian rule; village teaching was then a part-time and poorly paid post. In 1803 he married his second wife, Maria Pfister.\n\nHis descendants stayed on the Jägerhof: the line ran through Josef (1799–1861) and Felix (born 1849) to Josef Heitzler \"vom Jägerhof\", mayor of Unteribental from 1919 to 1924. Despite the shared surname, he was not the father of John's ancestor Agatha Heizler.",
   "sources": [
     "GEDBAS 1420120011 https://gedbas.genealogy.net/person/show/1420120011",
     "notes/round2/black_forest.md; notes/round3/german_origins.md; deep-dive report"
@@ -34,6 +34,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0043.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Born and died on the Jägerhof; shoemaker and from 1786 the Ibental schoolteacher under Austrian rule (village teaching was part-time and poorly paid). Married (2) Maria Pfister 1803. His line leads to Josef (1799–1861, Jägerhof), Felix (b. 1849) and Josef Heitzler 'vom Jägerhof', mayor of Unteribental 1919–24."
 }

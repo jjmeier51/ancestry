@@ -18,8 +18,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 3rd-great-grandmother; born at Elmira, New York, to Irish immigrants Thomas Connole and Honora Dwyer; mother of the Wilkes-Barre Heffernans.",
-  "bio": "Mary Connole was born at Elmira, New York, on 3 Nov 1850 (the tree had assumed Irish birth; corrected in the deep-dive report). Her parents, Thomas Connole and Honora Dwyre, were 'natives of Ireland, who came to America in 1848, settling in the State of New York'. Her obituary says she came to the Wyoming Valley in 1865, but her sister Nora was born in Plymouth Twp in 1855 and the family was not found in the 1860 Elmira census, so the family most likely reached Plymouth about 1855-60 and the 1865 date is suspect. After her mother's death her father married Anastasia (Boney) Heffernan, aunt by marriage of Andrew H. Heffernan, whom Mary married at Plymouth on 1 Sep 1868. They had ten surviving children. She died at Wilkes-Barre on 1 May 1928 and was buried at St. Mary's, Hanover Twp.\n\nThe 1928 state death index lists \"Hefferman, Mary; 5835[3?]; W-Barre; May 1\" ([R4-S1]), confirming Dwyer's date. In 1900 she gave her birth as November 1850 in New York and said she had borne 11 children, 10 then living ([R4-S2]).",
+  "summary": "Born at Elmira, New York, to Irish immigrants and mother of the Wilkes-Barre Heffernans; John's 3rd-great-grandmother.",
+  "bio": "Mary Connole was born at Elmira, Chemung County, New York, on 3 November 1850. Her parents, Thomas Connole and Honora Dwyre, were \"natives of Ireland, who came to America in 1848, settling in the State of New York\". Her obituary says she came to the Wyoming Valley in 1865, but her sister Nora was born in Plymouth Twp in 1855, so the family most likely reached Plymouth, Luzerne County, Pennsylvania, between about 1855 and 1860.\n\nAfter her mother's death her father married Anastasia (Boney) Heffernan, an aunt by marriage of Andrew H. Heffernan, and on 1 September 1868 Mary married Andrew at Plymouth. She bore eleven children, ten of whom were living in 1900, and became the mother of the Wilkes-Barre Heffernans. She was living in Wilkes-Barre by 1914 and died there on 1 May 1928. She was buried at St. Mary's Cemetery, Hanover Township, Luzerne County. She is John's 3rd-great-grandmother.",
   "residences": [
     {
       "date": "1850",
@@ -99,6 +99,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064637.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Mary Connole was born at Elmira, New York, on 3 Nov 1850 (the tree had assumed Irish birth; corrected in the deep-dive report). Her parents, Thomas Connole and Honora Dwyre, were 'natives of Ireland, who came to America in 1848, settling in the State of New York'. Her obituary says she came to the Wyoming Valley in 1865, but her sister Nora was born in Plymouth Twp in 1855 and the family was not found in the 1860 Elmira census, so the family most likely reached Plymouth about 1855-60 and the 1865 date is suspect. After her mother's death her father married Anastasia (Boney) Heffernan, aunt by marriage of Andrew H. Heffernan, whom Mary married at Plymouth on 1 Sep 1868. They had ten surviving children. She died at Wilkes-Barre on 1 May 1928 and was buried at St. Mary's, Hanover Twp.\n\nThe 1928 state death index lists \"Hefferman, Mary; 5835[3?]; W-Barre; May 1\" ([R4-S1]), confirming Dwyer's date. In 1900 she gave her birth as November 1850 in New York and said she had borne 11 children, 10 then living ([R4-S2])."
 }

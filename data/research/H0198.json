@@ -9,8 +9,8 @@
     "Daniel Mersereau"
   ],
   "tags": [],
-  "summary": "John's 10th-great-grand-uncle.",
-  "bio": "Daniel Mercereau 'du bourg de Moise en Xaintonge' married Suzanne Marie Doucinet 'de la ville de la Rochelle' on 6 Aug 1693 (signers incl. 'marque X de Elisabet Dubois', Josué Mercereau, Elie Masse, Pierre Masse). Godfather of Daniel Masse (1689); his wife was godmother of Pierre (1693) and Jeanne Masse (1696). Suzanne's La Rochelle origin is the likely source of the false 'La Rochelle' claim for the Lamoureux.",
+  "summary": "Daniel Mercereau of Moise in Saintonge, who married Suzanne Marie Doucinet of La Rochelle in 1693; John's 10th-great-grand-uncle.",
+  "bio": "Daniel Mercereau, described in the register as \"du bourg de Moise en Xaintonge\", married Suzanne Marie Doucinet, \"de la ville de la Rochelle\", on 6 August 1693. Among those who signed were Josué Mercereau, Elie Masse and Pierre Masse, and Elisabet Dubois made her mark. Daniel was close to the Masse family: he stood godfather to Daniel Masse in 1689, and his wife was godmother to Pierre Masse in 1693 and to Jeanne Masse in 1696.\n\nSuzanne's origin in La Rochelle is probably the source of the mistaken family story that the Lamoureux family came from that city. Daniel was John's 10th-great-grand-uncle.",
   "sources": [
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu pp.29-31"
   ],
@@ -35,6 +35,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0198.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Daniel Mercereau 'du bourg de Moise en Xaintonge' married Suzanne Marie Doucinet 'de la ville de la Rochelle' on 6 Aug 1693 (signers incl. 'marque X de Elisabet Dubois', Josué Mercereau, Elie Masse, Pierre Masse). Godfather of Daniel Masse (1689); his wife was godmother of Pierre (1693) and Jeanne Masse (1696). Suzanne's La Rochelle origin is the likely source of the false 'La Rochelle' claim for the Lamoureux."
 }

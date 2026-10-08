@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nMaria came from Bisaccia with her mother about 1909 (she is 'Marie', 8, in the 1910 census) and married Joseph Pichiarello, an Italian-born grocer ([R4-S2], [R4-S1]). In April 1950 the Pichiarellos lived on Sand Street in Dunmore, next door to her sister Mollie Petriello's family. Joseph was proprietor of a retail grocery store, their son James worked in it as a sales clerk, and their married daughter Angelica and her husband Anthony Marciano lived with them ([R4-S1]).",
+  "summary": "Maria 'Marie' Giannetta, later Mary Pichiarello, who came from Bisaccia to Dunmore, Pennsylvania, about 1909 and married a grocer; sister of Mollie Petriello and John's great-grand-aunt.",
+  "bio": "Maria Giannetta was born in 1902 and came from Bisaccia in Italy to Dunmore, Pennsylvania, with her mother about 1909; in 1910 she was recorded there as Marie, aged eight. She was a sister of Carmela 'Mollie' Giannetta, John's great-grandmother; the other siblings were Savino (1897–1964), Mariano Martin (1899–1941), Antonio (1907–1998), Giuseppe (1912–1971), Rosa (born 1914) and Charles J. (1916–1975). The family lived in Dunmore from 1910 into the 1930s.\n\nShe married Joseph Pichiarello, an Italian-born grocer. In April 1950 the Pichiarellos lived on Sand Street in Dunmore, next door to her sister Mollie Petriello's family. Joseph ran his own retail grocery store, their son James worked in it as a sales clerk, and their married daughter Angelica and her husband Anthony Marciano lived with them.",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
     "notes/round2/italian_gaps.md 1",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0369.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -52,5 +56,6 @@
       "place": "Sand Street, Dunmore, PA (next door to James and Mollie Petriello at no. 128)",
       "note": "Wife, 47, born Italy, naturalized; husband Joseph Pichiarello, 57, born Italy, proprietor of a retail grocery store; son James 21, sales clerk in the grocery; daughter Angelica (23) and her husband Anthony Marciano. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nMaria came from Bisaccia with her mother about 1909 (she is 'Marie', 8, in the 1910 census) and married Joseph Pichiarello, an Italian-born grocer ([R4-S2], [R4-S1]). In April 1950 the Pichiarellos lived on Sand Street in Dunmore, next door to her sister Mollie Petriello's family. Joseph was proprietor of a retail grocery store, their son James worked in it as a sales clerk, and their married daughter Angelica and her husband Anthony Marciano lived with them ([R4-S1])."
 }

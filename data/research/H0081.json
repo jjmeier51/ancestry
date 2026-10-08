@@ -8,8 +8,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 8th-great-grandmother (if the Doll link holds); of the Schuch family of Ulmet.",
-  "bio": "Mother of Johann Casper Doll. Her Schuch kin apparently sailed with Casper in 1739: 'Christ. Shook, 48' on the Samuel list; a Johann Christian Jacob Schuch b. 4 May 1690 at Ulmet, d. 1768 Springfield Twp, Bucks Co. (GEDBAS 1402009472, from an Ancestry tree).\n\nHer marriage entry of 2 Mar 1704 at Ulmet calls her Sara, daughter of Joh. Peter Schuch ([R4-S1]). FamilySearch calls her Sara Margaretha Schuch, born at Rathsweiler on 11 Jan 1686 (baptized 28 Mar), daughter of Hans Peter Schuch (1661-1747) and Anna Maria Käppel ([R4-S2]). It also has her emigrating: she died at Tohickon, Bucks Co., Pennsylvania, on 3 Apr 1760 and was buried at Bedminster. The source for that is a Historical Society of Pennsylvania burial card for 'Sarah Doll', whose image came back empty ([R4-S2]). If correct, she came over with her son Caspar's group in 1739, and women were not listed on those ships. She would then have lived near the Tohickon Reformed congregation, where Caspar's daughter Anna Catharina was baptized in 1757. The site's 'Anna Sara' should probably be 'Sara (Margaretha)'.",
+  "summary": "Of the Schuch family of Ulmet, mother of Johann Casper Doll, who ended her days in Bucks County; John's 8th-great-grandmother if the Doll line holds.",
+  "bio": "Anna Sara Schuch, more probably called Sara or Sara Margaretha, was born on 11 January 1686 at Rathsweiler in the parish of Ulmet and baptized on 28 March, a daughter of Hans Peter Schuch (1661-1747) and Anna Maria Käppel. On 2 March 1704 she was married at Ulmet, the register calling her Sara, daughter of Joh. Peter Schuch. She was the mother of Johann Casper Doll and, if the Doll connection holds, John's 8th-great-grandmother.\n\nShe appears to have followed her son to Pennsylvania. Her Schuch kin apparently sailed with Casper in 1739, among them 'Christ. Shook, 48' on the ship Samuel, and a Johann Christian Jacob Schuch, born at Ulmet on 4 May 1690, died in Springfield Township, Bucks County, in 1768. Women were not listed on those ships, so she herself would have gone unrecorded. She is said to have died at Tohickon, Bucks County, on 3 April 1760 and to have been buried at Bedminster the next day as 'Sarah Doll', which would place her near the Tohickon Reformed congregation where her granddaughter Anna Catharina was baptized in 1757.",
   "sources": [
     "WikiTree Doll-527 (Johann Casper Doll; FamilySearch N5BL-88G): https://www.wikitree.com/wiki/Doll-527",
     "GEDBAS 1402009472: https://gedbas.genealogy.net/person/show/1402009472",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0081.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -79,5 +83,6 @@
   ],
   "openQuestions": [
     "Confirm her death in 1760 at Tohickon (HSP burial card 'Sarah Doll'; Tohickon Reformed or Bedminster burial records)."
-  ]
+  ],
+  "researchNotes": "Mother of Johann Casper Doll. Her Schuch kin apparently sailed with Casper in 1739: 'Christ. Shook, 48' on the Samuel list; a Johann Christian Jacob Schuch b. 4 May 1690 at Ulmet, d. 1768 Springfield Twp, Bucks Co. (GEDBAS 1402009472, from an Ancestry tree).\n\nHer marriage entry of 2 Mar 1704 at Ulmet calls her Sara, daughter of Joh. Peter Schuch ([R4-S1]). FamilySearch calls her Sara Margaretha Schuch, born at Rathsweiler on 11 Jan 1686 (baptized 28 Mar), daughter of Hans Peter Schuch (1661-1747) and Anna Maria Käppel ([R4-S2]). It also has her emigrating: she died at Tohickon, Bucks Co., Pennsylvania, on 3 Apr 1760 and was buried at Bedminster. The source for that is a Historical Society of Pennsylvania burial card for 'Sarah Doll', whose image came back empty ([R4-S2]). If correct, she came over with her son Caspar's group in 1739, and women were not listed on those ships. She would then have lived near the Tohickon Reformed congregation, where Caspar's daughter Anna Catharina was baptized in 1757. The site's 'Anna Sara' should probably be 'Sara (Margaretha)'."
 }

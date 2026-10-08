@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0472.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -31,8 +35,10 @@
       "description": "Married Seviah, daughter of James Sands; children Othniel, Abigail, Sands, Jessie, Abner, Sarah and Seviah. [R4-S1]"
     }
   ],
-  "bio": "A son of Job Smith 1st and Elizabeth Thompson (John's 10th-great-grandparents), so a brother of John's 9th-great-grandfather James Smith and John's 9th-great-granduncle. Thompson's Smith account ([R4-S1]) gives his wife Seviah Sands and their children, including the patriot Abner Smith.",
+  "bio": "Aaron Smith was a son of Job Smith 1st and Elizabeth Thompson, John's direct ancestors, and a brother of John's ancestor James Smith. He married Seviah Sands and raised his family at Smithtown; their children included the patriot Abner Smith.",
   "sources": [
     "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 377 (secondary) https://archive.org/details/historyoflongisl003thom"
-  ]
+  ],
+  "researchNotes": "A son of Job Smith 1st and Elizabeth Thompson (John's 10th-great-grandparents), so a brother of John's 9th-great-grandfather James Smith and John's 9th-great-granduncle. Thompson's Smith account ([R4-S1]) gives his wife Seviah Sands and their children, including the patriot Abner Smith.",
+  "summary": "Son of Job Smith and Elizabeth Thompson of Smithtown, brother of John's ancestor James Smith and father of the patriot Abner Smith."
 }

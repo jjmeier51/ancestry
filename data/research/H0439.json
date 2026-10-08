@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0439.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -46,12 +50,14 @@
       "description": "[R4-S1]"
     }
   ],
-  "bio": "Esther Louisa Nesbitt was born at Plymouth on 7 Feb 1839, the eldest child of John Lamoreux Nesbitt (b. Plymouth 21 Oct 1808; farmer, coal operator and in 1838 a corporator of the Plymouth Coal Company; d. 1 Sep 1868) and Lena Snyder (b. 1818, daughter of Peter and Margaret (Nace) Snyder; d. 9 Sep 1876), who married on 1 Feb 1838. Her siblings were Charles Snyder Nesbitt (b. 1841, longtime superintendent of the Plymouth Coal Company store and justice of the peace), James Martin (b. 1845), Mary E. (1847-1848) and Samuel Perry (b. 1851) ([R4-S1]).\n\nShe married Noah Pringle, son of James and Elizabeth (Croup) Pringle, at Plymouth on 15 Nov 1857. Noah died at Beach Haven on 28 Apr 1885, and by 1899 she was living at Ives, Dundee County, Nebraska. Their children were Mary E. (1858-1884), Charles E. (1860-1877), Frank E. (b. 1862), Harry W. (b. 1865), George W. (b. 1869), Lizzie Almira (1873-1879) and Jennie May (b. 10 Jan 1878). That makes seven children, not the six given earlier ([R4-S1]). Her father's middle name, Lamoreux, suggests the Nesbitts were already related to the Lamoreux family.",
+  "bio": "Esther Louisa Nesbitt was born at Plymouth, Luzerne Co., PA, on 7 February 1839, the eldest child of John Lamoreux Nesbitt and Lena Snyder, who had married on 1 February 1838. Her father, born at Plymouth on 21 October 1808, was a farmer and coal operator and in 1838 one of the corporators of the Plymouth Coal Company; he died on 1 September 1868. Her mother, born in 1818, was a daughter of Peter and Margaret (Nace) Snyder and died on 9 September 1876. Esther's siblings were Charles Snyder Nesbitt, born in 1841, for many years superintendent of the Plymouth Coal Company store and a justice of the peace; James Martin, born in 1845; Mary E. (1847–1848); and Samuel Perry, born in 1851. Her father's middle name suggests that the Nesbitts were already connected to the Lamoreux family.\n\nOn 15 November 1857, at Plymouth, she married Noah Pringle, son of James and Elizabeth (Croup) Pringle. Their seven children were Mary E. (1858–1884), Charles E. (1860–1877), Frank E., born in 1862, Harry W., born in 1865, George W., born in 1869, Lizzie Almira (1873–1879) and Jennie May, born on 10 January 1878. Noah died at Beach Haven on 28 April 1885, and by 1899 Esther was living at Ives, Dundee County, Nebraska.",
   "openQuestions": [
     "Her death date and place (Dundee Co., Nebraska, after 1899).",
     "Why was her father named John Lamoreux Nesbitt - was his mother (wife of James Nesbitt) a Lamoreux?"
   ],
   "sources": [
     "[R4-S1] Harvey, The Harvey Book (1899), Nesbitt genealogy, entries (34) John Lamoreux Nesbitt and (60) Esther Louisa Nesbitt, pp.369-371 (secondary) https://archive.org/details/harveybookgiving00harv"
-  ]
+  ],
+  "researchNotes": "Esther Louisa Nesbitt was born at Plymouth on 7 Feb 1839, the eldest child of John Lamoreux Nesbitt (b. Plymouth 21 Oct 1808; farmer, coal operator and in 1838 a corporator of the Plymouth Coal Company; d. 1 Sep 1868) and Lena Snyder (b. 1818, daughter of Peter and Margaret (Nace) Snyder; d. 9 Sep 1876), who married on 1 Feb 1838. Her siblings were Charles Snyder Nesbitt (b. 1841, longtime superintendent of the Plymouth Coal Company store and justice of the peace), James Martin (b. 1845), Mary E. (1847-1848) and Samuel Perry (b. 1851) ([R4-S1]).\n\nShe married Noah Pringle, son of James and Elizabeth (Croup) Pringle, at Plymouth on 15 Nov 1857. Noah died at Beach Haven on 28 Apr 1885, and by 1899 she was living at Ives, Dundee County, Nebraska. Their children were Mary E. (1858-1884), Charles E. (1860-1877), Frank E. (b. 1862), Harry W. (b. 1865), George W. (b. 1869), Lizzie Almira (1873-1879) and Jennie May (b. 10 Jan 1878). That makes seven children, not the six given earlier ([R4-S1]). Her father's middle name, Lamoreux, suggests the Nesbitts were already related to the Lamoreux family.",
+  "summary": "Daughter of the Plymouth coal operator John Lamoreux Nesbitt (born 1839), wife of Noah Pringle and mother of seven, who later lived in Nebraska."
 }

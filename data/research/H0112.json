@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 3x removed; second-generation publisher of the Sunday Independent.",
-  "bio": "Only son of Thomas F. Heffernan and Louise Easen, born 1902; second-generation Sunday Independent publisher.",
+  "summary": "Second-generation publisher of the Wilkes-Barre Sunday Independent; John's 1st cousin 3 times removed.",
+  "bio": "Thomas Easen Heffernan was born in 1902 at Wilkes-Barre, Pa., the only son of Thomas F. Heffernan and Louise Easen. He married in Luzerne County on 22 August 1928, and in February 1942, during the Second World War, he registered for the draft at Kingston.\n\nHe followed his father as publisher of the Sunday Independent, the second generation of the family to run the paper. He died on 5 May 1970 in Lehman Township, Luzerne County, and was buried at Fern Knoll Burial Park, Dallas, Pa.",
   "sources": [
     "Harvey & Smith vol. VI: https://archive.org/details/historyofwilkesb06harv",
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0112.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -72,5 +76,6 @@
     {
       "note": "WWII draft registration 16 Feb 1942, Kingston [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Only son of Thomas F. Heffernan and Louise Easen, born 1902; second-generation Sunday Independent publisher."
 }

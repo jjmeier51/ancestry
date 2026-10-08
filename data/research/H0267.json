@@ -11,8 +11,8 @@
   "tags": [
     "patriot"
   ],
-  "summary": "Brother of Capt. John Tuttle (John's 7th-great-grand-uncle).",
-  "bio": "Will 1761 (NY Wills VI, Liber 23, p. 130): asked for burial 'decent without Pomp or State'; named Joshua Brown executor; witnesses John Brewster, Samuel Smith and Selah Strong. (Not the same as Daniel Tuthill 1743–1800, SAR P-308220.)",
+  "summary": "Daniel Tuthill of Goshen, who died in 1761; brother of Capt. John Tuttle, John's 7th-great-grand-uncle.",
+  "bio": "Daniel Tuthill, known as Daniel Tuthill of Goshen, was a brother of Capt. John Tuttle. He died at Goshen, Orange County, New York, in 1761. In his will, made that year, he asked to be buried 'decent without Pomp or State', named Joshua Brown as his executor, and had John Brewster, Samuel Smith and Selah Strong as witnesses. He should not be confused with the later Daniel Tuthill (1743-1800) who served in the Revolution.",
   "sources": [
     "Abstracts of Wills, NYHS vol. VI, Liber 23 p. 130, https://archive.org/details/abstractswillso05kellgoog",
     "Akerly (1898)"
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0267.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -49,5 +53,6 @@
       "note": "Daniel Tuthill, 1721-00-00 – 1761-09-28",
       "url": "https://www.wikitree.com/wiki/Tuthill-327"
     }
-  ]
+  ],
+  "researchNotes": "Will 1761 (NY Wills VI, Liber 23, p. 130): asked for burial 'decent without Pomp or State'; named Joshua Brown executor; witnesses John Brewster, Samuel Smith and Selah Strong. (Not the same as Daniel Tuthill 1743–1800, SAR P-308220.)"
 }

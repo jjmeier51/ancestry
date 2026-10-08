@@ -6,7 +6,7 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 4th great-aunt; sister of Maria Anna Birkenmayer.",
+  "summary": "Sister of Maria Anna Birkenmayer and John's 4th great-aunt, a seamstress who stayed in Munzingen when the family left for America and died there in 1869.",
   "sources": [
     "FamilySearch G921-2R4",
     "notes/round3/meier_line.md",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0032.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -55,7 +59,7 @@
       "description": "Died at 1 a.m. after receiving the last sacraments; buried 18 Mar 1869 at 8 a.m. Aged 23 y 1 m 25 d. Single seamstress, legitimate daughter of the late citizen and joiner Servaz Birkenmaier and the late Agatha Heitzler. Witnesses were Joh. Georg Birkenmaier, gravedigger, and Johann Birkenmaier, single mason. [R4-S1]"
     }
   ],
-  "bio": "Karolina stayed in Munzingen when her sister Maria Anna's family left for America in 1868. She died there, unmarried, on 16 Mar 1869 at one in the morning, and was buried on the 18th. The register calls her a seamstress, aged 23 years, 1 month and 25 days, which points to a birth around 21 Jan 1846. She was the legitimate single daughter of the late joiner Servaz Birkenmaier and the late Agatha Heitzler. The witnesses were the gravedigger Johann Georg Birkenmaier and the single mason Johann Birkenmaier, both probably kin ([R4-S1]). With her death, only her brothers Joseph and Gabriel, both in Ohio, and Maria Anna in Pennsylvania were left of the family.",
+  "bio": "Karolina Birkenmayer was born at Munzingen near Freiburg im Breisgau in Baden about 21 January 1846, the daughter of the joiner Servaz Birkenmaier and Agatha Heitzler, and a sister of Maria Anna Birkenmayer; she was John's 4th great-aunt. She worked as a seamstress. When her sister Maria Anna's family left for America in 1868, Karolina stayed behind in Munzingen.\n\nShe died there, unmarried, at one in the morning on 16 March 1869, aged 23 years, 1 month and 25 days, both her parents having died before her, and was buried on the 18th. The witnesses at her burial were the gravedigger Johann Georg Birkenmaier and the single mason Johann Birkenmaier, both probably kin. With her death, only her brothers Joseph and Gabriel, both in Ohio, and Maria Anna in Pennsylvania were left of the family.",
   "media": [
     {
       "file": "media/H0032/death-1869-munzingen-l10-1591-img618.jpg",
@@ -70,5 +74,6 @@
       ],
       "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-618"
     }
-  ]
+  ],
+  "researchNotes": "Karolina stayed in Munzingen when her sister Maria Anna's family left for America in 1868. She died there, unmarried, on 16 Mar 1869 at one in the morning, and was buried on the 18th. The register calls her a seamstress, aged 23 years, 1 month and 25 days, which points to a birth around 21 Jan 1846. She was the legitimate single daughter of the late joiner Servaz Birkenmaier and the late Agatha Heitzler. The witnesses were the gravedigger Johann Georg Birkenmaier and the single mason Johann Birkenmaier, both probably kin ([R4-S1]). With her death, only her brothers Joseph and Gabriel, both in Ohio, and Maria Anna in Pennsylvania were left of the family."
 }

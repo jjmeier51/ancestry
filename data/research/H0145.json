@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "A Pringle cousin who died in her hundredth year.",
-  "bio": "Charity (Pringle) Mekeel died in 1899 'in the one hundredth year of her age' (Harvey Book p.1020).\n\nHarvey Book p.1020 says Charity was a daughter of James Pringle, who settled about 1797-98 in the part of Plymouth Twp. that is now Jackson Twp. She married Oliver Mekeel (d. 11 Oct 1847). She was born on 31 Jan 1800 and died at a daughter's home in Lehman Twp. on 12 Mar 1899, in her hundredth year. Her son was Lewis McKeel or Mekeel, and his daughter Cora married George Nesbitt ([R4-S1]).",
+  "summary": "A Pringle cousin of John (1800–1899), daughter of James Pringle and wife of Oliver Mekeel, who died in her hundredth year.",
+  "bio": "Charity Pringle was born on 31 January 1800, a daughter of James Pringle, who had settled about 1797–98 in the part of Plymouth Twp. that is now Jackson Twp. She married Oliver Mekeel, who died on 11 October 1847. Their son was Lewis Mekeel, whose name was also written McKeel, and his daughter Cora married George Nesbitt. Charity died on 12 March 1899 at the home of a daughter in Lehman Twp., Luzerne Co., PA, \"in the one hundredth year of her age\".",
   "sources": [
     "Harvey Book p.1020",
     "[R4-S1] Harvey, The Harvey Book (1899), p.1020 (note on Lewis McKeel/Mekeel) (secondary) https://archive.org/details/harveybookgiving00harv",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0145.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -49,5 +53,6 @@
   ],
   "openQuestions": [
     "Father 'James Pringle' (Harvey p.1020, Jackson Twp. c.1797-98): which James on the site is he? He may be the brother of Samuel Pringle (I282608055448)."
-  ]
+  ],
+  "researchNotes": "Charity (Pringle) Mekeel died in 1899 'in the one hundredth year of her age' (Harvey Book p.1020).\n\nHarvey Book p.1020 says Charity was a daughter of James Pringle, who settled about 1797-98 in the part of Plymouth Twp. that is now Jackson Twp. She married Oliver Mekeel (d. 11 Oct 1847). She was born on 31 Jan 1800 and died at a daughter's home in Lehman Twp. on 12 Mar 1899, in her hundredth year. Her son was Lewis McKeel or Mekeel, and his daughter Cora married George Nesbitt ([R4-S1])."
 }

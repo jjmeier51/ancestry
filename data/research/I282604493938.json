@@ -21,8 +21,8 @@
     "Elizabeth Arnold"
   ],
   "tags": [],
-  "summary": "John's great-grandmother (mother of grandmother Kathryn); a Plymouth clerk, daughter of a New York-born father who died when she was an infant.",
-  "bio": "Elizabeth M. McAvoy was born 8 Dec 1897 in Plymouth (FS KGQH-JNV), one of ten children of William Richard McAvoy (b. c.1857 New York, d. 4 Nov 1899 Plymouth) and Catherine A. Murphy. Her father died when she was about two; her widowed mother married John H. Jones, and in 1920 Elizabeth lived 'in household of John H Jones'. On 19 Jun 1923 (licence No. 635) she was a clerk, of 214 Vine St, Plymouth, aged 25, born Penna., father William R. (deceased, born N.Y.), mother Kathryn Murphy (Plymouth, born Penna.); she married Frank J. McGuire on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). Her sister Agnes M. McAvoy married Joseph S. Jones, a brother of Frank's mother Anna C. Jones — so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth married. After Frank's death in 1958 she married (2) Harold Arnold. She died 5 May 1984 in Altoona and was buried in Hanover Township (FS).\n\nHer sister Agnes M. McAvoy's 1914 marriage docket again gives their father William as born in New York and dead, and their mother Catharine (Murphy) as living in Plymouth ([R4-S1]). FamilySearch shows Elizabeth's siblings Mary (1879-1944), Agnes (1884-1958), William Richard Jr. (1886-1942), Katherine Frances (1888-1933), Josephine Regina (1891-1943), Gertrude Calista (1893-1971), Anna K. (1895-1964) and Claire (1899-1975) ([R4-S2]). A \"Lizzie McAvoy\" entry in the FamilySearch index \"Pennsylvania Births and Christenings\" is attached to her profile (probably her Plymouth baptism), but the record page could not be opened.",
+  "summary": "Plymouth clerk who lost her New York-born father in infancy and married Frank J. McGuire in 1923; John's great-grandmother.",
+  "bio": "Elizabeth M. McAvoy was born on 8 December 1897 at Plymouth in Luzerne County, Pennsylvania, one of the ten children of William Richard McAvoy, who had been born in New York about 1857, and Catherine A. Murphy. Her father died at Plymouth on 4 November 1899, when she was not yet two, and her widowed mother later married John H. Jones, in whose household Elizabeth was living in 1920. Her brothers and sisters were Mary (1879–1944), Agnes (1884–1958), William Richard Jr. (1886–1942), Katherine Frances (1888–1933), Josephine Regina (1891–1943), Gertrude Calista (1893–1971), Anna K. (1895–1964) and Claire (1899–1975).\n\nBy 1923 she was working as a clerk and living on Vine Street in Plymouth. On 20 June 1923, aged twenty-five, she married Frank J. McGuire at Plymouth, the Rev. P. J. Colligan officiating. The families were already linked: her sister Agnes had married Joseph S. Jones, a brother of Frank's mother Anna C. Jones, so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth wed. She is John's great-grandmother, the mother of his grandmother Kathryn.\n\nAfter Frank's death in 1958 she married Harold Arnold. She died at Altoona on 5 May 1984 and was buried in Hanover Township, Luzerne County.",
   "residences": [
     {
       "date": "1920",
@@ -73,6 +73,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604493938.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -82,5 +86,6 @@
       "found": "FamilySearch shows Harold (Edward) Arnold, b. 1927, d. 1997 Altoona, son of Harold George Arnold & Martha Bowden, as husband of her DAUGHTER Elizabeth \"Betsy\" McGuire (b. 8 Mar 1928); a duplicate profile also attaches him to the mother.",
       "assessment": "A man born in 1927 is almost certainly the son-in-law, not the second husband of a woman born in 1897. Her death in Altoona (1984), where Harold Arnold also died (1997), fits her living with Betsy and Harold. Recommend detaching H0383 as Elizabeth McAvoy's spouse and treating him as Betsy's husband (Betsy is on the presumed-living skip list, so no further research was done)."
     }
-  ]
+  ],
+  "researchNotes": "Elizabeth M. McAvoy was born 8 Dec 1897 in Plymouth (FS KGQH-JNV), one of ten children of William Richard McAvoy (b. c.1857 New York, d. 4 Nov 1899 Plymouth) and Catherine A. Murphy. Her father died when she was about two; her widowed mother married John H. Jones, and in 1920 Elizabeth lived 'in household of John H Jones'. On 19 Jun 1923 (licence No. 635) she was a clerk, of 214 Vine St, Plymouth, aged 25, born Penna., father William R. (deceased, born N.Y.), mother Kathryn Murphy (Plymouth, born Penna.); she married Frank J. McGuire on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). Her sister Agnes M. McAvoy married Joseph S. Jones, a brother of Frank's mother Anna C. Jones — so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth married. After Frank's death in 1958 she married (2) Harold Arnold. She died 5 May 1984 in Altoona and was buried in Hanover Township (FS).\n\nHer sister Agnes M. McAvoy's 1914 marriage docket again gives their father William as born in New York and dead, and their mother Catharine (Murphy) as living in Plymouth ([R4-S1]). FamilySearch shows Elizabeth's siblings Mary (1879-1944), Agnes (1884-1958), William Richard Jr. (1886-1942), Katherine Frances (1888-1933), Josephine Regina (1891-1943), Gertrude Calista (1893-1971), Anna K. (1895-1964) and Claire (1899-1975) ([R4-S2]). A \"Lizzie McAvoy\" entry in the FamilySearch index \"Pennsylvania Births and Christenings\" is attached to her profile (probably her Plymouth baptism), but the record page could not be opened."
 }

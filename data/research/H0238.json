@@ -9,8 +9,8 @@
     "Thomas Hamond"
   ],
   "tags": [],
-  "summary": "John's 12th-great-grandfather, of Lavenham, Suffolk.",
-  "bio": "Married Rose Trippe at Lavenham 14 May 1573 (her brother William Trippe witnessed his will). Died 24 Nov 1589; will 1589. Son William was 14 at his death.",
+  "summary": "Of Lavenham, Suffolk, husband of Rose Trippe; John's 12th-great-grandfather.",
+  "bio": "Thomas Hammond, also written Hamond, lived at Lavenham in Suffolk. He married Rose Trippe there on 14 May 1573. He died on 24 November 1589, leaving a will made that year which Rose's brother William Trippe witnessed. His son William was fourteen years old at his death.",
   "sources": [
     "Hammond (1902)",
     "notes/round3/english_french_origins.md §2c"
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0238.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -47,5 +51,6 @@
       "note": "Thomas Hammond, 1545-00-00 – 1589-11-24",
       "url": "https://www.wikitree.com/wiki/Hammond-99"
     }
-  ]
+  ],
+  "researchNotes": "Married Rose Trippe at Lavenham 14 May 1573 (her brother William Trippe witnessed his will). Died 24 Nov 1589; will 1589. Son William was 14 at his death."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Yale 1735, missionary to the Long Island Indians, then pastor at Bottle Hill (Madison, NJ); John's 1st cousin 9x removed.",
-  "bio": "Akerly: 'Azariah, a graduate of Yale College, was missionary to the L. I. Indians, and ancestor of the Rev. Theodore L. Cuyler, of Brooklyn'. His daughter Mary married Jacob Morrell. Brevet Brig. Gen. James H. Baker (1829–1913), Ohio and Minnesota Secretary of State, is named a descendant (path not traced; speculative). Survives the James-versus-Joshua dispute (both were Mary's brothers).\n\nAkerly ([R4-S1]) lists him among the six children of Jonathan Horton and Mary Tuthill (m. 27 Nov 1705), noting he was a Yale graduate, missionary to the Long Island Indians, and ancestor of Rev. Theodore L. Cuyler. Routes: 1st cousin 9 times removed via John Tuthill Jr & Mehitable Wells; also 2C9R via William Wells through his grandmother Bethia (Wells) Horton.",
+  "summary": "Yale graduate of 1735, missionary to the Long Island Indians and pastor at Bottle Hill, New Jersey (1715–1777); John's 1st cousin 9 times removed.",
+  "bio": "Azariah Horton was born in 1715 at Southold, Suffolk County, New York, one of the six children of Jonathan Horton and Mary Tuthill, who had married on 27 November 1705. He graduated from Yale College in 1735, served as a missionary to the Long Island Indians, and later became pastor at Bottle Hill, now Madison, New Jersey. He died in 1777.\n\nHis daughter Mary married Jacob Morrell. He was an ancestor of the Rev. Theodore L. Cuyler of Brooklyn, and Brevet Brigadier General James H. Baker (1829–1913), Secretary of State of Ohio and of Minnesota, has also been named as a descendant, though that line has not been traced. He is John's 1st cousin 9 times removed through John Tuthill Jr. and Mehitable Wells, and also a 2nd cousin 9 times removed through William Wells, by way of his grandmother Bethia (Wells) Horton.",
   "sources": [
     "Akerly (1898)",
     "NJGenWeb, https://usgenwebsites.org/NJMorris/biographies/lewisbios1899/hortonazariah.htm",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0319.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -46,5 +50,6 @@
       "note": "Azariah Horton, 1715-03-20 – 1777-03-27",
       "url": "https://www.wikitree.com/wiki/Horton-9561"
     }
-  ]
+  ],
+  "researchNotes": "Akerly: 'Azariah, a graduate of Yale College, was missionary to the L. I. Indians, and ancestor of the Rev. Theodore L. Cuyler, of Brooklyn'. His daughter Mary married Jacob Morrell. Brevet Brig. Gen. James H. Baker (1829–1913), Ohio and Minnesota Secretary of State, is named a descendant (path not traced; speculative). Survives the James-versus-Joshua dispute (both were Mary's brothers).\n\nAkerly ([R4-S1]) lists him among the six children of Jonathan Horton and Mary Tuthill (m. 27 Nov 1705), noting he was a Yale graduate, missionary to the Long Island Indians, and ancestor of Rev. Theodore L. Cuyler. Routes: 1st cousin 9 times removed via John Tuthill Jr & Mehitable Wells; also 2C9R via William Wells through his grandmother Bethia (Wells) Horton."
 }

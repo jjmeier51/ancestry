@@ -9,8 +9,8 @@
     "Josef Heitzler the elder"
   ],
   "tags": [],
-  "summary": "Elder Kageneck gamekeeper who bought the Jägerhof in 1751; same clan, exact kinship to John unknown.",
-  "bio": "Farmer and 'Kageneck'scher Jäger in Stegen'; bought at auction in 1751 the property later called the Jägerhof in Unteribental and married Katharina Schlupf (1728 Kirchzarten – 9 Apr 1809 Unteribental) the same year. Possibly the same farm Martin Begelspacher farmed as 'Jägerhofbauer'.",
+  "summary": "Farmer and Kageneck gamekeeper at Stegen who bought the Jägerhof in Unteribental in 1751; of the same Heitzler family as John, exact kinship unknown.",
+  "bio": "Josef Heitzler the elder was a farmer and gamekeeper in the service of the Kageneck family at Stegen. In 1751 he bought at auction the property in Unteribental that was later called the Jägerhof, and in the same year he married Katharina Schlupf, who was born at Kirchzarten in 1728 and died at Unteribental on 9 April 1809. The Jägerhof may be the same farm that Martin Begelspacher worked as the 'Jägerhofbauer'. Josef belonged to the same Heitzler family as John's ancestors, but his exact relationship to them is not known.",
   "sources": [
     "GEDBAS 1262178929 https://gedbas.genealogy.net/person/show/1262178929 ; 1262178930 https://gedbas.genealogy.net/person/show/1262178930",
     "notes/round2/black_forest.md; deep-dive report"
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0041.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Farmer and 'Kageneck'scher Jäger in Stegen'; bought at auction in 1751 the property later called the Jägerhof in Unteribental and married Katharina Schlupf (1728 Kirchzarten – 9 Apr 1809 Unteribental) the same year. Possibly the same farm Martin Begelspacher farmed as 'Jägerhofbauer'."
 }

@@ -12,8 +12,8 @@
     "Mariangiola Cognetta"
   ],
   "tags": [],
-  "summary": "John's maternal 3rd great-grandmother (via the probable Frank-Giovanni link); styled 'Donna' at Dasà.",
-  "bio": "Tree: 'Mariantonia' Cannatello (b. 1816). MyHeritage index: Mariangiola Cognetta née Cannatello, b. 1818 Dasà, wife of Nicola Cognetta. Birth act of Giovanni (1855): 'Donna Mariangela Cannatello', 32 (b. c.1823). So three birth-year values: 1816 (tree), 1818 (MyHeritage), c.1823 (age in 1855 act - preferred as primary, though ages in acts can be approximate). The tree's given name 'Mariantonia' is wrong. paese.app: Cannatello's only Calabrian US arrival came from Sorianello, in the same district.",
+  "summary": "Wife of Nicola Cognetta of Dasà in Calabria, styled Donna in the parish records; John's maternal 3rd-great-grandmother.",
+  "bio": "Mariangela Cannatello, also written Mariangiola, was born at Dasà in the province of Vibo Valentia, Calabria, probably about 1823, though other records put her birth in 1816 or 1818. She married Nicola Cognetta, and in the 1855 birth record of their son Giovanni she is styled \"Donna Mariangela Cannatello\", aged thirty-two. She has sometimes been called Mariantonia, but the records give her name as Mariangela.\n\nShe is John's 3rd-great-grandmother on his mother's side, through a link that is probable rather than fully proven.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0337.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -59,5 +63,6 @@
       "found": "Same wife of Nicola Cognetta",
       "assessment": "Merge I282697102069 into H0337; birth year still unresolved (1816/1818/c.1823)."
     }
-  ]
+  ],
+  "researchNotes": "Tree: 'Mariantonia' Cannatello (b. 1816). MyHeritage index: Mariangiola Cognetta née Cannatello, b. 1818 Dasà, wife of Nicola Cognetta. Birth act of Giovanni (1855): 'Donna Mariangela Cannatello', 32 (b. c.1823). So three birth-year values: 1816 (tree), 1818 (MyHeritage), c.1823 (age in 1855 act - preferred as primary, though ages in acts can be approximate). The tree's given name 'Mariantonia' is wrong. paese.app: Cannatello's only Calabrian US arrival came from Sorianello, in the same district."
 }

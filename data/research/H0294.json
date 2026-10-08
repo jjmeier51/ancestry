@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "First Lady; John's 5th cousin 6x removed via Bull Smith → Richard 2d → Nathaniel Smith → Mary Smith Gardiner; the one genuine Virginia blood tie.",
-  "bio": "Path: Bull Smith → Richard 2d → Nathaniel (m. Phoebe Howell) → Mary (b. 3 Oct 1725, m. 12 June 1745 Col. Abraham Gardiner, b. 1721/2) → Capt. Abraham Gardiner (1763–1796, m. Phoebe Dayton) → David Gardiner (1784–1844) → Julia. Married President John Tyler in 1844; lived at Sherwood Forest Plantation, Charles City County, Virginia. With Anna Symmes Harrison, both First Ladies of the 1840 'Tippecanoe and Tyler Too' ticket are John's cousins; neither president is.\n\nEach generation now sourced in two independent compiled works (Gardiner 1890, [R4-S1]; Pelletreau 1898, [R4-S2]): Bull Smith -> Richard 2d -> Nathaniel Smith (b. 30 Jan 1698, d. 30 Mar 1765, patentee of Moriches) -> Mary (b. 3 Oct 1725, m. 12 Jun 1745 Col. Abraham Gardiner) -> Capt. Abraham Gardiner (1763-1796, m. Phoebe Dayton) -> Sen. David Gardiner (1784-1844) -> Julia: 5th cousin 6 times removed. Gardiner ([R4-S1]) lists her children with President Tyler as David G., John A., Julia, Lachlan, Lyon G., Robert Fitzwalter and Pearl.",
+  "summary": "First Lady of the United States as the wife of President John Tyler; John's 5th cousin 6 times removed and his one genuine Virginia blood tie.",
+  "bio": "Julia Gardiner Tyler was born on 4 May 1820 on Gardiner's Island, East Hampton, New York, the daughter of Senator David Gardiner (1784–1844). In 1844 she married President John Tyler and became First Lady, and she lived thereafter at Sherwood Forest Plantation in Charles City County, Virginia. Her children with the President were David G., John A., Julia, Lachlan, Lyon G., Robert Fitzwalter and Pearl. She died at Richmond, Virginia, on 10 July 1889.\n\nShe descends from Bull Smith of Smithtown through Richard Smith 2d; his son Nathaniel Smith (1698–1765), patentee of Moriches, who married Phoebe Howell; Nathaniel's daughter Mary, born 3 October 1725, who married Colonel Abraham Gardiner in 1745; their son Captain Abraham Gardiner (1763–1796), who married Phoebe Dayton; and his son David. That makes her John's 5th cousin six times removed and the one genuine Virginia blood relation in the family. With Anna Symmes Harrison, both First Ladies of the 1840 \"Tippecanoe and Tyler Too\" ticket are John's cousins, though neither president is.",
   "sources": [
     "Gardiner, Lion Gardiner and his Descendants (1890) pp. 119, 147–149, https://archive.org/details/liongardinerhisd00gard",
     "Pelletreau (1898) Intro. note",
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0294.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -87,5 +91,6 @@
   "death": {
     "date": "1889-07-10",
     "place": "Richmond, Virginia"
-  }
+  },
+  "researchNotes": "Path: Bull Smith → Richard 2d → Nathaniel (m. Phoebe Howell) → Mary (b. 3 Oct 1725, m. 12 June 1745 Col. Abraham Gardiner, b. 1721/2) → Capt. Abraham Gardiner (1763–1796, m. Phoebe Dayton) → David Gardiner (1784–1844) → Julia. Married President John Tyler in 1844; lived at Sherwood Forest Plantation, Charles City County, Virginia. With Anna Symmes Harrison, both First Ladies of the 1840 'Tippecanoe and Tyler Too' ticket are John's cousins; neither president is.\n\nEach generation now sourced in two independent compiled works (Gardiner 1890, [R4-S1]; Pelletreau 1898, [R4-S2]): Bull Smith -> Richard 2d -> Nathaniel Smith (b. 30 Jan 1698, d. 30 Mar 1765, patentee of Moriches) -> Mary (b. 3 Oct 1725, m. 12 Jun 1745 Col. Abraham Gardiner) -> Capt. Abraham Gardiner (1763-1796, m. Phoebe Dayton) -> Sen. David Gardiner (1784-1844) -> Julia: 5th cousin 6 times removed. Gardiner ([R4-S1]) lists her children with President Tyler as David G., John A., Julia, Lachlan, Lyon G., Robert Fitzwalter and Pearl."
 }

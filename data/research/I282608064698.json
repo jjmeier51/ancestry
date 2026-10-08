@@ -8,8 +8,8 @@
     "Patrick HEFFERN… (tree)"
   ],
   "tags": [],
-  "summary": "Tree-only 'great-great-great-great-great-grandfather' - disproven; not John's ancestor.",
-  "bio": "The tree shows Patrick Heffernan 1763-1871 (Ireland flag image) as father of 'Thomas Heffernan 1791'. A 108-year life means at least one date is wrong. In Dwyer's Heffernans of Slieveardagh, Patrick and Catherine Neagle are parents of Thomas 'of Lanespark' (Branch 1, bapt. 1791, m. Catherine Shelly 1831), not of John's Thomas 'of Mardyke'. Dwyer found no proven link between the two families. Remove from Andrew's line.",
+  "summary": "Killenaule-born husband of Catherine Neagle and father of Thomas Heffernan of Lanespark; once shown as John's ancestor, but not of John's line.",
+  "bio": "Patrick Heffernan is recorded as born at Killenaule, County Tipperary, on 15 March 1763 and as dying at Lynn, Massachusetts, on 3 September 1871; a life of 108 years means that at least one of those dates is wrong. With his wife Catherine Neagle he was the father of Thomas Heffernan of Lanespark, baptized in 1791, who married Catherine Shelly in 1831. He was once shown as the father of John's ancestor Thomas Heffernan of Mardyke, but the history of the Heffernans of Slieveardagh shows that these were two different families with no proven link between them, so Patrick is not John's ancestor.",
   "facts": [
     {
       "label": "Tree shows",
@@ -42,6 +42,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064698.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "The tree shows Patrick Heffernan 1763-1871 (Ireland flag image) as father of 'Thomas Heffernan 1791'. A 108-year life means at least one date is wrong. In Dwyer's Heffernans of Slieveardagh, Patrick and Catherine Neagle are parents of Thomas 'of Lanespark' (Branch 1, bapt. 1791, m. Catherine Shelly 1831), not of John's Thomas 'of Mardyke'. Dwyer found no proven link between the two families. Remove from Andrew's line."
 }

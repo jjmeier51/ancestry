@@ -9,8 +9,8 @@
     "Henry Tuthill of Tharston"
   ],
   "tags": [],
-  "summary": "John's 12th-great-grandfather; died young at Tharston leaving five small children.",
-  "bio": "Baptized 18 Jun 1581 at Saxlingham Thorpe & Nethergate, 'child of John Tuttill' (Norfolk RO PD 281/1). Moved about 3 miles to Tharston. Will dated 20 Mar 1618, proved 20 Apr 1619, naming 'John Gooch, father[-in-law]', 'Margaret Rau(e), mother-in-law', 'Ann Woodyard, kinswoman', 'John Tuthill, brother', wife Alice and five children. Buried at Tharston 26 Mar 1618.",
+  "summary": "Norfolk yeoman who died young at Tharston in 1618, leaving a widow and five small children; John's 12th-great-grandfather.",
+  "bio": "Henry Tuthill was baptized on 18 June 1581 at Saxlingham Thorpe and Nethergate, Norfolk, England, the child of John Tuttill. He later moved about three miles to Tharston, where he was known as Henry Tuthill of Tharston. He died young: his will, dated 20 March 1618, was proved on 20 April 1619, and he was buried at Tharston on 26 March 1618. The will names his wife Alice and their five children, his brother John Tuthill, his father-in-law John Gooch, his mother-in-law Margaret Raue and a kinswoman, Ann Woodyard. He is John's 12th-great-grandfather.",
   "sources": [
     "Norfolk RO PD 281/1",
     "Akerly (1898) pp. 3–4",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0246.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -48,5 +52,6 @@
       "note": "Henry Tuthill, 1581-06-18 – 1618-03-26",
       "url": "https://www.wikitree.com/wiki/Tuthill-60"
     }
-  ]
+  ],
+  "researchNotes": "Baptized 18 Jun 1581 at Saxlingham Thorpe & Nethergate, 'child of John Tuttill' (Norfolk RO PD 281/1). Moved about 3 miles to Tharston. Will dated 20 Mar 1618, proved 20 Apr 1619, naming 'John Gooch, father[-in-law]', 'Margaret Rau(e), mother-in-law', 'Ann Woodyard, kinswoman', 'John Tuthill, brother', wife Alice and five children. Buried at Tharston 26 Mar 1618."
 }

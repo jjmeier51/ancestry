@@ -9,8 +9,8 @@
     "John Croop"
   ],
   "tags": [],
-  "summary": "Probably John's 1st cousin 6x removed; pioneer of Union (Hunlock) Township.",
-  "bio": "Son of Philip; John Croup/Croop (1783-1850), pioneer of Union (Hunlock) Twp with a 200-acre lot; married Elizabeth Sorber, daughter of Abraham Sorber (Plumb). The Croop mills descend from him.\n\nBradsby (1893) says John Croop came from Northampton Co. early in the county's settlement and took up a 200-acre lot in what is now Hunlock Twp. He was 'a man of energy and push, who did with his might whatsoever he put his hand to', and raised ten children, seven of whom were still living. His son William, Hiram's father, was born in Newport Twp. Bradsby also says that the Croops and Sorbers who came together were 'mill men' who built the sawmills on Hunlock's Creek ([R4-S1]). Plumb names his wife as Elizabeth Sorber (H0458). William's birth in Newport Twp. about 1805 puts John in Luzerne by then. That fits his brother Frederick's arrival about 1799-1800.",
+  "summary": "Pioneer of Union, now Hunlock, Township in Luzerne County and founder of the Croop mills on Hunlock's Creek; probably John's 1st cousin 6 times removed.",
+  "bio": "John Croup, whose name was also spelled Croop, was born in 1783, a son of Philip Croup. He came from Northampton County early in the settlement of Luzerne County, as his brother Frederick had done about 1799 or 1800, and took up a 200-acre lot in what is now Hunlock Township, then part of Union Township; his son William was born in Newport Township about 1805, so he was in the county by then. The Croops and the Sorbers who came with them were mill men, and they built the sawmills on Hunlock's Creek; the Croop mills descend from him.\n\nHe married Elizabeth Sorber, a daughter of Abraham Sorber. A county history of 1893 called him \"a man of energy and push, who did with his might whatsoever he put his hand to\", and recorded that he raised ten children, seven of whom were then still living. Among them was William, the father of Hiram Croop. He died in 1850.",
   "sources": [
     "Bradsby p.812",
     "WikiTree Croup-8: https://www.wikitree.com/wiki/Croup-8",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0207.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -65,5 +69,6 @@
       "place": "Union (now Hunlock) Twp., Luzerne Co., PA",
       "description": "Came from Northampton Co. with 'the numerous family of Sorbers'. Located on a 200-acre lot 'back of the mountain and up the creek' where Hiram Croop's mills were later built, and 'brought [it] to some degree of subjection'. His son William was born in Newport Twp. about 1805. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Son of Philip; John Croup/Croop (1783-1850), pioneer of Union (Hunlock) Twp with a 200-acre lot; married Elizabeth Sorber, daughter of Abraham Sorber (Plumb). The Croop mills descend from him.\n\nBradsby (1893) says John Croop came from Northampton Co. early in the county's settlement and took up a 200-acre lot in what is now Hunlock Twp. He was 'a man of energy and push, who did with his might whatsoever he put his hand to', and raised ten children, seven of whom were still living. His son William, Hiram's father, was born in Newport Twp. Bradsby also says that the Croops and Sorbers who came together were 'mill men' who built the sawmills on Hunlock's Creek ([R4-S1]). Plumb names his wife as Elizabeth Sorber (H0458). William's birth in Newport Twp. about 1805 puts John in Luzerne by then. That fits his brother Frederick's arrival about 1799-1800."
 }

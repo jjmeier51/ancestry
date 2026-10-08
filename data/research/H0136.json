@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th-great-grand-uncle (brother of Mary Connole Heffernan).",
-  "bio": "John Francis Connole was born at Elmira, NY, on 9 Mar 1853 and died 14 Mar 1923. He was 'educated in the public schools of Luzerne county' and briefly managed his father's Plymouth restaurant after 1878. On 19 Dec 1878 he married Mary E. Keating, daughter of Mrs. Mary (Russell) Keating (b. Co. Clare 1840), a widow who ran a hotel in Larksville from 1867, owned it and the next-door block, and whom Bradsby called 'a shrewd business woman'; the Russells had stopped at Wellsburg, NY (near Elmira) before Plymouth (1855) - the same Elmira-to-Plymouth route. His obituary names his mother 'Mary (Dwyer)' and stepmother 'Ann (Boner) Connole'. Father of Dr. Joseph V. Connole.\n\nFamilySearch lists his children with Mary Elizabeth Keating (b. Larksville Mar 1862, d. Plymouth 14 Jun 1914): Mary Celestine (1879-1950), Thomas L. (1882-1905), Dr. John Francis Jr. (1882-1945), Alethea B. (1884-1958), Dr. Joseph V. (b. 1890) and Annie (b. 1897) ([R4-S1], [R4-S2]).",
+  "summary": "Elmira-born son of Irish immigrants, briefly a Plymouth restaurant keeper and father of Dr. Joseph V. Connole; John's 4th-great-grand-uncle.",
+  "bio": "John Francis Connole was born at Elmira, Chemung County, New York, on 9 March 1853, a son of Thomas Connole and his wife Mary (Dwyer); his stepmother was Ann (Boner) Connole. He was \"educated in the public schools of Luzerne county\" and briefly managed his father's Plymouth restaurant after 1878. On 19 December 1878 he married Mary E. Keating, born at Larksville in March 1862, the daughter of Mrs. Mary (Russell) Keating, a widow born in County Clare in 1840 who ran a hotel in Larksville from 1867, owned it and the block next door, and was remembered as \"a shrewd business woman\". The Russells, like the Connoles, had paused at Wellsburg, NY, near Elmira before coming to Plymouth in 1855.\n\nThe family lived at Avondale in Plymouth Twp in 1880 and in Plymouth in 1910. Their children were Mary Celestine (1879–1950), Thomas L. (1882–1905), Dr. John Francis Jr. (1882–1945), Alethea B. (1884–1958), Dr. Joseph V., born in 1890, and Annie, born in 1897. Mary died at Plymouth on 14 June 1914. John F. Connole died on 14 March 1923 and was buried in Hanover Twp, Luzerne Co., Pa. He is John's 4th-great-grand-uncle, a brother of Mary Connole Heffernan.",
   "sources": [
     "Bradsby 1893, John F. Connole sketch p.~795 and Keating sketch p.~1049-1050: https://archive.org/details/historyofluzerne00brad",
     "Find a Grave 183145812: https://www.findagrave.com/memorial/183145812/john_francis-connole",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0136.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -62,5 +66,6 @@
       "label": "FamilySearch ID",
       "value": "GC1H-TDV"
     }
-  ]
+  ],
+  "researchNotes": "John Francis Connole was born at Elmira, NY, on 9 Mar 1853 and died 14 Mar 1923. He was 'educated in the public schools of Luzerne county' and briefly managed his father's Plymouth restaurant after 1878. On 19 Dec 1878 he married Mary E. Keating, daughter of Mrs. Mary (Russell) Keating (b. Co. Clare 1840), a widow who ran a hotel in Larksville from 1867, owned it and the next-door block, and whom Bradsby called 'a shrewd business woman'; the Russells had stopped at Wellsburg, NY (near Elmira) before Plymouth (1855) - the same Elmira-to-Plymouth route. His obituary names his mother 'Mary (Dwyer)' and stepmother 'Ann (Boner) Connole'. Father of Dr. Joseph V. Connole.\n\nFamilySearch lists his children with Mary Elizabeth Keating (b. Larksville Mar 1862, d. Plymouth 14 Jun 1914): Mary Celestine (1879-1950), Thomas L. (1882-1905), Dr. John Francis Jr. (1882-1945), Alethea B. (1884-1958), Dr. Joseph V. (b. 1890) and Annie (b. 1897) ([R4-S1], [R4-S2])."
 }

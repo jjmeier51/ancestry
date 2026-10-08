@@ -9,8 +9,8 @@
     "Joseph Heitzler of the Wehrlehof"
   ],
   "tags": [],
-  "summary": "Joseph Heitzler of the Wehrlehof, Oberried-Vörlinsbach; round-2 candidate C — ruled out.",
-  "bio": "Son of Andreas Haitzler (b. 1731 Wehrlehof) and Magdalena Maier of Falkensteig; grandparents Andreas Haitzler (b. c.1710) and Ottilia Maier. Married Maria Rombach (1781–1854); six daughters 1812–1822, four recorded (1812, 1813 Rosina, 1818, 1822). The family had 'grown poor' and lived in the Wehrlehof's Stöckle (retirement cottage). The Wehrlehof was the farm of Mathias Haizler & Ottilia Schirk (1723–24).",
+  "summary": "Joseph Heitzler of the Wehrlehof at Vörlinsbach near Oberried, husband of Maria Rombach; not the father of John's ancestor Agatha Heizler.",
+  "bio": "Joseph Heitzler belonged to the Wehrlehof, a farm at Vörlinsbach in Oberried, Breisgau-Hochschwarzwald, Baden-Württemberg, which in 1723–24 had been the farm of Mathias Haizler and Ottilia Schirk. He was the son of Andreas Haitzler, born at the Wehrlehof in 1731, and Magdalena Maier of Falkensteig, and a grandson of Andreas Haitzler, born about 1710, and Ottilia Maier. He married Maria Rombach (1781–1854), and they had six daughters between 1812 and 1822, four of whom are recorded, in 1812, 1813 (Rosina), 1818 and 1822. The family had \"grown poor\" and lived in the Stöckle, the retirement cottage of the Wehrlehof.\n\nHe was once considered as a possible father of John's ancestor Agatha Heizler, but that identification has been ruled out.",
   "sources": [
     "GEDBAS 1262183142 https://gedbas.genealogy.net/person/show/1262183142 ; 1262183143 https://gedbas.genealogy.net/person/show/1262183143 ; 1262183140 https://gedbas.genealogy.net/person/show/1262183140",
     "notes/round2/black_forest.md"
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0046.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Andreas Haitzler (b. 1731 Wehrlehof) and Magdalena Maier of Falkensteig; grandparents Andreas Haitzler (b. c.1710) and Ottilia Maier. Married Maria Rombach (1781–1854); six daughters 1812–1822, four recorded (1812, 1813 Rosina, 1818, 1822). The family had 'grown poor' and lived in the Wehrlehof's Stöckle (retirement cottage). The Wehrlehof was the farm of Mathias Haizler & Ottilia Schirk (1723–24)."
 }

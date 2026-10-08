@@ -14,8 +14,8 @@
   },
   "occupation": "Coal-mine laborer (1880)",
   "tags": [],
-  "summary": "John's 3rd great-uncle; eldest brother of Henry J. Meier.",
-  "bio": "Born 11 Nov 1862 in Germany (three weeks after his parents' wedding); coal-mine laborer at 18; married Anna Wenner 1886; died 1915 Hazleton. Could be the 'Fred. Meier' Democratic conferee of 1893.\n\nFrederick was born at Munzingen on 11 Jan 1862, nine months before his parents married. The baptism entry records his father's formal acknowledgement ([R4-S1]). He himself gave the same date, '11 January 1862', on his 1886 marriage docket ([R4-S2]). The tree's 11 Nov 1862 is a misreading and cannot be right, since his parents married in October 1862 and his sister Frances was born in March 1863.\n\nThe tree has only '1915' for his death. The 1915 state death index has no Frederick Meier, but it does list 'Meires, Fred; file 23949; Hazleton; died Mar. 15' ([R4-S3]). The 1910 census had indexed his wife as 'Annie E Mesirs', a similar garble, so this is very probably him: a man named Fred, in the right town and the right year. It is still an index entry and needs the certificate to confirm. Independent support comes from the Feb 1918 marriage docket of his daughter Agnes, a 27-year-old clerk, to Patrick Sweeney. It gives her father as 'Fred, dec'd, born Germany' and her mother as Anna Wenner of Hazleton ([R4-S4]), so he was dead before 1918.",
+  "summary": "Eldest brother of Henry J. Meier, born at Munzingen in 1862 and a coal-mine laborer at Hazleton; John's 3rd-great-uncle.",
+  "bio": "Frederick Meier was born at Munzingen in Baden on 11 January 1862, nine months before his parents Friedrich Mayer and Maria Anna Birkenmaier married; he was baptized under his mother's name, and the entry records his father's formal acknowledgement of him. He gave the same birth date himself when he married, so the date of 11 November 1862 sometimes attached to him is a misreading. He was the eldest brother of Henry J. Meier and John's 3rd-great-uncle.\n\nHe came to America with his family as a small boy and appears as an eight-year-old born in Baden in the 1870 census at Hazleton, Pennsylvania. By eighteen he was working as a coal-mine laborer. On 12 May 1886 he married Anna Wenner at Hazleton. He may have been the 'Fred. Meier' who served as a Democratic conferee in 1893. He died at Hazleton on 15 March 1915, very probably the 'Fred Meires' of the state death index for that year, and was buried there. When his daughter Agnes, a clerk of 27, married Patrick Sweeney in February 1918, she recorded her father as deceased and born in Germany, and her mother as Anna Wenner of Hazleton.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "1870 census Hazleton East Ward p.42 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/0/image.jpg",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085066.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -121,5 +125,6 @@
       ],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/1/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Born 11 Nov 1862 in Germany (three weeks after his parents' wedding); coal-mine laborer at 18; married Anna Wenner 1886; died 1915 Hazleton. Could be the 'Fred. Meier' Democratic conferee of 1893.\n\nFrederick was born at Munzingen on 11 Jan 1862, nine months before his parents married. The baptism entry records his father's formal acknowledgement ([R4-S1]). He himself gave the same date, '11 January 1862', on his 1886 marriage docket ([R4-S2]). The tree's 11 Nov 1862 is a misreading and cannot be right, since his parents married in October 1862 and his sister Frances was born in March 1863.\n\nThe tree has only '1915' for his death. The 1915 state death index has no Frederick Meier, but it does list 'Meires, Fred; file 23949; Hazleton; died Mar. 15' ([R4-S3]). The 1910 census had indexed his wife as 'Annie E Mesirs', a similar garble, so this is very probably him: a man named Fred, in the right town and the right year. It is still an index entry and needs the certificate to confirm. Independent support comes from the Feb 1918 marriage docket of his daughter Agnes, a 27-year-old clerk, to Patrick Sweeney. It gives her father as 'Fred, dec'd, born Germany' and her mother as Anna Wenner of Hazleton ([R4-S4]), so he was dead before 1918."
 }

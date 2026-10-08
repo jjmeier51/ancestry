@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Engineer and longtime owner of SSC Napoli in the Maradona era; same-surname, no proven kinship.",
-  "bio": "His father Modesto was a builder from Conflenti, next to San Mango d'Aquino.",
+  "summary": "Engineer and longtime owner of the SSC Napoli football club in the Maradona era; he shares the Ferlaino surname, but no kinship to John has been proven.",
+  "bio": "Corrado Ferlaino, born in 1931, was an engineer and for many years the owner of SSC Napoli during the Maradona era. His father Modesto was a builder from Conflenti, the village next to San Mango d'Aquino, home of John's Ferlaino ancestors. Beyond the shared surname and neighbouring home towns, no kinship with John's family has been proven.",
   "sources": [
     "it.wikipedia Corrado Ferlaino: https://it.wikipedia.org/wiki/Corrado_Ferlaino"
   ],
@@ -20,6 +20,11 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "His father Modesto was a builder from Conflenti, next to San Mango d'Aquino."
 }

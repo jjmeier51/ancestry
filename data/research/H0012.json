@@ -12,8 +12,8 @@
     "Fred A. Meier Sr."
   ],
   "tags": [],
-  "summary": "John's 2nd great-uncle; eldest brother of great-grandfather William F. Meier.",
-  "bio": "Born 15 Sep 1892 in Hazleton; laborer in a moulding shop aged 17 (1910). Speculative candidate for the 'Frederick Meier of Wilkes-Barre' whose wife Anna died 9 Feb 1940 aged 47 — which could be the source of the tree's '1940' for Henry.\n\nFrederick Aloysius Meier registered for the WWI draft in June 1917 at 298 Barney Street, Wilkes-Barre, his parents' address. He gave his birth as 15 Sep 1892 at Hazleton and was a moulder in the Vulcan Iron Works, Wilkes-Barre, with a wife and one child under 12 to support ([R4-S1]). He married Anna Mather on 21 Apr 1915 (FS tree). Their children, per the FamilySearch tree, were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James 'Harry' (1923–1943) ([R4-S5]). So the open question is answered: the 'Anna Meier (Mrs. Frederick), 47', who died in Wilkes-Barre on 9 Feb 1940, was his wife Anna Mather (b. 28 Aug 1892) ([R4-S5]).\n\nTwo months after Anna's death the 1940 census found Fred, 47 and widowed, lodging in Washington, DC, working 40 hours a week as a molder at the Navy Yard. He had been living in Wilkes-Barre in 1935 ([R4-S2]). His youngest son Harry enlisted in Washington in 1942 and was killed in Italy in July 1943 as a staff sergeant in the Army Air Forces (see new person). Fred remarried by 1942 to Lucy Virginia (Puterbaugh) Bartleson, a widow 14 years older (1878–1959) ([R4-S5]). He is placed at Dunellen, NJ in 1957. He died in lower Bucks County: the state index has 'MEIER FREDERICK A', 73, Bristol Twp., died 6 Mar 1966 ([R4-S4]). The FS tree says 10 Mar 1966 at Trevose. He was buried at St. Mary's, Hanover Twp. ([R4-S5]).",
+  "summary": "Iron moulder of Wilkes-Barre and later of the Washington Navy Yard, eldest brother of William F. Meier; John's 2nd great-uncle.",
+  "bio": "Fred Aloysius Meier was born at Hazleton, Pennsylvania, on 15 September 1892, the eldest brother of John's great-grandfather William F. Meier. By 1910, aged seventeen, he was a labourer in a moulding shop. On 21 April 1915, in Luzerne County, he married Anna Mather, who was born on 28 August 1892. When he registered for the First World War draft in June 1917, under the name Frederick Aloysius Meier, he was living at his parents' home on Barney Street in Wilkes-Barre and working as a moulder at the Vulcan Iron Works, with a wife and one young child to support. The couple's children were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James 'Harry' (1923–1943).\n\nAnna died at Wilkes-Barre on 9 February 1940, aged 47. Two months later the census found Fred, widowed, lodging in Washington, DC, and working forty hours a week as a moulder at the Navy Yard; he had still been living in Wilkes-Barre in 1935. His youngest son Harry enlisted in Washington in 1942 and was killed in Italy in July 1943 as a staff sergeant in the Army Air Forces. By 1942 Fred had married again, to Lucy Virginia (Puterbaugh) Bartleson (1878–1959), a widow fourteen years his senior. In 1957 he was living at Dunellen, New Jersey.\n\nHe died in Bristol Township, Bucks County, on 6 March 1966, aged 73, though some family records give 10 March at Trevose, and was buried in St. Mary's Cemetery, Hanover Township.",
   "sources": [
     "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
     "1910 census image",
@@ -58,6 +58,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0012.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -148,5 +152,6 @@
       "people": [],
       "url": "https://familysearch.org/ark:/61903/1:1:K7SY-D6H"
     }
-  ]
+  ],
+  "researchNotes": "Born 15 Sep 1892 in Hazleton; laborer in a moulding shop aged 17 (1910). Speculative candidate for the 'Frederick Meier of Wilkes-Barre' whose wife Anna died 9 Feb 1940 aged 47 — which could be the source of the tree's '1940' for Henry.\n\nFrederick Aloysius Meier registered for the WWI draft in June 1917 at 298 Barney Street, Wilkes-Barre, his parents' address. He gave his birth as 15 Sep 1892 at Hazleton and was a moulder in the Vulcan Iron Works, Wilkes-Barre, with a wife and one child under 12 to support ([R4-S1]). He married Anna Mather on 21 Apr 1915 (FS tree). Their children, per the FamilySearch tree, were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James 'Harry' (1923–1943) ([R4-S5]). So the open question is answered: the 'Anna Meier (Mrs. Frederick), 47', who died in Wilkes-Barre on 9 Feb 1940, was his wife Anna Mather (b. 28 Aug 1892) ([R4-S5]).\n\nTwo months after Anna's death the 1940 census found Fred, 47 and widowed, lodging in Washington, DC, working 40 hours a week as a molder at the Navy Yard. He had been living in Wilkes-Barre in 1935 ([R4-S2]). His youngest son Harry enlisted in Washington in 1942 and was killed in Italy in July 1943 as a staff sergeant in the Army Air Forces (see new person). Fred remarried by 1942 to Lucy Virginia (Puterbaugh) Bartleson, a widow 14 years older (1878–1959) ([R4-S5]). He is placed at Dunellen, NJ in 1957. He died in lower Bucks County: the state index has 'MEIER FREDERICK A', 73, Bristol Twp., died 6 Mar 1966 ([R4-S4]). The FS tree says 10 Mar 1966 at Trevose. He was buried at St. Mary's, Hanover Twp. ([R4-S5])."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 13th-great-grandfather, of Lavenham.",
-  "bio": "Will dated 1550; wife Agnes; sons William (of Melford) and Thomas.",
+  "summary": "John Hammond of Lavenham, husband of Agnes, whose will was dated 1550; John's 13th-great-grandfather.",
+  "bio": "John Hammond lived at Lavenham, where he made his will in 1550. His wife was Agnes, and his sons were William, of Melford, and Thomas. He is John's 13th-great-grandfather.",
   "sources": [
     "Hammond (1902)"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0247.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Will dated 1550; wife Agnes; sons William (of Melford) and Thomas."
 }

@@ -5,8 +5,8 @@
     "note": "Tree only; detached from John's direct line by the Round 3 correction."
   },
   "tags": [],
-  "summary": "Tree's mother of Maria d'Ambrosio; not John's ancestor after the correction.",
-  "bio": "Tree: Maddalena Gialanella (1764-1824). Gialanella's #1 US-emigration comune is Guardia Lombardi (11 arrivals), followed by neighbours Rocca San Felice and Teora (paese.app).",
+  "summary": "Maddalena Gialanella (1764–1824) of Guardia Lombardi, wife of Guiseppe D'Ambrosio; once placed as the mother of Maria d'Ambrosio, but not John's ancestor.",
+  "bio": "Maddalena Gialanella was born in 1764 at Guardia Lombardi, Avellino, Campania, Italy, and died there on 19 November 1824. She was the wife of Guiseppe D'Ambrosio. Guardia Lombardi, with its neighbours Rocca San Felice and Teora, was the chief home of the Gialanella name among families who later emigrated to the United States. She was formerly placed as the mother of Maria d'Ambrosio, but later research showed that she is not John's ancestor.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814957.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Maddalena Gialanella (1764-1824). Gialanella's #1 US-emigration comune is Guardia Lombardi (11 arrivals), followed by neighbours Rocca San Felice and Teora (paese.app)."
 }

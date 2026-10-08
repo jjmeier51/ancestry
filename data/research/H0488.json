@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0488.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -27,8 +31,10 @@
       "description": "Married Deborah, daughter of Richard Smith, patentee of Smithtown, 'the youngest sister of Elizabeth' (his stepmother). [R4-S1]"
     }
   ],
-  "bio": "Son of William Lawrence of Flushing by his first wife ([R4-S1]). Lawrence 1858 lists among his and Deborah's children Obediah (d. 1732), Daniel (d. 1757, m. Mary Redwood of Antigua and Newport), Samuel (of Black Stump), Joshua (d. abroad) and Adam (legislator and High Sheriff of Queens, d. 1780). His stepmother Elizabeth was his wife's sister. In-law (his children are John's cousins through Deborah).",
+  "bio": "William Lawrence was a son of William Lawrence of Flushing by his first wife. In 1680 he married Deborah, whose sister Elizabeth was his own stepmother. Their children included Obediah, who died in 1732; Daniel, who died in 1757 and married Mary Redwood of Antigua and Newport; Samuel of Black Stump; Joshua, who died abroad; and Adam, a legislator and High Sheriff of Queens, who died in 1780. William is related to John only by marriage; his children are John's cousins through their mother Deborah.",
   "sources": [
     "[R4-S1] Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 24-27, 34 (secondary) https://archive.org/details/historicalgeneal00lawr"
-  ]
+  ],
+  "researchNotes": "Son of William Lawrence of Flushing by his first wife ([R4-S1]). Lawrence 1858 lists among his and Deborah's children Obediah (d. 1732), Daniel (d. 1757, m. Mary Redwood of Antigua and Newport), Samuel (of Black Stump), Joshua (d. abroad) and Adam (legislator and High Sheriff of Queens, d. 1780). His stepmother Elizabeth was his wife's sister. In-law (his children are John's cousins through Deborah).",
+  "summary": "Son of William Lawrence of Flushing who married Deborah in 1680; related to John by marriage, his children being John's cousins through their mother."
 }

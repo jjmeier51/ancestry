@@ -12,11 +12,17 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604499706.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "The 1880 census of his presumed daughter Margaret (Mrs. Edward F. Jones) at Plymouth Township gives her father's birthplace as Ireland and her mother's as England ([R4-S1]), consistent with an Irish-born Patrick McIver living in England. Margaret's son Joseph's 1914 marriage docket writes her maiden name as \"Kiver\" ([R4-S2]). No record naming Patrick himself was found.",
+  "bio": "Patrick McIver was born in Ireland. He is the presumed father of Margaret McIver, the wife of Edward F. Jones of Plymouth, Pennsylvania. Margaret was born in England to an Irish father and an English mother, which fits an Irish-born Patrick who had settled in England; her maiden name was later written down as \"Kiver\" by one of her sons. He was John's 4th-great-grandfather.",
   "sources": [
     "[R4-S1] 1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg",
     "[R4-S2] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
-  ]
+  ],
+  "researchNotes": "The 1880 census of his presumed daughter Margaret (Mrs. Edward F. Jones) at Plymouth Township gives her father's birthplace as Ireland and her mother's as England ([R4-S1]), consistent with an Irish-born Patrick McIver living in England. Margaret's son Joseph's 1914 marriage docket writes her maiden name as \"Kiver\" ([R4-S2]). No record naming Patrick himself was found.",
+  "summary": "Irish-born father of Margaret McIver, the wife of Edward F. Jones of Plymouth, Pennsylvania; John's 4th-great-grandfather."
 }

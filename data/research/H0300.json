@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "Union rear admiral, Farragut's second-in-command at New Orleans 1862; John's 4th cousin 7x removed via Bull Smith.",
-  "bio": "Path: Bull Smith → Richard 2d → Richard 3rd (b. 1696) → Phebe Smith, m. (Capt.) Nathaniel Platt in 1776 → Phebe Platt, m. Judge William Bailey of Plattsburgh → Theodorus. Would have become 3C7R had Temperance been Ebenezer's daughter (ruled out). Same pages show Richard 3rd's daughter Sarah married Rev. Naphtali Daggett, later president of Yale (p. 471; in-law). F. K. Smith pp. 119–122 also list Charity Smith m. John Adams, Gloriana m. Joseph Bryant, Isaac Smith b. 30 Oct 1745 m. Margaret Field/Theal, and 'Shell Dick'.\n\nPelletreau's Bailey page ([R4-S1]) gives his line: Bull Smith -> Richard 2d -> Richard 3d (b. 16 Apr 1696) -> Phebe (b. 19 Aug 1743, m. 10 Nov 1776 Nathaniel Platt, a founder of Plattsburgh) -> Phebe (m. Judge William Bailey of Plattsburgh) -> Theodorus: 4th cousin 7 times removed. His wife Sarah Ann Platt was also a cousin, closer through Job Smith (Job 1st -> Job 2d -> Anna -> Richard 4th -> Dorothy (m. Isaac S. Platt) -> Sarah Ann: 4C6R), so their children descend from Bull Smith by several lines, as Pelletreau's five descent tables show.",
+  "summary": "Union rear admiral, Farragut's second-in-command at the capture of New Orleans in 1862; John's 4th cousin 7 times removed through Bull Smith.",
+  "bio": "Theodorus Bailey was born on 12 April 1805 and died on 10 February 1877. An officer of the US Navy, he rose to rear admiral and in the Civil War was Farragut's second-in-command at the capture of New Orleans in 1862.\n\nHe descended from Bull Smith of Smithtown through Richard Smith 2d and Richard Smith 3d, born 16 April 1696, whose daughter Phebe, born 19 August 1743, married Capt. Nathaniel Platt, a founder of Plattsburgh, on 10 November 1776. Their daughter Phebe Platt married Judge William Bailey of Plattsburgh and became the admiral's mother, which makes him John's 4th cousin 7 times removed. His wife, Sarah Ann Platt, was a cousin too, descending from Job Smith through Job 2d, Anna, Richard Smith 4th and Dorothy, who married Isaac S. Platt, so their children descended from Bull Smith by several lines. Richard Smith 3d's daughter Sarah, the admiral's great-aunt, married the Rev. Naphtali Daggett, later president of Yale.",
   "military": [
     {
       "branch": "US Navy",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0300.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -105,5 +109,6 @@
   },
   "death": {
     "date": "1877-02-10"
-  }
+  },
+  "researchNotes": "Path: Bull Smith → Richard 2d → Richard 3rd (b. 1696) → Phebe Smith, m. (Capt.) Nathaniel Platt in 1776 → Phebe Platt, m. Judge William Bailey of Plattsburgh → Theodorus. Would have become 3C7R had Temperance been Ebenezer's daughter (ruled out). Same pages show Richard 3rd's daughter Sarah married Rev. Naphtali Daggett, later president of Yale (p. 471; in-law). F. K. Smith pp. 119–122 also list Charity Smith m. John Adams, Gloriana m. Joseph Bryant, Isaac Smith b. 30 Oct 1745 m. Margaret Field/Theal, and 'Shell Dick'.\n\nPelletreau's Bailey page ([R4-S1]) gives his line: Bull Smith -> Richard 2d -> Richard 3d (b. 16 Apr 1696) -> Phebe (b. 19 Aug 1743, m. 10 Nov 1776 Nathaniel Platt, a founder of Plattsburgh) -> Phebe (m. Judge William Bailey of Plattsburgh) -> Theodorus: 4th cousin 7 times removed. His wife Sarah Ann Platt was also a cousin, closer through Job Smith (Job 1st -> Job 2d -> Anna -> Richard 4th -> Dorothy (m. Isaac S. Platt) -> Sarah Ann: 4C6R), so their children descend from Bull Smith by several lines, as Pelletreau's five descent tables show."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grand-uncle.",
-  "bio": "Thomas Jr. (1787-1830) was cut out in the 1826 codicil for 'interference and bad conduct'; his share went to his son Wesley. Possibly the War of 1812 private recorded on his father's grave marker.\n\nFamilySearch gives Thomas Jr. the dates 19 Aug 1787 to 17 Jul 1830 and has him marrying Mary Boston (1791-1882) at Sunbury in 1807. His children were born in Plymouth and Jackson Twps between 1814 and 1822. He appears in the 1830 census, and his father's probate file is attached ([R4-S1]).",
+  "summary": "Thomas Lamoreaux Jr., born at Monroe, New York, in 1787, who raised his family in Luzerne County, Pennsylvania; John's 5th-great-grand-uncle.",
+  "bio": "Thomas Lamoreaux Jr. was born at Monroe, Orange County, New York, on 19 August 1787. Family records say he married Mary Boston (1791–1882) at Sunbury, Pennsylvania, in 1807, and that his children were born in Plymouth and Jackson Townships between 1814 and 1822. He may have been the War of 1812 private recorded on his father's grave marker. In 1826 his father cut him out of his will by codicil for 'interference and bad conduct', passing his share to Thomas's son Wesley. He was living in Luzerne County in 1830 and died on 17 July 1830.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0179.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -71,5 +75,6 @@
       "label": "FamilySearch ID",
       "value": "LHPN-LRK"
     }
-  ]
+  ],
+  "researchNotes": "Thomas Jr. (1787-1830) was cut out in the 1826 codicil for 'interference and bad conduct'; his share went to his son Wesley. Possibly the War of 1812 private recorded on his father's grave marker.\n\nFamilySearch gives Thomas Jr. the dates 19 Aug 1787 to 17 Jul 1830 and has him marrying Mary Boston (1791-1882) at Sunbury in 1807. His children were born in Plymouth and Jackson Twps between 1814 and 1822. He appears in the 1830 census, and his father's probate file is attached ([R4-S1])."
 }

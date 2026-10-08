@@ -13,8 +13,8 @@
     "place": "San Mango d'Aquino"
   },
   "tags": [],
-  "summary": "John's maternal 4th great-grandmother, of San Mango d'Aquino (an earlier Ferlaino-Fiorillo marriage, two generations before Leopoldo Ferlaino married Giuseppina Fiorillo).",
-  "bio": "Tree: Giuseppina Ferlaino (1811-1877). Round 3 origins map gives her as 'b. c.1808'. Confirmed as mother of Domenico Fiorillo (b. 27 Dec 1840) in Nati 1840 act 79. Ferlaino is genuinely a San Mango family (229 entries in 1674-1804 stati delle anime).\n\nGiuseppina was born on 26 July 1811 and baptized two days later, daughter of Vincenzo Ferlaino and Maria Colosimo ([R4-S1]). An elder sister of the same name, born in March 1810, died as an infant ([R4-S2]). Giuseppina married Carmine Fiorillo, a contadino from Savuto in the Aiello area, in a civil ceremony on 1 March 1840 and in church on 3 March 1840 ([R4-S3], [R4-S4]). Their son Domenico followed in December. She was buried at San Mango on 1 February 1877, aged 70, as the daughter of the late Vincenzo and Maria Colosimo ([R4-S5]). The index misprints her first name as 'Joseph'.",
+  "summary": "Daughter of Vincenzo Ferlaino and Maria Colosimo of San Mango d'Aquino, wife of Carmine Fiorillo; John's maternal 4th-great-grandmother.",
+  "bio": "Giuseppina Ferlaino was born at San Mango d'Aquino on 26 July 1811 and baptised two days later, the daughter of Vincenzo Ferlaino and Maria Colosimo; an elder sister of the same name, born in March 1810, had died as an infant. The Ferlainos were a long-established San Mango family, recorded in the parish from the 1670s onward.\n\nShe married Carmine Fiorillo, a contadino from Savuto in the Aiello area, in a civil ceremony on 1 March 1840 and in church two days later; their son Domenico was born that December. She was buried at San Mango on 1 February 1877, aged 70. Hers was an earlier Ferlaino-Fiorillo marriage, two generations before Leopoldo Ferlaino married Giuseppina Fiorillo. She is John's maternal 4th-great-grandmother.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -65,6 +65,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815724.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -74,5 +78,6 @@
       "place": "San Mango d'Aquino",
       "description": "Married Carmine Fiorillo [R4-S3] [R4-S4]"
     }
-  ]
+  ],
+  "researchNotes": "Tree: Giuseppina Ferlaino (1811-1877). Round 3 origins map gives her as 'b. c.1808'. Confirmed as mother of Domenico Fiorillo (b. 27 Dec 1840) in Nati 1840 act 79. Ferlaino is genuinely a San Mango family (229 entries in 1674-1804 stati delle anime).\n\nGiuseppina was born on 26 July 1811 and baptized two days later, daughter of Vincenzo Ferlaino and Maria Colosimo ([R4-S1]). An elder sister of the same name, born in March 1810, died as an infant ([R4-S2]). Giuseppina married Carmine Fiorillo, a contadino from Savuto in the Aiello area, in a civil ceremony on 1 March 1840 and in church on 3 March 1840 ([R4-S3], [R4-S4]). Their son Domenico followed in December. She was buried at San Mango on 1 February 1877, aged 70, as the daughter of the late Vincenzo and Maria Colosimo ([R4-S5]). The index misprints her first name as 'Joseph'."
 }

@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0503.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -34,9 +38,11 @@
       "note": "Head, 42, born Italy, naturalized, owned home ($1,700); car repairer for a railroad company; wife Josephine 35; Vito, Carmella, Marie. [R4-S1]"
     }
   ],
-  "bio": "In 1940 Nicholas Castellano, 42, born in Italy and naturalized, owned 1003 Bunker Hill Street and worked as a railroad car repairer ([R4-S1]). He had died before his wife Josephine, who died in Phoenix in 1995 and was not survived by a husband ([R4-S2]). FamilySearch gives him 1898–1982.",
+  "bio": "Nicola Castellano, known in America as Nicholas, was born in Italy about 1898 and became a naturalized citizen of the United States. In 1940 he was 42, owned the family home at 1003 Bunker Hill Street in Scranton and worked as a car repairer for a railroad company. Records give his death as 1982; in any case he died before his wife Josephine, who died in Phoenix in 1995.",
   "sources": [
     "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
     "[R4-S2] Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P). (secondary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg"
-  ]
+  ],
+  "researchNotes": "In 1940 Nicholas Castellano, 42, born in Italy and naturalized, owned 1003 Bunker Hill Street and worked as a railroad car repairer ([R4-S1]). He had died before his wife Josephine, who died in Phoenix in 1995 and was not survived by a husband ([R4-S2]). FamilySearch gives him 1898–1982.",
+  "summary": "Nicholas Castellano, an Italian-born railroad car repairer of Bunker Hill Street, Scranton, and husband of Josephine."
 }

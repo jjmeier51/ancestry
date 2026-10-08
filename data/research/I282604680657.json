@@ -20,6 +20,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604680657.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -71,7 +75,7 @@
       "value": "GZQT-113"
     }
   ],
-  "bio": "William Bernard McGuire, Kathryn's uncle, was a 21-year-old laborer at 19 Oak Street, Wilkes-Barre, when he applied to marry Mary Marguerite Prout of Lyndwood, Hanover Township, on 25 Nov 1927; they were married the next day by Rev. D. W. McCarthy, the same priest who married William F. Meier and Florence Pringle in 1926 ([R4-S1]). His application names his late parents James McGuire, born at Danville, Pa., and Anna Jones, born in England. Marguerite died in 1934; he remarried Alice Theressa Brennan in 1939, and died at Mountain Top in September 1975 ([R4-S2]; a GenealogyBank obituary index entry is attached there).",
+  "bio": "William Bernard McGuire was born on 17 September 1906 at Plymouth, Luzerne County, Pennsylvania, or by another record at nearby Larksville, where he was living in 1910 and 1920. He was a son of James McGuire, born at Danville, Pennsylvania, and Anna Jones, born in England, both of whom had died by 1927, and he was an uncle of Kathryn McGuire.\n\nOn 25 November 1927, a 21-year-old laborer living in Wilkes-Barre, he applied to marry Mary Marguerite Prout of Lyndwood, Hanover Township. They were married the next day by Rev. D. W. McCarthy, the same priest who had married William F. Meier and Florence Pringle the year before. Marguerite died in 1934, and on 29 December 1939 William married Alice Theressa Brennan in Luzerne County. He died in September 1975 at Mountain Top, Fairview Township, and was buried at St. Mary's Cemetery, Hanover Township.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): 1927 marriage application names parents James McGuire and Anna Jones."
@@ -94,5 +98,7 @@
       ],
       "url": "https://familysearch.org/ark:/61903/1:1:KHXY-TFM"
     }
-  ]
+  ],
+  "researchNotes": "William Bernard McGuire, Kathryn's uncle, was a 21-year-old laborer at 19 Oak Street, Wilkes-Barre, when he applied to marry Mary Marguerite Prout of Lyndwood, Hanover Township, on 25 Nov 1927; they were married the next day by Rev. D. W. McCarthy, the same priest who married William F. Meier and Florence Pringle in 1926 ([R4-S1]). His application names his late parents James McGuire, born at Danville, Pa., and Anna Jones, born in England. Marguerite died in 1934; he remarried Alice Theressa Brennan in 1939, and died at Mountain Top in September 1975 ([R4-S2]; a GenealogyBank obituary index entry is attached there).",
+  "summary": "Laborer of Wilkes-Barre, twice married, who died at Mountain Top in 1975; uncle of Kathryn McGuire."
 }

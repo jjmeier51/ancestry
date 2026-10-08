@@ -10,7 +10,7 @@
     "Major James Reeve of Mattituck"
   ],
   "tags": [],
-  "summary": "Tree-only; not John's ancestor (Reeve line at risk/removed).",
+  "summary": "Major James Reeve of Mattituck, whose daughter Hannah married Joshua Tuthill; father-in-law of John's 9th-great-granduncle, not an ancestor.",
   "facts": [
     {
       "label": "Tree shows",
@@ -42,7 +42,12 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695583872.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Akerly ([R4-S1]) records that Joshua Tuthill of Cutchogue (b. 1690, son of John Tuthill Jr & Mehitable Wells) married Hannah, 'da. of Major James Reeve of Mattituck', who died 8 Mar 1764 aged 64. This is the tree's 'Captain James Reeves' (father of Hannah, I282695486799). He is therefore the father-in-law of John's 9th-great-granduncle Joshua Tuthill, an in-law and not an ancestor, consistent with the earlier correction that Hannah married Joshua, not James."
+  "bio": "James Reeve, remembered as Major James Reeve of Mattituck and recorded in the family as Captain James Reeves, was born at Mattituck on Long Island on 14 March 1672 and died there on his sixtieth birthday, 14 March 1732. His daughter Hannah, who died on 8 March 1764 aged sixty-four, married Joshua Tuthill of Cutchogue, born in 1690, the son of John Tuthill Jr. and Mehitable Wells.\n\nJoshua Tuthill was John's 9th-great-granduncle, so James Reeve is an in-law of the family rather than one of John's ancestors.",
+  "researchNotes": "Akerly ([R4-S1]) records that Joshua Tuthill of Cutchogue (b. 1690, son of John Tuthill Jr & Mehitable Wells) married Hannah, 'da. of Major James Reeve of Mattituck', who died 8 Mar 1764 aged 64. This is the tree's 'Captain James Reeves' (father of Hannah, I282695486799). He is therefore the father-in-law of John's 9th-great-granduncle Joshua Tuthill, an in-law and not an ancestor, consistent with the earlier correction that Hannah married Joshua, not James."
 }

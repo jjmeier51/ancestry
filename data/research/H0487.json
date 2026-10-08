@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0487.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -39,7 +43,7 @@
       "description": "Married (as his second wife) Elizabeth (Smith), widow of Gov. Philip Carteret. [R4-S1]"
     }
   ],
-  "bio": "Eighth son of Nicholas Townley of Littleton (then Middlesex); member of the East New Jersey Council (1686) and of the New York Provincial Council (1692, 1697); presiding judge of the Essex County Quarter Sessions at his death in April 1711 ([R4-S1]). In-law.",
+  "bio": "Col. Richard Townley was the eighth son of Nicholas Townley of Littleton, then in Middlesex, England. He emigrated to Virginia in 1683 and married at Elizabethtown, New Jersey, in 1685. He sat on the East New Jersey Council in 1686 and on the New York Provincial Council in 1692 and 1697, and at his death in April 1711 he was presiding judge of the Essex County Quarter Sessions. He is related to John only by marriage.",
   "sources": [
     "[R4-S1] Wikipedia, 'Richard Townley' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Richard_Townley"
   ],
@@ -53,5 +57,7 @@
       "note": "Reusable under CC BY-SA 4.0; not downloaded (in-law; modern drawing). (not downloaded: rights cc (CC BY-SA 4.0))",
       "people": []
     }
-  ]
+  ],
+  "researchNotes": "Eighth son of Nicholas Townley of Littleton (then Middlesex); member of the East New Jersey Council (1686) and of the New York Provincial Council (1692, 1697); presiding judge of the Essex County Quarter Sessions at his death in April 1711 ([R4-S1]). In-law.",
+  "summary": "Colonel Richard Townley, an English-born councillor and judge in colonial New Jersey and New York; an in-law of John's family."
 }

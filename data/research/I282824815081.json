@@ -5,8 +5,8 @@
     "note": "Tree only; identical death year to husband; detached from John's line."
   },
   "tags": [],
-  "summary": "Tree ancestor of Maria d'Ambrosio; not John's ancestor.",
-  "bio": "Tree: Arcangiola Giordano (d. 1819). Giordano is the top surname of Guardia Lombardi emigrants (39 arrivals 1830-1912, paese.app).",
+  "summary": "An ancestor of Maria d'Ambrosio who died before 1819; not an ancestor of John himself.",
+  "bio": "Arcangiola Giordano died before 1819. She is recorded as an ancestor of Maria d'Ambrosio, but she is not an ancestor of John himself. Giordano was the most common surname among the emigrants from Guardia Lombardi, with thirty-nine recorded arrivals in America between 1830 and 1912.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815081.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Arcangiola Giordano (d. 1819). Giordano is the top surname of Guardia Lombardi emigrants (39 arrivals 1830-1912, paese.app)."
 }

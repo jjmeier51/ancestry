@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "Probably John's 3rd cousin 4x removed.",
-  "bio": "Alvin ('Albin') Croop (1836-1872), private, Co. K, 203rd PA, Sept 1864 - June 1865; the 203rd fought at Fort Fisher.",
+  "summary": "Civil War private in the 203rd Pennsylvania Infantry, which fought at Fort Fisher; probably John's 3rd cousin 4 times removed.",
+  "bio": "Alvin Croop, whose name was also written Albin, was born in 1836. During the Civil War he served as a private in Company K of the 203rd Pennsylvania Infantry from September 1864 to June 1865; the regiment fought at Fort Fisher, North Carolina. He died in 1872. He was probably John's 3rd cousin 4 times removed.",
   "military": [
     {
       "branch": "US Army (Pennsylvania Volunteers)",
@@ -49,6 +49,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0211.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -85,5 +89,6 @@
       "file": "media/H0211/h0211-croop-42.jpg"
     }
   ],
-  "photo": "media/H0211/h0211-croop-42.jpg"
+  "photo": "media/H0211/h0211-croop-42.jpg",
+  "researchNotes": "Alvin ('Albin') Croop (1836-1872), private, Co. K, 203rd PA, Sept 1864 - June 1865; the 203rd fought at Fort Fisher."
 }

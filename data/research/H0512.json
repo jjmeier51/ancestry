@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0512.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -30,9 +34,11 @@
       "note": "Mother, 78, widowed, born Italy, alien; living with son John DiBiasi, his wife Effie and sons Dominic, Vito, Nicholas, Victor. [R4-S1]"
     }
   ],
-  "bio": "In April 1940 Victoria, 78 and widowed, still an alien, lived with her son John DiBiasi's family at 1009 Bunker Hill Street ([R4-S1]). The FamilySearch tree also attaches a 1930 census entry ('Victoria Piazzi') ([R4-S2]).",
+  "bio": "Victoria DiPietro was born in Italy about 1862. By April 1940 she was a widow of 78, still an Italian citizen, living with the family of her son John DiBiasi at 1009 Bunker Hill Street in Scranton, Pennsylvania. She may also be the Victoria Piazzi recorded in the 1930 census.",
   "sources": [
     "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
     "[R4-S2] FamilySearch Family Tree published profile G812-H28 (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G812-H28"
-  ]
+  ],
+  "researchNotes": "In April 1940 Victoria, 78 and widowed, still an alien, lived with her son John DiBiasi's family at 1009 Bunker Hill Street ([R4-S1]). The FamilySearch tree also attaches a 1930 census entry ('Victoria Piazzi') ([R4-S2]).",
+  "summary": "Italian-born widow who in 1940 lived with her son John DiBiasi's family on Bunker Hill Street in Scranton."
 }

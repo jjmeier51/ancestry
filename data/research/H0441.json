@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0441.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -67,7 +71,7 @@
       "value": "WC 329170"
     }
   ],
-  "bio": "The husband of Ellen Jane Pringle (daughter of Andrew G. Pringle and Catherine Scott) was a Civil War veteran. His Veterans Administration master index card reads 'Randall, Francis J., Pvt 2 Batty Conn Vol Lt Art', enlisted 23 Feb 1864, discharged 9 Aug 1865, died 15 Nov 1890, with a widow's pension certificate (WC 329170) and claim number XC 2665391, and an address at 39 Lawrence St., Wilkes-Barre ([R4-S1]). The FamilySearch tree gives his birth as about 1846 in Pennsylvania and a first marriage, about 1868, to Sarah E. VanDuzen (1849-1876), by whom he had a daughter Katherine May (b. Plymouth 24 Apr 1869). He then married Ellen Jane Pringle at Plymouth on 14 Dec 1876, when she was 14, and they had Frederick (1878-1931) and Gertrude Helen (1882-1956). He was in Lackawanna Twp. in 1870 and Plymouth in 1880 (as 'Frank Randel'), and died at Plymouth on 15 Nov 1890 ([R4-S2]). Bradsby (1893) names Ellen's husband as 'Francis Randell' ([R4-S3]).\n\nThe 1938 Pennsylvania death index lists Ellen J. Randall of Wilkes-Barre, died 12 Mar 1938, file 30118. That fits the FS tree date for his widow ([R4-S4]).",
+  "bio": "Francis J. Randall, whose name also appears as Randell and Randel, was born in Pennsylvania about 1846. In the Civil War he served as a private in the 2nd Battery, Connecticut Volunteer Light Artillery, enlisting on 23 February 1864 and receiving his discharge on 9 August 1865. About 1868 he married Sarah E. VanDuzen (1849–1876), and their daughter Katherine May was born at Plymouth on 24 April 1869. In 1870 he was living in Lackawanna Township.\n\nWidowed in 1876, he married Ellen Jane Pringle, the daughter of Andrew G. Pringle and Catherine Scott, at Plymouth on 14 December 1876, when she was only 14. Their children were Frederick (1878–1931) and Gertrude Helen (1882–1956). He was living at Plymouth in 1880 and died there on 15 November 1890, after which Ellen drew a widow's pension for his war service. She survived him by many years and died at Wilkes-Barre on 12 March 1938.",
   "openQuestions": [
     "Why a Connecticut battery for a Pennsylvania-born man? Check Connecticut adjutant-general roster of the 2nd Light Battery for residence/enlistment place.",
     "Widow's pension file WC 329170 (NARA) should prove the 1876 marriage and give Ellen's details."
@@ -91,5 +95,7 @@
       ],
       "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3RX-RC3"
     }
-  ]
+  ],
+  "researchNotes": "The husband of Ellen Jane Pringle (daughter of Andrew G. Pringle and Catherine Scott) was a Civil War veteran. His Veterans Administration master index card reads 'Randall, Francis J., Pvt 2 Batty Conn Vol Lt Art', enlisted 23 Feb 1864, discharged 9 Aug 1865, died 15 Nov 1890, with a widow's pension certificate (WC 329170) and claim number XC 2665391, and an address at 39 Lawrence St., Wilkes-Barre ([R4-S1]). The FamilySearch tree gives his birth as about 1846 in Pennsylvania and a first marriage, about 1868, to Sarah E. VanDuzen (1849-1876), by whom he had a daughter Katherine May (b. Plymouth 24 Apr 1869). He then married Ellen Jane Pringle at Plymouth on 14 Dec 1876, when she was 14, and they had Frederick (1878-1931) and Gertrude Helen (1882-1956). He was in Lackawanna Twp. in 1870 and Plymouth in 1880 (as 'Frank Randel'), and died at Plymouth on 15 Nov 1890 ([R4-S2]). Bradsby (1893) names Ellen's husband as 'Francis Randell' ([R4-S3]).\n\nThe 1938 Pennsylvania death index lists Ellen J. Randall of Wilkes-Barre, died 12 Mar 1938, file 30118. That fits the FS tree date for his widow ([R4-S4]).",
+  "summary": "Civil War artilleryman of Plymouth, Pennsylvania, and husband of Ellen Jane Pringle, daughter of Andrew G. Pringle and Catherine Scott."
 }

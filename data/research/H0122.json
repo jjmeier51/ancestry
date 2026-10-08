@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Brother of John's 3rd-great-grandfather Andrew H. Heffernan.",
-  "bio": "Baptized 22 Dec 1844, son of Thomas Heffernan and Catherine Boney.",
+  "summary": "Tipperary-born son of Thomas Heffernan and Catherine Boney; brother of John's 3rd-great-grandfather Andrew H. Heffernan.",
+  "bio": "Richard Heffernan was baptized in County Tipperary, Ireland, on 22 December 1844, a son of Thomas Heffernan and Catherine Boney. He was a brother of Andrew H. Heffernan, John's 3rd-great-grandfather.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0122.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Baptized 22 Dec 1844, son of Thomas Heffernan and Catherine Boney."
 }

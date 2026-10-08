@@ -12,8 +12,8 @@
     "Angeline Butchko"
   ],
   "tags": [],
-  "summary": "John's great-grandaunt.",
-  "bio": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article.",
+  "summary": "Scranton-born daughter of the Cognetti family who married a Butchko; John's great-grandaunt.",
+  "bio": "Angeline Cognetti was born in Pennsylvania in 1922 and was John's great-grandaunt. She grew up in Scranton, where the family was living in 1935 and 1940, and was still at home with her parents in 1950, aged twenty-eight. She later married and took the name Butchko. She had died by 2016.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -45,6 +45,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503587.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article."
 }

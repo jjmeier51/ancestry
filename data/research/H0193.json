@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 7th-great-grand-uncle (son of Daniel and Jeanne); Loyalist.",
-  "bio": "Son of Daniel Lamoureux and Jeanne Masse, b. 1739; Loyalist who went to New Brunswick, then Scarborough near Toronto; ancestor of the Utah Lamoreauxs incl. Andrew L. Lamoreaux.",
+  "summary": "Loyalist son of Daniel Lamoureux and Jeanne Masse who settled in Canada and founded the Utah Lamoreaux line; John's 7th-great-grand-uncle.",
+  "bio": "Joshua Lamoureux, born in 1739, was a son of Daniel Lamoureux and Jeanne Masse. A Loyalist during the Revolution, he went to New Brunswick and later settled at Scarborough near Toronto. He was the ancestor of the Lamoreaux family of Utah, among them Andrew L. Lamoreaux. He was probably John's 7th-great-grand-uncle.",
   "sources": [
     "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0193.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Daniel Lamoureux and Jeanne Masse, b. 1739; Loyalist who went to New Brunswick, then Scarborough near Toronto; ancestor of the Utah Lamoreauxs incl. Andrew L. Lamoreaux."
 }

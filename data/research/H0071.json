@@ -10,8 +10,8 @@
     "Ann Boney"
   ],
   "tags": [],
-  "summary": "John's 5th-great-grandmother; wife of Thomas Boney of Lickfinn, Gortnahoe.",
-  "bio": "Jude (Judith) Quigley is named as Catherine Boney's mother in the Gortnahoe baptism of 28 Feb 1814 (Dwyer). Catherine named her first child Jude (bapt. 1839), supporting the name. The 1904 Luzerne death register instead gives 'Ann'; the baptism is the better source, and the 1904 informant may have confused her with Anastasia ('Anty') Boney.",
+  "summary": "Wife of Thomas Boney of Lickfinn, Gortnahoe, County Tipperary, and mother of Catherine Boney Heffernan; John's 5th-great-grandmother.",
+  "bio": "Jude, or Judith, Quigley was the wife of Thomas Boney of Lickfinn, near Gortnahoe in County Tipperary, and the mother of Catherine Boney, whose baptism at Gortnahoe on 28 February 1814 names her. Catherine later named her own first child Jude, baptized in 1839, after her mother. When Catherine died in Luzerne County, Pennsylvania, in 1904, the death register gave her mother's name as 'Ann'; the baptism is the better record, and the informant may have confused Jude with Anastasia 'Anty' Boney.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "Luzerne Register of Deaths p.208 (1904)"
@@ -40,6 +40,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0071.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Jude (Judith) Quigley is named as Catherine Boney's mother in the Gortnahoe baptism of 28 Feb 1814 (Dwyer). Catherine named her first child Jude (bapt. 1839), supporting the name. The 1904 Luzerne death register instead gives 'Ann'; the baptism is the better source, and the 1904 informant may have confused her with Anastasia ('Anty') Boney."
 }

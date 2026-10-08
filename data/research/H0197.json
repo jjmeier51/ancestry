@@ -9,8 +9,8 @@
     "Joshua Mersereau (1658)"
   ],
   "tags": [],
-  "summary": "John's 10th-great-grand-uncle (brother of Elizabeth Mersereau Masse).",
-  "bio": "Josué Mercereau 'de Moise en St. onge' married Marie Chadaine 'de Yers [Hiers] en St. onge' at the French Church of New York on 16 Jul 1693 (witnesses incl. Pierre Masse). Probably the Joshua (1658) ancestor of the Staten Island spy Joshua Mersereau.",
+  "summary": "Huguenot from Saintonge who married Marie Chadaine at the French Church of New York in 1693; John's 10th-great-grand-uncle.",
+  "bio": "Josué Mersereau, also written Mercereau and known in English as Joshua, was born in 1658. He was a brother of Elizabeth Mersereau Masse, which makes him John's 10th-great-grand-uncle. On 16 July 1693 he married Marie Chadaine at the French Church of New York; the register describes him as \"de Moise en St. onge\" and his bride as \"de Yers en St. onge\", and Pierre Masse was among the witnesses. He was probably the Joshua Mersereau, born 1658, from whom the Staten Island spy Joshua Mersereau descended.",
   "sources": [
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu pp.29-31",
     "WikiTree Mersereau-1"
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0197.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Josué Mercereau 'de Moise en St. onge' married Marie Chadaine 'de Yers [Hiers] en St. onge' at the French Church of New York on 16 Jul 1693 (witnesses incl. Pierre Masse). Probably the Joshua (1658) ancestor of the Staten Island spy Joshua Mersereau."
 }

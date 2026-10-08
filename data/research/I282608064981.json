@@ -21,8 +21,8 @@
     "Johann Birkenmayer"
   ],
   "tags": [],
-  "summary": "John's 5th great-grandfather; day labourer of Munzingen, possibly earlier a seigneurial official ('herrschaftl. Waibel[?]').",
-  "bio": "Johann Evangelist Birkenmayer was born 10 Jan 1771 and died at Munzingen 17 Dec 1844 (No. 14), buried 20 Dec: 'Johann Ev. Birkenmayer, alt 73 Jahre und 11 Monate, Wittwer und Taglöhner dahier. Geboren den 10ten Jenner 1771'. The 1836 marriage of his son calls him 'Johann Birkenmayer, herrschaftl. Waibel[?]' (reading uncertain; a seigneurial bailiff/beadle) and his wife Magdalena Erb deceased. The 'E.' in the tree is Evangelist. The Dreisamtal database never found him because he lived in Munzingen; the nearest Kirchzarten man, Johann Birkenmaier (1762–8 Sep 1847) married to Gertrud Steinhart (GEDBAS 1420125755), is a different person. Other Munzingen Birkenmayers of his time: Johannes Birkenmayer, father of Maria Anna (1810–1865, m. Salesius Schuhmacher); Johann Birkenmeier b. 1808 (mason in Basel); infant deaths 1832; mason Anton Birkenmaier; a Joseph Birkenmaier witness 1810 — relationships unworked. The tree gives him parents Matthias Birkenmayer (1739–1803) and Caecilia Hohler (1752–).",
+  "summary": "Day labourer of Munzingen in Baden, perhaps earlier a seigneurial official, and father of Servatius Birkenmayer; John's 5th-great-grandfather.",
+  "bio": "Johann Evangelist Birkenmayer was born on 10 January 1771 at Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany; family records name his parents as Matthias Birkenmayer (1739–1803) and Caecilia Hohler, born in 1752. He married Magdalena Erb, and their children included Servatius Birkenmayer. When Servatius married in 1836 the register described his father as \"herrschaftl. Waibel\", which, if the reading is right, means a bailiff or beadle in the service of the local lordship, and noted that Magdalena was already dead.\n\nHe died at Munzingen on 17 December 1844, a widower and day labourer aged 73 years and 11 months, and was buried on 20 December. He is not to be confused with a Johann Birkenmaier of Kirchzarten (1762–1847), husband of Gertrud Steinhart, who was a different man. Johann Evangelist was John's 5th-great-grandfather.",
   "facts": [
     {
       "label": "Tree says",
@@ -63,6 +63,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064981.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Johann Evangelist Birkenmayer was born 10 Jan 1771 and died at Munzingen 17 Dec 1844 (No. 14), buried 20 Dec: 'Johann Ev. Birkenmayer, alt 73 Jahre und 11 Monate, Wittwer und Taglöhner dahier. Geboren den 10ten Jenner 1771'. The 1836 marriage of his son calls him 'Johann Birkenmayer, herrschaftl. Waibel[?]' (reading uncertain; a seigneurial bailiff/beadle) and his wife Magdalena Erb deceased. The 'E.' in the tree is Evangelist. The Dreisamtal database never found him because he lived in Munzingen; the nearest Kirchzarten man, Johann Birkenmaier (1762–8 Sep 1847) married to Gertrud Steinhart (GEDBAS 1420125755), is a different person. Other Munzingen Birkenmayers of his time: Johannes Birkenmayer, father of Maria Anna (1810–1865, m. Salesius Schuhmacher); Johann Birkenmeier b. 1808 (mason in Basel); infant deaths 1832; mason Anton Birkenmaier; a Joseph Birkenmaier witness 1810 — relationships unworked. The tree gives him parents Matthias Birkenmayer (1739–1803) and Caecilia Hohler (1752–)."
 }

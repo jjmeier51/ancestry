@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nIn April 1940 Charles J., 24, a steam-railroad trackman, lived in his widowed mother's house at 133 Sand Street with his wife Jeanette and their baby daughter ([R4-S1]). He is probably the unnamed 4-year-old son in the January 1920 census ([R4-S2]).",
+  "summary": "Dunmore railroad trackman, brother of Carmela \"Mollie\" Gianetta; John's great-grand-uncle.",
+  "bio": "Charles J. Giannetta, also recorded as Charles J. Genett, was born in 1916, one of the Giannetta children of Dunmore. His siblings were Savino (1897-1964), Mariano Martin (1899-1941), Maria (born 1902), Antonio (1907-1998), Giuseppe (1912-1971), Rosa (born 1914) and Carmela \"Mollie\"; he is John's great-grand-uncle. The family lived in Dunmore from at least 1910 to 1930, and Charles is probably the unnamed four-year-old son recorded there in January 1920.\n\nBy April 1940 he was 24 and a trackman on a steam railroad, living with his wife Jeanette and their baby daughter in his widowed mother's house on Sand Street in Dunmore. He died in 1975.",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
     "notes/round2/italian_gaps.md 1",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0373.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -43,5 +47,6 @@
       "place": "133 Sand St, Dunmore, PA",
       "note": "Son, 24, trackman for a steam railroad; wife Jeanette 21 (in Scranton in 1935); daughter Angela, 1 [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nIn April 1940 Charles J., 24, a steam-railroad trackman, lived in his widowed mother's house at 133 Sand Street with his wife Jeanette and their baby daughter ([R4-S1]). He is probably the unnamed 4-year-old son in the January 1920 census ([R4-S2])."
 }

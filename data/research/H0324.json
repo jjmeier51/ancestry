@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Founder of Litchfield Law School and brother-in-law of Aaron Burr; possible Topping cousin.",
-  "bio": "Mother Deborah Topping/Tapping (m. Rev. Abner Reeve Dec 1743; d. 1759 aged 42). Rev. Abner Reeve preached at Moriches 1754–63 and in 1763 'removed with a company of emigrants from that neighborhood to Blooming Grove, Orange County' (Dexter vol. 1 pp. 434–5) — a possible vehicle for the Tuthill/Smith move.\n\nDexter ([R4-S1]) gives the family: his father Rev. Abner Reeve (b. Southold 21 Feb 1707/8, son of Thomas and Bethia (Horton) Reeve) married Deborah Topping 'or Tapping' of Brookhaven in December 1743, and Tapping was born at Fire Place, Brookhaven, in 1744. That opens a second possible route to John: his grandmother Bethia Horton was surely of Barnabas Horton's Southold family, but which Bethia is not proven (see openQuestionsNew). His mother's place in the Topping family is still untraced.",
+  "summary": "Founder of the Litchfield Law School and brother-in-law of Aaron Burr, born at Fire Place in Brookhaven; a possible Topping cousin of John.",
+  "bio": "Tapping Reeve was born at Fire Place in Brookhaven, Long Island, on 1 October 1744 and died on 13 December 1823. He founded the Litchfield Law School and was a brother-in-law of Aaron Burr. His father, Rev. Abner Reeve, was born at Southold on 21 February 1707/8, a son of Thomas Reeve and Bethia Horton, and in December 1743 married Deborah Topping, or Tapping, of Brookhaven, who died in 1759 aged 42. Abner Reeve preached at Moriches from 1754 to 1763 and then removed with a company of emigrants from that neighbourhood to Blooming Grove in Orange County, New York, a movement that may also account for the Tuthill and Smith families' move.\n\nTapping Reeve's kinship to John is possible but unproven on two fronts: his mother's place in the Topping family has not been traced, and his grandmother Bethia Horton was surely of Barnabas Horton's Southold family, though which Bethia she was is not established.",
   "sources": [
     "F. B. Dexter, Biographical Sketches of the Graduates of Yale College vol. 1 pp. 434–5, https://archive.org/details/biogsketchgrad01dextuoft",
     "[R4-S1] F. B. Dexter, Biographical Sketches of the Graduates of Yale College, vol. 1 (1885) (archive.org full text), pp. 434-435 (secondary) https://archive.org/details/biogsketchgrad01dextuoft",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0324.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -92,5 +96,6 @@
   "openQuestions": [
     "Which Bethia Horton married Thomas Reeve (b. 1671, d. 1738) as his first wife? The Horton Genealogy (1876) names a Bethia, daughter of Barnabas Horton (son of Caleb) and Sarah Hines of Cutchogue (m. c.1686), who would fit; that would make Tapping a Barnabas Horton descendant (4C8R via Barnabas, if the Rachel Browne -> Horton line holds).",
     "Deborah Topping (d. 1759, aged 42): her father is still unknown."
-  ]
+  ],
+  "researchNotes": "Mother Deborah Topping/Tapping (m. Rev. Abner Reeve Dec 1743; d. 1759 aged 42). Rev. Abner Reeve preached at Moriches 1754–63 and in 1763 'removed with a company of emigrants from that neighborhood to Blooming Grove, Orange County' (Dexter vol. 1 pp. 434–5) — a possible vehicle for the Tuthill/Smith move.\n\nDexter ([R4-S1]) gives the family: his father Rev. Abner Reeve (b. Southold 21 Feb 1707/8, son of Thomas and Bethia (Horton) Reeve) married Deborah Topping 'or Tapping' of Brookhaven in December 1743, and Tapping was born at Fire Place, Brookhaven, in 1744. That opens a second possible route to John: his grandmother Bethia Horton was surely of Barnabas Horton's Southold family, but which Bethia is not proven (see openQuestionsNew). His mother's place in the Topping family is still untraced."
 }

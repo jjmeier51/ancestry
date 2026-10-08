@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "New Haven 'chirurgeon' lost on the Phantom Ship of 1646; formerly in John's tree, now probably not an ancestor.",
-  "bio": "Francis Brewster 'of London, who came to New Haven in 1638 with the party of Eaton and Davenport' (Champlin 1915). A New Haven 'chirurgeon' (surgeon), presumably lost on Lamberton's 'Great Shippe', which sailed in January 1646 through a channel cut in the ice of the harbor; in 1648 it appeared as the famous 'Phantom Ship' in the sky over New Haven. His inventory is dated 30 Dec 1647. 'Born Bristol c.1599' appears on unsourced pages (speculative).",
+  "summary": "New Haven surgeon of 1638, presumed lost on the 'Great Shippe' of 1646, the famous Phantom Ship; probably not an ancestor of John after all.",
+  "bio": "Francis Brewster came from London to New Haven in 1638 with the party of Eaton and Davenport, and practised there as a chirurgeon, or surgeon. He is presumed to have been among those lost on Lamberton's 'Great Shippe', which sailed from New Haven in January 1646 through a channel cut in the ice of the harbour; in 1648 the vessel reappeared as the famous 'Phantom Ship', an apparition in the sky over New Haven. His estate was inventoried on 30 December 1647. Some accounts say he was born at Bristol about 1599, but that has no good source. He was once counted among John's ancestors, but the line through him is now thought probably not to hold.",
   "sources": [
     "Champlin, NYGBR 46:4–9",
     "New Haven Colony Records",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0259.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -46,5 +50,6 @@
       "note": "Francis Brewster, 1599-00-00 – 1646-00-00",
       "url": "https://www.wikitree.com/wiki/Brewster-432"
     }
-  ]
+  ],
+  "researchNotes": "Francis Brewster 'of London, who came to New Haven in 1638 with the party of Eaton and Davenport' (Champlin 1915). A New Haven 'chirurgeon' (surgeon), presumably lost on Lamberton's 'Great Shippe', which sailed in January 1646 through a channel cut in the ice of the harbor; in 1648 it appeared as the famous 'Phantom Ship' in the sky over New Haven. His inventory is dated 30 Dec 1647. 'Born Bristol c.1599' appears on unsourced pages (speculative)."
 }

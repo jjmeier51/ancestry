@@ -9,8 +9,8 @@
     "James Tuthill"
   ],
   "tags": [],
-  "summary": "Brother of John's 6th-great-grandmother Keturah (John's 6th-great-grand-uncle); twin of John; probably the 'James Tuttle' who signed the 1775 Articles of Association.",
-  "bio": "Twin of John (b. 1753). Other siblings: twins Ezekiel & William (c.1754), Keturah (~1755), Samuel, Daniel. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle'. His brother John (b. 1753) may be the 'Capt. Tuthill' on a 1788 committee (Eager 1846).\n\nA 'James Tuttle' signed the 1775 Articles of Association in Cornwall Precinct with Thomas Lamoureux and John Tuthill ([R4-S1]). Note the namesake cousin 'James Tuttle, junr.' at Brookhaven c.1738/9, who is the uncle James Jr. (d. 1756), not this man ([R4-S2]).",
+  "summary": "Twin brother of John Tuthill and brother of Keturah, probably a signer of the 1775 Articles of Association; John's 6th-great-grand-uncle.",
+  "bio": "James Tuttle, also written Tuthill, was born in 1753, the twin of John. His other brothers and sisters were the twins Ezekiel and William, born about 1754, Keturah, born about 1755, Samuel and Daniel; through Keturah he was John's 6th-great-grand-uncle. He was probably the 'James Tuttle' who signed the 1775 Articles of Association in Cornwall Precinct alongside Thomas Lamoureux and John Tuthill, and his twin John may have been the 'Capt. Tuthill' who sat on a committee there in 1788. The 'James Tuttle, junr.' recorded at Brookhaven about 1738 was his uncle James Jr., who died in 1756, not this man.",
   "sources": [
     "Alva Tuttle (1968) p. 311",
     "Ruttenber & Clark (1881)",
@@ -35,6 +35,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0261.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Twin of John (b. 1753). Other siblings: twins Ezekiel & William (c.1754), Keturah (~1755), Samuel, Daniel. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle'. His brother John (b. 1753) may be the 'Capt. Tuthill' on a 1788 committee (Eager 1846).\n\nA 'James Tuttle' signed the 1775 Articles of Association in Cornwall Precinct with Thomas Lamoureux and John Tuthill ([R4-S1]). Note the namesake cousin 'James Tuttle, junr.' at Brookhaven c.1738/9, who is the uncle James Jr. (d. 1756), not this man ([R4-S2])."
 }

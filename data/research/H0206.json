@@ -9,8 +9,8 @@
     "Susan Croup Shupp"
   ],
   "tags": [],
-  "summary": "John's 4th-great-grand-aunt (sister of Elizabeth Croup Pringle) - independent proof of Frederick and Mary (Young) Croup.",
-  "bio": "Susan Croup was born at Nanticoke (WikiTree: Shickshinny) in May 1800 and died at Plymouth in 1863; Harvey calls her 'daughter of Frederick and Mary (Young) Croup'. She married Philip Shupp Jr. (1791-1833), co-operator of Col. Philip Shupp's grist mill, Plymouth's principal mill from about 1808. Buried Shawnee Cemetery, Plymouth (Find a Grave 75273513). Children Mary (Shupp) Nesbitt (b. 1820; to Rolling Prairie, Indiana, 1853) and Peter Shupp (1822-1897).",
+  "summary": "Daughter of Frederick and Mary Croup who married the Plymouth miller Philip Shupp Jr.; John's 4th-great-grand-aunt, sister of Elizabeth Croup Pringle.",
+  "bio": "Susan Croup was born in May 1800 at Nanticoke, Luzerne County, Pennsylvania (one account says Shickshinny), a daughter of Frederick and Mary (Young) Croup and a sister of John's ancestor Elizabeth Croup Pringle. She married Philip Shupp Jr. (1791–1833), who helped operate Col. Philip Shupp's grist mill, Plymouth's principal mill from about 1808. Their children included Mary (Shupp) Nesbitt, born in 1820, who moved to Rolling Prairie, Indiana, in 1853, and Peter Shupp (1822–1897). Susan died at Plymouth in 1863 and was buried in Shawnee Cemetery there.",
   "sources": [
     "Harvey Book pp.343, 354",
     "Find a Grave 75273513: https://www.findagrave.com/memorial/75273513",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0206.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -56,5 +60,6 @@
       "note": "",
       "url": "https://www.findagrave.com/memorial/75273513/susan-shupp"
     }
-  ]
+  ],
+  "researchNotes": "Susan Croup was born at Nanticoke (WikiTree: Shickshinny) in May 1800 and died at Plymouth in 1863; Harvey calls her 'daughter of Frederick and Mary (Young) Croup'. She married Philip Shupp Jr. (1791-1833), co-operator of Col. Philip Shupp's grist mill, Plymouth's principal mill from about 1808. Buried Shawnee Cemetery, Plymouth (Find a Grave 75273513). Children Mary (Shupp) Nesbitt (b. 1820; to Rolling Prairie, Indiana, 1853) and Peter Shupp (1822-1897)."
 }

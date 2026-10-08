@@ -10,8 +10,8 @@
     "Rose Stuard"
   ],
   "tags": [],
-  "summary": "John's 12th-great-grandmother; remarried within five months of her husband's death.",
-  "bio": "Sister of William Trippe. Remarried Robert Stuard 30 Apr 1590 and held the estate until 1647 or later.",
+  "summary": "Widow who remarried within five months of her husband's death and held the family estate into the 1640s; John's 12th-great-grandmother.",
+  "bio": "Rose Trippe, John's 12th-great-grandmother, was a sister of William Trippe. Also known as Rose Hammond, she was widowed and remarried within five months of her husband's death, taking Robert Stuard as her second husband on 30 April 1590. She held the estate until 1647 or later, and died after that year.",
   "sources": [
     "Hammond (1902)"
   ],
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0239.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Sister of William Trippe. Remarried Robert Stuard 30 Apr 1590 and held the estate until 1647 or later."
 }

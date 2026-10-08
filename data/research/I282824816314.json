@@ -24,9 +24,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816314.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Giulia Francesca was baptized on 12 March 1717, daughter of Giuseppe Putero and Beatrice Manfrida ([R4-S1]). An elder sister Giulia had been baptized in 1710. She married Francesco Colosimo on 26 February 1740 ([R4-S2]).",
+  "bio": "Giulia Puteri was baptized Giulia Francesca on 12 March 1717 at San Mango D'Aquino, Catanzaro, Calabria, Italy, the daughter of Giuseppe Putero and Beatrice Manfrida. An elder sister, also named Giulia, had been baptized in 1710. She married Francesco Colosimo on 26 February 1740. She is John's 7th-great-grandmother.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -34,5 +38,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 21, p. 15, no. 8; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 47, p. 90, no. 2; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Giulia Francesca was baptized on 12 March 1717, daughter of Giuseppe Putero and Beatrice Manfrida ([R4-S1]). An elder sister Giulia had been baptized in 1710. She married Francesco Colosimo on 26 February 1740 ([R4-S2]).",
+  "summary": "Daughter of Giuseppe Putero and Beatrice Manfrida of San Mango d'Aquino, who married Francesco Colosimo in 1740; John's 7th-great-grandmother."
 }

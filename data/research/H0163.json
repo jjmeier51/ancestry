@@ -10,8 +10,8 @@
     "Stella M. Sipple"
   ],
   "tags": [],
-  "summary": "John's 3rd-great-grand-aunt.",
-  "bio": "Stella/Estella, 5 in 1880. FamilySearch has Stella (1874-1893) and Stella M. (1876-1920) - duplicate or re-used name; Bradsby lists 'Estella' living in 1893.\n\nThe FamilySearch profile with records is Stella M. Pringle: born 11 Jun 1876 at Larksville, in Andrew's household in 1880, married Conrad Sipple in Luzerne Co. on 24 Dec 1895 (county marriage record attached), living in Larksville until her death there on 17 Mar 1920, and buried at Cedar Crest Cemetery, Trucksville ([R4-S1]). The other FamilySearch 'Stella' (1874-1893) has no sources and is probably a duplicate. A 'Stella' who died in 1893 would also conflict with Bradsby's 1893 list, which names Estella as living ([R4-S2]).",
+  "summary": "Larksville woman who grew up in Andrew Pringle's household, married Conrad Sipple in 1895 and died at Larksville in 1920; John's 3rd-great-grand-aunt.",
+  "bio": "Stella Pringle, also called Estella, was born at Larksville, Pennsylvania, on 11 June 1876, though some records put her birth as early as 1874. She was John's 3rd-great-grand-aunt. She was a small girl in Andrew Pringle's household in 1880 and was still living in 1893. On 24 December 1895 she married Conrad Sipple in Luzerne County, and as Stella M. Sipple she lived at Larksville until her death there on 17 March 1920. She was buried at Cedar Crest Cemetery in Trucksville.",
   "sources": [
     "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X",
     "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0163.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -70,5 +74,6 @@
       "label": "FamilySearch ID",
       "value": "GZ3J-TRG"
     }
-  ]
+  ],
+  "researchNotes": "Stella/Estella, 5 in 1880. FamilySearch has Stella (1874-1893) and Stella M. (1876-1920) - duplicate or re-used name; Bradsby lists 'Estella' living in 1893.\n\nThe FamilySearch profile with records is Stella M. Pringle: born 11 Jun 1876 at Larksville, in Andrew's household in 1880, married Conrad Sipple in Luzerne Co. on 24 Dec 1895 (county marriage record attached), living in Larksville until her death there on 17 Mar 1920, and buried at Cedar Crest Cemetery, Trucksville ([R4-S1]). The other FamilySearch 'Stella' (1874-1893) has no sources and is probably a duplicate. A 'Stella' who died in 1893 would also conflict with Bradsby's 1893 list, which names Estella as living ([R4-S2])."
 }

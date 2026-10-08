@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 10th-great-grandmother; of Cozes.",
-  "bio": "Mother of André Lamoureux (bapt. Cozes 25 Nov 1663); godparent at Cozes in 1656 with Daniel Lamoureux.",
+  "summary": "Mother of André Lamoureux, of Cozes in France; John's 10th-great-grandmother.",
+  "bio": "Marie Touchay lived at Cozes, where she appears as a godparent alongside Daniel Lamoureux in 1656. She was the mother of André Lamoureux, who was baptized at Cozes on 25 November 1663. She is probably John's 10th-great-grandmother.",
   "sources": [
     "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0097.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Mother of André Lamoureux (bapt. Cozes 25 Nov 1663); godparent at Cozes in 1656 with Daniel Lamoureux."
 }

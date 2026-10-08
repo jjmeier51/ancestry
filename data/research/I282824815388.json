@@ -5,8 +5,8 @@
     "note": "Tree only; Fiorillo absent from San Mango 1674-1804 stati delle anime."
   },
   "tags": [],
-  "summary": "Tree ancestor in the unsupported pre-1800 Fiorillo pedigree.",
-  "bio": "Tree: Domenico G Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Unsupported (Round 2).\n\nGrandson Domenico Fiorillo's 1849 death act places the family at Cannovali, a hamlet of Aiello Calabro, around 1775.",
+  "summary": "Of Aiello Calabro in Cosenza, where he died in 1770; recorded as John's 7th-great-grandfather, though this early Fiorillo line is unproven.",
+  "bio": "Domenico Gabriele Fiorillo died at Aiello Calabro in Cosenza, Calabria, on 4 January 1770. Family records give his wife as Cecilia Fata, who lived from 1738 to 1797, but this part of the Fiorillo pedigree, before 1800, has not been confirmed by records. His grandson Domenico Fiorillo's death record of 1849 places the family at Cannovali, a hamlet of Aiello Calabro, around 1775. He is recorded as John's 7th-great-grandfather.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815388.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Domenico G Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Unsupported (Round 2).\n\nGrandson Domenico Fiorillo's 1849 death act places the family at Cannovali, a hamlet of Aiello Calabro, around 1775."
 }

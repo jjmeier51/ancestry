@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Mis-attached 'son' of John Petriello on Geni; belongs to another Guardia Petriello family.",
-  "bio": "Geni: Rocco James b. 8 Sep 1889, Italy (Round 2 FS: 19 Sep 1889). Immigrated 1909; lived in Farrell and Berwick, PA and in Ohio; died 1980. His removal voids Round 1's 'first arrival 1889-95' inference for John Petriello.\n\nRocco James Petrello's 1942 'old man's' draft registration gives his birth as 8 Sept 1889 in Italy. That matches Geni's 8 Sep 1889 rather than the FamilySearch tree's 19 Sep ([R4-S1]). He was then living at 337 North Bromley Avenue in Scranton's West Side with his wife Mary (Giordano), and worked for American Car & Foundry at Berwick. So this other Guardiese Petriello family also passed through Scranton, but there is still no evidence linking him to John Petriello's household. He is the son of Michelarcangelo Petriello and Benedetta Ladye (FS) and should not be merged with John's children.",
+  "summary": "Italian-born Petriello of Scranton and Berwick from another Guardia family; not a son of John Petriello, despite some family trees.",
+  "bio": "Rocco James Petrillo, also written Petrello, was born in Italy on 8 September 1889, the date he gave on his 1942 draft registration; one other record says 19 September. He was a son of Michelarcangelo Petriello and Benedetta Ladye, and so belonged to another Petriello family from Guardia, not to the household of John Petriello, to whom some family trees have wrongly attached him. He came to America in 1909 and lived at various times in Farrell and Berwick, Pennsylvania, and in Ohio. In 1942 he was living on Scranton's West Side with his wife Mary, born Giordano, and working for American Car & Foundry at Berwick. He died in 1980.",
   "sources": [
     "FS tree L6MH-TCL: https://ancestors.familysearch.org/en/L6MH-TCL",
     "Geni Giovanni Petriello profile",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0361.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -65,5 +69,6 @@
       "people": [],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6MH-TCL/images/i/2/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Geni: Rocco James b. 8 Sep 1889, Italy (Round 2 FS: 19 Sep 1889). Immigrated 1909; lived in Farrell and Berwick, PA and in Ohio; died 1980. His removal voids Round 1's 'first arrival 1889-95' inference for John Petriello.\n\nRocco James Petrello's 1942 'old man's' draft registration gives his birth as 8 Sept 1889 in Italy. That matches Geni's 8 Sep 1889 rather than the FamilySearch tree's 19 Sep ([R4-S1]). He was then living at 337 North Bromley Avenue in Scranton's West Side with his wife Mary (Giordano), and worked for American Car & Foundry at Berwick. So this other Guardiese Petriello family also passed through Scranton, but there is still no evidence linking him to John Petriello's household. He is the son of Michelarcangelo Petriello and Benedetta Ladye (FS) and should not be merged with John's children."
 }

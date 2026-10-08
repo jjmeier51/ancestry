@@ -13,8 +13,8 @@
     "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy"
   },
   "tags": [],
-  "summary": "John's maternal 3rd great-grandfather; born at San Mango d'Aquino to a bracciale (day-labourer) family.",
-  "bio": "Tree: Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926). Round 3: born 27 Dec 1840, San Mango d'Aquino, Nati 1840 act 79; father Carmine Fiorillo, 32, bracciale; mother Giuseppina Ferlaino; one witness was Gaetano Colosimo, 40; the Sindaco was Dr. Bruno Sacco. All 5 of Calabria's documented Fiorillo US arrivals came from San Mango (paese.app); the 1990s San Mango phone directory lists Fiorillo x7. But the parish stati delle anime 1674-1804 have NO Fiorillo, so the family arrived in San Mango in the 1800s.\n\nDomenico (styled 'Gabriele Fiorillo' in the register) married Saveria Colosimo, daughter of Raffaele, in the San Mango parish on 1 April 1870; his father Carmine was already dead ([R4-S1]). Seven children were baptized between 1871 and 1886: Giuseppina (John's ancestor, 1871), Carmelo (1873), Filomena (1874), Carolina (1877), Carmine (1880), Antonio (1884) and Gaetano (1886). Gaetano married Maria Mendicino in 1909 ([R4-S3]). He did not emigrate. The parish burial register records Domenico Fiorillo, aged 81, son of the late Carmine and the late Giuseppa Ferlaino, buried at San Mango on 27 August 1921 ([R4-S2]). This conflicts with the tree's death year of 1927.",
+  "summary": "Day-labourer's son of San Mango d'Aquino who married Saveria Colosimo and raised seven children there; John's maternal 3rd-great-grandfather.",
+  "bio": "Domenico Gabriele Fiorillo was born at San Mango d'Aquino in Catanzaro, Calabria, on 27 December 1840, the son of Carmine Fiorillo, a 32-year-old bracciale or day-labourer, and Giuseppina Ferlaino; a Gaetano Colosimo witnessed the registration of his birth. The Fiorillos were newcomers to San Mango, having arrived in the town during the 1800s, and every documented Fiorillo who left Calabria for the United States came from there.\n\nOn 1 April 1870, his father having already died, Domenico, styled Gabriele in the register, married Saveria Colosimo, daughter of Raffaele, in the San Mango parish. Seven children were baptized between 1871 and 1886: Giuseppina, John's ancestor, in 1871, then Carmelo (1873), Filomena (1874), Carolina (1877), Carmine (1880), Antonio (1884) and Gaetano (1886), who married Maria Mendicino in 1909. Domenico never emigrated. The parish burial register records him, aged 81 and the son of the late Carmine and the late Giuseppa Ferlaino, buried at San Mango on 27 August 1921, though family records give his death as 1927. He is John's maternal 3rd-great-grandfather.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -62,6 +62,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815323.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -88,5 +92,6 @@
       "place": "San Mango d'Aquino",
       "description": "Married Saveria Colosimo in the parish church [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Tree: Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926). Round 3: born 27 Dec 1840, San Mango d'Aquino, Nati 1840 act 79; father Carmine Fiorillo, 32, bracciale; mother Giuseppina Ferlaino; one witness was Gaetano Colosimo, 40; the Sindaco was Dr. Bruno Sacco. All 5 of Calabria's documented Fiorillo US arrivals came from San Mango (paese.app); the 1990s San Mango phone directory lists Fiorillo x7. But the parish stati delle anime 1674-1804 have NO Fiorillo, so the family arrived in San Mango in the 1800s.\n\nDomenico (styled 'Gabriele Fiorillo' in the register) married Saveria Colosimo, daughter of Raffaele, in the San Mango parish on 1 April 1870; his father Carmine was already dead ([R4-S1]). Seven children were baptized between 1871 and 1886: Giuseppina (John's ancestor, 1871), Carmelo (1873), Filomena (1874), Carolina (1877), Carmine (1880), Antonio (1884) and Gaetano (1886). Gaetano married Maria Mendicino in 1909 ([R4-S3]). He did not emigrate. The parish burial register records Domenico Fiorillo, aged 81, son of the late Carmine and the late Giuseppa Ferlaino, buried at San Mango on 27 August 1921 ([R4-S2]). This conflicts with the tree's death year of 1927."
 }

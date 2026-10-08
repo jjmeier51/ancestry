@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0419.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -34,8 +38,10 @@
     "Louisa Essen (marriage index)",
     "Louise E. Heffernan"
   ],
-  "bio": "Louise Easen was born in England on 4 Aug 1878 to Thomas Easen (1848-1932) and Mary Barnes (1850-1921) and came to America as an infant (1879/80). She married Thomas F. Heffernan on 20 Jun 1900 (Luzerne marriage index as \"Louisa Essen\"), was living in Wilkes-Barre in 1950, and died in Philadelphia on 16 Jun 1960 ([R4-S1]).",
+  "bio": "Louise Easen was born in England on 4 August 1878, the daughter of Thomas Easen (1848-1932) and Mary Barnes (1850-1921), and came to America as an infant in 1879 or 1880. On 20 June 1900 she married Thomas F. Heffernan; the marriage record spells her name Louisa Essen. She was living in Wilkes-Barre in 1950 and died in Philadelphia on 16 June 1960. She was buried at Fern Knoll in Dallas, Luzerne Co., Pa.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Louise Easen (1878-1960), PID LWT9-2LD; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LWT9-2LD"
-  ]
+  ],
+  "researchNotes": "Louise Easen was born in England on 4 Aug 1878 to Thomas Easen (1848-1932) and Mary Barnes (1850-1921) and came to America as an infant (1879/80). She married Thomas F. Heffernan on 20 Jun 1900 (Luzerne marriage index as \"Louisa Essen\"), was living in Wilkes-Barre in 1950, and died in Philadelphia on 16 Jun 1960 ([R4-S1]).",
+  "summary": "English-born wife of Thomas F. Heffernan of Wilkes-Barre, who died in Philadelphia in 1960."
 }
