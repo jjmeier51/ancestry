@@ -1,0 +1,38 @@
+{
+  "id": "H0165",
+  "link": {
+    "confidence": "possible",
+    "note": "Relationship to Samuel speculative."
+  },
+  "sex": "M",
+  "tags": [
+    "military",
+    "patriot"
+  ],
+  "summary": "Probably John's 5th-great-grand-uncle (brother of Samuel Pringle); Revolutionary militia private, Orange County.",
+  "bio": "The Prindle Genealogy lists Benjamin Prindle and David Prindle as privates, 1st Regt., Orange Co. Militia (land bounty rights). Round 2 suggested Benjamin as Samuel's father (Samuel named his son Benjamin); Round 3 downgraded this - FamilySearch lists Benjamin (1764) as a son of James Prindle, i.e. Samuel's brother.",
+  "military": [
+    {
+      "branch": "Orange County, New York militia",
+      "service": "American Revolution",
+      "rank": "Private",
+      "unit": "1st Regiment, Orange County Militia",
+      "note": "Land bounty rights"
+    }
+  ],
+  "sources": [
+    "The Prindle Genealogy (1906) appendix p.280: https://archive.org/details/prindlegenealogy00prin",
+    "FamilySearch G99D-9DZ / L8MP-W4X"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Benjamin Prindle (b. 1764)",
+    "line": 6403
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "I282695502845",
+  "link": {
+    "confidence": "probable",
+    "note": "Wife of Jakob Heitzler per Dreisamtal database; descent to Johnny probable via Joseph Heizler. Her parents (tree) unconfirmed; death 1796 tree-only."
+  },
+  "birth": {
+    "date": "b. unknown",
+    "place": "Kirchzarten,Freiburg im Breisgau,Baden,D"
+  },
+  "death": {
+    "date": "1796",
+    "place": "Oberbirken, Freiburg, Baden"
+  },
+  "aka": [
+    "Katharina Begelspacher",
+    "Catharina BEGELSPA… (Ancestry tree)"
+  ],
+  "tags": [],
+  "summary": "Probable 6th great-grandmother of John; daughter of a Kageneck gamekeeper.",
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Catharina BEGELSPA… –1796; parents Joseph(us) BEGELSPA… 1704–Dec… + Maria SCHLEMM… (Deceased)."
+    }
+  ],
+  "sources": [
+    "GEDBAS 1262173156",
+    "Ancestry tree screenshots (section 2.2.2)",
+    "deep-dive report"
+  ],
+  "openQuestions": [
+    "Her parents and baptism (Kirchzarten registers) — the deep-dive lists 'Catharina Begelspacher's parents' as an unconfirmed join."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2457
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 21.08.1736; research: b. unknown."
+    }
+  ]
+}

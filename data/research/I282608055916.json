@@ -1,0 +1,55 @@
+{
+  "id": "I282608055916",
+  "link": {
+    "confidence": "probable",
+    "note": "Akerly (1898) lists James among his children by Mehitable Wells; probable as an ancestor because John Tuthill (c.1730)'s descent from James is probable."
+  },
+  "given": "John",
+  "surname": "Tuthill",
+  "suffix": "Jr.",
+  "birth": {
+    "date": "1658",
+    "place": "Southold, Suffolk County, New York, USA"
+  },
+  "death": {
+    "date": "1754",
+    "place": "Southold, Suffolk County, New York, USA"
+  },
+  "occupation": "Justice of the peace; sheriff; NY Assemblyman",
+  "aka": [
+    "John J Tuthill Jr. (tree)"
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandfather; Southold justice, sheriff and NY Assemblyman who lived to about 96.",
+  "bio": "Died 1754 aged about 96. Justice of the peace and sheriff; member of the NY Assembly 1693–98; commissioner to lay out the King's Highway from Brooklyn to East Hampton (Akerly 1898). Married Mehitable Wells, daughter of William Wells by his second wife Mary — since Wells's first wife was Bridget, widow of Henry Tuthill (John Jr.'s grandmother), the couple were not blood relatives. Children (Akerly) include James (of Brookhaven and Orange Co.), Mary (1687–1780, m. Jonathan Horton; mother of Rev. Azariah Horton), Freegift (1698–1765), Joshua (m. Hannah Reeve) and John III of Southold (will 1740). Cousins through him and Mehitable: Rev. Azariah Horton (1C9R), Rev. Theodore L. Cuyler (5C5R).",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "John J Tuthill Jr. 1658–1754"
+    },
+    {
+      "label": "Society of Colonial Wars",
+      "value": "Office-holder (JP, sheriff, Assembly) — potentially qualifying, like William Wells"
+    }
+  ],
+  "sources": [
+    "Akerly (1898)",
+    "notes/colonial_virginia.md §3c",
+    "notes/round2/colonial_cousins.md §3f"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 11 (9th-great-grandparents)",
+    "line": 7577
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"John \"Chalker John\" Tuthill\"; research uses \"John Tuthill\"."
+    }
+  ]
+}

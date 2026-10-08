@@ -1,0 +1,27 @@
+{
+  "id": "H0043",
+  "link": {
+    "confidence": "unverified",
+    "note": "Real person (GEDBAS 1420120011) but disproven as John's ancestor: Agatha's father was Joseph Heizler of Munzingen, husband of M. Anna Federer. The tree may have merged him with the right Joseph."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Ibental schoolteacher; round-2 candidate A for Agatha's father — ruled out.",
+  "bio": "Born and died on the Jägerhof; shoemaker and from 1786 the Ibental schoolteacher under Austrian rule (village teaching was part-time and poorly paid). Married (2) Maria Pfister 1803. His line leads to Josef (1799–1861, Jägerhof), Felix (b. 1849) and Josef Heitzler 'vom Jägerhof', mayor of Unteribental 1919–24.",
+  "sources": [
+    "GEDBAS 1420120011 https://gedbas.genealogy.net/person/show/1420120011",
+    "notes/round2/black_forest.md; notes/round3/german_origins.md; deep-dive report"
+  ],
+  "occupation": "Shoemaker; Ibental schoolteacher from 1786",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3432
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

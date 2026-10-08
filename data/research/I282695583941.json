@@ -1,0 +1,35 @@
+{
+  "id": "I282695583941",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; WikiTree lists only daughters Hannah (1742) and Elizabeth (1753-1829) for Casper Doll, no Anna Maria. Parentage probable-but-unproven per Round 1; dates look like placeholders."
+  },
+  "tags": [],
+  "summary": "John's 6th-great-grandmother per the tree (mother of Mary Young Croup); her Doll parentage is unproven.",
+  "bio": "The tree shows Anna Maria Doll (1751-1813), wife of John Young Sr., as daughter of 'Johann C Doll Captain' and Anna M. Dietz. No record names her. Casper Doll's known daughters are Hannah (b.1742), Elizabeth (1753-1829, m. Christopher Stecher) and Anna Catharine (bapt. 1757, Tohickon). The Stechers also married into the Grubs, so these Forks Twp families overlapped. That an Anna Maria Doll b. 1751 was Casper's daughter is 'probable but unproven' (pa_lines) / 'unproven' (Round 1).",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Anna Maria Doll 1751-1813"
+    }
+  ],
+  "sources": [
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "WikiTree Doll-526: https://www.wikitree.com/wiki/Doll-526",
+    "WikiTree Doll-527 (Johann Casper Doll; FamilySearch N5BL-88G): https://www.wikitree.com/wiki/Doll-527"
+  ],
+  "openQuestions": [
+    "Baptism c.1751 in Bucks/Northampton Reformed/Lutheran registers (Tohickon, Plainfield)."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Anna Maria Doll (b. 1751)",
+    "line": 4524
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

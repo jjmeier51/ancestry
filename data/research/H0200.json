@@ -1,0 +1,43 @@
+{
+  "id": "H0200",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "aka": [
+    "Philip Croop",
+    "Philip Croup"
+  ],
+  "tags": [
+    "military",
+    "patriot"
+  ],
+  "summary": "John's 5th-great-grand-uncle; Revolutionary militia private (collateral - cannot be used for SAR/DAR).",
+  "bio": "Philip Grub/Croop (1753-1812) was born in Jettenbach, the eldest son of Andreas. He was a private in the 5th Company (Easton), 5th Battalion, Northampton County Militia, 1777-1780 (Pa. Archives 5th ser. vol. VIII p.120). He lived in Chestnuthill Twp in 1790 and 1800, signed the Newport Twp (Luzerne) survey agreement in 1805 as 'Philip Croup', and died in Newport in 1812; his will names 'my dear brother Frederick Grupe' co-executor (Luzerne Will Book A p.128).",
+  "military": [
+    {
+      "branch": "Northampton County Militia",
+      "service": "American Revolution",
+      "rank": "Private",
+      "unit": "5th Company (Easton), 5th Battalion",
+      "note": "1777-1780; collateral relative, not usable for SAR/DAR"
+    }
+  ],
+  "sources": [
+    "WikiTree Croup-9: https://www.wikitree.com/wiki/Croup-9",
+    "Pa. Archives 5th ser. vol. VIII p.120",
+    "Bradsby pp.613-614: https://archive.org/details/historyofluzerne00brad"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Philip Grub (b. 1753)",
+    "line": 6973
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

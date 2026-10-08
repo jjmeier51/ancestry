@@ -1,0 +1,54 @@
+{
+  "id": "I282824814912",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Death act Morti 1876 act 20 (image read) names his parents Pietro and Felicita Magnotta and wife Caterina di Leo; daughter Grazia's 1916 death act names him."
+  },
+  "birth": {
+    "date": "ABT 1796",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "death": {
+    "date": "1876-03",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "occupation": "Contadino",
+  "tags": [],
+  "summary": "John's maternal 4th great-grandfather; contadino of Guardia Lombardi who married twice.",
+  "bio": "Tree: Gaetano di Marino (1795-1876) + Maria d'Ambrosio; parents Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 3: died March 1876 (registered 6 Mar), Guardia, aged 80 (so born c.1796), contadino; son of the late Pietro and the late Felicita Magnotta; 'marito di Caterina di Leo'; Morti 1876 act 20. Two wives (probable): first Maria d'Ambrosio (mother of Concetta, who married Giuseppe Petriello on 26 Dec 1855, index 1855 #23), then Caterina di Leo (mother of Grazia and probably of Maria, who married Nicola di Pietro 12 Feb 1857). The tree conflated the wives by making Maria d'Ambrosio Grazia's mother.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Gaetano di Marino 1795-1876"
+    }
+  ],
+  "sources": [
+    "Antenati, Guardia, Morti 1876, act 20: https://antenati.cultura.gov.it/ark:/12657/an_ua524100/wbdvxng",
+    "Antenati, Guardia, Morti 1916, act 22: https://antenati.cultura.gov.it/ark:/12657/an_ua524131/wj7o8Qr",
+    "Antenati marriage index 1855 #23: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/wRvYlYY",
+    "Antenati marriage index 1857 #21: https://antenati.cultura.gov.it/ark:/12657/an_ua376659/wWNxVgm",
+    "notes/round3/italian_origins.md 1"
+  ],
+  "mediaKnown": [
+    "1876 death act image (Antenati)"
+  ],
+  "openQuestions": [
+    "Both marriage acts (pre-1855; Guardia civil registers from 1809)",
+    "Birth/baptism c.1796 (parish)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Gaetano di Marino (b. 1796)",
+    "line": 10500
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1795; research: ABT 1796."
+    }
+  ]
+}

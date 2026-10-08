@@ -1,0 +1,53 @@
+{
+  "id": "I282608065103",
+  "link": {
+    "confidence": "probable",
+    "note": "Elnathan Topping's will (15 Sep 1751) gives 5s each to 'my daughters, Phebe, Mary, and Jerusha'; F. K. Smith (1967) says James married 'Jerusha, daughter of Elnathan and Mary Topping'. Tree's parents (Josiah Topping & Hannah Sayre) are wrong: Banks (1901) gives that couple only sons Josiah and John."
+  },
+  "birth": {
+    "date": "ABT 1698",
+    "place": "Southampton, Suffolk County, New York, USA"
+  },
+  "aka": [
+    "Jerusha Smith",
+    "JERUSHA TOPPING (tree)"
+  ],
+  "tags": [],
+  "summary": "John's 8th-great-grandmother, wife of James Smith; a granddaughter of Capt. Elnathan Topping of Sagg.",
+  "bio": "Born about 1695–1705 (reports suggest this range; tree gives 1698–1760). Howell (1887, pp. 395–396) lists the younger Elnathan Topping (b. 20 Aug 1664, d. Sept 1751), who 'had w. Mary and ch. as by will … Elnathan, Job, Silas, Luther, Zephaniah, Mary, Phebe and Jerusha'. The will of Elnathan Topping of Southampton, 15 Sep 1751, proved 30 Sep 1751 (NY Wills IV, Liber 18 pp. 391–2) gives 5s each to 'my daughters, Phebe, Mary, and Jerusha' — it does not call her Smith, but a token 5s fits a married daughter. The jrm Needham site attached the F. K. Smith quote to the elder Capt. Elnathan; F. K. Smith itself says Elnathan (d. Sep 1751) was 'a son of Captain Elnathan and Mary (Cooper) Topping and a grandson of Thomas Topping', making Jerusha a granddaughter of Capt. Elnathan. TREE: shows her parents as Josiah Topping (1663–1726) + Hannah Sayre (1668–1741), with Topping arms image; Round 1 removed these (Daniel Sayre's 1707 will names 'Hannah Topping the wife of Mr Josiah Topping'; Banks Sayre Family p. 30 lists only Josiah and John b. 1706). Charles E. Topping's 1980 Topping Genealogy p. 392 (repeated on WikiTree Smith-141655) still gives the Josiah line, which does not fit Banks's evidence.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "JERUSHA TOPPING 1698–1760 (Topping arms image); parents Josiah Topping 1663–1726 + Hannah Sayre 1668–1741"
+    },
+    {
+      "label": "Preferred parents",
+      "value": "Elnathan Topping (1664–1751) & Mary"
+    }
+  ],
+  "sources": [
+    "G. R. Howell, Early History of Southampton (1887), pp. 395–397, https://archive.org/details/earlyhistoryofso00howe",
+    "Abstracts of Wills, NYHS vol. IV, Liber 18 pp. 391–2, https://archive.org/details/abstractswillso02kellgoog",
+    "F. K. Smith (1967) via jrm Needham I2549",
+    "Banks, The Sayre Family (1901) p. 30, https://archive.org/details/sayrefamilylinea00bant",
+    "Pelletreau (1898) App. p. 479",
+    "Round 1 correction 3a; notes/colonial_virginia.md §2a; notes/round2/colonial_cousins.md §1a"
+  ],
+  "mediaKnown": [
+    "Tree card with Topping coat of arms image"
+  ],
+  "openQuestions": [
+    "Her birth year (decides whether a c.1732–35 daughter is comfortable)."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 10 (8th-great-grandparents)",
+    "line": 7474
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

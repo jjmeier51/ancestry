@@ -1,0 +1,39 @@
+{
+  "id": "I282604500824",
+  "link": {
+    "confidence": "probable",
+    "note": "FS G7FL-HGY, L85M-PP2 (1870/1880 census)."
+  },
+  "birth": {
+    "date": "ABT 1835",
+    "place": "Ireland"
+  },
+  "death": {
+    "date": "1876-02-18",
+    "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+  },
+  "tags": [],
+  "summary": "John's 3rd great-grandmother; Irish-born, buried St. Vincent de Paul, Larksville.",
+  "bio": "Alice Comerford (c.1835 Ireland – 18 Feb 1876) was buried at St. Vincent de Paul Cemetery, Larksville. Comerford is a characteristic surname of north Kilkenny and the Slieveardagh border — the Heffernans' district (speculative surname geography only). A John Comerford household from Ireland lived next to the Pringles in the 1880 Plymouth census.",
+  "facts": [
+    {
+      "label": "Burial",
+      "value": "St. Vincent de Paul Cemetery, Larksville"
+    }
+  ],
+  "sources": [
+    "FamilySearch G7FL-HGY, L85M-PP2",
+    "notes/round3/irish_pa.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2065
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

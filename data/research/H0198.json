@@ -1,0 +1,28 @@
+{
+  "id": "H0198",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "aka": [
+    "Daniel Mersereau"
+  ],
+  "tags": [],
+  "summary": "John's 10th-great-grand-uncle.",
+  "bio": "Daniel Mercereau 'du bourg de Moise en Xaintonge' married Suzanne Marie Doucinet 'de la ville de la Rochelle' on 6 Aug 1693 (signers incl. 'marque X de Elisabet Dubois', Josué Mercereau, Elie Masse, Pierre Masse). Godfather of Daniel Masse (1689); his wife was godmother of Pierre (1693) and Jeanne Masse (1696). Suzanne's La Rochelle origin is the likely source of the false 'La Rochelle' claim for the Lamoureux.",
+  "sources": [
+    "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu pp.29-31"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Daniel Mercereau (b. unknown)",
+    "line": 6942
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

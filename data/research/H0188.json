@@ -1,0 +1,26 @@
+{
+  "id": "H0188",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 1st cousin 7x removed; early coal operator ruined by the trade.",
+  "bio": "Daniel Davenport (1797-1840) 'became seriously involved in the coal trade' and lost most of his estate; Wright, who sat on the same school bench, says these troubles 'undoubtedly' caused his early death.",
+  "sources": [
+    "Wright p.386"
+  ],
+  "occupation": "Coal operator",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Daniel Davenport (b. 1797)",
+    "line": 6786
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

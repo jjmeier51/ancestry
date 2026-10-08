@@ -1,0 +1,28 @@
+{
+  "id": "I282695502860",
+  "link": {
+    "confidence": "possible",
+    "note": "Her birth and parents match GEDBAS 1444214156 exactly; her place in Johnny's line depends on unproven links (Jacob Heitzler's parents). Death 1728 tree-only/unsupported."
+  },
+  "aka": [
+    "Ottilia Schirk"
+  ],
+  "tags": [],
+  "summary": "Possible 7th great-grandmother of John.",
+  "sources": [
+    "GEDBAS 1444214156 https://gedbas.genealogy.net/person/show/1444214156",
+    "Ancestry tree screenshots (section 2.2.2)",
+    "deep-dive report"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2549
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

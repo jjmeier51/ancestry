@@ -1,0 +1,85 @@
+{
+  "id": "I282604492552",
+  "link": {
+    "confidence": "confirmed",
+    "note": "This is me (site owner). The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
+  },
+  "aka": [
+    "Johnny Meier",
+    "Johnny"
+  ],
+  "tags": [
+    "notable"
+  ],
+  "summary": "Project owner and subject of the family tree; a living person, so not researched.",
+  "bio": "John (\"Johnny\") Meier, born 1992, is the subject of this research and the project owner (GitHub jjmeier51). His Ancestry tree shows him as 'Johnny Meier 1992–Living'. On his father's side he descends from German (Munzingen, Baden) Meiers, Pennsylvania Pringles with colonial Long Island, Huguenot French and Palatine German roots, Irish Heffernans from County Tipperary, and Irish-American McGuires. On his mother's side he descends from Italian Petriello, Gianetta, Cognetti and Ferlaino families from Irpinia (Avellino) and Calabria, who settled in Scranton and Dunmore, PA. He is 13th in descent from Richard 'Bull' Smith, founder of Smithtown, Long Island.",
+  "notable": "Through the colonial lines he is a blood cousin of President Benjamin Harrison (6C5R), First Ladies Anna Symmes Harrison and Julia Gardiner Tyler, and the Titanic victim James Clinch Smith (6C5R), among others. Section 3.4 has the full list.",
+  "facts": [
+    {
+      "label": "Tree profile",
+      "value": "'Johnny Meier 1992–Living'. The profile photo is a collage of yearbook-style photos with a yellow/green image."
+    },
+    {
+      "label": "Proven Revolutionary patriot ancestor",
+      "value": "Ensign Thomas Lamoreaux (SAR P-232580; DAR A068239), his 6th-great-grandfather through Martha Lamoreaux Pringle."
+    },
+    {
+      "label": "Generations to Bull Smith",
+      "value": "13, counting John as generation 13 (Bull Smith PDF)."
+    }
+  ],
+  "sources": [
+    "John's Ancestry tree screenshots (Google Drive, IMG_7791 and others)",
+    "Richard_Bull_Smith_Lineage.pdf"
+  ],
+  "mediaKnown": [
+    "Ancestry profile photo (a collage)"
+  ],
+  "handoff": {
+    "section": "3.1 John and his parents",
+    "heading": "Johnny Meier (b. 1992)",
+    "line": 1608
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry pedigree, paternal side with dates",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282604492552/ancestry-screenshot-img-7791.jpg",
+      "people": [
+        "I282604492836"
+      ]
+    },
+    {
+      "type": "document",
+      "title": "Descent from Richard \"Bull\" Smith, earlier chart version",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282604492552/ancestry-screenshot-img-7800.jpg",
+      "people": [
+        "I282608065309"
+      ]
+    },
+    {
+      "type": "document",
+      "title": "Descent from Richard \"Bull\" Smith, 13-generation chart",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282604492552/ancestry-screenshot-img-7802.jpg",
+      "people": [
+        "I282608065309"
+      ]
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ],
+  "sex": "M"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "H0029",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1880 census image (brother-in-law 'Gabriel Bergenmyer', 29, born Baden); birth/death from FS family of Servatius (probable)."
+  },
+  "sex": "M",
+  "aka": [
+    "Gabriel Bergenmyer (1880 census)",
+    "Gabriel Birkenmayer"
+  ],
+  "tags": [],
+  "summary": "John's 4th great-uncle; brother of Maria Anna; lived with the Meiers in Hazleton in 1880.",
+  "bio": "In the 1880 census he was 'Bergenmyer, Gabriel, 29, brother-in-law, gardener', sick with 'fever & ague' (a malaria-type fever) on census day, in Friedrich Myer's household — the record that confirms Maria's maiden name. He later moved to Sandusky, Ohio, where brother Joseph lived, and died there 2 Dec 1896.",
+  "sources": [
+    "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
+    "FamilySearch G921-2R4",
+    "notes/round3/meier_line.md"
+  ],
+  "occupation": "Gardener (1880)",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3207
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

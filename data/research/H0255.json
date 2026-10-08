@@ -1,0 +1,29 @@
+{
+  "id": "H0255",
+  "link": {
+    "confidence": "unverified",
+    "note": "Removed with the Sayre branch; the Thomas Sayre House is therefore not an ancestral home."
+  },
+  "sex": "M",
+  "aka": [
+    "Thomas Sayre of Southampton"
+  ],
+  "tags": [],
+  "summary": "Removed; ancestor of Stephen Sayre (not kin).",
+  "bio": "Stephen Sayre (1736–1818) descends from him through Francis, John and John (Banks 1901).",
+  "sources": [
+    "Banks (1901)",
+    "notes/colonial_virginia.md §2a, §3d"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8456
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

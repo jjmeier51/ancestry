@@ -1,0 +1,37 @@
+{
+  "id": "H0147",
+  "link": {
+    "confidence": "probable",
+    "note": "Name, age and county fit; no record joins soldier to family."
+  },
+  "sex": "M",
+  "tags": [
+    "military"
+  ],
+  "summary": "Probably John's 1st cousin 5x removed; Civil War private, 52nd Pennsylvania ('Luzerne Regiment').",
+  "bio": "Caleb Pringle, b. 1839, son of Benjamin Pringle and Charity Gould, 'went West' (Giles & Franklin). Private Caleb Pringle served in Co. G, 52nd PA Infantry ('Luzerne Regiment') from 4 Nov 1861 to 5 Nov 1864 - the only Luzerne-regiment Pringle in the Bates rosters. Identity of soldier and cousin is probable.",
+  "military": [
+    {
+      "branch": "US Army (Pennsylvania Volunteers)",
+      "service": "Civil War",
+      "rank": "Private",
+      "unit": "Co. G, 52nd Pennsylvania Infantry",
+      "note": "4 Nov 1861 - 5 Nov 1864"
+    }
+  ],
+  "sources": [
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.280-281",
+    "PA-Roots 52nd PA Co. G: https://pa-roots.com/pacw/infantry/52nd/52ndcog.html"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Caleb Pringle (b. 1839)",
+    "line": 6091
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

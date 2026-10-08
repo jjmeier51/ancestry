@@ -1,0 +1,31 @@
+{
+  "id": "I282695307575",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; removed. He would have been 60 when Catherine was born in 1770, suggesting a missing generation."
+  },
+  "tags": [],
+  "summary": "Tree-only; disproven as John's ancestor.",
+  "bio": "Tree shows Richard NEAGLE 1710-Deceased as Catherine Neagle's father. Removed with the Neagle branch.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Richard NEAGLE 1710-Deceased"
+    }
+  ],
+  "sources": [
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "Uploaded deep-dive report"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Richard Neagle (b. 1710)",
+    "line": 5193
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

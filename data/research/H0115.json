@@ -1,0 +1,30 @@
+{
+  "id": "H0115",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "F",
+  "aka": [
+    "Sister Mary Antonia, IHM"
+  ],
+  "tags": [],
+  "summary": "John's 2nd-great-grand-aunt; Sister Mary Antonia, IHM, a Catholic school teacher.",
+  "bio": "Mary Heffernan (7 Jan 1879 - 4 Feb 1955) became Sister Mary Antonia of the Sisters of the Immaculate Heart of Mary (IHM) and taught in Catholic schools in New York and Pennsylvania.",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Find a Grave 49215308: https://www.findagrave.com/memorial/49215308/sr-mary-antonia-heffernan"
+  ],
+  "occupation": "Religious sister and teacher",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Mary Heffernan (b. 1879)",
+    "line": 5536
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

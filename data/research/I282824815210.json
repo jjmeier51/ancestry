@@ -1,0 +1,36 @@
+{
+  "id": "I282824815210",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only (with a record-image thumbnail); not researched."
+  },
+  "tags": [],
+  "summary": "John's maternal 4th great-grandmother per the tree; wife of Domenico Di Biase.",
+  "bio": "Tree: Angela Carrozzino (Deceased), wife of Domenico Di Biase, mother of Giovanni P. Dibiasi. No research result for her in any round.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Angela Carrozzino (Deceased) (record-image thumbnail)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription"
+  ],
+  "mediaKnown": [
+    "Ancestry record-image thumbnail"
+  ],
+  "openQuestions": [
+    "Any civil record naming her (Guardia Lombardi, AS Avellino)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Angela Carrozzino (b. unknown)",
+    "line": 10560
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

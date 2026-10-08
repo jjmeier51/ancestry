@@ -1,0 +1,62 @@
+{
+  "id": "I282608065316",
+  "link": {
+    "confidence": "probable",
+    "note": "Identified as Bull Smith's wife by Edward Smith (NYGBR 121): William Hammond's 1662 will names 'daughter Sarah Smith with her son Adam'; 1640 Phillips–Winthrop letter. 'Probable, strong.'"
+  },
+  "given": "Sarah",
+  "surname": "Hammond",
+  "birth": {
+    "date": "ABT 1623",
+    "place": "Lavenham, Suffolk, England"
+  },
+  "death": {
+    "date": "1708",
+    "place": "Smithtown, Suffolk County, New York, USA"
+  },
+  "aka": [
+    "Sarah Smith",
+    "Sarah F Hammond (tree)",
+    "Sarah Folger (erroneous, Pelletreau)",
+    "Marie Hammond (possible baptismal name)"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 10th-great-grandmother, wife of Bull Smith; came from Ipswich to New England in 1634 aged 10.",
+  "bio": "Sailed from Ipswich on the Francis in April 1634, aged 10, with her mother (47), Elizabeth (15) and John (7) (Hammond 1902). No Lavenham baptism under 'Sarah' found; Hammond's register list has 'Marie, daughter of William Hamond' dated 21 Oct '1628', probably a misprint for 1623 (it sits before the 1626 entry); WikiTree Hammond-356 suggests she was christened 'Marie' 21 Oct 1623 (speculative). Married Richard Smith in 1640 despite his attempt to withdraw. Her will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss' — 'Old Crib', which family tradition says the Patentee's father used in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left Mr. George Phillips a cow and made son Richard give up debts he 'pretends' were owed him (Pelletreau pp. 37–38). Pelletreau (1898) had called her 'Sarah Folger, of Boston, according to all accounts' — superseded.",
+  "funFacts": [
+    "Owned the blunderbuss 'Old Crib', a family heirloom still held by descendants in 1898."
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Sarah F Hammond 1623–1708"
+    }
+  ],
+  "sources": [
+    "Hammond, History and Genealogies of the Hammond Families in America (1902) vol. 1, pp. 57–8, https://archive.org/details/historygenealogi0001fred",
+    "jrm Needham I2516 citing NYGBR 121, https://jrm.phys.ksu.edu/Genealogy/Needham/d0003/I2516.html",
+    "Pelletreau (1898) pp. 37–38",
+    "WikiTree Hammond-356",
+    "Round 1 correction 3d"
+  ],
+  "openQuestions": [
+    "Lavenham register 21 Oct 1623 ('Marie'): read directly."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 12 (10th-great-grandparents)",
+    "line": 7681
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Sarah Folger Hammond\"; research uses \"Sarah Hammond\"."
+    }
+  ]
+}

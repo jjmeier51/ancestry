@@ -1,0 +1,29 @@
+{
+  "id": "H0101",
+  "link": {
+    "confidence": "unverified",
+    "note": "Real man (Dwyer Branch 1) but wrongly attached in the tree as Andrew H. Heffernan's father; the correct father is Thomas Heffernan b. 1808."
+  },
+  "sex": "M",
+  "aka": [
+    "Thomas Heffernan 1791 (tree)"
+  ],
+  "tags": [],
+  "summary": "Not John's ancestor: the 1791 Thomas Heffernan the tree mistakenly put above Andrew H. Heffernan.",
+  "bio": "Dwyer's Branch 1: Thomas 'of Lanespark', baptized 1791, son of Patrick Heffernan and Catherine Neagle, married Catherine Shelly in 1831. The tree's 'Thomas Heffernan 1791-Deceased' (obituary clipping image) attached to Catherine Boney conflates him with Thomas of Mardyke (b. 1808).",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Heffernan of Lanespark (b. 1791)",
+    "line": 5247
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

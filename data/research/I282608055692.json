@@ -1,0 +1,83 @@
+{
+  "id": "I282608055692",
+  "link": {
+    "confidence": "probable",
+    "note": "Father of John per Alva Tuttle (1968) p. 279/311; strengthened by the 1756 will of his son James Jr. naming 'my father, James Tuthill … of Orange County'. Akerly (1898) places him as son of John Tuthill Jr. & Mehitable Wells, 'doubtless both of Brookhaven, L.I., and of Orange Co.'"
+  },
+  "given": "James",
+  "surname": "Tuthill",
+  "birth": {
+    "date": "ABT 1692",
+    "place": "Oysterponds (Orient), Southold, Suffolk County, New York, USA"
+  },
+  "death": {
+    "date": "ABT 1772",
+    "place": "Orange County, New York, USA"
+  },
+  "aka": [
+    "James M Tuthill (tree)",
+    "James Tuthill Sr."
+  ],
+  "tags": [],
+  "summary": "John's 8th-great-grandfather; a Southold-born Tuthill who settled in Brookhaven and moved to the Orange County highlands in the 1740s.",
+  "bio": "Born about 1692 at Oysterponds, son of John Tuthill Jr. & Mehitable Wells (Alva Tuttle p. 279; Akerly 1898). Married Rachel Browne about 1714. Bought land in Brookhaven in 1714 and 1721; rated there in 1741 but not in 1749; moved to Ulster/Orange between 1742 and 1748; died about 1772. Akerly names his children as Daniel (will dated Goshen 1761), James and Benjamin 'and perhaps others' — not John, which is why John's link stays probable. His brother Freegift Tuthill (1698–1765) also moved from Brookhaven to New Windsor and Goshen; his brother John (III) of Southold, will 9 Jun 1740 (NY Wills III, Liber 15, pp. 400–1), left Brookhaven land to 'my brother James Tuthill' and named 'my brother Joseph Brown'. His son James Jr. of New Windsor, Ulster Co. (will 17 Mar 1756, Liber 20 p. 25) died young leaving five children and made 'my father, James Tuthill, and Selah Strong, both of Orange County, executors' — proving James Sr. moved to Orange County. Son Daniel of Goshen (will 1761, Liber 23 p. 130) named Joshua Brown executor, asked for burial 'decent without Pomp or State', witnesses John Brewster, Samuel Smith and Selah Strong. TREE CONFLICT: the Ancestry tree shows 'James M Tuthill 1692–1772' married to 'HANNAH S REEVE 1699–1764' (with gravestone photo). Research shows the tree merged two marriages of two brothers: Joshua Tuthill married Hannah Reeve; James married Rachel Browne (McCurdy p14551). Because James and Joshua were full brothers (both sons of Mehitable Wells), the Tuthill, King and Wells relationships survive either way; only the Reeve and Satterly ancestors are at risk. Preferred: James Tuthill & Rachel Browne (Round 2/3 research; uploads override tree).",
+  "residences": [
+    {
+      "date": "1714",
+      "place": "Brookhaven, Suffolk County, New York, USA"
+    },
+    {
+      "date": "1741",
+      "place": "Brookhaven, Suffolk County, New York, USA"
+    },
+    {
+      "date": "BET 1742 AND 1748",
+      "place": "Orange/Ulster County, New York, USA"
+    },
+    {
+      "date": "1756",
+      "place": "Orange County, New York, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "James M Tuthill 1692–1772, spouse HANNAH S REEVE 1699–1764 (gravestone photo); parents John J Tuthill Jr. 1658–1754 + Mehitable Wells 1666–1742"
+    },
+    {
+      "label": "Preferred spouse",
+      "value": "Rachel Browne (research) — not Hannah Reeve (tree)"
+    }
+  ],
+  "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), p. 279",
+    "Akerly, Tuthill Family of Southold (1898), https://archive.org/details/tuthillfamilyoft00aker",
+    "Abstracts of Wills, NYHS: vol. III Liber 15 pp. 400–1 (https://archive.org/details/abstractswillso01kellgoog); vol. V Liber 20 p. 25 (https://archive.org/details/abstractswillso04kellgoog); vol. VI Liber 23 p. 130 (https://archive.org/details/abstractswillso05kellgoog)",
+    "McCurdy family lineage p14551, https://mccurdyfamilylineage.com/ancestry/p14551.htm",
+    "My Maine Heritage ps409_270, https://sites.rootsweb.com/~megen/reunion/ps409/ps409_270.html",
+    "Uploaded deep-dive report, 'Colonial Long Island lines' corrections table",
+    "notes/round3/english_french_origins.md status change 9; notes/round2/colonial_cousins.md §1a"
+  ],
+  "mediaKnown": [
+    "Tree card 'James M Tuthill 1692–1772'"
+  ],
+  "openQuestions": [
+    "Original record naming John (c.1730) as his son.",
+    "His death/administration in Orange County c.1772."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 10 (8th-great-grandparents)",
+    "line": 7410
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"James Marvin Tuthill\"; research uses \"James Tuthill\"."
+    }
+  ]
+}

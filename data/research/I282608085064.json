@@ -1,0 +1,39 @@
+{
+  "id": "I282608085064",
+  "link": {
+    "confidence": "probable",
+    "note": "FS tree only (not in the 1880 census as read)."
+  },
+  "given": "Theresa",
+  "surname": "Meier",
+  "birth": {
+    "date": "1872-09-10",
+    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1933",
+    "place": "Hanover, Luzerne County, Pennsylvania, United States of America"
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 3rd great-aunt.",
+  "sources": [
+    "FamilySearch tree G921-25N (Friedrich Mayer family)",
+    "notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 2970
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Theresa Boyle\"; research uses \"Theresa Meier\"."
+    }
+  ]
+}

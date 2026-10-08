@@ -1,0 +1,83 @@
+{
+  "id": "I282608055482",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named 'my beloved wife Keturah' in Thomas Lamoreaux's will (upgraded to confirmed, Round 3). Her parentage (John Tuthill & Temperance Smith) is probable and belongs to the colonial group."
+  },
+  "birth": {
+    "date": "1755-12",
+    "place": "Woodbury Clove, Orange County, New York, USA"
+  },
+  "death": {
+    "date": "1833-03-10",
+    "place": "Jackson Township, Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Keturah Tuthill",
+    "Keturah Lamoreaux"
+  ],
+  "tags": [],
+  "summary": "John's 6th-great-grandmother; wife of Ensign Thomas Lamoreaux and the bridge from the Pennsylvania lines to the Long Island colonial Tuthill/Smith ancestry.",
+  "bio": "Keturah Tuttle was born in Dec 1755 at Woodbury Clove, Orange Co., NY (SAR application ACN 58344 gives 1755 at 'Woodbury Clove', matching Alva Tuttle). She was probably a daughter of John Tuthill (c.1730-c.1770) and Temperance Smith (Alva Tuttle, Tuttle-Tuthill Lines, 1968, p.311: children twins James & John 1753, twins Ezekiel & William c.1754, Keturah ~1755, Samuel and Daniel); her children's names James, Temperance and Keturah follow that family. Her uncles Capt. Francis Smith and Capt. Austin Smith commanded the Woodbury Clove and Upper Clove militia companies in 1775-76, with her husband as ensign. She married Thomas Lamoreaux and moved with him to Plymouth (1790) and Jackson Twp. His will left her 'my best horse saddle & bridle' and $100. She died 10 Mar 1833 (obituary, Republican Farmer, Wilkes-Barre, 13 Mar 1833; WikiTree Tuthill-530; Find a Grave 269816651, Lamoreaux Family Burying Ground, Jackson Twp). The tree's death of 1842 (tree shows 1755-1842) is her daughter Keturah's (Harvey Book p.360). (Her Tuttle/Smith ancestors are covered in the colonial section.)",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Keturah Tuttle 1755-1842"
+    },
+    {
+      "label": "WikiTree",
+      "value": "Tuthill-530"
+    },
+    {
+      "label": "Find a Grave",
+      "value": "269816651"
+    }
+  ],
+  "sources": [
+    "WikiTree Tuthill-530: https://www.wikitree.com/wiki/Tuthill-530",
+    "Find a Grave 269816651",
+    "Republican Farmer (Wilkes-Barre), 13 Mar 1833",
+    "SAR application ACN 58344: https://sarpatriots.sar.org/application/display/60180",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968) p.311 (FamilySearch Books item 481721: https://www.familysearch.org/library/books/records/item/481721)",
+    "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
+    "Ruttenber & Clark, History of Orange County (1881), militia lists: https://archive.org/details/historyoforangec00rut",
+    "Harvey Book p.360",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Primary proof of her parents (colonial group): Orange Co. records, Alva Tuttle's sources."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Keturah Tuttle (b. 1755)",
+    "line": 4433
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry pedigree, Tuttle / Lamoreaux / Pringle colonial line (1 of 2)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608055482/ancestry-screenshot-img-7792.jpg"
+    },
+    {
+      "type": "document",
+      "title": "Ancestry pedigree, Tuttle / Lamoreaux / Pringle colonial line (2 of 2)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608055482/ancestry-screenshot-img-7794.jpg"
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Death in the Ancestry tree: 09 Dec 1842; research: 1833-03-10."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "H0377",
+  "link": {
+    "confidence": "unverified",
+    "note": "Same surname; family from Conflenti; kinship unproven."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Engineer and longtime owner of SSC Napoli in the Maradona era; same-surname, no proven kinship.",
+  "bio": "His father Modesto was a builder from Conflenti, next to San Mango d'Aquino.",
+  "sources": [
+    "it.wikipedia Corrado Ferlaino: https://it.wikipedia.org/wiki/Corrado_Ferlaino"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Corrado Ferlaino (b. 1931)",
+    "line": 11985
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

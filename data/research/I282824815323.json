@@ -1,0 +1,48 @@
+{
+  "id": "I282824815323",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Birth act San Mango Nati 1840 act 79 (image read). His fatherhood of Giuseppina Fiorillo is tree-only (probable)."
+  },
+  "birth": {
+    "date": "1840-12-27",
+    "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy"
+  },
+  "death": {
+    "date": "1927",
+    "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy"
+  },
+  "tags": [],
+  "summary": "John's maternal 3rd great-grandfather; born at San Mango d'Aquino to a bracciale (day-labourer) family.",
+  "bio": "Tree: Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926). Round 3: born 27 Dec 1840, San Mango d'Aquino, Nati 1840 act 79; father Carmine Fiorillo, 32, bracciale; mother Giuseppina Ferlaino; one witness was Gaetano Colosimo, 40; the Sindaco was Dr. Bruno Sacco. All 5 of Calabria's documented Fiorillo US arrivals came from San Mango (paese.app); the 1990s San Mango phone directory lists Fiorillo x7. But the parish stati delle anime 1674-1804 have NO Fiorillo, so the family arrived in San Mango in the 1800s.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Domenico Fiorillo 1840-1927"
+    }
+  ],
+  "sources": [
+    "Antenati, San Mango d'Aquino, Nati 1840, act 79: https://antenati.cultura.gov.it/ark:/12657/an_ua37933123/LNZdd7O ; https://antenati.cultura.gov.it/ark:/12657/an_ua37933123/LevKKpD",
+    "paese.app Fiorillo: https://paese.app/cognomi/fiorillo",
+    "Ancestry tree transcription",
+    "notes/round3/italian_origins.md 5"
+  ],
+  "mediaKnown": [
+    "1840 birth act image (Antenati)"
+  ],
+  "openQuestions": [
+    "Marriage to Saveria Colosimo (c.1865-70) and Giuseppina's birth act (San Mango 1866-1910 registers)",
+    "Death 1927"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Domenico Fiorillo (b. 1840)",
+    "line": 10426
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

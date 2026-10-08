@@ -1,0 +1,37 @@
+{
+  "id": "H0280",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Wood; Patch; Rockwell."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 3rd cousin 8x removed (Bull → Daniel → Daniel 2d → Caleb → Caleb II); 1798 mill partner.",
+  "bio": "Built a house in Hauppauge in 1790, reported to have stood at Veterans Highway and Old Willets Path, where the Suffolk County Police Fourth Precinct is today; moved to Commack in 1819; gave the Hauppauge house to daughter Sarah when she married Maj. Ebenezer Smith.",
+  "residences": [
+    {
+      "date": "1790",
+      "place": "Hauppauge, Suffolk County, New York, USA"
+    },
+    {
+      "date": "1819",
+      "place": "Commack, Suffolk County, New York, USA"
+    }
+  ],
+  "sources": [
+    "Patch, https://patch.com/new-york/commack/commack-history-caleb-smith-ii",
+    "Rockwell scrapbook",
+    "Wood (1920) p. 26"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Collateral relatives (Keturah's uncles and siblings, Tuthill and Smith kin)",
+    "line": 9070
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

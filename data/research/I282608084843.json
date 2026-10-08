@@ -1,0 +1,37 @@
+{
+  "id": "I282608084843",
+  "link": {
+    "confidence": "unverified",
+    "note": "Ancestry tree only. GEDBAS's only Mathias Birkenmaier d. 1803 was born c.1718 and married Maria Schmid (GEDBAS 1013621643) — not a match. Never searched in the Munzingen books."
+  },
+  "aka": [
+    "Matthias Birkenmay… (Ancestry tree)"
+  ],
+  "tags": [],
+  "summary": "Tree-shown 6th great-grandfather of John (father of Johann Ev. Birkenmayer); unverified.",
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Matthias Birkenmay… 1739–1803 + Caecilia Hohler 1752–Dece…; father Stephan BIRKENM… 1694–1768."
+    }
+  ],
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2) (IMG_7805/7806/7809)",
+    "GEDBAS 1013621643 https://gedbas.genealogy.net/person/show/1013621643",
+    "deep-dive report corrections table"
+  ],
+  "openQuestions": [
+    "Johann Ev.'s 1771 baptism in the Munzingen parish book would name his parents."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2366
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

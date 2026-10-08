@@ -1,0 +1,54 @@
+{
+  "id": "I282608053741",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Harvey Book (Noah entry) names her as James Pringle's wife 'Elizabeth Croup'; her sister Susan is documented as daughter of Frederick and Mary (Young) Croup; 1850 census age 48."
+  },
+  "birth": {
+    "date": "ABT 1802",
+    "place": "Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1895",
+    "place": "IN"
+  },
+  "aka": [
+    "Elizabeth Grub",
+    "Elizabeth Croop",
+    "Elizabeth Pringle"
+  ],
+  "tags": [],
+  "summary": "John's 4th-great-grandmother; daughter of the Palatine-German Croup (Grub) family of Hunlock's Creek and Nanticoke.",
+  "bio": "Elizabeth Croup was born about 1802 (1850 census age 48; tree 1802-1895), probably in Luzerne County, where her family had moved from Forks Twp, Northampton County, about 1799-1800 (her sister Susan was born at Nanticoke in May 1800). Her parents were Frederick Croup/Grub and Mary Young. She married James Pringle and had at least five children, including John's ancestor Andrew G. Pringle. FamilySearch lists her siblings as Susan (1800), John, Peter, Mary, Margaret, Catherine, Ann and William. She died in 1895 (tree; unsourced).",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Elizabeth Croup 1802-1895"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "LWNW-RRV"
+    }
+  ],
+  "sources": [
+    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
+    "Harvey Book pp.354, 370-371: https://archive.org/details/harveybookgiving00harv",
+    "Bradsby p.584 (Croups a milling family at Hunlock's Creek): https://archive.org/details/historyofluzerne00brad",
+    "FamilySearch LWNW-RRV: https://www.familysearch.org/service/tree/tree-data/published/persons/LWNW-RRV",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Birth and 1895 death record; Luzerne Orphans' Court papers for Frederick Croup (d. 1841) should name her."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Elizabeth Croup (b. 1802)",
+    "line": 4059
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

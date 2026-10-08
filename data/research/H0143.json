@@ -1,0 +1,25 @@
+{
+  "id": "H0143",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 2nd cousin 4x removed; Kingston merchant, Yale 1884.",
+  "bio": "Nelson George Pringle (1860-1908), son of Alexander J. Pringle; Kingston merchant; Yale class of 1884. His daughters Elizabeth H. and Bertha A. Pringle graduated from Vassar in 1913 and 1916 (3rd cousins 3x removed).",
+  "sources": [
+    "Harvey & Smith vol. VI: https://archive.org/details/historyofwilkesb06harv"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Nelson George Pringle (b. 1860)",
+    "line": 6027
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

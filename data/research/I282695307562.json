@@ -1,0 +1,32 @@
+{
+  "id": "I282695307562",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; removed from John's line in Round 2 (belongs to the Lanespark branch per Dwyer)."
+  },
+  "tags": [],
+  "summary": "Tree-only; disproven as John's ancestor.",
+  "bio": "Tree shows Catherine Neagle 1770-Deceased, wife of Patrick Heffernan. 'Neagle' is probably Nagle, a Cork landed family; the Neagle and Kearney generations have no sources. Removed from Andrew H. Heffernan's line.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Catherine Neagle 1770-Deceased"
+    }
+  ],
+  "sources": [
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Landed Estates (Nagle): https://landedestates.ie/estate/2874"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Catherine Neagle (b. 1770)",
+    "line": 5175
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

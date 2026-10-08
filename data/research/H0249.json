@@ -1,0 +1,35 @@
+{
+  "id": "H0249",
+  "link": {
+    "confidence": "probable",
+    "note": "Hammond (1902): 'the earliest ancestor with whom it has been possible to connect William Hammond'."
+  },
+  "sex": "M",
+  "aka": [
+    "John Hamonde of (Long) Melford"
+  ],
+  "tags": [],
+  "summary": "John's 14th-great-grandfather; a fuller and cloth-maker of Long Melford, Suffolk, about 1517.",
+  "bio": "Fuller (cloth-finisher) and cloth-maker of Long Melford; executor of John Hamond the elder of Melford (will dated 1517, proved 1528). A link further back to the Lawshall Hammonds is speculative. The Hammonds and Warrens were neighbours on Hall Street in Melford.",
+  "residences": [
+    {
+      "date": "ABT 1517",
+      "place": "Long Melford, Suffolk, England"
+    }
+  ],
+  "sources": [
+    "Hammond (1902)"
+  ],
+  "occupation": "Fuller and cloth-maker",
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 15–16 (13th- and 14th-great-grandparents)",
+    "line": 8222
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

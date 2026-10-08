@@ -1,0 +1,172 @@
+{
+  "id": "I282608053685",
+  "link": {
+    "confidence": "confirmed",
+    "note": "The 1850 census places Andrew, 14, in the household of James and Elizabeth Pringle with his documented brother Noah (Harvey Book names Noah as son of James and Elizabeth Croup); the 1880 census shows him as father of Addison; Addison's 1943 obituary names him."
+  },
+  "given": "Andrew G.",
+  "surname": "Pringle",
+  "birth": {
+    "date": "ABT 1836",
+    "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+  },
+  "occupation": "Laborer (1880)",
+  "aka": [
+    "Andrew Pringle"
+  ],
+  "tags": [],
+  "summary": "John's 3rd-great-grandfather; Plymouth laborer whose wife Catherine Scott divorced him; the census-proven link between Addison Pringle and the Croup/Lamoreaux lines (and so the SAR route).",
+  "bio": "Andrew G. Pringle was born about 1836, probably in Plymouth Twp: he was 14 in the 1850 census (enumerated 14 Sep 1850) and 44 on 4 Jun 1880. The tree shows him as 1835-1900 (transcription: c1836-1900). The 1850 census of Plymouth Twp (A. Atherton, Ass't Marshal, page 140/141, stamp 71; dwelling 944/family 964) lists James Pringle 51 farmer ($500 real estate, b. PA), Elizabeth 48, Alby 27, Noah 16 farmer, Andrew 14 (line 38), Leva Ann 11 and Edwin 9. Two households earlier (dwelling 942) was the widow Hulda Pringle with children Orange, Ransom and 'Caturah'. The census states no relationships, but Noah is documented as son of James and Elizabeth (Croup) Pringle and grandson of Samuel and Martha (Lamoreaux), so Andrew's parentage is settled; John found this page himself on FamilySearch, attached to Andrew Pringle 1836-1900 (KG4S-XMF). He married Catherine Scott of Kingston in 1857; they had seven children per Bradsby. She later sued for divorce, 'the action commenced by her and sustained by the court'; no grounds are stated anywhere online. In the 1880 census (Plymouth Twp, ED 145, p.4) he was a laborer, with Katharine 43, John 20, Samuel 17, 'Adason' 15 (laborer), Orange 13 (slate picker) and Stella 5; next door was a 15-year-old servant, Emma Pringle, a relative of unknown connection. He named sons Orange and Samuel, following the Lamoreaux/Pringle naming pattern. He died in 1900 (tree; no record found). No Civil War, GAR, pension, will (not in the Luzerne wills index 'P') or occupation record was found online; he is not in the 2,656 Bates-transcribed PA company rosters on PA-Roots.",
+  "residences": [
+    {
+      "date": "1850",
+      "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1880",
+      "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "1850 census",
+      "date": "1850-09-14",
+      "place": "Plymouth Township, Luzerne County, Pennsylvania, USA",
+      "description": "Dwelling 944/family 964, line 38: Andrew 14 in James Pringle's household."
+    },
+    {
+      "title": "Marriage",
+      "date": "1857",
+      "place": "Luzerne County, Pennsylvania, USA",
+      "description": "Married Catherine Scott (Bradsby)."
+    },
+    {
+      "title": "Divorce",
+      "date": "BEF 1893",
+      "place": "Luzerne County, Pennsylvania, USA",
+      "description": "Divorce action brought by Catherine and sustained by the court (Bradsby 1893); she resumed her maiden name."
+    },
+    {
+      "title": "1880 census",
+      "date": "1880-06-04",
+      "place": "Plymouth Township, ED 145, p.4",
+      "description": "Laborer, 44, with wife Katharine and five children."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Andrew G Pringle 1835-1900; sibling card Lina Ann Harrison 1839-1910"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "KG4S-XMF (Andrew Pringle 1836-1900)"
+    },
+    {
+      "label": "Middle initial G.",
+      "value": "Unexplained"
+    }
+  ],
+  "sources": [
+    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
+    "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X",
+    "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
+    "Harvey Book pp.370-371 (Noah Pringle entry): https://archive.org/details/harveybookgiving00harv",
+    "Find a Grave 139403232 (Addison's obituary)",
+    "PA-Roots Civil War rosters (Bates): https://pa-roots.com/pacw/infantry/paregimentsnew.html (negative)",
+    "Luzerne wills index P: https://pagenweb.org/~luzerne/wills/pwill.htm (negative)",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "research/notes/round2/irish_pa_gaps.md B5; research/notes/round3/irish_pa.md A; uploaded deep-dive report"
+  ],
+  "mediaKnown": [
+    "1850 census image IMG_7813 (FamilySearch, attached to KG4S-XMF)",
+    "1880 census image (FamilySearch)"
+  ],
+  "openQuestions": [
+    "1860 census (Plymouth or Kingston) showing Andrew with Catherine and first children - ties the 1850 boy to the married man directly (top SAR step).",
+    "Death 1900: date, place, burial.",
+    "Divorce grounds: Luzerne Prothonotary divorce docket, Pringle v. Pringle (1870s-80s).",
+    "Civil War service: PA State Archives Civil War Veterans' Card File; 1890 Veterans Schedule.",
+    "Who was Emma Pringle (15, servant, 1880)?"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Andrew G. Pringle (b. 1836)",
+    "line": 3934
+  },
+  "media": [
+    {
+      "type": "record",
+      "title": "1850 US Census record page for Andrew Pringle (FamilySearch) (1 of 3)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608053685/ancestry-screenshot-img-7810.jpg",
+      "people": [
+        "I282608053719",
+        "I282608053741"
+      ]
+    },
+    {
+      "type": "record",
+      "title": "1850 US Census record page for Andrew Pringle (FamilySearch) (2 of 3)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608053685/ancestry-screenshot-img-7811.jpg",
+      "people": [
+        "I282608053719",
+        "I282608053741"
+      ]
+    },
+    {
+      "type": "record",
+      "title": "1850 US Census record page for Andrew Pringle (FamilySearch) (3 of 3)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608053685/ancestry-screenshot-img-7812.jpg",
+      "people": [
+        "I282608053719",
+        "I282608053741"
+      ]
+    },
+    {
+      "type": "record",
+      "title": "1850 US Census, Plymouth Township, Luzerne County, PA (page image)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608053685/ancestry-screenshot-img-7813.jpg",
+      "people": [
+        "I282608053719",
+        "I282608053741"
+      ]
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Pringle, Croup, Young and Doll view",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608053685/ancestry-screenshot-img-7828.jpg",
+      "people": [
+        "I282608053719"
+      ]
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Andrew G Pringle\"; research uses \"Andrew G. Pringle\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1835; research: ABT 1836."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "H0161",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 3rd-great-grand-aunt.",
+  "bio": "Ellen Jane Pringle (1862-1938) married Francis Randell (Bradsby's 'Ellen'). FamilySearch also has an Ellen b. 1858 (infant death and name re-use, or duplicate).",
+  "sources": [
+    "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
+    "FamilySearch (probable)"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Ellen Jane Pringle (b. 1862)",
+    "line": 6340
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

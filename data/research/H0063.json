@@ -1,0 +1,29 @@
+{
+  "id": "H0063",
+  "link": {
+    "confidence": "probable",
+    "note": "FS G3PC-FFK."
+  },
+  "sex": "F",
+  "aka": [
+    "Nancy McGuire",
+    "Nancy Holland"
+  ],
+  "tags": [],
+  "summary": "John's great-aunt; sister of Kathryn (possibly twin of Elizabeth).",
+  "sources": [
+    "FamilySearch G3PC-FFK",
+    "notes/round3/irish_pa.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3776
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

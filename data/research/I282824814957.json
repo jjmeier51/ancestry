@@ -1,0 +1,31 @@
+{
+  "id": "I282824814957",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; detached from John's direct line by the Round 3 correction."
+  },
+  "tags": [],
+  "summary": "Tree's mother of Maria d'Ambrosio; not John's ancestor after the correction.",
+  "bio": "Tree: Maddalena Gialanella (1764-1824). Gialanella's #1 US-emigration comune is Guardia Lombardi (11 arrivals), followed by neighbours Rocca San Felice and Teora (paese.app).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Maddalena Gialanella 1764-1824"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "paese.app Gialanella: https://paese.app/cognomi/gialanella"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Maddalena Gialanella (b. 1764)",
+    "line": 11180
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

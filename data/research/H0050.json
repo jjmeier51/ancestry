@@ -1,0 +1,26 @@
+{
+  "id": "H0050",
+  "link": {
+    "confidence": "possible",
+    "note": "GEDBAS 1370130587 / 1370130568."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Munzingen Birkenmayer contemporary of Servatius; possible aunt/cousin — do not confuse with John's Maria Anna (1837).",
+  "bio": "Daughter of Johannes Birkenmayer; married Salesius Schuhmacher; son Ferdinand b. 1828 Munzingen.",
+  "sources": [
+    "GEDBAS 1370130587 https://gedbas.genealogy.net/person/show/1370130587 ; 1370130568 https://gedbas.genealogy.net/person/show/1370130568",
+    "notes/round2/black_forest.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3564
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

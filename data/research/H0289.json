@@ -1,0 +1,29 @@
+{
+  "id": "H0289",
+  "link": {
+    "confidence": "possible",
+    "note": "Descends from Capt. Thomas Topping through Richard Woodhull II (Stony Brook), but the sources do not confirm every generation; Topping route depends on Temperance's parentage."
+  },
+  "sex": "M",
+  "aka": [
+    "Samuel Culper Sr."
+  ],
+  "tags": [],
+  "summary": "Chief agent of Washington's Culper Ring; John's 4th cousin 8x removed via Topping (reported 4C7R before the Elnathan Topping generation was added).",
+  "sources": [
+    "Stony Brook special collections, https://www.stonybrook.edu/commcms/libspecial/collections/manuscripts/woodhull.php",
+    "Wikipedia: Abraham Woodhull",
+    "notes/colonial_virginia.md §2a"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9222
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "H0345",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Carmine Fiorillo's mother ('the late Vittoria Marrelli/Morelli') in his 1860 death act (image read)."
+  },
+  "sex": "F",
+  "aka": [
+    "Vittoria Morelli"
+  ],
+  "tags": [],
+  "summary": "John's maternal 5th great-grandmother; mother of Carmine Fiorillo. Replaces the tree's 'Maria Morrello'.",
+  "bio": "Round 3 found her in Carmine's death act (San Mango Morti 1860 act 30); reading Marrelli/Morelli. The tree instead gives Carmine's mother as 'Maria Morrello' (1786-1846) with a deep Morrello/Guercio/Chiarello pedigree - same surname family possibly, different given name. Whether Vittoria and the tree's Maria are the same woman is unresolved.",
+  "sources": [
+    "Antenati, San Mango d'Aquino, Morti 1860, act 30: https://antenati.cultura.gov.it/ark:/12657/an_ua37932559/wWyrDq2",
+    "notes/round3/italian_origins.md 5"
+  ],
+  "openQuestions": [
+    "Her parents and origin; Carmine's marriage act"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Vittoria Marrelli (b. unknown)",
+    "line": 10822
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

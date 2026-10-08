@@ -1,0 +1,33 @@
+{
+  "id": "I282608085068",
+  "link": {
+    "confidence": "probable",
+    "note": "FS tree."
+  },
+  "birth": {
+    "date": "1883-04-09",
+    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1966",
+    "place": "Maple Shade, Burlington County, New Jersey, USA"
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 3rd great-uncle; youngest child of Friedrich and Maria.",
+  "sources": [
+    "FamilySearch tree G921-25N (Friedrich Mayer family)",
+    "notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3033
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

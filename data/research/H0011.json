@@ -1,0 +1,26 @@
+{
+  "id": "H0011",
+  "link": {
+    "confidence": "possible",
+    "note": "Only a Wilkes-Barre funeral notice published 11/12 Oct 1933; mother's name and timing fit William and Florence. Not in the 1933 PA death index under M600 (F and I given names, PDF pp.42, 44); nearest is Florence E. Moyer, Wilkes-Barre, d. 17 Oct 1933, file 89261 (different). May be a stillbirth or index misspelling."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Possible infant sister of grandfather James C. Meier (lead).",
+  "sources": [
+    "Genealogy Trails 1933 deaths M–N http://genealogytrails.com/penn/luzerne/1933_deaths/1933_m_n.html",
+    "PA Death Index 1933 M–N p.42 https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1933/D-33%20M-N.pdf",
+    "notes/meier_mcguire.md; notes/round2/meier_gaps.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 2784
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

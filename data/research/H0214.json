@@ -1,0 +1,40 @@
+{
+  "id": "H0214",
+  "link": {
+    "confidence": "probable",
+    "note": "Relationship depends on the unproven Doll link."
+  },
+  "sex": "M",
+  "aka": [
+    "Capt. Casper Dull"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "John's 1st cousin 8x removed if the Doll link holds; the real Revolutionary captain whose 1934 cenotaph stands on Johann Casper Doll's grave.",
+  "bio": "Capt. Casper Dull (1748-1829), nephew of Johann Casper Doll, was cornet (2nd lieutenant) of the Northampton County Light Dragoons and served as a captain in the Revolution; he later received Butler County donation lands and died at McVeytown, Mifflin Co. (Find a Grave 21956570). In 1934 a monument/cenotaph to him was erected on his uncle's grave at Plainfield - the source of the tree's 'Captain' and flag image.",
+  "military": [
+    {
+      "branch": "Pennsylvania militia",
+      "service": "American Revolution",
+      "rank": "Cornet (2nd Lt.), later Captain",
+      "unit": "Northampton County Light Dragoons"
+    }
+  ],
+  "sources": [
+    "Find a Grave 21956570: https://www.findagrave.com/memorial/21956570",
+    "WikiTree Doll-527 (Johann Casper Doll; FamilySearch N5BL-88G): https://www.wikitree.com/wiki/Doll-527",
+    "History of the Susquehanna and Juniata Valleys: https://ldsgenealogy.com/PA/books/History-of-that-part-of-the-Susquehanna-and-Juniata-valleys-embraced-in-the-counties-of-Mifflin-Juniata-Perry-Union-and-Snyder-in-the-commonwealth-of-Pennsylvania-V-1-Pt-2-part-26.htm"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Casper Dull (b. 1748)",
+    "line": 7205
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

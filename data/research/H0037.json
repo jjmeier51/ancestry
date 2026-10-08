@@ -1,0 +1,27 @@
+{
+  "id": "H0037",
+  "link": {
+    "confidence": "probable",
+    "note": "GEDBAS 1262174650 son of Jakob Heitzler & Katharina Begelspacher; relation to John depends on Joseph Heizler being Jakob's son."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probable 6th great-uncle of John; Vogt (headman) of Unteribental.",
+  "bio": "Built the 'Jägerhäusle' (hunter's cottage) on manorial land in 1801; Vogt of Unteribental in 1813.",
+  "sources": [
+    "GEDBAS 1262174650 https://gedbas.genealogy.net/person/show/1262174650",
+    "deep-dive report; notes/round2/black_forest.md"
+  ],
+  "occupation": "Gamekeeper (Jäger); Vogt of Unteribental",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3337
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

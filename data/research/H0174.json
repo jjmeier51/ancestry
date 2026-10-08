@@ -1,0 +1,26 @@
+{
+  "id": "H0174",
+  "link": {
+    "confidence": "probable",
+    "note": "Mother not proven."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probably John's 1st cousin 6x removed; Luzerne County sheriff from 1859.",
+  "bio": "Probable son of Stephen Van Loon and Hannah Lamoreaux (mother not proven); Luzerne sheriff from 1859.",
+  "sources": [
+    "Harvey Book p.357"
+  ],
+  "occupation": "Sheriff of Luzerne County",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Samuel Van Loon (b. 1811)",
+    "line": 6550
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

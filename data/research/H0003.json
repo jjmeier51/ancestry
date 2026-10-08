@@ -1,0 +1,38 @@
+{
+  "id": "H0003",
+  "link": {
+    "confidence": "probable",
+    "note": "1870 census household confirmed (image read); link to James (Kathryn's grandfather) probable via FS and Bloomsburg/Danville births; Dublin baptism speculative."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 3rd great-grandfather; Irish-born iron-furnace helper at Danville, PA.",
+  "bio": "Edward McGuire was born about 1824 in Ireland and died Apr 1907, buried Plymouth. In the 1870 census, Mahoning Twp., Montour Co. (P.O. Danville), he was a 'furnace helper' with wife Mary Jane and children Edward 14, Mary 12, James 9, 'Mesilla' 5 and Timothy 3, all born PA — so in Pennsylvania by c.1856/1858. Danville was home of the Montour Iron Works, whose rolling mill is credited with the first T-rails in America (1845). FamilySearch claims he was baptized 7 Apr 1824 at St. Mary's, Haddington Road (Donnybrook), Dublin, son of Owen McGuire and Anne Clusky, with a sister Margaret baptized Jan 1819 ('Ireland, Catholic Parish Registers' index; image not released) — nothing ties the Danville furnace hand to this baptism beyond name and year.",
+  "residences": [
+    {
+      "date": "1870",
+      "place": "Mahoning Township (P.O. Danville), Montour County, Pennsylvania, USA"
+    }
+  ],
+  "sources": [
+    "1870 census, Mahoning Twp., Montour Co. https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg",
+    "FamilySearch 994Z-27X / GZQN-GZT",
+    "Wikipedia: Danville, PA https://en.wikipedia.org/wiki/Danville,_Pennsylvania (context)",
+    "notes/round3/irish_pa.md; Round 3 report origins table"
+  ],
+  "openQuestions": [
+    "Irish origin — is the Dublin 1824 baptism his? Irish register images return 0-byte files."
+  ],
+  "occupation": "Furnace helper (iron works), 1870",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 1950
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

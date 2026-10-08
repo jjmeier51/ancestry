@@ -1,0 +1,38 @@
+{
+  "id": "I282824886199",
+  "link": {
+    "confidence": "possible",
+    "note": "Only a FamilySearch tree claim; that tree merges him with a Rhode Island family (wife Ann Nancy Waterman). A plausible Luzerne father for Julia Ann, unproven."
+  },
+  "tags": [],
+  "summary": "Possible 5th-great-grandfather of John (father of Julia Ann Watson Scott) - a lead only.",
+  "bio": "FamilySearch makes Julia Ann Watson Scott a daughter of George Watson, b. Mansfield, Notts., 6 Apr 1778, in Huntington Twp 1810, Dallas 1820, d. 1830 Fairmount Springs, Luzerne. It pairs him with Ann Nancy Waterman (b. Norwich CT 1780, d. Barrington RI 1809), who had her own Julia Ann Watson b. Bristol RI 17 Jul 1809 - a merge of two families. George Watson of Huntington/Dallas is the only candidate found; the 'Watson from Nottinghamshire' origin is speculative.",
+  "residences": [
+    {
+      "date": "1810",
+      "place": "Huntington Township, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1820",
+      "place": "Dallas Township, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "sources": [
+    "FamilySearch KG4S-GMT and linked profiles",
+    "research/notes/round3/irish_pa.md status change 13"
+  ],
+  "openQuestions": [
+    "1810/1820 census households and any Luzerne estate file for George Watson (d. 1830) naming a daughter Julia Ann."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "George Watson (b. 1778)",
+    "line": 4294
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

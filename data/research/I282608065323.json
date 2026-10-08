@@ -1,0 +1,30 @@
+{
+  "id": "I282608065323",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree-only mother of Bull Smith; unsupported; remove. (Note the tree's dates would make her about 20 at Bull Smith's birth c.1613 and her husband dead 1618.)"
+  },
+  "tags": [],
+  "summary": "Tree's unsupported mother for Bull Smith; remove.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Rebecca Buswell or… 1593–1667"
+    }
+  ],
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)",
+    "Round 1 correction 3d"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8323
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

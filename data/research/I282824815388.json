@@ -1,0 +1,31 @@
+{
+  "id": "I282824815388",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; Fiorillo absent from San Mango 1674-1804 stati delle anime."
+  },
+  "tags": [],
+  "summary": "Tree ancestor in the unsupported pre-1800 Fiorillo pedigree.",
+  "bio": "Tree: Domenico G Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Unsupported (Round 2).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Domenico G Fiorillo -1770"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 7"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Domenico G. Fiorillo (b. unknown)",
+    "line": 10877
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

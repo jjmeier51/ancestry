@@ -1,0 +1,41 @@
+{
+  "id": "H0346",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Echovita obituary (parents Frank and Helen; sister Mary Petriello (John)); 1930 census; WWII draft card; 1950 census."
+  },
+  "sex": "M",
+  "aka": [
+    "Leopold Salvatore Cognetti",
+    "Leopoldo Cognetti",
+    "Levyso",
+    "Leupo"
+  ],
+  "tags": [],
+  "summary": "John's great-granduncle; named for his maternal grandfather Leopoldo Ferlaino.",
+  "bio": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error.",
+  "facts": [
+    {
+      "label": "Tree display",
+      "value": "Levyso 1930-Living (wrong: Leo S., d. 2019)"
+    }
+  ],
+  "sources": [
+    "Echovita: https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
+    "1930 census XH3R-XB1: https://familysearch.org/ark:/61903/1:1:XH3R-XB1",
+    "Draft card Q2Q2-N2SB: https://familysearch.org/ark:/61903/1:1:Q2Q2-N2SB",
+    "Thanksgiving article 2016"
+  ],
+  "occupation": "Machine operator, PA State Highway Department (1950)",
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Leo S. Cognetti (b. 1929)",
+    "line": 11442
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

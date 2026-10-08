@@ -1,0 +1,35 @@
+{
+  "id": "I282697102107",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only. Malvaso surname is supported in Dasà (1854-55 index) and neighbouring Acquaro."
+  },
+  "tags": [],
+  "summary": "John's maternal 4th great-grandmother per the tree; mother of Nicola Cognetta.",
+  "bio": "Tree: Domenica Malvaso (1781-1848), wife of Francesco Cognetta; parents Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742). Malvaso is concentrated in Acquaro, the comune adjacent to Dasà (5 of 13 US arrivals per paese.app), and occurs in Dasà in 1854-55 (Antenati index). Her 1848 death act should be in the Dasà Morti (civil registration from 1809).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Domenica Malvaso 1781-1848"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "paese.app Malvaso: https://paese.app/cognomi/malvaso",
+    "notes/italian.md 3.2; notes/round3/italian_origins.md 4"
+  ],
+  "openQuestions": [
+    "Dasà Morti 1848 death act (names parents and husband)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Domenica Malvaso (b. 1781)",
+    "line": 10661
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

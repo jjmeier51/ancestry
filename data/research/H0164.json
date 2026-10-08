@@ -1,0 +1,25 @@
+{
+  "id": "H0164",
+  "link": {
+    "confidence": "probable",
+    "note": "Census entry; relationship unknown."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "A Pringle relative of unknown connection.",
+  "bio": "Emma Pringle, 15, servant, in the household next to Andrew Pringle's in the 1880 Plymouth Twp census.",
+  "sources": [
+    "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Emma Pringle (b. 1865)",
+    "line": 6388
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

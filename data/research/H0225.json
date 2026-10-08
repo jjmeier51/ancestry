@@ -1,0 +1,40 @@
+{
+  "id": "H0225",
+  "link": {
+    "confidence": "probable",
+    "note": "Howell (1887) and his 1751 will name a daughter Jerusha; F. K. Smith (1967) names Jerusha's parents as Elnathan and Mary Topping. Replaces the tree's Josiah Topping."
+  },
+  "sex": "M",
+  "aka": [
+    "Elnathan Topping Jr."
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandfather (newly identified in Round 1), father of Jerusha Topping.",
+  "bio": "Son of Capt. Elnathan Topping of Sagg. Born 20 Aug 1664, died Sept 1751. Will of 'Elnathan Topping of Southampton', dated 15 Sep 1751, proved 30 Sep 1751 (NY Wills IV, Liber 18, pp. 391–2), gives 5s each to 'my daughters, Phebe, Mary, and Jerusha'. Howell lists his children by will as Elnathan, Job, Silas, Luther, Zephaniah, Mary, Phebe and Jerusha. His insertion pushes Capt. Thomas Topping one generation further back (13 up) and adds one 'removed' to every Topping-route cousin.",
+  "residences": [
+    {
+      "date": "1751",
+      "place": "Southampton, Suffolk County, New York, USA"
+    }
+  ],
+  "sources": [
+    "Howell (1887) pp. 395–396",
+    "NY Wills vol. IV Liber 18 pp. 391–2",
+    "F. K. Smith (1967) via jrm Needham I2549",
+    "Round 1 correction 3a"
+  ],
+  "openQuestions": [
+    "Wife Mary's surname."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 11 (9th-great-grandparents)",
+    "line": 7540
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

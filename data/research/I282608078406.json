@@ -1,0 +1,29 @@
+{
+  "id": "I282608078406",
+  "link": {
+    "confidence": "unverified",
+    "note": "Census 'Leva Ann' is real; her identity as Lina Ann Harrison (1839-1910) is tree-only."
+  },
+  "aka": [
+    "Leva Ann Pringle",
+    "Lina Ann Harrison"
+  ],
+  "tags": [],
+  "summary": "Probably John's 3rd-great-grand-aunt; shown in the tree as 'Lina Ann Harrison 1839-1910'.",
+  "bio": "The 1850 census lists 'Leva Ann', 11, in James Pringle's household. The tree shows Andrew's sibling card 'Lina Ann Harrison 1839-1910'. No online source names a Pringle-Harrison marriage in Luzerne (Bradsby, Harvey, Luzerne wills index and web search all negative). The Harrison married name and 1910 death are tree-only (unverified).",
+  "sources": [
+    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Lina Ann Pringle (b. 1839)",
+    "line": 6288
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

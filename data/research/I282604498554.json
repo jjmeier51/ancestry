@@ -1,0 +1,44 @@
+{
+  "id": "I282604498554",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1923 licence names him (deceased, born N.Y.); dates from FS K6NQ-ZXZ (probable)."
+  },
+  "birth": {
+    "date": "ABT 1857",
+    "place": "New York, USA"
+  },
+  "death": {
+    "date": "1899-11-04",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "William R. McAvoy"
+  ],
+  "tags": [],
+  "summary": "John's 2nd great-grandfather; New York-born, died at Plymouth in 1899 leaving ten children.",
+  "bio": "William Richard McAvoy was born about 1857 in New York (county unknown) and died 4 Nov 1899 in Plymouth (FS K6NQ-ZXZ). He was father of 10 children including Mary (1879), Agnes (1884), William Jr. (1886), Katherine F. (1888), Josephine (1891), Gertrude (1893), Anna K. (1895), Elizabeth (8 Dec 1897) and Claire (1899). The 1923 licence of his daughter Elizabeth calls him 'William R., deceased, b. N.Y.'. FS names his parents as Peter McAvoy and Mary Doran (no sources).",
+  "sources": [
+    "FamilySearch tree K6NQ-ZXZ",
+    "1923 Luzerne licence No. 635",
+    "notes/round3/irish_pa.md"
+  ],
+  "openQuestions": [
+    "Where in New York was he born; were Peter McAvoy & Mary Doran his parents?"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 1879
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: ABT 1856; research: ABT 1857."
+    }
+  ]
+}

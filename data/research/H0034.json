@@ -1,0 +1,32 @@
+{
+  "id": "H0034",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1835 Munzingen marriage read; 1853 death witness."
+  },
+  "sex": "M",
+  "aka": [
+    "Fridrich Heitzler",
+    "Friedrich Heizler"
+  ],
+  "tags": [],
+  "summary": "John's 5th great-uncle; brother of Agatha Heizler; gravedigger at Servatius's burial.",
+  "bio": "'Fridrich Heitzler, geb. 8ten März 1809, lediger Taglöhner, 26 Jahre alt, ehelicher Sohn des + Josef Heizler, gewesenen herrschaftlichen Jägers, und der Anna Federer' married Francisca Widlebacher (b. 28 Sep 1811) on 7 Oct 1835 at Munzingen. In 1853, as Todtengräber, he witnessed his brother-in-law Servatius's burial.",
+  "sources": [
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), marriages 1835 http://www.landesarchiv-bw.de/plink/?f=5-480946-450",
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), deaths 1853 http://www.landesarchiv-bw.de/plink/?f=5-480947-286",
+    "notes/round3/german_origins.md"
+  ],
+  "occupation": "Day labourer (1835); gravedigger (Todtengräber, 1853)",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3288
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

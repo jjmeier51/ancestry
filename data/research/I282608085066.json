@@ -1,0 +1,36 @@
+{
+  "id": "I282608085066",
+  "link": {
+    "confidence": "confirmed",
+    "note": "In 1870 and 1880 census images (Frederick 8, Baden; Fred 18, coal-mine laborer); further details FS tree."
+  },
+  "birth": {
+    "date": "1862-11-11",
+    "place": "Baden, Germany"
+  },
+  "death": {
+    "date": "1915",
+    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+  },
+  "occupation": "Coal-mine laborer (1880)",
+  "tags": [],
+  "summary": "John's 3rd great-uncle; eldest brother of Henry J. Meier.",
+  "bio": "Born 11 Nov 1862 in Germany (three weeks after his parents' wedding); coal-mine laborer at 18; married Anna Wenner 1886; died 1915 Hazleton. Could be the 'Fred. Meier' Democratic conferee of 1893.",
+  "sources": [
+    "FamilySearch tree G921-25N (Friedrich Mayer family)",
+    "1870 census Hazleton East Ward p.42 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/0/image.jpg",
+    "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
+    "notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 2886
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

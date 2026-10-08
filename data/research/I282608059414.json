@@ -1,0 +1,40 @@
+{
+  "id": "I282608059414",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree shows him as father of Mary, wife of William Wells. Both standard genealogies reject this (Hayes 1878; Youngs 1907); his daughter Mary (b. 1631) married Edward Petty. Mary Mapes's 1678 will shows the Youngs link came via her son-in-law John Youngs. Unproven/probably wrong; not an ancestor."
+  },
+  "aka": [
+    "John E M o Yonges (tree)"
+  ],
+  "tags": [],
+  "summary": "Founding minister of Southold; probably not John's ancestor (Youngs descent unproven).",
+  "bio": "Southold's founding minister (William Wells was its leading founder after him). Wives per Youngs (1907): Joan Herrington, Joan (Harris) Palgrave, Mary (Warren) Gardner. Children: John, Thomas, Mary (m. Edward Petty), Rachel, Joseph, Benjamin, Christopher. His sister married William Browne of Salem. Not in the Rootsweb Youngs index as father of a Mary Wells. Col. John Youngs and the Oyster Bay Youngses are therefore not proven kin.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "John E M o Yonges / Y… 1598–1671"
+    }
+  ],
+  "sources": [
+    "Selah Youngs, Youngs Family (1907), https://archive.org/details/youngsfamilyvica00youn",
+    "Hayes (1878) pp. 27–28",
+    "Rootsweb Youngs index, https://sites.rootsweb.com/~riss/baldwin/bw/youngs_index.html",
+    "Round 1 correction 3b"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8564
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Handoff gives parents Christopher Youngs (b. 1575), Margaret (wife of Christopher Youngs) (b. unknown) but the link is only \"unverified\", so the tree was not changed."
+    }
+  ]
+}

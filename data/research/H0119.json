@@ -1,0 +1,81 @@
+{
+  "id": "H0119",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Army journals, earlyaviators.com, Time and Dwyer; obituary claims (Pershing aide, Doolittle/Chennault) are family-supplied and probable."
+  },
+  "sex": "M",
+  "aka": [
+    "Maj. Leo G. Heffernan"
+  ],
+  "tags": [
+    "military",
+    "notable"
+  ],
+  "summary": "John's 2nd-great-grand-uncle; Maj. Leo G. Heffernan - West Pointer, Army pilot #489, Pershing's 'chief air scout' in 1916, 250-mph record flyer (1923), commander of Wilbur Wright Field, the Air Corps Technical School and France Field.",
+  "bio": "Leo Gerald Heffernan was born 23 Apr 1889. He graduated from West Point in 1911 and joined the 5th Cavalry; at Fort Myer in 1915. He earned FAI pilot certificate #489 in May 1916 and flew with the 1st Aero Squadron on the border and in Mexico during the Punitive Expedition; his father's obituary calls him 'chief air scout to General Pershing' and his own obituary 'General of the Armies John J. Pershing's aviation aide and pilot' and 'one of the first American fliers to come under enemy gunfire'. In May-Jun 1917, as Capt., 3d Aero Squadron, he went to the Aviation School at San Antonio (his wife joined him). In 1917-18 he commanded Wilbur Wright Field (Nov 1917 - Jan 1918) and Kelly Field and led the 12th Aero Squadron. Sep 1918 - May 1919 in the AEF he was Air Service commander, IX Army Corps, and in turn commanded the 2d Army Observation Group, 4th and 5th Pursuit Groups and 2d Day Bombardment Group. 1922-25 he commanded the 3rd (Attack) Group at Kelly Field (1922), then the Fort Bliss flying group under the 1st Cavalry Division. On 24 Mar 1923 the War Department announced 'the fastest flight on record': 250 mph over 75 miles from Columbus, NM, to Fort Bliss in a DH-4B 'in a blinding sandstorm' with a following wind; Time covered it (31 Mar 1923) and the Journal of Education ran it as 'Outspeeding the Birds'. In Apr 1925 he published 'Co-operation Between Cavalry and Air Service' in The Cavalry Journal. 1928-30 assistant commandant then commandant of the Air Corps Technical School, Chanute Field; 1930-32 commander of France Field, Panama Canal Zone. Treated at Walter Reed in 1933 and retired as Major. 1934-49 Anheuser-Busch representative in central California. His obituary says he commanded 'such promising young flyers as Jimmy Doolittle and Claire Chennault' (family-supplied; probable). He married (1) Mathilde Payne in Chicago in 1915 (daughter Regina d. 1920) and (2) Jane H. Davis (daughter Elizabeth Jane, b. 1922). He died of a heart attack in Los Angeles/Hollywood in Feb 1956 - 7 Feb per the 18 Feb notice, 9 Feb per the 25 Feb notice and Dwyer - with funeral and burial at Wilkes-Barre on 15 Feb 1956. A 1917 portrait is credited to the Library of Congress.",
+  "notable": "Set a 250-mph speed record on 24 Mar 1923; commanded France Field, Panama; Doolittle and Chennault served under him (obituary)",
+  "military": [
+    {
+      "branch": "US Army",
+      "service": "Cavalry",
+      "rank": "2nd Lt.",
+      "unit": "5th Cavalry",
+      "note": "West Point 1911"
+    },
+    {
+      "branch": "US Army Signal Corps Aviation Section",
+      "service": "Punitive Expedition 1916",
+      "unit": "1st Aero Squadron",
+      "theatre": "Mexico",
+      "note": "FAI pilot #489; Pershing's 'chief air scout'"
+    },
+    {
+      "branch": "US Army Air Service",
+      "service": "WWI",
+      "rank": "Captain/Major",
+      "unit": "3d and 12th Aero Squadrons; Wilbur Wright Field; Kelly Field; IX Army Corps Air Service (AEF)",
+      "theatre": "USA and France"
+    },
+    {
+      "branch": "US Army Air Service/Air Corps",
+      "service": "Interwar",
+      "rank": "Major",
+      "unit": "3rd (Attack) Group; Fort Bliss flying group; Air Corps Technical School (Chanute Field); France Field, Panama",
+      "note": "250-mph record flight 24 Mar 1923; retired 1933"
+    }
+  ],
+  "sources": [
+    "earlyaviators.com: https://www.earlyaviators.com/eheffern.htm",
+    "Army & Navy Journal 9 Oct 1915: https://archive.org/details/sim_armed-forces-journal_1915-10-09_53_6",
+    "Army & Navy Journal 9 Jun 1917: https://archive.org/details/sim_armed-forces-journal_1917-06-09_54_41",
+    "Aviation 3 Jul 1922: https://archive.org/details/sim_aviation-week-space-technology_1922-07-03_13_1",
+    "Musket, Saber & Missile (Fort Bliss history): https://archive.org/details/musket-saber-missile-history-of-fort-bliss",
+    "Time 31 Mar 1923: https://archive.org/details/sim_time_1923-03-31_1_5",
+    "Journal of Education 26 Apr 1923: https://archive.org/details/sim_journal-of-education_1923-04-26_97_17",
+    "Elyria Chronicle-Telegram 24 Mar 1923: https://archive.org/details/elyria-chronicle-telegram-1923-03-24",
+    "Cavalry Journal Apr 1925: https://archive.org/details/sim_armor_1925-04_34_139",
+    "Air Corps News Letter 31 Mar 1928: https://archive.org/details/sim_air-force-magazine_1928-03-31_12_5 ; 23 Sep 1930: https://archive.org/details/sim_air-force-magazine_1930-09-23_14_11 ; 28 May 1932: https://archive.org/details/sim_air-force-magazine_1932-05-28_16_6 ; 31 Jul 1933: https://archive.org/details/sim_air-force-magazine_1933-07-31_17_7",
+    "Aviation in the U.S. Army 1919-1939: https://archive.org/details/aviationinusarmy0000maur",
+    "Army & Navy Journal 13 May 1933: https://archive.org/details/sim_armed-forces-journal_1933-05-13_70_37",
+    "Army Navy Air Force Journal 18 Feb 1956: https://archive.org/details/sim_armed-forces-journal_1956-02-18_93_25 ; 25 Feb 1956: https://archive.org/details/sim_armed-forces-journal_1956-02-25_93_26",
+    "Home Field Advantage (Wright-Patterson history), via archive.org search",
+    "Find a Grave 139403710 (father's obituary)",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+  ],
+  "mediaKnown": [
+    "1917 portrait (Library of Congress, per Dwyer)"
+  ],
+  "occupation": "US Army cavalry and Air Service officer; Anheuser-Busch representative",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Leo Gerald Heffernan (b. 1889)",
+    "line": 5610
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

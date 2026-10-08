@@ -1,0 +1,61 @@
+{
+  "id": "I282824815347",
+  "link": {
+    "confidence": "confirmed",
+    "note": "His name as Carmine's father is confirmed by Carmine's 1860 death act ('the late Domenico Fiorillo'). The tree's dates (1785-1849), the wife 'Maria Morrello' and his ancestry are unverified; he does not appear in San Mango's 1800/1804 stati delle anime."
+  },
+  "given": "Domenico",
+  "surname": "Fiorillo",
+  "birth": {
+    "date": "1785",
+    "place": "Cannovali, Aiello Calabro, Cosenza, Calabria, Italy"
+  },
+  "death": {
+    "date": "BEF 1860-11-17",
+    "place": "San Mango D'Aquino, Catanzaro, Italy"
+  },
+  "aka": [
+    "Domenico G. Fiorillo"
+  ],
+  "tags": [],
+  "summary": "John's maternal 5th great-grandfather; father of Carmine Fiorillo. The tree's pedigree above him is unsupported.",
+  "bio": "Tree: Domenico G. Fiorillo (1785-1849) + Maria Morrello (1786-1846); his parents Carmine G. Fiorillo (d. 1797) + unknown. Carmine's death act (San Mango Morti 1860 act 30) names his parents as the late Domenico Fiorillo and the late Vittoria Marrelli/Morelli, so the wife's given name in the tree is wrong (Maria vs Vittoria). Round 2: San Mango's parish stati delle anime 1674-1804 contain no Fiorillo at all; Domenico (1785) + Maria Morrello (1786) would have been listed in 1800/1804 and are not. The Fiorillos arrived in San Mango in the 1800s, and the pre-1800 pedigree belongs to another comune (perhaps Nocera Terinese, Martirano or Conflenti - speculative) or was copied from another family's tree. His Ancestry profile carries the unidentified coat of arms (black shield, silver rampant lion, crown, wreath).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Domenico G Fiorillo 1785-1849 (coat-of-arms image)"
+    }
+  ],
+  "sources": [
+    "Antenati, San Mango d'Aquino, Morti 1860, act 30: https://antenati.cultura.gov.it/ark:/12657/an_ua37932559/wWyrDq2",
+    "ItalianParishRecords San Mango stati delle anime: https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino",
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 7; notes/round3/italian_origins.md 5"
+  ],
+  "mediaKnown": [
+    "Ancestry profile image: coat of arms, black shield with silver rampant lion, crown and wreath (unidentified)"
+  ],
+  "openQuestions": [
+    "Where was he from before San Mango? Carmine's marriage act (c.1828-40) would give Carmine's birthplace",
+    "Death date (tree 1849)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Domenico Fiorillo (b. 1785)",
+    "line": 10800
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Domenico Gabriele Fiorillo\"; research uses \"Domenico Fiorillo\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Death in the Ancestry tree: June 6 1849; research: BEF 1860-11-17."
+    }
+  ]
+}

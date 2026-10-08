@@ -1,0 +1,30 @@
+{
+  "id": "H0246",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Baptism (Norfolk RO PD 281/1) and will (Akerly pp. 3–4) confirmed."
+  },
+  "sex": "M",
+  "aka": [
+    "Henry Tuthill of Tharston"
+  ],
+  "tags": [],
+  "summary": "John's 12th-great-grandfather; died young at Tharston leaving five small children.",
+  "bio": "Baptized 18 Jun 1581 at Saxlingham Thorpe & Nethergate, 'child of John Tuttill' (Norfolk RO PD 281/1). Moved about 3 miles to Tharston. Will dated 20 Mar 1618, proved 20 Apr 1619, naming 'John Gooch, father[-in-law]', 'Margaret Rau(e), mother-in-law', 'Ann Woodyard, kinswoman', 'John Tuthill, brother', wife Alice and five children. Buried at Tharston 26 Mar 1618.",
+  "sources": [
+    "Norfolk RO PD 281/1",
+    "Akerly (1898) pp. 3–4",
+    "WikiTree Tuthill-60, https://www.wikitree.com/wiki/Tuthill-60"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 14 (12th-great-grandparents)",
+    "line": 8153
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

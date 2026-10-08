@@ -1,0 +1,24 @@
+{
+  "id": "H0121",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "tags": [],
+  "summary": "John's 4th-great-grand-aunt/uncle (eldest child of Thomas Heffernan and Catherine Boney).",
+  "bio": "Baptized 14 Jul 1839 (Gortnahoe/Killenaule), named after grandmother Jude Quigley.",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Jude Heffernan (b. 1839)",
+    "line": 5651
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

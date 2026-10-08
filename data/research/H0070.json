@@ -1,0 +1,36 @@
+{
+  "id": "H0070",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Father in Catherine's 1814 baptism (Dwyer) and in her 1904 Luzerne death register ('Thos & Ann Boney') - two independent sources."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 5th-great-grandfather; farmer at Lickfinn, Gortnahoe parish, Co. Tipperary.",
+  "bio": "Thomas Boney was a farmer at Lickfin, Gortnahoe, flourishing 1814, when his daughter Catherine was baptized (sponsor John Boney, Dwyer fn. 411). FamilySearch gives him a birth 'c1785', derived only from the 1904 register line (speculative). Whether Anastasia 'Anty' Boney (c.1812-1896) was also his daughter is unproven. Possible later Boney kin in Plymouth: Jeremiah Boney, 30, in Anastasia's 1860 household, and James Boney, 22, miner, in an 1870 Plymouth Heffernan household (speculative).",
+  "residences": [
+    {
+      "date": "1814",
+      "place": "Lickfinn, Gortnahoe, County Tipperary, Ireland"
+    }
+  ],
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Luzerne Register of Deaths p.208: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/1/image.jpg"
+  ],
+  "openQuestions": [
+    "Anastasia Boney's baptism (c.1806-13) to test whether she was his daughter."
+  ],
+  "occupation": "Farmer",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Boney (b. 1785)",
+    "line": 4256
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

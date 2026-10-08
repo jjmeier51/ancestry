@@ -1,0 +1,29 @@
+{
+  "id": "H0081",
+  "link": {
+    "confidence": "probable",
+    "note": "WikiTree Doll-527."
+  },
+  "sex": "F",
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 8th-great-grandmother (if the Doll link holds); of the Schuch family of Ulmet.",
+  "bio": "Mother of Johann Casper Doll. Her Schuch kin apparently sailed with Casper in 1739: 'Christ. Shook, 48' on the Samuel list; a Johann Christian Jacob Schuch b. 4 May 1690 at Ulmet, d. 1768 Springfield Twp, Bucks Co. (GEDBAS 1402009472, from an Ancestry tree).",
+  "sources": [
+    "WikiTree Doll-527 (Johann Casper Doll; FamilySearch N5BL-88G): https://www.wikitree.com/wiki/Doll-527",
+    "GEDBAS 1402009472: https://gedbas.genealogy.net/person/show/1402009472",
+    "Strassburger & Hinke, Pennsylvania German Pioneers vol. 1: https://archive.org/details/pennsylvaniagerm42stra List 69 A"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Anna Sara Schuch (b. unknown)",
+    "line": 4765
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

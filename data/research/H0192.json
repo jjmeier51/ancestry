@@ -1,0 +1,27 @@
+{
+  "id": "H0192",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probably John's 2nd cousin 7x removed; president of the LDS French Mission.",
+  "bio": "Andrew Losee Lamoreaux (1812-1855), via Daniel Lamoureux -> Joshua (b. 1739; Loyalist; New Brunswick, then Scarborough near Toronto) -> John McCord Lamoreaux -> Andrew. President of the LDS French Mission; died of cholera at St. Louis while bringing converts west. The Utah branch descends from Joshua (1919 book).",
+  "sources": [
+    "LDS Church History Biographical Database",
+    "Joseph Smith Papers",
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Andrew Losee Lamoreaux (b. 1812)",
+    "line": 6850
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

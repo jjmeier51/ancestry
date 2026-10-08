@@ -1,0 +1,29 @@
+{
+  "id": "I282695502809",
+  "link": {
+    "confidence": "unverified",
+    "note": "Ancestry tree only; not researched. Federer is now known to be a Munzingen family."
+  },
+  "tags": [],
+  "summary": "Tree-shown 6th great-grandfather of John (father of M. Anna Federer); unverified.",
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Georgius G Federer 1732–1802 + Maria Anna Kaltenbach 1745–1808."
+    }
+  ],
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2402
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "H0363",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Guardia marriage index 1855 #16."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Sister of Pietro Petriello; John's 4th great-grandaunt.",
+  "bio": "Daughter of Angiolo Petriello and Lucia Marra; married Giuseppantonio Lucadamo (son of Ciriaco and Anna Mastrodonato) on 23 Feb 1855.",
+  "sources": [
+    "Antenati index 1855 #16: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/57Ekokq"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Gaetana Petriello (b. unknown)",
+    "line": 11764
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

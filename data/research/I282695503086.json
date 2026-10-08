@@ -1,0 +1,25 @@
+{
+  "id": "I282695503086",
+  "link": {
+    "confidence": "possible",
+    "note": "His own dates match GEDBAS (Dreisamtal and Heitzmann files) exactly; the joins to Johnny (Catharina Begelspacher's parents, Joseph Heizler's parents) are unconfirmed."
+  },
+  "tags": [],
+  "summary": "Possible 9th great-grandfather of John; farmed the Dachsfangerhof.",
+  "sources": [
+    "GEDBAS 1444212307 https://gedbas.genealogy.net/person/show/1444212307",
+    "Ancestry tree screenshots (section 2.2.2)",
+    "deep-dive report"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2716
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

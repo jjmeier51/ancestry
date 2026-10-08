@@ -1,0 +1,31 @@
+{
+  "id": "I282824815359",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only (mother/wife field empty). Fiorillo absent from San Mango 1674-1804 stati; pre-1800 Fiorillo pedigree considered unsupported (other comune or copied tree)."
+  },
+  "tags": [],
+  "summary": "Tree's father of Domenico G. Fiorillo (1785); unsupported pedigree.",
+  "bio": "Tree: Carmine G. Fiorillo (d. 1797), wife unknown/empty; parents Domenico G. Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Flagged unverified by Rounds 1-2.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Carmine G Fiorillo -1797 (mother/wife field empty)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 7"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Carmine G. Fiorillo (b. unknown)",
+    "line": 10860
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

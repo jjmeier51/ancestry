@@ -1,0 +1,38 @@
+{
+  "id": "H0379",
+  "link": {
+    "confidence": "unverified",
+    "note": "NOT RELATED: from Bayonne, NJ, with no Scranton or Guardia link found."
+  },
+  "sex": "M",
+  "aka": [
+    "Frank Anthony Petriello"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "PFC killed in Germany in 1945 (Purple Heart); ruled out as kin.",
+  "bio": "PFC Frank A. Petriello (1926-1945), Purple Heart, killed in Germany; from Bayonne, NJ.",
+  "military": [
+    {
+      "branch": "US Army",
+      "rank": "PFC",
+      "theatre": "Europe (Germany)",
+      "note": "Killed 1945; Purple Heart"
+    }
+  ],
+  "sources": [
+    "Fields of Honor database: https://www.fieldsofhonor-database.com/case/35733-petriello-frank-anthony"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Frank A. Petriello (b. 1926)",
+    "line": 12012
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

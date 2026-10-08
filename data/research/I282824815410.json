@@ -1,0 +1,34 @@
+{
+  "id": "I282824815410",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; Chiarello absent from San Mango 1674-1804 stati."
+  },
+  "tags": [],
+  "summary": "Tree ancestor in the unsupported Morrello/Chiarello pedigree.",
+  "bio": "Tree: Maria Chiarello (1733-1807). Profile shows the coat of arms.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Maria Chiarello 1733-1807 (coat-of-arms image)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 7"
+  ],
+  "mediaKnown": [
+    "Ancestry profile coat-of-arms image"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Maria Chiarello (b. 1733)",
+    "line": 11014
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

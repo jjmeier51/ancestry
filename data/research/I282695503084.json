@@ -1,0 +1,30 @@
+{
+  "id": "I282695503084",
+  "link": {
+    "confidence": "possible",
+    "note": "Marriage to Martin c.1700 in GEDBAS; birth 1664 tree-only."
+  },
+  "tags": [],
+  "summary": "Possible 8th great-grandmother of John.",
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Magdalena LICKERT L… 1664–Dec…"
+    }
+  ],
+  "sources": [
+    "GEDBAS 1444212294",
+    "Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2601
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

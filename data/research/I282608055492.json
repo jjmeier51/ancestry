@@ -1,0 +1,120 @@
+{
+  "id": "I282608055492",
+  "link": {
+    "confidence": "probable",
+    "note": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968) p. 311 makes him son of James Tuthill (b. 1692) and husband of Temperance Smith; strengthened in Round 3 by the 1756 will of James Tuthill Jr. naming 'my father, James Tuthill … of Orange County' and by Browne executors in two Tuthill branches. No record yet names John (c.1730) as James's son; Akerly (1898) does not list a John among James's children. His being Keturah's father rests on Alva Tuttle, the SAR application (Woodbury Clove 1755) and the naming pattern."
+  },
+  "given": "John",
+  "surname": "Tuthill",
+  "birth": {
+    "date": "ABT 1730",
+    "place": "Brookhaven, Suffolk County, New York, USA"
+  },
+  "death": {
+    "date": "ABT 1770",
+    "place": "Woodbury Clove, Orange County, New York, USA"
+  },
+  "aka": [
+    "Capt. John Tuttle",
+    "Capt. J Tuttle",
+    "Capt. J. Tuthill",
+    "John Tuttle"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "John's 7th-great-grandfather, father of Keturah Tuttle Lamoreaux; a Brookhaven-born Tuthill who moved to Woodbury Clove in the Orange County, NY highlands.",
+  "bio": "Alva M. Tuttle's 1968 compilation (p. 311, quoted on WikiTree Tuthill-364 and Smith-141655) reads: 'JOHN TUTHILL ~1730 Brookhaven, LI s Jas 1692; d ~1770 Woodbury Clove, Orange, NY; m 23Nov1752 Smithtown, LI Temp d ~1780 da Jas & Jerusha (TOPPING) SMITH.' Children: twins James & John (1753), twins Ezekiel & William (c.1754), Keturah (~1755), Samuel and Daniel. His father James Tuthill (b. ~1692 Oysterponds) moved from Brookhaven to Ulster/Orange between 1742 and 1748. The Woodbury Clove militia company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith 1st lt. and (1776) Thos. Lammoreux ensign; the Upper Clove company had been commanded by Capt. Austin Smith; Austin, Francis and Jeremiah are exactly the sons of James Smith & Jerusha Topping, i.e. Temperance's brothers. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle' (probably John's son James, b. 1753). The 'Capt.' title: S. W. Eager, Outline History of Orange County (1846), pp. 527–529, lists 'Capt. J. Tuthill' among Cornwall precinct officers, records that in 1769 the justices cancelled the indenture of apprentice James Simmons 'by the ill-treatment of his master, John Tuthill', and names a 'Capt. Tuthill' on a 1788 committee (too late for a John who died c.1770; possibly son John b. 1753). Ruttenber also lists 'Clove Co.—1775—Jonathan Tuthill, captain.' The deep-dive report found 'no evidence of the title'. The Hauppauge report found no trace of John or Temperance in Smithtown records and noted that the 23 Nov 1752 Smithtown wedding came from an unsourced online tree (My Maine Heritage); Round 2 then found it in Alva Tuttle (1968). If Temperance was raised in Moriches, the couple most plausibly lived in Brookhaven before moving to Orange County; a possible migration vehicle is Rev. Abner Reeve's 1763 removal 'with a company of emigrants' from Moriches to Blooming Grove (possible). The tree had merged him with a James M. Tuthill & Hannah S. Reeve parentage (wrong: that couple is Joshua Tuthill & Hannah Reeve).",
+  "residences": [
+    {
+      "date": "ABT 1730",
+      "place": "Brookhaven, Suffolk County, New York, USA"
+    },
+    {
+      "date": "BET 1742 AND 1770",
+      "place": "Woodbury Clove, Cornwall Precinct, Orange County, New York, USA"
+    }
+  ],
+  "military": [
+    {
+      "branch": "Orange County militia (colonial)",
+      "rank": "Captain (family tradition; 'Capt. J. Tuthill' listed among Cornwall precinct officers, Eager 1846)",
+      "note": "Title unproven; deep-dive report found no evidence of it. A 1788 'Capt. Tuthill' is too late for this John."
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1752-11-23",
+      "place": "Smithtown, Suffolk County, New York, USA",
+      "description": "To Temperance Smith, per Alva Tuttle (1968) p. 311; earlier seen only on an unsourced online tree (My Maine Heritage ps409_209). No colonial marriage license pairs them."
+    },
+    {
+      "title": "Apprentice case",
+      "date": "1769",
+      "place": "Orange County, New York, USA",
+      "description": "Justices cancelled the indenture of apprentice James Simmons 'by the ill-treatment of his master, John Tuthill' (Eager 1846). If this is him, it is the only personal glimpse found."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Capt J Tuttle 1727–1802, spouse '* T SMITH' 1735–1780; parents James M Tuthill 1692–1772 + HANNAH S REEVE 1699–1764"
+    },
+    {
+      "label": "Bull Smith PDF shows",
+      "value": "Generation 4: 'Temperance Smith + Capt. John Tuttle 1735–1780 — 7th great-grandmother'"
+    },
+    {
+      "label": "Earlier chart screenshot version",
+      "value": "'T. Smith + Capt. J Tuttle'"
+    },
+    {
+      "label": "Generation",
+      "value": "9 generations above John"
+    }
+  ],
+  "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 279, 310–311, as quoted on WikiTree Tuthill-364 (https://www.wikitree.com/wiki/Tuthill-364) and Smith-141655 (https://www.wikitree.com/wiki/Smith-141655); FamilySearch Books item 481721 (https://www.familysearch.org/library/books/records/item/481721)",
+    "L. D. Akerly, The Tuthill Family of Southold (1898), https://archive.org/details/tuthillfamilyoft00aker",
+    "Ruttenber & Clark, History of Orange County (1881), militia lists and 1775 Articles of Association, https://archive.org/details/historyoforangec00rut",
+    "S. W. Eager, Outline History of Orange County (1846), pp. 527–529, https://archive.org/details/outlinehistoryof00eage",
+    "Abstracts of Wills, NYHS, vol. V, Liber 20, p. 25 (will of James Tuthill Jr., New Windsor, 17 Mar 1756), https://archive.org/details/abstractswillso04kellgoog",
+    "SAR application ACN 58344 (Keturah b. 1755 Woodbury Clove), https://sarpatriots.sar.org/application/display/60180",
+    "My Maine Heritage (unsourced), https://sites.rootsweb.com/~megen/reunion/ps409/ps409_209.html",
+    "McCurdy family lineage, https://mccurdyfamilylineage.com/ancestry/p14551.htm",
+    "Round 2 report §3d; Round 3 report §4; notes/round2/colonial_cousins.md §1a; notes/round3/english_french_origins.md status change 9–10; uploaded deep-dive and Hauppauge reports",
+    "Richard_Bull_Smith_Lineage.pdf (uploaded chart), generation 4"
+  ],
+  "mediaKnown": [
+    "Ancestry tree profile card 'Capt J Tuttle 1727–1802' (IMG_7792–7799)"
+  ],
+  "openQuestions": [
+    "Which record proves John (c.1730) was son of James Tuthill (b. 1692)? See Alva Tuttle's sources; Orange/Ulster deeds or an administration for John Tuthill (d. c.1770).",
+    "Was he really a captain? Eager's 'Capt. J. Tuthill' could be him or son John (b. 1753).",
+    "Birth year: tree 1727 vs Alva Tuttle ~1730; death: tree 1802 vs Alva ~1770."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 9 (7th-great-grandparents)",
+    "line": 7360
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Capt Jonathan Tuttle\"; research uses \"John Tuthill\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1727; research: ABT 1730."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Death in the Ancestry tree: Feb 1802; research: ABT 1770."
+    }
+  ]
+}

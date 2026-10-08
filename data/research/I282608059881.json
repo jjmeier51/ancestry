@@ -1,0 +1,35 @@
+{
+  "id": "I282608059881",
+  "link": {
+    "confidence": "unverified",
+    "note": "Unproven ancestor (falls with the Youngs descent, Round 1 correction 3b). His wife in Youngs (1907) is only 'Margaret' (d. 1630); his tree parents (Christopher Youngs + Johanna Horne) are unsupported."
+  },
+  "aka": [
+    "Vicar C V o Yonges (tree)",
+    "Vicar Christopher Youngs"
+  ],
+  "tags": [],
+  "summary": "Vicar of Southwold/Reydon, Suffolk; father of Rev. John Youngs; probably not John's ancestor.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Vicar C V o Yonges/Y… 1575–1626 of Southwold/Reydon; parents CHRISTOP… Youngs Yo… 1562–1647 + Johanna HORNE 1544–1630"
+    }
+  ],
+  "sources": [
+    "Youngs (1907)",
+    "tree_transcription.md",
+    "Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8584
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

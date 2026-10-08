@@ -1,0 +1,27 @@
+{
+  "id": "H0036",
+  "link": {
+    "confidence": "possible",
+    "note": "Witness in 1815 and 1836 Munzingen entries; relationship speculative."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probable relative (uncle or grandfather) of Agatha Heizler; former glazier.",
+  "bio": "Witness to Veronica Heitzler's 1815 burial and to the 1836 Birkenmayer–Heizler marriage ('formerly glazier, now farmer'). Possibly where Servatius learned glazing (speculative).",
+  "sources": [
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946) http://www.landesarchiv-bw.de/plink/?f=5-480946-119 ; http://www.landesarchiv-bw.de/plink/?f=5-480946-464",
+    "notes/round3/german_origins.md"
+  ],
+  "occupation": "Glazier, later farmer",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3322
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

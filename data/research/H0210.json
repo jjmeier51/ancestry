@@ -1,0 +1,37 @@
+{
+  "id": "H0210",
+  "link": {
+    "confidence": "probable",
+    "note": "Service confirmed; kinship probable."
+  },
+  "sex": "M",
+  "tags": [
+    "military"
+  ],
+  "summary": "Probably John's 3rd cousin 4x removed; Civil War musician, 149th PA 'Bucktails', 1862-65.",
+  "bio": "Andrew Croop (b. 1843) served as musician, Co. F, 149th PA ('Bucktails'), 22 Aug 1862 - 24 Jun 1865, 'to the close of the war'; later 15 years a school director. Bradsby names brothers Alvin and Simon as also serving.",
+  "military": [
+    {
+      "branch": "US Army (Pennsylvania Volunteers)",
+      "service": "Civil War",
+      "rank": "Musician",
+      "unit": "Co. F, 149th Pennsylvania Infantry ('Bucktails')",
+      "note": "22 Aug 1862 - 24 Jun 1865"
+    }
+  ],
+  "sources": [
+    "Bradsby p.813",
+    "PA-Roots 149th Co. F: https://pa-roots.com/pacw/infantry/149th/149thcof.html"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Andrew Croop (b. 1843)",
+    "line": 7143
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

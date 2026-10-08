@@ -1,0 +1,28 @@
+{
+  "id": "H0202",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "F",
+  "aka": [
+    "Catherine Hipp"
+  ],
+  "tags": [],
+  "summary": "John's 5th-great-grand-aunt.",
+  "bio": "Catherine (Grub) Hipp (1755-1836), m. Gottlieb Hipp; lived around Easton.",
+  "sources": [
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Catherine Grub (b. 1755)",
+    "line": 7007
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "H0142",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 1st cousin 5x removed (Kingston branch); Wyoming Seminary treasurer, bank founder and Free Soil/anti-slavery-extension organizer.",
+  "bio": "Alexander J. Pringle (1824-1881), of the Kingston branch, was a trustee and treasurer of Wyoming Seminary, a founder of a Wilkes-Barre savings bank, and an organizer in 1856 of the Luzerne County party opposing the extension of slavery into free territories.",
+  "sources": [
+    "Harvey Book: https://archive.org/details/harveybookgiving00harv",
+    "Harvey & Smith vol. VI p.378: https://archive.org/details/historyofwilkesb06harv"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Alexander J. Pringle (b. 1824)",
+    "line": 6011
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "H0237",
+  "link": {
+    "confidence": "probable",
+    "note": "Mowsley origin long published (probable); the Rachel Browne → Salmon → Horton chain is probable from compiled sources only."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 11th-great-grandfather (via Rachel Browne → Elisabeth Salmon → Sarah Horton); well-known Southold founder from Mowsley, Leicestershire.",
+  "bio": "Listed by Round 3 among the English origins: Mowsley, Leicestershire, with 'Joseph & Libbeus Horton of Mowsley' as the earliest known Hortons there. His descendants also include the Southold Hortons who married into the Tuthills (Mary Tuthill m. Jonathan Horton; Bethia Horton m. Henry Tuthill the Justice), though those lines are collateral.",
+  "facts": [
+    {
+      "label": "Earliest known there",
+      "value": "Joseph & Libbeus Horton of Mowsley (relationship to Barnabas not specified in files)"
+    }
+  ],
+  "sources": [
+    "WikiTree Tuthill-530 getAncestors",
+    "Round 3 report §3 England table",
+    "notes/round3/english_french_origins.md §2i, §4"
+  ],
+  "openQuestions": [
+    "Exact baptism and parents in Mowsley register."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 13 (11th-great-grandparents)",
+    "line": 8000
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

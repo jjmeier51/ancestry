@@ -1,0 +1,27 @@
+{
+  "id": "H0339",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Pietro's mother ('the late Lucia Marra') in his 1901 death act and as Gaetana's mother in the 1855 marriage index."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's maternal 4th great-grandmother, of Guardia Lombardi.",
+  "bio": "Wife of Angelo Petriello; dead by 29 Mar 1901. Note: another Guardia couple, Carmine Petriello and Maria Marra, were parents of Giuseppe Petriello who married Concetta di Marino in 1855 - Marra and Petriello intermarried; relationship to Lucia unknown. Petriello, Marra, Di Marino and De Biasi act as witnesses for one another in Guardia records.",
+  "sources": [
+    "Antenati, Guardia, Morti 1901, act 28: https://antenati.cultura.gov.it/ark:/12657/an_ua524116/LzaVz4G",
+    "Antenati, Guardia marriage index 1855 #16: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/57Ekokq",
+    "notes/round3/italian_origins.md 1"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Lucia Marra (b. unknown)",
+    "line": 10484
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

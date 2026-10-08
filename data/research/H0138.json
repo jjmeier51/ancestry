@@ -1,0 +1,40 @@
+{
+  "id": "H0138",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "aka": [
+    "Dr. Joseph V. Connole"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "John's 1st cousin 4x removed; Dr. Joseph V. Connole, WWI Navy eye surgeon.",
+  "bio": "Son of John F. Connole; born 1889; eye, ear, nose and throat specialist in Wilkes-Barre. Enlisted Oct 1917; U.S. Navy senior lieutenant in charge of eye work at the Philadelphia Navy Yard for two years.",
+  "military": [
+    {
+      "branch": "US Navy",
+      "service": "WWI",
+      "rank": "Senior Lieutenant",
+      "unit": "Philadelphia Navy Yard (eye service)",
+      "note": "Enlisted Oct 1917; two years"
+    }
+  ],
+  "sources": [
+    "Harvey & Smith vol. VI p.~475: https://archive.org/details/historyofwilkesb06harv"
+  ],
+  "occupation": "Physician (EENT)",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Joseph Vincent Connole (b. 1889)",
+    "line": 5940
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

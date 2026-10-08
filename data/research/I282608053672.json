@@ -1,0 +1,67 @@
+{
+  "id": "I282608053672",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Florence's mother in the 1926 licence; death in PA death index 1947 (file 35591); placed as eldest child of Andrew H. Heffernan and Mary Connole by Dwyer (2020) and Harvey & Smith."
+  },
+  "given": "Catherine E.",
+  "surname": "Heffernan",
+  "birth": {
+    "date": "BET 1869 AND 1870",
+    "place": "Plymouth, Pennsylvania"
+  },
+  "death": {
+    "date": "1947-04-23",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Catherine E. Pringle",
+    "Catherine Heffernon"
+  ],
+  "tags": [],
+  "summary": "John's 2nd-great-grandmother; eldest of the ten surviving children of Andrew H. Heffernan and Mary Connole, sister of Maj. Leo G. Heffernan and postmaster Thomas F. Heffernan.",
+  "bio": "Catherine E. Heffernan was the eldest child of Andrew H. Heffernan and Mary Connole, who married at Plymouth on 1 Sep 1868. Her birth date conflicts: Find a Grave gives 2 Aug 1870; Dwyer (2020) gives c. Aug 1869; the Ancestry tree shows 1869-1947 (the transcription summary says 1870). She married Addison F. Pringle at Plymouth on 29 Jun 1892 and had eight children, including John's great-grandmother Florence. In the 1910 census (Plymouth/Larksville) her children were listed as Genevieve (1893), Joseph Vincent (1895), Mary E. (1898), Anna Theresa (1901), Florence (1904), Helen (1906), Francis (1909) and Catherine (1912). Harvey & Smith list her as 'Catherine, married A. P. [sic] Pringle'. She died at Wilkes-Barre on 23 Apr 1947 (PA death index 1947: 'CATHERINE E PRINGLE, WLKS BRE, co. 40, 4-23-47, file 35591'). Her siblings were Thomas F. (postmaster and newspaper owner), Nora C., Anna P. (Murphy), Mary (Sister Mary Antonia, IHM), Dr. Andrew J., Josephine R. (Wagner), John Vincent, Maj. Leo Gerald and George Paul.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Catherine E Heffernan 1869-1947 (newspaper-clipping photo)"
+    },
+    {
+      "label": "Death certificate",
+      "value": "PA 1947 file #35591"
+    },
+    {
+      "label": "Find a Grave",
+      "value": "139403166"
+    }
+  ],
+  "sources": [
+    "PA death index 1947 P-R: https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1947/D-47%20P-R.pdf (PDF p.94 / printed p.1649)",
+    "Find a Grave 139403166: https://www.findagrave.com/memorial/139403166/catherine-e-heffernan-pringle",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
+    "Luzerne Co. marriage-licence application No. 10768, sworn 16 Apr 1926 (William F. Meier x Florence Louise Pringle): image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHT-GQ4/images/i/2/image.jpg ; record https://familysearch.org/ark:/61903/1:1:KMZX-RZZ ; groom's image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-B3G/images/i/1/image.jpg ; index KMZX-RZ4: https://familysearch.org/ark:/61903/1:1:KMZX-RZ4",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "mediaKnown": [
+    "Tree profile photo: newspaper clipping"
+  ],
+  "openQuestions": [
+    "Birth date and place: 2 Aug 1870 (Find a Grave) vs c. Aug 1869 (Dwyer) - baptism at St. Vincent's, Plymouth, or her 1947 death certificate #35591."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Catherine E. Heffernan (b. 1869)",
+    "line": 3911
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Catherine Elizabeth Heffernan\"; research uses \"Catherine E. Heffernan\"."
+    }
+  ]
+}

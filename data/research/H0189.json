@@ -1,0 +1,26 @@
+{
+  "id": "H0189",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 1st cousin 7x removed; wife of John Pringle.",
+  "bio": "Phoebe Davenport (1799 - after 1873) married John Pringle; nine children (see John Pringle). Will: Plymouth, 1867, vol. D p.344.",
+  "sources": [
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.321-322",
+    "Bradsby pp.1483-84"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Phoebe Davenport (b. 1799)",
+    "line": 6803
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

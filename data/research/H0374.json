@@ -1,0 +1,30 @@
+{
+  "id": "H0374",
+  "link": {
+    "confidence": "probable",
+    "note": "1920 census household of Josephine 'Farino' (Ferlaino) at 1306 Diamond Ave."
+  },
+  "sex": "M",
+  "aka": [
+    "Frank Farino"
+  ],
+  "tags": [],
+  "summary": "Brother of Helen (Ferlaino) Cognetti; John's 2nd great-granduncle.",
+  "bio": "1920 census: Frank, son, 17, born PA, coal-mine laborer. His PA birth shows Leopoldo was in Scranton by about 1901. Not to be confused with Francesco 'Frank' Ferlaino (d. 2007), a later San Mango-born Scranton resident (Legacy obituary).",
+  "sources": [
+    "1920 census MFBR-YF8: https://familysearch.org/ark:/61903/1:1:MFBR-YF8",
+    "notes/round2/italian_gaps.md 2"
+  ],
+  "occupation": "Coal-mine laborer (1920)",
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Frank Ferlaino (b. 1902)",
+    "line": 11937
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "I282695478210",
+  "link": {
+    "confidence": "probable",
+    "note": "Named as Henry's widow and William Wells's first wife (Southold records; WikiTree Wells-639; McCurdy). Surname unknown."
+  },
+  "given": "Bridget",
+  "surname": "Wells",
+  "aka": [
+    "Bridget Tuthill",
+    "Bridget Wells",
+    "surname unknown"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 11th-great-grandmother; widow of Henry Tuthill who married William Wells.",
+  "bio": "Sailed with Henry in 1637 ('Henry Tuthill and wife'). After his death she married William Wells about 1650, who became guardian of her Tuthill children; her grandson John Tuthill Jr. later married Wells's daughter Mehitable (by Wells's second wife).",
+  "sources": [
+    "WikiTree Wells-639",
+    "McCurdy p16172",
+    "Banks, Planters of the Commonwealth p. 183"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 13 (11th-great-grandparents)",
+    "line": 7984
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Bridget Elizabeth Burton Tuttle Wells\"; research uses \"Bridget\"."
+    }
+  ]
+}

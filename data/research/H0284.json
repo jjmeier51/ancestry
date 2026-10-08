@@ -1,0 +1,40 @@
+{
+  "id": "H0284",
+  "link": {
+    "confidence": "probable",
+    "note": "Grandson of Bull Smith's son Richard (jrm Needham I2318); relationship depends on the two probable links."
+  },
+  "sex": "M",
+  "aka": [
+    "Gen. Nathaniel Woodhull"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "John's 2nd cousin 9x removed via Bull Smith (also 3C9R via Topping, formerly reported 3C8R); Revolutionary general who died a British prisoner in 1776.",
+  "bio": "Path: Bull Smith → Richard 2d → Sarah (m. Nathaniel Woodhull) → Gen. Nathaniel. Captured 29 Aug 1776, denied medical care and food, died 20 Sep 1776; his death turned his cousin Abraham Woodhull against the British. Married Ruth Floyd, William Floyd's sister (her own 2nd cousin once removed). Grandfather of Eliza Nicoll Smith and great-grandfather of Judge J. Lawrence Smith.",
+  "military": [
+    {
+      "service": "American Revolution",
+      "rank": "General",
+      "note": "Captured 29 Aug 1776; died a prisoner 20 Sep 1776."
+    }
+  ],
+  "sources": [
+    "jrm Needham I2318, https://jrm.phys.ksu.edu/Genealogy/Needham/d0003/I2318.html",
+    "Wikipedia: Abraham Woodhull",
+    "Uploaded deep-dive report",
+    "Round 1 report"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9142
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "I282695583987",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree-only parent of Bull Smith; no basis in any source checked (Pelletreau: 'we know absolutely nothing' of Smith's previous history). Removed (Round 1 correction 3d; Round 3 unchanged). Not an ancestor."
+  },
+  "tags": [],
+  "summary": "Tree's unsupported father for Bull Smith; remove.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Sir Samuel Smith (157… 1575–1618, St George's cross flag image"
+    }
+  ],
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)",
+    "Pelletreau (1898) Intro. p. vii",
+    "Round 1 correction 3d"
+  ],
+  "mediaKnown": [
+    "Tree card with St George's cross flag"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8305
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "I282608065151",
+  "link": {
+    "confidence": "probable",
+    "note": "B. F. Thompson's History of Long Island (vol. 3 p. 295) says John Thompson left 'a daughter Elizabeth, who married Job Smith of Smithtown' and lists her sons, James among them; F. K. Smith agrees; Jacobus treats her as a 'highly probable' child of John (who died intestate). Her mother is now Mary (surname unknown), not Hannah Brewster."
+  },
+  "birth": {
+    "date": "ABT 1657",
+    "place": "New Haven, New Haven, Connecticut, United States"
+  },
+  "death": {
+    "date": "ABT 1718",
+    "place": "New Haven, New Haven, Connecticut, United States"
+  },
+  "aka": [
+    "Elizabeth Smith"
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandmother, wife of Job Smith and daughter of John Thompson of Setauket.",
+  "bio": "Daughter of John Thompson of Setauket. Round 1 rated her parentage 'probable to confirmed'. The tree and older sources (Thompson 1918; F. K. Smith 1967) name her mother as Hannah Brewster; Round 3 (Jacobus, TAG 12:199–204, 13:221) showed John Thompson's only recorded wife was Mary, and that the Hannah Brewster in this family married John's son Samuel. Preferred mother: Mary (surname unknown). Dates from tree 1657–1718; PDF gives the couple c.1647–c.1719.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Elizabeth Thompson 1657–1718"
+    }
+  ],
+  "sources": [
+    "Thompson, History of Long Island (1918 ed.) vol. 3 p. 295, https://archive.org/details/historyoflongisl003thom",
+    "jrm Needham I2523, https://jrm.phys.ksu.edu/genealogy/needham/d0003/I2523.html",
+    "WikiTree Thompson-213 (summarizing Jacobus), https://www.wikitree.com/wiki/Thompson-213",
+    "notes/round3/english_french_origins.md status change 12"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 11 (9th-great-grandparents)",
+    "line": 7520
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

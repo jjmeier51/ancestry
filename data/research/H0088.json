@@ -1,0 +1,39 @@
+{
+  "id": "H0088",
+  "link": {
+    "confidence": "probable",
+    "note": "Giles & Franklin (1962) genealogy and 1752 deed to his daughter Charity Lamoree; Davenport family Bible gives his birth."
+  },
+  "sex": "M",
+  "aka": [
+    "Capt. Thomas Davenport"
+  ],
+  "tags": [],
+  "summary": "John's 8th-great-grandfather; Philipstown (Hudson Highlands) pioneer, called 'Captain', commissioner of highways for Dutchess County.",
+  "bio": "Thomas Davenport was born in 1682 (Davenport family Bible) and died in 1759; his will was dated 1746 and proved 1760. He was a pioneer of Philipstown in the Hudson Highlands, commissioner of highways for Dutchess County 1745-49, and called 'Captain'. In 1752 he deeded Goshen-precinct land to his daughter 'Charity Lamoree, wife of John Lamoree'. Westchester deeds show William Davenport senior of the Manor of Fordham 'conveyed to my son Thomas Davenport' land, and a 1718 deed names William Jr. and Thomas as 'sons of William Davenport' (probable father). His second wife Elizabeth was 'believed' to be a Leggett sister (WikiTree's chain Leggett -> Richardson -> Mead of Watford rests on that belief; speculative). Family descent from Rev. John Davenport of New Haven is disproven ('the last, we know, to be untrue', Giles & Franklin p.xix), and the Davenport of Bromhall/Bramhall, Cheshire link is unsupported. Possible Society of Colonial Wars qualifying ancestor.",
+  "residences": [
+    {
+      "date": "BET 1745 AND 1759",
+      "place": "Philipstown, Dutchess (now Putnam) County, New York, USA"
+    }
+  ],
+  "sources": [
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp. xiv-xix, 355-357"
+  ],
+  "openQuestions": [
+    "Which wife was Charity's mother.",
+    "Society of Colonial Wars eligibility (captaincy, commissioner of highways)."
+  ],
+  "occupation": "Farmer; Dutchess County commissioner of highways (1745-49)",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Davenport (b. 1682)",
+    "line": 4893
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

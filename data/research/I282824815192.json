@@ -1,0 +1,117 @@
+{
+  "id": "I282824815192",
+  "link": {
+    "confidence": "probable",
+    "note": "Tree dates and parents; the 1920 census widow 'Josephine Farino', 45, at the Ferlaino house 1306 Diamond Ave fits her. No record naming 'Giuseppina Fiorillo' found; parents are tree-only."
+  },
+  "birth": {
+    "date": "1871",
+    "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy"
+  },
+  "death": {
+    "date": "1943",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
+  },
+  "occupation": "Householder; kept boarders",
+  "aka": [
+    "Josephine Farino",
+    "Josephine Ferlaino",
+    "Giuseppina Ferlaino"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's maternal 2nd great-grandmother; widowed head of the Ferlaino boarding house for San Mango newcomers at 1306 Diamond Avenue, Scranton.",
+  "bio": "Tree: Giuseppina Fiorillo (1871-1943), daughter of Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926), wife of Leopoldo Ferlaino. 1920 census (Scranton Ward 2, ED 105, sheet 2A, 1306 Diamond Avenue): Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; with daughter Helen (25), son Frank (17), daughter 'Rofella' (15), son-in-law Frank Cognetti, three grandsons and boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. The census age points to birth c.1874-75 rather than the tree's 1871. A forum post says 1306 Diamond Ave was the home of the Ferlaino family who took in boarders from San Mango d'Aquino in the 1910s-20s. Arrived with Helen in 1900 (1920 census) or 1901 (1930 census). No San Mango cemetery entry for her, consistent with death in Scranton.",
+  "residences": [
+    {
+      "date": "1920",
+      "place": "1306 Diamond Avenue, Scranton Ward 2, Lackawanna County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Immigration",
+      "date": "1900",
+      "place": "USA",
+      "description": "1920 census; 1930 census for Helen says 1901"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Giuseppina Fiorillo 1871-1943 (shown as 'Potential' hint in one view)"
+    }
+  ],
+  "sources": [
+    "1920 US census MFBR-YF8: https://familysearch.org/ark:/61903/1:1:MFBR-YF8 ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/0/image.jpg",
+    "ItalianGenealogy.com forum topic 26645: https://www.italiangenealogy.com/forum/topic/26645",
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 2"
+  ],
+  "mediaKnown": [
+    "1920 census image"
+  ],
+  "openQuestions": [
+    "Her 1943 PA death certificate (names parents; would prove Ferlaino/Fiorillo)",
+    "Birth act (San Mango 1866-1910 registers)",
+    "Exact birth year 1871 vs c.1874-75"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Giuseppina Fiorillo (b. 1871)",
+    "line": 10235
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (1 of 4)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282824815192/ancestry-screenshot-img-7837.jpg",
+      "people": [
+        "I282697102554"
+      ]
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (2 of 4)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282824815192/ancestry-screenshot-img-7838.jpg",
+      "people": [
+        "I282697102554"
+      ]
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (3 of 4)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282824815192/ancestry-screenshot-img-7839.jpg",
+      "people": [
+        "I282697102554"
+      ]
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (4 of 4)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282824815192/ancestry-screenshot-img-7840.jpg",
+      "people": [
+        "I282697102554"
+      ]
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

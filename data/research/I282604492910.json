@@ -1,0 +1,46 @@
+{
+  "id": "I282604492910",
+  "link": {
+    "confidence": "confirmed",
+    "note": "John's mother, as shown in his tree and the Bull Smith PDF. John T. Petriello Jr.'s 2024 obituary independently names his sister 'Sharon Meier (Thomas)'."
+  },
+  "given": "Sharon M.",
+  "surname": "Petriello",
+  "birth": {
+    "date": "1960",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
+  },
+  "aka": [
+    "Sharon Meier",
+    "Sharon Petriello"
+  ],
+  "tags": [],
+  "summary": "John's mother; a living person, so not researched.",
+  "bio": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.",
+  "facts": [
+    {
+      "label": "Siblings in the records",
+      "value": "John T. Petriello Jr. (c.1958 – 2024-02-29), the eldest of the three children of John and Mary Petriello, born and raised in Scranton; and Paul. Both are named in John Jr.'s obituary, which also names a cousin Ann Marie."
+    }
+  ],
+  "sources": [
+    "John's Ancestry tree screenshots",
+    "Richard_Bull_Smith_Lineage.pdf",
+    "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)"
+  ],
+  "handoff": {
+    "section": "3.1 John and his parents",
+    "heading": "Sharon M. Petriello (b. 1960)",
+    "line": 1647
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Sharon Maria Petriello\"; research uses \"Sharon M. Petriello\"."
+    }
+  ]
+}

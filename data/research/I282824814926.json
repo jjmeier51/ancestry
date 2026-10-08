@@ -1,0 +1,49 @@
+{
+  "id": "I282824814926",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Gaetano's father ('the late Pietro') in Gaetano's 1876 Guardia death act (image read). The 1760-1808 dates are tree-only and identical to his wife's, which looks copied."
+  },
+  "given": "Pietro",
+  "surname": "di Marino",
+  "death": {
+    "date": "1808",
+    "place": "Guardia Lombardi, Avellino, Campania, Italie"
+  },
+  "aka": [
+    "Pietro Dimarino"
+  ],
+  "tags": [],
+  "summary": "John's maternal 5th great-grandfather; with Felicita Magnotta the earliest known ancestors in Guardia Lombardi.",
+  "bio": "Tree: Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 1 flagged the identical dates as probably copied or invented. Round 3 confirmed the couple's names from son Gaetano's death act (Morti 1876 act 20). Married before about 1796. Di Marino: 6 US arrivals from Guardia 1830-1912 (paese.app).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Pietro Dimarino 1760-1808"
+    }
+  ],
+  "sources": [
+    "Antenati, Guardia, Morti 1876, act 20: https://antenati.cultura.gov.it/ark:/12657/an_ua524100/wbdvxng",
+    "Ancestry tree transcription",
+    "paese.app di marino: https://paese.app/cognomi/di%20marino"
+  ],
+  "openQuestions": [
+    "Verify 1808 death (Guardia Morti 1809+ would not cover 1808; parish records)",
+    "Parents"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Pietro di Marino (b. 1760)",
+    "line": 10723
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Pietro Dimarino\"; research uses \"Pietro di Marino\"."
+    }
+  ]
+}

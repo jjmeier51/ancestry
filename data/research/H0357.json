@@ -1,0 +1,31 @@
+{
+  "id": "H0357",
+  "link": {
+    "confidence": "probable",
+    "note": "FS tree; 1941 marriage license image lists both parents as dead."
+  },
+  "sex": "M",
+  "aka": [
+    "Tony Petrillo",
+    "Gaetano 'Anthony' Petriello"
+  ],
+  "tags": [],
+  "summary": "John's great-granduncle; salesman.",
+  "bio": "b. 26 Nov 1907; Tony, 3, in 1910; salesman; married Ann Jason in 1941 (license lists John and Maria Antonia as deceased); d. Feb 1975, Scranton. Named Gaetano, apparently after great-grandfather Gaetano di Marino.",
+  "sources": [
+    "1941 license image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/1/image.jpg",
+    "Geni profile"
+  ],
+  "occupation": "Salesman",
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Anthony Gaetano Petrillo (b. 1907)",
+    "line": 11661
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

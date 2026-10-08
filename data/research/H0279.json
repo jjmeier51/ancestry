@@ -1,0 +1,32 @@
+{
+  "id": "H0279",
+  "link": {
+    "confidence": "probable",
+    "note": "Kinship path via Pelletreau appendix; probable as cousin because it assumes Temperance was James's daughter."
+  },
+  "sex": "M",
+  "aka": [
+    "Judge Joshua Smith",
+    "State Senator Joshua Smith"
+  ],
+  "tags": [],
+  "summary": "John's 3rd cousin 7x removed (via Job: Job → Job 2d → Anna → Hannah → Joshua II), also 3C8R via Bull Smith; Hauppauge judge and New York state senator.",
+  "bio": "Gave the land for the Hauppauge Methodist church (his son enlarged it); bought 'The Judge's Lane', a right-of-way from the schoolhouse to the King's Highway (Wood pp. 15, 46). In 1798 Caleb Smith II, Joshua Smith II and Isaac Blydenburgh agreed to dam the Nissequogue headwaters and build the 'New Mills' (Stump Pond; now Blydenburgh County Park, NRHP district 1983). Third wife Deborah, daughter of Epenetus Smith 1st (Job 2d's son). Wikipedia calls the Joshua Smith House the 'estate of State Senator Joshua Smith, 1763–1845', 'in the Smithtown section of Hauppauge'. No Find a Grave memorial found; reburial in the Methodist churchyard likely but unconfirmed.",
+  "sources": [
+    "Wood (1920) pp. 15, 25–26, 46, 87–88",
+    "Pelletreau (1898) App. pp. 466, 472, 478, 480",
+    "Wikipedia, https://en.wikipedia.org/wiki/Joshua_Smith_(New_York_politician)",
+    "Suffolk County Parks, https://suffolkcountyny.gov/Departments/Parks/Our-Parks/Blydenburgh-County-Park"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Collateral relatives (Keturah's uncles and siblings, Tuthill and Smith kin)",
+    "line": 9051
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

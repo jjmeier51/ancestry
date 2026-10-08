@@ -1,0 +1,27 @@
+{
+  "id": "H0242",
+  "link": {
+    "confidence": "probable",
+    "note": "FamilySearch index; National Burial Index; WikiTree Topping-248. Dates are baptism (6 Jul 1578) and burial (12 Aug 1623)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 12th-great-grandfather, father of Capt. Thomas Topping.",
+  "bio": "Baptized at Wing, Bucks., 6 Jul 1578; buried Totternhoe 12 Aug 1623. Earlier Leighton Buzzard generations (Richard, Henry Topping) come from an unsourced tree (speculative).",
+  "sources": [
+    "WikiTree Topping-248, https://www.wikitree.com/wiki/Topping-248",
+    "FamilySearch England index",
+    "National Burial Index"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 14 (12th-great-grandparents)",
+    "line": 8089
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

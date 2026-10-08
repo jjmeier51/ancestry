@@ -1,0 +1,37 @@
+{
+  "id": "H0360",
+  "link": {
+    "confidence": "probable",
+    "note": "FS tree GQWT-ZPC; enlistment index K8G2-K1H (confirmed by index)."
+  },
+  "sex": "M",
+  "aka": [
+    "Rocco F. Petrillo"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "John's great-granduncle; WWII Army veteran.",
+  "bio": "b. 25 Sep 1914; enlisted in the US Army at Scranton on 17 Feb 1941; married Mildred Leona; d. 21 Apr 1997. Listed as Rocco in the 1920 census.",
+  "military": [
+    {
+      "branch": "US Army",
+      "service": "WWII, enlisted 1941-02-17 at Scranton"
+    }
+  ],
+  "sources": [
+    "FS tree GQWT-ZPC: https://ancestors.familysearch.org/en/GQWT-ZPC",
+    "Enlistment K8G2-K1H: https://familysearch.org/ark:/61903/1:1:K8G2-K1H"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Rocco Frank Petrillo (b. 1914)",
+    "line": 11714
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

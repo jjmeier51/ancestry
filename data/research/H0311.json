@@ -1,0 +1,25 @@
+{
+  "id": "H0311",
+  "link": {
+    "confidence": "probable",
+    "note": "Lawrence (1858)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "One of the 30 founding proprietors of Hudson, NY, its recorder and mayor; John's 3rd cousin 8x removed.",
+  "bio": "Path: Elizabeth → Joseph → John (b. 1703, Newport and Providence shipowner) → David. Brother Joseph Lawrence (b. 1729) wrote the first marine insurance policy in Rhode Island (3C8R).",
+  "sources": [
+    "Lawrence (1858)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9567
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

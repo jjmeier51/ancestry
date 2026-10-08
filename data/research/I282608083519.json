@@ -1,0 +1,116 @@
+{
+  "id": "I282608083519",
+  "link": {
+    "confidence": "probable",
+    "note": "Baptism and marriage from FamilySearch index / Dunstable register (probable); Howell (1887) and F. K. Smith make him Capt. Elnathan's father. As John's ancestor he is now 13 generations up (one more than reported in the uploads) and depends on Temperance's parentage."
+  },
+  "given": "Thomas",
+  "surname": "Topping",
+  "birth": {
+    "date": "1609-03-19",
+    "place": "Totternhoe, Bedfordshire, England"
+  },
+  "death": {
+    "date": "1687-12",
+    "place": "Branford, New Haven County, Connecticut, USA"
+  },
+  "occupation": "Captain; magistrate; Connecticut deputy; water-course overseer at Wraysbury",
+  "aka": [
+    "Capt. Thomas Topping",
+    "Thomas Toppyn",
+    "Captain T I Topping (tree)"
+  ],
+  "tags": [
+    "founder",
+    "military",
+    "notable"
+  ],
+  "summary": "John's 11th-great-grandfather; Wethersfield deputy, Connecticut charter patentee and Southampton magistrate.",
+  "bio": "Baptized 'Thomas Toppyn' at Totternhoe, Bedfordshire, 19 Mar 1608/9, son of John. Married Emma Aldridge at Dunstable 16 Nov 1628; eldest son Thomas baptized at Totternhoe 25 Oct 1629. A Wraysbury, Bucks., court roll of 12 Apr 1636 names him one of two overseers reporting that 'all was well with the water courses' (Wraysbury parish contains Magna Carta Island). At Wethersfield, Conn., by 1639 and its deputy to the CT General Court in 1639; Milford 1639/40; then Southampton. 'Topping's Purchase': Indian deeds of 1662 and 1666, paid with 20 fathoms of wampum. Named in King Charles II's 1662 charter for Connecticut — Savage: 'one of the company to whom King Charles granted his letters patent for the Colony of Connecticut' (Conn. Hist. Soc. Coll. 3:306). Married three times. In 1686 deeded his Southampton lands to sons Elnathan and James. Died at Branford, Dec 1687 (1687/8), 'many years a magistrate'. Howell's 1887 'refugee from religious persecution' is family tradition only. Society of Colonial Wars: captain, magistrate, deputy — qualifying, but route depends on Temperance's parentage. Round 1 moved him from 10th to 11th great-grandfather (13 generations). TREE: 'Captain T I Topping 1608–1687 + Emma C Aldridge… 1610–1665 (ship image)', shown as father of John Topping (1636–1686) — that line (John → Josiah → Jerusha) is removed.",
+  "notable": "Patentee in the 1662 Connecticut charter.",
+  "residences": [
+    {
+      "date": "1609",
+      "place": "Totternhoe, Bedfordshire, England"
+    },
+    {
+      "date": "1636",
+      "place": "Wraysbury, Buckinghamshire, England"
+    },
+    {
+      "date": "1639",
+      "place": "Wethersfield, Hartford County, Connecticut, USA"
+    },
+    {
+      "date": "1640",
+      "place": "Milford, New Haven County, Connecticut, USA"
+    },
+    {
+      "date": "BET 1650 AND 1686",
+      "place": "Southampton, Suffolk County, New York, USA"
+    },
+    {
+      "date": "1687",
+      "place": "Branford, New Haven County, Connecticut, USA"
+    }
+  ],
+  "military": [
+    {
+      "rank": "Captain",
+      "note": "Captain, magistrate and Connecticut deputy (jrm Needham I2547)."
+    }
+  ],
+  "events": [
+    {
+      "title": "Water-course report",
+      "date": "1636-04-12",
+      "place": "Wraysbury, Buckinghamshire, England",
+      "description": "Reported to the manor court that all was well with the water courses."
+    },
+    {
+      "title": "Topping's Purchase",
+      "date": "1662",
+      "place": "Southampton, Suffolk County, New York, USA",
+      "description": "Indian deeds of 1662 and 1666 for 20 fathoms of wampum."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Captain T I Topping 1608–1687 + Emma C Aldridge… 1610–1665"
+    }
+  ],
+  "sources": [
+    "FamilySearch England Christenings index; WikiTree Topping-121, https://www.wikitree.com/wiki/Topping-121",
+    "Dunstable parish register (Bedfordshire County Record Office, 1951)",
+    "Gyll, History of Wraysbury, Ankerwycke Priory and Magna Charta Island (1862)",
+    "Howell (1887) pp. 395–397",
+    "Savage; Conn. Hist. Soc. Coll. 3:306",
+    "jrm Needham I2547, https://jrm.phys.ksu.edu/genealogy/needham/d0005/I2547.html"
+  ],
+  "mediaKnown": [
+    "Tree card with ship image"
+  ],
+  "openQuestions": [
+    "Totternhoe register image of the 1608/9 baptism (mother Helen Crosman?)."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 13 (11th-great-grandparents)",
+    "line": 7913
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Captain Thomas I Topping\"; research uses \"Thomas Topping\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 19 Mar 1608; research: 1609-03-19."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "H0145",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "A Pringle cousin who died in her hundredth year.",
+  "bio": "Charity (Pringle) Mekeel died in 1899 'in the one hundredth year of her age' (Harvey Book p.1020).",
+  "sources": [
+    "Harvey Book p.1020"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Charity Pringle Mekeel (b. 1800)",
+    "line": 6058
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

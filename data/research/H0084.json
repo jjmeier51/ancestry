@@ -1,0 +1,25 @@
+{
+  "id": "H0084",
+  "link": {
+    "confidence": "possible",
+    "note": "GEDBAS 53093 only."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 9th-great-grandmother; of Fockenberg-Limbach.",
+  "bio": "Of Fockenberg-Limbach (Kusel), daughter of Conrad Birgert; married Caspar Grub 1642. Her father Conrad Birgert is John's 10th-great-grandfather (speculative).",
+  "sources": [
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191858"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Elisabetha Birgert (b. unknown)",
+    "line": 4816
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I282695503586",
+  "link": {
+    "confidence": "confirmed",
+    "note": "FS tree GJB1-GYW, enlistment index K8PX-Z8K, 1943 marriage license No. 1716 (image read), 1920 census."
+  },
+  "given": "Salvatore D.",
+  "surname": "Cognetti",
+  "birth": {
+    "date": "1915-09-21",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1990-10-19"
+  },
+  "aka": [
+    "Sal Cognetti",
+    "Salvador Cognetti"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "John's great-granduncle; WWII Army veteran.",
+  "bio": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household.",
+  "military": [
+    {
+      "branch": "US Army",
+      "service": "WWII",
+      "note": "Enlisted Wilkes-Barre 5 Jan 1942"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Salvatore 1915-Deceased"
+    }
+  ],
+  "sources": [
+    "FS tree GJB1-GYW: https://ancestors.familysearch.org/en/GJB1-GYW",
+    "Enlistment K8PX-Z8K: https://familysearch.org/ark:/61903/1:1:K8PX-Z8K",
+    "1943 license VF7J-VGC: https://familysearch.org/ark:/61903/1:1:VF7J-VGC"
+  ],
+  "mediaKnown": [
+    "1943 marriage license image"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Salvatore D. Cognetti (b. 1915)",
+    "line": 11343
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Salvatore Cognetti\"; research uses \"Salvatore D. Cognetti\"."
+    }
+  ]
+}

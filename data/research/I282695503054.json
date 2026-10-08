@@ -1,0 +1,31 @@
+{
+  "id": "I282695503054",
+  "link": {
+    "confidence": "possible",
+    "note": "GEDBAS 1444214166: married 1653, b. c.1635. Tree 1645–1741 (birth impossible for 1653 marriage; death 1741 would make her over 100 — unverified)."
+  },
+  "tags": [],
+  "summary": "Possible 9th great-grandmother of John.",
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Maria Thoma 1645–1741."
+    }
+  ],
+  "sources": [
+    "GEDBAS 1444214166 https://gedbas.genealogy.net/person/show/1444214166",
+    "Ancestry tree screenshots (section 2.2.2)",
+    "deep-dive corrections table"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2699
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

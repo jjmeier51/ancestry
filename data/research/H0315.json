@@ -1,0 +1,26 @@
+{
+  "id": "H0315",
+  "link": {
+    "confidence": "probable",
+    "note": "His own published family account."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Physician, lawyer and author of the standard History of Long Island (1839/1843); John's 3rd cousin 8x removed.",
+  "bio": "Path: John Thompson → Samuel → Jonathan → Dr. Samuel → Benjamin. Also 4C8R via Brewster (affected by the Brewster disproof) and probably 4C8R via Topping (his grandmother Mary Woodhull, b. 1711, appears to be a granddaughter of Temperance Topping). Called John Thompson 'the first Long Island ancestor of the compiler'.",
+  "sources": [
+    "Thompson vol. 3",
+    "Online Books, https://onlinebooks.library.upenn.edu/webbin/who/Thompson%2c%20Benjamin%20F%2e%20%28Benjamin%20Franklin%29%2c%201784%2d1849"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through John Thompson (J = 12)",
+    "line": 9628
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

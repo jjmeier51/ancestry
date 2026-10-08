@@ -1,0 +1,25 @@
+{
+  "id": "H0365",
+  "link": {
+    "confidence": "probable",
+    "note": "Index entry names father as 'G.' and mother Caterina di Leo."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Probable full sister of Grazia Di Marino; John's 3rd great-grandaunt.",
+  "bio": "Daughter of G[aetano] di Marino and Caterina di Leo; married Nicola di Pietro 12 Feb 1857 (index 1857 #21).",
+  "sources": [
+    "Antenati index 1857 #21: https://antenati.cultura.gov.it/ark:/12657/an_ua376659/wWNxVgm"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Maria di Marino (b. unknown)",
+    "line": 11794
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

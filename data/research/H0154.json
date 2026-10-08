@@ -1,0 +1,30 @@
+{
+  "id": "H0154",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "sex": "F",
+  "aka": [
+    "Caturah Pringle",
+    "Keturah Robbins"
+  ],
+  "tags": [],
+  "summary": "Probably John's 1st cousin 5x removed.",
+  "bio": "'Caturah', 17, in Hulda Pringle's 1850 household; probably Keturah (Pringle) Robbins, wife of Charles Robbins, whose daughter Lulu married Charles W. Honeywell, Plymouth tax collector 1889-92.",
+  "sources": [
+    "1850 census dwelling 942",
+    "Bradsby"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Keturah Pringle (b. 1833)",
+    "line": 6208
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

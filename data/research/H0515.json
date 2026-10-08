@@ -1,0 +1,39 @@
+{
+  "id": "H0515",
+  "link": {
+    "confidence": "probable",
+    "note": "Westchester deeds naming 'my son Thomas Davenport' and a 1718 deed naming William Jr. and Thomas as 'sons of William Davenport'."
+  },
+  "sex": "M",
+  "aka": [
+    "William Davenport of Fordham"
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandfather; of Fordham Manor and West Farms, Westchester, on record 1680-1718.",
+  "bio": "William Davenport of Fordham Manor and West Farms, Westchester, is on record 1680-1718 with wife Mary (Westchester deeds, NYGBR 51:40, 52:71, 77). Bolton says 'William Davenport and his wife Mary came from England in 1670' (speculative); Giles & Franklin think he came as a boy. A John Davenport 'of Long Neck', Westchester (deed 1682/3) is a possible father (speculative). English origin unknown; Bramhall/Bromhall Cheshire and Rev. John Davenport connections unsupported or disproven.",
+  "residences": [
+    {
+      "date": "BET 1680 AND 1718",
+      "place": "Fordham Manor and West Farms, Westchester County, New York, USA"
+    }
+  ],
+  "sources": [
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp. xiv-xix",
+    "NYGBR 51:40, 52:71, 77 (Westchester deeds)",
+    "Bolton, History of Westchester (quoted)"
+  ],
+  "openQuestions": [
+    "English origin; John Davenport of Long Neck."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "William Davenport (b. unknown)",
+    "line": 5011
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "H0128",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 1st cousin 5x removed.",
+  "bio": "Son of Richard Heffernan and Anastasia Boney; 1835-1891; married Margaret Fennelly.",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "John Heffernan (b. 1835)",
+    "line": 5772
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "H0170",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "aka": [
+    "Col. George P. Ransom"
+  ],
+  "tags": [
+    "military",
+    "patriot"
+  ],
+  "summary": "Husband of John's 5th-great-grand-aunt Elizabeth Lamoreaux; Revolutionary soldier who escaped from a British island prison.",
+  "bio": "Col. George Palmer Ransom (1762-1850) married Elizabeth Lamoreaux in 1794. His father, Capt. Samuel Ransom, was killed in the 1778 Battle of Wyoming, his remains later found 'with the head severed from the body'. George was captured in 1780 and escaped from Prisoners' Island in the St. Lawrence River in 1782. In October 1790 Thomas Lamoreaux served in Capt. George P. Ransom's militia company at Plymouth.",
+  "military": [
+    {
+      "branch": "Continental/Wyoming forces",
+      "service": "American Revolution",
+      "note": "Captured 1780; escaped Prisoners' Island, St. Lawrence River, 1782"
+    },
+    {
+      "branch": "Luzerne County militia",
+      "rank": "Captain, later Colonel",
+      "note": "Commanded the Plymouth company 1790"
+    }
+  ],
+  "sources": [
+    "Harvey Book p.355: https://archive.org/details/harveybookgiving00harv"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "George Palmer Ransom (b. 1762)",
+    "line": 6485
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

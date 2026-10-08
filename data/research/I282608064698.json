@@ -1,0 +1,35 @@
+{
+  "id": "I282608064698",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; REMOVED by Round 2 research. Dwyer shows the 1791 Thomas (son of Patrick and Catherine Neagle) is Thomas of Lanespark, not John's Thomas (b. 1808, son of Humphrey). Dates also impossible (108-year life). Do not treat as an ancestor."
+  },
+  "aka": [
+    "Patrick HEFFERN… (tree)"
+  ],
+  "tags": [],
+  "summary": "Tree-only 'great-great-great-great-great-grandfather' - disproven; not John's ancestor.",
+  "bio": "The tree shows Patrick Heffernan 1763-1871 (Ireland flag image) as father of 'Thomas Heffernan 1791'. A 108-year life means at least one date is wrong. In Dwyer's Heffernans of Slieveardagh, Patrick and Catherine Neagle are parents of Thomas 'of Lanespark' (Branch 1, bapt. 1791, m. Catherine Shelly 1831), not of John's Thomas 'of Mardyke'. Dwyer found no proven link between the two families. Remove from Andrew's line.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Patrick HEFFERN… 1763-1871 (Ireland flag image)"
+    }
+  ],
+  "sources": [
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Uploaded deep-dive report, Irish corrections table"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Patrick Heffernan (b. 1763)",
+    "line": 5154
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

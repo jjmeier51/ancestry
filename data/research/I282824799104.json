@@ -1,0 +1,24 @@
+{
+  "id": "I282824799104",
+  "link": {
+    "confidence": "unverified",
+    "note": "FamilySearch tree claim only; only 18 years older than Stephen; no evidence."
+  },
+  "tags": [],
+  "summary": "FamilySearch-only claimed father of Stephen Scott - unsupported.",
+  "bio": "A FamilySearch profile gives Stephen Scott's father as Daniel Scott 1788-1811. Flagged as speculative/do not copy.",
+  "sources": [
+    "FamilySearch tree (Stephen Scott 9KXX-MH8 parents)"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Daniel Scott (b. 1788)",
+    "line": 5320
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

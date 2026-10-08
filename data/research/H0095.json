@@ -1,0 +1,31 @@
+{
+  "id": "H0095",
+  "link": {
+    "confidence": "probable",
+    "note": "'marque X de Elisabet Dubois' among the family signers at Daniel Mercereau's 1693 wedding; Semans & Broome name her as Jean's widow. Birth c.1636 at Moëze speculative."
+  },
+  "sex": "F",
+  "aka": [
+    "Elizabeth Dubois",
+    "Elisabet Mersereau"
+  ],
+  "tags": [],
+  "summary": "John's 10th-great-grandmother; widowed Huguenot matriarch who brought the Mersereau children from Moëze to New York.",
+  "bio": "Elisabet Dubois made her mark ('marque X') at her son Daniel Mercereau's wedding to Suzanne Marie Doucinet at the French Church of New York on 6 Aug 1693. She is not of the Louis DuBois (Walloon, New Paltz) family; no link to any other Dubois immigrant is proven. Her parents are unknown; birth at Moëze c.1636 is speculative (WikiTree Dubois-163).",
+  "sources": [
+    "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu pp.29-31",
+    "WikiTree Dubois-163: https://www.wikitree.com/wiki/Dubois-163",
+    "Semans & Broome"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Elisabet Dubois (b. 1636)",
+    "line": 5050
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "H0090",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Bristol French Church records (1689-95), denization 1694 and New York records confirm him and Meschers; his Cozes baptism and parents are probable."
+  },
+  "sex": "M",
+  "aka": [
+    "Andrew L'Amoureux",
+    "Andrew Lamarue"
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandfather; Huguenot shipmaster and pilot of the Gironde from Meschers, Saintonge, who fled to Bristol in 1689 and reached New York by 1700.",
+  "bio": "André Lamoureux was, per the Reformed Church of Cozes (the Protestant parish about 8 km inland from Meschers), born 3 Nov and baptized 25 Nov 1663, son of Daniel Lamoureux and Marie Touchay (Garner pp.1, 48; probable identification). He was a 'maistre de nauire... cy-devant de Meche en Xaintonge, pillotte' - a shipmaster and licensed pilot of the dangerous Gironde mouth at Meschers-sur-Gironde. Not from La Rochelle (no record ties him there; the confusion probably comes from the Mersereau in-law Suzanne Doucinet 'de la ville de la Rochelle'). He fled with his family to Bristol in 1689: Judith was baptized there 16 Dec 1689; Jacques, who came from France with them, was buried 19 Mar 1690; a Daniel born 1693 died young; Daniel (John's ancestor) was born 29 Nov 1695. He received denization on 22 Jun 1694 (Shaw p.235; the reports call it naturalization by Act of Parliament). He was in New York by 15 May 1700, and the 1703 census lists 'Andrew Lamarue' in the West Ward. On 4 May 1706 Lord Cornbury ordered 'Andrew L'Amoureux, captain of a merchantman' released from impressment into the Royal Navy.",
+  "residences": [
+    {
+      "date": "1663",
+      "place": "Cozes, Charente-Maritime, France"
+    },
+    {
+      "date": "BEF 1689",
+      "place": "Meschers-sur-Gironde, Charente-Maritime, France"
+    },
+    {
+      "date": "BET 1689 AND 1695",
+      "place": "Bristol, Gloucestershire, England"
+    },
+    {
+      "date": "1700",
+      "place": "New York City, New York, USA"
+    },
+    {
+      "date": "1703",
+      "place": "West Ward, New York City, New York, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Denization",
+      "date": "1694-06-22",
+      "place": "England",
+      "description": "Shaw, Letters of Denization 1603-1700 p.235."
+    },
+    {
+      "title": "Released from impressment",
+      "date": "1706-05-04",
+      "place": "New York",
+      "description": "Gov. Lord Cornbury ordered 'Andrew L'Amoureux, captain of a merchantman' released from the Royal Navy."
+    }
+  ],
+  "sources": [
+    "Lart, Huguenot Soc. London vol. 20 p.9: https://archive.org/details/registersoffrenc20hugu/page/n40/mode/1up",
+    "Shaw, Letters of Denization p.235: https://archive.org/details/lettersofdenizat01shaw/page/235/mode/1up",
+    "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5",
+    "WikiTree Lamoreaux-49: https://www.wikitree.com/wiki/Lamoreaux-49 ; Lamoreaux-112: https://www.wikitree.com/wiki/Lamoreaux-112",
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+  ],
+  "openQuestions": [
+    "Cozes Protestant registers (Charente-Maritime archives online) to confirm baptism and parents.",
+    "Death date and place."
+  ],
+  "occupation": "Shipmaster (maistre de navire) and Gironde pilot; captain of a merchantman",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "André Lamoureux (b. 1663)",
+    "line": 4933
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

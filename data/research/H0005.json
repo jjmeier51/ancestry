@@ -1,0 +1,25 @@
+{
+  "id": "H0005",
+  "link": {
+    "confidence": "possible",
+    "note": "FS claim from Irish Catholic Parish Register index (St. Mary's, Haddington Road, Dublin); no evidence ties this family to the Danville Edward."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Possible 4th great-grandfather of John, fl. Dublin 1819–24.",
+  "sources": [
+    "FamilySearch 994Z-27X / GZQN-GZT ('Ireland, Catholic Parish Registers' index; image not released)",
+    "notes/round3/irish_pa.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2131
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

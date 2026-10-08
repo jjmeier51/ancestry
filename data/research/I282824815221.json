@@ -1,0 +1,38 @@
+{
+  "id": "I282824815221",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; not checked in civil records. The record thumbnail attached to him in the tree appears to mention Lucera, Foggia, which is probably someone else's record."
+  },
+  "tags": [],
+  "summary": "John's maternal 4th great-grandfather per the tree; father of Giovanni Pasquale DiBiasi.",
+  "bio": "Tree: Domenico Di Biase (b. 1789) + Angela Carrozzino, parents of Giovanni P. Dibiasi. A record thumbnail on Domenico appears to mention Lucera?, Foggia (unconfirmed). Round 1 judged this probably attached to the wrong man: the family was from Guardia Lombardi (Avellino), whose records are at AS Avellino, while Lucera holds a Sezione di Archivio di Stato for Foggia-province records and Di Biase is a common Capitanata surname. Round 2 found the 'Lucera' claim on the FS tree profiles of his son and daughter-in-law with zero sources; remove Lucera. Speculative until the image is checked: verify whether the record's comune is Guardia Lombardi.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Domenico Di Biase 1789-Deceased (record-image thumbnail)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription (record-image thumbnail)",
+    "notes/italian.md 2.2; notes/round2/italian_gaps.md 4; Round 1 report correction 3p"
+  ],
+  "mediaKnown": [
+    "Ancestry record-image thumbnail (possibly a Lucera, Foggia record - probably mis-attached)"
+  ],
+  "openQuestions": [
+    "Open the thumbnail on Ancestry and read the record's comune",
+    "Guardia civil (1809+) or parish records for his marriage / death"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Domenico Di Biase (b. 1789)",
+    "line": 10541
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

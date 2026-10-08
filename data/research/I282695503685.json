@@ -1,0 +1,62 @@
+{
+  "id": "I282695503685",
+  "link": {
+    "confidence": "confirmed",
+    "note": "WikiTree Cognetti-1 (SSDI and 1930 census) and 1940 marriage license No. 817 (image read)."
+  },
+  "given": "Ralph A.",
+  "surname": "Cognetti",
+  "birth": {
+    "date": "1913-08-07",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "2009-04-16",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "occupation": "Salesman (1940)",
+  "aka": [
+    "Ralf Cognetti"
+  ],
+  "tags": [],
+  "summary": "John's great-granduncle; eldest son of Frank and Helen Cognetti, salesman.",
+  "bio": "Tree shows 'Ralph 1913' twice - one man (Round 1 correction 3m). WikiTree Cognetti-1: b. 7 Aug 1913, d. 16 Apr 2009 Scranton; m. Marguerite Forgione 1 Jun 1940; in Scranton in the 1930 census (ED 12, p. 28A). 1920 census: grandson 'Ralf' in the Ferlaino household at 1306 Diamond Ave. 1940 marriage license No. 817: salesman; mother's maiden name 'Farino'; father 'mechanic'; at 612 Philo St. Children (FS L6CN-7HV): Frank (1942), Peter (1948), Anthony (b. 14 Dec 1949, probably Anthony Paul Cognetti of the Candy Hall of Fame).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Ralph 1913-Deceased (entered twice)"
+    }
+  ],
+  "sources": [
+    "WikiTree Cognetti-1: https://www.wikitree.com/wiki/Cognetti-1",
+    "1940 license VF7X-JLN: https://familysearch.org/ark:/61903/1:1:VF7X-JLN ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg",
+    "FS tree L6CN-7HV: https://ancestors.familysearch.org/en/L6CN-7HV",
+    "notes/italian.md 3.1; notes/round2/italian_gaps.md 2-3"
+  ],
+  "mediaKnown": [
+    "1940 marriage license image"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Ralph A. Cognetti (b. 1913)",
+    "line": 11305
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Ralph Cognetti\"; research uses \"Ralph A. Cognetti\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "A second handoff record (\"Ralph Cognetti (b. 1913) [duplicate tree entry]\", line 11327) also maps to this person."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Handoff gives parents Frank Cognetti (b. 1891), Helen Ferlaino (b. 1894) but the link is only \"unverified\", so the tree was not changed."
+    }
+  ]
+}

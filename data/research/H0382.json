@@ -1,0 +1,25 @@
+{
+  "id": "H0382",
+  "link": {
+    "confidence": "unverified",
+    "note": "Town-mate only (born in the Giannettas' hometown); no kinship known."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "New York City Comptroller and 1969 Democratic nominee for mayor; born in Bisaccia, no known kinship.",
+  "bio": "Born 1912 in Bisaccia. Also from Bisaccia (town-mate only): poet Franco Arminio (b. 1960), of the 'paesologia' of depopulated Irpinia.",
+  "sources": [
+    "paese.app Bisaccia: https://paese.app/regioni/campania/avellino/bisaccia"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Mario Procaccino (b. 1912)",
+    "line": 12061
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

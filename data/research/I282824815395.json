@@ -1,0 +1,37 @@
+{
+  "id": "I282824815395",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; Fata absent from San Mango 1674-1804 stati delle anime though Fata x2 appears in the modern phone directory."
+  },
+  "aka": [
+    "Cecilia Fata Scaff..."
+  ],
+  "tags": [],
+  "summary": "Tree ancestor in the unsupported pre-1800 Fiorillo pedigree.",
+  "bio": "Tree: Cecilia Fata Scaff... (1738-1797) (second surname truncated in the screenshot). Profile carries the unidentified black-shield/silver-lion coat of arms. Round 1 counted Fata among San Mango surnames (phone directory Fata x2), but Round 2's stati index shows 0 Fata 1674-1804.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Cecilia Fata Scaff... 1738-1797 (coat-of-arms image; 'Potential' in one view)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/italian.md 4; notes/round2/italian_gaps.md 7"
+  ],
+  "mediaKnown": [
+    "Ancestry profile coat-of-arms image"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Cecilia Fata (b. 1738)",
+    "line": 10894
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

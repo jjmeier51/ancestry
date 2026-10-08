@@ -1,0 +1,40 @@
+{
+  "id": "H0126",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Dwyer's register readings and her 1896 obituary."
+  },
+  "sex": "F",
+  "aka": [
+    "Anastasia Boney Connole",
+    "Ann (Boner) Connole",
+    "Anty Boney",
+    "Anna S. Heppen",
+    "Anastasia Heffernan"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "Aunt by marriage of John's 3rd-great-grandfather Andrew H. Heffernan (wife of his uncle Richard), possibly also his blood aunt, and later stepmother of his wife Mary Connole.",
+  "bio": "Anastasia ('Anty') Boney married Richard Heffernan (bapt. 1806) at Gortnahoe on 12 Feb 1827; they lived at Mardyke; Richard died in Ireland and she emigrated to Plymouth with her children. In the 1860 Plymouth census, as 'Anna S. Heppen', 47, she lived with son James and Jeremiah Boney, 30 (probable relative). After 1860 she became the second wife of the widower Thomas Connole, making her Mary Connole's stepmother. She died at Plymouth on 3 Aug 1896 aged 84. Her obituary says she married twice, her first husband died in Ireland, her children were James Heffernan and Katherine Heffernan Grimes, and her stepchildren were Mrs. Andrew Heffernan, John F. Connole and Mrs. William Dalley; John F. Connole's obituary calls her 'Ann (Boner) Connole'. Surviving children: Catherine (1833-1908, m. Edmund Grimes), John (1835-1891, m. Margaret Fennelly), James (1838-1910, m. Ellen Kelly). The deep-dive report proposed she and Catherine Boney were sisters married to two Heffernans; Dwyer does not state it, so it stays probable-unproven.",
+  "sources": [
+    "Find a Grave 162159301: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=162159301",
+    "Find a Grave 183145812 (John F. Connole obituary): https://www.findagrave.com/memorial/183145812/john_francis-connole",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "1860 Plymouth census"
+  ],
+  "openQuestions": [
+    "Her Gortnahoe baptism (c.1806-13) - daughter of Thomas Boney & Jude Quigley?"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Anastasia Boney (b. 1812)",
+    "line": 5733
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

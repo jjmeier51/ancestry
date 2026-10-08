@@ -1,0 +1,27 @@
+{
+  "id": "I282695503070",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only (surname truncated 'SCHLEMM…'); Schlemmer listed among the Black Forest surnames with no notable descendants found."
+  },
+  "aka": [
+    "Maria Schlemmer (probable reading)"
+  ],
+  "tags": [],
+  "summary": "Tree-shown 7th great-grandmother of John; unverified.",
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)",
+    "notes/round2/black_forest.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2511
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

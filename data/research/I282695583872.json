@@ -1,0 +1,37 @@
+{
+  "id": "I282695583872",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree-only parent of Hannah Reeve; drops out because Hannah belongs to Joshua Tuthill's marriage. Also doubtful: the only Deborah Satterly found was born c.1705 (McCurdy p12609)."
+  },
+  "aka": [
+    "JAMES R REEVES (tree)",
+    "James Reeve"
+  ],
+  "tags": [],
+  "summary": "Tree-only; not John's ancestor (Reeve line at risk/removed).",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "JAMES R REEVES 1672–1732 (gravestone image)"
+    }
+  ],
+  "sources": [
+    "McCurdy p12609, https://mccurdyfamilylineage.com/ancestry/p12609.htm",
+    "Uploaded deep-dive report"
+  ],
+  "mediaKnown": [
+    "Tree gravestone image"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8490
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

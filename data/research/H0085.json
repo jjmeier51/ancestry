@@ -1,0 +1,28 @@
+{
+  "id": "H0085",
+  "link": {
+    "confidence": "possible",
+    "note": "GEDBAS 53093; speculative at this depth; death year printed 'about 1933' in the file, an obvious typo probably for 1633 (Thirty Years' War)."
+  },
+  "sex": "M",
+  "aka": [
+    "Christmann Grub of Oberbrombach"
+  ],
+  "tags": [],
+  "summary": "John's 10th-great-grandfather (speculative); of Oberbrombach, Birkenfeld district. His parents Hanns Grub and Elsa would be 11th-great-grandparents.",
+  "bio": "Christmann Grub of Oberbrombach and his wife Margaretha were parents of Caspar Grub (b. 1616); through them the file reaches Hanns Grub and Elsa. The file's death year 'about 1933' is a typo, probably for 1633.",
+  "sources": [
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191900: https://gedbas.genealogy.net/person/show/1193191900"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Christmann Grub (b. unknown)",
+    "line": 4833
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "H0124",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "Brother of John's 3rd-great-grandfather Andrew H. Heffernan.",
+  "bio": "Baptized 29 Aug 1852; DL&W railroad brakeman; died at Wilkes-Barre 16 Nov 1904. His obituary (W-B Times 17 Nov 1904) calls him 'for the past forty years a resident of this valley', and the 1900 census gives his immigration as 1866 - the basis for dating the family's emigration to c.1864-66.",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (citing Wilkes-Barre Times 17 Nov 1904)"
+  ],
+  "occupation": "Railroad brakeman (DL&W)",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "John Heffernan (b. 1852)",
+    "line": 5699
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

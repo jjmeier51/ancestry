@@ -1,0 +1,26 @@
+{
+  "id": "H0027",
+  "link": {
+    "confidence": "probable",
+    "note": "FS tree; 'Freiburg' birthplace unverified (may be Munzingen)."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 4th great-aunt; youngest sibling of Friedrich Mayer.",
+  "bio": "Married Joseph Spinner; their son Franz (b. 1870 Freiburg) married Rosalie Lienert at Munzingen in 1897.",
+  "sources": [
+    "FamilySearch tree",
+    "notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3171
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

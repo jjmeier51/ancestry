@@ -1,0 +1,51 @@
+{
+  "id": "I282695584129",
+  "link": {
+    "confidence": "probable",
+    "note": "Named 'Margaret' as Casper Doll's wife in the 1757 Tohickon baptism; dates from tree/gravestone image; origin speculative."
+  },
+  "birth": {
+    "date": "1724",
+    "place": "Eschweiler, Zweibrucken, Rheinland-Pfalz, Germany"
+  },
+  "death": {
+    "date": "1790",
+    "place": "Easton, Northampton, Pennsylvania, USA"
+  },
+  "aka": [
+    "Anna M. Dietz",
+    "Margaret Dietz",
+    "Margaret Doll"
+  ],
+  "tags": [],
+  "summary": "John's 7th-great-grandmother per the tree; wife of Johann Casper Doll.",
+  "bio": "Shown in the tree as 'Anna M. Dietz' 1724-1790 with a gravestone image; recorded as 'Margaret' in the 1757 Tohickon Reformed baptism of daughter Anna Catharine. WikiTree (Dietz-563) gives her birthplace as Zweibrücken without a source (speculative); several Dietz families from Eschweiler and Rieschweiler in Zweibrücken settled in Plainfield Twp.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Anna M Dietz 1724-1790 (gravestone image)"
+    }
+  ],
+  "sources": [
+    "WikiTree Dietz-563: https://www.wikitree.com/wiki/Dietz-563",
+    "WikiTree Dietz-184 (Plainfield Dietz families): https://www.wikitree.com/wiki/Dietz-184",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "mediaKnown": [
+    "Tree profile: gravestone image"
+  ],
+  "openQuestions": [
+    "Her origin and parents."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Anna Margaretha Dietz (b. 1724)",
+    "line": 4614
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

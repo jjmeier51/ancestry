@@ -1,0 +1,40 @@
+{
+  "id": "I282695583910",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only. No online record ties John Young and Anna Maria Doll together or names them as Mary Young's parents; the identical 1751-1813 dates for both spouses look like placeholders."
+  },
+  "aka": [
+    "Johannes Jung"
+  ],
+  "tags": [],
+  "summary": "John's 6th-great-grandfather per the tree (father of Mary Young Croup) - unproven.",
+  "bio": "The tree shows John Young Sr (1751-1813), with a document image, as father of Mary Young. 'Young' is too common in Northampton County to resolve online, and both he and his wife carry identical 1751-1813 dates. Lead (speculative): a 'Johannes Young/Jung' heads both lists of the 1754 Phoenix, the same ship as Andreas Grub; if he came from the Kusel area he could be the father of a John b. 1751 (then a 3-year-old, not listed by name). The Jettenbach Grubs had married Jungs for generations. Plumb's 1885 History of Hanover's John Young is a 1770s Paxtang/Lancaster 'Stewart associate', a different man. No SAR record for a John Young of Northampton was found.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "John Young Sr 1751-1813 (document image)"
+    }
+  ],
+  "sources": [
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "Strassburger & Hinke, Pennsylvania German Pioneers vol. 1: https://archive.org/details/pennsylvaniagerm42stra List 222 A/B",
+    "Plumb, History of Hanover Township (1885) (negative)",
+    "research/notes/pa_lines.md 1.4; round3/german_origins.md"
+  ],
+  "openQuestions": [
+    "Plainfield/Forks/Easton St. John's Lutheran and Reformed registers (Ancestry coll. 2451) for a John Young x Anna Maria Doll marriage c.1770-75 and Mary's baptism.",
+    "Northampton militia rolls, tax and oath lists (patriotic service for DAR/SAR)."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "John Young Sr. (b. 1751)",
+    "line": 4503
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

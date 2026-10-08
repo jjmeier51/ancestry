@@ -1,0 +1,29 @@
+{
+  "id": "H0140",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "aka": [
+    "Dr. Thomas J. Dailey"
+  ],
+  "tags": [],
+  "summary": "John's 1st cousin 4x removed (son of Nora Connole); Dr. Thomas J. Dailey, Plymouth eye, ear, nose and throat specialist.",
+  "bio": "Born 1884, son of William Dailey and Nora Connole; Penn Medicine 1909; eye, ear, nose and throat specialist in Plymouth.",
+  "sources": [
+    "Harvey & Smith vol. VI p.~422: https://archive.org/details/historyofwilkesb06harv"
+  ],
+  "occupation": "Physician (EENT)",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Joseph Dailey (b. 1884)",
+    "line": 5974
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

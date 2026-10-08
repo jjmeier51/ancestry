@@ -1,0 +1,26 @@
+{
+  "id": "H0362",
+  "link": {
+    "confidence": "possible",
+    "note": "FS tree only (Round 2 'probable'; Round 3 origins map marks Carife 'speculative')."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Possible younger sister of John Petriello (John's 2nd great-grandaunt).",
+  "bio": "FS tree: Filomena Petriello b. 16 Dec 1885 at Carife, the comune next to Guardia. Grazia would have been about 40.",
+  "sources": [
+    "FS tree GQWR-RPT / G44P-XYT",
+    "notes/round2/italian_gaps.md 4; notes/round3/italian_origins.md origins map"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Filomena Petriello (b. 1885)",
+    "line": 11749
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "I282695503559",
+  "link": {
+    "confidence": "confirmed",
+    "note": "As father of Mary Cognetti and husband of Helen: confirmed by obituaries (Joseph F. 'son of the late Frank and Helen Cognetti'; Anthony R.; Leo S.) and census images 1920/1930/1950. His parentage (son of Giovanni Cognetta of Dasà) is only probable (tree only)."
+  },
+  "birth": {
+    "date": "BET 1890 AND 1892",
+    "place": "Italy"
+  },
+  "occupation": "Coal-mine laborer (1920); hoisting engineer at a coal breaker (1930); mechanic (1940); conveyor-line repairman, coal mines (1950)",
+  "aka": [
+    "Francesco Cognetta"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's maternal great-grandfather; Italian-born Scranton coal-breaker hoisting engineer and conveyor repairman, husband of Helen Ferlaino.",
+  "bio": "Tree: Frank Cognetti (b. 1895), husband of Helen (b. 1896), son of Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863). FS tree GJB1-P6Y: born 1892, immigrated 1907. Census evidence (images read): age 29 in Jan 1920, 38 in Apr 1930, 59 in Apr 1950, so born in Italy c.1890-92 (the tree's 1895 is too late). Immigrated 1907 (1930 census) or 1908 (1920). Alien in 1920; naturalized by 1930. Married Helen c.1912-13 when he was 21 and she 16 (1930 census ages at first marriage); first child Ralph born Aug 1913, so he was in Scranton by 1912 at the latest (Round 1 said by 1913). In the 1920 census (Scranton Ward 2, ED 105, sheet 2A, enumerated 2-3 Jan 1920) he is listed as a 'boarder' (in effect son-in-law), 29, married, born Italy, alien, coal-mine laborer, in the household of his widowed mother-in-law Josephine 'Farino' (Ferlaino) at 1306 Diamond Avenue, with his sons Ralf, Salvador and Joseph listed as grandsons. Occupations: coal-mine laborer (1920); hoisting engineer at a coal breaker (1930); 'mechanic' (son Ralph's 1940 marriage license); repairs conveyor line, coal mines (1950). Home: 612 Philo St, Scranton (Ward 2, near Diamond Ave), owned, valued at $5,000 in 1930; still there in 1940-50 (1940 and 1943 licenses). Birthplace (comune) not found: no WWI or WWII draft card reachable; FS has no draft card or naturalization attached. The FS tree attaches a second wife 'Philomena' to him with no sources (she appears only as Leopold's mother); every census and license shows Helen as mother of all the children, so this is probably an error (or Helen's Italian name - speculative). DO NOT MERGE with the other Scranton/Dunmore Frank Cognetti (1894-1978) from Nicastro, son of Bruno Cognetto, husband of Maria Grazia Paradiso (FS P7MS-NB2), nor with 'Frank and Mary Grace Paradise Cognetti', parents of Victor L. Cognetti (same Nicastro family). Caution on Dasà: Dasà's emigrants went mainly to Stamford, CT; paese.app records no Cognetta/Cognetti arrival from Dasà (Calabrian Cognetti arrivals 1830-1912 came from Cropani, CZ, 4 people); an FS-tree Vincenzo Cognetta (1891-1958) married at Laureana di Borrello in 1914 (GD4C-85X), about 20 km from Dasà. Web searches for his death or naturalization found nothing; his death date is not recorded in the files.",
+  "residences": [
+    {
+      "date": "1920",
+      "place": "1306 Diamond Avenue, Scranton Ward 2, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1930",
+      "place": "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1940",
+      "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1950",
+      "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Immigration",
+      "date": "1907",
+      "place": "USA",
+      "description": "1930 census says 1907; 1920 census says 1908; FS tree says 1907"
+    },
+    {
+      "title": "Naturalization",
+      "date": "BET 1920 AND 1930",
+      "description": "Alien in 1920, naturalized by 1930 (census)"
+    }
+  ],
+  "facts": [
+    {
+      "label": "House value 1930",
+      "value": "$5,000, owned"
+    },
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Frank Cognetti 1895-Deceased"
+    }
+  ],
+  "sources": [
+    "1920 US census, Scranton Ward 2, ED 105, sheet 2A: https://familysearch.org/ark:/61903/1:1:MFBR-YF8 ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/0/image.jpg",
+    "1930 US census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3NN-88N/images/i/0/image.jpg ; index XH3R-XB1 https://familysearch.org/ark:/61903/1:1:XH3R-XB1",
+    "1950 US census 6X1W-37K9: https://familysearch.org/ark:/61903/1:1:6X1W-37K9 ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg",
+    "Ralph's 1940 marriage license No. 817 image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg",
+    "FamilySearch tree GJB1-P6Y (Frank Cognetti, b. 1892, immig. 1907)",
+    "Obituaries of Joseph F. (https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?pid=127764806), Anthony R. (https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273), Leo S. (https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745)",
+    "notes/round2/italian_gaps.md section 3; notes/round3/italian_origins.md section 4"
+  ],
+  "mediaKnown": [
+    "1920, 1930, 1950 census images (FamilySearch published sources)"
+  ],
+  "openQuestions": [
+    "Exact birth date and comune (Dasà?) - 1942 WWII 'old man's' draft card, WWI 1917-18 draft card, naturalization file",
+    "Death date/place and death certificate",
+    "Link to Giovanni Cognetta (probable, tree only)",
+    "Marriage license c.1912-13 (Lackawanna Co. Orphans' Court)",
+    "FS second wife 'Philomena' - error?"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Frank Cognetti (b. 1891)",
+    "line": 10032
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry tree: Cognetti family and Cognetta ancestors (1 of 2)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282695503559/ancestry-screenshot-img-7833.jpg",
+      "people": [
+        "I282695503581"
+      ]
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Cognetti family and Cognetta ancestors (2 of 2)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282695503559/ancestry-screenshot-img-7834.jpg",
+      "people": [
+        "I282695503581"
+      ]
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: Abt 1895; research: BET 1890 AND 1892."
+    }
+  ]
+}

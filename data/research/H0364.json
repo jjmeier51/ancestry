@@ -1,0 +1,25 @@
+{
+  "id": "H0364",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Guardia marriage index 1855 #23."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Half-sister (probable) of Grazia Di Marino; John's 3rd great-grandaunt (half).",
+  "bio": "Daughter of Gaetano and Maria d'Ambrosio; married Giuseppe Petriello (son of Carmine and Maria Marra) 26 Dec 1855. Key evidence that Maria d'Ambrosio was Gaetano's earlier wife.",
+  "sources": [
+    "Antenati index 1855 #23: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/wRvYlYY"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Concetta di Marino (b. unknown)",
+    "line": 11779
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

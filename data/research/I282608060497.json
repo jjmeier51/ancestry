@@ -1,0 +1,120 @@
+{
+  "id": "I282608060497",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Baptism at Killenaule 3 Apr 1842 naming parents Thomas Heffernan and Catherine Boney 'of Mardyke' (Dwyer, citing register); PA death certificate 1919; son's 1914 marriage application names him as born in Ireland."
+  },
+  "given": "Andrew H.",
+  "surname": "Heffernan",
+  "birth": {
+    "date": "1842-04-03",
+    "place": "Killenaule, County Tipperary, Ireland"
+  },
+  "death": {
+    "date": "1919-05-06",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+  },
+  "occupation": "Court House attache 'in various capacities'; clerk (1914)",
+  "aka": [
+    "Andrew Humphrey Heffernan",
+    "Andrew Heffron"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 3rd-great-grandfather; Tipperary coal-miner's son who came to Plymouth as a boy in the 1860s, worked at the Luzerne County Court House, and fathered a newspaper family and an Army aviator.",
+  "bio": "Andrew Humphrey Heffernan was baptized at Killenaule, Co. Tipperary, on 3 Apr 1842, son of Thomas Heffernan and Catherine Boney 'of Mardyke' (a colliery townland in the Slieveardagh coalfield). The tree, his obituary and a FamilySearch profile give a birth of 31 Mar 1848, which is wrong (his sister Catherine was baptized Feb 1848); Harvey & Smith's 'died in 1919 at the age of seventy-six' fits c.1843. His father died in Ireland, and his obituary says he came to America 'when very young' with 'his mother and brothers' and settled in Larksville; his brother John's obituary and the 1900 census put that arrival about 1864-66, while Harvey says 'about 1861'. On 1 Sep 1868 he married Mary Connole at Plymouth (a 1 Sep 1918 Sunday Independent piece was headed 'Married Fifty Years'). Mary's stepmother Anastasia (Boney) Connole was his own aunt by marriage (widow of his father's brother Richard), which probably explains how the couple met. His obituary describes him as 'an attache of the Court house in various capacities', not a miner, and mentions no Civil War service. In 1914 his son's Philadelphia marriage application described him as a clerk born in Ireland. They had ten surviving children. He died at Wilkes-Barre on 6 May 1919 (PA death certificate dated 8 May 1919, cited by Dwyer); Harvey vol. V's 'died in 1912' is an error. The death certificate gives burial at St. Vincent's, Plymouth, on 9 May 1919, the deep-dive report places him in St. Vincent DePaul Cemetery, Larksville (Find a Grave 139403710), and Dwyer notes his tombstone is in St. Mary's, Hanover Twp.",
+  "funFacts": [
+    "The Heffernans mined anthracite in Tipperary's Slieveardagh field before the family came to the Pennsylvania anthracite field.",
+    "His wife's stepmother was also his aunt."
+  ],
+  "residences": [
+    {
+      "date": "1842",
+      "place": "Mardyke, Killenaule, County Tipperary, Ireland"
+    },
+    {
+      "date": "ABT 1865",
+      "place": "Larksville, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1914",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Baptism",
+      "date": "1842-04-03",
+      "place": "Killenaule, County Tipperary, Ireland",
+      "description": "Son of Thomas Heffernan and Catherine Boney 'of Mardyke' (Dwyer, citing Killenaule register)."
+    },
+    {
+      "title": "Emigration",
+      "date": "BET 1861 AND 1866",
+      "place": "Ireland to Luzerne County, Pennsylvania",
+      "description": "With widowed mother and brothers; Harvey says about 1861; brother John's 1900 census gives 1866."
+    },
+    {
+      "title": "Marriage",
+      "date": "1868-09-01",
+      "place": "Plymouth, Luzerne County, Pennsylvania, USA",
+      "description": "To Mary Connole."
+    },
+    {
+      "title": "Death",
+      "date": "1919-05-06",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+      "description": "PA death certificate (8 May 1919)."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Andrew H Heffernan 1848-1919 (photo of elderly man in fur hat)"
+    },
+    {
+      "label": "Find a Grave",
+      "value": "139403710"
+    },
+    {
+      "label": "Burial conflict",
+      "value": "St. Vincent's, Plymouth/Larksville (death cert; Find a Grave) vs tombstone at St. Mary's, Hanover Twp. (Dwyer)"
+    }
+  ],
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
+    "Harvey & Smith vol. V, Dr. A. J. Heffernan sketch ('died in 1912' - error): https://archive.org/details/historyofwilkesb05harv",
+    "Find a Grave 139403710 (obituary): https://www.findagrave.com/memorial/139403710/andrew-h-heffernan",
+    "Philadelphia marriage application of Dr. Andrew J. Heffernan x Lillian T. MacDonald, 24 Nov 1914: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L2G4-NQW/images/i/1/image.jpg",
+    "Sunday Independent, 1 Sep 1918, 'Married Fifty Years' (cited by Dwyer)",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "mediaKnown": [
+    "Tree profile photo: elderly man in fur hat"
+  ],
+  "openQuestions": [
+    "Exact arrival year (1861 vs 1864-66) - passenger list or naturalization record.",
+    "Burial: St. Vincent's vs St. Mary's, Hanover Twp."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Andrew H. Heffernan (b. 1842)",
+    "line": 3985
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Andrew Humphrey Heffernan\"; research uses \"Andrew H. Heffernan\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 31 Mar 1848; research: 1842-04-03."
+    }
+  ]
+}

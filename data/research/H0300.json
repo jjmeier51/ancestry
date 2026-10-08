@@ -1,0 +1,40 @@
+{
+  "id": "H0300",
+  "link": {
+    "confidence": "probable",
+    "note": "Pelletreau App. p. 472 and F. K. Smith pp. 119–122 (Drive screenshots) trace the path."
+  },
+  "sex": "M",
+  "aka": [
+    "Rear Adm. Theodorus Bailey"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "Union rear admiral, Farragut's second-in-command at New Orleans 1862; John's 4th cousin 7x removed via Bull Smith.",
+  "bio": "Path: Bull Smith → Richard 2d → Richard 3rd (b. 1696) → Phebe Smith, m. (Capt.) Nathaniel Platt in 1776 → Phebe Platt, m. Judge William Bailey of Plattsburgh → Theodorus. Would have become 3C7R had Temperance been Ebenezer's daughter (ruled out). Same pages show Richard 3rd's daughter Sarah married Rev. Naphtali Daggett, later president of Yale (p. 471; in-law). F. K. Smith pp. 119–122 also list Charity Smith m. John Adams, Gloriana m. Joseph Bryant, Isaac Smith b. 30 Oct 1745 m. Margaret Field/Theal, and 'Shell Dick'.",
+  "military": [
+    {
+      "branch": "US Navy",
+      "service": "Civil War",
+      "rank": "Rear Admiral",
+      "note": "Second-in-command to Farragut at the capture of New Orleans, 1862."
+    }
+  ],
+  "sources": [
+    "Pelletreau (1898) App. pp. 471–472",
+    "F. K. Smith (1967) pp. 119–122 (screenshots in John's Drive)",
+    "Uploaded deep-dive report"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9388
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

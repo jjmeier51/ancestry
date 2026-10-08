@@ -1,0 +1,56 @@
+{
+  "id": "I282824799075",
+  "link": {
+    "confidence": "probable",
+    "note": "Identity as Catherine's mother confirmed by the 1850 census; maiden name 'Watson' only probable (Find a Grave index 'Julia A Watson Scott'); her parents speculative."
+  },
+  "birth": {
+    "date": "ABT 1809",
+    "place": "Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1893-10",
+    "place": "Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Julia Ann Scott",
+    "Julia A. Watson Scott"
+  ],
+  "tags": [],
+  "summary": "John's 4th-great-grandmother; wife of Stephen Scott of Kingston, probably born Watson.",
+  "bio": "Julia Ann was 41 and born in Pennsylvania in the 1850 Kingston census (so born c.1809; tree 1809-1893 as a 'Potential' hint). Bradsby (1893) said she was born in Connecticut and was 94 and living in 1893 (implying c.1799), which Round 3 judged wrong on ages. FamilySearch (KG4S-GMT) gives her death in Oct 1893 and burial at Forty Fort Cemetery on 10 Oct 1893. The maiden name 'Watson' was unsourced in Rounds 1-2; Round 3 found the Find a Grave index on FamilySearch reading 'Julia A Watson Scott', Forty Fort (probable). FamilySearch makes her a daughter of George Watson (b. Mansfield, Notts., 6 Apr 1778; Huntington Twp 1810, Dallas 1820; d. 1830 Fairmount Springs) but pairs him with Ann Nancy Waterman (b. Norwich CT 1780, d. Barrington RI 1809), who had her own Julia Ann Watson b. Bristol RI 17 Jul 1809 - a clear merge of two families. No Scots-Irish evidence was found for either Scott or Watson.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Julia Ann Watson 1809-1893 ('Potential' hint)"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "KG4S-GMT"
+    },
+    {
+      "label": "Burial",
+      "value": "Forty Fort Cemetery, 10 Oct 1893"
+    }
+  ],
+  "sources": [
+    "1850 census Kingston Twp (as above)",
+    "FamilySearch KG4S-GMT: https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-GMT",
+    "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Prove maiden name Watson and parents: her Oct 1893 death notice in the Wilkes-Barre papers; Forty Fort cemetery records; Connecticut Barbour Collection for a Scott-Watson marriage c.1815-28."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Julia Ann Watson (b. 1809)",
+    "line": 4105
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

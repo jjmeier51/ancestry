@@ -1,0 +1,27 @@
+{
+  "id": "H0245",
+  "link": {
+    "confidence": "probable",
+    "note": "WikiTree Aldridge-218; Bucks Bishop's Transcripts."
+  },
+  "sex": "F",
+  "aka": [
+    "Emme Aldridge"
+  ],
+  "tags": [],
+  "summary": "John's 12th-great-grandmother.",
+  "sources": [
+    "WikiTree Aldridge-218"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 14 (12th-great-grandparents)",
+    "line": 8138
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

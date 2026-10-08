@@ -1,0 +1,30 @@
+{
+  "id": "H0302",
+  "link": {
+    "confidence": "probable",
+    "note": "jrm I2596 quoting F. K. Smith 1967; Wikipedia."
+  },
+  "sex": "M",
+  "aka": [
+    "Judge J. Lawrence Smith"
+  ],
+  "tags": [],
+  "summary": "Suffolk County DA and county judge; John's 5th cousin 6x removed; his heirs held the blunderbuss 'Old Crib' in 1898.",
+  "bio": "Path: Bull Smith → Richard 2d → Sarah (m. Nathaniel Woodhull) → Gen. Nathaniel Woodhull → Elizabeth (m. Henry Nicoll) → Eliza Willett Nicoll (m. Richard Smith) → J. Lawrence. His Smith surname also comes through his father's own Smithtown line.",
+  "sources": [
+    "jrm Needham I2596",
+    "Pelletreau App. p. 461",
+    "notes/round2/colonial_cousins.md §2b"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9422
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "H0333",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1896 Bisaccia marriage act 18 (Antenati image) names his parents Savino and Angelamaria Fede; 1920 Declaration of Intention No. 16537 (image) gives birth 2 May 1869 Bisaccia and the 133 Sand St address shared with daughter Mollie in 1931; 1931 license names Mollie's father Frank, blacksmith. Death 1934 is probable (FS tree)."
+  },
+  "sex": "M",
+  "aka": [
+    "Francesco Giannetta",
+    "Frank Gianetta",
+    "Frank Genett",
+    "Frank Gennetti"
+  ],
+  "tags": [
+    "foundling",
+    "immigrant"
+  ],
+  "summary": "John's maternal 2nd great-grandfather; Bisaccia-born blacksmith of Dunmore, father of Carmela 'Mollie' Gianetta.",
+  "bio": "Not in the Ancestry tree; identified in Round 2. FS tree LCPG-XKM (14-17 sources): Francesco 'Frank' Giannetta/Genett, b. 2 May 1869 Bisaccia (AV), son of Savino Giannetta (b. 1842) and Angelamaria Fede; immigrated about 1906; naturalized in Scranton (1920/1923, Middle District Court); lived in Dunmore Ward 5 1910-30; died in Dunmore 1934. 1931 marriage license of his daughter: father Frank, a blacksmith born in Italy, living in Dunmore. Round 3 read his Declaration of Intention No. 16537, US District Court, Scranton, 12 Jul 1920, under the name 'Frank Gennetti': born 2 May 1869 'Bisiccio' [Bisaccia]; aged 50; laborer; of 133 Sand St, Dunmore (Mollie's 1931 address); sailed from Naples on the SS Italia, arriving New York c.15 Apr 1903 (FS profile says 1906); last foreign residence Bisaccia; wife Angelina born in Italy. Marriage, Bisaccia, 1 Aug 1896, Matrimoni 1896 act 18 (FS's '1886' is a typo; Round 2 had flagged 1886 as impossible since Angelica would have been about 12): groom 27, possidente, son of the living Savino and Angelamaria Fede; bride Angelica Ferrantino, 23, born Sant'Angelo dei Lombardi, resident in Bisaccia, foundling. paese.app counts 916 US arrivals from Bisaccia 1830-1912, peaking in 1906, the year FS says he came. Bisaccia is about 12 km from Guardia Lombardi.",
+  "residences": [
+    {
+      "date": "1896",
+      "place": "Bisaccia, Avellino, Campania, Italy"
+    },
+    {
+      "date": "1910",
+      "place": "Dunmore Ward 5, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1920",
+      "place": "133 Sand St, Dunmore, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1930",
+      "place": "Dunmore Ward 5, Lackawanna County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1896-08-01",
+      "place": "Bisaccia, Avellino, Campania, Italy",
+      "description": "Matrimoni 1896, act 18"
+    },
+    {
+      "title": "Immigration",
+      "date": "ABT 1903-04-15",
+      "place": "New York, New York, USA",
+      "description": "SS Italia from Naples per 1920 Declaration of Intention; FS tree says 1906"
+    },
+    {
+      "title": "Declaration of Intention",
+      "date": "1920-07-12",
+      "place": "Scranton, Lackawanna County, Pennsylvania, USA",
+      "description": "No. 16537, US District Court, as 'Frank Gennetti'"
+    },
+    {
+      "title": "Naturalization",
+      "date": "BET 1920 AND 1923",
+      "place": "Scranton, Lackawanna County, Pennsylvania, USA",
+      "description": "Middle District Court (FS index 6KBJ-T9JV)"
+    }
+  ],
+  "sources": [
+    "Declaration of Intention No. 16537 image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/2/image.jpg",
+    "Antenati, Bisaccia, Matrimoni 1896, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua445513/5glz731 ; index https://antenati.cultura.gov.it/ark:/12657/an_ua445513/LN8A9jl",
+    "FamilySearch tree LCPG-XKM: https://ancestors.familysearch.org/en/LCPG-XKM",
+    "1910 census MGZ8-YF8: https://familysearch.org/ark:/61903/1:1:MGZ8-YF8",
+    "Naturalization index 6KBJ-T9JV: https://familysearch.org/ark:/61903/1:1:6KBJ-T9JV",
+    "paese.app Bisaccia: https://paese.app/regioni/campania/avellino/bisaccia",
+    "notes/round2/italian_gaps.md 1; notes/round3/italian_origins.md 3"
+  ],
+  "mediaKnown": [
+    "Declaration of Intention image",
+    "1896 marriage act image (Antenati)"
+  ],
+  "openQuestions": [
+    "Birth act: Bisaccia Nati 1869 register is not on Antenati (try FamilySearch microfilm)",
+    "SS Italia 1903 manifest",
+    "PA death certificate 1934"
+  ],
+  "occupation": "Possidente (1896); blacksmith (1931 license); laborer (1920 declaration)",
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Frank Giannetta (b. 1869)",
+    "line": 10127
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

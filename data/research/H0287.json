@@ -1,0 +1,38 @@
+{
+  "id": "H0287",
+  "link": {
+    "confidence": "probable",
+    "note": "Thompson path confirmed in published genealogy (Thompson vol. 3 pp. 292–297); depends on the probable links above Keturah."
+  },
+  "sex": "M",
+  "tags": [
+    "military"
+  ],
+  "summary": "John's 2nd cousin 9x removed via John Thompson (closer than the 3C8R first reported; also 3C8R via Bull Smith, 4C8R via Topping, 3C9R via Brewster — the last affected by the Brewster disproof); husband of Culper spy Anna Strong.",
+  "bio": "Path: John Thompson → Samuel → Susannah (m. Thomas Strong) → Selah. A great-great-grandson of Bull Smith. Delegate to the Provincial Congress, Revolutionary captain, later county judge; held on a British prison ship. His wife Anna Smith Strong is NOT a blood relative (different Smith family). A Selah Strong of Orange County was executor for James Tuthill Jr. (1756) and witness for Daniel Tuthill (1761) — possibly a namesake relative (not established).",
+  "military": [
+    {
+      "service": "American Revolution",
+      "rank": "Captain",
+      "note": "Held on a British prison ship."
+    }
+  ],
+  "sources": [
+    "Thompson, History of Long Island vol. 3 pp. 292–297",
+    "Appletons' Cyclopaedia vol. 5 p. 760 (Wikisource)",
+    "Underhill Society, https://underhillsociety.org/2017-setauket-pictures",
+    "Wikipedia: Anna Smith Strong",
+    "notes/colonial_virginia.md §3b"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9189
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

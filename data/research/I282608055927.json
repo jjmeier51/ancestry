@@ -1,0 +1,46 @@
+{
+  "id": "I282608055927",
+  "link": {
+    "confidence": "probable",
+    "note": "Daughter of William Wells by his second wife Mary (Hayes 1878; WikiTree Wells-639); probable as ancestor (depends on James→John link)."
+  },
+  "birth": {
+    "date": "1666",
+    "place": "Southold, Suffolk County, New York, USA"
+  },
+  "death": {
+    "date": "1742",
+    "place": "Long Island, NY, Southold"
+  },
+  "aka": [
+    "Mehitable Tuthill"
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandmother, daughter of Southold founder William Wells.",
+  "bio": "Born 1666 to William Wells and his second wife Mary (surname unknown). The tree names her mother 'Mary Maria YOUNGS 1619–1709', a tradition rejected by Hayes (1878) and Youngs (1907). Her sons James and Joshua were full brothers, so the Wells descent survives the tree's James/Joshua confusion — the deep-dive report notes this makes William Wells the best Society of Colonial Wars route.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Mehitable Wells 1666–1742 ('Born in Colonial America' image); parents William Wells, Firs… 1608–1671 + Mary Maria YOUNGS 1619–1709"
+    }
+  ],
+  "sources": [
+    "Hayes, William Wells of Southold (1878), https://archive.org/details/williamwellsofso00byuhaye",
+    "WikiTree Wells-639",
+    "Akerly (1898)"
+  ],
+  "mediaKnown": [
+    "Tree card image 'Born in Colonial America'"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 11 (9th-great-grandparents)",
+    "line": 7598
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

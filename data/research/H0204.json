@@ -1,0 +1,25 @@
+{
+  "id": "H0204",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 5th-great-grand-aunt.",
+  "bio": "Elizabeth (Grub) Michael (1761 - after 1826), m. Peter Michael.",
+  "sources": [
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Elizabeth Grub (b. 1761)",
+    "line": 7043
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

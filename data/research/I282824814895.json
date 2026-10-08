@@ -1,0 +1,63 @@
+{
+  "id": "I282824814895",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Death act Morti 1916 act 22 (image read) names her parents Gaetano and Caterina Di Leo and husband Pietro Petriello; son's 1869 birth act names her 'Grazia di Marino di Gaetano'."
+  },
+  "given": "Grazia",
+  "surname": "Di Marino",
+  "birth": {
+    "date": "ABT 1845",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "death": {
+    "date": "1916-05-09",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "occupation": "Contadina",
+  "aka": [
+    "Grazia Dimarino"
+  ],
+  "tags": [],
+  "summary": "John's maternal 3rd great-grandmother; contadina of Guardia Lombardi, mother of John Petriello.",
+  "bio": "Tree: Grazia Di Marino (b. 1837), daughter of Gaetano di Marino (1795-1876) + Maria d'Ambrosio. Round 2 found a conflict: the FS tree makes her the daughter of Gaetano Di Marino and Caterina di Leo, born c.1837. Round 3 resolved it: death act, Guardia, 9 May 1916, aged 71 (so born c.1845, not 1837), contadina, daughter of the late Gaetano and the late Caterina Di Leo, widow of Pietro Petriello (Morti 1916, act 22). Her mother is therefore Caterina di Leo; Maria d'Ambrosio was probably Gaetano's earlier wife (mother of Concetta di Marino, m. 1855). The tree conflated the two wives. Probable full sister: Maria di Marino, daughter of G[aetano] and Caterina di Leo, m. Nicola di Pietro 12 Feb 1857. Note: if Grazia was born c.1845 and Maria married in 1857, Maria was the elder. A daughter Filomena was born 16 Dec 1885 at Carife per FS (speculative). The surname di Leo matches Fr. Nunzio Di Leo, whose will funded Guardia's St. Rocco chapel after the 1656 plague.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Grazia Di Marino 1837-Deceased"
+    }
+  ],
+  "sources": [
+    "Antenati, Guardia Lombardi, Morti 1916, act 22: https://antenati.cultura.gov.it/ark:/12657/an_ua524131/wj7o8Qr",
+    "Antenati, Guardia Lombardi, Nati 1869, act 110: https://antenati.cultura.gov.it/ark:/12657/an_ua524165/5vaJMry",
+    "FamilySearch tree GQWR-RPT / G44P-XYT",
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 4; notes/round3/italian_origins.md 1"
+  ],
+  "mediaKnown": [
+    "1916 death act image (Antenati)"
+  ],
+  "openQuestions": [
+    "Birth act c.1845 (Guardia Nati)",
+    "Marriage to Pietro Petriello (c.1863-68)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Grazia Di Marino (b. 1845)",
+    "line": 10284
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Grazia Di Marino (Petriello)\"; research uses \"Grazia Di Marino\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: Abt. 1837; research: ABT 1845."
+    }
+  ]
+}

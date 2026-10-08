@@ -1,0 +1,26 @@
+{
+  "id": "H0205",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probably John's 6th-great-grand-uncle.",
+  "bio": "Johann Peter Grub (1724-1802), presumed brother of Andreas, arrived on the Windsor in 1753 and settled in Williams Twp.",
+  "sources": [
+    "WikiTree Grub-87: https://www.wikitree.com/wiki/Grub-87",
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed)"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Johann Peter Grub (b. 1724)",
+    "line": 7059
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

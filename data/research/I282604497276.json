@@ -1,0 +1,32 @@
+{
+  "id": "I282604497276",
+  "link": {
+    "confidence": "probable",
+    "note": "FS L85M-P2Q (1880 census)."
+  },
+  "birth": {
+    "date": "ABT 1845",
+    "place": "England"
+  },
+  "tags": [],
+  "summary": "John's 3rd great-grandmother; English-born wife of Edward F. Jones.",
+  "sources": [
+    "FamilySearch L85M-P2Q",
+    "notes/round3/irish_pa.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2002
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: Aug 1847; research: ABT 1845."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "H0250",
+  "link": {
+    "confidence": "probable",
+    "note": "Burial at St Mary, Saxlingham Nethergate, 21 Nov 1618 (FreeREG) is not explicitly tied to Henry's father."
+  },
+  "sex": "M",
+  "aka": [
+    "John Tuttill",
+    "John Tuthill of Saxlingham"
+  ],
+  "tags": [],
+  "summary": "John's 13th-great-grandfather, of Saxlingham, Norfolk; linked by Akerly to the armigerous Tuthills.",
+  "bio": "Akerly links him to the armigerous Tuthills: 'Or, on a chevron azure three crescents argent', arms on the tomb at Trowse Newton of Elizabeth, Lady Dalyson (d. 1585), 'granddaughter of John Tuthill, of Saxlingham'. Earlier Johns of Saxlingham (b. c.1530 and c.1480) are on WikiTree without sources (speculative).",
+  "facts": [
+    {
+      "label": "Arms",
+      "value": "Or, on a chevron azure three crescents argent"
+    }
+  ],
+  "sources": [
+    "FreeREG Saxlingham Nethergate burials",
+    "Akerly (1898)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 15–16 (13th- and 14th-great-grandparents)",
+    "line": 8239
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

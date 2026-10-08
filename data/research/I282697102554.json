@@ -1,0 +1,57 @@
+{
+  "id": "I282697102554",
+  "link": {
+    "confidence": "probable",
+    "note": "Tree name/dates; no public record naming him found. Supported indirectly: his widow 'Josephine' headed the Ferlaino household at 1306 Diamond Ave in 1920 (widowed), and Helen's son was named Leopold. Birthplace San Mango probable (surname cluster), not documented."
+  },
+  "birth": {
+    "date": "1871",
+    "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy"
+  },
+  "death": {
+    "date": "1915",
+    "place": "Dickson, Lackawanna, Pennsylvania, USA"
+  },
+  "aka": [
+    "Leopold Farino"
+  ],
+  "tags": [],
+  "summary": "John's maternal 2nd great-grandfather; San Mango d'Aquino emigrant to Scranton's Providence section, father of Helen (Ferlaino) Cognetti.",
+  "bio": "Tree: Leopoldo Ferlaino (1871-1915) + Giuseppina Fiorillo (1871-1943), parents of Helen. Round 1 found no public record naming him or his wife and could not establish where he died in 1915 (Scranton or San Mango); the Diamond Avenue Ferlaino household was a speculative candidate for their home. Round 2: his widow headed 1306 Diamond Ave in 1920; his PA-born children Frank (c.1902-03) and Raffaela (c.1904-05) show he was in Scranton by about 1901. Helen's fifth son Leopold Salvatore was apparently named for him. San Mango cemetery index has no Leopoldo or Giuseppina, consistent with both dying in Scranton. No published FS profile under Ferlaino, Farino, Farina or Fiorillo with a Scranton tie. Antenati's San Mango coverage ends in 1860, so his 1871 birth and the Ferlaino x Fiorillo marriage (c.1890-95) cannot be reached there. Ferlaino is genuinely a San Mango family: the stati delle anime 1674-1804 have 229 Ferlaino entries (e.g. Francesco Ferlaino and Fragostina Colosimo with children Carmine, Giuseppe Antonio and others, 1771-88); a mid-1990s phone directory shows Ferlaino x24.",
+  "residences": [
+    {
+      "date": "ABT 1901",
+      "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Leopoldo Ferlaino 1871-1915 (shown as 'Potential' hint in one view)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "1920 US census, Scranton Ward 2, ED 105, sheet 2A (widow Josephine 'Farino'): https://familysearch.org/ark:/61903/1:1:MFBR-YF8",
+    "ItalianGenealogy.com forum topic 26645: https://www.italiangenealogy.com/forum/topic/26645",
+    "ItalianParishRecords.org San Mango d'Aquino stati delle anime and cemetery index: https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino",
+    "notes/italian.md 4; notes/round2/italian_gaps.md 2 and 7; notes/round3/italian_origins.md 5"
+  ],
+  "openQuestions": [
+    "PA death certificate 1915 (or Italian death act if he died in San Mango)",
+    "Birth act 1871 and Ferlaino x Fiorillo marriage c.1890-95 (San Mango 1866-1910 civil registers, FamilySearch collection / AS Catanzaro)",
+    "Immigration manifest (c.1900-1912)",
+    "1910 Scranton census for the Ferlaino household"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Leopoldo Ferlaino (b. 1871)",
+    "line": 10214
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

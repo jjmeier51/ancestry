@@ -1,0 +1,25 @@
+{
+  "id": "H0054",
+  "link": {
+    "confidence": "possible",
+    "note": "Newspaper death list only; not Anna Higgins (b. c.1893)."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Lead: 'Anna Meier (Mrs. Frederick)', d. 9 Feb 1940 Wilkes-Barre, aged 47 — possible wife of Fred Aloysius Meier, and a possible source of the tree's 1940 date for Henry.",
+  "sources": [
+    "Genealogy Trails 1940 deaths M–P http://genealogytrails.com/penn/luzerne/1940_deaths/m_n_o_p.html",
+    "notes/round2/meier_gaps.md; notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3629
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

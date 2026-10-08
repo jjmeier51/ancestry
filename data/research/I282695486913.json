@@ -1,0 +1,30 @@
+{
+  "id": "I282695486913",
+  "link": {
+    "confidence": "probable",
+    "note": "Via his grandmother Anna Symmes; depends on the James→John Tuthill link."
+  },
+  "sex": "M",
+  "aka": [
+    "President Benjamin Harrison"
+  ],
+  "tags": [],
+  "summary": "23rd U.S. President and John's only blood-related president: 6th cousin 5x removed via John Tuthill, also 7th cousin 4x removed via William Wells.",
+  "bio": "Kin only through his Long Island grandmother Anna Symmes, not through the Virginia Harrisons of Berkeley Plantation. William Henry Harrison and John Tyler are related by marriage only; Theodore Roosevelt is not kin. Harrison extension cousins (John Scott Harrison; William Henry Harrison III of Wyoming) were not researched.",
+  "sources": [
+    "Uploaded deep-dive report",
+    "notes/colonial_virginia.md §4",
+    "Wikipedia: Berkeley Plantation"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through the Tuthills and Wells (J = 11–12)",
+    "line": 9759
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

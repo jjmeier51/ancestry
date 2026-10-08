@@ -1,0 +1,29 @@
+{
+  "id": "H0342",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Savino's mother in the 1867 marriage act (image read); the surname reading 'Macchia' is uncertain (marked '?')."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's maternal 4th great-grandmother, of Bisaccia.",
+  "bio": "Mother of Savino Giannetta per Bisaccia Matrimoni 1867 act 17. The transcriber marked the surname 'Macchia(?)' as an uncertain reading of 19th-century handwriting.",
+  "sources": [
+    "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn",
+    "notes/round3/italian_origins.md 3"
+  ],
+  "openQuestions": [
+    "Confirm surname reading (Macchia?)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Lucia Macchia (b. unknown)",
+    "line": 10595
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}
