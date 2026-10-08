@@ -5420,7 +5420,7 @@ window.FAMILY_DATA = {
     },
     {
      "label": "Marriage",
-     "value": "Married Kathryn F. McGuire; widowed in 1970 and never remarried (family information, 8 Oct 2026)."
+     "value": "Married Kathryn F. McGuire; widowed in 1970 and never remarried."
     }
    ],
    "sources": [
@@ -67406,9 +67406,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0019.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Summary reworded at John's request: the \"information supplied by John Meier\" phrasing removed; the facts stand."
     }
    ],
-   "summary": "A living family member; recorded from family information supplied by John Meier.",
+   "summary": "Shannon McCarthy, John Meier's fiancée.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
@@ -67513,9 +67517,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "round5: a child; recorded by name and relationship only."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Summary reworded at John's request: the \"information supplied by John Meier\" phrasing removed; the facts stand."
     }
    ],
-   "summary": "A living family member; recorded from family information supplied by John Meier.",
+   "summary": "Luca Meier, son of Tommy Meier Jr. and Laura De Santis, and John Meier's nephew.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
