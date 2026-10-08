@@ -2,7 +2,7 @@
   "id": "I282604492910",
   "link": {
     "confidence": "confirmed",
-    "note": "The owner's mother. Her father's 2025 obituary names 'daughter Sharon Meier & son in law Tommy Meier and their boys Tommy, Johnny & Mathew'."
+    "note": "John's mother. Her father's 2025 obituary names 'daughter Sharon Meier & son in law Tommy Meier and their boys Tommy, Johnny & Mathew'."
   },
   "given": "Sharon M.",
   "surname": "Petriello",
@@ -41,7 +41,7 @@
     "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
   ],
   "handoff": {
     "section": "3.1 John and his parents",
@@ -63,14 +63,14 @@
     },
     {
       "date": "2026-10-08",
-      "note": "Owner: she attended East Stroudsburg University and met Tom Meier there."
+      "note": "John: she attended East Stroudsburg University and met Tom Meier there."
     }
   ],
   "residences": [
     {
       "date": "c.1978–1982",
       "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
-      "note": "East Stroudsburg University (owner)"
+      "note": "East Stroudsburg University"
     }
   ],
   "manual": true
