@@ -2455,8 +2455,8 @@ window.FAMILY_DATA = {
    "tags": [
     "notable"
    ],
-   "summary": "John (\"Johnny\") Meier, born 1992, the subject and builder of this family tree.",
-   "bio": "John Joseph \"Johnny\" Meier was born in 1992 at Alexandria City Hospital in Alexandria, Virginia, and lives in Ashburn, Virginia. He is the subject of this family history and built this website. He has an older brother, Thomas Francis \"Tommy\" Meier Jr., born in 1990, and a younger brother, Matthew \"Matt\" Meier, born in 1998, and is engaged to Shannon McCarthy.\n\nOn his father's side he descends from the Meiers of Munzingen in Baden, Germany; from the Pennsylvania Pringles, with their colonial Long Island, Huguenot French and Palatine German roots; from the Irish Heffernans of County Tipperary; and from the Irish-American McGuires. On his mother's side he descends from the Italian Petriello, Gianetta, Cognetti and Ferlaino families of Irpinia (Avellino) and Calabria, who settled in Scranton and Dunmore, Pennsylvania.\n\nHe is 13th in descent from Richard 'Bull' Smith, the founder of Smithtown, Long Island, and his one proven Revolutionary War patriot ancestor is Ensign Thomas Lamoreaux, his 6th-great-grandfather through Martha Lamoreaux Pringle. Through the colonial lines he is a blood cousin of President Benjamin Harrison, of First Ladies Anna Symmes Harrison and Julia Gardiner Tyler, and of the Titanic victim James Clinch Smith, among others.",
+   "summary": "John Joseph \"Johnny\" Meier, born 1992 in Alexandria, Virginia: a linebacker on Broad Run's back-to-back state champions, and the subject and builder of this family history.",
+   "bio": "John Joseph \"Johnny\" Meier was born in 1992 at Alexandria City Hospital in Alexandria, Virginia, the second of the three sons of Thomas F. and Sharon (Petriello) Meier. He grew up in Ashburn, Virginia, where he still lives, and he is the subject of this family history and the builder of this website. He has an older brother, Thomas Francis \"Tommy\" Meier Jr., born in 1990, and a younger brother, Matthew \"Matt\" Meier, born in 1998, and is engaged to Shannon McCarthy.\n\nLike his brothers he played football at Broad Run High School in Ashburn, graduating with the class of 2010. He made the varsity as a sophomore in 2007, playing running back and linebacker beside his senior brother Tommy on a team that went unbeaten in the regular season and finished 10-1. As a junior and senior he wore No. 51 at linebacker and on the offensive line, and both of those teams went 14-0 and won the Virginia AA Division 4 state championship under coach Michael Burnett, beating Amherst County in the 2008 final at Liberty University and again in the 2009 rematch at Virginia Tech; they remain Broad Run's only football state titles. In November 2009 the Washington Post named him a unanimous first-team All-Dulles District linebacker. He also played varsity baseball, wearing No. 15, in the spring of 2010.\n\nOn his father's side he descends from the Meiers of Munzingen in Baden, Germany; from the Pennsylvania Pringles, with their colonial Long Island, Huguenot French and Palatine German roots; from the Irish Heffernans of County Tipperary; and from the Irish-American McGuires. On his mother's side he descends from the Italian Petriello, Gianetta, Cognetti and Ferlaino families of Irpinia (Avellino) and Calabria, who settled in Scranton and Dunmore, Pennsylvania.\n\nHe is 13th in descent from Richard 'Bull' Smith, the founder of Smithtown, Long Island, and his one proven Revolutionary War patriot ancestor is Ensign Thomas Lamoreaux, his 6th-great-grandfather through Martha Lamoreaux Pringle. Through the colonial lines he is a blood cousin of President Benjamin Harrison, of First Ladies Anna Symmes Harrison and Julia Gardiner Tyler, and of the Titanic victim James Clinch Smith, among others.",
    "notable": "Through the colonial lines he is a blood cousin of President Benjamin Harrison (6C5R), First Ladies Anna Symmes Harrison and Julia Gardiner Tyler, and the Titanic victim James Clinch Smith (6C5R), among others. Section 3.4 has the full list.",
    "facts": [
     {
@@ -2602,6 +2602,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492552.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "nickname": "Johnny",
@@ -2711,8 +2715,8 @@ window.FAMILY_DATA = {
     "athlete",
     "coach"
    ],
-   "summary": "John's father, known as Tommy: East Stroudsburg quarterback, head football coach at George Mason High and Herndon High for 17 seasons, later assistant principal at Langley High School.",
-   "bio": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College, now East Stroudsburg University, for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns himself, tying the team lead with 42 points, ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District, and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff; the Washington Post noted in 1990 how rare it was for three brothers to be Fairfax County head coaches at the same time. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to the eventual state champion, Annandale. A decade later he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night in 2003; that 7-4 team ended a six-year regional playoff drought. He coached Herndon through the 2006 season, seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The family counts him among the winningest coaches in Virginia high-school history.\n\nHe then moved into administration at Langley High School in McLean, one of Virginia's top public schools, where as assistant principal he coordinated the committee planning the school's major renovation and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.",
+   "summary": "John's father, known as Tommy: East Stroudsburg quarterback, head football coach at George Mason and Herndon High for 17 seasons, later assistant principal at Langley High School.",
+   "bio": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College, now East Stroudsburg University, for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns himself, tying the team lead with 42 points, ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District, and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff; the Washington Post noted in 1990 how rare it was for three brothers to be Fairfax County head coaches at the same time. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to the eventual state champion, Annandale. Leaner years followed, including a 3-7 season in 2002, but in those years he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night in 2003; that team started 4-0, finished 7-4 and ended a six-year regional playoff drought. The 2004 Hornets opened with five straight wins, among them a 30-24 double-overtime victory over Hayfield and a 45-7 homecoming rout of Lee. Alongside the head-coaching job he taught in Herndon's physical education department and, from at least 2001 until 2007, served as the school's assistant director of student activities, the deputy to the athletic director. He coached Herndon through the 2006 season, when the team went 6-4, seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The family counts him among the winningest coaches in Virginia high-school history.\n\nIn the autumn of 2007 he moved into administration as an assistant principal at Langley High School in McLean, one of Virginia's top public schools. He served first as the tenth-grade administrator and by 2010 as the twelfth-grade administrator, supervising career and technical education, foreign languages, the performing arts and the library and running the cafeteria and graduation; he also coordinated the committee that planned the school's major renovation and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "John's Ancestry tree screenshots",
@@ -2792,6 +2796,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492836.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "nickname": "Tommy",
@@ -3180,7 +3188,7 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "John's mother; grew up in Scranton, Pennsylvania, studied at East Stroudsburg University, where she met her husband Tom Meier, and lives in Ashburn, Virginia.",
-   "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They married and raised three sons, Tommy, Johnny and Matt, and live in Ashburn, Virginia.",
+   "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They married and raised three sons, Tommy, Johnny and Matt, all of whom played football at Broad Run High School in Ashburn; Tommy went on to play baseball at UVa-Wise and Matt football at Frostburg State, whose roster bio names him as the son of Thomas and Sharon Meier. She and Tom live in Ashburn, Virginia.",
    "facts": [
     {
      "label": "Siblings",
@@ -3249,6 +3257,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492910.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "manual": true,
@@ -14356,6 +14368,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282625149693.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Cassie Hayes is almost certainly a stray Ancestry attachment, not a relative. In the live site data (family.js, loaded 2026-10-08) her ID appears exactly once, in her own record. She is in none of the site's 404 family groups and has no parents, spouse or children. Her only data is an Ancestry 'U.S., School Yearbooks' hit for Marshall High School, Marshall, Missouri, 2007 (two yearbook photos), with a 1991 birth year. No other person in the tree is surnamed Hayes, and the only 'Hayes' text on the site refers to the 1878 Hayes genealogy of the Wells family. Nothing ties any branch of the tree (Luzerne/Bucks Co. PA, Long Island, Virginia, Italy, Ireland, Baden) to Marshall, Missouri, and her 'irish' line tag looks like a default from the import. She appears to have been added in the Ancestry tree by accepting a yearbook hint and was never linked to anyone. Because she is an apparently unrelated living young adult, no web research was done on her.",
@@ -14365,6 +14381,8 @@ window.FAMILY_DATA = {
    "sources": [
     "[R4-S1] meiertree.com live data file family.js (people and families arrays), searched for her ID (derivative) https://www.meiertree.com/data/family.js"
    ],
+   "bio": "Cassie Hayes was born in 1991. She is known only from a 2007 yearbook of Marshall High School in Marshall, Missouri, which carries two photographs of her, and she has no recorded parents, spouse or children. No branch of John's family is connected with Marshall, Missouri, and no kinship between her and the family is known.",
+   "summary": "Cassie Hayes, born 1991, known only from a 2007 Marshall High School yearbook in Marshall, Missouri; no kinship to John's family is known.",
    "birthDateReduced": true
   },
   {
@@ -18218,8 +18236,8 @@ window.FAMILY_DATA = {
     "Mary Cognetti Petriello"
    ],
    "tags": [],
-   "summary": "John's grandmother, born in Scranton in 1933, one of the eight children of Frank and Helen (Ferlaino) Cognetti, and wife of John T. Petriello.",
-   "bio": "Mary Cognetti was born in Scranton, Pennsylvania, in 1933, a daughter of Frank Cognetti and Helen Ferlaino and one of their eight children. In 1950 she was still at home in Scranton with her parents and her siblings Angeline, Anthony and John. She married John T. Petriello, and their daughter Sharon is John's mother.\n\nHer brothers and sisters were Ralph, Salvatore, Joseph F., Angeline (Butchko), Anthony R., John and Leo S. Cognetti. Two of her brothers became well known in Scranton: Anthony R. Cognetti served as president of the Scranton City Council, and Joseph F. Cognetti was inducted into the Candy Hall of Fame. At the fiftieth Cognetti family Thanksgiving in 2016 Mary and her brother Leo were the last two surviving siblings; Leo died in 2019.",
+   "summary": "John's grandmother, born in Scranton in 1933, one of the eight children of Frank and Helen (Ferlaino) Cognetti, and widow of John T. Petriello Sr.",
+   "bio": "Mary Cognetti was born in Scranton, Pennsylvania, in 1933, a daughter of Frank Cognetti and Helen Ferlaino and one of their eight children. In 1950, aged 17, she was still at home in Scranton with her parents and her siblings Angeline, Anthony and John. She married John T. Petriello, and their daughter Sharon is John's mother. Her husband died in March 2025, and she survives him.\n\nHer brothers and sisters were Ralph, Salvatore, Joseph F., Angeline (Butchko), Anthony R., John and Leo S. Cognetti. Two of her brothers became well known in Scranton: Anthony R. Cognetti served as president of the Scranton City Council, and Joseph F. Cognetti was inducted into the Candy Hall of Fame. At the fiftieth Cognetti family Thanksgiving in November 2016 Mary, then 83, and her brother Leo, 87, were the last two surviving siblings, and a newspaper photograph showed the pair looking over the 186-name Cognetti family tree compiled by their niece Maria Cognetti, a daughter of Joseph F. and Domenica Cognetti. Leo died in 2019.",
    "facts": [
     {
      "label": "Siblings",
@@ -18273,6 +18291,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503537.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "media": [
@@ -18825,8 +18847,8 @@ window.FAMILY_DATA = {
     "note": "Brother John listed in 2008 obituary; 1950 census at home aged 23."
    },
    "tags": [],
-   "summary": "Pennsylvania-born in 1928, a wholesale grocer's laborer in 1950 who later lived in Pittsburgh; John's great-granduncle.",
-   "bio": "John Cognetti was born in Pennsylvania in 1928. In 1950, aged 23, he was still living at home and working as a laborer for a wholesale grocer. By 2008 he was living in Pittsburgh. He died before November 2016, by which time only his siblings Leo and Mary were still living. He was John's great-granduncle.",
+   "summary": "Scranton-born Navy veteran and Pittsburgh-area confectionery broker, a brother of John's grandmother Mary Cognetti Petriello; he died at Green Tree, Pennsylvania, in 2013.",
+   "bio": "John F. Cognetti was born in Scranton, Pennsylvania, about 1927 (the records give his birth year variously as 1926, 1927 or 1928), a son of Frank and Helen (Ferlaino) Cognetti and a brother of John's grandmother Mary Cognetti Petriello, which makes him John's great-uncle. In 1940 he was a schoolboy of 12 in the family home on Philo Street, Scranton, and in 1950, aged 23, he was still at home, working as a laborer for a wholesale grocer. He served in the US Navy, probably in the Second World War era.\n\nHe later settled in the Pittsburgh area and spent 35 years as a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage trade that made his brother Joseph F. Cognetti a member of the Candy Hall of Fame. He married Evelyn, who died before him, and they had three sons, Dean J., John J. and David, and five grandchildren, Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. He was living in Pittsburgh in 2008.\n\nJohn died on 8 November 2013 at Green Tree, a Pittsburgh suburb, aged 87, and his Mass of Christian Burial was celebrated at SS. Simon and Jude Church in Green Tree on 16 November. He was survived by his brother Leo and his sister Mary, having outlived his siblings Ralph, Joseph, Angeline Butchko, Anthony and Sal.",
    "facts": [
     {
      "label": "Tree display (IMG_7830-7840)",
@@ -18866,6 +18888,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503584.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived).\n\nround5: John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 ([R4-S1]). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 ([R4-S1]). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton ([R4-S2]). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",
@@ -33556,7 +33582,7 @@ window.FAMILY_DATA = {
     "Elizabeth A. 'Betsy' Arnold"
    ],
    "tags": [],
-   "summary": "John's great-aunt; sister of Kathryn (possibly twin of Ann).",
+   "summary": "Elizabeth A. \"Betsy\" McGuire (1928–2016), John's great-aunt and identical twin of Ann \"Nancy\" McGuire; she married Harold E. Arnold and lived in the Altoona area.",
    "sources": [
     "FamilySearch G3PC-FFK",
     "notes/round3/irish_pa.md",
@@ -33591,6 +33617,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0062.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "death": {
@@ -33692,7 +33722,8 @@ window.FAMILY_DATA = {
      "note": "Image loads (3019x1812). A US government record, but from after 1931, so rights are set to unknown per the brief and it was not downloaded. (not downloaded: rights unknown)",
      "people": []
     }
-   ]
+   ],
+   "bio": "Elizabeth A. \"Betsy\" McGuire was born in Wilkes-Barre, Pennsylvania, on 8 March 1928, the identical twin of Ann \"Nancy\" McGuire and a daughter of Francis McGuire and Elizabeth McAvoy. Her sister Kathryn \"Kay\" Meier was John's grandmother, so Betsy was John's great-aunt. She graduated from Elmer L. Meyers High School in Wilkes-Barre in 1945, and on 13 September 1952 she married Harold E. Arnold in Wilkes-Barre. The couple settled in the Altoona area, and Betsy's widowed mother also died in Altoona in 1984, probably while living near her. Harold died on 27 May 1997.\n\nBetsy was a member of St. Joseph Catholic Church in Bellwood. She died at UPMC Altoona on 8 November 2016, aged 88, survived by a son, two daughters, six grandchildren and three great-grandchildren, and having outlived her sisters Jane Nagle, her twin Nancy Holland and Kay Meier. Her funeral Mass was celebrated at St. Joseph's in Bellwood, with committal at Calvary Cemetery, Altoona."
   },
   {
    "id": "H0063",
@@ -54354,8 +54385,8 @@ window.FAMILY_DATA = {
    "tags": [
     "notable"
    ],
-   "summary": "Scranton-born confectionery executive inducted into the Candy Hall of Fame in 1996; probably John's first cousin twice removed.",
-   "bio": "Anthony Paul Cognetti was born in Scranton in 1949. He spent about 23 years with D.C. Sales Co., the firm of Joseph F. Cognetti, and became its president in 1982; in 1996 he was inducted into the Candy Hall of Fame. He is probably the son of Ralph A. Cognetti, which would make him a nephew of Joseph F. Cognetti and of Mary Cognetti Petriello, and John's first cousin twice removed.",
+   "summary": "Tony Cognetti, Scranton-born confectionery executive inducted into the Candy Hall of Fame in 1996; a nephew of John's grandmother Mary Cognetti Petriello.",
+   "bio": "Anthony Paul \"Tony\" Cognetti was born in Scranton, Pennsylvania, in 1949, the youngest of the three sons of Ralph A. Cognetti and Marguerite Forgione; his brothers were Frank, born in 1942, and Peter, born in 1948, and his mother lived to 101, dying in 2014. Through his father he is a nephew of Joseph F. Cognetti and of John's grandmother Mary Cognetti Petriello, and so a first cousin of John's mother, Sharon.\n\nHe attended Central High School in Scranton and took a BA at Penn State in 1971. He then joined his uncle Joseph's firm, D.C. Sales Co., a confectionery and food brokerage, as an account executive. After a short spell outside the industry in the mid-1970s he returned as a partner in 1977 and became president in 1982; in all he spent 23 of his 25 years in the trade at D.C. Sales. In 1994 he merged the firm into M.W. Houck, Inc. and became vice-president of its confectionery division. He was the National Candy Wholesalers Association's Candy Ambassador in 1988, won the New York Candy Club's Presidential Award in 1990 and served as that club's president, and in 1996 he was inducted into the Candy Hall of Fame, joining his uncle Joseph. He and his wife Sheri raised nine children.",
    "notable": "Candy Hall of Fame 1996",
    "sources": [
     "Candy Hall of Fame: https://candyhalloffame.org/inductee/anthony-paul-cognetti",
@@ -54400,6 +54431,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0347.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living.\n\nround5: The Candy Hall of Fame profile ([R4-S1]) gives Tony Cognetti's exact birth date, in Scranton in December 1949. It matches, day for day, Anthony, the youngest son of Ralph A. and Marguerite (Forgione) Cognetti in the FamilySearch tree ([R4-S2]). The profile also says he spent 23 years at 'his uncle's firm, D.C. Sales Co.', the brokerage where Joseph F. Cognetti, Ralph's brother, was partner from 1956 and later chairman. Two independent identifiers therefore agree (exact birth date with parents, and the uncle's firm), and his parentage can be treated as confirmed. Ralph and Marguerite's children in the FS tree are Frank (b. 1942), Peter (b. 1948) and Anthony (b. 1949); Marguerite died on 30 May 2014 aged 101 ([R4-S2]).\n\nTony attended Central High School in Scranton and earned a BA from Penn State in 1971. He started at D.C. Sales as an account executive, briefly left the industry in the mid-1970s, returned as a partner in 1977 and became president in 1982. In 1994 he merged the firm into M.W. Houck, Inc. and became vice-president of its confectionery division. He was NCWA Candy Ambassador (1988), won the New York Candy Club's Presidential Award (1990), served as that club's president, and was inducted into the Candy Hall of Fame in 1996, joining his uncle Joseph. The profile says he and his wife Sheri raised nine children ([R4-S1]). He is John Meier's first cousin twice removed (a first cousin of Sharon's mother's generation: Tony is a nephew of Mary Cognetti Petriello).",
@@ -54582,7 +54617,7 @@ window.FAMILY_DATA = {
    },
    "tags": [],
    "summary": "Younger brother of Sharon Meier and John's maternal uncle; married to Rebecca, father of Jack and Mollie.",
-   "bio": "Paul Petriello, the younger brother of Sharon Meier, was listed as a surviving sibling in the February 2024 obituary of his brother John Jr. He is married to Rebecca, and their children are Jack and Mollie.",
+   "bio": "Paul Petriello is the youngest of the three children of John T. Petriello Sr. and Mary Cognetti and the younger brother of Sharon Meier, John's mother, which makes him John's maternal uncle. He is married to Rebecca, and their children are Jack and Mollie. He was named among the survivors of his brother John T. Petriello Jr. in 2024 and of his father in 2025.",
    "sources": [
     "https://themontynews.org/single-post/john-t-petriello-jr-65",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
@@ -54637,6 +54672,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0349.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "facts": [
@@ -56430,7 +56469,7 @@ window.FAMILY_DATA = {
    },
    "tags": [],
    "summary": "Engineer and longtime owner of the SSC Napoli football club in the Maradona era; he shares the Ferlaino surname, but no kinship to John has been proven.",
-   "bio": "Corrado Ferlaino, born in 1931, was an engineer and for many years the owner of SSC Napoli during the Maradona era. His father Modesto was a builder from Conflenti, the village next to San Mango d'Aquino, home of John's Ferlaino ancestors. Beyond the shared surname and neighbouring home towns, no kinship with John's family has been proven.",
+   "bio": "Corrado Ferlaino was born in Naples in 1931, the son of Modesto Ferlaino, an engineer and builder from Conflenti in the province of Catanzaro who had moved to Naples in 1920, and Cesarina Pasquali of Milan. Modesto kept the family house in Conflenti and often took the young Corrado there. Modesto was also the brother of the magistrate Francesco Ferlaino, born in Conflenti in 1914 and killed by the 'Ndrangheta at Lamezia Terme in 1975, so Corrado is the judge's nephew. Corrado attended the Liceo scientifico Vincenzo Cuoco in Naples and graduated in civil engineering from the University of Naples in 1959, after which he worked as an engineer and building contractor in his father's construction firm. Between 1959 and 1964 he also raced cars as an amateur, finishing fifth in the 1959 Mille Miglia and winning his class at the 1964 Targa Florio.\n\nHe bought into the SSC Napoli football club in 1967 and from 1969 until about 2000, with interruptions, was its president and majority shareholder, a reign of some 31 years. He brought Diego Maradona to Naples, and under his ownership the club won the Serie A title in 1986-87 and 1989-90, the Coppa Italia in 1986-87, the UEFA Cup in 1988-89 and the Supercoppa italiana in 1990. He was also co-owner of Cagliari in 1992-93 and owner of Ravenna in 2003-04. In 2019 the Rotary Club del Reventino gave him its Arti e Professioni award in honour of his Conflenti roots. He married four times and has five children, among them the physicist Francesca Ferlaino and Luca, a former president of Ravenna; his daughter Tiziana, who ran the family's hotel business in Ercolano, died in 2025 aged 68. In 2025 he gave Il Mattino an interview about Napoli's coming centenary, and in 2026 he celebrated his 95th birthday with a lunch on the Naples seafront.\n\nDespite the shared surname, no kinship between Corrado and John's family has been shown. John's Ferlaino ancestors, the forebears of Helen (Ferlaino) Cognetti, came from San Mango d'Aquino, where the line runs back from Leopoldo, born in 1871, through Fortunato, born in 1822, Nicola Maria (1778–1835) and Bruno, born in 1751, to Gaetano, born about 1726. Corrado's family came from Conflenti, a separate comune on the slopes of Monte Reventino a few kilometres away, and his ancestry is not known beyond his father and uncle. Because the surname is concentrated in the Savuto and Reventino district, a common origin before about 1750 is plausible, but it cannot be demonstrated.",
    "sources": [
     "it.wikipedia Corrado Ferlaino: https://it.wikipedia.org/wiki/Corrado_Ferlaino",
     "[R4-S1] Italian Wikipedia, 'Corrado Ferlaino' (secondary) https://it.wikipedia.org/wiki/Corrado_Ferlaino",
@@ -56469,6 +56508,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0377.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "His father Modesto was a builder from Conflenti, next to San Mango d'Aquino.\n\nround5: Corrado Ferlaino is alive. He celebrated his 95th birthday on 18 May 2026 with a lunch on the Naples seafront ([R4-S4]), and in August 2025 he gave Il Mattino an interview about Napoli's coming centenary ([R4-S5]). He was born in Naples on 18 May 1931 to Modesto Ferlaino, an engineer and builder from Conflenti (province of Catanzaro) who had moved to Naples in 1920, and Cesarina Pasquali of Milan ([R4-S1], [R4-S2]). Italian Wikipedia and the Conflenti local-history site both say Modesto was the brother of the magistrate Francesco Ferlaino (1914-1975, born in Conflenti and killed by the 'Ndrangheta at Lamezia Terme), so Corrado is the nephew of the judge already in the tree as H0376 ([R4-S1], [R4-S2]). Modesto kept the family house in Conflenti and often took the young Corrado there ([R4-S2]). Corrado married four times and has five children, among them the physicist Francesca Ferlaino and Luca, a former president of Ravenna. His daughter Tiziana, who ran the family's hotel business in Ercolano, died in 2025 aged 68 ([R4-S1], [R4-S6]).\n\nKinship test with Helen (Ferlaino) Cognetti: negative, with no link demonstrable. Helen's paternal line in the tree runs Leopoldo (b. 1871) to Fortunato (b. 1822) to Nicola Maria (1778-1835) to Bruno (b. 1751) to Gaetano (c.1726), all in San Mango d'Aquino. Corrado's line is from Conflenti, a separate comune on the slopes of Monte Reventino a few kilometres away, and no public source names Modesto's or Francesco's parents. None of the Italian sources mentions San Mango d'Aquino, emigrant relatives or America ([R4-S1], [R4-S2]). Both families carry a surname concentrated in the Savuto/Reventino district, so a shared origin before about 1750 is plausible but cannot be shown from public sources. The tree should keep him as a same-surname notable with no proven kinship. A test would need the Conflenti civil birth acts of Modesto (c.1890s) and Francesco (1914) to find their parents, followed by the Conflenti and San Mango registers back to the 1700s.",
@@ -56569,8 +56612,8 @@ window.FAMILY_DATA = {
     "note": "Living; married into a Scranton Cognetti family (husband Ryan); whether it descends from Frank and Helen was deliberately not researched. Round 4 (unverified → probable): Her marriage to Ryan Cognetti is proven. Ryan's descent from Frank and Helen through Joe and Sal D. Cognetti rests on three public business profiles plus the summary of Elizabeth Notarianni Cognetti's 1994 obituary, and is probable. Elizabeth's obituary text (her son Joseph) or a wedding announcement naming Ryan's parents would confirm it."
    },
    "tags": [],
-   "summary": "Mayor of Scranton since 2020, married to Ryan Cognetti; a Cognetti by marriage whose exact kinship to John's family is unknown.",
-   "bio": "Paige Cognetti has served as Mayor of Scranton, Pennsylvania, since 2020. She is a Cognetti by marriage, the wife of Ryan Cognetti, and the exact kinship between her husband's family and John's Cognettis is unknown. Scranton was also home to a separate, unrelated Cognetti family whose origins lay in Nicastro.",
+   "summary": "Mayor of Scranton since 2020 and Democratic nominee for Congress in 2026; wife of Ryan Cognetti, John's second cousin.",
+   "bio": "Paige Gebhardt Cognetti was born in Eugene, Oregon, in 1980 and grew up in Beaverton, Oregon. She studied English literature at the University of Oregon's Clark Honors College, graduating summa cum laude, and later took an MBA at Harvard Business School. She taught English in Japan on the JET Programme, worked as an investment advisor in New York, raised money for Rep. Chris Carney's 2006 campaign and the 2008 Clinton and Obama presidential campaigns, and served in the Obama administration as senior advisor to the Under Secretary for International Affairs at the US Treasury.\n\nIn Scranton she served on the school board in 2017 and 2018 and as special assistant to Pennsylvania Auditor General Eugene DePasquale. In November 2019 she won a special election for mayor as an independent, and on 6 January 2020 she was sworn in as Scranton's 36th mayor and the first woman to hold the office, with her husband Ryan looking on. She was re-elected as a Democrat in November 2021 with more than 72 per cent of the vote and again on 4 November 2025 with about 57 per cent in a three-way race. In 2024 she was appointed to the US Trade Representative's Advisory Committee for Trade Policy and Negotiations, and in May 2026 she won the Democratic nomination unopposed for Pennsylvania's 8th congressional district, to face Rep. Rob Bresnahan in the November 2026 general election.\n\nShe married Ryan Cognetti on 17 October 2017; they had met years earlier when she stopped at his shop, Caravia Fresh Foods in Clarks Summit, just before closing and he made her a sandwich. The couple have two daughters. Ryan is a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti and his wife Elizabeth Notarianni, which makes him John's second cousin and Paige the wife of John's second cousin. The link rests on strong evidence, though no single document states it: Ryan's father, Joe Cognetti, ran Joseph Notarianni Produce, a Scranton firm founded by his great-grandfather about 1925, until 1999, and in 2004 opened Caravia with Ryan and his own first cousins Peter and Marianne Cognetti, naming the store for Joe's grandmother Michelena Caravia of San Mango d'Aquino, Calabria, the same village as Helen Ferlaino. Michelena was the mother of Elizabeth Notarianni, Sal D. Cognetti's wife. Paige herself said in 2019 that her husband's family had been in the area for many generations. Scranton was also home to a separate, unrelated Cognetti family whose origins lay in Nicastro.",
    "sources": [
     "Wikipedia: https://en.wikipedia.org/wiki/Paige_Cognetti",
     "[R4-S1] Wikipedia, 'Paige Cognetti' (secondary) https://en.wikipedia.org/wiki/Paige_Cognetti",
@@ -56621,6 +56664,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0378.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family.\n\nround5: Kinship solved, on strong but not yet single-document evidence: Paige's husband Ryan Cognetti is a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti. That makes Ryan John Meier's second cousin, and Paige John's second cousin's wife. The chain is:\n(1) Happenings Magazine (2020) identifies Paige's husband as Ryan Cognetti, owner of Caravia Fresh Foods in Clarks Summit; they married on 17 Oct 2017 ([R4-S3]). The Times-Tribune/AP photo of her 6 Jan 2020 swearing-in shows 'her husband, Ryan Cognetti' looking on ([R4-S6]).\n(2) Caravia's own 'About' page says the family opened the store in 2004 after Joe Cognetti sold his wholesale produce business: 'Joe and his son, Ryan, and cousins Peter and Marianne'. The store is named for 'Joseph's grandmother, Michelena Caravia, from San Mango, Calabria' ([R4-S7]).\n(3) The Abington Journal (2018) says Joseph Cognetti owned Joseph Notarianni Produce until 1999, a Scranton firm founded by his great-grandfather nearly 75 years earlier. Ryan, the general manager, then 39, owned a third of the store; Joseph's first cousins Peter and Marianne Cognetti owned another third ([R4-S8]).\n(4) The 1994 Times-Tribune obituary of Elizabeth Notarianni Cognetti (Newspapers.com clipping; page blocked, content known only from a search summary) calls her the daughter of Joseph and Michelene Notarianni and widow of Sal D. Cognetti Sr. (d. 1990). Sal is Frank and Helen's son Salvatore, who married Elizabeth Notarianni in 1943 (site record H0499).\nSo Joe Cognetti's grandmother Michelena (Caravia) Notarianni is Elizabeth's mother, which makes Joe a son of Sal and Elizabeth. Joe's 'first cousins' Peter and Marianne fit a son of Ralph or of Anthony R. (both had a son Peter) and his wife. Fittingly, the Caravia name brings another San Mango d'Aquino family into the tree, the same village as Helen Ferlaino. Paige herself said in 2019 that her husband's family had been in the area 'for many, many generations'. The couple have two young daughters (minors, not researched).\n\nPublic career: born in 1980 in Oregon and raised in Beaverton, Paige Gebhardt studied at the University of Oregon's Clark Honors College (BA summa cum laude) and Harvard Business School (MBA). She taught English in Japan (JET), worked as an investment advisor in New York, raised money for Rep. Chris Carney (2006) and the 2008 Clinton and Obama campaigns, and was a senior Treasury advisor under Obama. In Scranton she served on the school board (2017-18) and as special assistant to Auditor General DePasquale. She then won the November 2019 special mayoral election as an independent, becoming Scranton's first female mayor on 6 Jan 2020. She was re-elected in 2021 and again on 4 Nov 2025. In May 2026 she won the Democratic nomination unopposed for Pennsylvania's 8th congressional district against Rep. Rob Bresnahan; the general election is in November 2026.",
@@ -57058,6 +57105,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 5: identified from Betsy McGuire's 2016 obituary as her husband Harold E. Arnold (1927–1997); moved from Elizabeth (McAvoy) McGuire's family to Betsy's."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "conflicts": [
@@ -57074,14 +57125,15 @@ window.FAMILY_DATA = {
     "[R5-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
     "[R5-S2] FamilySearch Family Tree (published), Harold Edward Arnold, PID GP6V-LL1 (WWII draft registration and NUMIDENT attached) https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1"
    ],
-   "summary": "Husband of Elizabeth 'Betsy' McGuire; the Altoona-area couple married in Wilkes-Barre in 1952.",
+   "summary": "Husband of Elizabeth \"Betsy\" McGuire, John's great-aunt; the Altoona-area couple married in Wilkes-Barre in 1952.",
    "researchNotes": "round5:",
    "birth": {
     "date": "1927"
    },
    "death": {
     "date": "1997-05-27"
-   }
+   },
+   "bio": "Harold Edward Arnold was born in 1927. On 13 September 1952 he married Elizabeth A. \"Betsy\" McGuire, John's great-aunt, in Wilkes-Barre, Pennsylvania, and the couple made their home in the Altoona area. He died on 27 May 1997; Betsy survived him until 2016."
   },
   {
    "id": "H0384",
@@ -57121,6 +57173,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0384.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "death": {
@@ -57182,7 +57238,9 @@ window.FAMILY_DATA = {
       "H0009"
      ]
     }
-   ]
+   ],
+   "bio": "Nancy Anne Stahl Meier was born in 1930 and was the wife of William F. Meier Jr., who died on 29 February 2004. She died in Florida on 13 May 2009, aged about 79, having lived at Clermont in Lake County. It is not certain whether Stahl was her maiden name or the surname of an earlier husband.",
+   "summary": "Nancy Anne Stahl Meier (1930–2009), wife of William F. Meier Jr.; she died in Florida, where she lived at Clermont."
   },
   {
    "id": "H0385",
@@ -62820,6 +62878,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0500.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "death": {
@@ -62895,7 +62957,9 @@ window.FAMILY_DATA = {
      "note": "The published JSON reports 1 photo and 1 memory; the image itself was not reachable (profile unpublished). Lead for John. (not downloaded: rights unknown)",
      "people": []
     }
-   ]
+   ],
+   "bio": "Mary Carol Ruth was born in Scranton, Pennsylvania, in 1929, the daughter of Lawrence Rocco Ruth, a painter, and Mary Loretta Barrett. On 27 May 1950, a 21-year-old clerical worker, she married Anthony R. Cognetti in Scranton, with the Rev. Thomas Tracy officiating; Anthony, then a 25-year-old restaurant owner, was a brother of John's grandmother Mary Cognetti Petriello and later president of the Scranton City Council. She was presumably the mother of Anthony's four sons, Lawrence, Mark, Peter, who became a doctor, and Michael, an attorney; a marriage record of a Laurence T. Cognetti names her as his mother.\n\nMary died on 24 December 1978 in Lackawanna County, aged 49, and was buried in Cathedral Cemetery, Scranton. Anthony later remarried, and his 2008 obituary is said to record that he was predeceased by his first wife, Mary Ruth, and survived by his wife of 28 years, the former Mary Flanagan.",
+   "summary": "Scranton clerical worker who in 1950 married Anthony R. Cognetti, a brother of John's grandmother, and was presumably the mother of his four sons; she died in 1978 aged 49."
   },
   {
    "id": "H0501",
@@ -63472,7 +63536,7 @@ window.FAMILY_DATA = {
     "Tommy Meier Jr."
    ],
    "tags": [],
-   "summary": "Johnny's older brother; a living person, so not researched further.",
+   "summary": "John's older brother Tommy: Broad Run and UVa-Wise ballplayer, teacher, and Broad Run's head baseball coach, who led the Spartans to the 2021 Virginia Class 4 state title.",
    "residences": [
     {
      "date": "",
@@ -63519,6 +63583,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0001.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "facts": [
@@ -63621,6 +63689,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
+   "bio": "Thomas Francis \"Tommy\" Meier Jr. was born in 1990 at Alexandria City Hospital in Alexandria, Virginia, the eldest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's older brother. He grew up in Ashburn and graduated from Broad Run High School in 2008. There he played varsity football as a receiver and defensive back in 2006 and 2007, wearing No. 5 and catching 33 passes for 468 yards over the two seasons, and lined up alongside his younger brother Johnny on the 10-1 team of 2007; he also played for the Spartans' baseball programme. He went on to catch for the baseball team at the University of Virginia's College at Wise, again wearing No. 5, from about 2009 to 2013, when the school played in the NAIA Mid-South Conference.\n\nHe returned to Broad Run to teach and coach, and was the Spartans' head baseball coach from the 2016 season through 2024. His best-known season came in 2021, after the pandemic had cut the 2020 season short at three games. On 17 May he asked his players to \"give me 40 days to make memories for the next 40 years\", and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field, the game ending on a pick-off at first base, to win the Virginia Class 4 state championship. The team finished 16-1 and also won the Dulles District and Region 4C titles. It was the programme's first state title since 1991, the year after Tommy was born; the Loudoun Times-Mirror noted that the thirty-year gap matched the age of the head coach and former player, and he called the title \"a dream come true\" after a hard pandemic school year.\n\nA month earlier, on 29 May 2021, he had married Laura De Santis in Leesburg, Virginia; she kept her surname. They have a son, Luca.",
    "birthDateReduced": true
   },
   {
@@ -63642,7 +63711,7 @@ window.FAMILY_DATA = {
     "Matt Meier"
    ],
    "tags": [],
-   "summary": "Johnny's younger brother; a living person, so not researched further.",
+   "summary": "John's younger brother Matt: two-time captain and All-State linebacker at Broad Run High School, then a four-year linebacker at Frostburg State University.",
    "residences": [
     {
      "date": "",
@@ -63682,6 +63751,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0002.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "events": [
@@ -63764,6 +63837,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
+   "bio": "Matthew \"Matt\" Meier was born in 1998 at Inova Loudoun Hospital in Ashburn, Virginia, the youngest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's younger brother. He followed his brothers onto the Broad Run High School football team in Ashburn, where he played varsity for three seasons, from 2013 to 2015, as a linebacker and long snapper, wearing No. 19 and then No. 51. He was a two-time team captain, made 330 career tackles and received the school's Ron E. Pyles Leadership Award. As a junior he was second-team All-Region, first-team All-Conference and the team's defensive MVP, and in August 2015 the Washington Post named him one of the Spartans' key returning players, quoting him on the team's hopes of a state title and saying the defence would be led by him. That senior season he was chosen second-team All-State in Virginia's Group 5A as a linebacker, as well as first-team All-Region, first-team All-Conference and All-Loudoun. He graduated with the class of 2016.\n\nHe then played four seasons, from 2016 to 2019, as a linebacker, No. 51, for Frostburg State University in Maryland, majoring in health and physical education. As a freshman he played eight games and made seven tackles in the ECAC Bowl win over St. John Fisher; as a sophomore in 2017 he played all 13 games, started 11 and made 35 tackles with a forced fumble; and in 2018 he had 17 tackles, three for loss, and a sack in nine games, adding seven tackles, two for loss and a sack in two NCAA Division II playoff games. His college roster bio names him as the son of Thomas and Sharon Meier.",
    "birthDateReduced": true
   },
   {
@@ -63807,9 +63881,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0003.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded only from family obituaries.",
+   "summary": "Ann Marie Petriello Genello, born 1933, sister of John's grandfather John T. Petriello Sr. and widow of the Scranton builder Anthony \"Zitzer\" Genello.",
    "sources": [
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
@@ -63878,6 +63956,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
+   "bio": "Ann Marie Petriello was born in Scranton, Pennsylvania, in 1933, the second child and only daughter of James Petriello and Carmela \"Mollie\" Gianetta, and a sister of John's grandfather John T. Petriello Sr., which makes her John's great-aunt. In 1940 she was living with her parents and her brother John in the family home on Bunker Hill Street in Scranton; her younger brother Jim was born later.\n\nAbout 1955 or 1956 she married Anthony \"Zitzer\" Genello, a fellow native of the Bunker Hill section and the son of Louis and Mary Caprio Genello. A Scranton Tech graduate and Second World War veteran of the 75th Infantry Division, decorated with the Combat Infantry Badge and the Bronze Star, he founded the East Scranton Lumber Company with his brother Vito in 1956 and built custom homes around Scranton for more than 50 years. They were married for 68 years, until his death on 26 February 2024 at the age of 97. Their children are Dr. Louis Genello, who lives in Dunmore with his wife Susan, Marisa Genello of Scranton and David Genello of Fleetville, whose wife is Kathleen; they have six grandchildren and a great-grandson. Ann Marie was named among the survivors of her brother John when he died in March 2025.",
    "birthDateReduced": true
   },
   {
@@ -63922,9 +64001,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0004.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded only from family obituaries.",
+   "summary": "Jim Petriello, the youngest brother of John's grandfather John T. Petriello Sr.; married to MaryEllen.",
    "sources": [
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
@@ -63948,7 +64031,8 @@ window.FAMILY_DATA = {
      "found": "Same man as M0004",
      "assessment": "MERGE RECOMMENDATION: I282695504092 = M0004 (see I282695504092 file)."
     }
-   ]
+   ],
+   "bio": "James \"Jim\" Petriello is the youngest of the three children of James Petriello and Carmela \"Mollie\" Gianetta, born after 1940, and the younger brother of John's grandfather John T. Petriello Sr. and of Ann Marie Genello. He is married to MaryEllen. When his brother John died in March 2025 he was named as the only surviving brother."
   },
   {
    "id": "M0005",
@@ -63981,9 +64065,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0005.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded only from family obituaries.",
+   "summary": "Joanne Petriello, widow of John's uncle John T. Petriello Jr.; the couple lived in Mendham, New Jersey, for 25 years before moving to the Princeton area in 2021.",
    "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
@@ -64013,7 +64101,8 @@ window.FAMILY_DATA = {
    "researchNotes": "round5: John T. Petriello Jr.'s obituary calls her his 'loving wife Joanne Petriello of 38 years' and says the couple lived in Mendham, NJ for 25 years before moving to Princeton in 2021 (Skillman at his death) ([R4-S1]). The obituary also lists three sisters-in-law with their husbands: Barbara Plotnick (Rick), Elizabeth Gallaher (Michael) and Lisa Sinacori (Greg) ([R4-S1]). John Jr.'s only siblings were Sharon and Paul, so these three women are almost certainly Joanne's sisters. Her maiden name was not found. His father's 2025 obituary names her as 'daughter in law Joanne Petriello' ([R4-S2]).",
    "openQuestions": [
     "Joanne's maiden name: a parent's obituary naming 'Joanne Petriello (John)', Barbara Plotnick, Elizabeth Gallaher and Lisa Sinacori would give it."
-   ]
+   ],
+   "bio": "Joanne Petriello is the widow of John T. Petriello Jr., John's uncle, whom she married about 1985 or 1986; his obituary called her his loving wife of 38 years. The couple lived in Mendham, New Jersey, for 25 years before moving to the Princeton area in 2021, and were living at Skillman when he died in February 2024. The obituary also named Barbara Plotnick, Elizabeth Gallaher and Lisa Sinacori, with their husbands Rick, Michael and Greg, as his sisters-in-law; since John Jr.'s only siblings were Sharon and Paul, the three are almost certainly Joanne's sisters. Her father-in-law, John T. Petriello Sr., named her as his daughter-in-law when he died in 2025."
   },
   {
    "id": "M0006",
@@ -64051,16 +64140,21 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0006.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded only from family obituaries.",
+   "summary": "Marissa Petriello Westlake, daughter of John T. Petriello Jr. and Joanne and John's first cousin; married to Zachary Westlake, mother of William, Alexander and Olivia.",
    "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "[R4-S2] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
    ],
-   "researchNotes": "round5: Spelled 'Marisa (Zach) Westlake' in her grandfather's 2025 obituary and 'Marissa Westlake (Zachary)' in her father's 2024 obituary ([R4-S1], [R4-S2]). Her children William, Alexander (Alex) and Olivia are great-grandchildren of John T. Petriello Sr.; minors, so names only."
+   "researchNotes": "round5: Spelled 'Marisa (Zach) Westlake' in her grandfather's 2025 obituary and 'Marissa Westlake (Zachary)' in her father's 2024 obituary ([R4-S1], [R4-S2]). Her children William, Alexander (Alex) and Olivia are great-grandchildren of John T. Petriello Sr.; minors, so names only.",
+   "bio": "Marissa Westlake, born Marissa Petriello, is the daughter of John T. Petriello Jr. and Joanne Petriello and a granddaughter of John T. Petriello Sr. and Mary Cognetti, which makes her John's first cousin. Her name is also spelled Marisa. She is married to Zachary \"Zach\" Westlake, and they have three children, William, Alexander and Olivia."
   },
   {
    "id": "M0007",
@@ -64351,9 +64445,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0013.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "NC State nose guard under Lou Holtz, then a three-time Virginia state champion high-school football coach at West Potomac and Chantilly, and later a Fairfax County principal.",
+   "summary": "NC State lineman under Lou Holtz, three-time Virginia state champion coach at West Potomac and Chantilly, and longtime Fairfax County principal; John's uncle.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Washington Post, 15 Aug 1985, \"Football Practice Opens With Five New Coaches\": https://www.washingtonpost.com/archive/local/1985/08/15/football-practice-opens-with-five-new-coaches/05b4f8f7-5f1e-48e6-baec-b7a6ef29220b/",
@@ -64418,7 +64516,7 @@ window.FAMILY_DATA = {
     "Daniel Meier"
    ],
    "occupation": "High-school football coach (three Virginia state championships); Fairfax County Public Schools principal",
-   "bio": "Danny Meier was born in Pennsylvania in 1953 and grew up in Levittown. He played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State from 1972 to 1975. His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto, \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16, with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards in both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn 1997 he left coaching for school administration, serving as guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School from 2001 to 2003 and then principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years from 2003 to 2013. There the Fairfax Federation of Teachers rated him a top principal five times, and in 2012 U.S. News ranked the school among the top 100 in America. He retired from Fairfax County Public Schools in 2013 after 29 years and immediately returned to Robinson as head football coach; since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others. He was inducted into the inaugural class of the West Potomac Athletic Hall of Fame in 2019.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary.",
+   "bio": "Danny Meier was born in Pennsylvania in 1953 and grew up in Levittown, one of the eight children of James C. and Kathryn (McGuire) Meier and an older brother of John's father, Tommy. He played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State from 1972 to 1975, lettering in 1973, 1974 and 1975; the Wolfpack's 1974 roster listed him as a 234-pound middle guard from Levittown, and the 1976 preview counted \"tackle Dan Meier\" among the chief losses from the 1975 team. His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto, \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16, with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards in both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he left coaching for school administration. Over the following years he was a history teacher, guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School from 2001 to 2003 and then principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years from 2003 to 2013. There the Fairfax Federation of Teachers rated him a top principal five times, and in 2012 U.S. News ranked the school among the top 100 in America. He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal: he led Herndon High, where he had once been director of counselling, in the autumn of 2016 and Oakton High in the spring of 2017, and has also stood in at Woodson, Madison, Whitman Middle and McLean, among others. In 2017 he told Oakton's student paper that he had been a football coach for 17 years, a history teacher, guidance counsellor, director of student services, assistant principal and principal. He was inducted into the inaugural class of the West Potomac Athletic Hall of Fame in 2019.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. His sons' West Point athletic biographies describe them as the sons of Dan and Ann Meier and note that their father played football as a defensive lineman at North Carolina State.",
    "notable": "Three Virginia AAA state football championships as a head coach (West Potomac 1989 and 1990, Chantilly 1996), two VHSL Coach of the Year awards, All-Met Coach of the Year 1985, West Potomac Athletic Hall of Fame 2019; principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years.",
    "funFacts": [
     "Played for Lou Holtz, who later won a national title at Notre Dame.",
@@ -64701,6 +64799,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0014.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "summary": "Known as Jamie: All-PSAC split end at East Stroudsburg, offensive coordinator of West Potomac's 1989 state champions, and principal of Waynewood Elementary School 2006–17; John's uncle.",
@@ -64739,7 +64841,7 @@ window.FAMILY_DATA = {
    "openQuestions": [
     "Exact birth date; FCPS posts before Waynewood (1986–2006); Marie's maiden name; marriage date."
    ],
-   "bio": "James \"Jamie\" Meier was born in Pennsylvania in 1958, the third of the eight Meier children of Levittown, Pennsylvania. He played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver with 26 catches for 476 yards and four touchdowns, was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17–14 for the 1989 Virginia AAA state championship and a 14–0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven, from 2006 to 2017, as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running, from 2009 to 2012, and he became known for visiting every classroom every day, knowing nearly every child by name, and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in 2017, and in 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.",
+   "bio": "James \"Jamie\" Meier was born in Pennsylvania in 1958, the third of the eight Meier children of Levittown, Pennsylvania. He played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver with 26 catches for 476 yards and four touchdowns, was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17–14 for the 1989 Virginia AAA state championship and a 14–0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven, from 2006 to 2017, as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running, from 2009 to 2012, and he became known for visiting every classroom every day, knowing nearly every child by name, and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine; a 2013 neighbourhood guide written for military families singled out \"Mr. Meier\" as a crossing guard who knew students and parents by name and was always out around the school. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.",
    "notable": "All-PSAC East first-team receiver (1979); offensive coordinator of the 1989 Virginia AAA champion West Potomac Wolverines; principal of Waynewood Elementary School 2006–17 (four straight Academic Excellence Awards); Waynewood Citizens Association Citizen of the Year 2018.",
    "funFacts": [
     "His 215 receiving yards at Bloomsburg in 1979 was still the 11th-best single game in East Stroudsburg history in 2018.",
@@ -65239,9 +65341,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0020.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "Wife of Tommy Meier Jr. and mother of Luca; she kept her surname, De Santis.",
+   "summary": "Wife of Tommy Meier Jr., John's older brother, and mother of Luca; she kept her surname, De Santis.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025",
@@ -65266,7 +65372,8 @@ window.FAMILY_DATA = {
    "researchNotes": "round5: Laura De Santis married Tommy Meier Jr. on 29 May 2021; their public wedding-registry page gives Leesburg, Virginia ([R4-S1]). She kept her surname. A Laura De Santis teaches health and physical education at Holmes Middle School (Fairfax County Public Schools, Alexandria), but no second identifier ties that teacher to Tommy's wife, so this is a candidate only ([R4-S2]).",
    "openQuestions": [
     "Is she the Laura De Santis who is a health & PE teacher at Holmes Middle School (FCPS)? Name-only match: John can confirm."
-   ]
+   ],
+   "bio": "Laura De Santis married Thomas F. \"Tommy\" Meier Jr., John's older brother, on 29 May 2021 in Leesburg, Virginia, and kept her surname. They have a son, Luca."
   },
   {
    "id": "M0021",
@@ -65334,9 +65441,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0022.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. Secretary in the Fairfax County superintendent's office in 2013.",
+   "summary": "Annie (Ann) Meier, wife of John's uncle Danny Meier and mother of Mike, Tim, Joe and Mary; a secretary in the Fairfax County superintendent's office in 2013.",
    "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
     "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
@@ -65348,7 +65459,8 @@ window.FAMILY_DATA = {
    "researchNotes": "round5: Her sons' Army West Point sprint-football biographies (2011) each describe them as the \"Son of Dan and Ann Meier\", so she also appears as Ann ([R4-S1], [R4-S2]).",
    "openQuestions": [
     "Maiden name and marriage date still unknown. A search-result title shows a LinkedIn profile \"Annie Meier – Executive Administrative Assistant at Fairfax County Public Schools\" (Fairfax Station), consistent with the 2013 article, but LinkedIn is blocked (HTTP 999) and it was not loaded."
-   ]
+   ],
+   "bio": "Annie Meier, also known as Ann, is the wife of Danny Meier, John's uncle, and lives with him in Fairfax Station, Virginia. In 2013 she was a secretary in the Fairfax County superintendent's office. She and Danny have four children, Mike, Tim, Joe and Mary; her sons' West Point sprint-football biographies describe each of them as the son of Dan and Ann Meier."
   },
   {
    "id": "M0023",
@@ -65393,9 +65505,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0023.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. An Army second lieutenant at Fort Sill in 2013.",
+   "summary": "Mike Meier, son of Danny and Annie Meier and John's first cousin: All-CSFL running back for Army's sprint football team at West Point, later a US Army officer.",
    "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
     "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
@@ -65453,6 +65569,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
+   "bio": "Michael \"Mike\" Meier was born in 1989, the eldest child of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. He played football at Robinson Secondary School in Fairfax, where he was first-team all-district and all-region and was chosen for the Virginia state all-star game, and then went on to the United States Military Academy at West Point, where he majored in law.\n\nAt West Point he played sprint football, the version of the game for players under a weight limit. In 2010, his first season, he was named to the All-CSFL first team and led Army in rushing with 48.8 yards a game, 293 yards on 59 carries and five touchdowns; he scored in his first two games, at RPI and Mansfield, ran for 103 yards and a touchdown against Princeton and scored in the season-ending win at Navy that decided the league title. He wore No. 5 and was listed as a linebacker as a senior in 2011, when his brother Tim was also on the team. After graduating he served as Army's athletic intern, and by 2013 he was a second lieutenant in the US Army at Fort Sill, Oklahoma.",
    "birthDateReduced": true
   },
   {
@@ -65490,9 +65607,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0024.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
+   "summary": "Tim Meier, son of Danny and Annie Meier and John's first cousin: starting quarterback of Army's sprint football team at West Point and twice All-CSFL second team.",
    "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
     "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
@@ -65561,6 +65682,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
+   "bio": "Timothy \"Tim\" Meier, known in the family as Timmy, was born in 1991, a son of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. At Robinson Secondary School he was a four-time letterwinner and three-year starter in football and a member of the National Honor Society; the highlight of his school career was an upset of Chantilly in the playoffs as a junior.\n\nHe entered West Point in 2009 and was the Army sprint football team's starting quarterback from his first season, when he averaged 118 passing and 63 rushing yards a game, threw 10 touchdown passes and was named second-team All-CSFL. He repeated as second-team All-CSFL in 2010, opening the season with 307 passing yards and three touchdowns at RPI and then running for a career-high 142 yards and three touchdowns in the league-title win at Navy, finishing just behind his older brother Mike in rushing average. In 2011, wearing No. 4, he played running back, quarterback, punter and kick returner and earned honourable mention. His team biography named his parents Dan and Ann Meier and his siblings Mike, Joe and Mary, noted that his father had been a defensive lineman at NC State, and recorded that his favourite athlete was Brett Favre and that he enjoyed skydiving and rollercoasters. He was still a West Point cadet in 2013.",
    "birthDateReduced": true
   },
   {
@@ -65598,9 +65720,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0025.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
+   "summary": "Joe Meier, son of Danny and Annie Meier and John's first cousin: Army sprint football defensive end and West Point Class of 2016, commissioned into the Field Artillery.",
    "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
     "[R4-S1] Army West Point Athletics, Sprint Football roster 2013, \"Joseph Meier\" (#51, DE, Sophomore, hometown Fairfax Station, Va., Robinson Secondary School) (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/joseph-meier/3491",
@@ -65660,6 +65786,7 @@ window.FAMILY_DATA = {
      "people": []
     }
    ],
+   "bio": "Joseph Francis \"Joe\" Meier was born in 1993, a son of Danny and Annie Meier of Fairfax Station, Virginia, and John's first cousin. After Robinson Secondary School he followed his brothers Mike and Tim to West Point and onto the Army sprint football team, playing defensive end and wearing No. 51 as a sophomore in 2013. He graduated with the United States Military Academy Class of 2016 and was commissioned into the Field Artillery.",
    "birthDateReduced": true
   },
   {
@@ -65692,9 +65819,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0026.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A 2013 Robinson graduate planning a music career.",
+   "summary": "Mary Meier, daughter of Danny and Annie Meier and John's first cousin: a Virginia All-State Chorus singer and 2013 Robinson graduate who planned a career in music.",
    "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
     "[R4-S1] Rachel Hatzipanagos, \"Robinson Students Selected for All-State Chorus\", Fairfax Station Patch, 27 Feb 2012 (secondary) https://patch.com/virginia/fairfaxstation/robinson-students-selected-for-all-state-chorus",
@@ -65720,6 +65851,7 @@ window.FAMILY_DATA = {
    "openQuestions": [
     "Music career after 2013 not found; she may perform under a married or stage name. The Spotify/SoundCloud \"Mary Meyer\" and Nashville \"Mair\" (Mary Meyer, from Missouri) are different people."
    ],
+   "bio": "Mary Meier was born in 1995, the youngest child and only daughter of Danny and Annie Meier, and John's first cousin. At Robinson Secondary School, where her father was principal, she sang in the choral programme; in November 2011 she told a preview of the Robinson Singers' Major Works Concert that the long rehearsals made her feel \"really accomplished\", and in 2012 she was one of three Robinson students chosen for the Virginia All-State Chorus, which performed that April at E.C. Glass High School in Lynchburg. She graduated from Robinson in 2013 planning a career in music.",
    "birthDateReduced": true
   },
   {
@@ -67435,8 +67567,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282695503584 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Evelyn Cognetti, wife of John F. Cognetti of Green Tree, Pennsylvania, a brother of John's grandmother; she died before her husband.",
+   "bio": "Evelyn Cognetti was the wife of John F. Cognetti of Green Tree, Pennsylvania, a brother of John's grandmother Mary Cognetti Petriello. They had three sons, Dean J., John J. and David. She died before her husband, who was a widower when he died in November 2013.",
    "sources": [
     "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
    ],
@@ -67445,6 +67577,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1401 → M0079; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Wife of John F. Cognetti (I282695503584) of Green Tree, PA; predeceased him (died before Nov 2013). Maiden name unknown."
@@ -67460,8 +67596,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Dean J. Cognetti, a son of John F. and Evelyn Cognetti of Green Tree, Pennsylvania, and a first cousin of John's mother; married to Deborah.",
+   "bio": "Dean J. Cognetti is a son of John F. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and his wife Evelyn, of Green Tree, Pennsylvania. He is married to Deborah. He was named with his brothers John J. and David among the survivors of his father, who died in 2013.",
    "sources": [
     "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
    ],
@@ -67470,6 +67606,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1402 → M0080; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Living, name and relationship only (spouse Deborah per obituary)"
@@ -67485,8 +67625,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "John J. Cognetti, a son of John F. and Evelyn Cognetti of Green Tree, Pennsylvania, and a first cousin of John's mother; married to Sandra.",
+   "bio": "John J. Cognetti is a son of John F. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and his wife Evelyn, of Green Tree, Pennsylvania. He is married to Sandra. He was named with his brothers Dean J. and David among the survivors of his father, who died in 2013.",
    "sources": [
     "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
    ],
@@ -67495,6 +67635,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1403 → M0081; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Living, name and relationship only (spouse Sandra per obituary)"
@@ -67510,8 +67654,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "David Cognetti, a son of John F. and Evelyn Cognetti of Green Tree, Pennsylvania, and a first cousin of John's mother; married to Ann.",
+   "bio": "David Cognetti is a son of John F. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and his wife Evelyn, of Green Tree, Pennsylvania. He is married to Ann. He was named with his brothers Dean J. and John J. among the survivors of his father, who died in 2013.",
    "sources": [
     "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
    ],
@@ -67520,6 +67664,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1404 → M0082; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Living, name and relationship only (spouse Ann per obituary). Father's obituary also names grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti (not split by parent; ages unknown, so not researched)."
@@ -67535,8 +67683,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0500 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Lawrence Rocco Ruth (1905–1968), a Scranton painter and the father of Mary Carol Ruth, first wife of Anthony R. Cognetti.",
+   "bio": "Lawrence Rocco Ruth was born in Scranton, Pennsylvania, in 1905 and worked as a painter. He and his wife, Mary Loretta Barrett, were the parents of Mary Carol Ruth, who in 1950 married Anthony R. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. He was still living in Scranton in 1950 and died in 1968.",
    "sources": [
     "[R4-S1] Lackawanna Co. marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
     "[R4-S2] FamilySearch tree PW29-VF6 (Mary Carol Ruth), parent entries P9SY-K4B and P9SB-F9V (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
@@ -67546,6 +67694,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1405 → M0083; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Father of Mary Carol Ruth (H0500), wife of Anthony R. Cognetti. Born in Scranton; lived on N. Lincoln Ave, Scranton, in 1950.\noccupation: \"Painter (1950)\""
@@ -67564,8 +67716,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0500 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Mary Loretta Barrett Ruth (1909–1985) of Scranton, mother of Mary Carol Ruth, first wife of Anthony R. Cognetti.",
+   "bio": "Mary Loretta Ruth, born Barrett, was born in Scranton, Pennsylvania, in 1909. She married Lawrence Rocco Ruth, a Scranton painter, and was the mother of Mary Carol Ruth, who in 1950 married Anthony R. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. She died in 1985.",
    "sources": [
     "[R4-S1] Lackawanna Co. marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
     "[R4-S2] FamilySearch tree PW29-VF6 (Mary Carol Ruth), parent entries P9SY-K4B and P9SB-F9V (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
@@ -67575,6 +67727,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1406 → M0084; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Mother of Mary Carol Ruth (H0500); maiden name Barrett per 1950 license."
@@ -67590,8 +67746,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503583 (probable); child of H0500 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Laurence T. Cognetti, a son of Anthony R. Cognetti and Mary Carol Ruth; probably the Larry Cognetti of Darien, Georgia, quoted at the 2016 Cognetti family Thanksgiving.",
+   "bio": "Laurence T. Cognetti is a son of Anthony R. Cognetti, the Scranton City Council president and a brother of John's grandmother Mary Cognetti Petriello, and of his first wife, Mary Carol Ruth. He is probably the Lawrence named among Anthony's four sons when his father died in 2008, and probably also the Larry Cognetti, by then of Darien, Georgia, who was quoted in the 2016 newspaper story on the fiftieth Cognetti family Thanksgiving, though neither identification is certain.",
    "sources": [
     "[R4-S3] FamilySearch 'Pennsylvania, Marriages, 1709-1940' index H5JW-HN3Z, listed on PW29-VF6 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
    ],
@@ -67600,6 +67756,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1407 → M0085; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Presumed living; name and relationship only. Probably the 'Larry Cognetti, now of Darien, Georgia' quoted in the 2016 Thanksgiving story and the son 'Lawrence' in Anthony R.'s 2008 obituary (both identifications unproven)."
@@ -67615,8 +67775,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of H0378 (proven); child of M0087 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Ryan Cognetti, owner of Caravia Fresh Foods in Clarks Summit and husband of Scranton Mayor Paige Cognetti; probably John's second cousin.",
+   "bio": "Ryan Cognetti is the owner and general manager of Caravia Fresh Foods in Clarks Summit, Pennsylvania, which his family opened in 2004. On 17 October 2017 he married Paige Gebhardt, who became Mayor of Scranton in 2020; they have two daughters. As a son of Joe Cognetti and a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti, he is probably John's second cousin.",
    "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
@@ -67627,6 +67787,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1408 → M0086; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Living adult; public facts only: owner/general manager of Caravia Fresh Foods, Clarks Summit (opened 2004); husband of Scranton Mayor Paige Cognetti (H0378), married 17 Oct 2017; two minor daughters (not recorded). Probably John Meier's second cousin."
@@ -67645,8 +67809,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of I282695503586 (probable); parent of H0499 (probable); child of M0086 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Joe Cognetti, Scranton produce dealer who ran Joseph Notarianni Produce and co-founded Caravia Fresh Foods; probably a first cousin of John's mother, Sharon.",
+   "bio": "Joseph \"Joe\" Cognetti is very probably a son of Salvatore D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and Elizabeth Notarianni, which would make him a first cousin of John's mother, Sharon. He owned Joseph Notarianni Produce in Scranton, the firm founded about 1925 by his Notarianni great-grandfather, until he sold it in 1998 or 1999. In 2004 he co-founded Caravia Fresh Foods in Clarks Summit with his son Ryan and his cousins Peter and Marianne Cognetti, naming it for his grandmother Michelena Caravia of San Mango d'Aquino in Calabria.",
    "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
@@ -67658,6 +67822,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1409 → M0087; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Presumed living adult. Owned Joseph Notarianni Produce, Scranton (founded by his Notarianni great-grandfather c.1925), sold 1998/1999; co-founded Caravia Fresh Foods, Clarks Summit, 2004, named for his grandmother Michelena Caravia of San Mango d'Aquino. Very probably a son of Salvatore D. Cognetti (I282695503586) and Elizabeth Notarianni (H0499), daughter of Joseph and Michelene Notarianni, so a first cousin of Sharon (Petriello) Meier."
@@ -67676,8 +67844,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Michelena Caravia Notarianni of San Mango d'Aquino, Calabria, wife of the Scranton produce dealer Joseph Notarianni and the namesake of Caravia Fresh Foods.",
+   "bio": "Michelena Notarianni, born Caravia, came from San Mango d'Aquino in Calabria, the same village as John's great-grandmother Helen Ferlaino. She was the wife of Joseph Notarianni, a Scranton produce dealer, and the mother of Elizabeth Notarianni, who married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. Her grandson Joe Cognetti named his store, Caravia Fresh Foods in Clarks Summit, after her.",
    "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
     "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
@@ -67687,6 +67855,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1410 → M0088; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: From San Mango d'Aquino, Calabria (the same village as Helen Ferlaino). Wife of Joseph Notarianni, Scranton produce dealer; mother of Elizabeth (Notarianni) Cognetti, wife of Sal D. Cognetti. Grandmother for whom Caravia Fresh Foods is named."
@@ -67702,8 +67874,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Scranton produce dealer who founded Joseph Notarianni Produce about 1925; father of Elizabeth Notarianni, wife of Sal D. Cognetti.",
+   "bio": "Joseph Notarianni was a produce dealer in Scranton, Pennsylvania, who founded Joseph Notarianni Produce about 1925; the firm stayed in the family until his great-grandson Joe Cognetti sold it in 1999. He married Michelena Caravia of San Mango d'Aquino, Calabria, and their daughter Elizabeth married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello.",
    "sources": [
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
     "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
@@ -67713,6 +67885,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1411 → M0089; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Scranton produce dealer, founder (c.1925) of Joseph Notarianni Produce; husband of Michelena Caravia; father of Elizabeth (Notarianni) Cognetti."
@@ -67728,8 +67904,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Edward T. Arnold, son of Harold E. Arnold and Elizabeth \"Betsy\" McGuire, John's great-aunt; married to Sandra.",
+   "bio": "Edward T. Arnold is the son of Harold E. Arnold and Elizabeth A. \"Betsy\" McGuire, John's great-aunt, of the Altoona area of Pennsylvania. He is married to Sandra. He was named among the survivors of his mother when she died in 2016.",
    "sources": [
     "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
    ],
@@ -67738,6 +67914,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1202 → M0090; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Living; name, relationship and source only. Wife Sandra L. named in the obituary."
@@ -67756,8 +67936,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Ann E. Closson, born Arnold, a daughter of Harold E. Arnold and Elizabeth \"Betsy\" McGuire, John's great-aunt.",
+   "bio": "Ann E. Closson, born Arnold, is a daughter of Harold E. Arnold and Elizabeth A. \"Betsy\" McGuire, John's great-aunt, of the Altoona area of Pennsylvania. She was named among the survivors of her mother when she died in 2016.",
    "sources": [
     "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
    ],
@@ -67766,6 +67946,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1203 → M0091; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Living; name, relationship and source only."
@@ -67784,8 +67968,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Jane M. Schreckengost, born Arnold, a daughter of Harold E. Arnold and Elizabeth \"Betsy\" McGuire, John's great-aunt; married to Joseph Schreckengost.",
+   "bio": "Jane M. Schreckengost, born Arnold, is a daughter of Harold E. Arnold and Elizabeth A. \"Betsy\" McGuire, John's great-aunt, of the Altoona area of Pennsylvania. She is married to Joseph Schreckengost. She was named among the survivors of her mother when she died in 2016.",
    "sources": [
     "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
    ],
@@ -67794,6 +67978,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1204 → M0092; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Living; name, relationship and source only. Husband Joseph named in the obituary."
@@ -67809,8 +67997,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of M0003 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Anthony \"Zitzer\" Genello (1926–2024), Scranton builder and Second World War veteran, husband of Ann Marie Petriello, the sister of John's grandfather.",
+   "bio": "Anthony \"Zitzer\" Genello was born on 11 June 1926, the son of Louis and Mary (Caprio) Genello, and grew up in the Bunker Hill section of Scranton, Pennsylvania. He graduated from Scranton Technical High School and entered the service, fighting in the Second World War with the 75th Infantry Division through two campaigns and earning the Combat Infantry Badge and the Bronze Star. In 1956 he and his brother Vito founded the East Scranton Lumber Company, which built custom homes in the Scranton area for more than 50 years; he lived in a house he had built himself.\n\nAbout 1955 or 1956 he married Ann Marie Petriello, a sister of John's grandfather John T. Petriello Sr., who like him had grown up on Bunker Hill. They were married for 68 years and had three children, Dr. Louis Genello and his wife Susan, Marisa Genello, and David Genello and his wife Kathleen, as well as six grandchildren and a great-grandson. His brother Vito, who used the spelling Gianello, and his sister Mary DePietro died before him. He died on 26 February 2024 at Wilkes-Barre General Hospital, aged 97.",
    "sources": [
     "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
     "[R4-S2] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
@@ -67821,6 +68009,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1301 → M0093; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: The son of Louis and Mary Caprio Genello, he grew up in Scranton's Bunker Hill section and graduated from Scranton Technical High School before entering the service. With his brother Vito (Gianello) he founded East Scranton Lumber Co. in 1956 and built custom homes for more than 50 years, living in a house he built himself. His siblings Vito Gianello and Mary DePietro died before him. His wife of 68 years was Ann Marie, and their children are Dr. Louis (Susan), Marisa and David (Kathleen) (S1).\noccupation: \"Builder; co-founder (1956) of East Scranton Lumber Company\""
@@ -67836,8 +68028,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Dr. Louis Genello of Dunmore, son of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather; married to Susan.",
+   "bio": "Dr. Louis Genello is the son of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather John T. Petriello Sr., and so a first cousin of John's mother, Sharon. He lives in Dunmore, Pennsylvania, with his wife Susan, and is probably the Dr. Louis Genello who practises dentistry in Scranton.",
    "sources": [
     "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
     "[R4-S2] University of Scranton Student Health Services referral directory (undated PDF): dental listing 'Hazzouri Dental, Dr. Louis Genello'. (secondary) https://matrix.scranton.edu/studentlife/studentaffairs/health-services/docs/referral-directory.pdf",
@@ -67848,6 +68040,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1302 → M0094; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Dr. Louis Genello (wife Susan), Dunmore; son of Anthony and Ann Marie Genello. Public listing: dentist at Hazzouri Dental, Scranton, per a University of Scranton health-services referral directory (name + 'Dr.' + Scranton match; probable)."
@@ -67863,8 +68059,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Marisa Genello of Scranton, daughter of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather.",
+   "bio": "Marisa Genello is the daughter of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather John T. Petriello Sr., and so a first cousin of John's mother, Sharon. She lives in Scranton, Pennsylvania.",
    "sources": [
     "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472"
    ],
@@ -67873,6 +68069,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1303 → M0095; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Daughter of Anthony and Ann Marie Genello, of Scranton (father's 2024 obituary)."
@@ -67888,8 +68088,8 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "David Genello of Fleetville, Pennsylvania, son of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather; married to Kathleen.",
+   "bio": "David Genello is a son of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather John T. Petriello Sr., and so a first cousin of John's mother, Sharon. He lives in Fleetville, Pennsylvania, with his wife Kathleen; their children are Brianna, Bryce and Bradyn.",
    "sources": [
     "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472"
    ],
@@ -67898,6 +68098,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported): new relative NEW-1304 → M0096; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
    "researchNotes": "round5: Son of Anthony and Ann Marie Genello; wife Kathleen; of Fleetville, PA; children Brianna, Bryce and Bradyn (names only) (father's 2024 obituary)."

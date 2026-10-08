@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Michelena Caravia Notarianni of San Mango d'Aquino, Calabria, wife of the Scranton produce dealer Joseph Notarianni and the namesake of Caravia Fresh Foods.",
+  "bio": "Michelena Notarianni, born Caravia, came from San Mango d'Aquino in Calabria, the same village as John's great-grandmother Helen Ferlaino. She was the wife of Joseph Notarianni, a Scranton produce dealer, and the mother of Elizabeth Notarianni, who married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. Her grandson Joe Cognetti named his store, Caravia Fresh Foods in Clarks Summit, after her.",
   "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
     "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
@@ -16,6 +16,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1410 → M0088; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: From San Mango d'Aquino, Calabria (the same village as Helen Ferlaino). Wife of Joseph Notarianni, Scranton produce dealer; mother of Elizabeth (Notarianni) Cognetti, wife of Sal D. Cognetti. Grandmother for whom Caravia Fresh Foods is named."

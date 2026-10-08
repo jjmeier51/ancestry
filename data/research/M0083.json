@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0500 (proven)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Lawrence Rocco Ruth (1905–1968), a Scranton painter and the father of Mary Carol Ruth, first wife of Anthony R. Cognetti.",
+  "bio": "Lawrence Rocco Ruth was born in Scranton, Pennsylvania, in 1905 and worked as a painter. He and his wife, Mary Loretta Barrett, were the parents of Mary Carol Ruth, who in 1950 married Anthony R. Cognetti, a brother of John's grandmother Mary Cognetti Petriello. He was still living in Scranton in 1950 and died in 1968.",
   "sources": [
     "[R4-S1] Lackawanna Co. marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
     "[R4-S2] FamilySearch tree PW29-VF6 (Mary Carol Ruth), parent entries P9SY-K4B and P9SB-F9V (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
@@ -16,6 +16,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1405 → M0083; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Father of Mary Carol Ruth (H0500), wife of Anthony R. Cognetti. Born in Scranton; lived on N. Lincoln Ave, Scranton, in 1950.\noccupation: \"Painter (1950)\""

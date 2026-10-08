@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/H0500.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -108,5 +112,7 @@
       "note": "The published JSON reports 1 photo and 1 memory; the image itself was not reachable (profile unpublished). Lead for John. (not downloaded: rights unknown)",
       "people": []
     }
-  ]
+  ],
+  "bio": "Mary Carol Ruth was born in Scranton, Pennsylvania, in 1929, the daughter of Lawrence Rocco Ruth, a painter, and Mary Loretta Barrett. On 27 May 1950, a 21-year-old clerical worker, she married Anthony R. Cognetti in Scranton, with the Rev. Thomas Tracy officiating; Anthony, then a 25-year-old restaurant owner, was a brother of John's grandmother Mary Cognetti Petriello and later president of the Scranton City Council. She was presumably the mother of Anthony's four sons, Lawrence, Mark, Peter, who became a doctor, and Michael, an attorney; a marriage record of a Laurence T. Cognetti names her as his mother.\n\nMary died on 24 December 1978 in Lackawanna County, aged 49, and was buried in Cathedral Cemetery, Scranton. Anthony later remarried, and his 2008 obituary is said to record that he was predeceased by his first wife, Mary Ruth, and survived by his wife of 28 years, the former Mary Flanagan.",
+  "summary": "Scranton clerical worker who in 1950 married Anthony R. Cognetti, a brother of John's grandmother, and was presumably the mother of his four sons; she died in 1978 aged 49."
 }

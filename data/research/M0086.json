@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of H0378 (proven); child of M0087 (proven)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Ryan Cognetti, owner of Caravia Fresh Foods in Clarks Summit and husband of Scranton Mayor Paige Cognetti; probably John's second cousin.",
+  "bio": "Ryan Cognetti is the owner and general manager of Caravia Fresh Foods in Clarks Summit, Pennsylvania, which his family opened in 2004. On 17 October 2017 he married Paige Gebhardt, who became Mayor of Scranton in 2020; they have two daughters. As a son of Joe Cognetti and a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti, he is probably John's second cousin.",
   "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1408 → M0086; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Living adult; public facts only: owner/general manager of Caravia Fresh Foods, Clarks Summit (opened 2004); husband of Scranton Mayor Paige Cognetti (H0378), married 17 Oct 2017; two minor daughters (not recorded). Probably John Meier's second cousin."

@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "Younger brother of Sharon Meier and John's maternal uncle; married to Rebecca, father of Jack and Mollie.",
-  "bio": "Paul Petriello, the younger brother of Sharon Meier, was listed as a surviving sibling in the February 2024 obituary of his brother John Jr. He is married to Rebecca, and their children are Jack and Mollie.",
+  "bio": "Paul Petriello is the youngest of the three children of John T. Petriello Sr. and Mary Cognetti and the younger brother of Sharon Meier, John's mother, which makes him John's maternal uncle. He is married to Rebecca, and their children are Jack and Mollie. He was named among the survivors of his brother John T. Petriello Jr. in 2024 and of his father in 2025.",
   "sources": [
     "https://themontynews.org/single-post/john-t-petriello-jr-65",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
@@ -62,6 +62,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/H0349.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "given": "Paul",

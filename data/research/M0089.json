@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Scranton produce dealer who founded Joseph Notarianni Produce about 1925; father of Elizabeth Notarianni, wife of Sal D. Cognetti.",
+  "bio": "Joseph Notarianni was a produce dealer in Scranton, Pennsylvania, who founded Joseph Notarianni Produce about 1925; the firm stayed in the family until his great-grandson Joe Cognetti sold it in 1999. He married Michelena Caravia of San Mango d'Aquino, Calabria, and their daughter Elizabeth married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello.",
   "sources": [
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
     "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
@@ -16,6 +16,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1411 → M0089; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Scranton produce dealer, founder (c.1925) of Joseph Notarianni Produce; husband of Michelena Caravia; father of Elizabeth (Notarianni) Cognetti."

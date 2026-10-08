@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/H0384.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -90,5 +94,7 @@
         "H0009"
       ]
     }
-  ]
+  ],
+  "bio": "Nancy Anne Stahl Meier was born in 1930 and was the wife of William F. Meier Jr., who died on 29 February 2004. She died in Florida on 13 May 2009, aged about 79, having lived at Clermont in Lake County. It is not certain whether Stahl was her maiden name or the surname of an earlier husband.",
+  "summary": "Nancy Anne Stahl Meier (1930–2009), wife of William F. Meier Jr.; she died in Florida, where she lived at Clermont."
 }

@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Marisa Genello of Scranton, daughter of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather.",
+  "bio": "Marisa Genello is the daughter of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather John T. Petriello Sr., and so a first cousin of John's mother, Sharon. She lives in Scranton, Pennsylvania.",
   "sources": [
     "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472"
   ],
@@ -15,6 +15,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1303 → M0095; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Daughter of Anthony and Ann Marie Genello, of Scranton (father's 2024 obituary)."

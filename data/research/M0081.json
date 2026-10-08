@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "John J. Cognetti, a son of John F. and Evelyn Cognetti of Green Tree, Pennsylvania, and a first cousin of John's mother; married to Sandra.",
+  "bio": "John J. Cognetti is a son of John F. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and his wife Evelyn, of Green Tree, Pennsylvania. He is married to Sandra. He was named with his brothers Dean J. and David among the survivors of his father, who died in 2013.",
   "sources": [
     "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
   ],
@@ -15,6 +15,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1403 → M0081; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Living, name and relationship only (spouse Sandra per obituary)"

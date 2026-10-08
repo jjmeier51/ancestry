@@ -33,9 +33,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0020.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "Wife of Tommy Meier Jr. and mother of Luca; she kept her surname, De Santis.",
+  "summary": "Wife of Tommy Meier Jr., John's older brother, and mother of Luca; she kept her surname, De Santis.",
   "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025",
@@ -60,5 +64,6 @@
   "researchNotes": "round5: Laura De Santis married Tommy Meier Jr. on 29 May 2021; their public wedding-registry page gives Leesburg, Virginia ([R4-S1]). She kept her surname. A Laura De Santis teaches health and physical education at Holmes Middle School (Fairfax County Public Schools, Alexandria), but no second identifier ties that teacher to Tommy's wife, so this is a candidate only ([R4-S2]).",
   "openQuestions": [
     "Is she the Laura De Santis who is a health & PE teacher at Holmes Middle School (FCPS)? Name-only match: John can confirm."
-  ]
+  ],
+  "bio": "Laura De Santis married Thomas F. \"Tommy\" Meier Jr., John's older brother, on 29 May 2021 in Leesburg, Virginia, and kept her surname. They have a son, Luca."
 }

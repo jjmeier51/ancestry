@@ -12,7 +12,7 @@
     "Elizabeth A. 'Betsy' Arnold"
   ],
   "tags": [],
-  "summary": "John's great-aunt; sister of Kathryn (possibly twin of Ann).",
+  "summary": "Elizabeth A. \"Betsy\" McGuire (1928–2016), John's great-aunt and identical twin of Ann \"Nancy\" McGuire; she married Harold E. Arnold and lived in the Altoona area.",
   "sources": [
     "FamilySearch G3PC-FFK",
     "notes/round3/irish_pa.md",
@@ -47,6 +47,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/H0062.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -152,5 +156,6 @@
       "note": "Image loads (3019x1812). A US government record, but from after 1931, so rights are set to unknown per the brief and it was not downloaded. (not downloaded: rights unknown)",
       "people": []
     }
-  ]
+  ],
+  "bio": "Elizabeth A. \"Betsy\" McGuire was born in Wilkes-Barre, Pennsylvania, on 8 March 1928, the identical twin of Ann \"Nancy\" McGuire and a daughter of Francis McGuire and Elizabeth McAvoy. Her sister Kathryn \"Kay\" Meier was John's grandmother, so Betsy was John's great-aunt. She graduated from Elmer L. Meyers High School in Wilkes-Barre in 1945, and on 13 September 1952 she married Harold E. Arnold in Wilkes-Barre. The couple settled in the Altoona area, and Betsy's widowed mother also died in Altoona in 1984, probably while living near her. Harold died on 27 May 1997.\n\nBetsy was a member of St. Joseph Catholic Church in Bellwood. She died at UPMC Altoona on 8 November 2016, aged 88, survived by a son, two daughters, six grandchildren and three great-grandchildren, and having outlived her sisters Jane Nagle, her twin Nancy Holland and Kay Meier. Her funeral Mass was celebrated at St. Joseph's in Bellwood, with committal at Calvary Cemetery, Altoona."
 }

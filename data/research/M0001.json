@@ -10,7 +10,7 @@
     "Tommy Meier Jr."
   ],
   "tags": [],
-  "summary": "Johnny's older brother; a living person, so not researched further.",
+  "summary": "John's older brother Tommy: Broad Run and UVa-Wise ballplayer, teacher, and Broad Run's head baseball coach, who led the Spartans to the 2021 Virginia Class 4 state title.",
   "residences": [
     {
       "date": "",
@@ -57,6 +57,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0001.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -158,5 +162,6 @@
       "note": "",
       "people": []
     }
-  ]
+  ],
+  "bio": "Thomas Francis \"Tommy\" Meier Jr. was born in 1990 at Alexandria City Hospital in Alexandria, Virginia, the eldest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's older brother. He grew up in Ashburn and graduated from Broad Run High School in 2008. There he played varsity football as a receiver and defensive back in 2006 and 2007, wearing No. 5 and catching 33 passes for 468 yards over the two seasons, and lined up alongside his younger brother Johnny on the 10-1 team of 2007; he also played for the Spartans' baseball programme. He went on to catch for the baseball team at the University of Virginia's College at Wise, again wearing No. 5, from about 2009 to 2013, when the school played in the NAIA Mid-South Conference.\n\nHe returned to Broad Run to teach and coach, and was the Spartans' head baseball coach from the 2016 season through 2024. His best-known season came in 2021, after the pandemic had cut the 2020 season short at three games. On 17 May he asked his players to \"give me 40 days to make memories for the next 40 years\", and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field, the game ending on a pick-off at first base, to win the Virginia Class 4 state championship. The team finished 16-1 and also won the Dulles District and Region 4C titles. It was the programme's first state title since 1991, the year after Tommy was born; the Loudoun Times-Mirror noted that the thirty-year gap matched the age of the head coach and former player, and he called the title \"a dream come true\" after a hard pandemic school year.\n\nA month earlier, on 29 May 2021, he had married Laura De Santis in Leesburg, Virginia; she kept her surname. They have a son, Luca."
 }

@@ -33,9 +33,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0023.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. An Army second lieutenant at Fort Sill in 2013.",
+  "summary": "Mike Meier, son of Danny and Annie Meier and John's first cousin: All-CSFL running back for Army's sprint football team at West Point, later a US Army officer.",
   "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
     "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
@@ -92,5 +96,6 @@
       "note": "Published by the Army West Point Athletic Association (a private non-profit), not a federal-government work, so treated as copyrighted. (not downloaded: rights copyrighted)",
       "people": []
     }
-  ]
+  ],
+  "bio": "Michael \"Mike\" Meier was born in 1989, the eldest child of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. He played football at Robinson Secondary School in Fairfax, where he was first-team all-district and all-region and was chosen for the Virginia state all-star game, and then went on to the United States Military Academy at West Point, where he majored in law.\n\nAt West Point he played sprint football, the version of the game for players under a weight limit. In 2010, his first season, he was named to the All-CSFL first team and led Army in rushing with 48.8 yards a game, 293 yards on 59 carries and five touchdowns; he scored in his first two games, at RPI and Mansfield, ran for 103 yards and a touchdown against Princeton and scored in the season-ending win at Navy that decided the league title. He wore No. 5 and was listed as a linebacker as a senior in 2011, when his brother Tim was also on the team. After graduating he served as Army's athletic intern, and by 2013 he was a second lieutenant in the US Army at Fort Sill, Oklahoma."
 }

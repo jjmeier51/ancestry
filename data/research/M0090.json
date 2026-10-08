@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Edward T. Arnold, son of Harold E. Arnold and Elizabeth \"Betsy\" McGuire, John's great-aunt; married to Sandra.",
+  "bio": "Edward T. Arnold is the son of Harold E. Arnold and Elizabeth A. \"Betsy\" McGuire, John's great-aunt, of the Altoona area of Pennsylvania. He is married to Sandra. He was named among the survivors of his mother when she died in 2016.",
   "sources": [
     "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
   ],
@@ -15,6 +15,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1202 → M0090; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Living; name, relationship and source only. Wife Sandra L. named in the obituary."

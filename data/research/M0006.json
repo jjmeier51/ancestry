@@ -25,9 +25,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0006.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded only from family obituaries.",
+  "summary": "Marissa Petriello Westlake, daughter of John T. Petriello Jr. and Joanne and John's first cousin; married to Zachary Westlake, mother of William, Alexander and Olivia.",
   "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
@@ -39,5 +43,6 @@
     "Marisa Westlake",
     "Marisa (Zach) Westlake"
   ],
-  "researchNotes": "round5: Spelled 'Marisa (Zach) Westlake' in her grandfather's 2025 obituary and 'Marissa Westlake (Zachary)' in her father's 2024 obituary ([R4-S1], [R4-S2]). Her children William, Alexander (Alex) and Olivia are great-grandchildren of John T. Petriello Sr.; minors, so names only."
+  "researchNotes": "round5: Spelled 'Marisa (Zach) Westlake' in her grandfather's 2025 obituary and 'Marissa Westlake (Zachary)' in her father's 2024 obituary ([R4-S1], [R4-S2]). Her children William, Alexander (Alex) and Olivia are great-grandchildren of John T. Petriello Sr.; minors, so names only.",
+  "bio": "Marissa Westlake, born Marissa Petriello, is the daughter of John T. Petriello Jr. and Joanne Petriello and a granddaughter of John T. Petriello Sr. and Mary Cognetti, which makes her John's first cousin. Her name is also spelled Marisa. She is married to Zachary \"Zach\" Westlake, and they have three children, William, Alexander and Olivia."
 }

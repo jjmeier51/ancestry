@@ -25,9 +25,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0003.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded only from family obituaries.",
+  "summary": "Ann Marie Petriello Genello, born 1933, sister of John's grandfather John T. Petriello Sr. and widow of the Scranton builder Anthony \"Zitzer\" Genello.",
   "sources": [
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
@@ -95,5 +99,6 @@
       "note": "Ann Marie's husband; the obituary also has a media album (1 album, not opened). Not downloaded. (not downloaded: rights copyrighted)",
       "people": []
     }
-  ]
+  ],
+  "bio": "Ann Marie Petriello was born in Scranton, Pennsylvania, in 1933, the second child and only daughter of James Petriello and Carmela \"Mollie\" Gianetta, and a sister of John's grandfather John T. Petriello Sr., which makes her John's great-aunt. In 1940 she was living with her parents and her brother John in the family home on Bunker Hill Street in Scranton; her younger brother Jim was born later.\n\nAbout 1955 or 1956 she married Anthony \"Zitzer\" Genello, a fellow native of the Bunker Hill section and the son of Louis and Mary Caprio Genello. A Scranton Tech graduate and Second World War veteran of the 75th Infantry Division, decorated with the Combat Infantry Badge and the Bronze Star, he founded the East Scranton Lumber Company with his brother Vito in 1956 and built custom homes around Scranton for more than 50 years. They were married for 68 years, until his death on 26 February 2024 at the age of 97. Their children are Dr. Louis Genello, who lives in Dunmore with his wife Susan, Marisa Genello of Scranton and David Genello of Fleetville, whose wife is Kathleen; they have six grandchildren and a great-grandson. Ann Marie was named among the survivors of her brother John when he died in March 2025."
 }

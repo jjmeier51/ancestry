@@ -16,7 +16,7 @@
   ],
   "tags": [],
   "summary": "John's mother; grew up in Scranton, Pennsylvania, studied at East Stroudsburg University, where she met her husband Tom Meier, and lives in Ashburn, Virginia.",
-  "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They married and raised three sons, Tommy, Johnny and Matt, and live in Ashburn, Virginia.",
+  "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They married and raised three sons, Tommy, Johnny and Matt, all of whom played football at Broad Run High School in Ashburn; Tommy went on to play baseball at UVa-Wise and Matt football at Frostburg State, whose roster bio names him as the son of Thomas and Sharon Meier. She and Tom live in Ashburn, Virginia.",
   "facts": [
     {
       "label": "Siblings",
@@ -85,6 +85,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492910.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [

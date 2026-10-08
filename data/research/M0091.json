@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Ann E. Closson, born Arnold, a daughter of Harold E. Arnold and Elizabeth \"Betsy\" McGuire, John's great-aunt.",
+  "bio": "Ann E. Closson, born Arnold, is a daughter of Harold E. Arnold and Elizabeth A. \"Betsy\" McGuire, John's great-aunt, of the Altoona area of Pennsylvania. She was named among the survivors of her mother when she died in 2016.",
   "sources": [
     "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
   ],
@@ -15,6 +15,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1203 → M0091; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Living; name, relationship and source only."

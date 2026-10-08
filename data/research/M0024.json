@@ -25,9 +25,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0024.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
+  "summary": "Tim Meier, son of Danny and Annie Meier and John's first cousin: starting quarterback of Army's sprint football team at West Point and twice All-CSFL second team.",
   "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
     "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
@@ -95,5 +99,6 @@
       "note": "Athletic-association photo; not a federal work. (not downloaded: rights copyrighted)",
       "people": []
     }
-  ]
+  ],
+  "bio": "Timothy \"Tim\" Meier, known in the family as Timmy, was born in 1991, a son of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. At Robinson Secondary School he was a four-time letterwinner and three-year starter in football and a member of the National Honor Society; the highlight of his school career was an upset of Chantilly in the playoffs as a junior.\n\nHe entered West Point in 2009 and was the Army sprint football team's starting quarterback from his first season, when he averaged 118 passing and 63 rushing yards a game, threw 10 touchdown passes and was named second-team All-CSFL. He repeated as second-team All-CSFL in 2010, opening the season with 307 passing yards and three touchdowns at RPI and then running for a career-high 142 yards and three touchdowns in the league-title win at Navy, finishing just behind his older brother Mike in rushing average. In 2011, wearing No. 4, he played running back, quarterback, punter and kick returner and earned honourable mention. His team biography named his parents Dan and Ann Meier and his siblings Mike, Joe and Mary, noted that his father had been a defensive lineman at NC State, and recorded that his favourite athlete was Brett Favre and that he enjoyed skydiving and rollercoasters. He was still a West Point cadet in 2013."
 }

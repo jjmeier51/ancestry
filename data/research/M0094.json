@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Dr. Louis Genello of Dunmore, son of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather; married to Susan.",
+  "bio": "Dr. Louis Genello is the son of Anthony \"Zitzer\" Genello and Ann Marie Petriello, the sister of John's grandfather John T. Petriello Sr., and so a first cousin of John's mother, Sharon. He lives in Dunmore, Pennsylvania, with his wife Susan, and is probably the Dr. Louis Genello who practises dentistry in Scranton.",
   "sources": [
     "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
     "[R4-S2] University of Scranton Student Health Services referral directory (undated PDF): dental listing 'Hazzouri Dental, Dr. Louis Genello'. (secondary) https://matrix.scranton.edu/studentlife/studentaffairs/health-services/docs/referral-directory.pdf",
@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1302 → M0094; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Dr. Louis Genello (wife Susan), Dunmore; son of Anthony and Ann Marie Genello. Public listing: dentist at Hazzouri Dental, Scranton, per a University of Scranton health-services referral directory (name + 'Dr.' + Scranton match; probable)."

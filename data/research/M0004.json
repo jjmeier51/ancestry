@@ -25,9 +25,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0004.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded only from family obituaries.",
+  "summary": "Jim Petriello, the youngest brother of John's grandfather John T. Petriello Sr.; married to MaryEllen.",
   "sources": [
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
@@ -54,5 +58,6 @@
       "found": "Same man as M0004",
       "assessment": "MERGE RECOMMENDATION: I282695504092 = M0004 (see I282695504092 file)."
     }
-  ]
+  ],
+  "bio": "James \"Jim\" Petriello is the youngest of the three children of James Petriello and Carmela \"Mollie\" Gianetta, born after 1940, and the younger brother of John's grandfather John T. Petriello Sr. and of Ann Marie Genello. He is married to MaryEllen. When his brother John died in March 2025 he was named as the only surviving brother."
 }

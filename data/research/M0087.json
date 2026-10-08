@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of I282695503586 (probable); parent of H0499 (probable); child of M0086 (proven)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Joe Cognetti, Scranton produce dealer who ran Joseph Notarianni Produce and co-founded Caravia Fresh Foods; probably a first cousin of John's mother, Sharon.",
+  "bio": "Joseph \"Joe\" Cognetti is very probably a son of Salvatore D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and Elizabeth Notarianni, which would make him a first cousin of John's mother, Sharon. He owned Joseph Notarianni Produce in Scranton, the firm founded about 1925 by his Notarianni great-grandfather, until he sold it in 1998 or 1999. In 2004 he co-founded Caravia Fresh Foods in Clarks Summit with his son Ryan and his cousins Peter and Marianne Cognetti, naming it for his grandmother Michelena Caravia of San Mango d'Aquino in Calabria.",
   "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
@@ -18,6 +18,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported): new relative NEW-1409 → M0087; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "researchNotes": "round5: Presumed living adult. Owned Joseph Notarianni Produce, Scranton (founded by his Notarianni great-grandfather c.1925), sold 1998/1999; co-founded Caravia Fresh Foods, Clarks Summit, 2004, named for his grandmother Michelena Caravia of San Mango d'Aquino. Very probably a son of Salvatore D. Cognetti (I282695503586) and Elizabeth Notarianni (H0499), daughter of Joseph and Michelene Notarianni, so a first cousin of Sharon (Petriello) Meier."
