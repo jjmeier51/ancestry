@@ -42,7 +42,10 @@
   "image": "Cornelius Van Wyck Lawrence.jpg",
   "extract": "Cornelius Van Wyck Lawrence (February 28, 1791 – February 20, 1861) was an American politician from New York. He became the first popularly elected mayor of New York City after the law was changed in 1834.",
   "query": "\"Cornelius Van Wyck Lawrence\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/cornelius-lawrence-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  },
  "I282604492974": {
   "status": "none",
@@ -411,6 +414,197 @@
   "checked": "2026-10-08",
   "portrait_file": ".cache/wikimedia/william-henry-harrison-portrait.jpg",
   "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "H0194": {
+  "status": "matched",
+  "title": "Judson LaMoure",
+  "qid": "Q6304254",
+  "url": "https://en.wikipedia.org/wiki/Judson_LaMoure",
+  "wd_birth": 1839,
+  "wd_death": 1918,
+  "image": "Judson LaMoure.jpg",
+  "extract": "Judson LaMoure (March 27, 1839 – March 16, 1918) was one of the first men to serve in the North Dakota state legislature; he served in the State Senate as a Republican. The state towns of Jud, Judson, and LaMoure along with LaMoure County were named after him.",
+  "query": "\"Judson LaMoure\"",
+  "checked": "2026-10-08",
+  "attached": "2026-10-08"
+ },
+ "H0195": {
+  "status": "matched",
+  "title": "Silas W. Lamoreux",
+  "qid": "Q7514238",
+  "url": "https://en.wikipedia.org/wiki/Silas_W._Lamoreux",
+  "wd_birth": 1843,
+  "wd_death": 1909,
+  "image": "Silas W. Lamoreaux 1897.jpg",
+  "extract": "Silas Wright Lamoreux or Lamoreaux (March 8, 1843 – August 5, 1909) was an American lawyer from Wisconsin who served as a member of the Wisconsin State Assembly and as the 28th Commissioner of the General Land Office of the United States.\nHe was the brother of Oliver Lamoreux, who served in the same session of the Wisconsin Assembly.",
+  "query": "\"Silas W. Lamoreux\"",
+  "checked": "2026-10-08",
+  "attached": "2026-10-08"
+ },
+ "H0196": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "names": [
+   "Joshua Mersereau"
+  ]
+ },
+ "H0288": {
+  "status": "matched",
+  "title": "Selah B. Strong",
+  "qid": "Q129445",
+  "url": "https://en.wikipedia.org/wiki/Selah_B._Strong",
+  "wd_birth": 1792,
+  "wd_death": 1872,
+  "image": "Selah Brewster Strong.png",
+  "extract": "Selah Brewster Strong (May 1, 1792 – November 29, 1872) was an American lawyer and politician from New York, serving one term in the U.S. House of Representatives from 1843 to 1845.",
+  "query": "\"Selah Brewster Strong\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/selah-b-strong-portrait.png",
+  "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "H0292": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "names": [
+   "Samuel Brewster"
+  ]
+ },
+ "H0294": {
+  "status": "matched",
+  "title": "Julia Gardiner Tyler",
+  "qid": "Q234525",
+  "url": "https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler",
+  "wd_birth": 1820,
+  "wd_death": 1889,
+  "image": "Julia Tyler.jpg",
+  "extract": "Julia Gardiner Tyler (née Gardiner; May 4, 1820 – July 10, 1889) was the first lady of the United States from June 26, 1844, to March 4, 1845, as the second wife of President John Tyler. A member of the influential Gardiner family, Tyler had many figures as suitors.",
+  "query": "\"Julia Gardiner Tyler\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/julia-gardiner-tyler-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "H0295": {
+  "status": "matched",
+  "title": "David Gardiner (politician)",
+  "qid": "Q5234018",
+  "url": "https://en.wikipedia.org/wiki/David_Gardiner_%28politician%29",
+  "wd_birth": 1784,
+  "wd_death": 1844,
+  "image": "Explosion aboard USS Princeton.jpg",
+  "extract": "David Gardiner (May 29, 1784 – February 28, 1844) was an American lawyer and politician who served as a member of New York State Senate from 1824 to 1828. He was the father of Julia Gardiner Tyler, second wife of U.S. President John Tyler.",
+  "query": "\"David Gardiner\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/david-gardiner-politician-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "H0297": {
+  "status": "matched",
+  "title": "Lyon Gardiner Tyler",
+  "qid": "Q6709631",
+  "url": "https://en.wikipedia.org/wiki/Lyon_Gardiner_Tyler",
+  "wd_birth": 1853,
+  "wd_death": 1935,
+  "image": "Lyon Gardiner Tylor.jpg",
+  "extract": "Lyon Gardiner Tyler Sr. (August 24, 1853 – February 12, 1935) was an American educator, politician, genealogist, and historian.",
+  "query": "\"Lyon Gardiner Tyler\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/lyon-gardiner-tyler-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "H0298": {
+  "status": "matched",
+  "title": "Harrison Ruffin Tyler",
+  "qid": "Q105142115",
+  "url": "https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler",
+  "wd_birth": 1928,
+  "wd_death": 2025,
+  "image": null,
+  "extract": "Harrison Ruffin Tyler (November 9, 1928 – May 25, 2025) was an American businessman, preservationist, and archivist. Tyler was the last living grandchild of the tenth U.S. president, John Tyler (1790–1862).",
+  "query": "\"Harrison Ruffin Tyler\"",
+  "checked": "2026-10-08",
+  "attached": "2026-10-08"
+ },
+ "H0305": {
+  "status": "matched",
+  "title": "Lawrence Grant White",
+  "qid": "Q49874153",
+  "url": "https://en.wikipedia.org/wiki/Lawrence_Grant_White",
+  "wd_birth": 1887,
+  "wd_death": 1956,
+  "image": "Lawrence Grant White.jpg",
+  "extract": "Lawrence Grant White (September 26, 1887 – September 8, 1956) was an American architect, a partner in the architectural firm of McKim, Mead & White, co-founded by his father Stanford White, and for five years the president of the National Academy of Design.",
+  "query": "\"Lawrence Grant White\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/lawrence-grant-white-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "H0309": {
+  "status": "matched",
+  "title": "Willoughby Jones",
+  "qid": "Q8022226",
+  "url": "https://en.wikipedia.org/wiki/Willoughby_Jones",
+  "wd_birth": 1820,
+  "wd_death": 1884,
+  "image": null,
+  "extract": "Sir Willoughby Jones 3rd Baronet (24 November 1820 – 21 August 1884) was a Norfolk landowner and an  English Conservative Party politician.  He was briefly Member of Parliament (MP) for the Cheltenham constituency.",
+  "query": "\"Willoughby Jones\"",
+  "checked": "2026-10-08",
+  "attached": "2026-10-08"
+ },
+ "H0314": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "names": [
+   "Isaac Thompson"
+  ]
+ },
+ "H0315": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "names": [
+   "Benjamin Franklin Thompson",
+   "Benjamin Thompson"
+  ]
+ },
+ "H0319": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "names": [
+   "Azariah Horton"
+  ]
+ },
+ "H0323": {
+  "status": "matched",
+  "title": "S. D. Warren",
+  "qid": "Q78058894",
+  "url": "https://en.wikipedia.org/wiki/S._D._Warren",
+  "wd_birth": 1817,
+  "wd_death": 1888,
+  "image": null,
+  "extract": "Samuel Dennis Warren (September 13, 1817 – May 11, 1888) was an American paper magnate and the founder of the S. D. Warren Paper Mill in Westbrook, Maine. Noted for his benevolence and paternalism, Warren built a commercial block adjacent to the mill, which is named in his honor.",
+  "query": "\"Samuel Dennis Warren\"",
+  "checked": "2026-10-08",
+  "attached": "2026-10-08"
+ },
+ "H0324": {
+  "status": "matched",
+  "title": "Tapping Reeve",
+  "qid": "Q947791",
+  "url": "https://en.wikipedia.org/wiki/Tapping_Reeve",
+  "wd_birth": 1744,
+  "wd_death": 1823,
+  "image": "Tapping Reeve.JPG",
+  "extract": "Tapping Reeve (October 1, 1744 – December 13, 1823) was an American lawyer, judge, and law educator. In 1784 he opened the Litchfield Law School, the first law school in the United States, in Litchfield, Connecticut.",
+  "query": "\"Tapping Reeve\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/tapping-reeve-portrait.jpg",
+  "license": "CC BY-SA 3.0",
   "attached": "2026-10-08"
  }
 }

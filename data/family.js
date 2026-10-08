@@ -27295,6 +27295,14 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Lamoreux-46; https://www.wikitree.com/photo/jpg/Lamoreux-46",
      "note": "",
      "file": "media/H0195/h0195-lamoreux-46.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Silas W. Lamoreux",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Silas Wright Lamoreux or Lamoreaux (March 8, 1843 – August 5, 1909) was an American lawyer from Wisconsin who served as a member of the Wisconsin State Assembly and as the 28th Commissioner of the General Land Office of the United States.\nHe was the brother of Oliver Lamoreux, who served in the same",
+     "url": "https://en.wikipedia.org/wiki/Silas_W._Lamoreux"
     }
    ],
    "photo": "media/H0195/h0195-lamoreux-46.jpg"
@@ -31248,6 +31256,22 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Strong-2465; https://www.wikitree.com/photo/jpg/Strong-2465-1",
      "note": "",
      "file": "media/H0288/h0288-strong-2465-1.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Selah B. Strong",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Selah Brewster Strong (May 1, 1792 – November 29, 1872) was an American lawyer and politician from New York, serving one term in the U.S. House of Representatives from 1843 to 1845.",
+     "url": "https://en.wikipedia.org/wiki/Selah_B._Strong"
+    },
+    {
+     "type": "photo",
+     "title": "Selah B. Strong (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Selah_Brewster_Strong.png",
+     "note": "Unknown authorUnknown author",
+     "file": "media/H0288/selah-b-strong-portrait.png"
     }
    ],
    "photo": "media/H0288/h0288-strong-2465.png"
@@ -31488,6 +31512,22 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Gardiner-131; https://www.wikitree.com/photo/jpg/Gardiner-131",
      "note": "",
      "file": "media/H0294/h0294-gardiner-131.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Julia Gardiner Tyler",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Julia Gardiner Tyler (née Gardiner; May 4, 1820 – July 10, 1889) was the first lady of the United States from June 26, 1844, to March 4, 1845, as the second wife of President John Tyler. A member of the influential Gardiner family, Tyler had many figures as suitors.",
+     "url": "https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler"
+    },
+    {
+     "type": "photo",
+     "title": "Julia Gardiner Tyler (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Julia_Tyler.jpg",
+     "note": "Francesco Anelli",
+     "file": "media/H0294/julia-gardiner-tyler-portrait.jpg"
     }
    ],
    "photo": "media/H0294/h0294-gardiner-131.jpg"
@@ -31549,6 +31589,22 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Gardiner-1156; https://www.wikitree.com/photo/jpg/Gardiner-1156",
      "note": "",
      "file": "media/H0295/h0295-gardiner-1156.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: David Gardiner (politician)",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "David Gardiner (May 29, 1784 – February 28, 1844) was an American lawyer and politician who served as a member of New York State Senate from 1824 to 1828. He was the father of Julia Gardiner Tyler, second wife of U.S. President John Tyler.",
+     "url": "https://en.wikipedia.org/wiki/David_Gardiner_%28politician%29"
+    },
+    {
+     "type": "photo",
+     "title": "David Gardiner (politician) (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Explosion_aboard_USS_Princeton.jpg",
+     "note": "N. Currier (firm)",
+     "file": "media/H0295/david-gardiner-politician-portrait.jpg"
     }
    ],
    "photo": "media/H0295/h0295-gardiner-1156.jpg"
@@ -31664,8 +31720,25 @@ window.FAMILY_DATA = {
      "source": "WikiTree",
      "note": "Lyon Gardiner Tyler, 1853-08-24 – 1935-02-12",
      "url": "https://www.wikitree.com/wiki/Tyler-149"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Lyon Gardiner Tyler",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Lyon Gardiner Tyler Sr. (August 24, 1853 – February 12, 1935) was an American educator, politician, genealogist, and historian.",
+     "url": "https://en.wikipedia.org/wiki/Lyon_Gardiner_Tyler"
+    },
+    {
+     "type": "photo",
+     "title": "Lyon Gardiner Tyler (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Lyon_Gardiner_Tylor.jpg",
+     "note": "Unknown authorUnknown author",
+     "file": "media/H0297/lyon-gardiner-tyler-portrait.jpg"
     }
-   ]
+   ],
+   "photo": "media/H0297/lyon-gardiner-tyler-portrait.jpg"
   },
   {
    "id": "H0298",
@@ -31707,6 +31780,14 @@ window.FAMILY_DATA = {
      "source": "WikiTree",
      "note": "Harrison Ruffin Tyler, 1928-11-09 – 2025-05-25",
      "url": "https://www.wikitree.com/wiki/Tyler-1051"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Harrison Ruffin Tyler",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Harrison Ruffin Tyler (November 9, 1928 – May 25, 2025) was an American businessman, preservationist, and archivist. Tyler was the last living grandchild of the tenth U.S. president, John Tyler (1790–1862).",
+     "url": "https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler"
     }
    ]
   },
@@ -32020,8 +32101,25 @@ window.FAMILY_DATA = {
      "source": "WikiTree",
      "note": "Lawrence Grant White, 1887-09-26 – 1956-09-08",
      "url": "https://www.wikitree.com/wiki/White-70660"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Lawrence Grant White",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Lawrence Grant White (September 26, 1887 – September 8, 1956) was an American architect, a partner in the architectural firm of McKim, Mead & White, co-founded by his father Stanford White, and for five years the president of the National Academy of Design.",
+     "url": "https://en.wikipedia.org/wiki/Lawrence_Grant_White"
+    },
+    {
+     "type": "photo",
+     "title": "Lawrence Grant White (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Lawrence_Grant_White.jpg",
+     "note": "Francis R. Appleton",
+     "file": "media/H0305/lawrence-grant-white-portrait.jpg"
     }
-   ]
+   ],
+   "photo": "media/H0305/lawrence-grant-white-portrait.jpg"
   },
   {
    "id": "H0306",
@@ -32116,8 +32214,17 @@ window.FAMILY_DATA = {
      "source": "Wikipedia",
      "note": "Cornelius Van Wyck Lawrence (February 28, 1791 – February 20, 1861) was an American politician from New York. He became the first popularly elected mayor of New York City after the law was changed in 1834.",
      "url": "https://en.wikipedia.org/wiki/Cornelius_Lawrence"
+    },
+    {
+     "type": "photo",
+     "title": "Cornelius Lawrence (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Cornelius_Van_Wyck_Lawrence.jpg",
+     "note": "Martha Joanna Lamb, Mrs. Burton Harrison",
+     "file": "media/H0307/cornelius-lawrence-portrait.jpg"
     }
-   ]
+   ],
+   "photo": "media/H0307/cornelius-lawrence-portrait.jpg"
   },
   {
    "id": "H0308",
@@ -32199,6 +32306,14 @@ window.FAMILY_DATA = {
      "source": "WikiTree",
      "note": "Willoughby Jones, 1820-11-24 – 1884-08-21",
      "url": "https://www.wikitree.com/wiki/Jones-71451"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Willoughby Jones",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Sir Willoughby Jones 3rd Baronet (24 November 1820 – 21 August 1884) was a Norfolk landowner and an  English Conservative Party politician.  He was briefly Member of Parliament (MP) for the Cheltenham constituency.",
+     "url": "https://en.wikipedia.org/wiki/Willoughby_Jones"
     }
    ]
   },
@@ -32853,6 +32968,14 @@ window.FAMILY_DATA = {
      "source": "Find a Grave (cited on WikiTree Warren-13498)",
      "note": "",
      "url": "https://www.findagrave.com/memorial/127474275/samuel-dennis-warren"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: S. D. Warren",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Samuel Dennis Warren (September 13, 1817 – May 11, 1888) was an American paper magnate and the founder of the S. D. Warren Paper Mill in Westbrook, Maine. Noted for his benevolence and paternalism, Warren built a commercial block adjacent to the mill, which is named in his honor.",
+     "url": "https://en.wikipedia.org/wiki/S._D._Warren"
     }
    ]
   },
@@ -32905,6 +33028,22 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Reeve-984; https://www.wikitree.com/photo/jpg/Reeve-984",
      "note": "",
      "file": "media/H0324/h0324-reeve-984.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Tapping Reeve",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Tapping Reeve (October 1, 1744 – December 13, 1823) was an American lawyer, judge, and law educator. In 1784 he opened the Litchfield Law School, the first law school in the United States, in Litchfield, Connecticut.",
+     "url": "https://en.wikipedia.org/wiki/Tapping_Reeve"
+    },
+    {
+     "type": "photo",
+     "title": "Tapping Reeve (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Tapping_Reeve.JPG",
+     "note": "LitchfieldHistoricalSociety",
+     "file": "media/H0324/tapping-reeve-portrait.jpg"
     }
    ],
    "photo": "media/H0324/h0324-reeve-984.jpg"
