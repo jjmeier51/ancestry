@@ -29,20 +29,35 @@
     {
       "date": "2026-10-08",
       "note": "Fourth pass (8 Oct 2026): John gave leads for Kathy, Nancy and Terry but none for this sibling; Doylestown/Yardley/Bucks County searches with the family's known surnames found nothing. Birth date still estimated."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John shared a background-report summary: John Francis Meier / Jack Meier, 59, Jamison, PA. Full name, age and town recorded; nothing public found."
     }
   ],
-  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of John Meier.",
+  "summary": "John Francis 'Jack' Meier, born about 1966 or 1967, one of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives at Jamison in Warwick Township, Bucks County; John's uncle.",
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
   ],
   "residences": [
     {
-      "date": "",
-      "place": "Levittown, Bucks County, Pennsylvania, USA",
-      "note": "Family home"
+      "date": "1960s–1980s",
+      "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+      "date": "2020s",
+      "place": "Jamison, Warwick Township, Bucks County, Pennsylvania, USA"
     }
   ],
   "openQuestions": [
     "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+  ],
+  "bio": "John Francis Meier, known as Jack, was born about 1966 or 1967 and grew up in Levittown, Pennsylvania, one of the eight Meier children and a younger brother of John's father, Tommy; he was a small boy when his mother died in 1970. He lives at Jamison in Warwick Township, Bucks County.",
+  "facts": [
+    {
+      "label": "Birth",
+      "value": "About 1966–67 (age 59 in October 2026 per a report John consulted)"
+    }
   ]
 }

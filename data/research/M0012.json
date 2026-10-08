@@ -29,11 +29,16 @@
     {
       "date": "2026-10-08",
       "note": "John (8 Oct 2026): lives near Doylestown; husband Richard 'Rick' McGinley; children Ryan, Daniel and Kate. Searched Doylestown/Bucks County news and obituaries for Kathy or Richard McGinley with these leads: nothing public found (people-search sites not used). Birth date still estimated."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John shared a background-report summary: Kathryn A. McGinley, aliases Kathryn A. Meier, Kate/Katie McGinley, born May 1955. Recorded name, birth month/year and aliases only."
     }
   ],
-  "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Richard 'Rick' McGinley; three children; lives near Doylestown.",
+  "summary": "Kathryn A. 'Kathy' Meier, born May 1955, the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; married to Richard 'Rick' McGinley, mother of three, living near Doylestown; John's aunt.",
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
   ],
   "residences": [
     {
@@ -58,8 +63,12 @@
     {
       "label": "Children",
       "value": "Ryan, Daniel (Danny) and Kate McGinley"
+    },
+    {
+      "label": "Birth",
+      "value": "May 1955 (month and year from a report John consulted; day not recorded)"
     }
   ],
   "manual": true,
-  "bio": "Kathryn 'Kathy' Meier, the eldest of the eight Meier children, grew up in Levittown, Pennsylvania. She married Richard 'Rick' McGinley, and they have three children, Ryan, Daniel and Kate. The family lives near Doylestown in Bucks County."
+  "bio": "Kathryn A. 'Kathy' Meier, also known as Kate or Katie, was born in May 1955, the eldest of the eight Meier children, and grew up in Levittown, Pennsylvania. She was fifteen when her mother died in 1970. She married Richard 'Rick' McGinley, and they have three children, Ryan, Daniel and Kate. The family lives near Doylestown in Bucks County."
 }

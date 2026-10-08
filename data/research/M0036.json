@@ -5,10 +5,11 @@
     "note": "Former husband of John's aunt Terry, per John Meier."
   },
   "tags": [],
-  "summary": "Former husband of Terry Meier; the marriage ended in divorce. First name not yet recorded.",
+  "summary": "Gregory L. 'Greg' Borgman, former husband of Terri Meier and father of Kaysie, Rylie and Bobby Borgman; the marriage ended in divorce.",
   "manual": true,
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
   ],
   "researchLog": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-10-08",
       "note": "John: three children with Terry (Kaysie, Rylie, Bobby). First name still unknown."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "First name Gregory L. from the report John shared (listed as a relative of Theresa A. Meier)."
     }
   ],
   "facts": [
@@ -45,5 +50,6 @@
       "label": "Children",
       "value": "Kaysie, Rylie and Bobby Borgman"
     }
-  ]
+  ],
+  "bio": "Gregory L. Borgman, known as Greg, married Terri Meier, the youngest sister of John's father. They have three children, Kaysie, Rylie and Bobby, and later divorced."
 }
