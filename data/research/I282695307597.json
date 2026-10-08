@@ -1,0 +1,30 @@
+{
+  "id": "I282695307597",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only (with a DNA image); unsourced and removed with Patrick's line."
+  },
+  "tags": [],
+  "summary": "Tree-only; disproven as John's ancestor.",
+  "bio": "Tree shows Thomas Heffernan 1736-Deceased (DNA image) as Patrick's father. No source; removed.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Thomas Heffernan 1736-Deceased (DNA image)"
+    }
+  ],
+  "sources": [
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Heffernan (b. 1736)",
+    "line": 5210
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

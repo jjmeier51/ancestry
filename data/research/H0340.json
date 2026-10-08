@@ -1,0 +1,30 @@
+{
+  "id": "H0340",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Grazia's mother in the 1916 death act and as Gaetano's wife in the 1876 death act (images read)."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's maternal 4th great-grandmother; Gaetano di Marino's (probably second) wife.",
+  "bio": "Round 2 found the FS tree naming Caterina di Leo as Grazia's mother, conflicting with the Ancestry tree (Maria d'Ambrosio). Round 3 confirmed Caterina from Grazia's death act (Morti 1916 act 22) and Gaetano's death act (Morti 1876 act 20, 'marito di Caterina di Leo'). She was dead by 1916. The surname matches Fr. Nunzio Di Leo, whose will funded Guardia's St. Rocco chapel after the 1656 plague (no proven link).",
+  "sources": [
+    "Antenati, Guardia, Morti 1916, act 22: https://antenati.cultura.gov.it/ark:/12657/an_ua524131/wj7o8Qr",
+    "Antenati, Guardia, Morti 1876, act 20: https://antenati.cultura.gov.it/ark:/12657/an_ua524100/wbdvxng",
+    "notes/round2/italian_gaps.md 4 and 8; notes/round3/italian_origins.md 1"
+  ],
+  "openQuestions": [
+    "Her parents, birth and marriage (Guardia)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Caterina di Leo (b. unknown)",
+    "line": 10523
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

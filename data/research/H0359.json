@@ -1,0 +1,25 @@
+{
+  "id": "H0359",
+  "link": {
+    "confidence": "probable",
+    "note": "1920 census household only."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's great-grandaunt.",
+  "bio": "Listed as Carrie in the 1920 census at 1028 Bunker Hill; b. c.1914.",
+  "sources": [
+    "1920 census image GQWT-4Z7"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Carrie Petrillo (b. 1914)",
+    "line": 11699
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

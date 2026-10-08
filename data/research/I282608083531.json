@@ -1,0 +1,53 @@
+{
+  "id": "I282608083531",
+  "link": {
+    "confidence": "probable",
+    "note": "Probable baptism at Langley Marish c. Jul 1611 (Bucks Bishop's Transcripts; Gyll 1862; WikiTree Aldridge-218)."
+  },
+  "given": "Emma",
+  "surname": "Aldridge",
+  "birth": {
+    "date": "ABT 1611",
+    "place": "Langley Marish, Buckinghamshire, England"
+  },
+  "aka": [
+    "Emma C Aldridge (tree)",
+    "Emma Topping"
+  ],
+  "tags": [],
+  "summary": "John's 11th-great-grandmother, wife of Capt. Thomas Topping.",
+  "bio": "Probably baptized at Langley Marish (a chapelry of Wraysbury), Bucks., c. Jul 1611. Her father Ambrose bought the manor of Remingham and Cow in Wraysbury in 1611 and sold it for £500 in 1613. Tree gives 1610–1665; Thomas Topping married three times, so whether she was Elnathan's mother rests on dates.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Emma C Aldridge… 1610–1665"
+    }
+  ],
+  "sources": [
+    "Gyll (1862) pp. 58, 63",
+    "Bucks Bishop's Transcripts",
+    "WikiTree Aldridge-218, https://www.wikitree.com/wiki/Aldridge-218"
+  ],
+  "openQuestions": [
+    "Was she the mother of Elnathan (b. 1640), given Thomas's three marriages?"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 13 (11th-great-grandparents)",
+    "line": 7940
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Emma Catherine Aldridge  m.  Topping\"; research uses \"Emma Aldridge\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 16 November 1610; research: ABT 1611."
+    }
+  ]
+}

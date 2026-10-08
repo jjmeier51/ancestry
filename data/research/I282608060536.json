@@ -1,0 +1,90 @@
+{
+  "id": "I282608060536",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Baptism (Gortnahoe 10 Sep 1808) and marriage (3 Feb 1833) as read by Dwyer from the parish registers; son Andrew's 1842 baptism names him. The tree's 'Thomas Heffernan 1791' is a different man."
+  },
+  "birth": {
+    "date": "1808-09-10",
+    "place": "Gortnahoe, County Tipperary, Ireland"
+  },
+  "death": {
+    "date": "BET 1852 AND 1864",
+    "place": "Ireland"
+  },
+  "occupation": "Coal miner at Mardyke",
+  "aka": [
+    "Thomas Heffernan of Mardyke"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 4th-great-grandfather; a coal miner at Mardyke in the Slieveardagh coalfield of Tipperary who died in Ireland before his widow and sons emigrated.",
+  "bio": "Thomas Heffernan was baptized at Gortnahoe on 10 Sep 1808, son of Humphrey Heffernan, 'a miner living at Lickfin', and Anastasia Ryan. He married Catherine Boney at Gortnahoe on 3 Feb 1833 and lived at Mardyke, where he was a miner (Dwyer, Branch 4). Mardyke and Lickfinn were collieries in the Slieveardagh coalfield; the Mining Company of Ireland opened its Mardyke mine in 1824 with a Cornish engine and 25 workers' cottages. His children were Jude (bapt. 14 Jul 1839), Andrew Humphrey (bapt. 3 Apr 1842), Richard (bapt. 22 Dec 1844), Catherine (bapt. 6 Feb 1848) and John (bapt. 29 Aug 1852). He died in Ireland, probably between 1852 and about 1864; his son Andrew's obituary mentions only 'his mother and brothers' coming to America. His brother Richard married Catherine's (possible) sister Anastasia Boney; his brothers James and Patrick were transported to New South Wales after the 1834 Ballynonty killing. TREE CORRECTION: Johnny's tree shows Andrew's father as 'Thomas Heffernan 1791-Deceased' (with an obituary-clipping image), son of Patrick Heffernan (1763-1871) and Catherine Neagle (1770). In Dwyer the Thomas baptized in 1791 is Thomas 'of Lanespark' (Branch 1), son of Patrick and Catherine Neagle, who married Catherine Shelly in 1831 - a different man. Dwyer found no proven link between the Patrick/Neagle family and the Humphrey/Ryan family.",
+  "residences": [
+    {
+      "date": "1808",
+      "place": "Lickfinn, Gortnahoe, County Tipperary, Ireland"
+    },
+    {
+      "date": "BET 1833 AND 1852",
+      "place": "Mardyke, Killenaule, County Tipperary, Ireland"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Thomas Heffernan 1791-Deceased (obituary clipping image) - wrong man; replace with Thomas bapt. 1808"
+    },
+    {
+      "label": "Dwyer branch",
+      "value": "Branch 4 (Heffernan of Mardyke)"
+    },
+    {
+      "label": "Barony",
+      "value": "Slieveardagh"
+    }
+  ],
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Wikipedia, Ballingarry Coal Mines: https://en.wikipedia.org/wiki/Ballingarry_Coal_Mines",
+    "ERIH, Mardyke Mine: https://www.erih.net/i-want-to-go-there/site/mardyke-mine",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Death date and burial in Ireland (Killenaule/Gortnahoe burial registers; civil death registration if after 1864).",
+    "Original register images (registers.nli.ie, Cashel & Emly) for his 1808 baptism and 1833 marriage."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Heffernan (b. 1808)",
+    "line": 4127
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry tree: Heffernan pedigree",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608060536/ancestry-screenshot-img-7807.jpg",
+      "people": [
+        "I282608060497"
+      ]
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 25 Sep 1791; research: 1808-09-10."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Death in the Ancestry tree: 1857? (family Tree info); research: BET 1852 AND 1864."
+    }
+  ]
+}

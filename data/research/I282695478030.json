@@ -1,0 +1,29 @@
+{
+  "id": "I282695478030",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree-only; 'also appears above Christopher' in the Youngs pedigree; no source; the Youngs line is itself unproven."
+  },
+  "tags": [],
+  "summary": "Tree-only Youngs ancestor; unsupported.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Thomas Younges 1475–1568"
+    }
+  ],
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8621
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

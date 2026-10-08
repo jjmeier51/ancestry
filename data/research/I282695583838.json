@@ -1,0 +1,80 @@
+{
+  "id": "I282695583838",
+  "link": {
+    "confidence": "probable",
+    "note": "SAR approved a 2017 supplemental application tracing patriot John Lamoreaux (1723-1809) to Thomas; 1752 deed to 'Charity Lamoree, wife of John Lamoree'. Caveat: the 1919 Lamoureux Record leaves Thomas in either John's or Peter's family; John's 1809 will not seen."
+  },
+  "given": "Jean",
+  "surname": "Lamoreaux",
+  "birth": {
+    "date": "1723",
+    "place": "New York City, New York, USA"
+  },
+  "death": {
+    "date": "1809-11-28",
+    "place": "Monroe, Orange County, New York, USA"
+  },
+  "aka": [
+    "John Lamoreaux",
+    "Jean (John) Lomereaux",
+    "John Lamoree",
+    "John Lamoreux"
+  ],
+  "tags": [
+    "military",
+    "patriot"
+  ],
+  "summary": "John's 7th-great-grandfather; Huguenot-descended New Yorker and DAR-recognized Revolutionary patriot (private, prisoner of war) of Monroe, Orange County.",
+  "bio": "Jean (John) Lamoreaux was born in New York City in 1723, son of Daniel Lamoureux and Jeanne Masse and grandson of the Huguenot immigrant André Lamoureux; the tree shows 'Jean (John) Lomereaux 1723-1809'. He married Charity Davenport, daughter of Capt. Thomas Davenport, who in 1752 deeded Goshen-precinct land to 'Charity Lamoree, wife of John Lamoree', next to her brother Oliver Davenport. The 1919 Lamoureux Record remembers his wife as 'Charity Danforth' - not a conflict, since 'Danforth's' was the local rendering of 'Davenport's'. He is DAR ancestor A068227 (private; signed the Articles of Association; prisoner of war). His son John was captured at Fort Montgomery in Oct 1777. He died at Monroe on 28 Nov 1809; his 1809 Orange Co. will has not been seen. Descendants spread to Pennsylvania, Utah and Arizona.",
+  "residences": [
+    {
+      "date": "1752",
+      "place": "Goshen Precinct, Orange County, New York, USA"
+    },
+    {
+      "date": "1809",
+      "place": "Monroe, Orange County, New York, USA"
+    }
+  ],
+  "military": [
+    {
+      "branch": "Orange County, New York militia",
+      "service": "American Revolution",
+      "rank": "Private",
+      "note": "DAR A068227; signed Articles of Association; prisoner of war; SAR patriot (application ACN 75325)"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Jean (John) Lomereaux 1723-1809 (father of Thomas)"
+    }
+  ],
+  "sources": [
+    "DAR GRS A068227",
+    "SAR ACN 75325: https://sarpatriots.sar.org/application/display/54603",
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.355-361 (1752 deed)",
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "Schenectady History, Lamoreaux family: https://www.schenectadyhistory.org/families/hmgfm/lamoreaux.html",
+    "My Maine Heritage: https://sites.rootsweb.com/~megen/reunion/ps409/ps409_195.html",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Orange Co. Surrogate: will of John Lamoreux of Monroe (d. 28 Nov 1809) to confirm Thomas as his son."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Jean Lamoreaux (b. 1723)",
+    "line": 4545
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Jean (John) Lomereaux\"; research uses \"Jean Lamoreaux\"."
+    }
+  ]
+}

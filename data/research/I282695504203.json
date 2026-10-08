@@ -1,0 +1,81 @@
+{
+  "id": "I282695504203",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as James's mother ('Mary Dibiasa') on the 1931 marriage license (image) and as John's wife by Geni and 1910/1920 censuses. Death date and birth year are probable (FS tree GQWT-LLS). Her parents remain probable (tree/FS only)."
+  },
+  "given": "Maria Antonia",
+  "surname": "DiBiasi",
+  "birth": {
+    "date": "ABT 1870",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "death": {
+    "date": "1935-07-05",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Marie Dibiase",
+    "Mary Dibiasa",
+    "Marie Petrillo",
+    "Mary Patrello",
+    "Maria Antonia Di Biasi"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's maternal 2nd great-grandmother; Guardia Lombardi-born wife of grocer John Petriello, mother of James.",
+  "bio": "Tree: 'Marie Dibiase', parents Giovanni P. Dibiasi (b. 1829) + Rosa Siconolfi (b. 1840). Geni names John's wife as Maria Antonia DiBiasi. FS tree GQWT-LLS: born 1870 Italy, died 5 Jul 1935 (Scranton). 1910 census: Marie, 40, mother of 6 children, all 6 living, immigration 1880; 1920 census: Mary, 43, immigration 1892. 1931 license: 'Mary Dibiasa', born Italy. Listed as dead on son Anthony's 1941 marriage license. Her brother (probable) was Domenico Antonio DiBiasi (b. 28 Sep 1856 Guardia, d. 8 Feb 1922 Scranton). Her birth act was not found: the Guardia Nati 1870 register has no index and needs a page-by-page scan (63 images). The 1850-54 Guardia marriage indexes were downloaded in Round 3 (ital/img/mi185x_m*.jpg) but not read, for her parents' marriage. Context: a Francesco De Biasi, 72, was the declarant at her father-in-law Pietro Petriello's death in 1901. A modern Guardia phone directory lists Di Biasi (12); paese.app counts 5 Di Biase arrivals from Guardia 1830-1912.",
+  "residences": [
+    {
+      "date": "1910",
+      "place": "1030 Ash Street, Scranton Ward 10, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1920",
+      "place": "1028 Bunker Hill, Scranton Ward 10, Lackawanna County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Immigration",
+      "date": "1880",
+      "place": "USA",
+      "description": "1910 census 1880; 1920 census 1892"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Marie Dibiase (Deceased)"
+    }
+  ],
+  "sources": [
+    "FamilySearch tree GQWT-LLS: https://ancestors.familysearch.org/en/GQWT-LLS",
+    "1910 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+    "1920 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/0/image.jpg",
+    "1931 marriage license No. 1107 (son James)",
+    "Geni: https://www.geni.com/people/Giovanni-Petriello/6000000144788328847",
+    "notes/round2/italian_gaps.md 4; notes/round3/italian_origins.md 2"
+  ],
+  "openQuestions": [
+    "Birth act: scan Guardia Lombardi Nati 1870 (unindexed, 63 images) on Antenati (AS Avellino)",
+    "PA death certificate 1935 (names parents)",
+    "Parents' marriage in Guardia 1850-54 indexes (downloaded, unread)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Maria Antonia DiBiasi (b. 1870)",
+    "line": 10104
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Marie Dibiase\"; research uses \"Maria Antonia DiBiasi\"."
+    }
+  ]
+}

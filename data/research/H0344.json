@@ -1,0 +1,29 @@
+{
+  "id": "H0344",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named in the 1867 Bisaccia marriage act (image read); given name 'Luigia(?)' is an uncertain reading."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's maternal 4th great-grandmother, of Bisaccia.",
+  "bio": "Mother of Angelamaria Fede per Bisaccia Matrimoni 1867 act 17. Given name read as 'Luigia(?)'.",
+  "sources": [
+    "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
+    "notes/round3/italian_origins.md 3"
+  ],
+  "openQuestions": [
+    "Confirm given name reading"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Luigia Roberto (b. unknown)",
+    "line": 10627
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

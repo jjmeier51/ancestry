@@ -1,0 +1,28 @@
+{
+  "id": "H0089",
+  "link": {
+    "confidence": "possible",
+    "note": "First name Elizabeth probable; the Leggett surname and her motherhood of Charity are speculative ('believed' to be a Leggett sister, Giles & Franklin p.xvii)."
+  },
+  "sex": "F",
+  "aka": [
+    "Elizabeth Davenport"
+  ],
+  "tags": [],
+  "summary": "Possible 8th-great-grandmother of John; second wife of Capt. Thomas Davenport.",
+  "bio": "Capt. Thomas Davenport's second wife Elizabeth was 'believed' to be a Leggett sister. Round 2 listed her as Charity's mother but flagged 'check which wife was Charity's mother'. WikiTree's chain Leggett -> Richardson -> Mead of Watford rests on the belief.",
+  "sources": [
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) p.xvii"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Elizabeth Leggett (b. unknown)",
+    "line": 4916
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,1 +1,1728 @@
-[]
+[
+  {
+    "id": "S001",
+    "title": "Whisper\", the Smithtown Bull statue",
+    "date": "the statue was proposed in the early 1900s and installed in Smithtown in 1941. Bull Smith died on 7 Mar 1692.",
+    "people": [],
+    "body": "Theories about Bull Smith's nickname include his stubbornness, and the idea that he issued his own \"Smith Bull\", like a papal bull, to settle his boundary disputes.\nLawrence Smith Butler proposed a bronze bull statue to his friend Charles Cary Rumsey. It sat in the Brooklyn Museum for years before it was installed in Smithtown in 1941. The bull is named \"Whisper\".\nFor years, local graduating seniors would sneak out and paint one particular part of the bull bright red.\nThe statue stands at the junction of Routes 25 and 25A. Bull Smith actually lived at Nissequogue.\nThe bull-ride legend itself (that Smith won his land by riding a bull around it in a day) is a myth, according to John's uploaded deep-dive report.",
+    "source": "the Drive screenshot IMG_7801, a Claude chat answer that listed sources the screenshot does not show; and the uploaded deep-dive report (\"The bull-ride story is a myth\"). ### 5.1 Meier, McGuire and German lines"
+  },
+  {
+    "id": "S002",
+    "title": "From Mayer to Meier: a name nobody formally changed",
+    "date": "1820–1940",
+    "people": [
+      "I282608085304",
+      "I282608064885",
+      "I282608064820",
+      "I282604493169"
+    ],
+    "body": "The original Munzingen registers write the family name **Mayer** every time, from Heinrich's 1820 marriage (as \"Henericus Mayer\") through Friedrich's 1835 baptism to his 1862 wedding.\n**Meyer:** the 1870 Hazleton census-taker wrote \"Meyer, Frederick\".\n**Myer:** the 1880 census-taker wrote \"Myer, Friedrich\".\n**Meier:** the spelling first appears on Henry J. Meier's 1892 Luzerne marriage docket (No. 11054). A clerk wrote it, so Henry may not have chosen it.\nFrom 1910 on, every record says Meier, with one exception: the 1940 census-taker wrote \"Meyer, Henry J.\"\nNo formal name change has been found. The tree's odd \"Henery Meier\" for Friedrich's father echoes the Latin-style \"Henericus\" of the 1820 entry.",
+    "source": "notes/round3/meier_line.md (1820 marriage, plink 5-480946-215; 1835 birth, 5-480946-440; 1862 marriage, 5-480947-440; 1870, 1880, 1910, 1920, 1940 census images; docket No. 11054); research-thread answer to John's question 6 (section 1.4)."
+  },
+  {
+    "id": "S003",
+    "title": "Four generations in the building trades",
+    "date": "c.1790–1940",
+    "people": [
+      "H0007",
+      "I282608085304",
+      "I282608064885",
+      "I282608064820"
+    ],
+    "body": "Each generation worked in a building trade:\nMichael was a citizen and carpenter (Zimmermann) of Munzingen.\nHeinrich was a mason (Maurer), and later a master mason (Maurermeister).\nFriedrich was a mason in Munzingen and a stone mason in Hazleton in 1870 and 1880.\nHenry was an iron moulder for nearly 50 years.",
+    "source": "Round 3 report section 2; notes/round3/meier_line.md."
+  },
+  {
+    "id": "S004",
+    "title": "Stonemasons from a wine village",
+    "date": "1672–1870",
+    "people": [
+      "I282608064885"
+    ],
+    "body": "Munzingen sits among the Tuniberg vineyards under the Counts of Kageneck, whose castle (Schloss) there dates from 1672. In Hazleton's East Ward in 1870, Friedrich's next-door neighbour was Anthony Werner, 51, also a stone mason from Baden. That points to a small network of Baden building tradesmen in Hazleton. Friedrich's eldest son Fred was already a coal-mine laborer at 18 in 1880.",
+    "source": "Round 3 report §5; notes/round3/meier_line.md §6 (1870 census p.42; 1880 census ED 137); notes/round2/black_forest.md (Kageneck)."
+  },
+  {
+    "id": "S005",
+    "title": "A brother-in-law with \"fever & ague",
+    "date": "11 Jun 1880",
+    "people": [
+      "H0029",
+      "I282608064885",
+      "I282608064896",
+      "H0028"
+    ],
+    "body": "On census day 1880, Gabriel \"Bergenmyer\", 29, a gardener born in Baden, was living with his sister's family in Hazleton. He was sick with \"fever & ague\", a malaria-type fever. He later moved to Sandusky, Ohio, where his brother Joseph already lived, and died there in 1896. This census entry is also what proves Maria's maiden name.",
+    "source": "notes/round3/meier_line.md (1880 census, ED 137 p.13); Round 3 report §5."
+  },
+  {
+    "id": "S006",
+    "title": "A moulder for fifty years",
+    "date": "1892–1940",
+    "people": [
+      "I282608064820"
+    ],
+    "body": "Henry was a moulder (foundry worker) when he married at 25 in 1892. He was still a \"moulder, iron works\" at 72 in the April 1940 census, months before he died. He lived at 16 Barney Street, Wilkes-Barre, which he owned; it was valued at $3,000.",
+    "source": "notes/round3/meier_line.md §3, §6; notes/round3/irish_pa.md."
+  },
+  {
+    "id": "S007",
+    "title": "The Tamaqua years",
+    "date": "c.1903–1906",
+    "people": [
+      "I282608064820",
+      "I282608060793",
+      "I282604493169",
+      "H0016"
+    ],
+    "body": "Around 1905–06 Henry's family lived in Tamaqua, Schuylkill County, close to Anna's birthplace of New Philadelphia. John's great-grandfather William was born there, and his brother Joseph John was born there on 30 Jun 1906.",
+    "source": "notes/round3/meier_line.md §6."
+  },
+  {
+    "id": "S008",
+    "title": "A census-taker's slip: \"born in New York",
+    "date": "Jan 1920",
+    "people": [
+      "I282608064820"
+    ],
+    "body": "The 1920 census sheet gives Henry's birthplace as \"New York\", and his children's father's birthplace as New York too. Every other record (1870, 1880, 1892, 1910, 1940) says Germany or Baden, so this was an informant error. Similarly, his son William's 1926 marriage application gives Henry's birthplace as \"Penna.\".",
+    "source": "notes/round3/meier_line.md §2–3."
+  },
+  {
+    "id": "S009",
+    "title": "Pringles and Meiers on the same census page",
+    "date": "14 Apr 1930",
+    "people": [
+      "I282604493169",
+      "I282608053249",
+      "I282604492974",
+      "I282608053666"
+    ],
+    "body": "In 1930 Addison Pringle's family lived at 28 Huston Street and William and Florence Meier at 55 Cedar Street, Wilkes-Barre. Both are on the same census sheet, ED 40-261, sheet 23B.",
+    "source": "notes/round3/meier_line.md §6."
+  },
+  {
+    "id": "S010",
+    "title": "Coal-company men",
+    "date": "1926–1950",
+    "people": [
+      "I282604493169",
+      "H0016"
+    ],
+    "body": "William worked his whole documented life in anthracite administration: clerk in 1926, clerk in a \"coal office\" in 1930, and supervisor at a coal company in 1950. His brother Joseph J. was an office clerk at a coal company in 1940.",
+    "source": "notes/round3/meier_line.md §6."
+  },
+  {
+    "id": "S011",
+    "title": "Two Plymouth Catholic weddings, three years apart; a white-collar generation",
+    "date": "1923–1926",
+    "people": [
+      "I282604493482",
+      "I282604493938",
+      "I282604493169",
+      "I282608053249"
+    ],
+    "body": "Frank McGuire married Elizabeth McAvoy on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). William F. Meier married Florence Pringle on 20 Apr 1926 (Rev. D. W. McCarthy, Wilkes-Barre). Both grooms and both brides were clerks or bookkeepers. That was a white-collar generation, one step up from the breaker boys of 1880; at 13, Addison's brother Orange Pringle had been a slate picker. In 1910 the Pringle and McGuire families lived in the same small town, Larksville, 18 years before their children married.",
+    "source": "notes/round3/irish_pa.md \"Interesting facts\"; Round 3 report §5 (\"From slate picker to clerk\")."
+  },
+  {
+    "id": "S012",
+    "title": "Iron, not coal, came first for the McGuires",
+    "date": "1870",
+    "people": [
+      "H0003",
+      "I282604494274"
+    ],
+    "body": "In 1870 Edward McGuire was a furnace helper in Mahoning Township outside Danville, home of the Montour Iron Works. Danville's rolling mill is widely credited with rolling the first T-rails in America, in 1845. His son James moved to the Plymouth/Larksville coal towns by the 1880s.",
+    "source": "notes/round3/irish_pa.md (1870 census image; Wikipedia: Danville, PA, context)."
+  },
+  {
+    "id": "S013",
+    "title": "Families tied twice over",
+    "date": "1899–1923",
+    "people": [
+      "I282604498567",
+      "H0066",
+      "H0064",
+      "H0065",
+      "I282604494275",
+      "I282604493482",
+      "I282604493938"
+    ],
+    "body": "The McGuire, Jones and McAvoy families were joined twice before Frank and Elizabeth married:\nElizabeth McAvoy's sister Agnes married Joseph S. Jones, brother of Frank's mother Anna C. (Jones) McGuire.\nElizabeth's widowed mother Catherine (Murphy) McAvoy married John H. Jones, and in 1920 Elizabeth lived in his household.",
+    "source": "notes/round3/irish_pa.md §D."
+  },
+  {
+    "id": "S014",
+    "title": "Juliana Senn: an orphan given a house",
+    "date": "16 Oct 1820",
+    "people": [
+      "I282608085305",
+      "H0008",
+      "I282608085304",
+      "H0007"
+    ],
+    "body": "The 1820 entry reads: \"On 16 Oct 1820 the 24-year-old mason Henericus Mayer, son of the local citizen and carpenter Michael Mayer, was married with house No. 68 to the parentless local citizen's daughter Juliana Senn, born illegitimately here to Juliana Senn, aged 22.\" The witnesses were Heinrich Schmid and Heinrich Kuner[?], and the entry is signed by Flamm, parish priest. The couple lived in house No. 68, which apparently came with the marriage.",
+    "source": "notes/round3/meier_line.md §5 (L 10 Nr. 1590 marriages 1820 No. 3, plink 5-480946-215)."
+  },
+  {
+    "id": "S015",
+    "title": "1857: a hard year in house No. 68",
+    "date": "1857",
+    "people": [
+      "H0025",
+      "H0026",
+      "H0019"
+    ],
+    "body": "Friedrich's sister Carolina died on 21 May 1857 and his brother Johann Baptist Alois on 25 Jun 1857. His sister Maria Anna Creszentia married Joseph Wenz the same year, on 26 Feb 1857. The research notes flag this cluster as worth checking in the burial register.",
+    "source": "notes/round3/meier_line.md §5."
+  },
+  {
+    "id": "S016",
+    "title": "Hard times in 1853: the glazier dies",
+    "date": "Apr–May 1853",
+    "people": [
+      "I282608064919",
+      "H0033",
+      "I282608064942",
+      "I282608064896",
+      "H0034"
+    ],
+    "body": "Servatius, a master joiner and glazier, died at 46 on 19 Apr 1853, after receiving the last sacraments. His brother-in-law Friedrich Heitzler, the village gravedigger, witnessed the burial. About three weeks later Servatius's toddler son Heinrich died. Maria Anna was 16.\nThis is the kind of collapse that pushed Breisgau families to emigrate in the 1850s, and her brother Joseph did go to Ohio.\nThat this is why Maria Anna left is speculative.\nThe deep-dive put the same timing in context: more than one million Germans emigrated to the US between 1848 and 1860, with the peak of 239,000 in 1854.",
+    "source": "notes/round3/german_origins.md (deaths 1853 Nos. 8–9, plink 5-480947-286); deep-dive report (bpb)."
+  },
+  {
+    "id": "S017",
+    "title": "Measles, 1815",
+    "date": "29 Apr 1815",
+    "people": [
+      "H0035",
+      "I282695502792",
+      "H0036"
+    ],
+    "body": "Veronica, about 1½ years old and the daughter of the gamekeeper Joseph Heizler, died of measles at Munzingen. Johann Federer witnessed the entry. The record also shows that Joseph was alive and living in Munzingen in 1815.",
+    "source": "notes/round3/german_origins.md (plink 5-480946-119)."
+  },
+  {
+    "id": "S018",
+    "title": "The Basel connection",
+    "date": "1838–1844",
+    "people": [
+      "H0048",
+      "H0049"
+    ],
+    "body": "The Munzingen 1844 death register (No. 11) contains a copied, certified extract recording the death in Basel on 1 Apr 1844 of Agatha Carolina Birkenmeyer, b. 28 Jan 1838. She was the daughter of Johann Birkenmeyer of Munzingen, a craftsman (Handwerksgehilfe?), and Carolina Belinger[?]. This fits the Johann Birkenmeier born in Munzingen in 1808, a master mason in Basel. That he was a brother or half-brother of Servatius is speculative.",
+    "source": "notes/round3/german_origins.md (plink 5-480947-125); GEDBAS 84206299."
+  },
+  {
+    "id": "S019",
+    "title": "The village priest and the village teacher",
+    "date": "1834–1842",
+    "people": [
+      "I282608064885",
+      "I282608064896",
+      "H0028"
+    ],
+    "body": "Every Munzingen entry from 1834 to 1842 was signed by the parish priest Franz Sales Faller, Pfarrer and Dekan (dean). The teacher Johann Schell witnessed almost every baptism, and his wife Maria Anna was Friedrich Mayer's godmother in 1835.",
+    "source": "notes/round3/german_origins.md; notes/round3/meier_line.md."
+  },
+  {
+    "id": "S020",
+    "title": "Gamekeepers to the Counts of Kageneck: how an Ibental family reached Munzingen",
+    "date": "1672–1835",
+    "people": [
+      "I282695502792",
+      "I282695502848",
+      "I282608064942"
+    ],
+    "body": "The Counts of Kageneck held Munzingen from the mid-17th century and built the Schloss there in 1672. They acquired Stegen, with the lordship over the Ibental, in 1702.\nIn the Ibental, Jakob Heitzler was \"Kageneck'scher Jäger in Unteribental, Waldhüter\", a gamekeeper and forest warden. He took part in a 1789 lawsuit.\nAgatha's father Joseph Heizler was the \"herrschaftlicher Jäger\" (seigneurial gamekeeper) at Munzingen.\nA Kageneck gamekeeper's son serving as the family's gamekeeper at their other estate would explain how an Ibental gamekeeping family ended up in Munzingen. This link is probable.\nA later Count, Heinrich Julius Graf von Kageneck (1835 Freiburg – 1887 Munzingen), died at Munzingen. The Kagenecks are employers only, not kin.",
+    "source": "notes/round2/black_forest.md (GEDBAS 1262173156, 1260449205; de.wikipedia Kageneck; archINFORM Schloss Munzingen); notes/round3/german_origins.md; deep-dive report."
+  },
+  {
+    "id": "S021",
+    "title": "The Jägerhof",
+    "date": "1700–2023",
+    "people": [
+      "I282695503074",
+      "H0042",
+      "H0043"
+    ],
+    "body": "The database lists Martin Begelspacher (1656–1711) as \"Jägerhofbauer\", farmer of the Jägerhof in Unteribental. In 1751 the elder Josef Heitzler, \"Bauer und Kageneck'scher Jäger in Stegen\", bought at auction the property later called the Jägerhof, and married Katharina Schlupf that same year. His son, the teacher Joseph, was born and died on the Jägerhof (1765–1828). Heitzlers still lived there in 1899, and the \"Jägerhofsäge\" sawmill was still a landmark of Unteribental in 2023. If it is the same farm, the Begelspachers and Heitzlers lived on the same homestead two generations apart. Josef Heitzler \"vom Jägerhof\" was mayor of Unteribental from 1919 to 1924. The Begelspacher part applies to John if the probable Joseph–Jakob link holds; the elder Josef's line is now same-clan only.",
+    "source": "notes/round2/black_forest.md (GEDBAS 1262178929/30; Buchenbach Mitteilungsblatt 2 Feb 2023); deep-dive report; Round 2 report §4."
+  },
+  {
+    "id": "S022",
+    "title": "Andreas Heitzler, village headman",
+    "date": "1801–1813",
+    "people": [
+      "H0037"
+    ],
+    "body": "Andreas built the \"Jägerhäusle\" (hunter's cottage) on manorial land in 1801 and was Vogt (village headman) of Unteribental in 1813. His brother Jakob (1781–1847) was a hunter and tailor who owned house No. 36 in Oberbirken.",
+    "source": "deep-dive report (GEDBAS 1262174650, 1262175038)."
+  },
+  {
+    "id": "S023",
+    "title": "A schoolmaster in a farm valley (collateral, ruled-out line)",
+    "date": "1786",
+    "people": [
+      "H0043"
+    ],
+    "body": "Joseph Heitzler taught the Ibental children from 1786, under Austrian rule, while also working as a shoemaker. Village teaching was a part-time, poorly paid job then. He is no longer considered John's ancestor.",
+    "source": "notes/round2/black_forest.md (GEDBAS 1420120011)."
+  },
+  {
+    "id": "S024",
+    "title": "The Wehrlehof Stöckle",
+    "date": "c.1723–1820s",
+    "people": [
+      "I282695502853",
+      "I282695502860",
+      "H0046"
+    ],
+    "body": "On Black Forest single farms, the retired or non-inheriting family lived in the Stöckle, a small side house. The later Wehrlehof Heitzlers had \"grown poor\" and lived there. The same farm was home in 1723–24 to Mathias Haizler and Ottilia Schirk.",
+    "source": "notes/round2/black_forest.md (GEDBAS 1262183142, 1262183134)."
+  },
+  {
+    "id": "S025",
+    "title": "Anerbenrecht: one son takes the farm",
+    "date": "17th–19th centuries",
+    "people": [],
+    "body": "In the Black Forest single-farm zone, one son, usually the youngest, inherited the whole farm undivided and paid off his siblings; these were the \"closed farm estates\" (geschlossene Hofgüter). That is why non-heirs became gamekeepers, weavers, day labourers or emigrants. Birkenmaier sons in the database appear as Weber (weaver), Säger (sawyer) and Taglöhner (day labourer).",
+    "source": "notes/round2/black_forest.md (Langenbeck, Hofnamen des Schwarzwaldes, Alemannisches Jahrbuch 1962/63, p.100; GEDBAS 1262179509, 1262180212, 1262179508); Round 2 report §4."
+  },
+  {
+    "id": "S026",
+    "title": "Farm names: the Schirkenhof and the Eckpeter",
+    "date": "1600s–1700s",
+    "people": [
+      "I282695503004",
+      "I282695503013"
+    ],
+    "body": "Most Black Forest farm names come from an owner's name, which explains names like the \"Schirkenhof\", where Agatha Steiert died. Some combine a terrain word with a nickname; Langenbeck's own example is the \"Eckpeter\" in Unter-Ibental.",
+    "source": "notes/round2/black_forest.md (Langenbeck p.101; GEDBAS 1262182131); deep-dive report."
+  },
+  {
+    "id": "S027",
+    "title": "Steinhart becomes Steiert",
+    "date": "1653",
+    "people": [
+      "I282695503051",
+      "I282695503054"
+    ],
+    "body": "The Dreisamtal database notes that Christian's surname changed from Steinhart to Steiert.",
+    "source": "deep-dive report (GEDBAS 1444214165)."
+  },
+  {
+    "id": "S028",
+    "title": "Further Austria: Austrian subjects until 1805",
+    "date": "1297–1827",
+    "people": [],
+    "body": "Kirchzarten belonged to St. Gallen Abbey until 1297 and to the city of Freiburg from 1492 to 1805, inside Habsburg Further Austria. The Breisgau passed to Baden by the 1805 Treaty of Pressburg. Every German ancestor born before 1805 was therefore an Austrian subject, while Servatius (b. 1807) and Agatha (b. 1813) were born in Baden. Buchenbach's coat of arms still carries the Austrian striped shield. Unteribental was joined to Stegen and became independent again in 1827.",
+    "source": "deep-dive report (Wikipedia Breisgau; LEO-BW); notes/round2/black_forest.md (en/de.wikipedia Kirchzarten, Buchenbach)."
+  },
+  {
+    "id": "S029",
+    "title": "A Celtic town, a general's retreat and a royal bride's road",
+    "date": "antiquity–1796",
+    "people": [],
+    "body": "Zarten stands on Tarodunum, a 190-hectare Celtic fortified town that Ptolemy recorded by name. Its Heidengraben rampart is still visible, and finds there include a Celtic mint, ironworking with Black Forest ore and imported Italian wine. Up the valley, the Höllental gorge was General Moreau's retreat route in 1796, and it was made into a proper road for Marie Antoinette's bridal procession.",
+    "source": "deep-dive report (wissen.de; University of Tübingen; Wikipedia Höllental)."
+  },
+  {
+    "id": "S030",
+    "title": "1848–49 in Baden",
+    "date": "1848–1849",
+    "people": [
+      "I282608064919"
+    ],
+    "body": "The Baden revolution came in three stages: Hecker's uprising in April 1848, Struve's putsch in September 1848, and the May 1849 rising. It ended when the fortress of Rastatt fell to the Prussians on 23 Jul 1849. Servatius would have been 41 in 1848; nothing ties him to the revolution.",
+    "source": "notes/round2/black_forest.md (Wikipedia: Baden Revolution)."
+  },
+  {
+    "id": "S031",
+    "title": "Emigration as poor relief",
+    "date": "1850–1862",
+    "people": [],
+    "body": "In 1861 Kirchzarten paid half the fare, 60 gulden, to send Xaver Ruh, a 28-year-old serial thief, to America rather than risk a fourth theft. The state paid the rest, and he was handed over at Bremen on 15 Mar 1861. In 1862 the St. Märgen council paid to send two children after their parents, who had fled to New York. Herrenwies paid to send poor residents in 1850 with the Grand Duke's approval, and Bühlertal sent more than 300 people in 1855.",
+    "source": "notes/round2/black_forest.md (Hilger, Auswanderer aus dem Schwarzwald, Badische Heimat 80, pp.600–601); deep-dive report (Rome Sentinel; Bühlertal Migration)."
+  },
+  {
+    "id": "S032",
+    "title": "Munzingen's emigrant road to Ohio",
+    "date": "1820–1904",
+    "people": [
+      "H0028",
+      "H0029"
+    ],
+    "body": "Munzingen's village chronicle lists emigrants from 1820 to 1899, including Franz Michel, who left in 1854 and is \"assumed to be in Ohio\". Rosalia Dämpfle, born in Munzingen in 1829, died in 1904 at Sherman, Huron Co., Ohio, the county next to Sandusky. Two of Maria Anna's brothers ended their lives in Sandusky.",
+    "source": "notes/round2/black_forest.md (Hilger pp.598–603; GEDBAS 1370049904)."
+  },
+  {
+    "id": "S033",
+    "title": "News from Kirchzarten in the coal fields",
+    "date": "1895",
+    "people": [],
+    "body": "The German-language Scranton Wochenblatt ran \"Baden\" home-news columns. In 1895, under the dateline Kirchzarten, it reported that Graf Max von Kageneck, lord of Stegen, had been thrown and killed by his horse on the road from Kirchzarten to Zarten. Under the same dateline it reported the arrest of a Kappel miller and baker. (At the time the family was still thought to be from Kirchzarten.)",
+    "source": "notes/round2/meier_gaps.md (Wochenblatt 5 Jul 1895 p.7; 12 Apr 1895 p.7)."
+  },
+  {
+    "id": "S034",
+    "title": "Hazleton grows up around them",
+    "date": "1860–1920",
+    "people": [
+      "I282608064885",
+      "I282608064896"
+    ],
+    "body": "The first wave of immigrants to Hazleton, in the 1840s and 1850s, was mostly German and Irish. The town grew from about 1,000 people in 1860 to nearly 7,000 by 1880 and 32,000 by 1920. It became a city on 4 Dec 1891 and that year became \"the third city in the United States to establish a citywide electric grid\". Hazleton also had an organized German community by the 1860s, and Christ Evangelical Lutheran Church was baptizing immigrants' children there by 1862. The family's likely Catholic parish was Holy Trinity German Catholic (123 W. Oak St), but that is unverified.",
+    "source": "notes/round2/meier_gaps.md (Wikipedia: Hazleton); notes/meier_mcguire.md (Genealogy Trails)."
+  },
+  {
+    "id": "S035",
+    "title": "The Lattimer Massacre",
+    "date": "10 Sep 1897",
+    "people": [
+      "I282608064885",
+      "I282608064896"
+    ],
+    "body": "Sheriff's deputies shot 19 unarmed striking miners just outside Hazleton. The Freeland Tribune's report of the 1898 deputies' trial names a wounded striker \"Andrew Meier\", whose leg was amputated. He was almost certainly a Slavic miner with an anglicized name, not a relative. Friedrich and Maria were most likely living in Hazleton at the time.",
+    "source": "notes/round2/meier_gaps.md (Freeland Tribune 14 Feb 1898); Round 2 report §4."
+  },
+  {
+    "id": "S036",
+    "title": "Fred Meyer's little son strays",
+    "date": "26 Sep 1889",
+    "people": [],
+    "body": "\"Mr. and Mrs. Fred Meyer of Hazleton visited friends in town [Freeland] on Sunday. They were accompanied by their little son, Joseph, who strayed away…\" A \"little son\" does not fit a 54-year-old Friedrich, so this is probably a younger Fred Meyer.",
+    "source": "notes/round2/meier_gaps.md (Freeland Tribune 26 Sep 1889 p.1)."
+  },
+  {
+    "id": "S037",
+    "title": "Fred. Meier, Democratic committeeman",
+    "date": "Jan 1893",
+    "people": [
+      "I282608064885"
+    ],
+    "body": "A \"Fred. Meier\" was named a conferee for the Democratic poor-district convention (Hazleton/Freeland poor district) and then elected to the Luzerne portion's standing committee. That implies a voter. Only the name is proven, and he could equally be the son.",
+    "source": "notes/meier_mcguire.md (Freeland Tribune 5 Jan 1893 p.1)."
+  },
+  {
+    "id": "S038",
+    "title": "The Rockafellow bank scandal (unlinked Mrs. Anna Meier)",
+    "date": "1893–1897",
+    "people": [],
+    "body": "Mrs. Anna (Maria) Meier carried $700 to Rockafellow's bank the evening before it failed. She became the lead prosecutrix in the 1893–97 embezzlement trials of the banker F. V. Rockafellow and took the case to the Superior Court, which reversed a lower-court ruling in 1897. She confronted the judge in open court (\"did not think justice had been done\"). She died in July 1897 after a fall on her way home from friends on Grove Street. She is unlinked to the family.",
+    "source": "notes/meier_mcguire.md; notes/round2/meier_gaps.md (Freeland Tribune 23 Nov 1896, 22 Feb 1897, 12 Jul 1897; Scranton Tribune 9 Jul 1897)."
+  },
+  {
+    "id": "S039",
+    "title": "Agnes flood, June 1972",
+    "date": "Jun 1972",
+    "people": [
+      "I282608053249"
+    ],
+    "body": "Florence (Pringle) Meier, widowed in 1963, was probably still in Wilkes-Barre in 1972, though her residence after 1963 is unproven. The Agnes flood broke the river levee first at the Forty Fort cemetery and washed dozens of graves away; \"people returning to their homes after the flood found caskets in their backyards\". The tie to the family is speculative.",
+    "source": "notes/round2/meier_gaps.md (Wilkes University cemetery data page); Round 2 report §4."
+  },
+  {
+    "id": "S040",
+    "title": "Levittown, PA",
+    "date": "1952–2008",
+    "people": [
+      "I282604492974",
+      "I282604493056"
+    ],
+    "body": "Levitt & Sons built Levittown, PA, from 1952 to 1958; \"when completed in 1958, 17,311 homes had been built.\" U.S. Steel's nearby Fairless Works drew many families from the anthracite region. In 1957 William and Daisy Myers, the first Black family, moved in amid mob harassment, which became a national news story. Whether the Meiers were there by 1957 is unknown. Kathryn died there in 1970 (per FamilySearch) and James in 2008. This is Levittown, Pennsylvania, not Levittown on Long Island.",
+    "source": "notes/round2/meier_gaps.md (Wikipedia: Levittown, PA); Round 2 report §4."
+  },
+  {
+    "id": "S041",
+    "title": "St. Servatius's day",
+    "date": "1807",
+    "people": [
+      "I282608064919"
+    ],
+    "body": "The first report suggested looking for Servatius's baptism around 13 May, the feast of St. Servatius. He turned out to have been born on 4 May 1807, which fits a name chosen from the coming feast day.",
+    "source": "deep-dive report; notes/round3/meier_line.md. ### 5.2 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)"
+  },
+  {
+    "id": "S042",
+    "title": "The pilot of the Gironde",
+    "date": "1663–1706",
+    "people": [
+      "H0090",
+      "H0091",
+      "H0086"
+    ],
+    "body": "André Lamoureux was a shipmaster and licensed pilot of the dangerous mouth of the Gironde, based at Meschers in Saintonge (\"maistre de nauire, cy-devant de Meche en Xaintonge, pillotte\"). As Huguenots the family fled France for Bristol in 1689. Their son Jacques, who had come from France with them, was buried at Bristol on 19 Mar 1690. André was granted denization (described as naturalization by Act of Parliament) on 22 Jun 1694. He was in New York by 15 May 1700 (\"Andrew Lamarue\", West Ward, 1703 census). On 4 May 1706 Governor Lord Cornbury ordered \"Andrew L'Amoureux, captain of a merchantman\" released after he had been impressed into the Royal Navy.",
+    "source": "notes/round3/english_french_origins.md §3a and §5.1; notes/round2/colonial_cousins.md §3g; Round 2 report §4; Round 3 report §5. Original citations: Lart, *Registers of the French Churches of Bristol, Stonehouse and Plymouth* (Huguenot Soc. London vol. 20) p.9; Shaw, *Letters of Denization 1603–1700* p.235; A. J. Lamoureux, *André Lamoureux, the Huguenot Emigrant* (1919)."
+  },
+  {
+    "id": "S043",
+    "title": "Pitter\": a family record kept in French",
+    "date": "1726",
+    "people": [
+      "H0086"
+    ],
+    "body": "Daniel Lamoureux, born in Bristol and a cordwainer of New York, kept his family record in French. For his son Peter (1726) he wrote \"Pitter\" and then \"Pierre\" above it.",
+    "source": "notes/round3/english_french_origins.md §5.2; notes/round2/colonial_cousins.md §3g (Lamoureux 1919)."
+  },
+  {
+    "id": "S044",
+    "title": "A Huguenot clan wedding season, New York, summer 1693",
+    "date": "16 Jul – 6 Aug 1693",
+    "people": [
+      "H0092",
+      "H0095"
+    ],
+    "body": "In three weeks New York's French Church married three Mersereau siblings of Moëze (\"Moise en St. onge\"): on 16 Jul 1693 Marie to Jean La Tourette \"d'Osse en Béarn\" and Josué to Marie Chadaine \"de Yers [Hiers] en St. onge\"; on 6 Aug 1693 Daniel \"du bourg de Moise en Xaintonge\" to Suzanne Marie Doucinet \"de la ville de la Rochelle\". John's ancestor Pierre Masse signed as witness every time, and the widowed mother Elisabet Dubois made her mark (\"marque X de Elisabet Dubois\").",
+    "source": "notes/round3/english_french_origins.md §3c, §5.3; Round 3 report §5. *Registers of the French Church of New York*, Coll. Huguenot Soc. of America vol. 1, pp.29–31."
+  },
+  {
+    "id": "S045",
+    "title": "Captain Mersereau and the three friars (family legend)",
+    "date": "before 1685",
+    "people": [
+      "H0094",
+      "H0095"
+    ],
+    "body": "Jean Mersereau supposedly greeted three cloaked friars with \"Good evening, gentlemen\" instead of \"fathers\", saying he knew \"but one Father, who is in Heaven\". When they drew hidden sabres \"he killed one, wounded another, and the third fled\". The tradition continues: the widow and children fled to England in 1685; fearing James II, all but son Paul sailed for Philadelphia but were \"driven to New York by stress of weather\" and settled on Staten Island. Clute also says Jean was a law student turned saddler and captain of a pike company. A genuine family tradition but not proven history (speculative).",
+    "source": "notes/round3/english_french_origins.md §3c, §5.4; Round 3 report §5. Clute, *Annals of Staten Island* (1877) pp.408–9."
+  },
+  {
+    "id": "S046",
+    "title": "Charity Danforth",
+    "date": "18th century; recorded 1919",
+    "people": [
+      "H0073",
+      "I282695583838"
+    ],
+    "body": "The Lamoreaux descendants of 1919 remembered Jean's wife as \"Charity Danforth\". In the Hudson Highlands \"Danforth's\" was simply how people said \"Davenport's\"; it even appears on Erskine's Revolutionary map of West Point.",
+    "source": "notes/round3/english_french_origins.md §5.11 (Giles & Franklin 1962, p.xvii; Lamoureux 1919)."
+  },
+  {
+    "id": "S047",
+    "title": "A family regiment in the Clove, 1776",
+    "date": "1775–1776",
+    "people": [
+      "I282695583810",
+      "I282608055482",
+      "H0261",
+      "H0285"
+    ],
+    "body": "In 1775 \"Thomas Lamoureux\" and \"James Tuttle\" (probably Keturah's brother) both signed the Articles of Association in Cornwall Precinct. In 1776 the Woodbury Clove company was commanded by Capt. Francis Smith with \"Thos. Lammoreux, ensign\"; the Upper Clove company had been commanded by Capt. Austin Smith. Francis and Austin were sons of James Smith and Jerusha Topping, i.e. on the reconstruction Keturah's uncles - so Ensign Lamoreaux served under his wife's uncle, in the regiment of a Colonel Woodhull (very probably Col. Jesse Woodhull, a cousin of Keturah).",
+    "source": "notes/round2/colonial_cousins.md §1a; Round 2 report §4; uploaded deep-dive report (\"The Woodhulls\"). Ruttenber & Clark, *History of Orange County* (1881); SAR P-232580."
+  },
+  {
+    "id": "S048",
+    "title": "A pointed will",
+    "date": "15 Apr 1815 (codicil 9 Nov 1826; registered 5 Oct 1829)",
+    "people": [
+      "I282695583810",
+      "I282608055482",
+      "H0176",
+      "H0177",
+      "H0178",
+      "H0179",
+      "I282608055455"
+    ],
+    "body": "Thomas Lamoreaux's will disinherited his son James \"on account of his disobedience to me\" and gave James's crippled son Jewel (\"Jewel Lamoreaux a cripple child\") a share equal with his daughters. The 1826 codicil cut son John's bequest to $50 \"considering … the privileges already he has had\" and cut Thomas Jr. out for \"interference and bad conduct\", his share going to his son Wesley. It left \"my beloved wife Keturah\" his \"best horse saddle & bridle\" and $100, and named \"Martha Pringle\" among his daughters.",
+    "source": "notes/round2/irish_pa_gaps.md B3, B7; notes/round2/colonial_cousins.md §3g; notes/round3/english_french_origins.md status 1; Round 2 report §4. Luzerne Co. Will Book A pp.341–3; WikiTree Lamoreaux-21; PAGenWeb tomlam.htm."
+  },
+  {
+    "id": "S049",
+    "title": "Thomas Lamoreaux's stone walls",
+    "date": "before 1800",
+    "people": [
+      "I282695583810"
+    ],
+    "body": "Wright says Thomas Case and Thomas Lamoreaux headed the pioneers who \"scaled the northern wall of the valley, the Shawnee mountain\" before 1800. \"The vast extent and character of the stone wall upon the farms of these two old settlers, were a matter of marvel in early days … the miles of it to-day … are a monument of the toil.\" One son was pointed out \"for having laid so many feet of stone wall in a day\".",
+    "source": "notes/round2/irish_pa_gaps.md B7; uploaded deep-dive report. Wright, *Historical Sketches of Plymouth* pp.399–400."
+  },
+  {
+    "id": "S050",
+    "title": "Arriving after the Wyoming Massacre; the Ransom connection",
+    "date": "1778–1794",
+    "people": [
+      "I282695583810",
+      "H0169"
+    ],
+    "body": "Thomas moved to Plymouth in spring 1790 and by October served in Capt. George P. Ransom's militia company, so the family was not in the valley for the 1778 Battle of Wyoming. Their link to it is by marriage: Martha's sister Elizabeth married George P. Ransom in 1794. His father Capt. Samuel Ransom was killed in the battle, his remains later found \"with the head severed from the body\". George himself was captured in 1780 and escaped from Prisoners' Island in the St. Lawrence River in 1782.",
+    "source": "uploaded deep-dive report (\"Ensign Thomas Lamoreaux arrived twelve years after the Wyoming Massacre\"). Harvey Book p.355."
+  },
+  {
+    "id": "S051",
+    "title": "Prison-ship tradition (unverified)",
+    "date": "American Revolution",
+    "people": [
+      "I282695583810"
+    ],
+    "body": "WikiTree repeats a tradition that Thomas Lamoreaux was held on a Long Island prison ship during the Revolution. Unverified. Separately, his Find a Grave grave marker calls him a War of 1812 private, when he would have been about 67 - possibly his son's service.",
+    "source": "notes/round2/irish_pa_gaps.md B3; uploaded deep-dive corrections table (Find a Grave 42344464)."
+  },
+  {
+    "id": "S052",
+    "title": "The \"Davenport congress",
+    "date": "1812–1820",
+    "people": [
+      "H0186",
+      "H0185"
+    ],
+    "body": "After old Thomas Davenport died in 1812 the estate \"remained in common\" until 1820. The sons worked the same fields from the same granary, \"a commune of themselves\". When they gathered on the homestead stoop in the evening, neighbours remarked that \"Congress had assembled\". They settled which field to till, \"which of them should swing the cradle, and which rake and bind,\" and how much grain to send to Easton. Daniel Davenport later \"became seriously involved in the coal trade\" and lost most of his estate; Wright, who sat on the same school bench, says these troubles \"undoubtedly\" caused his early death. Stephen became a County Commissioner.",
+    "source": "notes/round2/irish_pa_gaps.md B4; uploaded deep-dive report. Wright pp.384–386."
+  },
+  {
+    "id": "S053",
+    "title": "Samuel Pringle's stone house under the culm",
+    "date": "1790s–1873",
+    "people": [
+      "I282608055448"
+    ],
+    "body": "Samuel built a stone farmhouse near what became the Gaylord coal shaft. By 1873 \"heaps of culm and stacks of machinery\" had defaced it, and if the old farmer's spirit returned \"it is very doubtful … whether he could recognize the locality\". He served as Supervisor of Roads in 1800 and is on the 1796 assessment list.",
+    "source": "notes/round2/irish_pa_gaps.md B7; uploaded deep-dive report. Wright p.391."
+  },
+  {
+    "id": "S054",
+    "title": "Rum, whisky, tobacco and snuff",
+    "date": "c.1800",
+    "people": [
+      "I282608055448"
+    ],
+    "body": "An early Plymouth store's account books list Samuel among its regular customers, and the luxuries they record are \"rum, whisky, tobacco and snuff\".",
+    "source": "uploaded deep-dive report. Wright p.308."
+  },
+  {
+    "id": "S055",
+    "title": "Pringles and Lamoreuxs: four marriages in Orange County",
+    "date": "1783–1790",
+    "people": [
+      "H0166",
+      "I282608055448",
+      "H0168"
+    ],
+    "body": "David Pringle married Susannah Lamoreux (1783), James Pringle married Phebe Lamoreux, sister of Ensign Thomas (1785), Isaac Lamoreux married Hannah Pringle (1790), and Samuel married Martha, Thomas's daughter (1790). So Samuel's brother James was also Martha's uncle by marriage.",
+    "source": "notes/round2/irish_pa_gaps.md headline 8. Giles & Franklin pp.356–359."
+  },
+  {
+    "id": "S056",
+    "title": "The Pringle Borough namesake",
+    "date": "1837–1861",
+    "people": [
+      "H0141"
+    ],
+    "body": "Pringle Borough \"takes its name from that of a prominent family of that vicinity\", and Thomas Pringle was the first president of Kingston's borough council in 1857; Wikipedia says the borough honours Thomas Pringle. The best fit is Samuel and Martha's eldest son Thomas (1791–1861), who mined coal with his brothers-in-law, was a coal operator around 1843 and in 1837 moved to a large Kingston farm whose lane later became Pringle Street. Neither source names which Thomas; another Thomas Pringle (b. 1821) lived nearby.",
+    "source": "uploaded deep-dive report; Round 1 report. Harvey & Smith V p.165; Harvey Book pp.134–136; Pearce p.380."
+  },
+  {
+    "id": "S057",
+    "title": "Killed by lightning; a hundredth year",
+    "date": "1886; 1899",
+    "people": [
+      "H0144"
+    ],
+    "body": "George Lane Pringle was \"killed by lightning\" in 1886. Cousin Charity (Pringle) Mekeel died in 1899 \"in the one hundredth year of her age\".",
+    "source": "uploaded deep-dive report. Harvey Book pp.137, 1020."
+  },
+  {
+    "id": "S058",
+    "title": "The 1850 census that saved the SAR line",
+    "date": "14 Sep 1850 (found by John, 2026)",
+    "people": [
+      "I282608053685",
+      "I282608053719",
+      "I282608053741",
+      "H0156",
+      "H0151"
+    ],
+    "body": "The link that looked weakest - whether Andrew G. Pringle was a son of James and Elizabeth (Croup) - was settled when John found the 1850 Plymouth Twp census page on FamilySearch (attached to Andrew Pringle 1836–1900, KG4S-XMF): assistant marshal A. Atherton, page 140/141 (stamp 71), dwelling 944/family 964: James Pringle 51 farmer $500 PA; Elizabeth 48; Alby 27; Noah 16 farmer; Andrew 14 (line 38); Leva Ann 11; Edwin 9. Noah is independently documented as their son. Two doors away (942/962) was the widow Hulda Pringle 46 ($600, b. NY) with Orange 23 (teamster), Ransom 21, Caturah 17, Jane 14, Lucinda 10, Sarah 6, Lucy Ives 87 (marked insane) and carpenter Philip Minchart 26 - names (Orange, Ransom, Keturah) pointing straight at the Lamoreaux family. Neighbours: Jenkins Jones 36, miner, Wales (943/963); Thomas Gould 39, farmer, $2,500 (945/965).",
+    "source": "uploaded deep-dive report (\"The 1850 census confirms Andrew G. Pringle's parents\"); Drive screenshot IMG_7813, the census page image (transcribed in section 2.2.4), and FamilySearch index screenshots IMG_7810–7812 (NARA M432)."
+  },
+  {
+    "id": "S059",
+    "title": "A divorced nurse \"beyond reproach",
+    "date": "1857–1893",
+    "people": [
+      "I282608053698",
+      "I282608053685"
+    ],
+    "body": "Catherine married Andrew Pringle in 1857 and had seven children. She later sued for divorce - \"the action commenced by her and sustained by the court\" - and resumed her maiden name, though she was \"better known by the name of Pringle than Scott\". In 1893 Bradsby wrote that she \"has always had, and now bears, a name beyond reproach … carries on her business [nursing] with marked ability\", owned a house and lot and had raised her children. He listed five living children and left out Addison. No grounds for the divorce are stated anywhere online.",
+    "source": "notes/round2/irish_pa_gaps.md B5; notes/round3/irish_pa.md A and Interesting facts; uploaded deep-dive report. Bradsby 1893 (PAGenWeb sabios.htm)."
+  },
+  {
+    "id": "S060",
+    "title": "From slate picker to clerk",
+    "date": "1880–1926",
+    "people": [
+      "H0159",
+      "I282608053666",
+      "I282608053685",
+      "I282608053249",
+      "I282604493169",
+      "I282604493482"
+    ],
+    "body": "In June 1880 Addison's 13-year-old brother Orange was a slate picker, sitting over the chutes of a coal breaker picking slate out of the coal; Addison, at 15, was already a \"laborer\", like their father. Two generations later both of John's paternal grandparents' parents were clerks and bookkeepers: Frank McGuire married Elizabeth McAvoy on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth) and William F. Meier married Florence Pringle on 20 Apr 1926 (Rev. D. W. McCarthy, Wilkes-Barre).",
+    "source": "notes/round3/irish_pa.md Interesting facts; Round 3 report §5. 1880 census Plymouth Twp ED 145 p.4; 1923 and 1926 Luzerne marriage licences."
+  },
+  {
+    "id": "S061",
+    "title": "Larksville, 1910: two families 18 years before a marriage",
+    "date": "1910",
+    "people": [
+      "I282608053666",
+      "I282604493482"
+    ],
+    "body": "In 1910 Addison Pringle's family (incl. Florence, 6) and James McGuire's family (incl. Francis, 11) were both enumerated in small-town Larksville. The Round 3 report says this was \"18 years before their children married\"; the Round 3 notes say \"18 years before their grandchildren married\" (Florence's son James C. Meier later married Francis's daughter Kathryn McGuire). In 1930 Addison's family at 28 Huston St and William and Florence Meier at 55 Cedar St were on the same census sheet.",
+    "source": "notes/round3/irish_pa.md; notes/round3/meier_line.md; Round 3 report §5 (FamilySearch residence events; 1930 census ED 40-261 sheet 23B)."
+  },
+  {
+    "id": "S062",
+    "title": "Three generations at the Court House",
+    "date": "1868–1943",
+    "people": [
+      "I282608060497",
+      "H0111",
+      "I282608053666"
+    ],
+    "body": "Andrew Heffernan was \"an attache of the Court house in various capacities\"; his son Thomas F. was assistant county treasurer (1901); his son-in-law Addison Pringle later worked at the Luzerne County Court House.",
+    "source": "notes/round2/irish_pa_gaps.md B7; uploaded deep-dive report. Obituaries on Find a Grave 139403710 and 139403232 (probable)."
+  },
+  {
+    "id": "S063",
+    "title": "Miners twice over",
+    "date": "1805–1860s",
+    "people": [
+      "H0068",
+      "I282608060536",
+      "I282608060497"
+    ],
+    "body": "The Heffernans dug coal in the Slieveardagh hills of Tipperary - one of Ireland's few coalfields, its anthracite field - before the family dug anthracite in Luzerne County. Humphrey was \"a miner living at Lickfin\"; Thomas \"a miner at Mardyke\". The Mining Company of Ireland opened its Mardyke mine in 1824 with a Cornish engine and 25 workers' cottages.",
+    "source": "notes/round2/irish_pa_gaps.md headline 5; Round 2 report §4; Round 3 report §5. Dwyer 2020; Wikipedia \"Ballingarry Coal Mines\"; ERIH \"Mardyke Mine\"."
+  },
+  {
+    "id": "S064",
+    "title": "Transported to Australia",
+    "date": "1834–1869",
+    "people": [
+      "H0130"
+    ],
+    "body": "Thomas Heffernan's brothers James and Patrick were convicted with others of manslaughter over the killing of \"Constable Feeney\" at Ballynonty in 1834. James was transported to New South Wales for seven years. Patrick, first sentenced to life, was also transported; he married twice, had eleven children and died at Orange, NSW, on 10 Dec 1869 (NSW death cert. 5288/1869). The trial record itself has not been seen (probable).",
+    "source": "notes/round2/irish_pa_gaps.md A1; Round 2 report §4. Dwyer 2020; IrelandXO Gortnahoe message board."
+  },
+  {
+    "id": "S065",
+    "title": "Two Boney women, two Heffernan brothers",
+    "date": "1827–1896",
+    "people": [
+      "H0126",
+      "H0125",
+      "I282608064660",
+      "I282608060536",
+      "I282695307188",
+      "I282608064637",
+      "I282608060497"
+    ],
+    "body": "Anastasia Boney married Richard Heffernan (1827) and Catherine Boney married his brother Thomas (1833); both couples lived at Mardyke, both husbands died in Ireland, and both widows emigrated to Plymouth. After 1860 Anastasia became the second wife of the widowed Thomas Connole - so Andrew's aunt became his future wife's stepmother, which probably explains how Andrew and Mary met. Her 1896 obituary names her own children James Heffernan and Katherine Heffernan Grimes and stepchildren Mrs. Andrew Heffernan, John F. Connole and Mrs. William Dalley. Whether the two women were sisters is not stated by Dwyer.",
+    "source": "uploaded deep-dive report (\"Two Boney sisters likely married two Heffernans\"); notes/round2/irish_pa_gaps.md headline 4, A2. Find a Grave 162159301 and 183145812; Dwyer."
+  },
+  {
+    "id": "S066",
+    "title": "Married Fifty Years",
+    "date": "1 Sep 1918",
+    "people": [
+      "I282608060497",
+      "I282608064637"
+    ],
+    "body": "The Sunday Independent of 1 Sep 1918 ran a piece headed \"Married Fifty Years\" for Andrew and Mary, married 1 Sep 1868.",
+    "source": "notes/round2/irish_pa_gaps.md headline 6 (Dwyer)."
+  },
+  {
+    "id": "S067",
+    "title": "A shooting at Leadville",
+    "date": "July 1880",
+    "people": [
+      "H0132"
+    ],
+    "body": "Richard Dillon, \"former owner of the Little Chief mine\", husband of Anna Heffernan, was shot by a faro dealer at Leadville, Colorado, in July 1880. He survived: \"Dick is shot; getting along well. Annie Dillon.\" He died at Globe, Arizona, in 1927.",
+    "source": "notes/round2/irish_pa_gaps.md A6; Round 2 report §4. Dwyer, quoting *The Sun* (NY) 29 Jul 1880 and W-B *Record of the Times* 30 Jul 1880."
+  },
+  {
+    "id": "S068",
+    "title": "Deaths in the mines, east and west",
+    "date": "1899–1927",
+    "people": [
+      "H0135",
+      "H0133",
+      "H0134"
+    ],
+    "body": "Richard E. Grimes was killed at the Boston D&H colliery in 1909 (W-B Times-Leader 17 Apr 1909); Edmund D. Grimes died in a California mine accident in 1927 (Evening News 16 Apr 1927); Richard Heffernan was killed in a mine at Cripple Creek, Colorado, in 1901; Michael Heffernan died at Butte, Montana, in 1899.",
+    "source": "notes/round2/irish_pa_gaps.md A6 (Dwyer)."
+  },
+  {
+    "id": "S069",
+    "title": "The flyer in the family",
+    "date": "1911–1956",
+    "people": [
+      "H0119"
+    ],
+    "body": "West Point 1911; pilot #489 (1916); flew with the 1st Aero Squadron in Pershing's Punitive Expedition - \"chief air scout to General Pershing\" (father's obituary), \"Pershing's aviation aide and pilot\" and \"one of the first American fliers to come under enemy gunfire\" (his own obituary). Commanded Wilbur Wright Field (Nov 1917 – Jan 1918). On 24 Mar 1923 he made \"the fastest flight on record\", averaging 250 mph over 75 miles from Columbus, NM, to Fort Bliss in a DH-4B \"in a blinding sandstorm\" with a following wind; *Time* covered it and the *Journal of Education* ran it as \"Outspeeding the Birds\". He later commanded the Air Corps Technical School and France Field, Panama; his obituary says Jimmy Doolittle and Claire Chennault served under him. Retired 1933; represented Anheuser-Busch in California 1934–49.",
+    "source": "notes/round2/irish_pa_gaps.md A5; Round 2 report §1–2; uploaded deep-dive report. earlyaviators.com; *Time* 31 Mar 1923; Army & Navy Journal; Air Corps News Letter; Army Navy Air Force Journal Feb 1956."
+  },
+  {
+    "id": "S070",
+    "title": "The Sunday paper",
+    "date": "1907–1979",
+    "people": [
+      "H0111",
+      "H0118",
+      "H0120",
+      "H0112"
+    ],
+    "body": "Thomas F. Heffernan was Wilkes-Barre postmaster under Theodore Roosevelt and Taft, then bought the *Sunday Independent* (1913) and ran it with his brothers; circulation 18,777 (1926), about 22,000 (1929). The family still ran it through the 1972 and 1978–79 Wilkes-Barre newspaper strikes. Its 1913–58 run is digitized on POWER Library - a good place to look for family notices.",
+    "source": "notes/round2/irish_pa_gaps.md A4; Round 2 report §4; uploaded deep-dive report."
+  },
+  {
+    "id": "S071",
+    "title": "A nurse who lived to 100; a nun; a dentist's building",
+    "date": "1906–1984",
+    "people": [
+      "H0117",
+      "H0116"
+    ],
+    "body": "Josephine graduated as a nurse from St. Joseph's Hospital, Reading, in 1906 and died at Alameda, California, aged 100. Mary became Sister Mary Antonia, IHM, teaching in Catholic schools in New York and Pennsylvania. Dr. Andrew J. Heffernan was State Grand Master of Psi Omega, served 19 years on the state dental board and built the Heffernan Building in Wilkes-Barre.",
+    "source": "notes/round2/irish_pa_gaps.md A4; uploaded deep-dive report."
+  },
+  {
+    "id": "S072",
+    "title": "The Keating hotel of Larksville",
+    "date": "1855–1878",
+    "people": [
+      "H0136"
+    ],
+    "body": "John F. Connole married Mary E. Keating on 19 Dec 1878. Her mother, the widow Mary (Russell) Keating (b. Co. Clare 1840), ran a hotel in Larksville from 1867 and owned it and the next-door block; Bradsby calls her \"a shrewd business woman\". The Russells had stopped at Wellsburg, NY, near Elmira, before Plymouth (1855) - the same Elmira-to-Plymouth route as the Connoles.",
+    "source": "notes/round2/irish_pa_gaps.md A3. Bradsby p.~1049–1050."
+  },
+  {
+    "id": "S073",
+    "title": "Doctors in the family; WWI Navy eye service",
+    "date": "1909–1923",
+    "people": [
+      "H0138",
+      "H0139",
+      "H0140"
+    ],
+    "body": "Dr. Joseph V. Connole enlisted Oct 1917 and was a U.S. Navy senior lieutenant in charge of eye work at the Philadelphia Navy Yard for two years. Dr. John P. Connole practiced surgery in Plymouth 15 years, then Wilkes-Barre from 1923. Dr. Thomas J. Dailey (Penn Medicine 1909) was an EENT specialist in Plymouth.",
+    "source": "notes/round2/irish_pa_gaps.md A6. Harvey & Smith vol. VI pp.~422, 436, ~475."
+  },
+  {
+    "id": "S074",
+    "title": "Stewart's Flats and the Dutch Fishery",
+    "date": "28 Mar 1780; c.1800–1833",
+    "people": [
+      "I282608065054"
+    ],
+    "body": "A captive's 1833 narrative says Indians killed Asa Upson on 28 Mar 1780 at \"Stewart's Flats, now owned by Frederick Croup, in Plymouth\". The \"Dutch Fishery\" shad haul, at the lower end of the narrows below Nanticoke, used \"the upper end of the Croup farm\" as its landing point.",
+    "source": "notes/pa_lines.md §1.3; Round 1 report. Harvey & Smith vol. III."
+  },
+  {
+    "id": "S075",
+    "title": "Whispering in Judge Cooper's court",
+    "date": "1806–1811",
+    "people": [],
+    "body": "Judge Thomas Cooper jailed \"a gentleman named Croup\" and Kingston constable Stephen Hollister for whispering in court - one of the charges that led to Cooper's removal in 1811. Which Croup is unknown (speculative).",
+    "source": "notes/pa_lines.md §1.3. Pearce, *Annals of Luzerne* p.248; Wikipedia \"Thomas Cooper\"."
+  },
+  {
+    "id": "S076",
+    "title": "The captain who wasn't",
+    "date": "1793; 1934",
+    "people": [
+      "I282695584117",
+      "H0214"
+    ],
+    "body": "John's tree shows \"Johann C Doll Captain\" with a \"Flag of the American Revolution\" photo. In fact \"he is NOT known to have held the rank as captain. On his gravesite, there was erected in 1934 a monument or cenotaph to his nephew 'Casper Dull' who served as a captain in the Revolutionary War\"; the nephew, a cornet of the Northampton County Light Dragoons, is buried at McVeytown, Mifflin Co. Find a Grave merges the two.",
+    "source": "notes/pa_lines.md §1.4; Round 1 report correction 3g. WikiTree Doll-527; Find a Grave 19353732 and 21956570."
+  },
+  {
+    "id": "S077",
+    "title": "A shipload from Ulmet, 1739",
+    "date": "27 Aug 1739",
+    "people": [
+      "I282695584117"
+    ],
+    "body": "Casper Doll, 18, came on the *Samuel* (Hugh Percy) with Stoffel Doll 40, Philip Doll 27, \"Christ. Shook, 48\" (the surname of his mother Anna Sara Schuch), Simon Drum and several Mombour/Mombauer men - apparently a group from Ulmet that included his mother's kin.",
+    "source": "notes/round3/german_origins.md (Doll). Strassburger List 69 A–C; GEDBAS 1402009472, 1420550403."
+  },
+  {
+    "id": "S078",
+    "title": "Doll, Sorber and Croop - cousins before the mills? (speculative)",
+    "date": "1739–c.1800",
+    "people": [
+      "H0215",
+      "H0207"
+    ],
+    "body": "Maria Engel Doll (b. Ulmet 1717) married Jacob Sorber in 1739; their son Abraham Sorber came to Hanover Twp, Luzerne, and his daughter Elizabeth married John Croop. If Maria Engel was Casper Doll's sister, the \"Sorbers and Croops\" who built the Hunlock's Creek sawmills were already cousins through the Ulmet Dolls.",
+    "source": "notes/round3/german_origins.md. GEDBAS 1435014144; Plumb 1885 part 38."
+  },
+  {
+    "id": "S079",
+    "title": "Lumber barons and Bucktails",
+    "date": "1832–1890s",
+    "people": [
+      "H0209",
+      "H0210",
+      "H0211",
+      "H0212"
+    ],
+    "body": "Hiram Croop once ran four mills, owned 2,000 acres of timber and was a justice of the peace for 25 years. Andrew Croop was a musician in Co. F, 149th PA \"Bucktails\", from 22 Aug 1862 to 24 Jun 1865, serving \"to the close of the war\"; Alvin served in the 203rd PA, which fought at Fort Fisher. The Croop mills later became the Croop's Glen amusement park.",
+    "source": "notes/pa_lines.md §3.3; Round 1 report. Bradsby pp.812–813; PA-Roots."
+  },
+  {
+    "id": "S080",
+    "title": "A runaway Pringle apprentice (not John's James)",
+    "date": "9 Apr 1836",
+    "people": [],
+    "body": "\"Six Cents Reward. Ran away … James Pringle, an indented apprentice to the farming business; he was about fourteen … butternut colored pantaloons.\" This is not John's James (b. c.1799); possibly a nephew.",
+    "source": "notes/round2/irish_pa_gaps.md B7 (Bradsby)."
+  },
+  {
+    "id": "S081",
+    "title": "The first strike in Wyoming? (speculative)",
+    "date": "30 Oct 1818",
+    "people": [],
+    "body": "A Stephen Scott was one of 14 workmen who signed a notice refusing to keep working on the Wilkes-Barre bridge to Kingston unless paid \"in good chartered notes\" - \"the first strike which the records of Wyoming disclose\". Nothing ties him to John's Stephen (who per the census would have been about 12).",
+    "source": "notes/pa_lines.md §2. Harvey & Smith vol. IV."
+  },
+  {
+    "id": "S082",
+    "title": "Kingston turning into a mining town",
+    "date": "1850",
+    "people": [
+      "I282824799057"
+    ],
+    "body": "The Scotts' 1850 Kingston neighbours were Zeba Hoyt (61, Connecticut-born farmer), German miners (Shoup, Steinhower, Beck) and Welsh miners and a machinist (Davis): the Scotts farmed just as Kingston was becoming a mining town.",
+    "source": "notes/round3/irish_pa.md B (1850 census image)."
+  },
+  {
+    "id": "S083",
+    "title": "Context: the Agnes flood",
+    "date": "1897; June 1972",
+    "people": [
+      "I282608053249"
+    ],
+    "body": "The Agnes flood of June 1972 broke the river levee first at the Forty Fort cemetery - where Stephen and Julia Ann Scott are buried - washing dozens of graves away; \"people returning to their homes after the flood found caskets in their backyards\". Florence (Pringle) Meier, widowed in 1963, was probably still in Wilkes-Barre then (unproven).",
+    "source": "notes/round2/meier_gaps.md; Round 2 report §4 (Wilkes University cemetery data page). ### 5.3 Colonial Long Island, New England and English lines Colonial group: stories (Long Island, New England, England, and notable cousins)."
+  },
+  {
+    "id": "S084",
+    "title": "The reluctant bridegroom",
+    "date": "April 1640",
+    "people": [
+      "I282608065309",
+      "I282608065316",
+      "H0235",
+      "H0240"
+    ],
+    "body": "In 1640 “Mr. Smith” petitioned the Massachusetts authorities to be released from his published intention to marry William Hammond’s daughter Sarah. Rev. George Phillips (who called Hammond “my brother”) wrote to Gov. Winthrop on 24 Apr 1640 about “Smith & my brother Hammond dauter”, and William Paine also wrote. Smith lost, the marriage went ahead, and it founded the whole Smithtown line.",
+    "source": "Round 2 report §4; Round 3 report §5; notes/round2/colonial_cousins.md §3a (jrm I2516 citing NYGBR vol. 121); notes/round3/english_french_origins.md §5 item 8 (*Winthrop Papers* 4:230–2, HathiTrust uc1.31158002884053 seq 282)."
+  },
+  {
+    "id": "S085",
+    "title": "Old Crib,” the family blunderbuss",
+    "date": "will of 1707/8; still held 1898",
+    "people": [
+      "H0293",
+      "I282608065309"
+    ],
+    "body": "Sarah’s will of 1707/8 left “my son Richard’s eldest sonne my blunderbuss”. Family tradition says the Patentee’s father used this gun, “Old Crib”, in Cromwell’s wars. In 1898 it was still held by the heirs of J. Lawrence Smith. The same will left Mr. George Phillips a cow and made son Richard give up debts he “pretends” were owed him.",
+    "source": "notes/round2/colonial_cousins.md §3a (Pelletreau 1898 pp. 37–38); Round 2 report §4."
+  },
+  {
+    "id": "S086",
+    "title": "A colt, on conditions",
+    "date": "will dated July 1662, proved 16 Dec 1672",
+    "people": [
+      "H0235",
+      "I282608065145",
+      "I282608065316"
+    ],
+    "body": "William Hammond’s will left “To Adam Smith, son of daughter, Sarah, if he behave obediently to my wife after my decease, one mare colt and £20 … To daughter, Sarah Smith, £5”. It also penalized grandson Thomas if he contested the will. (This will is the evidence that Bull Smith’s wife was Sarah Hammond.)",
+    "source": "Round 2 report §4; notes/round3/english_french_origins.md §2a (Hammond 1902 pp. 57–8; Middlesex Probate 7167)."
+  },
+  {
+    "id": "S087",
+    "title": "Quaker hunt in Watertown",
+    "date": "1661",
+    "people": [
+      "H0235"
+    ],
+    "body": "In 1661 the houses of “old Warren and Goodman Hammond” were ordered searched for Quakers. John Warren had emigrated with the Hammonds; the families had been neighbours on Hall Street in Melford.",
+    "source": "notes/round2/colonial_cousins.md §3b; notes/round3/english_french_origins.md §2c (Hammond 1902 pp. 50–51)."
+  },
+  {
+    "id": "S088",
+    "title": "Lavenham clothiers",
+    "date": "1517–1634",
+    "people": [
+      "H0239",
+      "H0235",
+      "H0236",
+      "I282608065316"
+    ],
+    "body": "William Hammond was born in Lavenham, one of England’s richest wool towns; his great-grandfather John Hamonde was a fuller (cloth-finisher) at Long Melford. His father died when William was 14, and his mother Rose remarried within five months. He sailed in the 1630s; his wife followed on the *Francis* from Ipswich in April 1634 (she 47) with three children — Elizabeth (15), Sarah (10) and John (7). William became one of Watertown’s largest landowners (331 acres, estate £457) and had stood surety for his son William’s debts in England.",
+    "source": "Round 3 report §5; notes/round3/english_french_origins.md §5 item 7; notes/round2/colonial_cousins.md §3a–3b (Hammond 1902)."
+  },
+  {
+    "id": "S089",
+    "title": "The Quaker ship",
+    "date": "1654–1656",
+    "people": [
+      "I282608065309"
+    ],
+    "body": "F. K. Smith (1967) accepts that Bull Smith went back to England in 1654 and returned in 1656 aboard the *Speedwell* with the first Quaker missionaries to New England, without being marked “Q” on the list. Southampton later banished him. Probable that the two Richards are the same man; still debated.",
+    "source": "Round 3 report §5; notes/round3/english_french_origins.md §5 item 9 (WikiTree Smith-1208; *Quaker History* 3–4:58–59; F. K. Smith, longislandgenealogy.com/RichardSmith.pdf)."
+  },
+  {
+    "id": "S090",
+    "title": "The bull ride that never happened",
+    "date": "1663–1665",
+    "people": [
+      "I282608065309"
+    ],
+    "body": "The story that Smith gained Smithtown by riding a bull around it is a myth, according to local historians. Lion Gardiner received the land for helping recover Sachem Wyandanch’s kidnapped daughter, sold it to Smith in 1663, and a 1665 patent confirmed Smith’s claim.",
+    "source": "uploaded deep-dive report, “Founders worth knowing” (Wikipedia: Smithtown, New York)."
+  },
+  {
+    "id": "S091",
+    "title": "Where Bull Smith did *not* come from",
+    "date": "1635",
+    "people": [
+      "I282608065309"
+    ],
+    "body": "The Gloucestershire origin belongs to a different man, Richard Smith of Cocumscussoc/Wickford, Rhode Island (earlier of Taunton), of whom Roger Williams said he “left a fair possession in Gloucestershire” for conscience’ sake. Both men died in 1691/2, which encouraged online trees to merge them. F. K. Smith judged from Bull Smith’s “court hand” that he was “in all probability … brought up in London”, and that he was probably the Richard Smith, 22, who sailed 2 Oct 1635 on the *John* of London for St Christophers.",
+    "source": "notes/round3/english_french_origins.md §2a."
+  },
+  {
+    "id": "S092",
+    "title": "A Wraysbury water bailiff who helped found Connecticut",
+    "date": "1636–1687",
+    "people": [
+      "I282608083519",
+      "H0244",
+      "I282608083531"
+    ],
+    "body": "In April 1636 (court roll of 12 Apr) Thomas Topping reported to the Wraysbury manor court that “all was well with the water courses”. His in-laws the Aldridges had briefly owned a manor (Remingham and Cow, bought 1611, sold for £500 in 1613) in the same parish, which contains Runnymede’s Magna Carta Island. Within three years he was a Wethersfield deputy; in 1662 he was named a patentee in King Charles II’s Connecticut charter; he died at Branford in 1687, “many years a magistrate”.",
+    "source": "Round 3 report §5; notes/round3/english_french_origins.md §5 item 6 (WikiTree Topping-121; Gyll 1862)."
+  },
+  {
+    "id": "S093",
+    "title": "Topping’s Purchase",
+    "date": "1662 and 1666",
+    "people": [
+      "I282608083519"
+    ],
+    "body": "Land on eastern Long Island was bought from the Native owners by Indian deeds of 1662 and 1666, paid for with 20 fathoms of wampum; “Topping’s Purchase” carries the family name. In 1686 Thomas deeded his Southampton lands to his sons Elnathan and James.",
+    "source": "Round 2 report §4; notes/round2/colonial_cousins.md §3e (Howell 1887 pp. 395–397); notes/colonial_virginia.md §5."
+  },
+  {
+    "id": "S094",
+    "title": "A young father’s will, Tharston 1618",
+    "date": "March 1618",
+    "people": [
+      "H0246",
+      "I282608060411",
+      "I282608060188",
+      "H0251",
+      "I282608083319"
+    ],
+    "body": "Henry Tuthill of Tharston died young in March 1618 and left five small children, among them the emigrant Henry (aged 5). His will names his wife Alice, her father John Gooch and her mother Margaret Rau(e), “Ann Woodyard, kinswoman” and “John Tuthill, brother”. The family coat of arms (three silver crescents on a blue chevron, on gold) is carved on a 1585 tomb at Trowse Newton near Norwich — that of Elizabeth, Lady Dalyson, “granddaughter of John Tuthill, of Saxlingham”.",
+    "source": "notes/round3/english_french_origins.md §2d, §5 item 5 (Akerly 1898 pp. 3–4)."
+  },
+  {
+    "id": "S095",
+    "title": "Henry Tuthill and wife, of Saxlingham",
+    "date": "1637–1644",
+    "people": [
+      "I282608060188",
+      "I282695478210"
+    ],
+    "body": "Henry sailed in 1637 in the *Mary Anne* of Yarmouth, William Goose master, listed as “Henry Tuthill and wife, of Saxlingham, Norfolk”. At Hingham he had a house lot (1637), became freeman (1638) and constable (1640), then sold out on 20 Jun 1644 and went to Southold.",
+    "source": "notes/round3/english_french_origins.md §2d (Banks, *Planters of the Commonwealth* p. 183)."
+  },
+  {
+    "id": "S096",
+    "title": "The Tuttles who weren’t cousins",
+    "date": "1634–1635",
+    "people": [
+      "I282608060188"
+    ],
+    "body": "Akerly speculated that William Tuttle of New Haven (the *Planter*, 1635) was Henry’s brother William, baptized at Tharston in 1609. But William of New Haven’s son Thomas was “Babtised Janu. 4. 1634” at Ringstead, Northamptonshire — the New Haven Tuttles are not Tharston kin. (On the same *Planter* came William Lawrence, later first husband of Bull Smith’s daughter Elizabeth, with his stepfather John Tuttell.)",
+    "source": "notes/round3/english_french_origins.md §2d (Green, *TAG* 56:143; WikiTree Tuttle-29); notes/round2/colonial_cousins.md §3c."
+  },
+  {
+    "id": "S097",
+    "title": "Unreverent speeches” and the oldest tombstone in Suffolk",
+    "date": "1643–1671",
+    "people": [
+      "I282608055977"
+    ],
+    "body": "William Wells, Gent., was censured at Southampton on 15 Mar 1643 for “unreverent speeches to Daniel Howe”. He became Southold’s lawyer, the first High Sheriff of Yorkshire (Long Island) in 1664, sat on Gov. Nicolls’s five-member council and helped draft the Duke’s Laws. His tombstone in the old Southold burying ground was described by Pelletreau as possibly “the oldest tombstone in Suffolk county”.",
+    "source": "Round 3 notes §5 item 10 (WikiTree Wells-639; Southold Town Records v1); uploaded deep-dive report “Founders worth knowing” (Brooklyn Historical)."
+  },
+  {
+    "id": "S098",
+    "title": "Wells marries the Tuthill widow",
+    "date": "c.1650–c.1690",
+    "people": [
+      "I282608055977",
+      "I282608055916",
+      "I282608055927"
+    ],
+    "body": "Wells married Bridget, widow of Henry Tuthill, and became guardian of her Tuthill children. Bridget’s grandson John Tuthill Jr. later married Wells’s daughter Mehitable — born to Wells’s second wife — so the couple were not blood relatives.",
+    "source": "uploaded deep-dive report “Founders worth knowing” (McCurdy p16172); Round 3 notes §2e."
+  },
+  {
+    "id": "S099",
+    "title": "How Mary Wells became “Mary Youngs",
+    "date": "26 Dec 1678",
+    "people": [
+      "I282608059414"
+    ],
+    "body": "Hayes (1878) wrote that Wells married Mary “whose family name is said to be Youngs”, but “Thus far I have found nothing to throw any light on the question”, guessing the tradition came from a daughter marrying a Youngs. Mary’s own will of 26 Dec 1678, as “Mary Mapes … relict of William Wells”, names “my son-in-law John Youngs, in right of his wife … Mary Youngs, his wife, my daughter” — proving the Youngs tie came through the daughter, not the mother. The tree’s Youngs and Horne ancestors (back to “Sir J W Horne” b. 1500) therefore fall away.",
+    "source": "notes/colonial_virginia.md §2c; notes/round3/english_french_origins.md §2e."
+  },
+  {
+    "id": "S100",
+    "title": "The chaplain to the Queen of Denmark",
+    "date": "1604–1680",
+    "people": [
+      "H0256",
+      "I282608055977"
+    ],
+    "body": "The tree’s “Rev. William Wells to the Queen of Denmark” garbles a Norwich prebendary who was “Chaplain to the Queen (Anne of Denmark)”, wife of James I, d. 26 May 1620. Family tradition made his son William (bapt. St Peter Mancroft, Norwich, 10 Feb 1604/5) the Southold founder; but that son became vicar of North Elmham, Norfolk, and died in England in 1680.",
+    "source": "Round 1 correction 3c; notes/colonial_virginia.md §2b (Hayes 1878 pp. 9–15); notes/round3/english_french_origins.md status change 14 (CCEd 12847)."
+  },
+  {
+    "id": "S101",
+    "title": "The Phantom Ship (now collateral)",
+    "date": "January 1646 / 1648",
+    "people": [
+      "H0259"
+    ],
+    "body": "Francis Brewster, a New Haven “chirurgeon”, was presumably lost on Lamberton’s “Great Shippe”, which sailed in January 1646 through a channel cut in the ice of the harbor. In 1648 a ghostly image of the ship was said to appear in the sky over New Haven — the famous “Phantom Ship”. His inventory is dated 30 Dec 1647. Since Round 3 the Brewster ancestry is probably disproven, so this story is collateral.",
+    "source": "Round 2 report §4; notes/round2/colonial_cousins.md §3d (New Haven Colony Records; American Heritage “The Great Shippe”); Round 3 status change 11."
+  },
+  {
+    "id": "S102",
+    "title": "Wast paper” (now collateral)",
+    "date": "1646",
+    "people": [
+      "H0260"
+    ],
+    "body": "Francis Brewster’s widow Lucy was tried in 1646, with Mrs. Moore and Mrs. Leach, on 14 charges — including saying Rev. John Davenport’s sermon was fit for “wast paper” and urging the women of New Haven to move to Rhode Island. She later married Thomas Pell, lord of Pelham Manor.",
+    "source": "Round 2 report §4; notes/round2/colonial_cousins.md §3d."
+  },
+  {
+    "id": "S103",
+    "title": "A family regiment, 1776",
+    "date": "1775–1776",
+    "people": [
+      "H0262",
+      "H0263",
+      "H0261",
+      "H0285"
+    ],
+    "body": "In 1775–76 the Woodbury Clove militia company was commanded by Capt. Francis Smith, with “Thos. Lammoreux, ensign” in 1776; the Upper Clove company had been commanded by Capt. Austin Smith. Francis and Austin were Temperance Smith’s brothers — Keturah’s uncles — so Thomas Lamoreaux served under his wife’s uncle. Both families signed the 1775 Articles of Association in Cornwall Precinct (“Thomas Lamoureux” and “James Tuttle”, Keturah’s brother). Thomas’s colonel was very probably Jesse Woodhull, another cousin of Keturah. A Jonathan Tuthill captained the Clove company in 1775.",
+    "source": "Round 2 report §4; notes/round2/colonial_cousins.md §1a (Ruttenber & Clark 1881); uploaded deep-dive report (SAR P-232580)."
+  },
+  {
+    "id": "S104",
+    "title": "The cruel master",
+    "date": "1769",
+    "people": [
+      "I282608055492"
+    ],
+    "body": "In 1769 the Orange County justices cancelled the indenture of apprentice James Simmons “by the ill-treatment of his master, John Tuthill”. If this is Keturah’s father, it is the only personal glimpse of him found so far.",
+    "source": "notes/round2/colonial_cousins.md §1a, §3f (Eager 1846 pp. 527–529)."
+  },
+  {
+    "id": "S105",
+    "title": "The Brookhaven exodus",
+    "date": "1742–1763",
+    "people": [
+      "I282608055692",
+      "H0266",
+      "H0267",
+      "H0287"
+    ],
+    "body": "The Tuthill wills show the family arriving in the Highlands. James Jr. died young at New Windsor in 1756, leaving five children, and named his father James and Selah Strong of Orange County as executors. Brother Daniel of Goshen (1761) wanted burial “decent without Pomp or State”; his witnesses were John Brewster, Samuel Smith and Selah Strong, and Joshua Brown was executor. Rev. Abner Reeve, who preached at Moriches 1754–63, “removed with a company of emigrants from that neighborhood to Blooming Grove, Orange County” in 1763 — a possible vehicle for the Smith and Tuthill move.",
+    "source": "notes/round3/english_french_origins.md §5 item 12 (NY Wills vols. V–VI); notes/round2/colonial_cousins.md §1a (Dexter vol. 1 pp. 434–5)."
+  },
+  {
+    "id": "S106",
+    "title": "James Smith’s boundary with his cousin",
+    "date": "1736",
+    "people": [
+      "I282608065087",
+      "H0271"
+    ],
+    "body": "In the 1736 General Division James Smith drew 152 acres “on the east side of Smithtown river, near the northeast branch”, bounded south by land laid out to Daniel Smith; a tract of Daniel 2d’s at the head of the Northeast Branch was bounded north “by James Smith’s land”. James’s land and the Hauppauge Smith estate shared a boundary, and the two owners were first cousins — the closest John’s direct line comes to Hauppauge. James then sold his shares to his brothers and “settled in Moriches”.",
+    "source": "uploaded Hauppauge report (Pelletreau 1898 pp. 297, 311–312, 361, 398–400, App. p. 479)."
+  },
+  {
+    "id": "S107",
+    "title": "Temperance who married her stepbrother",
+    "date": "1747–1813",
+    "people": [
+      "H0276",
+      "H0277"
+    ],
+    "body": "Ebenezer Smith’s 1747 will named “my daughters Temperance Anna and Hannah”, making this Temperance a tempting candidate for John’s ancestor. But Pelletreau’s appendix says twice that she married Jonas Platt (d. 1775 aged 44) and died his widow on 12 March 1813. It was a close-knit match: Ebenezer’s widow Anna married Jonas’s father Zephaniah Platt, so Temperance married her stepbrother. Ebenezer’s homestead was still known in 1898 as the “Dick ’Nezer Place”.",
+    "source": "uploaded Hauppauge report; uploaded deep-dive report (Pelletreau pp. 46, 465, 475)."
+  },
+  {
+    "id": "S108",
+    "title": "The Joshua Smith House",
+    "date": "c.1761–1960",
+    "people": [
+      "H0274"
+    ],
+    "body": "Joshua Smith I’s house on the “Judge’s Neck” at Hauppauge was built c.1761 (Rockwell scrapbook; Wood says about 1769, “not far west of Thomas Wheeler’s”) as a salt-box. Four generations lived there until Ellen married Dr. Jarvis R. Mowbray in 1861; the farm was sold in 1868; Pelletreau in 1898 called it “an interesting relic of Colonial days”, then owned by Charles Miller. A photo caption in John’s Drive says it was “built c. 1761, remodeled in 1819, demolished in 1960. Hall woodwork now at the Henry Francis duPont Winterthur Museum”. It fell to “the onrush of housing developments” despite school-district and civic efforts. HABS NY-5414 photographs survive at the Library of Congress. Best inferred site: Smithtown (north) side of Townline Road, just west of the old Route 111 / Wheeler Road corner, near the Methodist church (473 Townline Road).",
+    "source": "uploaded Hauppauge report (Wood 1920 pp. 15, 25–26, 46; Rockwell; Pelletreau p. 236 note; LOC); Drive screenshot IMG_7823 photo caption."
+  },
+  {
+    "id": "S109",
+    "title": "The New Mills and Stump Pond",
+    "date": "1798",
+    "people": [
+      "H0280"
+    ],
+    "body": "In 1798 the three “cousins” agreed to dam the Nissequogue headwaters and build the “New Mills”. The dam formed Stump Pond; the site is now the 627-acre Blydenburgh County Park and an NRHP historic district (1983).",
+    "source": "uploaded Hauppauge report (Wood 1920 p. 26; Suffolk County Parks; Wikipedia)."
+  },
+  {
+    "id": "S110",
+    "title": "Gold in the churn, and Washington’s rest stop",
+    "date": "Revolution; 1790",
+    "people": [
+      "H0283"
+    ],
+    "body": "Joseph Blydenburgh of Hauppauge survived a British search of his house for gold that was hidden in a churn. In 1790 Washington rested his horses at the Smithtown tavern of the “Widow Blidenberg”, Ruth, widow of Benjamin Blydenburgh.",
+    "source": "uploaded Hauppauge report (Wood pp. 16, 27; Founders Online)."
+  },
+  {
+    "id": "S111",
+    "title": "The last Bull Smith in Hauppauge",
+    "date": "1907",
+    "people": [
+      "H0282"
+    ],
+    "body": "Caleb Smith II gave his 1790 Hauppauge house to his daughter Sarah when she married “Major ’Nezer” Ebenezer Smith. The Major’s family held the “Caleb place” until 1907, when his son Joshua B. Smith died — “the last Bull Smith to live in Hauppauge”. The Smith family graves were moved after 1868 to the northeast corner of the Methodist churchyard, where Major ’Nezer’s memorial stands just outside the square of evergreens.",
+    "source": "uploaded Hauppauge report (Wood 1920 pp. 26, 87–88)."
+  },
+  {
+    "id": "S112",
+    "title": "Overflowed land”: the name Hauppauge",
+    "date": "colonial",
+    "people": [],
+    "body": "A Winnecomack survey calls the springs at the head of the Nissequogue “a place of Springs called by the Indians Happogs.” The usual gloss is “land of sweet waters”; W. W. Tooker rejected that and gave “overflowed land”. Hauppauge straddles the Smithtown patent, the Islip (Nicoll) patent and the 1703 Winnecomack patent; its main street, Townline Road, is the Smithtown–Islip boundary.",
+    "source": "uploaded Hauppauge report (Pelletreau pp. 385–386; Tooker 1911 entry 103; Wood 1920 pp. 15, 17)."
+  },
+  {
+    "id": "S113",
+    "title": "Abner Smith, ardent patriot of the Branch",
+    "date": "1734–1792",
+    "people": [
+      "H0269"
+    ],
+    "body": "The “Abner Smith House on Hauppauge Road” stood on Village Way in the Village of the Branch, Smithtown. Abner (1734–1782), son of Aaron Smith of The Landing and grandson of Job Smith, was “an ardent patriot” who signed the Articles of Association. In 1792 his daughter Juliana quitclaimed to her brother Elisha “all that tract of land formerly my father’s Abner Smith” beside the “Old mill creek”, site of Smithtown’s first mill.",
+    "source": "uploaded Hauppauge report (Rockwell); uploaded deep-dive report (Pelletreau pp. 44, 356)."
+  },
+  {
+    "id": "S114",
+    "title": "A martyred general",
+    "date": "1776",
+    "people": [
+      "H0284",
+      "H0289"
+    ],
+    "body": "Gen. Nathaniel Woodhull, grandson of Bull Smith’s son Richard, was captured on 29 Aug 1776, denied medical care and food, and died on 20 Sep 1776. His death turned his cousin Abraham Woodhull — later “Samuel Culper Sr.” — against the British. He had married Ruth Floyd, William Floyd’s sister.",
+    "source": "uploaded deep-dive report (jrm I2318; Wikipedia)."
+  },
+  {
+    "id": "S115",
+    "title": "Culper Ring cousins",
+    "date": "1778–1783",
+    "people": [
+      "H0287",
+      "H0289",
+      "H0290"
+    ],
+    "body": "Selah Strong, a great-great-grandson of Bull Smith and John’s 2C9R via Thompson, was a Provincial Congress delegate and Revolutionary captain, held on a British prison ship. His wife, the Culper spy Anna Smith Strong, is not a blood relative. Abraham Woodhull, the ring’s chief agent, is a Topping cousin (partly sourced). Courier Caleb Brewster (code number 725) was a “via Brewster” cousin — now probably not kin.",
+    "source": "uploaded deep-dive report; notes/colonial_virginia.md §3b; Round 3 status change 11."
+  },
+  {
+    "id": "S116",
+    "title": "Tippecanoe and Tyler Too",
+    "date": "1840–1844",
+    "people": [
+      "I282695486911",
+      "H0294",
+      "I282695486914",
+      "H0299",
+      "I282695486913"
+    ],
+    "body": "Both First Ladies of the 1840 “Tippecanoe and Tyler Too” ticket — Anna Symmes Harrison (via Tuthill/Wells) and Julia Gardiner Tyler (via Bull Smith) — are John’s blood cousins; neither president is. Benjamin Harrison is John’s only blood-related president (6C5R, also 7C4R), through his grandmother Anna Symmes. Sherwood Forest (Tyler) and Berkeley Plantation (Harrison) are both in Charles City County, Virginia. Theodore Roosevelt is not kin.",
+    "source": "Round 1 report §1; notes/colonial_virginia.md §1, §4; research-thread answer to John’s question 3 (section 1.4)."
+  },
+  {
+    "id": "S117",
+    "title": "The USS Princeton explosion",
+    "date": "1844",
+    "people": [
+      "H0294"
+    ],
+    "body": "NY state senator David Gardiner, Julia’s father and John’s 4C7R, was killed in the explosion aboard the USS *Princeton* on the Potomac in 1844; Julia married President Tyler that year.",
+    "source": "notes/colonial_virginia.md §3a (Gardiner 1890 p. 149)."
+  },
+  {
+    "id": "S118",
+    "title": "A Titanic cousin",
+    "date": "1912",
+    "people": [
+      "H0303",
+      "H0304"
+    ],
+    "body": "James Clinch Smith, born 1856 in Smithtown, lived in Paris, sailed first class on the *Titanic* and died in the sinking in 1912; his body was not recovered. His sister Bessie married the architect Stanford White. He is John’s 6C5R via Bull Smith → Richard Jr. → Sarah Woodhull → Gen. Nathaniel Woodhull → Elizabeth Woodhull Nicoll → Eliza Nicoll Smith → Judge J. Lawrence Smith → James.",
+    "source": "Round 2 report §2; notes/round2/colonial_cousins.md §2b; research-thread answer to John’s question 4 (section 1.4)."
+  },
+  {
+    "id": "S119",
+    "title": "Lady Carteret’s prenuptial",
+    "date": "1681",
+    "people": [],
+    "body": "Bull Smith’s daughter Elizabeth married William Lawrence of Flushing (estate £2,021; his sword, plate and effects appraised separately at a high figure), then in 1681 Gov. Philip Carteret of New Jersey — with a prenuptial agreement that kept Tew’s Neck for her Lawrence sons — and finally Col. Richard Townley, who came over with Virginia Gov. Lord Howard of Effingham in 1683.",
+    "source": "notes/round2/colonial_cousins.md §3c; notes/colonial_virginia.md §3d, §4."
+  },
+  {
+    "id": "S120",
+    "title": "A baronet’s deaf daughter and a murdered travel writer",
+    "date": "1845–1884",
+    "people": [
+      "H0309"
+    ],
+    "body": "Sir Willoughby Jones, 3rd Bt, MP for Cheltenham, was a Lawrence-line cousin; his deaf daughter Maud drew Alexander Graham Bell’s interest. His brother Sir Lawrence Jones, 2nd Bt, a travel writer, was murdered in Turkey in 1845.",
+    "source": "notes/round2/colonial_cousins.md §2a."
+  },
+  {
+    "id": "S121",
+    "title": "Founding Hudson and insuring ships",
+    "date": "18th century",
+    "people": [
+      "H0311",
+      "H0308"
+    ],
+    "body": "David Lawrence was one of the 30 founding proprietors of Hudson, NY, and its recorder and mayor; his brother Joseph wrote the first marine insurance policy in Rhode Island. Capt. Effingham Lawrence commanded a British frigate and was an Elder Brother of Trinity House.",
+    "source": "notes/round2/colonial_cousins.md §2a (Lawrence 1858)."
+  },
+  {
+    "id": "S122",
+    "title": "Captured at No. 4, drummer at Bunker Hill",
+    "date": "1757–1775",
+    "people": [],
+    "body": "In the Hammond line, Lt. David Farnsworth was captured by Indians at No. 4 in 1757; his son Samuel was a drummer at Bunker Hill. Their descendant Col. John F. Farnsworth commanded the 8th Illinois Cavalry.",
+    "source": "notes/round2/colonial_cousins.md §2c (Hammond 1902)."
+  },
+  {
+    "id": "S123",
+    "title": "The Right to Privacy and Rodin’s Kiss",
+    "date": "1890–1928",
+    "people": [],
+    "body": "Hammond-line cousins (7C5R): Samuel D. Warren II co-wrote “The Right to Privacy” (1890) with Louis Brandeis, the founding text of U.S. privacy law; his brother Edward Perry Warren, the art collector of the Warren Cup, commissioned the Lewes version of Rodin’s *The Kiss*.",
+    "source": "Round 2 report §2; notes/round2/colonial_cousins.md §2c."
+  },
+  {
+    "id": "S124",
+    "title": "The Hudson River chain (now collateral)",
+    "date": "1778",
+    "people": [
+      "H0292"
+    ],
+    "body": "The links of the great chain across the Hudson at West Point were finished at Samuel Brewster’s forge; he chaired the New Windsor Committee of Safety. He was a “via Brewster” cousin (3C9R) — now probably not kin.",
+    "source": "Round 2 report §2; notes/round2/colonial_cousins.md §2d."
+  },
+  {
+    "id": "S125",
+    "title": "A missionary to the Long Island Indians",
+    "date": "1735–1777",
+    "people": [],
+    "body": "Azariah Horton, grandson of John Tuthill Jr. & Mehitable Wells, graduated from Yale in 1735, was a missionary to the Long Island Indians, then pastor at Bottle Hill (Madison, NJ). He was an ancestor of the famous Brooklyn preacher Theodore L. Cuyler.",
+    "source": "notes/colonial_virginia.md §3c (Akerly; NJGenWeb; Cuyler, *Recollections*)."
+  },
+  {
+    "id": "S126",
+    "title": "Theodorus Bailey and the Yale president",
+    "date": "1862",
+    "people": [
+      "H0300"
+    ],
+    "body": "Theodorus Bailey, John’s 4C7R via Bull Smith, was Farragut’s second-in-command at the capture of New Orleans in 1862. The same Pelletreau page shows Richard Smith 3rd’s daughter Sarah married Rev. Naphtali Daggett, later president of Yale.",
+    "source": "uploaded deep-dive report (Pelletreau App. pp. 471–472); F. K. Smith pp. 119–122 screenshots."
+  },
+  {
+    "id": "S127",
+    "title": "Sagtikos Manor and the Gardiner cousins",
+    "date": "19th century",
+    "people": [
+      "H0317"
+    ],
+    "body": "David Thompson married Julia Tyler’s first cousin Sarah Diodati Gardiner; their son Frederick Diodati Thompson held Sagtikos Manor — a house where John’s Thompson and Bull Smith cousinships meet.",
+    "source": "notes/colonial_virginia.md §3b."
+  },
+  {
+    "id": "S128",
+    "title": "The Oyster Bay cemetery that isn’t family",
+    "date": "n/a (modern)",
+    "people": [
+      "H0329"
+    ],
+    "body": "Theodore Roosevelt is buried in Oyster Bay’s Youngs Memorial Cemetery, on Youngs family land, but he is not a blood relative — and the Youngs ancestry itself is unproven.",
+    "source": "notes/colonial_virginia.md §3d."
+  },
+  {
+    "id": "S129",
+    "title": "Stephen Sayre, a cousin who wasn’t",
+    "date": "1818",
+    "people": [
+      "H0328"
+    ],
+    "body": "Stephen Sayre, Sheriff of London and Franklin’s agent, died in 1818 “at the residence of his son in Brandon, Virginia”. He would have been John’s 3C9R had the tree’s Sayre line been right; it isn’t.",
+    "source": "notes/colonial_virginia.md §3d, §4 (Banks 1901; *Richmond Enquirer* 10 Dec 1818). ### 5.4 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)"
+  },
+  {
+    "id": "S130",
+    "title": "The two \"Marys\": how Mollie was mistaken for Mary Cognetti",
+    "date": "1931–1933 (the people); 2026 (the correction)",
+    "people": [
+      "H0332",
+      "I282695503537",
+      "I282695504010",
+      "I282695503435"
+    ],
+    "body": "The Ancestry tree showed \"Mollie Petriello 1911–\" as James Petriello's wife and left it unclear whether Mollie was Mary Cognetti. Round 1 worked out that Mollie (b. 1911) was James's wife, and so John T.'s mother, while Mary Cognetti (b. c.1933) married John T., James's son. The two were probably confused because \"Mollie\" is a pet form of Mary. Round 2 found James's 1931 marriage license (No. 1107), where the bride is \"Mollie Genett\", 20, of 133 Sand St, Dunmore, daughter of Frank, a blacksmith, and Angelica née Ferrandino. FamilySearch identifies her as Carmela Gianetta (13 Jul 1910 – 7 Feb 2000); her Social Security entry reads \"Mollie C Petriello\", where the C is for Carmela.",
+    "source": "Round 1 report correction 3n; notes/italian.md 2.3; Round 2 report 1 and 3e; notes/round2/italian_gaps.md 1 (FS VF76-TJQ, VF76-TJ9, GQ4M-KCR, SSDI JRHQ-NYH)"
+  },
+  {
+    "id": "S131",
+    "title": "A teenage wedding needing parental consent",
+    "date": "20 Jun – 12 Jul 1931",
+    "people": [
+      "I282695504010",
+      "H0332",
+      "I282695504114",
+      "H0334"
+    ],
+    "body": "James and Mollie were both 20, minors under the law of the time, so \"John Petrillo\" and \"Angelina Genett\" had to consent on the license. They were married at Dunmore in July 1931 (FamilySearch gives 12 Jul) by Rev. Michael DeLarno.",
+    "source": "notes/round2/italian_gaps.md section 1 (license No. 1107, image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/1/image.jpg)"
+  },
+  {
+    "id": "S132",
+    "title": "A foundling's name",
+    "date": "c.1873 (birth); 1 Aug 1896 (marriage)",
+    "people": [
+      "H0334",
+      "H0333"
+    ],
+    "body": "When Angelica married Frank Giannetta at Bisaccia in 1896, the marriage act described her as aged 23, born in Sant'Angelo dei Lombardi and living in Bisaccia, \"figlia di padre ignoto e madre ignota\": a child of unknown father and unknown mother. She was a foundling. Sant'Angelo dei Lombardi was a district seat with a foundling wheel (ruota), and \"Ferrantino\" is typical of the surnames the authorities gave to esposti, so the name was probably assigned to her at the wheel. John's great-great-grandmother's real parents are unknown. Her foundling birth act cannot be reached online, because the Antenati registers for Sant'Angelo stop at 1865.",
+    "source": "notes/round3/italian_origins.md section 3 and \"Town and people facts\"; Round 3 report sections 1 and 5 (Bisaccia Matrimoni 1896 act 18, https://antenati.cultura.gov.it/ark:/12657/an_ua445513/5glz731)"
+  },
+  {
+    "id": "S133",
+    "title": "Shepherds of Bisaccia",
+    "date": "1867",
+    "people": [
+      "H0335",
+      "H0343",
+      "H0336"
+    ],
+    "body": "Savino Giannetta, who married Angelamaria Fede in 1867, was a pecoraio (shepherd), and so was her father Bartolomeo Fede. That is typical of Bisaccia, an upland grazing town. By the time Savino's son Frank married in 1896, Frank was described as \"possidente\" (a property owner). In America he worked as a blacksmith.",
+    "source": "notes/round3/italian_origins.md 3 and \"Town and people facts\"; Round 3 report section 5"
+  },
+  {
+    "id": "S134",
+    "title": "Bisaccia: a castle town of emperors and poets",
+    "date": "Bronze Age – present",
+    "people": [
+      "H0333"
+    ],
+    "body": "Bisaccia was a Bronze Age site. The Oliveto-Cairano culture (9th c. BC) left Iron Age burials there, including the \"tomb of the princess\". The town appears in the Catalogus Baronum. Frederick II rebuilt the castle c.1250, and the town is associated with the Sicilian School of poetry. Torquato Tasso stayed there in 1588 as a guest of G. B. Manso, and the Pignatelli were dukes from 1600. Earthquakes struck in 1694, 1732, 1930 and 1980. The population fell from about 8,000 (1968) to about 3,400. The patron saint is Sant'Antonio di Padova (13 June). About 916 people left Bisaccia for America between 1830 and 1912, with the peak in 1906, the year the FamilySearch tree says Frank Giannetta came (his own 1920 declaration says 1903). Mario Procaccino, New York City Comptroller and the 1969 Democratic nominee for mayor, was born in Bisaccia, as was the poet Franco Arminio (paesologia of depopulated Irpinia). Neither is known to be kin.",
+    "source": "notes/round3/italian_origins.md \"Town and people facts\" (https://it.wikipedia.org/wiki/Bisaccia_(Italia)); Round 2 report section 4; notes/round2/italian_gaps.md 6 and 8 (https://paese.app/regioni/campania/avellino/bisaccia)"
+  },
+  {
+    "id": "S135",
+    "title": "Frank Giannetta crosses on the SS Italia",
+    "date": "c.15 Apr 1903; declaration 12 Jul 1920",
+    "people": [
+      "H0333",
+      "H0334"
+    ],
+    "body": "Frank Giannetta signed his Declaration of Intention (No. 16537) in the US District Court at Scranton on 12 Jul 1920 as \"Frank Gennetti\". He was then 50, a laborer living at 133 Sand St, Dunmore, and born 2 May 1869 in \"Bisiccio\" (Bisaccia). He had sailed from Naples on the SS *Italia* and reached New York around 15 Apr 1903. His last foreign residence was Bisaccia, and his wife Angelina was born in Italy.",
+    "source": "notes/round3/italian_origins.md 3 (image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/2/image.jpg)"
+  },
+  {
+    "id": "S136",
+    "title": "The candle-maker of Dasà",
+    "date": "22 Mar 1855",
+    "people": [
+      "I282697102034",
+      "H0337",
+      "I282697102020"
+    ],
+    "body": "When Giovanni Cognetta was registered at Dasà in 1855, his father was styled \"Mastro Nicola Cognetta\", 51, a ceraiuolo (a wax-chandler or candle-maker who made votive and church candles), and his mother \"Donna Mariangela Cannatello\". The honorifics \"Mastro\" (master craftsman) and \"Donna\" mark a family of slightly elevated, artisan status.",
+    "source": "notes/round3/italian_origins.md 4 and \"Town and people facts\"; Round 3 report section 5 (Dasà Nati 1855 act 18, https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0JPovJv)"
+  },
+  {
+    "id": "S137",
+    "title": "Dasà: the \"wood\" town and its Easter Affruntata",
+    "date": "medieval to 1929",
+    "people": [],
+    "body": "Dasà's name comes from the Greek *dásos*, \"wood\". It was once a casale of Arena, a fief of the Culchebret family, and was rebuilt after the 1783 and 1905 earthquakes. Its feast, the 'Ncrinata/Affruntata, falls on Easter Tuesday. Its emigrants went mainly to Stamford, Connecticut, and paid for Dasà's 1929 war memorial.",
+    "source": "notes/round2/italian_gaps.md 3 and 8 (https://it.wikipedia.org/wiki/Das%C3%A0)"
+  },
+  {
+    "id": "S138",
+    "title": "Guardia Lombardi: a Lombard lookout fort",
+    "date": "571 – 1980",
+    "people": [],
+    "body": "Guardia Lombardi was founded by the Lombards (Longobards) about 571–591 as a *guardia*, a lookout fort of the Gastaldate of Conza. Roger II destroyed it in 1133, and Manfred defeated a papal army there on 30 Oct 1254. Earthquakes struck in 1694 (about 280 dead), 1732 and 1930, and the Irpinia earthquake of 23 Nov 1980 destroyed more than 50% of its buildings. The population fell from 5,508 in 1921 to about 1,700 in 2017. The patron saint is Pope St. Leo IX.",
+    "source": "notes/round2/italian_gaps.md 8 (https://en.wikipedia.org/wiki/Guardia_Lombardi; https://www.earth-prints.org/bitstream/2122/14394/1/geosciences_Porfido_et_al_2020.pdf); Round 2 report section 4"
+  },
+  {
+    "id": "S139",
+    "title": "The plague of 1656 and Father Di Leo's chapel to St. Rocco",
+    "date": "1656",
+    "people": [
+      "H0340"
+    ],
+    "body": "A plague in 1656 killed 1,110 of Guardia's 1,475 people. Fr. Nunzio Di Leo's will funded a chapel to St. Rocco, the plague saint. The name \"di Leo\" matches that of Grazia Di Marino's mother, Caterina di Leo. No kinship is proven.",
+    "source": "notes/round2/italian_gaps.md 8 (https://irpiniastories.wordpress.com/2022/08/11/ties-that-remain-celebrating-guardia-lombardi-in-pennsylvania/); Round 2 report section 4"
+  },
+  {
+    "id": "S140",
+    "title": "St. Rocco's, Dunmore, and John Petriello's grocery",
+    "date": "1897 – 2010",
+    "people": [
+      "I282695504114",
+      "I282695504203"
+    ],
+    "body": "\"More than one hundred years ago\" emigrants from Guardia Lombardi settled the Bunker Hill section of Dunmore. About 40 Guardiese families bought a former Presbyterian church there, and the first Mass was said in October 1905; the cornerstone is in Italian. The first procession was held in August 1906. St. Rocco's became a parish in 1922 and merged into SS. Anthony & Rocco in 2010. Scranton, Dunmore and Guardia are now sister cities; Stephanie Longo of Dunmore, an author of Guardia descent, set up those ties (no known kinship). John Petriello's grocery, already open by 1897 on Ash St and later on Bunker Hill, would have served that early colony, so John and Maria Antonia were among the earliest Guardiese on Bunker Hill. The Guardiese neighbourhood straddles Scranton's 10th Ward and Dunmore. That is why the family appears in Scranton censuses but married and was buried in Dunmore.",
+    "source": "notes/italian.md 2.1; notes/round2/italian_gaps.md 6 and 8 (Irpinia Stories; WNEP https://wnep.com/article/news/local/lackawanna-county/festival-and-feast-of-st-rocco-a-dunmore-tradition/523-cbeab741-2694-4e93-9676-0e421060fa07; We The Italians https://www.wetheitalians.com/news/italians-lackawanna-county-wonderful-community-where-people-love-and-respect-each-other; Facebook https://www.facebook.com/ScrantonDunmoreGuardia/); Round 2 report section 4"
+  },
+  {
+    "id": "S141",
+    "title": "The grocer of Bunker Hill",
+    "date": "1897–1931",
+    "people": [
+      "I282695504114"
+    ],
+    "body": "In 1910 John \"Petrillo\" kept a grocery store on his own account at 1030 Ash Street, in a house he owned with a mortgage. By 1920 he was a \"merchant, grocery store\" at 1028 Bunker Hill and owned the house free of mortgage. On his son's 1931 license his occupation was \"Mdse\" (merchandise). His two censuses give different immigration years (1880 and 1892), and his age drifts (35 in 1910, 50 in 1920), which suggests more than one crossing.",
+    "source": "notes/round2/italian_gaps.md 4 (1910 and 1920 census images)"
+  },
+  {
+    "id": "S142",
+    "title": "Close kin networks in Guardia",
+    "date": "1855–1906",
+    "people": [
+      "I282824814840"
+    ],
+    "body": "In Guardia's records the Petriello, Marra, Di Marino and De Biasi families act as witnesses for one another. A Francesco De Biasi, 72, reported Pietro Petriello's death in 1901. A Petriello–Marra–Di Marino web of marriages appears in the 1855 indexes: Pietro's sister Gaetana married in February, and his future wife's half-sister Concetta married a Giuseppe Petriello (son of Carmine and Maria Marra) in December. The allegati to Guardia's 1906 deaths include a death certificate from St. Anthony's Church, Dunmore, PA, for a Guardiese, confirming the Guardia-to-Dunmore migration chain.",
+    "source": "notes/round3/italian_origins.md sections 1, 2 and \"Town and people facts\""
+  },
+  {
+    "id": "S143",
+    "title": "Gaetano di Marino's two wives",
+    "date": "before 1855–1876",
+    "people": [
+      "I282824814912",
+      "I282824814921",
+      "H0340",
+      "I282824814895",
+      "H0364"
+    ],
+    "body": "John's Ancestry tree made Maria d'Ambrosio the mother of Grazia Di Marino, while FamilySearch said Caterina di Leo. Grazia's own death act (1916) settled it: Caterina di Leo. A December 1855 marriage index shows another daughter of Gaetano, Concetta, whose mother was Maria d'Ambrosio. Gaetano evidently married twice, first Maria d'Ambrosio and then Caterina di Leo, and the tree had merged the two wives. As a result the whole D'Ambrosio/Gialanella pedigree drops out of John's direct line.",
+    "source": "notes/round3/italian_origins.md 1; Round 3 report section 3"
+  },
+  {
+    "id": "S144",
+    "title": "Farino\": how a census clerk hid the Ferlainos",
+    "date": "2–3 Jan 1920; 1940; 1943; 2008",
+    "people": [
+      "I282695503581",
+      "I282824815192",
+      "I282695503583"
+    ],
+    "body": "The 1920 census enumerator wrote the whole Ferlaino household at 1306 Diamond Avenue as \"Farino\". Two of Helen's sons later gave their mother's maiden name as \"Farino\" on their marriage licenses (1940, 1943), and Anthony R. Cognetti's 2008 obituary echoed it as \"Helen Farina Cognetti\". For a while this cast doubt on the tree's Ferlaino line. The address and a boarder named in an independent forum post show the household was the Ferlainos'.",
+    "source": "notes/round2/italian_gaps.md 2; Round 2 report 1 and 3e"
+  },
+  {
+    "id": "S145",
+    "title": "The Ferlaino boarding house at 1306 Diamond Avenue",
+    "date": "1910s–1920s",
+    "people": [
+      "I282824815192",
+      "I282695503581",
+      "I282695503559"
+    ],
+    "body": "1306 Diamond Avenue, Scranton, \"was the home of the Ferlaino family who took in boarders from San Mango d'Aquino\". It was a landing place for newly arrived men from the town. In January 1920 the widowed Josephine (Giuseppina) owned it free of mortgage and lived there with her children Helen, Frank and Raffaela; Helen's husband Frank Cognetti (listed as a \"boarder\"); three Cognetti grandsons; and boarders Anthony \"Bifano\" (Antonio Epifano) and Angelo Bonacci. A John Bifano (Epifano) later co-indexed San Mango's parish records with Daniel Lupia.",
+    "source": "notes/italian.md 4 (https://www.italiangenealogy.com/forum/topic/26645); notes/round2/italian_gaps.md 2 and 7; Round 2 report section 4"
+  },
+  {
+    "id": "S146",
+    "title": "A grandson named Leopold",
+    "date": "19 May 1929",
+    "people": [
+      "H0346",
+      "I282697102554"
+    ],
+    "body": "Helen's son born in 1929 was named Leopold Salvatore (\"Leopoldo\" in the 1930 census), apparently for her father Leopoldo Ferlaino, who had died in 1915. This is one of the clues that Helen was a Ferlaino. The Ancestry tree misreads his name as \"Levyso\" (1930–Living), and FamilySearch has a duplicate \"Leupo\". He died in 2019.",
+    "source": "notes/round2/italian_gaps.md 2 and 3; notes/italian.md 3.1; tree screenshot details"
+  },
+  {
+    "id": "S147",
+    "title": "San Mango d'Aquino: the town of St. Thomas Aquinas's family",
+    "date": "early 1600s – 1911",
+    "people": [],
+    "body": "San Mango was founded in the early 1600s by a cadet branch of the d'Aquino family, the family of St. Thomas Aquinas. The Bishop of Tropea erected the parish in 1648, and the mother church is dedicated to San Tommaso d'Aquino. The town was first called \"Muricello\", then \"Casale nuovo\". Lord Luigi d'Aquino renamed it \"Santo Mango\" after his father Tommaso's Cilento fief, and \"d'Aquino\" was added after Italian unification. The population was 250 in 1674 and peaked at 2,241 in 1911, then declined through emigration. Earthquakes in 1905 and 1908 fall right in the Ferlainos' emigration window. In Scranton, San Mango families hold La Madonna della Buda over Father's Day weekend, and the San Mango d'Aquino Mutual Benefit Society is at 1258 Providence Rd. (Round 1 gave the founding as about 1640.)",
+    "source": "notes/round2/italian_gaps.md 8 (https://it.wikipedia.org/wiki/San_Mango_d%27Aquino); notes/italian.md 4 (Yelp, We The Italians, FamilySearch Wiki); Round 2 report section 4"
+  },
+  {
+    "id": "S148",
+    "title": "The coat of arms nobody can place",
+    "date": "tree images (undated)",
+    "people": [
+      "I282824815347",
+      "I282824815395",
+      "I282824815369",
+      "I282824815401",
+      "I282824815410",
+      "I282824815424",
+      "I282824815431",
+      "I282824815381"
+    ],
+    "body": "Several Fiorillo, Morrello and Guercio profiles in the tree use the same coat of arms: a black shield, a silver rampant lion, a crown and a wreath. Round 1 checked the official arms of 35 comuni across Catanzaro, Cosenza, Crotone and Vibo Valentia provinces, and none shows a silver lion on black. It may be a family arms (for example one sold as \"Fiorillo arms\"), the arms of a noble family such as the d'Aquino or Le Piane lords of San Mango, or an image copied from another user's tree. Round 2 then found that none of these surnames except Guercio appears in San Mango in 1674–1804, which supports the copied-tree explanation.",
+    "source": "notes/italian.md 4.1; notes/round2/italian_gaps.md 7"
+  },
+  {
+    "id": "S149",
+    "title": "Coal-breaker engineer",
+    "date": "1920–1950",
+    "people": [
+      "I282695503559"
+    ],
+    "body": "Frank Cognetti worked in the anthracite industry all his life. He was a coal-mine laborer in 1920 and a hoisting engineer at a coal breaker in 1930; his son's 1940 license calls him a \"mechanic\", and in 1950 he repaired conveyor lines in the coal mines. He owned 612 Philo St, valued at $5,000 in 1930.",
+    "source": "notes/round2/italian_gaps.md 3; Round 2 report 3e"
+  },
+  {
+    "id": "S150",
+    "title": "The Cognetti Thanksgiving",
+    "date": "1966–2016",
+    "people": [
+      "I282695503585",
+      "H0346",
+      "I282695503537"
+    ],
+    "body": "Joseph F. Cognetti started the family Thanksgiving in 1966. The 50th annual Cognetti Thanksgiving in 2016 drew 151 relatives. The newspaper story said that \"all but two\" of Joe's seven siblings had died, and named Leo and Mary Petriello as the survivors (Leo was 87, Mary 83).",
+    "source": "notes/italian.md 3.1 and 5a (https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/)"
+  },
+  {
+    "id": "S151",
+    "title": "From the candy trade to the Hall of Fame",
+    "date": "1942–1996",
+    "people": [
+      "I282695503585",
+      "H0347"
+    ],
+    "body": "After serving in the Army Air Corps from 1942 to 1946, Joseph F. Cognetti became partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. He was inducted into the Candy Hall of Fame (1975) and the American Wholesale Marketers Association Hall of Fame (1993), won the J. Roger Ozman Medal (1975) and \"more than 50 Broker of the Year awards\". His probable nephew Anthony Paul Cognetti (b. 1949, Scranton) worked about 23 years at D.C. Sales, became president in 1982, and entered the Candy Hall of Fame in 1996.",
+    "source": "notes/italian.md 5a, 5b; notes/round2/italian_gaps.md 3 and 6 (Candy Hall of Fame pages)"
+  },
+  {
+    "id": "S152",
+    "title": "Council president and baseball club president",
+    "date": "1943–2008",
+    "people": [
+      "I282695503583"
+    ],
+    "body": "Anthony R. Cognetti was a Central High student at 614 Philo St when he registered for the draft in June 1942, and served in the Army from July 1943. He attended Keystone Junior College and Penn State, was president of Scranton City Council, and in the 1970s was president of the Scranton Red Sox collegiate baseball club. In 1950 he worked at an ice-cream store.",
+    "source": "notes/italian.md 5a; notes/round2/italian_gaps.md 3"
+  },
+  {
+    "id": "S153",
+    "title": "A family at war",
+    "date": "1940–1946",
+    "people": [
+      "I282695503586",
+      "I282695503583",
+      "I282695503585",
+      "H0360",
+      "H0358",
+      "I282695504010"
+    ],
+    "body": "Both sides of the maternal family served in WWII:\nRocco F. Petrillo enlisted in the Army at Scranton on 17 Feb 1941.\nSal Cognetti enlisted at Wilkes-Barre on 5 Jan 1942 and married in uniform in Oct 1943.\nAnthony Cognetti served from 10 Jul 1943.\nJoseph Cognetti served in the Army Air Corps from 1942 to 1946.\nNicholas \"Primo\" Petriello had military service in 1945 (probable).\nJohn's great-grandfather James registered for the draft on 16 Oct 1940.",
+    "source": "Round 2 report section 2 (military table); notes/round2/italian_gaps.md 3, 4 and 6"
+  },
+  {
+    "id": "S154",
+    "title": "Grace's 1943 naturalization",
+    "date": "29 Jun 1943",
+    "people": [
+      "H0351"
+    ],
+    "body": "Grace, John Petriello's daughter, is indexed as naturalized on 29 Jun 1943, although she was probably US-born. The reason is unknown. One speculative explanation is that she had lost her citizenship by marrying an alien (Joseph DiBiasi).",
+    "source": "notes/round2/italian_gaps.md 4"
+  },
+  {
+    "id": "S155",
+    "title": "An obituary that confirms Sharon",
+    "date": "29 Feb 2024",
+    "people": [
+      "H0348",
+      "I282604492910",
+      "I282695503435",
+      "I282695503537"
+    ],
+    "body": "John T. Petriello Jr., eldest of the three children of John and Mary Petriello, was born and raised in Scranton. He was a Merrill Lynch financial advisor for 30 years and lived in Mendham, NJ, then Princeton. His obituary names his surviving siblings \"Sharon Meier (Thomas)\" and Paul, and a cousin Ann Marie. This independently confirms that Johnny's mother belongs to this family.",
+    "source": "notes/round2/italian_gaps.md 5 (https://themontynews.org/single-post/john-t-petriello-jr-65); Round 2 report 3e"
+  },
+  {
+    "id": "S156",
+    "title": "Name collisions: the wrong James Petrillo and the wrong Frank Cognetti",
+    "date": "n/a",
+    "people": [
+      "H0380",
+      "H0381"
+    ],
+    "body": "Search engines keep returning James C. Petrillo (Chicago, 1892–1984), the musicians'-union boss. He is not John's great-grandfather James Petrillo. Scranton/Dunmore also had a second Frank Cognetti (1894–1978), born in Nicastro, son of Bruno Cognetto and husband of Maria Grazia Paradiso; his family must not be merged with John's. PFC Frank A. Petriello (1926–1945), Purple Heart, killed in Germany, was from Bayonne, NJ, and is not related.",
+    "source": "Round 2 report \"Ruled out\"; notes/round2/italian_gaps.md 3, 4 and 6; notes/italian.md 5c"
+  },
+  {
+    "id": "S157",
+    "title": "The 'Ndrangheta judge and the Napoli owner",
+    "date": "1975; 1980s",
+    "people": [
+      "H0376",
+      "H0377"
+    ],
+    "body": "Two famous Ferlainos came from Conflenti, next door to San Mango d'Aquino. Judge Francesco Ferlaino (1914–1975), an investigating judge and later appeals-court president, was murdered by the 'Ndrangheta in Lamezia Terme in 1975 and has been commemorated by President Mattarella. Corrado Ferlaino (b. 1931), an engineer whose father Modesto was a builder from Conflenti, owned SSC Napoli in the Maradona era. Ferlaino is a small Savuto-valley surname, so a distant link is plausible but unproven.",
+    "source": "notes/italian.md 5c; Round 1 report section 1"
+  },
+  {
+    "id": "S158",
+    "title": "Rocco James: the son who wasn't",
+    "date": "1889–1980",
+    "people": [
+      "H0361",
+      "I282695504114"
+    ],
+    "body": "Geni listed a Rocco James Petrillo, born in Italy in 1889, among John Petriello's children. Round 1 used his birth to date John's first arrival to c.1889–95. Round 2 found he was actually the son of Michelarcangelo Petriello and Benedetta Ladye, another Guardia family. He immigrated in 1909, lived in Farrell and Berwick, PA, and in Ohio, and died in 1980. Removing him voided the arrival estimate.",
+    "source": "notes/round2/italian_gaps.md 4 (FS L6MH-TCL)"
+  }
+]

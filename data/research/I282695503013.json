@@ -1,0 +1,30 @@
+{
+  "id": "I282695503013",
+  "link": {
+    "confidence": "possible",
+    "note": "Named as Ottilia's father in GEDBAS 1444214156; his parents tree-only."
+  },
+  "tags": [],
+  "summary": "Possible 8th great-grandfather of John; of the Schirkenhof family (Geroldstal).",
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Christian(…) SCHIRK S… (Deceased); parents Mathias Schürk 1641– + Maria Schwitzer 1642–."
+    }
+  ],
+  "sources": [
+    "GEDBAS 1444214156",
+    "Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2617
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

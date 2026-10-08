@@ -1,0 +1,31 @@
+{
+  "id": "H0281",
+  "link": {
+    "confidence": "probable",
+    "note": "Pelletreau appendix path; assumes Temperance was James's daughter."
+  },
+  "sex": "M",
+  "aka": [
+    "Senator Joshua B. Smith"
+  ],
+  "tags": [],
+  "summary": "John's 3rd cousin 7x removed (Job → Job 2d → Epenetus → Deborah → Joshua B.), also 4C6R and 4C7R; last master of the Hauppauge estate.",
+  "bio": "Buried in Hauppauge Rural Cemetery (former Methodist churchyard, 473 Townline Road). His daughter Ellen left in 1861 on marrying Dr. Jarvis R. Mowbray; the farm was sold in 1868. HABS NY-5414 'Joshua Brewster Smith House' photographs at the Library of Congress.",
+  "sources": [
+    "Find a Grave 38871768, https://www.findagrave.com/memorial/38871768",
+    "Wood (1920)",
+    "LOC HABS NY-5414, https://www.loc.gov/pictures/item/ny0780/",
+    "Pelletreau App."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Collateral relatives (Keturah's uncles and siblings, Tuthill and Smith kin)",
+    "line": 9088
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

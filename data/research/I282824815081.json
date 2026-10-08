@@ -1,0 +1,31 @@
+{
+  "id": "I282824815081",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; identical death year to husband; detached from John's line."
+  },
+  "tags": [],
+  "summary": "Tree ancestor of Maria d'Ambrosio; not John's ancestor.",
+  "bio": "Tree: Arcangiola Giordano (d. 1819). Giordano is the top surname of Guardia Lombardi emigrants (39 arrivals 1830-1912, paese.app).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Arcangiola Giordano -1819"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "paese.app Guardia Lombardi: https://paese.app/regioni/campania/avellino/guardia-lombardi"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Arcangiola Giordano (b. unknown)",
+    "line": 11216
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

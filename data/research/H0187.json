@@ -1,0 +1,26 @@
+{
+  "id": "H0187",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 1st cousin 7x removed; Luzerne County Commissioner, last of the 'Davenport congress'.",
+  "bio": "Stephen Davenport (1800-1882), son of Thomas and Charity (Lamoreux) Davenport, was a Luzerne County Commissioner and lived later in Huntington Twp.",
+  "sources": [
+    "Wright p.386: https://archive.org/details/historicalsketch00wrig_2"
+  ],
+  "occupation": "County Commissioner",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Stephen Davenport (b. 1800)",
+    "line": 6769
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

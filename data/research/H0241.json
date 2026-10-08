@@ -1,0 +1,28 @@
+{
+  "id": "H0241",
+  "link": {
+    "confidence": "probable",
+    "note": "NEHGR 69/79; Great Migration."
+  },
+  "sex": "F",
+  "aka": [
+    "Agnes Payne"
+  ],
+  "tags": [],
+  "summary": "John's 12th-great-grandmother, of Lavenham.",
+  "bio": "Her will was written in 1635 and proved in 1646.",
+  "sources": [
+    "NEHGR 69:251–2; 79:82–4"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 14 (12th-great-grandparents)",
+    "line": 8072
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

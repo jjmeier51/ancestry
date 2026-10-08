@@ -1,0 +1,72 @@
+{
+  "id": "I282608064660",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Baptism 28 Feb 1814 (Gortnahoe) and marriage as cited by Dwyer; 1904 Luzerne death register (age 90, b. Ireland, parents 'Thos & Ann Boney') independently confirms her father; son Andrew's baptism names her."
+  },
+  "birth": {
+    "date": "1814-02-28",
+    "place": "Gortnahoe, County Tipperary, Ireland"
+  },
+  "death": {
+    "date": "1904-04-18",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Catherine Heffernan",
+    "Catharine Hefferan",
+    "Catherine Heffressen",
+    "Mrs. Catherine Heffernan"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 4th-great-grandmother; Tipperary miner's widow who emigrated with her children to Plymouth in the 1860s and lived to 90.",
+  "bio": "Catherine Boney was baptized at Gortnahoe on 28 Feb 1814 (sponsor John Boney), daughter of Thomas Boney, a farmer at Lickfin, and Jude (Judith) Quigley. She married Thomas Heffernan at Gortnahoe on 3 Feb 1833 and lived at Mardyke; her first child was named Jude after her mother. After Thomas died in Ireland she emigrated with her children to Plymouth, Pennsylvania (about 1864-66). In the 1880 census, as 'Catherine Heffressen', 66, she lived with her daughter Catherine Healy in Plymouth. She died at Plymouth on 18 Apr 1904 and was interred there on 20 Apr; the Luzerne Register of Deaths (p.208) reads 'Hefferan, Catharine, F, 90, b. Ireland, d. Plymouth 18 Apr [1904], interred Plymouth 20 Apr, parents Thos & Ann Boney'. Her obituary appeared in the Wilkes-Barre Record of 19 Apr 1904 (text not found online); the tree profile carries an obituary clipping headed 'MRS. CATHERINE HEFFERNAN'. The mother's name conflicts: 'Jude Quigley' in the baptism (preferred) vs 'Ann' in the 1904 register (the informant may have confused her with Anastasia, 'Anty', Boney). Her probable sister Anastasia Boney married Thomas's brother Richard; Dwyer does not state they were sisters.",
+  "residences": [
+    {
+      "date": "BET 1833 AND 1864",
+      "place": "Mardyke, Killenaule, County Tipperary, Ireland"
+    },
+    {
+      "date": "1880",
+      "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Catherine Boney 1814-1904 (obituary clipping 'MRS. CATHERINE HEFFERNAN')"
+    },
+    {
+      "label": "Death register",
+      "value": "Luzerne Register of Deaths p.208"
+    }
+  ],
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Luzerne Register of Deaths p.208 (1904): https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/1/image.jpg",
+    "Wilkes-Barre Record, 19 Apr 1904 (obituary, cited by Dwyer)",
+    "1880 census Plymouth (cited by Dwyer)",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "mediaKnown": [
+    "Obituary clipping on tree profile"
+  ],
+  "openQuestions": [
+    "Text of 1904 obituary (Wilkes-Barre Record 19 Apr 1904; Osterhout Library microfilm).",
+    "Mother Jude Quigley vs 'Ann' - Gortnahoe register image (registers.nli.ie).",
+    "Was Anastasia Boney her sister?"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Catherine Boney (b. 1814)",
+    "line": 4151
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

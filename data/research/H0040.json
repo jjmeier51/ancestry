@@ -1,0 +1,26 @@
+{
+  "id": "H0040",
+  "link": {
+    "confidence": "probable",
+    "note": "GEDBAS 1262175038."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probable 6th great-uncle of John; hunter and tailor.",
+  "bio": "Owned house No. 36 in Oberbirken.",
+  "sources": [
+    "GEDBAS 1262175038 https://gedbas.genealogy.net/person/show/1262175038"
+  ],
+  "occupation": "Hunter and tailor",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3382
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

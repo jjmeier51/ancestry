@@ -1,0 +1,69 @@
+{
+  "id": "I282695503585",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Obituary 'son of the late Frank and Helen Cognetti'; Candy Hall of Fame entry; 2016 Thanksgiving article."
+  },
+  "given": "Joseph F.",
+  "surname": "Cognetti",
+  "birth": {
+    "date": "1919",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "2009-05-25",
+    "place": "Moosic, Lackawanna County, Pennsylvania, USA"
+  },
+  "occupation": "Food/confectionery broker; chairman, D.C. Sales Co.",
+  "aka": [
+    "Joe Cognetti"
+  ],
+  "tags": [
+    "military",
+    "notable"
+  ],
+  "summary": "John's great-granduncle; WWII Army Air Corps veteran, chairman of D.C. Sales Co., Candy Hall of Fame 1975.",
+  "bio": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household.",
+  "notable": "Candy Hall of Fame 1975; AWMA Hall of Fame 1993",
+  "funFacts": [
+    "Founded the 50-year Cognetti family Thanksgiving tradition (151 relatives in 2016)"
+  ],
+  "military": [
+    {
+      "branch": "US Army Air Corps / Army Air Forces",
+      "service": "1942-1946",
+      "theatre": "WWII"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Joseph 1918-Deceased"
+    }
+  ],
+  "sources": [
+    "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?pid=127764806",
+    "Candy Hall of Fame: https://candyhalloffame.org/inductee/joseph-f-cognetti/",
+    "Thanksgiving article: https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Joseph F. Cognetti (b. 1919)",
+    "line": 11364
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Joseph Cognetti\"; research uses \"Joseph F. Cognetti\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: abt 1918; research: 1919."
+    }
+  ]
+}

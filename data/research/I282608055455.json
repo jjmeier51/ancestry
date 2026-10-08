@@ -1,0 +1,57 @@
+{
+  "id": "I282608055455",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Thomas Lamoreaux's will (1815/1826, Luzerne Will Book A pp.341-3) names 'Martha Pringle' among his daughters; Harvey Book calls her his eldest daughter, m. Samuel Pringle 1790. Upgraded to confirmed (primary) in Round 3."
+  },
+  "birth": {
+    "date": "ABT 1771",
+    "place": "Orange County, New York, USA"
+  },
+  "aka": [
+    "Martha Pringle",
+    "Martha Lamoureaux",
+    "Martha Lamoreux"
+  ],
+  "tags": [
+    "patriot"
+  ],
+  "summary": "John's 5th-great-grandmother; eldest daughter of Revolutionary patriot Ensign Thomas Lamoreaux - the link that carries John's SAR line.",
+  "bio": "Martha was the eldest daughter (born BET 1770 AND 1772) of Thomas and Keturah (Tuttle) Lamoreaux and married Samuel Pringle in 1790 (Harvey Book pp.134-135). She was therefore born about 1770-72. The tree's birth of 1776 ('1776-Deceased') and WikiTree's 18 Oct 1776, only 18 days after her sister Elizabeth's 30 Sep 1776, plus WikiTree's death date of 27 Aug 1859 (also Elizabeth's), look copied from Elizabeth; her real death date is unverified. Her father's will names 'Martha Pringle'. The SAR's record for Thomas lists Martha among his children, but all three approved applications (1995, 2014, 2017) go through his sons James or Thomas; John's application would open a new line through Martha.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Martha Lamoreaux 1776-Deceased"
+    },
+    {
+      "label": "WikiTree",
+      "value": "Lamoreaux-426"
+    }
+  ],
+  "sources": [
+    "Harvey Book pp.134-135",
+    "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
+    "WikiTree Lamoreaux-426: https://www.wikitree.com/wiki/Lamoreaux-426",
+    "SAR Patriot P-232580 (Thomas Lamoreaux): https://sarpatriots.sar.org/patriot/display/232580",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Birth (c.1770-72) and death dates and burial (Shupp's Cemetery?).",
+    "For SAR: documents for each generation from Martha to John."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Martha Lamoreaux (b. 1771)",
+    "line": 4338
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 18 Oct 1776; research: ABT 1771."
+    }
+  ]
+}

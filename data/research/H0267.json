@@ -1,0 +1,31 @@
+{
+  "id": "H0267",
+  "link": {
+    "confidence": "probable",
+    "note": "Akerly names Daniel (will Goshen 1761) as James's son."
+  },
+  "sex": "M",
+  "aka": [
+    "Daniel Tuthill of Goshen"
+  ],
+  "tags": [
+    "patriot"
+  ],
+  "summary": "Brother of Capt. John Tuttle (John's 7th-great-grand-uncle).",
+  "bio": "Will 1761 (NY Wills VI, Liber 23, p. 130): asked for burial 'decent without Pomp or State'; named Joshua Brown executor; witnesses John Brewster, Samuel Smith and Selah Strong. (Not the same as Daniel Tuthill 1743–1800, SAR P-308220.)",
+  "sources": [
+    "Abstracts of Wills, NYHS vol. VI, Liber 23 p. 130, https://archive.org/details/abstractswillso05kellgoog",
+    "Akerly (1898)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Collateral relatives (Keturah's uncles and siblings, Tuthill and Smith kin)",
+    "line": 8850
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

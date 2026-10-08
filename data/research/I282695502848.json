@@ -1,0 +1,55 @@
+{
+  "id": "I282695502848",
+  "link": {
+    "confidence": "probable",
+    "note": "Well documented in the Dreisamtal database (GEDBAS 1262173156) as a Kageneck gamekeeper; his link to Johnny (father of Joseph Heizler of Munzingen) is probable only. Death 1806 is tree-only."
+  },
+  "given": "Jacob",
+  "surname": "Heitzler",
+  "birth": {
+    "date": "ABT 1740",
+    "place": "Kirchzarten,Freiburg im Breisgau,Baden,D"
+  },
+  "occupation": "Gamekeeper and forest warden (Kageneck'scher Jäger, Waldhüter)",
+  "aka": [
+    "Jakob Heitzler",
+    "Jacobus Heitzler (Ancestry tree)"
+  ],
+  "tags": [],
+  "summary": "Probable 6th great-grandfather of John; Kageneck gamekeeper and forest warden in Unteribental.",
+  "bio": "Jakob Heitzler (b. c.1740) is listed in the 'Familien aus dem Dreisamtal' database as 'Kageneck'scher Jäger in Unteribental, Waldhüter' (gamekeeper and forest warden for the Counts of Kageneck); it records his role in a 1789 lawsuit and names his wife Katharina Begelspacher, whose father was also a Kageneck gamekeeper. Children recorded 1764–1781: Andreas (1764; Vogt of Unteribental 1813), Agathe (1771), Franziska (1779), Jakob (1781–1847); gaps 1765–70 and 1772–78 leave room for Joseph (b. c.1773). Tree: Jacob(us) Heitzler –1806, parents Martin(us) Heitzler 1699–1728 + Othilia Schirk –1728 (if both died 1728, a c.1740 birth is impossible — the 1728 deaths are unsupported).",
+  "residences": [
+    {
+      "date": "1764–1789",
+      "place": "Unteribental, Buchenbach, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany"
+    }
+  ],
+  "sources": [
+    "GEDBAS 1262173156 https://gedbas.genealogy.net/person/show/1262173156",
+    "Ancestry tree screenshots (section 2.2.2)",
+    "deep-dive report; notes/round2/black_forest.md; notes/round3/german_origins.md"
+  ],
+  "openQuestions": [
+    "Is Joseph Heizler of Munzingen his son? (Joseph's Munzingen death entry; Kirchzarten/Stegen baptisms c.1773)",
+    "Who were his parents — tree's Martinus Heitzler & Othilia Schirk?"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2435
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Jacob(us) HEITZLER Haitzler\"; research uses \"Jacob Heitzler\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 19.07.1728; research: ABT 1740."
+    }
+  ]
+}

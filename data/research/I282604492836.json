@@ -1,0 +1,39 @@
+{
+  "id": "I282604492836",
+  "link": {
+    "confidence": "confirmed",
+    "note": "John's father, as shown in his own tree and in the Bull Smith PDF ('Thomas Meier + Sharon Petriello — Dad'). John T. Petriello Jr.'s 2024 obituary names his sister as 'Sharon Meier (Thomas)'."
+  },
+  "given": "Thomas F.",
+  "surname": "Meier",
+  "birth": {
+    "date": "1959",
+    "place": "Levittown, Bucks, Pennsylvania, USA"
+  },
+  "aka": [
+    "Thomas Meier"
+  ],
+  "tags": [],
+  "summary": "John's father; a living person, so not researched.",
+  "bio": "Thomas F. Meier, born 1959, is John's father and is shown in the tree as 'Thomas F Meier 1959–Living'. His parents are James (C.) Meier (1928–2008) and Kathryn F. McGuire (1930–1970). He married Sharon M. Petriello. Nothing else about him was researched.",
+  "sources": [
+    "John's Ancestry tree screenshots",
+    "Richard_Bull_Smith_Lineage.pdf",
+    "John T. Petriello Jr. obituary, 2024 (cited in research/notes/round2/italian_gaps.md)"
+  ],
+  "handoff": {
+    "section": "3.1 John and his parents",
+    "heading": "Thomas F. Meier (b. 1959)",
+    "line": 1628
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Thomas Francis Meier\"; research uses \"Thomas F. Meier\"."
+    }
+  ]
+}

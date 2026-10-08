@@ -1,0 +1,25 @@
+{
+  "id": "H0125",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 4th-great-grand-uncle; husband of Anastasia Boney.",
+  "bio": "Baptized 3 May 1806 (Gortnahoe), son of Humphrey Heffernan and Anastasia Ryan; married Anastasia Boney at Gortnahoe 12 Feb 1827; lived at Mardyke; died in Ireland. Baptisms of their children name 'Dick Heffernan and Anty Boney' (Dwyer Branch 3).",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Richard Heffernan (b. 1806)",
+    "line": 5716
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

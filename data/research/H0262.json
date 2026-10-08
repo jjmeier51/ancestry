@@ -1,0 +1,43 @@
+{
+  "id": "H0262",
+  "link": {
+    "confidence": "probable",
+    "note": "Pelletreau (App. p. 479) lists Francis among James & Jerusha's sons; Orange County militia records place him at Woodbury Clove."
+  },
+  "sex": "M",
+  "aka": [
+    "Capt. Francis Smith"
+  ],
+  "tags": [
+    "military",
+    "patriot"
+  ],
+  "summary": "Brother of Temperance Smith — uncle of Keturah Tuttle (John's 7th-great-grand-uncle); captain of the Woodbury Clove militia company in 1775–76, under whom Thomas Lamoreaux was ensign.",
+  "bio": "Ruttenber & Clark (1881): 'Woodbury Clove Co.—1775—Francis Smith, captain; Thomas Smith, 1st lt.; ... 1776—... Thos. Lammoreux, ensign.' SAR P-232580 says Thomas Lamoreaux served as Ensign under Capt. Francis Smith and Colonel Woodhull.",
+  "military": [
+    {
+      "branch": "Orange County, NY militia",
+      "service": "American Revolution",
+      "rank": "Captain",
+      "unit": "Woodbury Clove Company",
+      "note": "1775–76"
+    }
+  ],
+  "sources": [
+    "Ruttenber & Clark (1881)",
+    "Pelletreau (1898) App. p. 479",
+    "SAR P-232580, https://sarpatriots.sar.org/patriot/display/232580",
+    "Round 2 report §2 (Military)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Collateral relatives (Keturah's uncles and siblings, Tuthill and Smith kin)",
+    "line": 8775
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

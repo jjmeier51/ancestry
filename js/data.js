@@ -65,7 +65,7 @@
   const all = () => raw.people.slice();
   function fullName(p) {
     if (!p) return 'Unknown';
-    let n = [p.given, p.surname].filter(Boolean).join(' ');
+    let n = [p.prefix, p.given, p.surname].filter(Boolean).join(' ');
     if (p.suffix) n += ' ' + p.suffix;
     return n || 'Unknown';
   }
@@ -215,7 +215,7 @@
     if (!q) return [];
     const terms = q.split(/\s+/);
     return raw.people.filter(p => {
-      const hay = [fullName(p), p.nickname, p.birth && p.birth.place, p.death && p.death.place, birthYear(p), p.occupation, (p.tags || []).join(' '), confidence(p)].join(' ').toLowerCase();
+      const hay = [fullName(p), p.nickname, (p.aka || []).join(' '), p.birth && p.birth.place, p.death && p.death.place, birthYear(p), p.occupation, (p.tags || []).join(' '), confidence(p)].join(' ').toLowerCase();
       return terms.every(t => hay.includes(t));
     }).sort((a, b) => fullName(a).localeCompare(fullName(b)));
   }

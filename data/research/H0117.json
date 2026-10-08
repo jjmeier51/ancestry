@@ -1,0 +1,29 @@
+{
+  "id": "H0117",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "F",
+  "aka": [
+    "Josephine Heffernan Wagner"
+  ],
+  "tags": [],
+  "summary": "John's 2nd-great-grand-aunt; nurse who lived to 100.",
+  "bio": "Josephine R. Heffernan (30 Dec 1883 - 8 Mar 1984) graduated as a nurse from St. Joseph's Hospital, Reading, in 1906 (Wilkes-Barre Record, 31 Mar 1906), married George J. Wagner, moved to California, and died at Alameda aged 100.",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+  ],
+  "occupation": "Nurse",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Josephine R. Heffernan (b. 1883)",
+    "line": 5573
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

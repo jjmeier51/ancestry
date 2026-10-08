@@ -1,0 +1,34 @@
+{
+  "id": "I282824815431",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; unsupported pedigree (Vecchio has 10 entries in San Mango stati but this couple not shown)."
+  },
+  "tags": [],
+  "summary": "Tree ancestor in the unsupported Guercio pedigree.",
+  "bio": "Tree: Cecilia Vecchio (1718-). Profile shows the coat of arms. Vecchio is not on the modern San Mango surname list but has 10 entries in the 1674-1804 stati.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Cecilia Vecchio 1718-Deceased (coat-of-arms image)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 7"
+  ],
+  "mediaKnown": [
+    "Ancestry profile coat-of-arms image"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Cecilia Vecchio (b. 1718)",
+    "line": 11055
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

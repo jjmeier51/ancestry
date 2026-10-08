@@ -1,0 +1,119 @@
+{
+  "id": "I282608064896",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1862 Munzingen marriage (original read) gives her birth 29 Mar 1837 and parents; 1837 baptism read; 1880 census lists her brother Gabriel 'Bergenmyer' as Friedrich's brother-in-law; PA death index 1911 file 113353 tied to the census household."
+  },
+  "given": "Maria Anna",
+  "surname": "Birkenmayer",
+  "birth": {
+    "date": "1837-03-29",
+    "place": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany"
+  },
+  "death": {
+    "date": "1911-12-30",
+    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Maria A. Birkenmayer (Ancestry tree)",
+    "Maria Anna Birkenmaier",
+    "Mary A. Meier",
+    "Mary Anne Berkmeier Meier (Find a Grave index)",
+    "Anna Meyer (1870)",
+    "Annie Myer (1880)"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 3rd great-grandmother; daughter of the Munzingen master glazier Servatius Birkenmayer; mother of eleven, died in Hazleton in 1911.",
+  "bio": "Maria Anna Birkenmayer was born 29 Mar 1837 at Munzingen and baptized 2 Apr 1837 (L 10 Nr. 1590, No. 12, fol. 135): 'Maria Anna Birkenmayer, eheliches Kind des Servatius Birkenmayer hiesigen Glasers, u. der Agatha Heizler'; the teacher Johann Schell was a witness. She was the eldest of seven children; her father died 19 Apr 1853 when she was 16, and her little brother Heinrich weeks later. She married Friedrich Mayer at Munzingen on 20 Oct 1862 (described as daughter of the late master joiner Servaz Birkenmaier and Agatha Heizler). She emigrated with him and four children c.1868. She appears as 'Anna, 33, Baden' in the 1870 Hazleton census and 'Annie, 43, wife' in 1880, when her brother Gabriel (29, gardener) lived with the family; brothers Joseph and Gabriel later lived in Sandusky, Ohio. She bore 11 children (FS). She died 30 Dec 1911 in Hazleton (PA death index 1911: 'Meier, Mary A.; file 113353; Hazleton; Dec. 30') and was buried in Hazleton (Find a Grave index 'Mary Anne Berkmeier Meier', 4KC1-M2T2). The Ancestry tree (built on a Kirchzarten assumption) shows her as 'Maria A Birkenmay… 1837–1911', daughter of Servatius and 'Maria A Heitzler 1813–1867'; research shows the mother was Agatha Heizler and the family was from Munzingen, not Kirchzarten. She is NOT the Mrs. Anna (Maria) Meier of Wilkes-Barre who died 1897. Do not confuse with the Ebringen Birkenmeyer family (New Orleans 1855) or with Maria Anna Birkenmayer (1810–1865) who married Salesius Schuhmacher.",
+  "residences": [
+    {
+      "date": "1837",
+      "place": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany"
+    },
+    {
+      "date": "1862",
+      "place": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany"
+    },
+    {
+      "date": "1870",
+      "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1880",
+      "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1911",
+      "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Kirchzarten tradition",
+      "value": "Tree/earlier reports assumed Kirchzarten; Dreisamtal database has no Maria Anna b. c.1837. Proven Munzingen."
+    },
+    {
+      "label": "FamilySearch",
+      "value": "G921-2R4 https://ancestors.familysearch.org/en/G921-2R4/maria-anna-birkenmaier-1837-1911"
+    }
+  ],
+  "sources": [
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), births 1837 No. 12, fol. 135 http://www.landesarchiv-bw.de/plink/?f=5-480946-483",
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), marriages 1862 No. 2 http://www.landesarchiv-bw.de/plink/?f=5-480947-440",
+    "1870 and 1880 Hazleton census images (see Friedrich Mayer)",
+    "PA Death Index 1911, M–N–O, PDF p.171 https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1911/D-11%20M-N-O.pdf (file 113353)",
+    "Find a Grave index on FamilySearch https://familysearch.org/ark:/61903/1:1:4KC1-M2T2",
+    "FamilySearch tree G921-2R4",
+    "notes/round3/german_origins.md; notes/round3/meier_line.md; notes/round2/black_forest.md; notes/meier_mcguire.md"
+  ],
+  "mediaKnown": [
+    "1837 baptism register image (plink 5-480946-483)"
+  ],
+  "openQuestions": [
+    "PA death certificate 1911 #113353 (parents, birthplace, burial).",
+    "Hazleton cemetery."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2108
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry tree: Black Forest pedigree (Birkenmayer, Heitzler, Federer, Begelspacher) (1 of 3)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608064896/ancestry-screenshot-img-7805.jpg"
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Black Forest pedigree (Birkenmayer, Heitzler, Federer, Begelspacher) (2 of 3)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608064896/ancestry-screenshot-img-7806.jpg"
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Black Forest pedigree (Birkenmayer, Heitzler, Federer, Begelspacher) (3 of 3)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608064896/ancestry-screenshot-img-7809.jpg"
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Maria Anna \"Annie\" Birkenmayer\"; research uses \"Maria Anna Birkenmayer\"."
+    }
+  ]
+}

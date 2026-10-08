@@ -1,0 +1,27 @@
+{
+  "id": "H0317",
+  "link": {
+    "confidence": "probable",
+    "note": "Thompson vol. 3."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "President of New York Life Insurance & Trust; John's 4th cousin 7x removed.",
+  "bio": "Married Julia Tyler's first cousin Sarah Diodati Gardiner; their son Frederick Diodati Thompson held Sagtikos Manor.",
+  "sources": [
+    "Wikipedia: Jonathan Thompson (collector)",
+    "Pelletreau (1898)",
+    "Wikipedia: Sagtikos Manor"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through John Thompson (J = 12)",
+    "line": 9659
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

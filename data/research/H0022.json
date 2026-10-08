@@ -1,0 +1,25 @@
+{
+  "id": "H0022",
+  "link": {
+    "confidence": "probable",
+    "note": "FamilySearch tree children of Heinrich Mayer & Julianna Senn; not checked in originals."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 4th great-uncle; sibling of Friedrich Mayer.",
+  "sources": [
+    "FamilySearch tree G7PF-7J6 / G921-25N",
+    "notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3094
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "H0069",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as mother in Thomas Heffernan's 1808 Gortnahoe baptism (Dwyer)."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 5th-great-grandmother; wife of Humphrey Heffernan of Lickfinn, Gortnahoe, Co. Tipperary.",
+  "bio": "Anastasia Ryan married Humphrey Heffernan, miner of Lickfin, Gortnahoe parish (marriage record not found); the couple flourished 1805-1817 and baptized at least five sons at Gortnahoe.",
+  "residences": [
+    {
+      "date": "BET 1805 AND 1817",
+      "place": "Lickfinn, Gortnahoe, County Tipperary, Ireland"
+    }
+  ],
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+  ],
+  "openQuestions": [
+    "Her baptism and parents."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Anastasia Ryan (b. unknown)",
+    "line": 4238
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

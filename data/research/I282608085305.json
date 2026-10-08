@@ -1,0 +1,45 @@
+{
+  "id": "I282608085305",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named in the 1820 marriage, 1835 birth and 1862 marriage entries (originals read)."
+  },
+  "given": "Juliana",
+  "surname": "Senn",
+  "birth": {
+    "date": "ABT 1798",
+    "place": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany"
+  },
+  "aka": [
+    "Julianna Senn",
+    "Julianna Sann",
+    "Julianaa Senn",
+    "Ven Known Meier (Ancestry tree placeholder for Henery Meier's wife)"
+  ],
+  "tags": [],
+  "summary": "John's 4th great-grandmother; an orphan born illegitimately in Munzingen c.1798.",
+  "bio": "Juliana Senn was born about 1798 (22 in Oct 1820) at Munzingen, the illegitimate daughter of Juliana Senn (the elder), who had died by 1820 — the 1820 entry calls her a 'parentless local citizen's daughter'. She married Heinrich Mayer on 16 Oct 1820 and lived in house No. 68. FS index spellings: 'Julianna Sann' (QP3C-SCW6), 'Juliana Senn', 'Julianaa Senn'. The German-origins reader read the 1835 entry's mother's surname as 'B[onn?]' (ink blot); Senn is preferred. Death not found.",
+  "sources": [
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), marriages 1820 No. 3 http://www.landesarchiv-bw.de/plink/?f=5-480946-215",
+    "FamilySearch index https://familysearch.org/ark:/61903/1:1:QP3C-SCW6",
+    "notes/round3/meier_line.md"
+  ],
+  "openQuestions": [
+    "Baptism c.1798 and death; mother's death (L 10 Nr. 1590 death sections 1810–20 or parish book)."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2184
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Ven Known Meier\"; research uses \"Juliana Senn\"."
+    }
+  ]
+}

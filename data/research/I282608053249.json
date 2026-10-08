@@ -1,0 +1,140 @@
+{
+  "id": "I282608053249",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Her 1926 marriage-licence application names her parents Addison Pringle and Catherine Heffernan; the 1930 and 1950 Wilkes-Barre census sheets show her with William F. and son James C. Upgraded from probable to confirmed in Round 3."
+  },
+  "given": "Florence Louise",
+  "surname": "Pringle",
+  "birth": {
+    "date": "BET 1903 AND 1904",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1980",
+    "place": "Wilkes-Barre,  Luzerne County,  PA"
+  },
+  "occupation": "Clerk (1926)",
+  "aka": [
+    "Florence L. Pringle",
+    "Florence L. Meier",
+    "Mrs. William Meier"
+  ],
+  "tags": [],
+  "summary": "John's great-grandmother (mother of his paternal grandfather James C. Meier); daughter of Addison F. Pringle and Catherine E. Heffernan, the link that joins the Meier line to the Pringle, Heffernan, Lamoreaux and colonial lines.",
+  "bio": "Florence Louise Pringle was born in Plymouth, Luzerne County, about 1903-04 (the tree says 1903; the 1910 census age of 6 suggests 1904; she was 22 in April 1926, 25 in April 1930 and 45 in April 1950). She was one of eight known children of Addison F. Pringle and Catherine E. (Heffernan) Pringle; her siblings were Genevieve (1893), Joseph Vincent (1895), Mary E. (1898), Anna Theresa (1901), Helen (1906), Francis (1909) and Catherine (1912). In 1910 the family was enumerated at Larksville (FamilySearch residence events; Round 2 cites the same 1910 census as 'Plymouth'), where the McGuire family of her future daughter-in-law also lived. By 1926 she was a clerk living with her parents at 28 Huston St, Wilkes-Barre. On 16 Apr 1926 she and William F. Meier, a clerk born at Tamaqua, of 16 Barney St, swore a marriage-licence application (No. 10768); they were married on 20 Apr 1926 by Rev. D. W. McCarthy at Wilkes-Barre. In 1930 she, William and sons William (about 3) and James (1 9/12) lived at 55 Cedar Street, Wilkes-Barre, on the same census sheet as her parents at 28 Huston St. In 1943 her father's obituary listed her as 'Mrs. William Meier, Wilkes-Barre'. In 1950 the household at house 55 was William F. (45, supervisor at a coal company), Florence (45), William Jr. (23), James C. (21) and Barbara Ann (14). William died at Wilkes-Barre on 4 Jul 1963. Florence died in 1980 (tree); her death record was not checked because the online PA death index ends in 1966. A funeral notice for an infant 'Florence Irene Meier' from Wilkes-Barre, published 11 Oct 1933, may be a daughter (speculative; not in the 1933 PA death index).",
+  "funFacts": [
+    "In 1910 the Pringles and the McGuires (family of her future daughter-in-law Kathryn McGuire) both lived in small-town Larksville, 18 years before their children married.",
+    "In 1930 she lived on the same census sheet as her parents: Meiers at 55 Cedar St, Pringles at 28 Huston St.",
+    "Both she and her husband were clerks when they married: a white-collar generation, one step up from her uncle Orange Pringle, a slate picker at 13 in 1880."
+  ],
+  "residences": [
+    {
+      "date": "BET 1903 AND 1904",
+      "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1910",
+      "place": "Larksville, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1926",
+      "place": "28 Huston St, Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1930",
+      "place": "55 Cedar Street, Ward 15, Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1943",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1950",
+      "place": "House 55, Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage licence",
+      "date": "1926-04-16",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+      "description": "Application No. 10768: Florence Louise Pringle, clerk, b. Plymouth, 22, of 28 Huston St; father Addison (carpenter, b. Penna); mother Catherine 'Heffernon'. Groom William F. Meier, clerk, b. Tamaqua, 22, of 16 Barney St; father Henry (moulder); mother Anna Higgins."
+    },
+    {
+      "title": "Marriage",
+      "date": "1926-04-20",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+      "description": "Married by Rev. D. W. McCarthy."
+    },
+    {
+      "title": "1930 census",
+      "date": "1930-04-14",
+      "place": "Wilkes-Barre, Ward 15, ED 40-261, sheet 23B",
+      "description": "55 Cedar Street: Meier, Wm F., head, 26; Florence, wife, 25; William, son, about 3; James, son, 1 9/12; all born PA. Her parents at 28 Huston St are on the same sheet."
+    },
+    {
+      "title": "1950 census",
+      "date": "1950-04-07",
+      "place": "Wilkes-Barre, ED 40-102, sheet 2",
+      "description": "House 55: William F. 45 (supervisor, coal company), Florence 45, William Jr. 23, James C. 21 (single), Barbara Ann 14."
+    },
+    {
+      "title": "Widowed",
+      "date": "1963-07-04",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+      "description": "William F. Meier died (PA death index file 071200)."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Florence L Pringle 1903-1980"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "LHHT-GQ4 (Florence Louise Pringle, 1903)"
+    },
+    {
+      "label": "Birth-year evidence",
+      "value": "Tree 1903; 1910 census age 6 (c.1904); licence 1926 age 22; 1930 age 25; 1950 age 45"
+    }
+  ],
+  "sources": [
+    "Luzerne Co. marriage-licence application No. 10768, sworn 16 Apr 1926 (William F. Meier x Florence Louise Pringle): image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHT-GQ4/images/i/2/image.jpg ; record https://familysearch.org/ark:/61903/1:1:KMZX-RZZ ; groom's image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-B3G/images/i/1/image.jpg ; index KMZX-RZ4: https://familysearch.org/ark:/61903/1:1:KMZX-RZ4",
+    "FamilySearch tree LHHT-GQ4: https://www.familysearch.org/service/tree/tree-data/published/persons/LHHT-GQ4 ; https://ancestors.familysearch.org/en/LHHT-GQ4/florence-louise-pringle-1903",
+    "1930 census, Wilkes-Barre, Ward 15, ED 40-261, sheet 23B: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GF3P-853/images/i/2/image.jpg ; index https://familysearch.org/ark:/61903/1:1:XH7Z-MLW",
+    "1950 census, Wilkes-Barre, ED 40-102, sheet 2: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GF3P-853/images/i/0/image.jpg ; index https://familysearch.org/ark:/61903/1:1:6X1W-JY84",
+    "Addison F. Pringle 1943 obituary, Find a Grave 139403232: https://www.findagrave.com/memorial/139403232/addison-f-pringle",
+    "Ancestry index snippet: 'James C Meier, born 13 July 1928, father William F Meier, mother Florence L Pringle': https://www.ancestry.com/genealogy/records/results?firstName=james&lastName=meier",
+    "Genealogy Trails 1933 deaths M-N (Florence Irene Meier notice): http://genealogytrails.com/penn/luzerne/1933_deaths/1933_m_n.html",
+    "Dwyer 2020 (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "research/notes/round3/irish_pa.md; research/notes/round3/meier_line.md; research/notes/round2/meier_gaps.md; research/notes/meier_mcguire.md"
+  ],
+  "mediaKnown": [
+    "1926 marriage-licence image (FamilySearch)",
+    "1930 and 1950 census images (FamilySearch)"
+  ],
+  "openQuestions": [
+    "Exact birth date (1903 vs 1904) - her PA birth record or 1980 death record/SSDI.",
+    "1980 death place and burial.",
+    "Was 'Florence Irene Meier' (funeral notice 11 Oct 1933) her infant daughter?",
+    "Residence after 1963 (Agnes flood 1972 context)."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Florence Louise Pringle (b. 1903)",
+    "line": 3857
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Florence L Pringle\"; research uses \"Florence Louise Pringle\"."
+    }
+  ]
+}

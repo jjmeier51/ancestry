@@ -1,0 +1,84 @@
+{
+  "id": "I282824799057",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1850 Kingston census (Stephen 44, farmer, b. Pa., with Catharine 14) and Bradsby's biography of Catherine Scott; parentage of Catherine confirmed. Birth and origin details conflict between sources."
+  },
+  "given": "Stephen J.",
+  "surname": "Scott",
+  "birth": {
+    "date": "ABT 1806",
+    "place": "Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1856-04-19",
+    "place": "Kingston, Luzerne County, Pennsylvania, USA"
+  },
+  "occupation": "Farmer",
+  "aka": [
+    "Stephen Scott"
+  ],
+  "tags": [],
+  "summary": "John's 4th-great-grandfather; Kingston farmer, father of nurse Catherine Scott Pringle.",
+  "bio": "Stephen Scott was a farmer at Kingston. Sources conflict on his age and origin. The tree shows 1808-1856 (as an unaccepted 'Potential' hint). Bradsby (1893) says he and Julia Ann were both born in Connecticut, married there and moved to Kingston 'about 1818', and that he died in 1855; Round 1 therefore proposed a birth c.1797 or earlier. Round 3 reversed this: the 1850 census of Kingston Twp (3 Aug 1850, dwelling 262) lists Stephen Scott 44, farmer, b. Pa.; Julia Ann 41, b. Pa.; Henry 21; Catharine 14; Hannah 10; Caroline 9; Ann 4, and the 1880 census also gives Catherine's parents as born in Pennsylvania. Preferred: born c.1806 in Pennsylvania (any Connecticut roots belong a generation earlier, fitting the Susquehanna Company settlers of Wyoming Valley). FamilySearch gives his death as 19 Apr 1856 at Kingston, with burial in Forty Fort Cemetery (Bradsby: 1855). His Kingston neighbours in 1850 included Zeba Hoyt (61, CT-born farmer), German miners (Shoup, Steinhower, Beck) and Welsh miners and a machinist (Davis). A FamilySearch father 'Daniel Scott 1788-1811' is only 18 years older and unsupported. Lead (speculative): a Stephen Scott was one of 14 workmen who on 30 Oct 1818 refused to keep working on the Wilkes-Barre-Kingston bridge unless paid 'in good chartered notes' - 'the first strike which the records of Wyoming disclose' (Harvey & Smith vol. IV). A Stephen Scott in Falls Twp in the 1840 index is probably a different man.",
+  "residences": [
+    {
+      "date": "1850",
+      "place": "Kingston Township, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Stephen J Scott 1808-1856 ('Potential' hint)"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "9KXX-MH8"
+    },
+    {
+      "label": "Burial (FS)",
+      "value": "Forty Fort Cemetery"
+    },
+    {
+      "label": "Birth conflict",
+      "value": "1808 (tree) / c.1806 b. Pa. (1850 census, preferred) / c.1797 b. CT (Round 1 inference from Bradsby)"
+    },
+    {
+      "label": "Death conflict",
+      "value": "19 Apr 1856 (FS, tree) vs 1855 (Bradsby)"
+    }
+  ],
+  "sources": [
+    "1850 census Kingston Twp, 3 Aug 1850, dwelling 262: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MH8/images/i/0/image.jpg",
+    "FamilySearch 9KXX-MH8: https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MH8",
+    "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
+    "Harvey & Smith vol. IV (1818 bridge strike): https://archive.org/details/historyofwilkesb04harv",
+    "1840 Luzerne census index: https://pagenweb.org/~luzerne/census/1840.htm",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Parents and birthplace (Pennsylvania vs Connecticut).",
+    "Was he the 1818 bridge striker?",
+    "Will/estate papers 1856."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Stephen J. Scott (b. 1806)",
+    "line": 4081
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Stephen J Scott\"; research uses \"Stephen J. Scott\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1808; research: ABT 1806."
+    }
+  ]
+}

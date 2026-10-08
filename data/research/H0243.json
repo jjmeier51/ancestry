@@ -1,0 +1,30 @@
+{
+  "id": "H0243",
+  "link": {
+    "confidence": "possible",
+    "note": "Thomas's mother is inconsistent on WikiTree: Topping-248's text has John marrying Helen Crosman at Totternhoe 5 Jul 1605; the WikiTree tree instead attaches 'Eleanor Blackett' of Leighton Buzzard. Speculative."
+  },
+  "sex": "F",
+  "aka": [
+    "Eleanor Blackett (conflicting attachment)"
+  ],
+  "tags": [],
+  "summary": "Possibly John's 12th-great-grandmother (mother of Capt. Thomas Topping); conflicting with Eleanor Blackett.",
+  "sources": [
+    "WikiTree Topping-248"
+  ],
+  "openQuestions": [
+    "Totternhoe register image for the 1608/9 baptism."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 14 (12th-great-grandparents)",
+    "line": 8106
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

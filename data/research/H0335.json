@@ -1,0 +1,36 @@
+{
+  "id": "H0335",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Marriage act Bisaccia Matrimoni 1867 act 17 (image read) and son's 1896 marriage act naming him as living father. Exact birth date 12 Jan 1842 is from FS tree (probable); marriage age 24 implies c.1843."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's maternal 3rd great-grandfather; a pecoraio (shepherd) of Bisaccia, father of Frank Giannetta.",
+  "bio": "FS tree: Savino Giannetta, b. 1842 (Round 2 tree additions give 12 Jan 1842). Marriage, Bisaccia, 20 Jul 1867, Matrimoni 1867 act 17: Savino, 24 (born c.1843), pecoraio (shepherd), son of the late Francesco Giannetta and Lucia Macchia(?); bride Angelamaria Fede, 18. He was still living at his son Frank's marriage on 1 Aug 1896. The Giannettas and Fedes were shepherds, typical of upland grazing Bisaccia.",
+  "sources": [
+    "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
+    "Antenati, Bisaccia, Matrimoni 1896, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua445513/5glz731",
+    "FamilySearch tree LCPG-XKM (parent of)",
+    "notes/round2/italian_gaps.md 1; notes/round3/italian_origins.md 3"
+  ],
+  "mediaKnown": [
+    "1867 marriage act image"
+  ],
+  "openQuestions": [
+    "Birth act 1842/43 (Bisaccia Nati)",
+    "Death date"
+  ],
+  "occupation": "Pecoraio (shepherd)",
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Savino Giannetta (b. 1842)",
+    "line": 10345
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

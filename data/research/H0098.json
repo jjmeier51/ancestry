@@ -1,0 +1,25 @@
+{
+  "id": "H0098",
+  "link": {
+    "confidence": "probable",
+    "note": "Cozes baptism of Suzanne, 1666 (Garner p.69)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 10th-great-grandfather; of Cozes, dead before his daughter's baptism.",
+  "bio": "'The deceased Daniel Delatour' was father of Suzanne La Tour, baptized at Cozes 19 Dec 1666.",
+  "sources": [
+    "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5 p.69"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Daniel Delatour (b. unknown)",
+    "line": 5104
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

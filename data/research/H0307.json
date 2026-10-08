@@ -1,0 +1,26 @@
+{
+  "id": "H0307",
+  "link": {
+    "confidence": "probable",
+    "note": "Confirmed path in Lawrence (1858); Wikipedia says 'descendant of John Lawrence'."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "First popularly elected Mayor of New York City (1834–37), U.S. Congressman, Collector of the Port; John's 5th cousin 6x removed via Bull Smith.",
+  "bio": "Path: Elizabeth Smith → Joseph → Richard → Joseph 2d → Henry → Cornelius. His brother Joseph Lawrence (b. 1797), president of the Bank of the State of NY and the US Trust Co., is also 5C6R. Hon. Effingham Lawrence (d. 1811), first judge of Queens Co., NY legislator, iron works on the Peconic near Riverhead (Elizabeth → Joseph → Richard → Joseph 2d → Effingham) is 4C7R.",
+  "sources": [
+    "Lawrence (1858)",
+    "Wikipedia, https://en.wikipedia.org/wiki/Cornelius_Van_Wyck_Lawrence"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9506
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

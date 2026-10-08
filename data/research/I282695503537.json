@@ -1,0 +1,56 @@
+{
+  "id": "I282695503537",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Leo S. Cognetti's 2019 obituary lists sister \"Mary Petriello (John)\"; the 2016 Thanksgiving article names Mary Petriello as one of two surviving siblings of Joseph F. Cognetti; 1950 census lists Mary (17) at home with Frank and Helen Cognetti."
+  },
+  "birth": {
+    "date": "ABT 1933",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Mary Petriello",
+    "Mary Cognetti Petriello"
+  ],
+  "tags": [],
+  "summary": "John's maternal grandmother; youngest child of Frank Cognetti and Helen (Ferlaino) Cognetti of Scranton. Tree may show her living; only what files record is included.",
+  "bio": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives.",
+  "residences": [
+    {
+      "date": "1950",
+      "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Age in Nov 2016",
+      "value": "83"
+    },
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Mary Cognetti 1933-Living"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "1950 US census, Frank Cognetti household (image): https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg ; index 6X1W-37K9 https://familysearch.org/ark:/61903/1:1:6X1W-37K9",
+    "Hinerfeld/Times-Tribune reprint, 'Family celebrates 50 years of Thanksgiving gatherings' (30 Nov 2016): https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+    "Echovita obituary of Leo S. Cognetti (2019): https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
+    "Round 1 report correction 3n; notes/italian.md 2.3 and 3.1"
+  ],
+  "mediaKnown": [
+    "Ancestry tree profile",
+    "1950 census image (FamilySearch published source GJB1-P6Y)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Mary Cognetti (b. 1933)",
+    "line": 9961
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

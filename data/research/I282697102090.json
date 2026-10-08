@@ -1,0 +1,33 @@
+{
+  "id": "I282697102090",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; no record found."
+  },
+  "tags": [],
+  "summary": "John's maternal 4th great-grandfather per the tree; father of Nicola Cognetta.",
+  "bio": "Tree: Francesco Cognetta (b. 1771) + Domenica Malvaso (1781-1848), parents of Nicola Cognetta. Not researched in civil records. Probably of Dasà (Vibo Valentia).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Francesco Cognetta 1771-Deceased"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription"
+  ],
+  "openQuestions": [
+    "Dasà civil records 1809+ (Nicola's marriage act would name his parents)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Francesco Cognetta (b. 1771)",
+    "line": 10643
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

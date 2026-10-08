@@ -1,0 +1,31 @@
+{
+  "id": "H0151",
+  "link": {
+    "confidence": "probable",
+    "note": "Census household confirmed; marriage to a son of Samuel inferred."
+  },
+  "sex": "F",
+  "aka": [
+    "Hulda Pringle",
+    "Huldah Pringle"
+  ],
+  "tags": [],
+  "summary": "Probably John's 4th-great-grand-aunt by marriage; the widow 'Hulda Pringle' of the 1850 census.",
+  "bio": "Huldah Ives was born in New York about 1804. In the 1850 Plymouth Twp census (14 Sep 1850, dwelling 942/family 962, two doors from James Pringle's household): Hulda Pringle 46, F, $600, b. New York; Orange Pringle 23, teamster, PA; Ransom 21; 'Caturah' 17; Jane 14; Lucinda 10; Sarah 6; Lucy Ives 87, F (marked insane - probably her mother); Philip Minchart 26, carpenter. Her daughter Hannah J. married engineer George Bisher on 1 Jan 1856. Her will: Plymouth Boro., 1887, vol. J p.499. Joshua Lamoreaux (Martha's brother) married a Martha Ives, possibly her kin (speculative).",
+  "sources": [
+    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 942 / family 962 (Hulda Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
+    "Bradsby 1893 pp.716-717: https://archive.org/details/historyofluzerne00brad",
+    "Luzerne wills index P (Huldah Pringle 1887, vol. J p.499): https://pagenweb.org/~luzerne/wills/pwill.htm"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Huldah Ives (b. 1804)",
+    "line": 6157
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

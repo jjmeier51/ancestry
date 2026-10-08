@@ -42,6 +42,7 @@
           el('div', { class: 'hero-text' }, [
             el('h1', { text: F.fullName(p) }),
             p.nickname ? el('div', { class: 'nick', text: '“' + p.nickname + '”' }) : null,
+            p.aka && p.aka.length ? el('div', { class: 'nick', text: 'Also recorded as ' + p.aka.join(', ') }) : null,
             el('div', { class: 'hero-meta', text: [F.lifespan(p), a !== null ? (F.isDeceased(p) ? `died aged ${a}` : `age ${a}`) : '', p.occupation].filter(Boolean).join(' · ') }),
             el('div', { class: 'hero-badges' }, [A.confBadge(p, true)].concat(tags.map(t => el('span', { class: 'tag', html: icon(A.tagIcon(t)) + esc(A.tagLabel(t)) })))),
             me ? el('p', { class: 'hero-rel', html: icon('heart') + esc(F.relationshipSentence(me.id, p.id)) }) : null,
@@ -136,6 +137,10 @@
         el('h2', { html: icon('check') + 'Research status' }),
         el('div', { class: 'research-conf' }, [A.confBadge(p, true), el('span', { class: 'muted', text: F.confidenceDescription(conf) })]),
         p.link && p.link.note ? el('p', { text: p.link.note }) : null,
+        p.corrections && p.corrections.length ? el('div', { class: 'correction' }, [el('h3', { text: 'Corrected from the Ancestry tree' })].concat(p.corrections.map(c => el('p', { class: 'small', text: (c.what === 'parents' ? 'Parents changed. ' : '') + (c.reason || '') })))) : null,
+        p.source === 'research' ? el('p', { class: 'muted small', text: 'Added by research; this person is not in the Ancestry GEDCOM.' }) : null,
+        p.openQuestions && p.openQuestions.length ? el('div', {}, [el('h3', { text: 'Open questions' }), el('ul', { class: 'sources' }, p.openQuestions.map(q => el('li', { text: q })))]) : null,
+        p.mediaKnown && p.mediaKnown.length ? el('div', {}, [el('h3', { text: 'Known media not yet attached' }), el('ul', { class: 'sources' }, p.mediaKnown.map(q => el('li', { text: q })))]) : null,
         p.sources && p.sources.length ? el('div', {}, [el('h3', { text: 'Sources' }), el('ul', { class: 'sources' }, p.sources.map(s => el('li', { html: /^https?:/.test(s) ? `<a href="${esc(s)}" target="_blank" rel="noopener">${esc(s)}</a>` : esc(s) })))]) : null,
         log.length ? el('div', {}, [el('h3', { text: 'Research log' }), el('ul', { class: 'log' }, log.slice().reverse().map(e => el('li', {}, [el('time', { text: e.date || '' }), ' ', e.note || ''])))]) : null,
         !log.length && !(p.sources && p.sources.length) ? el('p', { class: 'muted', text: 'No research recorded yet.' }) : null

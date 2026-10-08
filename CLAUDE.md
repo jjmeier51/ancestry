@@ -24,7 +24,30 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
 | `media/<personId>/` | Photos, documents, records attached to that person | `scripts/attach_media.py` |
 | `research/LOG.md` | Chronological research log (what was searched, found, ruled out, next steps) | Claude, every session |
 | `research/people/<personId>.md` | Optional long-form research notes per person (evidence, reasoning, open questions) | Claude |
+| `data/additions.json` | People and families the research added beyond the GEDCOM, plus parent corrections (`setParents`) for GEDCOM people. **Generated** by `scripts/import_handoff.py`; later research additions can be appended by hand (ids `H####`, families `HF####`). | script + Claude |
+| `data/handoff_ids.json` | Stable id map for people created from the handoff. Never edit. | script only |
+| `research/imported/` | The owner's uploaded research reports and the 1.3 MB project handoff (Oct 2026). Read-only sources. | owner uploads |
+| `research/lines.md`, `sources.md`, `open-questions.md`, `owner-preferences.md` | Reference copies of the handoff's lineage narrative, sources consulted, open questions and the owner's stated preferences. Start research here. | script; Claude appends |
 | `data/family.js` | **Generated** bundle the site loads. Never hand-edit. | `scripts/build.py` |
+
+## Owner preferences (from the handoff, keep following them)
+
+1. Uploaded reports and later research override the Ancestry tree where they conflict.
+2. Look for standout people: war heroes, celebrities, athletes, politicians; include distant cousins, not only direct ancestors.
+3. Highlight ties to **Long Island**, **Northeastern Pennsylvania** and **Virginia**.
+4. Fill gaps, add colour (interesting facts), convert probable links to confirmed with records, push the Meier line back, pin every line to specific towns and people.
+5. Label every finding with confidence and a source. Living people are not researched beyond names already in the tree.
+6. Short questions get short answers.
+7. The owner's Google Drive folder of Ancestry screenshots is public: https://drive.google.com/drive/folders/1nLAbzaMlKOSgimj590vLgkfDQMesBRVJ (already downloaded and attached as media).
+
+## Key facts (Oct 2026 state)
+
+- Owner: John "Johnny" Meier, b. 1992 Alexandria VA, id `I282604492552`. Parents Thomas F. Meier (b. 1959) and Sharon M. Petriello (b. 1960).
+- Meier line (confirmed to Munzingen, Baden): James C. (1928–2008) → William F. (c.1904–1963) → Henry J. (1866–1940) → Friedrich Mayer (1835–1913) → Heinrich Mayer (c.1796) → Michael Mayer, carpenter. Spelling went Mayer → Meyer/Myer → Meier (first on the 1892 marriage docket).
+- Only proven Revolutionary patriot: Ensign Thomas Lamoreaux (SAR P-232580). Bull Smith of Smithtown is a 10th-great-grandfather (`I282608065309`).
+- Blood cousins include President Benjamin Harrison (6C5R), First Ladies Anna Symmes Harrison and Julia Gardiner Tyler, Titanic victim James Clinch Smith, NYC Mayor Cornelius Van Wyck Lawrence. See `research/lines.md`.
+- Disproven or unproven lines stay in the tree with `unverified` badges and a note: the Sayre/Josiah Topping parents, the Youngs/Horne ancestry of Mary Wells, Bull Smith's "Sir Samuel" parents, the Brewster line, "Captain" Johann C. Doll.
+- Open questions and the records that would settle them: `research/open-questions.md`.
 
 ## Standard workflow for a research session
 
@@ -39,6 +62,8 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
    - narrative → `data/stories.json` or `research/people/<id>.md`
    - a dated entry in `research/LOG.md`
 4. `python3 scripts/build.py` (validates and regenerates `data/family.js`).
+   - New person found by research: add to `data/additions.json` → `people` (next free `H####` id) and a family in `families` (or a `setParents` entry for a GEDCOM person whose parents were wrong, with `reason`), then write `data/research/<id>.json`.
+   - **Do not re-run `scripts/import_handoff.py`** unless the handoff file itself changes: it regenerates the research files of every handoff person (it keeps `media`, `photo` and researchLog entries dated after 2026-10-08, but overwrites other fields).
 5. Commit with a descriptive message and push. Vercel deploys automatically.
 
 If the owner provides a new GEDCOM: copy it to `data/source/`, run
@@ -100,7 +125,7 @@ why.
   `#/timeline[/<id>]`, `#/stories[/<id>]`, `#/media`), sheet, search, lightbox
 - `js/views/tree.js` — hourglass/ancestor/descendant layout, pan, pinch, inertia
 - `js/views/profile.js` — person page sections
-- `scripts/` — `import_gedcom.py`, `build.py`, `attach_media.py`
+- `scripts/` — `import_gedcom.py`, `build.py`, `attach_media.py`, `import_handoff.py` (one-off merge of the project handoff), `attach_drive_screenshots.py` (one-off)
 
 Test locally: `python3 -m http.server 8000` then open http://localhost:8000.
 Run `python3 scripts/build.py --check` before committing.

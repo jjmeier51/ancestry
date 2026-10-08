@@ -1,0 +1,49 @@
+{
+  "id": "I282608085069",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1880 census (Elizabeth 8); details FS."
+  },
+  "given": "Elizabeth",
+  "surname": "Meier",
+  "birth": {
+    "date": "1872-02-18",
+    "place": "Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1945",
+    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+  },
+  "tags": [],
+  "summary": "John's 3rd great-aunt.",
+  "facts": [
+    {
+      "label": "Date conflict",
+      "value": "FS gives Elizabeth b. 18 Feb 1872 and Theresa b. 10 Sep 1872 — 7 months apart; both cannot be right."
+    }
+  ],
+  "sources": [
+    "FamilySearch tree G921-25N (Friedrich Mayer family)",
+    "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
+    "notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 2954
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Elizabeth Brill\"; research uses \"Elizabeth Meier\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Death in the Ancestry tree: 12 May 1948; research: 1945."
+    }
+  ]
+}

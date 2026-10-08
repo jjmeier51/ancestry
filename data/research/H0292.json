@@ -1,0 +1,29 @@
+{
+  "id": "H0292",
+  "link": {
+    "confidence": "unverified",
+    "note": "Was probable 3C9R via Francis Brewster (Round 2); 'via Brewster' — removed with the probable Brewster disproof (Round 3)."
+  },
+  "sex": "M",
+  "tags": [
+    "patriot"
+  ],
+  "summary": "Chairman of the New Windsor Committee of Safety whose forge finished the West Point chain (1778); formerly John's 3C9R via Brewster — AFFECTED BY the Brewster disproof.",
+  "bio": "Path claimed: Francis → Rev. Nathaniel → son → Nathaniel (m. Phebe Smith) → Samuel. SAR P-120755. Son Timothy Brewster (1746–1816), Revolutionary officer, Orange Co. (formerly 4C8R).",
+  "sources": [
+    "SAR P-120755",
+    "Wikipedia, 'Hudson River Chains'",
+    "notes/round2/colonial_cousins.md §2d"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9264
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

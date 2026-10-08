@@ -1,0 +1,43 @@
+{
+  "id": "H0337",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as 'Donna Mariangela Cannatello', 32, in son Giovanni's 1855 birth act (image read)."
+  },
+  "sex": "F",
+  "aka": [
+    "Mariantonia Cannatello",
+    "Mariangiola Cannatello",
+    "Donna Mariangela Cannatello",
+    "Mariangiola Cognetta"
+  ],
+  "tags": [],
+  "summary": "John's maternal 3rd great-grandmother (via the probable Frank-Giovanni link); styled 'Donna' at Dasà.",
+  "bio": "Tree: 'Mariantonia' Cannatello (b. 1816). MyHeritage index: Mariangiola Cognetta née Cannatello, b. 1818 Dasà, wife of Nicola Cognetta. Birth act of Giovanni (1855): 'Donna Mariangela Cannatello', 32 (b. c.1823). So three birth-year values: 1816 (tree), 1818 (MyHeritage), c.1823 (age in 1855 act - preferred as primary, though ages in acts can be approximate). The tree's given name 'Mariantonia' is wrong. paese.app: Cannatello's only Calabrian US arrival came from Sorianello, in the same district.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Mariantonia Cannatello 1816-Deceased"
+    }
+  ],
+  "sources": [
+    "Antenati, Dasà, Nati 1855, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0JPovJv",
+    "MyHeritage, Mariangiola Cognetta: https://www.myheritage.it/names/mariangiola_cognetta",
+    "paese.app Cannatello: https://paese.app/cognomi/cannatello",
+    "notes/italian.md 3.2 and 6.8; notes/round3/italian_origins.md 4"
+  ],
+  "openQuestions": [
+    "Birth act (1816/1818/1823?) and parents"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Mariangela Cannatello (b. 1823)",
+    "line": 10407
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

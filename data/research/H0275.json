@@ -1,0 +1,25 @@
+{
+  "id": "H0275",
+  "link": {
+    "confidence": "probable",
+    "note": "Pelletreau App. pp. 466, 472, 478, 480; assumes Anna (not an earlier wife of Ebenezer) was her mother."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 2nd cousin 8x removed (Job → Job 2d → Anna → Hannah); a mistress of the Hauppauge estate.",
+  "sources": [
+    "Pelletreau (1898) App. pp. 466, 472, 478, 480",
+    "Uploaded Hauppauge report"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Collateral relatives (Keturah's uncles and siblings, Tuthill and Smith kin)",
+    "line": 8982
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

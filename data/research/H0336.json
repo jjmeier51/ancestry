@@ -1,0 +1,30 @@
+{
+  "id": "H0336",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Bisaccia Matrimoni 1867 act 17 and Matrimoni 1896 act 18 (images read)."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's maternal 3rd great-grandmother; daughter of a Bisaccia shepherd, mother of Frank Giannetta.",
+  "bio": "Married Savino Giannetta at Bisaccia on 20 Jul 1867 (Matrimoni 1867, act 17) aged 18 (born c.1849); daughter of Bartolomeo Fede, pecoraio, and Luigia(?) Roberto. Living in 1896 when her son Frank married (act 18).",
+  "sources": [
+    "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
+    "Antenati, Bisaccia, Matrimoni 1896, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua445513/5glz731",
+    "notes/round3/italian_origins.md 3"
+  ],
+  "mediaKnown": [
+    "1867 marriage act image"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Angelamaria Fede (b. 1849)",
+    "line": 10365
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

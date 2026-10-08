@@ -1,0 +1,29 @@
+{
+  "id": "H0238",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Lavenham register and will abstract printed in Hammond (1902)."
+  },
+  "sex": "M",
+  "aka": [
+    "Thomas Hamond"
+  ],
+  "tags": [],
+  "summary": "John's 12th-great-grandfather, of Lavenham, Suffolk.",
+  "bio": "Married Rose Trippe at Lavenham 14 May 1573 (her brother William Trippe witnessed his will). Died 24 Nov 1589; will 1589. Son William was 14 at his death.",
+  "sources": [
+    "Hammond (1902)",
+    "notes/round3/english_french_origins.md §2c"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 14 (12th-great-grandparents)",
+    "line": 8020
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

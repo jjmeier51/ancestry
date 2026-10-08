@@ -1,0 +1,26 @@
+{
+  "id": "H0208",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probably John's 2nd cousin 5x removed.",
+  "bio": "William Croop (1805-1889), lumberman; held township offices.",
+  "sources": [
+    "Bradsby p.812"
+  ],
+  "occupation": "Lumberman",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "William Croop (b. 1805)",
+    "line": 7112
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

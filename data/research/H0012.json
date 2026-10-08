@@ -1,0 +1,35 @@
+{
+  "id": "H0012",
+  "link": {
+    "confidence": "probable",
+    "note": "FS tree (LTHM-1XV children); 'Frederick, 17, laborer in a moulding shop' in the confirmed 1910 census."
+  },
+  "sex": "M",
+  "aka": [
+    "Fred Aloysius Meier Sr.",
+    "Frederick Meier"
+  ],
+  "tags": [],
+  "summary": "John's 2nd great-uncle; eldest brother of great-grandfather William F. Meier.",
+  "bio": "Born 15 Sep 1892 in Hazleton; laborer in a moulding shop aged 17 (1910). Speculative candidate for the 'Frederick Meier of Wilkes-Barre' whose wife Anna died 9 Feb 1940 aged 47 — which could be the source of the tree's '1940' for Henry.",
+  "sources": [
+    "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
+    "1910 census image",
+    "notes/round3/meier_line.md",
+    "Genealogy Trails 1940 deaths M–P http://genealogytrails.com/penn/luzerne/1940_deaths/m_n_o_p.html"
+  ],
+  "openQuestions": [
+    "Was his wife the Anna Meier (Mrs. Frederick) who died 9 Feb 1940 in Wilkes-Barre, aged 47?"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 2798
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

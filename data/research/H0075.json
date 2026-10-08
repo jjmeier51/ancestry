@@ -1,0 +1,26 @@
+{
+  "id": "H0075",
+  "link": {
+    "confidence": "probable",
+    "note": "GEDBAS 53093 and WikiTree agree."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 7th-great-grandmother; Lutheran daughter of the Jettenbach smith.",
+  "bio": "Born 12 Dec 1702 at Jettenbach, Lutheran, daughter of Abraham Lampert, smith (Schmied) of Jettenbach; married Johann Nickel Grub 1720.",
+  "sources": [
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193192331: https://gedbas.genealogy.net/person/show/1193192331",
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Elisabetha Margaretha Lampert (b. 1702)",
+    "line": 4655
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

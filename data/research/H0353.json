@@ -1,0 +1,32 @@
+{
+  "id": "H0353",
+  "link": {
+    "confidence": "probable",
+    "note": "1910 census (age 10) and 1920 census; Geni gives 'Frank W., b. Jul 1895, Pennsylvania' (conflict)."
+  },
+  "sex": "M",
+  "aka": [
+    "Frank W. Petrillo"
+  ],
+  "tags": [],
+  "summary": "John's great-granduncle; coal-breaker laborer in 1920.",
+  "bio": "Frank, 10 in 1910 (b. c.1900 PA); laborer at a coal breaker in 1920. Geni lists Frank W. b. Jul 1895 PA, which Round 1 used to date the family's arrival; census age suggests c.1900.",
+  "sources": [
+    "1910 and 1920 census images",
+    "Geni Giovanni Petriello profile"
+  ],
+  "openQuestions": [
+    "Birth 1895 (Geni) vs c.1900 (census); WWI draft card"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Frank Petrillo (b. 1900)",
+    "line": 11593
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

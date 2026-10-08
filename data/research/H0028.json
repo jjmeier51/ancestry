@@ -1,0 +1,35 @@
+{
+  "id": "H0028",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1842 Munzingen baptism read (confirmed brother). Identity with Joseph Birkenmeier d. 1904 Sandusky is probable (Ancestry index only; FS family)."
+  },
+  "sex": "M",
+  "aka": [
+    "Joseph Birkenmeier"
+  ],
+  "tags": [],
+  "summary": "John's 4th great-uncle; brother of Maria Anna Birkenmayer; emigrant to Sandusky, Ohio.",
+  "bio": "Born 15 Mar 1842, baptized 19 Mar 1842 at Munzingen (No. 6): 'Joseph Birkenmayer, ehelicher Sohn des Servatius Birkenmayer, hiesigen Bürgers und Glasers, und der Agatha Heizler'; witnesses Gabriel Ott, farmer, and Johann Schell, teacher. The Ancestry index (snippet) has a Joseph Birkenmeier, b. 15 Mar 1842 'Münzingen', Breisgau, parents Servatius Birkenmayer and Agatha Heitzler, d. 3 Nov 1904 Sandusky, Erie Co., Ohio — the clue that led to Munzingen. Munzingen had an emigrant pipeline to northern Ohio. Not in the 1889 History of Erie County biographies (B).",
+  "sources": [
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), births 1842 No. 6 http://www.landesarchiv-bw.de/plink/?f=5-480947-62",
+    "Ancestry snippet https://www.ancestry.com/genealogy/records/results?firstName=joseph&lastName=birkenmeier",
+    "FamilySearch G921-2R4 family",
+    "notes/round2/black_forest.md; notes/round3/german_origins.md; notes/round3/meier_line.md"
+  ],
+  "openQuestions": [
+    "Sandusky Register obituary Nov 1904 (Hayes Presidential Center obituary index https://www.rbhayes.org/) — may name Munzingen and a sister in Hazleton.",
+    "Ohio death record 1904."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3189
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

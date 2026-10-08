@@ -1,0 +1,25 @@
+{
+  "id": "H0083",
+  "link": {
+    "confidence": "possible",
+    "note": "GEDBAS 53093 only; Round 3 labels this generation speculative-probable."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 9th-great-grandfather; born at Oberbrombach, baptized at Niederbrombach 1616.",
+  "bio": "Baptized 26 May 1616 at Niederbrombach, born at Oberbrombach; married 9 Jan 1642 at Lauterecken Elisabetha Birgert of Fockenberg-Limbach, daughter of Conrad Birgert; died 29 Apr 1671 at Berschweiler.",
+  "sources": [
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), persons 1193191874, 1193191858: https://gedbas.genealogy.net/person/show/1193191874"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Caspar Grub (b. 1616)",
+    "line": 4797
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "I282608060411",
+  "link": {
+    "confidence": "probable",
+    "note": "Named in husband's will (confirmed); baptism at Long Stratton per WikiTree (probable)."
+  },
+  "birth": {
+    "date": "1583-08-11",
+    "place": "Long Stratton, Norfolk, England"
+  },
+  "aka": [
+    "Alice Tuthill"
+  ],
+  "tags": [],
+  "summary": "John's 12th-great-grandmother.",
+  "sources": [
+    "Akerly (1898) pp. 3–4",
+    "WikiTree Tuthill-60"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 14 (12th-great-grandparents)",
+    "line": 8172
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1584; research: 1583-08-11."
+    }
+  ]
+}

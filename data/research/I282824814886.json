@@ -1,0 +1,53 @@
+{
+  "id": "I282824814886",
+  "link": {
+    "confidence": "probable",
+    "note": "Tree (b. 1840) and FS tree (b. 1839); no civil record read. Guardia origin probable from surname concentration."
+  },
+  "given": "Rosa",
+  "surname": "Siconolfi",
+  "birth": {
+    "date": "ABT 1839",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "tags": [],
+  "summary": "John's maternal 3rd great-grandmother; mother of Maria Antonia DiBiasi.",
+  "bio": "Tree: Rosa Siconolfi (b. 1840). FS tree: b. 1839, 'born Lucera, Foggia' (unsourced; treated as an error). Siconolfi is Guardia Lombardi's most common surname: paese.app shows Guardia as the #1 comune (14 US arrivals 1830-1912); a modern Guardia phone directory lists Siconolfi 21 times; Guardia has a frazione called Case Siconolfi; the current/recent sindaco of Guardia is a Siconolfi (surname only, no kinship). Note: if born 1839, she was about 17 at son Domenico Antonio's birth in 1856. FS profile lists children born 1891 and 1894 (age 52-55) - mis-attachments.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Rosa Siconolfi 1840-Deceased"
+    }
+  ],
+  "sources": [
+    "FamilySearch tree G4YR-BXY: https://ancestors.familysearch.org/en/G4YR-BXY",
+    "paese.app Siconolfi: https://paese.app/cognomi/siconolfi",
+    "indettaglio, Case Siconolfi: http://italia.indettaglio.it/ita/campania/avellino_guardialombardi_casesiconolfi.html",
+    "italyheritage Guardia Lombardi surnames: https://www.italyheritage.com/genealogy/surnames/regions/campania/avellino/guardia-lombardi.htm",
+    "AvellinoToday (Siconolfi sindaco): https://www.avellinotoday.it/politica/mozione-sfiducia-guardia-lombardi-siconolfi.html",
+    "notes/italian.md 2.2; notes/round2/italian_gaps.md 4"
+  ],
+  "openQuestions": [
+    "Birth and marriage acts (Guardia)",
+    "Her parents"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Rosa Siconolfi (b. 1839)",
+    "line": 10327
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Rosa Siconolfi (Dibiasi)\"; research uses \"Rosa Siconolfi\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1840; research: ABT 1839."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I282604493938",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1923 marriage licence No. 635 (image read) names her and her parents; named as Kathryn's mother in two independent sources. Birth/death dates from FS tree KGQH-JNV (probable)."
+  },
+  "given": "Elizabeth M.",
+  "surname": "McAvoy",
+  "birth": {
+    "date": "1897-12-08",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1984-05-05",
+    "place": "Altoona, Blair County, Pennsylvania, USA"
+  },
+  "occupation": "Clerk (1923)",
+  "aka": [
+    "Elizabeth McAvoy-McGuire",
+    "Elizabeth McGuire",
+    "Elizabeth Arnold"
+  ],
+  "tags": [],
+  "summary": "John's great-grandmother (mother of grandmother Kathryn); a Plymouth clerk, daughter of a New York-born father who died when she was an infant.",
+  "bio": "Elizabeth M. McAvoy was born 8 Dec 1897 in Plymouth (FS KGQH-JNV), one of ten children of William Richard McAvoy (b. c.1857 New York, d. 4 Nov 1899 Plymouth) and Catherine A. Murphy. Her father died when she was about two; her widowed mother married John H. Jones, and in 1920 Elizabeth lived 'in household of John H Jones'. On 19 Jun 1923 (licence No. 635) she was a clerk, of 214 Vine St, Plymouth, aged 25, born Penna., father William R. (deceased, born N.Y.), mother Kathryn Murphy (Plymouth, born Penna.); she married Frank J. McGuire on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). Her sister Agnes M. McAvoy married Joseph S. Jones, a brother of Frank's mother Anna C. Jones — so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth married. After Frank's death in 1958 she married (2) Harold Arnold. She died 5 May 1984 in Altoona and was buried in Hanover Township (FS).",
+  "residences": [
+    {
+      "date": "1920",
+      "place": "Household of John H. Jones, Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1923",
+      "place": "214 Vine Street, Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1984",
+      "place": "Altoona, Blair County, Pennsylvania, USA"
+    }
+  ],
+  "sources": [
+    "Luzerne marriage licence No. 635 (1923) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQT-YKQ/images/i/2/image.jpg ; https://familysearch.org/ark:/61903/1:1:KHF5-V74",
+    "FamilySearch tree KGQH-JNV",
+    "Ancestry index snippet (Kathryn Meier: mother Elizabeth McAvoy-McGuire)",
+    "notes/round3/irish_pa.md"
+  ],
+  "openQuestions": [
+    "Burial cemetery in Hanover Twp.",
+    "Date of second marriage to Harold Arnold."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 1769
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Elizabeth McAvoy\"; research uses \"Elizabeth M. McAvoy\"."
+    }
+  ]
+}

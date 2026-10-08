@@ -1,0 +1,36 @@
+{
+  "id": "I282608083447",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree shows him as Jerusha Topping's father; removed in Round 1 (correction 3a): Banks's Sayre Family (1901, p. 30) lists only sons Josiah and John (b. 1706); jrm's page lists no children; Jerusha was daughter of Elnathan Topping (1664–1751). Charles E. Topping's 1980 Topping Genealogy p. 392 (repeated on WikiTree Smith-141655) still gives this line. Not an ancestor."
+  },
+  "tags": [],
+  "summary": "Removed: the tree's wrong father for Jerusha Topping.",
+  "bio": "Daniel Sayre's 1707 will names 'Hannah Topping the wife of Mr Josiah Topping'.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Josiah Topping 1663–1726, father John Topping 1636–1686"
+    }
+  ],
+  "sources": [
+    "Banks (1901) p. 30, https://archive.org/details/sayrefamilylinea00bant",
+    "jrm Needham I2543, https://jrm.phys.ksu.edu/Genealogy/Needham/d0001/I2543.html",
+    "notes/colonial_virginia.md §2a"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8356
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Handoff gives parents John Topping (b. 1636), Sarah White (b. unknown) but the link is only \"unverified\", so the tree was not changed."
+    }
+  ]
+}

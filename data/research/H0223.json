@@ -1,0 +1,36 @@
+{
+  "id": "H0223",
+  "link": {
+    "confidence": "probable",
+    "note": "Wife of James Tuthill per Alva Tuttle (1968) and McCurdy; her parentage (Jonathan Browne & Elisabeth Salmon) comes from compiled sources only (WikiTree getAncestors of Tuthill-530). Supported by 'my brother Joseph Brown' in John Tuthill III's 1740 will and Joshua Brown as executor of Daniel Tuthill (1761)."
+  },
+  "sex": "F",
+  "aka": [
+    "Rachel Brown",
+    "Rachel Tuthill"
+  ],
+  "tags": [],
+  "summary": "John's 8th-great-grandmother, wife of James Tuthill; through her come the Browne, Salmon and Horton (Barnabas Horton of Southold) ancestors.",
+  "bio": "Married James Tuthill about 1714. Not in the Ancestry tree, which instead shows 'Hannah S Reeve' as James's wife (an error merging Joshua Tuthill's marriage). WikiTree gives her parents as Jonathan Browne (1653–1710) & Elisabeth Salmon of Southold; Elisabeth was daughter of William Salmon (d. 1657) and Sarah Horton, daughter of Barnabas Horton of Southold, born Mowsley, Leicestershire. Brown executors in two Tuthill branches fit the marriage.",
+  "sources": [
+    "WikiTree Tuthill-530 (getAncestors), https://www.wikitree.com/wiki/Tuthill-530",
+    "Alva Tuttle (1968) p. 279",
+    "McCurdy p14551",
+    "NY Wills vol. III Liber 15 pp. 400–1; vol. VI Liber 23 p. 130",
+    "notes/round3/english_french_origins.md §2i"
+  ],
+  "openQuestions": [
+    "Birth and death dates; a primary record of her parentage."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 10 (8th-great-grandparents)",
+    "line": 7433
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

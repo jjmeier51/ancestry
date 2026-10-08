@@ -1,0 +1,29 @@
+{
+  "id": "H0213",
+  "link": {
+    "confidence": "possible",
+    "note": ""
+  },
+  "sex": "M",
+  "aka": [
+    "Dr. Harry Ward Croop"
+  ],
+  "tags": [],
+  "summary": "Croop cousin (approx. 5th cousin 2x removed; descent not traced).",
+  "bio": "Dr. Harry Ward Croop (b. 1884), Wilkes-Barre physician; Stanley C. Croop is associated with the Croop's Glen amusement park at Hunlock Creek.",
+  "sources": [
+    "Harvey & Smith vols. V-VI: https://archive.org/details/historyofwilkesb06harv"
+  ],
+  "occupation": "Physician",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Harry Ward Croop (b. 1884)",
+    "line": 7189
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

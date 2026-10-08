@@ -1,0 +1,40 @@
+{
+  "id": "H0285",
+  "link": {
+    "confidence": "probable",
+    "note": "Brother of Gen. Nathaniel (jrm I2322)."
+  },
+  "sex": "M",
+  "aka": [
+    "Col. Jesse Woodhull"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "John's 2nd cousin 9x removed via Bull Smith (also 3C9R via Topping); Orange County militia colonel and NY state senator — very probably the 'Colonel Woodhull' under whom Thomas Lamoreaux served.",
+  "bio": "Commanded the 1st Regiment of Orange County Militia (the Cornwall-area regiment); later NY state senator. SAR record for Thomas Lamoreaux says he served under 'Colonel Woodhull' (first name not given) — so Thomas very probably served under a cousin of his wife Keturah.",
+  "military": [
+    {
+      "branch": "Orange County, NY militia",
+      "service": "American Revolution",
+      "rank": "Colonel",
+      "unit": "1st Regiment of Orange County Militia"
+    }
+  ],
+  "sources": [
+    "Wikipedia, https://en.wikipedia.org/wiki/Jesse_Woodhull",
+    "jrm Needham I2322, https://jrm.phys.ksu.edu/Genealogy/Needham/d0000/I2322.html",
+    "SAR P-232580"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9161
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

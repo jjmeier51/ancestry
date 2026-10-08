@@ -1,0 +1,26 @@
+{
+  "id": "H0233",
+  "link": {
+    "confidence": "probable",
+    "note": "Compiled sources only (WikiTree)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 10th-great-grandfather (via Rachel Browne), of Southold.",
+  "bio": "His 'Brough under Stainmore, Westmorland' origin and a Curtis of Nazeing link appear on WikiTree and are speculative.",
+  "sources": [
+    "WikiTree Tuthill-530 getAncestors",
+    "notes/round3/english_french_origins.md §2i"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 12 (10th-great-grandparents)",
+    "line": 7839
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

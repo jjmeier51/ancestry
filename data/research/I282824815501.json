@@ -1,0 +1,31 @@
+{
+  "id": "I282824815501",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; Palladino absent from San Mango 1674-1804 stati and from the modern San Mango surname list."
+  },
+  "tags": [],
+  "summary": "Tree ancestor in the unsupported Fiorillo/Fata pedigree.",
+  "bio": "Tree: Fulvia Palladino (1708-1774). Shown as 'Potential' in one view. Unsupported.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Fulvia Palladino 1708-1774 ('Potential' in one view)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 7"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Fulvia Palladino (b. 1708)",
+    "line": 10934
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

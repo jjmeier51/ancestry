@@ -1,0 +1,32 @@
+{
+  "id": "H0167",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probably John's 5th-great-grand-uncle (Samuel's brother) and also uncle by marriage of Martha Lamoreaux.",
+  "bio": "James Pringle, Samuel's brother ('brothers, presumably natives of Connecticut', Harvey Book), married Phebe Lamoreux, sister of Ensign Thomas, in 1785. Not John's ancestor James (b. c.1799).",
+  "facts": [
+    {
+      "label": "Disambiguation",
+      "value": "m. 1785"
+    }
+  ],
+  "sources": [
+    "Harvey Book pp.134-135",
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-359"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "James Pringle (b. unknown)",
+    "line": 6436
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

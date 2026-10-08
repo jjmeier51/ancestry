@@ -1,0 +1,37 @@
+{
+  "id": "H0096",
+  "link": {
+    "confidence": "probable",
+    "note": "Cozes Reformed baptism of André (1663) per Garner; identification with the Meschers pilot rests on name, date and parish."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 10th-great-grandfather; Huguenot of Cozes, Saintonge.",
+  "bio": "Daniel Lamoureux, son of Jean Lamoureux, stood godparent at Cozes in 1656 with Marie Touchay; their son André was born 3 Nov 1663.",
+  "residences": [
+    {
+      "date": "1656",
+      "place": "Cozes, Charente-Maritime, France"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Disambiguation",
+      "value": "of Cozes"
+    }
+  ],
+  "sources": [
+    "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5 pp.1, 48"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Daniel Lamoureux (b. unknown)",
+    "line": 5068
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

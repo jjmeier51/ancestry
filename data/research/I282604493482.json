@@ -1,0 +1,67 @@
+{
+  "id": "I282604493482",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Luzerne marriage licence No. 635 (1923, image read) names his parents James and Anna Jones; PA death index 1958 file 83855; named as Kathryn's father in two independent sources. Exact birth date from FS tree (probable)."
+  },
+  "given": "Francis J.",
+  "surname": "McGuire",
+  "birth": {
+    "date": "1898-09-21",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1958-09-15",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+  },
+  "occupation": "Bookkeeper (1923)",
+  "aka": [
+    "Frank J. McGuire",
+    "Francis Joseph McGuire",
+    "\"Frances\" McGuire (Ancestry index)"
+  ],
+  "tags": [],
+  "summary": "John's great-grandfather (father of grandmother Kathryn); a Plymouth-born bookkeeper who married Elizabeth McAvoy in 1923 and died in Wilkes-Barre in 1958.",
+  "bio": "Frank J. McGuire was born 21 Sep 1898 in Plymouth, Luzerne Co. (FamilySearch GZQT-YKQ), son of James McGuire, laborer, and Anna C. Jones (born England). In 1910 his family (Francis aged 11) lived in Larksville — the same small town as Addison Pringle's family (Florence aged 6), 18 years before their children married. On 19 Jun 1923 he took out Luzerne marriage licence No. 635: Frank J. McGuire, bookkeeper, 220 South St, Plymouth, 24, born Penna.; father James (laborer, Plymouth, born Penna.); mother Anna Jones (born England). The bride was Elizabeth M. McAvoy, clerk, 214 Vine St, Plymouth, 25, born Penna.; father William R. (deceased, born N.Y.); mother Kathryn Murphy (Plymouth, born Penna.). They married 20 Jun 1923, by Rev. P. J. Colligan, Plymouth. His daughters (FS) were Jane Clair (1924), probably twins Elizabeth 'Betsy' and Ann 'Nancy' (Mar 1928), and Kathryn (22 Aug 1930). He died 15 Sep 1958 in Wilkes-Barre aged 59 (PA death index 1958: 'MCGUIRE FRANK J, 59, WLKS BRE, co. 40, 09-15-58, file 83855'). His widow remarried (Harold Arnold). Do not merge with the Frank McGuire whose wife 'Bea Ginley (Mrs. Frank)' died 26 Apr 1938 at Forty Fort.",
+  "residences": [
+    {
+      "date": "1910",
+      "place": "Larksville, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1923",
+      "place": "220 South Street, Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1958",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "sources": [
+    "Luzerne marriage licence No. 635, 19 Jun 1923 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQT-YKQ/images/i/2/image.jpg ; record https://familysearch.org/ark:/61903/1:1:KHF5-V74",
+    "PA Death Index 1958 M–N–O PDF p.100 / printed p.1324 https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1958/D-58%20M-N-O.pdf (file 83855)",
+    "FamilySearch tree GZQT-YKQ https://www.familysearch.org/service/tree/tree-data/published/persons/GZQT-YKQ",
+    "Ancestry index snippet (Kathryn Meier record: father 'Frances' McGuire)",
+    "Genealogy Trails 1938 deaths M–P http://genealogytrails.com/penn/luzerne/1938_deaths/m_n_o_p.html (Bea Ginley McGuire — not a match)",
+    "notes/round3/irish_pa.md; notes/meier_mcguire.md; notes/round2/meier_gaps.md"
+  ],
+  "openQuestions": [
+    "PA death certificate 1958 #83855.",
+    "1930/1940 census residence (Wilkes-Barre?)."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 1747
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Frank McGuire\"; research uses \"Francis J. McGuire\"."
+    }
+  ]
+}

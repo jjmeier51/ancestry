@@ -1,0 +1,86 @@
+{
+  "id": "I282608064637",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Obituary (Find a Grave), Bradsby's John F. Connole sketch naming 'Mrs. Andrew Heffron' as Thomas Connole's daughter, Dwyer, and son's 1914 marriage application (mother b. New York)."
+  },
+  "birth": {
+    "date": "1850-11-03",
+    "place": "Elmira, Chemung County, New York, USA"
+  },
+  "death": {
+    "date": "1928-05-01",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Mary Connole Heffernan"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 3rd-great-grandmother; born at Elmira, New York, to Irish immigrants Thomas Connole and Honora Dwyer; mother of the Wilkes-Barre Heffernans.",
+  "bio": "Mary Connole was born at Elmira, New York, on 3 Nov 1850 (the tree had assumed Irish birth; corrected in the deep-dive report). Her parents, Thomas Connole and Honora Dwyre, were 'natives of Ireland, who came to America in 1848, settling in the State of New York'. Her obituary says she came to the Wyoming Valley in 1865, but her sister Nora was born in Plymouth Twp in 1855 and the family was not found in the 1860 Elmira census, so the family most likely reached Plymouth about 1855-60 and the 1865 date is suspect. After her mother's death her father married Anastasia (Boney) Heffernan, aunt by marriage of Andrew H. Heffernan, whom Mary married at Plymouth on 1 Sep 1868. They had ten surviving children. She died at Wilkes-Barre on 1 May 1928 and was buried at St. Mary's, Hanover Twp.",
+  "residences": [
+    {
+      "date": "1850",
+      "place": "Elmira, Chemung County, New York, USA"
+    },
+    {
+      "date": "BET 1855 AND 1865",
+      "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1914",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Mary CONNOLE 1850-1928 (photo)"
+    },
+    {
+      "label": "Find a Grave",
+      "value": "139403584"
+    },
+    {
+      "label": "Burial",
+      "value": "St. Mary's Cemetery, Hanover Township, Luzerne County"
+    }
+  ],
+  "sources": [
+    "Find a Grave 139403584: https://www.findagrave.com/memorial/139403584/mary-connole-heffernan",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Bradsby 1893, John F. Connole sketch p.~795: https://archive.org/details/historyofluzerne00brad",
+    "Philadelphia marriage application 24 Nov 1914 (mother Mary Connole b. New York): https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L2G4-NQW/images/i/1/image.jpg",
+    "Joyce Tice 1860 Elmira census transcription (negative, 112 pages): https://joycetice.com/censusc/1860elmr.htm",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "mediaKnown": [
+    "Tree profile photo"
+  ],
+  "openQuestions": [
+    "Baptism at Elmira (St. Patrick's?) 1850; family's arrival date in Plymouth."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Mary Connole (b. 1850)",
+    "line": 4012
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry tree: Connole pedigree",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608064637/ancestry-screenshot-img-7808.jpg"
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

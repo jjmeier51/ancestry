@@ -1,0 +1,31 @@
+{
+  "id": "H0048",
+  "link": {
+    "confidence": "possible",
+    "note": "GEDBAS 84206299; Basel 1844 death extract of his daughter."
+  },
+  "sex": "M",
+  "aka": [
+    "Johann Birkenmeyer"
+  ],
+  "tags": [],
+  "summary": "Munzingen-born mason in Basel; possibly Servatius's brother or half-brother (speculative).",
+  "bio": "Illegitimate son of Walburga Birkenberger, b. 1808 Munzingen, master mason in Basel (GEDBAS). The Munzingen 1844 death register (No. 11) copies a certified extract of the death in Basel on 1 Apr 1844 of Agatha Carolina Birkenmeyer (b. 28 Jan 1838), daughter of Johann Birkenmeyer of Munzingen and Carolina Belinger[?].",
+  "sources": [
+    "GEDBAS 84206299 https://gedbas.genealogy.net/person/show/84206299",
+    "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), deaths 1844 No. 11 http://www.landesarchiv-bw.de/plink/?f=5-480947-125",
+    "notes/round2/black_forest.md; notes/round3/german_origins.md"
+  ],
+  "occupation": "Master mason in Basel; craftsman (Handwerksgehilfe?)",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3530
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

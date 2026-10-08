@@ -1,0 +1,40 @@
+{
+  "id": "H0230",
+  "link": {
+    "confidence": "probable",
+    "note": "Howell (1887) and F. K. Smith (1967) make the younger Elnathan his son and Thomas Topping his father."
+  },
+  "sex": "M",
+  "aka": [
+    "Capt. Elnathan Topping",
+    "Elnathan Topping of Sagg"
+  ],
+  "tags": [],
+  "summary": "John's 10th-great-grandfather, of Sagg (Sagaponack); gravestone at Bridgehampton.",
+  "bio": "Capt. Elnathan Topping of Sagg (1640–1705); recorded children 1664–1682; gravestone at Bridgehampton. In 1686 his father deeded Southampton lands to sons Elnathan and James. The Toppings lived at Sagg (Sagaponack) and Bridgehampton.",
+  "residences": [
+    {
+      "date": "BET 1664 AND 1705",
+      "place": "Sagaponack, Southampton, Suffolk County, New York, USA"
+    }
+  ],
+  "sources": [
+    "Howell (1887) pp. 395–397",
+    "F. K. Smith (1967) via jrm Needham I2549",
+    "notes/round2/colonial_cousins.md §3e"
+  ],
+  "mediaKnown": [
+    "Gravestone at Bridgehampton (reported in Howell; no image in files)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 12 (10th-great-grandparents)",
+    "line": 7739
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

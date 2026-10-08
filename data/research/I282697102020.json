@@ -1,0 +1,52 @@
+{
+  "id": "I282697102020",
+  "link": {
+    "confidence": "probable",
+    "note": "His own birth and parents are confirmed (Dasà Nati 1855 act 18, image read). His link as Frank Cognetti's father is probable (tree only; Frank's birthplace and date not found)."
+  },
+  "birth": {
+    "date": "1855-03-22",
+    "place": "Dasà, Vibo Valentia, Calabria, Italy"
+  },
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's maternal 2nd great-grandfather (probable); born at Dasà, Calabria, son of the candle-maker Mastro Nicola Cognetta.",
+  "bio": "Tree: Giovanni Cognetta (1855-1930) + Mariarosa C. Lamanna (b. 1863), parents of Frank Cognetti. Round 3 confirmed: born 22 Mar 1855, Dasà (Monteleone district; then province of Catanzaro / Calabria Ultra II, now Vibo Valentia), Nati 1855 act 18; father Mastro Nicola Cognetta, 51 (b. c.1804), ceraiuolo (wax-chandler/candle-maker); mother Donna Mariangela Cannatello, 32 (b. c.1823) - the tree's 'Mariantonia' is wrong. 'Mastro' and 'Donna' mark a family of slightly elevated, artisan status. Emigration unknown: no US record found; he is not in any Scranton census with Frank; probably stayed in Italy (speculative). Where he died in 1930 is not recorded. Index entries show Lamanna and Malvaso surnames in Dasà in 1854-55.",
+  "residences": [
+    {
+      "date": "1855",
+      "place": "Dasà, Vibo Valentia, Calabria, Italy"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Giovanni Cognetta 1855-1930 (record-image photos)"
+    }
+  ],
+  "sources": [
+    "Antenati, Dasà, Nati 1855, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0JPovJv ; index https://antenati.cultura.gov.it/ark:/12657/an_ua37922783/0Zo8bdo",
+    "Ancestry tree transcription",
+    "notes/italian.md 3.2; notes/round2/italian_gaps.md 3; notes/round3/italian_origins.md 4"
+  ],
+  "mediaKnown": [
+    "1855 birth act image (Antenati)"
+  ],
+  "openQuestions": [
+    "Proof he is Frank Cognetti's father (Frank's birth act; Dasà has no births online 1862-1910)",
+    "Marriage to Mariarosa Lamanna (Dasà, c.1880s)",
+    "Death place 1930"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Giovanni Cognetta (b. 1855)",
+    "line": 10174
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

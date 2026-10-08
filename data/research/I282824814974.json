@@ -1,0 +1,31 @@
+{
+  "id": "I282824814974",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; same death year as his wife (suspect copied date); detached from John's line."
+  },
+  "tags": [],
+  "summary": "Tree ancestor of Maria d'Ambrosio; not John's ancestor.",
+  "bio": "Tree: Pasquale D'ambrosio (d. 1819) + Arcangiola Giordano (d. 1819). Round 1 flagged identical death years as probably copied.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Pasquale D'ambrosio -1819"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/italian.md 6.2"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Pasquale D'Ambrosio (b. unknown)",
+    "line": 11199
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

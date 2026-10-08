@@ -1,0 +1,28 @@
+{
+  "id": "H0259",
+  "link": {
+    "confidence": "unverified",
+    "note": "Probably disproven as an ancestor (Round 3, Jacobus): the Thompson–Brewster link that made him John's 11th-great-grandfather fails. Now collateral at most. Round 2 had rated him probable."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "New Haven 'chirurgeon' lost on the Phantom Ship of 1646; formerly in John's tree, now probably not an ancestor.",
+  "bio": "Francis Brewster 'of London, who came to New Haven in 1638 with the party of Eaton and Davenport' (Champlin 1915). A New Haven 'chirurgeon' (surgeon), presumably lost on Lamberton's 'Great Shippe', which sailed in January 1646 through a channel cut in the ice of the harbor; in 1648 it appeared as the famous 'Phantom Ship' in the sky over New Haven. His inventory is dated 30 Dec 1647. 'Born Bristol c.1599' appears on unsourced pages (speculative).",
+  "sources": [
+    "Champlin, NYGBR 46:4–9",
+    "New Haven Colony Records",
+    "American Heritage, 'The Great Shippe'",
+    "Round 3 report §1, §4"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8722
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

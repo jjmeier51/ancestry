@@ -1,0 +1,45 @@
+{
+  "id": "I282824815724",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as mother in son Domenico's 1840 San Mango birth act (image read). Dates are tree-only."
+  },
+  "birth": {
+    "date": "1811",
+    "place": "San Mango D'Aquino, Catanzaro, Italy"
+  },
+  "death": {
+    "date": "1877",
+    "place": "San Mango D'Aquino, Catanzaro, Calabria, Italy"
+  },
+  "tags": [],
+  "summary": "John's maternal 4th great-grandmother, of San Mango d'Aquino (an earlier Ferlaino-Fiorillo marriage, two generations before Leopoldo Ferlaino married Giuseppina Fiorillo).",
+  "bio": "Tree: Giuseppina Ferlaino (1811-1877). Round 3 origins map gives her as 'b. c.1808'. Confirmed as mother of Domenico Fiorillo (b. 27 Dec 1840) in Nati 1840 act 79. Ferlaino is genuinely a San Mango family (229 entries in 1674-1804 stati delle anime).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Giuseppina Ferlaino 1811-1877 ('Potential' hint)"
+    }
+  ],
+  "sources": [
+    "Antenati, San Mango d'Aquino, Nati 1840, act 79: https://antenati.cultura.gov.it/ark:/12657/an_ua37933123/LNZdd7O",
+    "Ancestry tree transcription",
+    "notes/round3/italian_origins.md 5"
+  ],
+  "openQuestions": [
+    "Birth year 1811 (tree) vs c.1808 (Round 3 map)",
+    "Her parents (stati delle anime 1800/1804 may list her family)",
+    "Death act 1877 (San Mango Morti; Antenati coverage ends 1860)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Giuseppina Ferlaino (b. 1811)",
+    "line": 10704
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

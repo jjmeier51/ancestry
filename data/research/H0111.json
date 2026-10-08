@@ -1,0 +1,38 @@
+{
+  "id": "H0111",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [
+    "notable",
+    "politician"
+  ],
+  "summary": "John's 2nd-great-grand-uncle (brother of Catherine E. Heffernan Pringle); Wilkes-Barre postmaster under Theodore Roosevelt and Taft and owner of the Sunday Independent.",
+  "bio": "Thomas F. Heffernan (10 Mar 1871 - 28 Feb 1951) taught three years in the Plymouth schools, then worked 13 years at the Wilkes-Barre Record. He was assistant county treasurer in 1901 and postmaster of Wilkes-Barre 1907-16 (8 years 11 months), appointed by Theodore Roosevelt in 1907 and reappointed by Taft in 1911. With John A. Hourigan he turned the Morning News into the Evening News (1909). In 1913 he bought the Sunday Independent from John J. Maloney and incorporated it in 1915 with his brothers John V. and George P.; net circulation was 18,777 per issue in 1926 and about 22,000 by 1929, as 'the only Sunday journal' in the valley. Republican; trustee of Mercy Hospital; director of the Wilkes-Barre Deposit & Savings Bank. He married Louise Easen (b. England) at Mauch Chunk in 1900; one son, Thomas E. (b. 1902). Buried Fern Knoll Cemetery, Dallas. The family still ran the Sunday Independent in the 1960s-70s, including through the 1972 and 1978-79 Wilkes-Barre newspaper strikes. The paper's 1913-1958 run is digitized by the Osterhout Free Library on POWER Library. Dwyer credits a portrait of him to Prominent Men, Wilkes-Barre (1906).",
+  "notable": "Postmaster of Wilkes-Barre 1907-16; owner of the Sunday Independent from 1913",
+  "sources": [
+    "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
+    "Harvey & Smith vol. V newspaper chapter (circulation 18,777 in 1926): https://ldsgenealogy.com/PA/books/A-history-of-Wilkes-Barre-Luzerne-County-Pennsylvania-from-its-first-beginnings-to-the-present-time-including-chapters-of-newly-discovered-early-Wyoming-Valley-history-Volume-V-part-17.htm",
+    "Harvey & Smith vol. IV postmaster list: https://archive.org/details/historyofwilkesb04harv",
+    "Editor & Publisher 23 Jan 1960: https://archive.org/details/sim_editor-publisher_1960-01-23_93_4 ; E&P 1972: https://archive.org/details/sim_editor-publisher_1972-08-05_105_32",
+    "POWER Library: https://powerlibrary.org/?p=173",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+  ],
+  "mediaKnown": [
+    "Portrait in Prominent Men, Wilkes-Barre (1906)"
+  ],
+  "occupation": "Teacher; reporter (Wilkes-Barre Record); assistant county treasurer; postmaster; newspaper owner/publisher",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas F. Heffernan (b. 1871)",
+    "line": 5465
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

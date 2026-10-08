@@ -1,0 +1,32 @@
+{
+  "id": "I282824814992",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; tree wrongly gives her her husband's parents; detached from John's line."
+  },
+  "tags": [],
+  "summary": "Tree ancestor of Maria d'Ambrosio; not John's ancestor.",
+  "bio": "Tree: Claudia Di Vivo (1722-1811). The tree duplicates Angelo A. Gialanella + Maddalena Parisi as her parents too - an error that would make her Claudio's sister, and her Di Vivo surname contradicts a Gialanella father. Remove. Her real parents are unknown; Di Vivo does occur at Guardia (1 US arrival, paese.app).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Claudia Di Vivo 1722-1811 (shown with Claudio's parents - duplicate)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "paese.app di vivo: https://paese.app/cognomi/di%20vivo",
+    "Round 1 report 3l"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Claudia Di Vivo (b. 1722)",
+    "line": 11252
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

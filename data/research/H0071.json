@@ -1,0 +1,33 @@
+{
+  "id": "H0071",
+  "link": {
+    "confidence": "probable",
+    "note": "Named in Catherine's 1814 baptism as read by Dwyer, but the 1904 death register calls the mother 'Ann' - conflict."
+  },
+  "sex": "F",
+  "aka": [
+    "Judith Quigley",
+    "Ann Boney"
+  ],
+  "tags": [],
+  "summary": "John's 5th-great-grandmother; wife of Thomas Boney of Lickfinn, Gortnahoe.",
+  "bio": "Jude (Judith) Quigley is named as Catherine Boney's mother in the Gortnahoe baptism of 28 Feb 1814 (Dwyer). Catherine named her first child Jude (bapt. 1839), supporting the name. The 1904 Luzerne death register instead gives 'Ann'; the baptism is the better source, and the 1904 informant may have confused her with Anastasia ('Anty') Boney.",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "Luzerne Register of Deaths p.208 (1904)"
+  ],
+  "openQuestions": [
+    "Gortnahoe baptism register image (registers.nli.ie, Cashel & Emly) to settle Jude vs Ann."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Jude Quigley (b. unknown)",
+    "line": 4276
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

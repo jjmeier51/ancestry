@@ -1,0 +1,26 @@
+{
+  "id": "H0354",
+  "link": {
+    "confidence": "probable",
+    "note": "FS tree; 1910 census (age 5)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's great-granduncle.",
+  "bio": "b. 9 Feb 1904; Joseph, 5, in 1910; d. 14 Aug 1996, Bronx, NY. Note Josephine's FS birth date 21 Jul 1904 is only five months later - one date is likely wrong.",
+  "sources": [
+    "FS tree (notes/round2/italian_gaps.md 4)",
+    "1910 census"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Joseph Petrillo (b. 1904)",
+    "line": 11610
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

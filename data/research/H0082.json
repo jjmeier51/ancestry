@@ -1,0 +1,25 @@
+{
+  "id": "H0082",
+  "link": {
+    "confidence": "probable",
+    "note": "GEDBAS 53093."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 9th-great-grandfather; of Jettenbach.",
+  "bio": "Paul Jung of Jettenbach and his wife Maria Barbara were parents of Gretha Catharina Jung (d. 1734), wife of Johann Peter Grub.",
+  "sources": [
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191876"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Paul Jung (b. unknown)",
+    "line": 4781
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

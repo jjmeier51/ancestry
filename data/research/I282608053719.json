@@ -1,0 +1,65 @@
+{
+  "id": "I282608053719",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Harvey Book pp.370-371 names Noah as son of James and Elizabeth (Croup) Pringle and grandson of Samuel and Martha; 1850 census household."
+  },
+  "birth": {
+    "date": "ABT 1799",
+    "place": "Pennsylvania, USA"
+  },
+  "occupation": "Farmer",
+  "aka": [
+    "James Pringle 1.13 (tree label)"
+  ],
+  "tags": [],
+  "summary": "John's 4th-great-grandfather; Plymouth farmer, son of Samuel and Martha (Lamoreaux) Pringle, who married into the Palatine German Croup family.",
+  "bio": "James Pringle was born about 1799 in Pennsylvania (1850 census: 51, farmer, real estate $500, b. PA); the tree shows 1798-?, and a FamilySearch profile's '1799-1909' death is impossible (probably a merge). He was a son of Samuel Pringle and Martha Lamoreaux (Harvey Book pp.370-371, via his son Noah). He married Elizabeth Croup, daughter of Frederick Croup and Mary Young of Hunlock's Creek/Nanticoke. In 1850 the household in Plymouth Twp (dwelling 944/family 964, 14 Sep 1850) was James 51, Elizabeth 48, Alby 27, Noah 16, Andrew 14, Leva Ann 11 and Edwin 9; neighbours were Jenkins Jones (36, miner, Wales; dwelling 943) and Thomas Gould (39, farmer, $2,500; dwelling 945), with his probable sister-in-law the widow Hulda Pringle at dwelling 942. FamilySearch gives a second wife, Mary Steele (d. 15 Jul 1876), and burial in Scott Cemetery, Huntington Mills. He is not the runaway apprentice 'James Pringle', about 14, advertised by Isaac Smith of Exeter Twp on 9 Apr 1836, nor his uncle James Pringle who married Phebe Lamoreux in 1785.",
+  "residences": [
+    {
+      "date": "1850",
+      "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "James Pringle 1.13 1798-Deceased"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "KP7T-1HK"
+    },
+    {
+      "label": "Burial (FS)",
+      "value": "Scott Cemetery, Huntington Mills, Luzerne County"
+    }
+  ],
+  "sources": [
+    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
+    "Harvey Book pp.370-371: https://archive.org/details/harveybookgiving00harv",
+    "FamilySearch tree KP7T-1HK: https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
+    "Uploaded deep-dive report",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Death date and place (FS '1909' impossible).",
+    "Confirm second marriage to Mary Steele.",
+    "Full list of children (Lina Ann identity)."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "James Pringle (b. 1799)",
+    "line": 4036
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1798; research: ABT 1799."
+    }
+  ]
+}

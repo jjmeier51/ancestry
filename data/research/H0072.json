@@ -1,0 +1,36 @@
+{
+  "id": "H0072",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Jettenbach marriage record (WikiTree Christmann-662); her 1810 will names 'her son Frederick Krub'."
+  },
+  "sex": "F",
+  "aka": [
+    "Mary Elizabeth Grub",
+    "Maria Elisabetha Bittenbender"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 6th-great-grandmother, missing from his tree; wife of Andreas Grub, who remarried in Pennsylvania.",
+  "bio": "Maria Elisabetha Christmann was born 9 Aug 1729 at Kollweiler, daughter of the late Jacob Christmann, and married Johann Andreas Grub at Jettenbach on 19 Sep 1752. She emigrated with him in 1754. Widowed in 1792, she was co-executor with son Frederick, and later married widower Christopher Bittenbender. Her 1810 will names 'her son Frederick Krub'. She died 19 Jan 1815 and was buried at Easton Cemetery (Find a Grave 261051335). Not in John's tree (Round 1 correction 3h: add her).",
+  "sources": [
+    "WikiTree Christmann-662: https://www.wikitree.com/wiki/Christmann-662",
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
+    "Find a Grave 261051335: https://www.findagrave.com/memorial/261051335"
+  ],
+  "openQuestions": [
+    "Kollweiler baptism image."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Maria Elisabetha Christmann (b. 1729)",
+    "line": 4482
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

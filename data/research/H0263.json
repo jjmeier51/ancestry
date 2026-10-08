@@ -1,0 +1,38 @@
+{
+  "id": "H0263",
+  "link": {
+    "confidence": "probable",
+    "note": "Pelletreau App. p. 479; Ruttenber 1881."
+  },
+  "sex": "M",
+  "aka": [
+    "Capt. Austin Smith"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "Brother of Temperance Smith (John's 7th-great-grand-uncle); former captain of the Upper Clove militia company.",
+  "bio": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.",
+  "military": [
+    {
+      "branch": "Orange County, NY militia",
+      "rank": "Captain",
+      "unit": "Upper Clove Company"
+    }
+  ],
+  "sources": [
+    "Ruttenber & Clark (1881)",
+    "Pelletreau (1898) App. p. 479"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Collateral relatives (Keturah's uncles and siblings, Tuthill and Smith kin)",
+    "line": 8791
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

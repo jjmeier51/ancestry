@@ -1,0 +1,41 @@
+{
+  "id": "H0094",
+  "link": {
+    "confidence": "probable",
+    "note": "Compiled sources (Clute 1877 from family records; Semans & Broome); not named in any primary record found."
+  },
+  "sex": "M",
+  "aka": [
+    "Jean Mersereau",
+    "Captain Mersereau"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 10th-great-grandfather; Huguenot of Moëze, Saintonge, remembered as a saddler and captain of a pike company, and hero of the 'three friars' legend.",
+  "bio": "Clute's Annals of Staten Island (1877, pp.408-9), 'from family records and traditions', says Jean Mersereau was a law student turned saddler and captain of a pike company. Family tradition: he greeted three cloaked friars with 'Good evening, gentlemen' instead of 'fathers', saying he knew 'but one Father, who is in Heaven'; when they drew hidden sabres 'he killed one, wounded another, and the third fled'. He died before 1685; the widow and children fled to England in 1685 and, fearing James II, all but son Paul sailed for Philadelphia but were 'driven to New York by stress of weather' and settled on Staten Island. Moëze ('Moise'), a bourg on the marshes south of Rochefort near Brouage, is confirmed as the family home by the 1693 marriages. His father 'Josué, general of the Garde royale', the 'Fontenay-le-Comte' association and his WikiTree birthplace 'Rochefort' are unsupported.",
+  "residences": [
+    {
+      "date": "BEF 1685",
+      "place": "Moëze, Charente-Maritime, France"
+    }
+  ],
+  "sources": [
+    "Clute, Annals of Staten Island (1877), pp.408-9: https://archive.org/details/cu31924028834681",
+    "Semans & Broome",
+    "WikiTree Mersereau-31: https://www.wikitree.com/wiki/Mersereau-31",
+    "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu"
+  ],
+  "occupation": "Saddler; captain of a pike company (tradition)",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Jean Mersereau Sr. (b. unknown)",
+    "line": 5030
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

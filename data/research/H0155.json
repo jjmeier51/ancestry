@@ -1,0 +1,28 @@
+{
+  "id": "H0155",
+  "link": {
+    "confidence": "possible",
+    "note": "Speculative that he was Samuel's son."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Possibly John's 4th-great-grand-uncle (or a cousin); husband of Phoebe Davenport.",
+  "bio": "John Pringle married Phoebe Davenport (1799 - after 1873), daughter of Thomas and Charity (Lamoreaux) Davenport; nine children 1821-36: Thomas, Elizabeth, Clara, Liddie, William, Dennison, Charity D. (m. liveryman Andrew R. Worthington 1855), Stephen, Martha. Phebe Pringle's will: Plymouth, 1867, vol. D p.344. Whether John was Samuel's son or a nephew is speculative.",
+  "sources": [
+    "Bradsby pp.1483-84",
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.321-322",
+    "Wright p.387",
+    "Luzerne wills index P"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "John Pringle (b. unknown)",
+    "line": 6225
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

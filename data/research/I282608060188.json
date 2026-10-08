@@ -1,0 +1,80 @@
+{
+  "id": "I282608060188",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Baptism (FreeREG Tharston register), 1637 passenger list and Hingham records confirmed (Round 3). As John's ancestor, depends on the probable James→John link."
+  },
+  "birth": {
+    "date": "1612-06-28",
+    "place": "Tharston, Norfolk, England"
+  },
+  "death": {
+    "date": "BEF 1650-12-15",
+    "place": "Southold, Suffolk County, New York, USA"
+  },
+  "aka": [
+    "Henrye Tutthill"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 11th-great-grandfather; Norfolk emigrant of 1637 who went from Hingham, Massachusetts, to Southold.",
+  "bio": "Baptized 'Henrye Tutthill' 28 Jun 1612 at St Mary, Tharston, aged 5 when his father died in 1618. Sailed 1637 in the Mary Anne of Yarmouth (William Goose, master) as 'Henry Tuthill and wife, of Saxlingham, Norfolk' (Banks, Planters of the Commonwealth p. 183). Hingham, Mass.: planting lot 1635 (per Round 2/Akerly) and house lot 1637; freeman 1638; constable 1640; sold out 20 Jun 1644 and went to Southold. Died before 15 Dec 1650 (tree says 1644). His widow Bridget married William Wells. Akerly's suggestion that William Tuttle of New Haven (Planter, 1635) was Henry's brother William (bapt. Tharston 1609) is disproven: William of New Haven's son Thomas was baptized 4 Jan 1634 at Ringstead, Northamptonshire (FreeREG; Green, TAG 56:143; WikiTree Tuttle-29).",
+  "residences": [
+    {
+      "date": "1612",
+      "place": "Tharston, Norfolk, England"
+    },
+    {
+      "date": "1637",
+      "place": "Saxlingham, Norfolk, England"
+    },
+    {
+      "date": "BET 1637 AND 1644",
+      "place": "Hingham, Plymouth County, Massachusetts, USA"
+    },
+    {
+      "date": "1644",
+      "place": "Southold, Suffolk County, New York, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Emigration",
+      "date": "1637",
+      "place": "Great Yarmouth, Norfolk, England",
+      "description": "Mary Anne of Yarmouth, William Goose master."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Death 1644 (corrected: before 15 Dec 1650)"
+    }
+  ],
+  "sources": [
+    "FreeREG Tharston register; WikiTree Tuthill-7, https://www.wikitree.com/wiki/Tuthill-7",
+    "C. E. Banks, Planters of the Commonwealth p. 183, https://archive.org/details/plantersofcommon00bank/page/182/mode/2up",
+    "Akerly (1898)",
+    "McCurdy p16172",
+    "Uploaded deep-dive report corrections table"
+  ],
+  "openQuestions": [
+    "Planting lot 1635 vs arrival 1637 — reconcile."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 13 (11th-great-grandparents)",
+    "line": 7961
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 28 Jun 1616; research: 1612-06-28."
+    }
+  ]
+}

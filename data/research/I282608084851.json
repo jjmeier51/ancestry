@@ -1,0 +1,30 @@
+{
+  "id": "I282608084851",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; no Hohler anywhere in Baden in GEDBAS (hits in Bohemia, Hessen, Alsace/Thann); not in Dreisamtal database. Note tree birth 1752 makes her 18–19 at Johann's 1771 birth."
+  },
+  "tags": [],
+  "summary": "Tree-shown 6th great-grandmother of John; unverified.",
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Caecilia Hohler 1752–Dece…"
+    }
+  ],
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)",
+    "GEDBAS Hohler search https://gedbas.genealogy.net/search/simple?firstname=&lastname=Hohler&placename=&timelimit=none"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2386
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

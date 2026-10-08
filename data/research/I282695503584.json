@@ -1,0 +1,42 @@
+{
+  "id": "I282695503584",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Brother John listed in 2008 obituary; 1950 census at home aged 23."
+  },
+  "birth": {
+    "date": "1928",
+    "place": "Pennsylvania"
+  },
+  "tags": [],
+  "summary": "John's great-granduncle.",
+  "bio": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived).",
+  "residences": [
+    {
+      "date": "2008",
+      "place": "Pittsburgh, Allegheny County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "John 1928-Deceased"
+    }
+  ],
+  "sources": [
+    "Anthony R. Cognetti obituary (2008)",
+    "1950 census",
+    "Thanksgiving article 2016"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "John Cognetti (b. 1928)",
+    "line": 11425
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

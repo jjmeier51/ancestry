@@ -1,0 +1,102 @@
+{
+  "id": "I282695584117",
+  "link": {
+    "confidence": "probable",
+    "note": "Ulmet baptism and parents via WikiTree/FamilySearch (probable); burial and Tohickon baptism of a daughter confirmed; his fatherhood of John's Anna Maria is unproven."
+  },
+  "given": "Johann Casper",
+  "surname": "Doll",
+  "birth": {
+    "date": "1722-02-01",
+    "place": "Ulmet, Kusel, Rhineland-Palatinate, Germany"
+  },
+  "death": {
+    "date": "1793-02-04",
+    "place": "Plainfield Township, Northampton County, Pennsylvania, USA"
+  },
+  "occupation": "Farmer",
+  "aka": [
+    "Johann C. Doll, Captain (tree)",
+    "Casper Doll",
+    "Caspar Doll"
+  ],
+  "tags": [],
+  "summary": "John's 7th-great-grandfather per the tree (if the Doll link holds); Palatine immigrant of 1739 to Plainfield Township - NOT a Revolutionary captain, despite the tree.",
+  "bio": "Johann Casper Doll was baptized 1 Feb 1722 at Ulmet, Kusel district, son of Christoffel Doll (1671-1739) and Anna Sara Schuch (WikiTree Doll-527, FamilySearch N5BL-88G); his gravestone gives 2 Feb 1724 and the tree 1724-1793. WikiTree's API in Oct 2026 gave his birthplace as 'Oberland, Canton, Switzerland' (unsupported; Ulmet treated as probable). Round 3 corrected his arrival: 'Casper Doll, age 18' was on the ship Samuel (Hugh Percy), qualified at Philadelphia 27 Aug 1739 (Strassburger List 69 A; signature 'Caspar (X) Doll'), with Stoffel Doll 40, Philip Doll 27, 'Christ. Shook, 48' (Schuch) and Simon Drum - a group from Ulmet; the Samuel of 30 Aug 1737 (List 44), cited earlier, has no Casper. He married Anna Margaretha Dietz; a daughter Anna Catharine was baptized in 1757 at Tohickon Reformed Church, Bucks Co., to 'Casper Doll and Margaret [Dietz]'. He died 4 Feb 1793 and is buried at Plainfield Cemetery, Plainfield Twp (Wind Gap), Northampton Co. (Find a Grave 19353732). The tree calls him 'Johann C Doll Captain' with a 'FLAG OF THE AMERICAN REVOLUTION' profile image, but 'he is NOT known to have held the rank as captain. On his gravesite, there was erected in 1934 a monument or cenotaph to his nephew Casper Dull who served as a captain in the Revolutionary War'; that nephew, Capt. Casper Dull (1748-1829), is buried at McVeytown, Mifflin Co. His Find a Grave memorial merges the two. He was about 52 in 1776. No SAR patriot record for him was found (search not exhaustive); DAR unchecked.",
+  "residences": [
+    {
+      "date": "1722",
+      "place": "Ulmet, Kusel, Rhineland-Palatinate, Germany"
+    },
+    {
+      "date": "1757",
+      "place": "Tohickon, Bucks County, Pennsylvania, USA"
+    },
+    {
+      "date": "1793",
+      "place": "Plainfield Township, Northampton County, Pennsylvania, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Immigration",
+      "date": "1739-08-27",
+      "place": "Philadelphia, Pennsylvania, USA",
+      "description": "Ship Samuel, Hugh Percy master, age 18 (Strassburger List 69 A/C)."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Johann C Doll Captain 1724-1793 (Revolutionary flag image)"
+    },
+    {
+      "label": "Correction",
+      "value": "C. = Casper (not Conrad); not a captain; remove flag photo"
+    },
+    {
+      "label": "Find a Grave",
+      "value": "19353732"
+    },
+    {
+      "label": "FamilySearch",
+      "value": "N5BL-88G"
+    }
+  ],
+  "sources": [
+    "WikiTree Doll-527 (Johann Casper Doll; FamilySearch N5BL-88G): https://www.wikitree.com/wiki/Doll-527",
+    "WikiTree Doll-526: https://www.wikitree.com/wiki/Doll-526",
+    "Strassburger & Hinke, Pennsylvania German Pioneers vol. 1: https://archive.org/details/pennsylvaniagerm42stra List 69 A-C (1739) and List 44 (1737)",
+    "Find a Grave 19353732: https://www.findagrave.com/memorial/19353732",
+    "Find a Grave 21956570 (Capt. Casper Dull): https://www.findagrave.com/memorial/21956570",
+    "WikiTree Dietz-563: https://www.wikitree.com/wiki/Dietz-563",
+    "SAR P-149071 and P-150954 (other Doll/Dull patriots): https://sarpatriots.sar.org/patriot/display/149071 ; https://sarpatriots.sar.org/patriot/display/150954",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "mediaKnown": [
+    "Tree profile: 'FLAG OF THE AMERICAN REVOLUTION' image (belongs to nephew's cenotaph story; remove)"
+  ],
+  "openQuestions": [
+    "Prove Anna Maria (b. 1751) as his daughter.",
+    "Any patriotic service (oath of allegiance, supplies) for DAR."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Johann Casper Doll (b. 1722)",
+    "line": 4588
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Johann Caspar Doll Captain\"; research uses \"Johann Casper Doll\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 2 February 1724; research: 1722-02-01."
+    }
+  ]
+}

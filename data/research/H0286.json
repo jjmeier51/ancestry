@@ -1,0 +1,27 @@
+{
+  "id": "H0286",
+  "link": {
+    "confidence": "probable",
+    "note": "Per uploaded deep-dive report; the Brewster route (4C8R) is probably disproven."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Signer of the Declaration of Independence; John's 3rd cousin 8x removed via Bull Smith (formerly also 4C8R via Brewster — affected by the probable Brewster disproof).",
+  "bio": "His sister Ruth married Gen. Nathaniel Woodhull. A 'Charles A. Floyd' gave $1 to the Hauppauge church in 1816 — very likely the Smithtown-born congressman, but no source connects him to the Mastic Floyds.",
+  "sources": [
+    "Uploaded deep-dive report",
+    "Wood (1920) pp. 52–54",
+    "Wikipedia: Charles A. Floyd"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through Bull Smith (J = 12)",
+    "line": 9176
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

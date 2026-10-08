@@ -1,0 +1,95 @@
+{
+  "id": "I282608053698",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Bradsby (1893) biography; 1850 Kingston census in the Scott household; 1880 census as Andrew's wife; Addison's obituary names her."
+  },
+  "birth": {
+    "date": "1837-05-14",
+    "place": "Kingston, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1918-09-03",
+    "place": "Larksville, Luzerne County, Pennsylvania, USA"
+  },
+  "occupation": "Nurse",
+  "aka": [
+    "Katharine Pringle",
+    "Catharine Scott",
+    "Catherine Scott Pringle"
+  ],
+  "tags": [],
+  "summary": "John's 3rd-great-grandmother; a divorced working nurse of Plymouth who won her divorce and took back her maiden name - praised in 1893 as bearing 'a name beyond reproach'.",
+  "bio": "Catherine Scott was born at Kingston on 14 May 1837 (Bradsby), 'the third' of six living children of Stephen and Julia Ann Scott; FamilySearch (LHCS-RCM) gives 2 May 1838 and the tree 1836/1837. She was 14 in the 1850 Kingston census (3 Aug 1850). She married Andrew Pringle in 1857 and had seven children. She later sued for divorce - 'the action commenced by her and sustained by the court' - and resumed her maiden name, though she was 'better known by the name of Pringle than Scott'. By 1893 she was a working nurse in Plymouth, a member of the Christian Church, owned a house and lot, had raised her children, and Bradsby wrote that she 'has always had, and now bears, a name beyond reproach... carries on her business with marked ability'. He listed five living children: John (m. Regina Stires), Ellen (m. Francis Randell), Samuel, Orange and Estella - omitting Addison. In 1910 she lived with her son Orange at Larksville. FamilySearch gives her death as 3 Sep 1918 at Larksville, buried 6 Sep 1918 in the Dallas area; the tree shows 1910 as her death year (conflict; 1918 preferred, as she is in the 1910 census).",
+  "funFacts": [
+    "A divorced woman who reverted to her maiden name in the 19th century - rare at the time.",
+    "Bradsby's sketch is the only published biography of a direct Pringle-line woman."
+  ],
+  "residences": [
+    {
+      "date": "1850",
+      "place": "Kingston Township, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1880",
+      "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1893",
+      "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1910",
+      "place": "Larksville, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Catherine Scott 1836-1910"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "LHCS-RCM"
+    },
+    {
+      "label": "Religion",
+      "value": "Christian Church (Bradsby)"
+    },
+    {
+      "label": "Death date conflict",
+      "value": "Tree 1910 vs FamilySearch 3 Sep 1918 (preferred)"
+    }
+  ],
+  "sources": [
+    "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
+    "1850 census Kingston Twp, 3 Aug 1850, dwelling 262: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MH8/images/i/0/image.jpg",
+    "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X",
+    "FamilySearch tree LHCS-RCM",
+    "Find a Grave 139403232 (Addison's obituary)",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Confirm 1918 death (PA death certificate) and burial place near Dallas.",
+    "Divorce docket (Luzerne Prothonotary)."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Catherine Scott (b. 1837)",
+    "line": 3960
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1836; research: 1837-05-14."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Death in the Ancestry tree: 1910; research: 1918-09-03."
+    }
+  ]
+}

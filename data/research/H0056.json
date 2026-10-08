@@ -1,0 +1,25 @@
+{
+  "id": "H0056",
+  "link": {
+    "confidence": "possible",
+    "note": "PA death index only; not among Friedrich's known children."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Lead: died Hazleton 6 Jan 1913, six weeks before Frederick; possibly brother or son.",
+  "sources": [
+    "PA Death Index 1913 M–N–O p.174 https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1913/D-13%20M-N-O.pdf (file 2939)",
+    "notes/meier_mcguire.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3672
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

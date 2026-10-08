@@ -1,0 +1,60 @@
+{
+  "id": "I282695503435",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Sharon M. Petriello's father in the Ancestry tree; his marriage to Mary Cognetti is confirmed by Leo S. Cognetti's 2019 obituary (sister \"Mary Petriello (John)\"), and the 2024 obituary of John T. Petriello Jr. names the parents John and Mary Petriello and sibling \"Sharon Meier (Thomas)\". Parentage (James + Mollie) rests on the tree plus the Round 1/2 analysis that 'Mollie' is James's wife."
+  },
+  "given": "John T.",
+  "surname": "Petriello",
+  "birth": {
+    "date": "ABT 1933",
+    "place": "Wilkes-Barre, Luzerne, Pennsylvania, USA"
+  },
+  "tags": [],
+  "summary": "John's maternal grandfather; son of James Petriello and Carmela \"Mollie\" Gianetta of Dunmore/Scranton. The tree may show him as living; only what the files record is given here.",
+  "bio": "Ancestry tree: John T. Petriello, b. 1933, husband of Mary Cognetti (b. 1933), parents of Sharon M. Petriello (b. 1960). The tree lists his siblings as James and Ann Marie (1934). The tree originally showed his parents as James Petriello (1911-1998) + 'Mollie' (b. 1911); Round 1 established that Mollie is James's wife (John T.'s mother), not Mary Cognetti (the confusion arose because 'Mollie' is a pet form of Mary). Round 2 identified Mollie as Carmela Gianetta (1910-2000). Through his father he descends from Guardia Lombardi (Avellino) and through his mother from Bisaccia and Sant'Angelo dei Lombardi (Avellino), so he and the whole Petriello side are wholly Irpinian. The obituary of his son John T. Petriello Jr. (d. 29 Feb 2024) says John Jr. was the eldest of the three children of John and Mary Petriello, born and raised in Scranton. Living people were not researched beyond names already in the tree.",
+  "residences": [
+    {
+      "date": "ABT 1958",
+      "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Siblings (tree)",
+      "value": "James Petriello; Ann Marie Petriello (b. 1934)"
+    },
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "John T Petriello 1933-Living"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription (research/tree_transcription.md): John T. Petriello (b. 1933) + Mary Cognetti (b. 1933); siblings James, Ann Marie (1934)",
+    "Echovita obituary of Leo S. Cognetti (2019), sister listed as \"Mary Petriello (John)\": https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
+    "Montgomery News obituary of John T. Petriello Jr. (d. 29 Feb 2024): https://themontynews.org/single-post/john-t-petriello-jr-65",
+    "notes/italian.md section 2.3; notes/round2/italian_gaps.md sections 1 and 5"
+  ],
+  "mediaKnown": [
+    "Ancestry tree profile (screenshot transcription)"
+  ],
+  "openQuestions": [
+    "Exact birth date/place (not researched; possibly living per tree)",
+    "Obituary of John T. Jr. names a 'cousin Ann Marie' - the tree lists an Ann Marie (1934) as John T.'s sister; clarify whether these are different people"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "John T. Petriello (b. 1933)",
+    "line": 9940
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"John Thomas Petriello\"; research uses \"John T. Petriello\"."
+    }
+  ]
+}

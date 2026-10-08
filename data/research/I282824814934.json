@@ -1,0 +1,50 @@
+{
+  "id": "I282824814934",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Gaetano's mother in his 1876 death act (image read). Dates tree-only (identical to husband's - suspect)."
+  },
+  "given": "Felicita",
+  "surname": "Magnotta",
+  "death": {
+    "date": "1808",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "aka": [
+    "Felicia Magnotta"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's maternal 5th great-grandmother, of Guardia Lombardi.",
+  "bio": "Tree: 'Felicia' Magnotta (1760-1808); death act of son gives 'Felicita Magnotta'. Magnotta's #1 comune of US emigration is Guardia Lombardi (26 arrivals 1830-1912, paese.app).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Felicia Magnotta 1760-1808"
+    }
+  ],
+  "sources": [
+    "Antenati, Guardia, Morti 1876, act 20: https://antenati.cultura.gov.it/ark:/12657/an_ua524100/wbdvxng",
+    "paese.app Magnotta: https://paese.app/cognomi/magnotta",
+    "Ancestry tree transcription"
+  ],
+  "openQuestions": [
+    "Verify dates (parish records)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Felicita Magnotta (b. 1760)",
+    "line": 10743
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Felicia Magnotta\"; research uses \"Felicita Magnotta\"."
+    }
+  ]
+}

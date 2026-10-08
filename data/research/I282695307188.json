@@ -1,0 +1,71 @@
+{
+  "id": "I282695307188",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Bradsby's John F. Connole sketch names Thomas Connole and Honora Dwyre, natives of Ireland, emigrated 1848, with children John F., Mary (Mrs. Andrew Heffron) and Honora; Irish county speculative."
+  },
+  "birth": {
+    "date": "ABT 1815",
+    "place": "Ireland"
+  },
+  "death": {
+    "date": "1878",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+  },
+  "occupation": "Restaurant keeper, Plymouth",
+  "aka": [
+    "Thomas Connolly"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 4th-great-grandfather; Irish immigrant of 1848 who lived at Elmira, NY, then ran a restaurant in Plymouth.",
+  "bio": "Thomas Connole and his wife Honora Dwyre were 'natives of Ireland, who came to America in 1848, settling in the State of New York' (Bradsby 1893). Their children Mary (1850) and John F. (9 Mar 1853) were born at Elmira, and Honora 'Nora' in Plymouth Twp about 1855. FamilySearch gives him a birth in 1815 in 'County Clare' (from the Find a Grave index only - speculative; Connole is a north Clare surname, found mainly in Clare, Galway and Cork per John Grenham). He ran a restaurant in Plymouth, which John F. briefly managed after 1878. After Honora died (FamilySearch says at Elmira, speculative) he married Anastasia (Boney) Heffernan, widow of Richard Heffernan; this was after 1860, when she was still listed as Heffernan. He died in 1878 at Plymouth and was buried at St. Mary's, Hanover Twp. (FamilySearch). The family was not found in the full 1860 Elmira city census transcription.",
+  "residences": [
+    {
+      "date": "1848",
+      "place": "New York, USA"
+    },
+    {
+      "date": "BET 1850 AND 1853",
+      "place": "Elmira, Chemung County, New York, USA"
+    },
+    {
+      "date": "ABT 1855",
+      "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Thomas Connole 1815-1878"
+    },
+    {
+      "label": "Emigration",
+      "value": "1848 (Bradsby)"
+    }
+  ],
+  "sources": [
+    "Bradsby 1893, John F. Connole sketch p.~795: https://archive.org/details/historyofluzerne00brad",
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "FamilySearch tree (Thomas Connole, b. 1815 Co. Clare; Find a Grave index)",
+    "John Grenham surname search: https://www.johngrenham.com/findasurname.php?surname=Connole",
+    "WikiTree Connole-33: https://www.wikitree.com/wiki/Connole-33",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Irish county/parish of origin (Clare?) - Elmira Catholic registers, naturalization, his gravestone.",
+    "Date of marriage to Anastasia Boney Heffernan."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Connole (b. 1815)",
+    "line": 4175
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

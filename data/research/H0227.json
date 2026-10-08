@@ -1,0 +1,26 @@
+{
+  "id": "H0227",
+  "link": {
+    "confidence": "probable",
+    "note": "Compiled sources only (WikiTree getAncestors of Tuthill-530)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 9th-great-grandfather (via Rachel Browne), of Southold.",
+  "bio": "Of Southold. Given by WikiTree as father of Rachel Browne. 'My brother Joseph Brown' in John Tuthill III's 1740 will is probably his son. Round 3 lists the new ancestry as 'Browne/King, Salmon and Horton'.",
+  "sources": [
+    "WikiTree Tuthill-530 (getAncestors)",
+    "notes/round3/english_french_origins.md §2i"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 11 (9th-great-grandparents)",
+    "line": 7619
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

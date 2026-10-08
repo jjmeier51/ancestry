@@ -1,0 +1,38 @@
+{
+  "id": "I282695503587",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as sister in brothers' obituaries; 1950 census at home (age 28)."
+  },
+  "birth": {
+    "date": "1922",
+    "place": "Pennsylvania"
+  },
+  "aka": [
+    "Angeline Butchko"
+  ],
+  "tags": [],
+  "summary": "John's great-grandaunt.",
+  "bio": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Angeline 1922-Deceased"
+    }
+  ],
+  "sources": [
+    "Anthony R. and Joseph F. Cognetti obituaries",
+    "1950 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Angeline Cognetti (b. 1922)",
+    "line": 11386
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "I282824814921",
+  "link": {
+    "confidence": "unverified",
+    "note": "Not John's ancestor: the tree made her Grazia Di Marino's mother, but Grazia's 1916 death act names Caterina di Leo. A 1855 marriage index names her as mother of Concetta di Marino, so she was probably Gaetano's earlier wife (probable). Her own parents are tree-only."
+  },
+  "tags": [],
+  "summary": "Probably the first wife of John's 4th great-grandfather Gaetano di Marino; NOT John's ancestor (tree error corrected in Round 3).",
+  "bio": "Tree: Maria d'Ambrosio (Deceased), wife of Gaetano di Marino and mother of Grazia; parents Giuseppe D'Ambrosio (1761-1841) + Maddalena Gialanella (1764-1824). Round 2: conflict with FS (Caterina di Leo). Round 3: Grazia's death act confirms Caterina di Leo; marriage index 1855 #23 lists Giuseppe Petriello (son of Carmine and Maria Marra) marrying Concetta [di] Marino, daughter of Gaetano and Maria d'Ambrosio, 26 Dec 1855. Probable: Gaetano married first Maria d'Ambrosio, then Caterina di Leo. Her parents and the D'Ambrosio/Gialanella/Giordano/Di Vivo/Parisi pedigree are therefore not in John's direct line.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Maria d'Ambrosio (Deceased), shown as wife of Gaetano and mother of Grazia"
+    }
+  ],
+  "sources": [
+    "Antenati marriage index Guardia 1855 #23: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/wRvYlYY",
+    "Antenati, Guardia, Morti 1916, act 22: https://antenati.cultura.gov.it/ark:/12657/an_ua524131/wj7o8Qr",
+    "Ancestry tree transcription",
+    "notes/round3/italian_origins.md 1"
+  ],
+  "openQuestions": [
+    "Gaetano's first marriage act (pre-1855)",
+    "Her death (before Gaetano's second marriage)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Maria d'Ambrosio (b. unknown)",
+    "line": 11142
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

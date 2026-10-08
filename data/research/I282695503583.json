@@ -1,0 +1,64 @@
+{
+  "id": "I282695503583",
+  "link": {
+    "confidence": "confirmed",
+    "note": "2008 obituary; WWII draft card Q2Q2-NKPY; FS tree PW2S-1KJ."
+  },
+  "given": "Anthony R.",
+  "surname": "Cognetti",
+  "birth": {
+    "date": "1924-06-19",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "2008-09-19",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "occupation": "Ice-cream store (1950); politician",
+  "aka": [
+    "Anthony Ralph Cognetti",
+    "Tony Cognetti"
+  ],
+  "tags": [
+    "athlete",
+    "military",
+    "notable",
+    "politician"
+  ],
+  "summary": "John's great-granduncle; WWII Army veteran and president of Scranton City Council.",
+  "bio": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton.",
+  "notable": "President of Scranton City Council; president of the Scranton Red Sox collegiate baseball club (1970s)",
+  "military": [
+    {
+      "branch": "US Army",
+      "service": "WWII, from 1943-07-10"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Anthony 1924-Deceased"
+    }
+  ],
+  "sources": [
+    "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "Draft card Q2Q2-NKPY: https://familysearch.org/ark:/61903/1:1:Q2Q2-NKPY",
+    "FS tree PW2S-1KJ: https://ancestors.familysearch.org/en/PW2S-1KJ",
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Anthony R. Cognetti (b. 1924)",
+    "line": 11403
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Anthony Cognetti\"; research uses \"Anthony R. Cognetti\"."
+    }
+  ]
+}

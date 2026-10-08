@@ -1,0 +1,115 @@
+{
+  "id": "I282608055977",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 1 labelled him confirmed; Mehitable is his daughter by his second wife (Hayes 1878; WikiTree Wells-639). As John's ancestor he depends on the probable James Tuthill→John link. English origin unknown; the Norwich prebendary parentage is disproven."
+  },
+  "given": "William",
+  "surname": "Wells",
+  "birth": {
+    "date": "ABT 1608",
+    "place": "England"
+  },
+  "death": {
+    "date": "1671-11-13",
+    "place": "Southold, Suffolk County, New York, USA"
+  },
+  "occupation": "Lawyer; High Sheriff; councillor; justice of the peace",
+  "aka": [
+    "William Wells, Gent.",
+    "William Welles",
+    "William Wells, Firs… (tree)"
+  ],
+  "tags": [
+    "notable",
+    "politician"
+  ],
+  "summary": "John's 10th-great-grandfather; Southold founder, lawyer, first High Sheriff of Yorkshire (Long Island) and member of Gov. Nicolls's council.",
+  "bio": "Tombstone gives age 63 at death on 13 Nov 1671 (so born c.1608); tradition 'a native of Norwich, born 1608'. Hayes says he 'is said to have come from England June 19, 1635' with John Baylis; a 'William Wells, 17' on the Truelove in 1635 does not fit his age or legal training; a Richard Wells on the Globe 'for Virginia' 1635 is a different man (settled Salisbury, Mass.). At Southampton, 15 Mar 1643, 'William Wells, Gent., was censured for some unreverent speeches' to Daniel Howe. Southold's leading founder after Rev. John Youngs; its lawyer; council member; first High Sheriff of Yorkshire (the colonial county of Long Island, Staten Island and Westchester), 1664; sat on Gov. Nicolls's five-member council in 1664; justice of the peace; helped draft the Duke's Laws. Married (1) about 1650 Bridget, widow of Henry Tuthill, becoming guardian of her Tuthill children; (2) about 1654 Mary (surname unknown), mother of Mehitable (b. 1666). His will of 13 Nov 1671 left everything to 'my well beloved wife Mary Wells'. His tombstone in the old Southold burying ground was described by Pelletreau as possibly 'the oldest tombstone in Suffolk county'. TREE: parents 'Rev. William Wells to the Queen of Denmark' (1566–1620) and 'ANNE ELIZABETH Hunt Kimball ^ Welles, of St Albans, Immigrant' (1568–1646) — the prebendary's son William (bapt. 10 Feb 1604/5) became vicar of North Elmham and died in England in 1680, so this is disproven (Round 3); the mother is unsupported. Society of Colonial Wars: qualifies easily (council member, JP, sheriff) — the best colonial route, which also bypasses the James/Joshua confusion. Cousins via Wells: Anna Symmes Harrison (5C6R), Benjamin Harrison (7C4R).",
+  "notable": "First High Sheriff of Yorkshire (Long Island), 1664; Gov. Nicolls's council; helped draft the Duke's Laws.",
+  "funFacts": [
+    "Censured in 1643 for 'unreverent speeches'.",
+    "His gravestone may be the oldest in Suffolk County."
+  ],
+  "residences": [
+    {
+      "date": "1643",
+      "place": "Southampton, Suffolk County, New York, USA"
+    },
+    {
+      "date": "BET 1650 AND 1671",
+      "place": "Southold, Suffolk County, New York, USA"
+    }
+  ],
+  "events": [
+    {
+      "title": "Censure",
+      "date": "1643-03-15",
+      "place": "Southampton, Suffolk County, New York, USA",
+      "description": "Censured for 'unreverent speeches to Daniel Howe'."
+    },
+    {
+      "title": "High Sheriff",
+      "date": "1664",
+      "description": "First High Sheriff of Yorkshire; member of Gov. Nicolls's council."
+    },
+    {
+      "title": "Will and death",
+      "date": "1671-11-13",
+      "place": "Southold, Suffolk County, New York, USA",
+      "description": "Will left all to wife Mary."
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "William Wells, Firs… 1608–1671 + Mary Maria YOUNGS 1619–1709 (Union-flag image)"
+    },
+    {
+      "label": "Lineage society",
+      "value": "Society of Colonial Wars qualifying ancestor (council, JP, sheriff)"
+    }
+  ],
+  "sources": [
+    "Hayes, William Wells of Southold and his Descendants (1878), Ch. I and pp. 9–28, https://archive.org/details/williamwellsofso00byuhaye",
+    "Southold Town Records v1 pp. 302, 310",
+    "WikiTree Wells-639, https://www.wikitree.com/wiki/Wells-639",
+    "Clergy of the Church of England Database person 12847",
+    "Brooklyn Historical, https://longisland.brooklynhistory.org/stories/the-governors-letters-for-1665-66-67",
+    "McCurdy p16172",
+    "William Wells of Southold (1986), https://archive.org/details/williamwellsofso00well (unread, borrow-only)",
+    "Ohio SCW eligibility https://colonialwarsoh.org/membereligib.php; NSDCW https://www.nsdcw.org/eligibility-1"
+  ],
+  "mediaKnown": [
+    "Tombstone in old Southold burying ground (described, no image in files)",
+    "Tree card with Union-flag image"
+  ],
+  "openQuestions": [
+    "English origin and parents (unknown)."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 12 (10th-great-grandparents)",
+    "line": 7795
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry tree: parents shown for William Wells (unsupported per research)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608055977/ancestry-screenshot-img-7793.jpg"
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"William Wells, First Sheriff of New Yorkshire\"; research uses \"William Wells\"."
+    }
+  ]
+}

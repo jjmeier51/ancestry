@@ -1,0 +1,31 @@
+{
+  "id": "I282824815025",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; duplicated as Claudia Di Vivo's father too (error); detached from John's line."
+  },
+  "tags": [],
+  "summary": "Tree ancestor in the detached D'Ambrosio/Gialanella cluster; not John's ancestor.",
+  "bio": "Tree: Angelo A GIALANEL... (1677-Deceased) + Maddalena PARISI (1687-1756).",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Angelo A GIALANEL... 1677-Deceased"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "Round 1 report 3l"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Angelo A. Gialanella (b. 1677)",
+    "line": 11270
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

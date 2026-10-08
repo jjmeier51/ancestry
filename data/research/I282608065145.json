@@ -1,0 +1,40 @@
+{
+  "id": "I282608065145",
+  "link": {
+    "confidence": "unverified",
+    "note": "The tree (and an earlier screenshot version of the Bull Smith chart) shows 'Justice, A Smith 1649–1726' as father of James Smith (1688). The uploaded PDF corrects this to Job Smith (c.1647–c.1719) + Elizabeth Thompson; F. K. Smith gives 'James Smith (Job, Richard)'. Round 1 correction 3f: the PDF is right. Not John's ancestor."
+  },
+  "aka": [
+    "Justice Adam Smith",
+    "Justice, A Smith (tree)"
+  ],
+  "tags": [],
+  "summary": "Bull Smith's son Adam (b. 1649) — John's 9th-great-grand-uncle — wrongly shown in the tree as James Smith's father.",
+  "bio": "Bull Smith had a son Adam, b. 1649; William Hammond's will (1662) left 'Adam Smith, son of daughter, Sarah' a mare colt and £20 'if he behave obediently to my wife'. The tree's 'Justice A Smith' card carries a Smithtown 350th logo image and pairs him with Elizabeth Thompson 1657–1718. Preferred: Job Smith is James's father; Adam is a collateral uncle.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "'Justice, A Smith' 1649–1726 (Smithtown 350th logo) + Elizabeth Thompson 1657–1718; parents Maj R B Sm(y)ith 1613–1692 + Sarah F Hammond 1623–1708"
+    }
+  ],
+  "sources": [
+    "tree_transcription.md; Ancestry tree screenshots (section 2.2.2) (IMG_7792–7799)",
+    "Richard_Bull_Smith_Lineage.pdf",
+    "Hammond (1902) pp. 57–8",
+    "Round 1 correction 3f"
+  ],
+  "mediaKnown": [
+    "Tree card with Smithtown 350th logo"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8286
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

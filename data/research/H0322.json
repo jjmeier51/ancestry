@@ -1,0 +1,35 @@
+{
+  "id": "H0322",
+  "link": {
+    "confidence": "probable",
+    "note": "Hammond (1902)."
+  },
+  "sex": "M",
+  "tags": [
+    "military"
+  ],
+  "summary": "Illinois Congressman, colonel of the 8th Illinois Cavalry, brevet brigadier general; John's 6th cousin 6x removed via Hammond.",
+  "bio": "Path: Lt. John Hammond → Abigail (m. John Hastings) → John Hastings → Hannah (m. Lt. David Farnsworth, captured by Indians at No. 4 in 1757) → Samuel → John → John F. Samuel Farnsworth, drummer at Bunker Hill, is 4C8R.",
+  "military": [
+    {
+      "branch": "US Army (Union)",
+      "service": "Civil War",
+      "rank": "Colonel; brevet brigadier general",
+      "unit": "8th Illinois Cavalry"
+    }
+  ],
+  "sources": [
+    "Hammond (1902) vol. 1, https://archive.org/details/historygenealogi0001fred"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through William Hammond (J = 13)",
+    "line": 9790
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

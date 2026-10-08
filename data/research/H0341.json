@@ -1,0 +1,29 @@
+{
+  "id": "H0341",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as 'the late Francesco Giannetta' in son Savino's 1867 marriage act (image read)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's maternal 4th great-grandfather; earliest known Giannetta ancestor, of Bisaccia.",
+  "bio": "New generation found in Round 3. Dead by 20 Jul 1867 when his son Savino married (Bisaccia Matrimoni 1867 act 17). Wife Lucia Macchia(?) (reading uncertain). His grandson Frank was named Francesco after him.",
+  "sources": [
+    "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
+    "notes/round3/italian_origins.md 3"
+  ],
+  "openQuestions": [
+    "Death act (Bisaccia, before 1867)"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Francesco Giannetta (b. unknown)",
+    "line": 10578
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

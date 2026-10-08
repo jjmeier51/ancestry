@@ -1,0 +1,25 @@
+{
+  "id": "H0078",
+  "link": {
+    "confidence": "probable",
+    "note": "GEDBAS 53093."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 8th-great-grandmother; of the Jung family of Jettenbach.",
+  "bio": "Daughter of Paul Jung of Jettenbach and Maria Barbara; died at Jettenbach 28 Mar 1734. The Jettenbach Grubs married Jungs for generations.",
+  "sources": [
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), persons 1193191773, 1193191876: https://gedbas.genealogy.net/person/show/1193191773"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Gretha Catharina Jung (b. unknown)",
+    "line": 4711
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

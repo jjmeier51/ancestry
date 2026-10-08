@@ -1,0 +1,37 @@
+{
+  "id": "H0068",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as father, 'a miner living at Lickfin', in Thomas's 1808 Gortnahoe baptism (Dwyer's reading of the register). Marriage record not found."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 5th-great-grandfather; coal miner at Lickfinn in the Slieveardagh coalfield, Gortnahoe parish, Tipperary - earliest known Heffernan ancestor.",
+  "bio": "Humphrey Heffernan was a miner living at Lickfin (Lickfinn), parish of Gortnahoe, barony of Slieveardagh, Co. Tipperary, flourishing 1805-1817. He married Anastasia Ryan (record not found). Their children were Lawrence (c.1805-1842), Richard (bapt. 3 May 1806), Thomas (bapt. 10 Sep 1808), James (bapt. 1812), Humphrey (1815), William (1817) and Patrick; the parentage of Lawrence and Patrick is probable. Two sons, James and Patrick, were transported to New South Wales after the 1834 killing of Constable Feeney at Ballynonty. Added to the tree in Round 2 (replacing the tree's Patrick Heffernan/Catherine Neagle line).",
+  "residences": [
+    {
+      "date": "BET 1805 AND 1817",
+      "place": "Lickfinn, Gortnahoe, County Tipperary, Ireland"
+    }
+  ],
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "IrelandXO Gortnahoe message board: https://irelandxo.com/ireland/tipperary/gortnahoe-tipperary/message-board/information-heffernans-gortnahoe"
+  ],
+  "openQuestions": [
+    "Marriage to Anastasia Ryan and his own baptism - Gortnahoe/Killenaule registers (start c.1805?), registers.nli.ie.",
+    "Tithe Applotment / Griffith's for Lickfinn (askaboutireland.ie was blocked)."
+  ],
+  "occupation": "Coal miner",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Humphrey Heffernan (b. unknown)",
+    "line": 4219
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

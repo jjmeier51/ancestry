@@ -1,0 +1,26 @@
+{
+  "id": "H0057",
+  "link": {
+    "confidence": "possible",
+    "note": "Almanac death list and will index only."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Lead: William Meier, 45, died Wilkes-Barre 28 Jan 1912 — once suggested as Henry's brother; not among Friedrich's 11 known children, so unlikely.",
+  "sources": [
+    "Wilkes-Barre Record Almanac 1912 deaths K–M https://pagenweb.org/~luzerne/mixed/klm1912.htm",
+    "PAGenWeb wills M (Book 32 p.106) https://www.pagenweb.org/~luzerne/wills/will-m.htm",
+    "notes/meier_mcguire.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3686
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

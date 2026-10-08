@@ -1,0 +1,26 @@
+{
+  "id": "H0059",
+  "link": {
+    "confidence": "unverified",
+    "note": "Resolved as a different family (round 2)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Not kin: Harry J. Meier of Bear Creek Twp. (1950 census) — a New York-born family.",
+  "bio": "Salesman, 46, Laurel Run Road, Bear Creek Twp.; wife Margaret M. 42 (b. NY); children Elizabeth A. 5, Patricia Noel 4 (b. NY), Henry Joseph 3 (b. Pa). Arrived c.1946–47. Remove from candidates.",
+  "sources": [
+    "1950 census ED 40-18 image https://1950census.archives.gov/iiif/2/1950census%2F43290879-Pennsylvania%2F43290879-Pennsylvania-136016%2F43290879-Pennsylvania-136016-0023.jpg/full/2400,/0/default.jpg",
+    "notes/round2/meier_gaps.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3716
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "H0347",
+  "link": {
+    "confidence": "probable",
+    "note": "Identification of the Candy Hall of Fame inductee with Ralph's son Anthony (b. 14 Dec 1949) is probable; probably living, not researched further."
+  },
+  "sex": "M",
+  "tags": [
+    "notable"
+  ],
+  "summary": "Probably John's first cousin twice removed; Candy Hall of Fame 1996, president of D.C. Sales Co.",
+  "bio": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living.",
+  "notable": "Candy Hall of Fame 1996",
+  "sources": [
+    "Candy Hall of Fame: https://candyhalloffame.org/inductee/anthony-paul-cognetti",
+    "FS tree L6CN-7HV"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Anthony Paul Cognetti (b. 1949)",
+    "line": 11461
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "I282608084858",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; no Stephan in any Birkenmaier/-meier/-mayer GEDBAS file. WikiTree has Maria Birchenmayer (1698–1766) of Zarten, showing the name was local then."
+  },
+  "aka": [
+    "Stephan BIRKENM… (Ancestry tree)"
+  ],
+  "tags": [],
+  "summary": "Tree-shown 7th great-grandfather of John; unverified.",
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)",
+    "GEDBAS https://gedbas.genealogy.net/search/simple?firstname=Stephan&lastname=Birkenmaier&placename=&timelimit=none",
+    "WikiTree API Birchenmayer-2 https://api.wikitree.com/api.php?action=getProfile&key=Birchenmayer-2"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2477
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

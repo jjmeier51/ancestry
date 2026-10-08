@@ -1,0 +1,58 @@
+{
+  "id": "I282608064750",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named by Bradsby as Honora Dwyre, wife of Thomas Connole; son John F.'s obituary calls her 'Mary (Dwyer)'. Dates and father unverified."
+  },
+  "given": "Honora",
+  "surname": "Dwyer",
+  "birth": {
+    "date": "ABT 1825",
+    "place": "Ireland"
+  },
+  "aka": [
+    "Mary Honora Dwyre",
+    "Honora D. Cannole",
+    "Honora D. Connole",
+    "Mary (Dwyer) Connole"
+  ],
+  "tags": [
+    "immigrant"
+  ],
+  "summary": "John's 4th-great-grandmother; Irish-born wife of Thomas Connole and mother of Mary Connole Heffernan.",
+  "bio": "Honora Dwyre (Bradsby) or 'Mary (Dwyer)' (son John F. Connole's obituary) was born in Ireland about 1825 (FamilySearch; the tree shows 'Honora D Cannole 1828-Deceased'). She emigrated with Thomas Connole in 1848 and bore Mary (Elmira 1850), John F. (Elmira 1853) and Honora (Plymouth Twp c.1855). FamilySearch says she died at Elmira, NY, which would explain why Thomas remarried (speculative). The tree gives her father as Dennis Dwyer (1807-1875), not found online. Her Irish place of origin is unknown.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Honora D Cannole 1828-Deceased; father Dennis Dwyer 1807-1875"
+    }
+  ],
+  "sources": [
+    "Bradsby 1893 p.~795",
+    "Find a Grave 183145812 (John F. Connole obituary, 'Mary (Dwyer)'): https://www.findagrave.com/memorial/183145812/john_francis-connole",
+    "FamilySearch tree (Mary Honora Dwyre)",
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Death date/place (Elmira?) and Irish origin; prove Dennis Dwyer as father."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Honora Dwyer (b. 1825)",
+    "line": 4198
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Honora Dwyer Cannole\"; research uses \"Honora Dwyer\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Birth in the Ancestry tree: 1828; research: ABT 1825."
+    }
+  ]
+}

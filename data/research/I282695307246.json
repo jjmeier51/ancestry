@@ -1,0 +1,33 @@
+{
+  "id": "I282695307246",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only; no record found online. Probably Honora's brother or father (unproven); a father born 1807 for a daughter born c.1825 is barely possible."
+  },
+  "tags": [],
+  "summary": "Tree-only father of John's 4th-great-grandmother Honora Dwyer - unproven.",
+  "bio": "Tree shows Dennis Dwyer 1807-1875 as father of 'Honora D Cannole'. Not found online; possibly her brother.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Dennis Dwyer 1807-1875"
+    }
+  ],
+  "sources": [
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "openQuestions": [
+    "Find a Dennis Dwyer (1807-1875) burial/obituary in Plymouth or Elmira."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Dennis Dwyer (b. 1807)",
+    "line": 5265
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

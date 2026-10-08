@@ -1,0 +1,32 @@
+{
+  "id": "H0093",
+  "link": {
+    "confidence": "probable",
+    "note": "Named as Jeanne's mother (1696, confirmed); her membership of the Mersereau family of Moëze is 'probable, close to confirmed' (brother Daniel godfather 1689; his wife godmother 1693, 1696; Pierre witness at all three 1693 weddings). No document names her parents outright."
+  },
+  "sex": "F",
+  "aka": [
+    "Elisabet Mercereau",
+    "Elizabet merserau",
+    "Elizabeth Masse"
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandmother; Huguenot of the Mersereau family of Moëze, Saintonge, later famous on Staten Island.",
+  "bio": "Elisabet Mercereau was the wife of Pierre Masse, in New York by 1689. Her brother Daniel Mercereau was godfather to her son Daniel in 1689, and Daniel's wife Suzanne Marie Doucinet was godmother to her son Pierre (1693) and daughter Jeanne (1696). Her siblings Marie, Josué and Daniel, all 'de Moise en St. onge', married in New York in July-August 1693. Her parents were presumably Jean Mersereau Sr. and Elisabet Dubois.",
+  "sources": [
+    "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu",
+    "WikiTree Mersereau-32: https://www.wikitree.com/wiki/Mersereau-32",
+    "Semans & Broome, Broome, Latourette and Mercereau Families"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Elizabeth Mersereau (b. unknown)",
+    "line": 4993
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "H0148",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 1st cousin 5x removed.",
+  "bio": "Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle, married (1) a VanScoy and (2) in 1864 the widow Ellen C. (Fuller) Nesbitt (her will 1898 in the Luzerne wills index).",
+  "sources": [
+    "Harvey Book p.362",
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395)",
+    "Luzerne wills index P: https://pagenweb.org/~luzerne/wills/pwill.htm"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Jacob Gould Pringle (b. unknown)",
+    "line": 6108
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

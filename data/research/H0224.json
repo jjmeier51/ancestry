@@ -1,0 +1,55 @@
+{
+  "id": "H0224",
+  "link": {
+    "confidence": "probable",
+    "note": "The uploaded Bull Smith PDF, F. K. Smith (1967, 'James Smith (Job, Richard)') and Pelletreau all make Job son of Bull Smith and father of James; probable as an ancestor because Temperance's parentage is probable. The tree's 'Justice, A Smith' is superseded."
+  },
+  "sex": "M",
+  "aka": [
+    "Job Smith 1st"
+  ],
+  "tags": [],
+  "summary": "John's 9th-great-grandfather; son of Bull Smith, with a home lot at Nissequogue.",
+  "bio": "Lived with his brothers at Nissequogue, where the home lots ran Jonathan's, then Richard's, then 'the home lot of Job Smith' (Pelletreau Intro. pp. xii–xiii). His father's 1688 deed gave him 50 acres 'at the northeast branch, adjoining to the land in the occupation of Daniel Smith' (pp. 58–59); the Northeast Branch forms the north edge of Hauppauge Neck. His Nissequogue homestead descended to Job Smith 3d, 'and his son Woodhull Smith sold it' (pp. 330–331) — possibly the 'Woodhull Smith' who subscribed to the 1806 Hauppauge Methodist church fund (unproven). Children include James, Job 2d and Aaron (father of Abner Smith, 1734–1782). Through Job 2d's children Anna (wife of Ebenezer Smith) and Epenetus, Job's great-granddaughters became mistresses of the Hauppauge Smith estate, making Judge Joshua Smith and Sen. Joshua B. Smith John's 3C7R. Caveat: the Job-line cousin paths assume Elizabeth Thompson mothered both Job 2d and James. TREE vs PDF: tree shows James's father as 'Justice, A Smith' 1649–1726 (Smithtown 350th logo image); the uploaded PDF gives 'Job Smith + Elizabeth Thompson c. 1647–c. 1719 — 9th great-grandfather'. A 1649 birth matches Bull Smith's son Adam (b. 1649, named in William Hammond's will), so the tree likely attached the wrong son.",
+  "residences": [
+    {
+      "date": "1688",
+      "place": "Nissequogue, Smithtown, Suffolk County, New York, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Bull Smith PDF",
+      "value": "Generation 2: 'Job Smith + Elizabeth Thompson c. 1647–c. 1719 — 9th great-grandfather'"
+    },
+    {
+      "label": "Tree shows instead",
+      "value": "'Justice, A Smith' 1649–1726 (Justice Adam Smith)"
+    },
+    {
+      "label": "Land",
+      "value": "50 acres at the Northeast Branch, by 1688 deed from his father"
+    }
+  ],
+  "sources": [
+    "Pelletreau (1898) Intro. pp. xii–xiii; pp. 44–45, 58–59, 330–331; App. pp. 466, 472, 478, 480",
+    "F. K. Smith (1967) via jrm Needham",
+    "Richard_Bull_Smith_Lineage.pdf",
+    "Uploaded Hauppauge report",
+    "Round 1 correction 3f"
+  ],
+  "openQuestions": [
+    "Exact birth/death dates; whether Elizabeth Thompson was mother of all his children."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 11 (9th-great-grandparents)",
+    "line": 7498
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

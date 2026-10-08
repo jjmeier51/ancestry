@@ -1,0 +1,85 @@
+{
+  "id": "I282608055634",
+  "link": {
+    "confidence": "probable",
+    "note": "Alva Tuttle (1968) p. 311 calls her 'da Jas & Jerusha (TOPPING) SMITH'; Pelletreau (1898, App. p. 479) lists a Temperance among James & Jerusha's children; naming pattern (Keturah, Ezekiel, James) fits; the rival candidate (Ebenezer & Anna Smith's Temperance) is ruled out because that Temperance married Jonas Platt and died his widow in 1813. No record names Temperance Tuttle's father outright. Birthplace Moriches is inferred (James 'settled in Moriches')."
+  },
+  "given": "Temperance",
+  "surname": "Smith",
+  "birth": {
+    "date": "ABT 1735",
+    "place": "Moriches, Brookhaven, Suffolk County, New York, USA"
+  },
+  "death": {
+    "date": "ABT 1780",
+    "place": "Orange County, New York, USA"
+  },
+  "aka": [
+    "Temperance Tuttle",
+    "Temperance Tuthill",
+    "T. Smith",
+    "* T SMITH"
+  ],
+  "tags": [],
+  "summary": "John's 7th-great-grandmother, mother of Keturah Tuttle; a granddaughter of Job Smith and great-granddaughter of Richard 'Bull' Smith, founder of Smithtown.",
+  "bio": "Temperance is the link that carries the whole Smith, Thompson, Topping, Hammond and Paine ancestry. Pelletreau's appendix (p. 479) says James Smith 'settled in Moriches' and married Jerusha Topping, and lists their children as Matthew (b. 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah. Temperance Tuttle named her eldest known daughter Keturah (after her sister) and a son Ezekiel (after her brother); Keturah in turn named children James (1774), Temperance (1778) and Keturah (1791). Two of her brothers, Capt. Francis Smith and Capt. Austin Smith, commanded the Woodbury Clove and Upper Clove militia companies in Orange County in 1775–76, with her son-in-law Thomas Lamoreaux as ensign under Francis. Earlier research had a rival candidate: Ebenezer Smith (son of Richard 2d) whose will of 25 Jul 1747 (proved 7 Jan 1747 O.S.; Pelletreau p. 46) left £100 each to 'my daughters Temperance Anna and Hannah' when 21, with wife Anna daughter of Job Smith 2d (p. 472). Pelletreau's appendix (pp. 465, 475) says twice that this Temperance married Jonas Platt and died 12 Mar 1813 his widow, so she cannot be Mrs. Tuttle; that candidacy is closed. Job Smith 2d's daughter Temperance (b. 1714) is about 20 years too early. A chronology question was raised (Jerusha's father 'died in 1705') and resolved in Round 1: Jerusha's father was the younger Elnathan Topping (1664–1751), not Capt. Elnathan (d. 1705). No grave found. A full-text search of Pelletreau found no Tuthill/Tuttle tied to her.",
+  "residences": [
+    {
+      "date": "ABT 1735",
+      "place": "Moriches, Brookhaven, Suffolk County, New York, USA"
+    },
+    {
+      "date": "BEF 1755",
+      "place": "Woodbury Clove, Orange County, New York, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "'* T SMITH' 1735–1780; parents James F Smith 1688–1740 + JERUSHA TOPPING 1698–1760"
+    },
+    {
+      "label": "Bull Smith PDF",
+      "value": "Generation 4 'Temperance Smith + Capt. John Tuttle 1735–1780'"
+    },
+    {
+      "label": "Alva Tuttle death",
+      "value": "d ~1780"
+    },
+    {
+      "label": "Birth estimate (Hauppauge/deep-dive reports)",
+      "value": "about 1732–35"
+    }
+  ],
+  "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968) p. 311, via WikiTree Smith-141655 and Tuthill-364",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), App. pp. 465, 472, 475, 478, 479; p. 46, https://archive.org/details/recordsoftownofs00smitrich",
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), as quoted on jrm Needham I2549, https://jrm.phys.ksu.edu/Genealogy/Needham/d0001/I2549.html",
+    "Ruttenber & Clark (1881), https://archive.org/details/historyoforangec00rut",
+    "Uploaded 'Family ties to Hauppauge' report, section 'A Platt marriage rules out Ebenezer'",
+    "Uploaded deep-dive report, 'New evidence from Pelletreau' section",
+    "Round 2 report §3d; Round 3 report §4 (unchanged probable); notes/round3/english_french_origins.md status change 8"
+  ],
+  "mediaKnown": [
+    "Ancestry tree card '* T SMITH 1735–1780'"
+  ],
+  "openQuestions": [
+    "F. K. Smith (1967) entry under James Smith of Moriches: does it name Temperance as Mrs. John Tuthill?",
+    "Any Brookhaven/Smithtown church record of the 1752 marriage."
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 9 (7th-great-grandparents)",
+    "line": 7385
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"* Temperance SMITH\"; research uses \"Temperance Smith\"."
+    }
+  ]
+}

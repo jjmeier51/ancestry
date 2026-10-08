@@ -1,0 +1,31 @@
+{
+  "id": "H0100",
+  "link": {
+    "confidence": "possible",
+    "note": "Named as father of Daniel in a 1656 Cozes godparent entry; rated probable/speculative."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 11th-great-grandfather; earliest known Lamoureux, of Cozes, Saintonge (fl. before 1656).",
+  "bio": "In 1656 'Daniel Lamoureux, son of Jean Lamoureux' stood godparent at Cozes.",
+  "facts": [
+    {
+      "label": "Disambiguation",
+      "value": "of Cozes"
+    }
+  ],
+  "sources": [
+    "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Jean Lamoureux (b. unknown)",
+    "line": 5137
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

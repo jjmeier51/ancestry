@@ -1,0 +1,37 @@
+{
+  "id": "H0092",
+  "link": {
+    "confidence": "confirmed",
+    "note": "New York French Church baptisms of his children (1689, 1693, 1696) and his signatures at the 1693 Mersereau weddings; his origin at Moëze is probable and his parents speculative."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 9th-great-grandfather; Huguenot refugee in New York by 1689, probably from Moëze, Saintonge.",
+  "bio": "Pierre Masse was in New York with his wife Elisabet Mercereau by spring 1689. Children baptized at the French Church: Daniel, 5 May [1689] (godfather Daniel Mercereau; godmother Marie Pare, wife of Ezéchiel Grazilier); Pierre, 25 Jun 1693 (godparents Jean La Tourette and Marie Suzanne Doucinet); Jeanne, b. 22 May, bapt. 5 Jul 1696. He witnessed all three Mersereau weddings of July-Aug 1693. An Elie Masse who signed beside him in 1693 was probably a brother (speculative). D. K. Martin (2008, pp.40-44) and WikiTree Masse-21 place his origin at Moëze, Saintonge (probable); he fled with the Mersereaus. His marriage date '29 Apr 1681' is not seen in a primary source (speculative). WikiTree's 'Daniel Masse of Moëze (1616-1675)' as his father is unsourced (speculative). Several later Masse families in the NY French register (e.g. Daniel Masse & Ester Fourret, 1700s) are not shown to be related.",
+  "residences": [
+    {
+      "date": "1689",
+      "place": "New York City, New York, USA"
+    }
+  ],
+  "sources": [
+    "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu",
+    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
+    "WikiTree Masse-21: https://www.wikitree.com/wiki/Masse-21",
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+  ],
+  "openQuestions": [
+    "Moëze/Brouage/Hiers Protestant registers for his baptism and the 1681 marriage."
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Pierre Masse (b. unknown)",
+    "line": 4975
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

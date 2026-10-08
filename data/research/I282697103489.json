@@ -1,0 +1,33 @@
+{
+  "id": "I282697103489",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only (with record-image thumbnail); unsourced birth year."
+  },
+  "tags": [],
+  "summary": "John's maternal 5th great-grandmother per the tree; mother of Domenica Malvaso.",
+  "bio": "Tree: Catarina Croce (b. 1742), wife of Nicola Malvaso. Not researched.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Catarina Croce 1742-Deceased (record images)"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription"
+  ],
+  "mediaKnown": [
+    "Ancestry record-image thumbnails"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Catarina Croce (b. 1742)",
+    "line": 10782
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

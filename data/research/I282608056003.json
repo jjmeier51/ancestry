@@ -1,0 +1,72 @@
+{
+  "id": "I282608056003",
+  "link": {
+    "confidence": "probable",
+    "note": "Second wife of William Wells and mother of Mehitable; her surname is unknown. The tree's 'Youngs' maiden name and descent from Rev. John Youngs are rejected by Hayes (1878) and Youngs (1907)."
+  },
+  "given": "Mary",
+  "surname": "YOUNGS",
+  "death": {
+    "date": "AFT 1678-12-26",
+    "place": "Southold, Suffolk, New York, United States"
+  },
+  "aka": [
+    "Mary Wells",
+    "Mary Mapes",
+    "Mary Maria YOUNGS (tree)",
+    "Mary Youngs (tradition)",
+    "surname unknown"
+  ],
+  "tags": [],
+  "summary": "John's 10th-great-grandmother; William Wells's second wife, later Mrs. Mapes; maiden name unknown.",
+  "bio": "Hayes (1878, pp. 27–28): Wells married about 1654 'Mary… whose family name is said to be Youngs', adding 'Thus far I have found nothing to throw any light on the question'; she 'can hardly have been' Rev. John Youngs's sister (who married William Browne of Salem), nor his daughter Mary (b. 1631) who 'more prob. m. Edward Petty'. Her own will of 26 Dec 1678, as 'Mary Mapes … relict of William Wells', names 'my son-in-law John Youngs, in right of his wife … Mary Youngs, his wife, my daughter' — the Youngs connection came through a daughter, not the mother (as Hayes guessed). Tree: 'Mary Maria YOUNGS 1619–1709', father 'John E M o Yonges' 1598–1671.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Mary Maria YOUNGS 1619–1709"
+    }
+  ],
+  "sources": [
+    "Hayes (1878) pp. 27–28",
+    "Youngs, Youngs Family (1907), https://archive.org/details/youngsfamilyvica00youn",
+    "Southold Town Records v1; WikiTree Wells-639",
+    "Round 1 correction 3b"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Generation 12 (10th-great-grandparents)",
+    "line": 7821
+  },
+  "media": [
+    {
+      "type": "document",
+      "title": "Ancestry tree: Youngs / Horne pedigree (unproven per research) (1 of 2)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608056003/ancestry-screenshot-img-7795.jpg"
+    },
+    {
+      "type": "document",
+      "title": "Ancestry tree: Youngs / Horne pedigree (unproven per research) (2 of 2)",
+      "date": "2026-10",
+      "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+      "note": "",
+      "file": "media/I282608056003/ancestry-screenshot-img-7796.jpg"
+    }
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Mary Maria YOUNGS\"; research uses \"Mary\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Death in the Ancestry tree: 1 Apr 1709; research: AFT 1678-12-26."
+    }
+  ]
+}

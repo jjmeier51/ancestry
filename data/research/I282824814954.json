@@ -1,0 +1,34 @@
+{
+  "id": "I282824814954",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only, and now detached from John's direct line (his daughter Maria d'Ambrosio is not Grazia Di Marino's mother)."
+  },
+  "aka": [
+    "Guiseppe D'Ambrosio"
+  ],
+  "tags": [],
+  "summary": "Tree's father of Maria d'Ambrosio; not John's ancestor after the Round 3 correction.",
+  "bio": "Tree: Guiseppe D'Ambrosio (1761-1841) + Maddalena Gialanella (1764-1824). Not researched in records.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Guiseppe D'Ambrosio 1761-1841"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/round3/italian_origins.md 1"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Giuseppe D'Ambrosio (b. 1761)",
+    "line": 11160
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

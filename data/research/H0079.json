@@ -1,0 +1,32 @@
+{
+  "id": "H0079",
+  "link": {
+    "confidence": "probable",
+    "note": "GEDBAS 53093."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 8th-great-grandfather; blacksmith of Jettenbach.",
+  "bio": "Abraham Lampert was the smith (Schmied) of Jettenbach, father of Elisabetha Margaretha (b. 1702).",
+  "residences": [
+    {
+      "date": "1702",
+      "place": "Jettenbach, Kusel, Rhineland-Palatinate, Germany"
+    }
+  ],
+  "sources": [
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193192332: https://gedbas.genealogy.net/person/show/1193192332"
+  ],
+  "occupation": "Smith (Schmied)",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Abraham Lampert (b. unknown)",
+    "line": 4729
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

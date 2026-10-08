@@ -1,0 +1,34 @@
+{
+  "id": "H0348",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Obituary names parents and surviving siblings 'Sharon Meier (Thomas)' and Paul."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's maternal uncle; Merrill Lynch financial advisor whose obituary independently confirms John's mother's family.",
+  "bio": "Eldest of the three children of John and Mary Petriello, born and raised in Scranton. Merrill Lynch financial advisor for 30 years; lived in Mendham, NJ, then Princeton. Died 29 Feb 2024 aged 65. Obituary names surviving siblings 'Sharon Meier (Thomas)' and Paul, and a cousin Ann Marie.",
+  "residences": [
+    {
+      "place": "Mendham, Morris County, New Jersey, USA"
+    },
+    {
+      "place": "Princeton, Mercer County, New Jersey, USA"
+    }
+  ],
+  "sources": [
+    "Montgomery News obituary: https://themontynews.org/single-post/john-t-petriello-jr-65"
+  ],
+  "occupation": "Financial advisor, Merrill Lynch (30 years)",
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "John T. Petriello Jr. (b. 1958)",
+    "line": 11507
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

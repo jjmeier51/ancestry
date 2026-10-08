@@ -1,0 +1,27 @@
+{
+  "id": "H0196",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Probably John's 2nd cousin 9x removed; ran the Mersereau spy ring for Washington.",
+  "bio": "Joshua Mersereau (1728-1804), via Jean Sr. -> Joshua (1658) -> Joshua (1696) -> Joshua. Ran the Mersereau spy ring (Staten Island) for Washington; Deputy Commissary of Prisoners; NY Assembly. Brothers Jacob (1730) and John/Johannes (1731) were ring members (2C9R); sons John LaGrange Mersereau (worked behind British lines on Staten Island) and Joshua III were spies (3C8R).",
+  "sources": [
+    "WikiTree Mersereau-1: https://www.wikitree.com/wiki/Mersereau-1",
+    "Wikipedia, Mersereau Ring: https://en.wikipedia.org/wiki/Mersereau_Ring",
+    "NPS"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Joshua Mersereau (b. 1728)",
+    "line": 6910
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

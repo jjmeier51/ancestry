@@ -1,0 +1,45 @@
+{
+  "id": "I282695502853",
+  "link": {
+    "confidence": "possible",
+    "note": "GEDBAS confirms a Mathias Haizler × Ottilia Schirk at the Wehrlehof, Oberried-Vörlinsbach, 1723–24 (children Christian and Eva, 1724); tree's first name 'Martinus' should be Mathias; 1728 deaths unsupported; that they were Jacob Heitzler's parents is unproven (Round 3: Schirk link speculative)."
+  },
+  "aka": [
+    "Mathias Haizler (Dreisamtal database)",
+    "Martin(us) HEITZLER (Ancestry tree)"
+  ],
+  "tags": [],
+  "summary": "Possible 7th great-grandfather of John; Wehrlehof farmer (correct name Mathias Haizler).",
+  "bio": "The tree's 'Martinus Heitzler + Othilia Schirk, both d. 1728' corresponds to Mathias Haizler and Ottilia Schirk, who lived at the Wehrlehof in Oberried-Vörlinsbach in 1723–24, where children Christian and Eva were born in 1724 (GEDBAS 1262183134/1262183135). The later Wehrlehof Heitzlers (Andreas b. c.1710 × Ottilia Maier; Andreas b. 1731 × Magdalena Maier; Joseph × Maria Rombach) had 'grown poor' and lived in the farm's Stöckle. Correct 'Martinus' to Mathias.",
+  "residences": [
+    {
+      "date": "1723",
+      "place": "Wehrlehof, Vörlinsbach, Oberried, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tree says",
+      "value": "Martin(us) HEITZLER… 1699–1728; father Andreas Haizler He… 1665–."
+    }
+  ],
+  "sources": [
+    "GEDBAS 1262183134 https://gedbas.genealogy.net/person/show/1262183134 ; 1262183135 https://gedbas.genealogy.net/person/show/1262183135",
+    "Ancestry tree screenshots (section 2.2.2)",
+    "deep-dive corrections table; notes/round2/black_forest.md"
+  ],
+  "openQuestions": [
+    "Is Jacob Heitzler (c.1740) his son? Tree's 1728 death conflicts with a c.1740 child."
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2527
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

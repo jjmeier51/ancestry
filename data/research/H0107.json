@@ -1,0 +1,26 @@
+{
+  "id": "H0107",
+  "link": {
+    "confidence": "probable",
+    "note": "1910 census household listing as cited by Dwyer; no individual records examined."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
+  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1901, listed in the 1910 census (Plymouth/Larksville) household. No further research done.",
+  "sources": [
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
+    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Anna Theresa Pringle (b. 1901)",
+    "line": 5385
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

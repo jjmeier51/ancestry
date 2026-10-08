@@ -1,0 +1,25 @@
+{
+  "id": "I282695503089",
+  "link": {
+    "confidence": "possible",
+    "note": "Dates match GEDBAS 1444212308 and the tree exactly; joins to Johnny unconfirmed."
+  },
+  "tags": [],
+  "summary": "Possible 9th great-grandmother of John.",
+  "sources": [
+    "GEDBAS 1444212308 https://gedbas.genealogy.net/person/show/1444212308",
+    "Ancestry tree screenshots (section 2.2.2)",
+    "deep-dive report"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Direct ancestors",
+    "line": 2732
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

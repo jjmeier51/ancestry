@@ -1,0 +1,37 @@
+{
+  "id": "I282608083460",
+  "link": {
+    "confidence": "unverified",
+    "note": "Removed with Josiah Topping (Round 1 correction 3a). The whole Sayre branch comes off; Sayre cousins (Stephen Sayre, Francis B. Sayre) are not kin."
+  },
+  "aka": [
+    "Hannah Topping"
+  ],
+  "tags": [],
+  "summary": "Removed: the tree's wrong mother for Jerusha Topping.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Hannah Sayre 1668–1741"
+    }
+  ],
+  "sources": [
+    "Banks (1901)",
+    "Round 1 correction 3a"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8375
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Handoff gives parents Daniel Sayre (b. unknown), Hannah Foster (b. unknown) but the link is only \"unverified\", so the tree was not changed."
+    }
+  ]
+}

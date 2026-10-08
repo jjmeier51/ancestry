@@ -1,0 +1,30 @@
+{
+  "id": "H0323",
+  "link": {
+    "confidence": "probable",
+    "note": "Hammond (1902)."
+  },
+  "sex": "M",
+  "aka": [
+    "S. D. Warren"
+  ],
+  "tags": [],
+  "summary": "Founder of the S. D. Warren paper company (Westbrook, ME); John's 6th cousin 6x removed via Hammond.",
+  "bio": "Path: Lt. John Hammond → Abigail Hastings → Abigail Hastings (m. John Warren) → Samuel Warren (1704) → Joseph (1745) → John (m. Susanna Grout) → S. D. Children (all 7C5R): Samuel D. Warren II (1852–1910), co-author with Louis Brandeis of 'The Right to Privacy' (1890); Edward Perry Warren (1860–1928), art collector (the Warren Cup), who commissioned Rodin's The Kiss (Lewes version); Henry Clarke Warren (1854–1899), Pali/Buddhism scholar (Buddhism in Translations); Fiske Warren, single-tax utopian; Cornelia Warren, philanthropist.",
+  "sources": [
+    "Hammond (1902)",
+    "Wikipedia, https://en.wikipedia.org/wiki/Samuel_Dennis_Warren",
+    "Wikipedia, https://en.wikipedia.org/wiki/Edward_Perry_Warren"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Notable cousins through William Hammond (J = 13)",
+    "line": 9806
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

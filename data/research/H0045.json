@@ -1,0 +1,26 @@
+{
+  "id": "H0045",
+  "link": {
+    "confidence": "unverified",
+    "note": "Ruled out in round 3: Servatius's wife was Agatha Heizler b. 26 Jun 1813 Munzingen. This woman's 1855 marriage records no earlier husband."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "The competing 'Maria Anna Heitzler 1813' of Unteribental — NOT John's 4th great-grandmother.",
+  "bio": "Schoolteacher's daughter; married the widower J. G. Gremmelspacher at Kirchzarten 23 Oct 1855 (he remarried 1863, so she died before 1863). The deep-dive had proposed she was Servatius's widow; disproven.",
+  "sources": [
+    "GEDBAS 1420126661 https://gedbas.genealogy.net/person/show/1420126661 ; 1420126660 https://gedbas.genealogy.net/person/show/1420126660",
+    "deep-dive report; notes/round2/black_forest.md; notes/round3/german_origins.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 3466
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

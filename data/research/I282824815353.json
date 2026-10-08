@@ -1,0 +1,34 @@
+{
+  "id": "I282824815353",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree only and contradicted: Carmine Fiorillo's 1860 death act names his mother Vittoria Marrelli/Morelli, not Maria. Morrello is absent from San Mango's 1674-1804 stati delle anime. Do not treat as an ancestor until proven."
+  },
+  "tags": [],
+  "summary": "Tree's mother of Carmine Fiorillo; superseded by Vittoria Marrelli (confirmed). Possibly a garbled or mis-attached version of her.",
+  "bio": "Tree: Maria Morrello (1786-1846), wife of Domenico G. Fiorillo; parents Vincenzo Morrello M... (1759-1836) + Ippolita Guercio N... (1761-1831). Round 2: Morrello/Morello has 0 entries in San Mango's stati 1674-1804, including fuzzy spellings, and the couple would have been listed in 1800/1804. Round 3: Carmine's death act gives 'Vittoria Marrelli/Morelli'. The whole Morrello/Guercio/Chiarello pedigree above her is flagged unsupported.",
+  "facts": [
+    {
+      "label": "Tree display (IMG_7830-7840)",
+      "value": "Maria Morrello 1786-1846"
+    }
+  ],
+  "sources": [
+    "Ancestry tree transcription",
+    "notes/round2/italian_gaps.md 7; notes/round3/italian_origins.md 5"
+  ],
+  "openQuestions": [
+    "Is she the same person as Vittoria Marrelli (different given name), or a mis-attachment from another family's tree?"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Maria Morrello (b. 1786)",
+    "line": 10840
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

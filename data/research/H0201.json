@@ -1,0 +1,25 @@
+{
+  "id": "H0201",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's 5th-great-grand-uncle.",
+  "bio": "John Grub (c.1765 - after 1826), Forks Twp farmer who inherited jointly with Frederick (1800 deed).",
+  "sources": [
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "John Grub (b. 1765)",
+    "line": 6992
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

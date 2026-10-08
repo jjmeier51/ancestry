@@ -1,0 +1,36 @@
+{
+  "id": "I282695583896",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree-only; the only Deborah Satterly found was born c.1705 — too late to be Hannah's (b. 1699) mother (McCurdy p12609). Not John's ancestor."
+  },
+  "aka": [
+    "Deborah H Satterly (tree)"
+  ],
+  "tags": [],
+  "summary": "Tree-only; not John's ancestor.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Deborah H Satterly 1676–1754 (gravestone image)"
+    }
+  ],
+  "sources": [
+    "McCurdy p12609",
+    "Uploaded deep-dive report"
+  ],
+  "mediaKnown": [
+    "Tree gravestone image"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8509
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

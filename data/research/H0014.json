@@ -1,0 +1,28 @@
+{
+  "id": "H0014",
+  "link": {
+    "confidence": "confirmed",
+    "note": "In 1910, 1920 and 1940 census images (bookkeeper 1920, 1940); dates from FS tree."
+  },
+  "sex": "F",
+  "tags": [],
+  "summary": "John's 2nd great-aunt; sister of William F. Meier.",
+  "bio": "Born 29 Jan 1897 in Wilkes-Barre; bookkeeper in 1920 and 1940; living with her parents at 16 Barney St in 1940, aged 42.",
+  "sources": [
+    "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
+    "1910, 1920, 1940 census images",
+    "notes/round3/meier_line.md"
+  ],
+  "occupation": "Bookkeeper",
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 2835
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

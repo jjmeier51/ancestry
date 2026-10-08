@@ -1,0 +1,27 @@
+{
+  "id": "H0343",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Named as Angelamaria's father in the 1867 Bisaccia marriage act (image read)."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "John's maternal 4th great-grandfather; a pecoraio (shepherd) of Bisaccia.",
+  "bio": "Father of Angelamaria Fede; occupation pecoraio (shepherd), per Bisaccia Matrimoni 1867 act 17.",
+  "sources": [
+    "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
+    "notes/round3/italian_origins.md 3"
+  ],
+  "occupation": "Pecoraio (shepherd)",
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Bartolomeo Fede (b. unknown)",
+    "line": 10611
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

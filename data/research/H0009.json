@@ -1,0 +1,30 @@
+{
+  "id": "H0009",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Two census households."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Brother of John's grandfather James C. Meier (John's great-uncle).",
+  "bio": "Son of William F. Meier and Florence L. Pringle; 'William, son, about 3' in the 1930 Wilkes-Barre census (55 Cedar St) and 'William Jr., son, 23' in the 1950 census (house 55, ED 40-102). Nothing further recorded.",
+  "sources": [
+    "1930 census Wilkes-Barre ED 40-261 sheet 23B; 1950 census ED 40-102 sheet 2 (FamilySearch GF3P-853 images)",
+    "research/notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "William F. Meier Jr. (b. 1927)",
+    "line": 5449
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "A second handoff record (\"Collateral relatives, same-surname people and ruled-out leads\", line 2750) also maps to this person."
+    }
+  ]
+}

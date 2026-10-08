@@ -1,0 +1,33 @@
+{
+  "id": "H0141",
+  "link": {
+    "confidence": "probable",
+    "note": "Son of Samuel confirmed (Harvey Book); borough namesake identification probable."
+  },
+  "sex": "M",
+  "tags": [
+    "notable"
+  ],
+  "summary": "John's 4th-great-grand-uncle; coal operator, first president of Kingston borough council (1857), and the likely namesake of Pringle Borough.",
+  "bio": "Thomas Pringle (2 Nov 1791 - 22 May 1861), eldest son of Samuel and Martha, married Elizabeth Harvey. He mined coal in partnership with his brothers-in-law, is listed among the valley's coal operators around 1843 (Pearce p.380), and in 1837 moved to a large Kingston farm whose lane later became Pringle Street. A county history says Pringle Borough 'takes its name from that of a prominent family of that vicinity' and notes that Thomas Pringle was the first president of Kingston's borough council in 1857; Wikipedia says the borough honours Thomas Pringle. Neither source says which Thomas; another Thomas Pringle, born 1821, also lived in the area.",
+  "notable": "Likely namesake of Pringle Borough, PA",
+  "sources": [
+    "Harvey Book pp.134-136: https://archive.org/details/harveybookgiving00harv",
+    "Harvey & Smith vol. V p.165: https://archive.org/details/historyofwilkesb05harv",
+    "Wikipedia, Pringle, Pennsylvania: https://en.wikipedia.org/wiki/Pringle,_Pennsylvania",
+    "Pearce, Annals of Luzerne p.380: https://archive.org/details/annalsofluzernec01pear",
+    "Bradsby (Thomas Pringle b. 1821): https://pagenweb.org/~luzerne/bios/wibios.htm"
+  ],
+  "occupation": "Coal operator; farmer",
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Thomas Pringle (b. 1791)",
+    "line": 5991
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

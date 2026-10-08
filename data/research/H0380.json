@@ -1,0 +1,25 @@
+{
+  "id": "H0380",
+  "link": {
+    "confidence": "unverified",
+    "note": "NOT KIN: the Chicago musicians'-union boss, whom searches for 'James Petrillo' keep returning. Unrelated to John's great-grandfather James Petrillo/Petriello."
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "Musicians' union leader; ruled out (name collision only).",
+  "bio": "President of the American Federation of Musicians; Chicago, 1892-1984.",
+  "sources": [
+    "Wikipedia: https://en.wikipedia.org/wiki/James_Petrillo"
+  ],
+  "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "James C. Petrillo (b. 1892)",
+    "line": 12029
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

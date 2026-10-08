@@ -1,0 +1,42 @@
+{
+  "id": "H0211",
+  "link": {
+    "confidence": "probable",
+    "note": ""
+  },
+  "sex": "M",
+  "aka": [
+    "Albin Croop"
+  ],
+  "tags": [
+    "military"
+  ],
+  "summary": "Probably John's 3rd cousin 4x removed.",
+  "bio": "Alvin ('Albin') Croop (1836-1872), private, Co. K, 203rd PA, Sept 1864 - June 1865; the 203rd fought at Fort Fisher.",
+  "military": [
+    {
+      "branch": "US Army (Pennsylvania Volunteers)",
+      "service": "Civil War",
+      "rank": "Private",
+      "unit": "Co. K, 203rd Pennsylvania Infantry",
+      "theatre": "Fort Fisher, NC",
+      "note": "Sept 1864 - June 1865"
+    }
+  ],
+  "sources": [
+    "PA-Roots 203rd Co. K: https://pa-roots.com/pacw/infantry/203rd/203dcok.html",
+    "Bradsby",
+    "WikiTree Croop-42: https://www.wikitree.com/wiki/Croop-42"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "Alvin Croop (b. 1836)",
+    "line": 7159
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

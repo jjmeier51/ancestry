@@ -1,0 +1,49 @@
+{
+  "id": "I282608085070",
+  "link": {
+    "confidence": "confirmed",
+    "note": "1870 ('Francisco', 7, Baden) and 1880 (Frances 17) census images; details FS."
+  },
+  "given": "Frances",
+  "surname": "Meier",
+  "birth": {
+    "date": "1863-03-08",
+    "place": "Baden, Germany"
+  },
+  "death": {
+    "date": "1928",
+    "place": "Coaldale, Schuylkill County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Franziska Mayer"
+  ],
+  "tags": [],
+  "summary": "John's 3rd great-aunt; sister of Henry J. Meier.",
+  "facts": [
+    {
+      "label": "Date conflict",
+      "value": "Born 8 Mar 1863 is only 4.5 months after Frederick (11 Nov 1862); one date is wrong."
+    }
+  ],
+  "sources": [
+    "FamilySearch tree G921-25N (Friedrich Mayer family)",
+    "1870 census Hazleton East Ward p.42 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/0/image.jpg",
+    "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
+    "notes/round3/meier_line.md"
+  ],
+  "handoff": {
+    "section": "3.2 Meier, McGuire and German lines",
+    "heading": "Collateral relatives, same-surname people and ruled-out leads",
+    "line": 2904
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Name in the Ancestry tree: \"Frances Miller\"; research uses \"Frances Meier\"."
+    }
+  ]
+}

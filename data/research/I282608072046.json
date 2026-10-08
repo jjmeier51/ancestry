@@ -1,0 +1,29 @@
+{
+  "id": "I282608072046",
+  "link": {
+    "confidence": "unverified",
+    "note": "Tree-only; unsupported (no Horne in Youngs 1907). The Latin genitive 'Edwardi' suggests a transcribed register entry, not a verified person."
+  },
+  "tags": [],
+  "summary": "Tree-only Horne ancestor; unsupported.",
+  "facts": [
+    {
+      "label": "Tree shows",
+      "value": "Edwardi Horne 1524–1624"
+    }
+  ],
+  "sources": [
+    "Ancestry tree screenshots (section 2.2.2)"
+  ],
+  "handoff": {
+    "section": "3.4 Colonial Long Island, New England and English lines",
+    "heading": "Tree-only, removed or disproven ancestors (do NOT treat as John's ancestors)",
+    "line": 8654
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}

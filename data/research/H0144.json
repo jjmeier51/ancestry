@@ -1,0 +1,25 @@
+{
+  "id": "H0144",
+  "link": {
+    "confidence": "confirmed",
+    "note": ""
+  },
+  "sex": "M",
+  "tags": [],
+  "summary": "A Kingston-branch Pringle cousin.",
+  "bio": "George Lane Pringle was 'killed by lightning' in 1886 (Harvey Book p.137).",
+  "sources": [
+    "Harvey Book p.137"
+  ],
+  "handoff": {
+    "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
+    "heading": "George Lane Pringle (b. unknown)",
+    "line": 6044
+  },
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+  ]
+}
