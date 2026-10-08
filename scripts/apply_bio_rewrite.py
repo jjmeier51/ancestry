@@ -16,8 +16,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 BAD = re.compile(r"FamilySearch|WikiTree|\bFS\b|ark:|\bED\s?\d|sheet \d|\bRound \d|\[R4-|\(S\d+\)|docket|\bfile (no\.?|number)? ?\d|https?://|"
                  r"\bGEDCOM\b|the tree\b|the site\b|the roster|\bworker|snippet|not (yet )?(searched|researched|found)|unsourced|"
-                 r"\b[A-Z0-9]{4}-[A-Z0-9]{3}\b|\b[A-Z][a-z]+-\d{2,6}\b", re.I)
-ALLOW = re.compile(r"\b(Smith|Jones)-\d")  # none; placeholder for exceptions
+                 r"\bGeni\b", re.I)
+IDS = re.compile(r"\b[A-Z0-9]{4}-[A-Z0-9]{3}\b|\b[A-Z][a-z]+-\d{2,6}\b")  # FamilySearch / WikiTree style ids (case-sensitive)
 
 
 def check(pid, old, new):
@@ -30,7 +30,7 @@ def check(pid, old, new):
     if len(summ) > 260:
         problems.append("summary too long")
     for label, txt in (("bio", bio), ("summary", summ)):
-        m = BAD.search(txt)
+        m = BAD.search(txt) or IDS.search(txt)
         if m:
             problems.append(f"{label} still has '{m.group(0)}'")
         if re.search(r"^\s*[-*#]|\*\*", txt, re.M):
@@ -44,7 +44,7 @@ def main():
     src = sys.argv[1]
     dry = "--dry" in sys.argv
     rewrites = {}
-    for f in sorted(glob.glob(os.path.join(src, "*.json"))):
+    for f in sorted(x for x in glob.glob(os.path.join(src, "*.json")) if not os.path.basename(x).startswith("_")):
         try:
             rewrites.update(json.load(open(f, encoding="utf-8")))
         except Exception as e:  # noqa
