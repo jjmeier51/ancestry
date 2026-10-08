@@ -83,6 +83,103 @@
       "given": "Mollie",
       "surname": "Petriello",
       "sex": "F"
+    },
+    {
+      "id": "M0012",
+      "given": "Kathryn",
+      "surname": "Meier",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1955",
+        "place": "Pennsylvania, USA"
+      },
+      "nickname": "Kathy"
+    },
+    {
+      "id": "M0013",
+      "given": "Daniel",
+      "surname": "Meier",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1956",
+        "place": "Pennsylvania, USA"
+      },
+      "nickname": "Danny"
+    },
+    {
+      "id": "M0014",
+      "given": "James",
+      "surname": "Meier",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1958",
+        "place": "Pennsylvania, USA"
+      },
+      "nickname": "Jamie"
+    },
+    {
+      "id": "M0015",
+      "given": "Susan",
+      "surname": "Meier",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1960",
+        "place": "Pennsylvania, USA"
+      },
+      "nickname": "Susie"
+    },
+    {
+      "id": "M0016",
+      "given": "Nancy",
+      "surname": "Meier",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1961",
+        "place": "Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0017",
+      "given": "John",
+      "surname": "Meier",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1962",
+        "place": "Pennsylvania, USA"
+      },
+      "nickname": "Jack"
+    },
+    {
+      "id": "M0018",
+      "given": "Theresa",
+      "surname": "Meier",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1963",
+        "place": "Pennsylvania, USA"
+      },
+      "nickname": "Terry",
+      "aka": [
+        "Teresa Meier"
+      ]
+    },
+    {
+      "id": "M0019",
+      "given": "Shannon",
+      "surname": "McCarthy",
+      "sex": "F"
+    },
+    {
+      "id": "M0020",
+      "given": "Laura",
+      "surname": "Meier",
+      "sex": "F"
+    },
+    {
+      "id": "M0021",
+      "given": "Luca",
+      "surname": "Meier",
+      "sex": "M"
     }
   ],
   "families": [
@@ -106,6 +203,21 @@
       "children": [
         "M0010",
         "M0011"
+      ]
+    },
+    {
+      "id": "MF0003",
+      "husband": "I282604492552",
+      "wife": "M0019",
+      "status": "engaged",
+      "children": []
+    },
+    {
+      "id": "MF0004",
+      "husband": "M0001",
+      "wife": "M0020",
+      "children": [
+        "M0021"
       ]
     }
   ],
@@ -134,6 +246,48 @@
       "father": "I282695504010",
       "mother": "H0332",
       "reason": "Named as John T. Petriello Sr.'s sister/brother in his 2025 obituary."
+    },
+    {
+      "child": "M0012",
+      "father": "I282604492974",
+      "mother": "I282604493056",
+      "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
+    },
+    {
+      "child": "M0013",
+      "father": "I282604492974",
+      "mother": "I282604493056",
+      "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
+    },
+    {
+      "child": "M0014",
+      "father": "I282604492974",
+      "mother": "I282604493056",
+      "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
+    },
+    {
+      "child": "M0015",
+      "father": "I282604492974",
+      "mother": "I282604493056",
+      "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
+    },
+    {
+      "child": "M0016",
+      "father": "I282604492974",
+      "mother": "I282604493056",
+      "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
+    },
+    {
+      "child": "M0017",
+      "father": "I282604492974",
+      "mother": "I282604493056",
+      "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
+    },
+    {
+      "child": "M0018",
+      "father": "I282604492974",
+      "mother": "I282604493056",
+      "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
     }
   ]
 }

@@ -4,6 +4,19 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Owner's father's siblings, fiancée, nephew
+
+- Owner listed his father's seven siblings with estimated birth years
+  (Levittown, PA): Kathryn "Kathy" c.1955, Daniel "Danny" c.1956, James
+  "Jamie" c.1958, Susan "Susie" c.1960, Nancy c.1961, John "Jack" c.1962,
+  Theresa/Teresa "Terry" c.1963, plus Thomas Francis "Tommy" Sr. 1959. That
+  is three brothers and four sisters; the earlier "seven brothers and a
+  sister" is superseded. Added as `M0012`–`M0018` under James C. and Kathryn
+  (McGuire) Meier. Exact dates, married names and living status still open.
+- Owner: engaged to Shannon McCarthy (`M0019`, family `MF0003`, status
+  engaged). Tommy Jr. is married to Laura (`M0020`); their son is Luca
+  (`M0021`). The site now labels an engaged couple "Fiancé/Fiancée".
+
 ## 2026-10-08 — Living family: Petriello side documented, Meier side blocked
 
 - Owner asked (8 Oct 2026) for research on his immediate living family:

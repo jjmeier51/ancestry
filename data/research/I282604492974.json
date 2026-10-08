@@ -82,6 +82,10 @@
     {
       "label": "Surname",
       "value": "Surname spelling history (Mayer→Meier): Munzingen registers write Mayer 1820–1862 (1820 marriage 'Henericus Mayer', 1835 birth 'Friedrich Mayer', 1862 marriage 'Friedrich Mayer'); 1870 US census 'Meyer, Frederick'; 1880 census 'Myer, Friedrich'; the 1892 Luzerne marriage docket No. 11054 is the first record spelling it 'Meier' (Henry J. Meier) — written by the clerk, so Henry may not have chosen it; 'Meier' is consistent from 1910 on (1910, 1920, 1926, 1930, 1950 records; PA death indexes 1911/1913/1963) except 'Meyer, Henry J.' in the 1940 census; no formal name change is recorded."
+    },
+    {
+      "label": "Children",
+      "value": "Kathryn (c.1955), Daniel (c.1956), James (c.1958), Thomas Francis (1959), Susan (c.1960), Nancy (c.1961), John (c.1962), Theresa (c.1963)."
     }
   ],
   "sources": [
@@ -122,6 +126,10 @@
     {
       "date": "2026-10-08",
       "note": "Owner confirms nine children (Thomas Sr. plus seven brothers and one sister). Obituary not reachable from free sources; leads logged."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner listed all eight children (8 Oct 2026)."
     }
   ]
 }

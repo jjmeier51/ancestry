@@ -164,7 +164,7 @@
       });
       F.spouseFamilies(p.id).forEach(f => {
         const sp = F.get(f.husband === p.id ? f.wife : f.husband);
-        fam.appendChild(el('h3', { text: sp ? relLabel(sp, ['Husband', 'Wife', 'Spouse']) : 'Partner' }));
+        fam.appendChild(el('h3', { text: sp ? (f.status === 'engaged' ? relLabel(sp, ['Fiancé', 'Fiancée', 'Fiancé(e)']) : f.status === 'partner' ? 'Partner' : relLabel(sp, ['Husband', 'Wife', 'Spouse'])) : 'Partner' }));
         if (sp) fam.appendChild(A.personRow(sp, { compact: true }));
         const ml = eventLine(f.marriage); if (ml) fam.appendChild(el('p', { class: 'muted small', text: 'Married ' + ml }));
         const dl = eventLine(f.divorce); if (dl) fam.appendChild(el('p', { class: 'muted small', text: 'Divorced ' + dl }));

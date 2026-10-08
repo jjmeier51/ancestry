@@ -30,12 +30,20 @@
     {
       "date": "2026-10-08",
       "note": "Named as a grandson in John T. Petriello Sr.'s 2025 obituary, listed as \"Tommy (Laura)\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner: married to Laura; son Luca (8 Oct 2026)."
     }
   ],
   "facts": [
     {
-      "label": "Partner (per obituary)",
-      "value": "Listed as \"Tommy (Laura)\" in grandfather John T. Petriello Sr.'s 2025 obituary; surname and status to be confirmed by the owner."
+      "label": "Married",
+      "value": "Laura."
+    },
+    {
+      "label": "Children",
+      "value": "Luca."
     }
   ]
 }

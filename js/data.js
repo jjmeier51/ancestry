@@ -187,7 +187,8 @@
     if (aId === bId) return 'self';
     const a = get(aId), b = get(bId);
     if (!a || !b) return null;
-    if (spouses(aId).some(s => s.id === bId)) return gendered(b, 'husband', 'wife', 'spouse');
+    const sf = spouseFamilies(aId).find(f => f.husband === bId || f.wife === bId);
+    if (sf) return sf.status === 'engaged' ? gendered(b, 'fiancé', 'fiancée', 'fiancé(e)') : gendered(b, 'husband', 'wife', 'spouse');
     const blood = relationshipBlood(aId, bId);
     if (blood) return blood;
     for (const s of spouses(aId)) { const r = relationshipBlood(s.id, bId); if (r && r !== 'self') return r + '-in-law'; }
