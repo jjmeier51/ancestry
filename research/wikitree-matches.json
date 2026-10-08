@@ -951,7 +951,8 @@
    "https://www.findagrave.com/memorial/451/benjamin-harrison"
   ],
   "photos": 4,
-  "attached": "2026-10-08"
+  "attached": "2026-10-08",
+  "portrait": "media/I282695486913/i282695486913-harrison-913-5.jpg"
  },
  "I282695486914": {
   "status": "matched",
@@ -967,7 +968,8 @@
   "url": "https://www.wikitree.com/wiki/Harrison-912",
   "findagrave": [],
   "photos": 2,
-  "attached": "2026-10-08"
+  "attached": "2026-10-08",
+  "portrait": "media/I282695486914/i282695486914-harrison-912-10.jpg"
  },
  "I282695489371": {
   "status": "matched",
@@ -3106,7 +3108,8 @@
   "url": "https://www.wikitree.com/wiki/Ransom-699",
   "findagrave": [],
   "photos": 1,
-  "attached": "2026-10-08"
+  "attached": "2026-10-08",
+  "portrait": "media/H0170/h0170-ransom-699-1.jpg"
  },
  "H0171": {
   "status": "none",
@@ -3484,7 +3487,8 @@
   "url": "https://www.wikitree.com/wiki/Croop-42",
   "findagrave": [],
   "photos": 2,
-  "attached": "2026-10-08"
+  "attached": "2026-10-08",
+  "portrait": "media/H0211/h0211-croop-42.jpg"
  },
  "H0213": {
   "status": "none",

@@ -11178,6 +11178,14 @@ window.FAMILY_DATA = {
      "source": "WikiTree",
      "note": "John Cleves Symmes, 1742-07-21 – 1814-02-26",
      "url": "https://www.wikitree.com/wiki/Symmes-1"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: John Cleves Symmes",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "John Cleves Symmes (July 21, 1742 – February 26, 1814) was a delegate to the Continental Congress from New Jersey, and later a pioneer in the Northwest Territory.  He was also the father-in-law of President William Henry Harrison and, thereby, the great-grandfather of President Benjamin Harrison.",
+     "url": "https://en.wikipedia.org/wiki/John_Cleves_Symmes"
     }
    ],
    "sources": [],
@@ -11530,8 +11538,17 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-4",
      "note": "",
      "file": "media/I282695486913/i282695486913-harrison-913-4.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Benjamin Harrison (WikiTree profile photo)",
+     "date": "",
+     "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-5",
+     "note": "",
+     "file": "media/I282695486913/i282695486913-harrison-913-5.jpg"
     }
-   ]
+   ],
+   "photo": "media/I282695486913/i282695486913-harrison-913-5.jpg"
   },
   {
    "id": "I282695486914",
@@ -11597,8 +11614,17 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Harrison-912; https://www.wikitree.com/photo/jpg/Harrison-912",
      "note": "",
      "file": "media/I282695486914/i282695486914-harrison-912.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "William Henry Harrison (WikiTree profile photo)",
+     "date": "",
+     "source": "WikiTree, profile Harrison-912; https://www.wikitree.com/photo/jpg/Harrison-912-10",
+     "note": "",
+     "file": "media/I282695486914/i282695486914-harrison-912-10.jpg"
     }
-   ]
+   ],
+   "photo": "media/I282695486914/i282695486914-harrison-912-10.jpg"
   },
   {
    "id": "I282695489371",
@@ -26187,8 +26213,17 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Ransom-699; https://www.wikitree.com/photo/jpg/Ransom-699",
      "note": "",
      "file": "media/H0170/h0170-ransom-699.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "George Palmer Ransom (WikiTree profile photo)",
+     "date": "",
+     "source": "WikiTree, profile Ransom-699; https://www.wikitree.com/photo/jpg/Ransom-699-1",
+     "note": "",
+     "file": "media/H0170/h0170-ransom-699-1.jpg"
     }
-   ]
+   ],
+   "photo": "media/H0170/h0170-ransom-699-1.jpg"
   },
   {
    "id": "H0171",
@@ -27935,8 +27970,17 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Croop-42; https://www.wikitree.com/photo/jpg/Croop-42-2",
      "note": "",
      "file": "media/H0211/h0211-croop-42-2.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Alvin Croop (WikiTree profile photo)",
+     "date": "",
+     "source": "WikiTree, profile Croop-42; https://www.wikitree.com/photo/jpg/Croop-42",
+     "note": "",
+     "file": "media/H0211/h0211-croop-42.jpg"
     }
-   ]
+   ],
+   "photo": "media/H0211/h0211-croop-42.jpg"
   },
   {
    "id": "H0212",
