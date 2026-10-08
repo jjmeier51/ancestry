@@ -24,8 +24,12 @@
 html { height: 100%; -webkit-text-size-adjust: 100%; }
 body {
   margin: 0; min-height: 100%; background: var(--bg); color: var(--text); font-family: var(--font); font-size: 16px; line-height: 1.5;
-  background-image: radial-gradient(1200px 600px at 80% -10%, rgba(79, 140, 255, .18), transparent 60%), radial-gradient(800px 500px at -10% 110%, rgba(103, 232, 249, .10), transparent 60%);
   overscroll-behavior-y: none; -webkit-font-smoothing: antialiased;
+}
+/* One fixed glow layer behind the whole page (a repeating body gradient showed seams on long pages). */
+body::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none; background: var(--bg);
+  background-image: radial-gradient(1200px 600px at 80% -10%, rgba(79, 140, 255, .18), transparent 60%), radial-gradient(800px 500px at -10% 110%, rgba(103, 232, 249, .10), transparent 60%);
 }
 h1, h2, h3 { margin: 0 0 .5em; line-height: 1.2; letter-spacing: -.01em; font-weight: 700; }
 h1 { font-size: clamp(1.7rem, 4vw, 2.3rem); }
