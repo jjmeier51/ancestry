@@ -23,5 +23,9 @@
       "label": "Unverified",
       "description": "No research done yet beyond the imported tree."
     }
+  },
+  "privacy": {
+    "livingBirthDates": "year",
+    "_comment": "On the public site, people without a death record born within the last 105 years get their birth date reduced to the year. Full dates stay in data/tree.json and data/research/."
   }
 }

@@ -126,8 +126,10 @@ details, for example) and is never overwritten by `import_handoff.py`.
 - Places: most specific first, comma separated (`Rochester, Monroe, New York, USA`).
 - Media files: lowercase, hyphenated, descriptive (`1900-census-rochester.jpg`),
   under 2 MB where possible. Portraits: add `--portrait` so they show as the avatar.
-- Never put living people's exact birth dates in the public site without the
-  owner's okay; the site is public at meiertree.com.
+- Living people (no death record, born within 105 years) show only a birth
+  year on the public site; `scripts/build.py` reduces the date automatically
+  (`privacy.livingBirthDates` in `data/site.json`). Full dates may be kept in
+  `data/tree.json` and `data/research/` for the owner's records.
 - Keep `data/tree.json` untouched by hand; it is regenerated from the GEDCOM.
 
 ## Code map
