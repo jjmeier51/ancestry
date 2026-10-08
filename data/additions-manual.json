@@ -97,11 +97,11 @@
     },
     {
       "id": "M0013",
-      "given": "Daniel",
+      "given": "Daniel F.",
       "surname": "Meier",
       "sex": "M",
       "birth": {
-        "date": "ABT 1956",
+        "date": "BET 1953 AND 1954",
         "place": "Pennsylvania, USA"
       },
       "nickname": "Danny"
@@ -180,6 +180,51 @@
       "given": "Luca",
       "surname": "Meier",
       "sex": "M"
+    },
+    {
+      "id": "M0022",
+      "given": "Annie",
+      "surname": "Meier",
+      "sex": "F"
+    },
+    {
+      "id": "M0023",
+      "given": "Michael",
+      "surname": "Meier",
+      "sex": "M",
+      "nickname": "Mike",
+      "birth": {
+        "date": "ABT 1989"
+      }
+    },
+    {
+      "id": "M0024",
+      "given": "Timothy",
+      "surname": "Meier",
+      "sex": "M",
+      "nickname": "Timmy",
+      "birth": {
+        "date": "ABT 1991"
+      }
+    },
+    {
+      "id": "M0025",
+      "given": "Joseph",
+      "surname": "Meier",
+      "sex": "M",
+      "nickname": "Joe",
+      "birth": {
+        "date": "ABT 1993"
+      }
+    },
+    {
+      "id": "M0026",
+      "given": "Mary",
+      "surname": "Meier",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1995"
+      }
     }
   ],
   "families": [
@@ -218,6 +263,17 @@
       "wife": "M0020",
       "children": [
         "M0021"
+      ]
+    },
+    {
+      "id": "MF0005",
+      "husband": "M0013",
+      "wife": "M0022",
+      "children": [
+        "M0023",
+        "M0024",
+        "M0025",
+        "M0026"
       ]
     }
   ],

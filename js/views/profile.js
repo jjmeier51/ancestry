@@ -4,6 +4,7 @@
   const F = window.Family, A = window.App, el = A.el, icon = A.icon, esc = A.esc;
 
   const eventLine = ev => ev ? [ev.date ? F.formatDate(ev.date) : '', ev.place || ''].filter(Boolean).join(' · ') : '';
+  const eventNode = ev => { const out = []; if (ev && ev.date) out.push(F.formatDate(ev.date)); if (ev && ev.place) { if (out.length) out.push(' · '); out.push(A.placeLink(ev.place)); } return out; };
   const paragraphs = text => String(text || '').split(/\n+/).map(t => t.trim()).filter(Boolean).map(t => el('p', { html: A.md(t) }));
   const personLink = p => `#/person/${encodeURIComponent(p.id)}`;
   const section = (title, iconName, children, cls) => el('section', { class: 'card ' + (cls || '') }, [el('h2', { html: icon(iconName) + esc(title) })].concat(children));
@@ -70,11 +71,11 @@
 
       /* Key facts */
       const facts = [];
-      const fact = (label, value) => { if (value) facts.push(el('div', { class: 'fact' }, [el('dt', { text: label }), el('dd', { html: A.md(value) })])); };
-      fact('Born', eventLine(p.birth) + (p.birthDateReduced ? ' (full date withheld for a living person)' : '')); fact('Died', eventLine(p.death)); fact('Buried', eventLine(p.burial));
+      const fact = (label, value) => { if (value) facts.push(el('div', { class: 'fact' }, [el('dt', { text: label }), Array.isArray(value) ? el('dd', {}, value) : el('dd', { html: A.md(value) })])); };
+      if (p.birth && (p.birth.date || p.birth.place)) fact('Born', eventNode(p.birth).concat(p.birthDateReduced ? [' (full date withheld for a living person)'] : [])); if (p.death && (p.death.date || p.death.place)) fact('Died', eventNode(p.death)); if (p.burial && (p.burial.date || p.burial.place)) fact('Buried', eventNode(p.burial));
       fact('Occupation', p.occupation); fact('Religion', p.religion); fact('Education', p.education);
       (p.facts || []).forEach(f => fact(f.label, f.value));
-      (p.events || []).forEach(e => fact(e.title || 'Event', [e.date ? F.formatDate(e.date) : '', e.place, e.description].filter(Boolean).join(' · ')));
+      (p.events || []).forEach(e => { const parts = []; if (e.date) parts.push(F.formatDate(e.date)); if (e.place) { if (parts.length) parts.push(' · '); parts.push(A.placeLink(e.place)); } if (e.description) { if (parts.length) parts.push(' · '); parts.push(el('span', { html: A.md(e.description) })); } fact(e.title || 'Event', parts); });
       if (facts.length) main.appendChild(section('Life', 'info', [el('dl', { class: 'facts' }, facts)]));
 
       /* Places lived */
@@ -85,7 +86,7 @@
       if (places.length) main.appendChild(section('Places', 'pin', [el('ol', { class: 'places' }, places.map(pl => el('li', {}, [
         el('span', { class: 'place-when', text: pl.date ? F.formatDate(pl.date, true) : '' }),
         el('span', { class: 'place-what', text: pl.what }),
-        el('a', { class: 'place-where', href: 'https://www.google.com/maps/search/' + encodeURIComponent(pl.place), target: '_blank', rel: 'noopener', text: pl.place })
+        el('span', { class: 'place-where' }, [A.placeLink(pl.place)])
       ])))]));
 
       /* Military */
@@ -156,7 +157,7 @@
       const parents = F.parents(p.id);
       group('Parents', parents, q => relLabel(q, ['Father', 'Mother', 'Parent']));
       const pf = F.parentsFamily(p.id);
-      if (pf && pf.marriage && (pf.marriage.date || pf.marriage.place)) fam.appendChild(el('p', { class: 'muted small', text: 'Married ' + eventLine(pf.marriage) }));
+      if (pf && pf.marriage && (pf.marriage.date || pf.marriage.place)) fam.appendChild(el('p', { class: 'muted small' }, ['Married '].concat(eventNode(pf.marriage))));
       group('Siblings', F.siblings(p.id), q => {
         const mine = F.birthYear(p), theirs = F.birthYear(q), kind = relLabel(q, ['brother', 'sister', 'sibling']);
         if (mine === null || theirs === null) return kind[0].toUpperCase() + kind.slice(1);
@@ -166,7 +167,7 @@
         const sp = F.get(f.husband === p.id ? f.wife : f.husband);
         fam.appendChild(el('h3', { text: sp ? (f.status === 'engaged' ? relLabel(sp, ['Fiancé', 'Fiancée', 'Fiancé(e)']) : f.status === 'partner' ? 'Partner' : relLabel(sp, ['Husband', 'Wife', 'Spouse'])) : 'Partner' }));
         if (sp) fam.appendChild(A.personRow(sp, { compact: true }));
-        const ml = eventLine(f.marriage); if (ml) fam.appendChild(el('p', { class: 'muted small', text: 'Married ' + ml }));
+        if (f.marriage && (f.marriage.date || f.marriage.place)) fam.appendChild(el('p', { class: 'muted small' }, ['Married '].concat(eventNode(f.marriage))));
         const dl = eventLine(f.divorce); if (dl) fam.appendChild(el('p', { class: 'muted small', text: 'Divorced ' + dl }));
         const kids = F.sortByBirth(f.children.map(F.get).filter(Boolean));
         if (kids.length) { fam.appendChild(el('h3', { text: 'Children' + (sp ? ' with ' + F.firstName(sp) : '') })); kids.forEach(k => fam.appendChild(A.personRow(k, { compact: true, label: relLabel(k, ['Son', 'Daughter', 'Child']) }))); }

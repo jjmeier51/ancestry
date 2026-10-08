@@ -29,6 +29,608 @@ window.FAMILY_DATA = {
   "livingBirthDates": "year",
   "_comment": "On the public site, people without a death record born within the last 105 years get their birth date reduced to the year. Full dates stay in data/tree.json and data/research/."
  },
+ "places": {
+  ", Norfolk, , England": {
+   "lat": 52.66667,
+   "lon": 1.0,
+   "label": "Norfolk, England, United Kingdom",
+   "precision": "exact"
+  },
+  ", Tipperary, , Ireland": {
+   "lat": 52.47348,
+   "lon": -8.16144,
+   "label": "Tipperary, The Municipal District of Cahir — Cashel, County Tipperary, Munster, Ireland",
+   "precision": "exact"
+  },
+  "1028 Bunker Hill Av., Scranton, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1028 Bunker Hill, Scranton Ward 10, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1030 Ash Street, Scranton Ward 10, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1306 Diamond Avenue, Scranton Ward 2, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "133 Sand St, Dunmore, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40653,
+   "lon": -75.62772,
+   "label": "133, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "14 Mill Street, Wilkes-Barre Ward 14, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "14 Mill Street, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.25612,
+   "lon": -75.84744,
+   "label": "14, Mill Street, Parsons, Wilkes-Barre, Luzerne County, Pennsylvania, 18705, United States",
+   "precision": "exact"
+  },
+  "16 Barney Street, Wilkes-Barre Ward 15, ED 40-330, sheet 3B, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "16 Barney Street, Wilkes-Barre Ward 15, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "16 Barney Street, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.23847,
+   "lon": -75.90447,
+   "label": "16, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "214 Vine Street, Plymouth, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.2468,
+   "lon": -75.9388,
+   "label": "214, Vine Street, Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "exact"
+  },
+  "220 South Street, Plymouth, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.23867,
+   "lon": -75.95093,
+   "label": "South Academy Street, Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+   "precision": "exact"
+  },
+  "28 Huston St, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.23654,
+   "lon": -75.91293,
+   "label": "28, Huston Street, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "298 Barney Street, Wilkes-Barre Ward 15, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "298 Barney Street, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.23311,
+   "lon": -75.91115,
+   "label": "298, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "5146 Cottonwood Court , Fredericksburg , VA": {
+   "lat": 38.30012,
+   "lon": -77.45715,
+   "label": "Fredericksburg, Virginia, United States",
+   "precision": "approximate"
+  },
+  "5146 Cottonwood Court , Fredericksburg , VA.": {
+   "lat": 38.30012,
+   "lon": -77.45715,
+   "label": "Fredericksburg, Virginia, United States",
+   "precision": "approximate"
+  },
+  "5146 Cottonwood Court , Fredricksburg , VA.": {
+   "lat": 37.15082,
+   "lon": -81.58504,
+   "label": "Fredricksburg Lane, Tazewell County, Virginia, 24602, United States",
+   "precision": "approximate"
+  },
+  "55 Cedar Street, Ward 15, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.24648,
+   "lon": -75.88173,
+   "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "55 Cedar Street, Wilkes-Barre (Ward 15), Luzerne County, Pennsylvania, USA": {
+   "lat": 41.23643,
+   "lon": -75.91221,
+   "label": "55, Cedar Street, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "55 Cedar Street, Wilkes-Barre Ward 15, ED 40-261, sheet 23B, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "55 Cedar Street, Wilkes-Barre, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.23643,
+   "lon": -75.91221,
+   "label": "55, Cedar Street, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.42943,
+   "lon": -75.66223,
+   "label": "612, Philo Street, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+   "precision": "exact"
+  },
+  "614 Philo St, Scranton, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.43156,
+   "lon": -75.66722,
+   "label": "Philo Street, Providence, Scranton, Lackawanna County, Pennsylvania, 18508, United States",
+   "precision": "exact"
+  },
+  "Aiello Calabro, Cosenza, Calabria, Italy": {
+   "lat": 39.11747,
+   "lon": 16.16666,
+   "label": "Aiello Calabro, Cosenza, Calabria, 87031, Italy",
+   "precision": "exact"
+  },
+  "Alameda, California, USA": {
+   "lat": 37.60903,
+   "lon": -121.89914,
+   "label": "Alameda County, California, United States",
+   "precision": "exact"
+  },
+  "Albany County, New York, United States of America": {
+   "lat": 41.94109,
+   "lon": -74.04776,
+   "label": "New York State Police Troop F SP Kingston, 1791, Clayton 'Peg Leg' Bates Highway, City of Kingston, Town of Ulster, Ulster County, New York, 12401, United States",
+   "precision": "approximate"
+  },
+  "Alexandria , VA .": {
+   "lat": 38.80511,
+   "lon": -77.04702,
+   "label": "Alexandria, Virginia, United States",
+   "precision": "exact"
+  },
+  "Alexandria City Hospital, Alexandria, Virginia, USA": {
+   "lat": 38.80511,
+   "lon": -77.04702,
+   "label": "Alexandria, Virginia, United States",
+   "precision": "approximate"
+  },
+  "Alexandria, Virginia, USA": {
+   "lat": 38.80511,
+   "lon": -77.04702,
+   "label": "Alexandria, Virginia, United States",
+   "precision": "exact"
+  },
+  "Altoona, Blair County, Pennsylvania, USA": {
+   "lat": 40.51936,
+   "lon": -78.39683,
+   "label": "Altoona, Blair County, Pennsylvania, 16601, United States",
+   "precision": "exact"
+  },
+  "Ashburn, VA": {
+   "lat": 39.02978,
+   "lon": -77.47441,
+   "label": "Ashburn, Loudoun County, Virginia, United States",
+   "precision": "exact"
+  },
+  "Ashburn, Virginia, USA": {
+   "lat": 39.02978,
+   "lon": -77.47441,
+   "label": "Ashburn, Loudoun County, Virginia, United States",
+   "precision": "exact"
+  },
+  "Aston, Gloucestershire, England": {
+   "lat": 52.07364,
+   "lon": -1.79796,
+   "label": "Aston Subedge, Cotswold District, Gloucestershire, England, United Kingdom",
+   "precision": "exact"
+  },
+  "At sea (lost on the 'Great Shippe' of New Haven)": {
+   "lat": 12.14635,
+   "lon": -68.27606,
+   "label": "At Sea, Kaya C.E.B. Hellmund, Kralendijk, Bonaire, Netherlands",
+   "precision": "exact"
+  },
+  "Bad Krozingen, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany": {
+   "lat": 47.91591,
+   "lon": 7.69998,
+   "label": "Bad Krozingen, VVG der Stadt Bad Krozingen, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79189, Germany",
+   "precision": "exact"
+  },
+  "Baden, Germany": {
+   "lat": 53.00235,
+   "lon": 9.0821,
+   "label": "Baden, Achim, Landkreis Verden, Lower Saxony, Germany",
+   "precision": "exact"
+  },
+  "Baden, Germany (presumably Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany)": {
+   "lat": 53.00235,
+   "lon": 9.0821,
+   "label": "Baden, Achim, Landkreis Verden, Lower Saxony, Germany",
+   "precision": "exact"
+  },
+  "Baden, Germany to Pennsylvania, USA": {
+   "lat": 40.42035,
+   "lon": -79.1167,
+   "label": "Germany, West Wheatfield Township, Indiana County, Pennsylvania, 15949, United States",
+   "precision": "approximate"
+  },
+  "Baden-Wurttemberg, Germany": {
+   "lat": 48.53775,
+   "lon": 9.04117,
+   "label": "Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Baden-Württemberg, Germany": {
+   "lat": 48.53775,
+   "lon": 9.04117,
+   "label": "Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "Basel, Basel-Stadt, Switzerland": {
+   "lat": 47.55811,
+   "lon": 7.58783,
+   "label": "Basel, Basel-City, Switzerland",
+   "precision": "exact"
+  },
+  "Beach Haven, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.06842,
+   "lon": -76.17577,
+   "label": "Beach Haven, Salem Township, Luzerne County, Pennsylvania, 18601, United States",
+   "precision": "exact"
+  },
+  "Bensalem, Pennsylvania": {
+   "lat": 40.10455,
+   "lon": -74.95128,
+   "label": "Bensalem Township, Bucks County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Berschweiler bei Kirn, Birkenfeld, Rhineland-Palatinate, Germany": {
+   "lat": 49.77093,
+   "lon": 7.39193,
+   "label": "Berschweiler bei Kirn, Herrstein-Rhaunen, Landkreis Birkenfeld, Rhineland-Palatinate, Germany",
+   "precision": "exact"
+  },
+  "Bethlehem Township, Northampton County, Pennsylvania, USA": {
+   "lat": 40.66134,
+   "lon": -75.30685,
+   "label": "Bethlehem Township, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Bethnal Green, London, England": {
+   "lat": 51.53035,
+   "lon": -0.05616,
+   "label": "Bethnal Green, London Borough of Tower Hamlets, Greater London, England, E2 9RA, United Kingdom",
+   "precision": "exact"
+  },
+  "Bisaccia, Avellino, Campania, Italy": {
+   "lat": 41.01212,
+   "lon": 15.37475,
+   "label": "Bisaccia, Avellino, Campania, Italy",
+   "precision": "exact"
+  },
+  "Blooming Grove, Orange County, New York, USA": {
+   "lat": 41.40926,
+   "lon": -74.19515,
+   "label": "Town of Blooming Grove, Orange County, New York, United States",
+   "precision": "exact"
+  },
+  "Bloomsburg, Columbia County, Pennsylvania, USA": {
+   "lat": 41.0045,
+   "lon": -76.45373,
+   "label": "Bloomsburg, Columbia County, Pennsylvania, 17815, United States",
+   "precision": "exact"
+  },
+  "Brandon, Virginia, USA": {
+   "lat": 37.25598,
+   "lon": -76.99858,
+   "label": "Brandon, Prince George County, Virginia, 23899, United States",
+   "precision": "exact"
+  },
+  "Branford, New Haven County, Connecticut, USA": {
+   "lat": 41.40686,
+   "lon": -72.90789,
+   "label": "New Haven County, South Central Connecticut Planning Region, Connecticut, United States",
+   "precision": "approximate"
+  },
+  "Bridgehampton, Suffolk, New York": {
+   "lat": 40.93128,
+   "lon": -72.31037,
+   "label": "Bridgehampton, Town of Southampton, Suffolk County, New York, 11932, United States",
+   "precision": "exact"
+  },
+  "Bridgehampton, Suffolk, New York, USA": {
+   "lat": 40.93128,
+   "lon": -72.31037,
+   "label": "Bridgehampton, Town of Southampton, Suffolk County, New York, 11932, United States",
+   "precision": "exact"
+  },
+  "Bristol, Gloucestershire, England": {
+   "lat": 51.85277,
+   "lon": -2.25537,
+   "label": "Bristol, Lysons Avenue, Linden, Hempsted, Gloucester, Gloucestershire, England, GL1 5QF, United Kingdom",
+   "precision": "exact"
+  },
+  "Bronx, New York, USA": {
+   "lat": 40.84665,
+   "lon": -73.87859,
+   "label": "The Bronx, Bronx County, New York, United States",
+   "precision": "exact"
+  },
+  "Brookhaven, Suffolk County, New York, USA": {
+   "lat": 40.77927,
+   "lon": -72.91538,
+   "label": "Town of Brookhaven, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Brookhaven, Suffolk, New York, United States": {
+   "lat": 40.77927,
+   "lon": -72.91538,
+   "label": "Town of Brookhaven, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Burg,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Butte, Montana, USA": {
+   "lat": 46.01315,
+   "lon": -112.53651,
+   "label": "Butte, Silver Bow County, Montana, United States",
+   "precision": "exact"
+  },
+  "Bögelsbacherhof,Geroldstal,Oberried,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Bögelsbacherhof,Geroldstal,Oberried,Weilersbach,Kirchzarten,Freiburg,Baden,D": {
+   "lat": 48.02811,
+   "lon": 7.83022,
+   "label": "D, Granadaallee, Brühl-Industriegebiet, Brühl, Freiburg im Breisgau, Baden-Württemberg, 79108, Germany",
+   "precision": "approximate"
+  },
+  "Cannovali, Aiello Calabro, Cosenza, Calabria, Italy": {
+   "lat": 39.11747,
+   "lon": 16.16666,
+   "label": "Aiello Calabro, Cosenza, Calabria, 87031, Italy",
+   "precision": "approximate"
+  },
+  "Carife, Avellino, Campania, Italy": {
+   "lat": 41.02811,
+   "lon": 15.20866,
+   "label": "Carife, Avellino, Campania, Italy",
+   "precision": "exact"
+  },
+  "Castlecomer, Ireland": {
+   "lat": 52.80609,
+   "lon": -7.21058,
+   "label": "Castlecomer, The Municipal District of Castlecomer, County Kilkenny, Leinster, R95 HP97, Ireland",
+   "precision": "exact"
+  },
+  "Cathedral Cemetery, Scranton, Pennsylvania, USA": {
+   "lat": 41.42331,
+   "lon": -75.68332,
+   "label": "Cathedral Cemetery, 1708, Hyde Park, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+   "precision": "exact"
+  },
+  "Chase, Jackson Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.2848,
+   "lon": -75.96298,
+   "label": "Chase, Jackson Township, Luzerne County, Pennsylvania, 18708, United States",
+   "precision": "exact"
+  },
+  "Chicago, Cook County, Illinois, USA": {
+   "lat": 41.87556,
+   "lon": -87.62442,
+   "label": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+   "precision": "exact"
+  },
+  "Chicago, Illinois, USA": {
+   "lat": 41.87556,
+   "lon": -87.62442,
+   "label": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+   "precision": "exact"
+  },
+  "Co. Tipperary, Ireland": {
+   "lat": 52.68482,
+   "lon": -7.89815,
+   "label": "County Tipperary, Munster, Ireland",
+   "precision": "exact"
+  },
+  "Coaldale, Schuylkill County, Pennsylvania, USA": {
+   "lat": 40.82496,
+   "lon": -75.90852,
+   "label": "Coaldale, Schuylkill County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Commack, Suffolk County, New York, USA": {
+   "lat": 40.83935,
+   "lon": -73.2859,
+   "label": "Commack, Town of Smithtown, Suffolk County, New York, 11725, United States",
+   "precision": "exact"
+  },
+  "Conflenti, Catanzaro, Calabria, Italy": {
+   "lat": 39.04321,
+   "lon": 16.28936,
+   "label": "Conflenti, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "Connecticut, USA": {
+   "lat": 41.65002,
+   "lon": -72.73422,
+   "label": "Connecticut, United States",
+   "precision": "exact"
+  },
+  "Cornwall Precinct, Orange County, New York, USA": {
+   "lat": 41.38733,
+   "lon": -74.25073,
+   "label": "Orange County, New York, United States",
+   "precision": "approximate"
+  },
+  "County Tipperary, Ireland": {
+   "lat": 52.68482,
+   "lon": -7.89815,
+   "label": "County Tipperary, Munster, Ireland",
+   "precision": "exact"
+  },
+  "Cozes, Charente-Maritime, France": {
+   "lat": 45.58359,
+   "lon": -0.83272,
+   "label": "Cozes, Saintes, Charente-Maritime, Nouvelle-Aquitaine, Metropolitan France, 17120, France",
+   "precision": "exact"
+  },
+  "Crawford, Pennsylvania, USA": {
+   "lat": 41.69512,
+   "lon": -80.1429,
+   "label": "Crawford County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Cripple Creek, Colorado, USA": {
+   "lat": 38.74666,
+   "lon": -105.17831,
+   "label": "Cripple Creek, Teller County, Colorado, United States",
+   "precision": "exact"
+  },
+  "Cutchogue, Suffolk, NY": {
+   "lat": 41.01868,
+   "lon": -72.48916,
+   "label": "Cutchogue, Town of Southold, Suffolk County, New York, 11935, United States",
+   "precision": "exact"
+  },
+  "Dallas Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.35201,
+   "lon": -75.96412,
+   "label": "Dallas Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Dasa, Vibo Valentia, Calabria, Italy": {
+   "lat": 38.56465,
+   "lon": 16.19494,
+   "label": "Dasà, Vibo Valentia, Calabria, 89832, Italy",
+   "precision": "exact"
+  },
+  "Dasà, Vibo Valentia, Calabria, Italy": {
+   "lat": 38.56465,
+   "lon": 16.19494,
+   "label": "Dasà, Vibo Valentia, Calabria, 89832, Italy",
+   "precision": "exact"
+  },
+  "Delaware": {
+   "lat": 38.69205,
+   "lon": -75.40133,
+   "label": "Delaware, United States",
+   "precision": "exact"
+  },
+  "Derry Township, Westmoreland Co., Pennsylvania, Mt. Carmel Cemetery": {
+   "lat": 40.3909,
+   "lon": -79.35448,
+   "label": "Mount Carmel Cemetery, Mt Carmel Road, Derry Township, Westmoreland County, Pennsylvania, 15671, United States",
+   "precision": "exact"
+  },
+  "Derry, Blairsville, Westmoreland, Pennsylvania, USA": {
+   "lat": 40.37054,
+   "lon": -79.2506,
+   "label": "Blairsville-Trout Run Dam, Derry Township, Westmoreland County, Pennsylvania, 15627, United States",
+   "precision": "approximate"
+  },
+  "Derry, Westmoreland, Pennsylvania, USA": {
+   "lat": 40.33396,
+   "lon": -79.29976,
+   "label": "Derry, Westmoreland County, Pennsylvania, 15627, United States",
+   "precision": "exact"
+  },
+  "Dickson, Lackawanna, Pennsylvania, USA": {
+   "lat": 41.47147,
+   "lon": -75.60769,
+   "label": "Dickson City, Lackawanna County, Pennsylvania, 18519, United States",
+   "precision": "exact"
+  },
+  "Drummonaghan, Derryvullen, Fermanagh, Ireland": {
+   "lat": 54.31529,
+   "lon": -7.57009,
+   "label": "Saint Tigerubeh's (Derryvullen South Parish CoI), Gola Road, Tamlaght, Fermanagh and Omagh District, Northern Ireland, United Kingdom",
+   "precision": "approximate"
+  },
+  "Dunmore Ward 5, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.4198,
+   "lon": -75.63241,
+   "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+   "precision": "exact"
+  },
+  "Dunmore, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.4198,
+   "lon": -75.63241,
+   "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+   "precision": "exact"
+  },
+  "Dunmore, Lackawanna, Pennsylvania, USA": {
+   "lat": 41.4198,
+   "lon": -75.63241,
+   "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+   "precision": "exact"
+  },
+  "Dunstable, Bedfordshire, England": {
+   "lat": 51.88613,
+   "lon": -0.52093,
+   "label": "Dunstable, Central Bedfordshire, England, United Kingdom",
+   "precision": "exact"
+  },
+  "East Ward 1st District, Hazleton, Luzerne County, Pennsylvania, USA": {
+   "lat": 40.9549,
+   "lon": -75.97696,
+   "label": "Hazleton, Luzerne County, Pennsylvania, 18201, United States",
+   "precision": "approximate"
+  },
+  "East Ward, Hazleton, Luzerne County, Pennsylvania, USA": {
+   "lat": 40.96343,
+   "lon": -75.96746,
+   "label": "East 4th Street, Old Sugar Loaf, Hazleton, Luzerne County, Pennsylvania, 18201, United States",
+   "precision": "exact"
+  },
+  "Easton, Northampton County, Pennsylvania, USA": {
+   "lat": 40.69161,
+   "lon": -75.20999,
+   "label": "Easton, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Easton, Northampton County, Pennsylvania, United States of America": {
+   "lat": 39.75284,
+   "lon": -76.66186,
+   "label": "Pennsylvania Welcome Center Parking, Veterans of Foreign Wars of the United States Memorial Highway, Tolna, Shrewsbury Township, York County, Pennsylvania, 17349, United States",
+   "precision": "approximate"
+  }
+ },
  "sample": false,
  "people": [
   {
@@ -33336,39 +33938,222 @@ window.FAMILY_DATA = {
   },
   {
    "id": "M0013",
-   "given": "Daniel",
+   "given": "Daniel F.",
    "surname": "Meier",
    "sex": "M",
    "birth": {
-    "date": "1956",
+    "date": "1953",
     "place": "Pennsylvania, USA"
    },
    "nickname": "Danny",
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Brother of the owner's father (owner's statement); his coaching career is documented in the Washington Post and Fairfax County papers."
    },
-   "tags": [],
+   "tags": [
+    "athlete",
+    "coach",
+    "notable"
+   ],
    "researchLog": [
     {
      "date": "2026-10-08",
      "note": "Added from the owner's list of his father's siblings (estimated birth year 1956, known as Danny)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Researched from newspapers: NC State under Lou Holtz 1972–75; Orange HS; West Potomac 1985–91 (state titles 1989, 1990); Chantilly 1992–96 (title 1996); FCPS administrator from 1997, Robinson principal 2003–13, retired 1 Apr 2013, interim principal posts since. Wife Annie; children Mike, Timmy, Joe, Mary; Fairfax Station. Birth year revised to 1953/54 from ages given in 1985, 1997 and 2013 articles."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of the owner.",
+   "summary": "Nose guard for Lou Holtz at NC State, then one of Virginia's most successful high-school football coaches, with state titles at West Potomac (1989, 1990) and Chantilly (1996), before 16 years as a Fairfax County principal.",
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "Owner's statement, 8 Oct 2026",
+    "Washington Post, 15 Aug 1985, \"Football Practice Opens With Five New Coaches\": https://www.washingtonpost.com/archive/local/1985/08/15/football-practice-opens-with-five-new-coaches/05b4f8f7-5f1e-48e6-baec-b7a6ef29220b/",
+    "Washington Post, 11 Jul 1997, \"Chantilly's Meier Resigns as School's Football Coach\": https://www.washingtonpost.com/archive/sports/1997/07/11/chantillys-meier-resigns-as-schools-football-coach/d8987f7e-f4c8-42a6-8b3b-6aefc16befae/",
+    "Washington Post, 28 Aug 1997, \"For High School Football Coaches, It's Time Out\": https://www.washingtonpost.com/archive/local/1997/08/28/for-high-school-football-coaches-its-time-out/0e4577d7-c096-4275-b07e-87a416b370cb/",
+    "Washington Post, 12 Apr 2013, \"Retired Robinson principal Dan Meier takes over as Rams' interim football coach\": https://www.washingtonpost.com/sports/highschools/retired-robinson-principal-dan-meier-takes-over-as-rams-interim-football-coach/2013/04/12/90af1d24-a3c9-11e2-82bc-511538ae90a4_story.html",
+    "Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\": https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "Connection Newspapers, 3 Jul 2013, \"New Leader at Robinson's Helm\": https://www.connectionnewspapers.com/news/2013/jul/03/new-leader-robinsons-helm/",
+    "Patch, 2013, acting principal of Robinson Secondary: https://patch.com/virginia/annandale/former-annandale-high-school-principal-named-acting-p1c8ec79414",
+    "The Highlander (McLean HS), 17 May 2018, \"Daniel Meier brings expertise to McLean\": https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/",
+    "West Potomac Athletic Hall of Fame, 2019 inductees: https://www.supportwestpotomac.com/2019-inductees.html",
+    "NOVA Legends Podcast, \"West Potomac and Chantilly Football Coach Danny Meier\": https://www.youtube.com/watch?v=WvdSYyTd6aw",
+    "Robinson Secondary School history (principals list, Daniel F. Meier): https://robinsonss.fcps.edu/about/history"
    ],
    "residences": [
     {
-     "date": "",
-     "place": "Levittown, Bucks County, Pennsylvania, USA",
-     "note": "Family home"
+     "date": "1950s–1972",
+     "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+     "date": "1972–1975",
+     "place": "Raleigh, North Carolina, USA",
+     "note": "NC State"
+    },
+    {
+     "date": "c.1982–1985",
+     "place": "Hillsborough, North Carolina, USA",
+     "note": "Orange High School"
+    },
+    {
+     "date": "1985–",
+     "place": "Fairfax County, Virginia, USA"
+    },
+    {
+     "date": "2013",
+     "place": "Fairfax Station, Virginia, USA"
     }
    ],
    "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+    "Exact birth date (sources give ages implying birth between July 1953 and June 1954; the owner estimated 1956).",
+    "Annie's maiden name and marriage date; the children's full names and birth dates."
+   ],
+   "aka": [
+    "Dan Meier",
+    "Danny Meier",
+    "Daniel Meier"
+   ],
+   "occupation": "High-school football coach (three Virginia state championships); Fairfax County Public Schools principal",
+   "bio": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019.",
+   "notable": "Three Virginia AAA state football championships as a head coach (West Potomac 1989 and 1990, Chantilly 1996), two VHSL Coach of the Year awards, All-Met Coach of the Year 1985, West Potomac Athletic Hall of Fame 2019; principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years.",
+   "funFacts": [
+    "Played for Lou Holtz, who later won a national title at Notre Dame.",
+    "His West Potomac motto, \"The Tradition starts NOW\", is still used by the school's Hall of Fame.",
+    "Came back from retirement to coach Robinson's football team two weeks after his last day as its principal.",
+    "Three of his children went into the Army, two through West Point."
+   ],
+   "events": [
+    {
+     "title": "Played nose guard for NC State under Lou Holtz",
+     "date": "1972",
+     "place": "Raleigh, North Carolina, USA"
+    },
+    {
+     "title": "Head coach, Orange High School",
+     "date": "ABT 1982",
+     "place": "Hillsborough, North Carolina, USA",
+     "description": "Took a 1-9 team to 21-9 over three seasons."
+    },
+    {
+     "title": "First head coach of West Potomac High School",
+     "date": "1985",
+     "place": "Alexandria, Virginia, USA",
+     "description": "68-16 in seven seasons; state champions 1989 and 1990."
+    },
+    {
+     "title": "Virginia AAA state champions, West Potomac",
+     "date": "1989"
+    },
+    {
+     "title": "Virginia AAA state champions, West Potomac",
+     "date": "1990"
+    },
+    {
+     "title": "Head coach, Chantilly High School",
+     "date": "1992",
+     "place": "Chantilly, Virginia, USA",
+     "description": "47-12 in five seasons."
+    },
+    {
+     "title": "Virginia AAA Division 6 state champions, Chantilly",
+     "date": "1996",
+     "description": "13-1, co-No. 1 in the Washington area."
+    },
+    {
+     "title": "Resigned from coaching to enter school administration",
+     "date": "1997-07"
+    },
+    {
+     "title": "Principal, Rocky Run Middle School",
+     "date": "2001",
+     "place": "Chantilly, Virginia, USA"
+    },
+    {
+     "title": "Principal, Robinson Secondary School",
+     "date": "2003",
+     "place": "Fairfax, Virginia, USA"
+    },
+    {
+     "title": "Retired from Fairfax County Public Schools; named Robinson head football coach",
+     "date": "2013-04-01"
+    },
+    {
+     "title": "Inducted into the West Potomac Athletic Hall of Fame",
+     "date": "2019"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Married",
+     "value": "Annie Meier."
+    },
+    {
+     "label": "Children",
+     "value": "Mike (c.1989), Timmy (c.1991), Joe (c.1993) and Mary (c.1995)."
+    },
+    {
+     "label": "Education",
+     "value": "North Carolina State University (football, 1972–75)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "Washington Post, 15 Aug 1985: first head coach of West Potomac",
+     "date": "1985-08-15",
+     "source": "Press",
+     "note": "",
+     "url": "https://www.washingtonpost.com/archive/local/1985/08/15/football-practice-opens-with-five-new-coaches/05b4f8f7-5f1e-48e6-baec-b7a6ef29220b/"
+    },
+    {
+     "type": "link",
+     "title": "Washington Post, 11 Jul 1997: Chantilly's Meier resigns as football coach",
+     "date": "1997-07-11",
+     "source": "Press",
+     "note": "",
+     "url": "https://www.washingtonpost.com/archive/sports/1997/07/11/chantillys-meier-resigns-as-schools-football-coach/d8987f7e-f4c8-42a6-8b3b-6aefc16befae/"
+    },
+    {
+     "type": "link",
+     "title": "Washington Post, 12 Apr 2013: retired Robinson principal takes over as football coach",
+     "date": "2013-04-12",
+     "source": "Press",
+     "note": "",
+     "url": "https://www.washingtonpost.com/sports/highschools/retired-robinson-principal-dan-meier-takes-over-as-rams-interim-football-coach/2013/04/12/90af1d24-a3c9-11e2-82bc-511538ae90a4_story.html"
+    },
+    {
+     "type": "link",
+     "title": "Fairfax Station Connection, 26 Jun 2013: Meier reflects on his decade at Robinson",
+     "date": "2013-06-26",
+     "source": "Press",
+     "note": "",
+     "url": "https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    },
+    {
+     "type": "link",
+     "title": "West Potomac Athletic Hall of Fame, inaugural class 2019",
+     "date": "2019",
+     "source": "Press",
+     "note": "",
+     "url": "https://www.supportwestpotomac.com/2019-inductees.html"
+    },
+    {
+     "type": "link",
+     "title": "NOVA Legends Podcast: Coach Danny Meier",
+     "date": "2024",
+     "source": "Press",
+     "note": "",
+     "url": "https://www.youtube.com/watch?v=WvdSYyTd6aw"
+    },
+    {
+     "type": "link",
+     "title": "The Highlander (McLean HS), 17 May 2018: Daniel Meier brings expertise to McLean",
+     "date": "2018-05-17",
+     "source": "Press",
+     "note": "",
+     "url": "https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/"
+    }
    ],
    "birthDateReduced": true
   },
@@ -33632,6 +34417,135 @@ window.FAMILY_DATA = {
     "Owner's statement, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
    ]
+  },
+  {
+   "id": "M0022",
+   "given": "Annie",
+   "surname": "Meier",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Wife of Danny Meier, named with age in the Fairfax Station Connection, 26 Jun 2013."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    }
+   ],
+   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. Secretary in the Fairfax County superintendent's office in 2013.",
+   "sources": [
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+   ]
+  },
+  {
+   "id": "M0023",
+   "given": "Michael",
+   "surname": "Meier",
+   "sex": "M",
+   "nickname": "Mike",
+   "birth": {
+    "date": "1989"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of Danny and Annie Meier, named with age in the Fairfax Station Connection, 26 Jun 2013."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    }
+   ],
+   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. An Army second lieutenant at Fort Sill in 2013.",
+   "sources": [
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0024",
+   "given": "Timothy",
+   "surname": "Meier",
+   "sex": "M",
+   "nickname": "Timmy",
+   "birth": {
+    "date": "1991"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of Danny and Annie Meier, named with age in the Fairfax Station Connection, 26 Jun 2013."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    }
+   ],
+   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
+   "sources": [
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0025",
+   "given": "Joseph",
+   "surname": "Meier",
+   "sex": "M",
+   "nickname": "Joe",
+   "birth": {
+    "date": "1993"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of Danny and Annie Meier, named with age in the Fairfax Station Connection, 26 Jun 2013."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    }
+   ],
+   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
+   "sources": [
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0026",
+   "given": "Mary",
+   "surname": "Meier",
+   "sex": "F",
+   "birth": {
+    "date": "1995"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of Danny and Annie Meier, named with age in the Fairfax Station Connection, 26 Jun 2013."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    }
+   ],
+   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A 2013 Robinson graduate planning a music career.",
+   "sources": [
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+   ],
+   "birthDateReduced": true
   }
  ],
  "families": [
@@ -36940,14 +37854,25 @@ window.FAMILY_DATA = {
    ]
   },
   {
-   "id": "CF0387",
+   "id": "MF0005",
+   "husband": "M0013",
+   "wife": "M0022",
+   "children": [
+    "M0023",
+    "M0024",
+    "M0025",
+    "M0026"
+   ]
+  },
+  {
+   "id": "CF0388",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0388",
+   "id": "CF0389",
    "children": [
     "I282608085305"
    ],
@@ -36956,7 +37881,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 349,
-  "research": 535
+  "research": 540
  },
  "stories": [
   {

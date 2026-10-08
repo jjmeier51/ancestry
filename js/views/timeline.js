@@ -43,7 +43,7 @@
             el('div', { class: 'tl-body' }, [
               el('div', { class: 'tl-date', text: F.formatDate(e.date) }),
               el('div', { class: 'tl-title' }, title),
-              e.place ? el('div', { class: 'muted small', text: e.place }) : null,
+              e.place ? el('div', { class: 'muted small' }, [A.placeLink(e.place)]) : null,
               e.description ? el('div', { class: 'muted small', html: A.md(e.description) }) : null
             ])
           ]));

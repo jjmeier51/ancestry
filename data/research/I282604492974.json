@@ -86,6 +86,10 @@
     {
       "label": "Children",
       "value": "Kathryn (c.1955), Daniel (c.1956), James (c.1958), Thomas Francis (1959), Susan (c.1960), Nancy (c.1961), John (c.1962), Theresa (c.1963)."
+    },
+    {
+      "label": "Marriage",
+      "value": "Married Kathryn F. McGuire; widowed in 1970 and never remarried (owner's statement, 8 Oct 2026)."
     }
   ],
   "sources": [
@@ -106,7 +110,6 @@
     "Marriage date/place with Kathryn F. McGuire (not found).",
     "When did the family move to Levittown, PA (built 1952–58)?",
     "Military service (Korea era): VA BIRLS / gravesite locator.",
-    "His 13 Aug 2008 obituary (Bucks County Courier Times, GenealogyBank/NewsBank) should name his nine children and any second wife.",
     "Courier Times obituaries for Mary R. Meier (26 Nov 2003), Kathleen T. Meier (15 Aug 2006) and Fred Meier (15 Jul 2012), all Levittown: check whether they are his wife, siblings or children."
   ],
   "handoff": {
@@ -130,6 +133,10 @@
     {
       "date": "2026-10-08",
       "note": "Owner listed all eight children (8 Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner: James never remarried after Kathryn's death in 1970."
     }
   ]
 }
