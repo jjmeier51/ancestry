@@ -25,6 +25,8 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
 | `research/LOG.md` | Chronological research log (what was searched, found, ruled out, next steps) | Claude, every session |
 | `research/people/<personId>.md` | Optional long-form research notes per person (evidence, reasoning, open questions) | Claude |
 | `data/additions.json` | People and families the research added beyond the GEDCOM, plus parent corrections (`setParents`) for GEDCOM people. **Generated** by `scripts/import_handoff.py`; later research additions can be appended by hand (ids `H####`, families `HF####`). | script + Claude |
+| `data/additions-manual.json` | Hand-maintained additions in the same shape as `additions.json` (people `M####`, `setParents`, families `MF####`). Applied by `build.py` after the generated file. Use this for people added after the handoff (e.g. the owner's brothers). | Claude + owner |
+| `data/story-exclusions.json` | Story ids hidden from the site because they are research notes or corrections, not family stories (their text stays in `data/stories.json` and `research/story-notes.md`). | Claude |
 | `data/handoff_ids.json` | Stable id map for people created from the handoff. Never edit. | script only |
 | `research/imported/` | The owner's uploaded research reports and the 1.3 MB project handoff (Oct 2026). Read-only sources. | owner uploads |
 | `research/lines.md`, `sources.md`, `open-questions.md`, `owner-preferences.md` | Reference copies of the handoff's lineage narrative, sources consulted, open questions and the owner's stated preferences. Start research here. | script; Claude appends |
@@ -42,7 +44,7 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
 
 ## Key facts (Oct 2026 state)
 
-- Owner: John "Johnny" Meier, b. 1992 Alexandria VA, id `I282604492552`. Parents Thomas F. Meier (b. 1959) and Sharon M. Petriello (b. 1960).
+- Owner: John Joseph "Johnny" Meier, b. 16 Jun 1992 Alexandria City Hospital, lives in Ashburn VA, id `I282604492552`. Parents Thomas F. Meier (b. 1959) and Sharon M. Petriello (b. 1960). Brothers Thomas Francis "Tommy" Meier Jr. (`M0001`, b. 30 Jul 1990) and Matthew "Matt" Meier (`M0002`, b. 22 Jan 1998), both in Ashburn VA. The owner supplied these details on 8 Oct 2026 and approved showing them.
 - Meier line (confirmed to Munzingen, Baden): James C. (1928–2008) → William F. (c.1904–1963) → Henry J. (1866–1940) → Friedrich Mayer (1835–1913) → Heinrich Mayer (c.1796) → Michael Mayer, carpenter. Spelling went Mayer → Meyer/Myer → Meier (first on the 1892 marriage docket).
 - Only proven Revolutionary patriot: Ensign Thomas Lamoreaux (SAR P-232580). Bull Smith of Smithtown is a 10th-great-grandfather (`I282608065309`).
 - Blood cousins include President Benjamin Harrison (6C5R), First Ladies Anna Symmes Harrison and Julia Gardiner Tyler, Titanic victim James Clinch Smith, NYC Mayor Cornelius Van Wyck Lawrence. See `research/lines.md`.
@@ -105,6 +107,17 @@ Any key here overlays the same key on the person from `tree.json`.
 
 Change confidence only with a sources entry and a researchLog note explaining
 why.
+
+## What counts as a story
+
+The Stories page is for family history: events, anecdotes, traditions, places
+and people. Never publish research process as a story ("the tree was wrong
+about X", "record Y confirms Z", ruled-out leads). That belongs in
+`research/LOG.md`, the person's `researchLog`, or `research/story-notes.md`.
+If the owner reports a correction, log it; do not write it up as a story.
+
+A research file with `"manual": true` is hand-maintained (the owner's own
+details, for example) and is never overwritten by `import_handoff.py`.
 
 ## Conventions
 
