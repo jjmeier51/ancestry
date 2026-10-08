@@ -144,6 +144,7 @@ details, for example) and is never overwritten by `import_handoff.py`.
 - `js/views/profile.js` — person page sections
 - Maps: `A.placeLink(place)` in `js/app.js` makes any place tappable; `A.showMap` opens a Leaflet sheet (cdnjs, OpenStreetMap tiles, dark CSS filter) using `data/places.json` coordinates.
 - `scripts/` — `import_gedcom.py`, `build.py`, `attach_media.py`, `geocode_places.py`, `import_handoff.py` (one-off merge of the project handoff), `attach_drive_screenshots.py` (one-off)
+- Media hunting: `scripts/find_wikitree.py --attach` matches deceased people to WikiTree profiles (public API, 1 req/s) and attaches the profile link, Find a Grave links quoted in the profile and up to four images (report `research/wikitree-matches.json`; re-run to pick up new people, `retry` entries are redone). `scripts/find_wikipedia_media.py --tagged --attach` does the same against Wikipedia/Wikidata/Commons for people with a `notable`/public-role tag (report `research/wikipedia-matches.json`). Wikimedia throttles this environment's shared IP hard (HTTP 429 after almost every call), so that pass is slow; WikiTree is not throttled. The 104 Ancestry photos referenced in the GEDCOM (`ancestryMedia`) cannot be downloaded without login: the owner must export them from Ancestry or share them via Drive.
 
 Test locally: `python3 -m http.server 8000` then open http://localhost:8000.
 Run `python3 scripts/build.py --check` before committing.

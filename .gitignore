@@ -5,3 +5,4 @@ node_modules/
 *.ged.bak
 __pycache__/
 .vercel
+.cache/

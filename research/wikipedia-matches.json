@@ -1,0 +1,44 @@
+{
+ "I282608065309": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "names": [
+   "Richard Smith",
+   "Richard \"Bull\" Smith",
+   "Bull Smith"
+  ]
+ },
+ "I282608083519": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "names": [
+   "Thomas Topping",
+   "Capt. Thomas Topping",
+   "Thomas Toppyn"
+  ]
+ },
+ "I282695486911": {
+  "status": "matched",
+  "title": "Anna Harrison",
+  "qid": "Q255190",
+  "url": "https://en.wikipedia.org/wiki/Anna_Harrison",
+  "wd_birth": 1775,
+  "wd_death": 1864,
+  "image": "Anna Symmes Harrison.jpg",
+  "extract": "Anna Tuthill Harrison (née Symmes; July 25, 1775 – February 25, 1864) was the first lady of the United States in 1841 as the wife of President William Henry Harrison. She served in the role for only one month, as her husband contracted pneumonia and died shortly after his term began.",
+  "query": "\"Anna Symmes Harrison\"",
+  "checked": "2026-10-08"
+ },
+ "H0307": {
+  "status": "matched",
+  "title": "Cornelius Lawrence",
+  "qid": "Q336781",
+  "url": "https://en.wikipedia.org/wiki/Cornelius_Lawrence",
+  "wd_birth": 1791,
+  "wd_death": 1861,
+  "image": "Cornelius Van Wyck Lawrence.jpg",
+  "extract": "Cornelius Van Wyck Lawrence (February 28, 1791 – February 20, 1861) was an American politician from New York. He became the first popularly elected mayor of New York City after the law was changed in 1834.",
+  "query": "\"Cornelius Van Wyck Lawrence\"",
+  "checked": "2026-10-08"
+ }
+}

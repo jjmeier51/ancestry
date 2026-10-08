@@ -55,5 +55,23 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile McGuire-4412",
+      "date": "",
+      "source": "WikiTree",
+      "note": "James Andrew McGuire, 1861-06-05 – 1928-03-01",
+      "url": "https://www.wikitree.com/wiki/McGuire-4412"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree McGuire-4412)",
+      "note": "",
+      "url": "https://www.findagrave.com/memorial/188066765/james-andrew-mcguire:"
+    }
   ]
 }
