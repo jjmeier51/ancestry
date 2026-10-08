@@ -2,38 +2,45 @@
   "id": "I282695503435",
   "link": {
     "confidence": "confirmed",
-    "note": "Named as Sharon M. Petriello's father in the Ancestry tree; his marriage to Mary Cognetti is confirmed by Leo S. Cognetti's 2019 obituary (sister \"Mary Petriello (John)\"), and the 2024 obituary of John T. Petriello Jr. names the parents John and Mary Petriello and sibling \"Sharon Meier (Thomas)\". Parentage (James + Mollie) rests on the tree plus the Round 1/2 analysis that 'Mollie' is James's wife."
+    "note": "Sharon Meier's father; his 2025 obituary names Sharon and Tommy Meier and their sons Tommy, Johnny and Matthew."
   },
   "given": "John T.",
   "surname": "Petriello",
   "birth": {
-    "date": "ABT 1933",
-    "place": "Wilkes-Barre, Luzerne, Pennsylvania, USA"
+    "date": "1932-05-19",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
   },
-  "tags": [],
-  "summary": "John's maternal grandfather; son of James Petriello and Carmela \"Mollie\" Gianetta of Dunmore/Scranton. The tree may show him as living; only what the files record is given here.",
-  "bio": "Ancestry tree: John T. Petriello, b. 1933, husband of Mary Cognetti (b. 1933), parents of Sharon M. Petriello (b. 1960). The tree lists his siblings as James and Ann Marie (1934). The tree originally showed his parents as James Petriello (1911-1998) + 'Mollie' (b. 1911); Round 1 established that Mollie is James's wife (John T.'s mother), not Mary Cognetti (the confusion arose because 'Mollie' is a pet form of Mary). Round 2 identified Mollie as Carmela Gianetta (1910-2000). Through his father he descends from Guardia Lombardi (Avellino) and through his mother from Bisaccia and Sant'Angelo dei Lombardi (Avellino), so he and the whole Petriello side are wholly Irpinian. The obituary of his son John T. Petriello Jr. (d. 29 Feb 2024) says John Jr. was the eldest of the three children of John and Mary Petriello, born and raised in Scranton. Living people were not researched beyond names already in the tree.",
+  "tags": [
+    "military"
+  ],
+  "summary": "Sharon Meier's father: Korean War Air Force veteran, Tobyhanna Army Depot staffing specialist who built its program for hiring severely handicapped workers, and for 14 years Director of Personnel at Lackawanna College.",
+  "bio": "John T. \"Johnny\" Petriello Sr. was born and raised in Scranton, the son of James and Mollie (Gianetta) Petriello. He graduated from Dunmore High School and attended New Mexico Western College, Lackawanna College and Penn State University.\n\nHe served four years in the US Air Force as a staff sergeant and was a Korean War veteran. He retired from Tobyhanna Army Depot as a Staffing Specialist and Depot Program Manager for the Handicapped; he had a passion for hiring severely handicapped people and his program earned the depot national recognition within the Department of the Army, including a citation from General William McGrath. After retiring from government service he was Director of Personnel at Lackawanna College for 14 years.\n\nA devout Catholic, he was a Eucharistic Minister at St. Anthony's Church, Scranton, and a member of Holy Rosary Church. He and his wife Mary spent decades of family vacations on the Jersey Shore and many winters in Cocoa Beach, Florida. He was an avid hunter who raised beagles and looked forward every year to the first week of buck season at hunting camp.\n\nHe died peacefully on 1 March 2025, aged 92, predeceased by his son John Jr. (2024). He was survived by his wife Mary Cognetti Petriello, daughter Sharon Meier and son-in-law Tommy Meier, son Paul and daughter-in-law Rebecca, daughter-in-law Joanne, nine grandchildren and four great-grandchildren, his sister Ann Marie Genello and his brother Jim Petriello (MaryEllen). His funeral Mass was at the Church of St. Gregory, Clarks Green, with private interment in Cathedral Cemetery, Scranton.",
   "residences": [
     {
-      "date": "ABT 1958",
-      "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+      "date": "1932–2025",
+      "place": "Scranton, Pennsylvania, USA"
     }
   ],
   "facts": [
     {
-      "label": "Siblings (tree)",
-      "value": "James Petriello; Ann Marie Petriello (b. 1934)"
+      "label": "Siblings",
+      "value": "Sister Ann Marie Genello; brother Jim Petriello (wife MaryEllen)."
     },
     {
-      "label": "Tree display (IMG_7830-7840)",
-      "value": "John T Petriello 1933-Living"
+      "label": "Grandchildren",
+      "value": "Marisa (Zach) Westlake, John (Samantha) and James (Emily) Petriello; Tommy (Laura), Johnny (Shannon) and Matthew Meier; Jack and Mollie Petriello."
+    },
+    {
+      "label": "Great-grandchildren",
+      "value": "William, Alex and Olivia Westlake; Luca Meier."
     }
   ],
   "sources": [
     "Ancestry tree transcription (research/tree_transcription.md): John T. Petriello (b. 1933) + Mary Cognetti (b. 1933); siblings James, Ann Marie (1934)",
     "Echovita obituary of Leo S. Cognetti (2019), sister listed as \"Mary Petriello (John)\": https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
     "Montgomery News obituary of John T. Petriello Jr. (d. 29 Feb 2024): https://themontynews.org/single-post/john-t-petriello-jr-65",
-    "notes/italian.md section 2.3; notes/round2/italian_gaps.md sections 1 and 5"
+    "notes/italian.md section 2.3; notes/round2/italian_gaps.md sections 1 and 5",
+    "Obituary of John T. Petriello Sr., Solfanelli-Fiorillo Funeral Home, Scranton, March 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
   ],
   "mediaKnown": [
     "Ancestry tree profile (screenshot transcription)"
@@ -55,6 +62,55 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"John Thomas Petriello\"; research uses \"John T. Petriello\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Found his 2025 obituary: born 19 May 1932 (the tree said 1933), died 1 Mar 2025 Scranton; Air Force staff sergeant, Korean War; Tobyhanna Army Depot; Lackawanna College. Full text saved in research/people/I282695503435-obituary-2025.txt."
+    }
+  ],
+  "suffix": "Sr.",
+  "nickname": "Johnny",
+  "sex": "M",
+  "death": {
+    "date": "2025-03-01",
+    "place": "Scranton, Lackawanna, Pennsylvania, USA"
+  },
+  "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania, USA"
+  },
+  "occupation": "Staffing specialist and program manager, Tobyhanna Army Depot; later Director of Personnel, Lackawanna College",
+  "military": [
+    {
+      "branch": "US Air Force",
+      "service": "c.1951–1955",
+      "rank": "Staff Sergeant",
+      "theatre": "Korean War era",
+      "note": "Four years' service; Korean War veteran (2025 obituary)."
+    }
+  ],
+  "funFacts": [
+    "Known as Johnny.",
+    "Raised beagles and never missed the first week of buck season at hunting camp.",
+    "Wintered in Cocoa Beach, Florida, and summered on the Jersey Shore with the family."
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "Obituary of John T. Petriello Sr. (1932–2025)",
+      "date": "2025-03",
+      "source": "Solfanelli-Fiorillo Funeral Home, Scranton",
+      "note": "",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "people": [
+        "I282604492910",
+        "I282695503537",
+        "H0348",
+        "H0349",
+        "I282604492836",
+        "I282604492552",
+        "M0001",
+        "M0002"
+      ]
     }
   ]
 }

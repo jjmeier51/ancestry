@@ -2,7 +2,7 @@
   "id": "I282604492910",
   "link": {
     "confidence": "confirmed",
-    "note": "John's mother, as shown in his tree and the Bull Smith PDF. John T. Petriello Jr.'s 2024 obituary independently names his sister 'Sharon Meier (Thomas)'."
+    "note": "The owner's mother. Her father's 2025 obituary names 'daughter Sharon Meier & son in law Tommy Meier and their boys Tommy, Johnny & Mathew'."
   },
   "given": "Sharon M.",
   "surname": "Petriello",
@@ -19,14 +19,24 @@
   "bio": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.",
   "facts": [
     {
-      "label": "Siblings in the records",
-      "value": "John T. Petriello Jr. (c.1958 – 2024-02-29), the eldest of the three children of John and Mary Petriello, born and raised in Scranton; and Paul. Both are named in John Jr.'s obituary, which also names a cousin Ann Marie."
+      "label": "Siblings",
+      "value": "John T. Petriello Jr. (1958–2024) and Paul Petriello."
+    },
+    {
+      "label": "Married",
+      "value": "Thomas F. \"Tommy\" Meier Sr."
+    },
+    {
+      "label": "Children",
+      "value": "Thomas Jr. (Tommy), John (Johnny) and Matthew."
     }
   ],
   "sources": [
     "John's Ancestry tree screenshots",
     "Richard_Bull_Smith_Lineage.pdf",
-    "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)"
+    "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
   ],
   "handoff": {
     "section": "3.1 John and his parents",
@@ -41,6 +51,10 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Sharon Maria Petriello\"; research uses \"Sharon M. Petriello\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Her father John T. Petriello Sr. died 1 Mar 2025; her mother Mary was living then. Both brothers and all three sons confirmed by the obituaries."
     }
   ]
 }

@@ -1,15 +1,17 @@
 {
   "id": "H0349",
   "link": {
-    "confidence": "probable",
-    "note": "Named only as surviving sibling 'Paul' in John T. Petriello Jr.'s 2024 obituary; presumably living; not researched. Surname assumed."
+    "confidence": "confirmed",
+    "note": "Named as Sharon's brother in his brother's 2024 and father's 2025 obituaries."
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's maternal uncle (presumably living).",
+  "summary": "Sharon Meier's younger brother; a living person, so recorded only from family obituaries.",
   "bio": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary.",
   "sources": [
-    "https://themontynews.org/single-post/john-t-petriello-jr-65"
+    "https://themontynews.org/single-post/john-t-petriello-jr-65",
+    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -20,6 +22,22 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confirmed from the 2024 and 2025 Petriello obituaries; wife Rebecca, children Jack and Mollie."
+    }
+  ],
+  "given": "Paul",
+  "surname": "Petriello",
+  "facts": [
+    {
+      "label": "Married",
+      "value": "Rebecca."
+    },
+    {
+      "label": "Children",
+      "value": "Jack and Mollie."
     }
   ]
 }

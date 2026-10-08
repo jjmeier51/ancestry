@@ -38,7 +38,7 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
 2. Look for standout people: war heroes, celebrities, athletes, politicians; include distant cousins, not only direct ancestors.
 3. Highlight ties to **Long Island**, **Northeastern Pennsylvania** and **Virginia**.
 4. Fill gaps, add colour (interesting facts), convert probable links to confirmed with records, push the Meier line back, pin every line to specific towns and people.
-5. Label every finding with confidence and a source. Living people are not researched beyond names already in the tree.
+5. Label every finding with confidence and a source. Living people outside the owner's immediate family are not researched beyond names already in the tree. On 8 Oct 2026 the owner asked for research on his immediate living family (his household, his father's siblings, his mother's brothers): use public records and obituaries only, never people-search sites, and never record addresses or phone numbers.
 6. Short questions get short answers.
 7. The owner's Google Drive folder of Ancestry screenshots is public: https://drive.google.com/drive/folders/1nLAbzaMlKOSgimj590vLgkfDQMesBRVJ (already downloaded and attached as media).
 
