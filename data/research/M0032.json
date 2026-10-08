@@ -2,13 +2,23 @@
   "id": "M0032",
   "link": {
     "confidence": "confirmed",
-    "note": "Child of John's aunt Nancy, per John Meier."
+    "note": "John's first cousin: son of Nancy (Meier) and Tony Russo per John, and Temple's and Michigan State's official bios name his parents and his uncle Dan Meier."
   },
-  "tags": [],
-  "summary": "Son of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
+  "tags": [
+    "athlete"
+  ],
+  "summary": "John's first cousin: record-setting Temple quarterback (2016–20) from Archbishop Wood who finished at Michigan State and played professionally in 2023.",
   "manual": true,
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027",
+    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282",
+    "Wikipedia, \"Anthony Russo (American football)\": https://en.wikipedia.org/wiki/Anthony_Russo_(American_football)",
+    "6abc Philadelphia, 17 Jan 2016, \"Archbishop Wood QB chooses Temple Owls amid top offers\": https://6abc.com/archbishop-wood-catholic-high-school-anthony-russo-temple-university-rutgers/1189107/",
+    "EasternPAFootball.com, 16 Jan 2016, Anthony Russo commits to Temple (2015 season: 134 of 200, 2,452 yards, 35 TD; 11-1): https://www.easternpafootball.com/?p=30467",
+    "Philadelphia Inquirer, 5 Aug 2019, \"Anthony Russo ready to face the microscope as Temple's starting QB\": https://www.inquirer.com/sports/anthony-russo-temple-football-archbishop-wood-american-athletic-conference-20190805.html",
+    "Philadelphia Inquirer, 3 Dec 2020, \"Temple University quarterback Anthony Russo enters college football transfer portal\": https://www.inquirer.com/college-sports/temple/temple-anthony-russo-transfer-portal-20201203.html",
+    "Bucks County Courier Times via Yahoo Sports, 22 Nov 2022, \"Archbishop Wood graduate Anthony Russo set to play professional football in XFL\": https://sports.yahoo.com/archbishop-wood-graduate-anthony-russo-230036048.html"
   ],
   "researchLog": [
     {
@@ -30,9 +40,142 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0032.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John identified him as the Archbishop Wood/Temple/Michigan State quarterback. Temple and MSU bios name his parents Nancy and Tony Russo, sisters Chelsea (26), Emily (23) and Gina (18) in 2020, and uncle Dan Meier (NC State): public confirmation of the Russo–Meier link. Career from Wikipedia and the bios; birth date 6 Dec 1997 from Wikipedia."
     }
   ],
   "openQuestions": [
     "Son of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
+  ],
+  "bio": "Anthony Russo Jr. was born in Doylestown, Pennsylvania, on 6 December 1997, the son of Tony and Nancy (Meier) Russo, and grew up with three sisters, Chelsea, Emily and Gianna. He is John's first cousin, and the football ran in the family: his uncles Danny, Tommy and Jamie Meier all coached high-school football in Virginia, and his college bios note that his uncle Dan Meier played at North Carolina State.\n\nAt Archbishop Wood Catholic High School in Warminster he was a three-year starting quarterback for coach Steve Devlin, winning Catholic League titles and state championships. As a senior in 2015 he completed 134 of 200 passes for 2,452 yards and a Catholic League record 35 touchdowns as the Vikings went 11-1; he was first-team all-state, Catholic League MVP, the Maxwell Award's Tri-State High School Player of the Year and an Elite 11 finalist, and 247Sports ranked him the nation's No. 21 pro-style quarterback. He had committed early to Rutgers, but in January 2016, a day after LSU's Les Miles visited, he chose to stay home and signed with Temple.\n\nHe redshirted in 2016 and made his first appearance in 2017 as the holder against UCF. In 2018 he took over as Temple's starter, winning his first start 35-14 at Maryland, and the Owls went 7-3 in his starts; he threw for 2,563 yards and 14 touchdowns. In 2019 he started all 13 games of an 8-5 season, passed for 2,861 yards and 21 touchdowns, became the first Temple quarterback with two 400-yard games and set the school's single-season record with 246 completions, earning a Davey O'Brien Great 8 national quarterback-of-the-week award. His 2020 season was cut to three starts by injury and the pandemic, but he threw four touchdown passes in each of the first two games and set Temple's single-game records for attempts and completions (41) at Memphis. He finished with 31 games, 26 starts, a 16-10 record, 6,292 passing yards and 44 touchdowns, third on the school's all-time lists, and took his degree in advertising in the spring of 2020.\n\nIn January 2021 he transferred to Michigan State as a graduate student, where he played two games behind Payton Thorne. Undrafted in 2022, he worked out at the Carolina Panthers' rookie camp, was drafted by the XFL's San Antonio Brahmas in November 2022 and released before the season, then signed with the Massachusetts Pirates of the Indoor Football League in April 2023, took over as starter and led the team through an unbeaten home season, earning third-team All-IFL honours. He retired from playing after that season.",
+  "facts": [
+    {
+      "label": "Position",
+      "value": "Quarterback, 6 ft 4 in, 235 lb"
+    },
+    {
+      "label": "Education",
+      "value": "Archbishop Wood Catholic High School, Warminster (2016); Temple University, BA advertising 2020; graduate study at Michigan State 2021"
+    },
+    {
+      "label": "Honours",
+      "value": "First-team all-state, Catholic League MVP and Maxwell Award Tri-State Player of the Year 2015; Elite 11 finalist; Temple single-season completions record (246, 2019) and single-game attempts and completions records (2020); Davey O'Brien Great 8 (2019); third-team All-IFL 2023"
+    },
+    {
+      "label": "Parents",
+      "value": "Tony and Nancy (Meier) Russo"
+    },
+    {
+      "label": "Sisters",
+      "value": "Chelsea, Emily and Gianna Russo"
+    }
+  ],
+  "events": [
+    {
+      "title": "Catholic League record 35 touchdown passes",
+      "date": "2015",
+      "place": "Warminster, Bucks County, Pennsylvania, USA",
+      "description": "Senior season at Archbishop Wood: 134 of 200 for 2,452 yards; team 11-1."
+    },
+    {
+      "title": "Committed to Temple",
+      "date": "2016-01-16",
+      "place": "Philadelphia, Pennsylvania, USA",
+      "description": "Chose Temple over Rutgers and late interest from LSU."
+    },
+    {
+      "title": "First college start",
+      "date": "2018",
+      "place": "College Park, Maryland, USA",
+      "description": "Won 35-14 at Maryland after replacing the injured Frank Nutile; Temple went 7-3 in his starts."
+    },
+    {
+      "title": "Temple single-season completions record",
+      "date": "2019",
+      "place": "Philadelphia, Pennsylvania, USA",
+      "description": "246 completions, 2,861 yards and 21 touchdowns; first Temple quarterback with two 400-yard passing games."
+    },
+    {
+      "title": "Graduate transfer to Michigan State",
+      "date": "2021-01",
+      "place": "East Lansing, Michigan, USA",
+      "description": "Two appearances behind Payton Thorne."
+    },
+    {
+      "title": "Third-team All-IFL, Massachusetts Pirates",
+      "date": "2023",
+      "place": "Worcester, Massachusetts, USA",
+      "description": "Signed in April 2023 after an XFL stint with the San Antonio Brahmas; led an unbeaten home season."
+    }
+  ],
+  "residences": [
+    {
+      "date": "1997–2016",
+      "place": "Doylestown, Bucks County, Pennsylvania, USA"
+    },
+    {
+      "date": "2016–2020",
+      "place": "Philadelphia, Pennsylvania, USA",
+      "note": "Temple University"
+    },
+    {
+      "date": "2021",
+      "place": "East Lansing, Michigan, USA",
+      "note": "Michigan State University"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Anthony_Russo_(American_football)",
+      "type": "link",
+      "title": "Wikipedia: Anthony Russo (American football)",
+      "date": "",
+      "source": "Wikipedia",
+      "note": "",
+      "people": []
+    },
+    {
+      "url": "https://owlsports.com/sports/football/roster/anthony-russo/14027",
+      "type": "link",
+      "title": "Temple Owls roster bio: Anthony Russo, QB No. 15",
+      "date": "2020",
+      "source": "Temple University Athletics",
+      "note": "",
+      "people": [
+        "M0016",
+        "M0031"
+      ]
+    },
+    {
+      "url": "https://msuspartans.com/sports/football/roster/anthony-russo/11282",
+      "type": "link",
+      "title": "Michigan State roster bio: Anthony Russo, QB",
+      "date": "2021",
+      "source": "Michigan State University Athletics",
+      "note": "",
+      "people": [
+        "M0013"
+      ]
+    },
+    {
+      "url": "https://6abc.com/archbishop-wood-catholic-high-school-anthony-russo-temple-university-rutgers/1189107/",
+      "type": "link",
+      "title": "6abc: Archbishop Wood QB chooses Temple Owls amid top offers",
+      "date": "2016-01-17",
+      "source": "6abc Philadelphia",
+      "note": "",
+      "people": []
+    },
+    {
+      "url": "https://sports.yahoo.com/archbishop-wood-graduate-anthony-russo-230036048.html",
+      "type": "link",
+      "title": "Courier Times: Archbishop Wood graduate Anthony Russo set to play professional football in XFL",
+      "date": "2022-11-22",
+      "source": "Bucks County Courier Times via Yahoo Sports",
+      "note": "",
+      "people": []
+    }
   ]
 }

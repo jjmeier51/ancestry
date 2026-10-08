@@ -5,7 +5,7 @@
     "note": "Married to John's aunt Kathy, per John Meier."
   },
   "tags": [],
-  "summary": "Husband of Kathy (Meier) McGinley; uncle by marriage of John Meier.",
+  "summary": "Richard 'Rick' McGinley, husband of Kathy (Meier) McGinley; of the Doylestown area; uncle by marriage of John Meier.",
   "manual": true,
   "sources": [
     "John Meier, family information, 8 Oct 2026"
@@ -34,6 +34,24 @@
     {
       "date": "2026-10-08",
       "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John: first name Richard, lives near Doylestown with Kathy; three children. No public record found."
+    }
+  ],
+  "bio": "Richard 'Rick' McGinley married Kathy Meier, the eldest sister of John's father. They have three children, Ryan, Daniel and Kate, and live near Doylestown, Pennsylvania.",
+  "residences": [
+    {
+      "date": "2020s",
+      "place": "Doylestown, Bucks County, Pennsylvania, USA",
+      "note": "near Doylestown"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Children",
+      "value": "Ryan, Daniel and Kate McGinley"
     }
   ]
 }

@@ -5387,5 +5387,47 @@
   "matched": "Vestal, Broome County, New York",
   "precision": "exact"
  },
- "probably Moosic or Scranton, Pennsylvania": null
+ "probably Moosic or Scranton, Pennsylvania": null,
+ "College Park, Maryland, USA": {
+  "lat": 38.98067,
+  "lon": -76.93692,
+  "label": "College Park, Prince George's County, Maryland, United States",
+  "matched": "College Park, Maryland, USA",
+  "precision": "exact"
+ },
+ "Doylestown, Bucks County, Pennsylvania, USA": {
+  "lat": 40.34517,
+  "lon": -75.12639,
+  "label": "Bucks County, Pennsylvania, United States",
+  "matched": "Bucks County, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "East Lansing, Michigan, USA": {
+  "lat": 42.73203,
+  "lon": -84.47217,
+  "label": "East Lansing, Ingham County, Michigan, United States",
+  "matched": "East Lansing, Michigan, USA",
+  "precision": "exact"
+ },
+ "Warminster, Bucks County, Pennsylvania, USA": {
+  "lat": 40.20678,
+  "lon": -75.09962,
+  "label": "Warminster Township, Bucks County, Pennsylvania, 18974, United States",
+  "matched": "Warminster, Bucks County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Worcester, Massachusetts, USA": {
+  "lat": 42.26256,
+  "lon": -71.80189,
+  "label": "Worcester, Worcester County, Massachusetts, United States",
+  "matched": "Worcester, Massachusetts, USA",
+  "precision": "exact"
+ },
+ "Yardley, Bucks County, Pennsylvania, USA": {
+  "lat": 40.24251,
+  "lon": -74.83897,
+  "label": "Yardley, Bucks County, Pennsylvania, United States",
+  "matched": "Yardley, Bucks County, Pennsylvania, USA",
+  "precision": "exact"
+ }
 }

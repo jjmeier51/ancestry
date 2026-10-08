@@ -2,13 +2,15 @@
   "id": "M0031",
   "link": {
     "confidence": "confirmed",
-    "note": "Married to John's aunt Nancy, per John Meier."
+    "note": "Husband of John's aunt Nancy Meier; named as Anthony Russo's father in Temple's and Michigan State's bios."
   },
   "tags": [],
-  "summary": "Husband of Nancy (Meier) Russo, known as Tony; uncle by marriage of John Meier.",
+  "summary": "Husband of Nancy (Meier) Russo, known as Tony; of Doylestown, Pennsylvania; father of the quarterback Anthony Russo Jr.; uncle by marriage of John Meier.",
   "manual": true,
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027",
+    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282"
   ],
   "researchLog": [
     {
@@ -34,7 +36,24 @@
     {
       "date": "2026-10-08",
       "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John: lives in Doylestown. Named in his son's Temple and MSU bios."
     }
   ],
-  "nickname": "Tony"
+  "nickname": "Tony",
+  "bio": "Anthony 'Tony' Russo married Nancy Meier, a sister of John's father, and they live in Doylestown, Bucks County, Pennsylvania, where they raised four children. Their son Anthony Jr. became a record-setting quarterback at Archbishop Wood and Temple University, and Tony is named as his father in his college bios.",
+  "residences": [
+    {
+      "date": "1990s–",
+      "place": "Doylestown, Bucks County, Pennsylvania, USA"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Children",
+      "value": "Anthony Jr., Chelsea, Gianna and Emily Russo"
+    }
+  ]
 }

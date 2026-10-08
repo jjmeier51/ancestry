@@ -182,8 +182,12 @@ def main():
             m = _re.search(r"\d{4}", str(b.get("date") or ""))
             living = not (d.get("date") or d.get("place")) and m and this_year - int(m.group()) <= 105
             if living and b.get("date") and b["date"].strip() != m.group():
+                core = _re.sub(r"^(ABT|ABOUT|CA|CIRCA|EST|BEF|BEFORE|AFT|AFTER|BET|BETWEEN|FROM|TO)\.?\s+", "", b["date"].strip(), flags=_re.I)
+                core = _re.split(r"\s+(AND|TO)\s+", core, flags=_re.I)[0].strip()
+                exact = core != m.group() and bool(_re.search(r"\d", core)) and not _re.fullmatch(r"\d{4}", core)
                 p["birth"] = dict(b, date=m.group())
-                p["birthDateReduced"] = True
+                if exact:  # only say "withheld" when a month or day was actually dropped, not for "ABT 1961"
+                    p["birthDateReduced"] = True
 
     places = load("data/places.json", {})
     data = dict(site)
