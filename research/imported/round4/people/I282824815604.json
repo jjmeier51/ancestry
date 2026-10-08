@@ -1,0 +1,52 @@
+{
+ "id": "I282824815604",
+ "name": "Francesca Moraca",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Francesca married Bruno Ferlaino on 3 November 1777 (S1). The marriage names her parents as Domenico Moraca and Domenica Mendicino, both new to the tree. She was the mother of both Nicola Maria (1778) and Vincenzo (1781) Ferlaino, so she is John's ancestor through two lines.",
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "I282824815608",
+   "evidence": "Marriage 1777",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "I282824815535",
+   "evidence": "Baptism 1778",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "I282824816492",
+   "evidence": "Baptism 1781",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 30, p. 54, no. 18; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 3 Nov 1777: Bruno Ferlaino (son of Cajetanus and Candida Colosimo) and Francisca Moraca (daughter of Domenicus Moraca and Domenica Mendicino) (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: marriage 3 Nov 1777; parents Domenico Moraca and Domenica Mendicino (new)."
+}

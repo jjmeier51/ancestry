@@ -1,0 +1,103 @@
+{
+  "id": "I282608085064",
+  "name": "Theresa Meier",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1868-09-10",
+      "place": "Hazleton, Luzerne County, Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Clarissa (1870 census)",
+      "Fressa (1880 census)",
+      "Teresa Boyle"
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1896-10-28",
+        "place": "Hazleton, Luzerne County, Pennsylvania",
+        "description": "Married Thomas A. Boyle (b. 7 Nov 1866 in Ireland, miner, of Hazle Twp), by Rev. E. W. Fitzmaurice. Licence No. 21146 was issued 13 Oct 1896. She gave her birth as 10 Sept 1868 at Hazleton, occupation general housework.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G7GQ-D75"
+      }
+    ]
+  },
+  "bioAdditions": "Theresa's own marriage application gives her birth as 10 September 1868 at Hazleton, not 1872 (S1). She married the Irish-born miner Thomas A. Boyle of Hazle Township at Hazleton on 28 Oct 1896. The priest was Rev. E. W. Fitzmaurice, who had also married her brother Fred in 1886 (S1). The 1868 date solves a puzzle in the tree. The 1870 census lists an infant 'Clarissa', born in Pennsylvania in September, and the 1880 census lists 'Fressa', 11. Both fit a girl born in Sept 1868 and are very likely Theresa herself, so the separate tree entry H0017 'Clarissa Meier' looks like a duplicate of her. It also removes the clash between two 1872 birth dates in the family (Elizabeth's 18 Feb 1872 stands). And it means the family had reached Pennsylvania by Sept 1868. The FamilySearch tree has her death on 11 Jan 1933 in Hanover Township and one daughter, Catherine Boyle (1897–1960) (S2). The 1933 state death index volume read here (M–N) does not cover Boyle, so the death is not yet checked in a record.",
+  "openQuestionsResolved": [
+    {
+      "question": "Birth date 10 Sep 1872 vs Elizabeth's 18 Feb 1872.",
+      "answer": "Her 1896 marriage docket gives 10 Sept 1868. The 1872 year is wrong.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Merge with H0017 'Clarissa Meier' (born Sept 1868/69): almost certainly the same girl.",
+    "PA death index 1933 (B volume) for Teresa/Theresa Boyle, Hanover Twp, 11 Jan 1933, to get the certificate number."
+  ],
+  "conflicts": [
+    {
+      "field": "birth",
+      "tree": "1872-09-10",
+      "found": "1868-09-10",
+      "note": "Her own marriage docket says 1868. The census ages (infant in 1870, 11 in 1880) agree with 1868/69."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "Her own marriage record names her parents' surname, her birthplace and her birth date, and it fits the censuses."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Luzerne County Orphans' Court Marriage License Docket, No. 21146: Thomas A. Boyle × Theresa Meier, licence 13 Oct 1896, married 28 Oct 1896 at Hazleton by E. W. Fitzmaurice (FamilySearch index 1:1:VF9K-ZC5)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-D75/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Birth 10 Sept 1868 Hazleton; marriage; groom's details"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch Family Tree, Theresa Meier (G7GQ-D75), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7GQ-D75",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Death 11 Jan 1933 Hanover Twp; daughter Catherine Boyle"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Luzerne County marriage docket No. 21146: Thomas A. Boyle and Theresa Meier, 1896",
+      "date": "1896-10-28",
+      "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-D75/images/i/1/image.jpg",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-D75/images/i/1/image.jpg",
+      "repository": "Luzerne County Orphans' Court (via FamilySearch)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282608085064/marriage-docket-1896-boyle-meier.jpg",
+      "people": [
+        "I282608085064",
+        "H0388"
+      ],
+      "suggestedFile": "media/I282608085064/marriage-docket-1896-boyle-meier.jpg",
+      "note": "A pre-1900 county government record."
+    }
+  ],
+  "researchLogEntry": "Round 4: read her 1896 marriage docket, which gives her birth as 10 Sept 1868 at Hazleton. She is the 1870 'Clarissa' and 1880 'Fressa', so H0017 is a duplicate.",
+  "researchedAt": "2026-10-08"
+}

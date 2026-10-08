@@ -1,0 +1,71 @@
+{
+  "id": "H0412",
+  "name": "Christopher Bittenbender",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1721 (FamilySearch)",
+      "place": "Palatinate",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "19 Jul 1805",
+      "place": "Easton, Northampton Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Will",
+        "date": "3 Mar 1803",
+        "place": "Northampton Co., PA",
+        "description": "Recorded in Northampton Co. Will Book 4 p.219 (FamilySearch citation; not read)",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Communicant, Williams Township congregation",
+        "date": "1770s",
+        "place": "Williams Twp, Northampton Co.",
+        "description": "'Christoph Buttenbender' appears in the same communicant list as 'Andreas Grub, w. Maria Elisabeth'",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LZRB-7YT"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch makes Christopher Bittenbender (1721-1805) of Williams Twp and Easton the second husband of Maria Elisabetha (Christmann) Grub. He emigrated in 1744 and first married at New Hanover in 1749. His first wife died on 7 May 1792, and he married the widow Grub, who had lost Andreas in Aug 1792, in about 1795 (S1). He and the Grubs belonged to the same congregation: 'Christoph Buttenbender' and 'Andreas Grub, w. Maria Elisabeth' both appear in its communicant list (S2). He died at Easton on 19 Jul 1805. His will of 3 Mar 1803 is in Northampton Will Book 4 p.219 and would show whether he provided for Maria Elisabetha (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Christopher Bittenbender (LZRB-7YT), citing Find a Grave index and 'Northampton Co PA, Will Book 4, p219'",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LZRB-7YT",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriages, will citation"
+    },
+    {
+      "ref": "S2",
+      "citation": "Church Records of the Williams Township Congregation, Northampton Co. (Pennsylvania-German Society, 1909), communicant list",
+      "url": "https://archive.org/stream/churchrecordsofw00will/churchrecordsofw00will_djvu.txt",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "same congregation as Andreas Grub"
+    }
+  ],
+  "openQuestionsNew": [
+    "Northampton Will Book 4 p.219 (1803/1805): does it name his wife Elizabeth (widow Grub)?"
+  ],
+  "researchLogEntry": "Round 4: FamilySearch dates him 1721-1805 and their marriage to about 1795; his will is at Will Book 4 p.219; he is in the same Williams Twp communicant list as Andreas Grub."
+}

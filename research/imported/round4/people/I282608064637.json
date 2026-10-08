@@ -1,0 +1,45 @@
+{
+ "id": "I282608064637",
+ "name": "Mary CONNOLE",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1928-05-01",
+   "place": "Wilkes-Barre, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "1928 #5835? (last digit unclear; indexed \"Hefferman, Mary\", W-Barre, May 1)"
+   },
+   {
+    "label": "FamilySearch ID",
+    "value": "L2G4-NJL"
+   }
+  ]
+ },
+ "bioAdditions": "The 1928 state death index lists \"Hefferman, Mary; 5835[3?]; W-Barre; May 1\" (S1), confirming Dwyer's date. In 1900 she gave her birth as November 1850 in New York and said she had borne 11 children, 10 then living (S2).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Department of Health death certificate index, 1928 (PA State Archives RG-11), PDF p.77: \"Hefferman, Mary; --5835?; W-Barre; May 1.\"",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 1 May 1928, Wilkes-Barre",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1928/D-28%20H-I-J.pdf"
+  },
+  {
+   "ref": "S2",
+   "citation": "1900 U.S. census, Plymouth Borough Ward 3, ED 120, sheet 1A (see Andrew H. Heffernan)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Mary, wife, b. Nov 1850 New York, parents b. Ireland; 11 children, 10 living",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/0/image.jpg"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1928 PA death index entry found; 1900 census children count."
+}

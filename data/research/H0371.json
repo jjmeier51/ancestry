@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.",
+  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nJoseph married the girl next door: Vinchinza (Vincenza) Gillette of 135 Sand Street, a silk-mill hand. They married at St. Rocco's Catholic Church, Dunmore, on 17 June 1933 ([R4-S1]). The Gillette family had lived beside the Giannettas since at least 1910, when Tony Gillette's household is enumerated immediately before Francesco 'Janet''s on Sand Street ([R4-S2]).",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
-    "notes/round2/italian_gaps.md 1"
+    "notes/round2/italian_gaps.md 1",
+    "[R4-S1] Lackawanna Co. Orphans' Court, marriage license application No. 753 (1933): Joseph Genett (20, laborer, b. Dunmore, 133 Sand St; father Frank Genett, mother Angelica, maiden name 'Ferandina') and Vinchinza Gellette (20, silk hand, 135 Sand St; father Gaetano, deceased; mother Angeline Savino); sworn 27 May 1933; married 17 Jun 1933 at St. Rocco's Catholic Church, Dunmore, by Rev. Michele De Larno. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:VF7Z-FLR). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/1/image.jpg",
+    "[R4-S2] 1910 US census, Dunmore borough, Lackawanna Co., PA, ED 29 (reading uncertain), sheet 9B (21 Apr 1910), Sand Street no. 134: Francesco 'Janet' (41, married 14 years, alien, laborer for contractor), Angelico (30?, 4 children born, 4 living), Sam (12?), Marianna (son, 11), Marie (8), Tony (3), all born Italy. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:MGZ8-YF8). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21,6 +23,43 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse (not in tree) Vincenza 'Vanchinza' Gillette (FS GLBK-T9Y, 1912-1999), proven): 1933 marriage license"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read his 1933 marriage license (St. Rocco's, Dunmore, 17 Jun 1933, to Vincenza Gillette)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0371.json."
+    }
+  ],
+  "aka": [
+    "Joseph Genett"
+  ],
+  "events": [
+    {
+      "title": "Marriage to Vinchinza (Vincenza) Gillette",
+      "date": "1933-06-17",
+      "place": "St. Rocco's Catholic Church, Dunmore, PA",
+      "description": "License No. 753 sworn 27 May 1933; Joseph 20, laborer, b. Dunmore, 133 Sand St; bride 20, silk hand, b. Dunmore, 135 Sand St (next door), daughter of the late Gaetano Gillette and Angeline Savino; married by Rev. Michele De Larno. [R4-S1]"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/1/image.jpg",
+      "type": "link",
+      "title": "Marriage license No. 753 (1933), Joseph Genett and Vinchinza Gellette",
+      "date": "1933-05-27",
+      "source": "FamilySearch (Lackawanna Co. Orphans' Court), unknown",
+      "note": "County record after 1930; rights unknown, not downloaded. (not downloaded: rights unknown)",
+      "people": [
+        "H0333",
+        "H0334"
+      ]
     }
   ]
 }

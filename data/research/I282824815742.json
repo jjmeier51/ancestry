@@ -1,0 +1,39 @@
+{
+  "id": "I282824815742",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Baptism, marriage and burial indexed and consistent."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824816508, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824816515, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824815737, proven): Marriage"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 6 Mar 1819, marriage 1839, burial 10 Nov 1871 (index)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815742.json."
+    }
+  ],
+  "bio": "Filippina was baptized on 6 March 1819, daughter of Rosario Iera and Faustina Ferlaino ([R4-S1]). She married Raffaele Colosimo on 24 March 1839 ([R4-S2]) and was buried on 10 November 1871 ([R4-S3]). All three entries match the tree.",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): Baptism, marriage and burial indexed and consistent."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1811-1840 (Book 8), image 40, p. 73, no. 15; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1840'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 57, p. 408, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 135, p. 259, no. 41; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
+  ]
+}

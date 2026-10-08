@@ -6,10 +6,20 @@
   },
   "tags": [],
   "summary": "",
-  "bio": "",
+  "bio": "FamilySearch credits Matthew Scott (b. Sunderland, Mass., 21 Aug 1739) with a run of Vermont militia service from 1764 to 1782, including Revolutionary War rolls, and places him in Bennington in the 1790 census ([R4-S1]). If he were Johnny's ancestor this would be a second Revolutionary patriot line. But the chain to Johnny is weak: it runs through Daniel Scott (whom FamilySearch has born in 1788, making him Matthew's youngest son) to Stephen J. Scott (b. 1806), and neither link has a document. The 1810 Pittston household of 'Daniel Scott Jr.' (a man aged 26-44) does not fit a Daniel born in 1788, and the 'Jr.' points to an older Daniel Scott in the Wyoming Valley rather than to a Vermont father (see Daniel Scott jr). Treat Matthew as unverified.",
   "funFacts": [],
-  "residences": [],
-  "military": [],
+  "residences": [
+    {
+      "date": "1790",
+      "place": "Bennington, VT (1790 census 'Mathew Scott', per FamilySearch)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "FamilySearch lists thirteen Vermont military-service events 1764-1782 (1778-82 during the Revolution, incl. Bennington and Windham) and attaches a 'United States Revolutionary War Rolls, 1775-1783' entry for Mathew Scott (index ark 1:1:QL65-VGD2). Not checked against the roll images; possible Revolutionary service. [R4-S1]"
+    }
+  ],
   "notable": "",
   "media": [
     {
@@ -29,6 +39,28 @@
       "url": "https://www.findagrave.com/memorial/83474774/matthew-scott:"
     }
   ],
-  "sources": [],
-  "researchLog": []
+  "sources": [
+    "[R4-S1] FamilySearch published tree, Matthew Scott (L7BQ-5G4): b. 21 Aug 1739 Sunderland; military-service events 1764-1782; 1790 census Bennington (ark 1:1:XH2M-6ZV); US Revolutionary War Rolls (ark 1:1:QL65-VGD2) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L7BQ-5G4"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch shows Vermont service 1764-82 incl. Revolutionary rolls, but his descent to Stephen J. Scott is undocumented and conflicts with the 1810 Pittston 'Daniel Scott Jr.' household."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824886207.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "22 Jan 1813",
+      "found": "AFT 11 Feb 1789",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "openQuestions": [
+    "Before any SAR use: prove Daniel Scott (father of Stephen) was Matthew's son; the Bennington 1790 household and Vermont records of a son Daniel would be needed."
+  ]
 }

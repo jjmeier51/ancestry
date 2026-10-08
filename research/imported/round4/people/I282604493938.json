@@ -1,0 +1,57 @@
+{
+ "id": "I282604493938",
+ "name": "Elizabeth M. McAvoy",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Her sister Agnes M. McAvoy's 1914 marriage docket again gives their father William as born in New York and dead, and their mother Catharine (Murphy) as living in Plymouth (S1). FamilySearch shows Elizabeth's siblings Mary (1879-1944), Agnes (1884-1958), William Richard Jr. (1886-1942), Katherine Frances (1888-1933), Josephine Regina (1891-1943), Gertrude Calista (1893-1971), Anna K. (1895-1964) and Claire (1899-1975) (S2). A \"Lizzie McAvoy\" entry in the FamilySearch index \"Pennsylvania Births and Christenings\" is attached to her profile (probably her Plymouth baptism), but the record page could not be opened.",
+ "conflicts": [
+  {
+   "field": "spouses (second husband Harold Arnold, H0383)",
+   "siteValue": "Elizabeth McAvoy m. (2) Harold Arnold",
+   "foundValue": "FamilySearch shows Harold (Edward) Arnold, b. 1927, d. 1997 Altoona, son of Harold George Arnold & Martha Bowden, as husband of her DAUGHTER Elizabeth \"Betsy\" McGuire (b. 8 Mar 1928); a duplicate profile also attaches him to the mother.",
+   "sourceRefs": [
+    "S3",
+    "S4"
+   ],
+   "assessment": "A man born in 1927 is almost certainly the son-in-law, not the second husband of a woman born in 1897. Her death in Altoona (1984), where Harold Arnold also died (1997), fits her living with Betsy and Harold. Recommend detaching H0383 as Elizabeth McAvoy's spouse and treating him as Betsy's husband (Betsy is on the presumed-living skip list, so no further research was done)."
+  }
+ ],
+ "openQuestionsNew": [
+  "FamilySearch index \"Pennsylvania Births and Christenings\" entry for Lizzie McAvoy (ark 1:1:HFVW-G2MM) should give her baptism date, church and sponsors."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), William Richard McAvoy (1857-1899), PID K6NQ-ZXZ; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children of William R. McAvoy & Catherine A. Murphy",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K6NQ-ZXZ"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch Family Tree (published), Harold Arnold (1927-1997), PID GP7C-XR4; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Born 1927, parents Harold George Arnold & Martha Bowden, d. 1997 Altoona; 1940/1950 census in Wilkes-Barre",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4"
+  },
+  {
+   "ref": "S4",
+   "citation": "FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Daughter of Francis J. McGuire & Elizabeth McAvoy; spouse Harold Edward Arnold 1927-1997",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1914 docket re-confirms NY-born father; found that Harold Arnold (b. 1927) was her son-in-law, not her second husband."
+}

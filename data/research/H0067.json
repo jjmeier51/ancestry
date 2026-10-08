@@ -10,7 +10,8 @@
   "bio": "Siblings of Francis J. (FS): Edward J. (1885), Mary, James J., Marguerite, Vincent, Theresa, William B., Anna C., Joseph.",
   "sources": [
     "FamilySearch GZQN-SCM",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] FamilySearch Family Tree (published), Edward Joseph McGuire (1885-1948), PID GWHL-YXC; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GWHL-YXC"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -21,6 +22,51 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS gives 1885-1948, m. Agnes C. Ruddy 1915."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0067.json."
+    }
+  ],
+  "birth": {
+    "date": "1885-10-30",
+    "place": "Larksville, Pa."
+  },
+  "death": {
+    "date": "1948-05-14",
+    "place": "Kingston, Luzerne Co., Pa."
+  },
+  "burial": {
+    "place": "St. Mary's Cemetery, Wilkes-Barre/Hanover Twp, Pa."
+  },
+  "residences": [
+    {
+      "date": "1940",
+      "place": "Ward 6, Kingston, Pa.",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1915-06-15",
+      "place": "Luzerne Co., Pa.",
+      "description": "Married Agnes Cecelia Ruddy (1885-1960) [R4-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "WWII \"old man's\" draft registration 1942 (Ancestry index attached on FS) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GWHL-YXC"
     }
   ]
 }

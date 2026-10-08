@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Judge of common pleas, assemblyman 1795, of Sagtikos Manor/Apple-Tree Neck, Islip; John's 2nd cousin 9x removed.",
-  "bio": "Path: John Thompson → Samuel → Jonathan (1710–86) → Isaac.",
+  "bio": "Path: John Thompson → Samuel → Jonathan (1710–86) → Isaac.\n\nSon of Jonathan Thompson (1710-86) and Mary Woodhull, grandson of Samuel Thompson ([R4-S2]): 2nd cousin 9 times removed via John Thompson. Magistrate for more than forty years, judge of common pleas and assemblyman ([R4-S1]). His wife made their children Bull Smith cousins too.",
   "sources": [
     "Thompson vol. 3",
-    "Wikipedia: Sagtikos Manor"
+    "Wikipedia: Sagtikos Manor",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 470 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 297 (secondary) https://archive.org/details/historyoflongisl003thom"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -21,6 +23,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: exact dates and marriage from Pelletreau; Sagtikos Manor photo (CC BY-SA) downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0314.json."
     }
   ],
   "media": [
@@ -31,6 +41,34 @@
       "source": "WikiTree",
       "note": "Isaac Thompson, 1743-01-18 – 1816-01-30",
       "url": "https://www.wikitree.com/wiki/Thompson-84408"
+    },
+    {
+      "file": "media/H0314/sagtikos-manor-2012.jpg",
+      "type": "photo",
+      "title": "Sagtikos Manor from the driveway",
+      "date": "2012",
+      "source": "Wikimedia Commons (DanTD), cc (CC BY-SA 3.0)",
+      "note": "CC BY-SA 3.0, attribution 'DanTD'. 1280px derivative.",
+      "people": [
+        "H0316",
+        "H0317"
+      ],
+      "url": "https://commons.wikimedia.org/wiki/File:Sagtikos_Manor_from_Driveway.JPG"
+    }
+  ],
+  "birth": {
+    "date": "1743-01-18"
+  },
+  "death": {
+    "date": "1816-01-03",
+    "place": "Sagtikos Manor, Islip, NY"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1772-06-04",
+      "place": "",
+      "description": "Married Mary Gardiner, daughter of Col. Abraham Gardiner and Mary Smith (a Bull Smith descendant). [R4-S1]"
     }
   ]
 }

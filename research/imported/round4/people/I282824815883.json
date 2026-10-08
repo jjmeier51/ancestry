@@ -1,0 +1,68 @@
+{
+ "id": "I282824815883",
+ "name": "MARIA  (ANNA MARIA) MALETTA",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Anna Maria was born on 25 May 1692, daughter of Ferdinando Maletta and Isabella Moraca (S1). She married Antonio Villella on 24 July 1713 (S2) and was buried as a widow on 10 January 1762 (S3).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815900",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815921",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815873",
+   "evidence": "Marriage",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1687-1713 (Book 3), image 25, p. 47, no. 11; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Anna Maria Maletta b. 25 May 1692, bapt. 26 May, father Ferdinando Maletta, mother Isabella Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 4, p. 2, no. 4; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 24 Jul 1713 to Antonius Villella (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1747-1767 (Book 25), image 58, p. 109, no. 1; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 10 Jan 1762: Maria Maletta, widow (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 25 May 1692, marriage 1713, burial 10 Jan 1762."
+}

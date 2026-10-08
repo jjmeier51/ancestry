@@ -1,0 +1,45 @@
+{
+ "id": "I282824815800",
+ "name": "Teresa Laura Cicco",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Teresa Laura was baptized on 3 September 1755, daughter of Tommaso Cicco and Anna Ianni (S1). She married Giovanni Colosimo on 10 November 1777 (S2). Her parents are new to the tree. She died before February 1833, when her husband was buried as a widower. Her 1822 death (tree) is not in the civil or parish index; civil deaths for 1815-1822 are not indexed.",
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "I282824815788",
+   "evidence": "Marriage",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1747-1767 (Book 5), image 37, p. 68, no. 28; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Teresia Laura Cicco bapt. 3 Sep 1755, father Thoma (son of the late Francesco) Cicco, mother Anna Ianne (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 30, p. 54, no. 19; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 10 Nov 1777 to Joannes Colosimo; bride daughter of Tommaso and Anna Ianni (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "Death 13 Mar 1822: not in parish burial index 1811-1845; civil 1822 not indexed"
+ ],
+ "researchLogEntry": "Round 4: baptism 3 Sep 1755 (parents Tommaso Cicco and Anna Ianni), marriage 1777."
+}

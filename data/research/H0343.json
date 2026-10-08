@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "John's maternal 4th great-grandfather; a pecoraio (shepherd) of Bisaccia.",
-  "bio": "Father of Angelamaria Fede; occupation pecoraio (shepherd), per Bisaccia Matrimoni 1867 act 17.",
+  "bio": "Father of Angelamaria Fede; occupation pecoraio (shepherd), per Bisaccia Matrimoni 1867 act 17.\n\nThe FamilySearch tree gives Bartolomeo's birth as about 1811 in Bisaccia, his marriage to Nunzianna Roberto as 10 Jul 1835, and his parents as Giuseppe Fede (c.1758 – 12 Jan 1829) and Angela Maria Loffa (1780 – after 1835) ([R4-S1], [R4-S2]). Giuseppe's father was another Bartolomeo Fede, so the name ran in the family. Round 3 found Bartolomeo working as a pecoraio (shepherd) in 1867.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
-    "notes/round3/italian_origins.md 3"
+    "notes/round3/italian_origins.md 3",
+    "[R4-S1] FamilySearch Family Tree published profile LY5M-GTY (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LY5M-GTY",
+    "[R4-S2] FamilySearch Family Tree published profile LHFF-9SK (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LHFF-9SK"
   ],
   "occupation": "Pecoraio (shepherd)",
   "handoff": {
@@ -22,6 +24,30 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch Italian civil-record images return 403; Antenati returns 403"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree gives c.1811 birth, 1835 marriage and parents Giuseppe Fede + Angela Maria Loffa."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0343.json."
+    }
+  ],
+  "birth": {
+    "date": "ABT 1811",
+    "place": "Bisaccia, Avellino, Campania, Italy"
+  },
+  "events": [
+    {
+      "title": "Marriage to Nunzianna (Luigia?) Roberto",
+      "date": "1835-07-10",
+      "place": "Bisaccia",
+      "description": "Per FS tree. [R4-S1]"
     }
   ]
 }

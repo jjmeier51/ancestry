@@ -1,0 +1,85 @@
+{
+  "id": "H0437",
+  "name": "Clark Smith Davenport",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1803",
+      "place": "Smith's Clove (Monroe), Orange Co., NY (per FamilySearch tree)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1875",
+      "place": "Plymouth Twp., Luzerne Co., PA (FS); buried in Plymouth (Giles & Franklin)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1830-1860",
+        "place": "Plymouth Twp., Luzerne Co., PA",
+        "note": "census residences on FS tree",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1870",
+        "place": "Washington Twp., Wood Co., Ohio",
+        "note": "FS tree, 1870 census; Giles & Franklin say the family lived 11 years in Ohio",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LCTB-XHG"
+      }
+    ]
+  },
+  "bioAdditions": "Clark Smith Davenport was a son of Stephen Davenport (b. 1751) and Sarah Smith, and a grandson of Oliver Davenport of the Philipstown (Putnam Co., NY) Davenports, which made him a cousin of the Plymouth Davenports. He married Temperance Pringle of Plymouth, daughter of Samuel and Martha (Lamoreux) Pringle, on 16 Oct 1825; they lived 11 years in Ohio, and he died in 1875 and was buried in Plymouth (S1). Their nine children were James (1826), Ziba Samuel (1829-1895), Martha (1830), Sarah Lydia (1831-1918), Samuel Marshall (1834-1920, m. 1861 Harriet Gould), Charles (1836), Lydia (1837-1918), Clark (1840) and William (1843) (S1, S2). The FamilySearch tree has him in Plymouth for the 1830, 1850 and 1860 censuses and in Washington Twp., Wood Co., Ohio, in 1870, so the Ohio years were probably about 1865-75 (S2).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0149",
+      "evidence": "Giles & Franklin p.329; FS",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Compiled genealogy plus a FamilySearch profile with five attached sources (censuses) agree."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), p.329",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "parents, marriage, Ohio, death, burial, children"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch Family Tree (published), Clark Smith Davenport LCTB-XHG and Temperance Pringle K8G2-K9C",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LCTB-XHG",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birthplace, census residences 1830-1870, children's dates"
+    }
+  ],
+  "researchLogEntry": "Round 4: added parents, marriage date, children and census residences (Plymouth 1830-60, Wood Co., Ohio 1870) from Giles & Franklin and the FS tree.",
+  "researchedAt": "2026-10-08"
+}

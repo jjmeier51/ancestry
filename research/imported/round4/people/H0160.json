@@ -1,0 +1,57 @@
+{
+  "id": "H0160",
+  "name": "John S. Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "Jul 1860",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "22 Dec 1933",
+      "place": "25 East Shawnee Avenue, Plymouth, Luzerne Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Forty Fort, Luzerne Co.",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1910",
+        "place": "Plymouth Ward 9 (indexed as 'John L Pringle')",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KG4S-X75"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives John's birth as July 1860 and his marriage to Regina Styer (Stiers) in 1887, from a county marriage record. He was in Plymouth Twp in 1900 and Plymouth Ward 9 in 1910. He died on 22 Dec 1933 at 25 East Shawnee Avenue, Plymouth, and was buried at Forty Fort (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, John S. Pringle (KG4S-X75), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-X75",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, marriage, death, address"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. Jul 1860, m. 1887, d. 22 Dec 1933 at 25 E. Shawnee Ave, Plymouth."
+}

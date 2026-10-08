@@ -21,7 +21,7 @@
   ],
   "tags": [],
   "summary": "John's 4th great-grandfather; a mason and later master mason of Munzingen, house No. 68.",
-  "bio": "Heinrich ('Henericus') Mayer was born about 1796 (aged 24 at marriage), son of the Munzingen citizen and carpenter Michael Mayer. On 16 Oct 1820 at Munzingen (L 10 Nr. 1590, marriages 1820 No. 3): 'the 24-year-old mason Henericus Mayer, son of the local citizen and carpenter (Zimmermann) Michael Mayer, was married with house No. 68 to the parentless local citizen's daughter Juliana Senn, born illegitimately here to Juliana Senn, aged 22'; witnesses the citizens Heinrich Schmid and Heinrich Kuner[?]; extract made 24 Jan 1821, signed Flamm, parish priest. The couple lived in house No. 68, which apparently came with the marriage. He was 'Maurer' (mason) in 1820 and 1835 and 'Maurermeister' (master mason) by 1862; in Oct 1862 he is not called 'late', so probably alive then. 'Henericus' explains the Ancestry tree's 'Henery Meier'. FamilySearch: G7PF-7J6 'Heinrich Mayer 1796'; index entries QP3C-SCW4 (father of the bride, 1857), QP3C-8J9S (father of the groom, 1862), QP3Z-8T76 (Latin 'Henricus Mayer', probably the 1820 marriage). His baptism c.1795–97 predates the 1810 civil duplicates and is only in the Munzingen Catholic parish book. Godparents of his first child (1821) were the local citizens and masons Anton Mayer and Joseph Mayer — possible kin (speculative). GEDBAS has no Heinrich Mayer of Munzingen/Freiburg; the Dreisamtal database has no Heinrich Maier as a father in the 1830s.",
+  "bio": "Heinrich ('Henericus') Mayer was born about 1796 (aged 24 at marriage), son of the Munzingen citizen and carpenter Michael Mayer. On 16 Oct 1820 at Munzingen (L 10 Nr. 1590, marriages 1820 No. 3): 'the 24-year-old mason Henericus Mayer, son of the local citizen and carpenter (Zimmermann) Michael Mayer, was married with house No. 68 to the parentless local citizen's daughter Juliana Senn, born illegitimately here to Juliana Senn, aged 22'; witnesses the citizens Heinrich Schmid and Heinrich Kuner[?]; extract made 24 Jan 1821, signed Flamm, parish priest. The couple lived in house No. 68, which apparently came with the marriage. He was 'Maurer' (mason) in 1820 and 1835 and 'Maurermeister' (master mason) by 1862; in Oct 1862 he is not called 'late', so probably alive then. 'Henericus' explains the Ancestry tree's 'Henery Meier'. FamilySearch: G7PF-7J6 'Heinrich Mayer 1796'; index entries QP3C-SCW4 (father of the bride, 1857), QP3C-8J9S (father of the groom, 1862), QP3Z-8T76 (Latin 'Henricus Mayer', probably the 1820 marriage). His baptism c.1795–97 predates the 1810 civil duplicates and is only in the Munzingen Catholic parish book. Godparents of his first child (1821) were the local citizens and masons Anton Mayer and Joseph Mayer — possible kin (speculative). GEDBAS has no Heinrich Mayer of Munzingen/Freiburg; the Dreisamtal database has no Heinrich Maier as a father in the 1830s.\n\nA January 1862 Munzingen baptism adds a little to what is known of Heinrich's last years. When his son Friedrich acknowledged an illegitimate grandson on 13 Jan 1862, the priest described Heinrich as a living citizen and master mason of Munzingen ([R4-S1]). His daughter Sophie, of age and unmarried, was godmother; she was then 'in Diensten zu Freiburg' (in domestic service at Freiburg). His death was not found. The Munzingen death-register indexes for 1862, 1863, 1864, 1865, 1866, 1867, 1868 and 1869 (L 10 Nr. 1591) contain no Heinrich Mayer ([R4-S2]). He therefore either died after 1869, died away from Munzingen (perhaps at Freiburg, where daughters Sophie and Pauline lived), or emigrated. The 1870 index and the post-1870 Munzingen books were not checked.",
   "residences": [
     {
       "date": "1820",
@@ -36,6 +36,10 @@
     {
       "label": "Surname",
       "value": "Surname spelling history (Mayer→Meier): Munzingen registers write Mayer 1820–1862 (1820 marriage 'Henericus Mayer', 1835 birth 'Friedrich Mayer', 1862 marriage 'Friedrich Mayer'); 1870 US census 'Meyer, Frederick'; 1880 census 'Myer, Friedrich'; the 1892 Luzerne marriage docket No. 11054 is the first record spelling it 'Meier' (Henry J. Meier) — written by the clerk, so Henry may not have chosen it; 'Meier' is consistent from 1910 on (1910, 1920, 1926, 1930, 1950 records; PA death indexes 1911/1913/1963) except 'Meyer, Henry J.' in the 1940 census; no formal name change is recorded."
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Mason (Maurer) 1820–1835; master mason (Maurermeister) and citizen of Munzingen by Jan 1862"
     }
   ],
   "sources": [
@@ -44,12 +48,14 @@
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), marriages 1862 No. 2 http://www.landesarchiv-bw.de/plink/?f=5-480947-440",
     "FamilySearch tree G7PF-7J6 https://ancestors.familysearch.org/en/G7PF-7J6/heinrich-mayer-1796",
     "FamilySearch index https://familysearch.org/ark:/61903/1:1:QP3C-SCW4 ; https://familysearch.org/ark:/61903/1:1:QP3C-8J9S ; https://familysearch.org/ark:/61903/1:1:QP3Z-8T76",
-    "notes/round3/meier_line.md; Round 3 report section 2"
+    "notes/round3/meier_line.md; Round 3 report section 2",
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-432",
+    "[R4-S2] Landesarchiv Baden-Württemberg, L 10 Nr. 1591, death-register indexes ('Register') for 1862 (img 445), 1863 (465), 1864 (498–499), 1865 (521), 1866 (548), 1867 (574), 1868 (600), 1869 (623) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-574"
   ],
   "openQuestions": [
     "Baptism c.1795–97 (Munzingen Catholic parish book; Erzbischöfliches Archiv Freiburg / FS film).",
-    "Death after Oct 1862 (L 10 Nr. 1591 deaths 1862–70 or later Munzingen books).",
-    "Were masons Anton Mayer and Joseph Mayer his brothers?"
+    "Were masons Anton Mayer and Joseph Mayer his brothers?",
+    "Check Munzingen deaths 1870 (end of L 10 Nr. 1591) and the Freiburg parishes (Sophie and Pauline lived there) for his death c.1862–1880."
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -64,6 +70,30 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Henery Meier\"; research uses \"Heinrich Mayer\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Death after Oct 1862 (L 10 Nr. 1591 deaths 1862–70 or later Munzingen books). → Partly. He is not in the Munzingen death indexes for 1862–1869. Still unresolved: 1870, the later Munzingen books (Erzbistum Freiburg / FS film), and Freiburg city registers."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Munzingen death indexes 1862–1869 (L 10 Nr. 1591): no Heinrich Mayer"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: confirmed he was a living master mason in Jan 1862; not in Munzingen death indexes 1862–1869."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085304.json."
+    }
+  ],
+  "events": [
+    {
+      "title": "Named in grandson's baptism",
+      "date": "1862-01-13",
+      "place": "Munzingen",
+      "description": "Called 'hiesiger Bürger und Maurermeister Heinrich Mayer', father of Friedrich (who acknowledged his son Friedrich b. 11 Jan 1862) and of the godmother Sophie Mayer, single, in service at Freiburg. [R4-S1]"
     }
   ]
 }

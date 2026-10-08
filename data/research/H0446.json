@@ -1,14 +1,48 @@
 {
   "id": "H0446",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Exact dates and marriage from the Harvey Book, consistent with Giles & Franklin."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Exact dates and marriage from the Harvey Book, consistent with Giles & Franklin."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0180, probable): Harvey Book pp.360, 362"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: added birth 14 Jun 1792, death 14 Aug 1824, marriage 18 Jun 1815 and children Alba A. and Jane from the Harvey Book."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0446.json."
     }
+  ],
+  "birth": {
+    "date": "1792-06-14"
+  },
+  "death": {
+    "date": "1824-08-14"
+  },
+  "events": [
+    {
+      "title": "Marriage to Keturah Lamoreux",
+      "date": "1815-06-18",
+      "place": "",
+      "description": "[R4-S1]"
+    }
+  ],
+  "bio": "The Harvey Book's Nesbitt genealogy gives Samuel Ackley's dates as born 14 Jun 1792, died 14 Aug 1824, and says he married Keturah Lamoreux (b. 18 Feb 1791, d. 9 Dec 1842), daughter of Thomas and Keturah (Tuttle) Lamoreux, on 18 Jun 1815 ([R4-S1]). He died at 32, leaving at least two children. Alba A. Ackley (b. 10 Oct 1818) married Hannah Nesbitt at Plymouth on 29 Jan 1846, moved to La Porte, Indiana, and died there on 4 Dec 1885. Jane Ackley (b. Plymouth 18 Sep 1823) married James Madison Nesbitt on 23 Sep 1841 ([R4-S1]).",
+  "sources": [
+    "[R4-S1] Harvey, The Harvey Book (1899), Nesbitt genealogy entries (36) James Madison Nesbitt and (40) Hannah Nesbitt, pp.360-363 (secondary) https://archive.org/details/harveybookgiving00harv"
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "id": "H0163",
+  "name": "Stella Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "11 Jun 1876",
+      "place": "Larksville",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "17 Mar 1920",
+      "place": "Larksville",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Trucksville",
+      "cemetery": "Cedar Crest Cemetery",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Stella M. Sipple"
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "24 Dec 1895",
+        "place": "Luzerne Co.",
+        "description": "To Conrad Sipple (1870-1936), county marriage record",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GZ3J-TRG"
+      }
+    ]
+  },
+  "bioAdditions": "The FamilySearch profile with records is Stella M. Pringle: born 11 Jun 1876 at Larksville, in Andrew's household in 1880, married Conrad Sipple in Luzerne Co. on 24 Dec 1895 (county marriage record attached), living in Larksville until her death there on 17 Mar 1920, and buried at Cedar Crest Cemetery, Trucksville (S1). The other FamilySearch 'Stella' (1874-1893) has no sources and is probably a duplicate. A 'Stella' who died in 1893 would also conflict with Bradsby's 1893 list, which names Estella as living (S2).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Stella M Pringle (GZ3J-TRG), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GZ3J-TRG",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, marriage, death"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Stella Pringle 1874-1893 (9KXX-M4Q), no sources",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-M4Q",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "duplicate profile"
+    }
+  ],
+  "researchLogEntry": "Round 4: Stella M. (1876-1920) m. 1895 Conrad Sipple is the documented profile; the 1874-1893 Stella looks like a duplicate."
+}

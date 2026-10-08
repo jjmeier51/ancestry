@@ -7,10 +7,14 @@
   "sex": "M",
   "tags": [],
   "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.",
+  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nMariano (Martin) died in Scranton on 24 February 1941, aged about 41. The state death index records him twice, as 'Mariano Giannett' and as 'Martin Genette', under the same file number 18787 ([R4-S1]). In the 1910 census he appears as 'Marianna', son, 11, and in 1920 as 'Marion', 20, a coal-breaker laborer ([R4-S2], [R4-S3]). His widow was Mary (Santoli). Their daughter Angela Genett, 20, of 138 Sand Street, married Anthony Joseph DePietro at Dunmore on 16 Oct 1943, with her mother's consent because her father was dead ([R4-S4]).",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
-    "notes/round2/italian_gaps.md 1"
+    "notes/round2/italian_gaps.md 1",
+    "[R4-S1] Pennsylvania Death Index 1941, F-G volume, Soundex G530 (index p. 709): 'Mariano Giannett' and 'Martin Genette' (double entry), Scranton, county 35, died 2/24/41, state file no. 18787. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1941/D-41%20F-G.pdf",
+    "[R4-S2] 1920 US census, Dunmore borough Ward 5, ED 48, sheet 8B (10 Jan 1920), 133 Sand Street: Frank 'Genet' (51, head, owned with mortgage, immigrated 190-, alien, laborer R.R. shops), Angelina (46, imm. 1909, alien), Sam (21), Marion (20), Anthony (12, imm. 1909), Molly (9, b. PA), Joseph (8), and a son aged 4. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:MFTM-GCK). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg",
+    "[R4-S3] 1910 US census, Dunmore borough, Lackawanna Co., PA, ED 29 (reading uncertain), sheet 9B (21 Apr 1910), Sand Street no. 134: Francesco 'Janet' (41, married 14 years, alien, laborer for contractor), Angelico (30?, 4 children born, 4 living), Sam (12?), Marianna (son, 11), Marie (8), Tony (3), all born Italy. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:MGZ8-YF8). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg",
+    "[R4-S4] Lackawanna Co. marriage license No. 1633 (1943): Angela Genett (20, folder, 138 Sand St, Dunmore; father Martin, deceased; mother Mary, maiden name Santoli) and Anthony Joseph DePietro; married 16 Oct 1943 at Dunmore. Image attached to FamilySearch tree GLB6-V4D (index ark 1:1:VF7J-XZG). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLB6-V4D/images/i/1/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21,6 +25,40 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse (not in tree) Mary Santoli (FS GY8L-XXZ, 1902-1956), probable): Daughter Angela's 1943 marriage license"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: death 24 Feb 1941 Scranton (PA death index, file 18787); wife Mary Santoli and daughter Angela from a 1943 license."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0368.json."
+    }
+  ],
+  "death": {
+    "date": "1941-02-24",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Marion Genet",
+    "Martin Genette",
+    "Marianna (1910 census)"
+  ],
+  "residences": [
+    {
+      "date": "1920-01-10",
+      "place": "133 Sand St, Dunmore, PA",
+      "note": "'Marion', 20, laborer at a coal breaker [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "PA death certificate file no.",
+      "value": "18787 (1941)"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "id": "H0263",
+  "name": "Austin Smith",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Weygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company (S1). WikiTree gives his wife as Mehitable Tuthill (unverified).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Austin overseer of roads 1765; captain 1771"
+    }
+  ],
+  "researchLogEntry": "Round 4: Weygant adds 1765 road overseer and 1771 captaincy."
+}

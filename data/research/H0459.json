@@ -1,14 +1,44 @@
 {
   "id": "H0459",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "possible",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → possible): (Worker said \"speculative\"; mapped to the site scale.) The marriage to Maria Engel Doll rests only on an online tree. The 1733 ship candidates are not tied to him by any second identifier."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → possible: (Worker said \"speculative\"; mapped to the site scale.) The marriage to Maria Engel Doll rests only on an online tree. The 1733 ship candidates are not tied to him by any second identifier."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: no primary record of the 1739 Doll marriage. 1733 Elizabeth list has Jacob Server 56 and Jacob Jr. 36 as candidates (speculative). Separated from the later Jacob (son of Abraham, m. Cease)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0459.json."
     }
+  ],
+  "events": [
+    {
+      "title": "Possible arrival: ship Elizabeth",
+      "date": "1733-08-27",
+      "place": "Philadelphia, PA",
+      "description": "The Elizabeth (Capt. Edward Lee, from Rotterdam via Dover), qualified 27 Aug 1733. Its male list (List 30 A) has 'Jacob Server 56', 'Jacob Server, Jun'r 36' and 'Rodolph Server 21'. The signature lists have 'Jacob (X) Server', 'Jacob Surber', 'Jacob Sorber' and 'Rudolff Sorber', and the women's list has 'Fronegh Sorver 54' and 'Barbara Sorver 23'. Identification with this Jacob is speculative. [R4-S1]"
+    }
+  ],
+  "bio": "The project's only claim about this Jacob Sorber is that he married Maria Engel Doll (H0215, b. Ulmet 1717) in 1739 and was the father of Abraham Sorber (b. 1744), who brought his family from Northampton Co. to Hanover Twp., Luzerne, about 1783. That claim comes from an Ancestry-derived GEDBAS tree (round 3). No primary record of the marriage was found. One possible origin: the Sorber/Server party on the ship Elizabeth, qualified at Philadelphia on 27 Aug 1733. It included a Jacob aged 56 (b. c.1677), Jacob Jr. aged 36 (b. c.1697) and Rudolph aged 21 ([R4-S1]). Jacob Jr. would have been about 42 at a 1739 marriage to a 22-year-old, which is possible as a second marriage. The elder Jacob is too old to fit. There may also have been another Jacob, not on this list. Do not confuse him with the later Jacob Sorber, son of Abraham, who married a Cease (Plumb 1885). That Jacob settled in Plymouth Twp. in 1827 with Henry Cease and George Sorber (Bradsby p.635), and he or another Jacob was the father of the Philip Sorber who settled up Hunlock's Creek (Bradsby p.584).",
+  "openQuestions": [
+    "Look for Jacob Sorber/Server/Surber in Northampton or Bucks Co. Lutheran/Reformed registers (marriage 1739; baptism of Abraham c.1744). These records are not online free; try the Ancestry PA Church and Town Records collection.",
+    "Which Jacob was the father of Philip Sorber of Hunlock's Creek (Bradsby p.584): Abraham's son Jacob (m. Cease), or an otherwise unknown Jacob?"
+  ],
+  "sources": [
+    "[R4-S1] Strassburger & Hinke, Pennsylvania German Pioneers, vol. 1 (1934), List 30 A-C, ship Elizabeth, qualified 27 Aug 1733 (derivative) https://archive.org/details/pennsylvaniagerm42stra",
+    "[R4-S2] H. C. Bradsby, History of Luzerne County (1893), pp.584 and 635 (secondary) https://archive.org/details/historyofluzerne00brad",
+    "[R4-S3] H. B. Plumb, History of Hanover Township (1885), 'The Sorber Family' (ldsgenealogy.com part 38) (secondary) https://ldsgenealogy.com/PA/books/History-of-Hanover-Township-including-Sugar-Notch-Ashley-and-Nanticoke-boroughs-and-also-a-history-of-Wyoming-Valley-in-Luzerne-County-Pennsylvania-part-38.htm"
   ]
 }

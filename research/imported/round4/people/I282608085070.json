@@ -1,0 +1,121 @@
+{
+  "id": "I282608085070",
+  "name": "Frances Meier",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1863-03-08",
+      "place": "Munzingen, Amt Freiburg, Baden",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1928-12-10",
+      "place": "Coaldale, Schuylkill County, Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "burial": {
+      "place": "Summit Hill, Carbon County, Pennsylvania",
+      "cemetery": "St. Joseph's Roman Catholic Cemetery",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "aka": [
+      "Franziska Mayer (baptism)",
+      "Francis Myer (1880)",
+      "Frances Miller"
+    ],
+    "events": [
+      {
+        "title": "Baptism",
+        "date": "1863-03-10",
+        "place": "Munzingen",
+        "description": "Godparents were her uncle Joseph Birkenmaier (20, single day labourer) and her aunt Paulina Mayer (22, single day labourer, daughter of Heinrich Mayer). Witnesses were the godfather and Johann Schell, head teacher.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Marriage",
+        "date": "",
+        "place": "",
+        "description": "Married Philip Miller (1859–1940). Children: Anna (1886–1945), Albert A. (1888–1915), Harry C. (1890–1919), Helen (1897–1964), Charles Joseph (1913–2001).",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G7GQ-XPS"
+      },
+      {
+        "label": "Baptism record",
+        "value": "Munzingen Geburtsbuch 1863 No. 3"
+      }
+    ]
+  },
+  "bioAdditions": "Frances was born at Munzingen on 8 Mar 1863 and baptized two days later as 'Franziska Mayer, legitimate daughter of the local citizen and mason Friedrich Mayer and Maria Anna Birkenmaier, both Catholic' (S1). She was the first child born after her parents' marriage in Oct 1862. Her godparents came from both sides of the family: her mother's brother Joseph Birkenmaier, then 20, and her father's sister Paulina Mayer, then 22. The register confirms the tree's birth date exactly. FamilySearch has her later life: she married Philip Miller, lived at Coal Dale (Rahn Twp) and Coaldale in Schuylkill County from 1900, died at Coaldale on 10 Dec 1928, and was buried at St Joseph's RC Cemetery, Summit Hill (S2).",
+  "openQuestionsResolved": [
+    {
+      "question": "Birthplace and date (Baden, 8 Mar 1863).",
+      "answer": "Confirmed: born at Munzingen on 8 Mar 1863 (Geburtsbuch 1863 No. 3).",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Birth now read in the original register."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1863 No. 3, p. 503 (image 447); index 'Register pro 1863' (image 454): 'Mayer Franziska, 502'",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-447",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Birth 8 Mar 1863, baptism 10 Mar, parents, godparents"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch Family Tree, Frances Meier (G7GQ-XPS), published-tree JSON, with attached 1880 census, Find a Grave index (1:1:QVGF-QZV6) and son Harry C. Miller's marriage (1:1:KMCB-V7L)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7GQ-XPS",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Marriage, children, residences, death, burial"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Munzingen birth register 1863 No. 3: Franziska Mayer",
+      "date": "1863-03-10",
+      "pageUrl": "http://www.landesarchiv-bw.de/plink/?f=5-480947-447",
+      "directUrl": "",
+      "repository": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282608085070/birth-1863-munzingen-L10-1591-img447.jpg",
+      "people": [
+        "I282608085070",
+        "H0028",
+        "H0027",
+        "I282608064885",
+        "I282608064896"
+      ],
+      "suggestedFile": "media/I282608085070/birth-1863-munzingen-L10-1591-img447.jpg",
+      "note": "Left page, No. 3. Public Domain Mark 1.0."
+    }
+  ],
+  "researchLogEntry": "Round 4: found her baptism, Munzingen 1863 No. 3 (born 8 Mar 1863); the godparents were Joseph Birkenmaier and Pauline Mayer.",
+  "researchedAt": "2026-10-08"
+}

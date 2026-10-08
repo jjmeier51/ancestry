@@ -1,0 +1,73 @@
+{
+  "id": "H0015",
+  "name": "Madeline Edelberta Meier",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1995-01-20",
+      "place": "Lyndhurst, Bergen County, New Jersey",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "burial": {
+      "place": "Hanover Township, Luzerne County",
+      "cemetery": "St. Mary's Cemetery",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "aka": [
+      "Madeline Callaghan",
+      "Madeleine Edelberta Meier"
+    ],
+    "occupation": "bookkeeper (1936)",
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1936-10-24",
+        "place": "Wilkes-Barre",
+        "description": "Married Joseph Daniel Callaghan, 39, clerk, of 500 Bergen Ave, Jersey City NJ (b. Mayfield PA; son of John M. Callaghan, b. England, and Catherine Killer, b. St. Clair PA, both dead). Luzerne licence No. 1829 C was sworn 10 Oct and issued 17 Oct 1936. She was 36, a bookkeeper, of 16 Barney St. Her father is given as Henry Joseph, molder, b. Germany, and her mother as Anna Higgins, b. New Philadelphia, PA.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LRRX-MYZ"
+      }
+    ]
+  },
+  "bioAdditions": "Madeline's 1936 marriage application was sworn on 10 Oct 1936 (S1). She was a 36-year-old bookkeeper living at home at 16 Barney Street. She married Joseph Daniel Callaghan, a 39-year-old clerk from Jersey City, on 24 Oct 1936 at Wilkes-Barre. The licence states plainly that her father Henry Joseph, a molder, was born in Germany. It also gives a new clue for the Irish side: her mother Anna Higgins was born at New Philadelphia, Schuylkill County (S1). The couple settled in Lyndhurst, New Jersey. FamilySearch has her death there on 20 Jan 1995 and burial at St Mary's, Hanover Twp. Joseph died in 1961 (S2).",
+  "openQuestionsNew": [
+    "Anna Higgins's birthplace is given as New Philadelphia, PA (1936). Pass this to the Irish/Higgins line."
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "Her own marriage application names both parents."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Luzerne County Application for Marriage License No. 1829 C: Joseph Daniel Callaghan × Madeline Edelberta Meier, sworn 10 Oct 1936, issued 17 Oct 1936, married 24 Oct 1936 Wilkes-Barre (FamilySearch index 1:1:KHFQ-W2V)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LRRX-MYZ/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Marriage; her age, occupation and address; her parents' names and birthplaces"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch Family Tree, Madeline Edelberta Meier (LRRX-MYZ), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LRRX-MYZ",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Death 20 Jan 1995 Lyndhurst NJ; burial"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: read her 1936 marriage application (Callaghan). Father b. Germany; mother Anna Higgins b. New Philadelphia, PA.",
+  "researchedAt": "2026-10-08"
+}

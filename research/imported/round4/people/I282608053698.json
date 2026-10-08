@@ -1,0 +1,197 @@
+{
+  "id": "I282608053698",
+  "name": "Catherine Scott",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "3 Sep 1918",
+      "place": "Larksville, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1860-08-07",
+        "place": "Plymouth, Luzerne Co., PA (with husband Andrew, next to his parents)",
+        "note": "",
+        "sourceRefs": [
+          "S4"
+        ]
+      },
+      {
+        "date": "1870-07-29",
+        "place": "Plymouth Twp (P.O. Kingston), Luzerne Co., PA",
+        "note": "keeping house",
+        "sourceRefs": [
+          "S5"
+        ]
+      },
+      {
+        "date": "1900-06-07",
+        "place": "Plymouth Twp, Luzerne Co., PA (household of son Orange; next door to son Addison)",
+        "note": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1910-04-21",
+        "place": "Washington Ave(?), Larksville Borough, Luzerne Co., PA (household of son Orange)",
+        "note": "",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1900 census",
+        "date": "1900-06-07",
+        "place": "Plymouth Twp, ED 133, sheet 10B, line 83",
+        "description": "Catherine Pringle, mother, white female, b. May 1835 or 1838 (last digit unclear), divorced, 7 children born / 5 living, b. Pa., parents b. Pa., in household of son Orange Pringle (b. June 1870, laborer at coal breaker).",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "1910 census",
+        "date": "1910-04-21",
+        "place": "Larksville Borough, sheet 11A, line 29",
+        "description": "Katherine Pringle, mother, 71, widowed, 11 children born / 5 living, b. Pennsylvania; father b. Connecticut; mother b. Connecticut; in household of son Orange (37, breaker foreman), with his wife Gertrude and children Harry and Verna.",
+        "sourceRefs": [
+          "S3"
+        ]
+      },
+      {
+        "title": "Death registered",
+        "date": "1918-09-03",
+        "place": "Larksville, Luzerne Co., PA",
+        "description": "PA death index 1918: 'Pringle, Catherine; 100575; Larksville; Sept. 3.' (certificate file no. 100575).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Catherine's death is now confirmed from the state index: the 1918 Pennsylvania death index lists 'Pringle, Catherine', file 100575, Larksville, 3 September 1918 (S1). She died under her married name, although Bradsby says she had resumed 'Scott' after her divorce. The two later censuses show her living with her son Orange: in June 1900 in Plymouth Township, where she is recorded as divorced, the mother of seven children of whom five were living, with her son Addison's family in the next house and probably her daughter Ella Randall one house further (S2); and in April 1910 at Larksville, where she is a widow, aged 71 (S3).\n\nThe 1910 entry is the first record to say where her parents were born: both in Connecticut (S3). That disagrees with the 1850 census (Stephen and Julia Ann both b. Pa.) and the 1900 census (parents b. Pa.), but agrees with Bradsby's 1893 statement, given while Julia Ann was alive, that Stephen and Julia were both born in Connecticut. The question of a Connecticut origin for the Scotts and Watsons is therefore open again (see Stephen J. Scott and Julia Ann Watson). The 1910 figure of 11 children born is higher than 1900's 7; 7 is supported by the 1870 household (Ellen Jane, John, Samuel, Addison, Orange, infant Julia(n)) plus Stella.",
+  "conflicts": [
+    {
+      "field": "parents' birthplace",
+      "siteValue": "Stephen and Julia Ann b. Pennsylvania (1850 census, round 3)",
+      "foundValue": "father and mother b. Connecticut (1910 census); parents b. Pa. (1900 census)",
+      "sourceRefs": [
+        "S2",
+        "S3"
+      ],
+      "assessment": "Census informants differ; Bradsby 1893 also says Connecticut. Leave as unresolved; the Connecticut claim now has two independent sources (Bradsby, 1910 census)."
+    },
+    {
+      "field": "birth.date",
+      "siteValue": "14 May 1837 (Bradsby) / 2 May 1838 (FS)",
+      "foundValue": "May 1835 or 1838 (1900 census); age 71 in Apr 1910 (c.1838-39)",
+      "sourceRefs": [
+        "S2",
+        "S3"
+      ],
+      "assessment": "All agree on May; year 1837-38."
+    }
+  ],
+  "openQuestionsResolved": [
+    {
+      "question": "Confirm 1918 death (PA death certificate) and burial place near Dallas.",
+      "answer": "Death confirmed by PA death index 1918, file 100575, Larksville, 3 Sep 1918. Burial place still only from FamilySearch (Dallas area, 6 Sep 1918); the certificate would name the cemetery.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Pennsylvania State Archives, Death Indexes (RG-11), 1918, P-Q-R, PDF page 169: 'Pringle, Catherine;--100575;Larksville;Sept.3.'",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1918/D-18%20P-Q-R.pdf",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "death 3 Sep 1918, Larksville, certificate 100575"
+    },
+    {
+      "ref": "S2",
+      "citation": "1900 US census, Plymouth Twp, Luzerne Co., ED 133, sheet 10B, 7 Jun 1900, line 83",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MWR/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "divorced; 7 children/5 living; with Orange; next to Addison"
+    },
+    {
+      "ref": "S3",
+      "citation": "1910 US census, Larksville Borough, Luzerne Co., sheet 11A, enumerated 21 Apr 1910, line 29 (FamilySearch index ark 1:1:MGDD-VT5)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHCS-RCM/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "widowed, 71, 11/5 children, parents b. Connecticut"
+    },
+    {
+      "ref": "S4",
+      "citation": "1860 US census, Plymouth, Luzerne Co., 7 Aug 1860, p.737, dwelling 879",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Catharine 23 with Andrew 24 and Ellen 2"
+    },
+    {
+      "ref": "S5",
+      "citation": "1870 US census, Plymouth Twp (P.O. Kingston), 29 Jul 1870, p.496, dwelling 422",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Catharine 34, keeping house; children incl. infant Julian"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1910 census, Larksville: Orange Pringle household with mother Katherine (parents b. Connecticut)",
+      "date": "1910-04-21",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHCS-RCM",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHCS-RCM/images/i/2/image.jpg",
+      "repository": "FamilySearch (NARA T624)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282608053698/1910-census-larksville-orange-pringle.jpg",
+      "people": [
+        "I282608053698",
+        "H0159",
+        "I282608053666"
+      ],
+      "suggestedFile": "media/I282608053698/1910-census-larksville-orange-pringle.jpg",
+      "note": "US federal census schedule: public domain. Addison F. Pringle's family is on the same sheet (lines 38-46)."
+    },
+    {
+      "type": "document",
+      "title": "PA death index 1918 P-Q-R (page with Catherine Pringle)",
+      "date": "1918",
+      "pageUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1918/D-18%20P-Q-R.pdf",
+      "directUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1918/D-18%20P-Q-R.pdf",
+      "repository": "Pennsylvania State Archives",
+      "rights": "public_domain",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "I282608053698"
+      ],
+      "suggestedFile": "media/I282608053698/pa-death-index-1918-p169.pdf",
+      "note": "State government index; 23 MB whole-file PDF, not saved (page 169)."
+    }
+  ],
+  "openQuestionsNew": [
+    "Order PA death certificate 1918 #100575 (Catherine Pringle, Larksville): should give parents' names (Stephen Scott / Julia Ann Watson?) and their birthplaces, and the burial cemetery."
+  ],
+  "searchedNoResult": [
+    "Luzerne divorce docket: not online"
+  ],
+  "researchLogEntry": "Round 4: found her 1918 PA death-index entry (#100575, Larksville, 3 Sep 1918) and read the 1900 (divorced, 7/5 children) and 1910 (widowed; parents b. Connecticut) censuses."
+}

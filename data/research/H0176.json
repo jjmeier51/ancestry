@@ -7,11 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 5th-great-grand-uncle, disinherited by his father.",
-  "bio": "James Lamoreaux (b. 1774) married Sarah Hunter. His father's will disinherited him 'on account of his disobedience to me' and gave his crippled son Jewel an equal share instead.",
+  "bio": "James Lamoreaux (b. 1774) married Sarah Hunter. His father's will disinherited him 'on account of his disobedience to me' and gave his crippled son Jewel an equal share instead.\n\nFamilySearch gives James a birth date of 30 Jan 1774 at Cornwall, a marriage to Sarah Hunter on 10 May 1795, and census entries in 1800 and 1830, with children born in Jackson Twp from 1796. It has him alive after 1850 ([R4-S1]).",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
-    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44"
+    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
+    "[R4-S1] FamilySearch published tree, James Lamoreaux (K2XZ-H6T), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K2XZ-H6T"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -22,6 +23,39 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives b. 30 Jan 1774 Cornwall and m. 10 May 1795 Sarah Hunter."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0176.json."
+    }
+  ],
+  "birth": {
+    "date": "1774-01-30",
+    "place": "Cornwall, Orange Co., NY"
+  },
+  "residences": [
+    {
+      "date": "1800-1830",
+      "place": "Jackson Twp, Luzerne Co. (census)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1795-05-10",
+      "place": "",
+      "description": "To Sarah Elizabeth Hunter (1776-1850) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "K2XZ-H6T"
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "id": "H0275",
+  "name": "Hannah Smith",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "28 Oct 1761",
+        "place": "",
+        "description": "Married Joshua Smith (son of Daniel 2d); children Joshua 2d, Ebenezer, Daniel E., Nancy, Deborah, Hannah.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 477",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joshua Smith m. Hannah dau. of Ebenezer Smith 1st, 28 Oct 1761; children"
+    }
+  ],
+  "researchLogEntry": "Round 4: marriage date and children from Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

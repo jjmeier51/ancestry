@@ -10,17 +10,22 @@
   ],
   "tags": [],
   "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Daughter of Thomas Lamoreaux; married Peter Steel.",
+  "bio": "Daughter of Thomas Lamoreaux; married Peter Steel.\n\nFamilySearch gives Charity (Lamoreaux) Steele the dates 1783 to 1873 and her husband as Peter Steele II (1779-1857), with children born from 1800. In 1860 she was living in Henry J. Johnson's household ([R4-S1]). Her daughter Mary Steele (1808-1876), Mrs John Linskill, has been wrongly attached on FamilySearch as a second wife of James Pringle (see H0411).",
   "facts": [
     {
       "label": "Disambiguation",
       "value": "daughter of Thomas"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "KGCY-B9P"
     }
   ],
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
-    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44"
+    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
+    "[R4-S1] FamilySearch published tree, Charity Lamoreaux (KGCY-B9P), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KGCY-B9P"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -31,6 +36,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 1783-1873, husband Peter Steele II, and 1860 residence."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0183.json."
+    }
+  ],
+  "birth": {
+    "date": "1783",
+    "place": "Monroe Twp, Orange Co., NY"
+  },
+  "death": {
+    "date": "1873"
+  },
+  "residences": [
+    {
+      "date": "1860",
+      "place": "household of Henry J. Johnson",
+      "note": "[R4-S1]"
     }
   ]
 }

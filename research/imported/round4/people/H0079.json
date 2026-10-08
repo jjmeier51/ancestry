@@ -1,0 +1,66 @@
+{
+  "id": "H0079",
+  "name": "Abraham Lampert",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "c. 1676 (FamilySearch)",
+      "place": "Otterberg (FamilySearch)",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "18 Jun 1711 (FamilySearch)",
+      "place": "Jettenbach",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "burial": {
+      "place": "Jettenbach (FamilySearch gives 28 Jun 1711)",
+      "cemetery": "",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "6 Oct 1699",
+        "place": "Glan-Münchweiler",
+        "description": "To Maria Sara Jung, widow of Johann Philipp Wirth (FamilySearch)",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "MCWN-NPP"
+      }
+    ]
+  },
+  "bioAdditions": "His daughter's baptism on 17 Dec 1702 names him as 'Abraham Lamperti' of Jettenbach, with his wife Maria Sara (S1). FamilySearch gives him a birth of about 1676 at Otterberg, a marriage at Glan-Münchweiler on 6 Oct 1699 to Maria Sara Jung (widow of Johann Philipp Wirth), and his death at Jettenbach on 18 Jun 1711. It names four children: Maria Elisabeta (1700-1706), Elisabetha Margaretha (1702), Maria Catharina Barbara (1706-1767) and Johann Peter (1708-1713). It also names his parents as Jacob Lampert and Margaretha (S2). An Otterberg origin would fit the Walloon/Reformed settlement there, but it is unsourced.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Reichenbach Lutheran register, baptisms 1702 p.42 (Elisabetha Margretha Lampert)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L58R-7JQ/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "father of Elisabetha Margaretha; wife Maria Sara"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Abraham Lampert (MCWN-NPP)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/MCWN-NPP",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, marriage, death, children, parents"
+    }
+  ],
+  "researchLogEntry": "Round 4: the 1702 baptism names him and his wife Maria Sara; FamilySearch gives c.1676 Otterberg, m. 6 Oct 1699, d. 18 Jun 1711."
+}

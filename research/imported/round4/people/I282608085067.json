@@ -1,0 +1,53 @@
+{
+  "id": "I282608085067",
+  "name": "Anna J. Meier",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1962-11-06",
+      "place": "Erie, Erie County, Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Millcreek Township, Erie County, Pennsylvania",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Annie Myer (1880)",
+      "Anna J. Walsh"
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G7GQ-NRP"
+      }
+    ]
+  },
+  "bioAdditions": "The FamilySearch tree adds exact dates: born 3 Sept 1875 in Pennsylvania, died 6 Nov 1962 at Erie, buried in Millcreek Township. Her husband was William J. Walsh (1873–1951) (S1). She is 'Annie Myer' in her father Fredrick Myer's household at Hazleton in 1880. The 1962 state death index (MAR–MY volume) was read for her brother's family; as a married woman she would be indexed under Walsh, which was not checked.",
+  "openQuestionsNew": [
+    "PA death index 1962 (W volume) for Anna J. Walsh, Erie, 6 Nov 1962. Also Erie Times obituary, Nov 1962."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "No change."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, Anna J Meier (G7GQ-NRP), published-tree JSON, with attached 1880 census (1:1:MWNZ-PDZ) and Find a Grave index (1:1:QVV4-QX8T)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7GQ-NRP",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Birth, death, burial and spouse dates"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: exact dates from FamilySearch (d. 6 Nov 1962 Erie; husband William J. Walsh 1873–1951). No new primary record.",
+  "researchedAt": "2026-10-08"
+}

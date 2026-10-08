@@ -1,0 +1,50 @@
+{
+ "id": "I282695504203",
+ "name": "Maria Antonia DiBiasi",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Mary Bibisi (1934 license)",
+   "Mary Dibiasa (1931 license)"
+  ],
+  "events": [
+   {
+    "title": "Alive in Aug 1934",
+    "date": "1934-08-27",
+    "place": "Scranton, PA",
+    "description": "Named as mother 'Mary', maiden name 'Bibisi', born Italy, residing Scranton, housewife, on son Charles's marriage-license application.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Son Charles's marriage-license application of August 1934 names his mother as 'Mary', maiden name 'Bibisi' (a clerk's rendering of DiBiasi), born in Italy and living in Scranton (S1). This is a third independent record of her maiden name after the 1931 and 1941 licenses, and it shows her alive less than a year before her 5 July 1935 death. The 1940 census of the Bunker Hill Street block shows a widowed Vincenzo DiBiasi, 74, born in Italy, owning no. 1022, three doors from the Petriello house at no. 1028 (S2). He was born c.1866, so he is a plausible brother or cousin of Maria Antonia. The two households of DiBiasis at no. 1022 are a lead for her family, not a proven link.",
+ "openQuestionsNew": [
+  "Is Vincenzo DiBiasi (b. c.1866 Italy, widower, 1022 Bunker Hill St in 1940, son Michael b. c.1901) a brother of Maria Antonia? He could also be the father of Joseph DiBiasi (b. 1891, husband of her daughter Grace) and of Vincenzo 'James' DiBiase (b. 1894). The FamilySearch tree wrongly makes those two sons of Giovanni P. DiBiasi and Rosa Siconolfi, Maria Antonia's parents."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Lackawanna Co. Orphans' Court, marriage license application No. 1856 (1934): Charles Petriello (26, labor, b. Scranton, 1028 Bunker Hill St; father John, mother Mary, maiden name 'Bibisi' [DiBiasi], father occupation 'Mdse', both parents b. Italy, residing Scranton) and Elsie Jaworski (21, waitress, b. Scranton, 416 Christ Ct; father Alexander, deceased; mother Victoria, b. Poland); sworn 27 Aug 1934; married Sept 1934 at Scranton by Rev. Andrew Lychowicz. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:VF78-5KW).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/2/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Charles Thomas Petriello marriage; John and Maria Antonia both alive Aug 1934"
+  },
+  {
+   "ref": "S2",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  }
+ ],
+ "searchedNoResult": [
+  "PA death index 1935, P volume: the PDF file name could not be found (tried P, P-Q, P-R, P-Q-R, O-P, N-O-P, O-P-Q, N-O-P-Q, O-Q, P-S); the 1939 and 1934 volumes resolve, so the 1935 split is named differently",
+  "Antenati Guardia Lombardi Nati 1870: blocked (403) in this round"
+ ],
+ "researchLogEntry": "Round 4: her son Charles's 1934 license confirms the maiden name (as 'Bibisi') and shows her alive in 1934; a widowed Vincenzo DiBiasi (b. c.1866) three doors away in 1940 is a sibling candidate. The 1935 death-index volume could not be located.",
+ "researchedAt": "2026-10-08"
+}

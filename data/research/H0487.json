@@ -9,6 +9,49 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Wikipedia biography; in-law."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0487.json."
+    }
+  ],
+  "death": {
+    "date": "Apr 1711"
+  },
+  "aka": [
+    "Col. Richard Townley"
+  ],
+  "events": [
+    {
+      "title": "Emigration",
+      "date": "1683",
+      "place": "Virginia",
+      "description": "Came in the suite of Lord Howard of Effingham, Governor of Virginia; settled at Elizabethtown, NJ. [R4-S1]"
+    },
+    {
+      "title": "Marriage",
+      "date": "1685",
+      "place": "Elizabethtown, NJ",
+      "description": "Married (as his second wife) Elizabeth (Smith), widow of Gov. Philip Carteret. [R4-S1]"
+    }
+  ],
+  "bio": "Eighth son of Nicholas Townley of Littleton (then Middlesex); member of the East New Jersey Council (1686) and of the New York Provincial Council (1692, 1697); presiding judge of the Essex County Quarter Sessions at his death in April 1711 ([R4-S1]). In-law.",
+  "sources": [
+    "[R4-S1] Wikipedia, 'Richard Townley' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Richard_Townley"
+  ],
+  "media": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Richard_Townley.svg",
+      "type": "link",
+      "title": "Coat of arms of Richard Townley (modern rendering)",
+      "date": "2023",
+      "source": "Wikimedia Commons (after NEHGS Roll of Arms), cc (CC BY-SA 4.0)",
+      "note": "Reusable under CC BY-SA 4.0; not downloaded (in-law; modern drawing). (not downloaded: rights cc (CC BY-SA 4.0))",
+      "people": []
     }
   ]
 }

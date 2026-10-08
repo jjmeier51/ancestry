@@ -1,0 +1,38 @@
+{
+  "id": "I282824815840",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → possible: Marriage confirmed; birth and parentage conflict."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824815863, proven): Marriage 1746"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: marriage 7 May 1746 (groom from Pittarella); 1729 baptism names a different father (Gioacchino), conflict flagged."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815840.json."
+    }
+  ],
+  "bio": "Antonio married Anna Villella on 7 May 1746; the index notes that the groom came from Pittarella ([R4-S1]), a hamlet of Pedivigliano in the Savuto valley. A San Mango baptism of an Antonio Sacco on 26 January 1729 exists, but it names his parents as Gioacchino Sacco and Mattea Pagliuso, not the tree's Carmine Sacco ([R4-S2]). Because the groom was from Pittarella, that baptism may belong to a different Antonio.",
+  "conflicts": [
+    {
+      "field": "father",
+      "site": "Carmine Sacco",
+      "found": "San Mango 1729 baptism of an Antonius Sacco names Joachim Sacco and Matthea Pagliuso; the groom of 1746 was from Pittarella",
+      "assessment": "Unresolved: either the tree's Carmine comes from Pittarella records, or the 1729 San Mango baptism is his and the father is Gioacchino."
+    }
+  ],
+  "link": {
+    "confidence": "possible",
+    "note": "Round 4 (unverified → possible): Marriage confirmed; birth and parentage conflict."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 59, p. 58, no. 5; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 67, p. 61, no. 3; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
+  ]
+}

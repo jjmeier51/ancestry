@@ -1,0 +1,21 @@
+{
+  "id": "M0057",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282824815579 (proven); parent of I282824815569 (proven)."
+  },
+  "tags": [],
+  "summary": "Wife of Agostino Orlando (m",
+  "bio": "Wife of Agostino Orlando (m. 6 May 1782), daughter of Domenico Mollame; mother of Francesca Orlando (b. 1794). Direct ancestor.",
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 43, p. 80, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 197, p. 391, no. 43; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-807 → M0057; research/imported/round4/new_people.json."
+    }
+  ]
+}

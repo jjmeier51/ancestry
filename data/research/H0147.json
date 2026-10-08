@@ -1,15 +1,15 @@
 {
   "id": "H0147",
   "link": {
-    "confidence": "probable",
-    "note": "Name, age and county fit; no record joins soldier to family."
+    "confidence": "confirmed",
+    "note": "Name, age and county fit; no record joins soldier to family. Round 4 (probable → confirmed): The GAR card ties Caleb A. Pringle (b. 1839 PA) to Co. G, 52nd PA, and the FS tree ties Caleb Atherton (b. 1839, Salem Twp. 1860/1870) to Benjamin and Charity. Name, birth year, state and unit all agree."
   },
   "sex": "M",
   "tags": [
     "military"
   ],
   "summary": "Probably John's 1st cousin 5x removed; Civil War private, 52nd Pennsylvania ('Luzerne Regiment').",
-  "bio": "Caleb Pringle, b. 1839, son of Benjamin Pringle and Charity Gould, 'went West' (Giles & Franklin). Private Caleb Pringle served in Co. G, 52nd PA Infantry ('Luzerne Regiment') from 4 Nov 1861 to 5 Nov 1864 - the only Luzerne-regiment Pringle in the Bates rosters. Identity of soldier and cousin is probable.",
+  "bio": "Caleb Pringle, b. 1839, son of Benjamin Pringle and Charity Gould, 'went West' (Giles & Franklin). Private Caleb Pringle served in Co. G, 52nd PA Infantry ('Luzerne Regiment') from 4 Nov 1861 to 5 Nov 1864 - the only Luzerne-regiment Pringle in the Bates rosters. Identity of soldier and cousin is probable.\n\nAn Iowa GAR membership card names a 'Caleb A' Pringle, born 1839 in Pennsylvania, who was a private in Co. G, 52nd PA Infantry, enlisted 4 Nov 1861 and discharged 5 Nov 1864 at the end of his term. The card also says he 'formerly resided at Sanborn' in O'Brien Co. ([R4-S1]). The FamilySearch tree for Caleb Atherton Pringle, son of Benjamin Pringle and Charity Gould, attaches this card. It places him in Salem Twp., Luzerne Co., in 1860 and again in 1870, then in Floyd Co., Iowa (1880), Clay Co., Iowa (1885) and Rolla, Missouri (1900, 1910). He died on 22 Apr 1919 and is buried in Rolla Cemetery ([R4-S2]). The middle initial A, the 1839 Pennsylvania birth and the 52nd PA service match on both, so the soldier and the cousin are the same man.",
   "military": [
     {
       "branch": "US Army (Pennsylvania Volunteers)",
@@ -21,7 +21,9 @@
   ],
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.280-281",
-    "PA-Roots 52nd PA Co. G: https://pa-roots.com/pacw/infantry/52nd/52ndcog.html"
+    "PA-Roots 52nd PA Co. G: https://pa-roots.com/pacw/infantry/52nd/52ndcog.html",
+    "[R4-S1] Iowa, Grand Army of the Republic Membership Records, 1861-1949: card for Caleb A. Pringle (FamilySearch record Q23N-3HG9; image via published tree) (derivative) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KZGR-Z9K/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch published tree, Caleb Atherton Pringle KZGR-Z9K (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/Caleb Atherton Pringle KZGR-Z9K"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -32,6 +34,67 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: The GAR card ties Caleb A. Pringle (b. 1839 PA) to Co. G, 52nd PA, and the FS tree ties Caleb Atherton (b. 1839, Salem Twp. 1860/1870) to Benjamin and Charity. Name, birth year, state and unit all agree."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0146, probable): FS KZGR-Z9K parents Benjamin Pringle and Charity Gould; Giles & Franklin"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0435, probable): same"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Iowa GAR card for Caleb A. Pringle (Co. G, 52nd PA) and FS KZGR-Z9K (Caleb Atherton, d. 22 Apr 1919 Rolla, MO) confirm the soldier is Benjamin's son. Card image downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0147.json."
+    }
+  ],
+  "birth": {
+    "date": "1839-06",
+    "place": "Luzerne Co., PA"
+  },
+  "death": {
+    "date": "1919-04-22",
+    "place": "Rolla, Phelps Co., MO (burial Rolla Cemetery)"
+  },
+  "burial": {
+    "place": "Rolla Cemetery, Rolla Twp., Phelps Co., MO"
+  },
+  "events": [
+    {
+      "title": "Civil War service",
+      "date": "1861-11-04 to 1864-11-05",
+      "place": "Co. G, 52nd PA Infantry",
+      "description": "Iowa GAR card: 'Pringle, Caleb A', born 1839 Penn; Prvt., Co. G, 52 Pa. Inf.; enlisted 4 Nov 1861, discharged 5 Nov 1864 at expiration of term. Card sources: Schee, 'Biog. data old soldiers O'Brien co. 1909', 'Formerly resided at Sanborn', and Bates. [R4-S1]"
+    },
+    {
+      "title": "Residences",
+      "date": "1860-1910",
+      "place": "Salem Twp., Luzerne Co., PA (1860, 1870); Rockford Twp., Floyd Co., IA (1880); Clay Co., IA (1885); Sanborn, O'Brien Co., IA; Rolla, Phelps Co., MO (1900, 1910)",
+      "description": "From the FamilySearch tree's census-based residence events (1885 Iowa census attached) and the GAR card. [R4-S1] [R4-S2]"
+    }
+  ],
+  "openQuestions": [
+    "The FS tree shows a pension event dated 1907-1933. His Civil War pension file (Caleb A. Pringle, Co. G, 52nd PA) would name his wife and children and confirm his parents' county.",
+    "Wife and children unknown; look in the 1880/1900 censuses."
+  ],
+  "media": [
+    {
+      "file": "media/H0147/iowa-gar-card-caleb-a-pringle.jpg",
+      "type": "record",
+      "title": "Iowa GAR membership card, Caleb A. Pringle (Co. G, 52nd PA Inf.)",
+      "date": "",
+      "source": "FamilySearch (Iowa GAR Membership Records 1861-1949), public_domain",
+      "note": "Iowa state government index card (WPA-era compilation).",
+      "people": [],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KZGR-Z9K"
     }
   ]
 }

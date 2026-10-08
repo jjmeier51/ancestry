@@ -1,0 +1,85 @@
+{
+ "id": "H0136",
+ "name": "John F. Connole",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "burial": {
+   "place": "Hanover Twp, Luzerne Co., Pa. (FS)",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "residences": [
+   {
+    "date": "1880",
+    "place": "Avondale, Plymouth Twp",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1910",
+    "place": "Plymouth Ward 4",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "GC1H-TDV"
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch lists his children with Mary Elizabeth Keating (b. Larksville Mar 1862, d. Plymouth 14 Jun 1914): Mary Celestine (1879-1950), Thomas L. (1882-1905), Dr. John Francis Jr. (1882-1945), Alethea B. (1884-1958), Dr. Joseph V. (b. 1890) and Annie (b. 1897) (S1, S2).",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "H0138",
+   "evidence": "FS child Joseph V Connole b. 1890 Plymouth",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "child",
+   "personId": "H0139",
+   "evidence": "Dr. John Francis Connole Jr., b. 25 Nov 1882 (WWI card: physician, Plymouth); site's \"John P.\" appears to be him",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), John Francis Connole (1853-1923), PID GC1H-TDV; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children, residences",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC1H-TDV"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), Mary Elizabeth Keating (1862-1914), PID GC1C-MH9; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth Larksville 1862, death 1914, burial St. Vincent de Paul, Larksville",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC1C-MH9"
+  },
+  {
+   "ref": "S3",
+   "citation": "U.S. WWI draft registration card, John Francis Connole, Local Board Div. 6, Plymouth, 12 Sep 1918 (image via FamilySearch, attached to GC1C-W4J)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "b. 25 Nov 1882; Doctor of Medicine, 108 Church St, Plymouth",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC1C-W4J/images/i/2/image.jpg"
+  }
+ ],
+ "researchLogEntry": "Round 4: children listed from FS; identified Dr. John F. Connole Jr. as the surgeon \"John P.\""
+}

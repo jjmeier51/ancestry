@@ -1,0 +1,146 @@
+{
+ "id": "I282604680657",
+ "name": "William Bernard Mcguire",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1906-09-17",
+   "place": "Plymouth, Luzerne Co., Pa. (FS); Larksville (1927 licence)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "1975-09",
+   "place": "Mountain Top, Fairview Twp, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "burial": {
+   "cemetery": "St. Mary's Cemetery",
+   "place": "Hanover Twp, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "occupation": "Laborer (1927)",
+  "events": [
+   {
+    "title": "Marriage (1)",
+    "date": "1927-11-26",
+    "place": "Wilkes-Barre, Pa.",
+    "description": "Married Mary Marguerite Prout (b. Plymouth c.1906, dau. of James Prout, carpenter, and Bertha Dunn), by Rev. D. W. McCarthy; licence no. 17091 sworn 25 Nov 1927. Groom of 19 Oak St, Wilkes-Barre.",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "title": "Marriage (2)",
+    "date": "1939-12-29",
+    "place": "Luzerne Co., Pa.",
+    "description": "Married Alice Theressa Brennan (1907-1994) after Marguerite's death in 1934 (FS).",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1910",
+    "place": "Larksville",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1920",
+    "place": "Larksville Ward 4",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1927",
+    "place": "19 Oak St, Wilkes-Barre",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "GZQT-113"
+   }
+  ]
+ },
+ "bioAdditions": "William Bernard McGuire, Kathryn's uncle, was a 21-year-old laborer at 19 Oak Street, Wilkes-Barre, when he applied to marry Mary Marguerite Prout of Lyndwood, Hanover Township, on 25 Nov 1927; they were married the next day by Rev. D. W. McCarthy, the same priest who married William F. Meier and Florence Pringle in 1926 (S1). His application names his late parents James McGuire, born at Danville, Pa., and Anna Jones, born in England. Marguerite died in 1934; he remarried Alice Theressa Brennan in 1939, and died at Mountain Top in September 1975 (S2; a GenealogyBank obituary index entry is attached there).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282604494274",
+   "evidence": "Named as father on 1927 licence",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282604494275",
+   "evidence": "Named as mother on 1927 licence",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "confirmed",
+  "justification": "1927 marriage application names parents James McGuire and Anna Jones."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "William Bernard McGuire, laborer, 19 Oak St, Wilkes-Barre, b. Larksville, 21; father James (dec'd, b. Danville, Pa.), mother Anna Jones (dec'd, b. England). Bride b. Plymouth, 21, of 88 Lyndwood Ave, Hanover Twp; father James Prout (carpenter, b. Larksville), mother Bertha Dunn (b. Avondale).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), William Bernard McGuire (1906-1975), PID GZQT-113; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, death, burial, second marriage; 1950 census and obituary index attached",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GZQT-113"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1927 Luzerne marriage application no. 17091, William Bernard McGuire & Mary Marguerite Prout",
+   "date": "1927-11-25",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:KHXY-TFM",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg",
+   "repository": "Luzerne County Orphans' Court via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604680657/1927-luzerne-marriage-application-17091.jpg",
+   "people": [
+    "I282604680657",
+    "I282604494274",
+    "I282604494275"
+   ],
+   "suggestedFile": "media/I282604680657/1927-luzerne-marriage-application-17091.jpg",
+   "note": "Pre-1931 county government record."
+  }
+ ],
+ "researchLogEntry": "Round 4: read his 1927 marriage application (parents James b. Danville & Anna Jones b. England); FS dates 1906-1975."
+}

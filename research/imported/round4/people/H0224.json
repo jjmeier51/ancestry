@@ -1,0 +1,66 @@
+{
+  "id": "H0224",
+  "name": "Job Smith",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Deeds from his father",
+        "date": "1688-08-30",
+        "place": "Smithtown",
+        "description": "Richard Smith Sr. and wife Sarah gave Job 20 acres on the North Neck for life, remainder to Job's four sons Job, Richard, Joseph and Timothy, and 180 acres at Stony Brook Neck to grandsons Job and Richard; acknowledged 17 Sept 1688 before Wait Winthrop",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Pelletreau prints the 30 Aug 1688 deeds by which Richard 'Bull' Smith and his wife Sarah settled land on Job and on Job's sons Job, Richard, Joseph and Timothy (S2). These are near-primary proof of Job's parentage and of the eldest sons' order. The Appendix (pp. 478-479) gives the full list of Job's children: Job 2d (b. 9 Mar 1679), 'Saint' Richard, Timothy, Aaron, James, Joseph and Elizabeth (said to be the second wife of Rev. Daniel Taylor). His wife is Elizabeth, daughter of John Thompson of Setauket (S1). Pelletreau puts Job's death 'about 1719' in the Appendix and 'before 1720' in the Introduction (S1, S3). Weygant (1897) gives the same seven children (S4).",
+  "openQuestionsResolved": [
+    {
+      "question": "Exact birth/death dates; whether Elizabeth Thompson was mother of all his children.",
+      "answer": "No exact dates found: d. about 1719 / before 1720 (Pelletreau). Eldest son Job 2d b. 9 Mar 1679. All seven children are attributed to Job & Elizabeth (Thompson) by Pelletreau and Weygant. No second wife is mentioned.",
+      "sourceRefs": [
+        "S1",
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "children of Job and Elizabeth Thompson; Job 2d b. 1679"
+    },
+    {
+      "ref": "S2",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "1688 deeds from Richard and Sarah Smith to son Job and his sons"
+    },
+    {
+      "ref": "S3",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), Introduction: 'Daniel probably died before 1715; Richard died in 1719; Adam is said to have died in 1720; Job died before 1720'",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Job died before 1720"
+    },
+    {
+      "ref": "S4",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Job's seven children"
+    }
+  ],
+  "researchLogEntry": "Round 4: 1688 deeds and Pelletreau's children list added; dates remain approximate (d. c.1719)."
+}

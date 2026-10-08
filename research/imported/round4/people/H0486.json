@@ -1,0 +1,64 @@
+{
+  "id": "H0486",
+  "name": "Philip Carteret",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1639",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1682",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "occupation": "First Governor of New Jersey (1665-73) and of East Jersey (1674-82)"
+  },
+  "bioAdditions": "Married Elizabeth (Smith) Lawrence in 1681; she kept by prenuptial instrument the right to give her Lawrence lands to her Lawrence children, and he left her his whole East Jersey estate (S2). Lawrence 1858 also says she managed the colony's affairs in his absence and that Elizabethtown was named for her; the naming claim is family tradition and conflicts with the usual explanation (see openQuestionsNew). In-law.",
+  "openQuestionsNew": [
+    "Lawrence 1858 claims Elizabethtown, NJ, was named for Elizabeth (Smith) Carteret; New Jersey histories usually credit Lady Elizabeth Carteret, wife of proprietor Sir George Carteret. Verify before using the claim."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Philip Carteret (colonial governor)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Philip_Carteret_(colonial_governor)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates and offices"
+    },
+    {
+      "ref": "S2",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 24-25 (OCR order) / 'Descendants of William Lawrence'",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Marriage to widow Elizabeth 1681; prenuptial reservation; estate left to her; Elizabethtown claim"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "CAUTION: portrait on Commons labelled 'Philip Carteret' shows the explorer, not the governor",
+      "date": "",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Philip_Carteret.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Philip_Carteret.jpg",
+      "repository": "Wikimedia Commons",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0486"
+      ],
+      "suggestedFile": "media/H0486/do-not-use-philip-carteret.jpg",
+      "note": "Commons description calls it a 'portrait de l'explorateur Philip Carteret' and it lacks source information; it is used on the governor's Wikipedia article. Do not use for the governor."
+    }
+  ],
+  "researchLogEntry": "Round 4: dates from Wikipedia; Lawrence 1858 marriage details; misattributed Commons portrait flagged.",
+  "researchedAt": "2026-10-08"
+}

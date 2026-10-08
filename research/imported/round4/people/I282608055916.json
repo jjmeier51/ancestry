@@ -1,0 +1,43 @@
+{
+  "id": "I282608055916",
+  "name": "John Tuthill Jr.",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1658-02-14",
+      "place": "Southold, Suffolk Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1754-11-21",
+      "place": "Southold, Suffolk Co., NY",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Akerly (1898) gives John Jr. b. 14 Feb 1658, d. 21 Nov 1754. He married Mehitable Wells (b. 1666, d. 26 Aug 1742) 'in or before 1683'. He was a Southold landowner, JP, commissioner for the King's Highway, NY Assembly member 1693-98, and sheriff (S1). His children were John (b. 1683), James, Mary (1687, m. Jonathan Horton), Joshua (1690), Dorothy (c.1692, m. Joseph Brown), Daniel, Freegift (8 Aug 1698), and perhaps Hannah (S1). The contemporary Salmon Record has the death of 'John Tuthil aged 96 years old' on the 21st in a November run of entries (S2), matching Akerly.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11)",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "John no. 4: dates, offices, children"
+    },
+    {
+      "ref": "S2",
+      "citation": "The Salmon Records: a private register of marriages and deaths of the residents of the town of Southold, 1696-1811 (NYG&B, 1918), full text searched",
+      "url": "https://archive.org/details/salmonrecordspri00salm",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "'John Tuthil aged 96 years old' died the 21st [Nov 1754]"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates from Akerly, corroborated by the Salmon Record death entry 'aged 96'."
+}

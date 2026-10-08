@@ -22,7 +22,7 @@
   ],
   "tags": [],
   "summary": "John's great-grandmother (mother of grandmother Kathryn); a Plymouth clerk, daughter of a New York-born father who died when she was an infant.",
-  "bio": "Elizabeth M. McAvoy was born 8 Dec 1897 in Plymouth (FS KGQH-JNV), one of ten children of William Richard McAvoy (b. c.1857 New York, d. 4 Nov 1899 Plymouth) and Catherine A. Murphy. Her father died when she was about two; her widowed mother married John H. Jones, and in 1920 Elizabeth lived 'in household of John H Jones'. On 19 Jun 1923 (licence No. 635) she was a clerk, of 214 Vine St, Plymouth, aged 25, born Penna., father William R. (deceased, born N.Y.), mother Kathryn Murphy (Plymouth, born Penna.); she married Frank J. McGuire on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). Her sister Agnes M. McAvoy married Joseph S. Jones, a brother of Frank's mother Anna C. Jones — so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth married. After Frank's death in 1958 she married (2) Harold Arnold. She died 5 May 1984 in Altoona and was buried in Hanover Township (FS).",
+  "bio": "Elizabeth M. McAvoy was born 8 Dec 1897 in Plymouth (FS KGQH-JNV), one of ten children of William Richard McAvoy (b. c.1857 New York, d. 4 Nov 1899 Plymouth) and Catherine A. Murphy. Her father died when she was about two; her widowed mother married John H. Jones, and in 1920 Elizabeth lived 'in household of John H Jones'. On 19 Jun 1923 (licence No. 635) she was a clerk, of 214 Vine St, Plymouth, aged 25, born Penna., father William R. (deceased, born N.Y.), mother Kathryn Murphy (Plymouth, born Penna.); she married Frank J. McGuire on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). Her sister Agnes M. McAvoy married Joseph S. Jones, a brother of Frank's mother Anna C. Jones — so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth married. After Frank's death in 1958 she married (2) Harold Arnold. She died 5 May 1984 in Altoona and was buried in Hanover Township (FS).\n\nHer sister Agnes M. McAvoy's 1914 marriage docket again gives their father William as born in New York and dead, and their mother Catharine (Murphy) as living in Plymouth ([R4-S1]). FamilySearch shows Elizabeth's siblings Mary (1879-1944), Agnes (1884-1958), William Richard Jr. (1886-1942), Katherine Frances (1888-1933), Josephine Regina (1891-1943), Gertrude Calista (1893-1971), Anna K. (1895-1964) and Claire (1899-1975) ([R4-S2]). A \"Lizzie McAvoy\" entry in the FamilySearch index \"Pennsylvania Births and Christenings\" is attached to her profile (probably her Plymouth baptism), but the record page could not be opened.",
   "residences": [
     {
       "date": "1920",
@@ -41,11 +41,16 @@
     "Luzerne marriage licence No. 635 (1923) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQT-YKQ/images/i/2/image.jpg ; https://familysearch.org/ark:/61903/1:1:KHF5-V74",
     "FamilySearch tree KGQH-JNV",
     "Ancestry index snippet (Kathryn Meier: mother Elizabeth McAvoy-McGuire)",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch Family Tree (published), William Richard McAvoy (1857-1899), PID K6NQ-ZXZ; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K6NQ-ZXZ",
+    "[R4-S3] FamilySearch Family Tree (published), Harold Arnold (1927-1997), PID GP7C-XR4; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4",
+    "[R4-S4] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB"
   ],
   "openQuestions": [
     "Burial cemetery in Hanover Twp.",
-    "Date of second marriage to Harold Arnold."
+    "Date of second marriage to Harold Arnold.",
+    "FamilySearch index \"Pennsylvania Births and Christenings\" entry for Lizzie McAvoy (ark 1:1:HFVW-G2MM) should give her baptism date, church and sponsors."
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -60,6 +65,22 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Elizabeth McAvoy\"; research uses \"Elizabeth M. McAvoy\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1914 docket re-confirms NY-born father; found that Harold Arnold (b. 1927) was her son-in-law, not her second husband."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604493938.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "spouses (second husband Harold Arnold, H0383)",
+      "site": "Elizabeth McAvoy m. (2) Harold Arnold",
+      "found": "FamilySearch shows Harold (Edward) Arnold, b. 1927, d. 1997 Altoona, son of Harold George Arnold & Martha Bowden, as husband of her DAUGHTER Elizabeth \"Betsy\" McGuire (b. 8 Mar 1928); a duplicate profile also attaches him to the mother.",
+      "assessment": "A man born in 1927 is almost certainly the son-in-law, not the second husband of a woman born in 1897. Her death in Altoona (1984), where Harold Arnold also died (1997), fits her living with Betsy and Harold. Recommend detaching H0383 as Elizabeth McAvoy's spouse and treating him as Betsy's husband (Betsy is on the presumed-living skip list, so no further research was done)."
     }
   ]
 }

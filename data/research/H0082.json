@@ -7,9 +7,10 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 9th-great-grandfather; of Jettenbach.",
-  "bio": "Paul Jung of Jettenbach and his wife Maria Barbara were parents of Gretha Catharina Jung (d. 1734), wife of Johann Peter Grub.",
+  "bio": "Paul Jung of Jettenbach and his wife Maria Barbara were parents of Gretha Catharina Jung (d. 1734), wife of Johann Peter Grub.\n\nFamilySearch lists nine children of Paul Jung and Maria Barbara of Jettenbach, born between 1660 and 1687. They include Elisabetha Catharina (c.1674-1734), second wife of Johann Peter Grub, and Maria Sara (c.1678-before 1721), wife of Abraham Lampert ([R4-S1]). The site makes him John's ancestor through 'Gretha Catharina Jung', but that person is a merge (see H0078). His place in John's ancestry is safer through Maria Sara, who was the mother of Elisabetha Margaretha Lampert, John's ancestress. Maria Sara's descent from Paul is a FamilySearch claim with attached baptism entries. The baptism of her daughter Elisabetha Margaretha names her only as Maria Sara.",
   "sources": [
-    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191876"
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191876",
+    "[R4-S1] FamilySearch published tree, Paul Jung (G9S1-G4X), children list, with Lutheran baptism entries attached (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G9S1-G4X"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +21,31 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch shows Paul Jung's daughter Maria Sara as Abraham Lampert's wife, so he descends to John through the Lamperts whatever the Grub wife question."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0082.json."
     }
+  ],
+  "birth": {
+    "date": "ABT 1640",
+    "place": "Jettenbach"
+  },
+  "death": {
+    "date": "BEF 1707",
+    "place": "Jettenbach"
+  },
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G9S1-G4X"
+    }
+  ],
+  "openQuestions": [
+    "Maria Sara Jung (wife of Abraham Lampert, NEW-302) should be added to the tree as John's ancestress and Paul Jung's daughter."
   ]
 }

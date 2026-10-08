@@ -9,6 +9,43 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates and parents from FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0433.json."
     }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1851",
+      "found": "1854-02-17",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth.date",
+      "site": "1851",
+      "found": "17 Feb 1854",
+      "assessment": "Prefer 1854 pending."
+    }
+  ],
+  "birth": {
+    "date": "1851",
+    "place": "Minersville, Schuylkill Co., Pa."
+  },
+  "death": {
+    "date": "1931-01-18",
+    "place": "Wilkes-Barre, Pa."
+  },
+  "burial": {
+    "place": "Larksville, Pa."
+  },
+  "bio": "FamilySearch: William J. Dailey, son of Michael Dailey (1839-1869) and Elizabeth Keating (1836-1923); Cass Twp, Schuylkill Co. in 1860, Plymouth Twp by 1870; died 18 Jan 1931 ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), William J Dailey (1854-1931), PID LNRQ-5RS; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LNRQ-5RS"
   ]
 }

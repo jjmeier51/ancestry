@@ -10,9 +10,10 @@
   ],
   "tags": [],
   "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Maria Magdalena (Grub) Ihrig/Stecher (1759-1801); named 'Mary (m. George Stacher)' in her father's will.",
+  "bio": "Maria Magdalena (Grub) Ihrig/Stecher (1759-1801); named 'Mary (m. George Stacher)' in her father's will.\n\nFamilySearch gives Maria Magdalena the dates 6 May 1759 to 27 Dec 1801. It names her two husbands as Johannes Ihrie (1754-1788), whom she married about 1778, and George John Stecher (1764-1830), married about 1790, and has children born at Easton from 1779. A Pennsylvania cemetery record calls her 'Maria-Magdalena Grube Stecher' ([R4-S1]).",
   "sources": [
-    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
+    "[R4-S1] FamilySearch published tree, Maria Magdalena Grub (26KF-6RN), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/26KF-6RN"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -23,6 +24,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 6 May 1759-27 Dec 1801 and two husbands, Ihrie and Stecher."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0203.json."
     }
   ],
   "media": [
@@ -49,6 +58,27 @@
       "source": "Find a Grave (cited on WikiTree Grub-123)",
       "note": "",
       "url": "https://findagrave.com/memorial/31524104#view-photo=140730543"
+    }
+  ],
+  "birth": {
+    "date": "1759-05-06",
+    "place": "Williams Twp"
+  },
+  "death": {
+    "date": "1801-12-27"
+  },
+  "events": [
+    {
+      "title": "Marriages",
+      "date": "ABT 1778; c.1790",
+      "place": "Easton area",
+      "description": "(1) Johannes Ihrie (1754-1788); (2) George John Stecher (1764-1830) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "26KF-6RN"
     }
   ]
 }

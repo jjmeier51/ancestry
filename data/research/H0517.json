@@ -1,14 +1,45 @@
 {
   "id": "H0517",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Every generation stated in Pelletreau 1898 (Ebenezer & Anna, Richard 4th & Sarah, Richard 5th)."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Every generation stated in Pelletreau 1898 (Ebenezer & Anna, Richard 4th & Sarah, Richard 5th)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0483, proven): same"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Pelletreau p. 466 (Google scan) identifies him as Richard 5th, son of Richard 4th and grandson of Ebenezer & Anna (Job 2d's daughter): 3C7R via Job Smith."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0517.json."
     }
+  ],
+  "birth": {
+    "date": "1770"
+  },
+  "death": {
+    "date": "1831"
+  },
+  "aka": [
+    "Richard Smith 5th",
+    "Richard Smith, Esq., of Nissequogue"
+  ],
+  "bio": "This record is the key to a closer cousinship for the J. Lawrence Smith family. Pelletreau ([R4-S1]) makes him the son of Richard Smith 4th (d. 1811), whose parents were Ebenezer Smith (son of Richard 2d) and Anna, daughter of Job Smith 2d, son of Job Smith 1st, John's own 10th-great-grandfather. Path via Job: Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th, 4 generations below John's 10th-great-grandparents: 3rd cousin 7 times removed (and 3C8R via Bull Smith -> Richard 2d -> Ebenezer). His mother Sarah was a daughter of Edmund Smith 2d and Charity, another daughter of Job 2d, so he descends from Job 2d twice. Children with Eliza W. Nicoll: Hon. Edward Henry, Judge John Lawrence, Sarah (Mrs I. B. Fenno), Ann Eliza (Mrs Elliott Robins), Marcia (Mrs Crutchett) and Charlotte E. (Mrs David Harries).",
+  "sources": [
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog",
+    "[R4-S2] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 475-476 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ]
 }

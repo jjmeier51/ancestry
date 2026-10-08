@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 11th-great-grandfather (via Rachel Browne → Elisabeth Salmon → Sarah Horton); well-known Southold founder from Mowsley, Leicestershire.",
-  "bio": "Listed by Round 3 among the English origins: Mowsley, Leicestershire, with 'Joseph & Libbeus Horton of Mowsley' as the earliest known Hortons there. His descendants also include the Southold Hortons who married into the Tuthills (Mary Tuthill m. Jonathan Horton; Bethia Horton m. Henry Tuthill the Justice), though those lines are collateral.",
+  "bio": "Listed by Round 3 among the English origins: Mowsley, Leicestershire, with 'Joseph & Libbeus Horton of Mowsley' as the earliest known Hortons there. His descendants also include the Southold Hortons who married into the Tuthills (Mary Tuthill m. Jonathan Horton; Bethia Horton m. Henry Tuthill the Justice), though those lines are collateral.\n\nHorton Genealogy (1876) gives Barnabas as son of Joseph Horton, b. Mowsley, Leicestershire, 13 July 1600. It says he came in the Swallow (Jeremy Horton master), landed at Hampton, Mass., went to New Haven in 1640 with his wife Mary and sons Joseph and Benjamin, and settled at Southold in Oct 1640 ([R4-S1]). It does not list a daughter who married William Salmon. Its 'Sarah' is b. c.1653 and m. Joseph Conklin ([R4-S1]). But the Southold town records state explicitly that William Salmon, after Katherine's death, 'married with Sarah Hortton', and that John Conckelyne Jr. then took 'the said Sarah Salmon' to wife ([R4-S2]). Recent work (J. Dinan, In Search of Barnabas Horton, via WikiTree) makes her Barnabas's daughter by his first wife Anne Smith, b. c.1635, when he was a baker at Nuneaton, Warwickshire ([R4-S3]). The Horton Genealogy's Sarah/Joseph Conklin entry looks like a garbled version of the Sarah (Horton) Salmon-John Conklin marriage.",
   "facts": [
     {
       "label": "Earliest known there",
@@ -17,10 +17,14 @@
   "sources": [
     "WikiTree Tuthill-530 getAncestors",
     "Round 3 report §3 England table",
-    "notes/round3/english_french_origins.md §2i, §4"
+    "notes/round3/english_french_origins.md §2i, §4",
+    "[R4-S1] G. F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton of Southold (1876), First Generation (Barnabas I) and 'Sarah I.' (secondary) https://archive.org/details/hortongenealogyo00hort",
+    "[R4-S2] J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 169-170 (Liber A: recital that William Salmon, after the death of his wife Katherine, widow of Mathew Sinderland, 'married with Sarah Hortton' and died intestate; John Conckelyne Jr. 'tooke to wife the said Sarah Salmon') (primary) https://archive.org/details/southoldtownreco0000jwic",
+    "[R4-S3] WikiTree Horton-219 (Sarah Horton), biography read via api.wikitree.com, citing Southold Town Records vol. 1 (marriage 'John Conckelyne and Sarah Solmon wid married the 2d of December' 1657), Conklin Mann, TAG 21:246-253 (1945), and J. Dinan, In Search of Barnabas Horton (Nuneaton baker 1633) (derivative) https://www.wikitree.com/wiki/Horton-219"
   ],
   "openQuestions": [
-    "Exact baptism and parents in Mowsley register."
+    "Exact baptism and parents in Mowsley register.",
+    "Barnabas's Mowsley baptism: the 13 July 1600 date in Horton 1876 is a birth date with no register citation. Check the Mowsley/Laughton parish register."
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -31,6 +35,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Horton 1876 read; the Salmon-Horton marriage confirmed in Southold Town Records vol. 1, but the Horton Genealogy omits Sarah (Salmon), so her paternity rests on Dinan's recent work."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0237.json."
     }
   ]
 }

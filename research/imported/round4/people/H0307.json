@@ -1,0 +1,59 @@
+{
+  "id": "H0307",
+  "name": "Cornelius Van Wyck Lawrence",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "28 Feb 1791",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "20 Feb 1861",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Lawrence 1858 (S1) spells out the line in its own words: 'the eldest son of Henry Lawrence, who was the son of the second Joseph who was the son of Richard, who was the son of the first Joseph who was the son of the first William and Elizabeth Smith, afterwards Lady Carterett'. With Elizabeth a daughter of Bull Smith, that is 6 generations: 5th cousin 6 times removed. He married (1) Maria C. Prall, (2) Rachel A. Hicks, (3) Mrs E. N. Lawrence.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), p. 51",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Line of Cornelius W. Lawrence; marriages; offices"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Cornelius Lawrence' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Cornelius_Lawrence",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; first popularly elected mayor 1834"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Cornelius Van Wyck Lawrence (Lamb, History of the City of New York, vol. 3, p. 723)",
+      "date": "1896",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cornelius_Van_Wyck_Lawrence.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cornelius_Van_Wyck_Lawrence.jpg",
+      "repository": "Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0307/cornelius-vw-lawrence-lamb-1896.jpg",
+      "people": [
+        "H0307"
+      ],
+      "suggestedFile": "media/H0307/cornelius-vw-lawrence-lamb-1896.jpg",
+      "note": "Public domain (published 1896)."
+    }
+  ],
+  "researchLogEntry": "Round 4: Lawrence 1858 states the full line (5C6R); PD 1896 engraving downloaded.",
+  "researchedAt": "2026-10-08"
+}

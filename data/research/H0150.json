@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Probably John's 4th-great-grand-uncle; husband of Huldah Ives.",
-  "bio": "Inferred son of Samuel and Martha: the widow Hulda (Ives) Pringle's children were named Orange, Ransom and Keturah - Lamoreaux family names - making her husband very probably a Samuel Jr. No record names him directly.",
+  "bio": "Inferred son of Samuel and Martha: the widow Hulda (Ives) Pringle's children were named Orange, Ransom and Keturah - Lamoreaux family names - making her husband very probably a Samuel Jr. No record names him directly.\n\nRound 4 found him on a record. The 1840 census of Plymouth Twp has a 'Saml Pringle' household headed by a man aged 30-40 with a wife aged 30-40 and nine children ([R4-S1]). It sits next door to James Pringle and two doors from Joseph Ives. The elder Samuel would have been in his seventies, so this is the younger man, and the Ives neighbour fits his wife Hulda Ives. FamilySearch has him as 'Samuel David Pringle', born 1794, married to Hulda Ives (1804-1886) in 1824 at Plymouth, and attaches the 1830 and 1840 censuses ([R4-S2]). The 1840 age bracket points to a birth in 1800-1810, not 1794. FamilySearch gives him the same death date, 25 Mar 1847, as his father Samuel Sr., which suggests one profile has copied the other. He is buried at Shawnee Cemetery according to FamilySearch.",
   "sources": [
     "Bradsby pp.716-717",
-    "1850 census Plymouth dwelling 942"
+    "1850 census Plymouth dwelling 942",
+    "[R4-S1] 1840 US census, Plymouth Twp, Luzerne Co., PA (enumerator Chester Tuttle), 'Saml Pringle' (FS index 'Saml Pringle', US Census 1840) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KL4L-R8P/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch published tree, Samuel David Pringle (KL4L-R8P) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KL4L-R8P"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +23,66 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: the 1840 Plymouth census shows a Saml Pringle aged 30-40 beside James Pringle and Joseph Ives; FamilySearch has him m. 1824 Hulda Ives and gives a death date (25 Mar 1847) identical to his father's."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0150.json."
+    }
+  ],
+  "death": {
+    "date": "1847-03-25",
+    "place": "Plymouth Twp"
+  },
+  "residences": [
+    {
+      "date": "1840",
+      "place": "Plymouth Twp, Luzerne Co.",
+      "note": "'Saml Pringle': man and woman each 30-40, 2 boys 10-15, a boy under 5, 3 girls 5-10, one girl 15-20 and one under 5; next door to James Pringle, two doors from Joseph Ives [R4-S1]"
+    },
+    {
+      "date": "1830",
+      "place": "Plymouth (FamilySearch-attached census)",
+      "note": "[R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "KL4L-R8P"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "(none)",
+      "found": "25 Mar 1847 on both his and his father's FamilySearch profiles",
+      "assessment": "Only one of them can be right, or neither; needs a burial or probate record."
+    },
+    {
+      "field": "birth.date",
+      "site": "(none)",
+      "found": "1794 (FS) vs. 1800-1810 (1840 census age bracket)",
+      "assessment": "The census bracket is the primary evidence."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0150/1840-census-plymouth-twp-saml-pringle.jpg",
+      "type": "record",
+      "title": "1840 census, Plymouth Twp: Benjn, Saml and James Pringle, Joseph Ives",
+      "date": "1840",
+      "source": "FamilySearch (NARA M704), public_domain",
+      "note": "US federal census, public domain",
+      "people": [
+        "H0146",
+        "I282608053719",
+        "I282608053741"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KL4L-R8P"
     }
   ]
 }

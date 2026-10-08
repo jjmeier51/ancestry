@@ -1,0 +1,19 @@
+{
+ "id": "I282695503588",
+ "name": "Ralph Cognetti",
+ "researchedAt": "2026-10-08",
+ "status": "nothing_new",
+ "conflicts": [
+  {
+   "field": "duplicate",
+   "siteValue": "Ralph Cognetti abt 1913",
+   "foundValue": "Same person as Ralph A. Cognetti (7 Aug 1913-16 Apr 2009)",
+   "sourceRefs": [],
+   "assessment": "Merge into I282695503685."
+  }
+ ],
+ "searchedNoResult": [
+  "n/a: duplicate profile"
+ ],
+ "researchLogEntry": "Round 4: duplicate of Ralph A. Cognetti (I282695503685); merge (Round 1 correction 3m)."
+}

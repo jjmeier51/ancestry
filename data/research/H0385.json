@@ -1,14 +1,55 @@
 {
   "id": "H0385",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): Named in her own and her daughter's marriage records."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Named in her own and her daughter's marriage records."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified from her 1886 marriage docket and daughter Agnes's 1918 docket (b. Hazleton; widowed before 1918)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0385.json."
     }
+  ],
+  "birth": {
+    "date": "1861-08",
+    "place": "Hazleton, Luzerne County, Pennsylvania"
+  },
+  "aka": [
+    "Annie Wenner",
+    "Annie E Mesirs (1910 census index)",
+    "Anna Meier"
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1886-05-12",
+      "place": "Hazleton",
+      "description": "Married Fred Meir (Frederick Meier); licence No. 714, sworn 28 Apr 1886. She gave her birth as 15 August 186[?]. [R4-S1]"
+    },
+    {
+      "title": "Widowed",
+      "date": "BEF 1918",
+      "place": "Hazleton",
+      "description": "In Feb 1918 she was living at Hazleton, in domestic service, and her husband Fred was dead. Her birthplace is given as Hazleton, Pa. [R4-S2]"
+    }
+  ],
+  "bio": "Annie Wenner married Frederick Meier at Hazleton on 12 May 1886, giving her birth as 15 August (year partly legible) ([R4-S1]). FamilySearch has Aug 1861. Her daughter Agnes's 1918 marriage docket names her as 'Anna, maiden name Wenner', of Hazleton, in domestic service and born at Hazleton, with Agnes's father Fred already dead ([R4-S2]). FamilySearch gives her death as 1940 ([R4-S3]).",
+  "sources": [
+    "[R4-S1] Luzerne County Orphans' Court Marriage License Docket No. 714: Fred Meir × Annie Wenner, 1886 (FamilySearch index 1:1:Q281-QXBP) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/1/image.jpg",
+    "[R4-S2] Luzerne County Marriage License Docket No. 81595: Patrick Sweeney × Agnes Meier, 1918 (FamilySearch index 1:1:KHFL-5LG) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/2/image.jpg",
+    "[R4-S3] FamilySearch Family Tree, Anna Wenner (G7G7-K4Q), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G7G7-K4Q"
   ]
 }

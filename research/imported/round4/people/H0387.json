@@ -1,0 +1,54 @@
+{
+  "id": "H0387",
+  "name": "Henry Rose",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1861",
+      "place": "Essen, Germany",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1927-05-19",
+      "place": "Hazleton, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G7LC-5MN"
+      }
+    ]
+  },
+  "bioAdditions": "Husband of Mary Meier. FamilySearch: born 1861 at Essen, Germany; immigrated 1881/82; married at Hazleton in 1885; died at Hazleton on 19 May 1927 (S1). Their daughter Josephine's 1920 Luzerne marriage docket (No. 91450) names her parents as Henry Rose and Mary (née Meyers), both born in Germany (S2).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Spouse link is consistent across the FamilySearch family and attached records."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, Henry Rose (G7LC-5MN), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7LC-5MN",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Birth, immigration, death"
+    },
+    {
+      "ref": "S2",
+      "citation": "Luzerne County Marriage License Docket No. 91450: Charles P. Preso × Josephine Flynn, 1920 (FamilySearch index 1:1:KHFG-G71)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GRCN-TFK/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Josephine's parents: Henry Rose and Mary Meyers, both b. Germany"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: brief pass; details from the FamilySearch tree and its attached records.",
+  "researchedAt": "2026-10-08"
+}

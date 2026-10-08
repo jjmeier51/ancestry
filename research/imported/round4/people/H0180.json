@@ -1,0 +1,61 @@
+{
+  "id": "H0180",
+  "name": "Keturah Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "18 Feb 1791",
+      "place": "Plymouth, Luzerne Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "9 Dec 1842",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "18 Jun 1815",
+        "place": "",
+        "description": "To Samuel Ackley",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1830",
+        "place": "Luzerne Co. ('Caturah Akley', head of household)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LHRW-Y12"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Keturah the dates 18 Feb 1791 to 9 Dec 1842 and her marriage to Samuel Ackley on 18 Jun 1815. Its attached 1830 census entry is indexed under 'Caturah Akley' as head of household (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Keturah Lamoreaux (LHRW-Y12), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHRW-Y12",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 18 Feb 1791-9 Dec 1842 and m. 18 Jun 1815 Samuel Ackley."
+}

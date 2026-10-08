@@ -1,0 +1,52 @@
+{
+  "id": "I282695486702",
+  "name": "John Cleves Symmes",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "21 Jul 1742",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "26 Feb 1814",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Delegate to the Continental Congress from New Jersey; judge; Northwest Territory pioneer (Symmes Purchase)"
+  },
+  "bioAdditions": "Continental Congress delegate from New Jersey and later a pioneer of the Northwest Territory; father-in-law of President William Henry Harrison and great-grandfather of President Benjamin Harrison (S1). He is an in-law, not a blood relative of John; the blood line runs through his wife Anna Tuthill.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'John Cleves Symmes' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/John_Cleves_Symmes",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates, offices, Harrison connections"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "John Cleves Symmes, drawing by Henry Howe",
+      "date": "1907",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:John_Cleve_Symmes_(by_Howe).png",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Cleve_Symmes_%28by_Howe%29.png",
+      "repository": "Wikimedia Commons (from Howe, Historical Collections of Ohio, 1907, p. 813)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "I282695486702"
+      ],
+      "suggestedFile": "media/I282695486702/john-cleves-symmes-howe-1907.png",
+      "note": "Commons licence: Public domain (published 1907)."
+    }
+  ],
+  "researchLogEntry": "Round 4: Wikipedia dates and offices; PD Howe portrait downloaded; in-law only.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "I282604680657",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: 1927 marriage application names parents James McGuire and Anna Jones."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282604494274, proven): Named as father on 1927 licence"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282604494275, proven): Named as mother on 1927 licence"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read his 1927 marriage application (parents James b. Danville & Anna Jones b. England); FS dates 1906-1975."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604680657.json."
+    }
+  ],
+  "birth": {
+    "date": "1906-09-17",
+    "place": "Plymouth, Luzerne Co., Pa. (FS); Larksville (1927 licence)"
+  },
+  "death": {
+    "date": "1975-09",
+    "place": "Mountain Top, Fairview Twp, Luzerne Co., Pa."
+  },
+  "burial": {
+    "place": "St. Mary's Cemetery, Hanover Twp, Luzerne Co., Pa."
+  },
+  "occupation": "Laborer (1927)",
+  "residences": [
+    {
+      "date": "1910",
+      "place": "Larksville",
+      "note": "[R4-S2]"
+    },
+    {
+      "date": "1920",
+      "place": "Larksville Ward 4",
+      "note": "[R4-S2]"
+    },
+    {
+      "date": "1927",
+      "place": "19 Oak St, Wilkes-Barre",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage (1)",
+      "date": "1927-11-26",
+      "place": "Wilkes-Barre, Pa.",
+      "description": "Married Mary Marguerite Prout (b. Plymouth c.1906, dau. of James Prout, carpenter, and Bertha Dunn), by Rev. D. W. McCarthy; licence no. 17091 sworn 25 Nov 1927. Groom of 19 Oak St, Wilkes-Barre. [R4-S1]"
+    },
+    {
+      "title": "Marriage (2)",
+      "date": "1939-12-29",
+      "place": "Luzerne Co., Pa.",
+      "description": "Married Alice Theressa Brennan (1907-1994) after Marguerite's death in 1934 (FS). [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GZQT-113"
+    }
+  ],
+  "bio": "William Bernard McGuire, Kathryn's uncle, was a 21-year-old laborer at 19 Oak Street, Wilkes-Barre, when he applied to marry Mary Marguerite Prout of Lyndwood, Hanover Township, on 25 Nov 1927; they were married the next day by Rev. D. W. McCarthy, the same priest who married William F. Meier and Florence Pringle in 1926 ([R4-S1]). His application names his late parents James McGuire, born at Danville, Pa., and Anna Jones, born in England. Marguerite died in 1934; he remarried Alice Theressa Brennan in 1939, and died at Mountain Top in September 1975 ([R4-S2]; a GenealogyBank obituary index entry is attached there).",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): 1927 marriage application names parents James McGuire and Anna Jones."
+  },
+  "sources": [
+    "[R4-S1] Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg",
+    "[R4-S2] FamilySearch Family Tree (published), William Bernard McGuire (1906-1975), PID GZQT-113; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GZQT-113"
+  ],
+  "media": [
+    {
+      "file": "media/I282604680657/1927-luzerne-marriage-application-17091.jpg",
+      "type": "record",
+      "title": "1927 Luzerne marriage application no. 17091, William Bernard McGuire & Mary Marguerite Prout",
+      "date": "1927-11-25",
+      "source": "Luzerne County Orphans' Court via FamilySearch, public_domain",
+      "note": "Pre-1931 county government record.",
+      "people": [
+        "I282604494274",
+        "I282604494275"
+      ],
+      "url": "https://familysearch.org/ark:/61903/1:1:KHXY-TFM"
+    }
+  ]
+}

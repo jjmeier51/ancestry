@@ -1,0 +1,71 @@
+{
+ "id": "I282604494275",
+ "name": "Anna C. Jones",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1925-01-02",
+   "place": "Larksville, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "1925 #7765 (Anna C. McGuire, Larksville, Jan. 2)"
+   }
+  ]
+ },
+ "bioAdditions": "The 1925 state death index lists \"McGuire, Anna C.; 7765; Larksville; Jan. 2\" (S1). In the 1880 census at Plymouth Township, Ann C. Jones, 15, born in England, lived with her Welsh-born father Edward F. Jones (miner) and English-born mother Margaret; her sisters Rose (13) and Mary (10, a servant) were also born in England, and her brother William J. was born in Pennsylvania in September 1879 (S2). The family therefore came over between about 1870 and 1879. Her son William's 1927 licence again gives her birthplace as England (S3).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Department of Health death certificate index, 1925 (PA State Archives RG-11), PDF p.276: \"McGuire, Anna C.; 7765; Larksville; Jan. 2,\"",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 2 Jan 1925, Larksville, file 7765",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1925/D-25%20M-M.pdf"
+  },
+  {
+   "ref": "S2",
+   "citation": "1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Edward F. Jones 40, miner, b. Wales (parents Wales); Margret 35, wife, b. England (father b. Ireland, mother b. England); Ann C. 15, dau., b. England; Rose 13, dau., b. England; Mary 10, dau., servant, b. England; William J. 9/12, son, born Sept., b. Penna. Next household (fam. 134): Evan W. Jones 60, laborer, and Martha 52, both b. Wales.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
+  },
+  {
+   "ref": "S3",
+   "citation": "Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "William Bernard McGuire, laborer, 19 Oak St, Wilkes-Barre, b. Larksville, 21; father James (dec'd, b. Danville, Pa.), mother Anna Jones (dec'd, b. England). Bride b. Plymouth, 21, of 88 Lyndwood Ave, Hanover Twp; father James Prout (carpenter, b. Larksville), mother Bertha Dunn (b. Avondale).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1880 census, Plymouth Twp ED 144 p.21: Edward F. Jones household",
+   "date": "1880-06-11",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:MWNZ-HXR",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg",
+   "repository": "NARA via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "people": [
+    "I282604497369",
+    "I282604497276",
+    "I282604494275",
+    "I282604498336"
+   ],
+   "suggestedFile": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "note": "US federal census; public domain."
+  }
+ ],
+ "researchLogEntry": "Round 4: 1925 PA death index file 7765; 1880 census read (b. England, sisters Rose and Mary b. England)."
+}

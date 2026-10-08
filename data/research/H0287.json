@@ -9,7 +9,7 @@
     "military"
   ],
   "summary": "John's 2nd cousin 9x removed via John Thompson (closer than the 3C8R first reported; also 3C8R via Bull Smith, 4C8R via Topping, 3C9R via Brewster — the last affected by the Brewster disproof); husband of Culper spy Anna Strong.",
-  "bio": "Path: John Thompson → Samuel → Susannah (m. Thomas Strong) → Selah. A great-great-grandson of Bull Smith. Delegate to the Provincial Congress, Revolutionary captain, later county judge; held on a British prison ship. His wife Anna Smith Strong is NOT a blood relative (different Smith family). A Selah Strong of Orange County was executor for James Tuthill Jr. (1756) and witness for Daniel Tuthill (1761) — possibly a namesake relative (not established).",
+  "bio": "Path: John Thompson → Samuel → Susannah (m. Thomas Strong) → Selah. A great-great-grandson of Bull Smith. Delegate to the Provincial Congress, Revolutionary captain, later county judge; held on a British prison ship. His wife Anna Smith Strong is NOT a blood relative (different Smith family). A Selah Strong of Orange County was executor for James Tuthill Jr. (1756) and witness for Daniel Tuthill (1761) — possibly a namesake relative (not established).\n\nPath verified (Thompson [R4-S1]): John Thompson -> Samuel (1668-1749) -> Susannah (1712-88, m. 1734 Thomas Strong) -> Selah: 2nd cousin 9 times removed. A 1792 engraving by Cornelius Tiebout shows 'the seat of the Hon. Selah Strong, Esqr., St. George's Manor' ([R4-S2]).",
   "military": [
     {
       "service": "American Revolution",
@@ -22,7 +22,9 @@
     "Appletons' Cyclopaedia vol. 5 p. 760 (Wikisource)",
     "Underhill Society, https://underhillsociety.org/2017-setauket-pictures",
     "Wikipedia: Anna Smith Strong",
-    "notes/colonial_virginia.md §3b"
+    "notes/colonial_virginia.md §3b",
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296 (secondary) https://archive.org/details/historyoflongisl003thom",
+    "[R4-S2] Library of Congress Prints & Photographs, 'A view of the seat of the Hon. Selah Strong, Esqr., St. George's Manor', Tiebout sculp., 1792 (LCCN 2004671562), via Wikimedia Commons (primary) https://commons.wikimedia.org/wiki/File:A_view_of_the_seat_of_the_Hon._Selah_Strong,_Esqr.,_St._George%27s_Manor,_Sussex_County,_Long_Island_-_(%3F)_del._;_Tiebout_sculp._LCCN2004671562.jpg"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -33,6 +35,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Thompson route re-verified; 1792 LOC engraving of his seat downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0287.json."
     }
   ],
   "media": [
@@ -75,6 +85,18 @@
       "source": "WikiTree, profile Strong-2463; https://www.wikitree.com/photo/jpg/Strong-2463-3",
       "note": "",
       "file": "media/H0287/h0287-strong-2463-3.jpg"
+    },
+    {
+      "file": "media/H0287/selah-strong-seat-tiebout-1792.jpg",
+      "type": "document",
+      "title": "A view of the seat of the Hon. Selah Strong, St. George's Manor, Long Island (etching, Tiebout)",
+      "date": "1792",
+      "source": "Library of Congress (LCCN 2004671562) via Wikimedia Commons, public_domain",
+      "note": "Public domain (1792 print; LOC). Type is a view/print of his house.",
+      "people": [
+        "H0480"
+      ],
+      "url": "https://commons.wikimedia.org/wiki/File:A_view_of_the_seat_of_the_Hon._Selah_Strong,_Esqr.,_St._George%27s_Manor,_Sussex_County,_Long_Island_-_(%3F)_del._;_Tiebout_sculp._LCCN2004671562.jpg"
     }
   ],
   "photo": "media/H0287/h0287-strong-2463-1.jpg"

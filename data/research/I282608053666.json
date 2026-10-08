@@ -22,7 +22,7 @@
   ],
   "tags": [],
   "summary": "John's 2nd-great-grandfather; carpenter and construction superintendent of Plymouth and Wilkes-Barre who married into the Irish-Catholic Heffernans in 1892.",
-  "bio": "Addison F. Pringle was born in Plymouth; his 1943 obituary gives 2 Dec 1868, FamilySearch gives Dec 1867, the Ancestry tree screenshots show 1867 (the transcription summary says 1868), and the 1880 census age of 15 implies about 1865, so his birth year should be treated as 1865-68 with 2 Dec 1868 preferred (obituary). In June 1880 he was a 15-year-old 'laborer' in the Plymouth Twp household of his father Andrew Pringle, laborer, while his 13-year-old brother Orange was a slate picker in a coal breaker. His mother later divorced his father and resumed the name Scott; Bradsby's 1893 sketch of her lists five living children and omits Addison, then about 25 and recently married (the reason is unknown - perhaps because he lived apart from her). On 29 Jun 1892 he married Catherine E. Heffernan at Plymouth. They had eight children (Genevieve, Joseph Vincent, Mary E., Anna Theresa, Florence, Helen, Francis, Catherine). He lived in Plymouth Twp in 1900, Larksville in 1910, Wilkes-Barre Ward 15 in 1920 and at 28 Huston St, Wilkes-Barre from 1926 to 1940. The 1926 licence calls him a carpenter (born Penna). His obituary says he was a superintendent for the Ambrose West construction company and later worked at the Luzerne County Court House (as had his father-in-law Andrew H. Heffernan). He died at Wilkes-Barre on 2 Sep 1943 (PA death index 1943: 'ADDISON F PRINGLE, WLKS BRE, P652, co. 40, 9-2-43, file 82141'). The obituary names his parents as 'Andrew Pringle and Catherine Scott Pringle, early residents of the West Side' and lists 'Mrs. William Meier, Wilkes-Barre' among survivors.",
+  "bio": "Addison F. Pringle was born in Plymouth; his 1943 obituary gives 2 Dec 1868, FamilySearch gives Dec 1867, the Ancestry tree screenshots show 1867 (the transcription summary says 1868), and the 1880 census age of 15 implies about 1865, so his birth year should be treated as 1865-68 with 2 Dec 1868 preferred (obituary). In June 1880 he was a 15-year-old 'laborer' in the Plymouth Twp household of his father Andrew Pringle, laborer, while his 13-year-old brother Orange was a slate picker in a coal breaker. His mother later divorced his father and resumed the name Scott; Bradsby's 1893 sketch of her lists five living children and omits Addison, then about 25 and recently married (the reason is unknown - perhaps because he lived apart from her). On 29 Jun 1892 he married Catherine E. Heffernan at Plymouth. They had eight children (Genevieve, Joseph Vincent, Mary E., Anna Theresa, Florence, Helen, Francis, Catherine). He lived in Plymouth Twp in 1900, Larksville in 1910, Wilkes-Barre Ward 15 in 1920 and at 28 Huston St, Wilkes-Barre from 1926 to 1940. The 1926 licence calls him a carpenter (born Penna). His obituary says he was a superintendent for the Ambrose West construction company and later worked at the Luzerne County Court House (as had his father-in-law Andrew H. Heffernan). He died at Wilkes-Barre on 2 Sep 1943 (PA death index 1943: 'ADDISON F PRINGLE, WLKS BRE, P652, co. 40, 9-2-43, file 82141'). The obituary names his parents as 'Andrew Pringle and Catherine Scott Pringle, early residents of the West Side' and lists 'Mrs. William Meier, Wilkes-Barre' among survivors.\n\nThe 1900 census, taken on 7 June 1900 in the East Division of Plymouth Township, gives Addison's birth as December 1867, matching the FamilySearch tree and supporting 1867 over the 1868 in his obituary ([R4-S1]). He was a carpenter, married seven years, and owned his house subject to a mortgage. The family group around him is striking: in the next dwelling lived his brother Orange Pringle (b. June 1870, a coal-breaker laborer) with their mother Catherine, recorded as 'Mother', divorced, born in May 1835 or 1838 (the last digit is unclear), mother of seven children of whom five were living; and one dwelling further on lived Ella Randal, a widow born August 1860, with her children Fred and Gertrude, very probably Addison's sister Ellen (Pringle) Randall ([R4-S1]). Three of Andrew G. Pringle's children and his former wife were thus living side by side in 1900.",
   "funFacts": [
     "At 15 in 1880 he was already a laborer; his brother Orange, 13, picked slate in a coal breaker.",
     "Three generations held county jobs: father-in-law Andrew H. Heffernan ('attache of the Court house'), brother-in-law Thomas F. Heffernan (assistant county treasurer), and Addison himself at the Court House.",
@@ -48,6 +48,11 @@
     {
       "date": "BET 1926 AND 1940",
       "place": "28 Huston St, Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1900-06-07",
+      "place": "Plymouth Township (Third Election District, East Division), Luzerne Co., PA, dwelling 180",
+      "note": "Owned his house, mortgaged; next door to his brother Orange and his divorced mother Catherine (dwelling 179) and probably his sister Ella (Pringle) Randall (dwelling 178) [R4-S1]"
     }
   ],
   "events": [
@@ -68,6 +73,18 @@
       "date": "1943-09-02",
       "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
       "description": "PA death index 1943, file 82141 (PDF p.97 / printed p.1695)."
+    },
+    {
+      "title": "1900 census",
+      "date": "1900-06-07",
+      "place": "Plymouth Twp, Luzerne Co., PA, ED 133, sheet 10B, lines 88-92",
+      "description": "Pringle, Addison, head, white male, b. Dec 1867, 32, married 7 years, b. Pa. (both parents b. Pa.), carpenter, owns home with mortgage; Catherine, wife, b. Aug 1869, 30, 3 children/3 living, father b. Ireland; Genevieve, dau., b. May 1893; Joseph, son, b. Mar 1895; Mary, dau., b. Mar 1898. [R4-S1]"
+    },
+    {
+      "title": "1870 census",
+      "date": "1870-07-29",
+      "place": "Plymouth Twp (P.O. Kingston), Luzerne Co., PA",
+      "description": "'Adison', 5, in household of Andrew 'Prindle' (36) and Catharine (34), with grandfather James (71). [R4-S3]"
     }
   ],
   "facts": [
@@ -86,6 +103,10 @@
     {
       "label": "Find a Grave",
       "value": "139403232"
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Carpenter (1900, 1926)"
     }
   ],
   "sources": [
@@ -98,7 +119,10 @@
     "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
     "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up ('Catherine, married A. P. [sic] Pringle')",
     "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
-    "Uploaded report 'Old Records Reshape Johnny Meier's Family Tree' (Meier_family_tree_deep_dive.md)"
+    "Uploaded report 'Old Records Reshape Johnny Meier's Family Tree' (Meier_family_tree_deep_dive.md)",
+    "[R4-S1] 1900 US census, Plymouth Township, Luzerne Co., PA, Supervisor's Dist. 6, ED 133, sheet 10B, enumerated 7 Jun 1900 by Samuel F. L. Snyder, dwellings 178-180 (image attached to FamilySearch tree person 9KXX-MWR, Genevieve Pringle) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MWR/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch record index, Geniveve Pringle in household of Addison Pringle, United States Census 1900 (derivative) https://familysearch.org/ark:/61903/1:1:M3Q7-4TL",
+    "[R4-S3] 1870 US census, Plymouth Twp (P.O. Kingston), Luzerne Co., 29 Jul 1870, p.496, dwelling 422 ('Adison', 5, in household of Andrew Prindle) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/2/image.jpg"
   ],
   "mediaKnown": [
     "1880 census image (FamilySearch)",
@@ -106,7 +130,7 @@
   ],
   "openQuestions": [
     "Order 1943 PA death certificate #82141 to confirm birth date and parents (needed for SAR application).",
-    "Why Bradsby (1893) omitted him from his mother's living children."
+    "FamilySearch tree for Addison attaches a 'New York City Marriage Records' entry (ark 1:1:24Q4-32K); it is the NYC marriage of his daughter Genevieve (Leacacos), not his own."
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -125,6 +149,52 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 2 December 1867; research: 1868-12-02."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Why Bradsby (1893) omitted him from his mother's living children. → Not resolved directly, but the 1900 census shows he lived next door to his mother, so estrangement is unlikely; the omission is probably an error in the family-supplied sketch. In 1900 she reported 7 children born, 5 living, which matches Bradsby's 'five living' only if one of Bradsby's five was counted differently - Addison was certainly living."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: 1943 PA death certificate #82141: not online free (Ancestry PA Death Certificates collection is paywalled)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read the 1900 Plymouth Twp census (ED 133 sh.10B): Addison b. Dec 1867, carpenter, living next to brother Orange, divorced mother Catherine and sister Ella Randall."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608053666.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1868-12-02",
+      "found": "Dec 1867",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth.date",
+      "site": "2 Dec 1868 preferred (obituary)",
+      "found": "Dec 1867 (1900 census, self/household-reported)",
+      "assessment": "Ages conflict across records: 1870 census age 5 (c.1865) and 1880 age 15 (c.1865) vs 1900 Dec 1867 vs obituary 2 Dec 1868. December is consistent; the year is 1865-68. The 1870/1880 ages were given while he was a child in his parents' household and may be more reliable than later self-reports; the 1943 death certificate is needed."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/I282608053666/1900-census-plymouth-twp-ed133-sh10b.jpg",
+      "type": "record",
+      "title": "1900 census, Plymouth Twp, ED 133 sheet 10B: Addison, Orange and Catherine Pringle households",
+      "date": "1900-06-07",
+      "source": "FamilySearch (NARA T623), public_domain",
+      "note": "US federal census schedule (US government record, pre-1931): public domain.",
+      "people": [
+        "I282608053698",
+        "H0159",
+        "H0161"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MWR"
     }
   ]
 }

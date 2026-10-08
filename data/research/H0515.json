@@ -10,7 +10,7 @@
   ],
   "tags": [],
   "summary": "John's 9th-great-grandfather; of Fordham Manor and West Farms, Westchester, on record 1680-1718.",
-  "bio": "William Davenport of Fordham Manor and West Farms, Westchester, is on record 1680-1718 with wife Mary (Westchester deeds, NYGBR 51:40, 52:71, 77). Bolton says 'William Davenport and his wife Mary came from England in 1670' (speculative); Giles & Franklin think he came as a boy. A John Davenport 'of Long Neck', Westchester (deed 1682/3) is a possible father (speculative). English origin unknown; Bramhall/Bromhall Cheshire and Rev. John Davenport connections unsupported or disproven.",
+  "bio": "William Davenport of Fordham Manor and West Farms, Westchester, is on record 1680-1718 with wife Mary (Westchester deeds, NYGBR 51:40, 52:71, 77). Bolton says 'William Davenport and his wife Mary came from England in 1670' (speculative); Giles & Franklin think he came as a boy. A John Davenport 'of Long Neck', Westchester (deed 1682/3) is a possible father (speculative). English origin unknown; Bramhall/Bromhall Cheshire and Rev. John Davenport connections unsupported or disproven.\n\nAccording to the Davenport genealogy, the family Bible gives his children as Thomas (b. 1682, d. 1759), William (b. 1683, d. 1735), Francis (b. 1685, d. 1720) and Rachel, while noting that these four may not be all his children ([R4-S1]). The Bible was given to a grandson in 1759 and its entries are copies, so it is family evidence, not a contemporary record. The book's chart then names John Davenport and his wife Mary of Long Neck near New Rochelle, said to have come to America in 1670 with four children, as William's parents. The book itself calls that first generation 'a supposition'. Its only document is a deed of 15 Jan 1682/3 in which John Davenport and Mary his wife sold land on Long Neck (NY Hist. Record vol. 45 p.112) ([R4-S1]). Note that 'came from England in 1670' is told of John and Mary in one place and of William and Mary in another (Bolton).",
   "residences": [
     {
       "date": "BET 1680 AND 1718",
@@ -20,10 +20,12 @@
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp. xiv-xix",
     "NYGBR 51:40, 52:71, 77 (Westchester deeds)",
-    "Bolton, History of Westchester (quoted)"
+    "Bolton, History of Westchester (quoted)",
+    "[R4-S1] Giles, Thomas Davenport, Pioneer, and His Descendants: family Bible entries; family chart; deed of John Davenport and Mary, 15 Jan 1682/3 (citing NYGBR vol.45 p.112) (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt"
   ],
   "openQuestions": [
-    "English origin; John Davenport of Long Neck."
+    "English origin; John Davenport of Long Neck.",
+    "John Davenport of Long Neck as his father is called 'a supposition' even by the family genealogy; Westchester deeds or wills of the 1680s-1690s are needed."
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -34,6 +36,22 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: the family Bible (via Giles) gives the children Thomas 1682, William 1683, Francis 1685 and Rachel; the John Davenport of Long Neck parentage is admitted supposition."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0515.json."
+    }
+  ],
+  "events": [
+    {
+      "title": "Children recorded in the Davenport family Bible",
+      "date": "",
+      "place": "",
+      "description": "The Bible, presented by Thomas Davenport (1682-1759) to his grandson Thomas on 25 Aug 1759, records that William Davenport of Fordham and his wife Mary (surname not known) had Thomas (1682-1759), William (1683-1735), Francis (1685-1720) and Rachel [R4-S1]"
     }
   ]
 }

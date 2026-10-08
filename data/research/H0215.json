@@ -7,10 +7,11 @@
   "sex": "F",
   "tags": [],
   "summary": "Possible sister of Johann Casper Doll (speculative); links Dolls, Sorbers and Croops.",
-  "bio": "Maria Engel Doll, b. 15 Sep 1717 at Ulmet, d. 1785, married Jacob Sorber in 1739; their son Abraham Sorber (b. 1744) went from Northampton to Hanover Twp, Luzerne, and his daughter Elizabeth Sorber married John Croop. If Maria Engel was Casper's sister, the Sorbers and Croops who built the Hunlock's Creek sawmills were already cousins.",
+  "bio": "Maria Engel Doll, b. 15 Sep 1717 at Ulmet, d. 1785, married Jacob Sorber in 1739; their son Abraham Sorber (b. 1744) went from Northampton to Hanover Twp, Luzerne, and his daughter Elizabeth Sorber married John Croop. If Maria Engel was Casper's sister, the Sorbers and Croops who built the Hunlock's Creek sawmills were already cousins.\n\nNo record naming Maria Engel Doll's parents was found online in this round, so her being a sister of Johann Casper Doll remains unproven. Casper, aged 18, came on the Samuel in Aug 1739 with Stoffel Doll (40) and Philip Doll (27) (round 3, Strassburger List 69). Stoffel's age (b. c.1699) makes him too young to be the Christoffel Doll b. 1671 named as Casper's father. Maria Engel is said to have married Jacob Sorber in 1739, the year the Dolls arrived.\n\nA possible origin for her husband: the ship Elizabeth (Capt. Edward Lee), qualified at Philadelphia 27 Aug 1733, carried a Sorber group. Its oath lists have 'Jacob Surber', 'Jacob Sorber', 'Jacob (X) Server' and 'Rudolff Sorber', and its women's list has 'Fronegh Sorver, 54' and 'Barbara Sorver, 23' ([R4-S1]). Whether one of these Jacobs is Maria Engel's husband is unknown; the name is too common to attach.",
   "sources": [
     "GEDBAS 1435014144: https://gedbas.genealogy.net/person/show/1435014144",
-    "Plumb 1885 part 38"
+    "Plumb 1885 part 38",
+    "[R4-S1] Strassburger & Hinke, Pennsylvania German Pioneers, vol. 1 (1934), Lists 30 A-C, ship Elizabeth, qualified 27 Aug 1733 (primary) https://archive.org/details/pennsylvaniagerm42stra"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: GEDBAS 1435014144: page loaded (200) but person data not rendered for automated fetch"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: no parental record found; noted 1733 ship Elizabeth Sorber passengers as a possible origin for husband Jacob Sorber."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0215.json."
     }
   ],
   "media": [
@@ -32,5 +45,8 @@
       "note": "Maria Engel Doll, 1717-00-00 – 1785-00-00",
       "url": "https://www.wikitree.com/wiki/Doll-157"
     }
+  ],
+  "openQuestions": [
+    "Which Jacob Sorber married Maria Engel Doll in 1739 - one of the 1733 'Elizabeth' Sorbers? Check Burgert's Northern Kraichgau/Palatine emigrant volumes and the Tohickon/Plainfield registers."
   ]
 }

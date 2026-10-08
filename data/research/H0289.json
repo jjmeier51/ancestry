@@ -1,19 +1,26 @@
 {
   "id": "H0289",
   "link": {
-    "confidence": "possible",
-    "note": "Descends from Capt. Thomas Topping through Richard Woodhull II (Stony Brook), but the sources do not confirm every generation; Topping route depends on Temperance's parentage."
+    "confidence": "probable",
+    "note": "Descends from Capt. Thomas Topping through Richard Woodhull II (Stony Brook), but the sources do not confirm every generation; Topping route depends on Temperance's parentage. Round 4 (possible → probable): Each generation Bull -> Adam -> Edmund -> Margaret -> Abraham is stated in two independent compiled sources (Woodhull 1904, Pelletreau 1898, plus Thompson 1918); depends only on the Temperance Smith -> James Smith -> Job link like every Smith cousin."
   },
   "sex": "M",
   "aka": [
-    "Samuel Culper Sr."
+    "Samuel Culper Sr.",
+    "Samuel Culper",
+    "Judge Abraham Woodhull"
   ],
   "tags": [],
   "summary": "Chief agent of Washington's Culper Ring; John's 4th cousin 8x removed via Topping (reported 4C7R before the Elnathan Topping generation was added).",
   "sources": [
     "Stony Brook special collections, https://www.stonybrook.edu/commcms/libspecial/collections/manuscripts/woodhull.php",
     "Wikipedia: Abraham Woodhull",
-    "notes/colonial_virginia.md §2a"
+    "notes/colonial_virginia.md §2a",
+    "[R4-S1] Mary Gould Woodhull & Francis Bowes Stevens, Woodhull Genealogy: The Woodhull Family in England and America (1904) (archive.org full text), pp. 69-70 and entry no. 44 (secondary) https://archive.org/details/woodhullgenealog1904wood",
+    "[R4-S2] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), pp. 46-48 and App. pp. 476-478 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S3] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 377 (secondary) https://archive.org/details/historyoflongisl003thom",
+    "[R4-S4] Wikipedia, 'Abraham Woodhull' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Abraham_Woodhull",
+    "[R4-S5] George R. Howell, Early History of Southampton, L.I. (1887) (archive.org full text), pp. 198-199, 395 (secondary) https://archive.org/details/earlyhistoryofso00howe"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -24,6 +31,69 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → probable: Each generation Bull -> Adam -> Edmund -> Margaret -> Abraham is stated in two independent compiled sources (Woodhull 1904, Pelletreau 1898, plus Thompson 1918); depends only on the Temperance Smith -> James Smith -> Job link like every Smith cousin."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Woodhull Genealogy + Pelletreau + Thompson give a clean Bull Smith route (3C8R) via his mother Margaret Smith; the Topping route is doubtful (Temperance Fordham)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0289.json."
+    }
+  ],
+  "birth": {
+    "date": "1750-10-07",
+    "place": "Setauket, NY"
+  },
+  "death": {
+    "date": "1826-01-23"
+  },
+  "events": [
+    {
+      "title": "Marriage (1)",
+      "date": "25 Nov 1781 / 1784",
+      "place": "",
+      "description": "Married Mary Smith (b. 16 Mar 1759/1760, d. 9 Jul 1806), daughter of Obadiah Smith and Anna, daughter of Edmund Smith 1st. [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Marriage (2)",
+      "date": "1824-10-05",
+      "place": "",
+      "description": "Married Lydia, daughter of James Terry; no children. [R4-S1]"
+    }
+  ],
+  "bio": "His kinship to John no longer depends on the Topping route. The Woodhull Genealogy ([R4-S1]) makes him the son of Richard Woodhull IV (1712-1788) and Margaret Smith (1714-1803), 'daughter of Edmund Smith of the \"Bull Smith\" family, and Susannah Floyd'. Pelletreau ([R4-S2]) and Thompson ([R4-S3]) both give Edmund Smith 1st as the only son of Adam Smith, son of the patentee, and list Margaret (wife of Richard Woodhull) among Edmund's children; Edmund's 1734 will names daughters Anne and Margaret. Path: Bull Smith -> Adam -> Edmund 1st -> Margaret -> Abraham, 4 generations below John's 11th-great-grandparents Bull Smith & Sarah Hammond: 3rd cousin 8 times removed. His wife Mary Smith was herself a Bull Smith descendant through both parents (Obadiah, son of Daniel 2d; Anna, daughter of Edmund 1st by his second wife Mary), so Abraham married his half-first cousin.\n\nThe Topping route is now doubtful: the Woodhull Genealogy says his great-grandmother Temperance, wife of Richard Woodhull II, was a daughter of Rev. Jonah Fordham, while Southampton records record Richard's 1684 marriage to 'Temperance Topping'. Howell's Topping genealogy gives Capt. Thomas Topping no daughter Temperance. The likeliest reading is that she was Temperance Fordham, widow of a Topping, which would leave the Woodhulls with no Topping blood.",
+  "funFacts": [
+    "George Washington suggested his alias 'Samuel Culper', a play on Culpeper County, Virginia."
+  ],
+  "conflicts": [
+    {
+      "field": "relationship route",
+      "site": "4C8R via Capt. Thomas Topping (through Richard Woodhull II's wife Temperance Topping)",
+      "found": "3C8R via Bull Smith (Adam -> Edmund -> Margaret); Temperance was a Fordham per Woodhull Genealogy and Howell",
+      "assessment": "Replace the Topping route with the Bull Smith route; the Topping link is unproven and probably wrong."
+    },
+    {
+      "field": "marriage date",
+      "site": "",
+      "found": "25 Nov 1781 (Pelletreau) vs 1784 (Woodhull Genealogy)",
+      "assessment": "Prefer Pelletreau's exact date pending a record; first child b. 30 Sep 1785."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0289/culper-ring-code-book-page.jpg",
+      "type": "document",
+      "title": "Culper Ring code book page (Benjamin Tallmadge)",
+      "date": "late 1770s",
+      "source": "Wikimedia Commons (source: Mount Vernon / Library of Congress), public_domain",
+      "note": "Commons licence: Public domain. No authentic portrait of Woodhull is known on Commons. Saved as 1280px derivative.",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:Culper_Ring_code.jpg"
     }
   ]
 }

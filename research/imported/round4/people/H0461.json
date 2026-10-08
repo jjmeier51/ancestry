@@ -1,0 +1,18 @@
+{
+  "id": "H0461",
+  "name": "Mapes",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Thomas Mapes Jr. of Southold was the second husband of Mary, widow of William Wells. Her deed of gift of 26 Dec 1678 calls her 'now wife to Thomas Mapes Junr', and he witnessed it (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 302-303: deed of gift 26 Dec 1678 (recorded 3 Apr 1679) by 'Mary Mapes of Southold ... the relect of William Wells of ye sd Town ... lately desceased, and now wife to Thomas Mapes Junr', who had received all Wells's lands and goods by his deed of gift, to 'my son in law John Yongs, in right of his wife and to Mary Yongs his wife my daughter' (witnesses Thomas Mapes, William Wells); also an entry (Liber page 141, 1677) of meadow had 'of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread'",
+      "url": "https://archive.org/details/southoldtownreco0000jwic",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Mary Mapes 'now wife to Thomas Mapes Junr'"
+    }
+  ],
+  "researchLogEntry": "Round 4: identified as Thomas Mapes Jr. from the 1678 deed."
+}

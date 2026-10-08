@@ -1,0 +1,33 @@
+{
+  "id": "I282824815695",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: burial 7 Jan 1673 indexed; probable duplicate of I282824816434."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815695.json."
+    }
+  ],
+  "bio": "Antonio/Antonino Colosimo was buried on 7 January 1673 ([R4-S1]). The tree has two profiles with this exact death date, I282824815695 and I282824816434; they are almost certainly the same man, the husband of Angila Vaccaro and father of Antonio (bapt. 15 Jun 1659).",
+  "conflicts": [
+    {
+      "field": "duplicate",
+      "site": "I282824815695 and I282824816434 both Antonino Colosimo d. 7 Jan 1673",
+      "found": "One burial entry",
+      "assessment": "Merge."
+    }
+  ],
+  "link": {
+    "confidence": "probable",
+    "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1672-1687 (Book 2), image 71, p. 11, no. 1; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1672-1687'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
+  ]
+}

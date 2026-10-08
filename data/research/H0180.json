@@ -10,12 +10,13 @@
   ],
   "tags": [],
   "summary": "John's 5th-great-grand-aunt; her 1842 death was misattached to her mother in the tree.",
-  "bio": "Keturah (1791-1842) married Samuel Ackley. Her 1842 death is the date the tree wrongly gives her mother (Harvey Book p.360).",
+  "bio": "Keturah (1791-1842) married Samuel Ackley. Her 1842 death is the date the tree wrongly gives her mother (Harvey Book p.360).\n\nFamilySearch gives Keturah the dates 18 Feb 1791 to 9 Dec 1842 and her marriage to Samuel Ackley on 18 Jun 1815. Its attached 1830 census entry is indexed under 'Caturah Akley' as head of household ([R4-S1]).",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
-    "Harvey Book p.360"
+    "Harvey Book p.360",
+    "[R4-S1] FamilySearch published tree, Keturah Lamoreaux (LHRW-Y12), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LHRW-Y12"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -26,6 +27,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 18 Feb 1791-9 Dec 1842 and m. 18 Jun 1815 Samuel Ackley."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0180.json."
     }
   ],
   "media": [
@@ -36,6 +45,34 @@
       "source": "WikiTree",
       "note": "Keturah Lamoreaux, 1791-02-18 – 1842-12-09",
       "url": "https://www.wikitree.com/wiki/Lamoreaux-266"
+    }
+  ],
+  "birth": {
+    "date": "1791-02-18",
+    "place": "Plymouth, Luzerne Co."
+  },
+  "death": {
+    "date": "1842-12-09"
+  },
+  "residences": [
+    {
+      "date": "1830",
+      "place": "Luzerne Co. ('Caturah Akley', head of household)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1815-06-18",
+      "place": "",
+      "description": "To Samuel Ackley [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LHRW-Y12"
     }
   ]
 }

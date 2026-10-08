@@ -9,6 +9,25 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: parents from FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0421.json."
     }
+  ],
+  "birth": {
+    "date": "1887",
+    "place": "Pennsylvania"
+  },
+  "aka": [
+    "Lilian T. Mac Donald"
+  ],
+  "bio": "FamilySearch names her parents as John J. MacDonald and Sarah Emery MacDonald; 1920 and 1930 census entries with Dr. Andrew J. Heffernan ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Lillian McDonald (b. 1887), PID LB2N-J9H; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LB2N-J9H"
   ]
 }

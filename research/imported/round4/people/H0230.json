@@ -1,0 +1,60 @@
+{
+  "id": "H0230",
+  "name": "Elnathan Topping",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Baptism",
+        "date": "1640-08-02",
+        "place": "Milford, Conn.",
+        "description": "Baptized at Milford, son of Thomas Topping and wife Emma",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Land from his father",
+        "date": "1686-10-05",
+        "place": "Branford deed, Southampton lands",
+        "description": "Thomas Topping deeded all his Southampton lands to sons Elnathan and James",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Savage records Elnathan's baptism at Milford on 2 Aug 1640, son of Thomas and Emma Topping, and his father's 1686 deed of the Southampton lands to Elnathan and James (S1). Weygant (1897) gives his birth as 'Aug. 6, 1640' (S2).",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1640",
+      "foundValue": "bapt. 2 Aug 1640 (Savage); 'born Aug. 6, 1640' (Weygant)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Prefer the Milford church baptism of 2 Aug 1640; Weygant's 6 Aug is probably a misreading."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "James Savage, A Genealogical Dictionary of the First Settlers of New England, vol. 4 (1862), p. 255, entry TAPPAN/TOPPING, Thomas of Milford",
+      "url": "https://archive.org/details/genealogicaldic04savarich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Elnathan bapt. 2 Aug 1640; 1686 deed"
+    },
+    {
+      "ref": "S2",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Capt. Elnathan b. Aug. 6, 1640"
+    }
+  ],
+  "researchLogEntry": "Round 4: Milford baptism 2 Aug 1640 (Savage)."
+}

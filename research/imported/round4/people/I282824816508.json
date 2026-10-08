@@ -1,0 +1,66 @@
+{
+ "id": "I282824816508",
+ "name": "Rosario Iera",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "10 May 1874 (burial)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "26 Feb 1812",
+    "place": "San Mango d'Aquino",
+    "description": "Married Agostina (Faustina) Ferlaino",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Rosario married Agostina (Faustina) Ferlaino on 26 February 1812 (S1). He was buried on 10 May 1874, aged 84, as the son of the late Giuseppe Iera and husband of Faustina Ferlaino (S2). His father's name, Giuseppe, is new.",
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "I282824816515",
+   "evidence": "Marriage and burial",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "confirmed",
+  "justification": "Marriage and burial indexed; daughter Filippina's baptism names him."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 5, p. 4, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 26 Feb 1812, Rosario Iera and Agostina Ferlaino (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 149, p. 287, no. 19; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 10 May 1874: Rosarius Iera, 84, son of the late Joseph Iera, husband of Faustina Ferlaino (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "Baptism 25 Feb 1791 not found in the index under Iera/Ierra (only his burial and marriage)"
+ ],
+ "researchLogEntry": "Round 4: marriage 26 Feb 1812, burial 10 May 1874 (father Giuseppe, new)."
+}

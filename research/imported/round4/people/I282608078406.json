@@ -1,0 +1,50 @@
+{
+  "id": "I282608078406",
+  "name": "Lina Ann Harrison",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Liva A. Harrison",
+      "Leva Ann Pringle"
+    ],
+    "death": {
+      "date": "8 Jun 1910",
+      "place": "Luzerne Co., Pennsylvania (state death certificate no. 58862)",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "The Pennsylvania death index for 1910 has 'Harrison, Liva A.; 58862; Luzerne Co.; June 8' (S1). The date matches the 8 Jun 1910 death on the tree card. The given name 'Liva' matches the 'Leva Ann', aged 11, in James Pringle's household in 1850, better than the tree's 'Lina'. This is the first independent record of her married name and death. The index gives only 'Luzerne Co.', meaning outside the cities, which fits the tree's Huntington Twp. Certificate 58862 should name her parents and so confirm that she was James and Elizabeth's daughter.",
+  "conflicts": [
+    {
+      "field": "name",
+      "siteValue": "Lina Ann",
+      "foundValue": "Liva A. (1910 index); Leva Ann (1850 census)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Probably Livia/Lavina Ann; 'Lina' may be a misreading."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "1910 index entry matches the tree's death date, county and the 1850 given name; the certificate would confirm her parents."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Pennsylvania Death Indices, 1910, H-I-J, PDF p.49: 'Harrison, Liva A.; 58862; Luzerne Co.; June 8'",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1910/D-10%20H-I-J.pdf",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "death 8 Jun 1910, Luzerne Co., certificate number"
+    }
+  ],
+  "openQuestionsNew": [
+    "Her husband: a Harrison of Huntington or Plymouth Twp (Harrisons were in Plymouth Twp in 1840); look for her in the 1860-1900 censuses as Livia/Lavina Harrison."
+  ],
+  "researchLogEntry": "Round 4: found 'Harrison, Liva A.', d. 8 Jun 1910, Luzerne Co., certificate 58862, in the PA death index; it matches the tree date and the 1850 'Leva Ann'."
+}

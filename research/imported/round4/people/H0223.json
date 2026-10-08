@@ -1,0 +1,43 @@
+{
+  "id": "H0223",
+  "name": "Rachel Browne",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "WikiTree's profile quotes Alva Tuttle (1968, p. 279) for Rachel's children with James Tuthill: Rachel (1715), James (1717), Elizabeth (1719), Daniel (1721), Mary (1725), Jonathan (b. 6 Oct 1727), Mehitable (1728/9) and John (1730) (S1). The list includes Daniel of Goshen (will 1761) and James Jr. of New Windsor (will 1756), whose wills fit. WikiTree gives her a death of 1738, unsourced. Her father Jonathan Browne is given on WikiTree as d. 19 Aug 1710 at Orient. The Salmon Record has a 'Jonathan Brown died' on 18 Sept, apparently 1704 by its sequence (S2). This could be a different Jonathan Brown, but the conflict should be checked.",
+  "conflicts": [
+    {
+      "field": "father's death",
+      "siteValue": "Jonathan Browne d. 1710 (WikiTree Browne-1123)",
+      "foundValue": "Salmon Record: 'Jonathan Brown died' 18 Sept, in the 1704 run of entries",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Unresolved; there may have been two Jonathan Browns in Southold. Check Southold probate."
+    }
+  ],
+  "openQuestionsNew": [
+    "Rachel's death: WikiTree gives 1738 (unsourced). Any Brookhaven record?"
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "WikiTree Browne-2352 (Rachel Browne), biography read via api.wikitree.com, quoting Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968) p. 279: children Rachel 1715, James 1717, Elizabeth 1719, Daniel 1721, Mary 1725, Jonathan b. 6 Oct 1727, Mehitable 1728-29, John 1730",
+      "url": "https://www.wikitree.com/wiki/Browne-2352",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "children list per Alva Tuttle p. 279; marriage c.1714"
+    },
+    {
+      "ref": "S2",
+      "citation": "The Salmon Records: a private register of marriages and deaths of the residents of the town of Southold, 1696-1811 (NYG&B, 1918), full text searched",
+      "url": "https://archive.org/details/salmonrecordspri00salm",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "a Jonathan Brown died 18 Sept [1704]"
+    }
+  ],
+  "searchedNoResult": [
+    "Salmon Records marriages 1696-1720: no Tuthill-Browne marriage"
+  ],
+  "researchLogEntry": "Round 4: children list (Alva p. 279) recorded; Salmon Record shows a Jonathan Brown d. 1704, conflicting with WikiTree's 1710 for her father."
+}

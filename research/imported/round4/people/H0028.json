@@ -1,0 +1,47 @@
+{
+  "id": "H0028",
+  "name": "Joseph Birkenmayer",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Godfather to his niece Franziska Mayer",
+        "date": "1863-03-10",
+        "place": "Munzingen, Baden",
+        "description": "Named as godfather and witness: 'Joseph Birkenmaier, day labourer, 20-year-old single son of the late Servaz Birkenmaier of here'.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "occupation": "day labourer (Taglöhner), Munzingen, 1863"
+  },
+  "bioAdditions": "Joseph was still at home in Munzingen in March 1863. When his sister Maria Anna's second child, Franziska (later Frances Meier Miller), was baptized on 10 Mar 1863, the godfather was 'Joseph Birkenmaier, Taglöhner, twenty-year-old single son of the late Servaz Birkenmaier of here'. He also signed as a witness (S1). The age fits his birth on 15 Mar 1842 exactly. So he emigrated to Ohio after March 1863. A Sandusky obituary (Nov 1904) is still unread: the Hayes Ohio Obituary Index search page could not be driven from here, and the Erie County USGenWeb obituary page has no Birkenmeier.",
+  "openQuestionsNew": [
+    "Emigration falls between Mar 1863 and his appearance in Ohio. Check the Bezirksamt Freiburg Auswanderungsakten, 1863–1870.",
+    "Hayes Ohio Obituary Index (rbhayes.org) for Birkenmeier, Sandusky, Nov 1904 — the search is JavaScript-driven and needs a browser."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Identity is reinforced by his role as godfather in 1863."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath., Standesbücher 1840–1870), Geburtsbuch 1863 No. 3, p. 503 (image 447); index 'Register pro 1863' (image 454): 'Mayer Franziska, 502'",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-447",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Birth 8 Mar 1863 of Franziska Mayer; godparents Joseph Birkenmaier and Paulina Mayer"
+    }
+  ],
+  "media": [],
+  "searchedNoResult": [
+    "Web search: Birkenmeier Sandusky obituary 1904",
+    "usgenwebsites.org/OHErie2/obituaries.html (no Birkenmeier)",
+    "rbhayes.org Ohio Obituary Index (search UI not reachable without a browser)"
+  ],
+  "researchLogEntry": "Round 4: found him as godfather (aged 20, single day labourer) at niece Franziska Mayer's baptism, Munzingen, 10 Mar 1863. Sandusky obituary still unread.",
+  "researchedAt": "2026-10-08"
+}

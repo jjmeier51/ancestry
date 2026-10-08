@@ -1,0 +1,25 @@
+{
+  "id": "I282824815667",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → possible: Identification as Gaetano's father rests on the tree plus the 1743 marriage (\"son of the late Nicola\")."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 20 Oct 1675, parents Carlo Ferraino and Giovanna Ianni, family from Martirano."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815667.json."
+    }
+  ],
+  "bio": "Nicola Ferraino was baptized on 20 October 1675, son of Carlo Ferraino and Giovanna Ianni; the index notes the family was from Martirano ([R4-S1]). This is the earliest Ferlaino ancestor and suggests the surname reached San Mango from Martirano, the diocesan seat a few kilometres away. His parents are new to the tree.",
+  "link": {
+    "confidence": "possible",
+    "note": "Round 4 (unverified → possible): Identification as Gaetano's father rests on the tree plus the 1743 marriage (\"son of the late Nicola\")."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1670-1687 (Book 2), image 14, p. 13, no. 13; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
+  ]
+}

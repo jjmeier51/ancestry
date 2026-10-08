@@ -1,0 +1,94 @@
+{
+ "id": "H0065",
+ "name": "Joseph S. Jones",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "abt 1881",
+   "place": "Plymouth, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "occupation": "Headman [mine] (1914)",
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1914-12-29",
+    "place": "Plymouth, Pa.",
+    "description": "Married Agnes M. McAvoy (docket 71238)",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1920",
+    "place": "Larksville Ward 4",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1930-1940",
+    "place": "Plymouth Ward 1",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "L85M-P45"
+   }
+  ]
+ },
+ "bioAdditions": "In Dec 1914 Joseph S. Jones was 33, a headman, born and living in Plymouth; his parents Edward (born Wales) and Margaret (\"Kiver\") were both dead (S1). The docket thus proves he was a son of Edward F. Jones and Margaret McIver and a brother of Anna C. (Jones) McGuire. FS dates his birth to 1883 (S2).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282604497369",
+   "evidence": "Docket names father Edward, b. Wales",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282604497276",
+   "evidence": "Docket names mother Margaret \"Kiver\"",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "confirmed",
+  "justification": "1914 marriage docket names parents."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), Joseph Jones (b. 1883), PID L85M-P45; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Residences 1920-1940; children",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L85M-P45"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1914 docket read (33, headman, parents Edward & Margaret \"Kiver\")."
+}

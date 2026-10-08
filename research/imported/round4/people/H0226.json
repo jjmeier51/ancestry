@@ -1,0 +1,21 @@
+{
+  "id": "H0226",
+  "name": "Mary",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "bioAdditions": "Wife of William Davenport of Fordham; the Davenport family Bible, as reported by the Davenport genealogy, names her only as Mary, 'surname not known', and lists her children Thomas (1682), William (1683), Francis (1685) and Rachel (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles, Thomas Davenport, Pioneer, and His Descendants: family Bible entries",
+      "url": "https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "first name only; children"
+    }
+  ],
+  "searchedNoResult": [
+    "Davenport genealogy (Giles) full text: no maiden name for Mary"
+  ],
+  "researchLogEntry": "Round 4: maiden name still unknown; the Bible names her only as Mary."
+}

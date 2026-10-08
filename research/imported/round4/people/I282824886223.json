@@ -1,0 +1,39 @@
+{
+  "id": "I282824886223",
+  "name": "Sarah Elizabeth Chamberlain",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "12 Nov 1741",
+      "place": "Shutesbury, Hampshire Co., Massachusetts",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "8 Dec 1831",
+      "place": "Albany, New York (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "FamilySearch (profile 'Sarah Scott') gives her birth at Shutesbury, Mass., on 12 Nov 1741 from a Massachusetts births index entry for Sarah Chamberlain, and her death on 8 Dec 1831 at Albany, NY, with a Find a Grave index entry as 'Sarah Chamberlain Scott'; a Vermont vital record for her son Jonathan Scott names her (S1). As with her husband Matthew, her place in Johnny's ancestry depends on the undocumented Daniel Scott link.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "Descent to Stephen J. Scott undocumented."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Sarah Scott (GF8N-M3N), citing Massachusetts Births and Christenings (ark 1:1:FC3J-3HY), Find a Grave index (1:1:QV2Y-KVQJ), Vermont Vital Records (1:1:V8MB-MFD)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GF8N-M3N",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth and death"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch supplies birth 12 Nov 1741 Shutesbury and death 8 Dec 1831 Albany; link to Johnny still unproven."
+}

@@ -1,0 +1,126 @@
+{
+  "id": "H0186",
+  "name": "Thomas Davenport",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1749-06-04",
+      "place": "Philipstown, Dutchess (now Putnam) Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1812-05-04/05",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1774-02-22",
+        "place": "Orange Co., NY",
+        "description": "Married his first cousin Charity Lamoreux (b. 25 Jan 1759), daughter of John and Charity (Davenport) Lamoreux.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Inherited his father's Plymouth property",
+        "date": "1800",
+        "place": "Plymouth, Luzerne Co., PA",
+        "description": "His father Oliver Davenport lived with him in Pennsylvania until 1800, then went back to Cheesecocks, N.Y. Oliver's 1800 will left all his Plymouth property to Thomas.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Will",
+        "date": "1812",
+        "place": "Luzerne County Courthouse, Wilkes-Barre",
+        "description": "Giles & Franklin say his will and many deeds are at the Wilkes-Barre courthouse.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Giles & Franklin (1962) say Thomas was the eldest of nine children of Oliver Davenport and Hannah Seeley. He was born on 4 Jun 1749, fought in the Revolution, and married his first cousin Charity Lamoreux on 22 Feb 1774. They give his death as 4 or 5 May 1812. They also say the family went to Pennsylvania in 1787, and that his father Oliver, who lived with them until 1800, left him all his Plymouth property. The family's four houses had long front stoops in Hudson Valley Dutch style, unlike the Connecticut-style houses of their Yankee neighbours. They stood in a row between the 'Swing-gate' and the mountain road near the Nottingham colliery. Twelve children are listed, including Elizabeth (Mrs. Abram Van Loon), Hannah (Mrs. Jacob Gould), Daniel (H0188), Phoebe (Mrs. John Pringle, H0189) and Stephen (H0187) (S1).",
+  "conflicts": [
+    {
+      "field": "arrival in Plymouth",
+      "siteValue": "1794",
+      "foundValue": "1787 (Giles & Franklin)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "The site's 1794 follows Wright. Giles & Franklin say 1787, but the FS tree's birthplace of Smith's Clove, N.Y., for daughter Phoebe (b. 1798/99) and the Pringle-Lamoreux removal of 1794 support the later date. The family may have gone back and forth. Unresolved."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0185",
+      "evidence": "Giles & Franklin p.271",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0187",
+      "evidence": "G&F",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0188",
+      "evidence": "G&F",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0189",
+      "evidence": "G&F p.321",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Detailed family genealogy that cites wills and deeds; Wright agrees."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.270-272, 321-323",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth, death, marriage, father's will 1800, own will 1812, homestead, children"
+    },
+    {
+      "ref": "S2",
+      "citation": "H. B. Wright, Historical Sketches of Plymouth (1873), Davenport family chapter",
+      "url": "https://archive.org/details/historicalsketch00wrig_2",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "arrival 1794; the 'Davenport congress'"
+    }
+  ],
+  "researchLogEntry": "Round 4: Giles & Franklin give b. 4 Jun 1749, d. 4/5 May 1812, m. 22 Feb 1774 his cousin Charity Lamoreux, father Oliver's 1800 will, and the 1812 will at Wilkes-Barre. Arrival-date conflict (1787 vs 1794).",
+  "researchedAt": "2026-10-08"
+}

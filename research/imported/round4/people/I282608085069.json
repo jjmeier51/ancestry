@@ -1,0 +1,53 @@
+{
+  "id": "I282608085069",
+  "name": "Elizabeth Meier",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1945-05-12",
+      "place": "Hazleton, Luzerne County, Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G7GQ-DJ2"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives her death as 12 May 1945 at Hazleton (S1); the tree had only the year. A search of the 1945 Pennsylvania death index (M–O volume, Soundex M600 block, pp.178–179) found no Elizabeth Meier/Meyer/Mayer dying in May 1945 at Hazleton (S2). She may have died under a married name, or the date may be wrong.",
+  "openQuestionsNew": [
+    "Did she marry? No Meier entry fits in the 1945 PA death index, which suggests a married surname. Check the 1900–1940 Hazleton censuses."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "probable",
+    "justification": "The death date rests only on an unsourced tree entry, and the state index shows no matching Meier."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, Elizabeth Meier (G7GQ-DJ2), published-tree JSON; only source attached: 1880 census (1:1:MWNZ-PDC)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7GQ-DJ2",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Death 12 May 1945 Hazleton (unsourced)"
+    },
+    {
+      "ref": "S2",
+      "citation": "Pennsylvania Death Index 1945, M–O, PDF pp.178–179 (Soundex M600)",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1945/D-45%20M-O.pdf",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Negative: no Elizabeth Meier at Hazleton"
+    }
+  ],
+  "media": [],
+  "searchedNoResult": [
+    "PA Death Index 1945 M600 block (no Elizabeth Meier/Meyer, Hazleton)"
+  ],
+  "researchLogEntry": "Round 4: FS gives death 12 May 1945 Hazleton, but she is not in the 1945 PA death index under Meier/Meyer.",
+  "researchedAt": "2026-10-08"
+}

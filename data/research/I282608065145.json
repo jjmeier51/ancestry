@@ -10,7 +10,7 @@
   ],
   "tags": [],
   "summary": "Bull Smith's son Adam (b. 1649) — John's 9th-great-grand-uncle — wrongly shown in the tree as James Smith's father.",
-  "bio": "Bull Smith had a son Adam, b. 1649; William Hammond's will (1662) left 'Adam Smith, son of daughter, Sarah' a mare colt and £20 'if he behave obediently to my wife'. The tree's 'Justice A Smith' card carries a Smithtown 350th logo image and pairs him with Elizabeth Thompson 1657–1718. Preferred: Job Smith is James's father; Adam is a collateral uncle.",
+  "bio": "Bull Smith had a son Adam, b. 1649; William Hammond's will (1662) left 'Adam Smith, son of daughter, Sarah' a mare colt and £20 'if he behave obediently to my wife'. The tree's 'Justice A Smith' card carries a Smithtown 350th logo image and pairs him with Elizabeth Thompson 1657–1718. Preferred: Job Smith is James's father; Adam is a collateral uncle.\n\nPelletreau prints Adam Smith's will of 12 June 1704, which leaves 'all estate to his only son Edmund Smith' (not probated) ([R4-S1]). The Introduction says 'Adam is said to have died in 1720' ([R4-S2]), against the tree's 2 July 1726. Adam therefore cannot be the father of James Smith of Moriches, and the tree's pairing of Adam with Elizabeth Thompson is wrong: she was Job's wife ([R4-S3]).",
   "facts": [
     {
       "label": "Tree shows",
@@ -21,7 +21,10 @@
     "tree_transcription.md; Ancestry tree screenshots (section 2.2.2) (IMG_7792–7799)",
     "Richard_Bull_Smith_Lineage.pdf",
     "Hammond (1902) pp. 57–8",
-    "Round 1 correction 3f"
+    "Round 1 correction 3f",
+    "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), p. 46, 'Will of Adam Smith (Son of Richard the Patentee)': will dated 12 June 1704, witnessed Wm. Jayne Jr. and Wm. Helme, not probated, among the papers of the late Nathaniel Smith of Sherewog (derivative) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] Pelletreau, Records of the Town of Smithtown (1898), Introduction: 'Daniel probably died before 1715; Richard died in 1719; Adam is said to have died in 1720; Job died before 1720' (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S3] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "mediaKnown": [
     "Tree card with Smithtown 350th logo"
@@ -35,6 +38,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Adam's 1704 will (only son Edmund) disproves the tree's link to James Smith."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608065145.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "children/spouse",
+      "site": "Tree: father of James Smith; husband of Elizabeth Thompson",
+      "found": "Only son Edmund (1704 will); Elizabeth Thompson was wife of Job Smith",
+      "assessment": "Remove Adam as James's father and Elizabeth's husband."
+    },
+    {
+      "field": "death.date",
+      "site": "2 Jul 1726",
+      "found": "'said to have died in 1720'",
+      "assessment": "Tradition only; unresolved."
     }
   ]
 }

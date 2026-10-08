@@ -1,15 +1,17 @@
 {
   "id": "H0171",
   "link": {
-    "confidence": "confirmed",
-    "note": ""
+    "confidence": "probable",
+    "note": "Round 4 (confirmed → probable): Two county histories name him as George P. Ransom's son."
   },
   "sex": "M",
   "tags": [],
   "summary": "John's 1st cousin 7x removed.",
-  "bio": "Son of George P. Ransom and Elizabeth Lamoreaux (1808-1893).",
+  "bio": "Son of George P. Ransom and Elizabeth Lamoreaux (1808-1893).\n\nMunsell (1880) and Bradsby (1893) both say that George P. Ransom's sawmill of 1815 wore out and that 'his son Chester' built a new one in 1840 ([R4-S1], [R4-S2]). Bradsby's biography of a Mr. Frisbie says that in 1890 Frisbie bought 'the old mill property of Chester Ransom' on Harvey's Creek, which had a fall of eighteen feet, renovated it and added a cider mill ([R4-S1]).",
   "sources": [
-    "research/notes/round2/colonial_cousins.md 2f"
+    "research/notes/round2/colonial_cousins.md 2f",
+    "[R4-S1] H. C. Bradsby, History of Luzerne County (1893), p.589 and Frisbie biography (Jackson Twp.) (secondary) https://archive.org/details/historyofluzerne00brad",
+    "[R4-S2] W. W. Munsell, History of Luzerne, Lackawanna and Wyoming Counties (1880), Jackson Twp. (secondary) https://archive.org/details/historyofluzerne00muns"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +22,31 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence confirmed → probable: Two county histories name him as George P. Ransom's son."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0170, probable): Bradsby p.589; Munsell"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Munsell and Bradsby: built his mill in 1840 on Harvey's Creek; the property was sold to Frisbie in 1890."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0171.json."
+    }
+  ],
+  "occupation": "Sawmill owner, Jackson Twp.",
+  "events": [
+    {
+      "title": "Built a sawmill",
+      "date": "1840",
+      "place": "Harvey's Creek, Jackson Twp., Luzerne Co., PA",
+      "description": "Replaced his father's 1815 mill. The 'old mill property of Chester Ransom' on Harvey's Creek (18-ft fall) was bought in 1890 by Mr. Frisbie, who rebuilt it and added a cider mill. [R4-S1] [R4-S2]"
     }
   ]
 }

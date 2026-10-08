@@ -17,7 +17,8 @@
     "Colonel Rockwell's Scrap-book (1968), https://archive.org/details/colonelrockwells0000vari",
     "Pelletreau (1898) pp. 44–45, 50, 356, 471",
     "F. K. Smith (1967)",
-    "Uploaded Hauppauge and deep-dive reports"
+    "Uploaded Hauppauge and deep-dive reports",
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 377 (secondary) https://archive.org/details/historyoflongisl003thom"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -28,6 +29,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0472, probable): Thompson: Aaron (son of Job 1st) m. Seviah Sands; issue incl. Abner"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: mother Seviah Sands and siblings from Thompson vol. 3."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0269.json."
     }
   ],
   "media": [
@@ -46,6 +59,14 @@
       "source": "Find a Grave (cited on WikiTree Smith-233697)",
       "note": "",
       "url": "https://www.findagrave.com/memorial/25520169"
+    }
+  ],
+  "events": [
+    {
+      "title": "Mother identified",
+      "date": "",
+      "place": "",
+      "description": "Mother Seviah, daughter of James Sands. [R4-S1]"
     }
   ]
 }

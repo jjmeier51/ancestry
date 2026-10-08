@@ -1,14 +1,54 @@
 {
   "id": "H0457",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Harvey Book gives parents, dates, mill partnership and marriage."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Harvey Book gives parents, dates, mill partnership and marriage."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0206, proven): Harvey Book p.354"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Harvey Book gives b. 1795 (not 1791), d. 5 Oct 1833, parents Col. Philip Shupp & Catharine Everett, mill partnership 1817-22."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0457.json."
     }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1791",
+      "found": "1795",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "death": {
+    "date": "1833-10-05"
+  },
+  "occupation": "Miller (partner in Shupp's grist mill, Plymouth, 1817-1822)",
+  "events": [
+    {
+      "title": "Partner in his father's grist mill",
+      "date": "1817-1822",
+      "place": "Shupp's Creek, Plymouth, Luzerne Co., PA",
+      "description": "Col. Philip Shupp Sr. built the mill about 1808 ('for a number of years the principal mill in Plymouth') and took Philip Jr. into partnership in 1817; they ran it until 1822. [R4-S1]"
+    }
+  ],
+  "bio": "Philip Shupp Jr. was a son of Col. Philip Shupp Sr. (of German parentage, born in southern Northampton Co., later of what is now Monroe Co., and in Plymouth by about 1806-07; d. Plymouth 1835) and Catharine Everett. His eldest sister Mary (b. 2 Jun 1791) married James Nesbitt in 1815 ([R4-S1]). About 1808 Colonel Shupp built a grist mill on what became Shupp's Creek, for some years Plymouth's principal mill, and in 1817 took Philip Jr. into partnership until 1822. The Harvey Book gives Philip Jr.'s dates as born 1795 and died 5 Oct 1833. His wife was Susan Croup (b. Nanticoke 1800, d. Plymouth Jan 1863), 'daughter of Frederick and Mary (Young) Croup'. Their daughter Mary (b. Plymouth 16 Nov 1820) married Charles Miner Nesbitt in 1844 and moved to La Porte and then Rolling Prairie, Indiana ([R4-S1]).",
+  "sources": [
+    "[R4-S1] Harvey, The Harvey Book (1899), Nesbitt genealogy pp.343 (Shupp mill, James Nesbitt) and 354-355 (Charles Miner Nesbitt) (secondary) https://archive.org/details/harveybookgiving00harv"
   ]
 }

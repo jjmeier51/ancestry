@@ -1,0 +1,39 @@
+{
+  "id": "H0192",
+  "name": "Andrew Losee Lamoreaux",
+  "status": "researched",
+  "updates": {},
+  "bioAdditions": "A. J. Lamoureux's Lamoureux Record (1919) says Joshua Lamoureux, youngest son of Daniel, married Elizabeth Ogden (b. 1738) in Dutchess Co., lived for a time in New Brunswick and then settled near Scarborough, York Co., Upper Canada. It says 'the Utah branch' descends from him through 'Andrew Lacy and David Burlock Lamoreaux who went to that territory with Brigham Young' (S1). This supports the site's line through Joshua. The 1919 author's 'Andrew Lacy' is evidently Andrew Losee Lamoreaux. Andrew died in 1855, so 'went to that territory with Brigham Young' is loose for him: he died at St. Louis on the way.",
+  "conflicts": [
+    {
+      "field": "middle name",
+      "siteValue": "Losee",
+      "foundValue": "'Lacy' (Lamoureux 1919)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Probably a phonetic rendering by the 1919 compiler. Keep Losee, the form in LDS records."
+    }
+  ],
+  "relationships": [],
+  "openQuestionsNew": [
+    "Wikipedia (Andrew L. Lamoreaux) could not be checked this round: HTTP 429 rate limit."
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "The 1919 family record independently ties the Utah Lamoreauxs (Andrew 'Lacy' and David Burlock) to Joshua of Scarborough."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "A. J. Lamoureux, The Lamoureux Record no. 1 (1919), section on Joshua, youngest son of Daniel",
+      "url": "https://archive.org/details/andrlamoureuxh00lamouoft",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joshua m. Elizabeth Ogden; New Brunswick, then Scarborough, Upper Canada; Utah branch via Andrew 'Lacy' and David Burlock Lamoreaux"
+    }
+  ],
+  "researchLogEntry": "Round 4: Lamoureux Record 1919 confirms the descent of the Utah branch (Andrew 'Lacy', David Burlock) from Joshua of Scarborough. Wikipedia blocked by rate limit.",
+  "researchedAt": "2026-10-08"
+}

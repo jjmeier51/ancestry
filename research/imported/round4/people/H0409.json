@@ -1,0 +1,45 @@
+{
+ "id": "H0409",
+ "name": "Elvin R. Nagle",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1925",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1974",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Elvin Roger Nagle"
+  ],
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1949-08-03",
+    "place": "Luzerne Co., Pa.",
+    "description": "Married Jane Clair McGuire",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Jane Clair McGuire (1924-2005), spouse Elvin Roger Nagle 1925-1974, PID G3PC-RT7; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Spouse name and dates; marriage 1949",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3PC-RT7"
+  }
+ ],
+ "researchLogEntry": "Round 4: full name Elvin Roger Nagle (1925-1974) and 1949 marriage from FS."
+}

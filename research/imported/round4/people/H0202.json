@@ -1,0 +1,58 @@
+{
+  "id": "H0202",
+  "name": "Catherine Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "25 Nov 1755",
+      "place": "Williams Twp, Northampton Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "19 Mar 1836",
+      "place": "Northampton Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Easton",
+      "cemetery": "St John's Lutheran Church Cemetery",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "21 Jan 1777",
+        "place": "Northampton Co.",
+        "description": "To Gottlieb Hipp (1752-1839); his will is in Northampton Will Book 6 pp.18-19",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "PWSP-YPG"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Catharina a birth date of 25 Nov 1755 in Williams Twp, her marriage to Gottlieb Hipp on 21 Jan 1777, and her death on 19 Mar 1836, with burial at St John's Lutheran, Easton (S1). Gottlieb Hipp's will is in Northampton Will Book 6 pp.18-19.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Catherine Grub (PWSP-YPG), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PWSP-YPG",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 25 Nov 1755-19 Mar 1836 and m. 21 Jan 1777 Gottlieb Hipp."
+}

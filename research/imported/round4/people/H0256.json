@@ -1,0 +1,18 @@
+{
+  "id": "H0256",
+  "name": "Rev. William Welles",
+  "status": "researched",
+  "bioAdditions": "Hayes (S1) gives the tradition and also hedges it: the Southold founder's parentage is accepted 'if his parentage is correctly given in Ch. I', and Hayes notes the tombstone age (63) conflicts with the Norwich baptism (which would make him 66). Round 3 already showed the prebendary's son William became vicar of North Elmham. No new evidence changes the verdict: disproven as an ancestor.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), pp. 27-28",
+      "url": "https://archive.org/details/williamwellsofso00byuhaye",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Hayes's hedge on the Norwich parentage; tombstone age 63"
+    }
+  ],
+  "researchLogEntry": "Round 4: re-read Hayes; verdict unchanged (disproven father of William Wells).",
+  "researchedAt": "2026-10-08"
+}

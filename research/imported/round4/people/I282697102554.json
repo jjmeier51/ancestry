@@ -1,0 +1,233 @@
+{
+ "id": "I282697102554",
+ "name": "Leopoldo Ferlaino",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "c. 24-25 Jul 1871 (baptized 25 Jul 1871)",
+   "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "2 Nov 1915",
+   "place": "Dickson City, Lackawanna County, Pennsylvania",
+   "sourceRefs": [
+    "S3"
+   ]
+  },
+  "events": [
+   {
+    "title": "Baptism",
+    "date": "25 Jul 1871",
+    "place": "San Tommaso d'Aquino parish, San Mango d'Aquino",
+    "description": "Son of Fortunato Ferlaino and Rosa Moraca; godparents the couple Nicola Perri and Rosa Berardelli.",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "title": "Elder brother of the same name",
+    "date": "1870",
+    "place": "San Mango d'Aquino",
+    "description": "An earlier Leopoldo, son of Fortunato and Rosa, was baptized 4 Feb 1870 and buried 12 Jul 1870 aged 5 months; the next son received his name.",
+    "sourceRefs": [
+     "S4",
+     "S5"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "PA death certificate file",
+    "value": "104147 (1915)"
+   }
+  ]
+ },
+ "bioAdditions": "Leopoldo was baptized at San Mango d'Aquino on 25 July 1871 as the son of Fortunato Ferlaino and Rosa Moraca. The godparents were Nicola Perri and his wife Rosa Berardelli. I read the entry on the register photograph (S1, S2). His parents had lost an earlier son named Leopoldo: baptized in February 1870, that child died at five months in July 1870 (S4, S5). The parish index lists his other siblings as Gennaro (1855), Raffaela (1858), Marianna (1865) and Giuseppe Antonio (1868) (S6). His only child baptized at San Mango was Maria Filomena (later Helen), born 8 October 1894 (S7). No church marriage of Leopoldo and Giuseppina Fiorillo appears in the San Mango marriage index for 1885-1920, so they may have married civilly only, or in another parish. The Pennsylvania death-certificate index for 1915 has 'Ferlaino, Leopoldo; 104147; Dickson City; Nov. 2' (S3). Dickson City is a borough adjoining North Scranton. This fixes his death as 2 November 1915, in Pennsylvania rather than Italy, and gives the certificate number.",
+ "conflicts": [
+  {
+   "field": "death.place",
+   "siteValue": "Dickson, Lackawanna, Pennsylvania, USA (1915)",
+   "foundValue": "Dickson City, Lackawanna Co., PA, 2 Nov 1915",
+   "sourceRefs": [
+    "S3"
+   ],
+   "assessment": "Consistent; adds exact date and certificate number."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815295",
+   "evidence": "Baptism 1871 names father Fortunatus Ferlaino",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815311",
+   "evidence": "Baptism 1871 names mother Rosa Moraca",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "I282695503581",
+   "evidence": "1894 baptism of Maria Philumena names father Leopoldo Ferlaino",
+   "sourceRefs": [
+    "S7"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "sibling",
+   "personId": "NEW-801",
+   "evidence": "Elder brother Leopoldo (1870-1870)",
+   "sourceRefs": [
+    "S4",
+    "S5"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "confirmed",
+  "justification": "Baptism (primary, read) names his parents; his daughter Helen's baptism names him; the PA index places his death in Dickson City in 1915, matching the tree."
+ },
+ "openQuestionsResolved": [
+  {
+   "question": "PA death certificate 1915 (or Italian death act if he died in San Mango)",
+   "answer": "Died in Pennsylvania: index entry Ferlaino, Leopoldo; file 104147; Dickson City; 2 Nov 1915. Certificate itself not yet viewed.",
+   "sourceRefs": [
+    "S3"
+   ]
+  },
+  {
+   "question": "Birth act 1871 and Ferlaino x Fiorillo marriage c.1890-95 (San Mango 1866-1910 civil registers, FamilySearch collection / AS Catanzaro)",
+   "answer": "Church baptism found: 25 Jul 1871. No church marriage with Giuseppina Fiorillo in the 1885-1920 marriage index; civil marriage still to be checked.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  }
+ ],
+ "openQuestionsNew": [
+  "View PA death certificate 1915 no. 104147 (cause of death; a mine accident would be typical for Dickson City).",
+  "Civil marriage Ferlaino x Fiorillo, San Mango c.1890-94 (FamilySearch stato civile 1866-1910).",
+  "Immigration c.1899-1901 (precedes wife and Helen, who came 1900)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 (Book 11), image 140, p. 270, no. 53; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Leopoldus Ferlaino bapt. 25 Jul 1871, father Fortunatus Ferlaino, mother Rosa Moraca, sponsors Nicolaus Perri and Rosa Berardelli (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino parish, Battesimi 1857-1875 (Book 11), photograph 'Book 11 Image (140).jpg', left page, last entry, Leopoldus Ferlaino (read by me): '...die vero vigesima quinta Julii... baptizavit infantem ex coniugibus Fortunato Ferlaino et Rosa Moraca natum, cui nomen Leopoldus impositum est'.",
+   "url": "https://drive.usercontent.google.com/download?id=1a7rn4F2Jv2P_RlqTVucxJjSO87urmr9k&export=download&confirm=t",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Baptism 25 Jul 1871 and parents"
+  },
+  {
+   "ref": "S3",
+   "citation": "Pennsylvania State Archives, death-certificate index 1915, E-F-G volume, PDF p. 78: \"Ferlaino, Leopoldo; 104147; Dickson City; Nov. 2.\"",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1915/D-15%20E-F-G.pdf",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 2 Nov 1915 Dickson City, certificate 104147"
+  },
+  {
+   "ref": "S4",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 (Book 11), image 128, p. 247, no. 10; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Elder Leopoldus Ferlaino bapt. 4 Feb 1870, same parents (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S5",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 129, p. 248, no. 19; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Leopoldus Ferlaino buried 12 Jul 1870 aged 5 months, father Fortunatus (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S6",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1846-1856 / 1857-1875 (), Januarius 1855 (img 121 no. 53), Rachaela 1858 (img 29 no. 81), Marianna 1865 (img 102 no. 73), Josephus Antonius 1868 (img 115 no. 4); volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856 / 1857-1875'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Siblings: children of Fortunatus Ferlaino and Rosa Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S7",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Daughter Maria Philomena b. 8 Oct 1894 (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "Baptism of Leopoldo Ferlaino, San Mango d'Aquino, 25 Jul 1871",
+   "date": "1871-07-25",
+   "pageUrl": "https://drive.google.com/embeddedfolderview?id=1GDZrKBPMktUWjT1Vp7yNH4jUHhcWJTsP",
+   "directUrl": "https://drive.usercontent.google.com/download?id=1a7rn4F2Jv2P_RlqTVucxJjSO87urmr9k&export=download&confirm=t",
+   "repository": "San Tommaso d'Aquino parish, San Mango d'Aquino (volunteer photographs, ItalianParishRecords.org)",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "localPath": "",
+   "people": [
+    "I282697102554",
+    "I282824815295",
+    "I282824815311"
+   ],
+   "suggestedFile": "media/I282697102554/baptism-1871.jpg",
+   "note": "Left page, bottom entry."
+  },
+  {
+   "type": "document",
+   "title": "PA death index 1915: Leopoldo Ferlaino, Dickson City",
+   "date": "1915",
+   "pageUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1915/D-15%20E-F-G.pdf",
+   "directUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1915/D-15%20E-F-G.pdf",
+   "repository": "Pennsylvania State Archives",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "localPath": "",
+   "people": [
+    "I282697102554"
+   ],
+   "suggestedFile": "media/I282697102554/pa-death-index-1915.pdf",
+   "note": "PDF page 78."
+  }
+ ],
+ "searchedNoResult": [
+  "San Mango parish marriage index 1856-1925: no marriage Leopoldo Ferlaino x Giuseppina Fiorillo",
+  "WebSearch \"Ferlaino\" \"Dickson City\" Leopoldo 1915 (no hits)",
+  "Chronicling America \"Ferlaino\" PA: only Indiana Pa. 1917 hits (unrelated)"
+ ],
+ "researchLogEntry": "Round 4: baptism 25 Jul 1871 (parents Fortunato Ferlaino and Rosa Moraca) read on register image; PA death index gives death 2 Nov 1915 Dickson City, file 104147."
+}

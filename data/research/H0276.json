@@ -10,9 +10,10 @@
   ],
   "tags": [],
   "summary": "Grandson of Bull Smith (John's 1C10R via Bull Smith); once a rival candidate as Temperance Tuttle's father, now ruled out.",
-  "bio": "Will dated 25 Jul 1747, proved 7 Jan 1747 O.S. (i.e., 1748 N.S.), leaving £100 each to 'my daughters Temperance Anna and Hannah' when 21 (Pelletreau p. 46). His homestead passed down his male line and was still held in 1898 as the 'Dick 'Nezer Place' (p. 46 note). His widow Anna married Zephaniah Platt.",
+  "bio": "Will dated 25 Jul 1747, proved 7 Jan 1747 O.S. (i.e., 1748 N.S.), leaving £100 each to 'my daughters Temperance Anna and Hannah' when 21 (Pelletreau p. 46). His homestead passed down his male line and was still held in 1898 as the 'Dick 'Nezer Place' (p. 46 note). His widow Anna married Zephaniah Platt.\n\nHis birth is in the verbatim family record of Richard Smith 2d's children printed by Pelletreau ([R4-S1]): 'Ebenezer Smith Sun of Richard Smith was borne ye twentieth Day of February about 2 o'clock in the afternoone In the yeare of our Lord 1712.' Children with Anna (daughter of Job 2d): Richard 4th, Phineas (lost at sea), Temperance (Mrs Jonas Platt), Hannah (Mrs Joshua Smith 1st) and Anna (Mrs Rev. William Dodge). Through Richard 4th he is the great-grandfather of Judge J. Lawrence Smith.",
   "sources": [
-    "Pelletreau (1898) pp. 46, 465, 472, 475"
+    "Pelletreau (1898) pp. 46, 465, 472, 475",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -23,6 +24,17 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: exact birth (20 Feb 1712) from the printed family record; children listed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0276.json."
     }
-  ]
+  ],
+  "birth": {
+    "date": "1712-02-20"
+  }
 }

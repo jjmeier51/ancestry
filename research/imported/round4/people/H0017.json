@@ -1,0 +1,42 @@
+{
+  "id": "H0017",
+  "name": "Clarissa Meier",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Fressa (1880)",
+      "Frassa Myer (FamilySearch GK2H-S7D)",
+      "= Theresa Meier (I282608085064)"
+    ]
+  },
+  "bioAdditions": "'Clarissa' (an infant born in Pennsylvania in September, 1870 census) and 'Fressa' (11, 1880 census) are almost certainly Theresa Meier (I282608085064). Theresa's own 1896 marriage docket gives her birth as 10 September 1868 at Hazleton (S1). Henry's household had no other daughter of that age. The 1880 'Fressa' is a phonetic spelling of 'Theresa' (German 'Resa'/'Tresa'), and the 1870 'Clarissa' is an enumerator's guess. FamilySearch carries the same duplicate, as 'Frassa Myer' (GK2H-S7D), separate from Theresa (G7GQ-D75). This record should be merged into I282608085064.",
+  "openQuestionsNew": [
+    "Merge H0017 into I282608085064 (Theresa)."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "possible",
+    "justification": "Probably a duplicate of Theresa rather than a separate person."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Luzerne County Orphans' Court Marriage License Docket No. 21146: Thomas A. Boyle × Theresa Meier, 1896 (FamilySearch index 1:1:VF9K-ZC5)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-D75/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Theresa's birth 10 Sept 1868 Hazleton"
+    },
+    {
+      "ref": "S2",
+      "citation": "1880 U.S. census, Hazleton, Luzerne Co., PA: 'Frassa Myer' in household of Fredrick Myer (FamilySearch index 1:1:MWNZ-PDH)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GK2H-S7D/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Fressa/Frassa, aged 11"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: identified as Theresa (b. 10 Sept 1868); recommend merging.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "H0189",
+  "name": "Phoebe Davenport",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1799-05-04",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "1850 census",
+        "date": "1850-09-18",
+        "place": "Plymouth Twp., Luzerne Co., PA",
+        "description": "Phebe Pringle, 52, real estate $150, in John Pringle's household with eight children.",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "1860 census",
+        "date": "1860",
+        "place": "Plymouth (P.O. Muhlenburg), Luzerne Co., PA",
+        "description": "Phebe Pringle, 62, head, with Elizabeth 36 and Lydia 34.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Giles & Franklin give Phoebe's birth as 4 May 1799, daughter of Thomas and Charity (Lamoreux) Davenport, and say she married John Pringle (H0155). Their nine children: Thomas (b. 1821), Dennison (b. 1830), Clara (m. Sam Shaffer; d. aged 94), Charity (b. 1832; m. 1855 Andrew Worthington), William, Betsy (d. unmarried), Lydia, Martha (m. ___ Weaver) and Stephen (S1). The censuses agree. In 1850 she was 52, in John's household with Thomas, Clarissa, Elizabeth, Lydia, William, Denison, Charity and Martha. In 1860 she was a 62-year-old widow keeping house with the unmarried Elizabeth (Betsy) and Lydia (S2). Her will was proved in 1867.",
+  "conflicts": [
+    {
+      "field": "parents (FamilySearch)",
+      "siteValue": "Thomas Davenport and Charity Lamoreux",
+      "foundValue": "FS KP7J-PJ2 attaches 'Phebe Davenport' as a child of Samuel Pringle and Martha Lamoreaux",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "FS is wrong. She was Samuel's daughter-in-law (wife of his probable son John), not his daughter. Her maiden name Davenport and Giles & Franklin both show this."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0186",
+      "evidence": "G&F p.321",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "spouse",
+      "personId": "H0155",
+      "evidence": "G&F; 1850 census",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1860 census, Plymouth, Phebe Pringle household",
+      "date": "1860",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7J-PJ2",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KP7J-PJ2/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA M653)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0189/1860-census-plymouth-phebe-pringle.jpg",
+      "people": [
+        "H0189"
+      ],
+      "suggestedFile": "media/H0189/1860-census-plymouth-phebe-pringle.jpg",
+      "note": "U.S. federal census schedule."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Family genealogy matched by the 1850 and 1860 censuses (names and ages of the children)."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), p.321",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth 4 May 1799; parents; marriage to John Pringle; nine children"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Phebe Davenport KP7J-PJ2, with attached 1850 and 1860 U.S. census images",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7J-PJ2",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "1850 and 1860 households (census images are primary; the tree linkage is derivative)"
+    }
+  ],
+  "researchLogEntry": "Round 4: Giles & Franklin give b. 4 May 1799 and nine children, matched by the 1850/1860 censuses (1860 image downloaded). FS wrongly makes her Samuel Pringle's daughter.",
+  "researchedAt": "2026-10-08"
+}

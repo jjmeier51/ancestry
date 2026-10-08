@@ -1,0 +1,71 @@
+{
+  "id": "H0016",
+  "name": "Joseph John Meier",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1970-02-16",
+      "place": "Philadelphia, Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Hanover Township, Luzerne County",
+      "cemetery": "St. Mary's Cemetery",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "after 1940",
+        "place": "",
+        "description": "Married Mary Agatha Lyons (1907 – 31 Oct 1999), widow of Joseph Francis Moore (1902–1945) and mother of James John Moore (1926–2000).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1957",
+        "place": "Merchantville, New Jersey",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LTHM-B31"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch has Joseph's later life (S1). After 1940 he married Mary Agatha Lyons, the widow of Joseph Francis Moore, who had died in 1945, so the marriage was after 1945. He lived at Merchantville, New Jersey, by 1957. He died in Philadelphia on 16 Feb 1970 and was buried at St Mary's, Hanover Twp. His wife died in 1999 and was buried there too.",
+  "openQuestionsNew": [
+    "PA death index 1970 (if online) for Meier, Joseph J., Philadelphia, 16 Feb 1970.",
+    "Marriage to Mary Agatha (Lyons) Moore, after 1945, probably New Jersey."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "No change."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, Joseph John Meier (LTHM-B31) and Mary Agatha Lyons (G7GM-5LK), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-B31",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Death, burial, marriage, 1957 residence"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: FamilySearch tree: d. 16 Feb 1970 Philadelphia; wife Mary Agatha (Lyons) Moore.",
+  "researchedAt": "2026-10-08"
+}

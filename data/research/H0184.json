@@ -10,11 +10,12 @@
   ],
   "tags": [],
   "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Amelia 'Milly' Lamoreaux married Fletcher Case. A sister Jane also married a Case.",
+  "bio": "Amelia 'Milly' Lamoreaux married Fletcher Case. A sister Jane also married a Case.\n\nFamilySearch gives Amelia (Milly) the dates 18 Feb 1798 to 7 Feb 1868, her marriage to Fletcher Case (1804-1849) in Jackson Twp in 1827, and her 1850 census entry as a widow, Amelia Case ([R4-S1]).",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
-    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44"
+    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
+    "[R4-S1] FamilySearch published tree, Amelia Lamoreaux (L7JJ-ZP9), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L7JJ-ZP9"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -25,6 +26,35 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 18 Feb 1798-7 Feb 1868 and m. 1827 Fletcher Case."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0184.json."
+    }
+  ],
+  "birth": {
+    "date": "1798-02-18",
+    "place": "Monroe, NY (FamilySearch)"
+  },
+  "death": {
+    "date": "1868-02-07"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1827",
+      "place": "Jackson Twp, Luzerne Co.",
+      "description": "To Fletcher Case (1804-1849) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "L7JJ-ZP9"
     }
   ]
 }

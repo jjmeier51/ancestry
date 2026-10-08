@@ -1,0 +1,75 @@
+{
+  "id": "H0385",
+  "name": "Anna Wenner",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1861-08",
+      "place": "Hazleton, Luzerne County, Pennsylvania",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "aka": [
+      "Annie Wenner",
+      "Annie E Mesirs (1910 census index)",
+      "Anna Meier"
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1886-05-12",
+        "place": "Hazleton",
+        "description": "Married Fred Meir (Frederick Meier); licence No. 714, sworn 28 Apr 1886. She gave her birth as 15 August 186[?].",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Widowed",
+        "date": "before 1918",
+        "place": "Hazleton",
+        "description": "In Feb 1918 she was living at Hazleton, in domestic service, and her husband Fred was dead. Her birthplace is given as Hazleton, Pa.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Annie Wenner married Frederick Meier at Hazleton on 12 May 1886, giving her birth as 15 August (year partly legible) (S1). FamilySearch has Aug 1861. Her daughter Agnes's 1918 marriage docket names her as 'Anna, maiden name Wenner', of Hazleton, in domestic service and born at Hazleton, with Agnes's father Fred already dead (S2). FamilySearch gives her death as 1940 (S3).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "Named in her own and her daughter's marriage records."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Luzerne County Orphans' Court Marriage License Docket No. 714: Fred Meir × Annie Wenner, 1886 (FamilySearch index 1:1:Q281-QXBP)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Marriage; birth 15 Aug"
+    },
+    {
+      "ref": "S2",
+      "citation": "Luzerne County Marriage License Docket No. 81595: Patrick Sweeney × Agnes Meier, 1918 (FamilySearch index 1:1:KHFL-5LG)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Mother Anna Wenner, b. Hazleton, of Hazleton, domestic service; father dead"
+    },
+    {
+      "ref": "S3",
+      "citation": "FamilySearch Family Tree, Anna Wenner (G7G7-K4Q), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7G7-K4Q",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Birth Aug 1861; death 1940"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: identified from her 1886 marriage docket and daughter Agnes's 1918 docket (b. Hazleton; widowed before 1918).",
+  "researchedAt": "2026-10-08"
+}

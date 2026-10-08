@@ -8,7 +8,8 @@
   "tags": [],
   "summary": "Co-owner of the New York Yankees; grandson of John A. Topping of Republic Iron & Steel; kinship unverified.",
   "sources": [
-    "notes/round2/colonial_cousins.md §2g"
+    "notes/round2/colonial_cousins.md §2g",
+    "[R4-S1] Wikipedia, 'Dan Topping' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Dan_Topping"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -19,6 +20,38 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Web search on John A. Topping's ancestry (no Long Island origin found)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates and family from Wikipedia; ancestry still not traced; kinship unverified."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0327.json."
+    }
+  ],
+  "birth": {
+    "date": "1912-06-11",
+    "place": "Greenwich, Connecticut"
+  },
+  "death": {
+    "date": "1974-05-18"
+  },
+  "bio": "Daniel Reid Topping was part-owner and president of the New York Yankees 1945-1964 ([R4-S1]), son of Henry Junkins Topping and grandson of John A. Topping of Republic Iron & Steel. Nothing found ties John A. Topping to the Southampton Toppings.",
+  "media": [
+    {
+      "file": "media/H0327/dan-topping-yankees-1951.jpg",
+      "type": "photo",
+      "title": "Casey Stengel, Joe DiMaggio, Dan Topping and Del Webb",
+      "date": "1951",
+      "source": "Wikimedia Commons (Los Angeles Daily News), public_domain",
+      "note": "Commons licence: Public domain (per Commons; LA Daily News photo). Kinship unverified. 1280px derivative.",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:Casey_Stengel,_Joe_DiMaggio,_Dan_Topping_and_Del_Webb_1951.jpg"
     }
   ]
 }

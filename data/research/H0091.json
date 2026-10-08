@@ -11,11 +11,13 @@
   ],
   "tags": [],
   "summary": "John's 9th-great-grandmother; Huguenot of Cozes, Saintonge.",
-  "bio": "Born 9 Dec, baptized 19 Dec 1666 at Cozes, daughter of 'the deceased Daniel Delatour and Jeanne Meurail' (Garner p.69; probable). Wife of André Lamoureux; mother of Daniel (Bristol 1695).",
+  "bio": "Born 9 Dec, baptized 19 Dec 1666 at Cozes, daughter of 'the deceased Daniel Delatour and Jeanne Meurail' (Garner p.69; probable). Wife of André Lamoureux; mother of Daniel (Bristol 1695).\n\nThe French Church of New York register has a 'Susanne de la tour' as godmother in May 1700, the month André Lamoureux is first recorded in New York ([R4-S1]). This is probably André's wife, using her maiden name in the French manner. In 1720 a 'Susanne la Moureux' was godmother to her grandson Daniel; the Davenport genealogy treats this as her last appearance ([R4-S1], [R4-S2]).",
   "sources": [
     "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5 p.69",
     "WikiTree La_Tour-2: https://www.wikitree.com/wiki/La_Tour-2",
-    "Lart, Huguenot Soc. London vol. 20 p.9"
+    "Lart, Huguenot Soc. London vol. 20 p.9",
+    "[R4-S1] Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York (Huguenot Soc. Collections vol.1, 1886), pp.72 and 155 (derivative) https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+    "[R4-S2] Giles, Thomas Davenport, Pioneer, and His Descendants, Section X p.355 (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -26,6 +28,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: French Church register shows 'Susanne de la tour' as godmother in May 1700 (probable) and 'Susanne la Moureux' in 1720."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0091.json."
+    }
+  ],
+  "events": [
+    {
+      "title": "Godmother",
+      "date": "May 1700",
+      "place": "French Church, New York",
+      "description": "'Susanne de la tour' godmother, with Jean Coutant, to Susanne Garnier, daughter of Isaac Garnier and Elizabet Doublet [R4-S1]"
+    },
+    {
+      "title": "Godmother to grandson",
+      "date": "1720-05-29",
+      "place": "French Church, New York",
+      "description": "'Susanne la Moureux' godmother to Daniel, son of Daniel and Jeanne Lamoureux [R4-S1]"
     }
   ]
 }

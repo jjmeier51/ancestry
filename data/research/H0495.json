@@ -1,14 +1,68 @@
 {
   "id": "H0495",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Hayes 1878 gives the line from William Wells with documents (receipts, wills, gravestone)."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Hayes 1878 gives the line from William Wells with documents (receipts, wills, gravestone)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Hayes ch. VI gives his life and descent from William Wells and John Tuthill (2C9R)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0495.json."
     }
+  ],
+  "birth": {
+    "date": "Nov 1716",
+    "place": "Southold, NY"
+  },
+  "death": {
+    "date": "1800-05-27",
+    "place": "Montague, Massachusetts"
+  },
+  "burial": {
+    "place": "Old Burial Ground (headstone beside his son Dr. Henry Wells), Montague, Mass."
+  },
+  "occupation": "Pedlar, then glazier and painter in New York City; land proprietor at Brattleboro",
+  "events": [
+    {
+      "title": "Pedlar's licence",
+      "date": "1735-06-23",
+      "place": "New York",
+      "description": "Paid GBP 5 for a one-year licence to trade as a pedlar (receipt signed A. De Peyster). [R4-S1]"
+    },
+    {
+      "title": "Marriage",
+      "date": "Aug 1736",
+      "place": "East Hampton, NY",
+      "description": "Married his first wife Mary Conkling. [R4-S1]"
+    },
+    {
+      "title": "Freeman of New York City",
+      "date": "1738",
+      "place": "New York",
+      "description": "[R4-S1]"
+    },
+    {
+      "title": "Brattleboro declaration",
+      "date": "1777-04-25",
+      "place": "Brattleboro",
+      "description": "First signer of a declaration that the people of the town were loyal to the State of New York (the Vermont jurisdiction dispute), not Tories. [R4-S1]"
+    }
+  ],
+  "bio": "Second son of Henry Wells I (b. 1690), grandson of William Wells II and Elizabeth Tuthill (Hayes, [R4-S1]). He is John's 2nd cousin 9 times removed through William Wells and again through John Tuthill (1635). He left Southold at about 18, peddled under a 1735 New York licence, became a glazier and painter (also selling lottery tickets in 1749), joined the purchase of a large tract at Brattleboro, and died at Montague aged 83 years 6 months.",
+  "sources": [
+    "[R4-S1] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), ch. VI (secondary) https://archive.org/details/williamwellsofso00byuhaye"
   ]
 }

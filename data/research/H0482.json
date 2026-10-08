@@ -1,14 +1,37 @@
 {
   "id": "H0482",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Pelletreau states parentage and marriage."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Pelletreau states parentage and marriage."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0271, proven): Pelletreau: children of Daniel Smith 2d and Hannah Brewster include 'Mary, born May 25, 1735, married Judge Wm. Smith, of \"Tangiers\" family'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: birth date and parentage from Pelletreau (2C9R)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0482.json."
     }
+  ],
+  "birth": {
+    "date": "1735-05-25"
+  },
+  "bio": "Bull Smith -> Daniel -> Daniel 2d -> Mary: 2nd cousin 9 times removed. Mother of Senator John Smith (born 1752, when she was about 16).",
+  "sources": [
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476, 491 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ]
 }

@@ -9,6 +9,39 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: biography from Lawrence 1858; in-law."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0485.json."
     }
+  ],
+  "birth": {
+    "date": "1623",
+    "place": "Great St Albans, Hertfordshire, England"
+  },
+  "death": {
+    "date": "1680"
+  },
+  "events": [
+    {
+      "title": "Emigration",
+      "date": "1635",
+      "place": "",
+      "description": "Came on the Planter with his brother John. [R4-S1]"
+    },
+    {
+      "title": "Patentee of Flushing",
+      "date": "1645",
+      "place": "Flushing, Long Island",
+      "description": "Largest landed proprietor at Flushing; lived on Lawrence's (Tew's) Neck; Dutch magistrate 1655; English military commission. [R4-S1]"
+    }
+  ],
+  "bio": "Lawrence ([R4-S1]) says his sword, plate and personal effects alone were valued at GBP 4,430 (inventory, NY Surrogate Liber 22 p. 24). By his first wife he had William Jr., who in 1680 married Deborah Smith, the youngest sister of his own second wife Elizabeth Smith; so father and son married sisters. In-law of John's line.",
+  "sources": [
+    "[R4-S1] Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 33-34 (secondary) https://archive.org/details/historicalgeneal00lawr"
   ]
 }

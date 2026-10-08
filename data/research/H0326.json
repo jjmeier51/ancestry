@@ -1,8 +1,8 @@
 {
   "id": "H0326",
   "link": {
-    "confidence": "possible",
-    "note": "Descent from William Wells not worked out."
+    "confidence": "probable",
+    "note": "Descent from William Wells not worked out. Round 4 (possible → probable): Every generation from William Wells is given in Hayes 1878 (a detailed compiled genealogy using wills and town records); also descends from John Tuthill (1635) via Elizabeth Tuthill."
   },
   "sex": "M",
   "aka": [
@@ -11,7 +11,9 @@
   "tags": [],
   "summary": "Physician, one of the 23 patentees of Brattleboro, VT, Princeton 1757; possible Wells cousin.",
   "sources": [
-    "Hayes (1878) ch. VII"
+    "Hayes (1878) ch. VII",
+    "[R4-S1] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), pp. 33, 38, ch. VI-VII (secondary) https://archive.org/details/williamwellsofso00byuhaye",
+    "[R4-S2] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 7 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -22,6 +24,23 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → probable: Every generation from William Wells is given in Hayes 1878 (a detailed compiled genealogy using wills and town records); also descends from John Tuthill (1635) via Elizabeth Tuthill."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0495, proven): Hayes ch. VI-VII: Obadiah Wells, second son of Henry I (b. 1690, third son of William II); ch. VII 'Henry of Montague, son of Obadiah'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Hayes chapters VI-VII document the line William I -> William II -> Henry -> Obadiah -> Dr. Henry; 3C8R via Wells and via Tuthill."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0326.json."
     }
-  ]
+  ],
+  "bio": "Hayes ([R4-S1]) gives his full line: William Wells I of Southold -> William II (b. 1660, m. 1681 Elizabeth Tuthill, daughter of John Tuthill 1635) -> Henry I (b. 7 Feb 1690) -> Obadiah (b. Nov 1716, d. Montague 27 May 1800) -> Dr. Henry. That puts him 4 generations below William Wells and 4 below John Tuthill (both 12 above John): 3rd cousin 8 times removed, twice over. One of the founders of Brattleboro's church society, he later moved to Montague, Mass. Hayes stresses that neither he nor his father was a Tory despite their New York loyalties in the Vermont dispute."
 }

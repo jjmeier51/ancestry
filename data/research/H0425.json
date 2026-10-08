@@ -9,6 +9,33 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: birth, parents, later name McMaster, death and Arlington burial from FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0425.json."
     }
+  ],
+  "birth": {
+    "date": "1902-02-21",
+    "place": "Pleasant Hill, Sabine Parish, La."
+  },
+  "death": {
+    "date": "1975-05-21",
+    "place": "El Paso, Texas"
+  },
+  "burial": {
+    "place": "Arlington National Cemetery, Arlington, Va."
+  },
+  "aka": [
+    "Jane Hamilton Davis",
+    "Jane Davis McMaster"
+  ],
+  "bio": "FamilySearch: Jane Hamilton Davis, daughter of William Chapman Davis and Mary Virginia Armstrong, born Pleasant Hill, Louisiana, 1902; married Leo G. Heffernan in 1922; in the 1940 census as Jane Heffernan; died El Paso 1975 as Jane Davis McMaster (Texas death record) and buried at Arlington ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Jane Hamilton Davis (1902-1975), PID GMHJ-839; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GMHJ-839"
   ]
 }

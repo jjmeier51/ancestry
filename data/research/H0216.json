@@ -7,9 +7,10 @@
   "sex": "F",
   "tags": [],
   "summary": "Daughter of Johann Casper Doll (possible 7th-great-grand-aunt).",
-  "bio": "Elizabeth Doll (1753-1829), m. Christopher Stecher; the Stechers also married into the Grubs.",
+  "bio": "Elizabeth Doll (1753-1829), m. Christopher Stecher; the Stechers also married into the Grubs.\n\nFamilySearch's daughter of Casper Doll and Margaretha Dietz is Elizabeth Margaret Doll (22 Feb 1754 - 23 Oct 1788). She married Christopher Engel (1757-1838) in Plainfield Twp on 11 Aug 1776 and had children there in 1780-87 ([R4-S1]). That differs from the site's Elizabeth (1753-1829), wife of Christopher Stecher. Casper's other daughter Anna Catharina married a Stecher (Lewis), which may be where the confusion started.",
   "sources": [
-    "WikiTree Doll-526: https://www.wikitree.com/wiki/Doll-526"
+    "WikiTree Doll-526: https://www.wikitree.com/wiki/Doll-526",
+    "[R4-S1] FamilySearch published tree, Elizabeth Doll (LVKY-RKG), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LVKY-RKG"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +21,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives Elizabeth Margaret Doll (1754-1788), m. 1776 Christopher Engel; conflicts with the site's Stecher marriage."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0216.json."
     }
   ],
   "media": [
@@ -30,6 +39,36 @@
       "source": "WikiTree",
       "note": "Elizabeth Doll, 1753-04-00 – 1829-05-04",
       "url": "https://www.wikitree.com/wiki/Doll-526"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1753",
+      "found": "1754-02-22",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "death.date",
+      "site": "1829",
+      "found": "1788-10-23",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "spouse/dates",
+      "site": "1753-1829, m. Christopher Stecher",
+      "found": "22 Feb 1754-23 Oct 1788, m. 11 Aug 1776 Christopher Engel (FamilySearch)",
+      "assessment": "Unresolved; check the Plainfield Reformed records and the Find a Grave entry for 'Elisabeth Doll Engel'."
+    }
+  ],
+  "birth": {
+    "date": "1753",
+    "place": "Plainfield Twp"
+  },
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LVKY-RKG"
     }
   ]
 }

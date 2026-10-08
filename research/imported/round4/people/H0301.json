@@ -1,0 +1,64 @@
+{
+  "id": "H0301",
+  "name": "John Smith",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "12 Feb 1752",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "12 Aug 1816",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Path (Pelletreau S1): Bull Smith -> Daniel -> Daniel 2d -> Mary (b. 25 May 1735, m. Judge William Smith of the Tangier family) -> John: 3rd cousin 8 times removed. Pelletreau adds that for his third wife he married the widow of Henry Nicoll, a daughter of Gen. Nathaniel Woodhull, so he became stepfather of Eliza W. Nicoll, mother of Judge J. Lawrence Smith.",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Pelletreau states each generation."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476, 491",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Mary dau. of Daniel 2d m. Judge William Smith; Gen. John Smith their son; his third wife the widow of Henry Nicoll"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'John Smith (New York politician, born 1752)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/John_Smith_(New_York_politician,_born_1752)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; House 1800-04; Senate 1804-13"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Senator John Smith of New York (Biographical Directory of the U.S. Congress image)",
+      "date": "",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:John_SmithNY.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/John_SmithNY.jpg",
+      "repository": "Wikimedia Commons (source: bioguide.congress.gov S000566)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0301/john-smith-senator-bioguide.jpg",
+      "people": [
+        "H0301"
+      ],
+      "suggestedFile": "media/H0301/john-smith-senator-bioguide.jpg",
+      "note": "Commons licence: Public domain (Congress image; no artist/date). A second Commons file, 'John Smith New York.jpg' (engraving 'done in 1799'), credits the Ohio Historical Society, which suggests confusion with Senator John Smith of Ohio; not used."
+    }
+  ],
+  "researchLogEntry": "Round 4: path verified in Pelletreau; stepfather of Eliza Nicoll; Bioguide portrait downloaded.",
+  "researchedAt": "2026-10-08"
+}

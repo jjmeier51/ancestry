@@ -7,11 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "President of New York Life Insurance & Trust; John's 4th cousin 7x removed.",
-  "bio": "Married Julia Tyler's first cousin Sarah Diodati Gardiner; their son Frederick Diodati Thompson held Sagtikos Manor.",
+  "bio": "Married Julia Tyler's first cousin Sarah Diodati Gardiner; their son Frederick Diodati Thompson held Sagtikos Manor.\n\nEldest son of Jonathan Thompson ([R4-S1]): 4th cousin 7 times removed via John Thompson, 5th cousin 6 times removed via Bull Smith. Married Sarah Diodati Gardiner; children Sarah G. (Mrs Col. David Lion Gardiner), Elizabeth, Gardiner, David Gardiner, Charles Griswold, Mary Gardiner and Frederick Diodati (proprietor of Sagtikos Manor in 1898).",
   "sources": [
     "Wikipedia: Jonathan Thompson (collector)",
     "Pelletreau (1898)",
-    "Wikipedia: Sagtikos Manor"
+    "Wikipedia: Sagtikos Manor",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 470 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -26,6 +27,20 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Thompson-56628 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: exact dates and children from Pelletreau."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0317.json."
     }
-  ]
+  ],
+  "birth": {
+    "date": "1798-05-03"
+  },
+  "death": {
+    "date": "1871-02-22"
+  }
 }

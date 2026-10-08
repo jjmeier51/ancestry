@@ -7,10 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "Brother of John's grandfather James C. Meier (John's great-uncle).",
-  "bio": "Son of William F. Meier and Florence L. Pringle; 'William, son, about 3' in the 1930 Wilkes-Barre census (55 Cedar St) and 'William Jr., son, 23' in the 1950 census (house 55, ED 40-102). Nothing further recorded.",
+  "bio": "Son of William F. Meier and Florence L. Pringle; 'William, son, about 3' in the 1930 Wilkes-Barre census (55 Cedar St) and 'William Jr., son, 23' in the 1950 census (house 55, ED 40-102). Nothing further recorded.\n\nThe FamilySearch tree links William Jr. (d. 29 Feb 2004) to a wife, Nancy Anne Stahl Meier. She died on 13 May 2009 at Clermont, Florida ([R4-S1]). The tree also cites a NUMIDENT entry for him and an obituary from the 'United States, Obituary Records, 2014–2023' collection, but both source images returned HTTP 404 from the public endpoint, so neither was read.",
   "sources": [
     "1930 census Wilkes-Barre ED 40-261 sheet 23B; 1950 census ED 40-102 sheet 2 (FamilySearch GF3P-853 images)",
-    "research/notes/round3/meier_line.md"
+    "research/notes/round3/meier_line.md",
+    "[R4-S1] FamilySearch Family Tree, William F. Meier Jr. (GF3P-DRK) and Nancy Stahl (GV6C-8WZ), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/GF3P-DRK"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -25,6 +26,35 @@
     {
       "date": "2026-10-08",
       "note": "A second handoff record (\"Collateral relatives, same-surname people and ruled-out leads\", line 2750) also maps to this person."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch source images for the obituary (GF3P-DRK i/1): HTTP 404"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch names his wife, Nancy Anne Stahl Meier (d. 2009, Clermont FL). The obituary images could not be loaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0009.json."
     }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "",
+      "place": "",
+      "description": "Wife: Nancy Anne (Stahl) Meier (1930 – 13 May 2009, of Clermont, Florida). She had earlier been married to a Jack Stahl, so Stahl may be a married name. [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GF3P-DRK"
+    }
+  ],
+  "openQuestions": [
+    "Read William F. Meier Jr.'s obituary (FamilySearch 1:1:XMZ3-FPDF) and Nancy Stahl Meier's (1:1:QK2P-7S8D, 1:1:XMK2-9SZ5) in a signed-in session. They should give his place of death and burial."
   ]
 }

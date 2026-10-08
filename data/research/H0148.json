@@ -1,17 +1,18 @@
 {
   "id": "H0148",
   "link": {
-    "confidence": "confirmed",
-    "note": ""
+    "confidence": "probable",
+    "note": "Round 4 (confirmed → probable): Giles & Franklin plus an FS tree with census residences and a marriage record."
   },
   "sex": "M",
   "tags": [],
   "summary": "John's 1st cousin 5x removed.",
-  "bio": "Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle, married (1) a VanScoy and (2) in 1864 the widow Ellen C. (Fuller) Nesbitt (her will 1898 in the Luzerne wills index).",
+  "bio": "Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle, married (1) a VanScoy and (2) in 1864 the widow Ellen C. (Fuller) Nesbitt (her will 1898 in the Luzerne wills index).\n\nFamilySearch tree 2ZSS-9R1 lists Jacob Pringle, born 1828 in Luzerne Co., among the children of Benjamin Pringle and Charity Gould. It records his marriage to Ellen C. Fuller (1830-1898) at Plymouth in April 1864, and his census residence in Falls Twp., Wyoming Co., in 1870 and 1880. It names two daughters: Carry (b. 1865) and Emma C. (b. 15 Sep 1867, d. 1960) ([R4-S1]). One attached record is indexed as 'Jacob G Pr[ingle]', which supports the middle initial G (for Gould). The tree gives no death date.",
   "sources": [
     "Harvey Book p.362",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395)",
-    "Luzerne wills index P: https://pagenweb.org/~luzerne/wills/pwill.htm"
+    "Luzerne wills index P: https://pagenweb.org/~luzerne/wills/pwill.htm",
+    "[R4-S1] FamilySearch published tree, Jacob Pringle 2ZSS-9R1 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/Jacob Pringle 2ZSS-9R1"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -22,6 +23,53 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence confirmed → probable: Giles & Franklin plus an FS tree with census residences and a marriage record."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0146, probable): FS 2ZSS-9R1"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0435, probable): FS 2ZSS-9R1"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0436, probable): FS: marriage Apr 1864 Plymouth"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS 2ZSS-9R1 gives b. 1828, m. Apr 1864 Ellen C. Fuller, Falls Twp. 1870/1880, daughters Carry and Emma C."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0148.json."
     }
+  ],
+  "birth": {
+    "date": "1828",
+    "place": "Luzerne Co., PA"
+  },
+  "events": [
+    {
+      "title": "Second marriage",
+      "date": "1864-04",
+      "place": "Plymouth, Luzerne Co., PA",
+      "description": "To Ellen C. Fuller (1830-1898), widow Nesbitt. [R4-S1]"
+    },
+    {
+      "title": "Residence",
+      "date": "1870, 1880",
+      "place": "Falls Twp., Wyoming Co., PA",
+      "description": "Census residences per the FS tree. [R4-S1]"
+    }
+  ],
+  "openQuestions": [
+    "Death date and place unknown (after 1880; Falls Twp., Wyoming Co.?)",
+    "First wife, 'a VanScoy' (Giles & Franklin), is not in the FS tree.",
+    "Daughter Emma C. Pringle (1867-1960) may be the 'Emma Pringle, b. abt 1865' on the worklist; check before attaching."
   ]
 }

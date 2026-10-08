@@ -7,10 +7,11 @@
   "sex": "F",
   "tags": [],
   "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1893, listed in the 1910 census (Plymouth/Larksville) household. No further research done.",
+  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1893, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives her birth as May 1893 (from the 1900 census) and records her marriage to William Leacacos in New York City on 6 May 1915, indexed in the NYC marriage records. It lists a daughter born at Wilkes-Barre in 1922, so the couple lived in the Wyoming Valley afterwards. A GenealogyBank obituary index entry (1980-2015) under 'Genevieve Pringle Leacacos' is attached but was not read ([R4-S1]). The site's note that 'Joseph Vincent married in New York City in 1915' probably belongs to Genevieve.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
-    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11"
+    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
+    "[R4-S1] FamilySearch published tree, Genevieve Pringle (9KXX-MWR), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MWR"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,32 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives b. May 1893 and her NYC marriage to William Leacacos on 6 May 1915."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0104.json."
+    }
+  ],
+  "birth": {
+    "date": "May 1893",
+    "place": "Pennsylvania"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1915-05-06",
+      "place": "New York City",
+      "description": "To William Leacacos (b. 1886), indexed in New York City Marriage Records 1829-1940 [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "9KXX-MWR"
     }
   ]
 }

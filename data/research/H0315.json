@@ -7,10 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "Physician, lawyer and author of the standard History of Long Island (1839/1843); John's 3rd cousin 8x removed.",
-  "bio": "Path: John Thompson → Samuel → Jonathan → Dr. Samuel → Benjamin. Also 4C8R via Brewster (affected by the Brewster disproof) and probably 4C8R via Topping (his grandmother Mary Woodhull, b. 1711, appears to be a granddaughter of Temperance Topping). Called John Thompson 'the first Long Island ancestor of the compiler'.",
+  "bio": "Path: John Thompson → Samuel → Jonathan → Dr. Samuel → Benjamin. Also 4C8R via Brewster (affected by the Brewster disproof) and probably 4C8R via Topping (his grandmother Mary Woodhull, b. 1711, appears to be a granddaughter of Temperance Topping). Called John Thompson 'the first Long Island ancestor of the compiler'.\n\nSon of Dr. Samuel Thompson and his first wife Phebe Satterly ([R4-S1]); 3rd cousin 8 times removed via John Thompson. Irony worth telling: his own family account (the source used by earlier rounds) contains the two errors later disproved, the 1609 birth and the Mayflower Brewster wife for John Thompson.",
   "sources": [
     "Thompson vol. 3",
-    "Online Books, https://onlinebooks.library.upenn.edu/webbin/who/Thompson%2c%20Benjamin%20F%2e%20%28Benjamin%20Franklin%29%2c%201784%2d1849"
+    "Online Books, https://onlinebooks.library.upenn.edu/webbin/who/Thompson%2c%20Benjamin%20F%2e%20%28Benjamin%20Franklin%29%2c%201784%2d1849",
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), pp. 297-298 (secondary) https://archive.org/details/historyoflongisl003thom"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -21,6 +22,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Wikipedia: no article 'Benjamin Franklin Thompson' / 'Benjamin F. Thompson'; Commons search: only scans of his History of Long Island, no portrait"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: birth date, parents and marriage from Thompson vol. 3."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0315.json."
     }
   ],
   "media": [
@@ -41,5 +54,16 @@
       "file": "media/H0315/h0315-thompson-78481.jpg"
     }
   ],
-  "photo": "media/H0315/h0315-thompson-78481.jpg"
+  "photo": "media/H0315/h0315-thompson-78481.jpg",
+  "birth": {
+    "date": "1784-05-15"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1810-06-12",
+      "place": "",
+      "description": "Married Mary Howard, daughter of Rev. Zachariah and Mrs Abigail Greene; son Henry Rutgers (1813-1842). [R4-S1]"
+    }
+  ]
 }

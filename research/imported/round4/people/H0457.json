@@ -1,0 +1,73 @@
+{
+  "id": "H0457",
+  "name": "Philip Shupp Jr.",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1795",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1833-10-05",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Miller (partner in Shupp's grist mill, Plymouth, 1817-1822)",
+    "events": [
+      {
+        "title": "Partner in his father's grist mill",
+        "date": "1817-1822",
+        "place": "Shupp's Creek, Plymouth, Luzerne Co., PA",
+        "description": "Col. Philip Shupp Sr. built the mill about 1808 ('for a number of years the principal mill in Plymouth') and took Philip Jr. into partnership in 1817; they ran it until 1822.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Philip Shupp Jr. was a son of Col. Philip Shupp Sr. (of German parentage, born in southern Northampton Co., later of what is now Monroe Co., and in Plymouth by about 1806-07; d. Plymouth 1835) and Catharine Everett. His eldest sister Mary (b. 2 Jun 1791) married James Nesbitt in 1815 (S1). About 1808 Colonel Shupp built a grist mill on what became Shupp's Creek, for some years Plymouth's principal mill, and in 1817 took Philip Jr. into partnership until 1822. The Harvey Book gives Philip Jr.'s dates as born 1795 and died 5 Oct 1833. His wife was Susan Croup (b. Nanticoke 1800, d. Plymouth Jan 1863), 'daughter of Frederick and Mary (Young) Croup'. Their daughter Mary (b. Plymouth 16 Nov 1820) married Charles Miner Nesbitt in 1844 and moved to La Porte and then Rolling Prairie, Indiana (S1).",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1791",
+      "foundValue": "1795",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Harvey gives 1795. 1791 is the birth year of his sister Mary, the colonel's eldest child, so 1791 cannot be Philip Jr.'s; prefer 1795."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0206",
+      "evidence": "Harvey Book p.354",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Harvey Book gives parents, dates, mill partnership and marriage."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Harvey, The Harvey Book (1899), Nesbitt genealogy pp.343 (Shupp mill, James Nesbitt) and 354-355 (Charles Miner Nesbitt)",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "parents, birth 1795, death 5 Oct 1833, mill partnership, marriage, daughter Mary"
+    }
+  ],
+  "researchLogEntry": "Round 4: Harvey Book gives b. 1795 (not 1791), d. 5 Oct 1833, parents Col. Philip Shupp & Catharine Everett, mill partnership 1817-22.",
+  "researchedAt": "2026-10-08"
+}

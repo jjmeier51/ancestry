@@ -1,0 +1,75 @@
+{
+  "id": "I282608064942",
+  "name": "Agatha Heizler",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1867-08-03",
+      "place": "Munzingen, Amt Freiburg, Baden",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Munzingen, Amt Freiburg, Baden",
+      "cemetery": "Munzingen (Catholic parish)",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "The tree's death date is now confirmed from the register. The Munzingen death book for 1867 (No. 13) records that on 3 Aug 1867, at three in the morning, 'Agatha Birkenmaier geb. Heitzler' died at Munzingen, having received the last sacraments. She was buried on 5 August. She was 54 years, 1 month and 8 days old, which counts back exactly to her birth on 26 Jun 1813. The entry calls her the widow of the late citizen and joiner Servaz Birkenmaier, so she had not remarried in the 14 years since 1853. The witnesses were Johann Georg Birkenmaier, gravedigger, and a farmer [Franz Lang?], both citizens. The priest signed on 5 Aug 1867 (S1). Her name is indexed as 'Birkenmaier Agatha, p. 446' in the 1867 death register index (S1).",
+  "openQuestionsResolved": [
+    {
+      "question": "Death date/place (tree 1867) — L 10 Nr. 1591 deaths to 1870.",
+      "answer": "Confirmed: died 3 Aug 1867 at Munzingen, buried 5 Aug, aged 54 y 1 m 8 d (Todtenbuch 1867 No. 13).",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    {
+      "question": "Did she remarry after 1853?",
+      "answer": "No. In 1867 she died as the widow of Servaz Birkenmaier.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Death now read in the original register."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath., Standesbücher 1840–1870), Todtenbuch 1867 No. 13, p. 446 (image 572); index 'Register pro 1867' (image 574)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-572",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Death 3 Aug 1867, burial 5 Aug, age, widowhood"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Munzingen death register 1867 No. 13: Agatha Birkenmaier née Heitzler",
+      "date": "1867-08-05",
+      "pageUrl": "http://www.landesarchiv-bw.de/plink/?f=5-480947-572",
+      "directUrl": "",
+      "repository": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282608064942/death-1867-munzingen-L10-1591-img572.jpg",
+      "people": [
+        "I282608064942",
+        "I282608064919"
+      ],
+      "suggestedFile": "media/I282608064942/death-1867-munzingen-L10-1591-img572.jpg",
+      "note": "Left page, entry No. 13. The viewer marks the image with the Public Domain Mark 1.0."
+    }
+  ],
+  "researchLogEntry": "Round 4: read her 3 Aug 1867 death entry in the Munzingen register (No. 13); she died a widow aged 54 y 1 m 8 d."
+}

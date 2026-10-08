@@ -1,0 +1,24 @@
+{
+ "id": "I282824814895",
+ "name": "Grazia Di Marino G44P-XYT",
+ "status": "researched",
+ "bioAdditions": "Grazia's FamilySearch profile carries the same three indexed Avellino records as her husband's (S1). One names her with her parents Gaetano di Marino and Caterina di Leo and with Pietro Petriello (6PG6-674V); it is probably the couple's marriage act. Another indexes her as 'Grazia De Marino', mother of Filomena Petriello, born 16 Dec 1885 at Carife (QPR6-CHPB). Born c.1845 by her death act, she would have been about 40 at Filomena's birth.",
+ "openQuestionsNew": [
+  "View FS record 1:1:6PG6-674V / 6PG6-674L (probable marriage act) for the marriage date and her age (would refine her birth year)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile G44P-XYT (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G44P-XYT",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Attached indexed records 6PG6-674V, 6PJX-KPG2, QPR6-CHPB"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images (ancestors.familysearch.org published-source image URLs) return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS-indexed probable marriage record (with her parents) identified; images blocked.",
+ "researchedAt": "2026-10-08"
+}

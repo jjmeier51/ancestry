@@ -1,0 +1,41 @@
+{
+ "id": "H0432",
+ "name": "Mary E. Keating",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1862-03",
+   "place": "Larksville, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1914-06-14",
+   "place": "Plymouth, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "burial": {
+   "cemetery": "St. Vincent de Paul Cemetery",
+   "place": "Larksville, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ },
+ "bioAdditions": "FamilySearch: Mary Elizabeth Keating, b. Larksville Mar 1862, d. Plymouth 14 Jun 1914, buried St. Vincent de Paul, Larksville; 1880 census with John F. Connole at Avondale (S1).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Mary Elizabeth Keating (1862-1914), PID GC1C-MH9; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, death, burial",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC1C-MH9"
+  }
+ ],
+ "researchLogEntry": "Round 4: dates and burial from FS."
+}

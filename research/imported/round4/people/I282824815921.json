@@ -1,0 +1,60 @@
+{
+ "id": "I282824815921",
+ "name": "ISABELLA MORACO",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Isabella was born on 14 June 1676, daughter of Pietro Moraca and Catarina Riccio (S1). She married Ferdinando Maletta (S2).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815945",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824816002",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815900",
+   "evidence": "Marriage",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1670-1687 (Book 2), image 15, p. 14, no. 4; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Isabella Moraca b. 14 Jun 1676, bapt. 15 Jun, father Pietro Moraca, mother Catarina Riccio (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1686-1713 (Book 3), image 193, p. 310, no. 2; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1686-1713'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 5 Jun 1695 to Ferdinando Maletta (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 14 Jun 1676, marriage indexed 1695."
+}

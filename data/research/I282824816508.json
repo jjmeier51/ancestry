@@ -1,0 +1,46 @@
+{
+  "id": "I282824816508",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Marriage and burial indexed; daughter Filippina's baptism names him."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824816515, proven): Marriage and burial"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Baptism 25 Feb 1791 not found in the index under Iera/Ierra (only his burial and marriage)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: marriage 26 Feb 1812, burial 10 May 1874 (father Giuseppe, new)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816508.json."
+    }
+  ],
+  "death": {
+    "date": "1874-05-10",
+    "place": "San Mango d'Aquino"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1812-02-26",
+      "place": "San Mango d'Aquino",
+      "description": "Married Agostina (Faustina) Ferlaino [R4-S1]"
+    }
+  ],
+  "bio": "Rosario married Agostina (Faustina) Ferlaino on 26 February 1812 ([R4-S1]). He was buried on 10 May 1874, aged 84, as the son of the late Giuseppe Iera and husband of Faustina Ferlaino ([R4-S2]). His father's name, Giuseppe, is new.",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): Marriage and burial indexed; daughter Filippina's baptism names him."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 5, p. 4, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 149, p. 287, no. 19; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
+  ]
+}

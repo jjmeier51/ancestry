@@ -1,0 +1,16 @@
+{
+  "id": "I282695583987",
+  "name": "Sir Samuel Smith (1575) (Eng) 11",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "searchedNoResult": [
+    "Pelletreau 1898 (Introduction and the Smith appendix): no parents named for Richard Smith; Weygant 1897 'Smiths of Smithtown' gives no parents",
+    "No source found for this person; round 1 and round 3 found the 'Sir Samuel Smith & Rebecca Buswell' parentage unsupported"
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "Unsupported; remove as parents of Richard 'Bull' Smith."
+  },
+  "researchLogEntry": "Round 4: no source found; remove."
+}

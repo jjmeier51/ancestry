@@ -1,0 +1,84 @@
+{
+ "id": "H0344",
+ "name": "Luigia Roberto",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Nunzianna Roberto (FamilySearch tree)"
+  ],
+  "birth": {
+   "date": "ABT 1814",
+   "place": "Bisaccia, Avellino, Campania, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage to Bartolomeo Fede",
+    "date": "1835-07-10",
+    "place": "Bisaccia",
+    "description": "Per FS tree.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The FamilySearch tree calls Angelamaria Fede's mother 'Nunzianna Roberto'. It gives her birth as about 1814 in Bisaccia, her marriage to Bartolomeo Fede as 10 Jul 1835, and her parents as Pasquale di Roberto and Antonia Sena (both b. 1777) (S1). Round 3 read the given name in the 1867 act only tentatively as 'Luigia(?)'. One fact supports Nunzianna: Angelamaria named a daughter born c.1885 'Nunzianda', following the southern-Italian custom of naming daughters after grandmothers (S2).",
+ "conflicts": [
+  {
+   "field": "given name",
+   "siteValue": "Luigia (Round 3 reading, marked uncertain)",
+   "foundValue": "Nunzianna (FS tree LY5M-RSK)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Probably Nunzianna/Annunziata: the FS name has its own sources and the granddaughter Nunzianda (c.1885-1888) carries the name. Re-read the 1867 act before changing."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "NEW-709",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "parent",
+   "personId": "NEW-710",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile LY5M-RSK (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LY5M-RSK",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Nunzianna Roberto b. c.1814, m. 10 Jul 1835, parents Pasquale di Roberto and Antonia Sena"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile L13V-186 (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L13V-186",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Nunzianda Gianetta c.1885-1888, daughter of Savino Giannetta and Angelamaria Fede"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS tree names her Nunzianna (not Luigia), b. c.1814, m. 1835; a granddaughter named Nunzianda supports it.",
+ "researchedAt": "2026-10-08"
+}

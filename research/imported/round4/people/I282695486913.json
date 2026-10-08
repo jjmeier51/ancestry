@@ -1,0 +1,65 @@
+{
+  "id": "I282695486913",
+  "name": "Benjamin Harrison",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "20 Aug 1833",
+      "place": "North Bend, Ohio (farm on the Ohio River)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "13 Mar 1901",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Path verified: John Tuthill (1635) -> Henry (1665) -> Henry (1690) -> Henry (d. 1793) -> Anna Tuthill -> Anna Symmes Harrison -> John Scott Harrison -> Benjamin, 7 generations: 6th cousin 5 times removed (Akerly S2; Wikipedia S1 for the Harrison generations). Second route via William Wells (Bethia Wells -> Bethia Horton -> Henry 1690 ...), 8 generations: 7th cousin 4 times removed. Conditional third route via Barnabas Horton (7C5R, twice) if the Rachel Browne line holds. His Virginia Harrison ancestry is not John's.",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Collateral path fully sourced; John's own James -> John Tuthill link remains the only weak point."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Benjamin Harrison' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; grandson of W. H. Harrison"
+    },
+    {
+      "ref": "S2",
+      "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 7-10",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Tuthill line to Anna Symmes; 'grandmother of President Benjamin Harrison'"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Benjamin Harrison, Pach Brothers studio photograph",
+      "date": "1896",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pach_Brothers_-_Benjamin_Harrison_(cropped)_(cropped).jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pach_Brothers_-_Benjamin_Harrison_%28cropped%29_%28cropped%29.jpg",
+      "repository": "Wikimedia Commons (Library of Congress cph.3c34885; restoration by Adam Cuerden)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282695486913/benjamin-harrison-pach-1896.jpg",
+      "people": [
+        "I282695486913"
+      ],
+      "suggestedFile": "media/I282695486913/benjamin-harrison-pach-1896.jpg",
+      "note": "Commons licence: Public domain. Saved as 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: 6C5R and 7C4R routes verified generation by generation; PD 1896 Pach Brothers photo downloaded.",
+  "researchedAt": "2026-10-08"
+}

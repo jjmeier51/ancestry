@@ -2,7 +2,7 @@
   "id": "H0154",
   "link": {
     "confidence": "probable",
-    "note": ""
+    "note": "Round 4 (probable → probable): 1850 census and an FS tree with the 1880 census and Find a Grave; Lulu's marriage to Honeywell matches the site."
   },
   "sex": "F",
   "aka": [
@@ -11,10 +11,11 @@
   ],
   "tags": [],
   "summary": "Probably John's 1st cousin 5x removed.",
-  "bio": "'Caturah', 17, in Hulda Pringle's 1850 household; probably Keturah (Pringle) Robbins, wife of Charles Robbins, whose daughter Lulu married Charles W. Honeywell, Plymouth tax collector 1889-92.",
+  "bio": "'Caturah', 17, in Hulda Pringle's 1850 household; probably Keturah (Pringle) Robbins, wife of Charles Robbins, whose daughter Lulu married Charles W. Honeywell, Plymouth tax collector 1889-92.\n\nFamilySearch tree K86Y-ZB8 gives Keturah's birth as 7 Oct 1835. (The tree misplaces Plymouth in Philadelphia Co.; it is Plymouth, Luzerne Co.) Her first husband was Charles Carter Robbins (1829-1878, d. Hanover Twp. 23 Sep 1878). Their children: Emily (b. 17 Sep 1855, d. 1930), Ella (b. 21 Jun 1859, d. 1919), Lulu M. (b. Nanticoke 20 Aug 1862, d. 1950; she married Charles W. Honeywell), Byron S. (b. 11 Sep 1870, d. 1951) and Clarence Howard (b. 25 Aug 1873, d. 1959). On 19 Sep 1883 she married Philip Manhart (1823-1910). He is evidently the 'Philip Minchart, 26, carpenter' who lived in her mother's house in 1850. She died at Plymouth on 15 Aug 1900 and was buried in Hanover Twp. on 17 Aug 1900. Find a Grave indexes her as 'Robbins Manhart' ([R4-S1]). The 1880 census entry is indexed as 'Toura Robbins'.",
   "sources": [
     "1850 census dwelling 942",
-    "Bradsby"
+    "Bradsby",
+    "[R4-S1] FamilySearch published tree, Keturah Pringle K86Y-ZB8 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K86Y-ZB8"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -25,6 +26,54 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → probable: 1850 census and an FS tree with the 1880 census and Find a Grave; Lulu's marriage to Honeywell matches the site."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0150, probable): 1850 census ('Caturah' 17); FS"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0151, probable): same"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0438, probable): FS GL21-ST6 Charles Carter Robins"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS K86Y-ZB8 gives b. 7 Oct 1835, d. 15 Aug 1900, five Robbins children, second marriage 1883 to Philip Manhart (the 1850 boarder)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0154.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "ABT 1833",
+      "found": "1835-10-07",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "death": {
+    "date": "1900-08-15",
+    "place": "Plymouth, Luzerne Co., PA"
+  },
+  "burial": {
+    "place": "Hanover Twp., Luzerne Co., PA",
+    "date": "1900-08-17"
+  },
+  "events": [
+    {
+      "title": "Second marriage",
+      "date": "1883-09-19",
+      "place": "Columbia Co., PA",
+      "description": "Married Philip Manhart (1823-1910) as his/her second marriage. [R4-S1]"
     }
   ]
 }

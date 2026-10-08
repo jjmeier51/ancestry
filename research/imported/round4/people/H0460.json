@@ -1,0 +1,81 @@
+{
+  "id": "H0460",
+  "name": "Christopher Stecher",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1749/1750-04-08",
+      "place": "Bucks Co., PA (per WikiTree/Find a Grave)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1831-06-15",
+      "place": "Washington Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Ginger Hill, Washington Co., PA",
+      "cemetery": "Dutch Lutheran Cemetery (Find a Grave 78699319, per WikiTree)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Christopher Stacher"
+    ]
+  },
+  "bioAdditions": "WikiTree (Stecher-38, a GEDCOM import citing Find a Grave memorial 78699319) gives Christopher Stacher/Stecher as son of Johann Melchior Stecher and Anna Eva Christina (Kauffmann) Stecher, born 1749/50 in Bucks County. It says he died 15 Jun 1831 in Washington County, PA, and was buried at the Dutch Lutheran Cemetery, Ginger Hill. It names his wife as 'Elizabeth Brotzman or Doll' (S1). The wife's profile (Doll-526, b. Apr 1753, d. 4 May 1829) is an unsourced 2015 GEDCOM import from an Ancestry tree (S2).",
+  "conflicts": [
+    {
+      "field": "wife's maiden name",
+      "siteValue": "Elizabeth Doll (daughter of Johann Casper Doll)",
+      "foundValue": "'Elizabeth Brotzman or Doll' (WikiTree Stecher-38)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Uncertain. Her Doll identity, and so this couple's link to Casper Doll, rests on an unsourced Ancestry-tree import. A move to Washington Co. also takes this couple away from the Forks Twp. Stechers who married into the Grubs."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0216",
+      "evidence": "WikiTree GEDCOM import only",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "candidate"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "possible",
+    "justification": "Vital data from Find a Grave via WikiTree; the Doll marriage is questioned by the same source."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "WikiTree profile Stecher-38 (Christopher Stacher), citing Find a Grave 78699319",
+      "url": "https://api.wikitree.com/api.php?action=getProfile&key=Doll-526&fields=Name,FirstName,BirthDate,DeathDate,Spouses,Bio&bioFormat=text",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, parents, death, burial, wife 'Brotzman or Doll' (read via WikiTree API getProfile Doll-526 spouse data)"
+    },
+    {
+      "ref": "S2",
+      "citation": "WikiTree profile Doll-526 (Elizabeth Doll), GEDCOM import 2015",
+      "url": "https://api.wikitree.com/api.php?action=getProfile&key=Doll-526&fields=Name,FirstName,BirthDate,DeathDate,Spouses,Bio&bioFormat=text",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "wife's dates; unsourced"
+    }
+  ],
+  "researchLogEntry": "Round 4: WikiTree/Find a Grave give him as Christopher Stacher (1749/50-1831), buried Ginger Hill, Washington Co.; wife named 'Elizabeth Brotzman or Doll', so the Doll link is doubtful.",
+  "researchedAt": "2026-10-08"
+}

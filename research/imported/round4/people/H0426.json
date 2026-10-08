@@ -1,0 +1,40 @@
+{
+ "id": "H0426",
+ "name": "Claire P. Lydon",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1903",
+   "place": "Pennsylvania",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Claire Patricia Lydon"
+  ],
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1927-04-18",
+    "place": "Luzerne Co., Pa.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch: daughter of Patrick J. Lydon (1857-1930) and Clara Kimmett (1863-1954); married George P. Heffernan 18 Apr 1927 (S1).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Claire Patricia Lydon (b. 1903), PID LB2V-DTH; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents, marriage, 1930 census",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LB2V-DTH"
+  }
+ ],
+ "researchLogEntry": "Round 4: parents and marriage date from FS."
+}

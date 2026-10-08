@@ -1,0 +1,20 @@
+{
+  "id": "M0062",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: cousin of I282608065309 (probable)."
+  },
+  "tags": [],
+  "summary": "Miller of Smithtown, a 1798 partner in the Blydenburgh mill",
+  "bio": "Miller of Smithtown, a 1798 partner in the Blydenburgh mill. Pelletreau's Blydenburgh genealogy traces him from Joseph Blydenburgh 1st and Deborah Smith (daughter of Jonathan, eldest son of Bull Smith) through Richard Blydenburgh 1st (1694-1772) and Benjamin. Path from Bull Smith: Jonathan -> Deborah -> Richard 1st -> Benjamin -> Isaac, 5 generations: 4th cousin 7 times removed. (Joseph 1st's later children by his second wife 'Collosia', including Joseph 1732-1833, are not Smith descendants.)",
+  "sources": [
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 483-486 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-601 → M0062; research/imported/round4/new_people.json."
+    }
+  ]
+}

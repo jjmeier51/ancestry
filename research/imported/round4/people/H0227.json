@@ -1,0 +1,28 @@
+{
+  "id": "H0227",
+  "name": "Jonathan Browne",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "conflicts": [
+    {
+      "field": "death.date",
+      "siteValue": "1710",
+      "foundValue": "Salmon Record: 'Jonathan Brown died' 18 Sept, within the 1704 run of entries",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Possibly a different Jonathan Brown; unresolved."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "The Salmon Records: a private register of marriages and deaths of the residents of the town of Southold, 1696-1811 (NYG&B, 1918), full text searched",
+      "url": "https://archive.org/details/salmonrecordspri00salm",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "a Jonathan Brown died 18 Sept [1704]"
+    }
+  ],
+  "researchLogEntry": "Round 4: Salmon Record death entry (1704) conflicts with the 1710 date."
+}

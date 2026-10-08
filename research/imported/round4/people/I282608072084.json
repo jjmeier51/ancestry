@@ -1,0 +1,52 @@
+{
+  "id": "I282608072084",
+  "name": "Vicar CHRISTOPHER (Horne) Vicar of St. Edmund's at Southwold 1611-1626 Yonges \\ YOUNGES of Brynyorken \\ Youngs",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1626-06-14",
+      "place": "Southwold, Suffolk, England",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Youngs Family (1907) gives Rev. Christopher Yonges b. England about 1545, d. Southwold 14 June 1626, buried in the chancel under a brass tablet. His wife was **Margaret**, buried 5 Nov 1630, whose will of 27 Oct 1630 names her six children John, Joseph, Christopher, Mary, Margaret and Martha (S1). The tree's birth of 21 Nov 1575 and wife Johanna Horne are not supported, and the book names no father. He is in any case not an ancestor of John's on present evidence (see Rev. John Youngs).",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "Tree: Johanna Horne",
+      "foundValue": "Margaret (buried 5 Nov 1630, will 1630)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "The tree is unsupported; Youngs 1907 gives Margaret."
+    },
+    {
+      "field": "birth.date",
+      "siteValue": "21 Nov 1575",
+      "foundValue": "about 1545",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "The tree is unsupported."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "possible",
+    "justification": "Not an ancestor on present evidence (Youngs link disproven); the tree's details are also unsupported."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Selah Youngs Jr., Youngs Family: Vicar Christopher Yonges, his ancestors in England and his descendants in America (1907), pp. 38-41 (First and Second Generations)",
+      "url": "https://archive.org/details/youngsfamilyvica00youn",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Rev. Christopher Yonges: dates, wife Margaret, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: Youngs 1907 gives wife Margaret, not Johanna Horne; not ancestral."
+}

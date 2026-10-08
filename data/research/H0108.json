@@ -7,10 +7,11 @@
   "sex": "F",
   "tags": [],
   "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1906, listed in the 1910 census (Plymouth/Larksville) household. No further research done.",
+  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1906, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch records Helen R. Pringle's marriage at Wilkes-Barre on 16 Sep 1931 to William J. Toole (1905-1976). At the time she lived at 28 Huston Street, the address her sister Florence gave at her own 1926 marriage. FamilySearch places the Tooles at Marion, Ohio, in 1940 and gives Helen's death date as 13 Apr 1992 ([R4-S1]). Her younger sister Katherine married a Daniel F. Toole.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
-    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11"
+    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
+    "[R4-S1] FamilySearch published tree, Helen Pringle (LHC3-KMF), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LHC3-KMF"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,55 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives m. 1931 William J. Toole, Marion, Ohio in 1940, and d. 13 Apr 1992."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0108.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1906",
+      "found": "1905-1906",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "birth": {
+    "date": "1906",
+    "place": "Plymouth, Luzerne Co., PA"
+  },
+  "death": {
+    "date": "1992-04-13"
+  },
+  "residences": [
+    {
+      "date": "1931",
+      "place": "28 Huston Street, Wilkes-Barre",
+      "note": "Same address as her sister Florence in 1926 [R4-S1]"
+    },
+    {
+      "date": "1940",
+      "place": "331 Franklin Street, Marion, Ohio",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1931-09-16",
+      "place": "Wilkes-Barre",
+      "description": "To William J. Toole (1905-1976) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LHC3-KMF"
     }
   ]
 }

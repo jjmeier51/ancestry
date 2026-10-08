@@ -1,0 +1,73 @@
+{
+  "id": "H0300",
+  "name": "Theodorus Bailey",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "12 Apr 1805",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "10 Feb 1877",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Pelletreau's Bailey page (S1) gives his line: Bull Smith -> Richard 2d -> Richard 3d (b. 16 Apr 1696) -> Phebe (b. 19 Aug 1743, m. 10 Nov 1776 Nathaniel Platt, a founder of Plattsburgh) -> Phebe (m. Judge William Bailey of Plattsburgh) -> Theodorus: 4th cousin 7 times removed. His wife Sarah Ann Platt was also a cousin, closer through Job Smith (Job 1st -> Job 2d -> Anna -> Richard 4th -> Dorothy (m. Isaac S. Platt) -> Sarah Ann: 4C6R), so their children descend from Bull Smith by several lines, as Pelletreau's five descent tables show.",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Path stated in Pelletreau with dated generations."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 471-473",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Bailey family page with descent tables; Richard 3d's children (Phebe b. 19 Aug 1743 m. Nathaniel Platt 10 Nov 1776); Platt lineage"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Commodore Theodorus Bailey, Mathew Brady studio",
+      "date": "c. 1860-1865",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Commodore_Theodorus_Bailey_-_NARA_-_528661.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Commodore_Theodorus_Bailey_-_NARA_-_528661.jpg",
+      "repository": "U.S. National Archives (NARA 528661) via Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0300/theodorus-bailey-brady-nara.jpg",
+      "people": [
+        "H0300"
+      ],
+      "suggestedFile": "media/H0300/theodorus-bailey-brady-nara.jpg",
+      "note": "Public domain (US government / Brady). 1280px derivative."
+    },
+    {
+      "type": "portrait",
+      "title": "Admiral Theodorus Bailey (Portrait Monthly of the New York Illustrated News)",
+      "date": "Feb 1864",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Admiral_Theodorus_Bailey.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Admiral_Theodorus_Bailey.jpg",
+      "repository": "Wikimedia Commons (from archive.org portraitmonthlyo00newy)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0300"
+      ],
+      "suggestedFile": "media/H0300/theodorus-bailey-portrait-monthly-1864.jpg",
+      "note": "Public domain (published 1864); Commons credit line misprints the year as 1894."
+    }
+  ],
+  "researchLogEntry": "Round 4: path and wife's (closer) descent from Pelletreau; two PD images downloaded.",
+  "researchedAt": "2026-10-08"
+}

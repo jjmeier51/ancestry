@@ -1,0 +1,74 @@
+{
+  "id": "I282695486653",
+  "name": "Anna Tuthill",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "Oct 1741",
+      "place": "",
+      "sourceRefs": []
+    }
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "NEW-603",
+      "evidence": "Akerly: Henry Tuthill (b. before 1715, d. 1793) m. 1738 Phoebe Horton; 'Henry's grand-da., Anna Symmes, m. President Wm. Henry Harrison'. Anna Tuthill is the daughter through whom that descent runs.",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "spouse",
+      "personId": "I282695486702",
+      "evidence": "Wikipedia (John Cleves Symmes / Anna Harrison).",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Her descent, step by step from Akerly (S1): John Tuthill (1635-1717) -> Henry Tuthill 'the Justice' (b. 1 May 1665, d. 1750, m. Bethia Horton, dau. of Capt. Jonathan Horton & Bethia Wells) -> Henry (b. 1690, d. 1775, m. 1st Hannah, d. 1715) -> Henry (b. before Dec 1715, d. 17 Sep 1793, m. 16 Mar 1738 Phoebe Horton, dau. of Caleb, son of Caleb, son of Caleb, son of Barnabas Horton) -> Anna. She is therefore 4 generations below John Tuthill (1635), John's 12th-great-grandfather: 3C8R. She descends from William Wells (John's 11th-great-grandfather) through Bethia Wells -> Bethia Horton: 3C8R by that route too, and twice from Barnabas Horton (see openQuestionsNew).",
+  "conflicts": [
+    {
+      "field": "birth.place",
+      "siteValue": "Henry Tuthill",
+      "foundValue": "(field holds her father's name, not a place)",
+      "sourceRefs": [],
+      "assessment": "Data-entry error from the SAR import; the place should be blank or Southold/Long Island; 'Henry Tuthill' belongs in the father field."
+    },
+    {
+      "field": "family links",
+      "siteValue": "Child record I282695486703 lists Anna Tuthill as FATHER and John Cleves Symmes as MOTHER",
+      "foundValue": "Anna Tuthill is the mother, Symmes the father",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Parent roles are swapped on the child's record; fix."
+    }
+  ],
+  "openQuestionsNew": [
+    "Barnabas Horton route: Anna's mother Phoebe Horton (Caleb-Caleb-Caleb-Barnabas) and grandmother Bethia Horton (Jonathan-Barnabas) both descend from Barnabas Horton, whom Round 3 places 13 generations above John via Rachel Browne (probable, compiled). If that holds, Anna is also a 4C9R twice over through Barnabas Horton."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 8-10",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Tuthill generations Henry (1665) -> Henry (1690) -> Henry (m. Phoebe Horton 1738); grand-daughter Anna Symmes"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'John Cleves Symmes' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/John_Cleves_Symmes",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Symmes, father-in-law of W. H. Harrison"
+    }
+  ],
+  "researchLogEntry": "Round 4: Akerly traced her line John (1635) -> Henry -> Henry -> Henry -> Anna; birthplace field error and swapped parent roles flagged.",
+  "researchedAt": "2026-10-08"
+}

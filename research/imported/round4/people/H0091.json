@@ -1,0 +1,48 @@
+{
+  "id": "H0091",
+  "name": "Suzanne La Tour",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Godmother",
+        "date": "May 1700",
+        "place": "French Church, New York",
+        "description": "'Susanne de la tour' godmother, with Jean Coutant, to Susanne Garnier, daughter of Isaac Garnier and Elizabet Doublet",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Godmother to grandson",
+        "date": "29 May 1720",
+        "place": "French Church, New York",
+        "description": "'Susanne la Moureux' godmother to Daniel, son of Daniel and Jeanne Lamoureux",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The French Church of New York register has a 'Susanne de la tour' as godmother in May 1700, the month André Lamoureux is first recorded in New York (S1). This is probably André's wife, using her maiden name in the French manner. In 1720 a 'Susanne la Moureux' was godmother to her grandson Daniel; the Davenport genealogy treats this as her last appearance (S1, S2).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York (Huguenot Soc. Collections vol.1, 1886), pp.72 and 155",
+      "url": "https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "sponsorships 1700 and 1720"
+    },
+    {
+      "ref": "S2",
+      "citation": "Giles, Thomas Davenport, Pioneer, and His Descendants, Section X p.355",
+      "url": "https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "last mention 1720"
+    }
+  ],
+  "researchLogEntry": "Round 4: French Church register shows 'Susanne de la tour' as godmother in May 1700 (probable) and 'Susanne la Moureux' in 1720."
+}

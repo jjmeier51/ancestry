@@ -1,0 +1,86 @@
+{
+  "id": "I282608055634",
+  "name": "Temperance Smith",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Temperance is now named as a daughter of James Smith & Jerusha Topping of Moriches in two independent printed genealogies that predate Alva Tuttle (1968). Pelletreau (1898) lists the children as Matthew (b. 3 Sept 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah (S1). C. H. Weygant's Family Record (1897), written for the Weygant family, who married into Capt. Francis Smith's line, lists nine children: Nathan [sic, for Matthew], Ezekiel, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jerusha (S2). Neither source names her husband, so the step 'this Temperance = Mrs. John Tuthill' still rests on Alva Tuttle and on circumstantial evidence. That evidence is the Woodbury Clove militia under her brothers and the naming of Keturah's children.\n\nTwo cautions. (1) Her first cousin, Temperance daughter of Job Smith 2d, was born 19 June 1714 (S1). She is too old to be Mrs. Tuthill (m. 1752), but she is a likely source of confusion in online trees. (2) The eldest brother Matthew was born in 1721, so Temperance, as one of the youngest, fits a birth c.1732-35.",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "I282608065087",
+      "evidence": "Named among James Smith's children by Pelletreau (1898) and Weygant (1897); Alva Tuttle (1968) supplies the marriage to John Tuthill",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "parent",
+      "personId": "I282608065103",
+      "evidence": "Same sources",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsResolved": [
+    {
+      "question": "F. K. Smith (1967) entry under James Smith of Moriches: does it name Temperance as Mrs. John Tuthill?",
+      "answer": "Still unread. The book is borrow-only on archive.org (familyofrichards00smit), and its full-text search endpoint returned 'Item not available'. WikiTree Smith-105759 cites it at p. 91 but does not quote it. Partly answered instead by Pelletreau and Weygant, who both list Temperance but give no husband.",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "parents (mother's parentage)",
+      "siteValue": "Jerusha Topping, daughter of Elnathan Topping Jr. (research) / Josiah Topping & Hannah Sayre (tree)",
+      "foundValue": "Weygant 1897: daughter of Elnathan Topping Jr., son of Capt. Elnathan; Genealogies of the State of New York vol. 2 (as quoted on WikiTree): daughter of 'Jonathan (2) and Mary Topping'",
+      "sourceRefs": [
+        "S2",
+        "S3"
+      ],
+      "assessment": "Weygant (1897) independently supports the Elnathan Jr. identification. 'Jonathan' looks like a misreading of Elnathan, since Elnathan Jr.'s wife was also Mary. The Josiah/Sayre version (C. E. Topping 1980) stays rejected."
+    }
+  ],
+  "openQuestionsNew": [
+    "Borrow F. K. Smith 1967 (archive.org familyofrichards00smit) and read p. 91 and the James Smith entry for the Tuthill marriage."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Temperance among the children of James Smith & Jerusha Topping; cousin Temperance b. 1714, dau. of Job 2d"
+    },
+    {
+      "ref": "S2",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Temperance among the nine children of James Smith & Jerusha (dau. of Elnathan Topping Jr.)"
+    },
+    {
+      "ref": "S3",
+      "citation": "WikiTree Smith-141655 (Temperance Smith), biography read via api.wikitree.com: quotes Alva Tuttle p. 311; Charles E. Topping, Topping Genealogy (1980) p. 392 / Vail Family notes (NYG&B) giving Josiah & Hannah (Sayre) Topping; and Genealogies of the State of New York vol. 2 giving Jerusha as daughter of 'Jonathan (2) and Mary Topping'",
+      "url": "https://www.wikitree.com/wiki/Smith-141655",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "conflicting printed parentages for Jerusha; Alva Tuttle p. 311 quotation"
+    }
+  ],
+  "searchedNoResult": [
+    "NY marriage licenses before 1784 (1860 printed list, full text): no Tuthill/Tuttle-Smith license; no Lamoreaux-Tuthill license",
+    "Abstracts of Wills, NY Surrogate (NYHS Collections), all volumes 1730-1784 on archive.org, full text: no will or administration for John Tuthill of Cornwall/Woodbury Clove, James Tuthill (d. c.1772) or Temperance Tuthill; no will of James Smith of Moriches",
+    "archive.org full-text search inside F. K. Smith 1967 (borrow-only): blocked ('Item not available')"
+  ],
+  "researchLogEntry": "Round 4: Weygant's Family Record (1897) gives a second pre-1968 printed source naming Temperance as daughter of James Smith & Jerusha Topping; no marriage record found."
+}

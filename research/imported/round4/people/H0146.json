@@ -1,0 +1,51 @@
+{
+  "id": "H0146",
+  "name": "Benjamin Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "burial": {
+      "place": "Larksville, Luzerne Co., PA (FamilySearch)",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1840",
+        "place": "Plymouth Twp ('Benjn Pringle', head aged 50-60, a few households above Saml and James Pringle)",
+        "note": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L7XP-VKX"
+      }
+    ]
+  },
+  "bioAdditions": "In the 1840 census of Plymouth Twp, 'Benjn Pringle' heads a household of about ten, a few lines above Saml Pringle and James Pringle (S2). The age column for the head reads 50-60, which is older than his 1794 birth date suggests. FamilySearch attaches a Minnesota death record of his daughter Bethia (Pringle) Roberts naming 'Benj. Pringle' as her father, which extends the 'Bethia, Iowa' line in the existing bio, and gives his burial at Larksville (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Benjamin Pringle (L7XP-VKX), citing Minnesota County Deaths (daughter Bethia Roberts) and Pennsylvania Deaths and Burials",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L7XP-VKX",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "burial; daughter's death record"
+    },
+    {
+      "ref": "S2",
+      "citation": "1840 US census, Plymouth Twp, Luzerne Co., PA (enumerator Chester Tuttle), page with Benjn, Saml and James Pringle",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KL4L-R8P/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "1840 household"
+    }
+  ],
+  "researchLogEntry": "Round 4: 1840 Plymouth Twp household found near Samuel and James; FamilySearch has his daughter Bethia's Minnesota death record."
+}

@@ -7,10 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 1st cousin 5x removed (Kingston branch); Wyoming Seminary treasurer, bank founder and Free Soil/anti-slavery-extension organizer.",
-  "bio": "Alexander J. Pringle (1824-1881), of the Kingston branch, was a trustee and treasurer of Wyoming Seminary, a founder of a Wilkes-Barre savings bank, and an organizer in 1856 of the Luzerne County party opposing the extension of slavery into free territories.",
+  "bio": "Alexander J. Pringle (1824-1881), of the Kingston branch, was a trustee and treasurer of Wyoming Seminary, a founder of a Wilkes-Barre savings bank, and an organizer in 1856 of the Luzerne County party opposing the extension of slavery into free territories.\n\nAlexander Jameson Pringle was the youngest son of Thomas Pringle (d. Kingston 22 May 1861) and Elizabeth Harvey (d. Kingston 26 May 1868). He was born in Plymouth on 3 Sep 1824 and moved with the family to Kingston in 1837. He worked on his father's farm until he was past 21, then studied at Wyoming Seminary. He taught school in Kingston, and from about 1853 to 1862 he ran the principal public school in Wilkes-Barre. After 1862 he was a merchant and acted as executor, administrator or trustee of several large estates. He was a trustee of Wyoming Seminary from 1860 and its treasurer from 1872, led the Kingston M.E. choir, and helped found the Wilkes-Barre Deposit and Savings Bank in 1871, serving as its secretary. He married Mary Price at Kingston on 21 Oct 1858. Their only child was Nelson George Pringle (H0143). He had a stroke in church on 24 Jul 1881 and died on 12 Aug 1881 ([R4-S1]). His siblings were Sarah (Mrs. Elias Culver), Rosanna Harvey, Martha (d. infant), Samuel (twin of Martha; life director of Wyoming Seminary), Millicent, and the twins George Lane (H0144) and Caroline.",
   "sources": [
     "Harvey Book: https://archive.org/details/harveybookgiving00harv",
-    "Harvey & Smith vol. VI p.378: https://archive.org/details/historyofwilkesb06harv"
+    "Harvey & Smith vol. VI p.378: https://archive.org/details/historyofwilkesb06harv",
+    "[R4-S1] Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle (secondary) https://archive.org/details/harveybookgiving00harv"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,61 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0141, proven): Harvey Book p.137: child viii of Thomas and Elizabeth (Harvey) Pringle"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0434, proven): same"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0143, proven): Harvey Book p.138: 'only child Nelson George Pringle'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Harvey Book pp.137-138 gives b. Plymouth 3 Sep 1824, d. 12 Aug 1881, marriage 21 Oct 1858 to Mary Price, teaching, bank and seminary roles."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0142.json."
+    }
+  ],
+  "birth": {
+    "date": "1824-09-03",
+    "place": "Plymouth, Luzerne Co., PA"
+  },
+  "death": {
+    "date": "1881-08-12",
+    "place": "Kingston, Luzerne Co., PA"
+  },
+  "occupation": "Schoolteacher (Kingston; Wilkes-Barre public schools c.1853-1862), merchant, estate trustee, bank secretary",
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1858-10-21",
+      "place": "Kingston, Luzerne Co., PA",
+      "description": "Married Mary Price (b. Pittston 4 Oct 1833), daughter of George Price (b. England 1804, d. Kingston 2 Nov 1859) and Clarissa Cooper. [R4-S1]"
+    },
+    {
+      "title": "Trustee of Wyoming Seminary",
+      "date": "1860-1881",
+      "place": "Kingston, PA",
+      "description": "On the Board of Trustees from 1860 and its Treasurer from 1872 until his death. Also trustee and treasurer of the Forty Fort Cemetery Association and of the Kingston M.E. Church; directed the building of the new church in 1872-73. [R4-S1]"
+    },
+    {
+      "title": "Helped organize the Wilkes-Barre Deposit and Savings Bank",
+      "date": "1871",
+      "place": "Wilkes-Barre, PA",
+      "description": "A director and its Secretary from the beginning. [R4-S1]"
+    },
+    {
+      "title": "Stroke in church",
+      "date": "1881-07-24",
+      "place": "Kingston M.E. Church",
+      "description": "Had an attack of paralysis at Sunday service; a second attack a week later; died 12 Aug 1881. [R4-S1]"
     }
   ]
 }

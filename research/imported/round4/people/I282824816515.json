@@ -1,0 +1,96 @@
+{
+ "id": "I282824816515",
+ "name": "Francesca Augostina (Faustina) Ferlaino",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "3 Feb 1880 (burial)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S3"
+   ]
+  },
+  "aka": [
+   "Francesca Angelina",
+   "Agostina",
+   "Faustina"
+  ]
+ },
+ "bioAdditions": "The baptism on the tree's date, 25 February 1797, is of Francesca Angelina Ferlaino, daughter of Giuseppe Antonio Ferlaino and Rosa Gallo (S1). Her parents are new to the tree. She married Rosario Iera as 'Agostina' on 26 February 1812, aged about 15 (S2). She was buried as Faustina on 3 February 1880 (S3). The burial index gives her age as 90 and her late husband as 'Joseph'. That may be an index slip for Rosario, son of Giuseppe. The run of names (Angelina, Agostina, Faustina) needs checking on the images.",
+ "conflicts": [
+  {
+   "field": "name",
+   "siteValue": "Francesca Augostina",
+   "foundValue": "Francisca Angelina (baptism index)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Check image (Book 6, img 214)."
+  },
+  {
+   "field": "death.date",
+   "siteValue": "2 Feb 1880",
+   "foundValue": "3 Feb 1880 (burial)",
+   "sourceRefs": [
+    "S3"
+   ],
+   "assessment": "Consistent (burial next day)."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "NEW-809",
+   "evidence": "Baptism names father Giuseppe Antonio Ferlaino",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824816508",
+   "evidence": "Marriage 1812",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Marriage and burial indexed; baptism identification rests on the tree date plus name match (Angelina vs Agostina)."
+ },
+ "openQuestionsNew": [
+  "Confirm on Book 6 image 214 that Francisca Angelina (1797) is the later Agostina/Faustina."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 214, p. 418, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Francisca Angelina Ferlaino bapt. 25 Feb 1797, father Josepho Antonio Ferlaino, mother Rosa Gallo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 5, p. 4, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 26 Feb 1812 of Rosario Iera and Agostina Ferlaino (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1877-1893 (Book 30), image 17, p. 28, no. 4; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1877-1893'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 3 Feb 1880: Faustina Ferlaino, 90, widow; spouse indexed as \"Joseph\" (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 25 Feb 1797 as Francisca Angelina (parents Giuseppe Antonio Ferlaino and Rosa Gallo, new); marriage 1812; burial 3 Feb 1880."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "M0076",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of H0075 (proven); spouse of H0079 (proven); child of H0082 (probable); child of H0413 (probable)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Reichenbach Lutheran register, baptisms 1702 p.42 (Elisabetha Margretha Lampert) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L58R-7JQ/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch published tree, Maria Sara Jung (MCWN-N5Z) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/MCWN-N5Z"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-302 → M0076; research/imported/round4/new_people.json."
+    }
+  ]
+}

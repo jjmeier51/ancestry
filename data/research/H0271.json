@@ -7,10 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 1st cousin 10x removed; master of the Hauppauge estate; first cousin of John's 8th-great-grandfather James Smith, whose land bordered his.",
-  "bio": "When the town was divided among Bull Smith's heirs, the Hauppauge land fell to Daniel 2d and his sister Deborah; he bought out her share and left it to sons Caleb and Joshua (Wood p. 25). On 10 Apr 1736 he received land 'on the right of his father Daniel Smith deceased', including 493 acres at the head of the river joining the Islip line (Pelletreau pp. 236, 248). His unexecuted will gives 'my fourth son Joshua' the Hauppauge Neck, 'south by Islip line, west by the river, north by the north east branch', 893 acres (pp. 359–363). Married Hannah Brewster (1698–1761) — hence the name Joshua Brewster Smith; whether she is of the same Brewster family as John Thompson's supposed wife is unproven. Grandfather of Sen. Gen. John Smith (via daughter Mary).",
+  "bio": "When the town was divided among Bull Smith's heirs, the Hauppauge land fell to Daniel 2d and his sister Deborah; he bought out her share and left it to sons Caleb and Joshua (Wood p. 25). On 10 Apr 1736 he received land 'on the right of his father Daniel Smith deceased', including 493 acres at the head of the river joining the Islip line (Pelletreau pp. 236, 248). His unexecuted will gives 'my fourth son Joshua' the Hauppauge Neck, 'south by Islip line, west by the river, north by the north east branch', 893 acres (pp. 359–363). Married Hannah Brewster (1698–1761) — hence the name Joshua Brewster Smith; whether she is of the same Brewster family as John Thompson's supposed wife is unproven. Grandfather of Sen. Gen. John Smith (via daughter Mary).\n\nPelletreau ([R4-S1]): born 1691, died 13 Jan 1763; children by Hannah Brewster: Daniel (1720-95), Obadiah (1722-94), Caleb (1724-1800), Ruth (b. 1726, m. Job Smith 2d), Deborah (b. 1729, 2nd wife of Epenetus Smith 1st), Joshua (b. 1732), Mary (b. 1735, m. Judge William Smith; mother of Senator John Smith) and Micah (b. 1739). His second wife was Tabitha Floyd, sister of the signer William Floyd; after his death she married Daniel Reeve and died 27 May 1812 aged 78. Through his son Obadiah he was grandfather of Mary Smith, wife of the Culper spymaster Abraham Woodhull.",
   "sources": [
     "Pelletreau (1898) pp. 236, 248, 359–363; App. pp. 476–478",
-    "Wood (1920) p. 25"
+    "Wood (1920) p. 25",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476-477 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -21,6 +22,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: death date, full child list and second marriage (Tabitha Floyd) from Pelletreau."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0271.json."
     }
   ],
   "media": [
@@ -32,5 +41,8 @@
       "note": "Daniel Smith, 1691-00-00 – 1763-01-13",
       "url": "https://www.wikitree.com/wiki/Smith-40117"
     }
-  ]
+  ],
+  "death": {
+    "date": "1763-01-13"
+  }
 }

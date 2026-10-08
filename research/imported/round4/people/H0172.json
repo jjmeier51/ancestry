@@ -1,0 +1,37 @@
+{
+  "id": "H0172",
+  "name": "Hannah Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LX9Q-7VC"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch's Hannah in Thomas Lamoreaux's family (b. 28 Apr 1784 Monroe, d. 19 Jul 1830) married Zachariah Ostrom at Pleasant Valley, Dutchess Co., in 1804 and Nicholas Nelson in 1816, and lived in Dutchess Co. (S1). That does not fit the site's Hannah, who married Stephen Van Loon, the Luzerne sheriff. The FamilySearch profile probably attaches a different Hannah Lamoree from Dutchess to Thomas's family, and her dates should not be taken over.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Hannah Lamoreaux (LX9Q-7VC), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LX9Q-7VC",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch's Hannah (m. Ostrom, then Nelson, in Dutchess) is probably a different woman; no new data for Hannah Van Loon.",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "Stephen Van Loon",
+      "foundValue": "Zachariah Ostrom (1804) and Nicholas Nelson (1816), Dutchess Co. (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Probably a different Hannah attached in error; keep the site's version, which rests on Thomas's will."
+    }
+  ]
+}

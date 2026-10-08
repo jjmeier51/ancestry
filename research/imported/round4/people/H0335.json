@@ -1,0 +1,69 @@
+{
+ "id": "H0335",
+ "name": "Savino Giannetta",
+ "status": "researched",
+ "updates": {
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "2SZL-LPB"
+   }
+  ]
+ },
+ "bioAdditions": "According to the FamilySearch tree, Savino (b. 12 Jan 1842, Bisaccia) was named after an elder brother Savino (1838–1841) who died in infancy, and after his grandfather Savino Giannetta (c.1786–1853) (S1, S2). The tree lists these children of Savino and Angelamaria Fede: Francesco 'Frank' (2 May 1869), Lucia (14 Apr 1872), Antonio (14 Feb 1874 – 3 Nov 1903), Lucia (19 Feb 1877 – 17 Aug 1878), Maria Giuseppa 'Josephine' (11 Mar 1880; later Mrs. Michele Ragazzo of Hartford, CT), Nunzianda (c.1885 – 10 Mar 1888) and Bartolomeo (5–25 Jul 1889) (S1). The repeated names and early deaths reflect the high infant mortality in Bisaccia. The 1896 marriage act (Round 3) shows Savino still living then. His death date is not in the tree.",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "NEW-701",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-702",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "parent",
+   "personId": "H0341",
+   "evidence": "1867 marriage act (Round 3) and FS tree",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "openQuestionsNew": [
+  "Savino's death (after Aug 1896), Bisaccia civil death registers (1896-1910) at FamilySearch/AS Avellino."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile 2SZL-LPB (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-LPB",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth 12 Jan 1842; children list (via child profiles)"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile 2SZL-WWJ (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WWJ",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Grandfather Savino Giannetta c.1786-1853"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images (ancestors.familysearch.org published-source image URLs) return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS tree supplies seven children of Savino and Angelamaria Fede (Frank's siblings), incl. Josephine Ragazzo of Hartford, CT.",
+ "researchedAt": "2026-10-08"
+}

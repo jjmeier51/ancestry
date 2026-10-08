@@ -1,0 +1,26 @@
+{
+ "id": "H0372",
+ "name": "Rosa Giannetta",
+ "status": "researched",
+ "bioAdditions": "Rosa (FS: b. 1914, no sources) is not in the household in the January 1920 census, which lists every other child born before 1916 who was not yet married (S1). She probably died in early childhood, before 1920. No death record was found.",
+ "openQuestionsNew": [
+  "Death of Rosa Giannetta/Genett c.1914-1919, Dunmore (PA death index 1914-1919, G volume)."
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "possible",
+  "justification": "Only FS tree, unsourced; absent from 1920 census."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1920 US census, Dunmore borough Ward 5, ED 48, sheet 8B (10 Jan 1920), 133 Sand Street: Frank 'Genet' (51, head, owned with mortgage, immigrated 190-, alien, laborer R.R. shops), Angelina (46, imm. 1909, alien), Sam (21), Marion (20), Anthony (12, imm. 1909), Molly (9, b. PA), Joseph (8), and a son aged 4. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:MFTM-GCK).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1920 Giannetta household; Frank worked in railroad shops; Rosa (b. 1914) not in household"
+  }
+ ],
+ "researchLogEntry": "Round 4: absent from the 1920 census; probably died young.",
+ "researchedAt": "2026-10-08"
+}

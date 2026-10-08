@@ -1,0 +1,23 @@
+{
+ "id": "I282824816231",
+ "name": "GIOSEPPE (JOSEPH) MALETTA",
+ "researchedAt": "2026-10-08",
+ "status": "nothing_new",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1687-1713 (Book 3), image 150, p. 259, no. 3; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Vincenza Castagnaro buried 24 Mar 1700, wife of Joseph Maletta (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "San Mango baptism index 1653-1672 (begins 1653): no baptism for c.1634",
+  "San Mango death index to 1713: no certain burial",
+  "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+  "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+ ],
+ "researchLogEntry": "Round 4: named as father at daughter Anna Gioanna's 1666 baptism and as husband at Vincenza Castagnaro's 1700 burial; no own record."
+}

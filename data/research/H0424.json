@@ -9,6 +9,45 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: parents, earlier DC marriage, death and burial from FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0424.json."
     }
+  ],
+  "birth": {
+    "date": "1891-08-08"
+  },
+  "death": {
+    "date": "1972-11-14"
+  },
+  "burial": {
+    "place": "Mount Olivet Cemetery, Washington, D.C."
+  },
+  "aka": [
+    "Mathilde C. Payne",
+    "Mathilde Payne McLaughlin"
+  ],
+  "events": [
+    {
+      "title": "First marriage",
+      "date": "1911-11-21",
+      "place": "District of Columbia",
+      "description": "Married William B. Cucey Jr. (DC marriage record) [R4-S1]"
+    },
+    {
+      "title": "Marriage to Leo G. Heffernan",
+      "date": "1915-12-24",
+      "place": "Chicago, Ill.",
+      "description": "[R4-S1]"
+    }
+  ],
+  "bio": "FamilySearch: daughter of Richard Payne and Maria Colton; first married William B. Cucey Jr. in Washington, D.C., on 21 Nov 1911, then Leo G. Heffernan at Chicago on 24 Dec 1915; later Mrs. McLaughlin; died 14 Nov 1972, buried Mount Olivet, Washington ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Mathilde Payne (1891-1972), PID GKWS-2TR; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GKWS-2TR"
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "id": "I282824815883",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815900, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815921, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824815873, proven): Marriage"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 25 May 1692, marriage 1713, burial 10 Jan 1762."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815883.json."
+    }
+  ],
+  "bio": "Anna Maria was born on 25 May 1692, daughter of Ferdinando Maletta and Isabella Moraca ([R4-S1]). She married Antonio Villella on 24 July 1713 ([R4-S2]) and was buried as a widow on 10 January 1762 ([R4-S3]).",
+  "link": {
+    "confidence": "probable",
+    "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1687-1713 (Book 3), image 25, p. 47, no. 11; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 4, p. 2, no. 4; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1747-1767 (Book 25), image 58, p. 109, no. 1; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
+  ]
+}

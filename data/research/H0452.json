@@ -1,14 +1,48 @@
 {
   "id": "H0452",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): Marriage and baptisms in the contemporary register (published)."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Marriage and baptisms in the contemporary register (published)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0198, proven): French Church of NY marriage, 6 Aug 1693"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found her 6 Aug 1693 marriage to Daniel Mercereau (she of La Rochelle) and three children's baptisms in the French Church of NY registers."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0452.json."
     }
+  ],
+  "birth": {
+    "place": "La Rochelle, France"
+  },
+  "aka": [
+    "Marie Susanne Dousinet"
+  ],
+  "events": [
+    {
+      "title": "Marriage to Daniel Mercereau",
+      "date": "1693-08-06",
+      "place": "French Church, New York",
+      "description": "By Pierre Peiret after banns on three Sundays; Daniel of the bourg of Moëze in Saintonge, she of the city of La Rochelle. Marks/signatures of 'the sieur Doucinet', D. Mercereau, Elisabet Dubois (mark), Marie Mercereau (mark), Suzanne Doucinet (mark), Susanne Ratier, Josué Mercereau, Elie Masse, Pierre Masse, Ezechiel Grazillier, Jean La Tourette, René Rezeau. [R4-S1]"
+    }
+  ],
+  "bio": "Suzanne Marie Doucinet, of La Rochelle, married Daniel Mercereau of Moëze in Saintonge at the French Church of New York on Sunday 6 Aug 1693. The register carries the mark of 'the sieur Doucinet' and that of Elisabet Dubois, the groom's mother, among the witnesses ([R4-S1]). The sieur Doucinet was probably Estienne Dousinet, a shoemaker of New York who appears as a sponsor in the same register. Earlier that summer (25 Jun 1693) 'Marie Susanne Doucinet' had been godmother, with Jean La Tourette, to Pierre, son of Pierre Masse and Elisabet Mercereau, and she could only make her mark ([R4-S1]). Children baptized: Daniel (b. 10 Aug 1695, bapt. 18 Aug 1695, sponsors Pierre Masse and Judy Pare), Susanne Marie (b. 8 Jul 1697, bapt. 18 Jul 1697) and Marianne (b. 31 Oct 1699, bapt. 5 Nov 1699, sponsors Joshue Mercereau and Jeanne Jamain) ([R4-S1]).",
+  "sources": [
+    "[R4-S1] Collections of the Huguenot Society of America, vol. I (1886): registers of the French Church (Eglise Françoise à la Nouvelle York), transcribed (primary) https://archive.org/details/collectionsofhug01hugu"
   ]
 }

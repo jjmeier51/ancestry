@@ -1,0 +1,56 @@
+{
+ "id": "I282608060793",
+ "name": "Anna A. Higgins",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1951-10-06",
+   "place": "Wilkes-Barre, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "1951 #86969 (Anna Meier, Wilkes-Barre, 6 Oct 1951)"
+   }
+  ]
+ },
+ "bioAdditions": "The Pennsylvania death-certificate index for 1951 lists \"Anna Meier\", Wilkes-Barre, Luzerne County (county 40), died 10-06-51, certificate file 86969 (S1). This independently confirms the FamilySearch death date and gives the number needed to order her certificate, which should name her parents. A search of the 1890 Schuylkill County census directory (S2) found no Higgins household in New Philadelphia borough, so the family had probably left the town before 1890; Higgins households were listed elsewhere in the county (Norwegian Twp, Mahanoy, Pottsville etc.), none of them a William with wife Mary Ann.",
+ "openQuestionsResolved": [
+  {
+   "question": "Her 1951 PA death certificate (Ancestry PA Death Certificates 1906–1970) should name her parents and their birthplaces.",
+   "answer": "Not yet seen, but the certificate is now identified: PA 1951 death file no. 86969 (Wilkes-Barre, 6 Oct 1951). Order from PA State Archives or view on Ancestry.",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Department of Health death certificate index, 1951 (PA State Archives RG-11), PDF p.168: \"ANNA MEIER  WLKS BRE  M 600  40  10 06 51  86969\"",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death of Anna Meier, Wilkes-Barre, 6 Oct 1951, file 86969",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1951/D-51%20M-O.pdf"
+  },
+  {
+   "ref": "S2",
+   "citation": "Directory of the Eleventh Census of the Population of Schuylkill County, Pa. (1891), full text",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "New Philadelphia borough section has no Higgins household (negative evidence)",
+   "url": "https://archive.org/stream/directoryofeleve0000eesh/directoryofeleve0000eesh_djvu.txt"
+  }
+ ],
+ "searchedNoResult": [
+  "Schuylkill census directory 1890 (archive.org full text): no Higgins in New Philadelphia",
+  "Biographical and Portrait Cyclopedia of Schuylkill County (1893), Schalck & Henning History of Schuylkill County (1907), Schuylkill County genealogy (1916), Boyd's Pottsville directory 1869-70 (archive.org full texts): no William Higgins / Reilly of New Philadelphia",
+  "WebSearch: Higgins + \"Mary Ann Reilly\" + Schuylkill/Hazleton/New Philadelphia: nothing",
+  "FamilySearch parent profiles G7LM-H5M (William Higgins) and G7LM-T4K (Mary Ann Reilly): no events, no sources"
+ ],
+ "researchLogEntry": "Round 4: found 1951 PA death index entry (file 86969); parents still unsourced; 1890 New Philadelphia directory negative."
+}

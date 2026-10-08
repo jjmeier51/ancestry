@@ -1,0 +1,78 @@
+{
+  "id": "H0161",
+  "name": "Ellen Jane Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "20 Aug 1862",
+      "place": "Larksville (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "12 Mar 1938",
+      "place": "Wilkes-Barre",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Trucksville, Luzerne Co.",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "14 Dec 1876 (FamilySearch)",
+        "place": "Plymouth",
+        "description": "To Francis J. Randall (1846-1890)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G3BN-MH2"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Ellen Jane a birth date of 20 Aug 1862 and a marriage at Plymouth on 14 Dec 1876 to Francis J. Randall (1846-1890). She appears as a widow in Plymouth in the censuses of 1900 to 1930, with her daughter Gertrude West in 1930. She died at Wilkes-Barre on 12 Mar 1938 and was buried at Trucksville (S1). A 1876 marriage would make her 14, so either the marriage date or the 1862 birth is wrong. The separate FamilySearch Ellen born in 1858 (1860 and 1870 censuses) may be the same woman, which would make her 18 at marriage. The 1900 census entry 'Ella Randal, b. Aug 1860, widow' falls between the two (S1, S2).",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1862",
+      "foundValue": "1858 (FS duplicate, 1860 census); Aug 1860 (1900 census); 20 Aug 1862 (FS)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Probably one woman born c.1858-60; the 1876 marriage makes 1862 unlikely."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Ellen Jane Pringle (G3BN-MH2), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3BN-MH2",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "marriage, death, burial"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Ellen Pringle b. 1858 (KC5G-HBB), 1860 and 1870 censuses",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KC5G-HBB",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "possible duplicate"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. 14 Dec 1876 Francis J. Randall and d. 12 Mar 1938; her birth year (1858/1860/1862) conflicts."
+}

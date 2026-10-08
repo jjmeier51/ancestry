@@ -1,0 +1,79 @@
+{
+  "id": "H0027",
+  "name": "Pauline Mayer",
+  "status": "researched",
+  "updates": {
+    "occupation": "day labourer (Taglöhnerin), Munzingen, 1863–64",
+    "events": [
+      {
+        "title": "Godmother to her niece Franziska",
+        "date": "1863-03-10",
+        "place": "Munzingen",
+        "description": "'Paulina Mayer, day labourer, 22-year-old single daughter of Heinrich Mayer of here.'",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Birth of illegitimate daughter Christina",
+        "date": "1864-05",
+        "place": "Munzingen",
+        "description": "Christina Mayer, illegitimate daughter of the single day labourer Paulina Mayer, legitimate daughter of the citizen and mason Heinrich Mayer and Juliana Senn. Godparents were her brother Friedrich Mayer (mason) and her sister M. Anna, wife of Joseph Wenz. Entry No. 9, dated 16 May 1864.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Pauline was a 22-year-old unmarried day labourer at Munzingen in March 1863, when she was godmother to her brother Friedrich's daughter Franziska (S2). Fourteen months later, in May 1864, she had a daughter of her own out of wedlock, Christina Mayer. The entry names Pauline's parents as Heinrich Mayer and Juliana Senn, which confirms her place in the family. Her brother Friedrich and sister Maria Anna (Mrs. Joseph Wenz) were the godparents (S1). This child is new to the tree (NEW-104). Whether Christina stayed with her mother after Pauline's marriage to Joseph Spinner, or went to America with Friedrich's family in 1868, is unknown.",
+  "openQuestionsNew": [
+    "Trace Christina Mayer (b. May 1864): was she later known as Spinner? Did she go to Hazleton with her uncle's family?"
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "Named with both parents in a primary register."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9, p. 522 (image 471); index 'Register zum Taufbuch 1864' (image 477)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-471",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Birth of Christina Mayer, illegitimate daughter of Paulina Mayer; godparents Friedrich Mayer and M. Anna Mayer, wife of Joseph Wenz"
+    },
+    {
+      "ref": "S2",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1863 No. 3, p. 503 (image 447)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-447",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Godmother Paulina Mayer, 22, single day labourer, daughter of Heinrich Mayer"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Munzingen birth register 1864 No. 9: Christina Mayer, daughter of Paulina Mayer",
+      "date": "1864-05-16",
+      "pageUrl": "http://www.landesarchiv-bw.de/plink/?f=5-480947-471",
+      "directUrl": "",
+      "repository": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0027/birth-1864-munzingen-L10-1591-img471.jpg",
+      "people": [
+        "H0027",
+        "I282608064885",
+        "H0019",
+        "NEW-104"
+      ],
+      "suggestedFile": "media/H0027/birth-1864-munzingen-L10-1591-img471.jpg",
+      "note": "Left page, bottom (continued overleaf). Public Domain Mark 1.0."
+    }
+  ],
+  "researchLogEntry": "Round 4: godmother 1863 (aged 22); mother of the illegitimate Christina Mayer, May 1864 (godparents Friedrich Mayer and Mrs. Joseph Wenz).",
+  "researchedAt": "2026-10-08"
+}

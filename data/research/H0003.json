@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 3rd great-grandfather; Irish-born iron-furnace helper at Danville, PA.",
-  "bio": "Edward McGuire was born about 1824 in Ireland and died Apr 1907, buried Plymouth. In the 1870 census, Mahoning Twp., Montour Co. (P.O. Danville), he was a 'furnace helper' with wife Mary Jane and children Edward 14, Mary 12, James 9, 'Mesilla' 5 and Timothy 3, all born PA — so in Pennsylvania by c.1856/1858. Danville was home of the Montour Iron Works, whose rolling mill is credited with the first T-rails in America (1845). FamilySearch claims he was baptized 7 Apr 1824 at St. Mary's, Haddington Road (Donnybrook), Dublin, son of Owen McGuire and Anne Clusky, with a sister Margaret baptized Jan 1819 ('Ireland, Catholic Parish Registers' index; image not released) — nothing ties the Danville furnace hand to this baptism beyond name and year.",
+  "bio": "Edward McGuire was born about 1824 in Ireland and died Apr 1907, buried Plymouth. In the 1870 census, Mahoning Twp., Montour Co. (P.O. Danville), he was a 'furnace helper' with wife Mary Jane and children Edward 14, Mary 12, James 9, 'Mesilla' 5 and Timothy 3, all born PA — so in Pennsylvania by c.1856/1858. Danville was home of the Montour Iron Works, whose rolling mill is credited with the first T-rails in America (1845). FamilySearch claims he was baptized 7 Apr 1824 at St. Mary's, Haddington Road (Donnybrook), Dublin, son of Owen McGuire and Anne Clusky, with a sister Margaret baptized Jan 1819 ('Ireland, Catholic Parish Registers' index; image not released) — nothing ties the Danville furnace hand to this baptism beyond name and year.\n\nThe first-year state death index (1907) lists \"McGuire, Edward; 38426; Plymouth; April 4\" ([R4-S1]). This fits the FamilySearch \"April 1907, buried Plymouth\" and gives an exact date and a certificate number. The certificate should state his age, birthplace in Ireland and parents, which would test the speculative Dublin baptism (Owen McGuire & Anne Clusky). His son James's birthplace was given in 1927 as Danville ([R4-S3]), the post office of the 1870 household ([R4-S2]). FamilySearch identifies further children: Edward (b. c1856), Mary (3 Nov 1858-4 Jun 1942, Mrs. Michael E. Riley of Plymouth), Cecilia Marcella (1864-1918, who married Murdock Dunn at Plymouth in 1887 and emigrated to Vancouver Island, British Columbia) and Timothy (c1865, dead by 1880) ([R4-S4]).",
   "residences": [
     {
       "date": "1870",
@@ -18,7 +18,12 @@
     "1870 census, Mahoning Twp., Montour Co. https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg",
     "FamilySearch 994Z-27X / GZQN-GZT",
     "Wikipedia: Danville, PA https://en.wikipedia.org/wiki/Danville,_Pennsylvania (context)",
-    "notes/round3/irish_pa.md; Round 3 report origins table"
+    "notes/round3/irish_pa.md; Round 3 report origins table",
+    "[R4-S1] Pennsylvania Department of Health death certificate index, 1907 (PA State Archives RG-11), PDF p.66: \"McGuire, Edward; 38426; Plymouth; April 4.\" (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1907/D-07%20M-N-O.pdf",
+    "[R4-S2] 1870 U.S. census, Mahoning Twp, Montour Co., Pa. (P.O. Danville), Edward McGuire household (image via FamilySearch, attached to 994Z-27X) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg",
+    "[R4-S3] Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg",
+    "[R4-S4] FamilySearch Family Tree (published), Edward McGuire (1824-1907), PID 994Z-27X; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/994Z-27X",
+    "[R4-S5] Luzerne Co. Marriage License Docket no. 1790, Merdith [Murdock] Denn [Dunn] & Scylia McGuire, sworn 13 Dec 1886, married 27 Dec at Plymouth by Frances Mack (image via FamilySearch, attached to G3FP-1G7) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3FP-1G7/images/i/2/image.jpg"
   ],
   "openQuestions": [
     "Irish origin — is the Dublin 1824 baptism his? Irish register images return 0-byte files."
@@ -33,6 +38,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1907 PA death index file 38426 (Plymouth, 4 Apr 1907); four more children identified."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0003.json."
+    }
+  ],
+  "death": {
+    "date": "1907-04-04",
+    "place": "Plymouth, Luzerne Co., Pa."
+  },
+  "facts": [
+    {
+      "label": "PA death certificate file no.",
+      "value": "1907 #38426 (Edward McGuire, Plymouth, April 4)"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "994Z-27X"
     }
   ]
 }

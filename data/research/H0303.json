@@ -9,13 +9,16 @@
     "notable"
   ],
   "summary": "Titanic victim and brother-in-law of architect Stanford White; John's 6th cousin 5x removed via Bull Smith.",
-  "bio": "Route (6C5R): Bull Smith → Richard Jr. (2d) → Sarah Woodhull → Gen. Nathaniel Woodhull → Elizabeth Woodhull Nicoll → Eliza Nicoll Smith → Judge J. Lawrence Smith → James. Born 1856 in Smithtown; lived in Paris; travelled first class on the Titanic and died in the sinking in 1912; his body was not recovered. His sister Bessie married Stanford White. (Birthplace, Paris residence, first-class travel and body-not-recovered details come from the project's research-thread answer to John's question 'who was James Clinch Smith?' (section 1.4); the research notes record only 'died on the Titanic'.)",
+  "bio": "Route (6C5R): Bull Smith → Richard Jr. (2d) → Sarah Woodhull → Gen. Nathaniel Woodhull → Elizabeth Woodhull Nicoll → Eliza Nicoll Smith → Judge J. Lawrence Smith → James. Born 1856 in Smithtown; lived in Paris; travelled first class on the Titanic and died in the sinking in 1912; his body was not recovered. His sister Bessie married Stanford White. (Birthplace, Paris residence, first-class travel and body-not-recovered details come from the project's research-thread answer to John's question 'who was James Clinch Smith?' (section 1.4); the research notes record only 'died on the Titanic'.)\n\nSon of Judge J. Lawrence Smith; through his father's line (Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th -> J. Lawrence -> James) he is John's 5th cousin 5 times removed, closer than the 6C5R on the site, and a descendant of John's own ancestor Job Smith. He inherited his father's homestead (Pelletreau 1898, [R4-S1]); married the musician Bertha Ludington Barnes; witnessed the 1906 murder of his brother-in-law Stanford White; and died on the Titanic (Wikipedia, [R4-S2]).",
   "notable": "Died in the sinking of RMS Titanic, 1912.",
   "sources": [
     "notes/round2/colonial_cousins.md §2b",
     "Round 2 report §2",
     "jrm Needham I2596",
-    "Research-thread answer to John's question 'who was James Clinch Smith?' (section 1.4)"
+    "Research-thread answer to John's question 'who was James Clinch Smith?' (section 1.4)",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 461 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] Wikipedia, 'J. Lawrence Smith (New York politician)' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/J._Lawrence_Smith_(New_York_politician)",
+    "[R4-S3] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -26,6 +29,26 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Wikipedia: no standalone 'James Clinch Smith' article (search returns 'Passengers of the Titanic'); Wikimedia Commons file search 'James Clinch Smith' (no photo)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: relationship revised to 5C5R via Job Smith; no free photo found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0303.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "relationship",
+      "site": "6C5R",
+      "found": "5C5R via Job Smith",
+      "assessment": "Update to 5C5R."
     }
   ]
 }

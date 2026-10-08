@@ -1,0 +1,42 @@
+{
+  "id": "H0477",
+  "name": "Ruth Floyd",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "2 Feb 1731",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "H0286",
+      "evidence": "Pelletreau Floyd family: children of Nicoll Floyd & Tabitha Smith: Ruth (b. 2 Feb 1731, m. Gen. Nathaniel Woodhull), William (signer)...",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Daughter of Nicoll Floyd and Tabitha, daughter of Jonathan Smith 2d (S1), so a Bull Smith descendant: Bull -> Jonathan -> Jonathan 2d -> Tabitha -> Ruth, 4 generations: 3rd cousin 8 times removed. Sister of the signer William Floyd and wife of Gen. Nathaniel Woodhull.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Pelletreau gives each generation; same dependency on the Temperance Smith link as all Bull Smith cousins."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465, 486",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Floyd family list; Jonathan Smith 2d's daughter Tabitha m. Nicoll Floyd"
+    }
+  ],
+  "researchLogEntry": "Round 4: birth date and Bull Smith descent (3C8R) from Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

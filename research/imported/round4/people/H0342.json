@@ -1,0 +1,86 @@
+{
+ "id": "H0342",
+ "name": "Lucia Macchia",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1812-04-08",
+   "place": "Bisaccia, Avellino, Campania, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1880-05-09",
+   "place": "Bisaccia, Avellino, Campania, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "events": [
+   {
+    "title": "Second marriage, to Donato Sena",
+    "date": "1850-09-28",
+    "place": "Bisaccia",
+    "description": "Per FS tree; Donato Sena c.1800-1861.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The FamilySearch tree spells her surname Macchia, matching Round 3's tentative reading 'Macchia(?)' in the 1867 act (S1). It gives her birth as 8 Apr 1812 and her death as 9 May 1880 in Bisaccia, and names her parents as Nicola Macchia (c.1782–1817) and Grazia Maria Gallicchio (c.1785–1855) (S1, S2). Widowed in 1848, she remarried Donato Sena on 28 Sep 1850. One FS source is a FamilySearch-indexed Avellino record (ark 1:1:6J4L-ZFYY) that groups her with Savino, Angelamaria Fede and 'Francesco': this is the 1867 marriage act of her son.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "NEW-705",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "parent",
+   "personId": "NEW-706",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile 2SZL-L3K (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-L3K",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth 8 Apr 1812; deaths and marriages; parents"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile LH71-GCJ (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LH71-GCJ",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Nicola Macchia c.1782-1817, son of Giuseppe Macchia and Rosa Picolella"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch Family Tree published profile LH71-GCQ (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LH71-GCQ",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Grazia Maria Gallicchio c.1785-1855, daughter of Andrea Gallicchio and Rosa Coviello"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS tree confirms the surname Macchia and gives her dates (1812-1880), her second marriage (1850) and her parents.",
+ "researchedAt": "2026-10-08"
+}

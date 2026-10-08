@@ -26,7 +26,7 @@
     "immigrant"
   ],
   "summary": "John's 3rd great-grandmother; daughter of the Munzingen master glazier Servatius Birkenmayer; mother of eleven, died in Hazleton in 1911.",
-  "bio": "Maria Anna Birkenmayer was born 29 Mar 1837 at Munzingen and baptized 2 Apr 1837 (L 10 Nr. 1590, No. 12, fol. 135): 'Maria Anna Birkenmayer, eheliches Kind des Servatius Birkenmayer hiesigen Glasers, u. der Agatha Heizler'; the teacher Johann Schell was a witness. She was the eldest of seven children; her father died 19 Apr 1853 when she was 16, and her little brother Heinrich weeks later. She married Friedrich Mayer at Munzingen on 20 Oct 1862 (described as daughter of the late master joiner Servaz Birkenmaier and Agatha Heizler). She emigrated with him and four children c.1868. She appears as 'Anna, 33, Baden' in the 1870 Hazleton census and 'Annie, 43, wife' in 1880, when her brother Gabriel (29, gardener) lived with the family; brothers Joseph and Gabriel later lived in Sandusky, Ohio. She bore 11 children (FS). She died 30 Dec 1911 in Hazleton (PA death index 1911: 'Meier, Mary A.; file 113353; Hazleton; Dec. 30') and was buried in Hazleton (Find a Grave index 'Mary Anne Berkmeier Meier', 4KC1-M2T2). The Ancestry tree (built on a Kirchzarten assumption) shows her as 'Maria A Birkenmay… 1837–1911', daughter of Servatius and 'Maria A Heitzler 1813–1867'; research shows the mother was Agatha Heizler and the family was from Munzingen, not Kirchzarten. She is NOT the Mrs. Anna (Maria) Meier of Wilkes-Barre who died 1897. Do not confuse with the Ebringen Birkenmeyer family (New Orleans 1855) or with Maria Anna Birkenmayer (1810–1865) who married Salesius Schuhmacher.",
+  "bio": "Maria Anna Birkenmayer was born 29 Mar 1837 at Munzingen and baptized 2 Apr 1837 (L 10 Nr. 1590, No. 12, fol. 135): 'Maria Anna Birkenmayer, eheliches Kind des Servatius Birkenmayer hiesigen Glasers, u. der Agatha Heizler'; the teacher Johann Schell was a witness. She was the eldest of seven children; her father died 19 Apr 1853 when she was 16, and her little brother Heinrich weeks later. She married Friedrich Mayer at Munzingen on 20 Oct 1862 (described as daughter of the late master joiner Servaz Birkenmaier and Agatha Heizler). She emigrated with him and four children c.1868. She appears as 'Anna, 33, Baden' in the 1870 Hazleton census and 'Annie, 43, wife' in 1880, when her brother Gabriel (29, gardener) lived with the family; brothers Joseph and Gabriel later lived in Sandusky, Ohio. She bore 11 children (FS). She died 30 Dec 1911 in Hazleton (PA death index 1911: 'Meier, Mary A.; file 113353; Hazleton; Dec. 30') and was buried in Hazleton (Find a Grave index 'Mary Anne Berkmeier Meier', 4KC1-M2T2). The Ancestry tree (built on a Kirchzarten assumption) shows her as 'Maria A Birkenmay… 1837–1911', daughter of Servatius and 'Maria A Heitzler 1813–1867'; research shows the mother was Agatha Heizler and the family was from Munzingen, not Kirchzarten. She is NOT the Mrs. Anna (Maria) Meier of Wilkes-Barre who died 1897. Do not confuse with the Ebringen Birkenmeyer family (New Orleans 1855) or with Maria Anna Birkenmayer (1810–1865) who married Salesius Schuhmacher.\n\nIn January 1862 Maria Anna was 'the single day labourer Maria Anna Birkenmaier', legitimate daughter of the late citizen and joiner Servatius Birkenmaier and Agatha Heitzler. On 11 Jan 1862 she gave birth at Munzingen to a son, Friedrich, and at his baptism on 13 January the mason Friedrich Mayer acknowledged him ([R4-S1]). She and Friedrich married on 20 Oct 1862. This first son is the 'Frederick, 8, Baden' of the 1870 Hazleton census. Her widowed mother Agatha died at Munzingen on 3 Aug 1867, aged 54 ([R4-S2]). That was probably the last family tie keeping her there, and the Meiers left for America in about 1868.",
   "residences": [
     {
       "date": "1837",
@@ -66,7 +66,9 @@
     "PA Death Index 1911, M–N–O, PDF p.171 https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1911/D-11%20M-N-O.pdf (file 113353)",
     "Find a Grave index on FamilySearch https://familysearch.org/ark:/61903/1:1:4KC1-M2T2",
     "FamilySearch tree G921-2R4",
-    "notes/round3/german_origins.md; notes/round3/meier_line.md; notes/round2/black_forest.md; notes/meier_mcguire.md"
+    "notes/round3/german_origins.md; notes/round3/meier_line.md; notes/round2/black_forest.md; notes/meier_mcguire.md",
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+    "[R4-S2] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Todtenbuch 1867 No. 13, p. 446 (image 572) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-572"
   ],
   "mediaKnown": [
     "1837 baptism register image (plink 5-480946-483)"
@@ -114,6 +116,33 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Maria Anna \"Annie\" Birkenmayer\"; research uses \"Maria Anna Birkenmayer\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child I282608085066, proven): 1862 Munzingen birth entry names her as mother of Friedrich, b. 11 Jan 1862"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Munzingen 1862 register shows her as an unmarried day labourer who bore son Friedrich on 11 Jan 1862 (father acknowledged); her mother's 1867 death confirmed from the register."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064896.json."
+    }
+  ],
+  "occupation": "Day labourer (ledige Taglöhnerin) at Munzingen, 1862",
+  "events": [
+    {
+      "title": "Birth of first child, Friedrich",
+      "date": "1862-01-11",
+      "place": "Munzingen, Amt Freiburg, Baden",
+      "description": "Born out of wedlock nine months before her marriage. The father, the single mason Friedrich Mayer, acknowledged him at the baptism on 13 Jan 1862. [R4-S1]"
+    },
+    {
+      "title": "Death of her mother Agatha (Heitzler) Birkenmaier",
+      "date": "1867-08-03",
+      "place": "Munzingen",
+      "description": "Mother died a widow aged 54. About a year later the family emigrated. [R4-S2]"
     }
   ]
 }

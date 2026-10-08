@@ -1,0 +1,142 @@
+{
+  "id": "H0441",
+  "name": "Francis Randell",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "c. 1846",
+      "place": "Pennsylvania (FS tree, censuses)",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1890-11-15",
+      "place": "Plymouth, Luzerne Co., PA (place per FS tree)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "aka": [
+      "Francis J. Randall",
+      "Frank Randel",
+      "F. J. Randall"
+    ],
+    "residences": [
+      {
+        "date": "1870",
+        "place": "Lackawanna Twp., Luzerne Co., PA",
+        "note": "FS tree (1870 census)",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1880",
+        "place": "Plymouth, Luzerne Co., PA",
+        "note": "FS tree (1880 census, as Frank Randel)",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "military": [
+      {
+        "note": "Civil War: Private, 2nd Battery, Connecticut Volunteer Light Artillery; enlisted 23 Feb 1864, discharged 9 Aug 1865. VA master index card gives death 15 Nov 1890, pension claim XC 2665391 and widow's certificate WC 329170; card address 39 Lawrence St., Wilkes-Barre.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G3RX-RC3"
+      },
+      {
+        "label": "Widow's pension certificate",
+        "value": "WC 329170"
+      }
+    ]
+  },
+  "bioAdditions": "The husband of Ellen Jane Pringle (daughter of Andrew G. Pringle and Catherine Scott) was a Civil War veteran. His Veterans Administration master index card reads 'Randall, Francis J., Pvt 2 Batty Conn Vol Lt Art', enlisted 23 Feb 1864, discharged 9 Aug 1865, died 15 Nov 1890, with a widow's pension certificate (WC 329170) and claim number XC 2665391, and an address at 39 Lawrence St., Wilkes-Barre (S1). The FamilySearch tree gives his birth as about 1846 in Pennsylvania and a first marriage, about 1868, to Sarah E. VanDuzen (1849-1876), by whom he had a daughter Katherine May (b. Plymouth 24 Apr 1869). He then married Ellen Jane Pringle at Plymouth on 14 Dec 1876, when she was 14, and they had Frederick (1878-1931) and Gertrude Helen (1882-1956). He was in Lackawanna Twp. in 1870 and Plymouth in 1880 (as 'Frank Randel'), and died at Plymouth on 15 Nov 1890 (S2). Bradsby (1893) names Ellen's husband as 'Francis Randell' (S3).\n\nThe 1938 Pennsylvania death index lists Ellen J. Randall of Wilkes-Barre, died 12 Mar 1938, file 30118. That fits the FS tree date for his widow (S4).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0161",
+      "evidence": "Bradsby 1893; FS tree marriage 14 Dec 1876; widow's pension (WC 329170) indicates a surviving widow",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Name, death date and Wilkes-Barre address on the VA card match the FS tree for Ellen Pringle's husband; the widow's pension file would confirm."
+  },
+  "openQuestionsNew": [
+    "Why a Connecticut battery for a Pennsylvania-born man? Check Connecticut adjutant-general roster of the 2nd Light Battery for residence/enlistment place.",
+    "Widow's pension file WC 329170 (NARA) should prove the 1876 marriage and give Ellen's details."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "United States, Veterans Administration Master Index, 1917-1940: card for Randall, Francis J. (image attached to FS G3RX-RC3)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3RX-RC3/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "unit, enlistment/discharge, death date, pension numbers, address"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch Family Tree (published), Francis J. Randall G3RX-RC3; Ellen Jane Pringle G3BN-MH2",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3RX-RC3",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, marriages, children, residences, death place"
+    },
+    {
+      "ref": "S3",
+      "citation": "Bradsby (1893), Catherine Scott sketch (PAGenWeb transcription)",
+      "url": "https://pagenweb.org/~luzerne/bios/sabios.htm",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Ellen married Francis Randell"
+    },
+    {
+      "ref": "S4",
+      "citation": "Pennsylvania Death Index 1938, P-R volume, PDF p.199 (printed 1683): ELLEN J RANDALL, WLKS BRE, R534, co. 40, 3-12-38, file 30118",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1938/D-38%20P-R.pdf",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "widow's death"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "VA master index card, Pvt. Francis J. Randall, 2nd Conn. Light Battery",
+      "date": "c.1930s (index of pension records)",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3RX-RC3",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3RX-RC3/images/i/1/image.jpg",
+      "repository": "FamilySearch (NARA, VA Master Index)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0441/va-master-index-card-francis-j-randall.jpg",
+      "people": [
+        "H0441",
+        "H0161"
+      ],
+      "suggestedFile": "media/H0441/va-master-index-card-francis-j-randall.jpg",
+      "note": "U.S. federal government record (Veterans Administration)."
+    }
+  ],
+  "researchLogEntry": "Round 4: identified as Civil War veteran Pvt. Francis J. Randall, 2nd Conn. Light Battery (1864-65), d. 15 Nov 1890, widow's pension WC 329170; FS tree adds a first marriage and children.",
+  "researchedAt": "2026-10-08"
+}

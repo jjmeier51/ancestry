@@ -1,0 +1,94 @@
+{
+  "id": "H0174",
+  "name": "Samuel Van Loon",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1811-06-08",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1885-06-28",
+      "place": "",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "occupation": "Luzerne County sheriff 1859-1862",
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1834",
+        "place": "Plymouth",
+        "description": "Married Jane Davenport (b. 23 Oct 1815), daughter of Robert and Phebe (Nesbitt) Davenport; 13 children. She was still living in Plymouth in 1899, aged 83.",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Elected Sheriff of Luzerne County",
+        "date": "1859",
+        "place": "Wilkes-Barre",
+        "description": "A three-year term; the last of the five Plymouth men to be sheriff between 1816 and 1859.",
+        "sourceRefs": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The Harvey Book says Samuel Van Loon, son of Stephen, was born on 8 Jun 1811 and died on 28 Jun 1885. In 1834 he married Jane Davenport (b. 23 Oct 1815), daughter of Robert and Phebe (Nesbitt) Davenport, and they had thirteen children. In 1859 he was elected sheriff for three years (S2), following his father, who had held the office in 1816. Wright calls him 'a man well known in the county' and the last of five Plymouth sheriffs (S1). Bradsby lists a Samuel Van Loon among Plymouth's township officers in 1838 (S3).",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0173",
+      "evidence": "Wright p.388 ('a son of Stephen'); Harvey p.357",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "openQuestionsNew": [
+    "Mother: Hannah Lamoreux (H0172) married Stephen (Giles & Franklin), but no source names Samuel's mother. His 1885 obituary in the Wilkes-Barre papers would settle it."
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Exact dates and marriage from the Harvey Book; father named by two sources."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "H. B. Wright, Historical Sketches of Plymouth (1873), pp.387-389 ('Van Loons') and p.255",
+      "url": "https://archive.org/details/historicalsketch00wrig_2",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "son of Stephen; sheriff 1859"
+    },
+    {
+      "ref": "S2",
+      "citation": "Harvey, The Harvey Book (1899), pp.356-357 (children of Robert and Phebe (Nesbitt) Davenport)",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "b. 8 Jun 1811, d. 28 Jun 1885; marriage 1834 to Jane Davenport; 13 children; sheriff 1859"
+    },
+    {
+      "ref": "S3",
+      "citation": "H. C. Bradsby, History of Luzerne County (1893), p.230 list of sheriffs",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "sheriff 1859; township officer 1838"
+    }
+  ],
+  "researchLogEntry": "Round 4: Harvey Book gives b. 8 Jun 1811, d. 28 Jun 1885, m. 1834 Jane Davenport, 13 children. Mother still unproven.",
+  "researchedAt": "2026-10-08"
+}

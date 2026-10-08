@@ -1,0 +1,54 @@
+{
+  "id": "H0106",
+  "name": "Mary E. Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "Mar 1898",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "7 Jun 1922",
+        "place": "Luzerne Co., PA",
+        "description": "To Thomas Christopher Halloran (1898-1967), Pennsylvania County Marriages index",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1920",
+        "place": "Wilkes-Barre Ward 15",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LT9F-H4V"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Mary Elizabeth Pringle a birth date of March 1898 (from the 1900 census), places her in Wilkes-Barre's 15th ward in 1920, and records her marriage in Luzerne Co. on 7 Jun 1922 to Thomas Christopher Halloran (1898-1967) (S1). No death date has been found.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Mary E. Pringle (LT9F-H4V), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LT9F-H4V",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, residences"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. Mar 1898 and m. 7 Jun 1922 Thomas C. Halloran."
+}

@@ -9,6 +9,25 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree calls Maria di Marino's husband 'Nicola di Paola'."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0511.json."
     }
+  ],
+  "conflicts": [
+    {
+      "field": "surname",
+      "site": "di Pietro",
+      "found": "di Paola (FS tree 9CF8-2TL, husband of Maria Di Marino)",
+      "assessment": "Unresolved; check Maria's 1914 death act."
+    }
+  ],
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree published profile 9CF8-2TL (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9CF8-2TL"
   ]
 }

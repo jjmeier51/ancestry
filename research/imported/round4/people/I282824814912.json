@@ -1,0 +1,40 @@
+{
+ "id": "I282824814912",
+ "name": "Gaetano di Marino",
+ "status": "researched",
+ "bioAdditions": "The FamilySearch tree (G7NK-RH2) gives Gaetano both wives, Caterina di Leo and Maria d'Ambrosio, which agrees with Round 3's two-marriage reading. It also attaches three indexed Avellino civil records (6GZ5-3NV8, 6P6S-FJ51, 6PG6-674K) (S1). The tree has a daughter Maria di Marino (b. c.1835, d. 29 Dec 1914 in Guardia), daughter of Gaetano and Caterina di Leo, whose husband is given as 'Nicola di Paola' (S2). Round 3 read Maria's 1857 marriage index as to 'Nicola di Pietro'. Her 1835 birth would mean Gaetano had married Caterina by about 1834, earlier than Round 3 assumed. If so, Maria d'Ambrosio (mother of Concetta, married 1855) was either the first wife before c.1834, or the tree's 1835 date for Maria is wrong.",
+ "conflicts": [
+  {
+   "field": "order of marriages",
+   "siteValue": "Probable: Maria d'Ambrosio first, Caterina di Leo second",
+   "foundValue": "FS tree has Maria di Marino, daughter of Caterina di Leo, b. c.1835, d. 1914",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "Still consistent if Concetta (d'Ambrosio) was born before c.1834; needs Concetta's age from her 1855 marriage act."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile G7NK-RH2 (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7NK-RH2",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Two wives; attached indexed records"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile 9CF8-2TL (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9CF8-2TL",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Maria Di Marino c.1835-1914, daughter of Gaetano and Caterina di Leo; d. 29 Dec 1914 Guardia (FS cites an Antenati death act, not opened here)"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images (ancestors.familysearch.org published-source image URLs) return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS tree confirms both wives and adds daughter Maria (c.1835-1914), which bears on the order of his marriages.",
+ "researchedAt": "2026-10-08"
+}

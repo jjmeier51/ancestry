@@ -1,0 +1,27 @@
+{
+  "id": "H0465",
+  "name": "Margaret",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Youngs Family (1907) prints the will of 'Margaret Youngs late wife of Christopher Youngs deceased of Southwold', dated 27 Oct 1630, proved 8 Jan 1630/1 (Arch. Suff. Ipswich), dividing her household stuff among her six children John, Joseph, Christopher, Mary, Margaret and Martha, with sons John and Joseph as executors. She was buried at Southwold on 5 Nov 1630 (S1). Not ancestral on present evidence.",
+  "updates": {
+    "death": {
+      "date": "1630-11",
+      "place": "Southwold, Suffolk, England",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Selah Youngs Jr., Youngs Family: Vicar Christopher Yonges, his ancestors in England and his descendants in America (1907), pp. 38-41 (First and Second Generations)",
+      "url": "https://archive.org/details/youngsfamilyvica00youn",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Margaret's 1630 will and burial"
+    }
+  ],
+  "researchLogEntry": "Round 4: Margaret's 1630 will (Youngs 1907) added; not ancestral."
+}

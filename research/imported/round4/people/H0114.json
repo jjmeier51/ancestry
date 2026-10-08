@@ -1,0 +1,61 @@
+{
+ "id": "H0114",
+ "name": "Anna P. Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "burial": {
+   "cemetery": "St. Mary's Cemetery",
+   "place": "Hanover Twp, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "occupation": "Tailoress (1900)",
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LTDC-8T2"
+   }
+  ]
+ },
+ "bioAdditions": "In 1900 \"Annie,\" 23, was a tailoress in her parents' Plymouth home (S9). FamilySearch names her daughter Mary Florence Murphy (1902-1951), who married James F. Poland; that Luzerne marriage record names her mother as Anna Heffernan (S1). FS gives Felix Murphy's birth as 1876 and death 22 Apr 1955; his parents were John Felix Murphy (1851-1890) and Mary Kelly (S2).",
+ "conflicts": [
+  {
+   "field": "spouse birth year (Felix John Murphy)",
+   "siteValue": "1874",
+   "foundValue": "1876 (FamilySearch GKXZ-X3Z)",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "Minor; unresolved."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Anna Heffernan (1876-1960), PID LTDC-8T2; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Daughter Mary Florence; burial",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LTDC-8T2"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), Felix Murphy (1876-1955), PID GKXZ-X3Z; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents, census 1920/1940",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GKXZ-X3Z"
+  },
+  {
+   "ref": "S9",
+   "citation": "1900 U.S. census, Plymouth Borough Ward 3, ED 120, sheet 1A (Andrew Hefferman household)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Children's birth months/years and 1900 occupations",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/0/image.jpg"
+  }
+ ],
+ "researchLogEntry": "Round 4: daughter Florence m. James F. Poland; 1900 occupation tailoress."
+}

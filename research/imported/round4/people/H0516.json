@@ -1,0 +1,29 @@
+{
+  "id": "H0516",
+  "name": "Sarah Smith",
+  "status": "researched",
+  "bioAdditions": "Wife of Major Ebenezer Smith (1795-1879); daughter of Caleb Smith 2d (Pelletreau, S1), so herself a Bull Smith descendant: Bull -> Daniel -> Daniel 2d -> Caleb -> Caleb 2d -> Sarah (5 generations; 4C7R). Their sons were Ethelbert M. and Caleb T. Smith.",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0280",
+      "evidence": "Pelletreau: Caleb Smith 2d's children include 'Sarah, wife of Ebenezer Smith, (son of Joshua, 2d)'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 477",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Major Ebenezer Smith m. Sarah dau. of Caleb Smith 2d"
+    }
+  ],
+  "researchLogEntry": "Round 4: identified as daughter of Caleb Smith 2d (4C7R).",
+  "researchedAt": "2026-10-08"
+}

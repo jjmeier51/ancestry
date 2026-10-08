@@ -1,0 +1,60 @@
+{
+ "id": "I282824816314",
+ "name": "Giulia Puteri",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Giulia Francesca was baptized on 12 March 1717, daughter of Giuseppe Putero and Beatrice Manfrida (S1). An elder sister Giulia had been baptized in 1710. She married Francesco Colosimo on 26 February 1740 (S2).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824816340",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824816347",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824816293",
+   "evidence": "Marriage",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 21, p. 15, no. 8; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Julia Francisca Putaro bapt. 12 Mar 1717, father Josepho Putero, mother Beatrice Manfrida (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 47, p. 90, no. 2; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 26 Feb 1740 to Francesco Colosimo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 12 Mar 1717, marriage 1740."
+}

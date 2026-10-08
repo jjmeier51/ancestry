@@ -1,15 +1,17 @@
 {
   "id": "H0083",
   "link": {
-    "confidence": "possible",
-    "note": "GEDBAS 53093 only; Round 3 labels this generation speculative-probable."
+    "confidence": "probable",
+    "note": "GEDBAS 53093 only; Round 3 labels this generation speculative-probable. Round 4 (possible → probable): Burial entry is primary; his link to Johann Peter Grub (b. 1655 Berschweiler) rests on the Berschweiler residence and tree work."
   },
   "sex": "M",
   "tags": [],
   "summary": "John's 9th-great-grandfather; born at Oberbrombach, baptized at Niederbrombach 1616.",
-  "bio": "Baptized 26 May 1616 at Niederbrombach, born at Oberbrombach; married 9 Jan 1642 at Lauterecken Elisabetha Birgert of Fockenberg-Limbach, daughter of Conrad Birgert; died 29 Apr 1671 at Berschweiler.",
+  "bio": "Baptized 26 May 1616 at Niederbrombach, born at Oberbrombach; married 9 Jan 1642 at Lauterecken Elisabetha Birgert of Fockenberg-Limbach, daughter of Conrad Birgert; died 29 Apr 1671 at Berschweiler.\n\nRound 4 read his burial entry in the Lauterecken Lutheran register ([R4-S1]). Caspar Grub, 'inhabitant' of Berschweiler, was buried there with a funeral sermon on Monday 1 May 1671. He had died early the previous morning, aged 53 years, 11 months and 3 days. The register used the Julian calendar (1 May 1671 Julian fell on a Monday), so he died on 30 Apr 1671, not 29 Apr as FamilySearch and the site have it. The stated age puts his birth at about 27 May 1617, one year later than the 26 May 1616 baptism on the site. Such ages are often a year out, so the baptism entry should be checked. FamilySearch names his parents as Christmann Grub and 'Elssa' ([R4-S2]), whereas the site gives his mother as Margaretha; see the conflict.",
   "sources": [
-    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), persons 1193191874, 1193191858: https://gedbas.genealogy.net/person/show/1193191874"
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), persons 1193191874, 1193191858: https://gedbas.genealogy.net/person/show/1193191874",
+    "[R4-S1] Lauterecken, Evangelical Lutheran parish register, burials 1671: Caspar Grub of Berschweiler, buried 1 May 1671 (FS Germany Lutheran Baptisms, Marriages and Burials index 'Caspar Grüb') (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/K6CS-1ZL/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch published tree, Caspar Grub (K6CS-1ZL); parents Christmann Grub (G9MF-GY6) and Elssa (G9MF-6ML); wife Elisabetha Birkhert (KLK9-FD7) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K6CS-1ZL"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +22,70 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → probable: Burial entry is primary; his link to Johann Peter Grub (b. 1655 Berschweiler) rests on the Berschweiler residence and tree work."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read the 1671 Lauterecken burial entry: died 30 Apr 1671 (Julian), buried 1 May with a funeral sermon, aged 53y 11m 3d."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0083.json."
+    }
+  ],
+  "death": {
+    "date": "1671-04-30",
+    "place": "Berschweiler"
+  },
+  "burial": {
+    "place": "Berschweiler (Lauterecken Lutheran parish)"
+  },
+  "events": [
+    {
+      "title": "Burial",
+      "date": "Monday 1 May 1671",
+      "place": "Berschweiler",
+      "description": "Buried 'mit einer Leichpredigt' (with a funeral sermon): 'Caspar Grub, Einwohner daselbst', who died early the previous morning, aged 53 years 11 months 3 days [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "K6CS-1ZL"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "1671-04-29",
+      "found": "30 Apr 1671 (died the day before the 1 May burial)",
+      "assessment": "The burial entry is primary; prefer 30 Apr 1671 (Julian)."
+    },
+    {
+      "field": "birth.date",
+      "site": "1616-05-26",
+      "found": "c. 27 May 1617 (from age at death 53y 11m 3d)",
+      "assessment": "Keep the 1616 baptism if it is a real register entry; the age at death implies 1617."
+    },
+    {
+      "field": "mother",
+      "site": "Margaretha (H0414)",
+      "found": "Elssa (FamilySearch G9MF-6ML, b. 11 Apr 1597)",
+      "assessment": "Unresolved; neither is shown from his baptism. FamilySearch's Elssa, born 1597, would have been 19 at his birth."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K6CS-1ZL",
+      "type": "link",
+      "title": "Lauterecken burial register 1671: Caspar Grub",
+      "date": "1671-05-01",
+      "source": "FamilySearch, unknown",
+      "note": "Church-book image; viewed only (not downloaded: rights unknown)",
+      "people": []
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+ "id": "I282695504592",
+ "name": "Thomas Comerford",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "abt 1821",
+   "foundValue": "His supposed daughter Alice Comerford was 35 in the 1870 census (b. c.1835)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "A father born c.1821 would have been about 14 at Alice's birth. The tree's Thomas Comerford (d. Castlecomer, Co. Kilkenny, 1878) and wife Mary Dowling (b. 1815) have no sources; at best this is a guessed family. Castlecomer is a plausible Comerford district, but nothing links Alice to it."
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "unverified",
+  "justification": "No source; chronology problem."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1870 U.S. census, Plymouth Township, Luzerne Co., Pa., p.66, enumerated 29 Jul 1870 by Roberson Boyd, P.O. Kingston, dwelling 444, family 446 (image via FamilySearch, attached to G7FL-HGY)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Martin Murphy 50, miner, real estate $1100, personal $200, b. Ireland; Alice 35, keeping house, b. Ireland; Mary 13, Patrick 12, Catherine 9, James 7, John 4, and twins Martin and Thomas aged 1/12, all b. Pennsylvania.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7FL-HGY/images/i/2/image.jpg"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch: Alice Comerford (L85M-PP2) has no parents attached",
+  "No online record linking Alice to Castlecomer"
+ ],
+ "researchLogEntry": "Round 4: flagged that a c.1821 birth is too late for the father of Alice (b. c.1835)."
+}

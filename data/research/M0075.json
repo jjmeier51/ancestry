@@ -1,0 +1,20 @@
+{
+  "id": "M0075",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0092 (proven); child of H0093 (proven); sibling of H0087 (proven)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), pp.4, 126-127, 137-138, 147-148, 164 (derivative) https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-301 → M0075; research/imported/round4/new_people.json."
+    }
+  ]
+}

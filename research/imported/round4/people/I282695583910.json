@@ -1,0 +1,44 @@
+{
+  "id": "I282695583910",
+  "name": "John Young Sr",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Johannes Jung"
+    ],
+    "death": {
+      "date": "before 12 Sep 1787 (FamilySearch, unsourced)",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "The FamilySearch tree has an independent profile for Mary (Young) Croup's father: 'Johannes Jung', of Easton, born about 1745 and dead before 12 September 1787, husband of Anna Maria Doll (1751-1813), with ten children - Maria (Jan 1776, Mrs Frederick Grub), Sara (1777), Johannes (1781-1813), Susannah (1783), Peter (1784-1854), Catherine, Elizabeth, Henry, Jacob and Margaretha (S1). Its only cited source is the will of 'Maria Young' in Northampton County Will Book 4, p.458 (presumably his widow's, 1813). If correct, Johnny's tree has given John Young his widow's death year: the tree's 1751-1813 dates for both spouses look like a copy, and the '12 Sep 1787' terminus suggests an administration or Orphans' Court date in Northampton County.",
+  "conflicts": [
+    {
+      "field": "birth/death",
+      "siteValue": "19 Dec 1751 - 1813",
+      "foundValue": "c.1745 - before 12 Sep 1787 (FamilySearch LC7F-6LH)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved; FS is unsourced but its 1787 terminus looks record-based. Check Northampton administrations of 1787 for Johannes Jung/John Young."
+    }
+  ],
+  "openQuestionsNew": [
+    "Northampton Co. letters of administration / Orphans' Court c.1787 for John Young (Johannes Jung) of Easton - likely source of FamilySearch's 'before 12 Sep 1787'."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Johannes Jung (LC7F-6LH), wife Anna Maria Doll (LCFM-34B); source 'last will of Maria Young, Northampton Co PA, Will Book 4, p458'",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LC7F-6LH",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, wife and children"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives him as Johannes Jung of Easton, c.1745-before 12 Sep 1787, with ten children incl. Maria (Mrs Frederick Grub); the tree's 1813 death is probably his widow's."
+}

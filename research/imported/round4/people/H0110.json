@@ -1,0 +1,61 @@
+{
+  "id": "H0110",
+  "name": "Francis Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "19 Aug 1909",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "25 Nov 1990",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Hanover Twp, Luzerne Co., PA",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Frank Pringle"
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "21 Oct 1936",
+        "place": "Luzerne Co., PA",
+        "description": "To Mary Clark (1913-2000); matches the 1936 licence no. 1732 already on file",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L5BP-VZT"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Francis (Frank) Pringle a birth date of 19 Aug 1909 at Plymouth and a death date of 25 Nov 1990, with burial in Hanover Twp, Luzerne Co. It records his marriage on 21 Oct 1936 to Mary Clark (1913-2000) and has him in Wilkes-Barre in 1940 (S1). A GenealogyBank obituary index entry for Frank Pringle is attached but was not read.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Francis Pringle (L5BP-VZT), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L5BP-VZT",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, residences"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 19 Aug 1909-25 Nov 1990, buried Hanover Twp, m. 1936 Mary Clark."
+}

@@ -7,9 +7,13 @@
   "sex": "M",
   "tags": [],
   "summary": "Possible distant Lamoreaux cousin (speculative).",
-  "bio": "Silas W. Lamoreux (1843-1909), born Lenox, Madison Co., NY; Commissioner of the General Land Office 1893-97. The 1919 book says his family came from an Orange Co. Lamoreaux family; line not traced. Others named in the 1919 book without traced descent: Rev. Rufus Lamoreaux, Andrew (Colorado legislator), Prof. Oscar F. Lamoreaux (Wheaton), Prof. Wendell Lamoreaux (Union), Judge John J. Lamoree (Oswego).",
+  "bio": "Silas W. Lamoreux (1843-1909), born Lenox, Madison Co., NY; Commissioner of the General Land Office 1893-97. The 1919 book says his family came from an Orange Co. Lamoreaux family; line not traced. Others named in the 1919 book without traced descent: Rev. Rufus Lamoreaux, Andrew (Colorado legislator), Prof. Oscar F. Lamoreaux (Wheaton), Prof. Wendell Lamoreaux (Union), Judge John J. Lamoree (Oswego).\n\nSilas Wright Lamoreux was born at Lenox, Madison Co., NY, on 8 Mar 1843 and came with his parents to Plover, Wisconsin, in 1852, joining his older brother Oliver; the family moved to Mayville a year later. He read law at Plover, was admitted at 21, served in the 5th Wisconsin Infantry in 1864-65, and returned to practise at Mayville. He sat in the Assembly in 1872, was Dodge County judge from 1877, and was Commissioner of the General Land Office under Cleveland (1893-97). At Beaver Dam he controlled the Beaver Dam Malleable Iron Works (750 employees) and was president of the German National Bank. He died at home on 5 Aug 1909 after long illness (blood poisoning, with diabetes); his funeral was held under Masonic auspices ([R4-S1], [R4-S2], [R4-S3]).\n\nThe 1919 Lamoureux Record places his family (Madison Co., NY, to Wisconsin in 1852) among the descendants of one of the Orange County Lamoreux families (John or Peter), but gives no generations ([R4-S4]). Neither obituary seen names his parents.",
   "sources": [
-    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "[R4-S1] Wikipedia, 'Silas W. Lamoreux' (secondary) https://en.wikipedia.org/wiki/Silas_W._Lamoreux",
+    "[R4-S2] Watertown Leader (Watertown, Wis.), 13 Aug 1909, p.7, 'Judge Lamoreux Is Dead at Beaver Dam' (Chronicling America) (primary) https://www.loc.gov/resource/sn85040722/1909-08-13/ed-1/?sp=7",
+    "[R4-S3] Watertown Leader, 6 Aug 1909, p.4, 'Prominent Man Called' (Chronicling America) (primary) https://www.loc.gov/resource/sn85040722/1909-08-06/ed-1/?sp=4",
+    "[R4-S4] A. J. Lamoureux, The Lamoureux Record no. 1 (1919) (secondary) https://archive.org/details/andrlamoureuxh00lamouoft"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +24,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Chronicling America 1909 'Lamoreux Beaver Dam': obituaries do not name parents"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: added full biography and Civil War service from Wikipedia and his 1909 Watertown Leader obituary; parentage still untraced."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0195.json."
     }
   ],
   "media": [
@@ -46,7 +62,74 @@
       "source": "Wikipedia",
       "note": "Silas Wright Lamoreux or Lamoreaux (March 8, 1843 – August 5, 1909) was an American lawyer from Wisconsin who served as a member of the Wisconsin State Assembly and as the 28th Commissioner of the General Land Office of the United States.\nHe was the brother of Oliver Lamoreux, who served in the same",
       "url": "https://en.wikipedia.org/wiki/Silas_W._Lamoreux"
+    },
+    {
+      "url": "https://www.loc.gov/resource/sn85040722/1909-08-13/ed-1/?sp=7",
+      "type": "link",
+      "title": "Obituary of Judge S. W. Lamoreux, Watertown Leader",
+      "date": "1909-08-13",
+      "source": "Library of Congress, Chronicling America, public_domain",
+      "note": "Published 1909; not downloaded (text captured). (not downloaded: rights public_domain)",
+      "people": []
     }
   ],
-  "photo": "media/H0195/h0195-lamoreux-46.jpg"
+  "photo": "media/H0195/h0195-lamoreux-46.jpg",
+  "birth": {
+    "date": "1843-03-08",
+    "place": "Lenox, Madison Co., New York"
+  },
+  "death": {
+    "date": "1909-08-05",
+    "place": "Beaver Dam, Dodge Co., Wisconsin"
+  },
+  "aka": [
+    "Silas Wright Lamoreux",
+    "Silas W. Lamoreaux"
+  ],
+  "occupation": "Lawyer, county judge, iron manufacturer, banker",
+  "residences": [
+    {
+      "date": "1852",
+      "place": "Plover, Wisconsin",
+      "note": "came with parents aged 9 [R4-S2]"
+    },
+    {
+      "date": "1853",
+      "place": "Mayville, Wisconsin",
+      "note": "[R4-S2]"
+    },
+    {
+      "date": "1897-1909",
+      "place": "Beaver Dam, Wisconsin",
+      "note": "[R4-S2]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Wisconsin State Assembly",
+      "date": "1872",
+      "place": "Dodge Co. 5th district",
+      "description": "Democrat; his brother Oliver sat in the same session for Portage Co. [R4-S1]"
+    },
+    {
+      "title": "Dodge County judge",
+      "date": "1877-1893",
+      "place": "Dodge Co., WI",
+      "description": "[R4-S2]"
+    },
+    {
+      "title": "Commissioner of the General Land Office",
+      "date": "1893-1897",
+      "place": "Washington, D.C.",
+      "description": "Appointed by President Cleveland. [R4-S1] [R4-S2]"
+    }
+  ],
+  "military": [
+    {
+      "note": "Enlisted 1864 in the reorganized 5th Wisconsin Volunteer Infantry; with the Army of the Potomac at Hatcher's Run, Fort Fisher (as printed) and before Petersburg; in charge of the distributing office at City Point, Va.; discharged 2 Jul 1865. [R4-S2]"
+    }
+  ],
+  "openQuestions": [
+    "Names of his parents (Madison Co., NY, to Plover, WI, 1852); 1850 census of Lenox, Madison Co. would give them."
+  ]
 }

@@ -25,6 +25,21 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch tree GV6C-8PM (only the already-known 1940/1950 census, obituary index and burial); FamilySearch source image GV6C-8PM i/1 (404)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: nothing beyond what is already recorded. Her 'Obituary Records 2014–2023' image (FamilySearch GV6C-8PM i/1) returned 404."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0010.json."
     }
+  ],
+  "openQuestions": [
+    "Read her obituary (FamilySearch 1:1:XMZ3-FPDD) in a signed-in session to get her husband's name (Smith) and her place of death."
   ]
 }

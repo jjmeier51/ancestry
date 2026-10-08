@@ -1,0 +1,61 @@
+{
+ "id": "H0350",
+ "name": "Katie Petrillo",
+ "status": "researched",
+ "bioAdditions": "The 1910 census lists 'Katie', a daughter aged 13, born in Pennsylvania (S1). Marie is recorded as mother of 6 children, all 6 living, and exactly six children are listed: Katie, Peter, Frank, Joseph, Tony and Charlie. Grace Petrillo, born 5 Jan 1897, would have been 13 in April 1910, yet she does not appear unless she is 'Katie'. Grace's 1943 repatriation card confirms she was US-born on that date (S2). Katie and Grace are therefore very probably the same girl ('Katie' perhaps a mishearing of 'Gracie'). In the 1920 census the 23-year-old at no. 1028 is recorded as 'Chas', son, male, a coal-mine laborer (S3). That entry is unexplained, since Charles Thomas was only 13. It may be a garbled entry for the same child, or a separate son not otherwise recorded.",
+ "conflicts": [
+  {
+   "field": "identity",
+   "siteValue": "Katie (c.1897 – before 1935) as a separate child from Grace (b. 5 Jan 1897)",
+   "foundValue": "Only six children existed in 1910 and Grace is not otherwise listed",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Probable duplicate: merge Katie into Grace (H0351). The 'before 1935' death has no source."
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "possible",
+  "justification": "As a separate person Katie is probably a duplicate of Grace; keep only as an alias pending John's review."
+ },
+ "openQuestionsResolved": [
+  {
+   "question": "Files list Katie (c.1897) and Grace (b. 5 Jan 1897) separately; whether they overlap was not examined",
+   "answer": "Examined: the 1910 census has 6 children born / 6 living and lists Katie (F, 13) with no Grace. Grace (b. Jan 1897, US-born) must be Katie. Probable.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1910 Petriello household; Katie is female, 13"
+  },
+  {
+   "ref": "S2",
+   "citation": "US District Court, Middle District of PA, naturalization index card (Form N-35), Grace DiBiasi, 1015 Bunker Hill St, Scranton; born Jan 5, 1897, country of birth U.S.A.; 'Rep.' (repatriation) June 29, 1943, vol. 1, certificate 250. Image attached to FamilySearch tree GQWT-QQ8 (index ark 1:1:6KPY-79MP).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Grace was US-born and was repatriated in 1943, i.e. she had lost citizenship by marrying an alien"
+  },
+  {
+   "ref": "S3",
+   "citation": "1920 US census, Scranton (part of 10th Ward), ED 142, sheet 13A (enumerated 9 Jan 1920), no. 1028 [Bunker Hill St]: John 'Patrello' (50, owned free, immigrated 1892, naturalized 1900, merchant, grocery store) and Mary (43), sons Peter (22), Frank (20), 'Chas' (23, male, coal-mine laborer), Ralph (14), Anthony (15), James (12), Michael (8), Rocco (7?) and daughter Carrie. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:M6YQ-5JP).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1920 Petriello household"
+  }
+ ],
+ "researchLogEntry": "Round 4: the 1910 census child count shows Katie (13) is very probably Grace (b. 5 Jan 1897); the 1920 'Chas' (male, 23) is unexplained.",
+ "researchedAt": "2026-10-08"
+}

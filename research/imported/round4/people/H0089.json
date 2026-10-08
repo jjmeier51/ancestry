@@ -1,0 +1,50 @@
+{
+  "id": "H0089",
+  "name": "Elizabeth Leggett",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Named in husband's will",
+        "date": "10 Oct 1746",
+        "place": "Philipse's Precinct, Dutchess Co., NY",
+        "description": "Left £30 plus the improvements, a Negro, and goods and chattels 'for bringing up my Children' until her marriage or death; named an executrix",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Her husband's will of 10 Oct 1746 names her, Elizabeth Davenport, as his wife and an executrix. It leaves her the household goods and an enslaved person to bring up the seven minor children: Oliver, Charity, Phebe, Robert, Hannah, Stephen and Abigail (S1). That makes her Charity's mother. The Davenport genealogy says only that she 'is believed' to have been a sister of Sarah, Martha and Alice Leggett, daughters of Mrs Elizabeth Leggett of Fordham Manor, and that she survived her husband. No document naming her as a Leggett was found.",
+  "relationships": [
+    {
+      "type": "child",
+      "personId": "H0073",
+      "evidence": "The 1746 will lists Charity among the minor children she was to bring up",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "probable",
+    "justification": "The will makes her Charity's mother (probable). Her maiden name Leggett is still only believed and should be shown as uncertain."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles, Thomas Davenport, Pioneer, and His Descendants: will of Thomas Davenport dated 10 Oct 1746 (transcribed) and discussion of his two wives",
+      "url": "https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "wife Elizabeth; mother of the seven minors"
+    }
+  ],
+  "openQuestionsNew": [
+    "Leggett maiden name: check the will of Mrs Elizabeth Leggett of Fordham (Westchester) for a daughter Elizabeth Davenport."
+  ],
+  "researchLogEntry": "Round 4: the 1746 will shows wife Elizabeth bringing up seven minors incl. Charity, making her Charity's mother; the Leggett surname is still only believed."
+}

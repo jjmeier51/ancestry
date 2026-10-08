@@ -1,0 +1,65 @@
+{
+  "id": "H0109",
+  "name": "Catherine Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1911",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1969",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Katherine Pringle",
+      "Catherine Toole"
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "20 Jun 1936",
+        "place": "Luzerne Co., PA",
+        "description": "To Daniel F. Toole (1911-1996)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1950",
+        "place": "Wilkes-Barre",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GQ6X-VZG"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Katherine (Catherine) a birth year of 1911 and records her marriage in Luzerne Co. on 20 Jun 1936 to Daniel F. Toole (1911-1996). It places her in Wilkes-Barre in 1950 and gives 1969 as her death year (S1). Since she was born in 1911, she was presumably the youngest child, not 'about 1912'. A WWII draft card for 'Catherine Toole' is attached, which probably means she was named as the contact on her husband's card.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Catherine Pringle (GQ6X-VZG), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GQ6X-VZG",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, residences"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 1911-1969 and m. 1936 Daniel F. Toole."
+}

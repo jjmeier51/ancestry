@@ -1,0 +1,41 @@
+{
+  "id": "H0315",
+  "name": "Benjamin Franklin Thompson",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "15 May 1784",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "12 Jun 1810",
+        "place": "",
+        "description": "Married Mary Howard, daughter of Rev. Zachariah and Mrs Abigail Greene; son Henry Rutgers (1813-1842).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Son of Dr. Samuel Thompson and his first wife Phebe Satterly (S1); 3rd cousin 8 times removed via John Thompson. Irony worth telling: his own family account (the source used by earlier rounds) contains the two errors later disproved, the 1609 birth and the Mayflower Brewster wife for John Thompson.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), pp. 297-298",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dr. Samuel Thompson's family; B. F. Thompson's birth and marriage"
+    }
+  ],
+  "searchedNoResult": [
+    "Wikipedia: no article 'Benjamin Franklin Thompson' / 'Benjamin F. Thompson'",
+    "Commons search: only scans of his History of Long Island, no portrait"
+  ],
+  "researchLogEntry": "Round 4: birth date, parents and marriage from Thompson vol. 3.",
+  "researchedAt": "2026-10-08"
+}

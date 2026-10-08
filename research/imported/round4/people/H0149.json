@@ -1,0 +1,29 @@
+{
+  "id": "H0149",
+  "name": "Temperance Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "K8G2-K9C"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch attaches an Ohio death record (1908-1953) of a Sarah Lydia Castner that names 'Temperance Pringle' as her mother (S1). This is a daughter of Temperance and Clark S. Davenport from the couple's Ohio years, and it independently confirms Temperance's maiden name. The household is in the 1850 and 1860 censuses (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Temperance Pringle (K8G2-K9C), citing Ohio Deaths 1908-1953 (entry for Sarah Lydia Castner) and the 1850 and 1860 censuses",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K8G2-K9C",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "maiden name via daughter's death record"
+    }
+  ],
+  "openQuestionsNew": [
+    "Sarah Lydia (Davenport) Castner's Ohio death certificate names Temperance Pringle as her mother; worth adding to the tree as a child."
+  ],
+  "researchLogEntry": "Round 4: FamilySearch has a daughter, Sarah Lydia Castner, whose Ohio death record names her mother as Temperance Pringle."
+}

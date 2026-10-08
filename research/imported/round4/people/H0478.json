@@ -1,0 +1,36 @@
+{
+  "id": "H0478",
+  "name": "Thomas Strong",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "14 May 1760",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "16 Aug 1734",
+        "place": "",
+        "description": "Married Susannah Thompson; his father Selah Strong had come from Northampton, Mass., to Setauket in 1720.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Thomas Strong m. 16 Aug 1734 Susannah Thompson; d. 14 May 1760; father Selah from Northampton 1720"
+    }
+  ],
+  "researchLogEntry": "Round 4: marriage and death from Thompson vol. 3.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,98 @@
+{
+ "id": "H0139",
+ "name": "John P. Connole",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "John Francis Connole Jr.",
+   "Dr. John F. Connole"
+  ],
+  "birth": {
+   "date": "1882-11-25",
+   "place": "Plymouth, Pa.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "1945-08-29",
+   "place": "Wilkes-Barre, Pa.",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "burial": {
+   "cemetery": "St. Mary's Cemetery",
+   "place": "Hanover Twp, Pa.",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "occupation": "Physician (Doctor of Medicine)",
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1911-06-29",
+    "place": "Luzerne Co., Pa.",
+    "description": "Married Catherine Buckley (1887-1962)",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1918",
+    "place": "108 Church St, Plymouth",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The surgeon recorded as \"Dr. John P. Connole, b. 1882\" appears to be Dr. John Francis Connole Jr. His WWI draft card (12 Sep 1918) gives birth 25 Nov 1882, occupation Doctor of Medicine, of 108 Church St, Plymouth (S1). FamilySearch makes him a son of John F. Connole and Mary E. Keating, married to Catherine Buckley in 1911, living in Wilkes-Barre by 1930, and dying there 29 Aug 1945 (S2). That fits the Harvey & Smith sketch (Plymouth 15 years, then Wilkes-Barre from 1923).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "H0136",
+   "evidence": "FS child of John F. Connole; \"Jr.\" on marriage record",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "conflicts": [
+  {
+   "field": "name",
+   "siteValue": "John P. Connole",
+   "foundValue": "John Francis Connole Jr.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "\"P.\" is probably a misprint/misreading for \"F.\"; birth year, profession and Plymouth-to-Wilkes-Barre career all match."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "U.S. WWI draft registration card, John Francis Connole, Plymouth, 12 Sep 1918 (image via FamilySearch, GC1C-W4J)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "b. 25 Nov 1882; Doctor of Medicine; 108 Church St, Plymouth",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC1C-W4J/images/i/2/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), John Francis Connole (1882-1945), PID GC1C-W4J; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents, marriage, residences, death, burial",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC1C-W4J"
+  }
+ ],
+ "researchLogEntry": "Round 4: identified as Dr. John Francis Connole Jr. (1882-1945) via WWI draft card."
+}

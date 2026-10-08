@@ -1,0 +1,81 @@
+{
+  "id": "H0032",
+  "name": "Karolina Birkenmayer",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1869-03-16",
+      "place": "Munzingen, Amt Freiburg, Baden",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Munzingen",
+      "cemetery": "Munzingen (Catholic parish)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "seamstress (Näherin)",
+    "events": [
+      {
+        "title": "Death",
+        "date": "1869-03-16",
+        "place": "Munzingen",
+        "description": "Died at 1 a.m. after receiving the last sacraments; buried 18 Mar 1869 at 8 a.m. Aged 23 y 1 m 25 d. Single seamstress, legitimate daughter of the late citizen and joiner Servaz Birkenmaier and the late Agatha Heitzler. Witnesses were Joh. Georg Birkenmaier, gravedigger, and Johann Birkenmaier, single mason.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Karolina stayed in Munzingen when her sister Maria Anna's family left for America in 1868. She died there, unmarried, on 16 Mar 1869 at one in the morning, and was buried on the 18th. The register calls her a seamstress, aged 23 years, 1 month and 25 days, which points to a birth around 21 Jan 1846. She was the legitimate single daughter of the late joiner Servaz Birkenmaier and the late Agatha Heitzler. The witnesses were the gravedigger Johann Georg Birkenmaier and the single mason Johann Birkenmaier, both probably kin (S1). With her death, only her brothers Joseph and Gabriel, both in Ohio, and Maria Anna in Pennsylvania were left of the family.",
+  "openQuestionsResolved": [
+    {
+      "question": "Death 1869 (date and place).",
+      "answer": "Died 16 Mar 1869 at Munzingen, buried 18 Mar (Todtenbuch 1869 No. 5).",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "Death entry names both parents."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Todtenbuch 1869 No. 5, p. 467 (image 618); index 'Register zum Todtenbuch 1869' (image 623): 'Birkenmaier Carolina d. Servaz, 467'",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-618",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Death 16 Mar 1869, burial 18 Mar, age, parents, occupation"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Munzingen death register 1869 No. 5: Carolina Birkenmaier",
+      "date": "1869-03-18",
+      "pageUrl": "http://www.landesarchiv-bw.de/plink/?f=5-480947-618",
+      "directUrl": "",
+      "repository": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0032/death-1869-munzingen-L10-1591-img618.jpg",
+      "people": [
+        "H0032",
+        "I282608064919",
+        "I282608064942"
+      ],
+      "suggestedFile": "media/H0032/death-1869-munzingen-L10-1591-img618.jpg",
+      "note": "Left page, No. 5. Public Domain Mark 1.0."
+    }
+  ],
+  "researchLogEntry": "Round 4: found her death, Munzingen 16 Mar 1869 (No. 5), aged 23, seamstress, unmarried.",
+  "researchedAt": "2026-10-08"
+}

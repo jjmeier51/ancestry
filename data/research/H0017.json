@@ -1,23 +1,28 @@
 {
   "id": "H0017",
   "link": {
-    "confidence": "confirmed",
-    "note": "1870 census (infant born PA, Sept) and 1880 ('Fressa', 11, born PA)."
+    "confidence": "possible",
+    "note": "1870 census (infant born PA, Sept) and 1880 ('Fressa', 11, born PA). Round 4 (confirmed → possible): Probably a duplicate of Theresa rather than a separate person."
   },
   "sex": "F",
   "aka": [
-    "Fressa Myer"
+    "Fressa Myer",
+    "Fressa (1880)",
+    "Frassa Myer (FamilySearch GK2H-S7D)",
+    "= Theresa Meier (I282608085064)"
   ],
   "tags": [
     "immigrant"
   ],
   "summary": "John's 3rd great-aunt; first of Henry's siblings born in America.",
-  "bio": "Her Pennsylvania birth about Sept 1869 bounds the family's emigration to before then.",
+  "bio": "Her Pennsylvania birth about Sept 1869 bounds the family's emigration to before then.\n\n'Clarissa' (an infant born in Pennsylvania in September, 1870 census) and 'Fressa' (11, 1880 census) are almost certainly Theresa Meier (I282608085064). Theresa's own 1896 marriage docket gives her birth as 10 September 1868 at Hazleton ([R4-S1]). Henry's household had no other daughter of that age. The 1880 'Fressa' is a phonetic spelling of 'Theresa' (German 'Resa'/'Tresa'), and the 1870 'Clarissa' is an enumerator's guess. FamilySearch carries the same duplicate, as 'Frassa Myer' (GK2H-S7D), separate from Theresa (G7GQ-D75). This record should be merged into I282608085064.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "1870 census Hazleton East Ward p.42 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/0/image.jpg",
     "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Luzerne County Orphans' Court Marriage License Docket No. 21146: Thomas A. Boyle × Theresa Meier, 1896 (FamilySearch index 1:1:VF9K-ZC5) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-D75/images/i/1/image.jpg",
+    "[R4-S2] 1880 U.S. census, Hazleton, Luzerne Co., PA: 'Frassa Myer' in household of Fredrick Myer (FamilySearch index 1:1:MWNZ-PDH) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GK2H-S7D/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -28,6 +33,21 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence confirmed → possible: Probably a duplicate of Theresa rather than a separate person."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified as Theresa (b. 10 Sept 1868); recommend merging."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0017.json."
     }
+  ],
+  "openQuestions": [
+    "Merge H0017 into I282608085064 (Theresa)."
   ]
 }

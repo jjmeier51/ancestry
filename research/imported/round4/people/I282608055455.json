@@ -1,0 +1,26 @@
+{
+  "id": "I282608055455",
+  "name": "Martha Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "bioAdditions": "",
+  "openQuestionsNew": [
+    "She is probably the wife of 'Samuel Prindle' (female aged 26-44) in the 1800 Plymouth Twp census (see Samuel Pringle), consistent with a birth c.1770-74 rather than the FamilySearch 1776.",
+    "Look for her as a widow in the 1850 Plymouth/Kingston census (Samuel d. 1847) to fix her birth year and test the FS death date 27 Aug 1859, which duplicates her sister Elizabeth Ransom's."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1800 US census, Plymouth Township, Luzerne Co., p.341, 'Samuel Prindle' household",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G99D-9DZ/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "female 26-44 in Samuel's household"
+    }
+  ],
+  "searchedNoResult": [
+    "FamilySearch KGC5-XY3 attached images (HSP marriage records x2, Benjamin Pringle 1853 burial record): all return 0-byte files",
+    "Full text of Bradsby, Munsell, Harvey Book, Pearce, Wright, Giles & Franklin: no death or burial date for Martha"
+  ],
+  "researchLogEntry": "Round 4: no death/burial record found; FS-attached marriage images are not viewable; 1800 census household noted."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "H0416",
+  "name": "Hanns Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1560 (FamilySearch, no source)",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "",
+      "place": "Oberbrombach (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "FamilySearch has 'Hans Grub', born 1560, died at Oberbrombach, as father of Christmann Grub, with wife Elsa (d. 1597 Oberbrombach); no sources are attached to either (S1).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "Unsourced tree entries only."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Hans Grub (GCNN-FQD) and Elsa (GCNN-VTB)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GCNN-FQD",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "claims only"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch has b. 1560, no sources."
+}

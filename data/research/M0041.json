@@ -1,0 +1,21 @@
+{
+  "id": "M0041",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: sibling of H0333 (candidate); child of H0335 (candidate)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree published profile GCPQ-BCG, Maria Guiseppina \"Josephine\" Gianella (1880-), with attached 1920 census, GenealogyBank obituary index and Avellino Stato Civile index (ark 1:1:QPRY-TT5Q) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GCPQ-BCG",
+    "[R4-S2] FamilySearch Family Tree published profile GCP7-7T8, Michele Archangelo Ragazzo (1879-1960) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GCP7-7T8"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-701 → M0041; research/imported/round4/new_people.json."
+    }
+  ]
+}

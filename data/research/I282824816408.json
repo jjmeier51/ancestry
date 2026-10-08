@@ -1,0 +1,38 @@
+{
+  "id": "I282824816408",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824816446, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824816434, probable): Baptism names Antonino (duplicate profiles I282824816434/I282824815695)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824816422, proven): Marriage"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 15 Jun 1659, marriage 11 Feb 1680."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816408.json."
+    }
+  ],
+  "bio": "Antonio was baptized on 15 June 1659, son of Antonino Colosimo and Angila Vaccaro ([R4-S1]). He married Giovanna Ierra on 11 February 1680 ([R4-S2]).",
+  "link": {
+    "confidence": "probable",
+    "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1653-1672 (Book 1), image 21, p. 19, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1653-1672'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1670-1687 (Book 2), image 121, p. 129; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
+  ]
+}

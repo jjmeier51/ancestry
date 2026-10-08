@@ -9,6 +9,30 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0224, probable): Thompson: 'Aaron, son of Job 1st'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: wife and children from Thompson vol. 3 p. 377."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0472.json."
     }
+  ],
+  "events": [
+    {
+      "title": "Marriage and family",
+      "date": "",
+      "place": "Smithtown",
+      "description": "Married Seviah, daughter of James Sands; children Othniel, Abigail, Sands, Jessie, Abner, Sarah and Seviah. [R4-S1]"
+    }
+  ],
+  "bio": "A son of Job Smith 1st and Elizabeth Thompson (John's 10th-great-grandparents), so a brother of John's 9th-great-grandfather James Smith and John's 9th-great-granduncle. Thompson's Smith account ([R4-S1]) gives his wife Seviah Sands and their children, including the patriot Abner Smith.",
+  "sources": [
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 377 (secondary) https://archive.org/details/historyoflongisl003thom"
   ]
 }

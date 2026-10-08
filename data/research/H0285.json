@@ -12,7 +12,7 @@
     "military"
   ],
   "summary": "John's 2nd cousin 9x removed via Bull Smith (also 3C9R via Topping); Orange County militia colonel and NY state senator — very probably the 'Colonel Woodhull' under whom Thomas Lamoreaux served.",
-  "bio": "Commanded the 1st Regiment of Orange County Militia (the Cornwall-area regiment); later NY state senator. SAR record for Thomas Lamoreaux says he served under 'Colonel Woodhull' (first name not given) — so Thomas very probably served under a cousin of his wife Keturah.",
+  "bio": "Commanded the 1st Regiment of Orange County Militia (the Cornwall-area regiment); later NY state senator. SAR record for Thomas Lamoreaux says he served under 'Colonel Woodhull' (first name not given) — so Thomas very probably served under a cousin of his wife Keturah.\n\nPath confirmed in two compiled sources: Bull Smith -> Richard 2d -> Sarah Smith (b. 13 Feb 1700, m. 1716 Nathaniel Woodhull of Mastic) -> Jesse: 2nd cousin 9 times removed (Woodhull Genealogy [R4-S1]; Pelletreau [R4-S3]). The proposed Topping route (via Richard Woodhull II's wife Temperance) is doubtful: the Woodhull Genealogy calls her a Fordham (see Abraham Woodhull). His daughter Hannah (b. 8 Jul 1761) married Oliver Smith of Moriches, a Bull Smith cousin ([R4-S3]).",
   "military": [
     {
       "branch": "Orange County, NY militia",
@@ -24,7 +24,10 @@
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Jesse_Woodhull",
     "jrm Needham I2322, https://jrm.phys.ksu.edu/Genealogy/Needham/d0000/I2322.html",
-    "SAR P-232580"
+    "SAR P-232580",
+    "[R4-S1] Mary Gould Woodhull & Francis Bowes Stevens, Woodhull Genealogy: The Woodhull Family in England and America (1904) (archive.org full text), pp. 62-63, 266 (secondary) https://archive.org/details/woodhullgenealog1904wood",
+    "[R4-S2] Wikipedia, 'Jesse Woodhull' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Jesse_Woodhull",
+    "[R4-S3] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466, 468 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -35,6 +38,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Bull Smith route verified in Woodhull Genealogy and Pelletreau; Topping route questioned."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0285.json."
+    }
+  ],
+  "birth": {
+    "date": "1735-02-10"
+  },
+  "death": {
+    "date": "1795-02-03"
+  },
+  "conflicts": [
+    {
+      "field": "secondary route",
+      "site": "3C9R via Topping",
+      "found": "Temperance (wife of Richard Woodhull II) was a daughter of Rev. Jonah Fordham per Woodhull Genealogy and Howell",
+      "assessment": "Drop the Topping route unless Temperance's parentage is proven."
     }
   ]
 }

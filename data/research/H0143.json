@@ -7,9 +7,10 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 2nd cousin 4x removed; Kingston merchant, Yale 1884.",
-  "bio": "Nelson George Pringle (1860-1908), son of Alexander J. Pringle; Kingston merchant; Yale class of 1884. His daughters Elizabeth H. and Bertha A. Pringle graduated from Vassar in 1913 and 1916 (3rd cousins 3x removed).",
+  "bio": "Nelson George Pringle (1860-1908), son of Alexander J. Pringle; Kingston merchant; Yale class of 1884. His daughters Elizabeth H. and Bertha A. Pringle graduated from Vassar in 1913 and 1916 (3rd cousins 3x removed).\n\nNelson George Pringle was the only child of Alexander J. Pringle (H0142) and Mary Price. He was born at Kingston on 5 Apr 1860 and educated at Wyoming Seminary and Yale. By 1899 he had been a merchant in Kingston for about fifteen years and lived there with his widowed mother. On 3 Jan 1884 he married Sarah Adula Copeland, daughter of the Rev. Dr. David Copeland, president of Wyoming Seminary from 1872 to 1882, and Sarah Wheelock. Their daughters were Elizabeth (b. 14 Jan 1891) and Bertha (b. 30 Oct 1893) ([R4-S1]). These are the Elizabeth H. and Bertha A. Pringle already on the site as Vassar graduates.",
   "sources": [
-    "Harvey & Smith vol. VI: https://archive.org/details/historyofwilkesb06harv"
+    "Harvey & Smith vol. VI: https://archive.org/details/historyofwilkesb06harv",
+    "[R4-S1] Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle (secondary) https://archive.org/details/harveybookgiving00harv"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +21,34 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0142, proven): Harvey Book p.138"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Harvey Book p.138 gives exact birth, marriage (3 Jan 1884, Sarah Adula Copeland) and daughters' birth dates. No 1908 obituary found online."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0143.json."
     }
+  ],
+  "birth": {
+    "date": "1860-04-05",
+    "place": "Kingston, Luzerne Co., PA"
+  },
+  "occupation": "Merchant, Kingston",
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1884-01-03",
+      "place": "",
+      "description": "Married Sarah Adula Copeland, daughter of Rev. Dr. David Copeland (President of Wyoming Seminary 1872-1882) and Sarah Wheelock. [R4-S1]"
+    }
+  ],
+  "openQuestions": [
+    "Death in 1908 (site): no obituary found in Chronicling America; the Wilkes-Barre papers for 1908 are not on Chronicling America."
   ]
 }

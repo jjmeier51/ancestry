@@ -2,16 +2,17 @@
   "id": "H0192",
   "link": {
     "confidence": "probable",
-    "note": ""
+    "note": "Round 4 (probable → probable): The 1919 family record independently ties the Utah Lamoreauxs (Andrew 'Lacy' and David Burlock) to Joshua of Scarborough."
   },
   "sex": "M",
   "tags": [],
   "summary": "Probably John's 2nd cousin 7x removed; president of the LDS French Mission.",
-  "bio": "Andrew Losee Lamoreaux (1812-1855), via Daniel Lamoureux -> Joshua (b. 1739; Loyalist; New Brunswick, then Scarborough near Toronto) -> John McCord Lamoreaux -> Andrew. President of the LDS French Mission; died of cholera at St. Louis while bringing converts west. The Utah branch descends from Joshua (1919 book).",
+  "bio": "Andrew Losee Lamoreaux (1812-1855), via Daniel Lamoureux -> Joshua (b. 1739; Loyalist; New Brunswick, then Scarborough near Toronto) -> John McCord Lamoreaux -> Andrew. President of the LDS French Mission; died of cholera at St. Louis while bringing converts west. The Utah branch descends from Joshua (1919 book).\n\nA. J. Lamoureux's Lamoureux Record (1919) says Joshua Lamoureux, youngest son of Daniel, married Elizabeth Ogden (b. 1738) in Dutchess Co., lived for a time in New Brunswick and then settled near Scarborough, York Co., Upper Canada. It says 'the Utah branch' descends from him through 'Andrew Lacy and David Burlock Lamoreaux who went to that territory with Brigham Young' ([R4-S1]). This supports the site's line through Joshua. The 1919 author's 'Andrew Lacy' is evidently Andrew Losee Lamoreaux. Andrew died in 1855, so 'went to that territory with Brigham Young' is loose for him: he died at St. Louis on the way.",
   "sources": [
     "LDS Church History Biographical Database",
     "Joseph Smith Papers",
-    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "[R4-S1] A. J. Lamoureux, The Lamoureux Record no. 1 (1919), section on Joshua, youngest son of Daniel (secondary) https://archive.org/details/andrlamoureuxh00lamouoft"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -22,6 +23,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → probable: The 1919 family record independently ties the Utah Lamoreauxs (Andrew 'Lacy' and David Burlock) to Joshua of Scarborough."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Lamoureux Record 1919 confirms the descent of the Utah branch (Andrew 'Lacy', David Burlock) from Joshua of Scarborough. Wikipedia blocked by rate limit."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0192.json."
     }
   ],
   "media": [
@@ -33,5 +46,16 @@
       "note": "Andrew Losee Lamoreaux, 1812-10-17 – 1855-06-13",
       "url": "https://www.wikitree.com/wiki/Lamoreaux-24"
     }
+  ],
+  "conflicts": [
+    {
+      "field": "middle name",
+      "site": "Losee",
+      "found": "'Lacy' (Lamoureux 1919)",
+      "assessment": "Probably a phonetic rendering by the 1919 compiler. Keep Losee, the form in LDS records."
+    }
+  ],
+  "openQuestions": [
+    "Wikipedia (Andrew L. Lamoreaux) could not be checked this round: HTTP 429 rate limit."
   ]
 }

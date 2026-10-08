@@ -10,7 +10,7 @@
   ],
   "tags": [],
   "summary": "John's 10th-great-grandfather; a smith who settled at Setauket and was a Brookhaven selectman.",
-  "bio": "A smith (whitesmith, gunsmith, blacksmith). At Stamford, Conn., in 1667 (sold his tools to pay debts); Oyster Bay 1668–73; Setauket by 1673; Brookhaven selectman 1686; last record a deed of 1691; died intestate. His five-acre home lot lay 'south of and adjoining the public green' at Setauket. Thompson's History of Long Island calls him 'the first Long Island ancestor of the compiler' (B. F. Thompson) and says he married Hannah Brewster on 12 June 1663 and was son of Rev. William Thompson of Braintree (link only 'traditionary', 'not very satisfactorily ascertained'). Champlin (NYGBR 46:4–9, 1915) showed Rev. William of Braintree had no son John and the Mayflower Brewster version false; Jacobus calls the tree-style dates 3 Jun 1609 / 14 Oct 1688 bogus and shows his only recorded wife was Mary (deeds 1680, 1685). Son Samuel married his cousin Hannah Brewster (daughter of Rev. Nathaniel, widow of John Muncy) and is buried at the southeast corner of Setauket Presbyterian Church. Thompson cousins: Selah Strong (2C9R), Rep. Selah B. Strong (4C7R), Judge Isaac Thompson (2C9R), Benjamin F. Thompson (3C8R), Jonathan Thompson (3C8R), David Thompson (4C7R).",
+  "bio": "A smith (whitesmith, gunsmith, blacksmith). At Stamford, Conn., in 1667 (sold his tools to pay debts); Oyster Bay 1668–73; Setauket by 1673; Brookhaven selectman 1686; last record a deed of 1691; died intestate. His five-acre home lot lay 'south of and adjoining the public green' at Setauket. Thompson's History of Long Island calls him 'the first Long Island ancestor of the compiler' (B. F. Thompson) and says he married Hannah Brewster on 12 June 1663 and was son of Rev. William Thompson of Braintree (link only 'traditionary', 'not very satisfactorily ascertained'). Champlin (NYGBR 46:4–9, 1915) showed Rev. William of Braintree had no son John and the Mayflower Brewster version false; Jacobus calls the tree-style dates 3 Jun 1609 / 14 Oct 1688 bogus and shows his only recorded wife was Mary (deeds 1680, 1685). Son Samuel married his cousin Hannah Brewster (daughter of Rev. Nathaniel, widow of John Muncy) and is buried at the southeast corner of Setauket Presbyterian Church. Thompson cousins: Selah Strong (2C9R), Rep. Selah B. Strong (4C7R), Judge Isaac Thompson (2C9R), Benjamin F. Thompson (3C8R), Jonathan Thompson (3C8R), David Thompson (4C7R).\n\nPelletreau calls him 'John Thompson, Esq., of Setauket', father of Elizabeth, wife of Job Smith ([R4-S1]). Weygant (1897) repeats the disproven Rev. William Thompson/Brewster story ([R4-S2]).",
   "residences": [
     {
       "date": "1667",
@@ -35,7 +35,9 @@
     "Thompson, History of Long Island (1918 ed.) vol. 2 p. 310, vol. 3 pp. 292–297, https://archive.org/details/historyoflongisl003thom",
     "Champlin, 'Thompson and Brewster,' NYGBR 46 (1915): 4–9, https://archive.org/details/newyorkgenealog46gree",
     "Jacobus, TAG 12:199–204, 13:221 (via WikiTree Thompson-213)",
-    "jrm Needham I2523"
+    "jrm Needham I2523",
+    "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
   ],
   "occupation": "Smith; Brookhaven selectman",
   "handoff": {
@@ -47,6 +49,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: nothing beyond Pelletreau's restatement."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0229.json."
     }
   ]
 }

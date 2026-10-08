@@ -1,0 +1,105 @@
+{
+ "id": "H0370",
+ "name": "Antonio Giannetta",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Anthony Genett",
+   "Tony"
+  ],
+  "birth": {
+   "date": "1907-09-18",
+   "place": "Italy (Bisaccia per FS)",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "occupation": "Laborer, coal breaker (1940); Penn Anthracite Collieries (1940); railroad car repairman (1950)",
+  "military": [
+   {
+    "note": "WWII: draft registration 16 Oct 1940 (serial 2132, Local Board No. 6, Dunmore); card annotated 'Honorably Discharged from U.S. Army October 26, 1945'.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1940-04-05",
+    "place": "133 Sand St, Dunmore, PA",
+    "note": "Son, 31, single, laborer at coal breaker",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1950-04-22",
+    "place": "133 Sand St, Dunmore, PA",
+    "note": "Head, 42, naturalized, railroad car repairman; wife Pearl 42; mother Angelica 75",
+    "sourceRefs": [
+     "S3"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Physical description",
+    "date": "1940-10-16",
+    "place": "Dunmore",
+    "description": "5 ft 2 in, 135 lb, brown eyes, black hair, ruddy complexion, scar on left cheek.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Anthony's draft card gives his birth as 18 Sep 1907 in Italy. In October 1940 he lived with his mother at 133 Sand Street and worked for Penn Anthracite Collieries on Nay Aug Avenue, the same company as his brother-in-law James Petriello. The card was later annotated that he was honorably discharged from the U.S. Army on 26 October 1945, so he served in WWII (S1). By 1950 he was married to Pearl (Nocella), worked as a railroad car repairman, and had his widowed mother living with him at no. 133 (S3).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "WWII draft registration card, Anthony Genett, serial 2132, order 2317, Local Board No. 6, Dunmore; registered 16 Oct 1940; annotated 'Honorably Discharged from U.S. Army October 26, 1945'. Image attached to FamilySearch trees GQPJ-85H and LCPG-FC6 (index ark 1:1:Q29C-5KM3).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-85H/images/i/2/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Antonio/Anthony Giannetta b. 18 Sep 1907 Italy; 133 Sand St; mother Mrs. Angelica Genett; Penn Anthracite Collieries; WWII Army service"
+  },
+  {
+   "ref": "S2",
+   "citation": "1940 US census, Dunmore borough Ward 5, ED 35-66, sheet 4A (5 Apr 1940), 133 Sand Street: Angelica Genett (head, 64, widowed, b. Italy, owned house worth $1,000), sons Anthony (31) and Charles J. (24, trackman, steam railroad), daughter-in-law Jeanette (21), granddaughter Angela (1). Image attached to FamilySearch tree GQPJ-C82 (index ark 1:1:KQDW-7K6).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-C82/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Angelica widowed by 1940; household at 133 Sand St"
+  },
+  {
+   "ref": "S3",
+   "citation": "1950 US census, Dunmore borough, ED 35-115, sheet 16 (22 Apr 1950), 133 Sand Street: Anthony Genett (42, b. Italy, railroad car repairman), wife Pearl, mother Angelica Genett (75, widowed, b. Italy, naturalized). Image attached to FamilySearch tree LCPG-FC6 (index ark 1:1:6X13-H245).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-FC6/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Angelica alive Apr 1950, widowed, living with son Anthony at 133 Sand St"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "WWII draft registration card of Anthony Genett, 16 Oct 1940 (discharge annotation 1945)",
+   "date": "1940-10-16",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-85H/images/i/2/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-85H/images/i/2/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0370/wwii-draft-card-1940.jpg",
+   "people": [
+    "H0370",
+    "H0334"
+   ],
+   "suggestedFile": "media/H0370/wwii-draft-card-1940.jpg",
+   "note": "Selective Service record: US government work, public domain. Card also shows a 1940 telephone number, not transcribed."
+  }
+ ],
+ "researchLogEntry": "Round 4: draft card (b. 18 Sep 1907; WWII Army, discharged 26 Oct 1945) and the 1940/1950 censuses.",
+ "researchedAt": "2026-10-08"
+}

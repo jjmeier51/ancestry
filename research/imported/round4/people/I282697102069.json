@@ -1,0 +1,19 @@
+{
+ "id": "I282697102069",
+ "name": "Mariantonia Cannatello",
+ "researchedAt": "2026-10-08",
+ "status": "nothing_new",
+ "conflicts": [
+  {
+   "field": "duplicate",
+   "siteValue": "Mariantonia Cannatello b. 4 Dec 1816",
+   "foundValue": "Giovanni Cognetta's 1855 birth act names his mother 'Donna Mariangela Cannatello'",
+   "sourceRefs": [],
+   "assessment": "Merge into H0337."
+  }
+ ],
+ "searchedNoResult": [
+  "n/a: duplicate profile"
+ ],
+ "researchLogEntry": "Round 4: same woman as Mariangela Cannatello (H0337), Nicola Cognetta's wife; merge."
+}

@@ -1,0 +1,73 @@
+{
+  "id": "H0314",
+  "name": "Isaac Thompson",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "18 Jan 1743",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "3 Jan 1816",
+      "place": "Sagtikos Manor, Islip, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "4 Jun 1772",
+        "place": "",
+        "description": "Married Mary Gardiner, daughter of Col. Abraham Gardiner and Mary Smith (a Bull Smith descendant).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Son of Jonathan Thompson (1710-86) and Mary Woodhull, grandson of Samuel Thompson (S2): 2nd cousin 9 times removed via John Thompson. Magistrate for more than forty years, judge of common pleas and assemblyman (S1). His wife made their children Bull Smith cousins too.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 470",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Judge Isaac Thompson dates, marriage, offices, children Jonathan and Abraham Gardiner"
+    },
+    {
+      "ref": "S2",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 297",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Jonathan (b. 25 Oct 1710) m. Mary Woodhull; children incl. Isaac"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Sagtikos Manor from the driveway",
+      "date": "2012",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sagtikos_Manor_from_Driveway.JPG",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sagtikos_Manor_from_Driveway.JPG",
+      "repository": "Wikimedia Commons (DanTD)",
+      "rights": "cc (CC BY-SA 3.0)",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0314/sagtikos-manor-2012.jpg",
+      "people": [
+        "H0314",
+        "H0316",
+        "H0317"
+      ],
+      "suggestedFile": "media/H0314/sagtikos-manor-2012.jpg",
+      "note": "CC BY-SA 3.0, attribution 'DanTD'. 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates and marriage from Pelletreau; Sagtikos Manor photo (CC BY-SA) downloaded.",
+  "researchedAt": "2026-10-08"
+}

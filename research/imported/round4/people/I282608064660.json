@@ -1,0 +1,46 @@
+{
+ "id": "I282608064660",
+ "name": "Catherine Boney",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "residences": [
+   {
+    "date": "1900",
+    "place": "Plymouth Borough, Ward 3, Luzerne Co., Pa.",
+    "note": "FamilySearch attaches the 1900 census record M3QQ-KR7 (\"Catherine Hefferman\", b. May 1814 Ireland) from the same enumeration district as her son Andrew's household; she was evidently living with Andrew. Her line is on the continuation sheet, which was not seen.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LB2N-F9R"
+   }
+  ]
+ },
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "bapt. 28 Feb 1814 (Gortnahoe, per Dwyer)",
+   "foundValue": "May 1814 (1900 census, as indexed on FS)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Year agrees; census month is self-reported at 86. Keep the baptism."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Catherine Boney (1814-1904), PID LB2N-F9R; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "1900 census index Catherine Hefferman, b. May 1814; 1904 death register (parents Thos & Ann Boney)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LB2N-F9R"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS indicates she lived with son Andrew in 1900 (census b. May 1814); nothing else new."
+}

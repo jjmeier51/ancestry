@@ -1,0 +1,33 @@
+{
+  "id": "H0218",
+  "name": "Henry Scott",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "7 Apr 1895",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GM97-D3R"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Henry a death date of 7 Apr 1895 and a wife, Margaret Ann Davis (1834-1884), with children from 1853. A New York county marriage record of a son, Walter S. Scott, names Henry as his father (S1). FamilySearch dates Stephen J. Scott's death to 19 Apr 1856 at Kingston.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Henry Scott (GM97-D3R), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GM97-D3R",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives d. 7 Apr 1895 and wife Margaret Ann Davis."
+}

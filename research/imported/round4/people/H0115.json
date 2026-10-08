@@ -1,0 +1,33 @@
+{
+ "id": "H0115",
+ "name": "Mary Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "burial": {
+   "cemetery": "St. Catherine Cemetery",
+   "place": "Moscow, Lackawanna Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LTDC-CG1"
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch records her burial in St. Catherine Cemetery, Moscow, Lackawanna County (S1), the cemetery used by the IHM Sisters' Marywood/Scranton community (context).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Mary \"Sr. Antonia\" Heffernan (1879-1955), PID LTDC-CG1; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial at St. Catherine Cemetery, Moscow",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LTDC-CG1"
+  }
+ ],
+ "researchLogEntry": "Round 4: burial place found on FS."
+}

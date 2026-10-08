@@ -1,14 +1,15 @@
 {
   "id": "I282695504584",
   "link": {
-    "confidence": "possible",
-    "note": "Named on FamilySearch only, no sources; no web hits."
+    "confidence": "unverified",
+    "note": "Named on FamilySearch only, no sources; no web hits. Round 4 (possible → unverified): No source; dates impossible."
   },
   "tags": [],
   "summary": "Possible 3rd great-grandfather of John (father of William R. McAvoy).",
   "sources": [
     "FamilySearch tree (K6NQ-ZXZ parents), unsourced",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -19,6 +20,30 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → unverified: No source; dates impossible."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch L85M-PG6: no events, no sources; Web/Chronicling America \"Peter McAvoy\" + Mary Doran: nothing relevant"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: flagged impossible birth year (c.1845) for father of a son b. c.1857; no source found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695504584.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "abt 1845",
+      "found": "His supposed son William R. McAvoy was born c.1857 in New York (licences 1914, 1923)",
+      "assessment": "Chronologically impossible as a father (age ~12). FamilySearch's Peter McAvoy (L85M-PG6) has no events or sources. Either the birth year is badly wrong or this is the wrong man; recommend keeping as unverified/possible at best."
     }
   ]
 }

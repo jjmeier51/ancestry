@@ -1,0 +1,44 @@
+{
+  "id": "H0104",
+  "name": "Genevieve Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "May 1893",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "6 May 1915",
+        "place": "New York City",
+        "description": "To William Leacacos (b. 1886), indexed in New York City Marriage Records 1829-1940",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "9KXX-MWR"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives her birth as May 1893 (from the 1900 census) and records her marriage to William Leacacos in New York City on 6 May 1915, indexed in the NYC marriage records. It lists a daughter born at Wilkes-Barre in 1922, so the couple lived in the Wyoming Valley afterwards. A GenealogyBank obituary index entry (1980-2015) under 'Genevieve Pringle Leacacos' is attached but was not read (S1). The site's note that 'Joseph Vincent married in New York City in 1915' probably belongs to Genevieve.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Genevieve Pringle (9KXX-MWR), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MWR",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, residences"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. May 1893 and her NYC marriage to William Leacacos on 6 May 1915."
+}

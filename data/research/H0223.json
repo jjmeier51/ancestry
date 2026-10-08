@@ -11,16 +11,19 @@
   ],
   "tags": [],
   "summary": "John's 8th-great-grandmother, wife of James Tuthill; through her come the Browne, Salmon and Horton (Barnabas Horton of Southold) ancestors.",
-  "bio": "Married James Tuthill about 1714. Not in the Ancestry tree, which instead shows 'Hannah S Reeve' as James's wife (an error merging Joshua Tuthill's marriage). WikiTree gives her parents as Jonathan Browne (1653–1710) & Elisabeth Salmon of Southold; Elisabeth was daughter of William Salmon (d. 1657) and Sarah Horton, daughter of Barnabas Horton of Southold, born Mowsley, Leicestershire. Brown executors in two Tuthill branches fit the marriage.",
+  "bio": "Married James Tuthill about 1714. Not in the Ancestry tree, which instead shows 'Hannah S Reeve' as James's wife (an error merging Joshua Tuthill's marriage). WikiTree gives her parents as Jonathan Browne (1653–1710) & Elisabeth Salmon of Southold; Elisabeth was daughter of William Salmon (d. 1657) and Sarah Horton, daughter of Barnabas Horton of Southold, born Mowsley, Leicestershire. Brown executors in two Tuthill branches fit the marriage.\n\nWikiTree's profile quotes Alva Tuttle (1968, p. 279) for Rachel's children with James Tuthill: Rachel (1715), James (1717), Elizabeth (1719), Daniel (1721), Mary (1725), Jonathan (b. 6 Oct 1727), Mehitable (1728/9) and John (1730) ([R4-S1]). The list includes Daniel of Goshen (will 1761) and James Jr. of New Windsor (will 1756), whose wills fit. WikiTree gives her a death of 1738, unsourced. Her father Jonathan Browne is given on WikiTree as d. 19 Aug 1710 at Orient. The Salmon Record has a 'Jonathan Brown died' on 18 Sept, apparently 1704 by its sequence ([R4-S2]). This could be a different Jonathan Brown, but the conflict should be checked.",
   "sources": [
     "WikiTree Tuthill-530 (getAncestors), https://www.wikitree.com/wiki/Tuthill-530",
     "Alva Tuttle (1968) p. 279",
     "McCurdy p14551",
     "NY Wills vol. III Liber 15 pp. 400–1; vol. VI Liber 23 p. 130",
-    "notes/round3/english_french_origins.md §2i"
+    "notes/round3/english_french_origins.md §2i",
+    "[R4-S1] WikiTree Browne-2352 (Rachel Browne), biography read via api.wikitree.com, quoting Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968) p. 279: children Rachel 1715, James 1717, Elizabeth 1719, Daniel 1721, Mary 1725, Jonathan b. 6 Oct 1727, Mehitable 1728-29, John 1730 (derivative) https://www.wikitree.com/wiki/Browne-2352",
+    "[R4-S2] The Salmon Records: a private register of marriages and deaths of the residents of the town of Southold, 1696-1811 (NYG&B, 1918), full text searched (primary) https://archive.org/details/salmonrecordspri00salm"
   ],
   "openQuestions": [
-    "Birth and death dates; a primary record of her parentage."
+    "Birth and death dates; a primary record of her parentage.",
+    "Rachel's death: WikiTree gives 1738 (unsourced). Any Brookhaven record?"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -31,6 +34,26 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Salmon Records marriages 1696-1720: no Tuthill-Browne marriage"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: children list (Alva p. 279) recorded; Salmon Record shows a Jonathan Brown d. 1704, conflicting with WikiTree's 1710 for her father."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0223.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "father's death",
+      "site": "Jonathan Browne d. 1710 (WikiTree Browne-1123)",
+      "found": "Salmon Record: 'Jonathan Brown died' 18 Sept, in the 1704 run of entries",
+      "assessment": "Unresolved; there may have been two Jonathan Browns in Southold. Check Southold probate."
     }
   ]
 }

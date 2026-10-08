@@ -9,7 +9,9 @@
   "summary": "Lead (now excluded): Henry Meier died Huntington, Long Island, 21 Jul 1931, NYS cert. 44888.",
   "sources": [
     "Reclaim the Records NYS Death Index 1931–35 CSV https://archive.org/download/reclaim-the-records-new-york-state-death-index-1880-1971/Reclaim_The_Records_-_New_York_State_Death_Index_-_1931-1935.csv",
-    "notes/round2/meier_gaps.md"
+    "notes/round2/meier_gaps.md",
+    "[R4-S1] 1950 U.S. census, Wilkes-Barre, Luzerne Co., PA, ED written '80-106', sheet 15, house 16 [Barney St] (FamilySearch index 1:1:6XB1-LZM7) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-BQ6/images/i/0/image.jpg",
+    "[R4-S2] Pennsylvania Death Index 1950, M(000)–O(662), PDF p.167: HARRY J MEIER, WLKS BRE, county 40, 12 20 50, file 104173 (secondary) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1950/D-50%20M(000)-O(662).pdf"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -24,6 +26,15 @@
     {
       "date": "2026-10-08",
       "note": "A second handoff record (\"Collateral relatives, same-surname people and ruled-out leads\", line 3658) also maps to this person."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: excluded. The real Henry J. Meier was alive in 1950 and died 20 Dec 1950 in Wilkes-Barre."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0055.json."
     }
-  ]
+  ],
+  "bio": "This lead is now definitively excluded. John's 3rd great-grandfather Henry J. Meier was alive in the 1950 census at 16 Barney St, Wilkes-Barre, aged 83 ([R4-S1]), and died at Wilkes-Barre on 20 Dec 1950 (PA death index 1950, file 104173) ([R4-S2]). The Henry Meier who died at Huntington, Long Island, in 1931 is someone else."
 }

@@ -1,0 +1,38 @@
+{
+  "id": "I282824816158",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824816231, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824816223, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824816153, proven): Marriage"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 5 Jun 1666, marriage 1681."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816158.json."
+    }
+  ],
+  "bio": "Anna Giovanna was born on 5 June 1666, daughter of Giuseppe Maletta and Vincenza Castagnaro ([R4-S1]). She married Antonino Cicco on 5 October 1681, aged 15 ([R4-S2]).",
+  "link": {
+    "confidence": "probable",
+    "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1653-1672 (Book 1), image 44, p. 43, no. 12; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1653-1672'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1670-1687 (Book 2), image 124, p. 131; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
+  ]
+}

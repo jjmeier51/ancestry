@@ -1,0 +1,54 @@
+{
+  "id": "H0019",
+  "name": "Maria Anna Creszentia Mayer",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Godmother to her niece Christina Mayer",
+        "date": "1864-05",
+        "place": "Munzingen",
+        "description": "'M. Anna Mayer, wife of Joseph Wenz, citizen and shoemaker of here' stood godmother with her brother Friedrich.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Husband godfather to Friedrich Meier",
+        "date": "1862-01-13",
+        "place": "Munzingen",
+        "description": "Her husband Joseph Wenz, shoemaker, was godfather to her nephew Friedrich (later Frederick Meier of Hazleton).",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Maria Anna and her husband Joseph Wenz stood by her brother Friedrich's young family. Joseph Wenz, shoemaker, was godfather to Friedrich's first son in Jan 1862 (S2). In May 1864 'M. Anna Mayer, wife of Joseph Wenz, citizen and shoemaker' was godmother, alongside Friedrich himself, to the illegitimate daughter of her youngest sister Paulina (S1).",
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "No change."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9, p. 522 (image 471); index 'Register zum Taufbuch 1864' (image 477)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-471",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Birth of Christina Mayer, illegitimate daughter of Paulina Mayer; godparents Friedrich Mayer and M. Anna Mayer, wife of Joseph Wenz"
+    },
+    {
+      "ref": "S2",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Godparents of Friedrich Mayer jun.: Joseph Wenz, shoemaker, and Sophie Mayer, single, in service at Freiburg"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: found her (and her husband Joseph Wenz) as godparents in the 1862 and 1864 Munzingen birth registers.",
+  "researchedAt": "2026-10-08"
+}

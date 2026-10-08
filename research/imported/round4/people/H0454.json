@@ -1,0 +1,69 @@
+{
+  "id": "H0454",
+  "name": "Gottlieb Hipp",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1790",
+        "place": "Easton / Forks Twp., Northampton Co., PA",
+        "note": "1790 census as 'Godlib Hipp' (Easton) / 'Gutlip Heap' (Forks Twp.) per WikiTree",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage to Maria Catharina Grub",
+        "date": "1777-01-21",
+        "place": "Easton area, Northampton Co., PA",
+        "description": "Per her St. John's Lutheran (Easton) burial entry: married Gottlieb Hipp 21 Jan 1777, 'lived together 59 years'.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Will",
+        "date": "1826-06-09 (proved 1839-10-28)",
+        "place": "Northampton Co., PA",
+        "description": "Names wife Catharine and 'John Grub, Frederic Grub, & Elizabeth Michael' as 'the brothers and sister of my said wife'; also a John Ihrie (probably a nephew). Will Book 6 pp.18-19.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Gottlieb Hipp married Maria Catharina Grub (b. 25 Nov 1755), daughter of Andreas and Maria Elisabeth Grub, on 21 Jan 1777. Her death entry at St. John's Lutheran, Easton, says they 'lived together 59 years'; she died 19 Mar 1836 (S1). He appears in the 1790 census around Easton/Forks Township. His will, dated 9 Jun 1826 and proved 28 Oct 1839, refers to 'John Grub, Frederic Grub, & Elizabeth Michael' as his wife's brothers and sister (S1). That makes it a document naming Frederick Grub (John Meier's 5th-great-grandfather) as living, and as Catharine's brother, in 1826.",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0202",
+      "evidence": "Andreas Grub's 1791 will ('Catherine the wife of Gotlieb Hipp'); Catharina's death entry",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Marriage and will documented in WikiTree's transcriptions of primary records; not viewed directly."
+  },
+  "openQuestionsNew": [
+    "Read Gottlieb Hipp's will (Northampton Will Book 6 pp.18-19; FamilySearch image ark 3:1:3QS7-L991-GCYB, login required) to confirm the wording naming Frederic Grub."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "WikiTree profile Grub-4 (Johann Andreas Grub), research notes citing Northampton Co. will file #1430, St. John's Lutheran (Easton) and First Reformed (Easton) registers, 1790 census, and Gottlieb Hipp's will (Northampton Will Book 6 pp.18-19)",
+      "url": "https://api.wikitree.com/api.php?action=getProfile&key=Grub-4&fields=Name,Bio&bioFormat=text",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "see text"
+    }
+  ],
+  "researchLogEntry": "Round 4: from WikiTree Grub-4's notes added the 1777 marriage and his 1826 will naming Frederic Grub as his wife's brother.",
+  "researchedAt": "2026-10-08"
+}

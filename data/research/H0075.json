@@ -1,16 +1,18 @@
 {
   "id": "H0075",
   "link": {
-    "confidence": "probable",
-    "note": "GEDBAS 53093 and WikiTree agree."
+    "confidence": "confirmed",
+    "note": "GEDBAS 53093 and WikiTree agree. Round 4 (probable → confirmed): Baptism (parents) read in the register; her marriage and children are documented in the existing file."
   },
   "sex": "F",
   "tags": [],
   "summary": "John's 7th-great-grandmother; Lutheran daughter of the Jettenbach smith.",
-  "bio": "Born 12 Dec 1702 at Jettenbach, Lutheran, daughter of Abraham Lampert, smith (Schmied) of Jettenbach; married Johann Nickel Grub 1720.",
+  "bio": "Born 12 Dec 1702 at Jettenbach, Lutheran, daughter of Abraham Lampert, smith (Schmied) of Jettenbach; married Johann Nickel Grub 1720.\n\nRound 4 read her baptism in the Reichenbach Lutheran register ([R4-S1]). On 17 Dec 1702 Abraham Lamperti of Jettenbach and his wife Maria Sara had their daughter Elisabetha Margretha baptized, five days after the 12 Dec birth on the site. Among the godparents was Conrad, son of Hans Peter Grub of Jettenbach, so the two families were close long before her marriage to Nickel Grub in 1720. The entry names her mother only as Maria Sara. FamilySearch identifies her as Maria Sara Jung (c.1678-before 1721), daughter of Paul Jung and Maria Barbara, and earlier the widow of Johann Philipp Wirth, and dates her marriage to Abraham at Glan-Münchweiler to 6 Oct 1699 ([R4-S2]). FamilySearch gives Elisabetha Margaretha's death as 8 May 1749 at Jettenbach, with burial the next day ([R4-S2]).",
   "sources": [
     "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193192331: https://gedbas.genealogy.net/person/show/1193192331",
-    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
+    "[R4-S1] Reichenbach (Landstuhl), Evangelical Lutheran register, baptisms 1702 p.42: Elisabetha Margretha, daughter of Abraham Lamperti and Maria Sara of Jettenbach (FS Germany Lutheran Baptisms, Marriages and Burials, 'Elisabetha Margaretha Lamperti') (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L58R-7JQ/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch published tree, Elisabetha Margaretha Lampert (L58R-7JQ); mother Maria Sara Jung (MCWN-N5Z) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L58R-7JQ"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +23,56 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Baptism (parents) read in the register; her marriage and children are documented in the existing file."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0079, proven): 1702 baptism names father Abraham Lamperti"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read her 17 Dec 1702 baptism (parents Abraham Lamperti and Maria Sara; godfather Conrad Grub); FamilySearch gives d. 8 May 1749 and mother Maria Sara Jung."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0075.json."
+    }
+  ],
+  "death": {
+    "date": "1749-05-08",
+    "place": "Jettenbach"
+  },
+  "burial": {
+    "place": "Jettenbach"
+  },
+  "events": [
+    {
+      "title": "Baptism",
+      "date": "1702-12-17",
+      "place": "Reichenbach Lutheran parish (Jettenbach entry)",
+      "description": "'Eodem die' after an entry of 17 Dec: Abraham Lamperti of Jettenbach and his wife Maria Sara had a daughter Elisabetha Margretha baptized. Godparents include 'Conrad, Hans Peter Gruben ehelicher Sohn zu Jettenbach' (her future husband's half-brother), plus women of Jettenbach, Niederstaufenbach and Kollweiler. [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "L58R-7JQ"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L58R-7JQ",
+      "type": "link",
+      "title": "Reichenbach Lutheran baptisms 1702 p.42: Elisabetha Margretha Lampert",
+      "date": "1702-12-17",
+      "source": "FamilySearch, unknown",
+      "note": "Church-book image; viewed only (not downloaded: rights unknown)",
+      "people": [
+        "H0079"
+      ]
     }
   ]
 }

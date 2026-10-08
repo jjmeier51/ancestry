@@ -1,0 +1,67 @@
+{
+  "id": "H0283",
+  "name": "Joseph Blydenburgh",
+  "status": "researched",
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "H0497",
+      "evidence": "(father Joseph Blydenburgh 2d, not in tree) Pelletreau's Blydenburgh sketch: 'Issue of Joseph, 2d, and wife, \"Saxton\": Joseph, 3, 1732-1833, married Nancy Smith; Daniel, killed in the French War; William...'. Joseph 2d is listed among the issue of Joseph 1st by his SECOND wife 'Collosia', not by Deborah Smith.",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "",
+        "place": "",
+        "description": "Married Nancy Smith (parentage not given).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Pelletreau's Blydenburgh family sketch (S1) settles the open point: Joseph (1732-1833) was a son of Joseph Blydenburgh 2d and his wife (a Saxton), and Joseph 2d was a child of the immigrant's son Joseph 1st by his second wife 'Collosia' (the Catherine DeHart of other sources), not by Deborah Smith. So Joseph (1732) does not descend from Bull Smith and is not John's blood cousin through that route. His brother Daniel was killed in the French War. He married Nancy Smith, whose parentage is not stated (if she was a Bull Smith, their children would be cousins).",
+  "conflicts": [
+    {
+      "field": "relationship",
+      "siteValue": "Possibly 3C8R (Bull -> Jonathan -> Deborah -> Joseph -> Joseph)",
+      "foundValue": "Descends from Joseph 1st's second wife 'Collosia', not Deborah Smith",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Not kin via Bull Smith; recommend changing to in-law family / not related."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "unverified",
+    "justification": "The proposed blood link is contradicted by Pelletreau's sketch; keep only as a Hauppauge neighbour/in-law."
+  },
+  "openQuestionsResolved": [
+    {
+      "question": "the sources do not say which wife bore his father",
+      "answer": "Pelletreau's sketch lists Joseph 2d among the issue of the second wife 'Collosia'.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 483-485",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Blydenburgh family sketch: Augustine (d. 1686); Joseph 1st m. Deborah Smith, then 'Collosia'; Joseph 3 (1732-1833) son of Joseph 2d"
+    }
+  ],
+  "researchLogEntry": "Round 4: Pelletreau's Blydenburgh sketch shows his line comes from Joseph 1st's second wife; not a Bull Smith descendant.",
+  "researchedAt": "2026-10-08"
+}

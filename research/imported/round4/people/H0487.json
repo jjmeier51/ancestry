@@ -1,0 +1,68 @@
+{
+  "id": "H0487",
+  "name": "Richard Townley",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "Apr 1711",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Col. Richard Townley"
+    ],
+    "events": [
+      {
+        "title": "Emigration",
+        "date": "1683",
+        "place": "Virginia",
+        "description": "Came in the suite of Lord Howard of Effingham, Governor of Virginia; settled at Elizabethtown, NJ.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Marriage",
+        "date": "1685",
+        "place": "Elizabethtown, NJ",
+        "description": "Married (as his second wife) Elizabeth (Smith), widow of Gov. Philip Carteret.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Eighth son of Nicholas Townley of Littleton (then Middlesex); member of the East New Jersey Council (1686) and of the New York Provincial Council (1692, 1697); presiding judge of the Essex County Quarter Sessions at his death in April 1711 (S1). In-law.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Richard Townley' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Richard_Townley",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Origin, emigration, marriage, offices, death"
+    }
+  ],
+  "media": [
+    {
+      "type": "document",
+      "title": "Coat of arms of Richard Townley (modern rendering)",
+      "date": "2023",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Richard_Townley.svg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Coat_of_Arms_of_Richard_Townley.svg",
+      "repository": "Wikimedia Commons (after NEHGS Roll of Arms)",
+      "rights": "cc (CC BY-SA 4.0)",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0487"
+      ],
+      "suggestedFile": "media/H0487/richard-townley-arms.svg",
+      "note": "Reusable under CC BY-SA 4.0; not downloaded (in-law; modern drawing)."
+    }
+  ],
+  "researchLogEntry": "Round 4: Wikipedia biography; in-law.",
+  "researchedAt": "2026-10-08"
+}

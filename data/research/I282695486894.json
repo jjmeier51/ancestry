@@ -1,13 +1,16 @@
 {
   "id": "I282695486894",
   "link": {
-    "confidence": "unverified",
-    "note": ""
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): Identity (dates, parents, son Benjamin) is fully documented by the Congressional biography summary and a contemporary newspaper; his kinship to John Meier depends on the Symmes/Tuthill (Long Island) link, which is outside this worklist."
   },
   "tags": [],
   "summary": "",
-  "bio": "",
-  "funFacts": [],
+  "bio": "John Scott Harrison (4 Oct 1804 - 25 May 1878) was a son of President William Henry Harrison and Anna Tuthill Symmes, born at Grouseland, Vincennes, and the father of President Benjamin Harrison; he is the only American who was both son and father of a president ([R4-S1]). He studied law but farmed at Point Farm, North Bend, Ohio, and served two terms in Congress (1853-57), first as a Whig and then as an Anti-Nebraska man. He married (1) Lucretia Knapp Johnson in 1824 (three children) and (2) on 12 Aug 1831 Elizabeth Ramsey Irwin (1810-1850), daughter of Archibald Irwin and Mary Ramsey, with whom he had ten children, including Benjamin ([R4-S1]).\n\nHe died suddenly at home in May 1878. The New York Herald of 31 May 1878 carried the Cincinnati telegraph story: the family had seen that a neighbour's grave had been robbed and took 'extraordinary precautions', yet the body was stolen; his son John and grandson George Eaton, searching the Ohio Medical College with a warrant for the other body, hauled up a corpse on a rope and recognised it ('My God, it's father!'). The scandal fed into Ohio's 1881 anatomy law ([R4-S2], [R4-S1]).",
+  "funFacts": [
+    "Only man in U.S. history to be both the son and the father of a president.",
+    "The contemporary Herald report says it was his son John (Jr.) with grandson George Eaton who found the body; later retellings often credit Benjamin."
+  ],
   "residences": [],
   "military": [],
   "notable": "",
@@ -43,9 +46,91 @@
       "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:JSHarrison.jpg",
       "note": "http://www.presidentbenjaminharrison.org/Harrison/beninfo.htmlOriginally uploaded on en.wikipedia (Transferred by roseohioresident)",
       "file": "media/I282695486894/john-scott-harrison-portrait.jpg"
+    },
+    {
+      "file": "media/I282695486894/ny-herald-1878-05-31-body-snatching.jpg",
+      "type": "document",
+      "title": "New York Herald report of the theft of John Scott Harrison's body",
+      "date": "1878-05-31",
+      "source": "Library of Congress, Chronicling America, public_domain",
+      "note": "US newspaper published 1878; full page at 25% scale.",
+      "people": [],
+      "url": "https://www.loc.gov/resource/sn83030313/1878-05-31/ed-1/?sp=5"
+    },
+    {
+      "url": "https://bioguide.congress.gov/search/bio/H000272",
+      "type": "link",
+      "title": "Congressional biography of John Scott Harrison",
+      "date": "",
+      "source": "U.S. Congress, public_domain",
+      "note": "Blocked by Cloudflare (403) on 2026-10-08; content not read directly. (not downloaded: rights public_domain)",
+      "people": []
     }
   ],
-  "sources": [],
-  "researchLog": [],
-  "photo": "media/I282695486894/john-scott-harrison-portrait.jpg"
+  "sources": [
+    "[R4-S1] Wikipedia, 'John Scott Harrison' (cites Biographical Directory of the U.S. Congress H000272) (secondary) https://en.wikipedia.org/wiki/John_Scott_Harrison",
+    "[R4-S2] New York Herald, 31 May 1878, p.5, 'Body Snatching. The Grave of John Scott Harrison, an Ohio Ex-Congressman, Robbed' (Cincinnati telegraph, 30 May 1878), Chronicling America (primary) https://www.loc.gov/resource/sn83030313/1878-05-31/ed-1/?sp=5"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Identity (dates, parents, son Benjamin) is fully documented by the Congressional biography summary and a contemporary newspaper; his kinship to John Meier depends on the Symmes/Tuthill (Long Island) link, which is outside this worklist."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: bioguide.congress.gov H000272: blocked (Cloudflare 403); Wikipedia page image API: rate-limited (429)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified as Congressman John Scott Harrison (son of Pres. W. H. Harrison, father of Pres. Benjamin); added vital dates, career and the 1878 body-snatching story from the NY Herald (Chronicling America)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486894.json."
+    }
+  ],
+  "photo": "media/I282695486894/john-scott-harrison-portrait.jpg",
+  "birth": {
+    "date": "1804-10-04",
+    "place": "Vincennes, Indiana Territory (Grouseland)"
+  },
+  "death": {
+    "date": "1878-05-25",
+    "place": "Point Farm, near North Bend, Hamilton Co., Ohio"
+  },
+  "burial": {
+    "place": "Harrison family tomb (William Henry Harrison Tomb State Memorial), North Bend, Ohio"
+  },
+  "occupation": "Farmer; U.S. Representative from Ohio",
+  "events": [
+    {
+      "title": "U.S. House of Representatives",
+      "date": "1853-1857",
+      "place": "Ohio",
+      "description": "Elected as a Whig in 1852, re-elected in 1854 as an Anti-Nebraska candidate; defeated for a third term in 1856 and retired to Point Farm. [R4-S1]"
+    },
+    {
+      "title": "Body stolen by grave robbers and found at the Ohio Medical College",
+      "date": "1878-05-30",
+      "place": "Cincinnati, Ohio",
+      "description": "Despite a deep brick-lined grave, cemented stones and a hired watchman, his body was taken the night after burial. His son John Harrison and grandson George Eaton, searching the Ohio Medical College for the stolen body of a young neighbour (Augustus Devin), found Harrison's body hanging by the neck in a chute; the janitor was arrested. [R4-S2] [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Congress Bioguide ID",
+      "value": "H000272"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "spouse name",
+      "site": "Elizabeth Irwia Harrison",
+      "found": "Elizabeth Ramsey Irwin (1810-1850), m. 12 Aug 1831",
+      "assessment": "'Irwia' looks like a transcription error for Irwin. The site also omits his first wife Lucretia Knapp Johnson (m. 1824)."
+    }
+  ],
+  "openQuestions": [
+    "The roster places him in the pringle_pa line, but his parents/son are tagged long_island; the connection to John is through Anna Tuthill Symmes, not the Pringles/Scotts. Check line assignment."
+  ]
 }

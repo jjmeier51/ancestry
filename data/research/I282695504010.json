@@ -20,7 +20,7 @@
     "military"
   ],
   "summary": "John's maternal great-grandfather; a Scranton-born son of Guardia Lombardi immigrants John Petriello and Maria Antonia DiBiasi.",
-  "bio": "Tree: James Petriello (1911-1998), husband of 'Mollie' (b. 1911). FamilySearch tree GQWR-TY6 gives b. 6 Dec 1910 Scranton, d. 15 Dec 1998 Scranton, buried in Dunmore, married 12 Jul 1931 in Dunmore, WWII draft registration 16 Oct 1940, living in Dunmore in 1950 (the tree's 1911 should be 1910). He was born after the 1910 enumeration; in the 1920 census (Scranton Ward 10, ED 142, sheet 13A, 1028 Bunker Hill) he is listed among the children of John 'Patrello'. Marriage-license application No. 1107, Lackawanna County Orphans' Court, sworn 20 Jun 1931: groom 'James Petrillo', 20, laborer, born Scranton, living at 1028 Bunker Hill Av.; parents John and 'Mary Dibiasa', both born in Italy; father's occupation 'Mdse' (merchandise). Bride 'Mollie Genett', 20, of 133 Sand St. Both were minors so John Petrillo and Angelina Genett consented; married at Dunmore in July 1931 by Rev. Michael DeLarno. Geni lists a 'James' among John Petriello's children; most children used the spelling Petrillo. No obituary for 1998 was found in Round 1. He is NOT the Chicago musicians'-union boss James C. Petrillo (1892-1984). The Guardiese neighbourhood straddled Scranton's 10th Ward and Dunmore, which is why the family appears in Scranton censuses but married and was buried in Dunmore.",
+  "bio": "Tree: James Petriello (1911-1998), husband of 'Mollie' (b. 1911). FamilySearch tree GQWR-TY6 gives b. 6 Dec 1910 Scranton, d. 15 Dec 1998 Scranton, buried in Dunmore, married 12 Jul 1931 in Dunmore, WWII draft registration 16 Oct 1940, living in Dunmore in 1950 (the tree's 1911 should be 1910). He was born after the 1910 enumeration; in the 1920 census (Scranton Ward 10, ED 142, sheet 13A, 1028 Bunker Hill) he is listed among the children of John 'Patrello'. Marriage-license application No. 1107, Lackawanna County Orphans' Court, sworn 20 Jun 1931: groom 'James Petrillo', 20, laborer, born Scranton, living at 1028 Bunker Hill Av.; parents John and 'Mary Dibiasa', both born in Italy; father's occupation 'Mdse' (merchandise). Bride 'Mollie Genett', 20, of 133 Sand St. Both were minors so John Petrillo and Angelina Genett consented; married at Dunmore in July 1931 by Rev. Michael DeLarno. Geni lists a 'James' among John Petriello's children; most children used the spelling Petrillo. No obituary for 1998 was found in Round 1. He is NOT the Chicago musicians'-union boss James C. Petrillo (1892-1984). The Guardiese neighbourhood straddled Scranton's 10th Ward and Dunmore, which is why the family appears in Scranton censuses but married and was buried in Dunmore.\n\nJames registered for the draft on 16 October 1940 at 1028 Bunker Hill Street. He gave his birth as 6 December 1910 in Scranton and named 'Mrs. Mollie Petriello', his wife, as his contact. He worked for the Penn Anthracite Coal Co. on Nay Aug Avenue, and the registrar described him as 5 ft 3 in and 148 lb, with brown eyes, brown hair and a dark complexion ([R4-S2]). This is the first primary record found that states his exact birth date. The April 1940 census shows him renting one of the units in his late father John's house at 1028 Bunker Hill Street, with his brothers Nicholas and Charles and their wives in the others. He was then a colliery laborer who had finished the 7th grade ([R4-S1]). By April 1950 he had moved into Dunmore, to 128 Sand Street, the street his wife Mollie grew up on. He was then a railroad car repairman, the same job as his brother-in-law Anthony Genett at no. 133. Mollie was working part-time as a sewing-machine operator in a lingerie factory ([R4-S3]). His death is not in the PA death indexes searched, which do not cover 1998.",
   "residences": [
     {
       "date": "1920",
@@ -33,12 +33,30 @@
     {
       "date": "1950",
       "place": "Dunmore, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1940-04-20",
+      "place": "1028 Bunker Hill Street, Scranton Ward 10, Lackawanna County, Pennsylvania, USA",
+      "note": "Rented ($10/month) unit in his late father's house; head, 28, 7th grade education; colliery laborer. Wife Mollie 28, children John 7 and Ann Marie 6. Brothers Nicholas and Charles in other units of no. 1028. [R4-S1]"
+    },
+    {
+      "date": "1940-10-16",
+      "place": "1028 Bunker Hill Street, Scranton, Pennsylvania, USA",
+      "note": "Draft registration address. [R4-S2]"
+    },
+    {
+      "date": "1950-04-21",
+      "place": "128 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA",
+      "note": "Head, 39, car repairman for a railroad, 40 hrs. Next door: sister-in-law Mary (Giannetta) Pichiarello's family. [R4-S3]"
     }
   ],
   "military": [
     {
       "service": "WWII draft registration, 16 Oct 1940",
       "note": "Registration only; no service found"
+    },
+    {
+      "note": "WWII draft registration 16 Oct 1940, serial 853, order no. 815, Local Board No. 7 (409 Select Bldg, 116 N. Washington Ave, Scranton); registered by Mabel Watrous, precinct 6, ward 10. No service record found. [R4-S2]"
     }
   ],
   "events": [
@@ -59,12 +77,22 @@
       "date": "1998",
       "place": "Dunmore, Lackawanna County, Pennsylvania, USA",
       "description": "Per FS tree"
+    },
+    {
+      "title": "Physical description",
+      "date": "1940-10-16",
+      "place": "Scranton, PA",
+      "description": "Draft card: 5 ft 3 in, 148 lb, brown eyes, brown hair, dark complexion. Employer Penn Anthracite Coal Co., Nay Aug Avenue, Scranton. [R4-S2]"
     }
   ],
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "James Petriello 1911-1998"
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Laborer at a colliery for Penn Anthracite Coal Co. (1940); railroad car repairman (1950)"
     }
   ],
   "sources": [
@@ -72,15 +100,17 @@
     "FamilySearch tree GQWR-TY6: https://ancestors.familysearch.org/en/GQWR-TY6",
     "1920 US census, Scranton Ward 10, ED 142, sheet 13A: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/0/image.jpg",
     "Geni, Giovanni 'John' Petriello: https://www.geni.com/people/Giovanni-Petriello/6000000144788328847",
-    "notes/round2/italian_gaps.md sections 1 and 4; notes/round3/italian_origins.md section 1"
+    "notes/round2/italian_gaps.md sections 1 and 4; notes/round3/italian_origins.md section 1",
+    "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+    "[R4-S2] WWII draft registration card (first registration, 16 Oct 1940), James Petriello, serial 853, order 815, Local Board No. 7, Scranton; registered 16 Oct 1940. Image attached to FamilySearch tree GQWR-TY6 (FS index 'Mollie Petriello', PA WWII Draft Registration Cards, ark 1:1:Q2SV-6J3V). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/2/image.jpg",
+    "[R4-S3] 1950 US census, Dunmore borough, Lackawanna Co., PA, ED 35-115, sheet 10 (21 Apr 1950), Sand Street: James Petriello household (no. 128) and Joseph Pichiarello household next door. Image attached to FamilySearch tree GQWR-TY6 (index ark 1:1:6X1Q-9M51). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/0/image.jpg"
   ],
   "mediaKnown": [
     "1931 marriage license image",
     "1920 census image"
   ],
   "openQuestions": [
-    "PA death certificate / obituary for Dec 1998",
-    "Primary record of the 6 Dec 1910 birth"
+    "PA death certificate / obituary for Dec 1998"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -95,6 +125,36 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: abt 1911; research: 1910-12-06."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Primary record of the 6 Dec 1910 birth → Not the birth registration itself, but his own WWII draft card (16 Oct 1940) states 'Dec 6 1910', born Scranton, Penna. The birth certificate (PA Dept of Health, 1910) has not been seen."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch: 'James Petriello' / 'Mollie Petriello' Dunmore 1998/2000 obituary (no hits); PA death index PDFs: not applicable to 1998"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read his 1940 WWII draft card (b. 6 Dec 1910, Penn Anthracite Coal Co., physical description) and the 1940 and 1950 census images (1028 Bunker Hill St → 128 Sand St, Dunmore; colliery laborer → railroad car repairman)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695504010.json."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/I282695504010/wwii-draft-card-1940.jpg",
+      "type": "record",
+      "title": "WWII draft registration card of James Petriello, 16 Oct 1940",
+      "date": "1940-10-16",
+      "source": "FamilySearch (published tree attachment), public_domain",
+      "note": "US federal census / Selective Service record: a US government work, so public domain.",
+      "people": [
+        "H0332"
+      ],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/2/image.jpg"
     }
   ]
 }

@@ -1,0 +1,82 @@
+{
+  "id": "H0034",
+  "name": "Friedrich Heitzler",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1865-12-15",
+      "place": "Brombach [reading uncertain], Amt Lörrach, Baden",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Brombach [?], Baden",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Death away from home",
+        "date": "1865-12-15",
+        "place": "Brombach [?], near Lörrach",
+        "description": "Died at 5 p.m. and buried 18 Dec 1865 at 9:30 a.m. by the Catholic vicar. Described as 'Bürger von Munzingen', aged 56 (margin: 56 y 9 m 7 d). Witnesses were the head teacher Carl M[öser?] and the gravedigger Friedrich K[rebs?] of the same place. The notice was sent from the evangelical pfarramt there to Munzingen and entered as Todtenbuch 1866 No. 1a. The extract was signed at H[öllstein?] on 18 Dec 1865 by the Catholic Pfarrvikariat.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Friedrich died far from Munzingen. A notice from the Protestant parish of a place read here as Brombach, in the Wiese valley near Lörrach, informed the Catholic parish of Munzingen that 'Friedrich Heitzler, Bürger von Munzingen', had died there at five in the evening of 15 Dec 1865. The Catholic vicar buried him on 18 December. Munzingen entered the extract at the head of its 1866 death register as No. 1a (S1). The margin gives his age as 56 years, 9 months and 7 days, which counts back exactly to his known birth on 8 Mar 1809. The place name and the names of the witnesses are hard to read; an earlier reading of the place was Lörrach. Why a Munzingen day labourer and former gravedigger was in the Lörrach district is unknown. He may have been working on the railway or in the Wiesental textile mills.",
+  "openQuestionsResolved": [
+    {
+      "question": "Death (no record).",
+      "answer": "Died 15 Dec 1865 at Brombach [?], near Lörrach; Munzingen Todtenbuch 1866 No. 1a.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Confirm the place in the Brombach (evangelical) and Höllstein/Steinen (Catholic) registers for Dec 1865: Landesarchiv BW, L 10 series for Amt Lörrach.",
+    "What became of his wife Francisca Widlebacher (H0393) and any children?"
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Death found; the exact age ties it to him."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Todtenbuch 1866 No. 1a, p. 424 (image 541): extract from the evangelical Pfarramt B[rombach?] concerning Friedrich Heitzler, d. 15 Dec 1865",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-541",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Death 15 Dec 1865, burial 18 Dec, age 56 y 9 m 7 d, 'Bürger von Munzingen'"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Munzingen death register 1866 No. 1a: Friedrich Heitzler (d. 1865)",
+      "date": "1865-12-18",
+      "pageUrl": "http://www.landesarchiv-bw.de/plink/?f=5-480947-541",
+      "directUrl": "",
+      "repository": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0034/death-1865-munzingen-L10-1591-img541.jpg",
+      "people": [
+        "H0034"
+      ],
+      "suggestedFile": "media/H0034/death-1865-munzingen-L10-1591-img541.jpg",
+      "note": "Right page, No. 1a. Public Domain Mark 1.0."
+    }
+  ],
+  "researchLogEntry": "Round 4: found his death notice (15 Dec 1865, Brombach? near Lörrach) entered at Munzingen as Todtenbuch 1866 No. 1a.",
+  "researchedAt": "2026-10-08"
+}

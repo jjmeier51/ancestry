@@ -1,0 +1,20 @@
+{
+  "id": "M0073",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0027 (confirmed); niece of I282608064885 (confirmed); grandchild of I282608085304 (confirmed)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9, pp. 522–523 (image 471); index 'Register zum Taufbuch 1864' (image 477) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-471"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-104 → M0073; research/imported/round4/new_people.json."
+    }
+  ]
+}

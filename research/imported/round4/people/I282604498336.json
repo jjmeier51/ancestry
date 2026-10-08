@@ -1,0 +1,69 @@
+{
+ "id": "I282604498336",
+ "name": "William Jones",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1879-09",
+   "place": "Pennsylvania",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ },
+ "bioAdditions": "William J. Jones, son of Edward F. and Margaret Jones, appears in the 1880 census aged 9/12, born in September (1879) in Pennsylvania, the first of the family born in America (S1). He is Anna C. (Jones) McGuire's brother.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282604497369",
+   "evidence": "son in 1880 household",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "sibling",
+   "personId": "I282604494275",
+   "evidence": "same household",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Edward F. Jones 40, miner, b. Wales (parents Wales); Margret 35, wife, b. England (father b. Ireland, mother b. England); Ann C. 15, dau., b. England; Rose 13, dau., b. England; Mary 10, dau., servant, b. England; William J. 9/12, son, born Sept., b. Penna. Next household (fam. 134): Evan W. Jones 60, laborer, and Martha 52, both b. Wales.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1880 census, Plymouth Twp ED 144 p.21: Edward F. Jones household",
+   "date": "1880-06-11",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:MWNZ-HXR",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg",
+   "repository": "NARA via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "people": [
+    "I282604497369",
+    "I282604497276",
+    "I282604494275",
+    "I282604498336"
+   ],
+   "suggestedFile": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "note": "US federal census; public domain."
+  }
+ ],
+ "researchLogEntry": "Round 4: 1880 census confirms b. Sep 1879 PA in Edward F. Jones household."
+}

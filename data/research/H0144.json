@@ -7,9 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "A Kingston-branch Pringle cousin.",
-  "bio": "George Lane Pringle was 'killed by lightning' in 1886 (Harvey Book p.137).",
+  "bio": "George Lane Pringle was 'killed by lightning' in 1886 (Harvey Book p.137).\n\nGeorge Lane Pringle was a twin of Caroline, born 20 May 1822 to Thomas Pringle and Elizabeth Harvey. He was probably named for the Rev. George Lane, the Methodist preacher who had married his aunt. He moved with the family to Kingston in 1837 and farmed there all his life. He never married. On 19 Mar 1886, in a severe thunderstorm, he was killed by lightning while walking on the road near a farm he owned in Huntington Twp. ([R4-S1]). The next day the Washington Evening Star carried the news among its telegraph items ([R4-S2]).",
   "sources": [
-    "Harvey Book p.137"
+    "Harvey Book p.137",
+    "[R4-S1] Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle (secondary) https://archive.org/details/harveybookgiving00harv",
+    "[R4-S2] Evening Star (Washington, D.C.), 20 Mar 1886, p.5, telegraphic news (primary) https://www.loc.gov/resource/sn83045462/1886-03-20/ed-1/?sp=5"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +22,51 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0141, proven): Harvey Book p.137"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0434, proven): Harvey Book p.137"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Harvey gives b. 20 May 1822 and d. 19 Mar 1886. Found the Evening Star 20 Mar 1886 report of the lightning death; crop downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0144.json."
+    }
+  ],
+  "birth": {
+    "date": "1822-05-20",
+    "place": "Plymouth, Luzerne Co., PA"
+  },
+  "death": {
+    "date": "1886-03-19",
+    "place": "road near his farm, Huntington Twp., Luzerne Co., PA"
+  },
+  "occupation": "Farmer",
+  "events": [
+    {
+      "title": "Killed by lightning",
+      "date": "1886-03-19",
+      "place": "near Wilkes-Barre (road by his Huntington Twp. farm), PA",
+      "description": "Struck and killed by lightning during a severe thunderstorm while walking along the road near a farm he owned in Huntington Twp. (Harvey). Reported nationally the next day: 'George L. Pringle, an old and prominent resident of Kingston, was struck by lightning on the roadway and killed' (Evening Star, Washington, 20 Mar 1886). [R4-S1] [R4-S2]"
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0144/evening-star-1886-03-20-lightning.jpg",
+      "type": "document",
+      "title": "Evening Star (Washington), 20 Mar 1886, p.5: George L. Pringle killed by lightning",
+      "date": "1886-03-20",
+      "source": "Library of Congress, Chronicling America, public_domain",
+      "note": "Crop of the paragraph (IIIF region).",
+      "people": [],
+      "url": "https://www.loc.gov/resource/sn83045462/1886-03-20/ed-1/?sp=5"
     }
   ]
 }

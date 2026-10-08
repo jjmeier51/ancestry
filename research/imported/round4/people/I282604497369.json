@@ -1,0 +1,82 @@
+{
+ "id": "I282604497369",
+ "name": "Edward F. Jones",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "occupation": "Miner (1880)",
+  "death": {
+   "date": "bef. Dec 1914",
+   "sourceRefs": [
+    "S2"
+   ]
+  }
+ },
+ "bioAdditions": "1880 census, Plymouth Township, 11 Jun 1880: Edward F. Jones, 40, miner, born Wales of Welsh parents, with wife Margret and children Ann C. 15, Rose 13, Mary 10 (all born England) and William J. (born Sept 1879, Pennsylvania) (S1). The English births show he worked in England (probably a mining district) from at least 1865 to about 1870 before emigrating. His son Joseph's 1914 marriage docket gives him as deceased, born Wales (S2). Next door in 1880 lived Evan W. Jones, 60, and Martha, 52, both Welsh, possibly kin.",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Edward F. Jones 40, miner, b. Wales (parents Wales); Margret 35, wife, b. England (father b. Ireland, mother b. England); Ann C. 15, dau., b. England; Rose 13, dau., b. England; Mary 10, dau., servant, b. England; William J. 9/12, son, born Sept., b. Penna. Next household (fam. 134): Evan W. Jones 60, laborer, and Martha 52, both b. Wales.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1880 census, Plymouth Twp ED 144 p.21: Edward F. Jones household",
+   "date": "1880-06-11",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:MWNZ-HXR",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg",
+   "repository": "NARA via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "people": [
+    "I282604497369",
+    "I282604497276",
+    "I282604494275",
+    "I282604498336"
+   ],
+   "suggestedFile": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "note": "US federal census; public domain."
+  },
+  {
+   "type": "record",
+   "title": "Luzerne marriage docket no. 71238 (Joseph S. Jones & Agnes M. McAvoy), 1914",
+   "date": "1914-12-26",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:KHFK-JHT",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg",
+   "repository": "Luzerne County Orphans' Court via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604497369/1914-luzerne-marriage-docket-71238-jones-mcavoy.jpg",
+   "people": [
+    "H0065",
+    "H0064",
+    "I282604497369",
+    "I282604497276",
+    "I282604498554",
+    "I282604498567"
+   ],
+   "suggestedFile": "media/I282604497369/1914-luzerne-marriage-docket-71238-jones-mcavoy.jpg",
+   "note": "County government record, pre-1931; public domain."
+  }
+ ],
+ "openQuestionsNew": [
+  "Children born in England c.1865-1870: a 1871 England census search (Ancestry/FindMyPast) for Edward & Margaret Jones with Ann, Rose and Mary would show where they lived."
+ ],
+ "researchLogEntry": "Round 4: 1880 census and 1914 docket read; dead by 1914; English births of children 1865-70."
+}

@@ -9,6 +9,39 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Wikipedia dates; in-law only."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0471.json."
+    }
+  ],
+  "birth": {
+    "date": "1608"
+  },
+  "death": {
+    "date": "1669-09-21"
+  },
+  "aka": [
+    "Thomas Pell, 1st Lord of Pelham Manor"
+  ],
+  "occupation": "Physician; founder of Westchester and purchaser of Pelham",
+  "bio": "English-born physician who bought Pelham and founded the town of Westchester (1654) ([R4-S1]). Second husband of Lucy Brewster; an in-law with no blood tie to John.",
+  "sources": [
+    "[R4-S1] Wikipedia, 'Thomas Pell' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Thomas_Pell"
+  ],
+  "media": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Thomas_Pell.svg",
+      "type": "link",
+      "title": "Coat of arms of Thomas Pell (modern rendering)",
+      "date": "2023",
+      "source": "Wikimedia Commons (after Matthews' American Armoury, 1907), cc (CC BY-SA 4.0)",
+      "note": "Reusable under CC BY-SA 4.0 but not downloaded (in-law; modern drawing). (not downloaded: rights cc (CC BY-SA 4.0))",
+      "people": []
     }
   ]
 }

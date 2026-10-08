@@ -1,0 +1,60 @@
+{
+ "id": "I282824816408",
+ "name": "ANTONIO COLOSIMO",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Antonio was baptized on 15 June 1659, son of Antonino Colosimo and Angila Vaccaro (S1). He married Giovanna Ierra on 11 February 1680 (S2).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824816446",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824816434",
+   "evidence": "Baptism names Antonino (duplicate profiles I282824816434/I282824815695)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824816422",
+   "evidence": "Marriage",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1653-1672 (Book 1), image 21, p. 19, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1653-1672'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Antonio Colosimo bapt. 15 Jun 1659, father Antonino Colosimo, mother Angila Vaccaro (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1670-1687 (Book 2), image 121, p. 129; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 11 Feb 1680, Antonio Colosimo and Joanna Ierra (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 15 Jun 1659, marriage 11 Feb 1680."
+}

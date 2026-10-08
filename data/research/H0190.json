@@ -9,7 +9,7 @@
     "military"
   ],
   "summary": "John's 7th-great-grand-uncle (brother of Ensign Thomas).",
-  "bio": "Son of Jean Lamoreaux; captured at Fort Montgomery in Oct 1777.",
+  "bio": "Son of Jean Lamoreaux; captured at Fort Montgomery in Oct 1777.\n\nFamilySearch gives John the dates 5 Mar 1754 to 7 Jan 1823 and his marriage to Jemima Stephens at Goshen on 9 Jun 1779, as in the Davenport genealogy. It attaches the 1790 census ('John Lomereaux, Junr') and the 1800 census ('John Lamoreux Junior'), so in 1790 there were separate households of John senior and John junior ([R4-S1]).",
   "military": [
     {
       "branch": "New York militia",
@@ -21,10 +21,15 @@
     {
       "label": "Disambiguation",
       "value": "son of Jean"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "KGC5-NN2"
     }
   ],
   "sources": [
-    "research/notes/round2/colonial_cousins.md 3g; DAR; Lamoureux 1919"
+    "research/notes/round2/colonial_cousins.md 3g; DAR; Lamoureux 1919",
+    "[R4-S1] FamilySearch published tree, John Lamoreux (KGC5-NN2), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KGC5-NN2"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -35,6 +40,41 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 5 Mar 1754-7 Jan 1823, m. 1779 Jemima Stephens, and 1790/1800 censuses as 'Junr'."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0190.json."
+    }
+  ],
+  "birth": {
+    "date": "1754-03-05",
+    "place": "Monroe, Orange Co., NY"
+  },
+  "death": {
+    "date": "1823-01-07"
+  },
+  "residences": [
+    {
+      "date": "1790",
+      "place": "Orange Co., NY ('John Lomereaux, Junr')",
+      "note": "[R4-S1]"
+    },
+    {
+      "date": "1800",
+      "place": "('John Lamoreux Junior', 1800 census)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1779-06-09",
+      "place": "Goshen, Orange Co., NY",
+      "description": "To Jemima Stephens (1754-1826) [R4-S1]"
     }
   ]
 }

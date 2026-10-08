@@ -1,0 +1,20 @@
+{
+  "id": "M0052",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282824815323 (proven)."
+  },
+  "tags": [],
+  "summary": "Sister of Giuseppina Fiorillo (John's ancestor).",
+  "bio": "Sister of Giuseppina Fiorillo (John's ancestor).",
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 (Book 11), image 159, no. 56; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-802 → M0052; research/imported/round4/new_people.json."
+    }
+  ]
+}

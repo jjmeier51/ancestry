@@ -1,0 +1,75 @@
+{
+  "id": "I282608078175",
+  "name": "Johann Andreas Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "12 Sep 1727 (bapt. 21 Sep 1727)",
+      "place": "Jettenbach (Reichenbach Lutheran parish), Palatinate-Zweibrücken",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "The original Reichenbach Lutheran baptism register (page 93, year 1727), attached as an image to his FamilySearch profile, settles the birth date: under 'd. 12t 7br' [12 September] it records that Nickel Grub and his wife of Jettenbach had a son born, baptized on the 21st of the same month and named Joh. Andreas (S1). The godparents included Maria Catharina, wife of Peter Grub, and Maria Elisabetha, wife of Adam Wendel. This confirms the 12 September date given by WikiTree and FamilySearch and rules out the 12 July of the GEDBAS database; the 12 December on his gravestone is presumably a misreading of '7ber' or '12br'.",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1727-09-12 (tree); gravestone 12 Dec 1727; GEDBAS 12 Jul 1727",
+      "foundValue": "12 Sep 1727, bapt. 21 Sep 1727 (original register)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Primary register confirms 12 September. Resolved."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Birth now read in the original register; marriage, will naming Frederick, and widow's will naming 'son Frederick Krub' already documented."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Evangelisch-lutherische Kirche Reichenbach (Pfalz), Kirchenbuch, Geborne und Getauffte 1727, p.93, entry of 12 Sep 1727 (FamilySearch 'Germany, Lutheran Baptisms, Marriages, and Burials, 1500-1971', index ark 1:1:QPKL-RZNB, image attached to tree M5YG-41Z)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/M5YG-41Z/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "birth 12 Sep, baptism 21 Sep 1727, father Nickel Grub of Jettenbach"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Reichenbach Lutheran baptisms 1727 p.93: Joh. Andreas Grub",
+      "date": "1727-09-21",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/M5YG-41Z",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/M5YG-41Z/images/i/1/image.jpg",
+      "repository": "FamilySearch (German Lutheran church book)",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "I282608078175",
+        "H0074"
+      ],
+      "suggestedFile": "media/I282608078175/reichenbach-1727-baptism.jpg",
+      "note": "Church-book image; FamilySearch rights unclear, so not downloaded."
+    }
+  ],
+  "searchedNoResult": [
+    "FamilySearch M5YG-41Z attached HSP 'Births and Baptisms' image: 0 bytes"
+  ],
+  "researchLogEntry": "Round 4: read the original 1727 Reichenbach baptism (born 12 Sep, baptized 21 Sep, son of Nickel Grub of Jettenbach), resolving the Jul/Sep/Dec birth conflict.",
+  "openQuestionsResolved": [
+    {
+      "question": "Reconcile birth date (Jettenbach register image).",
+      "answer": "Born 12 Sep 1727, baptized 21 Sep 1727 (Reichenbach Lutheran register p.93).",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ]
+}

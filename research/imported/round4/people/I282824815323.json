@@ -1,0 +1,115 @@
+{
+ "id": "I282824815323",
+ "name": "Domenico Fiorillo",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "27 Aug 1921 (burial)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1 Apr 1870",
+    "place": "San Mango d'Aquino",
+    "description": "Married Saveria Colosimo in the parish church",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "aka": [
+   "Domenico Gabriele Fiorillo"
+  ]
+ },
+ "bioAdditions": "Domenico (styled 'Gabriele Fiorillo' in the register) married Saveria Colosimo, daughter of Raffaele, in the San Mango parish on 1 April 1870; his father Carmine was already dead (S1). Seven children were baptized between 1871 and 1886: Giuseppina (John's ancestor, 1871), Carmelo (1873), Filomena (1874), Carolina (1877), Carmine (1880), Antonio (1884) and Gaetano (1886). Gaetano married Maria Mendicino in 1909 (S3). He did not emigrate. The parish burial register records Domenico Fiorillo, aged 81, son of the late Carmine and the late Giuseppa Ferlaino, buried at San Mango on 27 August 1921 (S2). This conflicts with the tree's death year of 1927.",
+ "conflicts": [
+  {
+   "field": "death.date",
+   "siteValue": "1927",
+   "foundValue": "27 Aug 1921 (age 81, parents Carmine and Giuseppa Ferlaino)",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "The index entry matches his parents and age exactly; prefer 1921 unless the tree's 1927 has a source."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "I282824815333",
+   "evidence": "Parish marriage 1870",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "I282824815192",
+   "evidence": "Baptism 1871",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-802",
+   "evidence": "Baptism 1874",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-803",
+   "evidence": "Baptism 1873",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-804",
+   "evidence": "Baptism 1886",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1856-1884 (Book 22), image 71, p. 139, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1856-1884'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 1 Apr 1870: Dominicus Gabriele Fiorillo, son of the late Carmelus, and Xaveria Colosimo, daughter of Raphaele (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1916-1925 (Book 32), image 34, p. 63, no. 22; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1916-1925'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 27 Aug 1921: Dominicus Fiorillo, 81, son of the late Carmelus and the late Josepha Ferlaino (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 / 1876-1887 (), Josephina 1871 (img 136 no. 2), Carmelus 1873 (img 150 no. 17), Philomena 1874 (img 159 no. 56), Carolina 1877 (img 10 no. 11), Carmine 1880 (img 34 no. 49), Antonio 1884 (img 56 no. 12), Gaetano 1886 (img 75 no. 66); volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875 / 1876-1887'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children of Dominicus (Gabriele) Fiorillo and Xaveria Colosimo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: parish index gives marriage 1 Apr 1870 and burial 27 Aug 1921 (tree says 1927); seven children listed."
+}

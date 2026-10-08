@@ -31,6 +31,11 @@
     {
       "date": "1880",
       "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1900",
+      "place": "Plymouth Borough, Ward 3, Luzerne Co., Pa.",
+      "note": "FamilySearch attaches the 1900 census record M3QQ-KR7 (\"Catherine Hefferman\", b. May 1814 Ireland) from the same enumeration district as her son Andrew's household; she was evidently living with Andrew. Her line is on the continuation sheet, which was not seen. [R4-S1]"
     }
   ],
   "facts": [
@@ -41,6 +46,10 @@
     {
       "label": "Death register",
       "value": "Luzerne Register of Deaths p.208"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "LB2N-F9R"
     }
   ],
   "sources": [
@@ -48,7 +57,8 @@
     "Luzerne Register of Deaths p.208 (1904): https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/1/image.jpg",
     "Wilkes-Barre Record, 19 Apr 1904 (obituary, cited by Dwyer)",
     "1880 census Plymouth (cited by Dwyer)",
-    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "[R4-S1] FamilySearch Family Tree (published), Catherine Boney (1814-1904), PID LB2N-F9R; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LB2N-F9R"
   ],
   "mediaKnown": [
     "Obituary clipping on tree profile"
@@ -67,6 +77,22 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS indicates she lived with son Andrew in 1900 (census b. May 1814); nothing else new."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064660.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "bapt. 28 Feb 1814 (Gortnahoe, per Dwyer)",
+      "found": "May 1814 (1900 census, as indexed on FS)",
+      "assessment": "Year agrees; census month is self-reported at 86. Keep the baptism."
     }
   ]
 }

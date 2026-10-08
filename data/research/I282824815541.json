@@ -1,0 +1,53 @@
+{
+  "id": "I282824815541",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Baptism, marriage and death indexed; son Fortunato's records name her."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815622, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815627, proven): Baptism"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 22 Jul 1777, marriage 1801, civil death 26 Nov 1837; sister of Alessio Moraca (pedigree collapse)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815541.json."
+    }
+  ],
+  "death": {
+    "date": "1837-11-26",
+    "place": "San Mango d'Aquino"
+  },
+  "bio": "Agata was baptized on 22 July 1777, daughter of Michele Moraca and Anna Maria Putero ([R4-S1]). She married Nicola Ferlaino in 1801 ([R4-S2]) and died on 26 November 1837 ([R4-S3]). The civil death act names her mother as Teresa Adamo, but the baptism names Anna Maria Putero. Death informants often guessed, so the baptism is preferred. Her brother Alessio Moraca (b. 1772, same parents) is also John's ancestor, through Carmela Moraca and the Colosimo line, so Michele Moraca and Anna Maria Puteri appear twice in John's tree.",
+  "conflicts": [
+    {
+      "field": "mother",
+      "site": "Anna Maria Puteri",
+      "found": "Teresa Adamo (civil death 1837)",
+      "assessment": "Keep Anna Maria Puteri (baptism)."
+    },
+    {
+      "field": "death.date",
+      "site": "27 Nov 1837",
+      "found": "26 Nov 1837 (civil act)",
+      "assessment": "Minor; 27 Nov may be burial."
+    }
+  ],
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): Baptism, marriage and death indexed; son Fortunato's records name her."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 73, p. 141, no. 33; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1801-1811 (Book 19), image 4, p. 2, no. 3; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1801-1811'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S3] San Mango d'Aquino, stato civile, Civil deaths 1837, image 1154, act 61, 26 Nov 1837; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t"
+  ]
+}

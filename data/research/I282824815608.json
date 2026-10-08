@@ -1,0 +1,30 @@
+{
+  "id": "I282824815608",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child I282824816492, proven): Vincenzo bapt. 1781"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 23 Mar 1751 and marriage 3 Nov 1777 (index); also father of Vincenzo Ferlaino."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815608.json."
+    }
+  ],
+  "bio": "Bruno was baptized on 23 March 1751, son of Gaetano Ferlaino and Candida Colosimo ([R4-S1]). He married Francesca Moraca on 3 November 1777 ([R4-S2]). Their sons Nicola Maria (1778) and Vincenzo (1781) both head lines that lead to John.",
+  "link": {
+    "confidence": "probable",
+    "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1747-1767 (Book 5), image 18, p. 31, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 30, p. 54, no. 18; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
+  ]
+}

@@ -1,14 +1,68 @@
 {
   "id": "H0434",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Well-documented compiled genealogy (Harvey Book) giving dates, parents and marriage; no primary record seen online."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Well-documented compiled genealogy (Harvey Book) giving dates, parents and marriage; no primary record seen online."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0141, proven): Harvey Book marriage entry"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: added birth 20 Sep 1790, parents Elisha Harvey & Rosanna Jameson, marriage 5 Sep 1813, death at Kingston 26 May 1868 and the coal-land inheritance from the Harvey Book."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0434.json."
     }
+  ],
+  "birth": {
+    "date": "1790-09-20",
+    "place": "Plymouth Twp., Luzerne Co., PA"
+  },
+  "death": {
+    "date": "1868-05-26",
+    "place": "Kingston, Luzerne Co., PA"
+  },
+  "residences": [
+    {
+      "date": "1813-1836",
+      "place": "Plymouth Twp., Luzerne Co., PA",
+      "note": "[R4-S1]"
+    },
+    {
+      "date": "1837-1868",
+      "place": "Kingston, PA (the old Peter Sharp house at the end of Pringle Lane, now Pringle Street)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to Thomas Pringle",
+      "date": "1813-09-05",
+      "place": "her mother's home, Plymouth, PA",
+      "description": "Married on a Sunday by her brother-in-law the Rev. George Lane. [R4-S1]"
+    },
+    {
+      "title": "Inherited coal land",
+      "date": "ABT 1800s",
+      "place": "Plymouth Twp.",
+      "description": "When her father's Plymouth lands were divided into four purparts, the two believed to hold the coal beds were drawn by Elizabeth (Harvey) Pringle and Sarah (Harvey) Lane; Thomas Pringle mined coal there with brothers-in-law Jameson Harvey and George Lane in the 1830s. [R4-S1]"
+    }
+  ],
+  "bio": "Elizabeth Harvey was born in Plymouth Township on 20 Sep 1790, a daughter of Elisha Harvey (b. North Lyme, Conn., 1758; d. 1800) and Rosanna Jameson (b. 1758, daughter of Robert and Agnes (Dixon) Jameson of Hanover Twp., formerly of Voluntown, Conn.), who married in 1786 ([R4-S1]). After her father's death in 1800 her mother kept the stone farmhouse in Plymouth. On 5 Sep 1813 Elizabeth married Thomas Pringle, eldest son of Samuel and Martha (Lamoreux) Pringle, at her mother's house, with her brother-in-law Rev. George Lane officiating. In the division of the Harvey lands she drew one of the two lots believed to hold coal, and in the 1830s her husband worked a mine there with her brother Jameson Harvey and George Lane ([R4-S1]).\n\nIn 1836-37 the family sold up and moved to Kingston, to the old Peter Sharp house at the end of what became Pringle Street. Thomas died there in 1861, and Elizabeth died at Kingston on 26 May 1868. Their children were Sarah (1814, m. Elias Culver), Rosanna Harvey (1816-1875), twins Martha (d. infant) and Samuel (1818), Millicent (1820-1865), twins George Lane (1822-1886, killed by lightning) and Caroline (1822), and Alexander Jameson (1824-1881), among others. She also raised her orphaned great-niece, a granddaughter of her brother Silas ([R4-S1]).",
+  "sources": [
+    "[R4-S1] Oscar Jewell Harvey, The Harvey Book (1899), entry (189) Elizabeth Harvey, pp.134-138; entry (180) Elisha Harvey; division of Elisha Harvey lands (pp.694-695 area) (secondary) https://archive.org/details/harveybookgiving00harv"
   ]
 }

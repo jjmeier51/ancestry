@@ -1,0 +1,39 @@
+{
+ "id": "H0376",
+ "name": "Francesco Ferlaino",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "23 Jul 1914",
+   "place": "Conflenti",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "3 Jul 1975",
+   "place": "Lamezia Terme (Nicastro)",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ },
+ "bioAdditions": "Italian Wikipedia gives his birth as 23 July 1914 at Conflenti (S1). He was a magistrate and was shot dead on 3 July 1975 near his home in Nicastro (Lamezia Terme). He was the paternal uncle of Corrado Ferlaino, the SSC Napoli owner (living; not researched). No genealogical link to John's San Mango Ferlainos was found.",
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "possible",
+  "justification": "Notable is real; kinship to John unproven."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Italian Wikipedia, \"Francesco Ferlaino\"",
+   "url": "https://it.wikipedia.org/wiki/Francesco_Ferlaino",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Born 23 Jul 1914 Conflenti; magistrate; shot dead 3 Jul 1975 near his home in Lamezia Terme (Nicastro); paternal uncle of Corrado Ferlaino"
+  }
+ ],
+ "researchLogEntry": "Round 4: Wikipedia confirms birth 23 Jul 1914 Conflenti and murder 3 Jul 1975; uncle of Corrado Ferlaino. No link to John's line."
+}

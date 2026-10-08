@@ -1,0 +1,72 @@
+{
+  "id": "H0209",
+  "name": "Hiram Croop",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1832-07-15",
+      "place": "Union (now Hunlock) Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1854",
+        "place": "",
+        "description": "Married Susanna, daughter of Joseph B. and Martha Dodson; five children, three living in 1893: Martha, Joseph H. (studying medicine in Philadelphia) and Fredrick W.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Surety in a shooting case",
+        "date": "1883-10",
+        "place": "Wilkes-Barre",
+        "description": "When Franklin Monroe was charged with shooting a tramp at Hunlock Creek, Judge Woodward admitted him to bail on habeas corpus, and 'Hiram Croop became his surety in the sum of $4,000'.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Bradsby gives Hiram's birth as 15 Jul 1832. He was the eldest of seven children of William Croop and Mary Sorber. He married Susanna Dodson, daughter of Joseph B. and Martha Dodson, in 1854. In 1893 he owned farms of 180 and 125 acres in Hunlock Twp. and had been a justice of the peace for twenty-five years (S1). In October 1883 he stood surety for $4,000 for Franklin Monroe, who was accused of shooting a tramp at Hunlock Creek (S2).",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0208",
+      "evidence": "Bradsby p.812",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "County-history biography written in his lifetime with full particulars."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "H. C. Bradsby, History of Luzerne County (1893), pp.584 and 812-813 (Hiram and Andrew Croop biographies)",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth date, parents, marriage 1854 to Susanna Dodson, children, farms, JP 25 years"
+    },
+    {
+      "ref": "S2",
+      "citation": "The Carbon Advocate (Lehighton, Pa.), 20 Oct 1883, p.3",
+      "url": "https://www.loc.gov/resource/sn83032231/1883-10-20/ed-1/?sp=3",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "surety of $4,000 for Franklin Monroe"
+    }
+  ],
+  "researchLogEntry": "Round 4: Bradsby gives b. 15 Jul 1832 and m. 1854 Susanna Dodson, with children. Carbon Advocate 1883: surety in a Hunlock Creek shooting case.",
+  "researchedAt": "2026-10-08"
+}

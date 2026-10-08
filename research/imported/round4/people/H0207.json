@@ -1,0 +1,55 @@
+{
+  "id": "H0207",
+  "name": "John Croup",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Settled on Hunlock's Creek",
+        "date": "c.1790s-1805",
+        "place": "Union (now Hunlock) Twp., Luzerne Co., PA",
+        "description": "Came from Northampton Co. with 'the numerous family of Sorbers'. Located on a 200-acre lot 'back of the mountain and up the creek' where Hiram Croop's mills were later built, and 'brought [it] to some degree of subjection'. His son William was born in Newport Twp. about 1805.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Bradsby (1893) says John Croop came from Northampton Co. early in the county's settlement and took up a 200-acre lot in what is now Hunlock Twp. He was 'a man of energy and push, who did with his might whatsoever he put his hand to', and raised ten children, seven of whom were still living. His son William, Hiram's father, was born in Newport Twp. Bradsby also says that the Croops and Sorbers who came together were 'mill men' who built the sawmills on Hunlock's Creek (S1). Plumb names his wife as Elizabeth Sorber (H0458). William's birth in Newport Twp. about 1805 puts John in Luzerne by then. That fits his brother Frederick's arrival about 1799-1800.",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0458",
+      "evidence": "Plumb 1885",
+      "sourceRefs": [],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0208",
+      "evidence": "Bradsby p.812: 'William was a son of John Croop'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Two county histories (Bradsby, Munsell) and Plumb agree."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "H. C. Bradsby, History of Luzerne County (1893), pp.584 and 812-813 (Hiram and Andrew Croop biographies)",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "200-acre lot in Hunlock Twp.; came from Northampton Co.; ten children; son William born Newport Twp.; Croop-Sorber sawmills"
+    }
+  ],
+  "researchLogEntry": "Round 4: Bradsby pp.584 and 812 give the 200-acre lot, ten children and son William b. Newport Twp. No probate or census record was checked online.",
+  "researchedAt": "2026-10-08"
+}

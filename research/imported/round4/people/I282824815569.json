@@ -1,0 +1,69 @@
+{
+ "id": "I282824815569",
+ "name": "Francesca Orlando",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Francesca Maria was baptized on 22 October 1794, daughter of Agostino Orlando and Maria Mollame (S1). Her parents had married on 6 May 1782 (S3). She married Francesco Moraca on 16 March 1819 (S2). Her mother, Maria Mollame, is new to the tree.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815579",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "NEW-807",
+   "evidence": "Baptism names mother Maria Mollame",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815554",
+   "evidence": "Marriage 1819",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "confirmed",
+  "justification": "Baptism and marriage indexed; daughter Rosa's marriage and burial name her."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 197, p. 391, no. 43; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Francisca Maria Orlando bapt. 22 Oct 1794, father Augustino Orlando, mother Maria Mollame (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 13, p. 19, no. 1; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 16 Mar 1819 to Francesco Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 43, p. 80, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents' marriage 6 May 1782: Augustinus Orlando and Maria Mollame, daughter of Domenico (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 22 Oct 1794 (mother Maria Mollame, new), marriage 1819."
+}

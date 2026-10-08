@@ -12,7 +12,7 @@
     "military"
   ],
   "summary": "Brother of Temperance Smith (John's 7th-great-grand-uncle); former captain of the Upper Clove militia company.",
-  "bio": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.",
+  "bio": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.\n\nWeygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company ([R4-S1]). WikiTree gives his wife as Mehitable Tuthill (unverified).",
   "military": [
     {
       "branch": "Orange County, NY militia",
@@ -22,7 +22,8 @@
   ],
   "sources": [
     "Ruttenber & Clark (1881)",
-    "Pelletreau (1898) App. p. 479"
+    "Pelletreau (1898) App. p. 479",
+    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -33,6 +34,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Weygant adds 1765 road overseer and 1771 captaincy."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0263.json."
     }
   ]
 }

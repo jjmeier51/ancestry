@@ -1,0 +1,42 @@
+{
+  "id": "H0482",
+  "name": "Mary Smith",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "25 May 1735",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0271",
+      "evidence": "Pelletreau: children of Daniel Smith 2d and Hannah Brewster include 'Mary, born May 25, 1735, married Judge Wm. Smith, of \"Tangiers\" family'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Bull Smith -> Daniel -> Daniel 2d -> Mary: 2nd cousin 9 times removed. Mother of Senator John Smith (born 1752, when she was about 16).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Pelletreau states parentage and marriage."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476, 491",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Mary b. 25 May 1735 dau. of Daniel 2d; m. Judge William Smith; mother of Gen. John Smith"
+    }
+  ],
+  "researchLogEntry": "Round 4: birth date and parentage from Pelletreau (2C9R).",
+  "researchedAt": "2026-10-08"
+}

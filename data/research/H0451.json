@@ -1,14 +1,49 @@
 {
   "id": "H0451",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): Marriage and baptisms in the contemporary register (published)."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Marriage and baptisms in the contemporary register (published)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0197, proven): French Church of NY marriage, 16 Jul 1693"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found her 16 Jul 1693 marriage to Josué Mercereau (she of 'yers', Saintonge) and the baptisms of Marie (1695) and Josué (1696) in the French Church of NY registers."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0451.json."
     }
+  ],
+  "birth": {
+    "place": "'yers' (probably Hiers[-Brouage]), Saintonge, France"
+  },
+  "aka": [
+    "Marie Chadeayne",
+    "Marie Chadene"
+  ],
+  "events": [
+    {
+      "title": "Marriage to Josué Mercereau",
+      "date": "1693-07-16",
+      "place": "French Church, New York",
+      "description": "By Pierre Peiret after banns on three Sundays; Josué 'de Moise en Saintonge', Marie 'de yers en Saintonge'. Signers include Jean Chadeayne, Henri Chadeayne, Josué Mercereau, Marie Chadeyne, Jean La Tourette, Elie Boudinot, Pierre Masse. [R4-S1]"
+    }
+  ],
+  "bio": "Marie Chadaine (Chadeayne) married Josué Mercereau at the French Church of New York on 16 Jul 1693, the same day as Jean La Tourette and Marie Mercereau. She is described as 'de yers en Saintonge', probably Hiers near Brouage, and he as of Moëze in Saintonge. Jean and Henri Chadeayne, presumably her kinsmen, signed as witnesses ([R4-S1]). She had appeared earlier as a godmother in the same church (index: Marie, s., p.13). Two children were baptized there: Marie (b. 16 May 1695, bapt. 19 May 1695, sponsors Jean Chadene and Elizabeth Mercereau) and Josué (b. 15 May 1696, bapt. 5 Jul 1696, sponsors Daniel Mercereau and Marie Boucherie) ([R4-S1]). That Josué (b. 1696) is the Joshua Mercereau (1696) whose son Joshua (1728-1804) ran the Mersereau spy ring for Washington.",
+  "sources": [
+    "[R4-S1] Collections of the Huguenot Society of America, vol. I (1886): registers of the French Church (Eglise Françoise à la Nouvelle York), transcribed (primary) https://archive.org/details/collectionsofhug01hugu"
   ]
 }

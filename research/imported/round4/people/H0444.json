@@ -1,0 +1,80 @@
+{
+  "id": "H0444",
+  "name": "Mathias Van Loon",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1794",
+        "place": "came from Esopus (Ulster Co.), NY, to Plymouth, Luzerne Co., PA",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1796",
+        "place": "Plymouth Twp., Luzerne Co., PA",
+        "note": "on the 1796 assessment list",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "date": "before 1800",
+        "place": "Jackson Twp. area (then part of Plymouth)",
+        "note": "Bradsby lists him among the 18th-century settlers of Jackson Twp.",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Wright's Historical Sketches of Plymouth (1873) says the Van Loons came to Plymouth from Esopus in 1794, three brothers of Low Dutch origin, Abraham ('Brom'), Mathias and Nicholas, all on the 1796 assessment list, and 'a family of hard workers' (S1). Matthias Vanloon is on the 1796 Plymouth taxables list in Pearce's Annals (S2). Bradsby names Mathias Van Loon, with Thomas Lamoreaux and others, as one of the 'settlers in the other century' of Jackson Township, the hill country west of Shawnee mountain where the Lamoreuxs settled (S3). He married Temperance Lamoreaux (1778-1855), daughter of Ensign Thomas Lamoreaux, and they had eight children (round 2, from Thomas Lamoreaux's will and Giles & Franklin). His nephew Stephen Van Loon (Abraham's eldest son) married her sister Hannah, so uncle and nephew married sisters.",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0175",
+      "evidence": "Thomas Lamoreaux's will and Giles & Franklin (round 2)",
+      "sourceRefs": [],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Identity as one of the three Esopus brothers documented by Wright and the 1796 assessment; marriage from the Lamoreaux will/Giles & Franklin."
+  },
+  "openQuestionsNew": [
+    "Birth and death dates; Esopus (Kingston, Ulster Co.) Dutch Reformed baptisms would give his parents."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "H. B. Wright, Historical Sketches of Plymouth (1873), pp.387-388 ('Van Loons')",
+      "url": "https://archive.org/details/historicalsketch00wrig_2",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Esopus origin, 1794 arrival, three brothers, 1796 assessment"
+    },
+    {
+      "ref": "S2",
+      "citation": "Stewart Pearce, Annals of Luzerne County (1860), list of Plymouth taxables 1796",
+      "url": "https://archive.org/details/annalsofluzernec01pear",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Matthias Vanloon taxable 1796"
+    },
+    {
+      "ref": "S3",
+      "citation": "Bradsby, History of Luzerne County (1893), Jackson Township chapter",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "early settler of Jackson Twp."
+    }
+  ],
+  "researchLogEntry": "Round 4: identified as one of three Van Loon brothers from Esopus (1794), on the 1796 Plymouth assessment, early Jackson Twp. settler; uncle of Sheriff Stephen Van Loon.",
+  "researchedAt": "2026-10-08"
+}

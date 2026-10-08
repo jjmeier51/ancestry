@@ -6,9 +6,12 @@
   },
   "tags": [],
   "summary": "FamilySearch-only claimed father of Stephen Scott - unsupported.",
-  "bio": "A FamilySearch profile gives Stephen Scott's father as Daniel Scott 1788-1811. Flagged as speculative/do not copy.",
+  "bio": "A FamilySearch profile gives Stephen Scott's father as Daniel Scott 1788-1811. Flagged as speculative/do not copy.\n\nA 'Daniel Scott Jr.' headed a household in Pittston Township in 1810: a man aged 26-44, a woman aged 16-25 and three young children, two of them boys ([R4-S1]). The man's age fits the tree's birth year of 1778 (and rules out FamilySearch's 1788, since he would then have been 22), and the young wife fits Hannah Devens (b. 1787). The 'Jr.' implies an older Daniel Scott in the same area; a Daniel Scott appears among the 1796 taxables of neighbouring Providence Township ([R4-S2]). A Joseph Scott and a Stephen Scott (aged 16-25) were enumerated on the same Pittston page ([R4-S1]). This is consistent with, but does not prove, the FamilySearch claim that Daniel and Hannah (Devens) Scott were the parents of Stephen J. Scott (b. Feb 1806). The FamilySearch profile makes him a son of Matthew Scott of Bennington, Vermont (d. 1789); the 'Jr.' in 1810 sits awkwardly with that, unless 'Jr.' distinguished him from an unrelated older Daniel.",
   "sources": [
-    "FamilySearch tree (Stephen Scott 9KXX-MH8 parents)"
+    "FamilySearch tree (Stephen Scott 9KXX-MH8 parents)",
+    "[R4-S1] 1810 US census, Pittstown [Pittston] Twp, Luzerne Co., PA, p.656 (FS index ark 1:1:XH2B-VYH) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC9K-HF1/images/i/0/image.jpg",
+    "[R4-S2] Pearce, Annals of Luzerne County (1866), list of taxables in Providence Township in 1796 (includes Daniel Scott) (secondary) https://archive.org/details/annalsofluzernec01pear",
+    "[R4-S3] FamilySearch published tree, Daniel Scott 1788-1811 (GC9K-HF1) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GC9K-HF1"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -19,6 +22,55 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1810 Pittston census 'Daniel Scott Jr.' household fits Daniel (b. by 1784) and Hannah Devens with young Stephen; older Daniel Scott in Providence 1796 noted."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824799104.json."
+    }
+  ],
+  "residences": [
+    {
+      "date": "1810",
+      "place": "Pittston Twp, Luzerne Co., PA",
+      "note": "'Scott Daniel Jr.' household; Joseph Scott and Stephen Scott on the same page [R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "1810 census",
+      "date": "1810",
+      "place": "Pittstown [Pittston] Twp, Luzerne Co., PA, p.656",
+      "description": "Scott, Daniel Jr.: males 2 under 10, 1 aged 26-44; females 1 under 10, 1 aged 16-25 (5 persons). [R4-S1]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1778, Woodford, Bennington, Vermont",
+      "found": "FamilySearch: 1788, Luzerne; 1810 census age bracket 26-44 (b. 1766-84)",
+      "assessment": "1810 census supports the tree's 1778 over FamilySearch's 1788 (if this is the right man)."
+    }
+  ],
+  "openQuestions": [
+    "Who was 'Daniel Scott' (Sr.) of Providence Twp (1796 taxable) - the father of Daniel Jr., rather than Matthew Scott of Vermont?",
+    "Did Daniel die c.1811 (FS) and did Hannah remarry a Covert (Find a Grave index 'Hannah Devens Covert'; Coverts lived in Plymouth Twp in 1840)?"
+  ],
+  "media": [
+    {
+      "file": "media/I282824799104/1810-census-pittston-scott.jpg",
+      "type": "record",
+      "title": "1810 census, Pittston Twp: Daniel Scott Jr. household",
+      "date": "1810",
+      "source": "FamilySearch (NARA M252), public_domain",
+      "note": "Same file as under Stephen J. Scott.",
+      "people": [
+        "I282824799057"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC9K-HF1"
     }
   ]
 }

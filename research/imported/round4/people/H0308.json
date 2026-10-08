@@ -1,0 +1,36 @@
+{
+  "id": "H0308",
+  "name": "Effingham Lawrence",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "c. 1805 (will dated 14 Dec 1803, proved 3 Sep 1806)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "",
+        "place": "Tower Hill, London",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Third son and seventh child of Richard Lawrence (son of Joseph, son of William & Elizabeth Smith); b. 1734; married Catharine Farmer; moved to London, commanded a British frigate, became an Elder Brother of Trinity House and a merchant at Tower Hill (S1). Children: William Effingham, John Curson, Effingham Calvert, Edward Billop and Catharine Maria (wife of Sir John Thomas Jones, Bt, Wellington's aide). 3rd cousin 8 times removed. Note: the Wikipedia article 'Effingham Lawrence' is a different man (Louisiana congressman, 1820-1878).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 48-49",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Effingham b. 1734 line, career, will, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: career, will dates and children from Lawrence 1858; Wikipedia namesake is a different person.",
+  "researchedAt": "2026-10-08"
+}

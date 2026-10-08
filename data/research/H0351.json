@@ -7,13 +7,17 @@
   "sex": "F",
   "aka": [
     "Grazia Petrillo",
-    "Grace DiBiasi"
+    "Grace DiBiasi",
+    "Katie Petrillo (probably, 1910 census)"
   ],
   "tags": [],
   "summary": "John's great-grandaunt.",
-  "bio": "b. 5 Jan 1897; married Joseph DiBiasi (d. 1958); naturalized 29 Jun 1943 (index; reason unknown - possibly citizenship lost by marrying an alien, speculative); d. Mar 1973; buried at St. Mary of Mt Carmel, Dunmore. Peter's birth date 26 Jul 1897 conflicts (twin? dates conflict).",
+  "bio": "b. 5 Jan 1897; married Joseph DiBiasi (d. 1958); naturalized 29 Jun 1943 (index; reason unknown - possibly citizenship lost by marrying an alien, speculative); d. Mar 1973; buried at St. Mary of Mt Carmel, Dunmore. Peter's birth date 26 Jul 1897 conflicts (twin? dates conflict).\n\nGrace's 1943 'naturalization' was in fact a repatriation. The index card is marked 'Rep.' and gives her country of birth as the U.S.A. ([R4-S1]). Under the Expatriation Act of 1907, an American woman who married a foreigner took his nationality. Grace's husband Joseph DiBiasi was Italian-born, so she must have married him before the Cable Act took effect in September 1922, and she formally regained her citizenship in June 1943. In 1940 she and Joseph lived at 1015 Bunker Hill Street, where Grace, not Joseph, was the merchant running a general grocery store ([R4-S2]). She was carrying on the grocery trade of her father John Petriello, whose store had stood at 1028 on the same street. She is very probably the 'Katie', 13, of the 1910 census ([R4-S3]; see H0350).",
   "sources": [
-    "FS tree GQWT-QQ8: https://ancestors.familysearch.org/en/GQWT-QQ8"
+    "FS tree GQWT-QQ8: https://ancestors.familysearch.org/en/GQWT-QQ8",
+    "[R4-S1] US District Court, Middle District of PA, naturalization index card (Form N-35), Grace DiBiasi, 1015 Bunker Hill St, Scranton; born Jan 5, 1897, country of birth U.S.A.; 'Rep.' (repatriation) June 29, 1943, vol. 1, certificate 250. Image attached to FamilySearch tree GQWT-QQ8 (index ark 1:1:6KPY-79MP). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg",
+    "[R4-S2] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+    "[R4-S3] 1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -24,6 +28,67 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: (bio) naturalized 29 Jun 1943 - reason unknown → Repatriation, not naturalization: the card is marked 'Rep.' and gives birth country U.S.A.; she had lost citizenship by marrying the Italian-born Joseph DiBiasi before Sept 1922."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: her 1943 'naturalization' is a repatriation (US-born wife of an alien); in 1940 she ran a general grocery at 1015 Bunker Hill St; probably the 'Katie' of 1910."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0351.json."
+    }
+  ],
+  "occupation": "Merchant, general grocery store (1940)",
+  "residences": [
+    {
+      "date": "1940-04-16",
+      "place": "1015 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
+      "note": "Wife of Joseph DiBiasi (47, b. Italy); she is the merchant of a general grocery store, own account. [R4-S2]"
+    },
+    {
+      "date": "1943-06-29",
+      "place": "1015 Bunker Hill St, Scranton",
+      "note": "Address on repatriation card [R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Repatriated as a US citizen",
+      "date": "1943-06-29",
+      "place": "US District Court, Middle District of PA, Scranton",
+      "description": "Card marked 'Rep.' (repatriation), vol. 1, certificate 250; country of birth U.S.A.; born Jan 5, 1897. US-born women who had married an alien before 22 Sep 1922 lost their citizenship and could regain it by repatriation. [R4-S1]"
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0351/repatriation-card-1943.jpg",
+      "type": "record",
+      "title": "Repatriation index card of Grace DiBiasi, 29 Jun 1943",
+      "date": "1943-06-29",
+      "source": "FamilySearch (published tree attachment), public_domain",
+      "note": "Federal court / INS index card: US government work, public domain.",
+      "people": [],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg"
+    },
+    {
+      "file": "media/H0351/1940-census-1015-bunker-hill.jpg",
+      "type": "record",
+      "title": "1940 census, 1003-1015 Bunker Hill St, Scranton (DiBiasi and Castellano households)",
+      "date": "1940-04-16",
+      "source": "FamilySearch (published tree attachment), public_domain",
+      "note": "US federal census / Selective Service record: a US government work, so public domain.",
+      "people": [
+        "H0501",
+        "H0355",
+        "H0503",
+        "H0512",
+        "H0366"
+      ],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg"
     }
   ]
 }

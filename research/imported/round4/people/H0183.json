@@ -1,0 +1,50 @@
+{
+  "id": "H0183",
+  "name": "Charity Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1783",
+      "place": "Monroe Twp, Orange Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1873",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1860",
+        "place": "household of Henry J. Johnson",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KGCY-B9P"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Charity (Lamoreaux) Steele the dates 1783 to 1873 and her husband as Peter Steele II (1779-1857), with children born from 1800. In 1860 she was living in Henry J. Johnson's household (S1). Her daughter Mary Steele (1808-1876), Mrs John Linskill, has been wrongly attached on FamilySearch as a second wife of James Pringle (see H0411).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Charity Lamoreaux (KGCY-B9P), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KGCY-B9P",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 1783-1873, husband Peter Steele II, and 1860 residence."
+}

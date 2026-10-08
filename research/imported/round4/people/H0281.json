@@ -1,0 +1,28 @@
+{
+  "id": "H0281",
+  "name": "Joshua Brewster Smith",
+  "status": "researched",
+  "media": [
+    {
+      "type": "photo",
+      "title": "Joshua Brewster Smith House, Hauppauge (HABS NY,52-HAUP,1-1)",
+      "date": "1930s (HABS)",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Joshua_Brewster_Smith_House,_Hauppauge,_Suffolk_County,_NY_HABS_NY,52-HAUP,1-1.tif",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Joshua_Brewster_Smith_House%2C_Hauppauge%2C_Suffolk_County%2C_NY_HABS_NY%2C52-HAUP%2C1-1.tif",
+      "repository": "Wikimedia Commons (Library of Congress HABS, https://www.loc.gov/pictures/item/ny0780.photos.123509p)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0281/joshua-b-smith-house-habs.jpg",
+      "people": [
+        "H0281",
+        "H0274",
+        "H0279"
+      ],
+      "suggestedFile": "media/H0281/joshua-b-smith-house-habs.jpg",
+      "note": "US government work (HABS). Saved as 1280px JPEG derivative of the TIFF."
+    }
+  ],
+  "researchLogEntry": "Round 4: HABS photograph of the house downloaded (PD).",
+  "researchedAt": "2026-10-08"
+}

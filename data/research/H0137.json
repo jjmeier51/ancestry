@@ -11,11 +11,13 @@
   ],
   "tags": [],
   "summary": "John's 4th-great-grand-aunt (sister of Mary Connole); mother of Dr. Thomas J. Dailey.",
-  "bio": "Honora 'Nora' Connole was born in Plymouth Township in 1855 (per her son's biography; FamilySearch: Jun 1856) and died 3 Oct 1910. She married William Dailey (b. Schuylkill Co. 1851). Her 1855 Plymouth birth is the main evidence that the Connoles reached Plymouth well before Mary's obituary's '1865'.",
+  "bio": "Honora 'Nora' Connole was born in Plymouth Township in 1855 (per her son's biography; FamilySearch: Jun 1856) and died 3 Oct 1910. She married William Dailey (b. Schuylkill Co. 1851). Her 1855 Plymouth birth is the main evidence that the Connoles reached Plymouth well before Mary's obituary's '1865'.\n\nFamilySearch gives her husband as William J. Dailey (b. Minersville 17 Feb 1854, d. Wilkes-Barre 18 Jan 1931, son of Michael Dailey and Elizabeth Keating) and lists eleven children, among them Elizabeth A. (1877-1958), Honora (1878-1961), Anna Hilary (1880-1951), Michael (1882-1902), Dr. Thomas Joseph (1884-1934), Gertrude F. (1890-1929), Loretta Alberta (1891-1967), Theressa Rosalind (1893-1985) and Margaret (1895-1987) ([R4-S1], [R4-S2]).",
   "sources": [
     "Harvey & Smith vol. VI, T. J. Dailey sketch p.~422: https://archive.org/details/historyofwilkesb06harv",
     "FamilySearch tree",
-    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "[R4-S1] FamilySearch Family Tree (published), Honora Connole (1856-1910), PID LNRQ-T7B; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LNRQ-T7B",
+    "[R4-S2] FamilySearch Family Tree (published), William J Dailey (1854-1931), PID LNRQ-5RS; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LNRQ-5RS"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -26,6 +28,40 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: husband's dates and the Dailey children from FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0137.json."
+    }
+  ],
+  "residences": [
+    {
+      "date": "1880",
+      "place": "Avondale, Luzerne Co.",
+      "note": "[R4-S1]"
+    },
+    {
+      "date": "1900-1910",
+      "place": "Plymouth Ward 5",
+      "note": "[R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LNRQ-T7B"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "spouse birth (William Dailey)",
+      "site": "1851",
+      "found": "17 Feb 1854, Minersville (FS)",
+      "assessment": "FS attaches an 1860 census and a death/burial record; prefer 1854 pending."
     }
   ]
 }

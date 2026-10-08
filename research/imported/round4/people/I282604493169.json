@@ -1,0 +1,53 @@
+{
+  "id": "I282604493169",
+  "name": "William F. Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "The 'Florence Irene Meier' buried from Wilkes-Barre in October 1933 was not William's daughter. She was his niece, Florence Irene Meier (b. 15 Mar 1916 Wilkes-Barre, d. 9 Oct 1933 Wilkes-Barre, aged 17), the eldest child of his brother Fred Aloysius Meier Sr. and Anna Mather. The FamilySearch tree attaches her to Fred's household in the 1920 and 1930 censuses and to a Find a Grave index entry at St. Mary's Cemetery, Hanover Twp. (S1). William's father Henry J. Meier did not die in 1940: he was still living, aged 83, at 16 Barney Street in the 1950 census (S2). So William was 46 when his father died, in December 1950 (see Henry J. Meier).",
+  "openQuestionsResolved": [
+    {
+      "question": "Was 'Florence Irene Meier' (funeral Oct 1933) his infant daughter?",
+      "answer": "No. She was his niece, Florence Irene Meier (15 Mar 1916–9 Oct 1933), daughter of his brother Fred Aloysius Meier Sr. and Anna Mather. She was 17, not an infant.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "H0012",
+      "evidence": "Fred Aloysius Meier Sr. is William's brother; his daughter is Florence Irene (H0011)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "openQuestionsNew": [
+    "FamilySearch attaches a 'William Meier' record from 'United States, Obituary Records, 2014–2023' (ark 1:1:XMZ3-FPD6) to LTHM-B3G. The image returned 404 here. It is probably a descendant's obituary naming him as parent; worth reading with a FamilySearch login."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, Florence Irene Meier (G7CS-F78), published-tree JSON: b. 15 Mar 1916 Wilkes-Barre, d. 9 Oct 1933 Wilkes-Barre, burial St. Mary's Cemetery, Hanover Twp.; parents Fred Aloysius Meier Sr. (L6H5-86K) and Anna Mather (LRT7-WHC); sources 1920 census (M6Y8-CSD), 1930 census (XH7C-9LC), Find a Grave index (QVG4-98VJ)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-F78",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Florence Irene was Fred's daughter"
+    },
+    {
+      "ref": "S2",
+      "citation": "1950 U.S. census, Wilkes-Barre, Luzerne Co., PA, ED written '80-106' (probably 40-106), sheet 15, 8 Apr 1950, enumerator Alice E. Mulligan, lines 28–30, house 16 [Barney St]: Meier, Henry J., head, 83, married, born Germany, naturalized; Anna, wife, 82, Penna.; Mary, daughter, 51, never married, saleswoman (clothes), retail clothing store (FamilySearch source image on Mary C. Meier, LTHM-BQ6; index 6XB1-LZM7)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-BQ6/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Henry J. Meier was alive in April 1950"
+    }
+  ],
+  "searchedNoResult": [
+    "FamilySearch obituary image for William Meier (LTHM-B3G source image 2): HTTP 404",
+    "WWII 1942 draft card for William F. Meier: not attached to any FS profile; Ancestry/Fold3 not tried (blocked)"
+  ],
+  "researchLogEntry": "Round 4: resolved Florence Irene Meier (d. 1933) as his niece, Fred A. Meier's daughter, not his own child; father Henry alive in 1950 census."
+}

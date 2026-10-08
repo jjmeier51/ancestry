@@ -1,0 +1,114 @@
+{
+ "id": "H0003",
+ "name": "Edward McGuire",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1907-04-04",
+   "place": "Plymouth, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "1907 #38426 (Edward McGuire, Plymouth, April 4)"
+   },
+   {
+    "label": "FamilySearch ID",
+    "value": "994Z-27X"
+   }
+  ]
+ },
+ "bioAdditions": "The first-year state death index (1907) lists \"McGuire, Edward; 38426; Plymouth; April 4\" (S1). This fits the FamilySearch \"April 1907, buried Plymouth\" and gives an exact date and a certificate number. The certificate should state his age, birthplace in Ireland and parents, which would test the speculative Dublin baptism (Owen McGuire & Anne Clusky). His son James's birthplace was given in 1927 as Danville (S3), the post office of the 1870 household (S2). FamilySearch identifies further children: Edward (b. c1856), Mary (3 Nov 1858-4 Jun 1942, Mrs. Michael E. Riley of Plymouth), Cecilia Marcella (1864-1918, who married Murdock Dunn at Plymouth in 1887 and emigrated to Vancouver Island, British Columbia) and Timothy (c1865, dead by 1880) (S4).",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "NEW-201",
+   "evidence": "Mary McGuire Riley: in Edward's 1870 household (age 12); her daughter's marriage record names her as Mary McGuire",
+   "sourceRefs": [
+    "S2",
+    "S4"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-202",
+   "evidence": "Cecilia: \"Mesilla\" 5 in the 1870 household; married at Plymouth 1887 as Scylia McGuire",
+   "sourceRefs": [
+    "S2",
+    "S5"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-203",
+   "evidence": "Edward Jr., 14, in the 1870 household",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-204",
+   "evidence": "Timothy, 3, in the 1870 household",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "probable",
+  "justification": "The Danville birthplace in the 1927 licence strengthens the James link; the 1907 certificate (#38426) would confirm."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Department of Health death certificate index, 1907 (PA State Archives RG-11), PDF p.66: \"McGuire, Edward; 38426; Plymouth; April 4.\"",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 4 Apr 1907, Plymouth, file 38426",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1907/D-07%20M-N-O.pdf"
+  },
+  {
+   "ref": "S2",
+   "citation": "1870 U.S. census, Mahoning Twp, Montour Co., Pa. (P.O. Danville), Edward McGuire household (image via FamilySearch, attached to 994Z-27X)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Household of Edward McGuire, furnace helper, incl. Edward 14, Mary 12, James 9, \"Mesilla\" [Cecilia] 5, Timothy 3",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg"
+  },
+  {
+   "ref": "S3",
+   "citation": "Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "William Bernard McGuire, laborer, 19 Oak St, Wilkes-Barre, b. Larksville, 21; father James (dec'd, b. Danville, Pa.), mother Anna Jones (dec'd, b. England). Bride b. Plymouth, 21, of 88 Lyndwood Ave, Hanover Twp; father James Prout (carpenter, b. Larksville), mother Bertha Dunn (b. Avondale).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg"
+  },
+  {
+   "ref": "S4",
+   "citation": "FamilySearch Family Tree (published), Edward McGuire (1824-1907), PID 994Z-27X; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children Edward, Mary, James, Cecilia Marcella, Timothy; parents (speculative) Owen McGuire & Anne Clusky",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/994Z-27X"
+  },
+  {
+   "ref": "S5",
+   "citation": "Luzerne Co. Marriage License Docket no. 1790, Merdith [Murdock] Denn [Dunn] & Scylia McGuire, sworn 13 Dec 1886, married 27 Dec at Plymouth by Frances Mack (image via FamilySearch, attached to G3FP-1G7)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Cecilia McGuire b. 11 Nov [1862?], of Plymouth; groom b. 24 Dec 1862, Plymouth",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3FP-1G7/images/i/2/image.jpg"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1907 PA death index file 38426 (Plymouth, 4 Apr 1907); four more children identified."
+}

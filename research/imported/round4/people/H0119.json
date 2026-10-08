@@ -1,0 +1,182 @@
+{
+ "id": "H0119",
+ "name": "Leo Gerald Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LB2V-6FN"
+   }
+  ],
+  "events": [
+   {
+    "title": "Led air search for Lt. Alexander Pearson",
+    "date": "1921-02-14",
+    "place": "Fort Bliss / Big Bend, Texas",
+    "description": "As commander of aviation at Fort Bliss he flew to Sanderson, Texas, to direct flying expeditions into the Big Bend and Chihuahua searching for the lost flier Lt. Alexander Pearson",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "title": "Led search for Col. Francis Marshall",
+    "date": "1922-12-09",
+    "place": "Fort Bliss to Tucson",
+    "description": "Five airplanes under Maj. Heffernan, commanding the 12th Observation Squadron, left Fort Bliss to join the search for Col. Marshall and Lt. Charles L. Webber",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "title": "Unofficial world speed record",
+    "date": "1923-03",
+    "place": "Columbus, N.M., to El Paso",
+    "description": "75 miles in 18 minutes (250 mph) with a gale behind him in a sandstorm; flight began at Nogales; record forwarded to the Chief of Air Service but not official",
+    "sourceRefs": [
+     "S3"
+    ]
+   },
+   {
+    "title": "Transferred from Rantoul (Chanute Field) to the Panama Canal Zone",
+    "date": "1930-09",
+    "sourceRefs": [
+     "S4"
+    ]
+   },
+   {
+    "title": "Retired as Major, Air Corps",
+    "date": "1933-09",
+    "sourceRefs": [
+     "S5"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1913-12",
+    "place": "Fort Myer, Va. (2nd Lt., 5th Cavalry)",
+    "sourceRefs": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Library of Congress Bain News Service glass negative LC-B2-4268-9 shows \"Capt. L. G. Heffernan\" with three other officers at Wilbur Wright Field, Ohio, in 1917, when he commanded the field (S7); it carries no known restrictions and was downloaded. Contemporary newspapers on Chronicling America add two rescue missions: in Feb 1921, as commander of aviation at Fort Bliss, he directed the air search for Lt. Alexander Pearson, lost over the Big Bend (S1), and in Dec 1922 he led five planes of the 12th Observation Squadron from Fort Bliss to join the search for Col. Francis Marshall (S2). The San Antonio Light of 24 Mar 1923 gives detail of his record flight: 75 miles from Columbus, N.M., to El Paso in 18 minutes in a sandstorm, with a 100-mph upper wind behind him, on a trip that began at Nogales; the record was \"not official\" (S3). The Evening Star noted his transfer from Rantoul to the Canal Zone in Sept 1930 (S4), and the Washington Times listed him as retired in Sept 1933 (S5). FamilySearch adds that he married Mathilde Payne in Chicago on 24 Dec 1915, and that his second wife Jane Hamilton Davis (1902-1975) was born at Pleasant Hill, Louisiana, and is buried at Arlington; his death (9 Feb 1956, Los Angeles) is backed by a California county death record (S8).",
+ "conflicts": [
+  {
+   "field": "death.date",
+   "siteValue": "Feb 1956 (7 or 9 Feb in obituaries)",
+   "foundValue": "9 Feb 1956, Los Angeles (FS, California county death record)",
+   "sourceRefs": [
+    "S8"
+   ],
+   "assessment": "Supports 9 Feb 1956 (Dwyer)."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Evening Public Ledger (Philadelphia), \"Airmen Seek Lost Flier: Major Heffernan Leads Expedition Into Mexico,\" p.4, 14 Feb 1921 (Chronicling America, Library of Congress; OCR text read)",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Search for Lt. Alexander Pearson",
+   "url": "https://www.loc.gov/resource/sn83045211/1921-02-14/ed-1/?sp=4"
+  },
+  {
+   "ref": "S2",
+   "citation": "Bismarck Tribune, \"Planes Go In Search,\" p.1, 9 Dec 1922 (Chronicling America, Library of Congress; OCR text read)",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Five planes under Major Leo J. [sic] Heffernan, 12th Observation Squadron",
+   "url": "https://www.loc.gov/resource/sn85042243/1922-12-09/ed-1/?sp=1"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Antonio Light, \"Former Kelly Field Flier Sets World Speed Record in Blinding Storm,\" p.1, 24 Mar 1923 (Chronicling America, Library of Congress; OCR text read)",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "75 miles in 18 minutes; not official",
+   "url": "https://www.loc.gov/resource/sn85060004/1923-03-24/ed-1/?sp=1"
+  },
+  {
+   "ref": "S4",
+   "citation": "Evening Star (Washington), army orders, p.5, 6 Sep 1930 (Chronicling America, Library of Congress; OCR text read)",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Transferred from Rantoul, Ill., to the Panama Canal Zone",
+   "url": "https://www.loc.gov/resource/sn83045462/1930-09-06/ed-1/?sp=5"
+  },
+  {
+   "ref": "S5",
+   "citation": "Washington Times, Air Corps orders, p.7, 30 Sep 1933 (Chronicling America, Library of Congress; OCR text read)",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "\"Major Leo G. Heffernan, Air Corps, retired\"",
+   "url": "https://www.loc.gov/resource/sn84026749/1933-09-30/ed-1/?sp=7"
+  },
+  {
+   "ref": "S6",
+   "citation": "Evening Star (Washington), \"Fort Myer\" (5th Cavalry arrives), p.18, 29 Dec 1913 (Chronicling America, Library of Congress; OCR text read)",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "2nd Lt. Leo G. Heffernan arrives at Fort Myer from Fort Huachuca",
+   "url": "https://www.loc.gov/resource/sn83045462/1913-12-29/ed-1/?sp=18"
+  },
+  {
+   "ref": "S7",
+   "citation": "Library of Congress, Bain News Service, \"Lt. Richards, Capt. Kirby, Capt. L.G. Heffernan, Lieut. Schultz\" [1917], LC-B2-4268-9",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Photograph at Wilbur Wright Field, 1917; no known restrictions",
+   "url": "https://www.loc.gov/pictures/item/2014705074/"
+  },
+  {
+   "ref": "S8",
+   "citation": "FamilySearch Family Tree (published), Major Leo Gerald Heffernan (1889-1956), PID LB2V-6FN; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriages (Chicago 24 Dec 1915; 1922), daughter Elizabeth Jane, 1940/1950 census Los Angeles, California death record",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LB2V-6FN"
+  }
+ ],
+ "media": [
+  {
+   "type": "photo",
+   "title": "Capt. L. G. Heffernan with Lt. Richards, Capt. Kirby and Lt. Schultz, Wilbur Wright Field, 1917",
+   "date": "1917",
+   "pageUrl": "https://www.loc.gov/pictures/item/2014705074/",
+   "directUrl": "https://tile.loc.gov/storage-services/service/pnp/ggbain/24800/24892v.jpg",
+   "repository": "Library of Congress Prints & Photographs, Bain Collection",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0119/lc-bain-1917-wilbur-wright-field-officers.jpg",
+   "people": [
+    "H0119"
+   ],
+   "suggestedFile": "media/H0119/lc-bain-1917-wilbur-wright-field-officers.jpg",
+   "note": "LOC: \"No known restrictions on publication.\" Which officer is Heffernan is not marked; TIFF master at https://tile.loc.gov/storage-services/master/pnp/ggbain/24800/24892u.tif"
+  },
+  {
+   "type": "newspaper",
+   "title": "San Antonio Light front page: Heffernan's 250-mph flight",
+   "date": "1923-03-24",
+   "pageUrl": "https://www.loc.gov/resource/sn85060004/1923-03-24/ed-1/?sp=1",
+   "repository": "Chronicling America",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": false,
+   "people": [
+    "H0119"
+   ],
+   "suggestedFile": "media/H0119/san-antonio-light-1923-03-24.jpg",
+   "note": "Pre-1931 US newspaper; not downloaded (page image large)."
+  }
+ ],
+ "funFacts": [
+  "Before his 1923 record he twice led air searches for lost army fliers over the Texas-Mexico border (1921, 1922)."
+ ],
+ "researchLogEntry": "Round 4: LOC 1917 photo found and downloaded; newspaper accounts of 1921/1922 searches, 1923 flight, 1930 transfer, 1933 retirement."
+}

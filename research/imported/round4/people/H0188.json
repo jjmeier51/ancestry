@@ -1,0 +1,79 @@
+{
+  "id": "H0188",
+  "name": "Daniel Davenport",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1796-03-07/09 or 1797",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1840-09-03",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1820-03-12",
+        "place": "",
+        "description": "Married Mary Nesbitt (b. Plymouth 3 Mar 1803); seven children.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Built a sawmill with John Lamoreaux",
+        "date": "1823",
+        "place": "Bidlack's Creek, Jackson Twp., Luzerne Co.",
+        "description": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Giles & Franklin say Daniel was born at Plymouth on 7 or 9 March 1796 or 1797, died on 3 Sep 1840, and married Mary Nesbitt (b. Plymouth 3 Mar 1803) on 12 Mar 1820. Their children were Charles (b. 27 May 1821), George (4 Jan 1823 - 27 Jun 1906, m. Emily Ingham), Chester (b. 7 Feb 1825, d. Dec 1855), Esther (b. 14 May 1827, m. William Garrahan), Harriet (b. 2 Apr 1830), James (b. 3 May 1831) and Hendrick Wright Davenport (b. 6 Dec 1834, d. Culbertson, Neb., 9 Jul 1916) (S1). The youngest was evidently named for H. B. Wright, who sat on the same school bench as Daniel. In 1823 Daniel and John Lamoreaux built a sawmill on Bidlack's Creek (S2).",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0186",
+      "evidence": "G&F p.320",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Family genealogy with exact dates, consistent with Wright."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.320-321",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth, death 3 Sep 1840, marriage 12 Mar 1820 to Mary Nesbitt, seven children"
+    },
+    {
+      "ref": "S2",
+      "citation": "H. C. Bradsby, History of Luzerne County (1893), p.589",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "sawmill on Bidlack's Creek, 1823"
+    }
+  ],
+  "researchLogEntry": "Round 4: Giles & Franklin give d. 3 Sep 1840, m. 12 Mar 1820 Mary Nesbitt, seven children incl. Hendrick Wright Davenport. Bradsby gives the 1823 sawmill.",
+  "researchedAt": "2026-10-08"
+}

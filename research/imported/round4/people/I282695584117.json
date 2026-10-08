@@ -1,0 +1,82 @@
+{
+  "id": "I282695584117",
+  "name": "Johann Casper Doll",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Baptism",
+        "date": "1 Feb 1722",
+        "place": "Ulmet Lutheran parish, Kusel district (family of Erzweiler)",
+        "description": "Register p.245: parents 'Christoffel Doll und Anna Sara zu Erzweiler' (village read with help of the 1704 marriage entry); child 'Johann Caspar ist getaufft worden d. 1 Febr. 1722'. Godparents include a Peter Schuch (?), Johann Caspar Simon and Anna Elisabetha, wife of Christian Drum of Ulmet.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "M7ZN-ZBL"
+      }
+    ]
+  },
+  "bioAdditions": "Round 4 read the image of the Ulmet Lutheran baptism register (1722, p.245) that FamilySearch attaches to his profile. Johann Caspar, child of Christoffel Doll and Anna Sara, was baptized on 1 Feb 1722 (S1). One godparent appears to be a Schuch, which fits his mother's maiden name, Schuch. Another is the wife of Christian Drum of Ulmet, and a Simon Drum sailed with the Dolls on the Samuel in 1739. The register therefore confirms the Ulmet baptism and his parents' names, and it outweighs the 2 Feb 1724 date on his gravestone. FamilySearch (M7ZN-ZBL) labels him 'Capt.' and attaches a Historical Society of Pennsylvania burial card for 'Capt Casper Doll or Dull'; that card belongs to the nephew, Capt. Casper Dull (1748-1829), as the existing bio already explains. The burial-card image downloaded as 0 bytes. The village in the 1722 entry is Erzweiler: the 1704 Ulmet marriage of his parents calls his father 'Hans Peter Dollen Sohn zu Erzweiler' (see H0080).",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1722-02-01 (gravestone gives 2 Feb 1724)",
+      "foundValue": "baptized 1 Feb 1722 (Ulmet register)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "The register supports the site's 1722 date; the 1724 gravestone date is later and wrong."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Baptism and parents now primary-sourced; upgrade to confirmed only once the link to daughter Anna Maria (b. 1751) is proven."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Ulmet (Kusel), Evangelical Lutheran parish register, baptisms 1722 p.245, Johann Caspar son of Christoffel Doll and Anna Sara (FS Germany Lutheran Baptisms, Marriages and Burials ark 1:1:QPKP-8X34)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/M7ZN-ZBL/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "baptism 1 Feb 1722, parents"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Capt. Johann Caspar Doll (M7ZN-ZBL)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/M7ZN-ZBL",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "tree claims; HSP burial card attached (belongs to nephew)"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Ulmet Lutheran baptism register 1722 p.245: Johann Caspar Doll",
+      "date": "1722-02-01",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/M7ZN-ZBL",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/M7ZN-ZBL/images/i/1/image.jpg",
+      "repository": "FamilySearch (Ulmet Lutheran parish register)",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "I282695584117",
+        "H0080",
+        "H0081"
+      ],
+      "suggestedFile": "media/I282695584117/ulmet-baptism-1722-johann-caspar-doll.jpg",
+      "note": "FamilySearch church-book image; rights unknown; viewed only"
+    }
+  ],
+  "researchLogEntry": "Round 4: viewed the Ulmet 1722 register image: baptism 1 Feb 1722, parents Christoffel Doll and Anna Sara; godparents include Schuch (?) and Drum."
+}

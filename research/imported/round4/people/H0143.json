@@ -1,0 +1,59 @@
+{
+  "id": "H0143",
+  "name": "Nelson George Pringle",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1860-04-05",
+      "place": "Kingston, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Merchant, Kingston",
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1884-01-03",
+        "place": "",
+        "description": "Married Sarah Adula Copeland, daughter of Rev. Dr. David Copeland (President of Wyoming Seminary 1872-1882) and Sarah Wheelock.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Nelson George Pringle was the only child of Alexander J. Pringle (H0142) and Mary Price. He was born at Kingston on 5 Apr 1860 and educated at Wyoming Seminary and Yale. By 1899 he had been a merchant in Kingston for about fifteen years and lived there with his widowed mother. On 3 Jan 1884 he married Sarah Adula Copeland, daughter of the Rev. Dr. David Copeland, president of Wyoming Seminary from 1872 to 1882, and Sarah Wheelock. Their daughters were Elizabeth (b. 14 Jan 1891) and Bertha (b. 30 Oct 1893) (S1). These are the Elizabeth H. and Bertha A. Pringle already on the site as Vassar graduates.",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0142",
+      "evidence": "Harvey Book p.138",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "openQuestionsNew": [
+    "Death in 1908 (site): no obituary found in Chronicling America; the Wilkes-Barre papers for 1908 are not on Chronicling America."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Harvey Book."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth date and place, education, marriage 3 Jan 1884 to Sarah Adula Copeland, daughters' birth dates"
+    }
+  ],
+  "researchLogEntry": "Round 4: Harvey Book p.138 gives exact birth, marriage (3 Jan 1884, Sarah Adula Copeland) and daughters' birth dates. No 1908 obituary found online.",
+  "researchedAt": "2026-10-08"
+}

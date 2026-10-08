@@ -1,0 +1,93 @@
+{
+  "id": "I282608064885",
+  "name": "Friedrich Mayer",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Acknowledged paternity of son Friedrich",
+        "date": "1862-01-13",
+        "place": "Munzingen, Amt Freiburg, Baden",
+        "description": "Son Friedrich born 11 Jan 1862 to the single day labourer Maria Anna Birkenmaier. Before the parish priest and witnesses, the single mason Friedrich Mayer, legitimate son of the citizen and master mason Heinrich Mayer and Juliana Senn, declared himself the father and asked that the child bear his surname with full rights. Godparents: Joseph Wenz, shoemaker (his brother-in-law), and Sophie Mayer, of age, single, in service at Freiburg, daughter of Heinrich Mayer.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The Munzingen birth register for 1862 explains why Friedrich and Maria Anna married in October 1862. Their first child, Friedrich, was born on 11 Jan 1862 at 9:30 a.m. and baptized on 13 January as the illegitimate son of 'the single day labourer Maria Anna Birkenmaier', daughter of the late master joiner Servatius Birkenmaier and Agatha Heitzler. In the same entry the single mason Friedrich Mayer, son of the citizen and master mason Heinrich Mayer and Juliana Senn, freely declared himself the father before the priest and the witnesses. He asked that the child carry his surname and have all the rights of an acknowledged child. The godparents were family: Joseph Wenz, shoemaker of Munzingen and husband of Friedrich's sister Maria Anna Creszentia, and Friedrich's unmarried sister Sophie Mayer, then in domestic service at Freiburg (S1). The parents married nine months later, on 20 Oct 1862. This birth date, 11 Jan 1862, matches the date the son himself gave on his 1886 Luzerne marriage docket ('11 January 1862', Hazleton) (S2), and it corrects the tree's 11 Nov 1862.\n\nIn America the family's spelling kept shifting. Friedrich's eldest son appears as 'Fred Meir' in 1886 (S2), and probably as 'Fred Meires' of Hazleton in the 1915 state death index (see Frederick Meier). Friedrich's own son Henry J. died in Wilkes-Barre on 20 Dec 1950, not in 1940 (see Henry J. Meier).",
+  "funFacts": [
+    "His first son was born nine months before the wedding. Friedrich went to the priest two days after the birth to acknowledge the boy as his own, and his sister and brother-in-law stood as godparents."
+  ],
+  "relationships": [
+    {
+      "type": "child",
+      "personId": "I282608085066",
+      "evidence": "1862 Munzingen birth: Friedrich Mayer acknowledges paternity of Friedrich, b. 11 Jan 1862, son of Maria Anna Birkenmaier",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "sibling",
+      "personId": "H0023",
+      "evidence": "Sophie Mayer, daughter of Heinrich Mayer, godmother 1862",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "openQuestionsNew": [
+    "Emigration still not found. The Munzingen 1862 birth and marriage entries carry no emigration note in what was read. The Auswanderungsakten of Bezirksamt Freiburg (Staatsarchiv Freiburg) for 1867–68 remain the best lead.",
+    "Order PA death certificate 1913 no. 14339 (as before)."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath., Standesbücher 1840–1870), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432); index 'Register zu 1862' (image 439): 'Mayer Friedrich d. Friedrich, 489'",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Son Friedrich b. 11 Jan 1862; paternity acknowledgment; godparents Joseph Wenz and Sophie Mayer; Heinrich Mayer a master mason, alive Jan 1862"
+    },
+    {
+      "ref": "S2",
+      "citation": "Luzerne County Orphans' Court Marriage License Docket, licence No. 714, sworn 28 Apr 1886: Fred Meir, b. 11 January 1862, of Hazleton, and Annie Wenner, b. 15 August 186[?], of Hazleton; married 12 May 1886 at Hazleton by E. W. Fitzmaurice (FamilySearch source image on G7GQ-XGX; index Q281-QXBL)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Son's birth date 11 Jan 1862"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Munzingen 1862 birth of Friedrich Mayer (son), with paternity acknowledgment by Friedrich Mayer, mason",
+      "date": "1862-01-13",
+      "pageUrl": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+      "directUrl": "",
+      "repository": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282608085066/birth-1862-munzingen-L10-1591-img431.jpg",
+      "people": [
+        "I282608085066",
+        "I282608064885",
+        "I282608064896",
+        "I282608085304",
+        "H0023",
+        "H0391"
+      ],
+      "suggestedFile": "media/I282608085066/birth-1862-munzingen-L10-1591-img431.jpg",
+      "note": "The viewer marks these images with the Creative Commons Public Domain Mark 1.0. The entry continues on image 432 (media/I282608085066/birth-1862-munzingen-L10-1591-img432.jpg)."
+    }
+  ],
+  "searchedNoResult": [
+    "Munzingen death indexes 1862, 1863, 1865, 1866, 1867 (L 10 Nr. 1591): no Heinrich Mayer (for father's death)"
+  ],
+  "researchLogEntry": "Round 4: found the 11 Jan 1862 Munzingen birth of son Friedrich to Maria Anna Birkenmaier, with Friedrich's paternity acknowledgment (the reason for the Oct 1862 marriage); godparents his sister Sophie and brother-in-law Joseph Wenz."
+}

@@ -1,0 +1,58 @@
+{
+ "id": "H0113",
+ "name": "Nora C. Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1873-07-20",
+   "place": "Plymouth, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "burial": {
+   "cemetery": "St. Mary's Cemetery",
+   "place": "Hanover Twp, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "occupation": "Dressmaker (1900)",
+  "residences": [
+   {
+    "date": "1940",
+    "place": "Kingston, Pa.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LTDC-3QD"
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch gives her birth as 20 Jul 1873. In 1900 \"Norah,\" 26, was a dressmaker living with her parents in Plymouth (S9); in 1940 she lived in Kingston (S1).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Nora C Heffernan (1873-1964), PID LTDC-3QD; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth 20 Jul 1873; burial St. Mary's; 1880/1900 census",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LTDC-3QD"
+  },
+  {
+   "ref": "S9",
+   "citation": "1900 U.S. census, Plymouth Borough Ward 3, ED 120, sheet 1A (Andrew Hefferman household)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Children's birth months/years and 1900 occupations",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/0/image.jpg"
+  }
+ ],
+ "researchLogEntry": "Round 4: exact birth date (FS), 1900 occupation dressmaker."
+}

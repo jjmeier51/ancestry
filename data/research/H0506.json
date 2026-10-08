@@ -9,6 +9,29 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS NUMIDENT dates 1919-1981; maiden name still unknown."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0506.json."
     }
+  ],
+  "birth": {
+    "date": "1919",
+    "place": "Jessup, Lackawanna County, PA"
+  },
+  "death": {
+    "date": "1981",
+    "place": "Scranton, PA"
+  },
+  "bio": "FamilySearch (from the Social Security NUMIDENT) gives Mildred Leona Petrillo as born 1919 at Jessup and died 1981 in Scranton ([R4-S1]). Her maiden surname is still unknown; 'Leona' looks like a middle name.",
+  "openQuestions": [
+    "Maiden surname of Rocco Frank Petrillo's wife Mildred Leona (marriage license, Lackawanna Co.)."
+  ],
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree published profile GQ49-HXY (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQ49-HXY"
   ]
 }

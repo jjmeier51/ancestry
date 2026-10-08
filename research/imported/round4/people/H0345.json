@@ -1,0 +1,70 @@
+{
+ "id": "H0345",
+ "name": "Vittoria Marrelli",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Vittoria Marrello was a real person, but she was the wife of Francesco Gabriele Fiorillo, not of Domenico. Her sons Gabriele (d. 1839, aged 7), Angelo (c.1824-1912) and Lorenzo (c.1835-1915) are all recorded as children of Francesco Fiorillo and Vittoria Marrello (S2, S3). Carmine's own 1840 marriage, made during his mother's lifetime, names her as Maria Marrelli (S1). The 1860 death act and burial (S4) evidently substituted the aunt's name. Recommendation: detach Vittoria from John's line and use Maria Marrello (I282824815353) as Carmine's mother.",
+ "conflicts": [
+  {
+   "field": "relationship",
+   "siteValue": "Mother of Carmine G. Fiorillo (John's direct ancestor)",
+   "foundValue": "Wife of Francesco G. Fiorillo; Carmine's mother was Maria Marrelli",
+   "sourceRefs": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "assessment": "Remove from the direct line (or keep as collateral: wife of Carmine's probable uncle Francesco)."
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "confirmed",
+  "recommended": "possible",
+  "justification": "Not a direct ancestor: confirmed only as an informant's error in the 1860 death record."
+ },
+ "openQuestionsResolved": [
+  {
+   "question": "Her parents and origin; Carmine's marriage act",
+   "answer": "Carmine's civil marriage (1 Mar 1840, act 3) names his mother as Maria Marrelli, not Vittoria. Vittoria Marrello was the wife of Francesco Gabriele Fiorillo.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino, stato civile, Civil marriages 1840, image 172, act 3; volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+   "url": "https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Carmine Fiorillo's mother named as Maria Marrelli (living) in 1840 (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1893-1915 (Book 31), image 108, p. 209, no. 25; image 123, p. 237, no. 29; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1893-1915'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Angelus Fiorillo (d. 1912, 88) and Laurentius Fiorillo (d. 1915, 80), sons of the late Franciscus Fiorillo and the late Victoria Marrello (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino, stato civile, Civil deaths 1839, image 1206, act 25; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+   "url": "https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Gabriele Fiorillo, 7, born Aiello, son of Francesco Fiorillo and Vittoria Marrello, d. 25 Aug 1839 (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S4",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 50, p. 91, no. 30; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Carmine's 1860 burial index gives mother \"Victoria Marrello\" (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: shown to be the wife of Francesco G. Fiorillo; Carmine's mother was Maria Marrelli (1840 marriage). Recommend removal from direct line."
+}

@@ -1,0 +1,89 @@
+{
+  "id": "H0324",
+  "name": "Tapping Reeve",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1 Oct 1744",
+      "place": "Fire Place, Brookhaven, NY",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "13 Dec 1823",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0493",
+      "evidence": "Dexter: Abner Reeve m. Dec 1743 Deborah Topping or Tapping of Brookhaven; 'While living at Fire Place, in Brookhaven, in 1744, their son Tapping Reeve... was born.'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Dexter (S1) gives the family: his father Rev. Abner Reeve (b. Southold 21 Feb 1707/8, son of Thomas and Bethia (Horton) Reeve) married Deborah Topping 'or Tapping' of Brookhaven in December 1743, and Tapping was born at Fire Place, Brookhaven, in 1744. That opens a second possible route to John: his grandmother Bethia Horton was surely of Barnabas Horton's Southold family, but which Bethia is not proven (see openQuestionsNew). His mother's place in the Topping family is still untraced.",
+  "openQuestionsNew": [
+    "Which Bethia Horton married Thomas Reeve (b. 1671, d. 1738) as his first wife? The Horton Genealogy (1876) names a Bethia, daughter of Barnabas Horton (son of Caleb) and Sarah Hines of Cutchogue (m. c.1686), who would fit; that would make Tapping a Barnabas Horton descendant (4C8R via Barnabas, if the Rachel Browne -> Horton line holds).",
+    "Deborah Topping (d. 1759, aged 42): her father is still unknown."
+  ],
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "possible",
+    "justification": "Two candidate routes (Topping via mother; Horton via grandmother), neither proven."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "F. B. Dexter, Biographical Sketches of the Graduates of Yale College, vol. 1 (1885) (archive.org full text), pp. 434-435",
+      "url": "https://archive.org/details/biogsketchgrad01dextuoft",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Abner Reeve's parents, marriages, Tapping's birth at Fire Place 1744"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Tapping Reeve' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Tapping_Reeve",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; Litchfield Law School; Burr"
+    },
+    {
+      "ref": "S3",
+      "citation": "George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), c. p. 170 (Caleb I line)",
+      "url": "https://archive.org/details/hortongenealogyo00hort",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Children of Barnabas Horton and Sarah Hines include Bethia"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Tapping Reeve (Litchfield Historical Society)",
+      "date": "",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tapping_Reeve.JPG",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tapping_Reeve.JPG",
+      "repository": "Wikimedia Commons, uploaded by Litchfield Historical Society",
+      "rights": "cc (CC BY-SA 3.0)",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0324/tapping-reeve-litchfield-hs.jpg",
+      "people": [
+        "H0324"
+      ],
+      "suggestedFile": "media/H0324/tapping-reeve-litchfield-hs.jpg",
+      "note": "Licence CC BY-SA 3.0; credit 'LitchfieldHistoricalSociety', share-alike required."
+    }
+  ],
+  "researchLogEntry": "Round 4: Dexter gives Abner Reeve's parents Thomas Reeve & Bethia Horton; possible Horton route added; Topping parentage still open.",
+  "researchedAt": "2026-10-08"
+}

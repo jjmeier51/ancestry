@@ -1,0 +1,126 @@
+{
+ "id": "I282824815339",
+ "name": "Carmine Gabriele Fiorillo",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "c. 1806 (age 34 in Mar 1840)",
+   "place": "Savuto (Cleto), near Aiello Calabro, Cosenza",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1 Mar 1840 (civil act 3); 3 Mar 1840 (church)",
+    "place": "San Mango d'Aquino",
+    "description": "Married Giuseppina Ferlaino",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The 1840 civil marriage act settles the question of Carmine's mother. When Carmine (34, contadino, born at Savuto) married Giuseppina Ferlaino on 1 March 1840, his parents are given as Domenico Fiorillo and Maria Marrelli, both then living (S1). The church entry two days later notes that the groom came from Aiello (S2). Maria Marrello was buried in 1846 as Domenico's wife (S4). Two sisters, Cintia (Giacinta) and Antonia, born at Aiello Calabro, married at San Mango in 1839 and 1844 with the same parents named (S5). The 1860 death act read in round 3, and the parish burial index (S3), both give his mother as 'Vittoria' Marrelli/Marrello. A Vittoria Marrello was in fact the wife of Francesco Gabriele Fiorillo, very probably Domenico's brother, and mother of Angelo (1824-1912) and Lorenzo (1835-1915). The death informant evidently confused the two Marrello wives. Maria, not Vittoria, was Carmine's mother.",
+ "conflicts": [
+  {
+   "field": "mother",
+   "siteValue": "Vittoria Marrelli (H0345), from the 1860 death act",
+   "foundValue": "Maria Marrelli/Marrello (1840 civil marriage, made while she was alive; her own 1846 burial as wife of Domenico)",
+   "sourceRefs": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "assessment": "Prefer Maria: the marriage act was made during her lifetime with the groom present. Vittoria was the wife of Francesco G. Fiorillo. Merge/remove H0345 and attach Maria Morrello (I282824815353) as mother."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815347",
+   "evidence": "1840 marriage names father Domenico Fiorillo",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815353",
+   "evidence": "1840 marriage names mother Maria Marrelli (living)",
+   "sourceRefs": [
+    "S1",
+    "S4"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "sibling",
+   "personId": "NEW-805",
+   "evidence": "Cintia Gabriele Fiorillo, same parents",
+   "sourceRefs": [
+    "S5"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "sibling",
+   "personId": "NEW-806",
+   "evidence": "Antonia Fiorillo, same parents",
+   "sourceRefs": [
+    "S5"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "openQuestionsNew": [
+  "Baptism c.1806 at Savuto/Cleto or Aiello Calabro (registers not indexed here)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino, stato civile, Civil marriages 1840, image 172, act 3, 1 Mar 1840; volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+   "url": "https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Carmine Fiorillo, 34, contadino, born Savuto, son of Domenico Fiorillo and Maria Marrelli (both living), marries Giuseppina Ferlaino (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 61, p. 415, no. 4; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Church marriage 3 Mar 1840, note \"groom from Ajello\" (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 50, p. 91, no. 30; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 18 Nov 1860: Carmelus Gabriele Fiorillo, 54, son of the late Dominicus and the late Victoria Marrello, husband of Josephina Ferlaino (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S4",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 5, p. 4, no. 13; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 20 Mar 1846: Maria Marrello, 60, wife of Dominicus Gabriele Fiorillo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S5",
+   "citation": "San Mango d'Aquino, stato civile, Civil marriages 1839 / 1844, act 1 of 7 Feb 1839 (image 146); act 13 of 29 Dec 1844 (image 275); volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+   "url": "https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Sisters Cintia (26) and Antonia (29) Gabriele Fiorillo, born Aiello Calabro, daughters of Domenico Gabriele Fiorillo and Maria Marrelli/Marrello (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: civil marriage 1 Mar 1840 (act 3) names his mother as Maria Marrelli, resolving the Vittoria vs Maria conflict; groom born Savuto."
+}

@@ -1,14 +1,64 @@
 {
   "id": "H0438",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Marriage proven by Bradsby; vital dates rest on the FS tree and Find a Grave index."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Marriage proven by Bradsby; vital dates rest on the FS tree and Find a Grave index."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0154, proven): Bradsby (Honeywell sketch) names Lulu M. as daughter of Charles and Keturah (Pringle) Robbins; FS tree agrees and gives Lulu M. b. 1862"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree identifies him as Charles Carter Robbins (1829 NJ - 1878 Hanover Twp.), with children incl. Lulu M. matching Bradsby."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0438.json."
     }
+  ],
+  "birth": {
+    "date": "1829-09-30",
+    "place": "Greenwich Twp., Gloucester Co., NJ (per FamilySearch tree)"
+  },
+  "death": {
+    "date": "1878-09-23",
+    "place": "Hanover Twp., Luzerne Co., PA (per FamilySearch tree / Find a Grave index)"
+  },
+  "burial": {
+    "place": "Hanover Cemetery (per Find a Grave index on FS), Hanover Twp., Luzerne Co., PA"
+  },
+  "aka": [
+    "Charles Carter Robbins",
+    "Charles C. Robins"
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GL21-ST6"
+    }
+  ],
+  "bio": "The FamilySearch tree identifies the husband of Keturah Pringle as Charles Carter Robins/Robbins, born 30 Sep 1829 in Greenwich Twp., Gloucester Co., New Jersey, son of John Robbins (1803-1886) and Sarah Carter (1800-1886), who died 23 Sep 1878 in Hanover Twp., Luzerne Co., and is buried in Hanover Cemetery ([R4-S2]). The tree lists their children as Emily (1855-1930), Ella (1859-1919), Lulu M. (1862-1950), Byron S. (1870-1951) and Clarence Howard (1873-1959). Lulu M. matches Bradsby's 'Lulu M., daughter of Charles and Keturah (Pringle) Robbins', who married Plymouth tax collector Charles W. Honeywell on 28 Feb 1883 ([R4-S1]). The widowed Keturah married Philip Manhart on 19 Sep 1883 ([R4-S2]).",
+  "conflicts": [
+    {
+      "field": "birth.place",
+      "site": "(none); Bradsby calls Charles and Keturah 'natives of this county'",
+      "found": "Greenwich Twp., Gloucester Co., NJ (FS tree)",
+      "assessment": "Unresolved; the FS birthplace is unsourced except for a Find a Grave index entry. 1850/1860 census birthplaces would settle it."
+    }
+  ],
+  "sources": [
+    "[R4-S1] Bradsby, History of Luzerne County (1893), sketch of Charles W. Honeywell (secondary) https://archive.org/details/historyofluzerne00brad",
+    "[R4-S2] FamilySearch Family Tree (published), Charles Carter Robins GL21-ST6; Keturah Pringle K86Y-ZB8 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GL21-ST6"
   ]
 }

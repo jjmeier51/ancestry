@@ -1,17 +1,18 @@
 {
   "id": "H0283",
   "link": {
-    "confidence": "possible",
-    "note": "3rd cousin 8x removed only if his father was a son of Deborah Smith (Jonathan's daughter) rather than of Catherine DeHart; the sources do not say."
+    "confidence": "unverified",
+    "note": "3rd cousin 8x removed only if his father was a son of Deborah Smith (Jonathan's daughter) rather than of Catherine DeHart; the sources do not say. Round 4 (possible → unverified): The proposed blood link is contradicted by Pelletreau's sketch; keep only as a Hauppauge neighbour/in-law."
   },
   "sex": "M",
   "tags": [],
   "summary": "Possibly John's 3rd cousin 8x removed (Bull → Jonathan → Deborah → Joseph → Joseph); SAR patriot buried at Hauppauge.",
-  "bio": "Elder Joseph Blydenburgh, son of a Dutch New Yorker, married Deborah daughter of Jonathan Smith on 8 Jul 1692 (she d. before May 1699), then Catherine DeHart; founded the Blydenburgh homestead at the Branch. This younger Joseph moved to Hauppauge and survived a British search of his house for gold hidden in a churn. SAR-recognized patriot buried in Hauppauge Rural Cemetery.",
+  "bio": "Elder Joseph Blydenburgh, son of a Dutch New Yorker, married Deborah daughter of Jonathan Smith on 8 Jul 1692 (she d. before May 1699), then Catherine DeHart; founded the Blydenburgh homestead at the Branch. This younger Joseph moved to Hauppauge and survived a British search of his house for gold hidden in a churn. SAR-recognized patriot buried in Hauppauge Rural Cemetery.\n\nPelletreau's Blydenburgh family sketch ([R4-S1]) settles the open point: Joseph (1732-1833) was a son of Joseph Blydenburgh 2d and his wife (a Saxton), and Joseph 2d was a child of the immigrant's son Joseph 1st by his second wife 'Collosia' (the Catherine DeHart of other sources), not by Deborah Smith. So Joseph (1732) does not descend from Bull Smith and is not John's blood cousin through that route. His brother Daniel was killed in the French War. He married Nancy Smith, whose parentage is not stated (if she was a Bull Smith, their children would be cousins).",
   "sources": [
     "Wood (1920) pp. 16, 26–27",
     "jrm Needham I3699, https://jrm.phys.ksu.edu/genealogy/needham/d0002/I3699.html",
-    "SAR, https://sarpatriots.sar.org/cemetery/display/375105"
+    "SAR, https://sarpatriots.sar.org/cemetery/display/375105",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 483-485 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -22,6 +23,22 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → unverified: The proposed blood link is contradicted by Pelletreau's sketch; keep only as a Hauppauge neighbour/in-law."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: the sources do not say which wife bore his father → Pelletreau's sketch lists Joseph 2d among the issue of the second wife 'Collosia'."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Pelletreau's Blydenburgh sketch shows his line comes from Joseph 1st's second wife; not a Bull Smith descendant."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0283.json."
     }
   ],
   "media": [
@@ -40,6 +57,22 @@
       "source": "Find a Grave (cited on WikiTree Blydenburgh-6)",
       "note": "",
       "url": "https://www.findagrave.com/memorial/6032999/joseph-blydenburgh"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "",
+      "place": "",
+      "description": "Married Nancy Smith (parentage not given). [R4-S1]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "relationship",
+      "site": "Possibly 3C8R (Bull -> Jonathan -> Deborah -> Joseph -> Joseph)",
+      "found": "Descends from Joseph 1st's second wife 'Collosia', not Deborah Smith",
+      "assessment": "Not kin via Bull Smith; recommend changing to in-law family / not related."
     }
   ]
 }

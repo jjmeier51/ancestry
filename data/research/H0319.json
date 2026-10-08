@@ -7,11 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Yale 1735, missionary to the Long Island Indians, then pastor at Bottle Hill (Madison, NJ); John's 1st cousin 9x removed.",
-  "bio": "Akerly: 'Azariah, a graduate of Yale College, was missionary to the L. I. Indians, and ancestor of the Rev. Theodore L. Cuyler, of Brooklyn'. His daughter Mary married Jacob Morrell. Brevet Brig. Gen. James H. Baker (1829–1913), Ohio and Minnesota Secretary of State, is named a descendant (path not traced; speculative). Survives the James-versus-Joshua dispute (both were Mary's brothers).",
+  "bio": "Akerly: 'Azariah, a graduate of Yale College, was missionary to the L. I. Indians, and ancestor of the Rev. Theodore L. Cuyler, of Brooklyn'. His daughter Mary married Jacob Morrell. Brevet Brig. Gen. James H. Baker (1829–1913), Ohio and Minnesota Secretary of State, is named a descendant (path not traced; speculative). Survives the James-versus-Joshua dispute (both were Mary's brothers).\n\nAkerly ([R4-S1]) lists him among the six children of Jonathan Horton and Mary Tuthill (m. 27 Nov 1705), noting he was a Yale graduate, missionary to the Long Island Indians, and ancestor of Rev. Theodore L. Cuyler. Routes: 1st cousin 9 times removed via John Tuthill Jr & Mehitable Wells; also 2C9R via William Wells through his grandmother Bethia (Wells) Horton.",
   "sources": [
     "Akerly (1898)",
     "NJGenWeb, https://usgenwebsites.org/NJMorris/biographies/lewisbios1899/hortonazariah.htm",
-    "Wikipedia: James H. Baker (politician)"
+    "Wikipedia: James H. Baker (politician)",
+    "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 8 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -22,6 +23,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Wikipedia: no 'Azariah Horton' article; Commons: no portrait"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Akerly confirms parentage; second route via Wells added."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0319.json."
     }
   ],
   "media": [

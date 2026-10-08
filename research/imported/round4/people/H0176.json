@@ -1,0 +1,54 @@
+{
+  "id": "H0176",
+  "name": "James Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "30 Jan 1774",
+      "place": "Cornwall, Orange Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "10 May 1795",
+        "place": "",
+        "description": "To Sarah Elizabeth Hunter (1776-1850)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1800-1830",
+        "place": "Jackson Twp, Luzerne Co. (census)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "K2XZ-H6T"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives James a birth date of 30 Jan 1774 at Cornwall, a marriage to Sarah Hunter on 10 May 1795, and census entries in 1800 and 1830, with children born in Jackson Twp from 1796. It has him alive after 1850 (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, James Lamoreaux (K2XZ-H6T), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K2XZ-H6T",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. 30 Jan 1774 Cornwall and m. 10 May 1795 Sarah Hunter."
+}

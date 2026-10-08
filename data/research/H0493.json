@@ -9,6 +9,48 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: full biography from Dexter and Hayes; parents Thomas Reeve & Bethia Horton."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0493.json."
     }
+  ],
+  "birth": {
+    "date": "21 Feb 1707/8",
+    "place": "Southold, NY"
+  },
+  "death": {
+    "date": "1798-05-06",
+    "place": "Brattleboro, Vermont"
+  },
+  "burial": {
+    "place": "Old Burial Ground on the hill above the Wells homestead (West Brattleboro), Brattleboro, Vermont"
+  },
+  "aka": [
+    "Rev. Abner Reeve"
+  ],
+  "occupation": "Presbyterian / Congregational minister (Yale 1731)",
+  "events": [
+    {
+      "title": "Marriages",
+      "date": "1732; Dec 1743; 1761",
+      "place": "Southold; Brookhaven; Southampton",
+      "description": "(1) 16 Oct 1732 Mary (d. 6 May 1741 aged 33); (2) Dec 1743 Deborah Topping or Tapping of Brookhaven (d. 1759); (3) 1761 Phebe Foster of Southampton (d. 26 May 1790 aged 66). [R4-S1]"
+    },
+    {
+      "title": "Ministry",
+      "date": "1735-1794",
+      "place": "Nissequogue (Smithtown); Moriches; Blooming Grove; Brattleboro",
+      "description": "Licensed 1735; withdrew c.1748 for intemperance; restored and ordained at Moriches 6 Nov 1755; dismissed 1763; led emigrants to Blooming Grove, Orange Co.; pastor at Brattleboro c.1767/70-1794. [R4-S1]"
+    }
+  ],
+  "bio": "Dexter ([R4-S1]) makes him a son of Thomas and Bethia (Horton) Reeve of Southold. His candid biography includes two removals for drink, a recovery through Rev. William Throop, and a late, sober pastorate at Brattleboro, where Hayes ([R4-S2]) says he was remembered as 'a fine-looking man, well built, large and portly'. In 1763 he led 'a company of emigrants' from Moriches to Blooming Grove, Orange County, the same move that may have carried John's Tuthill and Smith ancestors to the Clove (Round 2). His stepmother was Mary Wells, granddaughter of William Wells.",
+  "sources": [
+    "[R4-S1] F. B. Dexter, Biographical Sketches of the Graduates of Yale College, vol. 1 (1885) (archive.org full text), pp. 434-435 (secondary) https://archive.org/details/biogsketchgrad01dextuoft",
+    "[R4-S2] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), c. pp. 94-95 (note to ch. VII) (secondary) https://archive.org/details/williamwellsofso00byuhaye"
   ]
 }

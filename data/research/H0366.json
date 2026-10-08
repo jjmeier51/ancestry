@@ -7,10 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "Brother of Maria Antonia DiBiasi; John's 3rd great-granduncle.",
-  "bio": "b. 28 Sep 1856 Guardia Lombardi; d. 8 Feb 1922 Scranton; buried in Dunmore. Married Victoria DiPietro; son John N. (1892-1974) had a son Nicholas (1919-2002).",
+  "bio": "b. 28 Sep 1856 Guardia Lombardi; d. 8 Feb 1922 Scranton; buried in Dunmore. Married Victoria DiPietro; son John N. (1892-1974) had a son Nicholas (1919-2002).\n\nHis widow Victoria (78, born Italy) was living in April 1940 with their son John DiBiasi (46) and his family at 1009 Bunker Hill Street. That was a few doors from Grace (Petrillo) DiBiasi's grocery at no. 1015 and the Petriello house at no. 1028 ([R4-S1]).",
   "sources": [
     "FS tree G4YT-QC3: https://ancestors.familysearch.org/en/G4YT-QC3",
-    "BillionGraves QK9P-G2LN: https://familysearch.org/ark:/61903/1:1:QK9P-G2LN"
+    "BillionGraves QK9P-G2LN: https://familysearch.org/ark:/61903/1:1:QK9P-G2LN",
+    "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21,6 +22,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1940 census shows his widow and son John at 1009 Bunker Hill St."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0366.json."
     }
   ]
 }

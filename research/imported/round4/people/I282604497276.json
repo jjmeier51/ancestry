@@ -1,0 +1,56 @@
+{
+ "id": "I282604497276",
+ "name": "Margaret McIver",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "1880 census, Plymouth Township: Margret Jones, 35, wife, keeping house, born England; her father born Ireland and mother England (S1). Her son Joseph's December 1914 marriage docket records her as deceased, maiden name written \"Kiver\", birthplace \"Don't know\" (S2). So she died before Dec 1914.",
+ "updates": {
+  "death": {
+   "date": "bef. Dec 1914",
+   "sourceRefs": [
+    "S2"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Edward F. Jones 40, miner, b. Wales (parents Wales); Margret 35, wife, b. England (father b. Ireland, mother b. England); Ann C. 15, dau., b. England; Rose 13, dau., b. England; Mary 10, dau., servant, b. England; William J. 9/12, son, born Sept., b. Penna. Next household (fam. 134): Evan W. Jones 60, laborer, and Martha 52, both b. Wales.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1880 census, Plymouth Twp ED 144 p.21: Edward F. Jones household",
+   "date": "1880-06-11",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:MWNZ-HXR",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg",
+   "repository": "NARA via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "people": [
+    "I282604497369",
+    "I282604497276",
+    "I282604494275",
+    "I282604498336"
+   ],
+   "suggestedFile": "media/I282604497369/1880-census-plymouth-twp-edward-f-jones.jpg",
+   "note": "US federal census; public domain."
+  }
+ ],
+ "researchLogEntry": "Round 4: 1880 census (b. England, father Irish) read; dead by 1914 per son's docket (\"Kiver\")."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I282608085304",
+  "name": "Heinrich Mayer",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "occupation": "Mason (Maurer) 1820–1835; master mason (Maurermeister) and citizen of Munzingen by Jan 1862",
+    "events": [
+      {
+        "title": "Named in grandson's baptism",
+        "date": "1862-01-13",
+        "place": "Munzingen",
+        "description": "Called 'hiesiger Bürger und Maurermeister Heinrich Mayer', father of Friedrich (who acknowledged his son Friedrich b. 11 Jan 1862) and of the godmother Sophie Mayer, single, in service at Freiburg.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "A January 1862 Munzingen baptism adds a little to what is known of Heinrich's last years. When his son Friedrich acknowledged an illegitimate grandson on 13 Jan 1862, the priest described Heinrich as a living citizen and master mason of Munzingen (S1). His daughter Sophie, of age and unmarried, was godmother; she was then 'in Diensten zu Freiburg' (in domestic service at Freiburg). His death was not found. The Munzingen death-register indexes for 1862, 1863, 1864, 1865, 1866, 1867, 1868 and 1869 (L 10 Nr. 1591) contain no Heinrich Mayer (S2). He therefore either died after 1869, died away from Munzingen (perhaps at Freiburg, where daughters Sophie and Pauline lived), or emigrated. The 1870 index and the post-1870 Munzingen books were not checked.",
+  "openQuestionsResolved": [
+    {
+      "question": "Death after Oct 1862 (L 10 Nr. 1591 deaths 1862–70 or later Munzingen books).",
+      "answer": "Partly. He is not in the Munzingen death indexes for 1862–1869. Still unresolved: 1870, the later Munzingen books (Erzbistum Freiburg / FS film), and Freiburg city registers.",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Check Munzingen deaths 1870 (end of L 10 Nr. 1591) and the Freiburg parishes (Sophie and Pauline lived there) for his death c.1862–1880."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-432",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Alive 13 Jan 1862, citizen and master mason; daughter Sophie in service at Freiburg"
+    },
+    {
+      "ref": "S2",
+      "citation": "Landesarchiv Baden-Württemberg, L 10 Nr. 1591, death-register indexes ('Register') for 1862 (img 445), 1863 (465), 1864 (498–499), 1865 (521), 1866 (548), 1867 (574), 1868 (600), 1869 (623)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-574",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Negative: no Heinrich Mayer death at Munzingen 1862–1869"
+    }
+  ],
+  "searchedNoResult": [
+    "Munzingen death indexes 1862–1869 (L 10 Nr. 1591): no Heinrich Mayer"
+  ],
+  "researchLogEntry": "Round 4: confirmed he was a living master mason in Jan 1862; not in Munzingen death indexes 1862–1869."
+}

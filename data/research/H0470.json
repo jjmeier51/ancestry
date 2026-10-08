@@ -9,6 +9,43 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates, will and children from Thompson vol. 3."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0470.json."
     }
+  ],
+  "birth": {
+    "date": "1668-03-04"
+  },
+  "death": {
+    "date": "1749-07-14",
+    "place": "Setauket, NY"
+  },
+  "burial": {
+    "place": "Setauket Presbyterian Church (south-east corner; part of tombstone survived in 1918), Setauket, NY"
+  },
+  "occupation": "Farmer",
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1709-11-06",
+      "place": "",
+      "description": "Married Hannah (Brewster), widow of John Muncy, daughter of Rev. Nathaniel Brewster. [R4-S1]"
+    },
+    {
+      "title": "Will",
+      "date": "1745-04-03",
+      "place": "",
+      "description": "Son Jonathan and two sons-in-law executors; silver tankard to grandson and namesake Samuel (father of the historian B. F. Thompson). [R4-S1]"
+    }
+  ],
+  "bio": "Youngest son of John Thompson of Setauket (John's 11th-great-grandfather), so a brother of John's 10th-great-grandmother Elizabeth (Thompson) Smith. Thompson's family account ([R4-S1]) gives his dates, marriage and will, and lists his children Jonathan, Isaac (lost at sea c.1735), Susannah (m. Thomas Strong), Mary (m. Daniel Smith), Deborah (m. Arthur Smith, then William Miller), Ruth (m. Thomas Telford) and Sarah. His silver tankard went to the grandson who fathered Long Island's historian.",
+  "sources": [
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), pp. 296-297 (secondary) https://archive.org/details/historyoflongisl003thom"
   ]
 }

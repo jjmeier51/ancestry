@@ -1,0 +1,98 @@
+{
+  "id": "H0212",
+  "name": "Simon Croop",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "before 1 Jan 1901",
+      "place": "probably Hunlock Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1901",
+        "place": "Hunlock Twp., Luzerne Co., PA",
+        "note": "His estate owned a blacksmith and wagon shop there",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Estate's blacksmith and wagon shop destroyed by fire",
+        "date": "1901-01-01",
+        "place": "Hunlock Twp., Luzerne Co., PA",
+        "description": "The Freeland Tribune of 2 Jan 1901 reported that 'yesterday' the blacksmith and wagon shop owned by the estate of Simon Croop in Hunlock Township burned with its contents, uninsured.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "military": [
+      {
+        "note": "Bradsby names him with Alvin and Andrew as one of three Croop brothers who served in the Civil War; unit still unidentified (not in PA-Roots Bates transcriptions per round 2).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Bradsby's sketch of Andrew Croop (b. 1843), brother of Hiram and son of William and Mary (Sorber) Croop, ends: 'There were three brothers who served in the Civil war, viz.: Alvin, Andrew and Simon Croop, all stanch Republicans' (S1). Read with the sketch of Hiram, this makes Simon a son of William Croop (1805-1889) and grandson of the pioneer John Croop, though Bradsby does not say so in so many words.\n\nThe only other trace found is a 1901 news item: on New Year's Day 1901 the blacksmith and wagon shop 'owned by the estate of Simon Croop, in Hunlock township' was destroyed by fire, with no insurance (S2). So Simon had died by the end of 1900, and he or his family ran a smithy and wagon shop in Hunlock Township.",
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "H0210",
+      "evidence": "Bradsby names Alvin, Andrew and Simon Croop as three brothers who served in the Civil War, in Andrew's sketch.",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "sibling",
+      "personId": "H0211",
+      "evidence": "same",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "possible",
+    "justification": "Now has an independent trace (estate in Hunlock Twp. by 1901) consistent with Bradsby; Civil War unit and dates still unknown."
+  },
+  "openQuestionsNew": [
+    "Civil War unit: search the PA Civil War Veterans' Card File (PA State Archives, ARIAS) for Simon Croop/Croup/Kroop.",
+    "Death date before 1901: Luzerne wills/administrations index (C) and Hunlock-area cemeteries."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Bradsby, History of Luzerne County (1893), p.813, sketch of Andrew Croop",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "three Croop brothers in the Civil War"
+    },
+    {
+      "ref": "S2",
+      "citation": "Freeland Tribune (Freeland, Pa.), 2 Jan 1901, p.1 (Chronicling America)",
+      "url": "https://www.loc.gov/resource/sn87080287/1901-01-02/ed-1/?sp=1",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "estate of Simon Croop owned a blacksmith and wagon shop in Hunlock Twp., burned 1 Jan 1901"
+    }
+  ],
+  "searchedNoResult": [
+    "archive.org full-text 'Simon Croop': 0 hits",
+    "WikiTree API (Croop-42 relatives): rate-limited",
+    "Chronicling America 'Simon Croop': only the 1901 fire item"
+  ],
+  "researchLogEntry": "Round 4: found a 1901 Freeland Tribune item showing Simon Croop dead by 1901, his estate owning a blacksmith and wagon shop in Hunlock Twp.; Civil War unit still unknown.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "I282824815737",
+ "name": "Raffaele Colosimo",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "27 Aug 1821 (baptism)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "18 Jan 1899 (burial)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S4"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "24 Mar 1839",
+    "place": "San Mango d'Aquino",
+    "description": "Married Filippina Iera",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "title": "Second marriage",
+    "date": "17 Oct 1872",
+    "place": "San Mango d'Aquino",
+    "description": "Married Maria Luigia Rametta",
+    "sourceRefs": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Raffaele was baptized on 27 August 1821, son of Luigi Colosimo and Carmela Moraca (S1). He married Filippina Iera on 24 March 1839, aged only 17 (S2). They had at least ten children between 1840 and 1866, including John's ancestor Saveria (1848) (S5). Filippina died in 1871. In October 1872 Raffaele remarried Maria Luigia Rametta (indexed as Barretta at a son's 1873 baptism) (S3, S5). He was buried at San Mango on 18 January 1899 (S4). The burial gives his age as 89, but by his baptism he was 77.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815770",
+   "evidence": "Baptism and 2nd marriage name father Luigi",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815780",
+   "evidence": "Baptism names mother Carmela Moraca",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815742",
+   "evidence": "Marriage 1839",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "confirmed",
+  "justification": "Baptism, two marriages and burial indexed; daughter Saveria's baptism and marriage name him."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1811-1840 (Book 8), image 60, p. 110, no. 57; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1840'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Raphael Colosimo bapt. 27 Aug 1821, father Aloysius Colosimo, mother Carmela Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 57, p. 408, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 24 Mar 1839, Rafaelle Colosimo and Philippina Iera, daughter of Rosario (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1856-1884 (Book 22), image 84, p. 166, no. 23; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1856-1884'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Second marriage 17 Oct 1872: Raphaele Colosimo (son of the late Aloysius) and Maria Aloysia Rametta (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S4",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1893-1915 (Book 31), image 42, p. 78, no. 3; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1893-1915'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 18 Jan 1899: Raffael Colosimo, 89 (sic), son of the late Aloysius and the late Carmela (indexed \"Michelino\") (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S5",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1811-1840 to 1857-1875 (), Isabella 1840, Aloysius 1841, Petrus Maria 1844, Joachim 1846, Xaveria 1848, Carolina 1851, Maria Theresia 1853, Fidericus 1856, Maria 1862, Josephus 1866; Franciscus 1873 (by 2nd wife Maria Barretta); volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1840 to 1857-1875'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children of Raphael Colosimo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 27 Aug 1821, marriage 24 Mar 1839, 2nd marriage 1872, burial 18 Jan 1899; ten children."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "H0229",
+  "name": "John Thompson",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Pelletreau calls him 'John Thompson, Esq., of Setauket', father of Elizabeth, wife of Job Smith (S1). Weygant (1897) repeats the disproven Rev. William Thompson/Brewster story (S2).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "John Thompson, Esq., of Setauket"
+    },
+    {
+      "ref": "S2",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "repeats the disproven ancestry"
+    }
+  ],
+  "researchLogEntry": "Round 4: nothing beyond Pelletreau's restatement."
+}

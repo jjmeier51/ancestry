@@ -1,0 +1,63 @@
+{
+ "id": "I282604500799",
+ "name": "Martin Murphy",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "occupation": "Miner (1870)",
+  "residences": [
+   {
+    "date": "1870-07-29",
+    "place": "Plymouth Township, Luzerne Co., Pa. (P.O. Kingston)",
+    "note": "Owned real estate worth $1,100",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "In the 1870 census Martin Murphy was a miner in Plymouth Township, owning real estate worth $1,100 and personal property worth $200 (S1). With him were Alice (35) and seven children: Mary 13, Patrick 12, Catherine 9, James 7, John 4, and one-month-old twins Martin and Thomas.",
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "ABT 1835",
+   "foundValue": "age 50 in 1870 (b. c.1820)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "The 1870 age points to c.1820; FS's 1835 probably comes from 1880. Record both; his 1885 death/burial record would help."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1870 U.S. census, Plymouth Township, Luzerne Co., Pa., p.66, enumerated 29 Jul 1870 by Roberson Boyd, P.O. Kingston, dwelling 444, family 446 (image via FamilySearch, attached to G7FL-HGY)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Martin Murphy 50, miner, real estate $1100, personal $200, b. Ireland; Alice 35, keeping house, b. Ireland; Mary 13, Patrick 12, Catherine 9, James 7, John 4, and twins Martin and Thomas aged 1/12, all b. Pennsylvania.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7FL-HGY/images/i/2/image.jpg"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1870 census, Plymouth Twp p.66: Martin Murphy household",
+   "date": "1870-07-29",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:MZPY-311",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7FL-HGY/images/i/2/image.jpg",
+   "repository": "NARA via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604500799/1870-census-plymouth-twp-martin-murphy.jpg",
+   "people": [
+    "I282604500799",
+    "I282604500824",
+    "I282604498567"
+   ],
+   "suggestedFile": "media/I282604500799/1870-census-plymouth-twp-martin-murphy.jpg",
+   "note": "US federal census; public domain."
+  }
+ ],
+ "researchLogEntry": "Round 4: 1870 census read (miner, property $1,100, age 50, twins born 1870)."
+}

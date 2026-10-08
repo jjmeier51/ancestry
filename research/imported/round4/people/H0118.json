@@ -1,0 +1,83 @@
+{
+ "id": "H0118",
+ "name": "John Vincent Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LB2V-KQF"
+   }
+  ],
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1914-05-04",
+    "place": "Manhattan, New York City",
+    "description": "Married Edith Corrine Grammes (NYC marriage index as \"Edith C. Graham\")",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1930",
+    "place": "Kingston, Pa.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "military": [
+   {
+    "note": "WWII draft registration 1942, Kingston, Pa.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch gives the marriage as 4 May 1914 in Manhattan and his wife as Edith Corrine Grammes (1896-1938), daughter of Cyrus Randolph Gramm(es) and Martha L. Robinson; she died at Wilkes-Barre on 6 Nov 1938 and is buried at Fairview Cemetery, Danville. Their daughter was Mary Louise Heffernan (1921-2011) (S1, S2).",
+ "conflicts": [
+  {
+   "field": "spouse surname",
+   "siteValue": "Edith Corrine Graham",
+   "foundValue": "Grammes (Find a Grave index; parents Gramm/Grammes); \"Graham\" in the NYC marriage index",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "Grammes looks correct; \"Graham\" is probably an index anglicisation."
+  },
+  {
+   "field": "death.place",
+   "siteValue": "Alexandria, Virginia",
+   "foundValue": "Fairfax, Virginia (FS)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Neighbouring jurisdictions; unresolved."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), John Vincent Heffernan (1886-1958), PID LB2V-KQF; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage, daughter, 1942 draft, death Fairfax VA",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LB2V-KQF"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), Edith Corrine Grammes (1896-1938), PID GM37-PDH; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents, death 1938, burial Danville",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GM37-PDH"
+  }
+ ],
+ "researchLogEntry": "Round 4: wife was Edith Corrine Grammes (not Graham), d. 1938; daughter Mary Louise."
+}

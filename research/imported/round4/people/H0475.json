@@ -1,0 +1,37 @@
+{
+  "id": "H0475",
+  "name": "Jonas Platt",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1775",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Eldest son of Zephaniah Platt (1704-1778) and Hannah Saxton. Married Temperance, daughter of Ebenezer Smith 1st (son of Richard 2d); died 1775 aged 44; she died 12 Mar 1813. Their son Col. Richard Platt was aide to Gen. Montgomery on the Quebec expedition; their daughter Elizabeth married Rev. David Schuyler Bogart (S1). Not to be confused with Judge Jonas Platt (1769-1834), whose Morse portrait is on Commons; that Jonas was a son of the Plattsburgh founder.",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0474",
+      "evidence": "Pelletreau: 'Jonas Platt, (oldest son of Zephaniah,) married Temperance'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 473",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Jonas Platt m. Temperance dau. of Ebenezer Smith; d. 1775 ae 44; children"
+    }
+  ],
+  "researchLogEntry": "Round 4: death 1775 aged 44 and children (Col. Richard Platt) from Pelletreau; distinguished from Judge Jonas Platt.",
+  "researchedAt": "2026-10-08"
+}

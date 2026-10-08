@@ -1,0 +1,55 @@
+{
+  "id": "H0327",
+  "name": "Dan Topping",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "11 Jun 1912",
+      "place": "Greenwich, Connecticut",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "18 May 1974",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Daniel Reid Topping was part-owner and president of the New York Yankees 1945-1964 (S1), son of Henry Junkins Topping and grandson of John A. Topping of Republic Iron & Steel. Nothing found ties John A. Topping to the Southampton Toppings.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Dan Topping' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Dan_Topping",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates, Yankees role"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Casey Stengel, Joe DiMaggio, Dan Topping and Del Webb",
+      "date": "1951",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Casey_Stengel,_Joe_DiMaggio,_Dan_Topping_and_Del_Webb_1951.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Casey_Stengel%2C_Joe_DiMaggio%2C_Dan_Topping_and_Del_Webb_1951.jpg",
+      "repository": "Wikimedia Commons (Los Angeles Daily News)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0327/dan-topping-yankees-1951.jpg",
+      "people": [
+        "H0327"
+      ],
+      "suggestedFile": "media/H0327/dan-topping-yankees-1951.jpg",
+      "note": "Commons licence: Public domain (per Commons; LA Daily News photo). Kinship unverified. 1280px derivative."
+    }
+  ],
+  "searchedNoResult": [
+    "Web search on John A. Topping's ancestry (no Long Island origin found)"
+  ],
+  "researchLogEntry": "Round 4: dates and family from Wikipedia; ancestry still not traced; kinship unverified.",
+  "researchedAt": "2026-10-08"
+}

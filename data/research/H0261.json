@@ -10,11 +10,13 @@
   ],
   "tags": [],
   "summary": "Brother of John's 6th-great-grandmother Keturah (John's 6th-great-grand-uncle); twin of John; probably the 'James Tuttle' who signed the 1775 Articles of Association.",
-  "bio": "Twin of John (b. 1753). Other siblings: twins Ezekiel & William (c.1754), Keturah (~1755), Samuel, Daniel. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle'. His brother John (b. 1753) may be the 'Capt. Tuthill' on a 1788 committee (Eager 1846).",
+  "bio": "Twin of John (b. 1753). Other siblings: twins Ezekiel & William (c.1754), Keturah (~1755), Samuel, Daniel. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle'. His brother John (b. 1753) may be the 'Capt. Tuthill' on a 1788 committee (Eager 1846).\n\nA 'James Tuttle' signed the 1775 Articles of Association in Cornwall Precinct with Thomas Lamoureux and John Tuthill ([R4-S1]). Note the namesake cousin 'James Tuttle, junr.' at Brookhaven c.1738/9, who is the uncle James Jr. (d. 1756), not this man ([R4-S2]).",
   "sources": [
     "Alva Tuttle (1968) p. 311",
     "Ruttenber & Clark (1881)",
-    "Eager (1846)"
+    "Eager (1846)",
+    "[R4-S1] Ruttenber & Clark, History of Orange County (1881), Articles of Association 1775, Cornwall Precinct signers (c. pp. 68-69) (derivative) https://archive.org/details/historyoforangec00rut",
+    "[R4-S2] Records of the Town of Brookhaven, Suffolk County, N.Y. (printed 1880; volume covering the 1720s-1750s), p. 113 (1 May 1721 land laid out to James Tuthill on the other half of Dayton's Right, 22 1/2 acres east of his Chestnut Pound land, plus 9 1/2 acres on John Roe's right, adjoining his former 50 lot), pp. 139-140 (10 June 1737 highway across the north ends of the 15-acre lots in Fireplace Neck, laid out at the request of owners incl. 'Jeames Tuttel', beginning at the westernmost 15-acre lot 'now belonging to Jeames Tuttel'), p. 143 ('James Tuttle, junr.' among signers, c. 1738/9), pp. 147-148 (award of arbitrators Isaac Browne, William Smith, James Tuthill and Richard Woodhull, sealed 5 Oct 1741), p. 166 (c. 1750 road between Thomas Rose's and James Tuthill's land in Fireplace Neck) (primary) https://archive.org/details/cu31924064122769"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -25,6 +27,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1775 Cornwall signer noted."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0261.json."
     }
   ]
 }

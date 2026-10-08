@@ -1,0 +1,51 @@
+{
+ "id": "H0116",
+ "name": "Andrew Joseph Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "burial": {
+   "cemetery": "St. Mary's Cemetery",
+   "place": "Hanover Twp, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "occupation": "Wire maker (1900, age 19); later dentist",
+  "residences": [
+   {
+    "date": "1940",
+    "place": "Ward 4, Wilkes-Barre",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LB2J-87S"
+   }
+  ]
+ },
+ "bioAdditions": "Before dental school, the 19-year-old Andrew was listed in the 1900 census as a \"wire maker\" (S9). FS gives his burial at St. Mary's, Hanover Twp (S1).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Andrew Joseph Heffernan DDS (1881-1959), PID LB2J-87S; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial; marriage 24 Nov 1914 Philadelphia; census",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LB2J-87S"
+  },
+  {
+   "ref": "S9",
+   "citation": "1900 U.S. census, Plymouth Borough Ward 3, ED 120, sheet 1A (Andrew Hefferman household)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Children's birth months/years and 1900 occupations",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/0/image.jpg"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1900 occupation (wire maker); burial."
+}

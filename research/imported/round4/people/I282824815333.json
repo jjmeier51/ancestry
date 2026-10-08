@@ -1,0 +1,95 @@
+{
+ "id": "I282824815333",
+ "name": "Saveria Colosimo",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "events": [
+   {
+    "title": "Baptism",
+    "date": "26 Oct 1848",
+    "place": "San Mango d'Aquino",
+    "description": "Daughter of Raffaele Colosimo and Filippina Iera",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Saveria was baptized on 26 October 1848, daughter of Raffaele Colosimo and Filippina Iera (S1). The tree's 25 October is probably her birth date. She married Domenico Gabriele Fiorillo at San Mango on 1 April 1870 (S2). The parish burial index has Saveria Colosimo, widow of Domenico Fiorillo, buried 10 August 1931 with a stated age of 70 (S3). Husband and widowhood match (Domenico died 1921), but the age is about twelve years too low. This entry is a candidate for her death and conflicts with the tree's 26 May 1926.",
+ "conflicts": [
+  {
+   "field": "death.date",
+   "siteValue": "26 May 1926",
+   "foundValue": "Candidate: burial 10 Aug 1931, widow of Domenico Fiorillo (age given 70)",
+   "sourceRefs": [
+    "S3"
+   ],
+   "assessment": "Candidate only (age discrepancy). No Saveria Colosimo burial in 1926 in the index."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815737",
+   "evidence": "Baptism names father Raphael Colosimo",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815742",
+   "evidence": "Baptism names mother Philippina Iera",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815323",
+   "evidence": "Marriage 1870",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me). Baptism and marriage indexed."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1846-1856 (Book 10), image 35, p. 60, no. 47; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Xaveria Colosimo bapt. 26 Oct 1848, father Raphael Colosimo, mother Philippina Iera, godmother Maria Mastroianni (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1856-1884 (Book 22), image 71, p. 139, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1856-1884'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 1 Apr 1870 to Dominicus Gabriele Fiorillo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1926-1942 (Book A), image 62, p. 84, no. 19; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1926-1942'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 10 Aug 1931: Xaveria Colosimo, given age 70, widow (vid.) of Dominicus Fiorillo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "San Mango parish burial index 1916-1925 and 1926: no Saveria Colosimo in 1926"
+ ],
+ "researchLogEntry": "Round 4: baptism 26 Oct 1848 and marriage 1870 indexed; candidate burial 10 Aug 1931 (tree says 26 May 1926)."
+}

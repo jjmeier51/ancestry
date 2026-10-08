@@ -7,9 +7,10 @@
   "sex": "F",
   "tags": [],
   "summary": "Probable full sister of Grazia Di Marino; John's 3rd great-grandaunt.",
-  "bio": "Daughter of G[aetano] di Marino and Caterina di Leo; married Nicola di Pietro 12 Feb 1857 (index 1857 #21).",
+  "bio": "Daughter of G[aetano] di Marino and Caterina di Leo; married Nicola di Pietro 12 Feb 1857 (index 1857 #21).\n\nA FamilySearch tree profile for Maria Di Marino (9CF8-2TL) names her parents as Gaetano Di Marino and Caterina di Leo. It gives her birth as c.1835 and her death as 29 Dec 1914 in Guardia Lombardi, citing a 1914 Guardia death act on Antenati (an_ua524129/La8qX6B, not opened here because Antenati is blocked) and an Avellino record index ([R4-S1]). The profile names her husband 'Nicola di Paola', whereas Round 3 read the 1857 marriage index as 'Nicola di Pietro'. It also attaches, oddly, a New York City marriage index. Her death act would settle the husband's surname.",
   "sources": [
-    "Antenati index 1857 #21: https://antenati.cultura.gov.it/ark:/12657/an_ua376659/wWNxVgm"
+    "Antenati index 1857 #21: https://antenati.cultura.gov.it/ark:/12657/an_ua376659/wWNxVgm",
+    "[R4-S1] FamilySearch Family Tree published profile 9CF8-2TL (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9CF8-2TL"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -20,6 +21,34 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Antenati death act an_ua524129/La8qX6B: not loaded (Antenati 403)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree gives death 29 Dec 1914 Guardia and husband 'Nicola di Paola' (conflict with di Pietro)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0365.json."
+    }
+  ],
+  "birth": {
+    "date": "ABT 1835",
+    "place": "Guardia Lombardi"
+  },
+  "death": {
+    "date": "1914-12-29",
+    "place": "Guardia Lombardi, Avellino, Campania, Italy"
+  },
+  "conflicts": [
+    {
+      "field": "spouse surname",
+      "site": "Nicola di Pietro (1857 marriage index, Round 3)",
+      "found": "Nicola di Paola (FS tree 9CF8-2TL)",
+      "assessment": "Unresolved; check the 1914 death act (Antenati an_ua524129/La8qX6B)."
     }
   ]
 }

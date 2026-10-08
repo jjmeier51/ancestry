@@ -1,0 +1,20 @@
+{
+  "id": "M0044",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0341 (candidate)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree published profile 2SZL-WF4 (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WF4"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-704 → M0044; research/imported/round4/new_people.json."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "H0237",
+  "name": "Barnabas Horton",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Horton Genealogy (1876) gives Barnabas as son of Joseph Horton, b. Mowsley, Leicestershire, 13 July 1600. It says he came in the Swallow (Jeremy Horton master), landed at Hampton, Mass., went to New Haven in 1640 with his wife Mary and sons Joseph and Benjamin, and settled at Southold in Oct 1640 (S1). It does not list a daughter who married William Salmon. Its 'Sarah' is b. c.1653 and m. Joseph Conklin (S1). But the Southold town records state explicitly that William Salmon, after Katherine's death, 'married with Sarah Hortton', and that John Conckelyne Jr. then took 'the said Sarah Salmon' to wife (S2). Recent work (J. Dinan, In Search of Barnabas Horton, via WikiTree) makes her Barnabas's daughter by his first wife Anne Smith, b. c.1635, when he was a baker at Nuneaton, Warwickshire (S3). The Horton Genealogy's Sarah/Joseph Conklin entry looks like a garbled version of the Sarah (Horton) Salmon-John Conklin marriage.",
+  "openQuestionsNew": [
+    "Barnabas's Mowsley baptism: the 13 July 1600 date in Horton 1876 is a birth date with no register citation. Check the Mowsley/Laughton parish register."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "G. F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton of Southold (1876), First Generation (Barnabas I) and 'Sarah I.'",
+      "url": "https://archive.org/details/hortongenealogyo00hort",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Barnabas b. Mowsley 13 July 1600, son of Joseph; children list"
+    },
+    {
+      "ref": "S2",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 169-170 (Liber A: recital that William Salmon, after the death of his wife Katherine, widow of Mathew Sinderland, 'married with Sarah Hortton' and died intestate; John Conckelyne Jr. 'tooke to wife the said Sarah Salmon')",
+      "url": "https://archive.org/details/southoldtownreco0000jwic",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "William Salmon 'married with Sarah Hortton'"
+    },
+    {
+      "ref": "S3",
+      "citation": "WikiTree Horton-219 (Sarah Horton), biography read via api.wikitree.com, citing Southold Town Records vol. 1 (marriage 'John Conckelyne and Sarah Solmon wid married the 2d of December' 1657), Conklin Mann, TAG 21:246-253 (1945), and J. Dinan, In Search of Barnabas Horton (Nuneaton baker 1633)",
+      "url": "https://www.wikitree.com/wiki/Horton-219",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Sarah dau. of Barnabas & Anne Smith, b. c.1635; Nuneaton baker 1633 (Dinan)"
+    }
+  ],
+  "researchLogEntry": "Round 4: Horton 1876 read; the Salmon-Horton marriage confirmed in Southold Town Records vol. 1, but the Horton Genealogy omits Sarah (Salmon), so her paternity rests on Dinan's recent work."
+}

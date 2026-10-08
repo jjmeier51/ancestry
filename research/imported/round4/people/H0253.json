@@ -1,0 +1,31 @@
+{
+  "id": "H0253",
+  "name": "Daniel Sayre",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Will",
+        "date": "21 Aug 1707, proved 13 Apr 1708",
+        "place": "Southampton, NY",
+        "description": "Names children Joseph, Daniel, Hannah (wife of Mr Josiah Topping), deceased son Samuel's children, David, Ephraim and Nathan (executor); son-in-law Josiah Topping to sell two slaves, Gordg and Moll; the woman to choose her own master.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "His will (Banta, S1; recorded N.Y. Liber 7, folio 480) is the document that shows his daughter Hannah married Josiah Topping and had no daughter Jerusha. A humane touch: he asked that his enslaved woman 'may have Liberty to chuse her master when she is sold' and keep her clothes and box.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "T. M. Banta, Sayre Family (1901) (archive.org full text), pp. 29-30",
+      "url": "https://archive.org/details/sayrefamilylinea00bant",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Full text of Daniel Sayre's will 1707"
+    }
+  ],
+  "researchLogEntry": "Round 4: Daniel Sayre's 1707 will transcribed in Banta; non-ancestral branch.",
+  "researchedAt": "2026-10-08"
+}

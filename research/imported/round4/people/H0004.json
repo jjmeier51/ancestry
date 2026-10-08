@@ -1,0 +1,21 @@
+{
+ "id": "H0004",
+ "name": "Mary Jane Gaffney",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "FamilySearch attaches two Ancestry index entries to her profile: a 1900 census entry for \"Mary Mcguire\" and a \"Pennsylvania, Death Certificates, 1906-1970\" entry under her maiden name, \"Mary Gaffney\" (S1). The second implies she died in Pennsylvania in 1906 or later, outliving her husband Edward (d. 4 Apr 1907) or dying close to him. The certificate would name her parents and Irish birthplace.",
+ "openQuestionsNew": [
+  "Find Mary (Gaffney) McGuire's PA death certificate (Ancestry PA Death Certificates 1906-1970; FS shows an index link) and her death year; search PA death indexes under McGuire, Mary, Plymouth/Larksville after 1906."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Mary Jane Gaffney (b. 1835), PID 994Z-275; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Attached Ancestry index: PA death certificate \"Mary Gaffney\"; 1900 census \"Mary Mcguire\"",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/994Z-275"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS shows a PA death certificate (1906+) indexed under Mary Gaffney - lead."
+}

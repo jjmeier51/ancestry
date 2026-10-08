@@ -1,0 +1,55 @@
+{
+  "id": "H0182",
+  "name": "Daniel Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "28 Nov 1796",
+      "place": "Luzerne Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "c. 1821",
+        "place": "Luzerne Co.",
+        "description": "To Maria Allen (1804-1863), per FamilySearch",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LT7X-155"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father (S1). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. 28 Nov 1796, wife Maria Allen (not Martha Lum/Linn), and a son in Iowa.",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "Martha Lum/Linn",
+      "foundValue": "Maria Allen (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved; possibly two marriages."
+    }
+  ]
+}

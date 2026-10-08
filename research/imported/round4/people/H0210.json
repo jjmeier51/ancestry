@@ -1,0 +1,73 @@
+{
+  "id": "H0210",
+  "name": "Andrew Croop",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1843-08-05",
+      "place": "Union (now Hunlock) Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Shoemaker, farmer and lumberman (portable sawmill)",
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1866-09",
+        "place": "",
+        "description": "Married Sophia, daughter of Joseph and Christine Bonham; six children, two living in 1893 (George M. and Maud).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Candidate for county jury commissioner",
+        "date": "1900-07",
+        "place": "Luzerne Co.",
+        "description": "'Andrew Croop, Hunlock' was listed among the Republican candidates for jury commissioner.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Bradsby says Andrew, Hiram's brother, was a shoemaker by trade. In September 1866 he married Sophia Bonham, daughter of Joseph and Christine Bonham, and they had six children, two of whom (George M. and Maud) were living in 1893. In 1876 he moved from his father's farm to an 80-acre place of his own, and he ran a portable sawmill. He belonged to the G.A.R. and Jr. O.U.A.M. and served as school director for fifteen years, as well as secretary of the school board and township clerk (S1). In July 1900 he was a candidate for Luzerne County jury commissioner (S2).",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0208",
+      "evidence": "Bradsby p.813: 'a brother to Hiram'; 'removed from his father's farm'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "Bradsby calls him Hiram's brother, and Hiram's parentage is stated; the service record is confirmed."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "H. C. Bradsby, History of Luzerne County (1893), pp.584 and 812-813 (Hiram and Andrew Croop biographies)",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth 5 Aug 1843; marriage Sep 1866 to Sophia Bonham; children; trade; offices; brother of Hiram"
+    },
+    {
+      "ref": "S2",
+      "citation": "The Scranton Tribune, 7 Jul 1900, p.2",
+      "url": "https://www.loc.gov/resource/sn84026355/1900-07-07/ed-1/?sp=2",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "jury commissioner candidacy"
+    }
+  ],
+  "researchLogEntry": "Round 4: Bradsby gives m. Sep 1866 Sophia Bonham, children George M. and Maud, shoemaker. Scranton Tribune 1900: jury commissioner candidate.",
+  "researchedAt": "2026-10-08"
+}

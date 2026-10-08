@@ -1,0 +1,33 @@
+{
+  "id": "I282824815979",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → possible: Candidate only."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: candidate burial 22 Nov 1702 (tree 24 Nov)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815979.json."
+    }
+  ],
+  "bio": "An 'Antonius Maletta' was buried at San Mango on 22 November 1702 ([R4-S1]). He is a candidate for Pietro Antonio; the tree has 24 November 1702.",
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "24 Nov 1702",
+      "found": "22 Nov 1702 (Antonius Maletta, candidate)",
+      "assessment": "Probably the same man; check image."
+    }
+  ],
+  "link": {
+    "confidence": "possible",
+    "note": "Round 4 (unverified → possible): Candidate only."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1687-1713 (Book 3), image 154, p. 267, no. 6; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
+  ]
+}

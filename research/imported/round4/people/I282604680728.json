@@ -1,0 +1,62 @@
+{
+ "id": "I282604680728",
+ "name": "Ann C Mcguire",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1909-04-11",
+   "place": "Plymouth, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1964-11-07",
+   "place": "Hanover Twp, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "burial": {
+   "cemetery": "Oak Lawn Cemetery",
+   "place": "Hanover Twp, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Anna C. McGuire",
+   "Ann C. Gunster"
+  ],
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1935-08-03",
+    "place": "Luzerne Co., Pa.",
+    "description": "Married Herman Gunster (1904-1979); lived at Lee Park, Hanover Twp, 1935-40",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "GZQY-6Z2"
+   }
+  ]
+ },
+ "bioAdditions": "Youngest daughter of James McGuire and Anna C. Jones (Anna Maguire in the 1910 Larksville census). She married Herman Gunster in 1935, lived at Lee Park, and died 7 Nov 1964 (S1).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Anna C McGuire (1909-1964), PID GZQY-6Z2; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Dates, marriage, burial",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GZQY-6Z2"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS gives 1909-1964, m. Herman Gunster 1935."
+}

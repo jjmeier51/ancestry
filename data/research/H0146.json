@@ -7,11 +7,13 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 4th-great-grand-uncle (son of Samuel and Martha).",
-  "bio": "Benjamin Pringle (24 Jan 1794 - 6 Jan 1853) married Charity Gould (b. 1800, granddaughter of Thomas and Charity (Lamoreaux) Davenport). His 1853 PA death and burial record names 'Sam Pringle & Martha'. Children: Bethia (m. Caleb Roberts 1852, Iowa), Martha Ann (m. William Hutchinson), Lege (1825), Ira (1833), Jacob Gould (m. (1) VanScoy, (2) the widow Ellen C. (Fuller) Nesbitt, 1864), Martin (California) and Caleb (b. 1839, 'went West'). Proves Benjamin was one of Samuel and Martha's five sons.",
+  "bio": "Benjamin Pringle (24 Jan 1794 - 6 Jan 1853) married Charity Gould (b. 1800, granddaughter of Thomas and Charity (Lamoreaux) Davenport). His 1853 PA death and burial record names 'Sam Pringle & Martha'. Children: Bethia (m. Caleb Roberts 1852, Iowa), Martha Ann (m. William Hutchinson), Lege (1825), Ira (1833), Jacob Gould (m. (1) VanScoy, (2) the widow Ellen C. (Fuller) Nesbitt, 1864), Martin (California) and Caleb (b. 1839, 'went West'). Proves Benjamin was one of Samuel and Martha's five sons.\n\nIn the 1840 census of Plymouth Twp, 'Benjn Pringle' heads a household of about ten, a few lines above Saml Pringle and James Pringle ([R4-S2]). The age column for the head reads 50-60, which is older than his 1794 birth date suggests. FamilySearch attaches a Minnesota death record of his daughter Bethia (Pringle) Roberts naming 'Benj. Pringle' as her father, which extends the 'Bethia, Iowa' line in the existing bio, and gives his burial at Larksville ([R4-S1]).",
   "sources": [
     "WikiTree Pringle-3406: https://www.wikitree.com/wiki/Pringle-3406",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.280-281",
-    "Harvey Book p.362"
+    "Harvey Book p.362",
+    "[R4-S1] FamilySearch published tree, Benjamin Pringle (L7XP-VKX), citing Minnesota County Deaths (daughter Bethia Roberts) and Pennsylvania Deaths and Burials (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L7XP-VKX",
+    "[R4-S2] 1840 US census, Plymouth Twp, Luzerne Co., PA (enumerator Chester Tuttle), page with Benjn, Saml and James Pringle (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KL4L-R8P/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -22,6 +24,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1840 Plymouth Twp household found near Samuel and James; FamilySearch has his daughter Bethia's Minnesota death record."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0146.json."
     }
   ],
   "media": [
@@ -32,6 +42,22 @@
       "source": "WikiTree",
       "note": "Benjamin Pringle, 1794-01-24 – 1853-01-06",
       "url": "https://www.wikitree.com/wiki/Pringle-3406"
+    }
+  ],
+  "burial": {
+    "place": "Larksville, Luzerne Co., PA (FamilySearch)"
+  },
+  "residences": [
+    {
+      "date": "1840",
+      "place": "Plymouth Twp ('Benjn Pringle', head aged 50-60, a few households above Saml and James Pringle)",
+      "note": "[R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "L7XP-VKX"
     }
   ]
 }

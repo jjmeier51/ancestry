@@ -1,0 +1,83 @@
+{
+  "id": "I282608053741",
+  "name": "Elizabeth Croup",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1860-08-07",
+        "place": "Plymouth, Luzerne Co., PA (husband James's farm, dwelling 878)",
+        "note": "Aged 57; son Andrew's family next door",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1860 census",
+        "date": "1860-08-07",
+        "place": "Plymouth, Luzerne Co., PA",
+        "description": "Elizabeth [Pringle] 57, in household of James Pringle 61, farmer, with Edwin 18 and Mary Williams 7.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Absent from 1870 household",
+        "date": "1870-07-29",
+        "place": "Plymouth Twp, Luzerne Co., PA",
+        "description": "Her husband James, 71, was living in their son Andrew's household without her.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Elizabeth was alive in August 1860, aged 57, on the family farm in Plymouth with her husband James and youngest son Edwin; her son Andrew lived next door (S1). By July 1870 James was living with Andrew and she was not in the household (S2). Either she had died in the 1860s, or she was living elsewhere - the tree's death in 1895 'IN' (Indiana?) is unsourced, but would fit her going west with relatives (her niece Mary (Shupp) Nesbitt went to Rolling Prairie, Indiana, in 1853). Her father's will is indexed as 'Croup, Frederick, Plymouth Twp., 1841, Will Book B p.80' in the Luzerne County wills index (S3); it should name her as Elizabeth Pringle.",
+  "openQuestionsResolved": [
+    {
+      "question": "Birth and 1895 death record; Luzerne Orphans' Court papers for Frederick Croup (d. 1841) should name her.",
+      "answer": "Partly: Frederick Croup's will is indexed (Plymouth Twp., 1841, Luzerne Will Book B p.80) - the text is not online. Elizabeth was alive in 1860 and not in her husband's household in 1870; the 1895 death remains unsourced.",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Was she alive after 1870 (1870/1880 census elsewhere, perhaps Indiana) or did she die in the 1860s? The tree's '1895, IN' needs a source."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1860 US census, Plymouth, Luzerne Co., PA, 7 Aug 1860, p.737, dwelling 878 (FamilySearch index ark 1:1:MXTZ-JKT, attached to tree LWNW-RRV)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LWNW-RRV/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Elizabeth 57 with James 61"
+    },
+    {
+      "ref": "S2",
+      "citation": "1870 US census, Plymouth Twp (P.O. Kingston), 29 Jul 1870, p.496, dwelling 422 (Andrew Prindle household incl. James 71)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Elizabeth absent in 1870"
+    },
+    {
+      "ref": "S3",
+      "citation": "Luzerne County Wills Index (PAGenWeb), C part 2: 'Croup, Frederick, Plymouth Twp., 1841, Book B, p.80'",
+      "url": "https://pagenweb.org/~luzerne/wills/cwills2.htm",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "existence and location of father's will"
+    }
+  ],
+  "searchedNoResult": [
+    "Web search 'Frederick Croup' will 1841 Plymouth Luzerne: no transcription online"
+  ],
+  "researchLogEntry": "Round 4: alive 1860 (57) with James, absent from 1870 household; father Frederick Croup's 1841 will located in the index (Will Book B p.80)."
+}

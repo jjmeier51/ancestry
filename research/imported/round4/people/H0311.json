@@ -1,0 +1,48 @@
+{
+  "id": "H0311",
+  "name": "David Lawrence",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "18 Feb 1738",
+      "place": "Newport, Rhode Island",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "18 Oct 1809",
+      "place": "Hudson, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "c. 1763",
+        "place": "Providence, RI",
+        "description": "Married Sybil, daughter of Robert Sterry.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Seventh son of John, son of Joseph, son of William & Elizabeth Smith (S1): 3rd cousin 8 times removed. A Providence merchant and patriot, 'the intimate friend of Benjamin Franklin', who named a son after Samuel Adams; moved to Hudson in 1783 as one of its thirty founding proprietors and served as recorder and mayor.",
+  "funFacts": [
+    "Named one of his sons after the patriot Samuel Adams."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 55-56",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "David Lawrence biography"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates, marriage and Franklin/Adams details from Lawrence 1858.",
+  "researchedAt": "2026-10-08"
+}

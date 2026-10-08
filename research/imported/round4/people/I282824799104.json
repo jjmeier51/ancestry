@@ -1,0 +1,105 @@
+{
+  "id": "I282824799104",
+  "name": "Daniel Scott jr",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1810",
+        "place": "Pittston Twp, Luzerne Co., PA",
+        "note": "'Scott Daniel Jr.' household; Joseph Scott and Stephen Scott on the same page",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1810 census",
+        "date": "1810",
+        "place": "Pittstown [Pittston] Twp, Luzerne Co., PA, p.656",
+        "description": "Scott, Daniel Jr.: males 2 under 10, 1 aged 26-44; females 1 under 10, 1 aged 16-25 (5 persons).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "A 'Daniel Scott Jr.' headed a household in Pittston Township in 1810: a man aged 26-44, a woman aged 16-25 and three young children, two of them boys (S1). The man's age fits the tree's birth year of 1778 (and rules out FamilySearch's 1788, since he would then have been 22), and the young wife fits Hannah Devens (b. 1787). The 'Jr.' implies an older Daniel Scott in the same area; a Daniel Scott appears among the 1796 taxables of neighbouring Providence Township (S2). A Joseph Scott and a Stephen Scott (aged 16-25) were enumerated on the same Pittston page (S1). This is consistent with, but does not prove, the FamilySearch claim that Daniel and Hannah (Devens) Scott were the parents of Stephen J. Scott (b. Feb 1806). The FamilySearch profile makes him a son of Matthew Scott of Bennington, Vermont (d. 1789); the 'Jr.' in 1810 sits awkwardly with that, unless 'Jr.' distinguished him from an unrelated older Daniel.",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1778, Woodford, Bennington, Vermont",
+      "foundValue": "FamilySearch: 1788, Luzerne; 1810 census age bracket 26-44 (b. 1766-84)",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "assessment": "1810 census supports the tree's 1778 over FamilySearch's 1788 (if this is the right man)."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "child",
+      "personId": "I282824799057",
+      "evidence": "FamilySearch tree only; 1810 household shape fits",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "strength": "candidate"
+    }
+  ],
+  "openQuestionsNew": [
+    "Who was 'Daniel Scott' (Sr.) of Providence Twp (1796 taxable) - the father of Daniel Jr., rather than Matthew Scott of Vermont?",
+    "Did Daniel die c.1811 (FS) and did Hannah remarry a Covert (Find a Grave index 'Hannah Devens Covert'; Coverts lived in Plymouth Twp in 1840)?"
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1810 US census, Pittstown [Pittston] Twp, Luzerne Co., PA, p.656 (FS index ark 1:1:XH2B-VYH)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC9K-HF1/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Daniel Scott Jr. household"
+    },
+    {
+      "ref": "S2",
+      "citation": "Pearce, Annals of Luzerne County (1866), list of taxables in Providence Township in 1796 (includes Daniel Scott)",
+      "url": "https://archive.org/details/annalsofluzernec01pear",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "an older Daniel Scott in the upper valley"
+    },
+    {
+      "ref": "S3",
+      "citation": "FamilySearch published tree, Daniel Scott 1788-1811 (GC9K-HF1)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC9K-HF1",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "claimed parents Matthew Scott & Sarah; wife Hannah Devens; son Stephen"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1810 census, Pittston Twp: Daniel Scott Jr. household",
+      "date": "1810",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC9K-HF1",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC9K-HF1/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA M252)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282824799057/1810-census-pittston-scott.jpg",
+      "people": [
+        "I282824799104",
+        "I282824799057"
+      ],
+      "suggestedFile": "media/I282824799057/1810-census-pittston-scott.jpg",
+      "note": "Same file as under Stephen J. Scott."
+    }
+  ],
+  "researchLogEntry": "Round 4: 1810 Pittston census 'Daniel Scott Jr.' household fits Daniel (b. by 1784) and Hannah Devens with young Stephen; older Daniel Scott in Providence 1796 noted."
+}

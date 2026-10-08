@@ -1,0 +1,34 @@
+{
+ "id": "I282824815866",
+ "name": "CARMINE SACCO",
+ "researchedAt": "2026-10-08",
+ "status": "nothing_new",
+ "conflicts": [
+  {
+   "field": "existence",
+   "siteValue": "Father of Antonio Sacco (b. 1729)",
+   "foundValue": "San Mango 1729 baptism names Joachim Sacco",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Possibly misidentified; see I282824815840."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 67, p. 61, no. 3; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Antonius Sacco bapt. 26 Jan 1729, father Joachim Sacco, mother Matthea Pagliuso (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "San Mango baptism index 1653-1747: no Carmine Sacco as father of an Antonio",
+  "San Mango marriage index 1686-1747: no Carmine Sacco",
+  "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+  "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+ ],
+ "researchLogEntry": "Round 4: nothing supports him. The only San Mango Antonio Sacco baptism (26 Jan 1729) names father Gioacchino Sacco and mother Mattea Pagliuso, and the 1746 groom came from Pittarella."
+}

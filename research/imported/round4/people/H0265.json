@@ -1,0 +1,38 @@
+{
+  "id": "H0265",
+  "name": "Joshua Tuthill",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1782-06-02",
+      "place": "Cutchogue, Southold, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Akerly: Joshua Tuthill of Cutchogue, b. 1690, d. 2 June 1782, married Hannah, daughter of Maj. James Reeve of Mattituck. Their children were James (1727), Samuel, John of Speonk (1728), Isaac, Deborah (m. Elijah Terry), Hannah, Deliverance and possibly Daniel (S1).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "I282695486799",
+      "evidence": "Akerly no. 9",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11)",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joshua no. 9"
+    }
+  ],
+  "researchLogEntry": "Round 4: Akerly details added."
+}

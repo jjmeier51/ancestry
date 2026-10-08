@@ -16,7 +16,9 @@
     "Wood (1920) pp. 15, 25–26, 46, 87–88",
     "Pelletreau (1898) App. pp. 466, 472, 478, 480",
     "Wikipedia, https://en.wikipedia.org/wiki/Joshua_Smith_(New_York_politician)",
-    "Suffolk County Parks, https://suffolkcountyny.gov/Departments/Parks/Our-Parks/Blydenburgh-County-Park"
+    "Suffolk County Parks, https://suffolkcountyny.gov/Departments/Parks/Our-Parks/Blydenburgh-County-Park",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 477 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] Wikipedia, 'Joshua Smith (New York politician)' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Joshua_Smith_(New_York_politician)"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -27,6 +29,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: exact death date (Wikipedia); birth-year conflict noted."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0279.json."
     }
   ],
   "media": [
@@ -37,6 +47,17 @@
       "source": "WikiTree",
       "note": "Joshua Smith, 1763-07-27 – 1845-04-12",
       "url": "https://www.wikitree.com/wiki/Smith-105781"
+    }
+  ],
+  "death": {
+    "date": "1845-04-12"
+  },
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1763",
+      "found": "1764 (Pelletreau) vs 27 Jul 1763 (Wikipedia)",
+      "assessment": "Prefer Wikipedia's exact 27 Jul 1763; Pelletreau gives only the year."
     }
   ]
 }

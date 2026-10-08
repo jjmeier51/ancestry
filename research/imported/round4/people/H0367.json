@@ -1,0 +1,77 @@
+{
+ "id": "H0367",
+ "name": "Savino Giannetta",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Sam Genett",
+   "Sam Genet"
+  ],
+  "birth": {
+   "date": "ABT 1897",
+   "place": "Bisaccia, Italy",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  "residences": [
+   {
+    "date": "1910-04-21",
+    "place": "134 Sand St, Dunmore, PA",
+    "note": "'Sam', son, about 12, born Italy",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1920-01-10",
+    "place": "133 Sand St, Dunmore, PA",
+    "note": "'Sam', 21, laborer at a coal breaker",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Sam came over from Italy with his mother about 1909 and was working at a coal breaker by 1920 (S1, S2). His wife was Mamie (Dominica Maria) Bocchicchio, named 'Mamie ... Bocchio' as the mother of their daughter Angelica A. Genett on Angelica's 1947 marriage license. Angelica married Irving J. Weibel at Dunmore on 19 Apr 1947 (S3).",
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "(not in tree) Mamie/Dominica Maria Bocchicchio (1901-1979, FS GLBC-5G7)",
+   "evidence": "Daughter's 1947 marriage license names mother Mamie, maiden name Bocchio",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1910 US census, Dunmore borough, Lackawanna Co., PA, ED 29 (reading uncertain), sheet 9B (21 Apr 1910), Sand Street no. 134: Francesco 'Janet' (41, married 14 years, alien, laborer for contractor), Angelico (30?, 4 children born, 4 living), Sam (12?), Marianna (son, 11), Marie (8), Tony (3), all born Italy. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:MGZ8-YF8).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Married c.1896 (14 years in 1910); four children born Italy, all living; Carmela not yet born"
+  },
+  {
+   "ref": "S2",
+   "citation": "1920 US census, Dunmore borough Ward 5, ED 48, sheet 8B (10 Jan 1920), 133 Sand Street: Frank 'Genet' (51, head, owned with mortgage, immigrated 190-, alien, laborer R.R. shops), Angelina (46, imm. 1909, alien), Sam (21), Marion (20), Anthony (12, imm. 1909), Molly (9, b. PA), Joseph (8), and a son aged 4. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:MFTM-GCK).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1920 Giannetta household; Frank worked in railroad shops; Rosa (b. 1914) not in household"
+  },
+  {
+   "ref": "S3",
+   "citation": "Lackawanna Co. marriage license No. 564 (1947): Angelica A. Genett (23, b. Dunmore; father Samuel, mother Mamie, maiden name Bocchio) and Irving J. Weibel; married 19 Apr 1947 at Dunmore. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:VF7V-WD4).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Savino/Sam Giannetta wife Mamie Bocchicchio; daughter Angelica"
+  }
+ ],
+ "researchLogEntry": "Round 4: censuses 1910/1920; wife Mamie Bocchicchio from daughter Angelica's 1947 license.",
+ "researchedAt": "2026-10-08"
+}

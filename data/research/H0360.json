@@ -12,7 +12,7 @@
     "military"
   ],
   "summary": "John's great-granduncle; WWII Army veteran.",
-  "bio": "b. 25 Sep 1914; enlisted in the US Army at Scranton on 17 Feb 1941; married Mildred Leona; d. 21 Apr 1997. Listed as Rocco in the 1920 census.",
+  "bio": "b. 25 Sep 1914; enlisted in the US Army at Scranton on 17 Feb 1941; married Mildred Leona; d. 21 Apr 1997. Listed as Rocco in the 1920 census.\n\nAs 'Rocco Petrillo' he survived his sister Josephine Castellano in November 1995 ([R4-S1]).",
   "military": [
     {
       "branch": "US Army",
@@ -21,7 +21,8 @@
   ],
   "sources": [
     "FS tree GQWT-ZPC: https://ancestors.familysearch.org/en/GQWT-ZPC",
-    "Enlistment K8G2-K1H: https://familysearch.org/ark:/61903/1:1:K8G2-K1H"
+    "Enlistment K8G2-K1H: https://familysearch.org/ark:/61903/1:1:K8G2-K1H",
+    "[R4-S1] Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P). (secondary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -32,6 +33,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: named as surviving brother in Josephine's 1995 obituary."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0360.json."
     }
   ]
 }

@@ -1,0 +1,60 @@
+{
+ "id": "H0505",
+ "name": "Genevieve Schwab",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1914",
+   "place": "Old Forge, Lackawanna County, PA",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "2004",
+   "place": "Sun City West, Maricopa County, Arizona",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "residences": [
+   {
+    "date": "1935",
+    "place": "Taylor, Lackawanna County, PA",
+    "note": "Residence five years before the 1940 census",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1940-04-20",
+    "place": "1028 Bunker Hill Street, Scranton, PA",
+    "note": "Wife, 26, of Nicholas 'Petranello'",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "In 1940 Genevieve, 26, lived with her husband Nicholas at 1028 Bunker Hill Street; in 1935 she had been living in Taylor (S1). FamilySearch gives her life as 1914 (Old Forge) – 2004 (Sun City West, Arizona), with a GenealogyBank obituary index entry (S2).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile GQ49-HXG (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GQ49-HXG",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth Old Forge 1914; death 2004 Sun City West AZ; GenealogyBank obituary index (image 403)"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1940 census; FS dates 1914-2004.",
+ "researchedAt": "2026-10-08"
+}

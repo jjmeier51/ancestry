@@ -1,0 +1,93 @@
+{
+ "id": "I282695503559",
+ "name": "Frank Cognetti",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "events": [
+   {
+    "title": "Not in PA death index 1951-1966",
+    "date": "1951-1966",
+    "place": "Pennsylvania",
+    "description": "He does not appear in the state death-certificate indexes for 1951-1966, so he probably died in 1967 or later (or outside Pennsylvania). His wife Helen's death appears in March 1965.",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "GJB1-P6Y (published tree; birth 1892, immigration 1907, no parents attached)"
+   }
+  ]
+ },
+ "bioAdditions": "A full pass through the Pennsylvania death-certificate indexes for 1951 through 1966 found no entry for Frank Cognetti, although his wife Helen appears in March 1965 (S1, S2). Since he was alive for the April 1950 census, his death most likely falls in 1967 or later, which the online PDF indexes do not cover, or occurred outside Pennsylvania. His published FamilySearch profile (GJB1-P6Y) carries only three record attachments: the 1950 census and the 1940 and 1943 marriage licenses of sons Ralph and Sal, both already known. It names no parents and has no draft card, naturalization or death record (S3). The same profile shows his son Leo S. as 'Leopold' (b. 19 May 1929), a name taken from Helen's father Leopoldo Ferlaino. In the San Mango d'Aquino baptism register, the only child of Leopoldo Ferlaino and Giuseppina Fiorillo is Maria Filomena, born 8 October 1894 (see Helen's file). The second wife 'Philomena' that FamilySearch and the site attach to Frank is therefore almost certainly Helen herself under her baptismal name, not a second marriage.",
+ "conflicts": [
+  {
+   "field": "spouses",
+   "siteValue": "Two wives: Helen Ferlaino (I282695503581) and Filomena Ferlaino (I282695503686)",
+   "foundValue": "Helen's baptismal name was Maria Filomena (Philumena) Ferlaino, b. 8 Oct 1894, San Mango d'Aquino",
+   "sourceRefs": [
+    "S4"
+   ],
+   "assessment": "Probable duplicate: merge Filomena into Helen. Frank had one wife."
+  }
+ ],
+ "openQuestionsResolved": [
+  {
+   "question": "FS second wife 'Philomena' - error?",
+   "answer": "Probably not an error but a duplicate: Helen's baptismal name was Maria Filomena Ferlaino (bapt. San Mango d'Aquino 9 Oct 1894, daughter of Leopoldo Ferlaino and Giuseppina Fiorillo). Merge the two wife entries.",
+   "sourceRefs": [
+    "S4"
+   ]
+  }
+ ],
+ "openQuestionsNew": [
+  "Death 1967 or later: check the SSDI (Frank Cognetti, b. c.1890-92, last residence Scranton 18505) and the Scranton Times obituary index.",
+  "Immigration 1907: manifest still not found (Ellis Island/Steve Morse are blocked); search Francesco Cognetta, age c.15, destination Scranton."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania State Archives, death-certificate index (RG-11), 1965, C-D volume, p. 92 (PDF): COGNETTI, HELEN, 69, S ABTN T [South Abington Twp.], county 35, d. 03/14/65, file 027518, residence 35001.",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Helen died 1965; Frank not listed 1951-66"
+  },
+  {
+   "ref": "S2",
+   "citation": "Pennsylvania State Archives, death-certificate index PDFs, 1951-1966 (C/Co volumes), read page by page under Cognetti.",
+   "url": "https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/vital-records/death-records",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Negative search for Frank Cognetti 1951-1966"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch published tree, Frank Cognetti GJB1-P6Y (JSON), with relatives and attached sources.",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GJB1-P6Y",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Only 3 attached sources; son shown as Leopold Cognetti 1929-2019; spouse Philomena (no data)"
+  },
+  {
+   "ref": "S4",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Maria Philomena Ferlaino, b. 8 Oct 1894, bapt. 9 Oct 1894, father Leopoldus Ferlaino, mother Josepha Fiorillo, godmother Xaveria Sacco (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "PA State Archives death-certificate index PDFs, Cognetti (alphabetical/soundex C253) checked for 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966: no Frank Cognetti (only Helen 1965; John Cognette, Mt Pleasant 1955; Rosario Cognetti, Newton Twp, 1959; Marie Cognet and Josephine Cognetto 1958)",
+  "WebSearch: \"Frank Cognetti\" Scranton died Helen (no hits)",
+  "WebSearch: \"Frank Cognetti\" 1892 Pennsylvania death (no hits)",
+  "WebSearch: Cognetti Cathedral Cemetery Scranton findagrave (Find a Grave blocked; no snippet)",
+  "Chronicling America (loc.gov) \"Cognetti\", PA: one hit (Scranton Tribune 4 Apr 1898), predates his 1907 arrival"
+ ],
+ "researchLogEntry": "Round 4: PA death index 1951-66 negative for Frank (he likely died 1967+); found that FS second wife Philomena is Helen under her baptismal name."
+}

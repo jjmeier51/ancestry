@@ -1,0 +1,74 @@
+{
+ "id": "H0067",
+ "name": "Edward J. McGuire",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1885-10-30",
+   "place": "Larksville, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1948-05-14",
+   "place": "Kingston, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "burial": {
+   "cemetery": "St. Mary's Cemetery",
+   "place": "Wilkes-Barre/Hanover Twp, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1915-06-15",
+    "place": "Luzerne Co., Pa.",
+    "description": "Married Agnes Cecelia Ruddy (1885-1960)",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1940",
+    "place": "Ward 6, Kingston, Pa.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "military": [
+   {
+    "note": "WWII \"old man's\" draft registration 1942 (Ancestry index attached on FS)",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "GWHL-YXC"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Edward Joseph McGuire (1885-1948), PID GWHL-YXC; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Dates, marriage, 1920/1940 census, WWII draft index",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GWHL-YXC"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS gives 1885-1948, m. Agnes C. Ruddy 1915."
+}

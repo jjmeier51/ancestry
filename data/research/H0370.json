@@ -7,10 +7,13 @@
   "sex": "M",
   "tags": [],
   "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.",
+  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nAnthony's draft card gives his birth as 18 Sep 1907 in Italy. In October 1940 he lived with his mother at 133 Sand Street and worked for Penn Anthracite Collieries on Nay Aug Avenue, the same company as his brother-in-law James Petriello. The card was later annotated that he was honorably discharged from the U.S. Army on 26 October 1945, so he served in WWII ([R4-S1]). By 1950 he was married to Pearl (Nocella), worked as a railroad car repairman, and had his widowed mother living with him at no. 133 ([R4-S3]).",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
-    "notes/round2/italian_gaps.md 1"
+    "notes/round2/italian_gaps.md 1",
+    "[R4-S1] WWII draft registration card, Anthony Genett, serial 2132, order 2317, Local Board No. 6, Dunmore; registered 16 Oct 1940; annotated 'Honorably Discharged from U.S. Army October 26, 1945'. Image attached to FamilySearch trees GQPJ-85H and LCPG-FC6 (index ark 1:1:Q29C-5KM3). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-85H/images/i/2/image.jpg",
+    "[R4-S2] 1940 US census, Dunmore borough Ward 5, ED 35-66, sheet 4A (5 Apr 1940), 133 Sand Street: Angelica Genett (head, 64, widowed, b. Italy, owned house worth $1,000), sons Anthony (31) and Charles J. (24, trackman, steam railroad), daughter-in-law Jeanette (21), granddaughter Angela (1). Image attached to FamilySearch tree GQPJ-C82 (index ark 1:1:KQDW-7K6). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-C82/images/i/0/image.jpg",
+    "[R4-S3] 1950 US census, Dunmore borough, ED 35-115, sheet 16 (22 Apr 1950), 133 Sand Street: Anthony Genett (42, b. Italy, railroad car repairman), wife Pearl, mother Angelica Genett (75, widowed, b. Italy, naturalized). Image attached to FamilySearch tree LCPG-FC6 (index ark 1:1:6X13-H245). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-FC6/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21,6 +24,62 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: draft card (b. 18 Sep 1907; WWII Army, discharged 26 Oct 1945) and the 1940/1950 censuses."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0370.json."
+    }
+  ],
+  "birth": {
+    "date": "1907-09-18",
+    "place": "Italy (Bisaccia per FS)"
+  },
+  "aka": [
+    "Anthony Genett",
+    "Tony"
+  ],
+  "occupation": "Laborer, coal breaker (1940); Penn Anthracite Collieries (1940); railroad car repairman (1950)",
+  "residences": [
+    {
+      "date": "1940-04-05",
+      "place": "133 Sand St, Dunmore, PA",
+      "note": "Son, 31, single, laborer at coal breaker [R4-S2]"
+    },
+    {
+      "date": "1950-04-22",
+      "place": "133 Sand St, Dunmore, PA",
+      "note": "Head, 42, naturalized, railroad car repairman; wife Pearl 42; mother Angelica 75 [R4-S3]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Physical description",
+      "date": "1940-10-16",
+      "place": "Dunmore",
+      "description": "5 ft 2 in, 135 lb, brown eyes, black hair, ruddy complexion, scar on left cheek. [R4-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "WWII: draft registration 16 Oct 1940 (serial 2132, Local Board No. 6, Dunmore); card annotated 'Honorably Discharged from U.S. Army October 26, 1945'. [R4-S1]"
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0370/wwii-draft-card-1940.jpg",
+      "type": "record",
+      "title": "WWII draft registration card of Anthony Genett, 16 Oct 1940 (discharge annotation 1945)",
+      "date": "1940-10-16",
+      "source": "FamilySearch (published tree attachment), public_domain",
+      "note": "Selective Service record: US government work, public domain. Card also shows a 1940 telephone number, not transcribed.",
+      "people": [
+        "H0334"
+      ],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-85H/images/i/2/image.jpg"
     }
   ]
 }

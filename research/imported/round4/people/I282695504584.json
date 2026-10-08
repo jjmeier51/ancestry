@@ -1,0 +1,37 @@
+{
+ "id": "I282695504584",
+ "name": "Peter McAvoy",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "abt 1845",
+   "foundValue": "His supposed son William R. McAvoy was born c.1857 in New York (licences 1914, 1923)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Chronologically impossible as a father (age ~12). FamilySearch's Peter McAvoy (L85M-PG6) has no events or sources. Either the birth year is badly wrong or this is the wrong man; recommend keeping as unverified/possible at best."
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "possible",
+  "recommended": "unverified",
+  "justification": "No source; dates impossible."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch L85M-PG6: no events, no sources",
+  "Web/Chronicling America \"Peter McAvoy\" + Mary Doran: nothing relevant"
+ ],
+ "researchLogEntry": "Round 4: flagged impossible birth year (c.1845) for father of a son b. c.1857; no source found."
+}

@@ -1,0 +1,75 @@
+{
+ "id": "I282824815806",
+ "name": "Alessio Moraca",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Alessio was baptized on 19 September 1772, son of Michele Moraca and Anna Maria Putero (S1). This makes him the brother of Agata Moraca, Fortunato Ferlaino's mother. The site shows no parents for him; they are already in the tree as I282824815622 and I282824815627. He married Saveria Sacco on 24 September 1792 (S2).",
+ "funFacts": [
+  "Alessio and his sister Agata are both John's ancestors, so Michele Moraca and Anna Maria Puteri appear twice in his pedigree."
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815622",
+   "evidence": "Baptism names father Michaele Moraca",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815627",
+   "evidence": "Baptism names mother Anna Maria Putero",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "sibling",
+   "personId": "I282824815541",
+   "evidence": "Agata Moraca, same parents",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815812",
+   "evidence": "Marriage 1792",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 41, p. 77, no. 25; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Alexius Moraca bapt. 19 Sep 1772, father Michaele Moraca, mother Anna Maria Putero (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 66, p. 125, no. 6; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 24 Sep 1792, Alexius Moraca (son of Michele) and Xaveria Sacco (daughter of Bruno) (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "Death 2 Sep 1805: parish burials 1768-1810 are not in the index"
+ ],
+ "researchLogEntry": "Round 4: baptism 19 Sep 1772 shows he is son of Michele Moraca and Anna Maria Puteri (new link, pedigree collapse); marriage 1792."
+}

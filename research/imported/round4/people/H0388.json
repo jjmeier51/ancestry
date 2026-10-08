@@ -1,0 +1,61 @@
+{
+  "id": "H0388",
+  "name": "Thomas Boyle",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1866-11-07",
+      "place": "Ireland",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Thomas A. Boyle"
+    ],
+    "occupation": "miner (1896)",
+    "residences": [
+      {
+        "date": "1896",
+        "place": "Hazle Township, Luzerne Co., PA",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GMDZ-BX3"
+      }
+    ]
+  },
+  "bioAdditions": "Thomas A. Boyle, born 7 Nov 1866 in Ireland, was a miner in Hazle Township. He married Theresa Meier at Hazleton on 28 Oct 1896 (licence No. 21146, Rev. E. W. Fitzmaurice) (S1). FamilySearch attaches the later marriage of their daughter Catharine to Jacob W. Kemmerer (S2).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "His own marriage docket."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Luzerne County Orphans' Court Marriage License Docket No. 21146: Thomas A. Boyle × Theresa Meier, 1896 (FamilySearch index 1:1:VF9K-ZCP)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-D75/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Birth 7 Nov 1866 Ireland; miner; Hazle Twp; marriage"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch Family Tree, Thomas Boyle (GMDZ-BX3), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GMDZ-BX3",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Daughter Catharine's marriage to Jacob W. Kemmerer"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: identified from his 1896 marriage docket.",
+  "researchedAt": "2026-10-08"
+}

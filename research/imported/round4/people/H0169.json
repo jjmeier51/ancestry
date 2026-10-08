@@ -1,0 +1,48 @@
+{
+  "id": "H0169",
+  "name": "Elizabeth Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "9 Jan 1794",
+        "place": "Plymouth Twp",
+        "description": "To George Palmer Ransom (1762-1850); FS cites HSP marriage and baptism records",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LHNC-2B1"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Elizabeth's birth as 18 Oct 1776 at Monroe, Orange Co., NY, against 30 Sep 1776 on the site, and her marriage to George Palmer Ransom at Plymouth on 9 Jan 1794. It cites Historical Society of Pennsylvania baptism and marriage records and finds her in his household in 1850 (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Elizabeth Lamoreaux (LHNC-2B1), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHNC-2B1",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. 18 Oct 1776 Monroe NY and m. 9 Jan 1794.",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1776-09-30",
+      "foundValue": "18 Oct 1776 (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved; neither seen in an original record."
+    }
+  ]
+}

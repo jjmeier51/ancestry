@@ -1,0 +1,51 @@
+{
+  "id": "H0216",
+  "name": "Elizabeth Doll",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "22 Feb 1754 (FamilySearch)",
+      "place": "Plainfield Twp",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "23 Oct 1788 (FamilySearch)",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LVKY-RKG"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch's daughter of Casper Doll and Margaretha Dietz is Elizabeth Margaret Doll (22 Feb 1754 - 23 Oct 1788). She married Christopher Engel (1757-1838) in Plainfield Twp on 11 Aug 1776 and had children there in 1780-87 (S1). That differs from the site's Elizabeth (1753-1829), wife of Christopher Stecher. Casper's other daughter Anna Catharina married a Stecher (Lewis), which may be where the confusion started.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Elizabeth Doll (LVKY-RKG), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LVKY-RKG",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives Elizabeth Margaret Doll (1754-1788), m. 1776 Christopher Engel; conflicts with the site's Stecher marriage.",
+  "conflicts": [
+    {
+      "field": "spouse/dates",
+      "siteValue": "1753-1829, m. Christopher Stecher",
+      "foundValue": "22 Feb 1754-23 Oct 1788, m. 11 Aug 1776 Christopher Engel (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved; check the Plainfield Reformed records and the Find a Grave entry for 'Elisabeth Doll Engel'."
+    }
+  ]
+}

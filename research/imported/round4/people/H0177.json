@@ -1,0 +1,39 @@
+{
+  "id": "H0177",
+  "name": "Jewel Lamoreaux",
+  "status": "researched",
+  "updates": {},
+  "bioAdditions": "Giles & Franklin (1962) list James Lamoreux, eldest child of Ensign Thomas Lamoreux, as born 3 Jan 1774. They say he married Sarah Hunter and had ten children, 'among whom were Nathan and Jewell (?)' (S1). That makes Sarah Hunter Jewel's probable mother and Nathan a probable brother. The question mark is the authors' own. Nothing else about Jewel, 'a cripple child' in his grandfather's will, was found.",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0176",
+      "evidence": "Giles & Franklin p.357; grandfather's will (site)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsNew": [
+    "Mother probably Sarah Hunter (Giles & Franklin). Check the 1830/1840 Luzerne censuses for a Jewel Lamoreaux."
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "The will (site) plus Giles & Franklin."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), p.357",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "father James b. 3 Jan 1774 m. Sarah Hunter; ten children including Nathan and 'Jewell (?)'"
+    }
+  ],
+  "researchLogEntry": "Round 4: Giles & Franklin p.357 name his probable mother Sarah Hunter and brother Nathan; nothing else found.",
+  "researchedAt": "2026-10-08"
+}

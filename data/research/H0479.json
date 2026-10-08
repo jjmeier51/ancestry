@@ -1,14 +1,36 @@
 {
   "id": "H0479",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Thompson's compiled family account; parent Samuel is son of John Thompson."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Thompson's compiled family account; parent Samuel is son of John Thompson."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates and children from Thompson; 1C10R."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0479.json."
     }
+  ],
+  "birth": {
+    "date": "1712-08-17"
+  },
+  "death": {
+    "date": "1788-03-05"
+  },
+  "bio": "Daughter of Samuel Thompson & Hannah Brewster, granddaughter of John Thompson of Setauket (John's 11th-great-grandfather): 1st cousin 10 times removed. Married Thomas Strong 16 Aug 1734; children Selah, Abigail, Submit, Ruth, Mary, Susannah, Zipporah, Hannah and Katurah ([R4-S1]).",
+  "sources": [
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296 (secondary) https://archive.org/details/historyoflongisl003thom"
   ]
 }

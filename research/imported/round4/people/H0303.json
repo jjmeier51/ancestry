@@ -1,0 +1,50 @@
+{
+  "id": "H0303",
+  "name": "James Clinch Smith",
+  "status": "researched",
+  "bioAdditions": "Son of Judge J. Lawrence Smith; through his father's line (Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th -> J. Lawrence -> James) he is John's 5th cousin 5 times removed, closer than the 6C5R on the site, and a descendant of John's own ancestor Job Smith. He inherited his father's homestead (Pelletreau 1898, S1); married the musician Bertha Ludington Barnes; witnessed the 1906 murder of his brother-in-law Stanford White; and died on the Titanic (Wikipedia, S2).",
+  "conflicts": [
+    {
+      "field": "relationship",
+      "siteValue": "6C5R",
+      "foundValue": "5C5R via Job Smith",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "assessment": "Update to 5C5R."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 461",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "James Clinch Smith 'inherits the homestead of his father'"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'J. Lawrence Smith (New York politician)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(New_York_politician)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "James m. Bertha Ludington Barnes; witnessed White's murder; died on the Titanic"
+    },
+    {
+      "ref": "S3",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466",
+      "url": "https://archive.org/details/recordstownsmit00pellgoog",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Richard 5th's line"
+    }
+  ],
+  "searchedNoResult": [
+    "Wikipedia: no standalone 'James Clinch Smith' article (search returns 'Passengers of the Titanic')",
+    "Wikimedia Commons file search 'James Clinch Smith' (no photo)"
+  ],
+  "researchLogEntry": "Round 4: relationship revised to 5C5R via Job Smith; no free photo found.",
+  "researchedAt": "2026-10-08"
+}

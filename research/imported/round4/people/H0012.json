@@ -1,0 +1,245 @@
+{
+  "id": "H0012",
+  "name": "Fred Aloysius Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1966-03-06",
+      "place": "Bristol Township, Bucks County, Pennsylvania, USA",
+      "sourceRefs": [
+        "S4"
+      ]
+    },
+    "burial": {
+      "place": "Hanover Township, Luzerne County, Pennsylvania, USA",
+      "cemetery": "St. Mary's Cemetery",
+      "sourceRefs": [
+        "S5"
+      ]
+    },
+    "aka": [
+      "Frederick Aloysius Meier (WWI draft card)",
+      "Fred A. Meier Sr."
+    ],
+    "occupation": "Iron moulder: Vulcan Iron Works, Wilkes-Barre (1917); moulder at the Navy Yard, Washington, DC (1940)",
+    "residences": [
+      {
+        "date": "1917",
+        "place": "298 Barney Street, Wilkes-Barre, PA",
+        "note": "WWI draft card",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1935",
+        "place": "Wilkes-Barre, Luzerne Co., PA",
+        "note": "1940 census residence-in-1935 column",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1940-04-13",
+        "place": "Washington, DC (ED 1-350, sheet 8B)",
+        "note": "Lodger in the household of Katherine M. Edwards; widowed",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1957",
+        "place": "Dunellen, Middlesex Co., NJ",
+        "note": "FS tree residence event (probably from brother Harry's 1957 obituary)",
+        "sourceRefs": [
+          "S5"
+        ]
+      }
+    ],
+    "military": [
+      {
+        "note": "WWI draft registration, Wilkes-Barre Ward 15 (Board no. 2), June 1917: married, supporting wife and one child under 12, no prior service, natural-born citizen.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage (1) to Anna Mather",
+        "date": "1915-04-21",
+        "place": "Luzerne County, PA",
+        "description": "FS tree, citing Pennsylvania County Marriages (KHFK-S23). Anna (b. 28 Aug 1892) died 9 Feb 1940.",
+        "sourceRefs": [
+          "S5"
+        ]
+      },
+      {
+        "title": "Marriage (2) to Lucy Virginia (Puterbaugh) Bartleson",
+        "date": "by 1942",
+        "place": "",
+        "description": "FS tree; Lucy (1878–1959), widow of Corey W. Bartleson.",
+        "sourceRefs": [
+          "S5"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L6H5-86K"
+      }
+    ]
+  },
+  "bioAdditions": "Frederick Aloysius Meier registered for the WWI draft in June 1917 at 298 Barney Street, Wilkes-Barre, his parents' address. He gave his birth as 15 Sep 1892 at Hazleton and was a moulder in the Vulcan Iron Works, Wilkes-Barre, with a wife and one child under 12 to support (S1). He married Anna Mather on 21 Apr 1915 (FS tree). Their children, per the FamilySearch tree, were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James 'Harry' (1923–1943) (S5). So the open question is answered: the 'Anna Meier (Mrs. Frederick), 47', who died in Wilkes-Barre on 9 Feb 1940, was his wife Anna Mather (b. 28 Aug 1892) (S5).\n\nTwo months after Anna's death the 1940 census found Fred, 47 and widowed, lodging in Washington, DC, working 40 hours a week as a molder at the Navy Yard. He had been living in Wilkes-Barre in 1935 (S2). His youngest son Harry enlisted in Washington in 1942 and was killed in Italy in July 1943 as a staff sergeant in the Army Air Forces (see new person). Fred remarried by 1942 to Lucy Virginia (Puterbaugh) Bartleson, a widow 14 years older (1878–1959) (S5). He is placed at Dunellen, NJ in 1957. He died in lower Bucks County: the state index has 'MEIER FREDERICK A', 73, Bristol Twp., died 6 Mar 1966 (S4). The FS tree says 10 Mar 1966 at Trevose. He was buried at St. Mary's, Hanover Twp. (S5).",
+  "funFacts": [
+    "He made castings for the U.S. Navy: in 1940 he was a molder at the Washington Navy Yard, the Navy's gun factory.",
+    "His 1917 draft card shows him following his father's trade as an iron moulder, at the Vulcan Iron Works in Wilkes-Barre."
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "siteValue": "1966",
+      "foundValue": "1966-03-06 (PA index); FS tree 1966-03-10 at Trevose",
+      "sourceRefs": [
+        "S4",
+        "S5"
+      ],
+      "assessment": "The state index reads 03/06/66 and Bristol Twp. (Bucks 09); FS gives 10 Mar at Trevose (also lower Bucks). The 10th may be the burial or obituary date. Prefer 6 Mar 1966 pending the certificate (file 022971)."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0054",
+      "evidence": "FS tree: Anna Mather (28 Aug 1892–9 Feb 1940) married Fred 21 Apr 1915; her death date and age (47) match the 1940 Wilkes-Barre notice 'Anna Meier (Mrs. Frederick)'",
+      "sourceRefs": [
+        "S5"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0011",
+      "evidence": "FS tree; 1920 and 1930 census in Fred's household",
+      "sourceRefs": [
+        "S5"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "NEW-101",
+      "evidence": "FS tree (G7CS-G54); 1940 census",
+      "sourceRefs": [
+        "S5"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "NEW-102",
+      "evidence": "FS tree (G7CS-435); 1930 census in Fred's household",
+      "sourceRefs": [
+        "S5"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "NEW-103",
+      "evidence": "FS tree (L6HP-1ZK)",
+      "sourceRefs": [
+        "S5"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "The WWI card gives his birth date (15 Sep 1892, Hazleton) and his parents' address (298 Barney St, the Henry J. Meier home in 1920). With the 1910 census showing him as Henry's son, the link rests on primary records."
+  },
+  "openQuestionsResolved": [
+    {
+      "question": "Was his wife the Anna Meier (Mrs. Frederick) who died 9 Feb 1940 in Wilkes-Barre, aged 47?",
+      "answer": "Yes, very probably: Anna Mather, b. 28 Aug 1892, d. 9 Feb 1940 Wilkes-Barre, married Fred 21 Apr 1915 (FS tree LRT7-WHC, with Find a Grave index at St. Mary's, Hanover Twp.). Fred was a widower in the April 1940 census.",
+      "sourceRefs": [
+        "S2",
+        "S5"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "U.S. WWI Draft Registration Card, Frederick Aloysius Meier, Wilkes-Barre 15th Ward, card no. 28 (FamilySearch index WYRC-BST2; image on L6H5-86K)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6H5-86K/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Birth 15 Sep 1892 Hazleton; 298 Barney St; moulder, Vulcan Iron Works; married with one child"
+    },
+    {
+      "ref": "S2",
+      "citation": "1940 U.S. census, Washington, DC, ED 1-350, sheet 8B, line 59, enumerated 13 Apr 1940: Meier, Fred A., lodger, 47, widowed, born Pennsylvania, residence 1935 Wilkes-Barre, Luzerne, Pa.; molder, Navy Yard (index K7SY-D6H; image on L6H5-86K)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6H5-86K/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Widowed by Apr 1940; Navy Yard molder in DC"
+    },
+    {
+      "ref": "S4",
+      "citation": "Pennsylvania Death Index 1966, M–N–O, PDF p.151 (printed page 1629): MEIER FREDERICK A, 73, BRSTL T, county 09, 03/06/66, file 022971, hosp 24, res 09001",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1966/D-66%20M-N-O.pdf",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Death 6 Mar 1966, Bristol Twp., Bucks Co."
+    },
+    {
+      "ref": "S5",
+      "citation": "FamilySearch Family Tree, Fred Aloysius Meier Sr. (L6H5-86K), Anna Mather (LRT7-WHC), Lucy Virginia Puterbaugh (LBV1-9H2), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L6H5-86K",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Marriages, children, 1957 residence, burial"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "WWI draft card of Frederick Aloysius Meier, 1917",
+      "date": "1917-06-05",
+      "pageUrl": "https://familysearch.org/ark:/61903/1:1:WYRC-BST2",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6H5-86K/images/i/2/image.jpg",
+      "repository": "NARA (Selective Service records) via FamilySearch",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0012/wwi-draft-card-1917.jpg",
+      "people": [
+        "H0012"
+      ],
+      "suggestedFile": "media/H0012/wwi-draft-card-1917.jpg",
+      "note": "US federal government record, so public domain. The registration date is the national 5 Jun 1917 registration day; it is not legible on the card."
+    },
+    {
+      "type": "record",
+      "title": "1940 census: Fred A. Meier, widowed lodger and Navy Yard molder, Washington DC",
+      "date": "1940-04-13",
+      "pageUrl": "https://familysearch.org/ark:/61903/1:1:K7SY-D6H",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6H5-86K/images/i/0/image.jpg",
+      "repository": "NARA via FamilySearch",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0012/census-1940-washington-dc.jpg",
+      "people": [
+        "H0012"
+      ],
+      "suggestedFile": "media/H0012/census-1940-washington-dc.jpg",
+      "note": "Line 59. US federal census, so public domain."
+    }
+  ],
+  "researchLogEntry": "Round 4: WWI card (Vulcan Iron Works moulder), 1940 DC census (Navy Yard molder, widowed); wife Anna Mather = 'Mrs. Frederick' d. 1940; children incl. Florence Irene and WWII casualty Harry; d. 6 Mar 1966 Bristol Twp. (PA index)."
+}

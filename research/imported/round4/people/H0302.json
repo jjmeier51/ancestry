@@ -1,0 +1,86 @@
+{
+  "id": "H0302",
+  "name": "J. Lawrence Smith",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "20 Sep 1816",
+      "place": "Nissequogue, NY",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ]
+    },
+    "death": {
+      "date": "17 Mar 1889",
+      "place": "New York City",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ]
+    },
+    "burial": {
+      "place": "St. James, NY",
+      "cemetery": "St. James Episcopal Church",
+      "sourceRefs": [
+        "S3"
+      ]
+    }
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0517",
+      "evidence": "Pelletreau p. 466 (Richard 5th's children include 'Judge John Lawrence')",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "A closer route than the 5C6R on the site. Pelletreau (S2) gives his father as Richard Smith 5th (1770-1831), son of Richard 4th (d. 1811), son of Ebenezer Smith and Anna, daughter of Job Smith 2d, son of Job Smith 1st, John's 10th-great-grandfather. Path: Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th -> J. Lawrence, 5 generations: 4th cousin 6 times removed (also 4C7R via Bull Smith -> Richard 2d -> Ebenezer, and 5C6R via his mother Eliza Nicoll -> Gen. Nathaniel Woodhull). Princeton 1837; Assembly 1846; Suffolk DA 1850; county judge 1858 (S1). Wikipedia (S3) adds that his wife Sarah Nicoll Clinch was the niece and adopted daughter of the merchant A. T. Stewart, and that he was perhaps the county's largest landowner. Children: Cornelia (Mrs Prescott Hall Butler), Louise Nicoll (Mrs Frank Sayre Osborne), Kate Annette (Mrs J. Bloomfield Wetherill), Bessie Springs (Mrs Stanford White), Ella Batavia (Mrs Devereux Emmet) and James Clinch.",
+  "conflicts": [
+    {
+      "field": "relationship",
+      "siteValue": "5C6R (via Nicoll/Woodhull)",
+      "foundValue": "4C6R via Job Smith (paternal line)",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Use the closer paternal route."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Paternal line fully stated in Pelletreau."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 461",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Judge J. Lawrence Smith biography; wife Sarah N. Clinch; children"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466",
+      "url": "https://archive.org/details/recordstownsmit00pellgoog",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Richard 4th -> Richard 5th (1770-1831) m. Eliza W. Nicoll; children incl. Judge John Lawrence; Ebenezer m. Anna dau. of Job 2d"
+    },
+    {
+      "ref": "S3",
+      "citation": "Wikipedia, 'J. Lawrence Smith (New York politician)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(New_York_politician)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Birth, death, burial, wife, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: paternal line via Richard 5th -> Richard 4th -> Ebenezer & Anna (Job 2d) gives 4C6R via Job Smith.",
+  "researchedAt": "2026-10-08"
+}

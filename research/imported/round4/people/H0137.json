@@ -1,0 +1,61 @@
+{
+ "id": "H0137",
+ "name": "Honora Connole",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LNRQ-T7B"
+   }
+  ],
+  "residences": [
+   {
+    "date": "1880",
+    "place": "Avondale, Luzerne Co.",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1900-1910",
+    "place": "Plymouth Ward 5",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch gives her husband as William J. Dailey (b. Minersville 17 Feb 1854, d. Wilkes-Barre 18 Jan 1931, son of Michael Dailey and Elizabeth Keating) and lists eleven children, among them Elizabeth A. (1877-1958), Honora (1878-1961), Anna Hilary (1880-1951), Michael (1882-1902), Dr. Thomas Joseph (1884-1934), Gertrude F. (1890-1929), Loretta Alberta (1891-1967), Theressa Rosalind (1893-1985) and Margaret (1895-1987) (S1, S2).",
+ "conflicts": [
+  {
+   "field": "spouse birth (William Dailey)",
+   "siteValue": "1851",
+   "foundValue": "17 Feb 1854, Minersville (FS)",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "FS attaches an 1860 census and a death/burial record; prefer 1854 pending."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Honora Connole (1856-1910), PID LNRQ-T7B; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children, residences",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LNRQ-T7B"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), William J Dailey (1854-1931), PID LNRQ-5RS; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, parents, death",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LNRQ-5RS"
+  }
+ ],
+ "researchLogEntry": "Round 4: husband's dates and the Dailey children from FS."
+}

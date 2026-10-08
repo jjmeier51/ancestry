@@ -1,0 +1,29 @@
+{
+  "id": "I282608064919",
+  "name": "Servatius Birkenmayer",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "bioAdditions": "Two later Munzingen entries describe him after his death in the same way. In 1862 he is 'the late citizen and joiner (Schreiner) Servatius Birkenmaier', father of Maria Anna (S1). In 1867 he is 'the late citizen and joiner Servaz Birkenmaier', husband of the widow Agatha (S2). Neither entry adds a date.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "L 10 Nr. 1591 (Munzingen), Geburtsbuch 1862 No. 2 (image 431)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Described as late joiner and citizen"
+    },
+    {
+      "ref": "S2",
+      "citation": "L 10 Nr. 1591 (Munzingen), Todtenbuch 1867 No. 13 (image 572)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-572",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Wife Agatha died his widow, 1867"
+    }
+  ],
+  "searchedNoResult": [
+    "His 1806/1807 baptism predates the L 10 civil duplicates (start 1810); not attempted. FS profile G921-V35 has no new sources."
+  ],
+  "researchLogEntry": "Round 4: nothing new beyond mentions in the 1862 birth and 1867 death entries; birth year 1806/07 still unresolved."
+}

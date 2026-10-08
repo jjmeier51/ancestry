@@ -1,0 +1,61 @@
+{
+  "id": "H0443",
+  "name": "Isaac Lamoreux",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1762",
+      "place": "",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage to Hannah Pringle",
+        "date": "1790-03-02",
+        "place": "",
+        "description": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Isaac Lamoreux, born 1762, was a son of John Lamoreux Sr. of Smith's Clove (Monroe), Orange Co., NY, and Charity Davenport, and married Hannah Pringle on 2 Mar 1790 (S2). His father's will (Orange County Wills; dated 31 Dec 1808 per the editor of Constant's journal) names him last among the children: Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac (S1). The marriage is not in Rev. Silas Constant's list of marriages, so another minister or justice performed it. No later trace of Isaac and Hannah was found in the Luzerne county histories.",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0168",
+      "evidence": "Giles & Franklin p.360",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Journal of the Rev. Silas Constant (1903), note on John Lamoreux's will, p.35",
+      "url": "https://archive.org/details/cu31924028826894",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "named in father's will"
+    },
+    {
+      "ref": "S2",
+      "citation": "Giles & Franklin (1962), p.360",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth year, parents, marriage date"
+    }
+  ],
+  "searchedNoResult": [
+    "Constant's marriage list 1784-1825: no Isaac Lamoreux / Hannah Pringle marriage",
+    "Bradsby, Harvey Book, Munsell, Pearce, Wright full text: no Isaac Lamoreux of this generation (Munsell has a later Isaac Lamoren in Hunlock)"
+  ],
+  "researchLogEntry": "Round 4: confirmed he is named in his father John Lamoreux's will (via Constant journal notes); no further record of Isaac and Hannah found.",
+  "researchedAt": "2026-10-08"
+}

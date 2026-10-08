@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.",
+  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nIn April 1940 Charles J., 24, a steam-railroad trackman, lived in his widowed mother's house at 133 Sand Street with his wife Jeanette and their baby daughter ([R4-S1]). He is probably the unnamed 4-year-old son in the January 1920 census ([R4-S2]).",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
-    "notes/round2/italian_gaps.md 1"
+    "notes/round2/italian_gaps.md 1",
+    "[R4-S1] 1940 US census, Dunmore borough Ward 5, ED 35-66, sheet 4A (5 Apr 1940), 133 Sand Street: Angelica Genett (head, 64, widowed, b. Italy, owned house worth $1,000), sons Anthony (31) and Charles J. (24, trackman, steam railroad), daughter-in-law Jeanette (21), granddaughter Angela (1). Image attached to FamilySearch tree GQPJ-C82 (index ark 1:1:KQDW-7K6). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-C82/images/i/0/image.jpg",
+    "[R4-S2] 1920 US census, Dunmore borough Ward 5, ED 48, sheet 8B (10 Jan 1920), 133 Sand Street: Frank 'Genet' (51, head, owned with mortgage, immigrated 190-, alien, laborer R.R. shops), Angelina (46, imm. 1909, alien), Sam (21), Marion (20), Anthony (12, imm. 1909), Molly (9, b. PA), Joseph (8), and a son aged 4. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:MFTM-GCK). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21,6 +23,25 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1940 census (trackman, wife Jeanette) at 133 Sand St."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0373.json."
+    }
+  ],
+  "aka": [
+    "Charles J. Genett"
+  ],
+  "occupation": "Trackman, steam railroad (1940)",
+  "residences": [
+    {
+      "date": "1940-04-05",
+      "place": "133 Sand St, Dunmore, PA",
+      "note": "Son, 24, trackman for a steam railroad; wife Jeanette 21 (in Scranton in 1935); daughter Angela, 1 [R4-S1]"
     }
   ]
 }

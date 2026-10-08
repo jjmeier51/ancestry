@@ -1,0 +1,29 @@
+{
+  "id": "H0221",
+  "name": "Caroline H. Scott",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Caroline Cook"
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "9KXX-MHC"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Caroline's married name as Cook, wife of John E. Cook (1833-1882), in the 1870 and 1880 censuses, with children from 1861. It also lists her in Stephen Scott's 1850 household (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Caroline H. Scott (9KXX-MHC), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MHC",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. John E. Cook and the 1870 and 1880 censuses."
+}

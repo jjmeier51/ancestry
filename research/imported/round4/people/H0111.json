@@ -1,0 +1,106 @@
+{
+ "id": "H0111",
+ "name": "Thomas F. Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1951-02-28",
+   "place": "Wilkes-Barre, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "1951 #14086 (THOMAS F HEFFERNAN, WLKS BRE, 02-28-51)"
+   },
+   {
+    "label": "FamilySearch ID",
+    "value": "LYYR-YNQ"
+   }
+  ],
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1900-06-20",
+    "description": "Married Louise Easen (b. England 4 Aug 1878, d. Philadelphia 16 Jun 1960, dau. of Thomas Easen & Mary Barnes)",
+    "sourceRefs": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Chairman, Luzerne County Republican Committee",
+    "date": "1903-1905",
+    "description": "Chaired the county Republican committee in the campaigns of 1903, 1904 and 1905; president of the Press Club of Wilkes-Barre",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "A 1906 portrait of Thomas F. Heffernan appears as no. 1114 in Prominent Men of Wilkes-Barre and Vicinity (S2). Its caption-key adds facts not in the earlier sketches: educated at Wyoming Seminary, married Louise Easen on 20 June 1900, chairman of the Luzerne County Republican Committee during the 1903, 1904 and 1905 campaigns, and president of the Press Club of Wilkes-Barre. That was the year before Roosevelt made him postmaster. The state death index lists him on 28 Feb 1951, Wilkes-Barre, file 14086 (S1). FamilySearch gives 27 Feb 1951 and burial at Fern Knoll, Dallas Twp (S3).",
+ "conflicts": [
+  {
+   "field": "death.date",
+   "siteValue": "1951-02-28",
+   "foundValue": "27 Feb 1951 (FamilySearch)",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "assessment": "The official index says 28 Feb; keep 28 Feb."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Department of Health death certificate index, 1951 (PA State Archives RG-11), PDF p.20: \"THOMAS F HEFFERNAN  WLKS BRE H 165  40  02 28 51  14086\"",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 28 Feb 1951, file 14086",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1951/D-51%20H-J.pdf"
+  },
+  {
+   "ref": "S2",
+   "citation": "Prominent Men: Scranton and Vicinity, Wilkes-Barre and Vicinity... (1906), portrait no. 1114, p.280, and biographical key",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Portrait; born Plymouth Twp 10 Mar 1871; educated Wyoming Seminary; m. Louise Easen 20 Jun 1900; member of Record staff; chairman, Luzerne Co. Republican Committee 1903-05; president, Press Club of Wilkes-Barre",
+   "url": "https://archive.org/details/prominentmenscra00stod"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch Family Tree (published), Thomas Francis Heffernan (1871-1951), PID LYYR-YNQ; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 20 Jun 1900; burial Fern Knoll; son Thomas Easen Heffernan b. 1904",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LYYR-YNQ"
+  }
+ ],
+ "media": [
+  {
+   "type": "portrait",
+   "title": "Thos. F. Heffernan, portrait no. 1114, Prominent Men of Wilkes-Barre (1906)",
+   "date": "1906",
+   "pageUrl": "https://archive.org/details/prominentmenscra00stod/page/n299/mode/1up",
+   "directUrl": "https://archive.org/download/prominentmenscra00stod/page/n299_w1600.jpg",
+   "repository": "Internet Archive (book scan)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0111/prominent-men-1906-portrait-1114.jpg",
+   "people": [
+    "H0111"
+   ],
+   "suggestedFile": "media/H0111/prominent-men-1906-portrait-1114.jpg",
+   "note": "US book published 1906; IA marks NOT_IN_COPYRIGHT. Cropped from the full page (also saved as media/H0111/prominent-men-1906-p280-page.jpg)."
+  }
+ ],
+ "funFacts": [
+  "He ran the county Republican campaigns in 1903-05 and headed the Press Club of Wilkes-Barre before becoming postmaster."
+ ],
+ "researchLogEntry": "Round 4: 1906 portrait and bio key found (Prominent Men no. 1114; downloaded); 1951 death index file 14086."
+}

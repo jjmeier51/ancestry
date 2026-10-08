@@ -7,9 +7,11 @@
   "sex": "F",
   "tags": [],
   "summary": "A Pringle cousin who died in her hundredth year.",
-  "bio": "Charity (Pringle) Mekeel died in 1899 'in the one hundredth year of her age' (Harvey Book p.1020).",
+  "bio": "Charity (Pringle) Mekeel died in 1899 'in the one hundredth year of her age' (Harvey Book p.1020).\n\nHarvey Book p.1020 says Charity was a daughter of James Pringle, who settled about 1797-98 in the part of Plymouth Twp. that is now Jackson Twp. She married Oliver Mekeel (d. 11 Oct 1847). She was born on 31 Jan 1800 and died at a daughter's home in Lehman Twp. on 12 Mar 1899, in her hundredth year. Her son was Lewis McKeel or Mekeel, and his daughter Cora married George Nesbitt ([R4-S1]).",
   "sources": [
-    "Harvey Book p.1020"
+    "Harvey Book p.1020",
+    "[R4-S1] Harvey, The Harvey Book (1899), p.1020 (note on Lewis McKeel/Mekeel) (secondary) https://archive.org/details/harveybookgiving00harv",
+    "[R4-S2] FamilySearch published tree, Charity Gould L4WX-HKC (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L4WX-HKC"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +22,32 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Harvey p.1020 gives b. 31 Jan 1800, d. Lehman 12 Mar 1899, father James Pringle of Jackson Twp., husband Oliver Mekeel d. 1847. FS wrongly merges her with Charity Gould (H0435)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0145.json."
     }
+  ],
+  "birth": {
+    "date": "1800-01-31"
+  },
+  "death": {
+    "date": "1899-03-12",
+    "place": "home of a daughter, Lehman Twp., Luzerne Co., PA"
+  },
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "(FamilySearch tree, not site)",
+      "found": "FamilySearch L4WX-HKC merges Charity (Gould) Pringle, wife of Benjamin Pringle (b. 16 Feb 1800, d. 19 Jan 1883 Lehman), with 'Charity Pringle Mekeel'",
+      "assessment": "These are two different women born within weeks of each other in 1800 who both died in Lehman Twp.: Charity Gould, Benjamin's wife (d. 1883), and Charity Pringle, James's daughter and Oliver Mekeel's wife (d. 1899). Keep them separate. See also H0435."
+    }
+  ],
+  "openQuestions": [
+    "Father 'James Pringle' (Harvey p.1020, Jackson Twp. c.1797-98): which James on the site is he? He may be the brother of Samuel Pringle (I282608055448)."
   ]
 }

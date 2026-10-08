@@ -11,8 +11,8 @@
     "place": "Baden, Germany"
   },
   "death": {
-    "date": "1938",
-    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+    "date": "1938-12-09",
+    "place": "Hazleton, Luzerne County, Pennsylvania"
   },
   "sex": "F",
   "tags": [],
@@ -21,7 +21,10 @@
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "1870 census Hazleton East Ward p.42 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/0/image.jpg",
     "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 15, p. 526 (image 473); index 'Register zum Taufbuch 1864' (image 477): 'Mayer Maria d. Friedrich, 526' (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-473",
+    "[R4-S2] FamilySearch Family Tree, Mary Meier (GRCN-TFK), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/GRCN-TFK",
+    "[R4-S3] Luzerne County Marriage License Docket No. 91450, Charles P. Preso × Josephine Flynn, licence 20 Dec 1920, married 30 Dec 1920 Hazleton by Rev. Jos. S. Gagion (FamilySearch index 1:1:KHFG-G71; image on GRCN-TFK) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GRCN-TFK/images/i/1/image.jpg"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -40,6 +43,77 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 1864; research: 1865."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found her baptism, Munzingen 1864 No. 15. Born 3 Sept 1864, not 1865."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085065.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1865",
+      "found": "1864-09-03",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth",
+      "site": "",
+      "found": "",
+      "assessment": ""
+    }
+  ],
+  "events": [
+    {
+      "title": "Baptism",
+      "date": "1864-09-04",
+      "place": "Munzingen",
+      "description": "Baptized 4 Sept 1864. Godparents were Magnus Held (20, single day labourer, son of Sebastian Held) and Josepha [Fischer?] (20, single). [R4-S1]"
+    },
+    {
+      "title": "Marriage",
+      "date": "1885",
+      "place": "Hazleton",
+      "description": "Married Henry Rose (b. 1861 Essen, d. 19 May 1927). Daughters Anna Francis, Josephine, Agatha Mary (who married George T. Duffin in 1917) and Mae Mercedes. [R4-S2]"
+    },
+    {
+      "title": "Named as mother in daughter Josephine Rose Flynn's 1920 marriage",
+      "date": "1920-12-30",
+      "place": "Hazleton",
+      "description": "Luzerne docket No. 91450: Josephine Flynn, 31, born Hazleton, widow (her first husband died 24 Dec 1918), married Charles P. Preso. Her father is given as Henry Rose and her mother as Mary, maiden name Meyers, both born in Germany. [R4-S3]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Baptism record",
+      "value": "Munzingen Geburtsbuch 1864 No. 15"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "GRCN-TFK"
+    }
+  ],
+  "bio": "Mary was born at Munzingen on 3 Sept 1864 at four in the afternoon and baptized the next day as 'Maria Mayer, legitimate daughter of the local citizen and mason Friedrich Mayer and Marianna Birkenmaier, both Catholic' ([R4-S1]). She is indexed as 'Mayer Maria d. Friedrich, p. 526'. This corrects the tree's birth year of 1865, and the 1865 Munzingen birth index has no Mayer child of Friedrich. The FamilySearch tree has her marriage to Henry Rose in 1885, four daughters, and her death at Hazleton on 9 Dec 1938 ([R4-S2]).",
+  "openQuestions": [
+    "PA death index 1938 (Rose, Mary, Hazleton, Dec 1938) for the certificate number."
+  ],
+  "media": [
+    {
+      "file": "media/I282608085065/birth-1864-munzingen-l10-1591-img473.jpg",
+      "type": "record",
+      "title": "Munzingen birth register 1864 No. 15: Maria Mayer",
+      "date": "1864-09-04",
+      "source": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591, public_domain",
+      "note": "Left page, No. 15. Public Domain Mark 1.0.",
+      "people": [
+        "I282608064885",
+        "I282608064896"
+      ],
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-473"
     }
   ]
 }

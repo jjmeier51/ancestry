@@ -1,0 +1,123 @@
+{
+ "id": "I282824815295",
+ "name": "Fortunatus Ferlaino",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "6 Mar 1822 (baptism)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "28 Apr 1901 (burial)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S3"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "15 Jun 1851",
+    "place": "San Mango d'Aquino",
+    "description": "Married Rosa Moraca",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Fortunato was baptized on 6 March 1822, son of Nicola Ferlaino and Agata Moraca; his godfather came from neighbouring Conflenti (S1). He married Rosa (Tommasina) Moraca, daughter of the late Francesco Moraca and Francesca Orlando, on 15 June 1851 (S2). Their children in the baptism index are Gennaro (1855), Raffaela (1858), Marianna (1865), Giuseppe Antonio (1868), a first Leopoldo (1870, died at 5 months) and John's ancestor Leopoldo (1871) (S4). Fortunato was buried at San Mango on 28 April 1901, aged 82 (S3). He thus outlived his wife and saw his son leave for Pennsylvania.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815535",
+   "evidence": "Baptism and marriage name father Nicola",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815541",
+   "evidence": "Baptism and marriage name mother Agata Moraca",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815311",
+   "evidence": "Marriage 1851",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "I282697102554",
+   "evidence": "Leopoldo bapt. 1871 (image read)",
+   "sourceRefs": [
+    "S4"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-801",
+   "evidence": "Leopoldo 1870-1870",
+   "sourceRefs": [
+    "S4"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "confirmed",
+  "justification": "His son Leopoldo's baptism (image read) names him; baptism, marriage and burial are all indexed with consistent parents."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1811-1840 (Book 8), image 63, p. 116, no. 10; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1840'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Fortunatus Ferlaino bapt. 6 Mar 1822, father Nicolaus Ferlaino, mother Agata Moraca, godfather Nicolaus Paola of Conflenti (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1846-1856 (Book 21), image 33, p. 58, no. 9; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 15 Jun 1851: Fortunatus Ferlaino (son of the late Nicola and Agata Moraca) and Rosa Moraca (daughter of the late Francesco and Francesca Orlando) (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1893-1915 (Book 31), image 53, p. 101, no. 15; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1893-1915'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 28 Apr 1901: Fortunatus Ferlaino, 82, son of the late Nicolaus and the late Agatha Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S4",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1846-1856 / 1857-1875 (), Januarius 1855, Rachaela 1858, Marianna 1865, Josephus Antonius 1868, Leopoldus 1870, Leopoldus 1871; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856 / 1857-1875'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children of Fortunatus Ferlaino and Rosa Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 6 Mar 1822, marriage 15 Jun 1851, burial 28 Apr 1901 (index); children listed."
+}

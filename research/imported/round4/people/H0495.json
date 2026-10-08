@@ -1,0 +1,96 @@
+{
+  "id": "H0495",
+  "name": "Obadiah Wells",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "Nov 1716",
+      "place": "Southold, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "27 May 1800",
+      "place": "Montague, Massachusetts",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Montague, Mass.",
+      "cemetery": "Old Burial Ground (headstone beside his son Dr. Henry Wells)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Pedlar, then glazier and painter in New York City; land proprietor at Brattleboro",
+    "events": [
+      {
+        "title": "Pedlar's licence",
+        "date": "23 Jun 1735",
+        "place": "New York",
+        "description": "Paid GBP 5 for a one-year licence to trade as a pedlar (receipt signed A. De Peyster).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Marriage",
+        "date": "Aug 1736",
+        "place": "East Hampton, NY",
+        "description": "Married his first wife Mary Conkling.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Freeman of New York City",
+        "date": "1738",
+        "place": "New York",
+        "description": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Brattleboro declaration",
+        "date": "25 Apr 1777",
+        "place": "Brattleboro",
+        "description": "First signer of a declaration that the people of the town were loyal to the State of New York (the Vermont jurisdiction dispute), not Tories.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "NEW-607",
+      "evidence": "Hayes ch. VI: 'Obadiah Wells, second son of Henry I'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Second son of Henry Wells I (b. 1690), grandson of William Wells II and Elizabeth Tuthill (Hayes, S1). He is John's 2nd cousin 9 times removed through William Wells and again through John Tuthill (1635). He left Southold at about 18, peddled under a 1735 New York licence, became a glazier and painter (also selling lottery tickets in 1749), joined the purchase of a large tract at Brattleboro, and died at Montague aged 83 years 6 months.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Hayes 1878 gives the line from William Wells with documents (receipts, wills, gravestone)."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), ch. VI",
+      "url": "https://archive.org/details/williamwellsofso00byuhaye",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Chapter VI, Obadiah Wells: birth, licence, marriage, freeman, Brattleboro, death, gravestone, will"
+    }
+  ],
+  "researchLogEntry": "Round 4: Hayes ch. VI gives his life and descent from William Wells and John Tuthill (2C9R).",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "I282604680698",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS gives 1904-1998, m. Samuel A. Powell 1934."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604680698.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "abt 1905",
+      "found": "1904-03-04",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth.date",
+      "site": "abt 1905",
+      "found": "4 Mar 1904",
+      "assessment": "Use 1904 (FS, with census/marriage records)."
+    }
+  ],
+  "birth": {
+    "date": "abt 1905",
+    "place": "Plymouth, Luzerne Co., Pa."
+  },
+  "death": {
+    "date": "1998-03-31",
+    "place": "Nanticoke, Luzerne Co., Pa."
+  },
+  "burial": {
+    "place": "St. Mary's Cemetery, Hanover Twp, Pa."
+  },
+  "aka": [
+    "Theresa A. McGuire",
+    "Teresa A. Powell"
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1934-09-03",
+      "place": "Wilkes-Barre, Pa.",
+      "description": "Married Samuel A. Powell (1907-1991); Luzerne County marriage record attached on FS [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GZQY-997"
+    }
+  ],
+  "bio": "Daughter of James McGuire and Anna C. Jones; enumerated as Theresa Maguire in her father's Larksville household in 1910. She married Samuel A. Powell in 1934 and died at Nanticoke on 31 Mar 1998, aged 94 ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Theresa A McGuire (1904-1998), PID GZQY-997; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GZQY-997"
+  ]
+}

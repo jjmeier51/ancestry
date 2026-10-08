@@ -1,14 +1,56 @@
 {
   "id": "H0458",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Plumb names her as Abraham Sorber's daughter and John Croop's wife; Bradsby independently places the Croops and Sorbers together on Hunlock's Creek. No primary record yet."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Plumb names her as Abraham Sorber's daughter and John Croop's wife; Bradsby independently places the Croops and Sorbers together on Hunlock's Creek. No primary record yet."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0207, probable): Plumb 1885: 'Elizabeth Sorber, m. John Croop' under the children of Abraham Sorber"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Plumb 1885 gives her as daughter of Abraham Sorber (Hanover c.1783) with siblings John, George, Jacob, Henry; married John Croop. Bradsby p.584/812 context added."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0458.json."
     }
+  ],
+  "birth": {
+    "place": "Northampton Co., PA (inferred: came to Hanover Twp. with her father c.1783 as part of a 'family of grown-up children')"
+  },
+  "events": [
+    {
+      "title": "Family moved to Hanover Twp., Luzerne Co.",
+      "date": "ABT 1783",
+      "place": "Middle Road, Hanover Twp., Luzerne Co., PA",
+      "description": "Plumb: Abraham Sorber, of German descent, came to Hanover from Northampton County about 1783, bringing a family of grown-up children; lived on the Middle Road, owned the Bobb place and died in Hanover. [R4-S1]"
+    },
+    {
+      "title": "Croop and Sorber settlement on Hunlock's Creek",
+      "date": "ABT 1790s",
+      "place": "Hunlock's Creek, Union (now Hunlock) Twp., Luzerne Co., PA",
+      "description": "Bradsby: about the time Frederick Croop settled near the river, 'came John Croop and the numerous family of Sorbers and settled back of the mountain and up the creek ... where Hiram Croop's mills were built'; the Sorbers and Croops were mill men and built the sawmills. [R4-S2]"
+    }
+  ],
+  "bio": "Plumb's History of Hanover Township (1885) lists Elizabeth as the youngest-named child of Abraham Sorber, 'of German descent', who came to Hanover from Northampton County about 1783 with grown-up children. Her siblings, as Plumb gives them: John (m. Betsey Sleppy; removed to Butler Twp.), George (b. 1778, d. 1860, m. Elizabeth Ehra), Jacob (m. ___ Cease) and Henry (removed to Butler Twp.). Plumb's entry for her is just 'Elizabeth Sorber, m. John Croop' ([R4-S1]). Bradsby (1893) says John Croop came to Hunlock's Creek with 'the numerous family of Sorbers' and that the two families built the sawmills there. In Bradsby, Hiram Croop (b. 1832) is a son of William Croop (born Newport Twp.) and Mary Sorber (born Northampton Co.), and William is a son of John Croop, who had 200 acres in what is now Hunlock Twp. and raised ten children. Bradsby does not name John's wife ([R4-S2]). If Elizabeth was William's mother, then William married a Sorber cousin. Munsell calls Hiram 'a grandson of both John Croop and Philip Sorber', and Bradsby makes Philip Sorber a son of Jacob.",
+  "openQuestions": [
+    "Was Elizabeth the mother of William Croop (b. Newport Twp., d. 1889 aged 84, per Bradsby)? Bradsby names William's father John Croop but not his mother.",
+    "GEDBAS 1435014144 (from an Ancestry tree) makes Abraham Sorber (b. 1744) a son of Jacob Sorber and Maria Engel Doll (H0459/H0215). That would make Elizabeth a granddaughter of Maria Engel. No primary record has been seen."
+  ],
+  "sources": [
+    "[R4-S1] H. B. Plumb, History of Hanover Township ... Luzerne County (1885), 'The Sorber Family', pp.477-478 (transcription, ldsgenealogy.com part 38) (secondary) https://ldsgenealogy.com/PA/books/History-of-Hanover-Township-including-Sugar-Notch-Ashley-and-Nanticoke-boroughs-and-also-a-history-of-Wyoming-Valley-in-Luzerne-County-Pennsylvania-part-38.htm",
+    "[R4-S2] H. C. Bradsby, History of Luzerne County (1893), p.584 (Hunlock Twp. settlement) and p.812 (Hiram Croop biography) (secondary) https://archive.org/details/historyofluzerne00brad"
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "id": "H0411",
+  "name": "Mary Steele",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "She is probably not James Pringle's wife at all. The 'second marriage' to Mary Steele comes from a merged FamilySearch profile of James Pringle (KP7T-1HK). That profile has absorbed a Scottish James and Mary Pringle, whose son Thomas Murray Pringle married at Toronto in 1867, and the 'Mary' has then been identified with Mary Steele (S1). FamilySearch's own profile of Mary Steele (1808-1876) makes her the wife of John Linskill (d. 1865). It shows her as the mother of six Linskill children born in Lehman Twp between 1833 and 1848, living as 'Mary Linchkill' in 1860, and buried as Mary Steele Linskill at Huntsville, Jackson Twp (S2). Through her parents, Peter Steele and Charity Lamoreaux, she was James Pringle's first cousin. No record of a marriage to James was found. Recommendation: remove her as James's spouse (see I282608053719).",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "James Pringle (I282608053719)",
+      "foundValue": "John Linskill (d. 1865); buried as Mary Steele Linskill",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "FamilySearch merge error; treat the James-Mary Steele marriage as unsupported."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "No evidence of any marriage to James Pringle."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, James Pringle 1799-1909 (KP7T-1HK), with attached Ontario marriage register entry for Thomas Murray Pringle, 1867",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "source of the merge"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Mary Steele (KTZK-6S6), with 1860 census ('Mary Linchkill') and Find a Grave index 'Mary Steele Linskill'",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KTZK-6S6",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "marriage to John Linskill"
+    }
+  ],
+  "researchLogEntry": "Round 4: the 'second wife of James Pringle' is a FamilySearch merge; Mary Steele was Mrs John Linskill."
+}

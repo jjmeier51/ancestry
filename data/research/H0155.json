@@ -1,18 +1,24 @@
 {
   "id": "H0155",
   "link": {
-    "confidence": "possible",
-    "note": "Speculative that he was Samuel's son."
+    "confidence": "probable",
+    "note": "Speculative that he was Samuel's son. Round 4 (possible → probable): 1850 census gives b. c.1801 in PA, and Bradsby says native of Plymouth; with James Pringle having only daughters (Giles & Franklin), John is most likely Samuel's son. A Luzerne orphans' court or deed record naming Samuel's heirs would confirm."
   },
   "sex": "M",
   "tags": [],
   "summary": "Possibly John's 4th-great-grand-uncle (or a cousin); husband of Phoebe Davenport.",
-  "bio": "John Pringle married Phoebe Davenport (1799 - after 1873), daughter of Thomas and Charity (Lamoreaux) Davenport; nine children 1821-36: Thomas, Elizabeth, Clara, Liddie, William, Dennison, Charity D. (m. liveryman Andrew R. Worthington 1855), Stephen, Martha. Phebe Pringle's will: Plymouth, 1867, vol. D p.344. Whether John was Samuel's son or a nephew is speculative.",
+  "bio": "John Pringle married Phoebe Davenport (1799 - after 1873), daughter of Thomas and Charity (Lamoreaux) Davenport; nine children 1821-36: Thomas, Elizabeth, Clara, Liddie, William, Dennison, Charity D. (m. liveryman Andrew R. Worthington 1855), Stephen, Martha. Phebe Pringle's will: Plymouth, 1867, vol. D p.344. Whether John was Samuel's son or a nephew is speculative.\n\nThe 1850 census of Plymouth Township (enumerated 18 Sep 1850 by A. Atherton, p.155, dwelling 1054, family 1076) shows John Pringle, 49, farmer, born Pennsylvania, with Phebe, 52 (real estate $150, in her name), and children Thomas 29 (laborer), Clarissa 27, Elizabeth 25, Lydia 24, William 22 (clerk), Denison 19 (farmer), Charity 17 and Martha 13 ([R4-S1]). Stephen (b. 1834) is absent; the FamilySearch tree says he died in 1850. This gives John a birth year of about 1801, in Pennsylvania, which fits Bradsby's statement that John and Phoebe were 'natives of Plymouth' ([R4-S3]).\n\nBy the 1860 census (Plymouth, post office Muhlenburg) Phebe Pringle, 62, keeps house with daughters Elizabeth 36 and Lydia 34, and John is gone, so he died between 1850 and 1860 ([R4-S2]). Wright (1873) calls Jacob Gould and John Pringle, the two sons-in-law of old Thomas Davenport, 'both highly respectable men' ([R4-S4]). The FamilySearch published tree places John (LZVN-JBK, b. 1801 Plymouth) as a son of Samuel Pringle and Martha Lamoreaux ([R4-S5]). A man born in Plymouth about 1801 would almost have to be a son of Samuel or of Samuel's brother James, the only Pringle families there. Giles & Franklin give James and Phebe (Lamoreux) Pringle only three daughters, and Samuel had five sons ([R4-S6]), so a son of Samuel is the better fit. This is still not proven.",
   "sources": [
     "Bradsby pp.1483-84",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.321-322",
     "Wright p.387",
-    "Luzerne wills index P"
+    "Luzerne wills index P",
+    "[R4-S1] 1850 U.S. census, Plymouth Twp., Luzerne Co., PA, p.155, dwelling 1054, family 1076, John Pringle household (image attached to FS LZVN-JBK; FS record ark 1:1:M4HB-8PL) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LZVN-JBK/images/i/0/image.jpg",
+    "[R4-S2] 1860 U.S. census, Plymouth, Luzerne Co., PA (P.O. Muhlenburg), p.20 (stamped 733), dwelling 842, Phebe Pringle household (image attached to FS KP7J-PJ2) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KP7J-PJ2/images/i/0/image.jpg",
+    "[R4-S3] Bradsby, History of Luzerne County (1893), pp.1483-84, A. R. Worthington biography (secondary) https://archive.org/details/historyofluzerne00brad",
+    "[R4-S4] Wright, Historical Sketches of Plymouth (1873), p.387 (secondary) https://archive.org/details/historicalsketch00wrig_2",
+    "[R4-S5] FamilySearch Family Tree (published), John Pringle LZVN-JBK (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LZVN-JBK",
+    "[R4-S6] Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.357-360 (secondary) https://archive.org/details/thomasdavenportp00gile"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -23,6 +29,78 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → probable: 1850 census gives b. c.1801 in PA, and Bradsby says native of Plymouth; with James Pringle having only daughters (Giles & Franklin), John is most likely Samuel's son. A Luzerne orphans' court or deed record naming Samuel's heirs would confirm."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282608055448, probable): FamilySearch tree lists John b.1801 as Samuel and Martha's child (no source attached for the link); born Plymouth c.1801 when only Samuel's and James's Pringle families lived there; James's known children were three daughters."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0189, proven): 1850 census household; Bradsby; Giles & Franklin"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Luzerne wills index P (PAGenWeb): no John Pringle will; WikiTree Davenport-5399: no new data on John; archive.org full text of Bradsby, Harvey Book, Munsell, Harvey & Smith V-VI, Pearce: no further John Pringle entries"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found John in the 1850 Plymouth census (b. c.1801 PA, farmer) and absent from the 1860 census (died 1850-60); FS tree makes him Samuel's son; recommend probable."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0155.json."
+    }
+  ],
+  "birth": {
+    "date": "ABT 1801",
+    "place": "Pennsylvania (Plymouth per Bradsby)"
+  },
+  "death": {
+    "date": "between Sep 1850 and Jul 1860",
+    "place": "probably Plymouth Twp., Luzerne Co., PA"
+  },
+  "occupation": "Farmer",
+  "residences": [
+    {
+      "date": "1850-09-18",
+      "place": "Plymouth Twp., Luzerne Co., PA",
+      "note": "Dwelling 1054, family 1076, with wife Phebe and eight children [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LZVN-JBK"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "children",
+      "site": "Liddie b. 5 Feb 1826 (Bradsby)",
+      "found": "Lydia 24 in 1850 (b. c.1826); Clarissa 27 (b. c.1823); Elizabeth 25",
+      "assessment": "Bradsby's Clara b. Sept 1825 and Liddie b. Feb 1826 cannot both be right; census ages suggest Clara c.1823 and Lydia c.1826. FS gives Clara b. 17 Sep 1822."
+    }
+  ],
+  "openQuestions": [
+    "Exact death date of John Pringle (1850-1860); check Shupp/Shawnee cemetery listings and Luzerne orphans' court.",
+    "FamilySearch tree wrongly lists Phebe Davenport as a child of Samuel Pringle (KP7J-PJ2 attached as child of G99D-9DZ); she is his daughter-in-law."
+  ],
+  "media": [
+    {
+      "file": "media/H0155/1850-census-plymouth-john-pringle.jpg",
+      "type": "record",
+      "title": "1850 census, Plymouth Twp., John Pringle household",
+      "date": "1850-09-18",
+      "source": "FamilySearch (NARA M432), public_domain",
+      "note": "Pre-1931 U.S. federal census schedule (government record); lines 22-31.",
+      "people": [
+        "H0189"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LZVN-JBK"
     }
   ]
 }

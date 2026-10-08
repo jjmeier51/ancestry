@@ -1,0 +1,32 @@
+{
+  "id": "H0317",
+  "name": "David Thompson",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "3 May 1798",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "22 Feb 1871",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Eldest son of Jonathan Thompson (S1): 4th cousin 7 times removed via John Thompson, 5th cousin 6 times removed via Bull Smith. Married Sarah Diodati Gardiner; children Sarah G. (Mrs Col. David Lion Gardiner), Elizabeth, Gardiner, David Gardiner, Charles Griswold, Mary Gardiner and Frederick Diodati (proprietor of Sagtikos Manor in 1898).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 470",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "David Thompson dates, marriage, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates and children from Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

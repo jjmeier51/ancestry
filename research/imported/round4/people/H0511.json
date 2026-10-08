@@ -1,0 +1,28 @@
+{
+ "id": "H0511",
+ "name": "Nicola di Pietro",
+ "status": "researched",
+ "conflicts": [
+  {
+   "field": "surname",
+   "siteValue": "di Pietro",
+   "foundValue": "di Paola (FS tree 9CF8-2TL, husband of Maria Di Marino)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Unresolved; check Maria's 1914 death act."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile 9CF8-2TL (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9CF8-2TL",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Maria Di Marino 1835-1914, spouse Nicola di Paola"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS tree calls Maria di Marino's husband 'Nicola di Paola'.",
+ "researchedAt": "2026-10-08"
+}

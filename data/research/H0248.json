@@ -23,6 +23,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: No new search beyond the round-3 sources (Hammond 1902, Akerly 1898, NEHGR via WikiTree, Gyll 1862); quick WikiTree API checks of Paine-100, Paine-470, Tuthill-60, Tuthill-7, Topping-248, Aldridge-218 and Hammond-356 showed nothing beyond the round-3 notes"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: nothing new beyond round 3."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0248.json."
     }
   ]
 }

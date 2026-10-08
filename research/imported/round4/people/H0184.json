@@ -1,0 +1,51 @@
+{
+  "id": "H0184",
+  "name": "Amelia Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "18 Feb 1798",
+      "place": "Monroe, NY (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "7 Feb 1868",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1827",
+        "place": "Jackson Twp, Luzerne Co.",
+        "description": "To Fletcher Case (1804-1849)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L7JJ-ZP9"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Amelia (Milly) the dates 18 Feb 1798 to 7 Feb 1868, her marriage to Fletcher Case (1804-1849) in Jackson Twp in 1827, and her 1850 census entry as a widow, Amelia Case (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Amelia Lamoreaux (L7JJ-ZP9), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L7JJ-ZP9",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 18 Feb 1798-7 Feb 1868 and m. 1827 Fletcher Case."
+}

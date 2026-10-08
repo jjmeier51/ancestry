@@ -1,0 +1,70 @@
+{
+ "id": "H0343",
+ "name": "Bartolomeo Fede",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "ABT 1811",
+   "place": "Bisaccia, Avellino, Campania, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage to Nunzianna (Luigia?) Roberto",
+    "date": "1835-07-10",
+    "place": "Bisaccia",
+    "description": "Per FS tree.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The FamilySearch tree gives Bartolomeo's birth as about 1811 in Bisaccia, his marriage to Nunzianna Roberto as 10 Jul 1835, and his parents as Giuseppe Fede (c.1758 – 12 Jan 1829) and Angela Maria Loffa (1780 – after 1835) (S1, S2). Giuseppe's father was another Bartolomeo Fede, so the name ran in the family. Round 3 found Bartolomeo working as a pecoraio (shepherd) in 1867.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "NEW-707",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "parent",
+   "personId": "NEW-708",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile LY5M-GTY (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LY5M-GTY",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth c.1811; marriage 10 Jul 1835; parents; cites Sant'Angelo dei Lombardi tribunale registers"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile LHFF-9SK (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHFF-9SK",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Giuseppe Fede c.1758-1829, son of Bartolomeo Fede and Rosa Ricciardi"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS tree gives c.1811 birth, 1835 marriage and parents Giuseppe Fede + Angela Maria Loffa.",
+ "researchedAt": "2026-10-08"
+}

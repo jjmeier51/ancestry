@@ -1,0 +1,45 @@
+{
+ "id": "H0352",
+ "name": "Peter Petrillo",
+ "status": "researched",
+ "bioAdditions": "Peter is 12 in April 1910 and 22 in January 1920, which supports birth in 1897–98 (S1, S2). That is consistent with the FS date of 26 Jul 1897 only if Grace/Katie was born in January 1897 and Peter was a twin or the dates are slightly off; the 1910 ages (13 and 12) suggest they were about a year apart, so one of the two dates is probably wrong. The FamilySearch tree links him through a Social Security NUMIDENT entry to a son, Victor M. Petrillo (1926–1989), whose mother is given as 'Anna Harosko' (S3).",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "(not in tree) Victor M. Petrillo 1926-1989",
+   "evidence": "FS NUMIDENT index for Victor M Petrillo names parents Peter Petrillo and Anna Harosko",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1910 Petriello household; Katie is female, 13"
+  },
+  {
+   "ref": "S2",
+   "citation": "1920 US census, Scranton (part of 10th Ward), ED 142, sheet 13A (enumerated 9 Jan 1920), no. 1028 [Bunker Hill St]: John 'Patrello' (50, owned free, immigrated 1892, naturalized 1900, merchant, grocery store) and Mary (43), sons Peter (22), Frank (20), 'Chas' (23, male, coal-mine laborer), Ralph (14), Anthony (15), James (12), Michael (8), Rocco (7?) and daughter Carrie. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:M6YQ-5JP).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1920 Petriello household"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch Family Tree published profile L1QP-W1Q (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L1QP-W1Q",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "NUMIDENT entry of son Victor M Petrillo (ark 1:1:6K3H-HN4V); son profile L1QP-3SQ"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS NUMIDENT links a son Victor M. Petrillo (1926-1989); census ages question the 26 Jul 1897 date.",
+ "researchedAt": "2026-10-08"
+}

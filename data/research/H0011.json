@@ -1,8 +1,8 @@
 {
   "id": "H0011",
   "link": {
-    "confidence": "possible",
-    "note": "Only a Wilkes-Barre funeral notice published 11/12 Oct 1933; mother's name and timing fit William and Florence. Not in the 1933 PA death index under M600 (F and I given names, PDF pp.42, 44); nearest is Florence E. Moyer, Wilkes-Barre, d. 17 Oct 1933, file 89261 (different). May be a stillbirth or index misspelling."
+    "confidence": "probable",
+    "note": "Only a Wilkes-Barre funeral notice published 11/12 Oct 1933; mother's name and timing fit William and Florence. Not in the 1933 PA death index under M600 (F and I given names, PDF pp.42, 44); nearest is Florence E. Moyer, Wilkes-Barre, d. 17 Oct 1933, file 89261 (different). May be a stillbirth or index misspelling. Round 4 (possible → probable): FS tree with two census records and a Find a Grave index entry. She now attaches to Fred rather than William; the 1920/1930 census images would make it confirmed."
   },
   "sex": "F",
   "tags": [],
@@ -10,7 +10,8 @@
   "sources": [
     "Genealogy Trails 1933 deaths M–N http://genealogytrails.com/penn/luzerne/1933_deaths/1933_m_n.html",
     "PA Death Index 1933 M–N p.42 https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1933/D-33%20M-N.pdf",
-    "notes/meier_mcguire.md; notes/round2/meier_gaps.md"
+    "notes/meier_mcguire.md; notes/round2/meier_gaps.md",
+    "[R4-S1] FamilySearch Family Tree, Florence Irene Meier (G7CS-F78), published-tree JSON: b. 15 Mar 1916, d. 9 Oct 1933 Wilkes-Barre, burial St. Mary's Cemetery, Hanover Twp.; sources 1920 census in household of Fred Meier Sr (M6Y8-CSD), 1930 census in household of Fred Meier (XH7C-9LC), Find a Grave index (QVG4-98VJ) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-F78"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -21,6 +22,46 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → probable: FS tree with two census records and a Find a Grave index entry. She now attaches to Fred rather than William; the 1920/1930 census images would make it confirmed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0012, probable): FS tree; 1920 and 1930 census in Fred Meier's household"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0054, probable): FS tree, mother Anna Mather"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified as Fred A. Meier Sr.'s daughter (1916–1933, aged 17), not William's infant; re-attach to H0012."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0011.json."
+    }
+  ],
+  "birth": {
+    "date": "1916-03-15",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1933-10-09",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+  },
+  "burial": {
+    "place": "St. Mary's Cemetery, Hanover Township, Luzerne County, Pennsylvania, USA"
+  },
+  "bio": "Florence Irene Meier was not an infant daughter of William F. Meier. She was the eldest child of his brother Fred Aloysius Meier Sr. and Anna Mather, born at Wilkes-Barre on 15 Mar 1916. She was the 'one child under 12' on her father's 1917 draft card. She appears in Fred's household in the 1920 and 1930 censuses, and died at Wilkes-Barre on 9 Oct 1933, aged 17. She is buried at St. Mary's Cemetery, Hanover Township, where her parents and grandparents also lie ([R4-S1]). Her death fits the Genealogy Trails funeral notice of 11/12 Oct 1933. The earlier search of the 1933 PA death index (M–N file, Soundex M600) found no matching Florence entry. The 1933 'M–M' file ends at Soundex M450, so the M–N file was the right one, and her index entry may be misspelled.",
+  "conflicts": [
+    {
+      "field": "relationship",
+      "site": "Possible infant sister of James C. Meier (daughter of William F. Meier)",
+      "found": "Daughter of Fred Aloysius Meier Sr. and Anna Mather; first cousin of James C. Meier",
+      "assessment": "Re-attach her as Fred's daughter (H0012/H0054). She was 17, not an infant."
     }
   ]
 }

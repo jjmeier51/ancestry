@@ -1,0 +1,55 @@
+{
+  "id": "H0391",
+  "name": "Joseph Wenz",
+  "status": "researched",
+  "updates": {
+    "occupation": "shoemaker (Schuster), citizen of Munzingen",
+    "events": [
+      {
+        "title": "Godfather to Friedrich (Frederick) Meier",
+        "date": "1862-01-13",
+        "place": "Munzingen",
+        "description": "'Joseph Wenz, Schuster von hier' was godfather at the baptism of Maria Anna Birkenmaier's son Friedrich.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Wife godmother to Christina Mayer",
+        "date": "1864-05",
+        "place": "Munzingen",
+        "description": "His wife M. Anna Mayer, 'Ehefrau des Joseph Wenz, Bürger und Schuster von hier', was godmother.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Joseph Wenz, a shoemaker and citizen of Munzingen, was married to Friedrich Mayer's eldest sister Maria Anna Creszentia. He was godfather to Friedrich's first son in January 1862 (S1), and his wife was godmother to Pauline Mayer's daughter Christina in 1864 (S2).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "Named in two primary registers."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2 (images 431–432)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Joseph Wenz, shoemaker, godfather"
+    },
+    {
+      "ref": "S2",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9 (image 471)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-471",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Wife M. Anna Mayer, of the shoemaker Joseph Wenz"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: found as godfather (1862) and as husband of the godmother (1864) in the Munzingen registers.",
+  "researchedAt": "2026-10-08"
+}

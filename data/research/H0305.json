@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "Architect, partner at McKim, Mead & White, president of the National Academy of Design; John's 7th cousin 4x removed.",
-  "bio": "His cousin Lawrence Smith Butler (son of Cornelia Smith Butler), an architect, is also 7C4R. J. Lawrence Smith's other daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet (Gilded Age society figures) are 6C5R.",
+  "bio": "His cousin Lawrence Smith Butler (son of Cornelia Smith Butler), an architect, is also 7C4R. J. Lawrence Smith's other daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet (Gilded Age society figures) are 6C5R.\n\nSon of Stanford White and Bessie Springs Smith: 6th cousin 4 times removed via Job Smith (one generation below Bessie), closer than the 7C4R on the site.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Lawrence_Grant_White"
   ],
@@ -20,6 +20,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: relationship revised to 6C4R; Commons photo downloaded with a rights caveat."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0305.json."
     }
   ],
   "media": [
@@ -46,7 +54,25 @@
       "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Lawrence_Grant_White.jpg",
       "note": "Francis R. Appleton",
       "file": "media/H0305/lawrence-grant-white-portrait.jpg"
+    },
+    {
+      "file": "media/H0305/lawrence-grant-white-1922.jpg",
+      "type": "photo",
+      "title": "Lawrence Grant White, photographed by Francis R. Appleton in Italy",
+      "date": "1922 (Commons date; caption says WWI)",
+      "source": "Wikimedia Commons (Commons source given as a Find a Grave image URL), public_domain",
+      "note": "Commons marks it Public domain, but its source is a Find a Grave upload and the date/caption disagree; re-check before publishing.",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:Lawrence_Grant_White.jpg"
     }
   ],
-  "photo": "media/H0305/lawrence-grant-white-portrait.jpg"
+  "photo": "media/H0305/lawrence-grant-white-portrait.jpg",
+  "conflicts": [
+    {
+      "field": "relationship",
+      "site": "7C4R",
+      "found": "6C4R via Job Smith",
+      "assessment": "See H0302."
+    }
+  ]
 }

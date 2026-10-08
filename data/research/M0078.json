@@ -1,0 +1,21 @@
+{
+  "id": "M0078",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of H0081 (proven)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Ulmet Lutheran register, marriages 1704 p.459 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KLVK-Z6R/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch published tree, Sara Margaretha Schuch (9X1W-N7P), parents LCP5-G33 and MMD4-Y2T (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9X1W-N7P"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-304 → M0078; research/imported/round4/new_people.json."
+    }
+  ]
+}

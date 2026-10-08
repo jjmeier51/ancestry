@@ -1,0 +1,23 @@
+{
+ "id": "I282824815683",
+ "name": "Fragostina (Justina) Berardello",
+ "researchedAt": "2026-10-08",
+ "status": "nothing_new",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1670-1687 (Book 2), image 26, p. 25, no. 11; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Joannes Antonius Colosimo bapt. 7 Jul 1679, mother Justina Berardello (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "San Mango baptism index 1653-1672: no Giustina/Agostina Berardello baptism c.1648-52 (register begins 1653)",
+  "San Mango death indexes 1653-1713: no clear entry",
+  "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+  "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+ ],
+ "researchLogEntry": "Round 4: her name 'Justina Berardello' is confirmed by son Giovanni Antonio Colosimo's 1679 baptism (Book 2 img 26 no. 11); no baptism or burial found."
+}

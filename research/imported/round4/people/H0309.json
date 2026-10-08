@@ -1,0 +1,40 @@
+{
+  "id": "H0309",
+  "name": "Sir Willoughby Jones",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "24 Nov 1820",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "21 Aug 1884",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Second son of Maj.-Gen. Sir John Thomas Jones, 1st Bt, and Catherine (Catharine Maria) Lawrence, daughter of Capt. Effingham Lawrence (S1, S2): 5th cousin 6 times removed. Eton and Trinity, Cambridge; inherited the baronetcy when his brother Lawrence was murdered in Turkey (1845); MP for Cheltenham from July 1847 (S2). No free image found.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), p. 49",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Catharine Maria Lawrence m. Sir John Thomas Jones; children Lawrence, Willoughby, Herbert Walsingham, Emily Florence"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Willoughby Jones' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Willoughby_Jones",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates, parents, career"
+    }
+  ],
+  "researchLogEntry": "Round 4: dates and parentage verified (Lawrence 1858 + Wikipedia).",
+  "researchedAt": "2026-10-08"
+}

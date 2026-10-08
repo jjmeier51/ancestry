@@ -1,0 +1,20 @@
+{
+  "id": "M0039",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0003 (probable); sibling of I282604494274 (probable)."
+  },
+  "tags": [],
+  "summary": "Eldest known son of Edward McGuire and Mary Jane Gaffney; 14 in the 1870 Danville census; FS attaches an 1880 census index entry (Ancestry)",
+  "bio": "Eldest known son of Edward McGuire and Mary Jane Gaffney; 14 in the 1870 Danville census; FS attaches an 1880 census index entry (Ancestry). Later life unknown.",
+  "sources": [
+    "[R4-S1] 1870 census, Mahoning Twp, Montour Co.; FS GZQN-941 (primary) https://www.familysearch.org/service/tree/tree-data/published/persons/GZQN-941"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-203 → M0039; research/imported/round4/new_people.json."
+    }
+  ]
+}

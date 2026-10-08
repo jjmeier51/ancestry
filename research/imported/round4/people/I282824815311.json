@@ -1,0 +1,86 @@
+{
+ "id": "I282824815311",
+ "name": "Rosa Tommasina Moraca",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "5 Feb 1829 (baptism)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "11 Jan 1889 (burial)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S3"
+   ]
+  }
+ },
+ "bioAdditions": "Rosa Tommasina was baptized on 5 February 1829 (S1). She married Fortunato Ferlaino on 15 June 1851 (S2). She was buried at San Mango on 11 January 1889, aged 60, as the daughter of the late Francesco Moraca and Francesca Orlando (S3). The baptism index gives her mother as 'Maria' Orlando, but the marriage and burial both say Francesca.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815554",
+   "evidence": "Marriage/burial name father Francesco Moraca",
+   "sourceRefs": [
+    "S2",
+    "S3"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815569",
+   "evidence": "Marriage/burial name mother Francesca Orlando",
+   "sourceRefs": [
+    "S2",
+    "S3"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815295",
+   "evidence": "Marriage 1851",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "confirmed",
+  "justification": "Her son Leopoldo's baptism (image read) names her; baptism, marriage and burial are indexed with consistent parents."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1811-1840 (Book 8), image 111, p. 213, no. 3; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1840'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Rosa Thomasina Moraca bapt. 5 Feb 1829, father Franciscus Moraca, mother indexed as Maria Orlando (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1846-1856 (Book 21), image 33, p. 58, no. 9; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 15 Jun 1851 to Fortunatus Ferlaino; bride daughter of the late Francesco Moraca and Francesca Orlando (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1877-1893 (Book 30), image 67, p. 127, no. 2; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1877-1893'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 11 Jan 1889: Rosa Moraca, 60, daughter of the late Franciscus Moraca and the late Francisca Orlando (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 5 Feb 1829, marriage 1851, burial 11 Jan 1889 (index)."
+}

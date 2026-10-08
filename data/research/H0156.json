@@ -7,10 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 3rd-great-grand-uncle (brother of Andrew G. Pringle) - the documented brother who proves Andrew's parentage.",
-  "bio": "Noah Pringle was born at Plymouth 16 Feb 1834 and died at Beach Haven 28 Apr 1885. The Harvey Book (pp.370-371) names him son of James and Elizabeth (Croup) Pringle and grandson of Samuel and Martha (Lamoreaux). He was 16, farmer, in the 1850 household. He married Esther Louisa Nesbitt in 1857; six children; she later lived at Ives, Dundee Co., Nebraska. No Civil War service found.",
+  "bio": "Noah Pringle was born at Plymouth 16 Feb 1834 and died at Beach Haven 28 Apr 1885. The Harvey Book (pp.370-371) names him son of James and Elizabeth (Croup) Pringle and grandson of Samuel and Martha (Lamoreaux). He was 16, farmer, in the 1850 household. He married Esther Louisa Nesbitt in 1857; six children; she later lived at Ives, Dundee Co., Nebraska. No Civil War service found.\n\nFamilySearch dates Noah's marriage to Esther Louisa Nesbitt to 15 Nov 1857, places him in Plymouth in every census from 1850 to 1880, and attaches an Ohio death record (1908-1953) of a son, Frank E. Pringle, that names Noah as his father ([R4-S1]). That son is not yet in the tree.",
   "sources": [
     "Harvey Book pp.370-371: https://archive.org/details/harveybookgiving00harv",
-    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)"
+    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
+    "[R4-S1] FamilySearch published tree, Noah Pringle (LWNW-PX9), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LWNW-PX9"
   ],
   "occupation": "Farmer",
   "handoff": {
@@ -22,6 +23,35 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives m. 15 Nov 1857 and a son Frank E. Pringle, d. in Ohio, whose death record names Noah."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0156.json."
+    }
+  ],
+  "residences": [
+    {
+      "date": "1850-1880",
+      "place": "Plymouth, Luzerne Co.",
+      "note": "census residences per FamilySearch [R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1857-11-15",
+      "place": "",
+      "description": "To Esther Louisa Nesbitt (1839-1918), per FamilySearch [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LWNW-PX9"
     }
   ]
 }

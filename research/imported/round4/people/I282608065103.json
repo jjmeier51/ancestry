@@ -1,0 +1,67 @@
+{
+  "id": "I282608065103",
+  "name": "JERUSHA TOPPING",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Weygant's Family Record (1897) names Jerusha as 'daughter of Elnathan Topping, Jr., son of Capt. Elnathan Topping, who was born Aug. 6, 1640'. It dates her marriage to James Smith 'about the year 1720' (S1). Weygant is independent of, and earlier than, F. K. Smith (1967), who gives the same parentage. Pelletreau's date for the eldest son Matthew, 3 Sept 1721, fixes the marriage by 1720 (S2). That puts Jerusha's birth no later than c.1700, which fits a daughter of Elnathan Jr. (b. 1664) and suits a daughter Temperance born in the early 1730s. The tree's Josiah Topping & Hannah Sayre parentage comes from C. E. Topping (1980), and a third version ('Jonathan (2) and Mary Topping', Genealogies of the State of New York vol. 2) appears on WikiTree (S3). Both conflict with the 1751 will of Elnathan Topping, which names a daughter Jerusha (round 3).",
+  "openQuestionsResolved": [
+    {
+      "question": "Her birth year (decides whether a c.1732-35 daughter is comfortable).",
+      "answer": "Married about 1720 (Weygant), with eldest son Matthew b. 3 Sept 1721 (Pelletreau), so born c.1695-1700. A daughter c.1732-35 is comfortable (Jerusha aged about 35).",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "father",
+      "siteValue": "Tree: Josiah Topping (1663-1726)",
+      "foundValue": "Elnathan Topping Jr. (Weygant 1897; Elnathan's 1751 will); 'Jonathan (2)' in Genealogies of the State of New York",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "assessment": "Elnathan Jr. is best supported; 'Jonathan' is probably a misreading."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0225",
+      "evidence": "Weygant 1897 explicitly; 1751 will of Elnathan Topping names a daughter Jerusha (round 3)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Jerusha dau. of Elnathan Topping Jr.; m. c.1720"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "eldest son Matthew b. 3 Sept 1721"
+    },
+    {
+      "ref": "S3",
+      "citation": "WikiTree Smith-141655 (Temperance Smith), biography read via api.wikitree.com: quotes Alva Tuttle p. 311; Charles E. Topping, Topping Genealogy (1980) p. 392 / Vail Family notes (NYG&B) giving Josiah & Hannah (Sayre) Topping; and Genealogies of the State of New York vol. 2 giving Jerusha as daughter of 'Jonathan (2) and Mary Topping'",
+      "url": "https://www.wikitree.com/wiki/Smith-141655",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "competing parentages (Josiah/Sayre; 'Jonathan (2) and Mary')"
+    }
+  ],
+  "researchLogEntry": "Round 4: Weygant 1897 independently names Elnathan Topping Jr. as Jerusha's father; marriage c.1720 fixes her birth c.1695-1700."
+}

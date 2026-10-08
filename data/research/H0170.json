@@ -13,7 +13,7 @@
     "patriot"
   ],
   "summary": "Husband of John's 5th-great-grand-aunt Elizabeth Lamoreaux; Revolutionary soldier who escaped from a British island prison.",
-  "bio": "Col. George Palmer Ransom (1762-1850) married Elizabeth Lamoreaux in 1794. His father, Capt. Samuel Ransom, was killed in the 1778 Battle of Wyoming, his remains later found 'with the head severed from the body'. George was captured in 1780 and escaped from Prisoners' Island in the St. Lawrence River in 1782. In October 1790 Thomas Lamoreaux served in Capt. George P. Ransom's militia company at Plymouth.",
+  "bio": "Col. George Palmer Ransom (1762-1850) married Elizabeth Lamoreaux in 1794. His father, Capt. Samuel Ransom, was killed in the 1778 Battle of Wyoming, his remains later found 'with the head severed from the body'. George was captured in 1780 and escaped from Prisoners' Island in the St. Lawrence River in 1782. In October 1790 Thomas Lamoreaux served in Capt. George P. Ransom's militia company at Plymouth.\n\nCol. H. B. Wright lived next door to Colonel Ransom for twenty years. In his Historical Sketches of Plymouth (1873) he says Ransom was born at Canaan, Litchfield Co., Conn., in 1761. He served as orderly-sergeant in his father's company at Millstone, Bound Brook, Germantown and Brandywine. On 6 Dec 1780 he had gone 'a sparking' in his best regimentals to old Benjamin Harvey's house when six Indians burst in and carried off the household. After imprisonment on Prisoner's Island in the St. Lawrence he swam the river and escaped through the woods to Vermont. He lived and died in the 'old red mansion house' on the Plymouth flats, and the town pound stood on his land. Wright's book has his portrait 'taken at 85' ([R4-S1]). Charles Miner noted in 1845 that he was 82 and lame, and that his grandson George Palmer Steele had just finished a term as sheriff of Luzerne ([R4-S3]). A later county history tells how he was fined one cent for knocking down a man who had insulted Washington ([R4-S2]). He built a sawmill in 1815, and his son Chester replaced it in 1840 ([R4-S3]). One daughter married the schoolmaster Charles C. Curtis and inherited the Jackson Twp. farm ([R4-S1]). Another, Livia, married Oliver Davenport (Bradsby).",
   "military": [
     {
       "branch": "Continental/Wyoming forces",
@@ -27,7 +27,10 @@
     }
   ],
   "sources": [
-    "Harvey Book p.355: https://archive.org/details/harveybookgiving00harv"
+    "Harvey Book p.355: https://archive.org/details/harveybookgiving00harv",
+    "[R4-S1] H. B. Wright, Historical Sketches of Plymouth, Luzerne Co., Penna. (1873), ch. VII-VIII (pp.156-241), p.283 and the pound passage; portrait facing p.240 (secondary) https://archive.org/details/historicalsketch00wrig_2",
+    "[R4-S2] Harvey & Smith, A History of Wilkes-Barre, vol. V (1929), Judge Thomas Burnside Scott section (secondary) https://archive.org/details/historyofwilkesb05harv",
+    "[R4-S3] H. C. Bradsby, History of Luzerne County (1893), p.589 (Jackson Twp. mills); Miner's 1845 note quoted in the Ransom account; Frisbie biography (secondary) https://archive.org/details/historyofluzerne00brad"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -38,6 +41,22 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0169, probable): site; Giles & Franklin p.357 (Elizabeth Lamoreux m. Col. George P. Ransom)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0171, probable): Bradsby p.589: 'his son Chester'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Wright 1873 gives b. Canaan, Conn., 1761, his war service, capture and escape, and the portrait at 85 (downloaded). Harvey & Smith give the one-cent-fine story; Bradsby gives the 1815 mill and grandson Sheriff George Palmer Steele."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0170.json."
     }
   ],
   "media": [
@@ -64,7 +83,75 @@
       "source": "WikiTree, profile Ransom-699; https://www.wikitree.com/photo/jpg/Ransom-699-1",
       "note": "",
       "file": "media/H0170/h0170-ransom-699-1.jpg"
+    },
+    {
+      "file": "media/H0170/wright-1873-portrait-col-george-p-ransom.jpg",
+      "type": "photo",
+      "title": "Colonel George P. Ransom, taken at 85 (portrait plate in Wright, 1873)",
+      "date": "c.1846",
+      "source": "Internet Archive (Allen County Public Library copy), public_domain",
+      "note": "Mounted photographic plate published 1873; the subject died 1850.",
+      "people": [],
+      "url": "https://archive.org/details/historicalsketch00wrig_2/page/n242"
     }
   ],
-  "photo": "media/H0170/h0170-ransom-699-1.jpg"
+  "photo": "media/H0170/h0170-ransom-699-1.jpg",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1762",
+      "found": "1761",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth.date",
+      "site": "1762",
+      "found": "1761 (Wright 1873); Miner's 1845 'eighty-two' implies c.1763",
+      "assessment": "The sources disagree by a year or two. Wright, his neighbour, says 1761. Keep the site's 1762 as 'c.1761-62' unless a pension file decides it."
+    }
+  ],
+  "birth": {
+    "date": "1762",
+    "place": "Canaan, Litchfield Co., CT"
+  },
+  "death": {
+    "date": "1850",
+    "place": "his 'old red mansion house', Plymouth, Luzerne Co., PA"
+  },
+  "occupation": "Farmer, mill owner; militia colonel; Revolutionary War veteran",
+  "events": [
+    {
+      "title": "Revolutionary service in his father's company",
+      "date": "1776-1778",
+      "place": "New Jersey and Pennsylvania",
+      "description": "Orderly-sergeant in Capt. Samuel Ransom's Independent Company; 'gained some credit for his valor at Millstone, Boundbrook, Germantown and Brandywine'. [R4-S1]"
+    },
+    {
+      "title": "Captured by Indians",
+      "date": "1780-12-06",
+      "place": "Benjamin Harvey's log house, Plymouth",
+      "description": "He had put on his best regimentals to go courting at old Benjamin Harvey's. Six Indians took the elder Harvey, his son Elisha, Lois (Louisa) Harvey, Lucy Bullford and Ransom; the women were released on Shawnee Mountain. [R4-S1]"
+    },
+    {
+      "title": "Imprisoned and escaped",
+      "date": "1781-1782",
+      "place": "Prisoner's Island, St. Lawrence River",
+      "description": "Moved from Montreal to Prisoner's Island in Feb 1781; swam the St. Lawrence and, with two others, made his way through the forest to Vermont and then Connecticut. His account was taken down by Charles Miner as part of 'The Hazleton Travellers'. [R4-S1] [R4-S3]"
+    },
+    {
+      "title": "Fined one cent for defending Washington's name",
+      "date": "",
+      "place": "Luzerne County Court of Quarter Sessions, Wilkes-Barre",
+      "description": "Pleaded guilty to knocking down a young man who had abused the name of General Washington. Judge Scott left the case to his associate judges (old soldiers Hollenback and Fell), who fined Ransom one cent and made the prosecutor pay costs. [R4-S2]"
+    },
+    {
+      "title": "Built a sawmill",
+      "date": "1815",
+      "place": "Jackson Twp. (then Plymouth), Luzerne Co.",
+      "description": "Torn down in 1840 and replaced by his son Chester. [R4-S3]"
+    }
+  ],
+  "openQuestions": [
+    "Revolutionary pension file (George P. Ransom, Pennsylvania/Connecticut line) would fix the birth date and list children. It is on Fold3 (subscription)."
+  ]
 }

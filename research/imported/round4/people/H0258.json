@@ -1,0 +1,88 @@
+{
+  "id": "H0258",
+  "name": "Hannah Brewster",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "19 May 1679",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "7 Nov 1755",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage to John Muncy",
+        "date": "16 Jan 1703",
+        "place": "Brookhaven, NY",
+        "description": "John Muncy died 12 Jun 1707.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Marriage to Samuel Thompson",
+        "date": "6 Nov 1709",
+        "place": "Setauket",
+        "description": "Her first cousin ('cousin-german') per Thompson.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "burial": {
+      "place": "Setauket, NY",
+      "cemetery": "Setauket Presbyterian churchyard (SE corner)",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0469",
+      "evidence": "Thompson 1918",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "spouse",
+      "personId": "H0470",
+      "evidence": "Thompson 1918",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "H0291",
+      "evidence": "Thompson: daughter of Rev. Nathaniel Brewster; her mother a daughter of Roger Ludlow",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "bioAdditions": "B. F. Thompson's family account (S1) gives her dates (b. 19 May 1679, d. 7 Nov 1755), her first marriage to John Muncy (16 Jan 1703; he d. 12 Jun 1707) and her second to Samuel Thompson (6 Nov 1709), and says she and Samuel are buried at the south-east corner of the Setauket Presbyterian Church. She was the mother of Susannah Thompson Strong and grandmother of Selah Strong. Not John's ancestor.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Hannah Brewster's dates and marriages; burial"
+    }
+  ],
+  "researchLogEntry": "Round 4: dates, marriages and burial from Thompson vol. 3 p. 296.",
+  "researchedAt": "2026-10-08"
+}

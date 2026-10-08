@@ -1,0 +1,58 @@
+{
+  "id": "H0159",
+  "name": "Orange Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "Jun 1870",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "5 Jan 1917",
+      "place": "Larksville, Luzerne Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Plymouth, Luzerne Co. (7 Jan 1917)",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "13 Oct 1904",
+        "place": "Luzerne Co.",
+        "description": "To Gertrude L. Thomas (1882-1940), Pennsylvania County Marriages",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "9KXX-M43"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Orange's birth as June 1870 (from the 1900 census) and records his marriage to Gertrude L. Thomas in Luzerne Co. on 13 Oct 1904, with the county marriage record attached. It gives his death at Larksville on 5 Jan 1917, with burial at Plymouth two days later (S1). His mother Catherine was living with him at Larksville in 1910.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Orange Pringle (9KXX-M43), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-M43",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, marriage, death"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. Jun 1870, m. 13 Oct 1904 Gertrude L. Thomas, d. 5 Jan 1917 Larksville."
+}

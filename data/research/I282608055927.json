@@ -9,15 +9,15 @@
     "place": "Southold, Suffolk County, New York, USA"
   },
   "death": {
-    "date": "1742",
-    "place": "Long Island, NY, Southold"
+    "date": "1742-08-26",
+    "place": "Southold, Suffolk Co., NY"
   },
   "aka": [
     "Mehitable Tuthill"
   ],
   "tags": [],
   "summary": "John's 9th-great-grandmother, daughter of Southold founder William Wells.",
-  "bio": "Born 1666 to William Wells and his second wife Mary (surname unknown). The tree names her mother 'Mary Maria YOUNGS 1619–1709', a tradition rejected by Hayes (1878) and Youngs (1907). Her sons James and Joshua were full brothers, so the Wells descent survives the tree's James/Joshua confusion — the deep-dive report notes this makes William Wells the best Society of Colonial Wars route.",
+  "bio": "Born 1666 to William Wells and his second wife Mary (surname unknown). The tree names her mother 'Mary Maria YOUNGS 1619–1709', a tradition rejected by Hayes (1878) and Youngs (1907). Her sons James and Joshua were full brothers, so the Wells descent survives the tree's James/Joshua confusion — the deep-dive report notes this makes William Wells the best Society of Colonial Wars route.\n\nAkerly gives Mehitable's death as 26 Aug 1742 ([R4-S1]). The Salmon Record lists 'Jno Tuthill wife Mehetab[le]' among the 1742 deaths ([R4-S2]). Her mother was Mary, widow of William Wells, who remarried Thomas Mapes Jr. Mary's 1678 deed of gift names her daughter Mary Youngs, which explains the 'Youngs' tradition, but Mary's own maiden name is unknown ([R4-S3]).",
   "facts": [
     {
       "label": "Tree shows",
@@ -27,7 +27,10 @@
   "sources": [
     "Hayes, William Wells of Southold (1878), https://archive.org/details/williamwellsofso00byuhaye",
     "WikiTree Wells-639",
-    "Akerly (1898)"
+    "Akerly (1898)",
+    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11) (secondary) https://archive.org/details/tuthillfamilyoft00aker",
+    "[R4-S2] The Salmon Records: a private register of marriages and deaths of the residents of the town of Southold, 1696-1811 (NYG&B, 1918), full text searched (primary) https://archive.org/details/salmonrecordspri00salm",
+    "[R4-S3] J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 302-303: deed of gift 26 Dec 1678 (recorded 3 Apr 1679) by 'Mary Mapes of Southold ... the relect of William Wells of ye sd Town ... lately desceased, and now wife to Thomas Mapes Junr', who had received all Wells's lands and goods by his deed of gift, to 'my son in law John Yongs, in right of his wife and to Mary Yongs his wife my daughter' (witnesses Thomas Mapes, William Wells); also an entry (Liber page 141, 1677) of meadow had 'of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread' (primary) https://archive.org/details/southoldtownreco0000jwic"
   ],
   "mediaKnown": [
     "Tree card image 'Born in Colonial America'"
@@ -41,6 +44,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: death 26 Aug 1742 (Akerly; Salmon Record)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608055927.json."
     }
   ],
   "media": [

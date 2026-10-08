@@ -1,14 +1,46 @@
 {
   "id": "H0391",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): Named in two primary registers."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Named in two primary registers."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found as godfather (1862) and as husband of the godmother (1864) in the Munzingen registers."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0391.json."
     }
+  ],
+  "occupation": "shoemaker (Schuster), citizen of Munzingen",
+  "events": [
+    {
+      "title": "Godfather to Friedrich (Frederick) Meier",
+      "date": "1862-01-13",
+      "place": "Munzingen",
+      "description": "'Joseph Wenz, Schuster von hier' was godfather at the baptism of Maria Anna Birkenmaier's son Friedrich. [R4-S1]"
+    },
+    {
+      "title": "Wife godmother to Christina Mayer",
+      "date": "1864-05",
+      "place": "Munzingen",
+      "description": "His wife M. Anna Mayer, 'Ehefrau des Joseph Wenz, Bürger und Schuster von hier', was godmother. [R4-S2]"
+    }
+  ],
+  "bio": "Joseph Wenz, a shoemaker and citizen of Munzingen, was married to Friedrich Mayer's eldest sister Maria Anna Creszentia. He was godfather to Friedrich's first son in January 1862 ([R4-S1]), and his wife was godmother to Pauline Mayer's daughter Christina in 1864 ([R4-S2]).",
+  "sources": [
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2 (images 431–432) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+    "[R4-S2] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9 (image 471) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-471"
   ]
 }

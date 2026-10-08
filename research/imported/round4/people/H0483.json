@@ -1,0 +1,53 @@
+{
+  "id": "H0483",
+  "name": "Eliza Willett Nicoll",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1789",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "2 Apr 1865",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Daughter of Henry Nicoll and Elizabeth Woodhull, daughter of Gen. Nathaniel Woodhull (S1, S2): Bull Smith -> Richard 2d -> Sarah (m. Nathaniel Woodhull) -> Gen. Nathaniel -> Elizabeth -> Eliza, 5 generations: 4th cousin 7 times removed. After Henry Nicoll's death her mother became the third wife of Gen. John Smith, the U.S. Senator, who thus became Eliza's stepfather (S2). She married Richard Smith 5th; their son was Judge J. Lawrence Smith.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Parentage stated in Pelletreau twice and in Wikipedia's J. Lawrence Smith article."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. p. 466",
+      "url": "https://archive.org/details/recordstownsmit00pellgoog",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Eliza W. dau. of Henry Nicoll, granddaughter of Gen. Nathaniel Woodhull, b. 1789 d. 2 Apr 1865"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 491",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Gen. John Smith's third wife was the widow of Henry Nicoll, daughter of Gen. Nathaniel Woodhull, with a daughter Eliza W."
+    },
+    {
+      "ref": "S3",
+      "citation": "Wikipedia, 'J. Lawrence Smith (New York politician)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(New_York_politician)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Parents Richard Smith and Eliza Willett Nicoll; maternal great-grandfather Gen. Nathaniel Woodhull"
+    }
+  ],
+  "researchLogEntry": "Round 4: dates and Woodhull descent (4C7R); stepdaughter of Senator John Smith.",
+  "researchedAt": "2026-10-08"
+}

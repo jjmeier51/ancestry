@@ -1,0 +1,69 @@
+{
+  "id": "H0190",
+  "name": "John Lamoreux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "5 Mar 1754",
+      "place": "Monroe, Orange Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "7 Jan 1823",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "9 Jun 1779",
+        "place": "Goshen, Orange Co., NY",
+        "description": "To Jemima Stephens (1754-1826)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1790",
+        "place": "Orange Co., NY ('John Lomereaux, Junr')",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1800",
+        "place": "('John Lamoreux Junior', 1800 census)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KGC5-NN2"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives John the dates 5 Mar 1754 to 7 Jan 1823 and his marriage to Jemima Stephens at Goshen on 9 Jun 1779, as in the Davenport genealogy. It attaches the 1790 census ('John Lomereaux, Junr') and the 1800 census ('John Lamoreux Junior'), so in 1790 there were separate households of John senior and John junior (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, John Lamoreux (KGC5-NN2), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KGC5-NN2",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 5 Mar 1754-7 Jan 1823, m. 1779 Jemima Stephens, and 1790/1800 censuses as 'Junr'."
+}
