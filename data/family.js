@@ -29,6 +29,20 @@ window.FAMILY_DATA = {
   "livingBirthDates": "year",
   "_comment": "On the public site, people without a death record born within the last 105 years get their birth date reduced to the year. Full dates stay in data/tree.json and data/research/."
  },
+ "viewAs": [
+  "I282604492552",
+  "M0001",
+  "M0002",
+  "I282604492910",
+  "I282604492836"
+ ],
+ "viewAsLabels": {
+  "I282604492552": "Johnny Meier",
+  "M0001": "Tommy Meier Jr.",
+  "M0002": "Matthew Meier",
+  "I282604492910": "Sharon Meier",
+  "I282604492836": "Tommy Meier Sr."
+ },
  "places": {
   ", Norfolk, , England": {
    "lat": 52.66667,
@@ -2387,6 +2401,684 @@ window.FAMILY_DATA = {
    "lon": -77.11447,
    "label": "Northern Virginia Community College - Alexandria Campus, 5000, Dawes Avenue, John Adams, Alexandria, Fairfax County, Virginia, 22311, United States",
    "precision": "exact"
+  },
+  "'yers' (probably Hiers[-Brouage]), Saintonge, France": {
+   "lat": 48.68002,
+   "lon": 2.1642,
+   "label": "Saintonge, Les Ulis, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91940, France",
+   "precision": "approximate"
+  },
+  "1003 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1009 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1015 Bunker Hill St, Scranton": {
+   "lat": 41.40624,
+   "lon": -75.63053,
+   "label": "1015, Bunker Hill Street, Scranton, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "1015 Bunker Hill Street, Scranton Ward 10, PA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1015 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1028 Bunker Hill Street, Scranton Ward 10, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1028 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1028 Bunker Hill Street, Scranton, PA": {
+   "lat": 41.40869,
+   "lon": -75.66213,
+   "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "1028 Bunker Hill Street, Scranton, Pennsylvania, USA": {
+   "lat": 41.40616,
+   "lon": -75.63008,
+   "label": "1028, Bunker Hill Street, Scranton, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "128 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.44061,
+   "lon": -75.62603,
+   "label": "Lackawanna County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "128 Sand Street, Dunmore, Pennsylvania, USA": {
+   "lat": 41.40655,
+   "lon": -75.62817,
+   "label": "128, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "133 Sand Street, Dunmore Ward 5, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.4198,
+   "lon": -75.63241,
+   "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+   "precision": "approximate"
+  },
+  "133 Sand Street, Dunmore Ward 5, Pennsylvania, USA": {
+   "lat": 41.4198,
+   "lon": -75.63241,
+   "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+   "precision": "approximate"
+  },
+  "133 Sand Street, Dunmore, Pennsylvania, USA": {
+   "lat": 41.40653,
+   "lon": -75.62772,
+   "label": "133, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "134 Sand St, Dunmore, PA": {
+   "lat": 41.40639,
+   "lon": -75.62784,
+   "label": "134, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "134 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA": {
+   "lat": 41.40639,
+   "lon": -75.62784,
+   "label": "134, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "134 Sand Street, Dunmore, Pennsylvania, USA": {
+   "lat": 41.40639,
+   "lon": -75.62784,
+   "label": "134, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+   "precision": "exact"
+  },
+  "16 Barney St, Wilkes-Barre": {
+   "lat": 41.23847,
+   "lon": -75.90447,
+   "label": "16, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "16 Barney Street, Wilkes-Barre, Luzerne County, PA": {
+   "lat": 41.23847,
+   "lon": -75.90447,
+   "label": "16, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "19 Barney St, Wilkes-Barre": {
+   "lat": 41.23849,
+   "lon": -75.90473,
+   "label": "19, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "275 Rutter Ave., Kingston, Luzerne Co., PA": {
+   "lat": 41.26227,
+   "lon": -75.89418,
+   "label": "275, Rutter Avenue, Kingston, Luzerne County, Pennsylvania, 18704, United States",
+   "precision": "exact"
+  },
+  "298 Barney Street, Wilkes-Barre, PA": {
+   "lat": 41.23311,
+   "lon": -75.91115,
+   "label": "298, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+   "precision": "exact"
+  },
+  "337 North Bromley Ave, Scranton, Lackawanna County, PA": {
+   "lat": 41.41609,
+   "lon": -75.68017,
+   "label": "337, North Bromley Avenue, West Side, Hyde Park, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+   "precision": "exact"
+  },
+  "519 Turner St, Allentown, Lehigh Co., PA": {
+   "lat": 40.60601,
+   "lon": -75.47007,
+   "label": "519, Turner Street, Center City, Allentown, Lehigh County, Pennsylvania, 18102, United States",
+   "precision": "exact"
+  },
+  "Aiello Calabro, Cosenza": {
+   "lat": 39.11747,
+   "lon": 16.16666,
+   "label": "Aiello Calabro, Cosenza, Calabria, 87031, Italy",
+   "precision": "exact"
+  },
+  "Albion / Dunkirk, Dane Co., WI": {
+   "lat": 43.07093,
+   "lon": -89.43222,
+   "label": "Dane County, Wisconsin, United States",
+   "precision": "approximate"
+  },
+  "Alexandria, Fairfax County, Virginia, USA": {
+   "lat": 38.84087,
+   "lon": -77.11447,
+   "label": "Northern Virginia Community College - Alexandria Campus, 5000, Dawes Avenue, John Adams, Alexandria, Fairfax County, Virginia, 22311, United States",
+   "precision": "exact"
+  },
+  "Altoona, Blair Co., Pa.": {
+   "lat": 40.51936,
+   "lon": -78.39683,
+   "label": "Altoona, Blair County, Pennsylvania, 16601, United States",
+   "precision": "exact"
+  },
+  "Altoona, Blair County, Pennsylvania": {
+   "lat": 40.48707,
+   "lon": -78.36823,
+   "label": "Blair County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Arlington National Cemetery, Arlington, Va.": {
+   "lat": 38.87693,
+   "lon": -77.08931,
+   "label": "Arlington County, Virginia, United States",
+   "precision": "approximate"
+  },
+  "Avondale, Luzerne Co.": {
+   "lat": 41.22286,
+   "lon": -75.98187,
+   "label": "Avondale, Plymouth Township, Luzerne County, Pennsylvania, 18634, United States",
+   "precision": "exact"
+  },
+  "Avondale, Plymouth Twp": {
+   "lat": 41.22286,
+   "lon": -75.98187,
+   "label": "Avondale, Plymouth Township, Luzerne County, Pennsylvania, 18634, United States",
+   "precision": "exact"
+  },
+  "Avondale, Plymouth Twp, Pa.": {
+   "lat": 41.22286,
+   "lon": -75.98187,
+   "label": "Avondale, Plymouth Township, Luzerne County, Pennsylvania, 18634, United States",
+   "precision": "exact"
+  },
+  "Beach Grove Cemetery (per FamilySearch tree), Beach Haven, Luzerne Co., PA": {
+   "lat": 41.06842,
+   "lon": -76.17577,
+   "label": "Beach Haven, Salem Township, Luzerne County, Pennsylvania, 18601, United States",
+   "precision": "approximate"
+  },
+  "Beaver Dam, Dodge Co., Wisconsin": {
+   "lat": 43.45777,
+   "lon": -88.83733,
+   "label": "Beaver Dam, Dodge County, Wisconsin, 53916, United States",
+   "precision": "exact"
+  },
+  "Beaver Dam, Wisconsin": {
+   "lat": 43.45777,
+   "lon": -88.83733,
+   "label": "Beaver Dam, Dodge County, Wisconsin, 53916, United States",
+   "precision": "exact"
+  },
+  "Bedminster, Bucks Co., PA (FamilySearch, 4 Apr 1760)": {
+   "lat": 40.34517,
+   "lon": -75.12639,
+   "label": "Bucks County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Berkeley, Calif.": {
+   "lat": 37.87084,
+   "lon": -122.27286,
+   "label": "Berkeley, Alameda County, California, United States",
+   "precision": "exact"
+  },
+  "Berschweiler (Lauterecken Lutheran parish)": {
+   "lat": 49.57828,
+   "lon": 7.29242,
+   "label": "Berschweiler bei Baumholder, Baumholder, Landkreis Birkenfeld, Rhineland-Palatinate, 55777, Germany",
+   "precision": "exact"
+  },
+  "Bidlack's Creek, Jackson Twp., Luzerne Co.": {
+   "lat": 41.28001,
+   "lon": -75.9829,
+   "label": "Jackson Township, Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Bisaccia, Italy": {
+   "lat": 41.01212,
+   "lon": 15.37475,
+   "label": "Bisaccia, Avellino, Campania, Italy",
+   "precision": "exact"
+  },
+  "Bristol Township, Bucks County, Pennsylvania, USA": {
+   "lat": 40.34517,
+   "lon": -75.12639,
+   "label": "Bucks County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Brookhaven": {
+   "lat": 31.57907,
+   "lon": -90.44071,
+   "label": "Brookhaven, Lincoln County, Mississippi, United States",
+   "precision": "exact"
+  },
+  "Bucks Co., PA (per WikiTree/Find a Grave)": {
+   "lat": 40.34517,
+   "lon": -75.12639,
+   "label": "Bucks County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "California (California Death Index)": {
+   "lat": 36.70146,
+   "lon": -118.756,
+   "label": "California, United States",
+   "precision": "exact"
+  },
+  "Calvary Cemetery (committal), Altoona, Blair County, Pennsylvania": {
+   "lat": 40.49251,
+   "lon": -78.39159,
+   "label": "Calvary Cemetery, Logan Township, Blair County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Canaan, Litchfield Co., CT": {
+   "lat": 41.7587,
+   "lon": -73.25978,
+   "label": "Litchfield County, Northwest Hills Planning Region, Connecticut, United States",
+   "precision": "approximate"
+  },
+  "Cedar Crest Cemetery, Trucksville": {
+   "lat": 41.30152,
+   "lon": -75.93043,
+   "label": "Cedar Crest Cemetery, Trucksville, Kingston Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Clermont, Florida": {
+   "lat": 28.55519,
+   "lon": -81.76695,
+   "label": "Clermont, Lake County, Florida, 32711, United States",
+   "precision": "exact"
+  },
+  "Coaldale, Schuylkill Co., PA": {
+   "lat": 40.82496,
+   "lon": -75.90852,
+   "label": "Coaldale, Schuylkill County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Coaldale, Schuylkill County, Pennsylvania": {
+   "lat": 40.69366,
+   "lon": -76.2278,
+   "label": "Schuylkill County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Columbia Co., PA": {
+   "lat": 41.03892,
+   "lon": -76.41918,
+   "label": "Columbia County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Columbus, N.M., to El Paso": {
+   "lat": 36.73089,
+   "lon": -107.9605,
+   "label": "El Paso Natural Gas Co, Bloomfield, San Juan County, New Mexico, United States",
+   "precision": "approximate"
+  },
+  "Conflenti": {
+   "lat": 39.04321,
+   "lon": 16.28936,
+   "label": "Conflenti, Catanzaro, Calabria, 88040, Italy",
+   "precision": "exact"
+  },
+  "Cornwall, Orange Co. (FamilySearch)": {
+   "lat": 41.43444,
+   "lon": -74.03583,
+   "label": "Town of Cornwall, Orange County, New York, United States",
+   "precision": "exact"
+  },
+  "Cornwall, Orange Co., NY": {
+   "lat": 41.43444,
+   "lon": -74.03583,
+   "label": "Town of Cornwall, Orange County, New York, United States",
+   "precision": "exact"
+  },
+  "Dallas Twp, Luzerne Co., PA (p.305)": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Dallas, Luzerne Co., Pa. (Fern Knoll)": {
+   "lat": 41.33617,
+   "lon": -75.96326,
+   "label": "Dallas, Luzerne County, Pennsylvania, 18612, United States",
+   "precision": "exact"
+  },
+  "Danville, Montour Co., PA": {
+   "lat": 40.96648,
+   "lon": -76.61315,
+   "label": "Danville, Montour County, Pennsylvania, 17821, United States",
+   "precision": "exact"
+  },
+  "Dickson City, Lackawanna County, Pennsylvania": {
+   "lat": 41.47147,
+   "lon": -75.60769,
+   "label": "Dickson City, Lackawanna County, Pennsylvania, 18519, United States",
+   "precision": "exact"
+  },
+  "District of Columbia": {
+   "lat": 4.81356,
+   "lon": -75.6912,
+   "label": "District, Carrera 8, Sector Plaza de Bolivar, Sector Galeria Central, Centro, Perimetro Urbano Pereira, Pereira, Risaralda, RAP Eje Cafetero, 660002, Colombia",
+   "precision": "exact"
+  },
+  "Dodge Co., WI": {
+   "lat": 43.41361,
+   "lon": -88.71778,
+   "label": "Dodge County, Wisconsin, United States",
+   "precision": "exact"
+  },
+  "Dunellen, Middlesex Co., NJ": {
+   "lat": 40.42797,
+   "lon": -74.39631,
+   "label": "Middlesex County, New Jersey, United States",
+   "precision": "approximate"
+  },
+  "Dunmore": {
+   "lat": 41.4198,
+   "lon": -75.63241,
+   "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+   "precision": "exact"
+  },
+  "Dutch Lutheran Cemetery (Find a Grave 78699319, per WikiTree), Ginger Hill, Washington Co., PA": {
+   "lat": 40.19479,
+   "lon": -79.99811,
+   "label": "Ginger Hill, Fallowfield Township, Washington County, Pennsylvania, 15366, United States",
+   "precision": "approximate"
+  },
+  "East Hampton, NY": {
+   "lat": 40.96339,
+   "lon": -72.18476,
+   "label": "Town of East Hampton, Suffolk County, New York, United States",
+   "precision": "exact"
+  },
+  "Easton": {
+   "lat": 40.69161,
+   "lon": -75.20999,
+   "label": "Easton, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Easton area": {
+   "lat": 8.48765,
+   "lon": -13.21901,
+   "label": "Easton Street, Moe Wharf, Mount Aureol, Bambara Town Community, Western Area Urban, Western Area, Sierra Leone",
+   "precision": "exact"
+  },
+  "Easton, Northampton County, Pennsylvania": {
+   "lat": 40.69161,
+   "lon": -75.20999,
+   "label": "Easton, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Easton, PA": {
+   "lat": 40.69161,
+   "lon": -75.20999,
+   "label": "Easton, Northampton County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "El Paso, Texas": {
+   "lat": 31.7601,
+   "lon": -106.48705,
+   "label": "El Paso, El Paso County, Texas, United States",
+   "precision": "exact"
+  },
+  "Elizabethtown, NJ": {
+   "lat": 40.64602,
+   "lon": -74.20028,
+   "label": "Elizabethtown Gas, Liberty Square, Elizabeth, Union County, New Jersey, United States",
+   "precision": "exact"
+  },
+  "England?": {
+   "lat": 52.53102,
+   "lon": -1.26491,
+   "label": "England, United Kingdom",
+   "precision": "exact"
+  },
+  "Erie, Erie County, Pennsylvania": {
+   "lat": 42.1823,
+   "lon": -80.14108,
+   "label": "Erie County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Erie, PA": {
+   "lat": 42.12947,
+   "lon": -80.08527,
+   "label": "Erie, Erie County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Essen, Germany": {
+   "lat": 51.45822,
+   "lon": 7.01582,
+   "label": "Essen, North Rhine-Westphalia, Germany",
+   "precision": "exact"
+  },
+  "Fairview Cemetery, Danville, Montour Co., Pa.": {
+   "lat": 40.96648,
+   "lon": -76.61315,
+   "label": "Danville, Montour County, Pennsylvania, 17821, United States",
+   "precision": "approximate"
+  },
+  "Falls Twp., Wyoming Co., PA": {
+   "lat": 41.47122,
+   "lon": -75.85003,
+   "label": "Falls Township, Wyoming County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Fassett Cemetery, Edgerton, Rock Co., WI": {
+   "lat": 42.82522,
+   "lon": -89.08083,
+   "label": "Fassett Cemetery, Edgerton, Rock County, Wisconsin, United States",
+   "precision": "exact"
+  },
+  "Fern Knoll Burial Park, Dallas, Pa.": {
+   "lat": 41.33617,
+   "lon": -75.96326,
+   "label": "Dallas, Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Fire Place, Brookhaven, NY": {
+   "lat": 40.95055,
+   "lon": -72.99206,
+   "label": "Miller Place Fire Department, 12, Miller Place Road, Sound Beach, Miller Place, Suffolk County, New York, 11764, United States",
+   "precision": "exact"
+  },
+  "Florida, USA (residence Clermont, Lake County)": {
+   "lat": 27.75677,
+   "lon": -81.46398,
+   "label": "Florida, United States",
+   "precision": "exact"
+  },
+  "Flushing, Long Island": {
+   "lat": 40.76379,
+   "lon": -73.80824,
+   "label": "Koreatown, Flushing, Queens, Queens County, New York, 11358, United States",
+   "precision": "exact"
+  },
+  "Fockenberg-Limbach": {
+   "lat": 49.49492,
+   "lon": 7.49698,
+   "label": "Fockenberg-Limbach, Reichenbach-Steegen, Weilerbach, Landkreis Kaiserslautern, Rhineland-Palatinate, Germany",
+   "precision": "exact"
+  },
+  "Forks Twp., Northampton Co., PA": {
+   "lat": 40.74514,
+   "lon": -75.32893,
+   "label": "Northampton County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Fort Myer, Va. (2nd Lt., 5th Cavalry)": {
+   "lat": 38.89866,
+   "lon": -77.07237,
+   "label": "North Fort Myer Drive, Rosslyn, Arlington, Arlington County, Virginia, 22209, United States",
+   "precision": "exact"
+  },
+  "Forty Fort Cemetery (per Find a Grave index on FS), Forty Fort, Luzerne Co., PA": {
+   "lat": 41.28576,
+   "lon": -75.87133,
+   "label": "Forty Fort Cemetery, Forty Fort, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Forty Fort Cemetery, Forty Fort, Luzerne Co., PA": {
+   "lat": 41.28576,
+   "lon": -75.87133,
+   "label": "Forty Fort Cemetery, Forty Fort, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Forty Fort, Luzerne Co.": {
+   "lat": 41.27897,
+   "lon": -75.87825,
+   "label": "Forty Fort, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Freiburg im Breisgau": {
+   "lat": 47.99609,
+   "lon": 7.8494,
+   "label": "Freiburg im Breisgau, Baden-Württemberg, Germany",
+   "precision": "exact"
+  },
+  "French Church, New York": {
+   "lat": 40.73911,
+   "lon": -73.99718,
+   "label": "French Evangelical Church of New York, 126-128, West 16th Street, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+   "precision": "exact"
+  },
+  "Frostburg, Maryland": {
+   "lat": 39.65833,
+   "lon": -78.92842,
+   "label": "Frostburg, Allegany County, Maryland, 21532, United States",
+   "precision": "exact"
+  },
+  "Glan-Münchweiler": {
+   "lat": 49.47254,
+   "lon": 7.44042,
+   "label": "Glan-Münchweiler, Oberes Glantal, Landkreis Kusel, Rhineland-Palatinate, 66907, Germany",
+   "precision": "exact"
+  },
+  "Goshen precinct, Orange Co., NY": {
+   "lat": 41.38733,
+   "lon": -74.25073,
+   "label": "Orange County, New York, United States",
+   "precision": "approximate"
+  },
+  "Goshen, NY": {
+   "lat": 41.40215,
+   "lon": -74.32421,
+   "label": "Village of Goshen, Town of Goshen, Orange County, New York, 10924, United States",
+   "precision": "exact"
+  },
+  "Goshen, Orange Co., NY": {
+   "lat": 41.40215,
+   "lon": -74.32421,
+   "label": "Village of Goshen, Town of Goshen, Orange County, New York, 10924, United States",
+   "precision": "exact"
+  },
+  "Great St Albans, Hertfordshire, England": {
+   "lat": 51.84005,
+   "lon": -0.09786,
+   "label": "Hertfordshire, England, United Kingdom",
+   "precision": "approximate"
+  },
+  "Green Tree, Allegheny County, Pennsylvania": {
+   "lat": 40.41625,
+   "lon": -80.05419,
+   "label": "Green Tree, Allegheny County, Pennsylvania, 15220, United States",
+   "precision": "exact"
+  },
+  "Greenwich Twp., Gloucester Co., NJ (per FamilySearch tree)": {
+   "lat": 39.82239,
+   "lon": -75.28109,
+   "label": "Greenwich Township, Gloucester County, New Jersey, 08027, United States",
+   "precision": "exact"
+  },
+  "Hanover Cemetery (per Find a Grave index on FS), Hanover Twp., Luzerne Co., PA": {
+   "lat": 41.21661,
+   "lon": -75.95507,
+   "label": "Hanover Cemetery, Hanover Green, Hanover Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Hanover Twp, Luzerne Co., PA": {
+   "lat": 41.20333,
+   "lon": -75.9233,
+   "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Hanover Twp, Luzerne Co., Pa.": {
+   "lat": 41.20333,
+   "lon": -75.9233,
+   "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Hanover Twp, Luzerne Co., Pa. (FS)": {
+   "lat": 41.20333,
+   "lon": -75.9233,
+   "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Hanover Twp., Luzerne Co., PA": {
+   "lat": 41.20333,
+   "lon": -75.9233,
+   "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Hanover Twp., Luzerne Co., PA (per FamilySearch tree / Find a Grave index)": {
+   "lat": 41.20333,
+   "lon": -75.9233,
+   "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Harrison family tomb (William Henry Harrison Tomb State Memorial), North Bend, Ohio": {
+   "lat": 39.15256,
+   "lon": -84.748,
+   "label": "North Bend, Miami Township, Hamilton County, Ohio, 45052, United States",
+   "precision": "approximate"
+  },
+  "Harvey's Creek, Jackson Twp., Luzerne Co., PA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "Hazle Township, Luzerne Co., PA": {
+   "lat": 40.95719,
+   "lon": -76.06007,
+   "label": "Hazle Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Hazleton": {
+   "lat": 40.9549,
+   "lon": -75.97696,
+   "label": "Hazleton, Luzerne County, Pennsylvania, 18201, United States",
+   "precision": "exact"
+  },
+  "Hazleton, Luzerne Co., PA": {
+   "lat": 40.9549,
+   "lon": -75.97696,
+   "label": "Hazleton, Luzerne County, Pennsylvania, 18201, United States",
+   "precision": "exact"
+  },
+  "Hunlock Twp., Luzerne Co., PA": {
+   "lat": 41.23888,
+   "lon": -76.10624,
+   "label": "Hunlock Township, Luzerne County, Pennsylvania, 18621, United States",
+   "precision": "exact"
+  },
+  "Hunlock's Creek, Union (now Hunlock) Twp., Luzerne Co., PA": {
+   "lat": 41.17496,
+   "lon": -75.96952,
+   "label": "Luzerne County, Pennsylvania, United States",
+   "precision": "approximate"
   }
  },
  "sample": false,
@@ -63539,13 +64231,21 @@ window.FAMILY_DATA = {
     "Tommy Meier",
     "Tommy Meier Jr."
    ],
-   "tags": [],
-   "summary": "John's older brother Tommy: Broad Run and UVa-Wise ballplayer, teacher, and Broad Run's head baseball coach, who led the Spartans to the 2021 Virginia Class 4 state title.",
+   "tags": [
+    "athlete",
+    "coach"
+   ],
+   "summary": "John's older brother Tommy: All-District catcher at Broad Run, record-setting catcher at UVA Wise, teacher, and Broad Run's head baseball coach, who led the Spartans to the 2021 Virginia Class 4 state title.",
    "residences": [
     {
      "date": "",
      "place": "Ashburn, Virginia, USA",
      "note": "Current home"
+    },
+    {
+     "date": "2009–2013",
+     "place": "Wise, Wise County, Virginia, USA",
+     "note": "University of Virginia's College at Wise"
     }
    ],
    "sources": [
@@ -63557,7 +64257,17 @@ window.FAMILY_DATA = {
     "[R4-S4] Loudoun Times-Mirror, 'Broad Run claims Class 4 baseball title in thrilling fashion', Alex Cirino, 28 Jun 2021 (body text decoded from the page's obfuscated paywall text) (secondary) https://www.loudountimes.com/sports/broad-run-claims-class-4-baseball-title-in-thrilling-fashion/article_17ee7376-d809-11eb-8090-17294d1fbf9f.html",
     "[R4-S5] MaxPreps, Broad Run Spartans Baseball team history (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/baseball/history/",
     "[R4-S6] Washington Post, 'Forty days of dedication give Broad Run baseball its first state title in 30 years', Jacob Richman, 26 Jun 2021 (lede only; paywalled) (secondary) https://www.washingtonpost.com/sports/2021/06/26/forty-days-dedication-give-broad-run-baseball-its-first-state-title-30-years/",
-    "[R4-S7] The Knot registry page 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021 (read via text proxy; direct 403) (secondary) https://registry.theknot.com/laura-de-santis-tommy-meier-may-2021-va/43447109"
+    "[R4-S7] The Knot registry page 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021 (read via text proxy; direct 403) (secondary) https://registry.theknot.com/laura-de-santis-tommy-meier-may-2021-va/43447109",
+    "MaxPreps, Tommy Meier, Broad Run football stats (coach-entered): https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/tommy-meier/football/stats/?careerid=rm3culsiboa22",
+    "Broad Run High School athletics, baseball coaching staff page (Tommy Meier, BRHS 2008: catcher, first-team All-Dulles District, played at UVA-Wise): https://va01000195.schoolwires.net/Page/6520",
+    "UVA Wise Athletics, 2009-10 baseball roster, Tommy Meier, No. 5, C, freshman, Ashburn: https://uvawisecavs.com/sports/baseball/roster/tommy-meier/451",
+    "UVA Wise Athletics, 2011-12 baseball roster, Tommy Meier, No. 5, 6-2, 205, junior, Ashburn: https://uvawisecavs.com/sports/baseball/roster/tommy-meier/264",
+    "UVA Wise Baseball Records, individual season records (2022 PDF): 50 games started 2012 (tied for most), 185 at-bats, 69 hits, 238 putouts, 266 total chances, .992 fielding (238-26-2), 14 stolen-base attempts (11-14) in 2012; 8 sacrifice hits 2011: https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/uvawise.sidearmsports.com/documents/2022/4/25/baseballseason.pdf",
+    "Bristol Herald Courier, \"Jake Huff a pleasant surprise for UVa-Wise\" (2013; senior catcher Tommy Meier): https://heraldcourier.com/sports/jake-huff-a-pleasant-surprise-for-uva-wise/article_fc076426-9a6b-11e2-9e5c-0019bb30f31a.html",
+    "Loudoun Times-Mirror, 28 Jun 2021, \"Broad Run claims Class 4 baseball title in thrilling fashion\": https://www.loudountimes.com/sports/broad-run-claims-class-4-baseball-title-in-thrilling-fashion/article_17ee7376-d809-11eb-8090-17294d1fbf9f.html",
+    "Washington Post, 26 Jun 2021, \"Forty days of dedication give Broad Run baseball its first state title in 30 years\": https://www.washingtonpost.com/sports/2021/06/26/forty-days-dedication-give-broad-run-baseball-its-first-state-title-30-years/",
+    "Loudoun Times-Mirror, Jun 2021, \"Broad Run lights up scoreboard to claim regional baseball title\": https://www.loudountimes.com/sports/broad-run-lights-up-scoreboard-to-claim-regional-baseball-title/article_a7450062-cf67-11eb-b43e-17bae9e45307.html",
+    "Tommy Meier's public professional profile (self-reported): first-team All-Mid-South Conference 2012 and 2013 (2013 unanimous), 2012 Gold Glove (catcher); Langley HS Rookie of the Year 2015"
    ],
    "researchLog": [
     {
@@ -63591,6 +64301,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John asked for his playing accolades. Found: MaxPreps football stats 2006-07; Broad Run coaching page (first-team All-Dulles District catcher, UVA-Wise); UVA Wise rosters 2009-10 and 2011-12; UVA Wise record book (2012: 50 GS tied record, .992 fielding, 238 PO, 266 TC, 185 AB, 69 H, 11-14 SB; 2011: 8 SH); Herald Courier 2013 (senior catcher); 2021 title coverage. All-MSC first team 2012/2013 and 2012 Gold Glove only from his own public profile (conference releases for 2012-13 not online)."
     }
    ],
    "facts": [
@@ -63601,6 +64315,14 @@ window.FAMILY_DATA = {
     {
      "label": "Children",
      "value": "Luca."
+    },
+    {
+     "label": "Playing honours",
+     "value": "First-team All-Dulles District catcher (Broad Run, 2008); first-team All-Mid-South Conference 2012 and 2013 and 2012 Gold Glove catcher at UVA Wise (reported); UVA Wise single-season records for games started (50, tied) and fielding"
+    },
+    {
+     "label": "Coaching",
+     "value": "Head baseball coach, Broad Run High School 2016–2024; 2021 Virginia Class 4 state champions (16-1)"
     }
    ],
    "occupation": "Teacher and high-school baseball coach (head coach, Broad Run High School, Ashburn, Virginia, 2016-2024 per MaxPreps)",
@@ -63640,6 +64362,42 @@ window.FAMILY_DATA = {
      "date": "2021-06-26",
      "place": "",
      "description": "Broad Run beat Hanover 3-2 at home in Ashburn, the school's first baseball state title since 1991; the team went 16-1 and also won the Dulles District and Region 4C titles. [R4-S4] [R4-S6]"
+    },
+    {
+     "title": "Varsity football, Broad Run High School",
+     "date": "2006–2007",
+     "place": "Ashburn, Loudoun County, Virginia, USA",
+     "description": "Wide receiver and defensive back, No. 5: 33 catches for 468 yards over the 2006 (5-5) and 2007 (10-1) seasons; the 2007 team went unbeaten in the regular season with his brother Johnny a sophomore."
+    },
+    {
+     "title": "First-team All-Dulles District catcher",
+     "date": "2008",
+     "place": "Ashburn, Loudoun County, Virginia, USA",
+     "description": "Broad Run baseball; the school's coaching-staff page records the honour."
+    },
+    {
+     "title": "Catcher, University of Virginia's College at Wise",
+     "date": "2010–2013",
+     "place": "Wise, Wise County, Virginia, USA",
+     "description": "No. 5, 6-2, 205 lb. Freshman on the 2009-10 roster, junior in 2011-12, senior catcher in 2013; the Cavaliers played in the NAIA Mid-South Conference."
+    },
+    {
+     "title": "UVA Wise record book, 2012 season",
+     "date": "2012",
+     "place": "Wise, Wise County, Virginia, USA",
+     "description": "Started all 50 games (tied for the most in a season in school history); 185 at-bats, 69 hits, 238 putouts and 266 total chances with a .992 fielding percentage; 11 stolen bases in 14 attempts. Also 8 sacrifice hits in 2011."
+    },
+    {
+     "title": "All-Mid-South Conference first team (reported)",
+     "date": "2012–2013",
+     "place": "Wise, Wise County, Virginia, USA",
+     "description": "First-team all-conference catcher in 2012 and 2013 (unanimous in 2013) and the 2012 conference Gold Glove at catcher, per his public professional profile; not yet confirmed from a conference release."
+    },
+    {
+     "title": "Virginia Class 4 state baseball champions, head coach",
+     "date": "2021-06-26",
+     "place": "Ashburn, Loudoun County, Virginia, USA",
+     "description": "Broad Run beat Hanover 3-2 at home for its first state title in 30 years, finishing 16-1 after Dulles District and Region 4C titles. Forty days earlier he had told the team, \"Give me 40 days to make memories for the next 40 years.\""
     }
    ],
    "researchNotes": "round5: Tommy Meier Jr. graduated from Broad Run High School in Ashburn in 2008. He played varsity football there as a receiver and defensive back in 2006 and 2007, alongside his younger brother Johnny on the 10-1 team of 2007 ([R4-S1]). He went on to catch for the baseball team at the University of Virginia's College at Wise, where he wore No. 5 from about 2009 to 2013 ([R4-S2], [R4-S3]).\n\nHe returned to Broad Run to teach and coach, and MaxPreps lists him as the Spartans' head baseball coach from the 2016 season through 2024 ([R4-S5]). His best-known season was 2021, coming after the pandemic. On May 17 he asked his players to 'give me 40 days to make memories for the next 40 years', and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field to win the Virginia Class 4 state championship. It was the program's first title since 1991, the year after Tommy was born. The Loudoun Times-Mirror noted that the thirty-year gap matched the age of 'head coach and former player Tommy Meier', and he called the title 'a dream come true' ([R4-S4], [R4-S6]). A month earlier, on 29 May 2021, he had married Laura De Santis; their public wedding-registry page gives Leesburg, Virginia ([R4-S7]).",
@@ -63691,9 +64449,27 @@ window.FAMILY_DATA = {
      "source": "",
      "note": "",
      "people": []
+    },
+    {
+     "url": "https://uvawisecavs.com/sports/baseball/roster/tommy-meier/451",
+     "type": "link",
+     "title": "UVA Wise baseball roster 2009-10: Tommy Meier, freshman catcher",
+     "date": "2010",
+     "source": "UVA Wise Athletics",
+     "note": "",
+     "people": []
+    },
+    {
+     "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/uvawise.sidearmsports.com/documents/2022/4/25/baseballseason.pdf",
+     "type": "link",
+     "title": "UVA Wise baseball individual season records (Tommy Meier, 2011–2012 entries)",
+     "date": "2022",
+     "source": "UVA Wise Athletics",
+     "note": "",
+     "people": []
     }
    ],
-   "bio": "Thomas Francis \"Tommy\" Meier Jr. was born in 1990 at Alexandria City Hospital in Alexandria, Virginia, the eldest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's older brother. He grew up in Ashburn and graduated from Broad Run High School in 2008. There he played varsity football as a receiver and defensive back in 2006 and 2007, wearing No. 5 and catching 33 passes for 468 yards over the two seasons, and lined up alongside his younger brother Johnny on the 10-1 team of 2007; he also played for the Spartans' baseball programme. He went on to catch for the baseball team at the University of Virginia's College at Wise, again wearing No. 5, from about 2009 to 2013, when the school played in the NAIA Mid-South Conference.\n\nHe returned to Broad Run to teach and coach, and was the Spartans' head baseball coach from the 2016 season through 2024. His best-known season came in 2021, after the pandemic had cut the 2020 season short at three games. On 17 May he asked his players to \"give me 40 days to make memories for the next 40 years\", and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field, the game ending on a pick-off at first base, to win the Virginia Class 4 state championship. The team finished 16-1 and also won the Dulles District and Region 4C titles. It was the programme's first state title since 1991, the year after Tommy was born; the Loudoun Times-Mirror noted that the thirty-year gap matched the age of the head coach and former player, and he called the title \"a dream come true\" after a hard pandemic school year.\n\nA month earlier, on 29 May 2021, he had married Laura De Santis in Leesburg, Virginia; she kept her surname. They have a son, Luca.",
+   "bio": "Thomas Francis \"Tommy\" Meier Jr. was born in 1990 at Alexandria City Hospital in Alexandria, Virginia, the eldest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's older brother. He grew up in Ashburn and graduated from Broad Run High School in 2008. There he played varsity football as a receiver and defensive back in 2006 and 2007, wearing No. 5 and catching 33 passes for 468 yards over the two seasons, and lined up alongside his younger brother Johnny on the 10-1 team of 2007; he also played for the Spartans' baseball programme. He went on to catch for the baseball team at the University of Virginia's College at Wise, again wearing No. 5, from about 2009 to 2013, when the school played in the NAIA Mid-South Conference.\n\nHe returned to Broad Run to teach and coach, and was the Spartans' head baseball coach from the 2016 season through 2024. His best-known season came in 2021, after the pandemic had cut the 2020 season short at three games. On 17 May he asked his players to \"give me 40 days to make memories for the next 40 years\", and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field, the game ending on a pick-off at first base, to win the Virginia Class 4 state championship. The team finished 16-1 and also won the Dulles District and Region 4C titles. It was the programme's first state title since 1991, the year after Tommy was born; the Loudoun Times-Mirror noted that the thirty-year gap matched the age of the head coach and former player, and he called the title \"a dream come true\" after a hard pandemic school year.\n\nAs a player he caught for Broad Run and was a first-team All-Dulles District catcher in 2008, having also played two seasons of varsity football as a receiver and defensive back, with 33 catches for 468 yards. At the University of Virginia's College at Wise he wore No. 5 behind the plate from 2010 to 2013. His 2012 season is still in the school's record book: he started all 50 games, tying the most in a season, and his 238 putouts, 266 total chances and .992 fielding percentage rank among the best by a Cavalier catcher; he also went 11 for 14 stealing bases. By his own account he was a first-team All-Mid-South Conference catcher in 2012 and 2013, unanimously in 2013, and won the conference Gold Glove in 2012.\n\nA month earlier, on 29 May 2021, he had married Laura De Santis in Leesburg, Virginia; she kept her surname. They have a son, Luca.",
    "birthDateReduced": true
   },
   {
@@ -63714,13 +64490,20 @@ window.FAMILY_DATA = {
    "aka": [
     "Matt Meier"
    ],
-   "tags": [],
-   "summary": "John's younger brother Matt: two-time captain and All-State linebacker at Broad Run High School, then a four-year linebacker at Frostburg State University.",
+   "tags": [
+    "athlete"
+   ],
+   "summary": "John's younger brother Matt: all-state linebacker at Broad Run (2015) who played four seasons at Frostburg State University.",
    "residences": [
     {
      "date": "",
      "place": "Ashburn, Virginia, USA",
      "note": "Current home"
+    },
+    {
+     "date": "2016–2019",
+     "place": "Frostburg, Allegany County, Maryland, USA",
+     "note": "Frostburg State University"
     }
    ],
    "sources": [
@@ -63729,7 +64512,10 @@ window.FAMILY_DATA = {
     "[R4-S1] Frostburg State University Athletics, 2019 Football Roster, 'Matt Meier' bio (secondary) https://frostburgsports.com/sports/football/roster/matt-meier/8984",
     "[R4-S2] MaxPreps, Matt Meier's Broad Run High School career home (class of 2016) (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/matt-meier/?careerid=esa86uo274uqa",
     "[R4-S3] WRIC, 'VHSL Announces 2015 Group 5A All-State Football Teams', 11 Jan 2016 (read via text proxy; direct load 403) (secondary) https://www.wric.com/news/vhsl-announces-2015-group-5a-all-state-football-teams/",
-    "[R4-S4] Washington Post, 'Camp Countdown: Broad Run works to return to elite status despite tough road ahead', Aug 2015 (secondary) https://www.washingtonpost.com/news/recruiting-insider/wp/2015/08/11/camp-countdown-broad-run-football-works-to-return-to-elite-status/"
+    "[R4-S4] Washington Post, 'Camp Countdown: Broad Run works to return to elite status despite tough road ahead', Aug 2015 (secondary) https://www.washingtonpost.com/news/recruiting-insider/wp/2015/08/11/camp-countdown-broad-run-football-works-to-return-to-elite-status/",
+    "Frostburg State University Athletics, football roster bio, Matt Meier No. 51, LB, 6-0, 220, Ashburn/Broad Run; son of Thomas and Sharon Meier; health and physical education major: https://frostburgsports.com/sports/football/roster/matt-meier/8984",
+    "WRIC (VHSL release), \"VHSL Announces 2015 Group 5A All-State Football Teams\": Linebacker, Matt Meier, Broad Run, Sr., defensive second team: https://www.wric.com/news/vhsl-announces-2015-group-5a-all-state-football-teams/",
+    "WUSA9, 2015, \"Broad Run: The ultimate road warriors\" (senior linebacker Matt Meier quoted): https://www.wusa9.com/article/sports/high-school/broad-run-the-ultimate-road-warriors/65-202640957"
    ],
    "researchLog": [
     {
@@ -63759,6 +64545,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John asked for his playing accolades. Frostburg State roster bio (full season-by-season line, high-school honours, parents Thomas and Sharon, HPE major); VHSL 2015 5A all-state release via WRIC (defensive second team); WUSA9 2015 feature. Loudoun Times 2015 all-conference list not found online."
     }
    ],
    "events": [
@@ -63797,6 +64587,24 @@ window.FAMILY_DATA = {
      "date": "2014-2015",
      "place": "",
      "description": "As listed in his Frostburg State bio. [R4-S1]"
+    },
+    {
+     "title": "Linebacker, Broad Run High School",
+     "date": "2013–2015",
+     "place": "Ashburn, Loudoun County, Virginia, USA",
+     "description": "Three varsity letters; two-time team captain; 330 career tackles; Ron E. Pyles Leadership Award. In 2015 the Spartans played their whole schedule on the road because their field was unfit."
+    },
+    {
+     "title": "VHSL Group 5A All-State, defensive second team",
+     "date": "2015",
+     "place": "Ashburn, Loudoun County, Virginia, USA",
+     "description": "Linebacker; also first-team All-Region, first-team All-Conference and All-Loudoun as a senior."
+    },
+    {
+     "title": "Linebacker, Frostburg State University",
+     "date": "2016–2019",
+     "place": "Frostburg, Allegany County, Maryland, USA",
+     "description": "No. 51, 6-0, 220. Freshman 2016: 8 games, 13 tackles, 1.5 TFL, 0.5 sack. Sophomore 2017: all 13 games, 11 starts, 35 tackles, 2 TFL, a pass breakup and a forced fumble. Junior 2018: 9 games, 17 tackles, 3 TFL, 1 sack, plus 7 tackles with 2 TFL and a sack in two NCAA playoff games. Senior 2019: 7 tackles with a TFL against Kentucky Wesleyan."
     }
    ],
    "researchNotes": "round5: Matt Meier followed his brothers onto the Broad Run High School football team in Ashburn, where he played varsity for three seasons (2013-2015) as a linebacker and long snapper ([R4-S2]). He was a two-time captain and made 330 career tackles. As a senior in 2015 the Washington Post named him one of the Spartans' key returning players and quoted him on the team's state-title hopes ([R4-S4]). That season he was chosen Second-Team All-State in Virginia's Group 5A as a linebacker, as well as All-Region, All-Conference and All-Loudoun ([R4-S1], [R4-S3]).\n\nHe then played four seasons (2016-2019) as a linebacker, No. 51, for Frostburg State University in Maryland. He started 11 games as a sophomore and played in two NCAA Division II playoff games in 2018. His college roster bio names him as the 'son of Thomas and Sharon Meier' and says he was majoring in health and physical education ([R4-S1]).",
@@ -63839,9 +64647,28 @@ window.FAMILY_DATA = {
      "source": "WRIC (Richmond), 2016-01-11",
      "note": "Second-team defense: Linebacker, Matt Meier, Broad Run, Sr.",
      "people": []
+    },
+    {
+     "url": "https://www.wusa9.com/article/sports/high-school/broad-run-the-ultimate-road-warriors/65-202640957",
+     "type": "link",
+     "title": "WUSA9: Broad Run, the ultimate road warriors (2015)",
+     "date": "2015",
+     "source": "WUSA9",
+     "note": "",
+     "people": []
     }
    ],
    "bio": "Matthew \"Matt\" Meier was born in 1998 at Inova Loudoun Hospital in Ashburn, Virginia, the youngest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's younger brother. He followed his brothers onto the Broad Run High School football team in Ashburn, where he played varsity for three seasons, from 2013 to 2015, as a linebacker and long snapper, wearing No. 19 and then No. 51. He was a two-time team captain, made 330 career tackles and received the school's Ron E. Pyles Leadership Award. As a junior he was second-team All-Region, first-team All-Conference and the team's defensive MVP, and in August 2015 the Washington Post named him one of the Spartans' key returning players, quoting him on the team's hopes of a state title and saying the defence would be led by him. That senior season he was chosen second-team All-State in Virginia's Group 5A as a linebacker, as well as first-team All-Region, first-team All-Conference and All-Loudoun. He graduated with the class of 2016.\n\nHe then played four seasons, from 2016 to 2019, as a linebacker, No. 51, for Frostburg State University in Maryland, majoring in health and physical education. As a freshman he played eight games and made seven tackles in the ECAC Bowl win over St. John Fisher; as a sophomore in 2017 he played all 13 games, started 11 and made 35 tackles with a forced fumble; and in 2018 he had 17 tackles, three for loss, and a sack in nine games, adding seven tackles, two for loss and a sack in two NCAA Division II playoff games. His college roster bio names him as the son of Thomas and Sharon Meier.",
+   "facts": [
+    {
+     "label": "Playing honours",
+     "value": "VHSL Group 5A All-State second team, first-team All-Region, first-team All-Conference and All-Loudoun linebacker (2015); two-time Broad Run captain; 330 career high-school tackles; Ron E. Pyles Leadership Award"
+    },
+    {
+     "label": "Education",
+     "value": "Broad Run High School (2016); Frostburg State University, health and physical education"
+    }
+   ],
    "birthDateReduced": true
   },
   {

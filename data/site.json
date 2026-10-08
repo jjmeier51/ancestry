@@ -27,5 +27,19 @@
   "privacy": {
     "livingBirthDates": "year",
     "_comment": "On the public site, people without a death record born within the last 105 years get their birth date reduced to the year. Full dates stay in data/tree.json and data/research/."
+  },
+  "viewAs": [
+    "I282604492552",
+    "M0001",
+    "M0002",
+    "I282604492910",
+    "I282604492836"
+  ],
+  "viewAsLabels": {
+    "I282604492552": "Johnny Meier",
+    "M0001": "Tommy Meier Jr.",
+    "M0002": "Matthew Meier",
+    "I282604492910": "Sharon Meier",
+    "I282604492836": "Tommy Meier Sr."
   }
 }
