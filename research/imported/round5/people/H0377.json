@@ -1,0 +1,223 @@
+{
+  "id": "H0377",
+  "name": "Corrado Ferlaino",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1931",
+      "place": "Naples, Italy",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1931-2026",
+        "place": "Naples, Italy",
+        "note": "",
+        "sourceRefs": [
+          "S1",
+          "S4"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Liceo scientifico 'Vincenzo Cuoco', Naples",
+        "years": "",
+        "detail": "Maturità scientifica",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "school": "University of Naples",
+        "years": "1959",
+        "detail": "Degree in civil (transport) engineering",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "career": [
+      {
+        "role": "Engineer and building contractor",
+        "organization": "His father Modesto's construction firm, Naples",
+        "years": "1959-",
+        "detail": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "role": "President and majority shareholder",
+        "organization": "SSC Napoli",
+        "years": "1969-c.2000 (about 31 years with interruptions; shareholder from 1967)",
+        "detail": "Brought Diego Maradona to Napoli. Won Serie A 1986-87 and 1989-90, Coppa Italia 1986-87, UEFA Cup 1988-89 and Supercoppa italiana 1990.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "role": "Co-owner / owner",
+        "organization": "Cagliari (1992-93); Ravenna (2003-04)",
+        "years": "",
+        "detail": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "role": "Amateur racing driver",
+        "organization": "",
+        "years": "1959-1964",
+        "detail": "5th at the 1959 Mille Miglia; class win at the 1964 Targa Florio",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "'Arti e Professioni' award (Premio Filippo Larussa), Rotary Club del Reventino",
+        "date": "2019",
+        "detail": "Calabrian award honouring his Conflenti roots",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Corrado Ferlaino is alive. He celebrated his 95th birthday on 18 May 2026 with a lunch on the Naples seafront (S4), and in August 2025 he gave Il Mattino an interview about Napoli's coming centenary (S5). He was born in Naples on 18 May 1931 to Modesto Ferlaino, an engineer and builder from Conflenti (province of Catanzaro) who had moved to Naples in 1920, and Cesarina Pasquali of Milan (S1, S2). Italian Wikipedia and the Conflenti local-history site both say Modesto was the brother of the magistrate Francesco Ferlaino (1914-1975, born in Conflenti and killed by the 'Ndrangheta at Lamezia Terme), so Corrado is the nephew of the judge already in the tree as H0376 (S1, S2). Modesto kept the family house in Conflenti and often took the young Corrado there (S2). Corrado married four times and has five children, among them the physicist Francesca Ferlaino and Luca, a former president of Ravenna. His daughter Tiziana, who ran the family's hotel business in Ercolano, died in 2025 aged 68 (S1, S6).\n\nKinship test with Helen (Ferlaino) Cognetti: negative, with no link demonstrable. Helen's paternal line in the tree runs Leopoldo (b. 1871) to Fortunato (b. 1822) to Nicola Maria (1778-1835) to Bruno (b. 1751) to Gaetano (c.1726), all in San Mango d'Aquino. Corrado's line is from Conflenti, a separate comune on the slopes of Monte Reventino a few kilometres away, and no public source names Modesto's or Francesco's parents. None of the Italian sources mentions San Mango d'Aquino, emigrant relatives or America (S1, S2). Both families carry a surname concentrated in the Savuto/Reventino district, so a shared origin before about 1750 is plausible but cannot be shown from public sources. The tree should keep him as a same-surname notable with no proven kinship. A test would need the Conflenti civil birth acts of Modesto (c.1890s) and Francesco (1914) to find their parents, followed by the Conflenti and San Mango registers back to the 1700s.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "His identity is solid, but no kinship to Helen Ferlaino can be shown: his family comes from Conflenti and hers from San Mango d'Aquino, and the Conflenti parentage is unpublished."
+  },
+  "openQuestionsResolved": [
+    {
+      "question": "Test whether any kinship between Corrado Ferlaino and Helen Ferlaino can be shown",
+      "answer": "No. His father Modesto (brother of judge Francesco, b. Conflenti 1914) came from Conflenti; Helen's documented line is San Mango d'Aquino back to c.1726. No source links the two; kinship stays unproven.",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Corrado is the paternal nephew of judge Francesco Ferlaino (H0376): link them via Modesto Ferlaino (not in tree). Neither is linked to Helen Ferlaino's San Mango line.",
+    "Add Modesto Ferlaino (engineer-builder, Conflenti to Naples 1920) as the link between H0377 and H0376 if the tree keeps these notables.",
+    "Names of Modesto's and Francesco's parents (Conflenti civil records, c.1890-1914) are needed for any further kinship test."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Italian Wikipedia, 'Corrado Ferlaino'",
+      "url": "https://it.wikipedia.org/wiki/Corrado_Ferlaino",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Birth 18 May 1931 Naples; parents Modesto (Conflenti; brother of Francesco) and Cesarina Pasquali; education, career, honours, marriages, children"
+    },
+    {
+      "ref": "S2",
+      "citation": "Storie di Paese Conflenti, 'Corrado Ferlaino' (c.2024)",
+      "url": "https://www.storiedipaese.it/corrado-ferlaino/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Modesto, engineer-builder from Conflenti, brother of judge Francesco; to Naples 1920; family house in Conflenti"
+    },
+    {
+      "ref": "S3",
+      "citation": "Italiani.it, 'Arts and professions: the Reventino Rotary Club rewards Corrado Ferlaino' (2019)",
+      "url": "https://en.italiani.it/arts-and-professions-the-reventino-rotary-club-rewards-corrado-ferlaino/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "2019 award; father born in Conflenti (seen via search result)"
+    },
+    {
+      "ref": "S4",
+      "citation": "Il Mattino, 'Ferlaino compie 95 anni, la festa sul lungomare dell'ex presidente del Napoli' (May 2026)",
+      "url": "https://www.ilmattino.it/sport/sscnapoli/ferlaino_compie_95_anni_la_festa_sul_lungomare_dell_ex_presidente_del_napoli-9539588.html",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Alive at 95 in May 2026 (seen via search result)"
+    },
+    {
+      "ref": "S5",
+      "citation": "TUTTOmercatoWEB, 'Ferlaino e il sogno Champions: sarebbe un bel regalo per il centenario del Napoli', 2 Aug 2025 (from an Il Mattino interview)",
+      "url": "https://www.tuttomercatoweb.com/serie-a/ferlaino-e-il-sogno-champions-sarebbe-un-bel-regalo-per-il-centenario-del-napoli-2130971",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Interview Aug 2025; his father took him to the Ascarelli stadium as a child"
+    },
+    {
+      "ref": "S6",
+      "citation": "Il Mattino, 'Napoli, lutto per l'ex presidente Corrado Ferlaino: è morta la figlia Tiziana' (2025)",
+      "url": "https://www.ilmattino.it/schede/morta_figlia_presidente_napoli_tiziana_corrado_ferlaino-8829444.html",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Daughter Tiziana died aged 68; ran the Miglio d'oro Park Hotel, Ercolano (seen via search result)"
+    }
+  ],
+  "onlinePresence": [
+    {
+      "kind": "wikipedia",
+      "title": "Corrado Ferlaino (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Corrado_Ferlaino",
+      "accessed": "2026-10-08",
+      "note": ""
+    },
+    {
+      "kind": "other",
+      "title": "Storie di Paese Conflenti: Corrado Ferlaino",
+      "url": "https://www.storiedipaese.it/corrado-ferlaino/",
+      "accessed": "2026-10-08",
+      "note": "Conflenti hometown profile with photos (including with Maradona)"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Corrado Ferlaino in 1975 (Italian Wikipedia infobox image)",
+      "date": "1975",
+      "pageUrl": "https://it.wikipedia.org/wiki/Corrado_Ferlaino",
+      "directUrl": "",
+      "repository": "Wikimedia (file 'Corrado_Ferlaino_1975.JPG')",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0377"
+      ],
+      "suggestedFile": "media/H0377/ferlaino-1975.jpg",
+      "note": "Commons file page returned 404 (possibly a local it.wiki upload under Italian PD rules); Commons API rate-limited (429), so the licence was not verified and the file was not downloaded."
+    },
+    {
+      "type": "photo",
+      "title": "Corrado Ferlaino with Diego Maradona (Storie di Paese Conflenti)",
+      "date": "",
+      "pageUrl": "https://www.storiedipaese.it/corrado-ferlaino/",
+      "directUrl": "",
+      "repository": "storiedipaese.it",
+      "rights": "copyrighted",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0377"
+      ],
+      "suggestedFile": "media/H0377/with-maradona.jpg",
+      "note": ""
+    }
+  ],
+  "searchedNoResult": [
+    "Italian web: Ferlaino + Conflenti + San Mango d'Aquino + origini/famiglia: no source links the Conflenti Ferlainos to San Mango",
+    "Names of Modesto's and Francesco's parents: not given in it.wikipedia, storiedipaese, wikimafia/vittimemafia summaries or Wikidata Q3749962 (no parent claims)",
+    "italiani.it judge Francesco page: 403",
+    "Geni profile of Francesco Ferlaino: blocked site, not used",
+    "Search for a 2026 death: none; alive at 95 in May 2026"
+  ],
+  "researchLogEntry": "Round 5: Corrado Ferlaino alive (95th birthday May 2026); son of Modesto of Conflenti and nephew of judge Francesco Ferlaino (H0376); no kinship with Helen Ferlaino of San Mango d'Aquino can be shown."
+}

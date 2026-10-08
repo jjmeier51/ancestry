@@ -1,0 +1,26 @@
+{
+ "id": "I282625149693",
+ "name": "Cassie Hayes",
+ "researchedAt": "2026-10-08",
+ "status": "nothing_new",
+ "bioAdditions": "Cassie Hayes is almost certainly a stray Ancestry attachment, not a relative. In the live site data (family.js, loaded 2026-10-08) her ID appears exactly once, in her own record. She is in none of the site's 404 family groups and has no parents, spouse or children. Her only data is an Ancestry 'U.S., School Yearbooks' hit for Marshall High School, Marshall, Missouri, 2007 (two yearbook photos), with a 1991 birth year. No other person in the tree is surnamed Hayes, and the only 'Hayes' text on the site refers to the 1878 Hayes genealogy of the Wells family. Nothing ties any branch of the tree (Luzerne/Bucks Co. PA, Long Island, Virginia, Italy, Ireland, Baden) to Marshall, Missouri, and her 'irish' line tag looks like a default from the import. She appears to have been added in the Ancestry tree by accepting a yearbook hint and was never linked to anyone. Because she is an apparently unrelated living young adult, no web research was done on her.",
+ "openQuestionsNew": [
+  "Recommend John removes her, or checks the Ancestry tree for whether she was meant to be attached to someone (e.g. a spouse of a cousin). If she is a real in-law, the relationship needs to be added."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "meiertree.com live data file family.js (people and families arrays), searched for her ID",
+   "url": "https://www.meiertree.com/data/family.js",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Her ID occurs only in her own record and in no family group."
+  }
+ ],
+ "searchedNoResult": [
+  "family.js: no family, parent, spouse or child link to I282625149693",
+  "Project notes, handoff, round-4 output: no mention of Cassie Hayes",
+  "No web search on her (stray unrelated living person; privacy)"
+ ],
+ "researchLogEntry": "Round 5: determined that Cassie Hayes is an orphan record (no family links anywhere in the site data; only an Ancestry yearbook hint from Marshall, MO), most likely a stray Ancestry attachment."
+}

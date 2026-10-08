@@ -13,10 +13,46 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Same searches as I282695504092 (merged person): no public footprint found for Jim or MaryEllen Petriello"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: wife MaryEllen confirmed from the full 2025 obituary; merge with I282695504092 recommended; no public footprint."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0004.json."
     }
   ],
   "summary": "A living relative; recorded only from family obituaries.",
   "sources": [
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg"
+  ],
+  "aka": [
+    "Jim Petriello"
+  ],
+  "facts": [
+    {
+      "label": "Spouse",
+      "value": "MaryEllen (per brother's 2025 obituary)"
+    },
+    {
+      "label": "Note",
+      "value": "Wife MaryEllen is not in the tree; maiden name unknown."
+    }
+  ],
+  "researchNotes": "round5: John T. Petriello Sr.'s March 2025 obituary names 'brother Jim Petriello and wife MaryEllen' as his only surviving brother, alongside his sister Ann Marie Genello ([R4-S1]). He was not yet born in April 1940, when the household had only John and Ann Marie ([R4-S2]). No public profile, news article or residence was found.",
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "Separate entry I282695504092 'James Jr.' (tree: 'James (Living)')",
+      "found": "Same man as M0004",
+      "assessment": "MERGE RECOMMENDATION: I282695504092 = M0004 (see I282695504092 file)."
+    }
   ]
 }

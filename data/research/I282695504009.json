@@ -1,15 +1,19 @@
 {
   "id": "I282695504009",
   "link": {
-    "confidence": "unverified",
-    "note": "Tree only (shown 1934-Living); not researched."
+    "confidence": "confirmed",
+    "note": "Tree only (shown 1934-Living); not researched. Round 4 (unverified → confirmed): 1940 census (primary) shows her as James and Mollie's daughter; her brother's 2025 obituary names her as his sister."
   },
   "tags": [],
   "summary": "Sister of John T. Petriello, born in Pennsylvania in 1934; John's great-aunt.",
   "bio": "Ann Marie Petriello was born in Pennsylvania in 1934, a sister of John T. Petriello, which makes her John's great-aunt. In 1950 she was living at Dunmore, Lackawanna, Pennsylvania. The 2024 obituary of John T. Petriello Jr. mentions a cousin Ann Marie, though whether this is the same woman is unclear.",
   "sources": [
     "Ancestry tree screenshots IMG_7830-7840",
-    "https://themontynews.org/single-post/john-t-petriello-jr-65"
+    "https://themontynews.org/single-post/john-t-petriello-jr-65",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+    "[R4-S3] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "[R4-S4] Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -28,7 +32,45 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: 1940 census (primary) shows her as James and Mollie's daughter; her brother's 2025 obituary names her as his sister."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: See M0003"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: shown to be the same woman as M0003 Ann Marie Genello (married name); merge recommended."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695504009.json."
     }
   ],
-  "researchNotes": "Tree: Ann Marie Petriello 1934-Living. The 2024 obituary of John T. Petriello Jr. mentions a 'cousin Ann Marie' - relationship to this Ann Marie unclear."
+  "researchNotes": "Tree: Ann Marie Petriello 1934-Living. The 2024 obituary of John T. Petriello Jr. mentions a 'cousin Ann Marie' - relationship to this Ann Marie unclear.\n\nround5: Ann Marie Petriello, b. about 1934, is the same woman as M0003 'Ann Marie Genello' (see that file for the full evidence). In April 1940 she was 6, living at 1028 Bunker Hill Street, Scranton, with her parents James and Mollie and her brother John ([R4-S2]). Her brother John T. Petriello Sr.'s 2025 obituary names her as 'his sister Ann Marie Genello' ([R4-S1]). She married Anthony 'Zitzer' Genello about 1955-56 and was widowed in February 2024 ([R4-S3]).",
+  "aka": [
+    "Ann Marie Genello"
+  ],
+  "residences": [
+    {
+      "date": "1950",
+      "place": "Dunmore, Lackawanna, Pennsylvania, USA"
+    },
+    {
+      "date": "1940",
+      "place": "Scranton (Bunker Hill Street, Ward 10), Lackawanna Co., PA",
+      "note": "age 6, with parents James and Mollie and brother John [R4-S2]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "Separate from M0003 'Ann Marie Genello'",
+      "found": "Same woman",
+      "assessment": "MERGE RECOMMENDATION: merge I282695504009 into M0003 (or the reverse). Keep the birth year 1934 and the 1950 Dunmore residence from this record, and the obituary links from M0003. Set her mother to H0332 (I282695504011 is a duplicate of H0332)."
+    }
+  ]
 }

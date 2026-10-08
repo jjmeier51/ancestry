@@ -1,0 +1,23 @@
+{
+  "id": "M0086",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of H0378 (proven); child of M0087 (proven)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
+    "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "[R4-S3] Happenings Magazine, 31 Mar 2020 (secondary) https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported): new relative NEW-1408 → M0086; research/imported/round4/new_people.json."
+    }
+  ],
+  "researchNotes": "round5: Living adult; public facts only: owner/general manager of Caravia Fresh Foods, Clarks Summit (opened 2004); husband of Scranton Mayor Paige Cognetti (H0378), married 17 Oct 2017; two minor daughters (not recorded). Probably John Meier's second cousin."
+}

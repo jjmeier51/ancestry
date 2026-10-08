@@ -1,0 +1,53 @@
+{
+  "id": "I282604492552",
+  "name": "John Joseph Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": ["Johnny Meier", "John Meier (MaxPreps 2008-09 roster)"],
+    "education": [
+      { "school": "Broad Run High School, Ashburn, Virginia", "years": "class of 2010", "detail": "Varsity football in 2007 as a sophomore (RB/LB, No. 31; team 10-1, unbeaten regular season), 2008 as a junior (OL/LB, No. 51; team 14-0, VHSL AA Division 4 state champions) and 2009 as a senior (OL/LB, No. 51; team 14-0, second straight AA Division 4 state title, beating Amherst County in the final). Varsity baseball, No. 15, spring 2010 (team 17-5). Listed 5-10, 185 lb.", "sourceRefs": ["S1", "S2", "S3", "S4"] }
+    ],
+    "awards": [
+      { "title": "First Team All-Dulles District defense, linebacker (unanimous selection)", "date": "2009-11-11", "detail": "Washington Post 'Loudoun Extra Points' blog (Matt Brooks): 'LB *Johnny Meier, Sr. (Broad Run)', where * = unanimous selection.", "sourceRefs": ["S5"] }
+    ],
+    "events": [
+      { "title": "Played on back-to-back state championship football teams", "date": "2008-2009", "place": "Ashburn, Virginia", "description": "Broad Run went 14-0 in both 2008 and 2009 under coach Michael Burnett and won the VHSL AA Division 4 titles (2008 final vs Amherst County at Liberty University 13-0; 2009 rematch with Amherst at Virginia Tech). MaxPreps lists Johnny on both varsity rosters.", "sourceRefs": ["S1", "S2", "S6"] },
+      { "title": "Played varsity football alongside brother Tommy", "date": "2007", "place": "Ashburn, Virginia", "description": "On the 2007 Broad Run team (10-1) Johnny was a sophomore RB/LB and his brother Tommy a senior WR/DB.", "sourceRefs": ["S2"] }
+    ]
+  },
+  "bioAdditions": "Johnny Meier grew up in Ashburn and graduated from Broad Run High School with the class of 2010. Like his brothers he was a football player. He made the varsity as a sophomore in 2007, playing running back and linebacker beside his senior brother Tommy on a team that went unbeaten in the regular season. As a junior and senior he wore No. 51 at linebacker and on the offensive line (S1, S2, S3). Both of those teams went 14-0 and won the Virginia AA Division 4 state championship, Broad Run's only football state titles (S6). In November 2009 the Washington Post's Loudoun sports blog named him a unanimous first-team All-Dulles District linebacker (S5). He also played varsity baseball, No. 15, in the spring of 2010 (S4).",
+  "funFacts": ["All three Meier brothers wore Broad Run football uniforms, and Johnny and Matt both wore No. 51.", "Johnny never lost a game on Broad Run's varsity after his sophomore season: 28-0 over 2008-2009, with two state titles."],
+  "openQuestionsNew": [
+    "A wedding website 'Shannon McCarthy and Johnny Meier' existed on Zola (zola.com/wedding/howell25); the search-engine summary gave a date of 12 Sep 2025 on Long Island, NY, but the page now returns 404 and has no Wayback copy, so this is unverified. It also conflicts with the site saying John is engaged (Oct 2026). John can confirm or correct the wedding date and place.",
+    "College and career not found online (LinkedIn blocked; 'John Meier' is a common name)."
+  ],
+  "onlinePresence": [
+    { "kind": "sports_stats", "title": "Johnny Meier's Broad Run High School career (MaxPreps)", "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/johnny-meier/?careerid=8j7qpts3ocah1", "accessed": "2026-10-08", "note": "2007 and 2009 football, 2010 baseball" },
+    { "kind": "sports_stats", "title": "John Meier's Broad Run High School career (MaxPreps, class of 2010)", "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/john-meier/?careerid=qbpg99g5mkutd", "accessed": "2026-10-08", "note": "Duplicate MaxPreps profile for the 2008 season" },
+    { "kind": "news", "title": "Dulles, Liberty all-district football teams (Washington Post Loudoun Extra Points blog, 11 Nov 2009)", "url": "https://web.archive.org/web/20201030231502/http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html", "accessed": "2026-10-08", "note": "Original URL timed out; read from Wayback" }
+  ],
+  "newsArticles": [
+    { "title": "Dulles, Liberty all-district football teams", "publication": "Washington Post, Loudoun Extra Points blog (Matt Brooks)", "date": "2009-11-11", "url": "http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html", "summary": "First Team Defense: LB *Johnny Meier, Sr. (Broad Run), unanimous selection.", "accessed": "2026-10-08" }
+  ],
+  "sources": [
+    { "ref": "S1", "citation": "MaxPreps, John Meier's Broad Run High School career home (class of 2010; 2008-09 varsity football OL/LB No. 51, team 14-0)", "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/john-meier/?careerid=qbpg99g5mkutd", "class": "secondary", "accessed": "2026-10-08", "supports": "Class year; 2008 season" },
+    { "ref": "S2", "citation": "MaxPreps, Johnny Meier's Broad Run High School career home (2007-08 RB/LB No. 31, team 10-1; 2009-10 OL No. 51, team 14-0; 2010 baseball No. 15)", "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/johnny-meier/?careerid=8j7qpts3ocah1", "class": "secondary", "accessed": "2026-10-08", "supports": "2007 and 2009 seasons; baseball" },
+    { "ref": "S3", "citation": "MaxPreps, Broad Run Spartans Football all-time roster (Meier, Johnny (So.), Meier, John (Jr.), Meier, Johnny (Sr.); Meier, Tommy (Jr./Sr.); Meier, Matt (So./Jr./Sr.))", "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/football/roster/all-time/", "class": "secondary", "accessed": "2026-10-08", "supports": "All three brothers on the program's rosters" },
+    { "ref": "S4", "citation": "MaxPreps, Johnny Meier career page: varsity baseball 2009-10 (spring), team 17-5", "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/johnny-meier/?careerid=8j7qpts3ocah1", "class": "secondary", "accessed": "2026-10-08", "supports": "Baseball" },
+    { "ref": "S5", "citation": "Washington Post, Loudoun Extra Points blog, 'Dulles, Liberty all-district football teams', Matt Brooks, 11 Nov 2009 (Wayback capture 30 Oct 2020)", "url": "https://web.archive.org/web/20201030231502/http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html", "class": "secondary", "accessed": "2026-10-08", "supports": "Unanimous first-team All-Dulles District LB" },
+    { "ref": "S6", "citation": "Wikipedia, 'Broad Run High School' (football: 2008 AA Division 4 state title, 14-0; 2009 second title vs Amherst)", "url": "https://en.wikipedia.org/wiki/Broad_Run_High_School", "class": "derivative", "accessed": "2026-10-08", "supports": "State titles 2008, 2009" }
+  ],
+  "media": [
+    { "type": "link", "title": "Washington Post Loudoun blog: 2009 All-Dulles District team (photos of the defensive players of the year; Johnny named in the list)", "date": "2009-11-11", "pageUrl": "https://web.archive.org/web/20201030231502/http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html", "directUrl": "", "repository": "Internet Archive Wayback Machine / Washington Post", "rights": "copyrighted", "downloadable": false, "downloaded": false, "localPath": "", "people": ["I282604492552"], "suggestedFile": "", "note": "No photo of Johnny himself." }
+  ],
+  "searchedNoResult": [
+    "WebSearch: 'Johnny Meier' + Ashburn/Herndon/Virginia; 'John Meier' + 'Shannon McCarthy'; college rosters 2010-2014 with hometown Ashburn - no college athletics found",
+    "LinkedIn 'John Meier - Reston, Virginia' (johnmeierpan): HTTP 999, not loaded; name-only, not attached",
+    "Zola wedding website 'Shannon McCarthy and Johnny Meier' (zola.com/wedding/howell25): 404 now, no Wayback capture",
+    "Washington Post All-Met 2009 honorable mention: not found",
+    "archive.org yearbooks: no Broad Run yearbooks after 1983",
+    "Data-broker results seen in search (Instant Checkmate) were ignored per the privacy rule"
+  ],
+  "researchLogEntry": "Round 5: Broad Run HS class of 2010; varsity football 2007-09 on back-to-back 14-0 state-champion teams (2008, 2009), unanimous 1st-team All-Dulles District LB 2009 (Washington Post), varsity baseball 2010; Zola wedding site with Shannon McCarthy seen only in a search snippet."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "M0009",
+  "name": "Rebecca Petriello",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "researchLogEntry": "Round 5: no public footprint; maiden name unknown.",
+  "searchedNoResult": [
+    "WebSearch 'Rebecca Petriello' (exact): no match",
+    "Keystone/Clarks Summit searches for Paul and Rebecca together: none"
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181).",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "'daughter in law Rebecca Petriello', 2025"
+    }
+  ]
+}

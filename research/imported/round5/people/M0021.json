@@ -1,0 +1,8 @@
+{
+  "id": "M0021",
+  "name": "Luca Meier",
+  "researchedAt": "2026-10-08",
+  "status": "minor_limited",
+  "relationships": [ { "type": "parent", "personId": "M0001", "evidence": "Son of Thomas F. Meier Jr. and Laura De Santis (John's statement, already on site).", "sourceRefs": [], "strength": "proven" } ],
+  "researchLogEntry": "Round 5: a child; per the privacy rule not searched (name and relationship only)."
+}

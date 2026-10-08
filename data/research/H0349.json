@@ -11,7 +11,11 @@
   "sources": [
     "https://themontynews.org/single-post/john-t-petriello-jr-65",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "[R4-S3] Keystone College Athletics, coach bio 'Paul Petriello - Head Men's Golf Coach' (written after the 2017-18 season). (secondary) https://www.gokcgiants.com/sports/mens-golf/roster/coaches/paul-petriello/546",
+    "[R4-S4] Keystone College Athletics news release, 'Keystone Names Petriello Head Men's Golf Coach', La Plume PA, 9 Feb 2016. (secondary) https://www.gokcgiants.com/news/2016/2/9/MGOLF_0209162834.aspx"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -34,6 +38,30 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse M0009, proven): 'son Paul & daughter in law Rebecca Petriello' ([R4-S1]); 'brother Paul Petriello (Rebecca)' ([R4-S2])"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child M0010, proven): 'their children Jack & Mollie' ([R4-S1])"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child M0011, proven): 'their children Jack & Mollie' ([R4-S1])"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Paul Petriello' (exact): only the Keystone College pages are substantive; the rest were data-broker listings (not used) and a 2026 condolence signature with no identifiers; WebSearch 'Paul Petriello' + Scranton/Pennsylvania, + GSK/Penn State/golf, + Abington Heights/Clarks Summit/Scranton Prep: no page linking him to Rebecca, Jack, Mollie or his parents; WebSearch thetimes-tribune.com Petriello: only Sandra Petriello (1952-2024, Moosic), a different family; Keystone College men's golf roster 2018-19: lists him as head coach, no photo or family details; Legacy.com search: Cloudflare-blocked (403)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: full text of father's 2025 obituary read via the funeral home's feed (Paul, Rebecca, Jack, Mollie confirmed); Keystone College golf coach Paul Petriello found but kept as an unproven candidate."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0349.json."
     }
   ],
   "given": "Paul",
@@ -46,7 +74,14 @@
     {
       "label": "Children",
       "value": "Jack and Mollie."
+    },
+    {
+      "label": "Named in father's obituary (2025)",
+      "value": "'son Paul & daughter in law Rebecca Petriello and their children Jack & Mollie'"
     }
   ],
-  "researchNotes": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary."
+  "researchNotes": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary.\n\nround5: The full text of his father John T. Petriello Sr.'s March 2025 obituary, now read in full, lists Paul as the youngest of three children, with his wife Rebecca and their children Jack and Mollie ([R4-S1]). His brother John Jr.'s 2024 obituary also names him as 'Paul Petriello (Rebecca)' ([R4-S2]). Neither obituary gives his town or occupation.",
+  "openQuestions": [
+    "CANDIDATE, NOT ATTACHED: a Paul Petriello was head men's golf coach at Keystone College, La Plume PA (about 15 miles from Scranton), from 1 Feb 2016 through at least the 2017-18 season. His bio describes him as 'an avid golfer in the local area'; a Penn State graduate (BA, Labor Management Relations) who did graduate study in Managed Health Care at Marywood University (Scranton); a pharma and biotech sales and management professional (Schering-Plough, Johnson & Johnson, King Specialty Pharmaceuticals, GlaxoSmithKline Biologics); founder of PJP Investments (2007-09); and a youth baseball and basketball coach (S3, S4). The surname is rare and the Scranton-area base and age fit Sharon's brother, but no page names his parents, wife or children, and other Petriello families live in the Dunmore/Moosic area. John: if this is your uncle Paul, the facts can be attached as written."
+  ]
 }

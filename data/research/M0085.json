@@ -1,0 +1,21 @@
+{
+  "id": "M0085",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503583 (probable); child of H0500 (probable)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S3] FamilySearch 'Pennsylvania, Marriages, 1709-1940' index H5JW-HN3Z, listed on PW29-VF6 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported): new relative NEW-1407 → M0085; research/imported/round4/new_people.json."
+    }
+  ],
+  "researchNotes": "round5: Presumed living; name and relationship only. Probably the 'Larry Cognetti, now of Darien, Georgia' quoted in the 2016 Thanksgiving story and the son 'Lawrence' in Anthony R.'s 2008 obituary (both identifications unproven)."
+}

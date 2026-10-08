@@ -692,6 +692,129 @@
       "given": "Johann Peter",
       "surname": "Schuch",
       "sex": "M"
+    },
+    {
+      "id": "M0079",
+      "given": "Evelyn",
+      "surname": "Cognetti",
+      "sex": "F"
+    },
+    {
+      "id": "M0080",
+      "given": "Dean J.",
+      "surname": "Cognetti",
+      "sex": "M"
+    },
+    {
+      "id": "M0081",
+      "given": "John J.",
+      "surname": "Cognetti",
+      "sex": "M"
+    },
+    {
+      "id": "M0082",
+      "given": "David",
+      "surname": "Cognetti",
+      "sex": "M"
+    },
+    {
+      "id": "M0083",
+      "given": "Lawrence Rocco",
+      "surname": "Ruth",
+      "sex": "M"
+    },
+    {
+      "id": "M0084",
+      "given": "Mary Loretta",
+      "surname": "Ruth",
+      "sex": "F",
+      "aka": [
+        "Barrett"
+      ]
+    },
+    {
+      "id": "M0085",
+      "given": "Laurence T.",
+      "surname": "Cognetti",
+      "sex": "M"
+    },
+    {
+      "id": "M0086",
+      "given": "Ryan",
+      "surname": "Cognetti",
+      "sex": "M"
+    },
+    {
+      "id": "M0087",
+      "given": "Joseph 'Joe'",
+      "surname": "Cognetti",
+      "sex": "M",
+      "aka": [
+        "of Notarianni Produce and Caravia"
+      ]
+    },
+    {
+      "id": "M0088",
+      "given": "Michelena",
+      "surname": "Notarianni",
+      "sex": "F",
+      "aka": [
+        "Caravia"
+      ]
+    },
+    {
+      "id": "M0089",
+      "given": "Joseph",
+      "surname": "Notarianni",
+      "sex": "M"
+    },
+    {
+      "id": "M0090",
+      "given": "Edward T.",
+      "surname": "Arnold",
+      "sex": "M"
+    },
+    {
+      "id": "M0091",
+      "given": "Ann E.",
+      "surname": "Closson",
+      "sex": "F",
+      "aka": [
+        "née Arnold"
+      ]
+    },
+    {
+      "id": "M0092",
+      "given": "Jane M.",
+      "surname": "Schreckengost",
+      "sex": "F",
+      "aka": [
+        "née Arnold"
+      ]
+    },
+    {
+      "id": "M0093",
+      "given": "Anthony \"Zitzer\"",
+      "surname": "Genello",
+      "sex": "M"
+    },
+    {
+      "id": "M0094",
+      "given": "Louis",
+      "surname": "Genello",
+      "sex": "M"
+    },
+    {
+      "id": "M0095",
+      "given": "Marisa",
+      "surname": "Genello",
+      "sex": "F"
+    },
+    {
+      "id": "M0096",
+      "given": "David",
+      "surname": "Genello",
+      "sex": "M"
     }
   ],
   "families": [
@@ -877,6 +1000,65 @@
         "H0081"
       ],
       "husband": "M0078"
+    },
+    {
+      "id": "MF0024",
+      "children": [
+        "M0090",
+        "M0091",
+        "M0092"
+      ],
+      "wife": "H0383",
+      "husband": "H0062"
+    },
+    {
+      "id": "MF0025",
+      "children": [
+        "M0080",
+        "M0081",
+        "M0082"
+      ],
+      "husband": "I282695503584",
+      "wife": "M0079"
+    },
+    {
+      "id": "MF0026",
+      "children": [],
+      "husband": "M0086",
+      "wife": "H0378"
+    },
+    {
+      "id": "MF0027",
+      "children": [
+        "M0094",
+        "M0095",
+        "M0096"
+      ],
+      "husband": "M0093",
+      "wife": "M0003"
+    },
+    {
+      "id": "MF0028",
+      "children": [
+        "H0500"
+      ],
+      "husband": "M0083",
+      "wife": "M0084"
+    },
+    {
+      "id": "MF0029",
+      "children": [
+        "M0086"
+      ],
+      "husband": "M0087"
+    },
+    {
+      "id": "MF0030",
+      "children": [
+        "H0499"
+      ],
+      "wife": "M0088",
+      "husband": "M0089"
     }
   ],
   "familyUpdates": [
@@ -991,6 +1173,23 @@
       "id": "F81",
       "husband": "H0265",
       "note": "Round 4: Akerly 1898 says Hannah, daughter of Maj. James Reeve (d. 1764), was the wife of Joshua Tuthill; the GEDCOM attached her to his brother James, whose wife was Rachel Browne."
+    },
+    {
+      "id": "HF0191",
+      "addChildren": [
+        "M0085"
+      ]
+    },
+    {
+      "id": "HF0190",
+      "addChildren": [
+        "M0087"
+      ]
+    },
+    {
+      "id": "HF0001",
+      "wife": "H0062",
+      "note": "Round 5: Harold E. Arnold (1927–1997) was the husband of Elizabeth 'Betsy' McGuire (m. 13 Sep 1952), not a second husband of her mother Elizabeth (McAvoy) McGuire; Betsy's 2016 obituary names him."
     }
   ],
   "setParents": [
@@ -1086,6 +1285,21 @@
       "from": "I282695486703",
       "into": "I282695486911",
       "reason": "Round 4: Anna Tuthill Symmes, daughter of John Cleves Symmes, is First Lady Anna Symmes Harrison; the tree held her twice."
+    },
+    {
+      "from": "I282695503582",
+      "into": "H0346",
+      "reason": "Round 5: the 1940 census's 'Leopo' (son, 10) is Leopold Salvatore 'Leo S.' Cognetti, born 19 May 1929; 'Levyso' was a misreading of the same entry."
+    },
+    {
+      "from": "I282695504009",
+      "into": "M0003",
+      "reason": "Round 5: Ann Marie Petriello is Ann Marie Genello, widow of Anthony 'Zitzer' Genello; the GEDCOM and the family list held her twice."
+    },
+    {
+      "from": "I282695504092",
+      "into": "M0004",
+      "reason": "Round 5: 'James Jr.' in the GEDCOM is Jim Petriello, John's uncle, already in the tree."
     }
   ]
 }

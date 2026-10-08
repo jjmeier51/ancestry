@@ -1,8 +1,8 @@
 {
   "id": "I282695504092",
   "link": {
-    "confidence": "unverified",
-    "note": "Tree only (shown Living); not researched."
+    "confidence": "confirmed",
+    "note": "Tree only (shown Living); not researched. Round 4 (unverified → confirmed): His brother's 2025 obituary names him as a surviving brother; merge with M0004."
   },
   "tags": [],
   "summary": "Son of James Petriello and Mollie and brother of John T. Petriello; John's great-uncle.",
@@ -11,10 +11,16 @@
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "James (Living)"
+    },
+    {
+      "label": "Spouse (per brother's obituary)",
+      "value": "MaryEllen"
     }
   ],
   "sources": [
-    "Ancestry tree screenshots IMG_7830-7840"
+    "Ancestry tree screenshots IMG_7830-7840",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -37,7 +43,39 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: His brother's 2025 obituary names him as a surviving brother; merge with M0004."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0332, probable): Mother is Mollie Petriello = Carmela Gianetta (H0332); I282695504011 is her duplicate (round 4)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Jim Petriello' (exact): only MLB analyst Mike Petriello (unrelated); WebSearch 'MaryEllen Petriello' / 'Mary Ellen Petriello' / 'James Petriello' + Scranton/Dunmore: no match (results were other Petriello families: Joseph A., Sandra A., David A.); WebSearch 'Petriello' obituary + '(Jim)'/'husband James': other families only (CT, NJ, NY); Newspapers.com Times-Tribune 23 Dec 1998 index entry (father's obituary) is paywalled; it would list Jim and his town"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: 2025 obituary text shows the tree's 'James (Living)' is Jim Petriello (wife MaryEllen); merge with M0004 recommended."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695504092.json."
     }
   ],
-  "researchNotes": "Tree shows 'James (Living)' as a child of James Petriello and Mollie."
+  "researchNotes": "Tree shows 'James (Living)' as a child of James Petriello and Mollie.\n\nround5: The tree's 'James (Living)', child of James Petriello and Mollie, is the 'brother Jim Petriello and wife MaryEllen' who survived John T. Petriello Sr. in March 2025 ([R4-S1]). The obituary also confirms that Sr. was 'the son of the late James and Mollie Petriello' ([R4-S1]). Jim does not appear in the April 1940 household, which held only John (7) and Ann Marie (6) ([R4-S2]), so he was born later, after 1940 (round 4 found that the 1950 census shows the same two children).",
+  "aka": [
+    "Jim Petriello",
+    "James Petriello"
+  ],
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "Two entries: I282695504092 'James Jr.' (child of I282695504010 + I282695504011 'Mollie Petriello') and M0004 'James Petriello' / Jim (child of I282695504010 + H0332 Carmela 'Mollie' Gianetta)",
+      "found": "One man: John T. Petriello Sr.'s only surviving brother, 'Jim Petriello and wife MaryEllen' (S1)",
+      "assessment": "MERGE RECOMMENDATION: I282695504092 and M0004 are the same person. Round 4 already showed that I282695504011 'Mollie Petriello' is a duplicate of H0332 Carmela 'Mollie' Gianetta, so both James entries have the same parents. Keep M0004 (it holds the obituary link) or keep I282695504092 (it holds the tree citation), add the aka 'Jim', spouse MaryEllen, and the parent pair I282695504010 + H0332."
+    }
+  ]
 }

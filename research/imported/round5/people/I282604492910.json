@@ -1,0 +1,20 @@
+{
+  "id": "I282604492910",
+  "name": "Sharon M. Petriello",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "No public profile of Sharon herself was found. One new public source names her: Frostburg State University's 2019 football roster bio of her son Matt calls him the 'son of Thomas and Sharon Meier' (S1). Her three sons' public athletic careers, at Broad Run High School, UVa-Wise and Frostburg State, are recorded on their own pages.",
+  "relationships": [ { "type": "child", "personId": "M0002", "evidence": "Frostburg State bio: 'Son of Thomas and Sharon Meier'", "sourceRefs": ["S1"], "strength": "proven" } ],
+  "sources": [
+    { "ref": "S1", "citation": "Frostburg State University Athletics, 2019 Football Roster, 'Matt Meier' bio ('Son of Thomas and Sharon Meier')", "url": "https://frostburgsports.com/sports/football/roster/matt-meier/8984", "class": "secondary", "accessed": "2026-10-08", "supports": "Mother of Matt Meier" }
+  ],
+  "searchedNoResult": [
+    "WebSearch 'Sharon Meier' + Ashburn/Loudoun/Fairfax/teacher/nurse: only unrelated same-name people (obituaries in OH/WI/PA, a USPTO attorney in Oakton) - none attached",
+    "WebSearch 'Sharon Petriello' + Scranton/East Stroudsburg: nothing",
+    "archive.org: 1979 Scranton Consolidated HS yearbook full text - no Petriello; no East Stroudsburg State yearbooks online",
+    "University of Scranton class-notes PDF 1970-79: 404",
+    "Obituary of her mother Mary (Cognetti) Petriello: none found for 2025-2026 (still presumed living); 'Paul Petriello' (brother): nothing found",
+    "Data-broker sites excluded"
+  ],
+  "researchLogEntry": "Round 5: no public footprint of her own; Frostburg State's 2019 bio of son Matt names her as his mother."
+}

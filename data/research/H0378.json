@@ -1,15 +1,25 @@
 {
   "id": "H0378",
   "link": {
-    "confidence": "unverified",
-    "note": "Living; married into a Scranton Cognetti family (husband Ryan); whether it descends from Frank and Helen was deliberately not researched."
+    "confidence": "probable",
+    "note": "Living; married into a Scranton Cognetti family (husband Ryan); whether it descends from Frank and Helen was deliberately not researched. Round 4 (unverified → probable): Her marriage to Ryan Cognetti is proven. Ryan's descent from Frank and Helen through Joe and Sal D. Cognetti rests on three public business profiles plus the summary of Elizabeth Notarianni Cognetti's 1994 obituary, and is probable. Elizabeth's obituary text (her son Joseph) or a wedding announcement naming Ryan's parents would confirm it."
   },
   "sex": "F",
   "tags": [],
   "summary": "Mayor of Scranton since 2020, married to Ryan Cognetti; a Cognetti by marriage whose exact kinship to John's family is unknown.",
   "bio": "Paige Cognetti has served as Mayor of Scranton, Pennsylvania, since 2020. She is a Cognetti by marriage, the wife of Ryan Cognetti, and the exact kinship between her husband's family and John's Cognettis is unknown. Scranton was also home to a separate, unrelated Cognetti family whose origins lay in Nicastro.",
   "sources": [
-    "Wikipedia: https://en.wikipedia.org/wiki/Paige_Cognetti"
+    "Wikipedia: https://en.wikipedia.org/wiki/Paige_Cognetti",
+    "[R4-S1] Wikipedia, 'Paige Cognetti' (secondary) https://en.wikipedia.org/wiki/Paige_Cognetti",
+    "[R4-S2] City of Scranton, 'About the Mayor' (secondary) https://scrantonpa.gov/your-government/mayor/about-the/",
+    "[R4-S3] Happenings Magazine, 'Scranton's Mayor Looks to the Future...' (31 Mar 2020) (secondary) https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/",
+    "[R4-S4] WVIA News, 'Scranton Mayor Paige Cognetti dominates in third run for mayor' (3-4 Nov 2025), and Wikipedia '2025 Scranton mayoral election' (as summarised by search) (secondary) https://www.wvia.org/news/local/2025-11-03/scranton-mayor-paige-cognetti-dominates-in-third-run-for-mayor",
+    "[R4-S5] Washington Examiner, 'Scranton Mayor Paige Cognetti to face Rep. Rob Bresnahan...' (May 2026) (secondary) https://www.washingtonexaminer.com/news/campaigns/congressional/4573438/pennsylvania-8th-district-results-rob-bresnahan-paige-cognetti/",
+    "[R4-S6] Alamy stock listing of AP / Scranton Times-Tribune photo by Christopher Dolan, swearing-in of Mayor Cognetti, 6 Jan 2020 (caption) (secondary) https://www.alamy.com/scranton-mayor-paige-cognetti-right-is-sworn-in-by-lackawanna-county-president-judge-michael-barrasse-and-commonwealth-court-senior-judge-bonnie-brigance-leadbetter-as-her-husband-ryan-cognetti-looks-on-at-scranton-city-hall-in-scranton-pa-monday-jan-6-2020-cognetti-is-the-first-female-mayor-of-scranton-after-winning-a-special-election-last-november-to-fill-the-remaining-two-years-of-former-mayor-bill-courtrights-term-after-was-convicted-on-corruption-charges-christopher-dolanthe-scranton-times-tribune-via-ap-image530760514.html",
+    "[R4-S7] Caravia Fresh Foods, 'Learn More About Caravia' (secondary) https://caraviafreshfoods.com/about",
+    "[R4-S8] Charles Erickson, 'Prepared meals are most popular at Caravia Fresh Foods in Clarks Summit', Abington Journal, 8 Aug 2018 (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "[R4-S9] Happenings Magazine, 'Gourmet Market. Fresh Menu. Caravia Fresh Foods.' (18 Jun 2014) (secondary) https://www.happeningsmagazinepa.com/2014/06/18/gourmet-market-fresh-menu-caravia-fresh-foods/",
+    "[R4-S10] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -28,7 +38,209 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Her marriage to Ryan Cognetti is proven. Ryan's descent from Frank and Helen through Joe and Sal D. Cognetti rests on three public business profiles plus the summary of Elizabeth Notarianni Cognetti's 1994 obituary, and is probable. Elizabeth's obituary text (her son Joseph) or a wedding announcement naming Ryan's parents would confirm it."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Married-in Cognetti; determine her husband and how he connects to Frank & Helen's family → Husband Ryan Cognetti, son of Joseph (Joe) Cognetti of Caravia / Notarianni Produce, who is very probably the son of Sal D. and Elizabeth (Notarianni) Cognetti; so Ryan is a great-grandson of Frank and Helen and John Meier's second cousin."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Paige Cognetti father-in-law / mother-in-law: not named in any source found; Campaign site paigeforpa.com/meet-paige-cognetti: rendered empty to WebFetch; Newspapers.com clipping of Elizabeth Notarianni Cognetti's obituary: 403"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: husband Ryan Cognetti (Caravia Fresh Foods; m. 17 Oct 2017) traced through his father Joe Cognetti (Notarianni Produce) to Sal D. and Elizabeth (Notarianni) Cognetti, so probably John's second cousin; added her career, elections to 2025, the 2026 PA-8 nomination, and a CC BY Department of Labor portrait."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0378.json."
     }
   ],
-  "researchNotes": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family."
+  "researchNotes": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family.\n\nround5: Kinship solved, on strong but not yet single-document evidence: Paige's husband Ryan Cognetti is a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti. That makes Ryan John Meier's second cousin, and Paige John's second cousin's wife. The chain is:\n(1) Happenings Magazine (2020) identifies Paige's husband as Ryan Cognetti, owner of Caravia Fresh Foods in Clarks Summit; they married on 17 Oct 2017 ([R4-S3]). The Times-Tribune/AP photo of her 6 Jan 2020 swearing-in shows 'her husband, Ryan Cognetti' looking on ([R4-S6]).\n(2) Caravia's own 'About' page says the family opened the store in 2004 after Joe Cognetti sold his wholesale produce business: 'Joe and his son, Ryan, and cousins Peter and Marianne'. The store is named for 'Joseph's grandmother, Michelena Caravia, from San Mango, Calabria' ([R4-S7]).\n(3) The Abington Journal (2018) says Joseph Cognetti owned Joseph Notarianni Produce until 1999, a Scranton firm founded by his great-grandfather nearly 75 years earlier. Ryan, the general manager, then 39, owned a third of the store; Joseph's first cousins Peter and Marianne Cognetti owned another third ([R4-S8]).\n(4) The 1994 Times-Tribune obituary of Elizabeth Notarianni Cognetti (Newspapers.com clipping; page blocked, content known only from a search summary) calls her the daughter of Joseph and Michelene Notarianni and widow of Sal D. Cognetti Sr. (d. 1990). Sal is Frank and Helen's son Salvatore, who married Elizabeth Notarianni in 1943 (site record H0499).\nSo Joe Cognetti's grandmother Michelena (Caravia) Notarianni is Elizabeth's mother, which makes Joe a son of Sal and Elizabeth. Joe's 'first cousins' Peter and Marianne fit a son of Ralph or of Anthony R. (both had a son Peter) and his wife. Fittingly, the Caravia name brings another San Mango d'Aquino family into the tree, the same village as Helen Ferlaino. Paige herself said in 2019 that her husband's family had been in the area 'for many, many generations'. The couple have two young daughters (minors, not researched).\n\nPublic career: born in 1980 in Oregon and raised in Beaverton, Paige Gebhardt studied at the University of Oregon's Clark Honors College (BA summa cum laude) and Harvard Business School (MBA). She taught English in Japan (JET), worked as an investment advisor in New York, raised money for Rep. Chris Carney (2006) and the 2008 Clinton and Obama campaigns, and was a senior Treasury advisor under Obama. In Scranton she served on the school board (2017-18) and as special assistant to Auditor General DePasquale. She then won the November 2019 special mayoral election as an independent, becoming Scranton's first female mayor on 6 Jan 2020. She was re-elected in 2021 and again on 4 Nov 2025. In May 2026 she won the Democratic nomination unopposed for Pennsylvania's 8th congressional district against Rep. Rob Bresnahan; the general election is in November 2026.",
+  "birth": {
+    "date": "1980",
+    "place": "Eugene, Oregon (Wikipedia); grew up in Beaverton, Oregon"
+  },
+  "aka": [
+    "Paige Gebhardt Cognetti",
+    "Paige G. Cognetti",
+    "née Gebhardt"
+  ],
+  "residences": [
+    {
+      "date": "2017-2026",
+      "place": "Scranton, Pennsylvania",
+      "note": "Lives in Scranton with her husband and two daughters [R4-S2]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to Ryan Cognetti",
+      "date": "2017-10-17",
+      "place": "",
+      "description": "They met years earlier when she stopped at Caravia Fresh Foods in Clarks Summit just before closing and Ryan, its owner, made her a sandwich. [R4-S3]"
+    },
+    {
+      "title": "Sworn in as Mayor of Scranton (first woman in the office)",
+      "date": "2020-01-06",
+      "place": "Scranton City Hall",
+      "description": "Won the Nov 2019 special election as an independent (36.5%), to finish the term of Bill Courtright. [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Re-elected mayor",
+      "date": "2021-11",
+      "place": "Scranton",
+      "description": "Won with 72.5% as a Democrat. [R4-S1]"
+    },
+    {
+      "title": "Re-elected mayor (second full term)",
+      "date": "2025-11-04",
+      "place": "Scranton",
+      "description": "About 57% in a three-way race. [R4-S4]"
+    },
+    {
+      "title": "Democratic nominee, Pennsylvania's 8th congressional district",
+      "date": "2026-05-19",
+      "place": "",
+      "description": "Unopposed in the primary; faces Rep. Rob Bresnahan (R) in the November 2026 general election. [R4-S5] [R4-S1]"
+    },
+    {
+      "title": "Education: University of Oregon, Clark Honors College",
+      "date": "",
+      "place": "",
+      "description": "BA, English literature (and Romance languages per Wikipedia), summa cum laude [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Education: Harvard Business School",
+      "date": "",
+      "place": "",
+      "description": "MBA [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "English teacher (JET Programme), Japan",
+      "date": "",
+      "place": "",
+      "description": "[R4-S1]"
+    },
+    {
+      "title": "Investment advisor, New York City",
+      "date": "",
+      "place": "",
+      "description": "[R4-S2]"
+    },
+    {
+      "title": "Campaign fundraiser / project director, Including Rep. Chris Carney's 2006 campaign and the 2008 Clinton and Obama campaigns",
+      "date": "2006-2008",
+      "place": "",
+      "description": "[R4-S1] [R4-S3]"
+    },
+    {
+      "title": "Senior advisor to the Under Secretary for International Affairs, US Department of the Treasury",
+      "date": "Obama first term",
+      "place": "",
+      "description": "[R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Director, Scranton School Board",
+      "date": "2017-2018",
+      "place": "",
+      "description": "[R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Special assistant to Auditor General Eugene DePasquale, Pennsylvania Department of the Auditor General",
+      "date": "2018-2019",
+      "place": "",
+      "description": "[R4-S1]"
+    },
+    {
+      "title": "Mayor, City of Scranton",
+      "date": "2020-present",
+      "place": "",
+      "description": "36th mayor [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Member, USTR Advisory Committee for Trade Policy and Negotiations, Office of the US Trade Representative",
+      "date": "2024 (Biden appointee)",
+      "place": "",
+      "description": "[R4-S1]"
+    }
+  ],
+  "funFacts": [
+    "She met her future husband when he made her a sandwich just before closing time at his family's Clarks Summit market, Caravia, which is named for a great-grandmother from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino Cognetti."
+  ],
+  "openQuestions": [
+    "Add Joseph 'Joe' Cognetti (son of Sal D. and Elizabeth) and his son Ryan to the tree once the 1994 obituary or a 2017 wedding notice is read.",
+    "Is Scranton attorney Sal Cognetti Jr. (Cognetti & Cimini; former president judge of the PA Court of Judicial Discipline) also a son of Sal D. Cognetti Sr.? The 'Jr.' and Scranton fit; not proven."
+  ],
+  "photo": "media/H0378/paige-cognetti-2022-dol.jpg",
+  "media": [
+    {
+      "file": "media/H0378/paige-cognetti-2022-dol.jpg",
+      "type": "photo",
+      "title": "Scranton Mayor Paige Cognetti speaking at the US Department of Labor Good Jobs Summit, Washington DC, 21 Jun 2022",
+      "date": "2022-06-21",
+      "source": "Wikimedia Commons (from US Department of Labor Flickr, L-22-06-21-B-148), cc (CC BY 2.0; official US DOL photograph)",
+      "note": "Credit: US Department of Labor. Same image as the Wikipedia infobox.",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:Paige_Cognetti_(52165104986)_(3x4a).jpg"
+    },
+    {
+      "url": "https://www.alamy.com/scranton-mayor-paige-cognetti-right-is-sworn-in-by-lackawanna-county-president-judge-michael-barrasse-and-commonwealth-court-senior-judge-bonnie-brigance-leadbetter-as-her-husband-ryan-cognetti-looks-on-at-scranton-city-hall-in-scranton-pa-monday-jan-6-2020-cognetti-is-the-first-female-mayor-of-scranton-after-winning-a-special-election-last-november-to-fill-the-remaining-two-years-of-former-mayor-bill-courtrights-term-after-was-convicted-on-corruption-charges-christopher-dolanthe-scranton-times-tribune-via-ap-image530760514.html",
+      "type": "link",
+      "title": "Paige Cognetti sworn in as mayor with husband Ryan Cognetti looking on, Scranton City Hall, 6 Jan 2020",
+      "date": "2020-01-06",
+      "source": "AP / Scranton Times-Tribune via Alamy, copyrighted",
+      "note": "Photo by Christopher Dolan. Only one known public photo naming Ryan. (not downloaded: rights copyrighted)",
+      "people": []
+    },
+    {
+      "url": "https://scrantonpa.gov/your-government/mayor/about-the/",
+      "type": "link",
+      "title": "Official mayoral portrait (City of Scranton)",
+      "date": "2022",
+      "source": "City of Scranton, unknown",
+      "note": "Municipal (not federal) work, so rights are unknown. (not downloaded: rights unknown)",
+      "people": []
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paige_Cognetti",
+      "type": "link",
+      "title": "Paige Cognetti (Wikipedia)",
+      "date": "",
+      "source": "",
+      "note": "Already on site",
+      "people": []
+    },
+    {
+      "url": "https://scrantonpa.gov/cognetti-family-welcomes-daughter/",
+      "type": "link",
+      "title": "Cognetti Family Welcomes Daughter (City of Scranton, 9 Aug 2023)",
+      "date": "",
+      "source": "",
+      "note": "Birth of second daughter, Aug 2023 (minor: names omitted here)",
+      "people": []
+    },
+    {
+      "url": "https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/",
+      "type": "link",
+      "title": "Scranton's Mayor Looks to the Future as She Works to Change How Scranton Does Business",
+      "date": "2020-03-31",
+      "source": "Happenings Magazine, 2020-03-31",
+      "note": "Profile; how she met Ryan at Caravia; married 17 Oct 2017; her parents' influence",
+      "people": []
+    },
+    {
+      "url": "https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+      "type": "link",
+      "title": "Prepared meals are most popular at Caravia Fresh Foods in Clarks Summit",
+      "date": "2018-08-08",
+      "source": "Abington Journal, 2018-08-08",
+      "note": "Family business history linking Ryan, Joseph Cognetti, Notarianni Produce and the Caravia grandmother",
+      "people": []
+    }
+  ]
 }

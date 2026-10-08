@@ -1,0 +1,21 @@
+{
+  "id": "M0092",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported): new relative NEW-1204 → M0092; research/imported/round4/new_people.json."
+    }
+  ],
+  "researchNotes": "round5: Living; name, relationship and source only. Husband Joseph named in the obituary."
+}

@@ -41,7 +41,8 @@
     "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "[R4-S1] Frostburg State University Athletics, 2019 Football Roster, 'Matt Meier' bio ('Son of Thomas and Sharon Meier') (secondary) https://frostburgsports.com/sports/football/roster/matt-meier/8984"
   ],
   "handoff": {
     "section": "3.1 John and his parents",
@@ -68,6 +69,22 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child M0002, proven): Frostburg State bio: 'Son of Thomas and Sharon Meier'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Sharon Meier' + Ashburn/Loudoun/Fairfax/teacher/nurse: only unrelated same-name people (obituaries in OH/WI/PA, a USPTO attorney in Oakton) - none attached; WebSearch 'Sharon Petriello' + Scranton/East Stroudsburg: nothing; archive.org: 1979 Scranton Consolidated HS yearbook full text - no Petriello; no East Stroudsburg State yearbooks online; University of Scranton class-notes PDF 1970-79: 404; Obituary of her mother Mary (Cognetti) Petriello: none found for 2025-2026 (still presumed living); 'Paul Petriello' (brother): nothing found; Data-broker sites excluded"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: no public footprint of her own; Frostburg State's 2019 bio of son Matt names her as his mother."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492910.json."
     }
   ],
   "residences": [
@@ -78,5 +95,5 @@
     }
   ],
   "manual": true,
-  "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched."
+  "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.\n\nround5: No public profile of Sharon herself was found. One new public source names her: Frostburg State University's 2019 football roster bio of her son Matt calls him the 'son of Thomas and Sharon Meier' ([R4-S1]). Her three sons' public athletic careers, at Broad Run High School, UVa-Wise and Frostburg State, are recorded on their own pages."
 }

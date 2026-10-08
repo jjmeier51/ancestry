@@ -1,0 +1,154 @@
+{
+  "id": "M0023",
+  "name": "Michael Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Mike Meier"
+    ],
+    "education": [
+      {
+        "school": "Robinson Secondary School, Fairfax, Va.",
+        "years": "graduated c.2007",
+        "detail": "First-team all-district, all-region, chosen for the Virginia state all-star game (football).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "school": "United States Military Academy, West Point",
+        "years": "senior in 2011-12 (class of 2012, inferred)",
+        "detail": "Law major; two-year member of Army sprint football (2010-11).",
+        "sourceRefs": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "career": [
+      {
+        "role": "Athletic Intern",
+        "organization": "Army West Point Athletics",
+        "years": "c.2012",
+        "detail": "Tim's bio calls older brother Mike \"the current Athletic Intern\" (a post often held by new graduates before branch school).",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "role": "Second Lieutenant, US Army",
+        "organization": "Fort Sill, Okla.",
+        "years": "2013",
+        "detail": "Already on the site.",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "All-CSFL first team (Collegiate Sprint Football League)",
+        "date": "2010",
+        "detail": "Led Army in rushing (48.8 ypg; 293 yards on 59 carries, five TDs); 103 yards and a TD v. Princeton; scored in the season-finale win at Navy.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Mike played sprint football (players under a weight limit) at West Point. He wore No. 5 and was listed as a linebacker on the 2011 roster as a senior from Fairfax, Va., and Robinson Secondary. In 2010, his first season, he was All-CSFL first team and led Army in rushing at 48.8 yards a game. He scored in his first two games, at RPI and Mansfield, ran for 103 yards and a touchdown against Princeton and scored in the season-finale win at Navy, which decided the league title. His bio calls him a law major, the son of Dan and Ann Meier, and says his father played football at NC State and his brother Tim was on the team. At Robinson he was first-team all-district and all-region and played in the Virginia state all-star game (S1). His brother Tim's bio says Mike later served as Army's athletic intern (S2).",
+  "openQuestionsResolved": [
+    {
+      "question": "Confirm whether he is the Mike Meier named Washington Post All-Met honorable mention (running back, Robinson, 2006).",
+      "answer": "Very likely. His West Point bio says he was first-team all-district and all-region at Robinson and played in the state all-star game, and he played running back at Army. That fits a 2006 All-Met honourable mention, though no source states the All-Met honour outright.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Branch and later career after Fort Sill (presumably Field Artillery) not found; DVIDS search pages returned empty, and the \"1st Lt. Michael Meier\" in DVIDS is a Marine VMI graduate, a different man."
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "M0013",
+      "evidence": "\"Son of Dan and Ann Meier ... father played football at North Carolina State\"",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "sibling",
+      "personId": "M0024",
+      "evidence": "\"brother Tim also on Army sprint football team\"",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Michael Meier, Army sprint football 2010-11; bio says \"Son of Dan and Ann Meier ... father played football at North Carolina State ... brother Tim also on Army sprint football team\""
+    },
+    {
+      "ref": "S2",
+      "citation": "Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Tim Meier, Army sprint football 2009-11; bio says \"Son of Dan and Ann Meier ... father was a defensive lineman at North Carolina State ... older brother Mike ... brother Joe, sister Mary\""
+    },
+    {
+      "ref": "S3",
+      "citation": "Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details)",
+      "url": "https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Wife Annie; Mike, 24, a West Point grad and Army 2nd Lt at Fort Sill; Timmy, 22, and Joe, 20, cadets at West Point; Mary, 18, Robinson graduate planning a music career"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Michael Meier, Army sprint football roster headshot (2011)",
+      "date": "2011",
+      "pageUrl": "https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+      "directUrl": "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/goarmywestpoint.com/images/2015/5/25/6591966.jpeg",
+      "repository": "Army West Point Athletics (goarmywestpoint.com)",
+      "rights": "copyrighted",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "M0023"
+      ],
+      "suggestedFile": "media/M0023/army-sprint-2011.jpg",
+      "note": "Published by the Army West Point Athletic Association (a private non-profit), not a federal-government work, so treated as copyrighted."
+    }
+  ],
+  "onlinePresence": [
+    {
+      "kind": "sports_stats",
+      "title": "Michael Meier – 2011 – Sprint Football – Army West Point",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+      "accessed": "2026-10-08",
+      "note": "Roster bio with 2010 stats and personal notes"
+    }
+  ],
+  "searchedNoResult": [
+    "\"Capt./1st Lt. Michael Meier\" field artillery: no Army match (a Marine 1st Lt. Michael Meier, VMI, is a different person)",
+    "DVIDS site search: empty responses (blocked/JS)",
+    "College football rosters for \"Mike Meier\" Robinson: nothing beyond Army"
+  ],
+  "researchLogEntry": "Round 5: Army West Point sprint football 2010-11 (All-CSFL 1st team 2010, team rushing leader; law major); bio names parents Dan and Ann; later Army athletic intern."
+}

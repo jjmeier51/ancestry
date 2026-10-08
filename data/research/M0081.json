@@ -1,0 +1,21 @@
+{
+  "id": "M0081",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported): new relative NEW-1403 → M0081; research/imported/round4/new_people.json."
+    }
+  ],
+  "researchNotes": "round5: Living, name and relationship only (spouse Sandra per obituary)"
+}

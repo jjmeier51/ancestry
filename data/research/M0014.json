@@ -24,6 +24,18 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: East Stroudsburg University Athletics Hall of Fame: no Jamie or Tom Meier (only Terri Meierhofer); \"Jamie Meier\" coach/Waynewood/Chantilly 2018-2026: nothing new; Waynewood PTA minutes April 2016 (waynewoodelem.ch2v.com PDF): HTTP 503, not loaded"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: one minor new mention (2013 Military Town Advisor: principal and crossing guard); ESU Hall of Fame negative."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0014.json."
     }
   ],
   "summary": "Known as Jamie: All-PSAC split end at East Stroudsburg, offensive coordinator of West Potomac's 1989 state champions, and principal of Waynewood Elementary School 2006–17; John's uncle.",
@@ -39,7 +51,8 @@
     "Mount Vernon Gazette, 4 May 2012, \"Academic Excellence Award for Waynewood\" (fourth straight year): https://www.mountvernongazette.com/news/2012/may/04/academic-excellence-award-waynewood/",
     "Covering the Corridor, 2 Jun 2017, \"New principal selected for Waynewood Elementary\" (retiring after 31 years in FCPS, 11 as principal): https://coveringthecorridor.com/2017/06/new-principal-waynewood/",
     "Mount Vernon Gazette, 4 Sep 2017, \"Back to Waynewood Elementary\": https://www.connectionnewspapers.com/news/2017/sep/04/back-waynewood-elementary/",
-    "Patch (Greater Alexandria), 22 Feb 2018, \"Mr. Jamie Meier Awarded Citizen of the Year!\": https://patch.com/virginia/greateralexandria/mr-jamie-meier-awarded-citizen-year"
+    "Patch (Greater Alexandria), 22 Feb 2018, \"Mr. Jamie Meier Awarded Citizen of the Year!\": https://patch.com/virginia/greateralexandria/mr-jamie-meier-awarded-citizen-year",
+    "[R4-S1] \"5 Amazing DC Suburbs: Alexandria Neighborhoods\", Military Town Advisor blog, 8 Apr 2013 (secondary) https://www.militarytownadvisor.com/blog/2013/4/8/58/5-amazing-dc-suburbs-alexandria-neighborhoods/"
   ],
   "residences": [
     {
@@ -233,7 +246,16 @@
       "source": "Connection Newspapers",
       "note": "",
       "url": "https://www.connectionnewspapers.com/news/2006/mar/23/the-edge-at-waynewood-elementary/"
+    },
+    {
+      "url": "https://www.militarytownadvisor.com/blog/2013/4/8/58/5-amazing-dc-suburbs-alexandria-neighborhoods/",
+      "type": "link",
+      "title": "Military Town Advisor: Alexandria neighborhoods (2013)",
+      "date": "",
+      "source": "",
+      "note": "Mentions principal Mr. Meier as a crossing guard",
+      "people": []
     }
   ],
-  "researchNotes": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven (2006–17) as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running (2009–12), and he became known for visiting every classroom every day, knowing nearly every child by name and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha."
+  "researchNotes": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven (2006–17) as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running (2009–12), and he became known for visiting every classroom every day, knowing nearly every child by name and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.\n\nround5: An April 2013 neighbourhood guide to Alexandria, written for military families, singled out Waynewood Elementary's principal, \"Mr. Meier\", as one of the school's crossing guards who knew students and parents by name and was always out around the school ([R4-S1]). This is the same crossing-guard habit later cited when he was named Citizen of the Year in 2018."
 }

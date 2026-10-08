@@ -1,0 +1,91 @@
+{
+  "id": "I282695504009",
+  "name": "Ann Marie Petriello",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Ann Marie Genello"
+    ],
+    "residences": [
+      {
+        "date": "1940",
+        "place": "Scranton (Bunker Hill Street, Ward 10), Lackawanna Co., PA",
+        "note": "age 6, with parents James and Mollie and brother John",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Ann Marie Petriello, b. about 1934, is the same woman as M0003 'Ann Marie Genello' (see that file for the full evidence). In April 1940 she was 6, living at 1028 Bunker Hill Street, Scranton, with her parents James and Mollie and her brother John (S2). Her brother John T. Petriello Sr.'s 2025 obituary names her as 'his sister Ann Marie Genello' (S1). She married Anthony 'Zitzer' Genello about 1955-56 and was widowed in February 2024 (S3).",
+  "conflicts": [
+    {
+      "field": "identity",
+      "siteValue": "Separate from M0003 'Ann Marie Genello'",
+      "foundValue": "Same woman",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "assessment": "MERGE RECOMMENDATION: merge I282695504009 into M0003 (or the reverse). Keep the birth year 1934 and the 1950 Dunmore residence from this record, and the obituary links from M0003. Set her mother to H0332 (I282695504011 is a duplicate of H0332)."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "NEW-1301",
+      "evidence": "see M0003",
+      "sourceRefs": [
+        "S3",
+        "S4"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "1940 census (primary) shows her as James and Mollie's daughter; her brother's 2025 obituary names her as his sister."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181).",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "'his sister Ann Marie Genello'"
+    },
+    {
+      "ref": "S2",
+      "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122).",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Ann Marie, 6, daughter of James and Mollie, 1940"
+    },
+    {
+      "ref": "S3",
+      "citation": "Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472).",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Wife of Anthony Genello for 68 years"
+    },
+    {
+      "ref": "S4",
+      "citation": "Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025.",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Louis and Susan Genello sympathy at Sr.'s death"
+    }
+  ],
+  "searchedNoResult": [
+    "See M0003"
+  ],
+  "researchLogEntry": "Round 5: shown to be the same woman as M0003 Ann Marie Genello (married name); merge recommended."
+}

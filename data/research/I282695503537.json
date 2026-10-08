@@ -19,6 +19,11 @@
     {
       "date": "1933–",
       "place": "Scranton, Pennsylvania, USA"
+    },
+    {
+      "date": "2025",
+      "place": "Scranton area (Lackawanna County), Pennsylvania",
+      "note": "Survived husband John T. Petriello Sr. (d. 1 Mar 2025); family parish Holy Rosary, funeral at St. Gregory, Clarks Green. Town not stated for her explicitly. [R4-S1]"
     }
   ],
   "facts": [
@@ -37,7 +42,9 @@
     "Obituary of Anthony R. Cognetti, Scranton Times, 2008: https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
     "Obituary of Joseph F. Cognetti, Scranton Times, 2009: https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
     "\"Family celebrates 50 years of Thanksgiving gatherings\", Scranton Times-Tribune via Hinerfeld, 30 Nov 2016: https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] 'Family celebrates 50 years of Thanksgiving gatherings' (Times-Tribune story, Nov 2016, reprinted by Hinerfeld Commercial) (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
   ],
   "mediaKnown": [
     "Ancestry tree profile",
@@ -60,6 +67,18 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch: 'Mary Petriello obituary Scranton Cognetti' (no 2025-2026 death notice); WebSearch: \"Mary C. Petriello\" / \"Mary Cognetti Petriello\" obituary 2025/2026 (no match); WebSearch: \"Petriello\" obituary Scranton 2026 (none); WebSearch: \"Mary Petriello\" Scranton / Clarks Summit / Dunmore (no Mary match); WebSearch: Cognetti obituary Scranton Petriello (only Leo S. 2019); Legacy.com search pages: blocked (403 Cloudflare); Solfanelli-Fiorillo obituary listing search: blocked (403); Echovita name search petriello: no Mary Petriello listing"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: no death found for Mary (Cognetti) Petriello after her husband's March 2025 obituary; still presumed living; logged the 2016 Thanksgiving news photo of her with brother Leo."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503537.json."
     }
   ],
   "media": [
@@ -96,5 +115,5 @@
       "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864"
     }
   ],
-  "researchNotes": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives."
+  "researchNotes": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives.\n\nround5: No death record or obituary for Mary (Cognetti) Petriello was found as of 8 Oct 2026: searches of the web, the Scranton Times-Tribune / Legacy indexes (via search engines), Echovita and the Solfanelli-Fiorillo funeral-home site turned up nothing after her husband's March 2025 obituary, which names her as surviving spouse 'Mary Cognetti Petriello' ([R4-S1]). She is therefore still presumed living. The Nov 2016 newspaper story on the 50th Cognetti family Thanksgiving ([R4-S2], already on the site) carried a staff photograph of Mary Petriello (83) and her brother Leo Cognetti (87) looking over the 186-name Cognetti family tree compiled by their niece Maria Cognetti (daughter of Joseph F. and Domenica Cognetti); the photo is copyrighted and was not downloaded."
 }

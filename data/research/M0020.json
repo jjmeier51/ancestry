@@ -17,12 +17,30 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse M0001, probable): The Knot registry 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Laura De Santis'/'Laura DeSantis' + Tommy Meier, Virginia, Loudoun, Leesburg, Ashburn, coach, college athletics: only the registry and the FCPS staff page (no identity link); LinkedIn 'Laura De Santis - Teacher - Fairfax County Public Schools': not loaded (LinkedIn blocks); name-only; Wedding announcement in newspapers: none found"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: public registry gives her marriage to Tommy Meier Jr. on 29 May 2021 (Leesburg, VA); possible FCPS health/PE teacher, identity unconfirmed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0020.json."
     }
   ],
   "summary": "Wife of Tommy Meier Jr. and mother of Luca; she kept her surname, De Santis.",
   "sources": [
     "John Meier, family information, 8 Oct 2026",
-    "Obituary of John T. Petriello Sr., 2025"
+    "Obituary of John T. Petriello Sr., 2025",
+    "[R4-S1] The Knot registry page 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021 (read via text proxy; direct 403) (secondary) https://registry.theknot.com/laura-de-santis-tommy-meier-may-2021-va/43447109",
+    "[R4-S2] Holmes Middle School (FCPS) staff page 'Laura De Santis' - Health & Physical Education teacher (candidate only, name match) (secondary) https://holmesms.fcps.edu/staff/laura-de-santis"
   ],
   "manual": true,
   "facts": [
@@ -30,5 +48,17 @@
       "label": "Surname",
       "value": "De Santis (kept after marriage)"
     }
+  ],
+  "events": [
+    {
+      "title": "Married Thomas F. 'Tommy' Meier Jr.",
+      "date": "2021-05-29",
+      "place": "Leesburg, Virginia (as shown on the couple's public registry page)",
+      "description": "The Knot registry page 'Laura De Santis & Tommy Meier', headed 'Leesburg, VA - May 29, 2021'. [R4-S1]"
+    }
+  ],
+  "researchNotes": "round5: Laura De Santis married Tommy Meier Jr. on 29 May 2021; their public wedding-registry page gives Leesburg, Virginia ([R4-S1]). She kept her surname. A Laura De Santis teaches health and physical education at Holmes Middle School (Fairfax County Public Schools, Alexandria), but no second identifier ties that teacher to Tommy's wife, so this is a candidate only ([R4-S2]).",
+  "openQuestions": [
+    "Is she the Laura De Santis who is a health & PE teacher at Holmes Middle School (FCPS)? Name-only match: John can confirm."
   ]
 }

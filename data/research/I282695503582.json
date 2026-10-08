@@ -1,0 +1,83 @@
+{
+  "id": "I282695503582",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Identified as a duplicate of Leo S. Cognetti (H0346), whose parentage is confirmed. Merge the two records."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: 'Levyso' (b. 1930) proved to be the 1940 census's 'Leopo', 10, i.e. Leo S. Cognetti (1929-2019, H0346). Duplicate, deceased; merge."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503582.json."
+    }
+  ],
+  "birth": {
+    "date": "1929-05-19",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+  },
+  "death": {
+    "date": "2019-07-01",
+    "place": "Exton, Chester County, Pennsylvania"
+  },
+  "aka": [
+    "Leopo Cognetti (1940 census)",
+    "Leupo Cognetti (FamilySearch index)",
+    "Leopold Salvatore Cognetti",
+    "Leo S. Cognetti"
+  ],
+  "facts": [
+    {
+      "label": "Duplicate of",
+      "value": "H0346 Leo S. Cognetti (1929-2019)"
+    }
+  ],
+  "researchNotes": "round5: 'Levyso Cognetti (b. 1930)' is not a separate person. The only source behind the entry is the 1940 census of 612 Philo Street, Scranton (Ward 2, E.D. 71-15 on the image header, sheet 13B), where Frank and Helen Cognetti's household lists the sons Ralph, Salvatore, Joseph, Anthony, John and 'Leopo' (son, 10, born Pennsylvania, at school, grade 5) and the daughter Mary ([R4-S1]). FamilySearch's index transcribes the name as 'Leupo' ([R4-S1]), and the Ancestry tree's 'Levyso' is a further misreading of the abbreviation 'Leopo' for Leopoldo. A 10-year-old in April 1940 fits Leopold Salvatore 'Leo S.' Cognetti, born 19 May 1929 ([R4-S2]). No other son of about that age appears in the household, and Leo is already in the tree as H0346. He died at home in Exton, PA, on 1 Jul 2019 ([R4-S3]). The record should be merged into H0346 and the 'presumed living' flag dropped.",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1930",
+      "found": "1929-05-19 (Leo S.); 1940 census age 10 implies 1929-30",
+      "assessment": "The 1930 year comes from the census age; Leo's draft card gives 19 May 1929."
+    },
+    {
+      "field": "citation",
+      "site": "1940 census E.D. 71-16",
+      "found": "Image header reads E.D. 71-15, sheet 13B",
+      "assessment": "This is a minor citation discrepancy; the header on the image as read should be preferred."
+    }
+  ],
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): Identified as a duplicate of Leo S. Cognetti (H0346), whose parentage is confirmed. Merge the two records."
+  },
+  "openQuestions": [
+    "Merge I282695503582 'Levyso' into H0346 Leo S. Cognetti; the FamilySearch tree has the same duplicate (GBQH-TGM 'Leupo' vs G3NN-88N Leopold)."
+  ],
+  "sources": [
+    "[R4-S1] 1940 US census, Scranton Ward 2, Lackawanna Co., PA, E.D. 71-15, sheet 13B, lines 64-73 (Frank Cognetti household, 612 Philo St); FamilySearch index 'Leupo Cognetti' KQZZ-JKH, image attached to FS-tree GBQH-TGM (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch tree G3NN-88N, Leopold Cognetti 1929-2019 (attached sources: 1930 census 'Leopoldo' XH3R-XB1; WWII draft card 'Leopold Salvatore Cognetti' Q2Q2-N2SB) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3NN-88N",
+    "[R4-S3] Obituary of Leo S. Cognetti, James J. Terry Funeral Home (2019) (secondary) https://jamesterryfuneralhome.com/tributes/Leo-Cognetti"
+  ],
+  "media": [
+    {
+      "file": "media/I282695503582/1940-census-scranton-ed71-15-sheet13b.jpg",
+      "type": "record",
+      "title": "1940 census, Frank Cognetti household, 612 Philo St, Scranton (sheet 13B), listing 'Leopo', 10",
+      "date": "1940-04-11",
+      "source": "FamilySearch (NARA 1940 census), public_domain",
+      "note": "US federal census schedule, a US government work, so public domain. Same household image as the site's 1940 citation.",
+      "people": [
+        "H0346",
+        "I282695503559",
+        "I282695503581",
+        "I282695503584",
+        "I282695503537",
+        "I282695503583"
+      ],
+      "url": "https://familysearch.org/ark:/61903/1:1:KQZZ-JKH"
+    }
+  ]
+}

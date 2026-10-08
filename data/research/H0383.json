@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0383.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: identified from Betsy McGuire's 2016 obituary as her husband Harold E. Arnold (1927–1997); moved from Elizabeth (McAvoy) McGuire's family to Betsy's."
     }
   ],
   "conflicts": [
@@ -29,6 +33,19 @@
   ],
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Harold Arnold (1927-1997), PID GP7C-XR4; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4",
-    "[R4-S2] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB"
-  ]
+    "[R4-S2] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB",
+    "[R5-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+    "[R5-S2] FamilySearch Family Tree (published), Harold Edward Arnold, PID GP6V-LL1 (WWII draft registration and NUMIDENT attached) https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1"
+  ],
+  "given": "Harold Edward",
+  "surname": "Arnold",
+  "summary": "Husband of Elizabeth 'Betsy' McGuire; the Altoona-area couple married in Wilkes-Barre in 1952.",
+  "researchNotes": "round5:",
+  "birth": {
+    "date": "1927"
+  },
+  "death": {
+    "date": "1997-05-27"
+  },
+  "sex": "M"
 }

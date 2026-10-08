@@ -23,10 +23,19 @@ import csv, json, os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
-SRC = os.path.join(ROOT, "research", "imported", "round4")
-MEDIA_SRC = os.environ.get("ROUND4_MEDIA", os.path.join(ROOT, ".cache", "round4", "media"))
+ROUND = os.environ.get("ROUND", "round4")
+SRC = os.path.join(ROOT, "research", "imported", ROUND)
+MEDIA_SRC = os.environ.get("ROUND4_MEDIA", os.path.join(ROOT, ".cache", ROUND, "media"))
 TODAY = "2026-10-08"
-TAG = "round4"
+TAG = ROUND
+NOTES_ONLY = ROUND != "round4"   # later rounds: bioAdditions go to researchNotes; the About stays prose
+LEADS_FILE = "research/leads-round4.md" if ROUND == "round4" else f"research/leads-{ROUND}.md"
+PRESET_IDS = {"round5": {"NEW-1201": "H0383"}}.get(ROUND, {})          # new people who already exist in the tree
+SKIP_NEW = {"round5": {"NEW-1305", "NEW-1306", "NEW-1307"}}.get(ROUND, set())  # siblings whose parents are not in the tree
+DIR_OVERRIDES = {"round5": {**{(f"NEW-{n}", None): "parent_of" for n in (1405, 1406, 1410, 1411)},
+                            ("NEW-1409", "NEW-1408"): "parent_of", ("NEW-1409", "I282695503586"): "child_of", ("NEW-1409", "H0499"): "child_of",
+                            ("NEW-1408", "NEW-1409"): "child_of",
+                            **{(f"NEW-{n}", None): "child_of" for n in (1402, 1403, 1404, 1407, 1202, 1203, 1204, 1302, 1303, 1304)}}}.get(ROUND, {})
 RESOLVED_DATES = {  # (person, field): dates the summary settles with primary evidence
     ("I282608064820", "death"),   # Henry J. Meier d. 20 Dec 1950 (1950 census + PA death index)
     ("I282608085064", "birth"),   # Theresa Meier b. 10 Sep 1868 (marriage record; 1870/1880 censuses)
@@ -141,6 +150,11 @@ def import_person(pid, d, site, stats):
         log.append({"date": TODAY, "note": f"Round 4 ({TAG} imported): identified as a living person; not researched further."})
         save(path, r); stats["living"] += 1
         return
+    if status == "minor_limited":
+        log.append({"date": TODAY, "note": f"{TAG}: a child; recorded by name and relationship only."})
+        save(path, r); stats["living"] += 1
+        return
+    deceased = status == "deceased_detected"
     have = {s.get("ref") for s in d.get("sources", [])}
     p = site.get(pid, {})
     u = d.get("updates") or {}
@@ -151,7 +165,7 @@ def import_person(pid, d, site, stats):
             continue
         cur = r.get(key) or p.get(key) or {}
         nd, cd = norm_date(up.get("date")), cur.get("date") or ""
-        apply_date = bool(nd) and (not cd or year(nd) == year(cd) or (pid, key) in RESOLVED_DATES)
+        apply_date = bool(nd) and (not cd or year(nd) == year(cd) or (pid, key) in RESOLVED_DATES or deceased)
         new = dict(cur)
         if apply_date:
             new["date"] = nd
@@ -195,6 +209,22 @@ def import_person(pid, d, site, stats):
             if it not in cur:
                 cur.append(it)
         r[key] = cur
+    extra_events = []
+    for e in u.get("education") or []:
+        extra_events.append({"title": f"Education: {e.get('school', '')}", "date": e.get("years", ""), "place": "",
+                             "description": with_refs(e.get("detail", ""), e.get("sourceRefs"))})
+    for c in u.get("career") or []:
+        extra_events.append({"title": f"{c.get('role', '')}, {c.get('organization', '')}".strip(", "), "date": c.get("years", ""), "place": "",
+                             "description": with_refs(c.get("detail", ""), c.get("sourceRefs"))})
+    for a in u.get("awards") or []:
+        extra_events.append({"title": a.get("title", ""), "date": norm_date(a.get("date", "")), "place": "",
+                             "description": with_refs(a.get("detail", ""), a.get("sourceRefs"))})
+    if extra_events:
+        cur = r.get("events") or list(p.get("events") or [])
+        for it in extra_events:
+            if it not in cur:
+                cur.append(it)
+        r["events"] = cur
     for f in u.get("facts") or []:
         cur = r.get("facts") or list(p.get("facts") or [])
         f = {"label": f.get("label", ""), "value": f.get("value", "")}
@@ -202,11 +232,17 @@ def import_person(pid, d, site, stats):
             cur.append(f)
         r["facts"] = cur
     if d.get("bioAdditions"):
-        base = r.get("bio") or p.get("bio") or ""
         add = refs_to_text(d["bioAdditions"].strip(), have)
-        if add not in base:
-            r["bio"] = (base + "\n\n" if base else "") + add
-            stats["bios"] += 1
+        if NOTES_ONLY:
+            notes = r.get("researchNotes") or ""
+            if add not in notes:
+                r["researchNotes"] = (notes + "\n\n" if notes else "") + f"{TAG}: " + add
+                stats["bios"] += 1
+        else:
+            base = r.get("bio") or p.get("bio") or ""
+            if add not in base:
+                r["bio"] = (base + "\n\n" if base else "") + add
+                stats["bios"] += 1
     for ff in d.get("funFacts") or []:
         cur = r.get("funFacts") or list(p.get("funFacts") or [])
         if ff not in cur:
@@ -276,6 +312,16 @@ def import_person(pid, d, site, stats):
             stats["links"] += 1
         if entry and not any((x.get("file") and x.get("file") == entry.get("file")) or (x.get("url") and x.get("url") == entry.get("url") and not entry.get("file")) for x in media):
             media.append(entry)
+    for key, kind in (("onlinePresence", "link"), ("newsArticles", "link")):
+        for m in d.get(key) or []:
+            url = m.get("url") or m.get("pageUrl")
+            if not url or any(x.get("url") == url for x in media):
+                continue
+            title = m.get("title") or m.get("site") or m.get("outlet") or url
+            src = ", ".join(x for x in (m.get("site") or m.get("outlet") or m.get("publication"), m.get("date")) if x)
+            media.append({"url": url, "type": kind, "title": title, "date": m.get("date") or "", "source": src,
+                          "note": (m.get("note") or m.get("summary") or "")[:300], "people": []})
+            stats["links"] += 1
     if media:
         r["media"] = media
     if d.get("searchedNoResult"):
@@ -308,6 +354,8 @@ def import_new_people(site, stats):
     man = load("data/additions-manual.json", {"people": [], "families": [], "familyUpdates": [], "setParents": []})
     man.setdefault("familyUpdates", []); man.setdefault("setParents", []); man.setdefault("merges", [])
     idmap = load(os.path.join(SRC, "_work", "new_ids.json"), {})
+    idmap.update(PRESET_IDS)
+    newp = [np_ for np_ in newp if np_["id"] not in SKIP_NEW]
     nxt = max([int(p["id"][1:]) for p in man["people"]] + [36]) + 1
     fnxt = max([int(f["id"][2:]) for f in man["families"]] + [9]) + 1
     s = open("data/family.js", encoding="utf-8").read()
@@ -317,7 +365,7 @@ def import_new_people(site, stats):
             idmap[np_["id"]] = f"M{nxt:04d}"; nxt += 1
     def mid(x):
         return idmap.get(x, x)
-    existing = {p["id"] for p in man["people"]}
+    existing = {p["id"] for p in man["people"]} | set(site)
     for np_ in newp:
         pid = mid(np_["id"])
         if pid in existing:
@@ -401,6 +449,7 @@ def import_new_people(site, stats):
         ("NEW-101", "H0012"): "child_of", ("NEW-101", "H0054"): "child_of", ("NEW-102", "H0012"): "child_of",
         ("NEW-103", "H0012"): "child_of", ("NEW-104", "H0027"): "child_of",
     }
+    OVERRIDES.update(DIR_OVERRIDES)
     def direction(np_, r_):
         if r_["type"] in ("parent", "child"):
             o = OVERRIDES.get((np_["id"], r_["personId"])) or OVERRIDES.get((np_["id"], None))
@@ -508,14 +557,14 @@ def import_stories(idmap, stats):
 
 def write_leads(idmap, site):
     leads = load(os.path.join(SRC, "leads.json"), [])
-    out = ["# Research leads from round 4 (8 Oct 2026)", "", "Records seen only as index entries or snippets; each needs the actual record (paywalled or orderable). Source: `research/imported/round4/leads.json`.", "",
+    out = [f"# Research leads from {ROUND} (8 Oct 2026)", "", "Records seen only as index entries or snippets; each needs the actual record (paywalled or orderable). Source: `research/imported/round4/leads.json`.", "",
            "| Person | Collection | Search terms | What the snippet shows | Why it matters |", "|---|---|---|---|---|"]
     for l in leads:
         pid = idmap.get(l.get("personId"), l.get("personId"))
         p = site.get(pid, {}); nm = f"{p.get('given', '')} {p.get('surname', '')}".strip() or pid
         cell = lambda x: (x or "").replace("|", "/").replace("\n", " ")
         out.append(f"| {nm} (`{pid}`) | {cell(l.get('collection'))} ({cell(l.get('site'))}) | {cell(l.get('searchTerms'))} | {cell(l.get('whatTheSnippetShows'))} | {cell(l.get('whyItMatters'))} |")
-    open("research/leads-round4.md", "w", encoding="utf-8").write("\n".join(out) + "\n")
+    open(LEADS_FILE, "w", encoding="utf-8").write("\n".join(out) + "\n")
 
 
 def main():

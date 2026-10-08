@@ -2449,7 +2449,8 @@ window.FAMILY_DATA = {
     "note": "The person this tree is built around. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
    },
    "aka": [
-    "Johnny Meier"
+    "Johnny Meier",
+    "John Meier (MaxPreps 2008-09 roster)"
    ],
    "tags": [
     "notable"
@@ -2482,7 +2483,13 @@ window.FAMILY_DATA = {
    "sources": [
     "John's Ancestry tree screenshots (Google Drive, IMG_7791 and others)",
     "Richard_Bull_Smith_Lineage.pdf",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] MaxPreps, John Meier's Broad Run High School career home (class of 2010; 2008-09 varsity football OL/LB No. 51, team 14-0) (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/john-meier/?careerid=qbpg99g5mkutd",
+    "[R4-S2] MaxPreps, Johnny Meier's Broad Run High School career home (2007-08 RB/LB No. 31, team 10-1; 2009-10 OL No. 51, team 14-0; 2010 baseball No. 15) (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/johnny-meier/?careerid=8j7qpts3ocah1",
+    "[R4-S3] MaxPreps, Broad Run Spartans Football all-time roster (Meier, Johnny (So.), Meier, John (Jr.), Meier, Johnny (Sr.); Meier, Tommy (Jr./Sr.); Meier, Matt (So./Jr./Sr.)) (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/football/roster/all-time/",
+    "[R4-S4] MaxPreps, Johnny Meier career page: varsity baseball 2009-10 (spring), team 17-5 (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/johnny-meier/?careerid=8j7qpts3ocah1",
+    "[R4-S5] Washington Post, Loudoun Extra Points blog, 'Dulles, Liberty all-district football teams', Matt Brooks, 11 Nov 2009 (Wayback capture 30 Oct 2020) (secondary) https://web.archive.org/web/20201030231502/http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html",
+    "[R4-S6] Wikipedia, 'Broad Run High School' (football: 2008 AA Division 4 state title, 14-0; 2009 second title vs Amherst) (derivative) https://en.wikipedia.org/wiki/Broad_Run_High_School"
    ],
    "mediaKnown": [
     "Ancestry profile photo (a collage)"
@@ -2525,6 +2532,42 @@ window.FAMILY_DATA = {
      "people": [
       "I282608065309"
      ]
+    },
+    {
+     "url": "https://web.archive.org/web/20201030231502/http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html",
+     "type": "link",
+     "title": "Washington Post Loudoun blog: 2009 All-Dulles District team (photos of the defensive players of the year; Johnny named in the list)",
+     "date": "2009-11-11",
+     "source": "Internet Archive Wayback Machine / Washington Post, copyrighted",
+     "note": "No photo of Johnny himself. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/johnny-meier/?careerid=8j7qpts3ocah1",
+     "type": "link",
+     "title": "Johnny Meier's Broad Run High School career (MaxPreps)",
+     "date": "",
+     "source": "",
+     "note": "2007 and 2009 football, 2010 baseball",
+     "people": []
+    },
+    {
+     "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/john-meier/?careerid=qbpg99g5mkutd",
+     "type": "link",
+     "title": "John Meier's Broad Run High School career (MaxPreps, class of 2010)",
+     "date": "",
+     "source": "",
+     "note": "Duplicate MaxPreps profile for the 2008 season",
+     "people": []
+    },
+    {
+     "url": "http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html",
+     "type": "link",
+     "title": "Dulles, Liberty all-district football teams",
+     "date": "2009-11-11",
+     "source": "Washington Post, Loudoun Extra Points blog (Matt Brooks), 2009-11-11",
+     "note": "First Team Defense: LB *Johnny Meier, Sr. (Broad Run), unanimous selection.",
+     "people": []
     }
    ],
    "researchLog": [
@@ -2547,11 +2590,57 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch: 'Johnny Meier' + Ashburn/Herndon/Virginia; 'John Meier' + 'Shannon McCarthy'; college rosters 2010-2014 with hometown Ashburn - no college athletics found; LinkedIn 'John Meier - Reston, Virginia' (johnmeierpan): HTTP 999, not loaded; name-only, not attached; Zola wedding website 'Shannon McCarthy and Johnny Meier' (zola.com/wedding/howell25): 404 now, no Wayback capture; Washington Post All-Met 2009 honorable mention: not found; archive.org yearbooks: no Broad Run yearbooks after 1983; Data-broker results seen in search (Instant Checkmate) were ignored per the privacy rule"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Broad Run HS class of 2010; varsity football 2007-09 on back-to-back 14-0 state-champion teams (2008, 2009), unanimous 1st-team All-Dulles District LB 2009 (Washington Post), varsity baseball 2010; Zola wedding site with Shannon McCarthy seen only in a search snippet."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492552.json."
     }
    ],
    "nickname": "Johnny",
    "manual": true,
-   "researchNotes": "John (\"Johnny\") Meier, born 1992, is the subject of this research and built this site. His Ancestry tree shows him as 'Johnny Meier 1992–Living'. On his father's side he descends from German (Munzingen, Baden) Meiers, Pennsylvania Pringles with colonial Long Island, Huguenot French and Palatine German roots, Irish Heffernans from County Tipperary, and Irish-American McGuires. On his mother's side he descends from Italian Petriello, Gianetta, Cognetti and Ferlaino families from Irpinia (Avellino) and Calabria, who settled in Scranton and Dunmore, PA. He is 13th in descent from Richard 'Bull' Smith, founder of Smithtown, Long Island.",
+   "researchNotes": "John (\"Johnny\") Meier, born 1992, is the subject of this research and built this site. His Ancestry tree shows him as 'Johnny Meier 1992–Living'. On his father's side he descends from German (Munzingen, Baden) Meiers, Pennsylvania Pringles with colonial Long Island, Huguenot French and Palatine German roots, Irish Heffernans from County Tipperary, and Irish-American McGuires. On his mother's side he descends from Italian Petriello, Gianetta, Cognetti and Ferlaino families from Irpinia (Avellino) and Calabria, who settled in Scranton and Dunmore, PA. He is 13th in descent from Richard 'Bull' Smith, founder of Smithtown, Long Island.\n\nround5: Johnny Meier grew up in Ashburn and graduated from Broad Run High School with the class of 2010. Like his brothers he was a football player. He made the varsity as a sophomore in 2007, playing running back and linebacker beside his senior brother Tommy on a team that went unbeaten in the regular season. As a junior and senior he wore No. 51 at linebacker and on the offensive line ([R4-S1], [R4-S2], [R4-S3]). Both of those teams went 14-0 and won the Virginia AA Division 4 state championship, Broad Run's only football state titles ([R4-S6]). In November 2009 the Washington Post's Loudoun sports blog named him a unanimous first-team All-Dulles District linebacker ([R4-S5]). He also played varsity baseball, No. 15, in the spring of 2010 ([R4-S4]).",
+   "events": [
+    {
+     "title": "Played on back-to-back state championship football teams",
+     "date": "2008-2009",
+     "place": "Ashburn, Virginia",
+     "description": "Broad Run went 14-0 in both 2008 and 2009 under coach Michael Burnett and won the VHSL AA Division 4 titles (2008 final vs Amherst County at Liberty University 13-0; 2009 rematch with Amherst at Virginia Tech). MaxPreps lists Johnny on both varsity rosters. [R4-S1] [R4-S2] [R4-S6]"
+    },
+    {
+     "title": "Played varsity football alongside brother Tommy",
+     "date": "2007",
+     "place": "Ashburn, Virginia",
+     "description": "On the 2007 Broad Run team (10-1) Johnny was a sophomore RB/LB and his brother Tommy a senior WR/DB. [R4-S2]"
+    },
+    {
+     "title": "Education: Broad Run High School, Ashburn, Virginia",
+     "date": "class of 2010",
+     "place": "",
+     "description": "Varsity football in 2007 as a sophomore (RB/LB, No. 31; team 10-1, unbeaten regular season), 2008 as a junior (OL/LB, No. 51; team 14-0, VHSL AA Division 4 state champions) and 2009 as a senior (OL/LB, No. 51; team 14-0, second straight AA Division 4 state title, beating Amherst County in the final). Varsity baseball, No. 15, spring 2010 (team 17-5). Listed 5-10, 185 lb. [R4-S1] [R4-S2] [R4-S3] [R4-S4]"
+    },
+    {
+     "title": "First Team All-Dulles District defense, linebacker (unanimous selection)",
+     "date": "2009-11-11",
+     "place": "",
+     "description": "Washington Post 'Loudoun Extra Points' blog (Matt Brooks): 'LB *Johnny Meier, Sr. (Broad Run)', where * = unanimous selection. [R4-S5]"
+    }
+   ],
+   "funFacts": [
+    "All three Meier brothers wore Broad Run football uniforms, and Johnny and Matt both wore No. 51.",
+    "Johnny never lost a game on Broad Run's varsity after his sophomore season: 28-0 over 2008-2009, with two state titles."
+   ],
+   "openQuestions": [
+    "A wedding website 'Shannon McCarthy and Johnny Meier' existed on Zola (zola.com/wedding/howell25); the search-engine summary gave a date of 12 Sep 2025 on Long Island, NY, but the page now returns 404 and has no Wayback copy, so this is unverified. It also conflicts with the site saying John is engaged (Oct 2026). John can confirm or correct the wedding date and place.",
+    "College and career not found online (LinkedIn blocked; 'John Meier' is a common name)."
+   ],
    "birthDateReduced": true
   },
   {
@@ -2615,7 +2704,8 @@ window.FAMILY_DATA = {
    "aka": [
     "Thomas Meier",
     "Thomas Meier Sr.",
-    "Tommy Meier"
+    "Tommy Meier",
+    "Tommy Meier (name used on Herndon HS staff and football pages)"
    ],
    "tags": [
     "athlete",
@@ -2642,7 +2732,20 @@ window.FAMILY_DATA = {
     "The Saxon Scope, 20 Oct 2011, \"Changing the face of Langley\": https://www.saxonscope.com/multimedia/2011/10/20/changing-the-face-of-langley-interactive-story/",
     "The Saxon Scope, 12 Jun 2013, \"Langley renovation update\": https://www.saxonscope.com/news-2/2013/06/12/langley-renovation-update-3/",
     "The Saxon Scope, 23 Sep 2013, \"Langley Leap Update\": https://www.saxonscope.com/news-2/2013/09/23/langley-leap-update/",
-    "The Saxon Scope, 21 Mar 2014, \"Saxons Shine in Regional Science Fair\": https://www.saxonscope.com/news-2/2014/03/21/saxons-shine-in-regional-science-fair/"
+    "The Saxon Scope, 21 Mar 2014, \"Saxons Shine in Regional Science Fair\": https://www.saxonscope.com/news-2/2014/03/21/saxons-shine-in-regional-science-fair/",
+    "[R4-S1] Herndon High School, Administration page (Wayback capture 24 Dec 2001): 'Tommy Meier, Assistant Director of Student Activities' (primary) https://web.archive.org/web/20011224003045/http://www.fcps.edu:80/HerndonHS/admin/admin.htm",
+    "[R4-S2] Herndon High School, Faculty/Administration page (Wayback captures 28 Aug 2003, 11 Apr 2006, 7 Jan 2007, 4 Jun 2007) (primary) https://web.archive.org/web/20070604171042/http://www.fcps.edu:80/HerndonHS/faculty/admin.htm",
+    "[R4-S3] Herndon High School, Faculty/Administration page (Wayback capture 12 Oct 2007): Jonathan Frohm now Assistant Director of Student Activities (primary) https://web.archive.org/web/20071012055247/http://www.fcps.edu:80/HerndonHS/faculty/admin.htm",
+    "[R4-S4] Herndon High School, Football schedule 2002 (Wayback capture 18 Jun 2002): 'Varsity Coach: Tommy Meier'; JV Turnell Sims; freshman Al McCullock (primary) https://web.archive.org/web/20020618042423/http://www.fcps.edu:80/HerndonHS/athletics/Football_sched.htm",
+    "[R4-S5] Herndon High School, Varsity Football schedule/results 2002 (Wayback capture 29 May 2003) (primary) https://web.archive.org/web/20030529053022/http://www.fcps.edu:80/HerndonHS/athletics/sched_fall/football_v.htm",
+    "[R4-S6] Herndon High School, Varsity Football - 2003 (Wayback capture 26 Oct 2003) (primary) https://web.archive.org/web/20031026093222/http://www.fcps.edu:80/HerndonHS/athletics/sched_fall/football_v.htm",
+    "[R4-S7] Herndon High School, Varsity Football - 2004 (Wayback captures 10 Dec 2004 and 17 Mar 2005) (primary) https://web.archive.org/web/20050317122220/http://www.fcps.edu:80/HerndonHS/athletics/sched_fall/football_v.htm",
+    "[R4-S8] Langley High School, New Staff 2007-08 (Wayback capture 21 Nov 2007): 'Thomas Meier, Administration' (primary) https://web.archive.org/web/20071121031110/http://www.fcps.edu:80/LangleyHS/newstaff.html",
+    "[R4-S9] Langley High School, Administration page (Wayback capture 21 Nov 2007): Thomas Meier, Assistant Principal, 10th grade administrator and areas of responsibility (primary) https://web.archive.org/web/20071121030912/http://www.fcps.edu:80/LangleyHS/admin.html",
+    "[R4-S10] Langley High School, staff directory (Wayback capture 21 Nov 2007): 'Meier, Thomas - Asst. Principal' (primary) https://web.archive.org/web/20071121031141/http://www.fcps.edu:80/LangleyHS/staff.html",
+    "[R4-S11] Langley High School, Administrative Team (Wayback capture 31 Jan 2010): Thomas Meier, Grade 12, Foreign Language, Performing Arts, CTE, Cafe, Graduation; principal Matthew Ragone (primary) https://web.archive.org/web/20100131143154/http://www.fcps.edu:80/LangleyHS/admin.html",
+    "[R4-S12] Langley High School administration page (Wayback capture 16 May 2015) - no Meier listed; staff photo files meier_sm.jpg (captured 2012) and tommymeier2013-2014.jpg (captured 2013) (primary) https://web.archive.org/web/20150516042456/http://www.fcps.edu:80/LangleyHS/assets/administration.html",
+    "[R4-S13] Herndon High School, alphabetical faculty list (Wayback capture 11 Oct 2004): 'Meier, Thomas F. - PE' (primary) https://web.archive.org/web/20041011113123/http://www.fcps.edu:80/HerndonHS/faculty/hrndfacalpha.htm"
    ],
    "handoff": {
     "section": "3.1 John and his parents",
@@ -2673,6 +2776,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Season-by-season record at George Mason and Herndon ... which years he coached George Mason; teaching subject; marriage date and place. → Partly answered: Herndon 2002 = 3-7; 2003 started 4-0; 2004 = at least 6-3 (school pages); 2006 = 6-4 (MaxPreps, already known). From at least 2001 he was Herndon's Assistant Director of Student Activities in addition to his PE faculty listing. George Mason years, full record, marriage details remain open; his department at Herndon was physical education (PE), per the 2004 faculty list ([R4-S13])."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch (many phrasings): 'Tom Meier'/'Tommy Meier' + Herndon, George Mason, Langley, East Stroudsburg, hall of fame, retired - no new pages beyond those already on the site; George Mason HS (Falls Church) football 1985-1989 coach: Washington Post 1985 ledes name Jack Gambill (coach since 1959); no Meier found; Post archive paywalled after ledes (read via text proxy); Washington Post 1986 'Notebook' and 2006 All-Met pages: 403 / paywalled; Herndon High School Athletic Hall of Fame (Patch 2015 class): no Meier; archive.org: no George Mason, Herndon or Langley yearbooks for 1985-2014; no East Stroudsburg 'Stroud' yearbooks 1977-1983; no Levittown 1975-1978 yearbooks; Saxon Scope retirement story 2014: not found"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Wayback copies of Herndon HS pages show him as Assistant Director of Student Activities 2001-07 and varsity coach 2002-04 with season scores; Langley HS pages show him as assistant principal 2007-c.2014 (duties, staff photos)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492836.json."
     }
    ],
    "nickname": "Tommy",
@@ -2699,13 +2818,15 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Season-by-season record at George Mason and Herndon (John says he is among the winningest coaches in Virginia history); which years he coached George Mason; teaching subject; marriage date and place."
+    "George Mason HS (Falls Church) coaching years still unconfirmed: Washington Post 1985 notes Jack Gambill had coached Mason since 1959, so Tom presumably succeeded Gambill sometime 1985-1989. Post archive is paywalled after ledes.",
+    "Langley 2011 and 2013-14 administrative-team group photos probably include him (not verified)."
    ],
    "notable": "Head football coach at George Mason High School (Falls Church) and Herndon High School (1990–2006); one of three brothers who were Fairfax County head coaches at the same time, a rarity noted by the Washington Post in 1990; later assistant principal at Langley High School.",
    "funFacts": [
     "In September 1990 the Washington Post previewed Herndon at West Potomac as a 'family affair': Tommy coaching Herndon, brother Danny coaching West Potomac and brother Jamie on Danny's staff.",
     "At East Stroudsburg in 1980 he both threw three touchdown passes and caught two long touchdown passes (58 and 55 yards) in the same season.",
-    "He recruited future NFL lineman Jon Carman out of the school band in a parking lot, and had to order a single pair of extra-large game pants from the Atlanta Falcons to fit him."
+    "He recruited future NFL lineman Jon Carman out of the school band in a parking lot, and had to order a single pair of extra-large game pants from the Atlanta Falcons to fit him.",
+    "On Herndon's own web pages he was always 'Tommy Meier', even as an administrator."
    ],
    "events": [
     {
@@ -2755,6 +2876,48 @@ window.FAMILY_DATA = {
      "date": "2014",
      "place": "McLean, Fairfax County, Virginia, USA",
      "description": ""
+    },
+    {
+     "title": "Herndon football 2002 season",
+     "date": "2002",
+     "place": "Herndon, Virginia",
+     "description": "Coached Herndon to a 3-7 record (school results page). [R4-S5]"
+    },
+    {
+     "title": "Herndon football 2004 season",
+     "date": "2004",
+     "place": "Herndon, Virginia",
+     "description": "At least 6-3 (final Oakton game unreported): five straight wins to open, including a double-overtime 30-24 win over Hayfield and a 45-7 homecoming win over Lee. [R4-S7]"
+    },
+    {
+     "title": "Moved from Herndon to Langley High School as assistant principal",
+     "date": "2007",
+     "place": "McLean, Virginia",
+     "description": "Listed among Langley's new staff in fall 2007; replaced at Herndon by Jonathan Frohm. [R4-S3] [R4-S8]"
+    },
+    {
+     "title": "Physical education faculty (department PE), Herndon High School",
+     "date": "listed 2004",
+     "place": "",
+     "description": "Alphabetical faculty list shows 'Meier, Thomas F.' in the PE department. [R4-S13]"
+    },
+    {
+     "title": "Assistant Director of Student Activities (assistant athletic director), Herndon High School, Fairfax County Public Schools",
+     "date": "by Dec 2001 - 2007",
+     "place": "",
+     "description": "Listed as 'Tommy Meier, Assistant Director of Student Activities' on the Herndon administration pages captured Dec 2001, Aug 2003, Apr 2006, Jan 2007 and Jun 2007; by Oct 2007 the post was held by Jonathan Frohm. This was his administrative job alongside the head-coaching post. [R4-S1] [R4-S2] [R4-S3]"
+    },
+    {
+     "title": "Head varsity football coach, Herndon High School",
+     "date": "1990-2006 (site); seasons 2002, 2003, 2004 confirmed on school pages",
+     "place": "",
+     "description": "School schedule pages name 'Varsity Coach: Tommy Meier' for 2002 (JV coach Turnell Sims, freshman coach Al McCullock), 2003 and 2004. Results posted by the school: 2002 W Hayfield 14-7, L Annandale 40-17, W Thomas Jefferson 35-0, L Robinson 38-14, W Yorktown 27-14, L Westfield 42-12, L Oakton 28-14, L Centreville 41-14, L South Lakes 12-7, L Chantilly 17-6 (3-7). 2003 opened 4-0 (Wakefield, South Lakes, Hayfield, then 35-21 at Lee). 2004: W Wakefield 50-0, W South Lakes 34-0, W Hayfield 30-24 (2OT), W Lee 45-7 (homecoming), W West Potomac 35-0, L Robinson 20-7, L Westfield 21-0, W Chantilly 14-0, L Centreville 27-20, Oakton result not posted (6-3 at last update, Jan 2005). [R4-S4] [R4-S5] [R4-S6] [R4-S7]"
+    },
+    {
+     "title": "Assistant Principal, Langley High School, McLean, Virginia (FCPS)",
+     "date": "2007-2014",
+     "place": "",
+     "description": "Listed among Langley's new staff for 2007-08 ('Thomas Meier, Administration'). In Nov 2007 he was the 10th-grade administrator, supervising Career and Technical Education, Foreign Language, Performing Arts, the Library, Food Services, federal survey forms, the Human Relations Committee and the Safe Community Coalition. In Jan 2010 he was the Grade 12 administrator (Foreign Language, Performing Arts, CTE, cafeteria, graduation). Staff photos of him were posted in 2012 and for 2013-14; the 2015 administration page no longer lists him, consistent with retirement in 2014. [R4-S8] [R4-S9] [R4-S10] [R4-S11] [R4-S12]"
     }
    ],
    "manual": true,
@@ -2926,9 +3089,55 @@ window.FAMILY_DATA = {
      "source": "The Saxon Scope, Langley HS",
      "note": "",
      "url": "https://www.saxonscope.com/news-2/2014/03/21/saxons-shine-in-regional-science-fair/"
+    },
+    {
+     "url": "https://web.archive.org/web/20120419201406/http://www.fcps.edu/LangleyHS/assets/all_staff_photos/meier_sm.jpg",
+     "type": "link",
+     "title": "Thomas Meier, Langley HS staff photo (small)",
+     "date": "c. 2012",
+     "source": "Internet Archive Wayback Machine (Langley HS / FCPS website), unknown",
+     "note": "School-district (county) staff photo; not a federal work, rights unknown, so not downloaded. Image verified to load (JPEG, 15 KB). (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://web.archive.org/web/20131020121052/http://www.fcps.edu/LangleyHS/assets/all_staff_photos/tommymeier2013-2014.jpg",
+     "type": "link",
+     "title": "Tommy Meier, Langley HS staff photo 2013-14",
+     "date": "2013",
+     "source": "Internet Archive Wayback Machine (Langley HS / FCPS website), unknown",
+     "note": "Rights unknown; not downloaded. Image verified to load (JPEG, 90 KB). (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://web.archive.org/web/20120419184230/http://www.fcps.edu/LangleyHS/assets/all_staff_photos/Admin_team_Feb_2011.jpg",
+     "type": "link",
+     "title": "Langley HS administrative team, Feb 2011 (probably includes him)",
+     "date": "2011-02",
+     "source": "Internet Archive Wayback Machine, unknown",
+     "note": "Not opened/verified that he is pictured; he was on the admin team then. (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://web.archive.org/web/20131020122540/http://www.fcps.edu/LangleyHS/assets/all_staff_photos/adminteam2013-2014.jpg",
+     "type": "link",
+     "title": "Langley HS administrative team 2013-14 (probably includes him)",
+     "date": "2013",
+     "source": "Internet Archive Wayback Machine, unknown",
+     "note": "Not verified that he is pictured. (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://web.archive.org/web/20050317122220/http://www.fcps.edu:80/HerndonHS/athletics/sched_fall/football_v.htm",
+     "type": "link",
+     "title": "Herndon HS varsity football 2004 schedule and results, 'Coach: Tommy Meier'",
+     "date": "2004",
+     "source": "Internet Archive Wayback Machine, unknown",
+     "note": "Link only. (not downloaded: rights unknown)",
+     "people": []
     }
    ],
-   "researchNotes": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College (now East Stroudsburg University) for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns (42 points, tying the team lead), ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District (the school lists football district titles in 1985 and 1990), and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to eventual state champion Annandale. A decade later he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night 2003; that 7-4 team ended a six-year regional playoff drought. He coached Herndon through the 2006 season (6-4, 3-3 in the Concorde District), seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The family counts him among the winningest coaches in Virginia high-school history; a season-by-season record has not yet been compiled.\n\nHe then moved into administration at Langley High School in McLean, one of Virginia's top public schools, where as assistant principal he coordinated the committee planning the school's $100-million-class renovation (2011–14 coverage in the student paper) and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia."
+   "researchNotes": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College (now East Stroudsburg University) for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns (42 points, tying the team lead), ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District (the school lists football district titles in 1985 and 1990), and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to eventual state champion Annandale. A decade later he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night 2003; that 7-4 team ended a six-year regional playoff drought. He coached Herndon through the 2006 season (6-4, 3-3 in the Concorde District), seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The family counts him among the winningest coaches in Virginia high-school history; a season-by-season record has not yet been compiled.\n\nHe then moved into administration at Langley High School in McLean, one of Virginia's top public schools, where as assistant principal he coordinated the committee planning the school's $100-million-class renovation (2011–14 coverage in the student paper) and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.\n\nround5: Archived Herndon High School web pages show that, besides coaching, Tommy Meier held an administrative post there: from at least December 2001 until mid-2007 he was the school's Assistant Director of Student Activities, the deputy to the athletic director ([R4-S1], [R4-S2], [R4-S3]). The school's football pages name him as varsity head coach in 2002, 2003 and 2004 and preserve those seasons' scores: a 3-7 year in 2002, a 4-0 start in 2003 (Brandon Guyer's senior season), and in 2004 a five-game opening winning streak that included a 30-24 double-overtime win over Hayfield and a 45-7 homecoming rout of Lee ([R4-S5], [R4-S6], [R4-S7]).\n\nIn the fall of 2007, after his last Herndon season, he joined the administration at Langley High School in McLean as an assistant principal ([R4-S8]). Langley's pages show him as the 10th-grade administrator in 2007 and the 12th-grade administrator by 2010, supervising Career and Technical Education, Foreign Language, Performing Arts and the library, and running the cafeteria and graduation ([R4-S9], [R4-S11]). He appears in Langley staff photos posted in 2012 and for 2013-14 ([R4-S12]), and is absent from the 2015 administration list, consistent with the family's statement that he retired in 2014. Herndon's 2004 faculty list places 'Meier, Thomas F.' in the physical education department ([R4-S13]).",
+   "occupation": "Public-school educator: head football coach and assistant director of student activities, Herndon High School; assistant principal, Langley High School (Fairfax County Public Schools)"
   },
   {
    "id": "I282604492910",
@@ -2996,7 +3205,8 @@ window.FAMILY_DATA = {
     "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "[R4-S1] Frostburg State University Athletics, 2019 Football Roster, 'Matt Meier' bio ('Son of Thomas and Sharon Meier') (secondary) https://frostburgsports.com/sports/football/roster/matt-meier/8984"
    ],
    "handoff": {
     "section": "3.1 John and his parents",
@@ -3023,10 +3233,26 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (child M0002, proven): Frostburg State bio: 'Son of Thomas and Sharon Meier'"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Sharon Meier' + Ashburn/Loudoun/Fairfax/teacher/nurse: only unrelated same-name people (obituaries in OH/WI/PA, a USPTO attorney in Oakton) - none attached; WebSearch 'Sharon Petriello' + Scranton/East Stroudsburg: nothing; archive.org: 1979 Scranton Consolidated HS yearbook full text - no Petriello; no East Stroudsburg State yearbooks online; University of Scranton class-notes PDF 1970-79: 404; Obituary of her mother Mary (Cognetti) Petriello: none found for 2025-2026 (still presumed living); 'Paul Petriello' (brother): nothing found; Data-broker sites excluded"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public footprint of her own; Frostburg State's 2019 bio of son Matt names her as his mother."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/I282604492910.json."
     }
    ],
    "manual": true,
-   "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched."
+   "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.\n\nround5: No public profile of Sharon herself was found. One new public source names her: Frostburg State University's 2019 football roster bio of her son Matt calls him the 'son of Thomas and Sharon Meier' ([R4-S1]). Her three sons' public athletic careers, at Broad Run High School, UVa-Wise and Frostburg State, are recorded on their own pages."
   },
   {
    "id": "I282604492974",
@@ -14118,6 +14344,27 @@ window.FAMILY_DATA = {
      "ancestryId": "c454239c-5004-4f10-90ff-9f945bfb0419"
     }
    ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: family.js: no family, parent, spouse or child link to I282625149693; Project notes, handoff, round-4 output: no mention of Cassie Hayes; No web search on her (stray unrelated living person; privacy)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: determined that Cassie Hayes is an orphan record (no family links anywhere in the site data; only an Ancestry yearbook hint from Marshall, MO), most likely a stray Ancestry attachment."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/I282625149693.json."
+    }
+   ],
+   "researchNotes": "round5: Cassie Hayes is almost certainly a stray Ancestry attachment, not a relative. In the live site data (family.js, loaded 2026-10-08) her ID appears exactly once, in her own record. She is in none of the site's 404 family groups and has no parents, spouse or children. Her only data is an Ancestry 'U.S., School Yearbooks' hit for Marshall High School, Marshall, Missouri, 2007 (two yearbook photos), with a 1991 birth year. No other person in the tree is surnamed Hayes, and the only 'Hayes' text on the site refers to the 1878 Hayes genealogy of the Wells family. Nothing ties any branch of the tree (Luzerne/Bucks Co. PA, Long Island, Virginia, Italy, Ireland, Baden) to Marshall, Missouri, and her 'irish' line tag looks like a default from the import. She appears to have been added in the Ancestry tree by accepting a yearbook hint and was never linked to anyone. Because she is an apparently unrelated living young adult, no web research was done on her.",
+   "openQuestions": [
+    "Recommend John removes her, or checks the Ancestry tree for whether she was meant to be attached to someone (e.g. a spouse of a cousin). If she is a real in-law, the relationship needs to be added."
+   ],
+   "sources": [
+    "[R4-S1] meiertree.com live data file family.js (people and families arrays), searched for her ID (derivative) https://www.meiertree.com/data/family.js"
+   ],
    "birthDateReduced": true
   },
   {
@@ -17924,6 +18171,11 @@ window.FAMILY_DATA = {
     {
      "date": "1933–",
      "place": "Scranton, Pennsylvania, USA"
+    },
+    {
+     "date": "2025",
+     "place": "Scranton area (Lackawanna County), Pennsylvania",
+     "note": "Survived husband John T. Petriello Sr. (d. 1 Mar 2025); family parish Holy Rosary, funeral at St. Gregory, Clarks Green. Town not stated for her explicitly. [R4-S1]"
     }
    ],
    "citations": [
@@ -17984,7 +18236,9 @@ window.FAMILY_DATA = {
     "Obituary of Anthony R. Cognetti, Scranton Times, 2008: https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
     "Obituary of Joseph F. Cognetti, Scranton Times, 2009: https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
     "\"Family celebrates 50 years of Thanksgiving gatherings\", Scranton Times-Tribune via Hinerfeld, 30 Nov 2016: https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] 'Family celebrates 50 years of Thanksgiving gatherings' (Times-Tribune story, Nov 2016, reprinted by Hinerfeld Commercial) (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
    ],
    "mediaKnown": [
     "Ancestry tree profile",
@@ -18007,6 +18261,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch: 'Mary Petriello obituary Scranton Cognetti' (no 2025-2026 death notice); WebSearch: \"Mary C. Petriello\" / \"Mary Cognetti Petriello\" obituary 2025/2026 (no match); WebSearch: \"Petriello\" obituary Scranton 2026 (none); WebSearch: \"Mary Petriello\" Scranton / Clarks Summit / Dunmore (no Mary match); WebSearch: Cognetti obituary Scranton Petriello (only Leo S. 2019); Legacy.com search pages: blocked (403 Cloudflare); Solfanelli-Fiorillo obituary listing search: blocked (403); Echovita name search petriello: no Mary Petriello listing"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no death found for Mary (Cognetti) Petriello after her husband's March 2025 obituary; still presumed living; logged the 2016 Thanksgiving news photo of her with brother Leo."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503537.json."
     }
    ],
    "media": [
@@ -18043,7 +18309,7 @@ window.FAMILY_DATA = {
      "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864"
     }
    ],
-   "researchNotes": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives.",
+   "researchNotes": "Tree: Mary Cognetti (b. 1933), daughter of Frank Cognetti (1895-) and Helen (1896-), wife of John T. Petriello (b. 1933). In the 1950 census she was 17 and living at home (612 Philo St, Scranton) with her parents and siblings Angeline (28), Anthony (25) and John (23). In Nov 2016 she was 83 and, with her brother Leo, one of the two surviving siblings of Joseph F. Cognetti (the article says 'all but two' of Joe's seven siblings had died). She appears as \"Mary Petriello (John)\" in Leo S. Cognetti's 2019 obituary. Round 1 corrected the tree confusion in which 'Mollie Petriello (b. 1911)' was conflated with her: Mollie was her mother-in-law. Her brothers Anthony R. Cognetti (Scranton City Council president) and Joseph F. Cognetti (Candy Hall of Fame) are the family's closest notable relatives.\n\nround5: No death record or obituary for Mary (Cognetti) Petriello was found as of 8 Oct 2026: searches of the web, the Scranton Times-Tribune / Legacy indexes (via search engines), Echovita and the Solfanelli-Fiorillo funeral-home site turned up nothing after her husband's March 2025 obituary, which names her as surviving spouse 'Mary Cognetti Petriello' ([R4-S1]). She is therefore still presumed living. The Nov 2016 newspaper story on the 50th Cognetti family Thanksgiving ([R4-S2], already on the site) carried a staff photograph of Mary Petriello (83) and her brother Leo Cognetti (87) looking over the 186-name Cognetti family tree compiled by their niece Maria Cognetti (daughter of Joseph F. and Domenica Cognetti); the photo is copyrighted and was not downloaded.",
    "birthDateReduced": true
   },
   {
@@ -18426,33 +18692,6 @@ window.FAMILY_DATA = {
    "researchNotes": "Tree: Helen (b. 1896), wife of Frank Cognetti, daughter of Leopoldo Ferlaino (1871-1915) + Giuseppina Fiorillo (1871-1943). CONFLICT: Anthony R. Cognetti's 2008 obituary calls her 'Helen Farina Cognetti'. Round 1 left this unresolved (explanations: Americanization/mishearing of Ferlaino; obituary wrong; or the tree's Ferlaino attachment wrong). Round 2 evidence: (1) 1920 US census, Scranton Ward 2, ED 105, sheet 2A (enumerated 2-3 Jan 1920), 1306 Diamond Avenue: Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; Helen, daughter, 25, married, born Italy, immigrated 1900; Frank, son, 17, born PA, coal-mine laborer; 'Rofella' (Raffaela?), daughter, 15, born PA; Frank Cognetti 'boarder' (son-in-law) 29; grandsons Ralf, Salvador, Joseph; boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. (2) Round 1's forum source says 1306 Diamond Ave 'was the home of the Ferlaino family who took in boarders from San Mango' and names boarder Antonio Epifano - same address, same boarder. (3) Widowed mother Josephine (= Giuseppina) fits Giuseppina Fiorillo, widow of Leopoldo (d. 1915). (4) Her son was named Leopold Salvatore ('Leopoldo' in the 1930 census). (5) Two sons' marriage licenses give mother's maiden name 'Farino': Ralph 1940 (No. 817) and Sal 1943 (No. 1716). The 1920 enumerator wrote the whole Ferlaino household as 'Farino'; 'Farina' in the 2008 obituary is a later echo. Verdict: probable, close to confirmed (Helen = Elena Ferlaino). Arrival: 1900 (1920 census) or 1901 (1930 census), with her mother. Age 25 in Jan 1920 suggests birth c.1894; married at 16 (1930 census) c.1912-13. Her FS tree profile shows 'Deceased' with no date. In 1942 she was listed as next of kin ('Mrs. Helen Cognetti') on son Anthony's draft card at 614 Philo St. Antenati's San Mango coverage ends in 1860, so her birth act and her parents' marriage could not be reached.\n\nHelen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco ([R4-S1]). I read the register entry myself on the volunteer-photographed page ([R4-S2]). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) ([R4-S3]). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling."
   },
   {
-   "id": "I282695503582",
-   "given": "Levyso",
-   "surname": "Cognetti",
-   "sex": "M",
-   "birth": {
-    "date": "1930",
-    "place": "Pennsylvania"
-   },
-   "residences": [
-    {
-     "date": "1935",
-     "place": "Scranton, Lackawanna, Pennsylvania"
-    },
-    {
-     "date": "1940",
-     "place": "Scranton, Lackawanna, Pennsylvania, USA"
-    }
-   ],
-   "citations": [
-    {
-     "source": "1940 United States Federal Census",
-     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
-    }
-   ],
-   "birthDateReduced": true
-  },
-  {
    "id": "I282695503583",
    "given": "Anthony R.",
    "surname": "Cognetti",
@@ -18556,13 +18795,23 @@ window.FAMILY_DATA = {
    "surname": "Cognetti",
    "sex": "M",
    "birth": {
-    "date": "1928",
-    "place": "Pennsylvania"
+    "date": "ABT 1926-1927",
+    "place": "Pennsylvania (Scranton)"
    },
    "residences": [
     {
      "date": "2008",
      "place": "Pittsburgh, Allegheny County, Pennsylvania, USA"
+    },
+    {
+     "date": "1940",
+     "place": "Scranton, Pennsylvania",
+     "note": "Age 12, at school, in his parents' household [R4-S2]"
+    },
+    {
+     "date": "2013",
+     "place": "Green Tree, Allegheny County, Pennsylvania",
+     "note": "Residence at death [R4-S1]"
     }
    ],
    "citations": [
@@ -18587,7 +18836,10 @@ window.FAMILY_DATA = {
    "sources": [
     "Anthony R. Cognetti obituary (2008)",
     "1950 census",
-    "Thanksgiving article 2016"
+    "Thanksgiving article 2016",
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service; also published in the Pittsburgh Post-Gazette on 10 Nov 2013 (Legacy pid 167940321, blocked) (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti",
+    "[R4-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R4-S3] FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -18602,9 +18854,73 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Legacy.com Post-Gazette notice pid=167940321: blocked (403); Wayback availability API: 429 rate limited; CDX: blocked by egress policy; WebSearch \"Kramer-Cognetti\" Sales: no other web record of the firm"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: found John F. Cognetti's obituary (d. 8 Nov 2013, Green Tree, PA, age 87; Navy; confectionery broker), which names wife Evelyn, three sons and all of his siblings. Deceased, not living."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503584.json."
     }
    ],
-   "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived)."
+   "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived).\n\nround5: John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 ([R4-S1]). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 ([R4-S1]). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton ([R4-S2]). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",
+   "death": {
+    "date": "2013-11-08",
+    "place": "Green Tree, Allegheny County, Pennsylvania"
+   },
+   "aka": [
+    "John F. Cognetti"
+   ],
+   "occupation": "Confectionery broker; partner in Kramer-Cognetti Sales for 35 years",
+   "events": [
+    {
+     "title": "Funeral",
+     "date": "2013-11-16",
+     "place": "SS. Simon & Jude Church, Green Tree (Pittsburgh), PA",
+     "description": "Visitation on 15 Nov 2013 at the William Slater II Funeral Service; Mass of Christian Burial on 16 Nov 2013. [R4-S1]"
+    },
+    {
+     "title": "Partner, Kramer-Cognetti Sales, confectionery brokers (Pittsburgh area)",
+     "date": "35 years",
+     "place": "",
+     "description": "Same candy-brokerage trade as his brother Joseph F. (D.C. Sales Co., Scranton) [R4-S1]"
+    }
+   ],
+   "military": [
+    {
+     "note": "Served in the US Navy; the obituary gives no dates (probably the WWII era, given his birth c.1926-27) [R4-S1]"
+    }
+   ],
+   "funFacts": [
+    "Like his brother Joe and his nephew Tony, John made his career in the candy trade: 35 years as a confectionery broker in Pittsburgh."
+   ],
+   "conflicts": [
+    {
+     "field": "birth.date",
+     "site": "1928",
+     "found": "c.1926 (age 87 at death in Nov 2013); 1927 per FamilySearch tree; age 12 in Apr 1940 implies 1927-28",
+     "assessment": "The year is probably 1926-27. The exact date should come from SSDI or his Navy record."
+    }
+   ],
+   "openQuestions": [
+    "Evelyn Cognetti's maiden name and dates; John's Navy service dates; place of burial (the obituary page shows a cemetery section, but its text was not readable)."
+   ],
+   "media": [
+    {
+     "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+     "type": "link",
+     "title": "Obituary of John F. Cognetti, 2013 (Slater Funeral Home)",
+     "date": "2013-11",
+     "source": "William Slater II Funeral Service, copyrighted",
+     "note": "No portrait photo found on the page. (not downloaded: rights copyrighted)",
+     "people": []
+    }
+   ]
   },
   {
    "id": "I282695503585",
@@ -19033,64 +19349,6 @@ window.FAMILY_DATA = {
    "researchNotes": "Tree shows 'Ralph 1913' twice - one man (Round 1 correction 3m). WikiTree Cognetti-1: b. 7 Aug 1913, d. 16 Apr 2009 Scranton; m. Marguerite Forgione 1 Jun 1940; in Scranton in the 1930 census (ED 12, p. 28A). 1920 census: grandson 'Ralf' in the Ferlaino household at 1306 Diamond Ave. 1940 marriage license No. 817: salesman; mother's maiden name 'Farino'; father 'mechanic'; at 612 Philo St. Children (FS L6CN-7HV): Frank (1942), Peter (1948), Anthony (b. 14 Dec 1949, probably Anthony Paul Cognetti of the Candy Hall of Fame)."
   },
   {
-   "id": "I282695504009",
-   "given": "Ann Marie",
-   "surname": "Petriello",
-   "sex": "F",
-   "birth": {
-    "date": "1934",
-    "place": "Pennsylvania"
-   },
-   "residences": [
-    {
-     "date": "1950",
-     "place": "Dunmore, Lackawanna, Pennsylvania, USA"
-    }
-   ],
-   "citations": [
-    {
-     "source": "U.S., Newspapers.com™ Obituary Index, 1800s-current",
-     "page": "The Times-Tribune; Publication Date: 23 Dec 1998; Publication Place: Scranton, Pennsylvania, USA; URL: https://www.newspapers.com/image/530899073/?article=08c831ae-86c4-44f3-a273-8a7015c02137&focus=0.5035483,0.2467154,0.65468574,0.5398776&xid=3355"
-    },
-    {
-     "source": "1950 United States Federal Census",
-     "page": "National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Dunmore, Lackawanna, Pennsylvania; Roll: 6243; Page: 10; Enumeration District: 35-115"
-    }
-   ],
-   "link": {
-    "confidence": "unverified",
-    "note": "Tree only (shown 1934-Living); not researched."
-   },
-   "tags": [],
-   "summary": "Sister of John T. Petriello, born in Pennsylvania in 1934; John's great-aunt.",
-   "bio": "Ann Marie Petriello was born in Pennsylvania in 1934, a sister of John T. Petriello, which makes her John's great-aunt. In 1950 she was living at Dunmore, Lackawanna, Pennsylvania. The 2024 obituary of John T. Petriello Jr. mentions a cousin Ann Marie, though whether this is the same woman is unclear.",
-   "sources": [
-    "Ancestry tree screenshots IMG_7830-7840",
-    "https://themontynews.org/single-post/john-t-petriello-jr-65"
-   ],
-   "handoff": {
-    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
-    "heading": "Ann Marie Petriello (b. 1934)",
-    "line": 11492
-   },
-   "researchLog": [
-    {
-     "date": "2026-10-08",
-     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
-    },
-    {
-     "date": "2026-10-08",
-     "note": "Handoff gives parents James Petriello (b. 1910), Carmela \"Mollie\" Gianetta (b. 1910) but the link is only \"unverified\", so the tree was not changed."
-    },
-    {
-     "date": "2026-10-08",
-     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
-    }
-   ],
-   "researchNotes": "Tree: Ann Marie Petriello 1934-Living. The 2024 obituary of John T. Petriello Jr. mentions a 'cousin Ann Marie' - relationship to this Ann Marie unclear.",
-   "birthDateReduced": true
-  },
-  {
    "id": "I282695504010",
    "given": "James",
    "surname": "Petriello",
@@ -19304,59 +19562,6 @@ window.FAMILY_DATA = {
     }
    ],
    "researchNotes": "Tree: James Petriello (1911-1998), husband of 'Mollie' (b. 1911). FamilySearch tree GQWR-TY6 gives b. 6 Dec 1910 Scranton, d. 15 Dec 1998 Scranton, buried in Dunmore, married 12 Jul 1931 in Dunmore, WWII draft registration 16 Oct 1940, living in Dunmore in 1950 (the tree's 1911 should be 1910). He was born after the 1910 enumeration; in the 1920 census (Scranton Ward 10, ED 142, sheet 13A, 1028 Bunker Hill) he is listed among the children of John 'Patrello'. Marriage-license application No. 1107, Lackawanna County Orphans' Court, sworn 20 Jun 1931: groom 'James Petrillo', 20, laborer, born Scranton, living at 1028 Bunker Hill Av.; parents John and 'Mary Dibiasa', both born in Italy; father's occupation 'Mdse' (merchandise). Bride 'Mollie Genett', 20, of 133 Sand St. Both were minors so John Petrillo and Angelina Genett consented; married at Dunmore in July 1931 by Rev. Michael DeLarno. Geni lists a 'James' among John Petriello's children; most children used the spelling Petrillo. No obituary for 1998 was found in Round 1. He is NOT the Chicago musicians'-union boss James C. Petrillo (1892-1984). The Guardiese neighbourhood straddled Scranton's 10th Ward and Dunmore, which is why the family appears in Scranton censuses but married and was buried in Dunmore.\n\nJames registered for the draft on 16 October 1940 at 1028 Bunker Hill Street. He gave his birth as 6 December 1910 in Scranton and named 'Mrs. Mollie Petriello', his wife, as his contact. He worked for the Penn Anthracite Coal Co. on Nay Aug Avenue, and the registrar described him as 5 ft 3 in and 148 lb, with brown eyes, brown hair and a dark complexion ([R4-S2]). This is the first primary record found that states his exact birth date. The April 1940 census shows him renting one of the units in his late father John's house at 1028 Bunker Hill Street, with his brothers Nicholas and Charles and their wives in the others. He was then a colliery laborer who had finished the 7th grade ([R4-S1]). By April 1950 he had moved into Dunmore, to 128 Sand Street, the street his wife Mollie grew up on. He was then a railroad car repairman, the same job as his brother-in-law Anthony Genett at no. 133. Mollie was working part-time as a sewing-machine operator in a lingerie factory ([R4-S3]). His death is not in the PA death indexes searched, which do not cover 1998."
-  },
-  {
-   "id": "I282695504092",
-   "given": "James",
-   "surname": "",
-   "suffix": "Jr.",
-   "sex": "M",
-   "citations": [
-    {
-     "source": "U.S., Newspapers.com™ Obituary Index, 1800s-current",
-     "page": "The Times-Tribune; Publication Date: 23 Dec 1998; Publication Place: Scranton, Pennsylvania, USA; URL: https://www.newspapers.com/image/530899073/?article=08c831ae-86c4-44f3-a273-8a7015c02137&focus=0.5035483,0.2467154,0.65468574,0.5398776&xid=3355"
-    }
-   ],
-   "link": {
-    "confidence": "unverified",
-    "note": "Tree only (shown Living); not researched."
-   },
-   "tags": [],
-   "summary": "Son of James Petriello and Mollie and brother of John T. Petriello; John's great-uncle.",
-   "bio": "James was a son of James Petriello and Mollie and a brother of John T. Petriello, which makes him John's great-uncle.",
-   "facts": [
-    {
-     "label": "Tree display (IMG_7830-7840)",
-     "value": "James (Living)"
-    }
-   ],
-   "sources": [
-    "Ancestry tree screenshots IMG_7830-7840"
-   ],
-   "handoff": {
-    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
-    "heading": "James Petriello (b. unknown)",
-    "line": 11477
-   },
-   "researchLog": [
-    {
-     "date": "2026-10-08",
-     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
-    },
-    {
-     "date": "2026-10-08",
-     "note": "Handoff gives parents James Petriello (b. 1910), Carmela \"Mollie\" Gianetta (b. 1910) but the link is only \"unverified\", so the tree was not changed."
-    },
-    {
-     "date": "2026-10-08",
-     "note": "Round 4 (round4 imported): identified as a living person; not researched further."
-    },
-    {
-     "date": "2026-10-08",
-     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
-    }
-   ],
-   "researchNotes": "Tree shows 'James (Living)' as a child of James Petriello and Mollie."
   },
   {
    "id": "I282695504114",
@@ -33336,21 +33541,30 @@ window.FAMILY_DATA = {
    "surname": "McGuire",
    "sex": "F",
    "birth": {
-    "date": "1928"
+    "date": "1928-03-08",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
    },
    "source": "research",
    "link": {
-    "confidence": "probable",
-    "note": "FS G3PC-FFK."
+    "confidence": "confirmed",
+    "note": "FS G3PC-FFK. Round 4 (probable → confirmed): Her own obituary names her parents (Francis McGuire & Elizabeth McAvoy), birthplace Wilkes-Barre and sisters Jane Nagle, Nancy Holland and Kay Meier."
    },
    "aka": [
-    "Betsy McGuire"
+    "Betsy McGuire",
+    "Elizabeth A. Arnold",
+    "Betsy Arnold",
+    "Elizabeth A. 'Betsy' Arnold"
    ],
    "tags": [],
    "summary": "John's great-aunt; sister of Kathryn (possibly twin of Ann).",
    "sources": [
     "FamilySearch G3PC-FFK",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] Altoona Mirror, obituary 'Elizabeth A. ‘Betsy’ Arnold, March 8, 1928 - Nov. 8, 2016', published 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+    "[R4-S2] Times Leader (Wilkes-Barre) via Legacy.com, obituary of Nancy McGuire Holland, 2007 (page itself returns HTTP 403 here; text seen only as search-engine extract) (secondary) https://www.legacy.com/us/obituaries/timesleader/name/nancy-holland-obituary?id=25517366",
+    "[R4-S3] FamilySearch Family Tree (published), Elizabeth Betsy McGuire, PID G3PZ-QVB (unpublished profile seen as relative in G3PC-FFK/KGQH-JNV JSON); user-contributed, no sources attached (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB",
+    "[R4-S4] FamilySearch Family Tree (published), Harold Edward Arnold (6 Jul 1927 - May 1997), PID GP6V-LL1, with WWII draft registration and NUMIDENT attached (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1",
+    "[R4-S5] FamilySearch Family Tree (published), Elizabeth McAvoy (1897-1984), PID KGQH-JNV, and duplicate Harold Arnold profile GP7C-XR4 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4"
    ],
    "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -33361,9 +33575,124 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence probable → confirmed: Her own obituary names her parents (Francis McGuire & Elizabeth McAvoy), birthplace Wilkes-Barre and sisters Jane Nagle, Nancy Holland and Kay Meier."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch: 'Betsy Arnold' Altoona Calvary Cemetery (Find a Grave memorial not surfaced; Find a Grave blocked); Stevens Mortuary site obituary not surfaced by search; Legacy.com Nancy Holland obituary: HTTP 403 (curl and WebFetch); Wayback has no snapshot"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: found her 2016 Altoona Mirror obituary as Elizabeth A. 'Betsy' Arnold (d. 8 Nov 2016), which confirms the twin and the parents and shows that the 'Harold Arnold' remarriage belongs to Betsy, not her mother."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0062.json."
     }
    ],
-   "birthDateReduced": true
+   "death": {
+    "date": "2016-11-08",
+    "place": "UPMC Altoona, Altoona, Blair County, Pennsylvania, USA"
+   },
+   "burial": {
+    "place": "Calvary Cemetery (committal), Altoona, Blair County, Pennsylvania"
+   },
+   "residences": [
+    {
+     "date": "2007-2016",
+     "place": "Altoona, Blair County, Pennsylvania",
+     "note": "Named as of Altoona in her twin's 2007 obituary and in her own 2016 obituary [R4-S1] [R4-S2]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to Harold E. Arnold",
+     "date": "1952-09-13",
+     "place": "Wilkes-Barre, Pennsylvania",
+     "description": "Husband died 27 May 1997. [R4-S1]"
+    },
+    {
+     "title": "High-school graduation",
+     "date": "1945",
+     "place": "Elmer L. Meyers High School, Wilkes-Barre",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "Funeral",
+     "date": "2016-11-12",
+     "place": "St. Joseph Catholic Church, Bellwood, PA",
+     "description": "Viewing and vigil 11 Nov 2016 at The Stevens Mortuary, Altoona; funeral Mass 12 Nov at St. Joseph's, Bellwood (Fr. Alan Thomas); committal Calvary Cemetery, Altoona. [R4-S1]"
+    },
+    {
+     "title": "Education: Elmer L. Meyers High School, Wilkes-Barre",
+     "date": "graduated 1945",
+     "place": "",
+     "description": "[R4-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Middle initial",
+     "value": "A."
+    },
+    {
+     "label": "Twin",
+     "value": "Identical twin of Ann 'Nancy' (McGuire) Holland (H0063)"
+    },
+    {
+     "label": "Church",
+     "value": "St. Joseph Catholic Church, Bellwood, PA"
+    },
+    {
+     "label": "FamilySearch ID",
+     "value": "G3PZ-QVB"
+    }
+   ],
+   "researchNotes": "round5: Elizabeth A. 'Betsy' McGuire was born in Wilkes-Barre on 8 March 1928, the identical twin of Ann 'Nancy' McGuire, daughters of Francis McGuire and Elizabeth McAvoy ([R4-S1], [R4-S2]). She graduated from Elmer L. Meyers High School in 1945 and on 13 September 1952 married Harold E. Arnold in Wilkes-Barre ([R4-S1]). The couple settled in the Altoona area; Harold died on 27 May 1997 ([R4-S1], [R4-S4]). Her widowed mother also died in Altoona in 1984, probably while living near Betsy.\n\nBetsy died at UPMC Altoona on Tuesday 8 November 2016, aged 88, a member of St. Joseph Catholic Church in Bellwood. She was survived by a son and two daughters, six grandchildren and three great-grandchildren, and predeceased by her sisters Jane Nagle, her twin Nancy Holland and 'Kay Meier' (John's grandmother Kathryn). She was buried from St. Joseph's, Bellwood, with committal at Calvary Cemetery, Altoona ([R4-S1]). She is therefore NOT living; the site's 'presumed_living' status should change.",
+   "funFacts": [
+    "She and her sister Nancy were identical twins (S2), confirming the site's 'possibly twin of Ann' note."
+   ],
+   "conflicts": [
+    {
+     "field": "death.date",
+     "site": "(none; presumed living)",
+     "found": "8 Nov 2016, Altoona",
+     "assessment": "Obituary is decisive. FamilySearch's 'november 8 1916' is a typo for 2016."
+    },
+    {
+     "field": "spouse of Elizabeth (McAvoy) McGuire (I282604493938)",
+     "site": "Site says the widow Elizabeth (McAvoy) McGuire remarried Harold Arnold",
+     "found": "Harold E. Arnold (b. 6 Jul 1927) married the DAUGHTER Betsy on 13 Sep 1952",
+     "assessment": "The 'remarried Harold Arnold' statement on I282604493938 and I282604493482 comes from a FamilySearch duplicate profile (GP7C-XR4) wrongly attached to the mother. Harold was 30 years her junior and is named as Betsy's husband in Betsy's obituary. Recommend removing the remarriage from the mother's record."
+    }
+   ],
+   "openQuestions": [
+    "Married surname is Arnold; obituary gives middle initial A. (the site has no middle name).",
+    "Grandchildren and great-grandchildren are named in the obituary but not recorded here (some are probably minors)."
+   ],
+   "media": [
+    {
+     "url": "https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+     "type": "link",
+     "title": "Obituary of Elizabeth A. 'Betsy' Arnold, Altoona Mirror, 10 Nov 2016",
+     "date": "2016-11-10",
+     "source": "Altoona Mirror, copyrighted",
+     "note": "Text only, no photo seen on the page. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1",
+     "type": "link",
+     "title": "WWII draft registration card of Harold Edward Arnold (husband)",
+     "date": "c.1945",
+     "source": "FamilySearch, unknown",
+     "note": "Image loads (3019x1812). A US government record, but from after 1931, so rights are set to unknown per the brief and it was not downloaded. (not downloaded: rights unknown)",
+     "people": []
+    }
+   ]
   },
   {
    "id": "H0063",
@@ -53947,16 +54276,23 @@ window.FAMILY_DATA = {
    },
    "occupation": "Machine operator, PA State Highway Department (1950)",
    "source": "research",
-   "link": {
-    "confidence": "confirmed",
-    "note": "Echovita obituary (parents Frank and Helen; sister Mary Petriello (John)); 1930 census; WWII draft card; 1950 census."
-   },
    "aka": [
     "Leopold Salvatore Cognetti",
     "Leopoldo Cognetti",
     "Levyso",
     "Leupo"
    ],
+   "mergedFrom": [
+    {
+     "id": "I282695503582",
+     "name": "Levyso Cognetti",
+     "reason": "Round 5: the 1940 census's 'Leopo' (son, 10) is Leopold Salvatore 'Leo S.' Cognetti, born 19 May 1929; 'Levyso' was a misreading of the same entry."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Echovita obituary (parents Frank and Helen; sister Mary Petriello (John)); 1930 census; WWII draft card; 1950 census."
+   },
    "tags": [],
    "summary": "Scranton-born state highway machine operator who lived to ninety, brother of Mary Cognetti Petriello; John's great-granduncle.",
    "bio": "Leo S. Cognetti, whose full name was Leopold Salvatore, was born in Scranton on 19 May 1929 and named for his maternal grandfather, Leopoldo Ferlaino; the 1930 census lists him as Leopoldo. He registered for the draft during the Second World War, and in 1950 he was working as a machine operator for the Pennsylvania State Highway Department. He died at Exton in Chester County, Pennsylvania, on 1 July 2019, aged ninety. His obituary names his sister Mary Petriello, John's great-grandmother, and her husband John, which makes Leo John's great-granduncle.",
@@ -54012,8 +54348,8 @@ window.FAMILY_DATA = {
    },
    "source": "research",
    "link": {
-    "confidence": "probable",
-    "note": "Identification of the Candy Hall of Fame inductee with Ralph's son Anthony (b. 14 Dec 1949) is probable; probably living, not researched further."
+    "confidence": "confirmed",
+    "note": "Identification of the Candy Hall of Fame inductee with Ralph's son Anthony (b. 14 Dec 1949) is probable; probably living, not researched further. Round 4 (probable → confirmed): Exact birth-date match to Ralph's son plus the 'uncle's firm' statement. An obituary naming him (for example Marguerite Cognetti's 2014 notice) would add a third confirmation."
    },
    "tags": [
     "notable"
@@ -54023,7 +54359,9 @@ window.FAMILY_DATA = {
    "notable": "Candy Hall of Fame 1996",
    "sources": [
     "Candy Hall of Fame: https://candyhalloffame.org/inductee/anthony-paul-cognetti",
-    "FS tree L6CN-7HV"
+    "FS tree L6CN-7HV",
+    "[R4-S1] Candy Hall of Fame, inductee profile 'Anthony Paul Cognetti' (Class of 1996) (secondary) https://candyhalloffame.org/inductee/anthony-paul-cognetti",
+    "[R4-S2] FamilySearch tree L6CN-7HV, Ralph A. Cognetti 1913-2009 (spouse Marguerite Forgione 1913-2014, m. 1 Jun 1940; children Frank 1942, Peter 1948, Anthony b. Dec 1949, GBQH-59S) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L6CN-7HV"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -54038,9 +54376,97 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence probable → confirmed: Exact birth-date match to Ralph's son plus the 'uncle's firm' statement. An obituary naming him (for example Marguerite Cognetti's 2014 notice) would add a third confirmation."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (parent I282695503685, proven): Exact birth date in the Candy Hall of Fame profile equals that of Ralph A. Cognetti's son Anthony in the FS tree, and the HOF profile says D.C. Sales was his uncle's firm (Joseph F., Ralph's brother)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse , probable): Wife Sheri (surname not given); nine children"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch \"Ralph A. Cognetti\" obituary 2009 Scranton: none online (only people-search pages, not used); WebSearch Marguerite Cognetti obituary 2014 Forgione: not found (an Amelia Amori 2012 obituary names sister Marguerite Cognetti of Scranton); WebSearch \"Tony Cognetti\" candy / Houck / D.C. Sales: only Candy HOF pages; WebSearch \"Sheri Cognetti\": only data-aggregator pages (ZoomInfo/RocketReach), not used; WebSearch Anthony/Tony Cognetti with Westfield / Scotch Plains / Fanwood NJ: only people-search sites (not used); Legacy.com obituaries of Joseph F. (2009) and Anthony R. (2008): blocked 403"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: parentage of Tony Cognetti (Candy HOF 1996) confirmed as Ralph A. and Marguerite (Forgione) Cognetti by exact birth-date match and the 'uncle's firm' statement; logged his career and awards (NCWA Candy Ambassador 1988, NY Candy Club award 1990)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0347.json."
     }
    ],
-   "researchNotes": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living.",
+   "researchNotes": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living.\n\nround5: The Candy Hall of Fame profile ([R4-S1]) gives Tony Cognetti's exact birth date, in Scranton in December 1949. It matches, day for day, Anthony, the youngest son of Ralph A. and Marguerite (Forgione) Cognetti in the FamilySearch tree ([R4-S2]). The profile also says he spent 23 years at 'his uncle's firm, D.C. Sales Co.', the brokerage where Joseph F. Cognetti, Ralph's brother, was partner from 1956 and later chairman. Two independent identifiers therefore agree (exact birth date with parents, and the uncle's firm), and his parentage can be treated as confirmed. Ralph and Marguerite's children in the FS tree are Frank (b. 1942), Peter (b. 1948) and Anthony (b. 1949); Marguerite died on 30 May 2014 aged 101 ([R4-S2]).\n\nTony attended Central High School in Scranton and earned a BA from Penn State in 1971. He started at D.C. Sales as an account executive, briefly left the industry in the mid-1970s, returned as a partner in 1977 and became president in 1982. In 1994 he merged the firm into M.W. Houck, Inc. and became vice-president of its confectionery division. He was NCWA Candy Ambassador (1988), won the New York Candy Club's Presidential Award (1990), served as that club's president, and was inducted into the Candy Hall of Fame in 1996, joining his uncle Joseph. The profile says he and his wife Sheri raised nine children ([R4-S1]). He is John Meier's first cousin twice removed (a first cousin of Sharon's mother's generation: Tony is a nephew of Mary Cognetti Petriello).",
+   "aka": [
+    "Tony Cognetti"
+   ],
+   "events": [
+    {
+     "title": "Education: Central High School, Scranton",
+     "date": "",
+     "place": "",
+     "description": "As stated in his Candy Hall of Fame profile [R4-S1]"
+    },
+    {
+     "title": "Education: Pennsylvania State University",
+     "date": "1971",
+     "place": "",
+     "description": "BA [R4-S1]"
+    },
+    {
+     "title": "Account executive, then partner (1977), then president (1982), D.C. Sales Co. (confectionery and food brokerage; 'his uncle's firm', i.e. Joseph F. Cognetti's)",
+     "date": "c.1971-1994, with a short break in the mid-1970s",
+     "place": "",
+     "description": "23 of his 25 industry years were at D.C. Sales. [R4-S1]"
+    },
+    {
+     "title": "Vice-president, confectionery division, M.W. Houck, Inc.",
+     "date": "1994-",
+     "place": "",
+     "description": "He merged D.C. Sales' operations into M.W. Houck in 1994. [R4-S1]"
+    },
+    {
+     "title": "Candy Hall of Fame inductee",
+     "date": "1996",
+     "place": "",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "National Candy Wholesalers Association 'Candy Ambassador'",
+     "date": "1988",
+     "place": "",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "New York Candy Club Presidential Award",
+     "date": "1990",
+     "place": "",
+     "description": "He also served as president of the New York Candy Club. [R4-S1]"
+    }
+   ],
+   "funFacts": [
+    "Three Cognettis of this family worked in the candy trade: Joseph F. (D.C. Sales, Candy Hall of Fame), his nephew Tony (president of D.C. Sales, Candy Hall of Fame 1996), and his brother John F. (Kramer-Cognetti Sales, Pittsburgh)."
+   ],
+   "openQuestions": [
+    "Marguerite (Forgione) Cognetti's 2014 obituary (Scranton) should name her sons Frank, Peter and Anthony with their wives; not found online (Legacy blocked)."
+   ],
+   "media": [
+    {
+     "url": "https://candyhalloffame.org/inductee/anthony-paul-cognetti",
+     "type": "link",
+     "title": "Tony Cognetti, Candy Hall of Fame portrait",
+     "date": "",
+     "source": "Candy Hall of Fame, copyrighted",
+     "note": "Image URL taken from the profile page; not downloaded (copyright). (not downloaded: rights copyrighted)",
+     "people": []
+    }
+   ],
    "birthDateReduced": true
   },
   {
@@ -54160,7 +54586,11 @@ window.FAMILY_DATA = {
    "sources": [
     "https://themontynews.org/single-post/john-t-petriello-jr-65",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "[R4-S3] Keystone College Athletics, coach bio 'Paul Petriello - Head Men's Golf Coach' (written after the 2017-18 season). (secondary) https://www.gokcgiants.com/sports/mens-golf/roster/coaches/paul-petriello/546",
+    "[R4-S4] Keystone College Athletics news release, 'Keystone Names Petriello Head Men's Golf Coach', La Plume PA, 9 Feb 2016. (secondary) https://www.gokcgiants.com/news/2016/2/9/MGOLF_0209162834.aspx"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -54183,6 +54613,30 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse M0009, proven): 'son Paul & daughter in law Rebecca Petriello' ([R4-S1]); 'brother Paul Petriello (Rebecca)' ([R4-S2])"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (child M0010, proven): 'their children Jack & Mollie' ([R4-S1])"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (child M0011, proven): 'their children Jack & Mollie' ([R4-S1])"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Paul Petriello' (exact): only the Keystone College pages are substantive; the rest were data-broker listings (not used) and a 2026 condolence signature with no identifiers; WebSearch 'Paul Petriello' + Scranton/Pennsylvania, + GSK/Penn State/golf, + Abington Heights/Clarks Summit/Scranton Prep: no page linking him to Rebecca, Jack, Mollie or his parents; WebSearch thetimes-tribune.com Petriello: only Sandra Petriello (1952-2024, Moosic), a different family; Keystone College men's golf roster 2018-19: lists him as head coach, no photo or family details; Legacy.com search: Cloudflare-blocked (403)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: full text of father's 2025 obituary read via the funeral home's feed (Paul, Rebecca, Jack, Mollie confirmed); Keystone College golf coach Paul Petriello found but kept as an unproven candidate."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0349.json."
     }
    ],
    "facts": [
@@ -54193,9 +54647,16 @@ window.FAMILY_DATA = {
     {
      "label": "Children",
      "value": "Jack and Mollie."
+    },
+    {
+     "label": "Named in father's obituary (2025)",
+     "value": "'son Paul & daughter in law Rebecca Petriello and their children Jack & Mollie'"
     }
    ],
-   "researchNotes": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary."
+   "researchNotes": "Listed as a surviving sibling in his brother John Jr.'s Feb 2024 obituary.\n\nround5: The full text of his father John T. Petriello Sr.'s March 2025 obituary, now read in full, lists Paul as the youngest of three children, with his wife Rebecca and their children Jack and Mollie ([R4-S1]). His brother John Jr.'s 2024 obituary also names him as 'Paul Petriello (Rebecca)' ([R4-S2]). Neither obituary gives his town or occupation.",
+   "openQuestions": [
+    "CANDIDATE, NOT ATTACHED: a Paul Petriello was head men's golf coach at Keystone College, La Plume PA (about 15 miles from Scranton), from 1 Feb 2016 through at least the 2017-18 season. His bio describes him as 'an avid golfer in the local area'; a Penn State graduate (BA, Labor Management Relations) who did graduate study in Managed Health Care at Marywood University (Scranton); a pharma and biotech sales and management professional (Schering-Plough, Johnson & Johnson, King Specialty Pharmaceuticals, GlaxoSmithKline Biologics); founder of PJP Investments (2007-09); and a youth baseball and basketball coach (S3, S4). The surname is rare and the Scranton-area base and age fit Sharon's brother, but no page names his parents, wife or children, and other Petriello families live in the Dunmore/Moosic area. John: if this is your uncle Paul, the facts can be attached as written."
+   ]
   },
   {
    "id": "H0350",
@@ -55959,7 +56420,8 @@ window.FAMILY_DATA = {
    "surname": "Ferlaino",
    "sex": "M",
    "birth": {
-    "date": "1931"
+    "date": "1931",
+    "place": "Naples, Italy"
    },
    "source": "research",
    "link": {
@@ -55970,7 +56432,13 @@ window.FAMILY_DATA = {
    "summary": "Engineer and longtime owner of the SSC Napoli football club in the Maradona era; he shares the Ferlaino surname, but no kinship to John has been proven.",
    "bio": "Corrado Ferlaino, born in 1931, was an engineer and for many years the owner of SSC Napoli during the Maradona era. His father Modesto was a builder from Conflenti, the village next to San Mango d'Aquino, home of John's Ferlaino ancestors. Beyond the shared surname and neighbouring home towns, no kinship with John's family has been proven.",
    "sources": [
-    "it.wikipedia Corrado Ferlaino: https://it.wikipedia.org/wiki/Corrado_Ferlaino"
+    "it.wikipedia Corrado Ferlaino: https://it.wikipedia.org/wiki/Corrado_Ferlaino",
+    "[R4-S1] Italian Wikipedia, 'Corrado Ferlaino' (secondary) https://it.wikipedia.org/wiki/Corrado_Ferlaino",
+    "[R4-S2] Storie di Paese Conflenti, 'Corrado Ferlaino' (c.2024) (secondary) https://www.storiedipaese.it/corrado-ferlaino/",
+    "[R4-S3] Italiani.it, 'Arts and professions: the Reventino Rotary Club rewards Corrado Ferlaino' (2019) (secondary) https://en.italiani.it/arts-and-professions-the-reventino-rotary-club-rewards-corrado-ferlaino/",
+    "[R4-S4] Il Mattino, 'Ferlaino compie 95 anni, la festa sul lungomare dell'ex presidente del Napoli' (May 2026) (secondary) https://www.ilmattino.it/sport/sscnapoli/ferlaino_compie_95_anni_la_festa_sul_lungomare_dell_ex_presidente_del_napoli-9539588.html",
+    "[R4-S5] TUTTOmercatoWEB, 'Ferlaino e il sogno Champions: sarebbe un bel regalo per il centenario del Napoli', 2 Aug 2025 (from an Il Mattino interview) (secondary) https://www.tuttomercatoweb.com/serie-a/ferlaino-e-il-sogno-champions-sarebbe-un-bel-regalo-per-il-centenario-del-napoli-2130971",
+    "[R4-S6] Il Mattino, 'Napoli, lutto per l'ex presidente Corrado Ferlaino: è morta la figlia Tiziana' (2025) (secondary) https://www.ilmattino.it/schede/morta_figlia_presidente_napoli_tiziana_corrado_ferlaino-8829444.html"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -55985,9 +56453,110 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Test whether any kinship between Corrado Ferlaino and Helen Ferlaino can be shown → No. His father Modesto (brother of judge Francesco, b. Conflenti 1914) came from Conflenti; Helen's documented line is San Mango d'Aquino back to c.1726. No source links the two; kinship stays unproven."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Italian web: Ferlaino + Conflenti + San Mango d'Aquino + origini/famiglia: no source links the Conflenti Ferlainos to San Mango; Names of Modesto's and Francesco's parents: not given in it.wikipedia, storiedipaese, wikimafia/vittimemafia summaries or Wikidata Q3749962 (no parent claims); italiani.it judge Francesco page: 403; Geni profile of Francesco Ferlaino: blocked site, not used; Search for a 2026 death: none; alive at 95 in May 2026"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Corrado Ferlaino alive (95th birthday May 2026); son of Modesto of Conflenti and nephew of judge Francesco Ferlaino (H0376); no kinship with Helen Ferlaino of San Mango d'Aquino can be shown."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0377.json."
     }
    ],
-   "researchNotes": "His father Modesto was a builder from Conflenti, next to San Mango d'Aquino."
+   "researchNotes": "His father Modesto was a builder from Conflenti, next to San Mango d'Aquino.\n\nround5: Corrado Ferlaino is alive. He celebrated his 95th birthday on 18 May 2026 with a lunch on the Naples seafront ([R4-S4]), and in August 2025 he gave Il Mattino an interview about Napoli's coming centenary ([R4-S5]). He was born in Naples on 18 May 1931 to Modesto Ferlaino, an engineer and builder from Conflenti (province of Catanzaro) who had moved to Naples in 1920, and Cesarina Pasquali of Milan ([R4-S1], [R4-S2]). Italian Wikipedia and the Conflenti local-history site both say Modesto was the brother of the magistrate Francesco Ferlaino (1914-1975, born in Conflenti and killed by the 'Ndrangheta at Lamezia Terme), so Corrado is the nephew of the judge already in the tree as H0376 ([R4-S1], [R4-S2]). Modesto kept the family house in Conflenti and often took the young Corrado there ([R4-S2]). Corrado married four times and has five children, among them the physicist Francesca Ferlaino and Luca, a former president of Ravenna. His daughter Tiziana, who ran the family's hotel business in Ercolano, died in 2025 aged 68 ([R4-S1], [R4-S6]).\n\nKinship test with Helen (Ferlaino) Cognetti: negative, with no link demonstrable. Helen's paternal line in the tree runs Leopoldo (b. 1871) to Fortunato (b. 1822) to Nicola Maria (1778-1835) to Bruno (b. 1751) to Gaetano (c.1726), all in San Mango d'Aquino. Corrado's line is from Conflenti, a separate comune on the slopes of Monte Reventino a few kilometres away, and no public source names Modesto's or Francesco's parents. None of the Italian sources mentions San Mango d'Aquino, emigrant relatives or America ([R4-S1], [R4-S2]). Both families carry a surname concentrated in the Savuto/Reventino district, so a shared origin before about 1750 is plausible but cannot be shown from public sources. The tree should keep him as a same-surname notable with no proven kinship. A test would need the Conflenti civil birth acts of Modesto (c.1890s) and Francesco (1914) to find their parents, followed by the Conflenti and San Mango registers back to the 1700s.",
+   "residences": [
+    {
+     "date": "1931-2026",
+     "place": "Naples, Italy",
+     "note": "[R4-S1] [R4-S4]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Education: Liceo scientifico 'Vincenzo Cuoco', Naples",
+     "date": "",
+     "place": "",
+     "description": "Maturità scientifica [R4-S1]"
+    },
+    {
+     "title": "Education: University of Naples",
+     "date": "1959",
+     "place": "",
+     "description": "Degree in civil (transport) engineering [R4-S1]"
+    },
+    {
+     "title": "Engineer and building contractor, His father Modesto's construction firm, Naples",
+     "date": "1959-",
+     "place": "",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "President and majority shareholder, SSC Napoli",
+     "date": "1969-c.2000 (about 31 years with interruptions; shareholder from 1967)",
+     "place": "",
+     "description": "Brought Diego Maradona to Napoli. Won Serie A 1986-87 and 1989-90, Coppa Italia 1986-87, UEFA Cup 1988-89 and Supercoppa italiana 1990. [R4-S1]"
+    },
+    {
+     "title": "Co-owner / owner, Cagliari (1992-93); Ravenna (2003-04)",
+     "date": "",
+     "place": "",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "Amateur racing driver",
+     "date": "1959-1964",
+     "place": "",
+     "description": "5th at the 1959 Mille Miglia; class win at the 1964 Targa Florio [R4-S1]"
+    },
+    {
+     "title": "'Arti e Professioni' award (Premio Filippo Larussa), Rotary Club del Reventino",
+     "date": "2019",
+     "place": "",
+     "description": "Calabrian award honouring his Conflenti roots [R4-S3]"
+    }
+   ],
+   "openQuestions": [
+    "Corrado is the paternal nephew of judge Francesco Ferlaino (H0376): link them via Modesto Ferlaino (not in tree). Neither is linked to Helen Ferlaino's San Mango line.",
+    "Add Modesto Ferlaino (engineer-builder, Conflenti to Naples 1920) as the link between H0377 and H0376 if the tree keeps these notables.",
+    "Names of Modesto's and Francesco's parents (Conflenti civil records, c.1890-1914) are needed for any further kinship test."
+   ],
+   "media": [
+    {
+     "url": "https://it.wikipedia.org/wiki/Corrado_Ferlaino",
+     "type": "link",
+     "title": "Corrado Ferlaino in 1975 (Italian Wikipedia infobox image)",
+     "date": "1975",
+     "source": "Wikimedia (file 'Corrado_Ferlaino_1975.JPG'), unknown",
+     "note": "Commons file page returned 404 (possibly a local it.wiki upload under Italian PD rules); Commons API rate-limited (429), so the licence was not verified and the file was not downloaded. (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://www.storiedipaese.it/corrado-ferlaino/",
+     "type": "link",
+     "title": "Corrado Ferlaino with Diego Maradona (Storie di Paese Conflenti)",
+     "date": "",
+     "source": "storiedipaese.it, copyrighted",
+     "note": " (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Corrado_Ferlaino",
+     "type": "link",
+     "title": "Corrado Ferlaino (English Wikipedia)",
+     "date": "",
+     "source": "",
+     "note": "",
+     "people": []
+    }
+   ]
   },
   {
    "id": "H0378",
@@ -55996,14 +56565,24 @@ window.FAMILY_DATA = {
    "sex": "F",
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Living; married into a Scranton Cognetti family (husband Ryan); whether it descends from Frank and Helen was deliberately not researched."
+    "confidence": "probable",
+    "note": "Living; married into a Scranton Cognetti family (husband Ryan); whether it descends from Frank and Helen was deliberately not researched. Round 4 (unverified → probable): Her marriage to Ryan Cognetti is proven. Ryan's descent from Frank and Helen through Joe and Sal D. Cognetti rests on three public business profiles plus the summary of Elizabeth Notarianni Cognetti's 1994 obituary, and is probable. Elizabeth's obituary text (her son Joseph) or a wedding announcement naming Ryan's parents would confirm it."
    },
    "tags": [],
    "summary": "Mayor of Scranton since 2020, married to Ryan Cognetti; a Cognetti by marriage whose exact kinship to John's family is unknown.",
    "bio": "Paige Cognetti has served as Mayor of Scranton, Pennsylvania, since 2020. She is a Cognetti by marriage, the wife of Ryan Cognetti, and the exact kinship between her husband's family and John's Cognettis is unknown. Scranton was also home to a separate, unrelated Cognetti family whose origins lay in Nicastro.",
    "sources": [
-    "Wikipedia: https://en.wikipedia.org/wiki/Paige_Cognetti"
+    "Wikipedia: https://en.wikipedia.org/wiki/Paige_Cognetti",
+    "[R4-S1] Wikipedia, 'Paige Cognetti' (secondary) https://en.wikipedia.org/wiki/Paige_Cognetti",
+    "[R4-S2] City of Scranton, 'About the Mayor' (secondary) https://scrantonpa.gov/your-government/mayor/about-the/",
+    "[R4-S3] Happenings Magazine, 'Scranton's Mayor Looks to the Future...' (31 Mar 2020) (secondary) https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/",
+    "[R4-S4] WVIA News, 'Scranton Mayor Paige Cognetti dominates in third run for mayor' (3-4 Nov 2025), and Wikipedia '2025 Scranton mayoral election' (as summarised by search) (secondary) https://www.wvia.org/news/local/2025-11-03/scranton-mayor-paige-cognetti-dominates-in-third-run-for-mayor",
+    "[R4-S5] Washington Examiner, 'Scranton Mayor Paige Cognetti to face Rep. Rob Bresnahan...' (May 2026) (secondary) https://www.washingtonexaminer.com/news/campaigns/congressional/4573438/pennsylvania-8th-district-results-rob-bresnahan-paige-cognetti/",
+    "[R4-S6] Alamy stock listing of AP / Scranton Times-Tribune photo by Christopher Dolan, swearing-in of Mayor Cognetti, 6 Jan 2020 (caption) (secondary) https://www.alamy.com/scranton-mayor-paige-cognetti-right-is-sworn-in-by-lackawanna-county-president-judge-michael-barrasse-and-commonwealth-court-senior-judge-bonnie-brigance-leadbetter-as-her-husband-ryan-cognetti-looks-on-at-scranton-city-hall-in-scranton-pa-monday-jan-6-2020-cognetti-is-the-first-female-mayor-of-scranton-after-winning-a-special-election-last-november-to-fill-the-remaining-two-years-of-former-mayor-bill-courtrights-term-after-was-convicted-on-corruption-charges-christopher-dolanthe-scranton-times-tribune-via-ap-image530760514.html",
+    "[R4-S7] Caravia Fresh Foods, 'Learn More About Caravia' (secondary) https://caraviafreshfoods.com/about",
+    "[R4-S8] Charles Erickson, 'Prepared meals are most popular at Caravia Fresh Foods in Clarks Summit', Abington Journal, 8 Aug 2018 (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "[R4-S9] Happenings Magazine, 'Gourmet Market. Fresh Menu. Caravia Fresh Foods.' (18 Jun 2014) (secondary) https://www.happeningsmagazinepa.com/2014/06/18/gourmet-market-fresh-menu-caravia-fresh-foods/",
+    "[R4-S10] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -56022,9 +56601,211 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → probable: Her marriage to Ryan Cognetti is proven. Ryan's descent from Frank and Helen through Joe and Sal D. Cognetti rests on three public business profiles plus the summary of Elizabeth Notarianni Cognetti's 1994 obituary, and is probable. Elizabeth's obituary text (her son Joseph) or a wedding announcement naming Ryan's parents would confirm it."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Married-in Cognetti; determine her husband and how he connects to Frank & Helen's family → Husband Ryan Cognetti, son of Joseph (Joe) Cognetti of Caravia / Notarianni Produce, who is very probably the son of Sal D. and Elizabeth (Notarianni) Cognetti; so Ryan is a great-grandson of Frank and Helen and John Meier's second cousin."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Paige Cognetti father-in-law / mother-in-law: not named in any source found; Campaign site paigeforpa.com/meet-paige-cognetti: rendered empty to WebFetch; Newspapers.com clipping of Elizabeth Notarianni Cognetti's obituary: 403"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: husband Ryan Cognetti (Caravia Fresh Foods; m. 17 Oct 2017) traced through his father Joe Cognetti (Notarianni Produce) to Sal D. and Elizabeth (Notarianni) Cognetti, so probably John's second cousin; added her career, elections to 2025, the 2026 PA-8 nomination, and a CC BY Department of Labor portrait."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0378.json."
     }
    ],
-   "researchNotes": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family."
+   "researchNotes": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family.\n\nround5: Kinship solved, on strong but not yet single-document evidence: Paige's husband Ryan Cognetti is a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti. That makes Ryan John Meier's second cousin, and Paige John's second cousin's wife. The chain is:\n(1) Happenings Magazine (2020) identifies Paige's husband as Ryan Cognetti, owner of Caravia Fresh Foods in Clarks Summit; they married on 17 Oct 2017 ([R4-S3]). The Times-Tribune/AP photo of her 6 Jan 2020 swearing-in shows 'her husband, Ryan Cognetti' looking on ([R4-S6]).\n(2) Caravia's own 'About' page says the family opened the store in 2004 after Joe Cognetti sold his wholesale produce business: 'Joe and his son, Ryan, and cousins Peter and Marianne'. The store is named for 'Joseph's grandmother, Michelena Caravia, from San Mango, Calabria' ([R4-S7]).\n(3) The Abington Journal (2018) says Joseph Cognetti owned Joseph Notarianni Produce until 1999, a Scranton firm founded by his great-grandfather nearly 75 years earlier. Ryan, the general manager, then 39, owned a third of the store; Joseph's first cousins Peter and Marianne Cognetti owned another third ([R4-S8]).\n(4) The 1994 Times-Tribune obituary of Elizabeth Notarianni Cognetti (Newspapers.com clipping; page blocked, content known only from a search summary) calls her the daughter of Joseph and Michelene Notarianni and widow of Sal D. Cognetti Sr. (d. 1990). Sal is Frank and Helen's son Salvatore, who married Elizabeth Notarianni in 1943 (site record H0499).\nSo Joe Cognetti's grandmother Michelena (Caravia) Notarianni is Elizabeth's mother, which makes Joe a son of Sal and Elizabeth. Joe's 'first cousins' Peter and Marianne fit a son of Ralph or of Anthony R. (both had a son Peter) and his wife. Fittingly, the Caravia name brings another San Mango d'Aquino family into the tree, the same village as Helen Ferlaino. Paige herself said in 2019 that her husband's family had been in the area 'for many, many generations'. The couple have two young daughters (minors, not researched).\n\nPublic career: born in 1980 in Oregon and raised in Beaverton, Paige Gebhardt studied at the University of Oregon's Clark Honors College (BA summa cum laude) and Harvard Business School (MBA). She taught English in Japan (JET), worked as an investment advisor in New York, raised money for Rep. Chris Carney (2006) and the 2008 Clinton and Obama campaigns, and was a senior Treasury advisor under Obama. In Scranton she served on the school board (2017-18) and as special assistant to Auditor General DePasquale. She then won the November 2019 special mayoral election as an independent, becoming Scranton's first female mayor on 6 Jan 2020. She was re-elected in 2021 and again on 4 Nov 2025. In May 2026 she won the Democratic nomination unopposed for Pennsylvania's 8th congressional district against Rep. Rob Bresnahan; the general election is in November 2026.",
+   "birth": {
+    "date": "1980",
+    "place": "Eugene, Oregon (Wikipedia); grew up in Beaverton, Oregon"
+   },
+   "aka": [
+    "Paige Gebhardt Cognetti",
+    "Paige G. Cognetti",
+    "née Gebhardt"
+   ],
+   "residences": [
+    {
+     "date": "2017-2026",
+     "place": "Scranton, Pennsylvania",
+     "note": "Lives in Scranton with her husband and two daughters [R4-S2]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to Ryan Cognetti",
+     "date": "2017-10-17",
+     "place": "",
+     "description": "They met years earlier when she stopped at Caravia Fresh Foods in Clarks Summit just before closing and Ryan, its owner, made her a sandwich. [R4-S3]"
+    },
+    {
+     "title": "Sworn in as Mayor of Scranton (first woman in the office)",
+     "date": "2020-01-06",
+     "place": "Scranton City Hall",
+     "description": "Won the Nov 2019 special election as an independent (36.5%), to finish the term of Bill Courtright. [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Re-elected mayor",
+     "date": "2021-11",
+     "place": "Scranton",
+     "description": "Won with 72.5% as a Democrat. [R4-S1]"
+    },
+    {
+     "title": "Re-elected mayor (second full term)",
+     "date": "2025-11-04",
+     "place": "Scranton",
+     "description": "About 57% in a three-way race. [R4-S4]"
+    },
+    {
+     "title": "Democratic nominee, Pennsylvania's 8th congressional district",
+     "date": "2026-05-19",
+     "place": "",
+     "description": "Unopposed in the primary; faces Rep. Rob Bresnahan (R) in the November 2026 general election. [R4-S5] [R4-S1]"
+    },
+    {
+     "title": "Education: University of Oregon, Clark Honors College",
+     "date": "",
+     "place": "",
+     "description": "BA, English literature (and Romance languages per Wikipedia), summa cum laude [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Education: Harvard Business School",
+     "date": "",
+     "place": "",
+     "description": "MBA [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "English teacher (JET Programme), Japan",
+     "date": "",
+     "place": "",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "Investment advisor, New York City",
+     "date": "",
+     "place": "",
+     "description": "[R4-S2]"
+    },
+    {
+     "title": "Campaign fundraiser / project director, Including Rep. Chris Carney's 2006 campaign and the 2008 Clinton and Obama campaigns",
+     "date": "2006-2008",
+     "place": "",
+     "description": "[R4-S1] [R4-S3]"
+    },
+    {
+     "title": "Senior advisor to the Under Secretary for International Affairs, US Department of the Treasury",
+     "date": "Obama first term",
+     "place": "",
+     "description": "[R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Director, Scranton School Board",
+     "date": "2017-2018",
+     "place": "",
+     "description": "[R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Special assistant to Auditor General Eugene DePasquale, Pennsylvania Department of the Auditor General",
+     "date": "2018-2019",
+     "place": "",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "Mayor, City of Scranton",
+     "date": "2020-present",
+     "place": "",
+     "description": "36th mayor [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Member, USTR Advisory Committee for Trade Policy and Negotiations, Office of the US Trade Representative",
+     "date": "2024 (Biden appointee)",
+     "place": "",
+     "description": "[R4-S1]"
+    }
+   ],
+   "funFacts": [
+    "She met her future husband when he made her a sandwich just before closing time at his family's Clarks Summit market, Caravia, which is named for a great-grandmother from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino Cognetti."
+   ],
+   "openQuestions": [
+    "Add Joseph 'Joe' Cognetti (son of Sal D. and Elizabeth) and his son Ryan to the tree once the 1994 obituary or a 2017 wedding notice is read.",
+    "Is Scranton attorney Sal Cognetti Jr. (Cognetti & Cimini; former president judge of the PA Court of Judicial Discipline) also a son of Sal D. Cognetti Sr.? The 'Jr.' and Scranton fit; not proven."
+   ],
+   "photo": "media/H0378/paige-cognetti-2022-dol.jpg",
+   "media": [
+    {
+     "file": "media/H0378/paige-cognetti-2022-dol.jpg",
+     "type": "photo",
+     "title": "Scranton Mayor Paige Cognetti speaking at the US Department of Labor Good Jobs Summit, Washington DC, 21 Jun 2022",
+     "date": "2022-06-21",
+     "source": "Wikimedia Commons (from US Department of Labor Flickr, L-22-06-21-B-148), cc (CC BY 2.0; official US DOL photograph)",
+     "note": "Credit: US Department of Labor. Same image as the Wikipedia infobox.",
+     "people": [],
+     "url": "https://commons.wikimedia.org/wiki/File:Paige_Cognetti_(52165104986)_(3x4a).jpg"
+    },
+    {
+     "url": "https://www.alamy.com/scranton-mayor-paige-cognetti-right-is-sworn-in-by-lackawanna-county-president-judge-michael-barrasse-and-commonwealth-court-senior-judge-bonnie-brigance-leadbetter-as-her-husband-ryan-cognetti-looks-on-at-scranton-city-hall-in-scranton-pa-monday-jan-6-2020-cognetti-is-the-first-female-mayor-of-scranton-after-winning-a-special-election-last-november-to-fill-the-remaining-two-years-of-former-mayor-bill-courtrights-term-after-was-convicted-on-corruption-charges-christopher-dolanthe-scranton-times-tribune-via-ap-image530760514.html",
+     "type": "link",
+     "title": "Paige Cognetti sworn in as mayor with husband Ryan Cognetti looking on, Scranton City Hall, 6 Jan 2020",
+     "date": "2020-01-06",
+     "source": "AP / Scranton Times-Tribune via Alamy, copyrighted",
+     "note": "Photo by Christopher Dolan. Only one known public photo naming Ryan. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://scrantonpa.gov/your-government/mayor/about-the/",
+     "type": "link",
+     "title": "Official mayoral portrait (City of Scranton)",
+     "date": "2022",
+     "source": "City of Scranton, unknown",
+     "note": "Municipal (not federal) work, so rights are unknown. (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Paige_Cognetti",
+     "type": "link",
+     "title": "Paige Cognetti (Wikipedia)",
+     "date": "",
+     "source": "",
+     "note": "Already on site",
+     "people": []
+    },
+    {
+     "url": "https://scrantonpa.gov/cognetti-family-welcomes-daughter/",
+     "type": "link",
+     "title": "Cognetti Family Welcomes Daughter (City of Scranton, 9 Aug 2023)",
+     "date": "",
+     "source": "",
+     "note": "Birth of second daughter, Aug 2023 (minor: names omitted here)",
+     "people": []
+    },
+    {
+     "url": "https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/",
+     "type": "link",
+     "title": "Scranton's Mayor Looks to the Future as She Works to Change How Scranton Does Business",
+     "date": "2020-03-31",
+     "source": "Happenings Magazine, 2020-03-31",
+     "note": "Profile; how she met Ryan at Caravia; married 17 Oct 2017; her parents' influence",
+     "people": []
+    },
+    {
+     "url": "https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+     "type": "link",
+     "title": "Prepared meals are most popular at Caravia Fresh Foods in Clarks Summit",
+     "date": "2018-08-08",
+     "source": "Abington Journal, 2018-08-08",
+     "note": "Family business history linking Ryan, Joseph Cognetti, Notarianni Produce and the Caravia grandmother",
+     "people": []
+    }
+   ]
   },
   {
    "id": "H0379",
@@ -56252,9 +57033,9 @@ window.FAMILY_DATA = {
   },
   {
    "id": "H0383",
-   "given": "Harold",
+   "given": "Harold Edward",
    "surname": "Arnold",
-   "sex": "U",
+   "sex": "M",
    "source": "research",
    "link": {
     "confidence": "unverified",
@@ -56273,6 +57054,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0383.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: identified from Betsy McGuire's 2016 obituary as her husband Harold E. Arnold (1927–1997); moved from Elizabeth (McAvoy) McGuire's family to Betsy's."
     }
    ],
    "conflicts": [
@@ -56285,8 +57070,18 @@ window.FAMILY_DATA = {
    ],
    "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Harold Arnold (1927-1997), PID GP7C-XR4; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4",
-    "[R4-S2] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB"
-   ]
+    "[R4-S2] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB",
+    "[R5-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+    "[R5-S2] FamilySearch Family Tree (published), Harold Edward Arnold, PID GP6V-LL1 (WWII draft registration and NUMIDENT attached) https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1"
+   ],
+   "summary": "Husband of Elizabeth 'Betsy' McGuire; the Altoona-area couple married in Wilkes-Barre in 1952.",
+   "researchNotes": "round5:",
+   "birth": {
+    "date": "1927"
+   },
+   "death": {
+    "date": "1997-05-27"
+   }
   },
   {
    "id": "H0384",
@@ -56298,14 +57093,94 @@ window.FAMILY_DATA = {
    },
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Married surname Meier matches across three index entries attached to the tree; the obituary text itself was not readable (FS images return 0 bytes, GenealogyBank paywalled)."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
      "note": "Stub created from a handoff reference."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → probable: Married surname Meier matches across three index entries attached to the tree; the obituary text itself was not readable (FS images return 0 bytes, GenealogyBank paywalled)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse H0009, probable): FS tree links; William's tree profile and hers both show the marriage; the GenealogyBank obituary index has her as 'Nancy Stahl Meier'"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch: Nancy Meier / Nancy A. Meier / Nancy Stahl Meier obituary Clermont FL 2009 (no match; Nancy A. Stahl of Northbrook IL d. 2006 is a different person); WebSearch: William F. Meier Jr. obituary Feb 2004 Wilkes-Barre (no match); Find a Grave: Nancy Anne Meier 1930-2009 not surfaced by search (site blocked); GenLookups Florida obituary archive: search is a Google CSE that can't be driven here; FamilySearch ark record pages QK2P-7S8D, XMK2-9SZ5, QVK9-22YG: JS app shell / 401 API"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: the FamilySearch tree, with three attached obituary and Find a Grave index entries, shows Nancy Anne Stahl Meier died 13 May 2009 in Florida (Clermont), so she should not be presumed living; obituary text not readable."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0384.json."
+    }
+   ],
+   "death": {
+    "date": "2009-05-13",
+    "place": "Florida, USA (residence Clermont, Lake County)"
+   },
+   "aka": [
+    "Nancy Anne Stahl Meier",
+    "Nancy Stahl Meier",
+    "Nancy Meier"
+   ],
+   "residences": [
+    {
+     "date": "2009",
+     "place": "Clermont, Florida",
+     "note": "Residence at death per FS tree [R4-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "GV6C-8WZ"
+    }
+   ],
+   "researchNotes": "round5: Nancy Anne Stahl Meier, wife of William F. Meier Jr. (H0009, d. 29 Feb 2004), is recorded on FamilySearch as dying on 13 May 2009 in Florida, residence Clermont, aged about 79 ([R4-S1]). Three independent index entries are attached: a GenealogyBank obituary under 'Nancy Stahl Meier', a Find a Grave index entry under 'Nancy Anne Stahl Meier', and an obituary-records entry under 'Nancy Stahl' ([R4-S1]). The site's own bio for H0009 already reports this death, yet her record H0384 is still flagged presumed living. She should be marked deceased.\n\nWhether Stahl is her maiden name or the name of a first husband is unclear. The FS tree also links her to a 'Jack Stahl' (GV6C-Z4T) as a spouse. His only source is a 2014-2023 obituary entry for 'John Stahl' whose ark ID sits next to hers (XMK2-9SZP vs XMK2-9SZ5). That suggests both are named in the same later obituary, possibly as parents, so Jack may be her father rather than a husband. This is unresolved.",
+   "conflicts": [
+    {
+     "field": "status/death",
+     "site": "presumed_living (H0384); but H0009's bio says she died 13 May 2009 at Clermont, FL",
+     "found": "d. 13 May 2009, Florida",
+     "assessment": "Internal inconsistency on the site; the evidence supports deceased."
+    },
+    {
+     "field": "sex",
+     "site": "U",
+     "found": "F",
+     "assessment": "Female (wife of William F. Meier Jr.)."
+    }
+   ],
+   "openQuestions": [
+    "Is Stahl her maiden name or a first married name? Is 'Jack (John) Stahl' her father or a former husband?",
+    "Her obituary text (GenealogyBank, May 2009; probably Orlando Sentinel/Lake County or the Wilkes-Barre Times Leader) has not been read and may name nieces and nephews (the Levittown Meiers).",
+    "Burial place not known."
+   ],
+   "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Nancy Stahl (1930 - 13 May 2009), PID GV6C-8WZ; user-contributed tree with three attached record-index entries: 'Nancy Stahl Meier', United States, GenealogyBank Obituaries, Births, and Marriages 1980-2014 (ark 1:1:QK2P-7S8D); 'Nancy Anne Stahl Meier', Find A Grave Index (ark 1:1:QVK9-22YG); 'Nancy Stahl', United States, Obituary Records 2014-2023 (ark 1:1:XMK2-9SZ5) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GV6C-8WZ",
+    "[R4-S2] FamilySearch Family Tree (published), William F. Meier Jr. (1927 - 29 Feb 2004), PID GF3P-DRK (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GF3P-DRK",
+    "[R4-S3] Mount Laurel Home for Funerals, obituary of Barbara Ann Smith (nee Meier), 17 Nov 1935 - 16 Sep 2021 (secondary) https://www.mountlaurelfuneralhome.com/memorials/barbara-smith/4728361/"
+   ],
+   "media": [
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:QK2P-7S8D",
+     "type": "link",
+     "title": "Obituary index entry, Nancy Stahl Meier (GenealogyBank), 2009",
+     "date": "2009",
+     "source": "FamilySearch / GenealogyBank, copyrighted",
+     "note": "Image endpoint returned 0 bytes (rights-restricted). The ark page is login-only. (not downloaded: rights copyrighted)",
+     "people": [
+      "H0009"
+     ]
     }
    ]
   },
@@ -61912,18 +62787,113 @@ window.FAMILY_DATA = {
    "surname": "Ruth",
    "sex": "U",
    "birth": {
-    "date": "1929"
+    "date": "1929",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
    },
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): Primary marriage license links her to Anthony R. Cognetti, son of Frank and Helen."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
      "note": "Stub created from a handoff reference."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → confirmed: Primary marriage license links her to Anthony R. Cognetti, son of Frank and Helen."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse I282695503583, proven): 1950 Lackawanna County marriage license no. 687"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Legacy.com Anthony R. Cognetti obituary (id 24081273): blocked 403; survivor names known only from a search-engine summary"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Mary Carol Ruth was not living: m. Anthony R. Cognetti 27 May 1950 (license no. 687, read), d. 24 Dec 1978, buried Cathedral Cemetery; parents Lawrence R. Ruth and Loretta Barrett."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0500.json."
+    }
+   ],
+   "death": {
+    "date": "1978-12-24",
+    "place": "Lackawanna County, Pennsylvania"
+   },
+   "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania"
+   },
+   "aka": [
+    "Mary C. Ruth",
+    "Mary Ruth Cognetti"
+   ],
+   "occupation": "Clerical worker (1950)",
+   "residences": [
+    {
+     "date": "1940",
+     "place": "Scranton, Pennsylvania",
+     "note": "Age 11, 1940 census (FS index KQZZ-K1X) [R4-S2]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to Anthony R. Cognetti",
+     "date": "1950-05-27",
+     "place": "Scranton, Pennsylvania",
+     "description": "Lackawanna County marriage license no. 687 (applied 13 May, issued 16 May 1950). Mary C. Ruth, 21, clerical worker, born in Scranton, daughter of Lawrence Ruth (painter, born Scranton) and Loretta Barrett (born Scranton). Groom Anthony R. Cognetti, 25, restaurant owner, of 612 Philo St, son of Frank and Helen ('Farino'). Married by Rev. Thomas Tracy. [R4-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "PW29-VF6"
+    }
+   ],
+   "researchNotes": "round5: Mary Carol Ruth was not living. She was born in Scranton in 1929, the daughter of Lawrence Rocco Ruth (1905-1968), a painter, and Mary Loretta (Barrett) Ruth (1909-1985) ([R4-S1], [R4-S2]). She was a 21-year-old clerical worker when she married Anthony R. Cognetti, then a 25-year-old restaurant owner, in Scranton on 27 May 1950; Rev. Thomas Tracy officiated (marriage license no. 687, [R4-S1]). The license again gives Helen Cognetti's maiden name as 'Farino', like the 1940 and 1943 licenses of Anthony's brothers. Mary died on 24 Dec 1978, aged 49, in Lackawanna County, and is buried in Cathedral Cemetery, Scranton ([R4-S2]). Anthony R. Cognetti's 2008 obituary (Legacy, blocked; seen only through a search-engine summary) reportedly says he was predeceased by his first wife Mary Ruth and survived by his wife of 28 years, the former Mary Flanagan, and four sons, Lawrence, Mark, Dr. Peter and attorney Michael. Mary Carol Ruth was presumably the mother of these sons: a FamilySearch index lists 'Mary Carol Ruth' in the marriage entry of a Laurence T. Cognetti ([R4-S3]).",
+   "conflicts": [
+    {
+     "field": "sex",
+     "site": "U",
+     "found": "F",
+     "assessment": "Bride on the 1950 license."
+    }
+   ],
+   "openQuestions": [
+    "Anthony R. Cognetti's second wife (the former Mary Flanagan, m. c.1980) and the four sons Lawrence/Laurence T., Mark, Dr. Peter and attorney Michael are missing from the tree; the Legacy obituary (id 24081273) is blocked, so its survivor list should be read and confirmed."
+   ],
+   "sources": [
+    "[R4-S1] Lackawanna County, PA, Orphans' Court, application for marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth, pp. 186-187; FS index VF7V-JDS / VF7V-J81 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch tree PW29-VF6, Mary Carol Ruth 1929-1978 (parents Lawrence Rocco Ruth 1905-1968 and Mary Loretta Barrett 1909-1985; death 24 Dec 1978, Lackawanna Co.; burial Cathedral Cemetery) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6",
+    "[R4-S3] FamilySearch index 'Pennsylvania, Marriages, 1709-1940': Mary Carol Ruth in the entry for Laurence T. Cognetti (H5JW-HN3Z), as listed among the sources of PW29-VF6 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
+   ],
+   "media": [
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:VF7V-JDS",
+     "type": "link",
+     "title": "1950 marriage license application no. 687, Anthony R. Cognetti and Mary C. Ruth (Lackawanna Co.)",
+     "date": "1950-05-13",
+     "source": "FamilySearch (Lackawanna County Orphans' Court), unknown",
+     "note": "Post-1931 county record; rights unknown per the brief, so not downloaded. (not downloaded: rights unknown)",
+     "people": [
+      "I282695503583",
+      "I282695503559",
+      "I282695503581"
+     ]
+    },
+    {
+     "url": "https://ancestors.familysearch.org/en/PW29-VF6/mary-carol-ruth-1929-1978",
+     "type": "link",
+     "title": "Photo attached to the FamilySearch profile of Mary Carol Ruth",
+     "date": "",
+     "source": "FamilySearch Memories, unknown",
+     "note": "The published JSON reports 1 photo and 1 memory; the image itself was not reachable (profile unpublished). Lead for John. (not downloaded: rights unknown)",
+     "people": []
     }
    ]
   },
@@ -62512,7 +63482,14 @@ window.FAMILY_DATA = {
    ],
    "sources": [
     "John Meier, family information, 8 Oct 2026",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] MaxPreps, Tommy Meier's Broad Run High School football stats/career (class of 2008) (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/tommy-meier/football/stats/?careerid=rm3culsiboa22",
+    "[R4-S2] UVa-Wise Athletics, 2009-10 Baseball Roster, Tommy Meier (No. 5, Fr., Ashburn, VA) (read via text proxy; direct 403) (secondary) https://uvawisecavs.com/sports/baseball/roster/tommy-meier/451",
+    "[R4-S3] UVa-Wise Athletics, 2011-12 Baseball Roster, Tommy Meier (No. 5, Jr., 6-2, 205, Ashburn, Virginia) (secondary) https://uvawisecavs.com/sports/baseball/roster/tommy-meier/264",
+    "[R4-S4] Loudoun Times-Mirror, 'Broad Run claims Class 4 baseball title in thrilling fashion', Alex Cirino, 28 Jun 2021 (body text decoded from the page's obfuscated paywall text) (secondary) https://www.loudountimes.com/sports/broad-run-claims-class-4-baseball-title-in-thrilling-fashion/article_17ee7376-d809-11eb-8090-17294d1fbf9f.html",
+    "[R4-S5] MaxPreps, Broad Run Spartans Baseball team history (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/baseball/history/",
+    "[R4-S6] Washington Post, 'Forty days of dedication give Broad Run baseball its first state title in 30 years', Jacob Richman, 26 Jun 2021 (lede only; paywalled) (secondary) https://www.washingtonpost.com/sports/2021/06/26/forty-days-dedication-give-broad-run-baseball-its-first-state-title-30-years/",
+    "[R4-S7] The Knot registry page 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021 (read via text proxy; direct 403) (secondary) https://registry.theknot.com/laura-de-santis-tommy-meier-may-2021-va/43447109"
    ],
    "researchLog": [
     {
@@ -62526,6 +63503,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John: married to Laura; son Luca (8 Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse M0020, probable): The Knot registry 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: LinkedIn profile 'Tommy Meier - Broad Run High School' (search snippet says head baseball coach and 10th/12th-grade world history teacher at Broad Run; Mid-South all-conference 2012 and 2013; 2012 Gold Glove): HTTP 999, not loaded - snippet only; UVa-Wise baseball season/team record PDFs: 403; Mid-South Conference 2011 UVa-Wise team page: not loaded; LCPS Broad Run staff directory: loads by script, no Meier visible; Wedding announcement in Loudoun Times / Washington Post: none found"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Broad Run HS class of 2008 (football), UVa-Wise catcher c. 2009-13, Broad Run head baseball coach 2016-24 with the 2021 Virginia Class 4 state title; public registry gives marriage to Laura De Santis on 29 May 2021, Leesburg VA."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0001.json."
     }
    ],
    "facts": [
@@ -62536,6 +63529,96 @@ window.FAMILY_DATA = {
     {
      "label": "Children",
      "value": "Luca."
+    }
+   ],
+   "occupation": "Teacher and high-school baseball coach (head coach, Broad Run High School, Ashburn, Virginia, 2016-2024 per MaxPreps)",
+   "events": [
+    {
+     "title": "Married Laura De Santis",
+     "date": "2021-05-29",
+     "place": "Leesburg, Virginia (as shown on the couple's public registry page)",
+     "description": "The Knot registry page 'Laura De Santis & Tommy Meier', headed 'Leesburg, VA - May 29, 2021'. [R4-S7]"
+    },
+    {
+     "title": "Won the Virginia Class 4 state baseball championship as Broad Run's head coach",
+     "date": "2021-06-26",
+     "place": "Ashburn, Virginia",
+     "description": "On May 17 he told his players, 'Give me 40 days to make memories for the next 40 years'; forty days later Broad Run beat Hanover 3-2, ending on a pick-off at first base. He called it 'a dream come true' after a hard pandemic school year. [R4-S4] [R4-S6]"
+    },
+    {
+     "title": "Education: Broad Run High School, Ashburn, Virginia",
+     "date": "class of 2008",
+     "place": "",
+     "description": "Varsity football WR/DB, No. 5, in 2006 (team 5-5) and 2007 (team 10-1): 33 catches for 468 yards over two seasons (MaxPreps, coach-entered). Also a baseball player (described in 2021 as a 'former player' of the Broad Run baseball program). [R4-S1] [R4-S4]"
+    },
+    {
+     "title": "Education: The University of Virginia's College at Wise (UVa-Wise), Wise, Virginia",
+     "date": "c. 2009-2013 (baseball)",
+     "place": "",
+     "description": "Catcher, No. 5, hometown Ashburn; listed as a freshman on the 2009-10 roster and a junior on the 2011-12 roster (6-2, 205). UVa-Wise then played in the NAIA Mid-South Conference. [R4-S2] [R4-S3]"
+    },
+    {
+     "title": "Head baseball coach, Broad Run High School (Loudoun County Public Schools), Ashburn, Virginia",
+     "date": "2016-2024 (MaxPreps lists him as head coach 2015-16 through 2023-24)",
+     "place": "",
+     "description": "Season records listed by MaxPreps: 2016 9-13; 2017 9-11; 2018 10-9; 2019 16-10; 2020 season cancelled after 3 games (COVID); 2021 16-1, Virginia Class 4 state champions; 2022 13-9; 2023 10-9; 2024 8-13. No coach is listed for 2025, and Pat Cassidy is listed for 2026. [R4-S5]"
+    },
+    {
+     "title": "Head coach of the 2021 VHSL Class 4 state baseball champions (Broad Run)",
+     "date": "2021-06-26",
+     "place": "",
+     "description": "Broad Run beat Hanover 3-2 at home in Ashburn, the school's first baseball state title since 1991; the team went 16-1 and also won the Dulles District and Region 4C titles. [R4-S4] [R4-S6]"
+    }
+   ],
+   "researchNotes": "round5: Tommy Meier Jr. graduated from Broad Run High School in Ashburn in 2008. He played varsity football there as a receiver and defensive back in 2006 and 2007, alongside his younger brother Johnny on the 10-1 team of 2007 ([R4-S1]). He went on to catch for the baseball team at the University of Virginia's College at Wise, where he wore No. 5 from about 2009 to 2013 ([R4-S2], [R4-S3]).\n\nHe returned to Broad Run to teach and coach, and MaxPreps lists him as the Spartans' head baseball coach from the 2016 season through 2024 ([R4-S5]). His best-known season was 2021, coming after the pandemic. On May 17 he asked his players to 'give me 40 days to make memories for the next 40 years', and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field to win the Virginia Class 4 state championship. It was the program's first title since 1991, the year after Tommy was born. The Loudoun Times-Mirror noted that the thirty-year gap matched the age of 'head coach and former player Tommy Meier', and he called the title 'a dream come true' ([R4-S4], [R4-S6]). A month earlier, on 29 May 2021, he had married Laura De Santis; their public wedding-registry page gives Leesburg, Virginia ([R4-S7]).",
+   "funFacts": [
+    "Broad Run's 2021 baseball title came exactly 30 years after its last one (1991). Tommy was 30, and the Times-Mirror opened its story with that coincidence."
+   ],
+   "media": [
+    {
+     "url": "https://www.loudountimes.com/sports/broad-run-claims-class-4-baseball-title-in-thrilling-fashion/article_17ee7376-d809-11eb-8090-17294d1fbf9f.html",
+     "type": "link",
+     "title": "Broad Run players dogpile after the final out of the 2021 Class 4 state baseball final (Times-Mirror/Amanda Poffenberger), with 10-photo gallery",
+     "date": "2021-06-26",
+     "source": "Loudoun Times-Mirror, copyrighted",
+     "note": "Gallery of 10 photos; not checked which show the coach. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://www.washingtonpost.com/sports/2021/06/26/forty-days-dedication-give-broad-run-baseball-its-first-state-title-30-years/",
+     "type": "link",
+     "title": "Broad Run's baseball team celebrates its state title (Jacob Richman for The Washington Post)",
+     "date": "2021-06-26",
+     "source": "Washington Post, copyrighted",
+     "note": " (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/tommy-meier/football/stats/?careerid=rm3culsiboa22",
+     "type": "link",
+     "title": "Tommy Meier's Broad Run High School football stats (MaxPreps)",
+     "date": "",
+     "source": "",
+     "note": "Class of 2008",
+     "people": []
+    },
+    {
+     "url": "https://uvawisecavs.com/sports/baseball/roster/tommy-meier/264",
+     "type": "link",
+     "title": "Tommy Meier - UVa-Wise baseball roster 2011-12",
+     "date": "",
+     "source": "",
+     "note": "Also 2009-10: https://uvawisecavs.com/sports/baseball/roster/tommy-meier/451",
+     "people": []
+    },
+    {
+     "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/baseball/history/",
+     "type": "link",
+     "title": "Broad Run Spartans baseball history (MaxPreps): head coach Tommy Meier 2015-16 to 2023-24",
+     "date": "",
+     "source": "",
+     "note": "",
+     "people": []
     }
    ],
    "birthDateReduced": true
@@ -62569,7 +63652,11 @@ window.FAMILY_DATA = {
    ],
    "sources": [
     "John Meier, family information, 8 Oct 2026",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Frostburg State University Athletics, 2019 Football Roster, 'Matt Meier' bio (secondary) https://frostburgsports.com/sports/football/roster/matt-meier/8984",
+    "[R4-S2] MaxPreps, Matt Meier's Broad Run High School career home (class of 2016) (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/matt-meier/?careerid=esa86uo274uqa",
+    "[R4-S3] WRIC, 'VHSL Announces 2015 Group 5A All-State Football Teams', 11 Jan 2016 (read via text proxy; direct load 403) (secondary) https://www.wric.com/news/vhsl-announces-2015-group-5a-all-state-football-teams/",
+    "[R4-S4] Washington Post, 'Camp Countdown: Broad Run works to return to elite status despite tough road ahead', Aug 2015 (secondary) https://www.washingtonpost.com/news/recruiting-insider/wp/2015/08/11/camp-countdown-broad-run-football-works-to-return-to-elite-status/"
    ],
    "researchLog": [
     {
@@ -62579,6 +63666,102 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Named (\"Mathew\") as a grandson in John T. Petriello Sr.'s 2025 obituary."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (parent I282604492836, proven): Frostburg State bio: 'Son of Thomas and Sharon Meier'"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WUSA9 'Broad Run: The ultimate road warriors' (2015; quotes 'Senior linebacker Matt Meier' per search snippet): 403, not loaded; Loudoun Times-Mirror All-Loudoun 2015 list: not found online; Frostburg State commencement / dean's list pages: no Matthew Meier found; Post-college career (teacher/coach in Loudoun/Fairfax): nothing found; Lacrosse rosters (Broad Run): no Matt Meier"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: found his Broad Run (2013-15, 2nd-team 5A all-state LB) and Frostburg State (LB 2016-19) football careers; the Frostburg bio names his parents Thomas and Sharon Meier."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0002.json."
+    }
+   ],
+   "events": [
+    {
+     "title": "Named key returning player for Broad Run",
+     "date": "2015-08",
+     "place": "Ashburn, Virginia",
+     "description": "Washington Post 'Camp Countdown' preview lists LB Matt Meier, Sr. as a key returning player, quotes him twice on the schedule and the team's goal of a state championship, and says the defence would be 'led by Meier'. [R4-S4]"
+    },
+    {
+     "title": "Frostburg State college football career",
+     "date": "2016-2019",
+     "place": "Frostburg, Maryland",
+     "description": "2016: 8 games, 13 tackles, 7 tackles in the ECAC Bowl win over St. John Fisher. 2017: all 13 games, 11 starts, 35 tackles, a forced fumble. 2018: 9 games, 17 tackles, 3 TFL, a sack; 7 tackles, 2 TFL and a sack in two NCAA Division II playoff games. 2019 (senior): 7 tackles incl. a TFL in a win over Kentucky Wesleyan. [R4-S1]"
+    },
+    {
+     "title": "Education: Broad Run High School, Ashburn, Virginia",
+     "date": "class of 2016 (varsity football 2013-2015)",
+     "place": "",
+     "description": "Varsity linebacker/long snapper/offensive line, jersey 19 then 51; three varsity letters, two-time team captain, 330 career tackles; Ron E. Pyles Leadership Award. [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Education: Frostburg State University, Frostburg, Maryland",
+     "date": "2016-2019 (football)",
+     "place": "",
+     "description": "Linebacker, No. 51, 6-0/220; majoring in health and physical education (2019 roster bio). Graduation not confirmed. [R4-S1]"
+    },
+    {
+     "title": "VHSL Group 5A Defensive Second-Team All-State, linebacker",
+     "date": "2015 season",
+     "place": "",
+     "description": "'Linebacker, Matt Meier, Broad Run, Sr.' [R4-S3]"
+    },
+    {
+     "title": "First Team All-Region, First Team All-Conference, All-Loudoun linebacker (senior); Second Team All-Region, First Team All-Conference and team defensive MVP (junior)",
+     "date": "2014-2015",
+     "place": "",
+     "description": "As listed in his Frostburg State bio. [R4-S1]"
+    }
+   ],
+   "researchNotes": "round5: Matt Meier followed his brothers onto the Broad Run High School football team in Ashburn, where he played varsity for three seasons (2013-2015) as a linebacker and long snapper ([R4-S2]). He was a two-time captain and made 330 career tackles. As a senior in 2015 the Washington Post named him one of the Spartans' key returning players and quoted him on the team's state-title hopes ([R4-S4]). That season he was chosen Second-Team All-State in Virginia's Group 5A as a linebacker, as well as All-Region, All-Conference and All-Loudoun ([R4-S1], [R4-S3]).\n\nHe then played four seasons (2016-2019) as a linebacker, No. 51, for Frostburg State University in Maryland. He started 11 games as a sophomore and played in two NCAA Division II playoff games in 2018. His college roster bio names him as the 'son of Thomas and Sharon Meier' and says he was majoring in health and physical education ([R4-S1]).",
+   "funFacts": [
+    "He wore No. 51 at Broad Run and Frostburg, the same number his brother Johnny wore at Broad Run in 2008-09."
+   ],
+   "media": [
+    {
+     "url": "https://frostburgsports.com/sports/football/roster/matt-meier/8984",
+     "type": "link",
+     "title": "Matt Meier, Frostburg State football roster headshot",
+     "date": "2018",
+     "source": "Frostburg State University Athletics, copyrighted",
+     "note": "Three roster images (51_Matt_Meier_1_/2_/3_.jpg) referenced on the page; directUrl derived from the page's image-proxy URL. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/matt-meier/?careerid=esa86uo274uqa",
+     "type": "link",
+     "title": "Broad Run football photo galleries 2014-2015 including Matt Meier (MaxPreps)",
+     "date": "2014-2015",
+     "source": "MaxPreps, copyrighted",
+     "note": "Profile page lists tagged gallery images from 2014 and 2015 games. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://www.washingtonpost.com/news/recruiting-insider/wp/2015/08/11/camp-countdown-broad-run-football-works-to-return-to-elite-status/",
+     "type": "link",
+     "title": "Camp Countdown: Broad Run works to return to elite status despite tough road ahead",
+     "date": "2015-08-16",
+     "source": "Washington Post (Recruiting Insider), 2015-08-16",
+     "note": "Season preview; Matt Meier is a key returning senior linebacker and is quoted twice.",
+     "people": []
+    },
+    {
+     "url": "https://www.wric.com/news/vhsl-announces-2015-group-5a-all-state-football-teams/",
+     "type": "link",
+     "title": "VHSL Announces 2015 Group 5A All-State Football Teams",
+     "date": "2016-01-11",
+     "source": "WRIC (Richmond), 2016-01-11",
+     "note": "Second-team defense: Linebacker, Matt Meier, Broad Run, Sr.",
+     "people": []
     }
    ],
    "birthDateReduced": true
@@ -62592,6 +63775,13 @@ window.FAMILY_DATA = {
     "Ann Marie Petriello"
    ],
    "source": "research",
+   "mergedFrom": [
+    {
+     "id": "I282695504009",
+     "name": "Ann Marie Petriello",
+     "reason": "Round 5: Ann Marie Petriello is Ann Marie Genello, widow of Anthony 'Zitzer' Genello; the GEDCOM and the family list held her twice."
+    }
+   ],
    "link": {
     "confidence": "confirmed",
     "note": "John T. Petriello Sr.'s sister (Sharon Meier's aunt), named in his 2025 obituary."
@@ -62605,12 +63795,90 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Ann Marie Genello' Scranton: no page in her own name; WebSearch Genello + Petriello obituary Scranton/Dunmore: none; WebSearch Genello obituary 2025/2026 'Ann Marie': no death notice found (Ann Marie Gennell, 1939-2019, Massachusetts, is a different woman); WebSearch 'Genello' 'East Scranton Lumber': no further pages; Legacy.com search: Cloudflare-blocked"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: identified as Ann Marie (Petriello) Genello, widow of Anthony 'Zitzer' Genello (1926-2024), married c.1955-56, three children; merge with I282695504009 recommended."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0003.json."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
-   ]
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "[R4-S3] Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S4] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+    "[R4-S5] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
+   ],
+   "birth": {
+    "date": "1933",
+    "place": "Pennsylvania (Scranton)"
+   },
+   "events": [
+    {
+     "title": "Marriage to Anthony \"Zitzer\" Genello",
+     "date": "ABT 1955-56",
+     "place": "probably Scranton/Dunmore",
+     "description": "Wife of Anthony Genello (1926-2024) of the Bunker Hill section, co-founder of East Scranton Lumber Co. [R4-S2]"
+    },
+    {
+     "title": "Widowed",
+     "date": "2024-02-26",
+     "place": "Wilkes-Barre General Hospital (his death)",
+     "description": "Survives her husband [R4-S2]"
+    },
+    {
+     "title": "Named as surviving sister of John T. Petriello Sr.",
+     "date": "Mar 2025",
+     "place": "Scranton",
+     "description": "'his sister Ann Marie Genello' [R4-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Husband",
+     "value": "Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), WWII veteran (75th Infantry Division, Bronze Star), builder"
+    },
+    {
+     "label": "Children (per husband's obituary)",
+     "value": "Dr. Louis Genello (wife Susan), Marisa Genello, David Genello (wife Kathleen)"
+    }
+   ],
+   "researchNotes": "round5: Ann Marie Petriello was the second child and only daughter of James Petriello and Carmela 'Mollie' Gianetta: in April 1940 she was 6 and living with her parents and brother John (7) at 1028 Bunker Hill Street, Scranton ([R4-S4]). Her brother John T. Petriello Sr.'s 2025 obituary names her as 'his sister Ann Marie Genello' ([R4-S1]). She is the 'Ann Marie' who was the 'loving wife of 68 years' of Anthony 'Zitzer' Genello, who died on 26 February 2024 aged 97 ([R4-S2]). He too grew up in Scranton's Bunker Hill section, the son of Louis and Mary Caprio Genello. He was a Scranton Tech graduate and a World War II veteran of the 75th Infantry Division (two campaigns, Combat Infantry Badge, Bronze Star). In 1956, with his brother Vito, he founded East Scranton Lumber Company, which built custom homes in the Scranton area for more than 50 years. The marriage dates to about 1955-56. Their children are Dr. Louis Genello (wife Susan, Dunmore), Marisa Genello (Scranton) and David Genello (wife Kathleen, Fleetville). They have six grandchildren and a great-grandson ([R4-S2]).\n\nThe link between the two obituaries is confirmed by the tribute wall of John T. Petriello Sr.'s obituary: among the few sympathy entries is one from 'Louis and Susan Genello & family', that is, Ann Marie's son and daughter-in-law ([R4-S3]). Both obituaries were handled by the same funeral home, Solfanelli-Fiorillo in Scranton ([R4-S1], [R4-S2]). No obituary for Ann Marie herself was found up to October 2026, so she is presumed living (about 92).",
+   "conflicts": [
+    {
+     "field": "identity",
+     "site": "Two entries: I282695504009 'Ann Marie Petriello' (b. 1934, child of I282695504010 + I282695504011) and M0003 'Ann Marie Genello' (child of I282695504010 + H0332)",
+     "found": "One woman: Ann Marie Petriello, b. c.1933-34, married name Genello",
+     "assessment": "MERGE RECOMMENDATION (strong): I282695504009 = M0003. Same parents (I282695504011 is a round-4 duplicate of H0332), same given name and the right age. Sr.'s obituary names her as his only sister, with the married name Genello. Her husband's obituary gives a 68-year marriage, so born before about 1937, which fits b. 1934. Her son Louis Genello and his wife Susan sent sympathy at Sr.'s death. Merged record: Ann Marie (Petriello) Genello, b. 1934 PA, spouse Anthony 'Zitzer' Genello (NEW-1301)."
+    },
+    {
+     "field": "relationship",
+     "site": "John T. Petriello Jr.'s 2024 obituary names a surviving 'cousin Ann Marie'",
+     "found": "Ann Marie Genello was John Jr.'s aunt, not his cousin",
+     "assessment": "Unresolved. The obituary may use 'cousin' loosely for his aunt, or it may mean a different Ann Marie (a cousin on the Cognetti side). Do not attach the 'cousin Ann Marie' line to M0003 as proof."
+    }
+   ],
+   "media": [
+    {
+     "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+     "type": "link",
+     "title": "Anthony \"Zitzer\" Genello, obituary portrait",
+     "date": "2024",
+     "source": "Solfanelli-Fiorillo Funeral Home (Tribute Center Online), copyrighted",
+     "note": "Ann Marie's husband; the obituary also has a media album (1 album, not opened). Not downloaded. (not downloaded: rights copyrighted)",
+     "people": []
+    }
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "M0004",
@@ -62619,6 +63887,16 @@ window.FAMILY_DATA = {
    "sex": "M",
    "nickname": "Jim",
    "source": "research",
+   "aka": [
+    "Jim Petriello"
+   ],
+   "mergedFrom": [
+    {
+     "id": "I282695504092",
+     "name": "James",
+     "reason": "Round 5: 'James Jr.' in the GEDCOM is Jim Petriello, John's uncle, already in the tree."
+    }
+   ],
    "link": {
     "confidence": "confirmed",
     "note": "John T. Petriello Sr.'s brother Jim (wife MaryEllen), named in his 2025 obituary."
@@ -62632,11 +63910,44 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Same searches as I282695504092 (merged person): no public footprint found for Jim or MaryEllen Petriello"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: wife MaryEllen confirmed from the full 2025 obituary; merge with I282695504092 recommended; no public footprint."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0004.json."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg"
+   ],
+   "facts": [
+    {
+     "label": "Spouse",
+     "value": "MaryEllen (per brother's 2025 obituary)"
+    },
+    {
+     "label": "Note",
+     "value": "Wife MaryEllen is not in the tree; maiden name unknown."
+    }
+   ],
+   "researchNotes": "round5: John T. Petriello Sr.'s March 2025 obituary names 'brother Jim Petriello and wife MaryEllen' as his only surviving brother, alongside his sister Ann Marie Genello ([R4-S1]). He was not yet born in April 1940, when the household had only John and Ann Marie ([R4-S2]). No public profile, news article or residence was found.",
+   "conflicts": [
+    {
+     "field": "identity",
+     "site": "Separate entry I282695504092 'James Jr.' (tree: 'James (Living)')",
+     "found": "Same man as M0004",
+     "assessment": "MERGE RECOMMENDATION: I282695504092 = M0004 (see I282695504092 file)."
+    }
    ]
   },
   {
@@ -62658,12 +63969,50 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Joanne Petriello' (exact): only data-broker listings (not used) and unrelated Joanne Petrillos; WebSearch obituary 'Sinacori' 'Gallaher' 'Plotnick' (+/- Petriello): no parent obituary found"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: married c.1985-86; Mendham c.1996-2021, then Princeton; three probable sisters found in her husband's obituary; maiden name still unknown."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0005.json."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "[R4-S2] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ],
+   "residences": [
+    {
+     "date": "c.1996-2021",
+     "place": "Mendham, NJ",
+     "note": "with her husband (his obituary: 25 years in Mendham) [R4-S1]"
+    },
+    {
+     "date": "2021-2024",
+     "place": "Princeton area (Skillman), NJ",
+     "note": "[R4-S1]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to John T. Petriello Jr.",
+     "date": "ABT 1985-86",
+     "place": "",
+     "description": "[R4-S1]"
+    }
+   ],
+   "researchNotes": "round5: John T. Petriello Jr.'s obituary calls her his 'loving wife Joanne Petriello of 38 years' and says the couple lived in Mendham, NJ for 25 years before moving to Princeton in 2021 (Skillman at his death) ([R4-S1]). The obituary also lists three sisters-in-law with their husbands: Barbara Plotnick (Rick), Elizabeth Gallaher (Michael) and Lisa Sinacori (Greg) ([R4-S1]). John Jr.'s only siblings were Sharon and Paul, so these three women are almost certainly Joanne's sisters. Her maiden name was not found. His father's 2025 obituary names her as 'daughter in law Joanne Petriello' ([R4-S2]).",
+   "openQuestions": [
+    "Joanne's maiden name: a parent's obituary naming 'Joanne Petriello (John)', Barbara Plotnick, Elizabeth Gallaher and Lisa Sinacori would give it."
    ]
   },
   {
@@ -62673,7 +64022,8 @@ window.FAMILY_DATA = {
    "sex": "F",
    "aka": [
     "Marissa Petriello",
-    "Marisa Westlake"
+    "Marisa Westlake",
+    "Marisa (Zach) Westlake"
    ],
    "source": "research",
    "link": {
@@ -62689,13 +64039,28 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Marissa Petriello'/'Marisa Petriello' + Mendham/Westlake: data-broker listings only (not used); WebSearch 'Marissa Westlake'/'Marisa Westlake' New Jersey: no match; WebSearch Petriello + Westlake wedding/engagement + Zachary: no announcement found; WebSearch Petriello + West Morris Mendham sports: none"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public footprint found beyond the 2024/2025 obituaries."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0006.json."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
-   ]
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
+   ],
+   "researchNotes": "round5: Spelled 'Marisa (Zach) Westlake' in her grandfather's 2025 obituary and 'Marissa Westlake (Zachary)' in her father's 2024 obituary ([R4-S1], [R4-S2]). Her children William, Alexander (Alex) and Olivia are great-grandchildren of John T. Petriello Sr.; minors, so names only."
   },
   {
    "id": "M0007",
@@ -62716,12 +64081,25 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'John Petriello' + Mendham/Princeton/Merrill Lynch/lacrosse/college: only a SUNY Morrisville lacrosse player from Carmel NY, son of Colleen and John Petriello, so NOT this man (https://morrisvillemustangs.com/sports/mens-lacrosse/roster/john-petriello/1800, accessed 2026-10-08); WebSearch 'Samantha Petriello': a Boston preschool/YMCA staffer of that name exists, but nothing ties her to John (name-only, not attached)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no identifiable public footprint (common name; same-name men elsewhere ruled out)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0007.json."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ]
   },
   {
@@ -62743,12 +64121,25 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'James Petriello' + Mendham/Princeton/college/lacrosse/hockey: none; WebSearch 'Emily Petriello': none; Note: a grandson 'James Petriello' in Luigi Petriello's 2024 obituary (Mount Vernon NY) is a different family"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no identifiable public footprint."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0008.json."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ]
   },
   {
@@ -62770,12 +64161,25 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Rebecca Petriello' (exact): no match; Keystone/Clarks Summit searches for Paul and Rebecca together: none"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public footprint; maiden name unknown."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0009.json."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ]
   },
   {
@@ -62797,6 +64201,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "round5: a child; recorded by name and relationship only."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
@@ -62823,6 +64231,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "round5: a child; recorded by name and relationship only."
     }
    ],
    "summary": "A living relative; recorded only from family obituaries.",
@@ -62858,6 +64270,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John: married to Rick McGinley. Web search found no public record (obituary, press) naming her; no people-search sites used."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Kathy McGinley\" with \"Rick\", PA/VA/NJ: only people-search sites (not used); James C. Meier 2008 obituary (Courier Times / Legacy / Dignity Memorial): not found online; GenealogyBank/ObitsArchive hold the Courier Times 2002+ (paywalled); Meier obituary, Levittown, with McGinley/Danny/Jamie/Terry: nothing"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: nothing found; her father's 2008 Courier Times obituary, which should name her, is only in paywalled archives (lead)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0012.json."
     }
    ],
    "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Rick McGinley.",
@@ -62915,6 +64339,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Virginia Sports Hall of Fame / VHSL / VHSCA halls of fame: no Meier found in search results; Chantilly HS athletic hall of fame: no list found; Conwell-Egan Sports Hall of Fame page (conwell-egan.org) and Ted Silary Bishop Egan football history (tedsilary.com): no Meier; Agromeck yearbooks 1972-76 (ocr.lib.ncsu.edu): the OCR is too poor to search, and \"Meier\" gave no hits; Orange HS (Hillsborough, NC) coaching history: nothing found; Washington Post archive stories 1986-1996: blocked (403); search snippets only; LinkedIn (HTTP 999) and X @PrincipalMeier (402): blocked; d.lib.ncsu.edu photo catalogue: blocked (401/bot challenge); DVIDS: one \"Dan Meier\" 2015 video belongs to the Corps of Engineers Transatlantic Afghanistan District, a different person; not attached"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: NC State 1974-76 football rosters and outlooks (Levittown, Pa.; MG/tackle; lettered 1973-75); interim principal at Herndon (2016) and Oakton (2017), and history teacher, from Connection and Oakton Outlook; West Point bios name parents \"Dan and Ann Meier\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0013.json."
     }
    ],
    "summary": "NC State nose guard under Lou Holtz, then a three-time Virginia state champion high-school football coach at West Potomac and Chantilly, and later a Fairfax County principal.",
@@ -62930,7 +64366,15 @@ window.FAMILY_DATA = {
     "The Highlander (McLean HS), 17 May 2018, \"Daniel Meier brings expertise to McLean\": https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/",
     "West Potomac Athletic Hall of Fame, 2019 inductees: https://www.supportwestpotomac.com/2019-inductees.html",
     "NOVA Legends Podcast, \"West Potomac and Chantilly Football Coach Danny Meier\": https://www.youtube.com/watch?v=WvdSYyTd6aw",
-    "Robinson Secondary School history (principals list, Daniel F. Meier): https://robinsonss.fcps.edu/about/history"
+    "Robinson Secondary School history (principals list, Daniel F. Meier): https://robinsonss.fcps.edu/about/history",
+    "[R4-S1] NC State University Sports Information, 1974 football outlook and roster (University Archives UA 015.010.008, box 135; OCR PDF) (primary) https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+    "[R4-S2] NC State University Sports Information, 1975 Wolfpack roster (UA 015.010.008, box 136; OCR PDF) (primary) https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf",
+    "[R4-S3] NC State University Sports Information, 1976 football outlook (UA 015.010.008, box 139; OCR PDF) (primary) https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf",
+    "[R4-S4] Ryan Dunn, \"Transition At Herndon High\", Connection Newspapers, 23 Sep 2016 (secondary) https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+    "[R4-S5] Rebecca Woodhouse, \"Getting to know Mr. Meier\", The Oakton Outlook (Oakton HS student paper), 30 Apr 2017 (secondary) https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+    "[R4-S6] West Potomac High School (FCPS), \"Where Legends Live On\" Athletic Hall of Fame page (secondary) https://westpotomachs.fcps.edu/node/9426",
+    "[R4-S7] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+    "[R4-S8] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583"
    ],
    "residences": [
     {
@@ -62954,11 +64398,19 @@ window.FAMILY_DATA = {
     {
      "date": "2013",
      "place": "Fairfax Station, Virginia, USA"
+    },
+    {
+     "date": "1974-75",
+     "place": "Levittown, Pennsylvania",
+     "note": "Hometown on NC State football rosters [R4-S1] [R4-S2]"
     }
    ],
    "openQuestions": [
     "Exact birth date (sources give ages implying birth between July 1953 and June 1954; John estimated 1956).",
-    "Annie's maiden name and marriage date; the children's full names and birth dates."
+    "Annie's maiden name and marriage date; the children's full names and birth dates.",
+    "Four Washington Post archive stories found by search but not loadable (403): 17 Dec 1989 \"West Potomac's trickery brings state title, 17-14\"; 1 Sep 1989 \"For West Potomac, pride is growing\"; 5 Sep 1986 \"West Potomac will be no surprise\"; 8 Dec 1996 \"No. 1 Chantilly 14, GW-Danville 7\". See leads.",
+    "NC State University Libraries' photograph collection (UA023) has individual portraits of 1973-75 players; a portrait of Dan Meier may exist but d.lib.ncsu.edu was blocked (bot challenge, HTTP 401).",
+    "High school in Levittown not identified. No Meier appears in Ted Silary's Bishop Egan football history or the Conwell-Egan Sports Hall of Fame list."
    ],
    "aka": [
     "Dan Meier",
@@ -62972,7 +64424,8 @@ window.FAMILY_DATA = {
     "Played for Lou Holtz, who later won a national title at Notre Dame.",
     "His West Potomac motto, \"The Tradition starts NOW\", is still used by the school's Hall of Fame.",
     "Came back from retirement to coach Robinson's football team two weeks after his last day as its principal.",
-    "Three of his children went into the Army, two through West Point."
+    "Three of his children went into the Army, two through West Point.",
+    "His sons Mike and Tim later shared the Army sprint football backfield; in 2010 Mike led Army in rushing (48.8 yards a game) with Tim second (48.5)."
    ],
    "events": [
     {
@@ -63032,6 +64485,36 @@ window.FAMILY_DATA = {
     {
      "title": "Inducted into the West Potomac Athletic Hall of Fame",
      "date": "2019"
+    },
+    {
+     "title": "Education: North Carolina State University",
+     "date": "1972-75 (varsity letters 1973, 1974, 1975, inferred from letter asterisks)",
+     "place": "",
+     "description": "Listed as \"*Dan Meier, MG, 234 lb, Levittown, Pa.\" on the 1974 Wolfpack roster (one letter already won) and \"**Dan Meier, Levittown, Pa.\" on the 1975 roster (two letters won); the 1976 outlook lists \"tackle Dan Meier\" among the chief losses from the 1975 team. [R4-S1] [R4-S2] [R4-S3]"
+    },
+    {
+     "title": "History teacher; guidance counselor; director of student services; assistant principal, Fairfax County Public Schools",
+     "date": "various",
+     "place": "",
+     "description": "Career summary he gave the Oakton student paper in 2017, which adds history teacher to the roles already on the site. [R4-S5]"
+    },
+    {
+     "title": "Interim principal, Herndon High School, Fairfax County",
+     "date": "2016 (autumn)",
+     "place": "",
+     "description": "Took over after principal Dr. William Bates left in July 2016; the paper notes he was earlier Herndon's director of counseling. [R4-S4]"
+    },
+    {
+     "title": "Interim principal, Oakton High School, Fairfax County",
+     "date": "2017 (spring)",
+     "place": "",
+     "description": "Filled in after Dr. Banbury moved to the FCPS Region 1 office; he said he had also stood in at Herndon, Woodson, Madison and four or five middle schools. [R4-S5]"
+    },
+    {
+     "title": "West Potomac Athletic Hall of Fame, inaugural class",
+     "date": "2019",
+     "place": "",
+     "description": "The school's own Hall of Fame page lists \"Danny Meier – 1985 to 1992\" under the 2019 inductees (the site already cites the booster-club page). [R4-S6]"
     }
    ],
    "facts": [
@@ -63046,6 +64529,10 @@ window.FAMILY_DATA = {
     {
      "label": "Education",
      "value": "North Carolina State University (football, 1972–75)."
+    },
+    {
+     "label": "NC State roster listing",
+     "value": "1974: MG, 234 lb, Levittown, Pa.; 1975 roster: Levittown, Pa. (two letters won)"
     }
    ],
    "media": [
@@ -63104,9 +64591,63 @@ window.FAMILY_DATA = {
      "source": "Press",
      "note": "",
      "url": "https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/"
+    },
+    {
+     "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+     "type": "link",
+     "title": "NC State 1974 football roster: \"*Dan Meier, MG, 234, Levittown, Pa.\"",
+     "date": "1974",
+     "source": "NC State University Libraries, Special Collections (University Archives, Sports Information), unknown",
+     "note": "1974 university publication; copyright status unclear, so not downloaded. (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf",
+     "type": "link",
+     "title": "NC State 1975 Wolfpack roster: \"**Dan Meier, Levittown, Pa.\"",
+     "date": "1975",
+     "source": "NC State University Libraries, Special Collections, unknown",
+     "note": " (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf",
+     "type": "link",
+     "title": "NC State 1976 outlook: tackle Dan Meier among chief losses",
+     "date": "1976",
+     "source": "NC State University Libraries, Special Collections, unknown",
+     "note": " (not downloaded: rights unknown)",
+     "people": []
+    },
+    {
+     "url": "https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+     "type": "link",
+     "title": "Dan Meier, interim principal of Herndon High School, 2016",
+     "date": "2016-09-23",
+     "source": "Connection Newspapers, copyrighted",
+     "note": "Photo by Ryan Dunn. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+     "type": "link",
+     "title": "\"Getting to know Mr. Meier\": Oakton Outlook photo, 2017",
+     "date": "2017-04-30",
+     "source": "The Oakton Outlook, copyrighted",
+     "note": "No photographer credit given. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://westpotomachs.fcps.edu/node/9426",
+     "type": "link",
+     "title": "West Potomac HS Athletic Hall of Fame list (FCPS)",
+     "date": "",
+     "source": "",
+     "note": "2019 class",
+     "people": []
     }
    ],
-   "researchNotes": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019.",
+   "researchNotes": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019.\n\nround5: North Carolina State's football programmes from the Lou Holtz years confirm Danny's college career and tie him to Levittown. The 1974 roster lists \"*Dan Meier\", middle guard, 234 lb, of Levittown, Pa., where the asterisk marks one varsity letter already won. The 1975 roster lists \"**Dan Meier, Levittown, Pa.\" with two letters. The 1976 outlook names \"tackle Dan Meier\" among the chief losses from the 1975 team ([R4-S1], [R4-S2], [R4-S3]). He therefore lettered in 1973, 1974 and 1975, playing middle guard and tackle.\n\nAfter retiring as Robinson principal he kept stepping in as a stand-in principal. He was interim principal of Herndon High in autumn 2016, where he had once been director of counselling ([R4-S4]), and of Oakton High in spring 2017. There he told the student paper that he had been a football coach for 17 years, a history teacher, guidance counsellor, director of student services, assistant principal and principal of Rocky Run and Robinson, and that he had filled in at Herndon, Woodson, Madison and four or five middle schools ([R4-S5]). His sons' West Point athletic biographies call their parents \"Dan and Ann Meier\" and note that their father played football, as a defensive lineman, at North Carolina State ([R4-S7], [R4-S8]).",
    "birthDateReduced": true
   },
   {
@@ -63148,6 +64689,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: East Stroudsburg University Athletics Hall of Fame: no Jamie or Tom Meier (only Terri Meierhofer); \"Jamie Meier\" coach/Waynewood/Chantilly 2018-2026: nothing new; Waynewood PTA minutes April 2016 (waynewoodelem.ch2v.com PDF): HTTP 503, not loaded"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: one minor new mention (2013 Military Town Advisor: principal and crossing guard); ESU Hall of Fame negative."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0014.json."
     }
    ],
    "summary": "Known as Jamie: All-PSAC split end at East Stroudsburg, offensive coordinator of West Potomac's 1989 state champions, and principal of Waynewood Elementary School 2006–17; John's uncle.",
@@ -63163,7 +64716,8 @@ window.FAMILY_DATA = {
     "Mount Vernon Gazette, 4 May 2012, \"Academic Excellence Award for Waynewood\" (fourth straight year): https://www.mountvernongazette.com/news/2012/may/04/academic-excellence-award-waynewood/",
     "Covering the Corridor, 2 Jun 2017, \"New principal selected for Waynewood Elementary\" (retiring after 31 years in FCPS, 11 as principal): https://coveringthecorridor.com/2017/06/new-principal-waynewood/",
     "Mount Vernon Gazette, 4 Sep 2017, \"Back to Waynewood Elementary\": https://www.connectionnewspapers.com/news/2017/sep/04/back-waynewood-elementary/",
-    "Patch (Greater Alexandria), 22 Feb 2018, \"Mr. Jamie Meier Awarded Citizen of the Year!\": https://patch.com/virginia/greateralexandria/mr-jamie-meier-awarded-citizen-year"
+    "Patch (Greater Alexandria), 22 Feb 2018, \"Mr. Jamie Meier Awarded Citizen of the Year!\": https://patch.com/virginia/greateralexandria/mr-jamie-meier-awarded-citizen-year",
+    "[R4-S1] \"5 Amazing DC Suburbs: Alexandria Neighborhoods\", Military Town Advisor blog, 8 Apr 2013 (secondary) https://www.militarytownadvisor.com/blog/2013/4/8/58/5-amazing-dc-suburbs-alexandria-neighborhoods/"
    ],
    "residences": [
     {
@@ -63354,9 +64908,18 @@ window.FAMILY_DATA = {
      "source": "Connection Newspapers",
      "note": "",
      "url": "https://www.connectionnewspapers.com/news/2006/mar/23/the-edge-at-waynewood-elementary/"
+    },
+    {
+     "url": "https://www.militarytownadvisor.com/blog/2013/4/8/58/5-amazing-dc-suburbs-alexandria-neighborhoods/",
+     "type": "link",
+     "title": "Military Town Advisor: Alexandria neighborhoods (2013)",
+     "date": "",
+     "source": "",
+     "note": "Mentions principal Mr. Meier as a crossing guard",
+     "people": []
     }
    ],
-   "researchNotes": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven (2006–17) as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running (2009–12), and he became known for visiting every classroom every day, knowing nearly every child by name and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.",
+   "researchNotes": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven (2006–17) as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running (2009–12), and he became known for visiting every classroom every day, knowing nearly every child by name and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.\n\nround5: An April 2013 neighbourhood guide to Alexandria, written for military families, singled out Waynewood Elementary's principal, \"Mr. Meier\", as one of the school's crossing guards who knew students and parents by name and was always out around the school ([R4-S1]). This is the same crossing-guard habit later cited when he was named Citizen of the Year in 2018.",
    "birthDateReduced": true
   },
   {
@@ -63379,6 +64942,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from John's list of his father's siblings (estimated birth year 1960, known as Susie)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: James C. Meier 2008 Levittown obituary: not found (WebSearch several phrasings; Legacy.com returns 403; Courier Times 2008 archive is on Newspapers.com/GenealogyBank, paywalled); Kathryn (McGuire) Meier 1970 obituary: not online; Obituaries of Kathryn's sisters read for the Meier children's married names: Betsy Arnold (2016, Altoona Mirror) names none; Nancy Holland (2007, Times Leader) says only '20 nieces and nephews' (Legacy page 403, extract only); Jane Nagle (2005) not found online; Barbara Ann (Meier) Smith 2021 obituary (Mount Laurel NJ): only 'many loving nieces, nephews'; WebSearch 'Susan Meier' / 'Susie Meier' Levittown PA: only unrelated people (a western-PA romance author Susan Meier; Johnstown-born Susan Meier); Ruled out: Susan R. Meier (19 Mar 1960 - 13 Sep 2026) of Waterloo, Iowa (Locke Funeral Services obituary https://www.lockefuneralservices.com/obituaries/susan-r-meier/). She was born Ihlenfeldt and married David A. Meier in 1989, so she is a different person despite the matching birth year 1960."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public footprint found without a married surname; ruled out a same-name, same-birth-year Susan R. Meier (née Ihlenfeldt) who died in Waterloo, Iowa, in Sept 2026."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0015.json."
     }
    ],
    "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of John Meier.",
@@ -63393,7 +64968,8 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names.",
+    "Married surname unknown; no public source found naming her. John may know it, and it would unlock further searching."
    ],
    "birthDateReduced": true
   },
@@ -63423,6 +64999,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John: married to Anthony 'Tony' Russo; children Anthony, Chelsea, Gianna and Emily. No public record found by web search."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: James C. Meier 2008 Levittown obituary: not found (WebSearch several phrasings; Legacy.com returns 403; Courier Times 2008 archive is on Newspapers.com/GenealogyBank, paywalled); Kathryn (McGuire) Meier 1970 obituary: not online; Obituaries of Kathryn's sisters read for the Meier children's married names: Betsy Arnold (2016, Altoona Mirror) names none; Nancy Holland (2007, Times Leader) says only '20 nieces and nephews' (Legacy page 403, extract only); Jane Nagle (2005) not found online; Barbara Ann (Meier) Smith 2021 obituary (Mount Laurel NJ): only 'many loving nieces, nephews'; WebSearch 'Nancy Russo' + 'Tony Russo' + children's names; + Levittown / Bucks County / Fairless Hills: only unrelated Russos (psychologist Nancy Felipe Russo, NJ/Pittsburgh/CT obituaries); Data-broker hits ignored per privacy rule"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public source tying Nancy (Meier) Russo to any record; the name is too common without a town."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0016.json."
     }
    ],
    "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Tony Russo; four children.",
@@ -63437,7 +65025,8 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Exact birth date; where the Russos live; professions."
+    "Exact birth date; where the Russos live; professions.",
+    "Town of residence unknown; Russo is too common to identify without a town."
    ],
    "facts": [
     {
@@ -63472,6 +65061,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from John's list of his father's siblings (estimated birth year 1962, known as Jack)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: James C. Meier 2008 Levittown obituary: not found (WebSearch several phrasings; Legacy.com returns 403; Courier Times 2008 archive is on Newspapers.com/GenealogyBank, paywalled); Kathryn (McGuire) Meier 1970 obituary: not online; Obituaries of Kathryn's sisters read for the Meier children's married names: Betsy Arnold (2016, Altoona Mirror) names none; Nancy Holland (2007, Times Leader) says only '20 nieces and nephews' (Legacy page 403, extract only); Jane Nagle (2005) not found online; Barbara Ann (Meier) Smith 2021 obituary (Mount Laurel NJ): only 'many loving nieces, nephews'; WebSearch 'Jack Meier' / 'John Meier' Levittown with Bishop Egan, Woodrow Wilson, Truman (c. 1980): no match; Ted Silary's Bishop Egan (Conwell-Egan) football history page has no Meier; Unrelated namesake: John Meier of the Trust for Public Land (ex-Apple), no Levittown tie"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no identifiable public record; 'John Meier' is too common without a spouse, town or employer."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0017.json."
     }
    ],
    "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of John Meier.",
@@ -63519,6 +65120,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John: was married to a Borgman, later divorced. No public record found by web search."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: James C. Meier 2008 Levittown obituary: not found (WebSearch several phrasings; Legacy.com returns 403; Courier Times 2008 archive is on Newspapers.com/GenealogyBank, paywalled); Kathryn (McGuire) Meier 1970 obituary: not online; Obituaries of Kathryn's sisters read for the Meier children's married names: Betsy Arnold (2016, Altoona Mirror) names none; Nancy Holland (2007, Times Leader) says only '20 nieces and nephews' (Legacy page 403, extract only); Jane Nagle (2005) not found online; Barbara Ann (Meier) Smith 2021 obituary (Mount Laurel NJ): only 'many loving nieces, nephews'; WebSearch 'Terry Borgman' / 'Theresa Borgman' / 'Teresa Borgman' Pennsylvania: no PA match (only data-broker listings, which were ignored, and a Minnesota Terry Borgman, a husband, so not her); WebSearch 'Terry Meier' Levittown / Bucks County / Bristol: nothing; a Terrance 'Terry' Leo Meier of Whidbey Island WA (d. 2025) is unrelated; WebSearch Borgman-Meier wedding, Levittown / Courier Times: nothing online (Courier Times 1954-2026 is on Newspapers.com, paywalled)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public record of Terry (Meier) Borgman or her former husband found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0018.json."
     }
    ],
    "summary": "Known as Terry (Theresa or Teresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt.",
@@ -63533,7 +65146,8 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Spelling of her first name (Theresa/Teresa); exact birth date; the Borgman husband's first name; where she lives; profession."
+    "Spelling of her first name (Theresa/Teresa); exact birth date; the Borgman husband's first name; where she lives; profession.",
+    "Borgman husband's first name: not found in any public source. The best route is a Newspapers.com search of the Bucks County Courier Times for 'Borgman' with 'Meier' (wedding announcement, probably 1980s)."
    ],
    "facts": [
     {
@@ -63563,12 +65177,27 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Shannon McCarthy' + 'Johnny Meier'/'John Meier'/'Shannon Meier', engaged, wedding, The Knot, Zola: only the Zola title (now 404); every other Shannon McCarthy/Shannon Meier found was a different person (Illinois obituary 2025, desalination executive, nurses, teachers) with no tie to Johnny; zola.com/wedding/howell25: HTTP 404 (WebFetch and curl); Wayback CDX: no captures; Name too common to research further without a second identifier (hometown, school, employer)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: nothing confirmable; a now-deleted Zola wedding site 'Shannon McCarthy and Johnny Meier' was seen only in a search result."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0019.json."
     }
    ],
    "summary": "A living family member; recorded from family information supplied by John Meier.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
+   ],
+   "openQuestions": [
+    "A Zola wedding website titled 'Shannon McCarthy and Johnny Meier' (zola.com/wedding/howell25) appeared in a search result: per the search summary, 12 Sep 2025 on Long Island, NY. The page now returns 404 and has no Wayback capture, so nothing is confirmed. John can supply the date and place."
    ]
   },
   {
@@ -63594,12 +65223,30 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse M0001, probable): The Knot registry 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Laura De Santis'/'Laura DeSantis' + Tommy Meier, Virginia, Loudoun, Leesburg, Ashburn, coach, college athletics: only the registry and the FCPS staff page (no identity link); LinkedIn 'Laura De Santis - Teacher - Fairfax County Public Schools': not loaded (LinkedIn blocks); name-only; Wedding announcement in newspapers: none found"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: public registry gives her marriage to Tommy Meier Jr. on 29 May 2021 (Leesburg, VA); possible FCPS health/PE teacher, identity unconfirmed."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0020.json."
     }
    ],
    "summary": "Wife of Tommy Meier Jr. and mother of Luca; she kept her surname, De Santis.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
-    "Obituary of John T. Petriello Sr., 2025"
+    "Obituary of John T. Petriello Sr., 2025",
+    "[R4-S1] The Knot registry page 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021 (read via text proxy; direct 403) (secondary) https://registry.theknot.com/laura-de-santis-tommy-meier-may-2021-va/43447109",
+    "[R4-S2] Holmes Middle School (FCPS) staff page 'Laura De Santis' - Health & Physical Education teacher (candidate only, name match) (secondary) https://holmesms.fcps.edu/staff/laura-de-santis"
    ],
    "manual": true,
    "facts": [
@@ -63607,6 +65254,18 @@ window.FAMILY_DATA = {
      "label": "Surname",
      "value": "De Santis (kept after marriage)"
     }
+   ],
+   "events": [
+    {
+     "title": "Married Thomas F. 'Tommy' Meier Jr.",
+     "date": "2021-05-29",
+     "place": "Leesburg, Virginia (as shown on the couple's public registry page)",
+     "description": "The Knot registry page 'Laura De Santis & Tommy Meier', headed 'Leesburg, VA - May 29, 2021'. [R4-S1]"
+    }
+   ],
+   "researchNotes": "round5: Laura De Santis married Tommy Meier Jr. on 29 May 2021; their public wedding-registry page gives Leesburg, Virginia ([R4-S1]). She kept her surname. A Laura De Santis teaches health and physical education at Holmes Middle School (Fairfax County Public Schools, Alexandria), but no second identifier ties that teacher to Tommy's wife, so this is a candidate only ([R4-S2]).",
+   "openQuestions": [
+    "Is she the Laura De Santis who is a health & PE teacher at Holmes Middle School (FCPS)? Name-only match: John can confirm."
    ]
   },
   {
@@ -63628,6 +65287,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "round5: a child; recorded by name and relationship only."
     }
    ],
    "summary": "A living family member; recorded from family information supplied by John Meier.",
@@ -63655,11 +65318,36 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse M0013, proven): \"Son of Dan and Ann Meier ... father played football at North Carolina State\""
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Annie Meier\" / \"Ann Meier\" Fairfax County Public Schools: only the LinkedIn search title (not loaded); No wedding announcement found"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: named as \"Ann\" in her sons' West Point athletics bios; maiden name not found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0022.json."
     }
    ],
    "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. Secretary in the Fairfax County superintendent's office in 2013.",
    "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+    "[R4-S2] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583"
+   ],
+   "aka": [
+    "Ann Meier"
+   ],
+   "researchNotes": "round5: Her sons' Army West Point sprint-football biographies (2011) each describe them as the \"Son of Dan and Ann Meier\", so she also appears as Ann ([R4-S1], [R4-S2]).",
+   "openQuestions": [
+    "Maiden name and marriage date still unknown. A search-result title shows a LinkedIn profile \"Annie Meier – Executive Administrative Assistant at Fairfax County Public Schools\" (Fairfax Station), consistent with the 2013 article, but LinkedIn is blocked (HTTP 999) and it was not loaded."
    ]
   },
   {
@@ -63685,16 +65373,86 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "A Mike Meier, Robinson Secondary senior, was a Washington Post All-Met honorable-mention running back in fall 2006, while Danny Meier was Robinson's principal. Probably this Mike; not confirmed. https://www.washingtonpost.com/wp-srv/sports/hssports/longterm/allmets/fall06/football.html"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Confirm whether he is the Mike Meier named Washington Post All-Met honorable mention (running back, Robinson, 2006). → Very likely. His West Point bio says he was first-team all-district and all-region at Robinson and played in the state all-star game, and he played running back at Army. That fits a 2006 All-Met honourable mention, though no source states the All-Met honour outright."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (parent M0013, proven): \"Son of Dan and Ann Meier ... father played football at North Carolina State\""
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Capt./1st Lt. Michael Meier\" field artillery: no Army match (a Marine 1st Lt. Michael Meier, VMI, is a different person); DVIDS site search: empty responses (blocked/JS); College football rosters for \"Mike Meier\" Robinson: nothing beyond Army"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Army West Point sprint football 2010-11 (All-CSFL 1st team 2010, team rushing leader; law major); bio names parents Dan and Ann; later Army athletic intern."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0023.json."
     }
    ],
    "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. An Army second lieutenant at Fort Sill in 2013.",
    "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+    "[R4-S2] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+    "[R4-S3] Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details) (secondary) https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
    ],
    "openQuestions": [
-    "Confirm whether he is the Mike Meier named Washington Post All-Met honorable mention (running back, Robinson, 2006)."
+    "Branch and later career after Fort Sill (presumably Field Artillery) not found; DVIDS search pages returned empty, and the \"1st Lt. Michael Meier\" in DVIDS is a Marine VMI graduate, a different man."
    ],
    "manual": true,
+   "aka": [
+    "Mike Meier"
+   ],
+   "events": [
+    {
+     "title": "Education: Robinson Secondary School, Fairfax, Va.",
+     "date": "graduated c.2007",
+     "place": "",
+     "description": "First-team all-district, all-region, chosen for the Virginia state all-star game (football). [R4-S1]"
+    },
+    {
+     "title": "Education: United States Military Academy, West Point",
+     "date": "senior in 2011-12 (class of 2012, inferred)",
+     "place": "",
+     "description": "Law major; two-year member of Army sprint football (2010-11). [R4-S1] [R4-S2] [R4-S3]"
+    },
+    {
+     "title": "Athletic Intern, Army West Point Athletics",
+     "date": "c.2012",
+     "place": "",
+     "description": "Tim's bio calls older brother Mike \"the current Athletic Intern\" (a post often held by new graduates before branch school). [R4-S2]"
+    },
+    {
+     "title": "Second Lieutenant, US Army, Fort Sill, Okla.",
+     "date": "2013",
+     "place": "",
+     "description": "Already on the site. [R4-S3]"
+    },
+    {
+     "title": "All-CSFL first team (Collegiate Sprint Football League)",
+     "date": "2010",
+     "place": "",
+     "description": "Led Army in rushing (48.8 ypg; 293 yards on 59 carries, five TDs); 103 yards and a TD v. Princeton; scored in the season-finale win at Navy. [R4-S1]"
+    }
+   ],
+   "researchNotes": "round5: Mike played sprint football (players under a weight limit) at West Point. He wore No. 5 and was listed as a linebacker on the 2011 roster as a senior from Fairfax, Va., and Robinson Secondary. In 2010, his first season, he was All-CSFL first team and led Army in rushing at 48.8 yards a game. He scored in his first two games, at RPI and Mansfield, ran for 103 yards and a touchdown against Princeton and scored in the season-finale win at Navy, which decided the league title. His bio calls him a law major, the son of Dan and Ann Meier, and says his father played football at NC State and his brother Tim was on the team. At Robinson he was first-team all-district and all-region and played in the Virginia state all-star game ([R4-S1]). His brother Tim's bio says Mike later served as Army's athletic intern ([R4-S2]).",
+   "media": [
+    {
+     "url": "https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+     "type": "link",
+     "title": "Michael Meier, Army sprint football roster headshot (2011)",
+     "date": "2011",
+     "source": "Army West Point Athletics (goarmywestpoint.com), copyrighted",
+     "note": "Published by the Army West Point Athletic Association (a private non-profit), not a federal-government work, so treated as copyrighted. (not downloaded: rights copyrighted)",
+     "people": []
+    }
+   ],
    "birthDateReduced": true
   },
   {
@@ -63716,11 +65474,92 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (parent M0013, proven): \"Son of Dan and Ann Meier ... father was a defensive lineman at North Carolina State\""
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Capt./1st Lt. Timothy/Tim Meier\" Army: no match (results were a Jesuit Army chaplain and unrelated people); westpoint.edu story on the 2012 CSFL title: no Meier named; goarmywestpoint 2012-15 sprint rosters: blocked (403) or page content not rendered"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Army West Point sprint football QB/RB 2009-11 (All-CSFL 2009, 2010, HM 2011); bio names parents Dan and Ann and siblings Mike, Joe, Mary; class year conflicts with the June 2013 \"cadet\" description."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0024.json."
     }
    ],
    "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
    "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+    "[R4-S2] Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details) (secondary) https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+   ],
+   "aka": [
+    "Tim Meier",
+    "Timmy Meier"
+   ],
+   "events": [
+    {
+     "title": "Education: Robinson Secondary School, Fairfax, Va.",
+     "date": "graduated c.2009",
+     "place": "",
+     "description": "Four-time letterwinner and three-year starter in football; National Honor Society; highlight was upsetting Chantilly in the playoffs as a junior. [R4-S1]"
+    },
+    {
+     "title": "Education: United States Military Academy, West Point",
+     "date": "from 2009 (freshman 2009; listed as Junior on the 2011 roster)",
+     "place": "",
+     "description": "Army sprint football 2009-11 (and probably 2012). [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "All-CSFL second team",
+     "date": "2009",
+     "place": "",
+     "description": "Starting quarterback as a plebe: 118 passing and 63 rushing yards a game, 10 TD passes. [R4-S1]"
+    },
+    {
+     "title": "All-CSFL second team",
+     "date": "2010",
+     "place": "",
+     "description": "307 yards and 3 TD passing at RPI; 142 yards and 3 TD rushing in the CSFL title-game win at Navy. [R4-S1]"
+    },
+    {
+     "title": "All-CSFL honorable mention",
+     "date": "2011",
+     "place": "",
+     "description": "Used at running back, quarterback, punter and kick returner. [R4-S1]"
+    }
+   ],
+   "researchNotes": "round5: Tim was the Army sprint football team's starting quarterback from his first season in 2009, when he was All-CSFL second team and threw 10 touchdown passes. In 2010 he repeated as second-team All-CSFL. He opened that season with 307 passing yards and three touchdowns at RPI, then ran for a career-high 142 yards and three touchdowns in the league-title win at Navy, finishing just behind his older brother Mike in rushing average. In 2011 (No. 4, listed as a junior, hometown Fairfax, Va.) he played running back, quarterback, punter and kick returner and earned honourable mention. His bio names his parents Dan and Ann Meier and his siblings Mike, Joe and Mary, and says his father was a defensive lineman at NC State. At Robinson he was a four-time letterwinner, three-year starter and National Honor Society member. He listed Brett Favre as his favourite athlete and skydiving and rollercoasters among his pastimes ([R4-S1]).",
+   "funFacts": [
+    "In the 2010 sprint-football title game at Navy he ran for 142 yards and three touchdowns.",
+    "Lists skydiving and rollercoasters among his hobbies."
+   ],
+   "conflicts": [
+    {
+     "field": "education.usmaClass",
+     "site": "West Point cadet in June 2013 (Connection, 26 Jun 2013)",
+     "found": "Freshman season 2009 and \"Junior\" on the 2011 roster imply the class of 2013, which graduated in May 2013",
+     "assessment": "Unresolved. Either the June 2013 article was out of date or he graduated later than his athletic class. A USMA class list for 2013 or 2014 would settle it."
+    }
+   ],
+   "openQuestions": [
+    "USMA graduation year, branch and later career not found (no class list for 2013/2014 located)."
+   ],
+   "media": [
+    {
+     "url": "https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+     "type": "link",
+     "title": "Tim Meier, Army sprint football roster headshot (2011)",
+     "date": "2011",
+     "source": "Army West Point Athletics (goarmywestpoint.com), copyrighted",
+     "note": "Athletic-association photo; not a federal work. (not downloaded: rights copyrighted)",
+     "people": []
+    }
    ],
    "birthDateReduced": true
   },
@@ -63743,11 +65582,83 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (parent M0013, proven): Tim Meier's bio (son of Dan and Ann Meier) names \"brother Joe\"; Joe's own roster gives the same hometown and school"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Capt./1st Lt./2nd Lt. Joseph Meier\" Army: only a Navy CAPT Joseph Meier (different man); DVIDS: blocked"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: middle name Francis; USMA Class of 2016, Field Artillery (Military Times list); Army sprint football DE 2013."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0025.json."
     }
    ],
    "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
    "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Army West Point Athletics, Sprint Football roster 2013, \"Joseph Meier\" (#51, DE, Sophomore, hometown Fairfax Station, Va., Robinson Secondary School) (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/joseph-meier/3491",
+    "[R4-S2] Military Times, \"U.S. Military Academy Class of 2016: Name, Hometown, Branch\" (PDF, 20 pp.) (secondary) https://ec.militarytimes.com/static/pdfs/USMAgrads.pdf",
+    "[R4-S3] Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details) (secondary) https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+   ],
+   "aka": [
+    "Joseph Francis Meier",
+    "Joe Meier"
+   ],
+   "military": [
+    {
+     "note": "Graduated with the USMA Class of 2016 and branched Field Artillery (\"Meier, Joseph Francis — Fairfax Station, VA — Field Artillery\"). [R4-S2]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Education: Robinson Secondary School",
+     "date": "graduated c.2012",
+     "place": "",
+     "description": "[R4-S1]"
+    },
+    {
+     "title": "Education: United States Military Academy, West Point",
+     "date": "class of 2016",
+     "place": "",
+     "description": "Army sprint football (No. 51, defensive end, sophomore in 2013). [R4-S1] [R4-S2]"
+    },
+    {
+     "title": "Second Lieutenant, Field Artillery (on commissioning), US Army",
+     "date": "2016",
+     "place": "",
+     "description": "[R4-S2]"
+    }
+   ],
+   "researchNotes": "round5: Joe followed his brothers to West Point and onto the sprint football team. He was No. 51, a defensive end, as a sophomore in 2013, listed from Fairfax Station, Va., and Robinson Secondary School ([R4-S1]). The Military Times list of the U.S. Military Academy Class of 2016 includes \"Meier, Joseph Francis\" of Fairfax Station, VA, branched Field Artillery ([R4-S2]). This gives his middle name, Francis, and confirms the Fairfax Station hometown already in the 2013 Connection profile ([R4-S3]).",
+   "openQuestions": [
+    "Assignments after 2016 (Field Artillery units, rank) not found; DVIDS search blocked."
+   ],
+   "media": [
+    {
+     "url": "https://goarmywestpoint.com/sports/sprint-football/roster/joseph-meier/3491",
+     "type": "link",
+     "title": "Joseph Meier, Army sprint football roster headshot (2013)",
+     "date": "2013",
+     "source": "Army West Point Athletics, copyrighted",
+     "note": "Athletic-association photo; not a federal work. (not downloaded: rights copyrighted)",
+     "people": []
+    },
+    {
+     "url": "https://ec.militarytimes.com/static/pdfs/USMAgrads.pdf",
+     "type": "link",
+     "title": "USMA Class of 2016 list: Meier, Joseph Francis, Fairfax Station, VA, Field Artillery",
+     "date": "2016-05",
+     "source": "Military Times, copyrighted",
+     "note": "Entry on PDF page 12 (verified). (not downloaded: rights copyrighted)",
+     "people": []
+    }
    ],
    "birthDateReduced": true
   },
@@ -63769,11 +65680,45 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Mary Meier\" singer/songwriter/vocalist/soprano; Spotify, Bandcamp, SoundCloud: no matching artist; \"Mary Meier\" university music programmes, Virginia: nothing"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Robinson choral singer; Virginia All-State Chorus 2012 (Patch); no music releases found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0026.json."
     }
    ],
    "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A 2013 Robinson graduate planning a music career.",
    "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Rachel Hatzipanagos, \"Robinson Students Selected for All-State Chorus\", Fairfax Station Patch, 27 Feb 2012 (secondary) https://patch.com/virginia/fairfaxstation/robinson-students-selected-for-all-state-chorus",
+    "[R4-S2] Patricia Mandes, \"Major Works Concert Presented by Robinson Secondary Singers\", Fairfax Station Patch (community post), 4 Nov 2011 (secondary) https://patch.com/virginia/fairfaxstation/major-works-concert-presented-by-robinson-secondary-singers",
+    "[R4-S3] Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details) (secondary) https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S4] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583"
+   ],
+   "events": [
+    {
+     "title": "Education: Robinson Secondary School",
+     "date": "graduated 2013",
+     "place": "",
+     "description": "Choral singer; Virginia All-State Chorus 2012. [R4-S1] [R4-S2] [R4-S3]"
+    },
+    {
+     "title": "Virginia All-State Chorus",
+     "date": "2012",
+     "place": "",
+     "description": "One of three Robinson students selected (with Austin Chang and Amy Jones); the chorus performed on 28 Apr 2012 at E.C. Glass High School, Lynchburg. [R4-S1]"
+    }
+   ],
+   "researchNotes": "round5: At Robinson Mary sang in the school's choral programme. In November 2011 she was quoted in a preview of the Robinson Singers' Major Works Concert, saying the long rehearsals made her feel \"really accomplished\" ([R4-S2]). In February 2012 Patch reported that she was one of three Robinson students chosen for the Virginia All-State Chorus ([R4-S1]), when her father was Robinson's principal. Her brother Tim's 2011 West Point bio names her as his sister ([R4-S4]). No released recordings or professional performances under the name Mary Meier were found.",
+   "openQuestions": [
+    "Music career after 2013 not found; she may perform under a married or stage name. The Spotify/SoundCloud \"Mary Meyer\" and Nashville \"Mair\" (Mary Meyer, from Missouri) are different people."
    ],
    "birthDateReduced": true
   },
@@ -63801,6 +65746,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Rick McGinley\" Levittown / Bucks County / Fairless Hills / Bristol: no relevant result (only legal-notice and law-firm hits for other McGinleys)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: nothing found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0027.json."
     }
    ]
   },
@@ -63828,6 +65785,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Marie Meier\" Chantilly / Fairfax teacher or school: no public profile or news found; Only people-search sites appeared, which were not used"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public record found; maiden name still unknown."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0028.json."
     }
    ],
    "facts": [
@@ -63868,6 +65837,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Sarah Meier\" Chantilly, Va.: college and athletic rosters, news: no match with two identifiers; Only people-search sites appeared, which were not used"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public record found that can be tied to her with two identifiers."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0029.json."
     }
    ]
   },
@@ -63895,6 +65876,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: \"Samantha Meier\" Chantilly / Centreville / Westfield / Chantilly HS rosters: no match; Only people-search sites appeared, which were not used"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: no public record found that can be tied to her with two identifiers."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0030.json."
     }
    ]
   },
@@ -63925,6 +65918,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: WebSearch 'Anthony Russo' / 'Tony Russo' with 'Nancy' and Levittown / Bucks County / Meier: only unrelated namesakes (film director, Genovese figure, NJ and PA obituaries, a King of Prussia therapist; none with >= 2 identifiers)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: very common name and no town known; no identifiable record found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0031.json."
     }
    ],
    "nickname": "Tony"
@@ -63953,7 +65958,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ages unknown (no birth years on the site), so treated cautiously: no individual searches. Only one combined search, 'Chelsea Russo' + 'Gianna Russo' + 'Emily Russo', which found no page naming the siblings together. The hits (actress Chelsea Russo b. 1990; a John Jay College soccer player Gianna Russo whose roster names other parents) are not them."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: age unknown; name-only check found nothing identifiable."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0032.json."
     }
+   ],
+   "openQuestions": [
+    "Son of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
    ]
   },
   {
@@ -63980,7 +66000,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ages unknown (no birth years on the site), so treated cautiously: no individual searches. Only one combined search, 'Chelsea Russo' + 'Gianna Russo' + 'Emily Russo', which found no page naming the siblings together. The hits (actress Chelsea Russo b. 1990; a John Jay College soccer player Gianna Russo whose roster names other parents) are not them."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: age unknown; name-only check found nothing identifiable."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0033.json."
     }
+   ],
+   "openQuestions": [
+    "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
    ]
   },
   {
@@ -64007,7 +66042,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ages unknown (no birth years on the site), so treated cautiously: no individual searches. Only one combined search, 'Chelsea Russo' + 'Gianna Russo' + 'Emily Russo', which found no page naming the siblings together. The hits (actress Chelsea Russo b. 1990; a John Jay College soccer player Gianna Russo whose roster names other parents) are not them."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: age unknown; name-only check found nothing identifiable."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0034.json."
     }
+   ],
+   "openQuestions": [
+    "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
    ]
   },
   {
@@ -64034,7 +66084,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Ages unknown (no birth years on the site), so treated cautiously: no individual searches. Only one combined search, 'Chelsea Russo' + 'Gianna Russo' + 'Emily Russo', which found no page naming the siblings together. The hits (actress Chelsea Russo b. 1990; a John Jay College soccer player Gianna Russo whose roster names other parents) are not them."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: age unknown; name-only check found nothing identifiable."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0035.json."
     }
+   ],
+   "openQuestions": [
+    "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
    ]
   },
   {
@@ -64061,6 +66126,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Tried to find his first name: searched 'Borgman' with Meier / Terry / Theresa / Levittown / Bucks County / wedding. No match; no public wedding or divorce announcement found online. Court and divorce records were deliberately not searched (privacy rule)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: first name still unknown."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/M0036.json."
     }
    ]
   },
@@ -65346,6 +67423,484 @@ window.FAMILY_DATA = {
      "note": "Round 4 (round4 imported): new relative NEW-304 → M0078; research/imported/round4/new_people.json."
     }
    ]
+  },
+  {
+   "id": "M0079",
+   "given": "Evelyn",
+   "surname": "Cognetti",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282695503584 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1401 → M0079; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Wife of John F. Cognetti (I282695503584) of Green Tree, PA; predeceased him (died before Nov 2013). Maiden name unknown."
+  },
+  {
+   "id": "M0080",
+   "given": "Dean J.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1402 → M0080; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Living, name and relationship only (spouse Deborah per obituary)"
+  },
+  {
+   "id": "M0081",
+   "given": "John J.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1403 → M0081; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Living, name and relationship only (spouse Sandra per obituary)"
+  },
+  {
+   "id": "M0082",
+   "given": "David",
+   "surname": "Cognetti",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503584 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1404 → M0082; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Living, name and relationship only (spouse Ann per obituary). Father's obituary also names grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti (not split by parent; ages unknown, so not researched)."
+  },
+  {
+   "id": "M0083",
+   "given": "Lawrence Rocco",
+   "surname": "Ruth",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0500 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Lackawanna Co. marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch tree PW29-VF6 (Mary Carol Ruth), parent entries P9SY-K4B and P9SB-F9V (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1405 → M0083; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Father of Mary Carol Ruth (H0500), wife of Anthony R. Cognetti. Born in Scranton; lived on N. Lincoln Ave, Scranton, in 1950.\noccupation: \"Painter (1950)\""
+  },
+  {
+   "id": "M0084",
+   "given": "Mary Loretta",
+   "surname": "Ruth",
+   "sex": "F",
+   "aka": [
+    "Barrett"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0500 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Lackawanna Co. marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch tree PW29-VF6 (Mary Carol Ruth), parent entries P9SY-K4B and P9SB-F9V (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1406 → M0084; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Mother of Mary Carol Ruth (H0500); maiden name Barrett per 1950 license."
+  },
+  {
+   "id": "M0085",
+   "given": "Laurence T.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of I282695503583 (probable); child of H0500 (probable)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S3] FamilySearch 'Pennsylvania, Marriages, 1709-1940' index H5JW-HN3Z, listed on PW29-VF6 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1407 → M0085; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Presumed living; name and relationship only. Probably the 'Larry Cognetti, now of Darien, Georgia' quoted in the 2016 Thanksgiving story and the son 'Lawrence' in Anthony R.'s 2008 obituary (both identifications unproven)."
+  },
+  {
+   "id": "M0086",
+   "given": "Ryan",
+   "surname": "Cognetti",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of H0378 (proven); child of M0087 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
+    "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "[R4-S3] Happenings Magazine, 31 Mar 2020 (secondary) https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1408 → M0086; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Living adult; public facts only: owner/general manager of Caravia Fresh Foods, Clarks Summit (opened 2004); husband of Scranton Mayor Paige Cognetti (H0378), married 17 Oct 2017; two minor daughters (not recorded). Probably John Meier's second cousin."
+  },
+  {
+   "id": "M0087",
+   "given": "Joseph 'Joe'",
+   "surname": "Cognetti",
+   "sex": "M",
+   "aka": [
+    "of Notarianni Produce and Caravia"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of I282695503586 (probable); parent of H0499 (probable); child of M0086 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
+    "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "[R4-S5] Happenings Magazine, 18 Jun 2014, Caravia article (secondary) https://www.happeningsmagazinepa.com/2014/06/18/gourmet-market-fresh-menu-caravia-fresh-foods/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1409 → M0087; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Presumed living adult. Owned Joseph Notarianni Produce, Scranton (founded by his Notarianni great-grandfather c.1925), sold 1998/1999; co-founded Caravia Fresh Foods, Clarks Summit, 2004, named for his grandmother Michelena Caravia of San Mango d'Aquino. Very probably a son of Salvatore D. Cognetti (I282695503586) and Elizabeth Notarianni (H0499), daughter of Joseph and Michelene Notarianni, so a first cousin of Sharon (Petriello) Meier."
+  },
+  {
+   "id": "M0088",
+   "given": "Michelena",
+   "surname": "Notarianni",
+   "sex": "F",
+   "aka": [
+    "Caravia"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
+    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1410 → M0088; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: From San Mango d'Aquino, Calabria (the same village as Helen Ferlaino). Wife of Joseph Notarianni, Scranton produce dealer; mother of Elizabeth (Notarianni) Cognetti, wife of Sal D. Cognetti. Grandmother for whom Caravia Fresh Foods is named."
+  },
+  {
+   "id": "M0089",
+   "given": "Joseph",
+   "surname": "Notarianni",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1411 → M0089; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Scranton produce dealer, founder (c.1925) of Joseph Notarianni Produce; husband of Michelena Caravia; father of Elizabeth (Notarianni) Cognetti."
+  },
+  {
+   "id": "M0090",
+   "given": "Edward T.",
+   "surname": "Arnold",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1202 → M0090; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Living; name, relationship and source only. Wife Sandra L. named in the obituary."
+  },
+  {
+   "id": "M0091",
+   "given": "Ann E.",
+   "surname": "Closson",
+   "sex": "F",
+   "aka": [
+    "née Arnold"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1203 → M0091; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Living; name, relationship and source only."
+  },
+  {
+   "id": "M0092",
+   "given": "Jane M.",
+   "surname": "Schreckengost",
+   "sex": "F",
+   "aka": [
+    "née Arnold"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0062 (proven)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 (secondary) https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1204 → M0092; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Living; name, relationship and source only. Husband Joseph named in the obituary."
+  },
+  {
+   "id": "M0093",
+   "given": "Anthony \"Zitzer\"",
+   "surname": "Genello",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of M0003 (probable)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "[R4-S2] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S3] Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1301 → M0093; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: The son of Louis and Mary Caprio Genello, he grew up in Scranton's Bunker Hill section and graduated from Scranton Technical High School before entering the service. With his brother Vito (Gianello) he founded East Scranton Lumber Co. in 1956 and built custom homes for more than 50 years, living in a house he built himself. His siblings Vito Gianello and Mary DePietro died before him. His wife of 68 years was Ann Marie, and their children are Dr. Louis (Susan), Marisa and David (Kathleen) (S1).\noccupation: \"Builder; co-founder (1956) of East Scranton Lumber Company\""
+  },
+  {
+   "id": "M0094",
+   "given": "Louis",
+   "surname": "Genello",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "[R4-S2] University of Scranton Student Health Services referral directory (undated PDF): dental listing 'Hazzouri Dental, Dr. Louis Genello'. (secondary) https://matrix.scranton.edu/studentlife/studentaffairs/health-services/docs/referral-directory.pdf",
+    "[R4-S3] Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1302 → M0094; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Dr. Louis Genello (wife Susan), Dunmore; son of Anthony and Ann Marie Genello. Public listing: dentist at Hazzouri Dental, Scranton, per a University of Scranton health-services referral directory (name + 'Dr.' + Scranton match; probable)."
+  },
+  {
+   "id": "M0095",
+   "given": "Marisa",
+   "surname": "Genello",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1303 → M0095; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Daughter of Anthony and Ann Marie Genello, of Scranton (father's 2024 obituary)."
+  },
+  {
+   "id": "M0096",
+   "given": "David",
+   "surname": "Genello",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of M0003 (probable)."
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "sources": [
+    "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1304 → M0096; research/imported/round4/new_people.json."
+    }
+   ],
+   "researchNotes": "round5: Son of Anthony and Ann Marie Genello; wife Kathleen; of Fleetville, PA; children Brianna, Bryce and Bradyn (names only) (father's 2024 obituary)."
   }
  ],
  "families": [
@@ -66808,7 +69363,6 @@ window.FAMILY_DATA = {
     "I282695503587",
     "I282695503583",
     "I282695503584",
-    "I282695503582",
     "H0346",
     "I282695503537",
     "I282695503685"
@@ -66985,7 +69539,7 @@ window.FAMILY_DATA = {
    "id": "HF0001",
    "children": [],
    "husband": "H0383",
-   "wife": "I282604493938"
+   "wife": "H0062"
   },
   {
    "id": "HF0002",
@@ -68401,9 +70955,7 @@ window.FAMILY_DATA = {
    "children": [
     "I282695503435",
     "M0003",
-    "M0004",
-    "I282695504009",
-    "I282695504092"
+    "M0004"
    ],
    "husband": "I282695504010",
    "wife": "H0332",
@@ -68508,7 +71060,9 @@ window.FAMILY_DATA = {
   },
   {
    "id": "HF0190",
-   "children": [],
+   "children": [
+    "M0087"
+   ],
    "husband": "I282695503586",
    "wife": "H0499",
    "marriage": {
@@ -68517,7 +71071,9 @@ window.FAMILY_DATA = {
   },
   {
    "id": "HF0191",
-   "children": [],
+   "children": [
+    "M0085"
+   ],
    "husband": "I282695503583",
    "wife": "H0500"
   },
@@ -68811,14 +71367,73 @@ window.FAMILY_DATA = {
    "husband": "M0078"
   },
   {
-   "id": "CF0406",
+   "id": "MF0024",
+   "children": [
+    "M0090",
+    "M0091",
+    "M0092"
+   ],
+   "wife": "H0383",
+   "husband": "H0062"
+  },
+  {
+   "id": "MF0025",
+   "children": [
+    "M0080",
+    "M0081",
+    "M0082"
+   ],
+   "husband": "I282695503584",
+   "wife": "M0079"
+  },
+  {
+   "id": "MF0026",
+   "children": [],
+   "husband": "M0086",
+   "wife": "H0378"
+  },
+  {
+   "id": "MF0027",
+   "children": [
+    "M0094",
+    "M0095",
+    "M0096"
+   ],
+   "husband": "M0093",
+   "wife": "M0003"
+  },
+  {
+   "id": "MF0028",
+   "children": [
+    "H0500"
+   ],
+   "husband": "M0083",
+   "wife": "M0084"
+  },
+  {
+   "id": "MF0029",
+   "children": [
+    "M0086"
+   ],
+   "husband": "M0087"
+  },
+  {
+   "id": "MF0030",
+   "children": [
+    "H0499"
+   ],
+   "wife": "M0088",
+   "husband": "M0089"
+  },
+  {
+   "id": "CF0413",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0407",
+   "id": "CF0414",
    "children": [
     "I282608085305"
    ],
@@ -68826,8 +71441,8 @@ window.FAMILY_DATA = {
   }
  ],
  "counts": {
-  "gedcom": 345,
-  "research": 591
+  "gedcom": 342,
+  "research": 609
  },
  "stories": [
   {
@@ -70683,6 +73298,101 @@ window.FAMILY_DATA = {
    ],
    "body": "Caspar Grub was born in 1616 or 1617 and grew up during the Thirty Years' War, which left much of the Palatinate empty. He married Elisabetha Birgert of Fockenberg-Limbach in 1642 and settled at Berschweiler. Early on Sunday morning, 30 April 1671, he died there. The next day he was buried 'mit einer Leichpredigt', with a funeral sermon, a mark of standing in the village. The Lauterecken pastor wrote in the register that he had lived 53 years, 11 months and 3 days. His son Johann Peter, then sixteen, later moved to Jettenbach and became a church elder there. Johann Peter's grandsons Andreas and Johann Peter sailed for Philadelphia in 1753 and 1754.",
    "source": "Lauterecken Lutheran parish register, burials 1671 (Caspar Grub) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/K6CS-1ZL/images/i/0/image.jpg"
+  },
+  {
+   "id": "S189",
+   "title": "The mayor, the sandwich and the San Mango grandmother",
+   "date": "2004-2017",
+   "people": [
+    "H0378",
+    "I282695503586",
+    "H0499"
+   ],
+   "body": "Scranton's first female mayor, Paige Gebhardt Cognetti, grew up in Oregon. On a cold January night years before she entered politics, while working on a congressional campaign near Scranton, she stopped at Caravia Fresh Foods in Clarks Summit just before closing. The owner, Ryan Cognetti, made her a sandwich. They married in October 2017.\n\nCaravia was the Cognetti family's second food business. Ryan's father Joe Cognetti had run Joseph Notarianni Produce, a Scranton wholesale house founded about 1925 by his Notarianni great-grandfather, where, Ryan said, every young Cognetti did a stint in the tomato room. After selling it in 1998-99, Joe, Ryan and cousins Peter and Marianne opened the gourmet market in 2004. They named it for Joe's grandmother, Michelena Caravia, who came from San Mango d'Aquino in Calabria. That is the same small Savuto-valley village as Helen Ferlaino Cognetti, Mary Cognetti Petriello's mother. Through Joe's parents, Sal D. Cognetti and Elizabeth Notarianni, Ryan is very probably a great-grandson of Frank and Helen Cognetti, and so a second cousin of John Meier.",
+   "source": "Happenings Magazine, 31 Mar 2020 https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/; Caravia Fresh Foods 'About' page https://caraviafreshfoods.com/about; Abington Journal, 8 Aug 2018, Caravia Fresh Foods article https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit; Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+  },
+  {
+   "id": "S190",
+   "title": "The Meier brothers of Broad Run",
+   "date": "2006-2021",
+   "people": [
+    "M0001",
+    "I282604492552",
+    "M0002",
+    "I282604492836"
+   ],
+   "body": "Tom Meier coached high-school football in Fairfax County for nearly two decades, and his three sons all played the game at Broad Run High School in Ashburn. Tommy Jr., class of 2008, was a receiver and defensive back on the 2006 and 2007 varsities. In 2007 he played beside his sophomore brother Johnny on a Spartans team that went 10-0 in the regular season.\n\nJohnny then played linebacker and offensive line, wearing No. 51, on the two best teams in school history. Broad Run went 14-0 in both 2008 and 2009 and won the Virginia AA Division 4 state championship each year. Its 2009 title game was a rematch with Amherst County at Virginia Tech. The Washington Post's Loudoun blog named Johnny a unanimous first-team All-Dulles District linebacker that November. Six years later the youngest brother, Matt, also wearing No. 51, was a two-time captain and a second-team all-state linebacker in Group 5A. He went on to play four seasons at Frostburg State, whose roster bio calls him the 'son of Thomas and Sharon Meier'.\n\nTommy Jr. made his name in baseball. He caught for UVa-Wise and then returned to Broad Run as head baseball coach. In May 2021, after a school year disrupted by the pandemic, he asked his players to 'give me 40 days to make memories for the next 40 years'. Forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field for the Class 4 state championship, its first baseball title since 1991. The Loudoun Times-Mirror noted that the thirty-year wait matched the age of its 'head coach and former player Tommy Meier', and he called the title 'a dream come true'.",
+   "source": "Washington Post Loudoun Extra Points, 'Dulles, Liberty all-district football teams', 11 Nov 2009 (Wayback) https://web.archive.org/web/20201030231502/http://voices.washingtonpost.com/loudoun-sports/football/all-district-football-teams.html; MaxPreps, Broad Run football all-time roster https://www.maxpreps.com/va/ashburn/broad-run-spartans/football/roster/all-time/; Frostburg State Athletics, Matt Meier bio https://frostburgsports.com/sports/football/roster/matt-meier/8984; WRIC, VHSL 2015 Group 5A All-State Football Teams, 11 Jan 2016 https://www.wric.com/news/vhsl-announces-2015-group-5a-all-state-football-teams/; Loudoun Times-Mirror, 'Broad Run claims Class 4 baseball title in thrilling fashion', 28 Jun 2021 https://www.loudountimes.com/sports/broad-run-claims-class-4-baseball-title-in-thrilling-fashion/article_17ee7376-d809-11eb-8090-17294d1fbf9f.html; Wikipedia, Broad Run High School (football state titles 2008, 2009) https://en.wikipedia.org/wiki/Broad_Run_High_School"
+  },
+  {
+   "id": "S191",
+   "title": "Tommy Meier's Herndon years, from the school's own web pages",
+   "date": "2001-2007",
+   "people": [
+    "I282604492836"
+   ],
+   "body": "Archived copies of Herndon High School's website, saved by the Internet Archive between 2001 and 2007, show Tom 'Tommy' Meier's working life there. He was the school's Assistant Director of Student Activities, the deputy athletic director, and a member of the physical education department, as well as head varsity football coach. His 2002 staff included JV coach Turnell Sims and freshman coach Al McCullock.\n\nThe posted scores show a rebuilding 3-7 season in 2002, a 4-0 start in 2003 (running back Brandon Guyer's big senior year), and in 2004 five straight wins to open: 50-0 over Wakefield, 34-0 at South Lakes, a 30-24 double-overtime win over Hayfield, a 45-7 homecoming rout of Lee and a 35-0 win at West Potomac, the school his brother Danny had built into a state power. By October 2007 Jonathan Frohm held the student-activities post, and Langley High School listed 'Thomas Meier' among its new administrators. He remained an assistant principal at Langley until his retirement around 2014.",
+   "source": "Herndon HS Administration page, Wayback 24 Dec 2001 https://web.archive.org/web/20011224003045/http://www.fcps.edu:80/HerndonHS/admin/admin.htm; Herndon HS Varsity Football 2004, Wayback 17 Mar 2005 https://web.archive.org/web/20050317122220/http://www.fcps.edu:80/HerndonHS/athletics/sched_fall/football_v.htm; Herndon HS Varsity Football 2002 results, Wayback 29 May 2003 https://web.archive.org/web/20030529053022/http://www.fcps.edu:80/HerndonHS/athletics/sched_fall/football_v.htm; Langley HS New Staff 2007-08, Wayback 21 Nov 2007 https://web.archive.org/web/20071121031110/http://www.fcps.edu:80/LangleyHS/newstaff.html"
+  },
+  {
+   "id": "S192",
+   "title": "Brothers in the Army sprint-football backfield",
+   "date": "2010",
+   "people": [
+    "M0023",
+    "M0024",
+    "M0025",
+    "M0013"
+   ],
+   "body": "West Point fields a sprint football team, played under a strict weight limit in the Collegiate Sprint Football League. Danny Meier's sons all played on it. Tim started at quarterback as a plebe in 2009 and was named All-CSFL second team. In 2010 his older brother Mike joined the backfield. Mike led Army in rushing at 48.8 yards a game and Tim was right behind him at 48.5. Tim ran for 142 yards and three touchdowns in the title-deciding win at Navy and Mike also scored, so Army took the league championship. Both made the All-CSFL teams, Mike on the first team.\n\nTheir official bios proudly note that their father, \"Dan\", had been a defensive lineman at North Carolina State. The youngest brother, Joe, was a defensive end on the 2013 team and graduated with the Class of 2016 into the Field Artillery.",
+   "source": "Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584; Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583; Army West Point Athletics, Sprint Football roster 2013, \"Joseph Meier\" (#51, DE, Sophomore, hometown Fairfax Station, Va., Robinson Secondary School) https://goarmywestpoint.com/sports/sprint-football/roster/joseph-meier/3491; Military Times, \"U.S. Military Academy Class of 2016: Name, Hometown, Branch\" (PDF, 20 pp.) https://ec.militarytimes.com/static/pdfs/USMAgrads.pdf"
+  },
+  {
+   "id": "S193",
+   "title": "A Levittown middle guard for Lou Holtz",
+   "date": "1974",
+   "people": [
+    "M0013"
+   ],
+   "body": "NC State's sports-information rosters from the Lou Holtz era list \"Dan Meier, MG, 234, Levittown, Pa.\" in 1974, with an asterisk for a letter already won. In 1975 he had two asterisks. The 1976 outlook lists \"tackle Dan Meier\" among the chief losses from the 1975 team. These programmes, digitised by NC State University Libraries, are the earliest documents found that tie Danny to the family's Levittown home. He played middle guard and tackle and lettered three times (1973-75) before starting the coaching career that brought three Virginia state titles.",
+   "source": "NC State 1974 football outlook and roster https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf; NC State 1975 roster https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf; NC State 1976 football outlook https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf"
+  },
+  {
+   "id": "S194",
+   "title": "The McGuire twins of Wilkes-Barre",
+   "date": "1928-2016",
+   "people": [
+    "H0062",
+    "H0063",
+    "I282604493056",
+    "H0061",
+    "I282604493938"
+   ],
+   "body": "Francis and Elizabeth (McAvoy) McGuire's daughters Elizabeth ('Betsy') and Ann ('Nancy') were identical twins, born in Wilkes-Barre on 8 March 1928. Nancy's 2007 obituary calls Betsy 'her identical twin', and Betsy's 2016 obituary lists 'twin sister Nancy Holland' among the sisters who died before her.\n\nTheir paths split after Elmer L. Meyers High School, where Betsy graduated in 1945. Nancy married Robert C. Holland and settled in the Scranton area (Green Ridge, later Moscow). Betsy married Harold E. Arnold in Wilkes-Barre in 1952 and moved to the Altoona area, where her older sister Jane Nagle also lived and died (2005). Their widowed mother Elizabeth also died in Altoona, in 1984. Betsy outlived all three sisters, including John's grandmother 'Kay' (Kathryn) Meier, who died in Levittown in 1970 at about 40. Betsy died at 88 on 8 November 2016 and was buried at Calvary Cemetery, Altoona.",
+   "source": "Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016 https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/; Times Leader via Legacy.com, obituary of Nancy McGuire Holland, April 2007 (HTTP 403 here; text seen only as a search-engine extract) https://www.legacy.com/us/obituaries/timesleader/name/nancy-holland-obituary?id=25517366"
+  },
+  {
+   "id": "S195",
+   "title": "Ann Marie Petriello and the builder from Bunker Hill",
+   "date": "c.1955-2024",
+   "people": [
+    "M0003",
+    "M0093",
+    "I282695504010",
+    "H0332"
+   ],
+   "body": "Ann Marie, the only daughter of James and Mollie Petriello, grew up on Bunker Hill Street in Scranton; she was six in the 1940 census. About 1955-56 she married Anthony 'Zitzer' Genello, eight years older, who had grown up in the same Bunker Hill section. He was a Scranton Tech graduate and a 75th Infantry Division combat veteran of WWII, with a Combat Infantry Badge and Bronze Star.\n\nIn 1956, around the time of the marriage, Anthony and his brother Vito founded East Scranton Lumber Company, and for more than 50 years they built custom homes around Scranton. He lived until his death in a house he had built himself. The couple were married 68 years when he died in February 2024, aged 97, and they had three children: Dr. Louis, Marisa and David. A year later their son Louis and his wife Susan sent sympathy when Ann Marie's brother John T. Petriello Sr. died, and his obituary named 'his sister Ann Marie Genello' among the survivors.",
+   "source": "Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472; Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181; Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181; 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122). https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg"
+  },
+  {
+   "id": "S196",
+   "title": "John T. Petriello Sr. and the Tobyhanna program for handicapped workers",
+   "date": "1932-2025",
+   "people": [
+    "I282695503435"
+   ],
+   "body": "The full obituary of Sharon Meier's father, John T. (Johnny) Petriello Sr. (1932-2025), gives details not on the site. He graduated from Dunmore High School and attended New Mexico Western College, Lackawanna College and Penn State. He then served four years in the US Air Force as a staff sergeant during the Korean War. At Tobyhanna Army Depot he became a staffing specialist and the depot's program manager for the handicapped. He took pride in hiring severely handicapped workers, was commended by General William McGrath, and helped the depot earn national recognition for one of the finest such programs in the Department of the Army.\n\nAfter retiring from the government he was Director of Personnel at Lackawanna College for 14 years. He was a Eucharistic Minister at St Anthony's in Scranton and a member of Holy Rosary, a hunter who raised beagles and went to buck camp each year, and a lover of the Jersey Shore and winters in Cocoa Beach. A former Tobyhanna colleague wrote on the tribute wall that he was 'an important part of the personnel office there'. The Mass was at St. Gregory's, Clarks Green, with private interment in Cathedral Cemetery.",
+   "source": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181; Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
   }
  ],
  "generated": "2026-10-08"

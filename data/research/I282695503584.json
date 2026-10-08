@@ -5,8 +5,8 @@
     "note": "Brother John listed in 2008 obituary; 1950 census at home aged 23."
   },
   "birth": {
-    "date": "1928",
-    "place": "Pennsylvania"
+    "date": "ABT 1926-1927",
+    "place": "Pennsylvania (Scranton)"
   },
   "tags": [],
   "summary": "Pennsylvania-born in 1928, a wholesale grocer's laborer in 1950 who later lived in Pittsburgh; John's great-granduncle.",
@@ -15,6 +15,16 @@
     {
       "date": "2008",
       "place": "Pittsburgh, Allegheny County, Pennsylvania, USA"
+    },
+    {
+      "date": "1940",
+      "place": "Scranton, Pennsylvania",
+      "note": "Age 12, at school, in his parents' household [R4-S2]"
+    },
+    {
+      "date": "2013",
+      "place": "Green Tree, Allegheny County, Pennsylvania",
+      "note": "Residence at death [R4-S1]"
     }
   ],
   "facts": [
@@ -26,7 +36,10 @@
   "sources": [
     "Anthony R. Cognetti obituary (2008)",
     "1950 census",
-    "Thanksgiving article 2016"
+    "Thanksgiving article 2016",
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service; also published in the Pittsburgh Post-Gazette on 10 Nov 2013 (Legacy pid 167940321, blocked) (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti",
+    "[R4-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R4-S3] FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -41,7 +54,71 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Legacy.com Post-Gazette notice pid=167940321: blocked (403); Wayback availability API: 429 rate limited; CDX: blocked by egress policy; WebSearch \"Kramer-Cognetti\" Sales: no other web record of the firm"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: found John F. Cognetti's obituary (d. 8 Nov 2013, Green Tree, PA, age 87; Navy; confectionery broker), which names wife Evelyn, three sons and all of his siblings. Deceased, not living."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503584.json."
     }
   ],
-  "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived)."
+  "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived).\n\nround5: John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 ([R4-S1]). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 ([R4-S1]). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton ([R4-S2]). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",
+  "death": {
+    "date": "2013-11-08",
+    "place": "Green Tree, Allegheny County, Pennsylvania"
+  },
+  "aka": [
+    "John F. Cognetti"
+  ],
+  "occupation": "Confectionery broker; partner in Kramer-Cognetti Sales for 35 years",
+  "events": [
+    {
+      "title": "Funeral",
+      "date": "2013-11-16",
+      "place": "SS. Simon & Jude Church, Green Tree (Pittsburgh), PA",
+      "description": "Visitation on 15 Nov 2013 at the William Slater II Funeral Service; Mass of Christian Burial on 16 Nov 2013. [R4-S1]"
+    },
+    {
+      "title": "Partner, Kramer-Cognetti Sales, confectionery brokers (Pittsburgh area)",
+      "date": "35 years",
+      "place": "",
+      "description": "Same candy-brokerage trade as his brother Joseph F. (D.C. Sales Co., Scranton) [R4-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "Served in the US Navy; the obituary gives no dates (probably the WWII era, given his birth c.1926-27) [R4-S1]"
+    }
+  ],
+  "funFacts": [
+    "Like his brother Joe and his nephew Tony, John made his career in the candy trade: 35 years as a confectionery broker in Pittsburgh."
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1928",
+      "found": "c.1926 (age 87 at death in Nov 2013); 1927 per FamilySearch tree; age 12 in Apr 1940 implies 1927-28",
+      "assessment": "The year is probably 1926-27. The exact date should come from SSDI or his Navy record."
+    }
+  ],
+  "openQuestions": [
+    "Evelyn Cognetti's maiden name and dates; John's Navy service dates; place of burial (the obituary page shows a cemetery section, but its text was not readable)."
+  ],
+  "media": [
+    {
+      "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+      "type": "link",
+      "title": "Obituary of John F. Cognetti, 2013 (Slater Funeral Home)",
+      "date": "2013-11",
+      "source": "William Slater II Funeral Service, copyrighted",
+      "note": "No portrait photo found on the page. (not downloaded: rights copyrighted)",
+      "people": []
+    }
+  ]
 }

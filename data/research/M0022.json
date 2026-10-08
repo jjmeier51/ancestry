@@ -13,10 +13,35 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse M0013, proven): \"Son of Dan and Ann Meier ... father played football at North Carolina State\""
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: \"Annie Meier\" / \"Ann Meier\" Fairfax County Public Schools: only the LinkedIn search title (not loaded); No wedding announcement found"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: named as \"Ann\" in her sons' West Point athletics bios; maiden name not found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0022.json."
     }
   ],
   "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. Secretary in the Fairfax County superintendent's office in 2013.",
   "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+    "[R4-S2] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583"
+  ],
+  "aka": [
+    "Ann Meier"
+  ],
+  "researchNotes": "round5: Her sons' Army West Point sprint-football biographies (2011) each describe them as the \"Son of Dan and Ann Meier\", so she also appears as Ann ([R4-S1], [R4-S2]).",
+  "openQuestions": [
+    "Maiden name and marriage date still unknown. A search-result title shows a LinkedIn profile \"Annie Meier – Executive Administrative Assistant at Fairfax County Public Schools\" (Fairfax Station), consistent with the 2013 article, but LinkedIn is blocked (HTTP 999) and it was not loaded."
   ]
 }

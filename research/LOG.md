@@ -4,6 +4,34 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Round 5 (living members) imported
+
+- John supplied a second overnight run covering the 52 living or presumed
+  living people (archived under `research/imported/round5/`). Imported with
+  `ROUND=round5 scripts/import_round4.py`: 49 files applied, 30 note blocks
+  added to `researchNotes` (not to the About), 14 conflicts, 8 confidence
+  changes, 47 public links (news, rosters, school pages, obituaries), 2
+  files, 18 new relatives `M0079`–`M0096` (Cognetti, Ruth, Notarianni,
+  Arnold and Genello families; three Petriello in-law siblings skipped
+  because their parents are not in the tree), 8 stories.
+- Five "living" people were dead or duplicates: Elizabeth "Betsy" McGuire
+  (`H0062`, d. 8 Nov 2016 Altoona), Nancy Stahl Meier (`H0384`, d. 13 May
+  2009), John F. Cognetti (`I282695503584`, d. 8 Nov 2013), Mary Carol Ruth
+  (`H0500`, d. 24 Dec 1978); "Levyso" Cognetti merged into Leo S. (`H0346`).
+  Also merged: Ann Marie Petriello → `M0003`, "James Jr." → `M0004`.
+  Harold E. Arnold (`H0383`, 1927–1997) was Betsy's husband, not her
+  mother's second husband: family HF0001 re-pointed.
+- Privacy as in the summary: no addresses, phones, full birth dates of
+  living people, data-broker sites or anything on minors beyond names.
+- Left for John: delete the unlinked Cassie Hayes (`I282625149693`); whether
+  he and Shannon married on 12 Sep 2025 (a deleted wedding page suggested
+  so; site still says engaged); Tim Meier's West Point class year; the
+  unconfirmed Paul Petriello (golf coach), Laura De Santis (teacher) and
+  Sal Cognetti Jr. candidates; Nancy Holland's death date (1 Apr vs 4 Jan
+  2007). Leads: `research/leads-round5.md`.
+- The 46 profiles round 5 touched were sent for the same narrative rewrite
+  as the rest (notes folded into the About; detail stays in Evidence notes).
+
 ## 2026-10-08 — About texts rewritten as narrative
 
 - John: the About sections read like pasted research notes (record ids,

@@ -1,0 +1,37 @@
+{
+  "id": "H0500",
+  "name": "Mary Carol Ruth",
+  "researchedAt": "2026-10-08",
+  "status": "deceased_detected",
+  "updates": {
+    "aka": ["Mary C. Ruth", "Mary Ruth Cognetti"],
+    "birth": { "date": "1929", "place": "Scranton, Lackawanna County, Pennsylvania", "sourceRefs": ["S1", "S2"] },
+    "death": { "date": "1978-12-24", "place": "Lackawanna County, Pennsylvania", "sourceRefs": ["S2"] },
+    "burial": { "place": "Scranton, Pennsylvania", "cemetery": "Cathedral Cemetery", "sourceRefs": ["S2"] },
+    "occupation": "Clerical worker (1950)",
+    "residences": [ { "date": "1940", "place": "Scranton, Pennsylvania", "note": "Age 11, 1940 census (FS index KQZZ-K1X)", "sourceRefs": ["S2"] } ],
+    "events": [ { "title": "Marriage to Anthony R. Cognetti", "date": "1950-05-27", "place": "Scranton, Pennsylvania", "description": "Lackawanna County marriage license no. 687 (applied 13 May, issued 16 May 1950). Mary C. Ruth, 21, clerical worker, born in Scranton, daughter of Lawrence Ruth (painter, born Scranton) and Loretta Barrett (born Scranton). Groom Anthony R. Cognetti, 25, restaurant owner, of 612 Philo St, son of Frank and Helen ('Farino'). Married by Rev. Thomas Tracy.", "sourceRefs": ["S1"] } ],
+    "facts": [ { "label": "FamilySearch ID", "value": "PW29-VF6" } ]
+  },
+  "bioAdditions": "Mary Carol Ruth was not living. She was born in Scranton in 1929, the daughter of Lawrence Rocco Ruth (1905-1968), a painter, and Mary Loretta (Barrett) Ruth (1909-1985) (S1, S2). She was a 21-year-old clerical worker when she married Anthony R. Cognetti, then a 25-year-old restaurant owner, in Scranton on 27 May 1950; Rev. Thomas Tracy officiated (marriage license no. 687, S1). The license again gives Helen Cognetti's maiden name as 'Farino', like the 1940 and 1943 licenses of Anthony's brothers. Mary died on 24 Dec 1978, aged 49, in Lackawanna County, and is buried in Cathedral Cemetery, Scranton (S2). Anthony R. Cognetti's 2008 obituary (Legacy, blocked; seen only through a search-engine summary) reportedly says he was predeceased by his first wife Mary Ruth and survived by his wife of 28 years, the former Mary Flanagan, and four sons, Lawrence, Mark, Dr. Peter and attorney Michael. Mary Carol Ruth was presumably the mother of these sons: a FamilySearch index lists 'Mary Carol Ruth' in the marriage entry of a Laurence T. Cognetti (S3).",
+  "relationships": [
+    { "type": "spouse", "personId": "I282695503583", "evidence": "1950 Lackawanna County marriage license no. 687", "sourceRefs": ["S1"], "strength": "proven" },
+    { "type": "parent", "personId": "NEW-1405", "evidence": "Marriage license: father Lawrence (painter, b. Scranton); FS tree: Lawrence Rocco Ruth 1905-1968", "sourceRefs": ["S1", "S2"], "strength": "proven" },
+    { "type": "parent", "personId": "NEW-1406", "evidence": "Marriage license: mother Loretta, maiden name Barrett; FS tree: Mary Loretta Barrett 1909-1985", "sourceRefs": ["S1", "S2"], "strength": "proven" },
+    { "type": "child", "personId": "NEW-1407", "evidence": "FS index 'Pennsylvania, Marriages' names Mary Carol Ruth in the entry for Laurence T. Cognetti (presumably as his mother)", "sourceRefs": ["S3"], "strength": "probable" }
+  ],
+  "confidenceRecommendation": { "current": "unverified", "recommended": "confirmed", "justification": "Primary marriage license links her to Anthony R. Cognetti, son of Frank and Helen." },
+  "conflicts": [ { "field": "sex", "siteValue": "U", "foundValue": "F", "sourceRefs": ["S1"], "assessment": "Bride on the 1950 license." } ],
+  "openQuestionsNew": ["Anthony R. Cognetti's second wife (the former Mary Flanagan, m. c.1980) and the four sons Lawrence/Laurence T., Mark, Dr. Peter and attorney Michael are missing from the tree; the Legacy obituary (id 24081273) is blocked, so its survivor list should be read and confirmed."],
+  "sources": [
+    { "ref": "S1", "citation": "Lackawanna County, PA, Orphans' Court, application for marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth, pp. 186-187; FS index VF7V-JDS / VF7V-J81", "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg", "class": "primary", "accessed": "2026-10-08", "supports": "Marriage on 27 May 1950, ages, occupations, birthplaces, parents of both" },
+    { "ref": "S2", "citation": "FamilySearch tree PW29-VF6, Mary Carol Ruth 1929-1978 (parents Lawrence Rocco Ruth 1905-1968 and Mary Loretta Barrett 1909-1985; death 24 Dec 1978, Lackawanna Co.; burial Cathedral Cemetery)", "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6", "class": "derivative", "accessed": "2026-10-08", "supports": "Death date and burial (tree data, unsourced in the published JSON)" },
+    { "ref": "S3", "citation": "FamilySearch index 'Pennsylvania, Marriages, 1709-1940': Mary Carol Ruth in the entry for Laurence T. Cognetti (H5JW-HN3Z), as listed among the sources of PW29-VF6", "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6", "class": "derivative", "accessed": "2026-10-08", "supports": "A son Laurence T. Cognetti (the record itself was not opened; ark pages 401)" }
+  ],
+  "media": [
+    { "type": "record", "title": "1950 marriage license application no. 687, Anthony R. Cognetti and Mary C. Ruth (Lackawanna Co.)", "date": "1950-05-13", "pageUrl": "https://familysearch.org/ark:/61903/1:1:VF7V-JDS", "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg", "repository": "FamilySearch (Lackawanna County Orphans' Court)", "rights": "unknown", "downloadable": false, "downloaded": false, "localPath": "", "people": ["H0500", "I282695503583", "I282695503559", "I282695503581"], "suggestedFile": "media/H0500/1950-marriage-license-687.jpg", "note": "Post-1931 county record; rights unknown per the brief, so not downloaded." },
+    { "type": "photo", "title": "Photo attached to the FamilySearch profile of Mary Carol Ruth", "date": "", "pageUrl": "https://ancestors.familysearch.org/en/PW29-VF6/mary-carol-ruth-1929-1978", "directUrl": "", "repository": "FamilySearch Memories", "rights": "unknown", "downloadable": false, "downloaded": false, "localPath": "", "people": ["H0500"], "suggestedFile": "media/H0500/familysearch-photo.jpg", "note": "The published JSON reports 1 photo and 1 memory; the image itself was not reachable (profile unpublished). Lead for John." }
+  ],
+  "searchedNoResult": ["Legacy.com Anthony R. Cognetti obituary (id 24081273): blocked 403; survivor names known only from a search-engine summary"],
+  "researchLogEntry": "Round 5: Mary Carol Ruth was not living: m. Anthony R. Cognetti 27 May 1950 (license no. 687, read), d. 24 Dec 1978, buried Cathedral Cemetery; parents Lawrence R. Ruth and Loretta Barrett."
+}

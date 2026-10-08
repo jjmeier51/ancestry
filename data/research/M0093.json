@@ -1,0 +1,23 @@
+{
+  "id": "M0093",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of M0003 (probable)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "[R4-S2] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S3] Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported): new relative NEW-1301 → M0093; research/imported/round4/new_people.json."
+    }
+  ],
+  "researchNotes": "round5: The son of Louis and Mary Caprio Genello, he grew up in Scranton's Bunker Hill section and graduated from Scranton Technical High School before entering the service. With his brother Vito (Gianello) he founded East Scranton Lumber Co. in 1956 and built custom homes for more than 50 years, living in a house he built himself. His siblings Vito Gianello and Mary DePietro died before him. His wife of 68 years was Ann Marie, and their children are Dr. Louis (Susan), Marisa and David (Kathleen) (S1).\noccupation: \"Builder; co-founder (1956) of East Scranton Lumber Company\""
+}

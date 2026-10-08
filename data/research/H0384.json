@@ -1,14 +1,94 @@
 {
   "id": "H0384",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Married surname Meier matches across three index entries attached to the tree; the obituary text itself was not readable (FS images return 0 bytes, GenealogyBank paywalled)."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Married surname Meier matches across three index entries attached to the tree; the obituary text itself was not readable (FS images return 0 bytes, GenealogyBank paywalled)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0009, probable): FS tree links; William's tree profile and hers both show the marriage; the GenealogyBank obituary index has her as 'Nancy Stahl Meier'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch: Nancy Meier / Nancy A. Meier / Nancy Stahl Meier obituary Clermont FL 2009 (no match; Nancy A. Stahl of Northbrook IL d. 2006 is a different person); WebSearch: William F. Meier Jr. obituary Feb 2004 Wilkes-Barre (no match); Find a Grave: Nancy Anne Meier 1930-2009 not surfaced by search (site blocked); GenLookups Florida obituary archive: search is a Google CSE that can't be driven here; FamilySearch ark record pages QK2P-7S8D, XMK2-9SZ5, QVK9-22YG: JS app shell / 401 API"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: the FamilySearch tree, with three attached obituary and Find a Grave index entries, shows Nancy Anne Stahl Meier died 13 May 2009 in Florida (Clermont), so she should not be presumed living; obituary text not readable."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0384.json."
+    }
+  ],
+  "death": {
+    "date": "2009-05-13",
+    "place": "Florida, USA (residence Clermont, Lake County)"
+  },
+  "aka": [
+    "Nancy Anne Stahl Meier",
+    "Nancy Stahl Meier",
+    "Nancy Meier"
+  ],
+  "residences": [
+    {
+      "date": "2009",
+      "place": "Clermont, Florida",
+      "note": "Residence at death per FS tree [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GV6C-8WZ"
+    }
+  ],
+  "researchNotes": "round5: Nancy Anne Stahl Meier, wife of William F. Meier Jr. (H0009, d. 29 Feb 2004), is recorded on FamilySearch as dying on 13 May 2009 in Florida, residence Clermont, aged about 79 ([R4-S1]). Three independent index entries are attached: a GenealogyBank obituary under 'Nancy Stahl Meier', a Find a Grave index entry under 'Nancy Anne Stahl Meier', and an obituary-records entry under 'Nancy Stahl' ([R4-S1]). The site's own bio for H0009 already reports this death, yet her record H0384 is still flagged presumed living. She should be marked deceased.\n\nWhether Stahl is her maiden name or the name of a first husband is unclear. The FS tree also links her to a 'Jack Stahl' (GV6C-Z4T) as a spouse. His only source is a 2014-2023 obituary entry for 'John Stahl' whose ark ID sits next to hers (XMK2-9SZP vs XMK2-9SZ5). That suggests both are named in the same later obituary, possibly as parents, so Jack may be her father rather than a husband. This is unresolved.",
+  "conflicts": [
+    {
+      "field": "status/death",
+      "site": "presumed_living (H0384); but H0009's bio says she died 13 May 2009 at Clermont, FL",
+      "found": "d. 13 May 2009, Florida",
+      "assessment": "Internal inconsistency on the site; the evidence supports deceased."
+    },
+    {
+      "field": "sex",
+      "site": "U",
+      "found": "F",
+      "assessment": "Female (wife of William F. Meier Jr.)."
+    }
+  ],
+  "openQuestions": [
+    "Is Stahl her maiden name or a first married name? Is 'Jack (John) Stahl' her father or a former husband?",
+    "Her obituary text (GenealogyBank, May 2009; probably Orlando Sentinel/Lake County or the Wilkes-Barre Times Leader) has not been read and may name nieces and nephews (the Levittown Meiers).",
+    "Burial place not known."
+  ],
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Nancy Stahl (1930 - 13 May 2009), PID GV6C-8WZ; user-contributed tree with three attached record-index entries: 'Nancy Stahl Meier', United States, GenealogyBank Obituaries, Births, and Marriages 1980-2014 (ark 1:1:QK2P-7S8D); 'Nancy Anne Stahl Meier', Find A Grave Index (ark 1:1:QVK9-22YG); 'Nancy Stahl', United States, Obituary Records 2014-2023 (ark 1:1:XMK2-9SZ5) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GV6C-8WZ",
+    "[R4-S2] FamilySearch Family Tree (published), William F. Meier Jr. (1927 - 29 Feb 2004), PID GF3P-DRK (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GF3P-DRK",
+    "[R4-S3] Mount Laurel Home for Funerals, obituary of Barbara Ann Smith (nee Meier), 17 Nov 1935 - 16 Sep 2021 (secondary) https://www.mountlaurelfuneralhome.com/memorials/barbara-smith/4728361/"
+  ],
+  "media": [
+    {
+      "url": "https://familysearch.org/ark:/61903/1:1:QK2P-7S8D",
+      "type": "link",
+      "title": "Obituary index entry, Nancy Stahl Meier (GenealogyBank), 2009",
+      "date": "2009",
+      "source": "FamilySearch / GenealogyBank, copyrighted",
+      "note": "Image endpoint returned 0 bytes (rights-restricted). The ark page is login-only. (not downloaded: rights copyrighted)",
+      "people": [
+        "H0009"
+      ]
     }
   ]
 }
