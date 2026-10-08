@@ -135,6 +135,19 @@ def main():
     if problems:
         sys.exit(1)
 
+    # Privacy: living people show only a birth year on the public site
+    import re as _re, datetime as _dt
+    if (site.get("privacy") or {}).get("livingBirthDates") == "year":
+        this_year = _dt.date.today().year
+        for p in people.values():
+            b = p.get("birth") or {}
+            d = p.get("death") or {}
+            m = _re.search(r"\d{4}", str(b.get("date") or ""))
+            living = not (d.get("date") or d.get("place")) and m and this_year - int(m.group()) <= 105
+            if living and b.get("date") and b["date"].strip() != m.group():
+                p["birth"] = dict(b, date=m.group())
+                p["birthDateReduced"] = True
+
     data = dict(site)
     data["sample"] = bool(tree.get("sample"))
     # drop families that end up with nobody in them

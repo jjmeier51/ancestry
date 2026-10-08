@@ -25,6 +25,10 @@ window.FAMILY_DATA = {
    "description": "No research done yet beyond the imported tree."
   }
  },
+ "privacy": {
+  "livingBirthDates": "year",
+  "_comment": "On the public site, people without a death record born within the last 105 years get their birth date reduced to the year. Full dates stay in data/tree.json and data/research/."
+ },
  "sample": false,
  "people": [
   {
@@ -33,7 +37,7 @@ window.FAMILY_DATA = {
    "surname": "Meier",
    "sex": "M",
    "birth": {
-    "date": "1992-06-16",
+    "date": "1992",
     "place": "Alexandria City Hospital, Alexandria, Virginia, USA"
    },
    "residences": [
@@ -169,7 +173,8 @@ window.FAMILY_DATA = {
     }
    ],
    "nickname": "Johnny",
-   "manual": true
+   "manual": true,
+   "birthDateReduced": true
   },
   {
    "id": "I282604492836",
@@ -7639,7 +7644,7 @@ window.FAMILY_DATA = {
    "surname": "Hayes",
    "sex": "U",
    "birth": {
-    "date": "abt 1991"
+    "date": "1991"
    },
    "residences": [
     {
@@ -7669,7 +7674,8 @@ window.FAMILY_DATA = {
      "file": "",
      "ancestryId": "c454239c-5004-4f10-90ff-9f945bfb0419"
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "I282695307188",
@@ -9883,7 +9889,7 @@ window.FAMILY_DATA = {
    "surname": "Petriello",
    "sex": "M",
    "birth": {
-    "date": "ABT 1933",
+    "date": "1933",
     "place": "Wilkes-Barre, Luzerne, Pennsylvania, USA"
    },
    "residences": [
@@ -9967,7 +9973,8 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"John Thomas Petriello\"; research uses \"John T. Petriello\"."
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "I282695503537",
@@ -9975,7 +9982,7 @@ window.FAMILY_DATA = {
    "surname": "Cognetti",
    "sex": "F",
    "birth": {
-    "date": "ABT 1933",
+    "date": "1933",
     "place": "Scranton, Lackawanna County, Pennsylvania, USA"
    },
    "residences": [
@@ -10057,7 +10064,8 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "I282695503559",
@@ -10300,7 +10308,7 @@ window.FAMILY_DATA = {
    "surname": "Cognetti",
    "sex": "M",
    "birth": {
-    "date": "abt 1930",
+    "date": "1930",
     "place": "Pennsylvania"
    },
    "residences": [
@@ -10318,7 +10326,8 @@ window.FAMILY_DATA = {
      "source": "1940 United States Federal Census",
      "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "I282695503583",
@@ -10805,7 +10814,7 @@ window.FAMILY_DATA = {
    "surname": "Petriello",
    "sex": "F",
    "birth": {
-    "date": "abt 1934",
+    "date": "1934",
     "place": "Pennsylvania"
    },
    "residences": [
@@ -10849,7 +10858,8 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Handoff gives parents James Petriello (b. 1910), Carmela \"Mollie\" Gianetta (b. 1910) but the link is only \"unverified\", so the tree was not changed."
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "I282695504010",
@@ -18393,7 +18403,7 @@ window.FAMILY_DATA = {
    "surname": "McGuire",
    "sex": "F",
    "birth": {
-    "date": "1928-03"
+    "date": "1928"
    },
    "source": "research",
    "link": {
@@ -18419,7 +18429,8 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "H0063",
@@ -29036,7 +29047,7 @@ window.FAMILY_DATA = {
    "surname": "Cognetti",
    "sex": "M",
    "birth": {
-    "date": "1949-12-14",
+    "date": "1949",
     "place": "Scranton, Lackawanna County, Pennsylvania, USA"
    },
    "source": "research",
@@ -29064,7 +29075,8 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "H0348",
@@ -32762,7 +32774,7 @@ window.FAMILY_DATA = {
    "suffix": "Jr.",
    "sex": "M",
    "birth": {
-    "date": "1990-07-30",
+    "date": "1990",
     "place": "Alexandria City Hospital, Alexandria, Virginia, USA"
    },
    "source": "research",
@@ -32792,7 +32804,8 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Added from the owner's statement: born 30 Jul 1990 at Alexandria City Hospital; lives in Ashburn, VA."
     }
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "M0002",
@@ -32800,7 +32813,7 @@ window.FAMILY_DATA = {
    "surname": "Meier",
    "sex": "M",
    "birth": {
-    "date": "1998-01-22",
+    "date": "1998",
     "place": "Inova Loudoun Hospital, Ashburn, Virginia, USA"
    },
    "source": "research",
@@ -32829,7 +32842,8 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Added from the owner's statement: born 22 Jan 1998 at Inova Loudoun Hospital, Ashburn, VA; lives in Ashburn, VA."
     }
-   ]
+   ],
+   "birthDateReduced": true
   }
  ],
  "families": [

@@ -31,7 +31,7 @@
       const me = F.owner();
       const conf = F.confidence(p);
       const photo = F.photo(p);
-      const a = F.age(p);
+      const a = (F.isDeceased(p) || (p.birth && F.parseDate(p.birth.date) && F.parseDate(p.birth.date).month)) ? F.age(p) : null;
       const tags = F.tags(p);
 
       /* Hero */
@@ -71,7 +71,7 @@
       /* Key facts */
       const facts = [];
       const fact = (label, value) => { if (value) facts.push(el('div', { class: 'fact' }, [el('dt', { text: label }), el('dd', { html: A.md(value) })])); };
-      fact('Born', eventLine(p.birth)); fact('Died', eventLine(p.death)); fact('Buried', eventLine(p.burial));
+      fact('Born', eventLine(p.birth) + (p.birthDateReduced ? ' (full date withheld for a living person)' : '')); fact('Died', eventLine(p.death)); fact('Buried', eventLine(p.burial));
       fact('Occupation', p.occupation); fact('Religion', p.religion); fact('Education', p.education);
       (p.facts || []).forEach(f => fact(f.label, f.value));
       (p.events || []).forEach(e => fact(e.title || 'Event', [e.date ? F.formatDate(e.date) : '', e.place, e.description].filter(Boolean).join(' · ')));
