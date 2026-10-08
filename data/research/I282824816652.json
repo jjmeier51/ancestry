@@ -11,16 +11,11 @@
   "residences": [],
   "military": [],
   "notable": "",
-  "media": [
-    {
-      "type": "link",
-      "title": "WikiTree profile Williams-148406",
-      "date": "",
-      "source": "WikiTree",
-      "note": "John Williams, 1798-00-00 – 1862-10-02",
-      "url": "https://www.wikitree.com/wiki/Williams-148406"
-    }
-  ],
   "sources": [],
-  "researchLog": []
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "WikiTree profile Williams-148406 rejected on review (dates or places do not fit); its links and images removed."
+    }
+  ]
 }

@@ -25,24 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
-    }
-  ],
-  "media": [
-    {
-      "type": "link",
-      "title": "WikiTree profile Deeter-575",
-      "date": "",
-      "source": "WikiTree",
-      "note": "Mary Ellen Deeter, 1881-00-00 – 1956-00-00",
-      "url": "https://www.wikitree.com/wiki/Deeter-575"
     },
     {
-      "type": "link",
-      "title": "Find a Grave memorial",
-      "date": "",
-      "source": "Find a Grave (cited on WikiTree Deeter-575)",
-      "note": "",
-      "url": "https://www.findagrave.com/memorial/31580627/deeter"
+      "date": "2026-10-08",
+      "note": "WikiTree profile Deeter-575 rejected on review (dates or places do not fit); its links and images removed."
     }
   ]
 }

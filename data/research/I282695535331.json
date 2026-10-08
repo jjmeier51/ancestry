@@ -11,24 +11,11 @@
   "residences": [],
   "military": [],
   "notable": "",
-  "media": [
-    {
-      "type": "link",
-      "title": "WikiTree profile Durrant-1999",
-      "date": "",
-      "source": "WikiTree",
-      "note": "Mary Ann Durrant, 1814-10-01 – 1881-03-24",
-      "url": "https://www.wikitree.com/wiki/Durrant-1999"
-    },
-    {
-      "type": "link",
-      "title": "Find a Grave memorial",
-      "date": "",
-      "source": "Find a Grave (cited on WikiTree Durrant-1999)",
-      "note": "",
-      "url": "https://www.findagrave.com/memorial/191828372/mary_ann-dowling:"
-    }
-  ],
   "sources": [],
-  "researchLog": []
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "WikiTree profile Durrant-1999 rejected on review (dates or places do not fit); its links and images removed."
+    }
+  ]
 }

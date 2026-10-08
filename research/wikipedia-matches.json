@@ -27,7 +27,10 @@
   "image": "Anna Symmes Harrison.jpg",
   "extract": "Anna Tuthill Harrison (née Symmes; July 25, 1775 – February 25, 1864) was the first lady of the United States in 1841 as the wife of President William Henry Harrison. She served in the role for only one month, as her husband contracted pneumonia and died shortly after his term began.",
   "query": "\"Anna Symmes Harrison\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/anna-harrison-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  },
  "H0307": {
   "status": "matched",
@@ -204,7 +207,7 @@
   ]
  },
  "H0200": {
-  "status": "retry",
+  "status": "none",
   "checked": "2026-10-08",
   "names": [
    "Philip Grub",
@@ -245,7 +248,10 @@
   "image": "Nathanial Woodhull.jpg",
   "extract": "Nathaniel Woodhull (December 30, 1722 – September 20, 1776) was a leader of the New York Provincial Congress and a brigadier general of the New York Militia during the American Revolution.",
   "query": "\"Nathaniel Woodhull\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/nathaniel-woodhull-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  },
  "H0287": {
   "status": "none",
@@ -264,7 +270,10 @@
   "image": "DavidGardinerTyler.jpg",
   "extract": "David Gardiner Tyler (July 12, 1846 – September 5, 1927) was an American politician and the ninth child and fourth son of John Tyler, the tenth president of the United States.\nBorn in New York, Tyler went to school in Virginia and fought in the Confederate Army during the American Civil War.",
   "query": "\"David Gardiner Tyler\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/david-gardiner-tyler-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  },
  "H0300": {
   "status": "matched",
@@ -276,7 +285,10 @@
   "image": "Commodore Theodorus Bailey - NARA - 528661.jpg",
   "extract": "Theodorus Bailey (April 12, 1805 – February 10, 1877) was a United States Navy officer during the American Civil War.",
   "query": "\"Theodorus Bailey\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/theodorus-bailey-officer-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  },
  "H0303": {
   "status": "none",
@@ -296,7 +308,10 @@
   "image": "Daniel Lawrence Braine.jpg",
   "extract": "Daniel Lawrence Braine (May 18, 1829 – January 30, 1898) was an admiral of the United States Navy.",
   "query": "\"Daniel Lawrence Braine\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/daniel-l-braine-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  },
  "H0322": {
   "status": "matched",
@@ -308,7 +323,10 @@
   "image": "John F. Farnsworth - Brady-Handy.jpg",
   "extract": "John Franklin Farnsworth (March 27, 1820 – July 14, 1897) was a seven-term U.S. Representative from Illinois (1857-1861, 1863-1873) and a colonel in the Union Army during the American Civil War. He commanded brigades in the Cavalry Corps from September 1862 to February 1863.",
   "query": "\"John F. Farnsworth\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/john-f-farnsworth-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  },
  "H0358": {
   "status": "none",

@@ -11,16 +11,11 @@
   "residences": [],
   "military": [],
   "notable": "",
-  "media": [
-    {
-      "type": "link",
-      "title": "WikiTree profile Jones-160095",
-      "date": "",
-      "source": "WikiTree",
-      "note": "William Henry Jones, 1878-02-28 – 1969-05-11",
-      "url": "https://www.wikitree.com/wiki/Jones-160095"
-    }
-  ],
   "sources": [],
-  "researchLog": []
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "WikiTree profile Jones-160095 rejected on review (dates or places do not fit); its links and images removed."
+    }
+  ]
 }
