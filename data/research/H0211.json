@@ -38,5 +38,31 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Croop-42",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Alvin Croop, 1836-04-13 – 1872-12-08",
+      "url": "https://www.wikitree.com/wiki/Croop-42"
+    },
+    {
+      "type": "photo",
+      "title": "Alvin Croop (WikiTree)",
+      "date": "",
+      "source": "WikiTree, profile Croop-42; https://www.wikitree.com/photo/jpg/Croop-42-1",
+      "note": "",
+      "file": "media/H0211/h0211-croop-42-1.jpg"
+    },
+    {
+      "type": "photo",
+      "title": "Alvin Croop in Civil War uniform. (WikiTree)",
+      "date": "",
+      "source": "WikiTree, profile Croop-42; https://www.wikitree.com/photo/jpg/Croop-42-2",
+      "note": "",
+      "file": "media/H0211/h0211-croop-42-2.jpg"
+    }
   ]
 }

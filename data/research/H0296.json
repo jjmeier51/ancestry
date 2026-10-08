@@ -30,5 +30,32 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Tyler-1044",
+      "date": "",
+      "source": "WikiTree",
+      "note": "David Gardiner Tyler, 1846-07-12 – 1927-09-05",
+      "url": "https://www.wikitree.com/wiki/Tyler-1044"
+    },
+    {
+      "type": "link",
+      "title": "Wikipedia: David Gardiner Tyler",
+      "date": "",
+      "source": "Wikipedia",
+      "note": "David Gardiner Tyler (July 12, 1846 – September 5, 1927) was an American politician and the ninth child and fourth son of John Tyler, the tenth president of the United States.\nBorn in New York, Tyler went to school in Virginia and fought in the Confederate Army during the American Civil War.",
+      "url": "https://en.wikipedia.org/wiki/David_Gardiner_Tyler"
+    },
+    {
+      "type": "photo",
+      "title": "David Gardiner Tyler (Wikimedia Commons)",
+      "date": "",
+      "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:DavidGardinerTyler.jpg",
+      "note": "http://via.lib.harvard.edu/via/deliver/chunkDisplay?_collection=via&amp;inoID=241407&amp;recordNumber=701&amp;chunkNumber=1&amp;method=view&amp;image=full&amp;startChunkNum=1&amp;endChunkNum=1&amp;tot",
+      "file": "media/H0296/david-gardiner-tyler-portrait.jpg"
+    }
+  ],
+  "photo": "media/H0296/david-gardiner-tyler-portrait.jpg"
 }

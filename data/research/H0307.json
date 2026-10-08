@@ -22,5 +22,31 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Lawrence-18038",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Cornelius Van Wyck Lawrence, 1791-02-28 – 1861-02-20",
+      "url": "https://www.wikitree.com/wiki/Lawrence-18038"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Lawrence-18038)",
+      "note": "",
+      "url": "https://www.findagrave.com/memorial/28359464/cornelius_van_wyck-lawrence:"
+    },
+    {
+      "type": "link",
+      "title": "Wikipedia: Cornelius Lawrence",
+      "date": "",
+      "source": "Wikipedia",
+      "note": "Cornelius Van Wyck Lawrence (February 28, 1791 – February 20, 1861) was an American politician from New York. He became the first popularly elected mayor of New York City after the law was changed in 1834.",
+      "url": "https://en.wikipedia.org/wiki/Cornelius_Lawrence"
+    }
   ]
 }

@@ -21,5 +21,24 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Lamoreux-46",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Silas Wright Lamoreux, 1843-03-08 – 1909-08-06",
+      "url": "https://www.wikitree.com/wiki/Lamoreux-46"
+    },
+    {
+      "type": "photo",
+      "title": "Silas Wright Lamoreux (WikiTree)",
+      "date": "",
+      "source": "WikiTree, profile Lamoreux-46; https://www.wikitree.com/photo/jpg/Lamoreux-46",
+      "note": "",
+      "file": "media/H0195/h0195-lamoreux-46.jpg"
+    }
+  ],
+  "photo": "media/H0195/h0195-lamoreux-46.jpg"
 }

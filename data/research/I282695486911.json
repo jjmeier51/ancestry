@@ -22,5 +22,24 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "Wikipedia: Anna Harrison",
+      "date": "",
+      "source": "Wikipedia",
+      "note": "Anna Tuthill Harrison (née Symmes; July 25, 1775 – February 25, 1864) was the first lady of the United States in 1841 as the wife of President William Henry Harrison. She served in the role for only one month, as her husband contracted pneumonia and died shortly after his term began.",
+      "url": "https://en.wikipedia.org/wiki/Anna_Harrison"
+    },
+    {
+      "type": "photo",
+      "title": "Anna Harrison (Wikimedia Commons)",
+      "date": "",
+      "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Anna_Symmes_Harrison.jpg",
+      "note": "Unknown authorUnknown author",
+      "file": "media/I282695486911/anna-harrison-portrait.jpg"
+    }
+  ],
+  "photo": "media/I282695486911/anna-harrison-portrait.jpg"
 }

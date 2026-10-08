@@ -4,6 +4,32 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Tree-wide media hunt (WikiTree, Wikipedia/Commons)
+
+- John asked for media and photos for everyone. Two new scripts:
+  `scripts/find_wikitree.py --attach` (WikiTree public API; 636 deceased
+  people checked, 109 matched after audit, 20 rejected, 2 ambiguous: profile
+  links, 34 Find a Grave links quoted in the profiles, 37 images of which the
+  profile's primary photo becomes the portrait) and
+  `scripts/find_wikipedia_media.py --tagged --attach` (Wikipedia/Wikidata/
+  Commons for the 44 tagged people: 7 matched — Anna Harrison, Cornelius V. W.
+  Lawrence, Nathaniel Woodhull, David Gardiner Tyler, Theodorus Bailey,
+  Daniel L. Braine, John F. Farnsworth — with Commons portraits).
+  `scripts/audit_wikitree.py` re-checks matches against the rules (dates
+  within 1–2 years, first name, place words in common) and undoes rejected
+  ones; manual keeps I282695486653 and H0192, manual rejects listed in the
+  report. Totals now: 18 portraits, 128 people with media, 277 items.
+- Wikimedia throttles this container's shared IP (HTTP 429 after nearly every
+  call) so the Wikipedia pass is slow; WikiTree is ~1 req/s with occasional
+  429s. Wikipedia search found no articles for Bull Smith (covered only in the
+  Smithtown article), Thomas Topping, Thomas Lamoreaux or James Clinch Smith.
+- The GEDCOM lists 104 Ancestry photos (`ancestryMedia`, including portraits of
+  John and James C. Meier) that Ancestry's media service will not serve
+  without login (HTTP 403). John needs to export them or add them to the
+  Drive folder.
+- Not yet tried: Chronicling America / newspapers for obituaries, FamilySearch
+  (login), Find a Grave direct (403 here; only links via WikiTree).
+
 ## 2026-10-08 — Jamie Meier at Waynewood Elementary
 
 - Owner's lead: Jamie was principal of Waynewood Elementary (Alexandria,

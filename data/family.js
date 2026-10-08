@@ -2339,6 +2339,54 @@ window.FAMILY_DATA = {
    "lon": -78.6391,
    "label": "Raleigh, Wake County, North Carolina, United States",
    "precision": "exact"
+  },
+  "Ashburn, Loudoun County, Virginia, USA": {
+   "lat": 39.02978,
+   "lon": -77.47441,
+   "label": "Ashburn, Loudoun County, Virginia, United States",
+   "precision": "exact"
+  },
+  "Chantilly, Fairfax County, Virginia, USA": {
+   "lat": 38.88522,
+   "lon": -77.44868,
+   "label": "Chantilly, Fairfax County, Virginia, United States",
+   "precision": "exact"
+  },
+  "East Stroudsburg, Monroe County, Pennsylvania, USA": {
+   "lat": 40.99954,
+   "lon": -75.18129,
+   "label": "East Stroudsburg, Monroe County, Pennsylvania, 18301, United States",
+   "precision": "exact"
+  },
+  "Falls Church, Virginia, USA": {
+   "lat": 38.88233,
+   "lon": -77.17109,
+   "label": "Falls Church, Virginia, 22046, United States",
+   "precision": "exact"
+  },
+  "Herndon, Fairfax County, Virginia, USA": {
+   "lat": 38.96953,
+   "lon": -77.38595,
+   "label": "Herndon, Fairfax County, Virginia, United States",
+   "precision": "exact"
+  },
+  "McLean, Fairfax County, Virginia, USA": {
+   "lat": 38.93669,
+   "lon": -77.18584,
+   "label": "McLean, Fairfax County, Virginia, United States",
+   "precision": "exact"
+  },
+  "Norfolk, Virginia, USA": {
+   "lat": 36.84937,
+   "lon": -76.28995,
+   "label": "Norfolk, Virginia, United States",
+   "precision": "exact"
+  },
+  "Northern Virginia, USA": {
+   "lat": 38.84087,
+   "lon": -77.11447,
+   "label": "Northern Virginia Community College - Alexandria Campus, 5000, Dawes Avenue, John Adams, Alexandria, Fairfax County, Virginia, 22311, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -2398,7 +2446,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
+    "note": "The person this tree is built around. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
    },
    "aka": [
     "Johnny Meier"
@@ -2406,8 +2454,8 @@ window.FAMILY_DATA = {
    "tags": [
     "notable"
    ],
-   "summary": "Project owner and subject of the family tree; a living person, so not researched.",
-   "bio": "John (\"Johnny\") Meier, born 1992, is the subject of this research and the project owner (GitHub jjmeier51). His Ancestry tree shows him as 'Johnny Meier 1992–Living'. On his father's side he descends from German (Munzingen, Baden) Meiers, Pennsylvania Pringles with colonial Long Island, Huguenot French and Palatine German roots, Irish Heffernans from County Tipperary, and Irish-American McGuires. On his mother's side he descends from Italian Petriello, Gianetta, Cognetti and Ferlaino families from Irpinia (Avellino) and Calabria, who settled in Scranton and Dunmore, PA. He is 13th in descent from Richard 'Bull' Smith, founder of Smithtown, Long Island.",
+   "summary": "Subject and builder of this family tree; a living person, so not researched.",
+   "bio": "John (\"Johnny\") Meier, born 1992, is the subject of this research and built this site. His Ancestry tree shows him as 'Johnny Meier 1992–Living'. On his father's side he descends from German (Munzingen, Baden) Meiers, Pennsylvania Pringles with colonial Long Island, Huguenot French and Palatine German roots, Irish Heffernans from County Tipperary, and Irish-American McGuires. On his mother's side he descends from Italian Petriello, Gianetta, Cognetti and Ferlaino families from Irpinia (Avellino) and Calabria, who settled in Scranton and Dunmore, PA. He is 13th in descent from Richard 'Bull' Smith, founder of Smithtown, Long Island.",
    "notable": "Through the colonial lines he is a blood cousin of President Benjamin Harrison (6C5R), First Ladies Anna Symmes Harrison and Julia Gardiner Tyler, and the Titanic victim James Clinch Smith (6C5R), among others. Section 3.4 has the full list.",
    "facts": [
     {
@@ -2449,7 +2497,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry pedigree, paternal side with dates",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282604492552/ancestry-screenshot-img-7791.jpg",
      "people": [
@@ -2460,7 +2508,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Descent from Richard \"Bull\" Smith, earlier chart version",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282604492552/ancestry-screenshot-img-7800.jpg",
      "people": [
@@ -2471,7 +2519,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Descent from Richard \"Bull\" Smith, 13-generation chart",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282604492552/ancestry-screenshot-img-7802.jpg",
      "people": [
@@ -2486,7 +2534,7 @@ window.FAMILY_DATA = {
     },
     {
      "date": "2026-10-08",
-     "note": "Owner's statement: full name John Joseph Meier, born 16 Jun 1992 at Alexandria City Hospital; lives in Ashburn, VA; brothers Tommy (b. 1990) and Matt (b. 1998) added."
+     "note": "John's statement: full name John Joseph Meier, born 16 Jun 1992 at Alexandria City Hospital; lives in Ashburn, VA; brothers Tommy (b. 1990) and Matt (b. 1998) added."
     },
     {
      "date": "2026-10-08",
@@ -2494,7 +2542,7 @@ window.FAMILY_DATA = {
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: engaged to Shannon McCarthy (8 Oct 2026)."
+     "note": "John: engaged to Shannon McCarthy (8 Oct 2026)."
     }
    ],
    "nickname": "Johnny",
@@ -2557,7 +2605,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "The owner's father. His father-in-law's 2025 obituary names 'son in law Tommy Meier'."
+    "note": "John's father. His father-in-law's 2025 obituary names 'son in law Tommy Meier'."
    },
    "aka": [
     "Thomas Meier",
@@ -2568,10 +2616,10 @@ window.FAMILY_DATA = {
     "athlete",
     "coach"
    ],
-   "summary": "The owner's father, known as Tommy: East Stroudsburg quarterback, head football coach at George Mason High and then Herndon High for 17 seasons (1990–2006), later assistant principal at Langley High School; one of the three Meier brothers who coached Fairfax County football.",
-   "bio": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College (now East Stroudsburg University) for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns (42 points, tying the team lead), ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District (the school lists football district titles in 1985 and 1990), and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to eventual state champion Annandale. A decade later he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night 2003; that 7-4 team ended a six-year regional playoff drought. He coached Herndon through the 2006 season (6-4, 3-3 in the Concorde District), seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The owner reports that he is among the winningest coaches in Virginia high-school history; a season-by-season record has not yet been compiled.\n\nHe then moved into administration at Langley High School in McLean, one of Virginia's top public schools, where as assistant principal he coordinated the committee planning the school's $100-million-class renovation (2011–14 coverage in the student paper) and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.",
+   "summary": "John's father, known as Tommy: East Stroudsburg quarterback, head football coach at George Mason High and then Herndon High for 17 seasons (1990–2006), later assistant principal at Langley High School; one of the three Meier brothers who coached Fairfax County football.",
+   "bio": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College (now East Stroudsburg University) for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns (42 points, tying the team lead), ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District (the school lists football district titles in 1985 and 1990), and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to eventual state champion Annandale. A decade later he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night 2003; that 7-4 team ended a six-year regional playoff drought. He coached Herndon through the 2006 season (6-4, 3-3 in the Concorde District), seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The family counts him among the winningest coaches in Virginia high-school history; a season-by-season record has not yet been compiled.\n\nHe then moved into administration at Langley High School in McLean, one of Virginia's top public schools, where as assistant principal he coordinated the committee planning the school's $100-million-class renovation (2011–14 coverage in the student paper) and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.",
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "John's Ancestry tree screenshots",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "East Stroudsburg University, 2018 Football Media Guide (All-Time Lettermen: Tom Meier 1978-80, Jamie Meier 1977-80; yearly leaders; records): https://static.esuwarriors.com/custompages/Football/2018/2018%20ESU%20Football%20Media%20Guide.pdf",
@@ -2607,15 +2655,15 @@ window.FAMILY_DATA = {
     },
     {
      "date": "2026-10-08",
-     "note": "Owner reports seven brothers and one sister in Levittown. Searched Legacy, Dignity, Patch, Find a Grave, FamilySearch and the Courier Times archive index for James C. Meier's 2008 obituary: only paywalled index hits (obitsarchive/GenealogyBank). Siblings still to be named."
+     "note": "John reports seven brothers and one sister in Levittown. Searched Legacy, Dignity, Patch, Find a Grave, FamilySearch and the Courier Times archive index for James C. Meier's 2008 obituary: only paywalled index hits (obitsarchive/GenealogyBank). Siblings still to be named."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner listed his father's seven siblings with estimated years (earlier count of \"seven brothers and a sister\" superseded: three brothers, four sisters)."
+     "note": "John listed his father's seven siblings with estimated years (earlier count of \"seven brothers and a sister\" superseded: three brothers, four sisters)."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner's leads (George Mason HS and Herndon HS head coach, Langley administrator, retired 2014, East Stroudsburg with Jamie, met Sharon there). Verified: ESU 2018 media guide lists Tom Meier as a 1978-80 letterman with 1980 passing/scoring/long-TD entries; Washington Post 1990, 1991, 1993 and 2003 stories cover his Herndon tenure; MaxPreps shows 2006 as his last season; Langley's Saxon Scope names him assistant principal 2011-14. George Mason seasons not found in the Post archive (1985 Post story describes the programme's Group A struggles). Washington Post archive is readable only through a text proxy; full 1990 article is paywalled after the lede."
+     "note": "John's leads (George Mason HS and Herndon HS head coach, Langley administrator, retired 2014, East Stroudsburg with Jamie, met Sharon there). Verified: ESU 2018 media guide lists Tom Meier as a 1978-80 letterman with 1980 passing/scoring/long-TD entries; Washington Post 1990, 1991, 1993 and 2003 stories cover his Herndon tenure; MaxPreps shows 2006 as his last season; Langley's Saxon Scope names him assistant principal 2011-14. George Mason seasons not found in the Post archive (1985 Post story describes the programme's Group A struggles). Washington Post archive is readable only through a text proxy; full 1990 article is paywalled after the lede."
     }
    ],
    "nickname": "Tommy",
@@ -2642,7 +2690,7 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Season-by-season record at George Mason and Herndon (the owner says he is among the winningest coaches in Virginia history); which years he coached George Mason; teaching subject; marriage date and place."
+    "Season-by-season record at George Mason and Herndon (John says he is among the winningest coaches in Virginia history); which years he coached George Mason; teaching subject; marriage date and place."
    ],
    "notable": "Head football coach at George Mason High School (Falls Church) and Herndon High School (1990–2006); one of three brothers who were Fairfax County head coaches at the same time, a rarity noted by the Washington Post in 1990; later assistant principal at Langley High School.",
    "funFacts": [
@@ -2661,7 +2709,7 @@ window.FAMILY_DATA = {
      "title": "Head football coach, George Mason High School",
      "date": "late 1980s",
      "place": "Falls Church, Virginia, USA",
-     "description": "Per the owner; exact seasons not yet documented."
+     "description": "Exact seasons not yet documented."
     },
     {
      "title": "Named head football coach at Herndon High School",
@@ -2697,7 +2745,7 @@ window.FAMILY_DATA = {
      "title": "Retired from Fairfax County Public Schools",
      "date": "2014",
      "place": "McLean, Fairfax County, Virginia, USA",
-     "description": "Owner's statement."
+     "description": ""
     }
    ],
    "manual": true,
@@ -2885,7 +2933,7 @@ window.FAMILY_DATA = {
     {
      "date": "c.1978–1982",
      "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
-     "note": "East Stroudsburg University (owner)"
+     "note": "East Stroudsburg University"
     }
    ],
    "citations": [
@@ -2905,7 +2953,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "The owner's mother. Her father's 2025 obituary names 'daughter Sharon Meier & son in law Tommy Meier and their boys Tommy, Johnny & Mathew'."
+    "note": "John's mother. Her father's 2025 obituary names 'daughter Sharon Meier & son in law Tommy Meier and their boys Tommy, Johnny & Mathew'."
    },
    "aka": [
     "Sharon Meier",
@@ -2938,7 +2986,7 @@ window.FAMILY_DATA = {
     "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
     "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "handoff": {
     "section": "3.1 John and his parents",
@@ -2960,7 +3008,7 @@ window.FAMILY_DATA = {
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: she attended East Stroudsburg University and met Tom Meier there."
+     "note": "John: she attended East Stroudsburg University and met Tom Meier there."
     }
    ],
    "manual": true
@@ -3139,7 +3187,7 @@ window.FAMILY_DATA = {
     },
     {
      "label": "Marriage",
-     "value": "Married Kathryn F. McGuire; widowed in 1970 and never remarried (owner's statement, 8 Oct 2026)."
+     "value": "Married Kathryn F. McGuire; widowed in 1970 and never remarried (family information, 8 Oct 2026)."
     }
    ],
    "sources": [
@@ -3178,15 +3226,15 @@ window.FAMILY_DATA = {
     },
     {
      "date": "2026-10-08",
-     "note": "Owner confirms nine children (Thomas Sr. plus seven brothers and one sister). Obituary not reachable from free sources; leads logged."
+     "note": "John confirms nine children (Thomas Sr. plus seven brothers and one sister). Obituary not reachable from free sources; leads logged."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner listed all eight children (8 Oct 2026)."
+     "note": "John listed all eight children (8 Oct 2026)."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: James never remarried after Kathryn's death in 1970."
+     "note": "John: James never remarried after Kathryn's death in 1970."
     }
    ]
   },
@@ -3303,7 +3351,7 @@ window.FAMILY_DATA = {
     },
     {
      "date": "2026-10-08",
-     "note": "Owner listed her eight children, born c.1955–1963 (8 Oct 2026)."
+     "note": "John listed her eight children, born c.1955–1963 (8 Oct 2026)."
     }
    ]
   },
@@ -3740,6 +3788,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile McGuire-4412 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -3995,15 +4047,27 @@ window.FAMILY_DATA = {
     "date": "Sep 1879",
     "place": "Pennsylvania, USA"
    },
-   "residences": [
-    {
-     "date": "1900",
-     "place": "Plymouth Ward 1, Luzerne, Pennsylvania, USA"
-    }
-   ],
+   "residences": [],
    "citations": [
     {
      "source": "1900 United States Federal Census"
+    }
+   ],
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "military": [],
+   "notable": "",
+   "sources": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Jones-160095 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -4173,6 +4237,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Murphy-22277 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -5005,7 +5073,7 @@ window.FAMILY_DATA = {
      "type": "record",
      "title": "1850 US Census record page for Andrew Pringle (FamilySearch) (1 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608053685/ancestry-screenshot-img-7810.jpg",
      "people": [
@@ -5017,7 +5085,7 @@ window.FAMILY_DATA = {
      "type": "record",
      "title": "1850 US Census record page for Andrew Pringle (FamilySearch) (2 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608053685/ancestry-screenshot-img-7811.jpg",
      "people": [
@@ -5029,7 +5097,7 @@ window.FAMILY_DATA = {
      "type": "record",
      "title": "1850 US Census record page for Andrew Pringle (FamilySearch) (3 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608053685/ancestry-screenshot-img-7812.jpg",
      "people": [
@@ -5041,7 +5109,7 @@ window.FAMILY_DATA = {
      "type": "record",
      "title": "1850 US Census, Plymouth Township, Luzerne County, PA (page image)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608053685/ancestry-screenshot-img-7813.jpg",
      "people": [
@@ -5053,7 +5121,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Pringle, Croup, Young and Doll view",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608053685/ancestry-screenshot-img-7828.jpg",
      "people": [
@@ -5411,6 +5479,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Pringle-3405",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Samuel Pringle, 1767-00-00 – 1847-03-25",
+     "url": "https://www.wikitree.com/wiki/Pringle-3405"
+    }
    ]
   },
   {
@@ -5543,7 +5621,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry pedigree, Tuttle / Lamoreaux / Pringle colonial line (1 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608055482/ancestry-screenshot-img-7792.jpg"
     },
@@ -5551,7 +5629,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry pedigree, Tuttle / Lamoreaux / Pringle colonial line (2 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608055482/ancestry-screenshot-img-7794.jpg"
     }
@@ -5695,6 +5773,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Death in the Ancestry tree: Feb 1802; research: ABT 1770."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-364",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Tuthill, 1730-00-00 – 1770-00-00",
+     "url": "https://www.wikitree.com/wiki/Tuthill-364"
+    },
+    {
+     "type": "document",
+     "title": "Marriage Record for John and Temperance (Smith) Tuthill (WikiTree)",
+     "date": "1752-11-23",
+     "source": "WikiTree, profile Tuthill-364; https://www.wikitree.com/photo/jpg/Smith-275736",
+     "note": "",
+     "file": "media/I282608055492/i282608055492-smith-275736.jpg"
     }
    ]
   },
@@ -5866,6 +5962,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"James Marvin Tuthill\"; research uses \"James Tuthill\"."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-291",
+     "date": "",
+     "source": "WikiTree",
+     "note": "James Marvin Tuthill, 1692-00-00 – 1772-00-00",
+     "url": "https://www.wikitree.com/wiki/Tuthill-291"
+    }
    ]
   },
   {
@@ -5931,6 +6037,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"John \"Chalker John\" Tuthill\"; research uses \"John Tuthill\"."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-98",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Tuthill, 1658-02-14 – 1754-11-21",
+     "url": "https://www.wikitree.com/wiki/Tuthill-98"
     }
    ]
   },
@@ -5998,6 +6114,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Wells-3147",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Mehitable Wells, 1666-08-26 – 1742-08-26",
+     "url": "https://www.wikitree.com/wiki/Wells-3147"
+    }
    ]
   },
   {
@@ -6052,6 +6178,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"John Tuttle\"; research uses \"John Tuthill\"."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-5",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Tuthill, 1635-07-16 – 1717-10-12",
+     "url": "https://www.wikitree.com/wiki/Tuthill-5"
     }
    ]
   },
@@ -6185,7 +6321,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: parents shown for William Wells (unsupported per research)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608055977/ancestry-screenshot-img-7793.jpg"
     }
@@ -6260,7 +6396,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Youngs / Horne pedigree (unproven per research) (1 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608056003/ancestry-screenshot-img-7795.jpg"
     },
@@ -6268,7 +6404,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Youngs / Horne pedigree (unproven per research) (2 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608056003/ancestry-screenshot-img-7796.jpg"
     }
@@ -6521,6 +6657,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Birth in the Ancestry tree: 28 Jun 1616; research: 1612-06-28."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-7",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Henry Tuthill, 1612-06-28 – 1650-00-00",
+     "url": "https://www.wikitree.com/wiki/Tuthill-7"
+    }
    ]
   },
   {
@@ -6572,6 +6718,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Birth in the Ancestry tree: 1584; research: 1583-08-11."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Gooch-320",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Alice Gooch, 1583-08-11 – 1618-00-00",
+     "url": "https://www.wikitree.com/wiki/Gooch-320"
     }
    ]
   },
@@ -6796,7 +6952,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Heffernan pedigree",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608060536/ancestry-screenshot-img-7807.jpg",
      "people": [
@@ -7006,7 +7162,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Connole pedigree",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608064637/ancestry-screenshot-img-7808.jpg"
     }
@@ -7222,6 +7378,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Birth in the Ancestry tree: 1828; research: ABT 1825."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Slattery-953 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -7549,7 +7709,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Meier pedigree with placeholder parents (1 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608064885/ancestry-screenshot-img-7803.jpg",
      "people": [
@@ -7560,7 +7720,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Meier pedigree with placeholder parents (2 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608064885/ancestry-screenshot-img-7804.jpg",
      "people": [
@@ -7571,7 +7731,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Meier pedigree with placeholder parents (3 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608064885/ancestry-screenshot-img-7829.jpg",
      "people": [
@@ -7686,7 +7846,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Black Forest pedigree (Birkenmayer, Heitzler, Federer, Begelspacher) (1 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608064896/ancestry-screenshot-img-7805.jpg"
     },
@@ -7694,7 +7854,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Black Forest pedigree (Birkenmayer, Heitzler, Federer, Begelspacher) (2 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608064896/ancestry-screenshot-img-7806.jpg"
     },
@@ -7702,7 +7862,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Black Forest pedigree (Birkenmayer, Heitzler, Federer, Begelspacher) (3 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608064896/ancestry-screenshot-img-7809.jpg"
     }
@@ -8200,6 +8360,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Topping-312",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Jerusha Topping, 1698-00-00 – 1760-00-00",
+     "url": "https://www.wikitree.com/wiki/Topping-312"
+    },
+    {
+     "type": "photo",
+     "title": "Topping Family of Long Island (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Topping-312; https://www.wikitree.com/photo/jpg/Smith-141655",
+     "note": "",
+     "file": "media/I282608065103/i282608065103-smith-141655.jpg"
+    }
    ]
   },
   {
@@ -8454,7 +8632,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry pedigree, Topping and Bull Smith branches (1 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7797.jpg",
      "people": [
@@ -8465,7 +8643,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry pedigree, Topping and Bull Smith branches (2 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7798.jpg",
      "people": [
@@ -8476,7 +8654,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry pedigree, Topping and Bull Smith branches (3 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7799.jpg",
      "people": [
@@ -8487,7 +8665,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Notes on the Smithtown bull statue \"Whisper\"",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7801.jpg"
     },
@@ -8495,7 +8673,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Smith family history: list of illustrations (Abner and Joshua Smith houses)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7814.jpg"
     },
@@ -8503,7 +8681,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau, Records of the Town of Smithtown (1898): Gardiner and Bailey descents (1 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7815.jpg"
     },
@@ -8511,7 +8689,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau, Records of the Town of Smithtown (1898): Gardiner and Bailey descents (2 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7816.jpg"
     },
@@ -8519,7 +8697,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau: abstracts of Smith family wills (1 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7817.jpg",
      "people": [
@@ -8530,7 +8708,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau: abstracts of Smith family wills (2 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7818.jpg",
      "people": [
@@ -8541,7 +8719,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau: abstracts of Smith family wills (3 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7819.jpg",
      "people": [
@@ -8552,7 +8730,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau: Smith land records and 1736 survey map (1 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7820.jpg"
     },
@@ -8560,7 +8738,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau: Smith land records and 1736 survey map (2 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7821.jpg"
     },
@@ -8568,7 +8746,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Pelletreau: Smith land records and 1736 survey map (3 of 3)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7822.jpg"
     },
@@ -8576,7 +8754,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "F. K. Smith, The Family of Richard Smith: Abner and Joshua Smith houses",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7823.jpg"
     },
@@ -8584,7 +8762,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "F. K. Smith, The Family of Richard Smith (1967), pp. 119–122 (1 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7824.jpg"
     },
@@ -8592,7 +8770,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "F. K. Smith, The Family of Richard Smith (1967), pp. 119–122 (2 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7825.jpg"
     },
@@ -8600,7 +8778,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "F. K. Smith, The Family of Richard Smith (1967), pp. 119–122 (3 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7826.jpg"
     },
@@ -8608,9 +8786,49 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "F. K. Smith, The Family of Richard Smith (1967), pp. 119–122 (4 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608065309/ancestry-screenshot-img-7827.jpg"
+    },
+    {
+     "type": "link",
+     "title": "WikiTree profile Smith-1208",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Richard Smith, 1613-00-00 – 1692-03-07",
+     "url": "https://www.wikitree.com/wiki/Smith-1208"
+    },
+    {
+     "type": "document",
+     "title": "The Will of Richard Smith (WikiTree)",
+     "date": "1691-03-05",
+     "source": "WikiTree, profile Smith-1208; https://www.wikitree.com/photo/jpg/Smith-1208",
+     "note": "",
+     "file": "media/I282608065309/i282608065309-smith-1208.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Richard Smith Image 2 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Smith-1208; https://www.wikitree.com/photo/jpg/Smith-1208-1",
+     "note": "",
+     "file": "media/I282608065309/i282608065309-smith-1208-1.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "The Family of Richard Smith of Long Island pp 23 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Smith-1208; https://www.wikitree.com/photo/jpg/Smith-1208-2",
+     "note": "",
+     "file": "media/I282608065309/i282608065309-smith-1208-2.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "The Family of Richard Smith of Long Island pp 29 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Smith-1208; https://www.wikitree.com/photo/jpg/Smith-1208-3",
+     "note": "",
+     "file": "media/I282608065309/i282608065309-smith-1208-3.jpg"
     }
    ],
    "researchLog": [
@@ -8691,6 +8909,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Sarah Folger Hammond\"; research uses \"Sarah Hammond\"."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Hammond-356",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Sarah Hammond, 1623-10-21 – 1708-01-20",
+     "url": "https://www.wikitree.com/wiki/Hammond-356"
     }
    ]
   },
@@ -9093,6 +9321,32 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Andrew (Andreas) Grub\"; research uses \"Johann Andreas Grub\"."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Grub-4",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Johann Andreas Grub, 1727-12-12 – 1792-08-06",
+     "url": "https://www.wikitree.com/wiki/Grub-4"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Grub-4)",
+     "note": "",
+     "url": "https://findagrave.com/memorial/261051335"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Grub-4)",
+     "note": "",
+     "url": "https://findagrave.com/memorial/28284890#view-photo=189433136"
+    }
    ]
   },
   {
@@ -9231,7 +9485,30 @@ window.FAMILY_DATA = {
    "death": {
     "date": "7 Nov 1558",
     "place": "Ilketshall St Margaret, Waveney District, Suffolk, England"
-   }
+   },
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Gooch-198",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Peter Gooch, 1490-00-00 – 1558-11-07",
+     "url": "https://www.wikitree.com/wiki/Gooch-198"
+    }
+   ],
+   "sources": [],
+   "researchLog": []
   },
   {
    "id": "I282608083447",
@@ -9287,6 +9564,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Handoff gives parents John Topping (b. 1636), Sarah White (b. unknown) but the link is only \"unverified\", so the tree was not changed."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Topping-135",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Josiah Topping, 1663-03-00 – 1725-01-11",
+     "url": "https://www.wikitree.com/wiki/Topping-135"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Topping-135)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/32425237/josiah-topping:"
     }
    ]
   },
@@ -9346,6 +9641,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Handoff gives parents Daniel Sayre (b. unknown), Hannah Foster (b. unknown) but the link is only \"unverified\", so the tree was not changed."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Sayre-440",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Hannah Sayre, 1668-00-00 – 1741-08-02",
+     "url": "https://www.wikitree.com/wiki/Sayre-440"
+    }
    ]
   },
   {
@@ -9387,7 +9692,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Topping-5",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Topping, 1636-00-00 – 1686-05-28",
+     "url": "https://www.wikitree.com/wiki/Topping-5"
+    },
+    {
+     "type": "photo",
+     "title": "Gravestone (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Topping-5; https://www.wikitree.com/photo/jpg/Topping-5",
+     "note": "",
+     "file": "media/I282608083494/i282608083494-topping-5.jpg"
+    }
+   ],
+   "photo": "media/I282608083494/i282608083494-topping-5.jpg"
   },
   {
    "id": "I282608083519",
@@ -9521,7 +9845,34 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Birth in the Ancestry tree: 19 Mar 1608; research: 1609-03-19."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Topping-121",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Thomas Topping, 1609-03-19 – 1687-12-00",
+     "url": "https://www.wikitree.com/wiki/Topping-121"
+    },
+    {
+     "type": "photo",
+     "title": "1647 Bond: Thomas Topping and Robert Coe of Heemsteede [Hempstead], as Securities for the Payment of the Purchase-Money of the Ship Amandare (WikiTree)",
+     "date": "1647-07-06",
+     "source": "WikiTree, profile Topping-121; https://www.wikitree.com/photo/png/Early_Settlements_of_Long_Island",
+     "note": "",
+     "file": "media/I282608083519/i282608083519-early-settlements-of-long-island.png"
+    },
+    {
+     "type": "photo",
+     "title": "Thomas Topping's Signature (1647) (WikiTree)",
+     "date": "1647-07-06",
+     "source": "WikiTree, profile Topping-121; https://www.wikitree.com/photo/jpg/Topping-121",
+     "note": "",
+     "file": "media/I282608083519/i282608083519-topping-121.jpg"
+    }
+   ],
+   "photo": "media/I282608083519/i282608083519-topping-121.jpg"
   },
   {
    "id": "I282608083531",
@@ -9595,6 +9946,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Birth in the Ancestry tree: 16 November 1610; research: ABT 1611."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Aldridge-218",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Emma Aldridge, 1611-00-00 – 1665-00-00",
+     "url": "https://www.wikitree.com/wiki/Aldridge-218"
     }
    ]
   },
@@ -9914,6 +10275,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Anna J. Walsh\"; research uses \"Anna J. Meier\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Meier-4034 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -10120,6 +10485,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Sophia Gertrude Duffin\"; research uses \"Sophia Gertrude Meier\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Meier-1052 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -10746,7 +11115,30 @@ window.FAMILY_DATA = {
      "source": "U.S., Sons of the American Revolution Membership Applications, 1889-1970",
      "page": "Volume: 68"
     }
-   ]
+   ],
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-162",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Anna Tuthill, 1741-06-17 – 1776-07-25",
+     "url": "https://www.wikitree.com/wiki/Tuthill-162"
+    }
+   ],
+   "sources": [],
+   "researchLog": []
   },
   {
    "id": "I282695486702",
@@ -10766,7 +11158,30 @@ window.FAMILY_DATA = {
      "source": "U.S., Sons of the American Revolution Membership Applications, 1889-1970",
      "page": "Volume: 68"
     }
-   ]
+   ],
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Symmes-1",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Cleves Symmes, 1742-07-21 – 1814-02-26",
+     "url": "https://www.wikitree.com/wiki/Symmes-1"
+    }
+   ],
+   "sources": [],
+   "researchLog": []
   },
   {
    "id": "I282695486703",
@@ -10785,7 +11200,55 @@ window.FAMILY_DATA = {
      "source": "U.S., Sons of the American Revolution Membership Applications, 1889-1970",
      "page": "Volume: 68"
     }
-   ]
+   ],
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Symmes-6",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Anna Tuthill Symmes, 1775-07-25 – 1864-02-25",
+     "url": "https://www.wikitree.com/wiki/Symmes-6"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Symmes-6)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/19596"
+    },
+    {
+     "type": "photo",
+     "title": "Anna Harrison, wife of William Henry Harrison (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Symmes-6; https://www.wikitree.com/photo/jpg/Symmes-6",
+     "note": "",
+     "file": "media/I282695486703/i282695486703-symmes-6.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Anna Tuthill Harrison nee Symmes (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Symmes-6; https://www.wikitree.com/photo/jpg/Symmes-6-4",
+     "note": "",
+     "file": "media/I282695486703/i282695486703-symmes-6-4.jpg"
+    }
+   ],
+   "sources": [],
+   "researchLog": [],
+   "photo": "media/I282695486703/i282695486703-symmes-6-4.jpg"
   },
   {
    "id": "I282695486799",
@@ -10844,6 +11307,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Reeve-571",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Hannah Reeve, 1699-07-03 – 1764-03-08",
+     "url": "https://www.wikitree.com/wiki/Reeve-571"
+    }
    ]
   },
   {
@@ -10862,7 +11335,38 @@ window.FAMILY_DATA = {
      "source": "U.S., Sons of the American Revolution Membership Applications, 1889-1970",
      "page": "Volume: 214"
     }
-   ]
+   ],
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Harrison-914",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Scott Harrison, 1804-10-04 – 1878-05-25",
+     "url": "https://www.wikitree.com/wiki/Harrison-914"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Harrison-914)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/8624/john_scott-harrison"
+    }
+   ],
+   "sources": [],
+   "researchLog": []
   },
   {
    "id": "I282695486911",
@@ -10902,7 +11406,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "Wikipedia: Anna Harrison",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Anna Tuthill Harrison (née Symmes; July 25, 1775 – February 25, 1864) was the first lady of the United States in 1841 as the wife of President William Henry Harrison. She served in the role for only one month, as her husband contracted pneumonia and died shortly after his term began.",
+     "url": "https://en.wikipedia.org/wiki/Anna_Harrison"
+    },
+    {
+     "type": "photo",
+     "title": "Anna Harrison (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Anna_Symmes_Harrison.jpg",
+     "note": "Unknown authorUnknown author",
+     "file": "media/I282695486911/anna-harrison-portrait.jpg"
+    }
+   ],
+   "photo": "media/I282695486911/anna-harrison-portrait.jpg"
   },
   {
    "id": "I282695486912",
@@ -10958,6 +11481,56 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Harrison-913",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Benjamin Harrison, 1833-08-20 – 1901-03-13",
+     "url": "https://www.wikitree.com/wiki/Harrison-913"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Harrison-913)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/451/benjamin-harrison"
+    },
+    {
+     "type": "photo",
+     "title": "Benjamin Harrison 23rd President (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-1140",
+     "note": "",
+     "file": "media/I282695486913/i282695486913-harrison-1140.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Benjamin Harrison Home (WikiTree)",
+     "date": "2008-09-21",
+     "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-2",
+     "note": "",
+     "file": "media/I282695486913/i282695486913-harrison-913-2.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Pres. Benjamin Harrison Home (WikiTree)",
+     "date": "2017-10-26",
+     "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-3",
+     "note": "",
+     "file": "media/I282695486913/i282695486913-harrison-913-3.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Pres. Benjamin Harrison Home (WikiTree)",
+     "date": "2017-10-26",
+     "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-4",
+     "note": "",
+     "file": "media/I282695486913/i282695486913-harrison-913-4.jpg"
+    }
    ]
   },
   {
@@ -10999,6 +11572,32 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Harrison-912",
+     "date": "",
+     "source": "WikiTree",
+     "note": "William Henry Harrison, 1773-02-09 – 1841-04-04",
+     "url": "https://www.wikitree.com/wiki/Harrison-912"
+    },
+    {
+     "type": "photo",
+     "title": "William Harrison 9th President (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Harrison-912; https://www.wikitree.com/photo/jpg/Harrison-1107",
+     "note": "",
+     "file": "media/I282695486914/i282695486914-harrison-1107.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "General William Henry Harrison Accomplishments (Lithograph) (WikiTree)",
+     "date": "1840",
+     "source": "WikiTree, profile Harrison-912; https://www.wikitree.com/photo/jpg/Harrison-912",
+     "note": "",
+     "file": "media/I282695486914/i282695486914-harrison-912.jpg"
+    }
    ]
   },
   {
@@ -11021,7 +11620,30 @@ window.FAMILY_DATA = {
      "ancestryId": "7227b14f-5b5e-415d-9143-1b83c0e203c7",
      "primary": true
     }
-   ]
+   ],
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Wells-3382",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Bethia Wells, 1653-00-00 – 1733-04-14",
+     "url": "https://www.wikitree.com/wiki/Wells-3382"
+    }
+   ],
+   "sources": [],
+   "researchLog": []
   },
   {
    "id": "I282695495007",
@@ -12887,7 +13509,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Cognetti family and Cognetta ancestors (1 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282695503559/ancestry-screenshot-img-7833.jpg",
      "people": [
@@ -12898,7 +13520,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Cognetti family and Cognetta ancestors (2 of 2)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282695503559/ancestry-screenshot-img-7834.jpg",
      "people": [
@@ -13503,6 +14125,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Handoff gives parents Frank Cognetti (b. 1891), Helen Ferlaino (b. 1894) but the link is only \"unverified\", so the tree was not changed."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Cognetti-1",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Ralph A Cognetti, 1913-08-07 – 2009-04-16",
+     "url": "https://www.wikitree.com/wiki/Cognetti-1"
+    }
    ]
   },
   {
@@ -13922,7 +14554,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Petriello, Di Marino, DiBiasi and Siconolfi lines (1 of 5)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282695504114/ancestry-screenshot-img-7830.jpg"
     },
@@ -13930,7 +14562,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Petriello, Di Marino, DiBiasi and Siconolfi lines (2 of 5)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282695504114/ancestry-screenshot-img-7831.jpg"
     },
@@ -13938,7 +14570,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Petriello, Di Marino, DiBiasi and Siconolfi lines (3 of 5)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282695504114/ancestry-screenshot-img-7832.jpg"
     },
@@ -13946,7 +14578,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Petriello, Di Marino, DiBiasi and Siconolfi lines (4 of 5)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282695504114/ancestry-screenshot-img-7835.jpg"
     },
@@ -13954,7 +14586,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Petriello, Di Marino, DiBiasi and Siconolfi lines (5 of 5)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282695504114/ancestry-screenshot-img-7836.jpg"
     }
@@ -14119,6 +14751,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Morgan-33181 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -14196,7 +14832,25 @@ window.FAMILY_DATA = {
    "death": {
     "date": "Jun 1883",
     "place": "Kilkenny, Ireland"
-   }
+   },
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "sources": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Durrant-1999 rejected on review (dates or places do not fit); its links and images removed."
+    }
+   ]
   },
   {
    "id": "I282695535350",
@@ -14359,7 +15013,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Birth in the Ancestry tree: 1746; research: ABT 1745."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-21",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Thomas Lamoreaux, 1746-00-00 – 1829-10-05",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-21"
+    },
+    {
+     "type": "photo",
+     "title": "Thomas Lamoreaux Memorial (WikiTree)",
+     "date": "2017-07-31",
+     "source": "WikiTree, profile Lamoreaux-21; https://www.wikitree.com/photo/jpg/Lamoreaux-21",
+     "note": "",
+     "file": "media/I282695583810/i282695583810-lamoreaux-21.jpg"
+    }
+   ],
+   "photo": "media/I282695583810/i282695583810-lamoreaux-21.jpg"
   },
   {
    "id": "I282695583838",
@@ -14446,6 +15119,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Jean (John) Lomereaux\"; research uses \"Jean Lamoreaux\"."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-35",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Jean Lamoreaux, 1723-12-31 – 1809-11-28",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-35"
     }
    ]
   },
@@ -14561,6 +15244,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Satterly-24",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Deborah Satterly, 1676-00-00 – 1754-02-05",
+     "url": "https://www.wikitree.com/wiki/Satterly-24"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Satterly-24)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/9718058/deborah-reeve:"
     }
    ]
   },
@@ -14709,6 +15410,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Unknown-127730",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Margaret Unknown, 1550-00-00 – 1612-03-08",
+     "url": "https://www.wikitree.com/wiki/Unknown-127730"
     }
    ]
   },
@@ -14876,6 +15587,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Birth in the Ancestry tree: 2 February 1724; research: 1722-02-01."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Doll-527",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Johann Casper Doll, 1724-02-02 – 1793-02-04",
+     "url": "https://www.wikitree.com/wiki/Doll-527"
+    }
    ]
   },
   {
@@ -14939,6 +15660,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Dietz-563",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Anna Margaretha Dietz, 1724-02-15 – 1790-04-23",
+     "url": "https://www.wikitree.com/wiki/Dietz-563"
     }
    ]
   },
@@ -16501,7 +17232,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (1 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282824815192/ancestry-screenshot-img-7837.jpg",
      "people": [
@@ -16512,7 +17243,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (2 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282824815192/ancestry-screenshot-img-7838.jpg",
      "people": [
@@ -16523,7 +17254,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (3 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282824815192/ancestry-screenshot-img-7839.jpg",
      "people": [
@@ -16534,7 +17265,7 @@ window.FAMILY_DATA = {
      "type": "document",
      "title": "Ancestry tree: Ferlaino, Fiorillo and Colosimo lines (4 of 4)",
      "date": "2026-10",
-     "source": "Owner's Ancestry app screenshot (Google Drive folder, Oct 2026)",
+     "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282824815192/ancestry-screenshot-img-7840.jpg",
      "people": [
@@ -18745,7 +19476,25 @@ window.FAMILY_DATA = {
    "death": {
     "date": "1903",
     "place": "Llanfair, Montgomeryshire, Wales, UK"
-   }
+   },
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "sources": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Jones-42657 rejected on review (dates or places do not fit); its links and images removed."
+    }
+   ]
   },
   {
    "id": "I282824816652",
@@ -18758,7 +19507,25 @@ window.FAMILY_DATA = {
    },
    "death": {
     "date": "Bef. 1861"
-   }
+   },
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "sources": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Williams-148406 rejected on review (dates or places do not fit); its links and images removed."
+    }
+   ]
   },
   {
    "id": "I282824816692",
@@ -18834,6 +19601,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Watson-51203",
+     "date": "",
+     "source": "WikiTree",
+     "note": "George Watson, 1778-04-06 – 1830-00-00",
+     "url": "https://www.wikitree.com/wiki/Watson-51203"
+    }
    ]
   },
   {
@@ -18859,7 +19636,38 @@ window.FAMILY_DATA = {
      "ancestryId": "128f9114-c5a5-43a8-beb7-12cc3a237fc5",
      "primary": true
     }
-   ]
+   ],
+   "link": {
+    "confidence": "unverified",
+    "note": ""
+   },
+   "tags": [],
+   "summary": "",
+   "bio": "",
+   "funFacts": [],
+   "residences": [],
+   "military": [],
+   "notable": "",
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Scott-50564",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Matthew Scott, 1739-08-04 – 0000-00-00",
+     "url": "https://www.wikitree.com/wiki/Scott-50564"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Scott-50564)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/83474774/matthew-scott:"
+    }
+   ],
+   "sources": [],
+   "researchLog": []
   },
   {
    "id": "I282824886223",
@@ -19612,6 +20420,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Mayer-5297 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -19855,6 +20667,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Mayer-4421 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -20859,6 +21675,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Meier-1343 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -21077,6 +21897,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Higgins-6878 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -21185,6 +22009,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile McGuire-5512 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -21513,6 +22341,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Christmann-662",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Maria Elizabetha Christmann, 1729-08-09 – 1815-01-19",
+     "url": "https://www.wikitree.com/wiki/Christmann-662"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Christmann-662)",
+     "note": "",
+     "url": "https://findagrave.com/memorial/31524104#view-photo=140730543"
+    }
    ]
   },
   {
@@ -21805,6 +22651,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Doll-528",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Christoffel Doll, 1671-07-06 – 1739-00-00",
+     "url": "https://www.wikitree.com/wiki/Doll-528"
+    }
    ]
   },
   {
@@ -22056,6 +22912,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Masse-726",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Jeanne Marguerite Masse, 1696-05-22 – 1739-01-09",
+     "url": "https://www.wikitree.com/wiki/Masse-726"
+    }
    ]
   },
   {
@@ -22103,6 +22969,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Davenport-2940",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Thomas Davenport, 1682-00-00 – 1759-12-30",
+     "url": "https://www.wikitree.com/wiki/Davenport-2940"
     }
    ]
   },
@@ -22694,6 +23570,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Prindle-552",
+     "date": "",
+     "source": "WikiTree",
+     "note": "James Prindle, 1735-08-05 – 1800-12-09",
+     "url": "https://www.wikitree.com/wiki/Prindle-552"
+    }
    ]
   },
   {
@@ -23139,6 +24025,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Deeter-575 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -23524,6 +24414,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Heffernan-1472 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -23556,6 +24450,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Heffernan-570",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Richard Heffernan, 1806-00-00 – 1874-10-12",
+     "url": "https://www.wikitree.com/wiki/Heffernan-570"
     }
    ]
   },
@@ -23715,6 +24619,32 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Heffernan-253",
+     "date": "",
+     "source": "WikiTree",
+     "note": "James Heffernan, 1838-01-26 – 1910-10-25",
+     "url": "https://www.wikitree.com/wiki/Heffernan-253"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Heffernan-253)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/218946431/james-heffernan"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Heffernan-253)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/218946431/james-heffernan:"
+    }
    ]
   },
   {
@@ -23786,6 +24716,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Heffernan-930",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Patrick Heffernan, 1814-01-31 – 1868-05-15",
+     "url": "https://www.wikitree.com/wiki/Heffernan-930"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Heffernan-930)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/173482277/patrick-heffernan"
     }
    ]
   },
@@ -24165,6 +25113,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Pringle-2378",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Thomas Pringle, 1791-11-02 – 1861-05-22",
+     "url": "https://www.wikitree.com/wiki/Pringle-2378"
+    }
    ]
   },
   {
@@ -24334,6 +25292,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Pringle-3406",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Benjamin Pringle, 1794-01-24 – 1853-01-06",
+     "url": "https://www.wikitree.com/wiki/Pringle-3406"
     }
    ]
   },
@@ -25140,6 +26108,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-65",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Elizabeth Lamoreaux, 1776-09-30 – 1859-08-27",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-65"
+    }
    ]
   },
   {
@@ -25191,6 +26169,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Ransom-699",
+     "date": "",
+     "source": "WikiTree",
+     "note": "George Palmer Ransom, 1762-01-03 – 1850-09-04",
+     "url": "https://www.wikitree.com/wiki/Ransom-699"
+    },
+    {
+     "type": "photo",
+     "title": "Col George Palmer Ransom  (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Ransom-699; https://www.wikitree.com/photo/jpg/Ransom-699",
+     "note": "",
+     "file": "media/H0170/h0170-ransom-699.jpg"
     }
    ]
   },
@@ -25357,6 +26353,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-103",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Temperance Lamoreaux, 1778-03-25 – 1855-07-29",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-103"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Lamoreaux-103)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/7102514/temperance-van_loon:"
+    }
    ]
   },
   {
@@ -25456,6 +26470,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-264",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Lamoreaux, 1780-11-21 – 1852-08-13",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-264"
+    }
    ]
   },
   {
@@ -25493,6 +26517,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-122",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Thomas Lamoreaux, 1787-08-19 – 1830-07-19",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-122"
     }
    ]
   },
@@ -25534,6 +26568,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-266",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Keturah Lamoreaux, 1791-02-18 – 1842-12-09",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-266"
+    }
    ]
   },
   {
@@ -25570,6 +26614,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-20",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Joshua Lamoreaux, 1793-08-30 – 1839-00-00",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-20"
+    }
    ]
   },
   {
@@ -25605,6 +26659,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-118",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Daniel Lamoreaux, 1796-11-28 – 1838-00-00",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-118"
     }
    ]
   },
@@ -25717,6 +26781,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreux-10",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Charity Lamoreux, 1759-01-25 – 1848-10-00",
+     "url": "https://www.wikitree.com/wiki/Lamoreux-10"
+    }
    ]
   },
   {
@@ -25751,6 +26825,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Davenport-3329",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Thomas Davenport, 1749-06-04 – 1812-05-05",
+     "url": "https://www.wikitree.com/wiki/Davenport-3329"
     }
    ]
   },
@@ -25787,6 +26871,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Davenport-5400",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Stephen Davenport, 1800-08-14 – 1882-08-22",
+     "url": "https://www.wikitree.com/wiki/Davenport-5400"
+    }
    ]
   },
   {
@@ -25821,6 +26915,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Davenport-3058",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Daniel Davenport, 1797-03-07 – 1840-09-03",
+     "url": "https://www.wikitree.com/wiki/Davenport-3058"
     }
    ]
   },
@@ -25962,6 +27066,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreaux-24",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Andrew Losee Lamoreaux, 1812-10-17 – 1855-06-13",
+     "url": "https://www.wikitree.com/wiki/Lamoreaux-24"
+    }
    ]
   },
   {
@@ -26027,6 +27141,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile LaMoure-17",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Judson Edward LaMoure, 1839-03-27 – 1918-03-16",
+     "url": "https://www.wikitree.com/wiki/LaMoure-17"
+    }
    ]
   },
   {
@@ -26062,7 +27186,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lamoreux-46",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Silas Wright Lamoreux, 1843-03-08 – 1909-08-06",
+     "url": "https://www.wikitree.com/wiki/Lamoreux-46"
+    },
+    {
+     "type": "photo",
+     "title": "Silas Wright Lamoreux (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Lamoreux-46; https://www.wikitree.com/photo/jpg/Lamoreux-46",
+     "note": "",
+     "file": "media/H0195/h0195-lamoreux-46.jpg"
+    }
+   ],
+   "photo": "media/H0195/h0195-lamoreux-46.jpg"
   },
   {
    "id": "H0196",
@@ -26098,7 +27241,42 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Mersereau-8",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Joshua Mersereau, 1728-09-28 – 1804-06-10",
+     "url": "https://www.wikitree.com/wiki/Mersereau-8"
+    },
+    {
+     "type": "photo",
+     "title": "Johannes Mersereau Image 1 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Mersereau-8; https://www.wikitree.com/photo/jpg/Mersereau-4",
+     "note": "",
+     "file": "media/H0196/h0196-mersereau-4.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Joshua Mersereau Image 2 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Mersereau-8; https://www.wikitree.com/photo/jpg/Mersereau-8",
+     "note": "",
+     "file": "media/H0196/h0196-mersereau-8.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Historic Sign (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Mersereau-8; https://www.wikitree.com/photo/jpg/Mersereau-8-1",
+     "note": "",
+     "file": "media/H0196/h0196-mersereau-8-1.jpg"
+    }
+   ],
+   "photo": "media/H0196/h0196-mersereau-8.jpg"
   },
   {
    "id": "H0197",
@@ -26351,6 +27529,32 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Grub-123",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Maria Magdalena Grub, 1759-05-06 – 1801-12-27",
+     "url": "https://www.wikitree.com/wiki/Grub-123"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Grub-123)",
+     "note": "",
+     "url": "https://findagrave.com/memorial/31524104"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Grub-123)",
+     "note": "",
+     "url": "https://findagrave.com/memorial/31524104#view-photo=140730543"
+    }
    ]
   },
   {
@@ -26418,6 +27622,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Grub-87",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Johann Peter Grub, 1724-02-29 – 1802-08-24",
+     "url": "https://www.wikitree.com/wiki/Grub-87"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Grub-87)",
+     "note": "",
+     "url": "https://findagrave.com/memorial/244505040"
+    }
    ]
   },
   {
@@ -26459,6 +27681,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Croup-1",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Susan Croup, 1800-05-10 – 1863-02-23",
+     "url": "https://www.wikitree.com/wiki/Croup-1"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Croup-1)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/75273513/susan-shupp"
+    }
    ]
   },
   {
@@ -26497,6 +27737,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Croup-8",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Croup, 1783-12-08 – 1850-00-00",
+     "url": "https://www.wikitree.com/wiki/Croup-8"
     }
    ]
   },
@@ -26660,6 +27910,32 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Croop-42",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Alvin Croop, 1836-04-13 – 1872-12-08",
+     "url": "https://www.wikitree.com/wiki/Croop-42"
+    },
+    {
+     "type": "photo",
+     "title": "Alvin Croop (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Croop-42; https://www.wikitree.com/photo/jpg/Croop-42-1",
+     "note": "",
+     "file": "media/H0211/h0211-croop-42-1.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Alvin Croop in Civil War uniform. (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Croop-42; https://www.wikitree.com/photo/jpg/Croop-42-2",
+     "note": "",
+     "file": "media/H0211/h0211-croop-42-2.jpg"
+    }
    ]
   },
   {
@@ -26809,6 +28085,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Doll-157",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Maria Engel Doll, 1717-00-00 – 1785-00-00",
+     "url": "https://www.wikitree.com/wiki/Doll-157"
+    }
    ]
   },
   {
@@ -26842,6 +28128,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Doll-526",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Elizabeth Doll, 1753-04-00 – 1829-05-04",
+     "url": "https://www.wikitree.com/wiki/Doll-526"
     }
    ]
   },
@@ -27153,6 +28449,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Smith-18006",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Job Smith, 1647-00-00 – 1719-00-00",
+     "url": "https://www.wikitree.com/wiki/Smith-18006"
+    }
    ]
   },
   {
@@ -27203,6 +28509,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Topping-480",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Elnathan Topping, 1664-00-00 – 1751-09-00",
+     "url": "https://www.wikitree.com/wiki/Topping-480"
     }
    ]
   },
@@ -27278,6 +28594,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Browne-1123",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Jonathan Browne, 1653-00-00 – 1710-08-19",
+     "url": "https://www.wikitree.com/wiki/Browne-1123"
     }
    ]
   },
@@ -27419,7 +28745,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Topping-199",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Elnathan Topping, 1640-08-02 – 1705-03-26",
+     "url": "https://www.wikitree.com/wiki/Topping-199"
+    },
+    {
+     "type": "photo",
+     "title": "ELNATHAN TOPPING HEADSTONE (WikiTree)",
+     "date": "1705-03-26",
+     "source": "WikiTree, profile Topping-199; https://www.wikitree.com/photo/jpg/Topping-199",
+     "note": "",
+     "file": "media/H0230/h0230-topping-199.jpg"
+    }
+   ],
+   "photo": "media/H0230/h0230-topping-199.jpg"
   },
   {
    "id": "H0231",
@@ -27493,6 +28838,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Salmon-255",
+     "date": "",
+     "source": "WikiTree",
+     "note": "William Salmon, 1610-00-00 – 1657-05-13",
+     "url": "https://www.wikitree.com/wiki/Salmon-255"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Salmon-255)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/7592098/william-salmon:"
     }
    ]
   },
@@ -27636,6 +28999,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Paine-100",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Elizabeth Paine, 1586-09-11 – 1670-09-14",
+     "url": "https://www.wikitree.com/wiki/Paine-100"
+    }
    ]
   },
   {
@@ -27716,6 +29089,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Hammond-99",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Thomas Hammond, 1545-00-00 – 1589-11-24",
+     "url": "https://www.wikitree.com/wiki/Hammond-99"
     }
    ]
   },
@@ -27860,6 +29243,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Topping-248",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Topping, 1578-07-06 – 1623-08-12",
+     "url": "https://www.wikitree.com/wiki/Topping-248"
+    }
    ]
   },
   {
@@ -27998,6 +29391,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-60",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Henry Tuthill, 1581-06-18 – 1618-03-26",
+     "url": "https://www.wikitree.com/wiki/Tuthill-60"
     }
    ]
   },
@@ -28138,6 +29541,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-61",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Tuthill, 1550-00-00 – 1618-11-21",
+     "url": "https://www.wikitree.com/wiki/Tuthill-61"
     }
    ]
   },
@@ -28455,6 +29868,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Brewster-432",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Francis Brewster, 1599-00-00 – 1646-00-00",
+     "url": "https://www.wikitree.com/wiki/Brewster-432"
+    }
    ]
   },
   {
@@ -28702,6 +30125,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-359",
+     "date": "",
+     "source": "WikiTree",
+     "note": "James Tuthill, 1717-00-00 – 1756-00-00",
+     "url": "https://www.wikitree.com/wiki/Tuthill-359"
+    }
    ]
   },
   {
@@ -28740,6 +30173,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-327",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Daniel Tuthill, 1721-00-00 – 1761-09-28",
+     "url": "https://www.wikitree.com/wiki/Tuthill-327"
+    }
    ]
   },
   {
@@ -28772,6 +30215,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-293",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Freegift Tuthill, 1698-08-08 – 1765-09-05",
+     "url": "https://www.wikitree.com/wiki/Tuthill-293"
     }
    ]
   },
@@ -28814,6 +30267,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Smith-233697",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Abner Smith, 1734-12-04 – 1782-10-25",
+     "url": "https://www.wikitree.com/wiki/Smith-233697"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Smith-233697)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/25520169"
     }
    ]
   },
@@ -28882,6 +30353,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Smith-40117",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Daniel Smith, 1691-00-00 – 1763-01-13",
+     "url": "https://www.wikitree.com/wiki/Smith-40117"
+    }
    ]
   },
   {
@@ -28917,6 +30398,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Brewster-1127",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Hannah Brewster, 1698-01-29 – 1761-06-14",
+     "url": "https://www.wikitree.com/wiki/Brewster-1127"
     }
    ]
   },
@@ -29165,6 +30656,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Smith-105781",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Joshua Smith, 1763-07-27 – 1845-04-12",
+     "url": "https://www.wikitree.com/wiki/Smith-105781"
+    }
    ]
   },
   {
@@ -29251,6 +30752,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Smith-272403 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -29328,6 +30833,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Blydenburgh-6",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Joseph Blydenburgh, 1732-01-30 – 1833-01-30",
+     "url": "https://www.wikitree.com/wiki/Blydenburgh-6"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Blydenburgh-6)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/6032999/joseph-blydenburgh"
+    }
    ]
   },
   {
@@ -29374,7 +30897,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "Wikipedia: Nathaniel Woodhull",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Nathaniel Woodhull (December 30, 1722 – September 20, 1776) was a leader of the New York Provincial Congress and a brigadier general of the New York Militia during the American Revolution.",
+     "url": "https://en.wikipedia.org/wiki/Nathaniel_Woodhull"
+    },
+    {
+     "type": "photo",
+     "title": "Nathaniel Woodhull (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Nathanial_Woodhull.jpg",
+     "note": "Unknown authorUnknown author",
+     "file": "media/H0284/nathaniel-woodhull-portrait.jpg"
+    }
+   ],
+   "photo": "media/H0284/nathaniel-woodhull-portrait.jpg"
   },
   {
    "id": "H0285",
@@ -29494,7 +31036,50 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Strong-2463",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Selah Strong, 1737-12-25 – 1815-07-04",
+     "url": "https://www.wikitree.com/wiki/Strong-2463"
+    },
+    {
+     "type": "photo",
+     "title": "Selah Strong Image 1 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Strong-2463; https://www.wikitree.com/photo/jpg/Strong-2463",
+     "note": "",
+     "file": "media/H0287/h0287-strong-2463.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Selah Strong Image 2 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Strong-2463; https://www.wikitree.com/photo/jpg/Strong-2463-1",
+     "note": "",
+     "file": "media/H0287/h0287-strong-2463-1.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Selah Strong Image 3 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Strong-2463; https://www.wikitree.com/photo/jpg/Strong-2463-2",
+     "note": "",
+     "file": "media/H0287/h0287-strong-2463-2.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Selah Strong Image 4 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Strong-2463; https://www.wikitree.com/photo/jpg/Strong-2463-3",
+     "note": "",
+     "file": "media/H0287/h0287-strong-2463-3.jpg"
+    }
+   ],
+   "photo": "media/H0287/h0287-strong-2463-1.jpg"
   },
   {
    "id": "H0288",
@@ -29529,7 +31114,42 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Strong-2465",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Selah Brewster Strong, 1792-05-01 – 1872-11-29",
+     "url": "https://www.wikitree.com/wiki/Strong-2465"
+    },
+    {
+     "type": "photo",
+     "title": "Selah Strong Image 1 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Strong-2465; https://www.wikitree.com/photo/png/Strong-2465",
+     "note": "",
+     "file": "media/H0288/h0288-strong-2465.png"
+    },
+    {
+     "type": "photo",
+     "title": "Selah Strong Image 2 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Strong-2465; https://www.wikitree.com/photo/jpg/Strong-2465",
+     "note": "",
+     "file": "media/H0288/h0288-strong-2465.jpg"
+    },
+    {
+     "type": "photo",
+     "title": "Selah Strong Image 3 (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Strong-2465; https://www.wikitree.com/photo/jpg/Strong-2465-1",
+     "note": "",
+     "file": "media/H0288/h0288-strong-2465-1.jpg"
+    }
+   ],
+   "photo": "media/H0288/h0288-strong-2465.png"
   },
   {
    "id": "H0289",
@@ -29664,6 +31284,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Brewster-4752",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Samuel Pelatiah Brewster, 1718-07-18 – 1802-02-10",
+     "url": "https://www.wikitree.com/wiki/Brewster-4752"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Brewster-4752)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/6056379/samuel-brewster:"
+    }
    ]
   },
   {
@@ -29732,7 +31370,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Gardiner-131",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Julia Gardiner, 1820-05-04 – 1889-07-10",
+     "url": "https://www.wikitree.com/wiki/Gardiner-131"
+    },
+    {
+     "type": "photo",
+     "title": "Julia Gardiner Tyler (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Gardiner-131; https://www.wikitree.com/photo/jpg/Gardiner-131",
+     "note": "",
+     "file": "media/H0294/h0294-gardiner-131.jpg"
+    }
+   ],
+   "photo": "media/H0294/h0294-gardiner-131.jpg"
   },
   {
    "id": "H0295",
@@ -29766,7 +31423,34 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Gardiner-1156",
+     "date": "",
+     "source": "WikiTree",
+     "note": "David Gardiner, 1784-05-29 – 1844-02-28",
+     "url": "https://www.wikitree.com/wiki/Gardiner-1156"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Gardiner-1156)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/6685073/david-gardiner:"
+    },
+    {
+     "type": "photo",
+     "title": "Hon. David Gardiner (WikiTree)",
+     "date": "1824",
+     "source": "WikiTree, profile Gardiner-1156; https://www.wikitree.com/photo/jpg/Gardiner-1156",
+     "note": "",
+     "file": "media/H0295/h0295-gardiner-1156.jpg"
+    }
+   ],
+   "photo": "media/H0295/h0295-gardiner-1156.jpg"
   },
   {
    "id": "H0296",
@@ -29809,7 +31493,34 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tyler-1044",
+     "date": "",
+     "source": "WikiTree",
+     "note": "David Gardiner Tyler, 1846-07-12 – 1927-09-05",
+     "url": "https://www.wikitree.com/wiki/Tyler-1044"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: David Gardiner Tyler",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "David Gardiner Tyler (July 12, 1846 – September 5, 1927) was an American politician and the ninth child and fourth son of John Tyler, the tenth president of the United States.\nBorn in New York, Tyler went to school in Virginia and fought in the Confederate Army during the American Civil War.",
+     "url": "https://en.wikipedia.org/wiki/David_Gardiner_Tyler"
+    },
+    {
+     "type": "photo",
+     "title": "David Gardiner Tyler (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:DavidGardinerTyler.jpg",
+     "note": "http://via.lib.harvard.edu/via/deliver/chunkDisplay?_collection=via&amp;inoID=241407&amp;recordNumber=701&amp;chunkNumber=1&amp;method=view&amp;image=full&amp;startChunkNum=1&amp;endChunkNum=1&amp;tot",
+     "file": "media/H0296/david-gardiner-tyler-portrait.jpg"
+    }
+   ],
+   "photo": "media/H0296/david-gardiner-tyler-portrait.jpg"
   },
   {
    "id": "H0297",
@@ -29843,6 +31554,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tyler-149",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Lyon Gardiner Tyler, 1853-08-24 – 1935-02-12",
+     "url": "https://www.wikitree.com/wiki/Tyler-149"
+    }
    ]
   },
   {
@@ -29875,6 +31596,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tyler-1051",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Harrison Ruffin Tyler, 1928-11-09 – 2025-05-25",
+     "url": "https://www.wikitree.com/wiki/Tyler-1051"
     }
    ]
   },
@@ -29955,7 +31686,42 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Bailey-33403",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Theodorus Bailey, 1805-04-12 – 1877-02-10",
+     "url": "https://www.wikitree.com/wiki/Bailey-33403"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Bailey-33403)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/37192968/theodorus-bailey"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Theodorus Bailey (officer)",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Theodorus Bailey (April 12, 1805 – February 10, 1877) was a United States Navy officer during the American Civil War.",
+     "url": "https://en.wikipedia.org/wiki/Theodorus_Bailey_%28officer%29"
+    },
+    {
+     "type": "photo",
+     "title": "Theodorus Bailey (officer) (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Commodore_Theodorus_Bailey_-_NARA_-_528661.jpg",
+     "note": "Mathew Benjamin Brady",
+     "file": "media/H0300/theodorus-bailey-officer-portrait.jpg"
+    }
+   ],
+   "photo": "media/H0300/theodorus-bailey-officer-portrait.jpg"
   },
   {
    "id": "H0301",
@@ -29994,6 +31760,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Smith-8959 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -30140,6 +31910,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile White-70660",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Lawrence Grant White, 1887-09-26 – 1956-09-08",
+     "url": "https://www.wikitree.com/wiki/White-70660"
+    }
    ]
   },
   {
@@ -30209,6 +31989,32 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lawrence-18038",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Cornelius Van Wyck Lawrence, 1791-02-28 – 1861-02-20",
+     "url": "https://www.wikitree.com/wiki/Lawrence-18038"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Lawrence-18038)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/28359464/cornelius_van_wyck-lawrence:"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Cornelius Lawrence",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Cornelius Van Wyck Lawrence (February 28, 1791 – February 20, 1861) was an American politician from New York. He became the first popularly elected mayor of New York City after the law was changed in 1834.",
+     "url": "https://en.wikipedia.org/wiki/Cornelius_Lawrence"
     }
    ]
   },
@@ -30283,6 +32089,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Jones-71451",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Willoughby Jones, 1820-11-24 – 1884-08-21",
+     "url": "https://www.wikitree.com/wiki/Jones-71451"
+    }
    ]
   },
   {
@@ -30347,6 +32163,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Lawrence-11806",
+     "date": "",
+     "source": "WikiTree",
+     "note": "David Lawrence, 1738-02-18 – 1809-10-18",
+     "url": "https://www.wikitree.com/wiki/Lawrence-11806"
     }
    ]
   },
@@ -30420,7 +32246,42 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Braine-160",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Daniel Lawrence Braine, 1829-00-00 – 1898-01-30",
+     "url": "https://www.wikitree.com/wiki/Braine-160"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Braine-160)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/82431803/daniel_lawrence_braine"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: Daniel L. Braine",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "Daniel Lawrence Braine (May 18, 1829 – January 30, 1898) was an admiral of the United States Navy.",
+     "url": "https://en.wikipedia.org/wiki/Daniel_L._Braine"
+    },
+    {
+     "type": "photo",
+     "title": "Daniel L. Braine (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Daniel_Lawrence_Braine.jpg",
+     "note": "The Evening News Association (Detroit)",
+     "file": "media/H0313/daniel-l-braine-portrait.jpg"
+    }
+   ],
+   "photo": "media/H0313/daniel-l-braine-portrait.jpg"
   },
   {
    "id": "H0314",
@@ -30454,6 +32315,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Thompson-84408",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Isaac Thompson, 1743-01-18 – 1816-01-30",
+     "url": "https://www.wikitree.com/wiki/Thompson-84408"
     }
    ]
   },
@@ -30490,7 +32361,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Thompson-78481",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Benjamin Franklin Thompson, 1784-05-15 – 1849-03-21",
+     "url": "https://www.wikitree.com/wiki/Thompson-78481"
+    },
+    {
+     "type": "photo",
+     "title": "Benjamin F. Thompson  (WikiTree)",
+     "date": "1830",
+     "source": "WikiTree, profile Thompson-78481; https://www.wikitree.com/photo/jpg/Thompson-78481",
+     "note": "",
+     "file": "media/H0315/h0315-thompson-78481.jpg"
+    }
+   ],
+   "photo": "media/H0315/h0315-thompson-78481.jpg"
   },
   {
    "id": "H0316",
@@ -30560,6 +32450,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "WikiTree profile Thompson-56628 rejected on review (dates or places do not fit); its links and images removed."
     }
    ]
   },
@@ -30597,6 +32491,16 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-289",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Mary Tuthill, 1687-00-00 – 1780-03-04",
+     "url": "https://www.wikitree.com/wiki/Tuthill-289"
+    }
    ]
   },
   {
@@ -30633,6 +32537,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Horton-9561",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Azariah Horton, 1715-03-20 – 1777-03-27",
+     "url": "https://www.wikitree.com/wiki/Horton-9561"
     }
    ]
   },
@@ -30747,7 +32661,42 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Farnsworth-2792",
+     "date": "",
+     "source": "WikiTree",
+     "note": "John Franklin Farnsworth, 1820-03-27 – 1897-07-14",
+     "url": "https://www.wikitree.com/wiki/Farnsworth-2792"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Farnsworth-2792)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/5894383/john-franklin-farnsworth:"
+    },
+    {
+     "type": "link",
+     "title": "Wikipedia: John F. Farnsworth",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "John Franklin Farnsworth (March 27, 1820 – July 14, 1897) was a seven-term U.S. Representative from Illinois (1857-1861, 1863-1873) and a colonel in the Union Army during the American Civil War. He commanded brigades in the Cavalry Corps from September 1862 to February 1863.",
+     "url": "https://en.wikipedia.org/wiki/John_F._Farnsworth"
+    },
+    {
+     "type": "photo",
+     "title": "John F. Farnsworth (Wikimedia Commons)",
+     "date": "",
+     "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:John_F._Farnsworth_-_Brady-Handy.jpg",
+     "note": "Mathew Benjamin Brady / Levin Corbin Handy",
+     "file": "media/H0322/john-f-farnsworth-portrait.jpg"
+    }
+   ],
+   "photo": "media/H0322/john-f-farnsworth-portrait.jpg"
   },
   {
    "id": "H0323",
@@ -30786,6 +32735,24 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Warren-13498",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Samuel Dennis Warren, 1817-09-13 – 1888-05-11",
+     "url": "https://www.wikitree.com/wiki/Warren-13498"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Warren-13498)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/127474275/samuel-dennis-warren"
+    }
    ]
   },
   {
@@ -30820,7 +32787,26 @@ window.FAMILY_DATA = {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-   ]
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Reeve-984",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Tapping Reeve, 1744-10-01 – 1823-12-13",
+     "url": "https://www.wikitree.com/wiki/Reeve-984"
+    },
+    {
+     "type": "photo",
+     "title": "Tapping Reeve, founder of the Litchfield Law School, Litchfield, CT (WikiTree)",
+     "date": "",
+     "source": "WikiTree, profile Reeve-984; https://www.wikitree.com/photo/jpg/Reeve-984",
+     "note": "",
+     "file": "media/H0324/h0324-reeve-984.jpg"
+    }
+   ],
+   "photo": "media/H0324/h0324-reeve-984.jpg"
   },
   {
    "id": "H0325",
@@ -30853,6 +32839,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Tuthill-329",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Selah Tuthill, 1771-10-26 – 1821-09-07",
+     "url": "https://www.wikitree.com/wiki/Tuthill-329"
+    },
+    {
+     "type": "link",
+     "title": "Find a Grave memorial",
+     "date": "",
+     "source": "Find a Grave (cited on WikiTree Tuthill-329)",
+     "note": "",
+     "url": "https://www.findagrave.com/memorial/6944300/selah-tuthill:"
     }
    ]
   },
@@ -35553,7 +37557,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "The owner's older brother, per the owner (8 Oct 2026)."
+    "note": "John's older brother, per John Meier (8 Oct 2026)."
    },
    "nickname": "Tommy",
    "aka": [
@@ -35570,13 +37574,13 @@ window.FAMILY_DATA = {
     }
    ],
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement: born 30 Jul 1990 at Alexandria City Hospital; lives in Ashburn, VA."
+     "note": "Added from John's statement: born 30 Jul 1990 at Alexandria City Hospital; lives in Ashburn, VA."
     },
     {
      "date": "2026-10-08",
@@ -35584,7 +37588,7 @@ window.FAMILY_DATA = {
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: married to Laura; son Luca (8 Oct 2026)."
+     "note": "John: married to Laura; son Luca (8 Oct 2026)."
     }
    ],
    "facts": [
@@ -35611,7 +37615,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "The owner's younger brother, per the owner (8 Oct 2026)."
+    "note": "John's younger brother, per John Meier (8 Oct 2026)."
    },
    "nickname": "Matt",
    "aka": [
@@ -35627,13 +37631,13 @@ window.FAMILY_DATA = {
     }
    ],
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement: born 22 Jan 1998 at Inova Loudoun Hospital, Ashburn, VA; lives in Ashburn, VA."
+     "note": "Added from John's statement: born 22 Jan 1998 at Inova Loudoun Hospital, Ashburn, VA; lives in Ashburn, VA."
     },
     {
      "date": "2026-10-08",
@@ -35870,22 +37874,22 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's list of his father's siblings (estimated birth year 1955, known as Kathy)."
+     "note": "Added from John's list of his father's siblings (estimated birth year 1955, known as Kathy)."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: married to Rick McGinley. Web search found no public record (obituary, press) naming her; no people-search sites used."
+     "note": "John: married to Rick McGinley. Web search found no public record (obituary, press) naming her; no people-search sites used."
     }
    ],
-   "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt. Married to Rick McGinley.",
+   "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Rick McGinley.",
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "residences": [
     {
@@ -35919,7 +37923,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Brother of the owner's father (owner's statement); his coaching career is documented in the Washington Post and Fairfax County papers."
+    "note": "Brother of John's father (family information); his coaching career is documented in the Washington Post and Fairfax County papers."
    },
    "tags": [
     "athlete",
@@ -35929,7 +37933,7 @@ window.FAMILY_DATA = {
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's list of his father's siblings (estimated birth year 1956, known as Danny)."
+     "note": "Added from John's list of his father's siblings (estimated birth year 1956, known as Danny)."
     },
     {
      "date": "2026-10-08",
@@ -35938,7 +37942,7 @@ window.FAMILY_DATA = {
    ],
    "summary": "Nose guard for Lou Holtz at NC State, then one of Virginia's most successful high-school football coaches, with state titles at West Potomac (1989, 1990) and Chantilly (1996), before 16 years as a Fairfax County principal.",
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "Washington Post, 15 Aug 1985, \"Football Practice Opens With Five New Coaches\": https://www.washingtonpost.com/archive/local/1985/08/15/football-practice-opens-with-five-new-coaches/05b4f8f7-5f1e-48e6-baec-b7a6ef29220b/",
     "Washington Post, 11 Jul 1997, \"Chantilly's Meier Resigns as School's Football Coach\": https://www.washingtonpost.com/archive/sports/1997/07/11/chantillys-meier-resigns-as-schools-football-coach/d8987f7e-f4c8-42a6-8b3b-6aefc16befae/",
     "Washington Post, 28 Aug 1997, \"For High School Football Coaches, It's Time Out\": https://www.washingtonpost.com/archive/local/1997/08/28/for-high-school-football-coaches-its-time-out/0e4577d7-c096-4275-b07e-87a416b370cb/",
@@ -35976,7 +37980,7 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Exact birth date (sources give ages implying birth between July 1953 and June 1954; the owner estimated 1956).",
+    "Exact birth date (sources give ages implying birth between July 1953 and June 1954; John estimated 1956).",
     "Annie's maiden name and marriage date; the children's full names and birth dates."
    ],
    "aka": [
@@ -36144,7 +38148,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
    },
    "tags": [
     "athlete",
@@ -36153,21 +38157,31 @@ window.FAMILY_DATA = {
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's list of his father's siblings (estimated birth year 1958, known as Jamie)."
+     "note": "Added from John's list of his father's siblings (estimated birth year 1958, known as Jamie)."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner's leads (Chantilly; wife Marie; daughters Sarah and Samantha; elementary principal; assistant coach; East Stroudsburg football). Verified from the ESU media guide (letterman 1977-80, All-PSAC 1979, receiving leader 1979-80), Washington Post 20-21 Dec 1989 (offensive coordinator at West Potomac) and 20 Sep 1990, and Connection 7 Jun 2006 ('Jaime Meier, an elementary-school principal'). School not identified."
+     "note": "John's leads (Chantilly; wife Marie; daughters Sarah and Samantha; elementary principal; assistant coach; East Stroudsburg football). Verified from the ESU media guide (letterman 1977-80, All-PSAC 1979, receiving leader 1979-80), Washington Post 20-21 Dec 1989 (offensive coordinator at West Potomac) and 20 Sep 1990, and Connection 7 Jun 2006 ('Jaime Meier, an elementary-school principal'). School not identified."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: he was principal of Waynewood Elementary. Verified: Connection Mar 2006 (already principal), Patch Jun 2011, Mount Vernon Gazette May 2012 (4th straight Academic Excellence Award), Covering the Corridor Jun 2017 (retiring after 31 years in FCPS, 11 as principal), Gazette Sep 2017 (successor Katie Reynolds), Patch Feb 2018 (Citizen of the Year; 30-mile commute, crossing-guard duty)."
     }
    ],
-   "summary": "Known as Jamie: All-PSAC split end at East Stroudsburg (1977–80), offensive coordinator of West Potomac's 1989 state champions under his brother Danny, and later an elementary-school principal; lives in Chantilly, Virginia.",
+   "summary": "Known as Jamie: All-PSAC split end at East Stroudsburg (1977–80), offensive coordinator of West Potomac's 1989 state champions under his brother Danny, and principal of Waynewood Elementary School in Alexandria for eleven years (2006–17) in a 31-year Fairfax County career; lives in Chantilly, Virginia.",
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "East Stroudsburg University, 2018 Football Media Guide (All-Time Lettermen: Tom Meier 1978-80, Jamie Meier 1977-80; yearly leaders; records): https://static.esuwarriors.com/custompages/Football/2018/2018%20ESU%20Football%20Media%20Guide.pdf",
     "East Stroudsburg University, \"300-yard passers / 100-yard rushers and receivers vs. PSAC\" (Jamie Meier 215 yds vs. Bloomsburg 1979): https://static.esuwarriors.com/custompages/Football/300%20Passers%20100%20Rushers%20Receivers%20PSAC.pdf",
     "Washington Post, 21 Dec 1989, \"West Potomac surprises help win title\" (Jamie Meier, offensive coordinator): https://www.washingtonpost.com/archive/local/1989/12/21/football/66e06d34-e23a-4261-8a38-adceaaa7d016/",
     "Washington Post, 20 Sep 1990, \"Herndon-West Potomac battle lines drawn for coaching brothers\": https://www.washingtonpost.com/archive/sports/1990/09/20/herndon-west-potomac-battle-lines-drawn-for-coaching-brothers/3651e730-f857-4203-a52f-212e3f7151b3/",
-    "Connection Newspapers, 7 Jun 2006, \"Principal Mike Campbell Switching Schools\" (\"Jaime Meier, an elementary-school principal\"): https://www.connectionnewspapers.com/news/2006/jun/07/principal-mike-campbell-switching-schools/"
+    "Connection Newspapers, 7 Jun 2006, \"Principal Mike Campbell Switching Schools\" (\"Jaime Meier, an elementary-school principal\"): https://www.connectionnewspapers.com/news/2006/jun/07/principal-mike-campbell-switching-schools/",
+    "Connection Newspapers (Mount Vernon Gazette), 23 Mar 2006, \"'The Edge' at Waynewood Elementary\" (Jamie Meier, principal of Waynewood): https://www.connectionnewspapers.com/news/2006/mar/23/the-edge-at-waynewood-elementary/",
+    "Patch (Greater Alexandria), 22 Jun 2011, \"Waynewood Elementary School Recognized by GSCNC\": https://patch.com/virginia/greateralexandria/an--waynewood-elementary-school-recognized-by-gscnc",
+    "Mount Vernon Gazette, 4 May 2012, \"Academic Excellence Award for Waynewood\" (fourth straight year): https://www.mountvernongazette.com/news/2012/may/04/academic-excellence-award-waynewood/",
+    "Covering the Corridor, 2 Jun 2017, \"New principal selected for Waynewood Elementary\" (retiring after 31 years in FCPS, 11 as principal): https://coveringthecorridor.com/2017/06/new-principal-waynewood/",
+    "Mount Vernon Gazette, 4 Sep 2017, \"Back to Waynewood Elementary\": https://www.connectionnewspapers.com/news/2017/sep/04/back-waynewood-elementary/",
+    "Patch (Greater Alexandria), 22 Feb 2018, \"Mr. Jamie Meier Awarded Citizen of the Year!\": https://patch.com/virginia/greateralexandria/mr-jamie-meier-awarded-citizen-year"
    ],
    "residences": [
     {
@@ -36183,17 +38197,18 @@ window.FAMILY_DATA = {
     {
      "date": "1980s–present",
      "place": "Chantilly, Fairfax County, Virginia, USA",
-     "note": "Northern Virginia; Chantilly per the owner"
+     "note": "Northern Virginia; now Chantilly"
     }
    ],
    "openQuestions": [
-    "Exact birth date; which elementary school(s) he led and when he retired; Marie's maiden name; marriage date."
+    "Exact birth date; FCPS posts before Waynewood (1986–2006); Marie's maiden name; marriage date."
    ],
-   "bio": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and the owner notes that he assisted at Chantilly High as well.\n\nHe became an elementary-school principal; a 2006 Connection newspaper story describes him as 'Jaime Meier, an elementary-school principal'. He lives in Chantilly, Virginia, with his wife Marie; they have two daughters, Sarah and Samantha.",
-   "notable": "All-PSAC East first-team receiver (1979); offensive coordinator of the 1989 Virginia AAA champion West Potomac Wolverines; elementary-school principal.",
+   "bio": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and he also assisted at Chantilly High.\n\nHe spent 31 years with Fairfax County Public Schools, the last eleven (2006–17) as principal of Waynewood Elementary School in the Fort Hunt area of Alexandria, driving 30 miles each way from Chantilly. Under him Waynewood won the county's Academic Excellence Award four years running (2009–12), and he became known for visiting every classroom every day, knowing nearly every child by name and standing at the corner of Waynewood Boulevard and Conover Street before and after school to help the student crossing guards, rain or shine. He retired in June 2017, succeeded by Katie Reynolds, and in February 2018 the Waynewood Citizens Association named him its Citizen of the Year; one nominator called him 'an extraordinary educator and human being'. He lives in Chantilly with his wife Marie; they have two daughters, Sarah and Samantha.",
+   "notable": "All-PSAC East first-team receiver (1979); offensive coordinator of the 1989 Virginia AAA champion West Potomac Wolverines; principal of Waynewood Elementary School 2006–17 (four straight Academic Excellence Awards); Waynewood Citizens Association Citizen of the Year 2018.",
    "funFacts": [
     "His 215 receiving yards at Bloomsburg in 1979 was still the 11th-best single game in East Stroudsburg history in 2018.",
-    "All three Meier brothers who went into coaching were on Fairfax County sidelines in 1990: Danny (West Potomac head coach), Jamie (his assistant) and Tommy (Herndon head coach)."
+    "All three Meier brothers who went into coaching were on Fairfax County sidelines in 1990: Danny (West Potomac head coach), Jamie (his assistant) and Tommy (Herndon head coach).",
+    "As Waynewood's principal he helped the student crossing guards at Waynewood Boulevard and Conover Street every school day, rain or shine, and commuted 30 miles each way from Chantilly to do it."
    ],
    "events": [
     {
@@ -36221,10 +38236,22 @@ window.FAMILY_DATA = {
      "description": "Washington Post 'family affair' preview: Danny, Jamie and Tommy Meier."
     },
     {
-     "title": "Elementary-school principal",
-     "date": "by 2006",
-     "place": "Fairfax County, Virginia, USA",
-     "description": "Named as an elementary-school principal in a June 2006 Connection newspaper article."
+     "title": "Principal, Waynewood Elementary School",
+     "date": "2006–2017",
+     "place": "Alexandria, Fairfax County, Virginia, USA",
+     "description": "Eleven years as principal; Academic Excellence Award 2009, 2010, 2011 and 2012; Girl Scout Council of the Nation's Capital appreciation award, June 2011."
+    },
+    {
+     "title": "Retired from Fairfax County Public Schools",
+     "date": "2017-06",
+     "place": "Alexandria, Fairfax County, Virginia, USA",
+     "description": "After 31 years with the county; Katie Reynolds appointed to succeed him."
+    },
+    {
+     "title": "Waynewood Citizens Association Citizen of the Year",
+     "date": "2018-02-21",
+     "place": "Alexandria, Fairfax County, Virginia, USA",
+     "description": "Presented at Waynewood Elementary before parents, students, staff and neighbours."
     }
    ],
    "facts": [
@@ -36237,16 +38264,20 @@ window.FAMILY_DATA = {
      "value": "East Stroudsburg State College (football letterman 1977–80)"
     },
     {
-     "label": "Profession",
-     "value": "Elementary-school principal; assistant football coach (West Potomac, Chantilly)"
-    },
-    {
      "label": "Married",
      "value": "Marie"
     },
     {
      "label": "Children",
      "value": "Sarah and Samantha"
+    },
+    {
+     "label": "Profession",
+     "value": "Fairfax County Public Schools educator for 31 years (1986–2017); principal of Waynewood Elementary School, Alexandria, 2006–17; assistant football coach (West Potomac, Chantilly)"
+    },
+    {
+     "label": "Honours",
+     "value": "All-PSAC East first team 1979; Waynewood Citizens Association Citizen of the Year 2018"
     }
    ],
    "manual": true,
@@ -36293,6 +38324,54 @@ window.FAMILY_DATA = {
      "source": "esuwarriors.com",
      "note": "",
      "url": "https://static.esuwarriors.com/custompages/Football/300%20Passers%20100%20Rushers%20Receivers%20PSAC.pdf"
+    },
+    {
+     "type": "link",
+     "title": "Patch: Mr. Jamie Meier awarded Waynewood Citizen of the Year",
+     "date": "2018-02-22",
+     "source": "Patch (Greater Alexandria)",
+     "note": "",
+     "url": "https://patch.com/virginia/greateralexandria/mr-jamie-meier-awarded-citizen-year"
+    },
+    {
+     "type": "link",
+     "title": "Covering the Corridor: New principal selected for Waynewood (Meier retiring after 31 years)",
+     "date": "2017-06-02",
+     "source": "Covering the Corridor",
+     "note": "",
+     "url": "https://coveringthecorridor.com/2017/06/new-principal-waynewood/"
+    },
+    {
+     "type": "link",
+     "title": "Mount Vernon Gazette: Back to Waynewood Elementary (successor Katie Reynolds)",
+     "date": "2017-09-04",
+     "source": "Mount Vernon Gazette",
+     "note": "",
+     "url": "https://www.connectionnewspapers.com/news/2017/sep/04/back-waynewood-elementary/"
+    },
+    {
+     "type": "link",
+     "title": "Mount Vernon Gazette: Academic Excellence Award for Waynewood, fourth straight year",
+     "date": "2012-05-04",
+     "source": "Mount Vernon Gazette",
+     "note": "",
+     "url": "https://www.mountvernongazette.com/news/2012/may/04/academic-excellence-award-waynewood/"
+    },
+    {
+     "type": "link",
+     "title": "Patch: Girl Scouts honour Waynewood Elementary and Principal James Meier",
+     "date": "2011-06-22",
+     "source": "Patch (Greater Alexandria)",
+     "note": "",
+     "url": "https://patch.com/virginia/greateralexandria/an--waynewood-elementary-school-recognized-by-gscnc"
+    },
+    {
+     "type": "link",
+     "title": "Connection: 'The Edge' at Waynewood Elementary (Jamie Meier, principal)",
+     "date": "2006-03-23",
+     "source": "Connection Newspapers",
+     "note": "",
+     "url": "https://www.connectionnewspapers.com/news/2006/mar/23/the-edge-at-waynewood-elementary/"
     }
    ],
    "birthDateReduced": true
@@ -36310,18 +38389,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's list of his father's siblings (estimated birth year 1960, known as Susie)."
+     "note": "Added from John's list of his father's siblings (estimated birth year 1960, known as Susie)."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of John Meier.",
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "residences": [
     {
@@ -36350,22 +38429,22 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's list of his father's siblings (estimated birth year 1961)."
+     "note": "Added from John's list of his father's siblings (estimated birth year 1961)."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: married to Anthony 'Tony' Russo; children Anthony, Chelsea, Gianna and Emily. No public record found by web search."
+     "note": "John: married to Anthony 'Tony' Russo; children Anthony, Chelsea, Gianna and Emily. No public record found by web search."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt. Married to Tony Russo; four children.",
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Tony Russo; four children.",
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "residences": [
     {
@@ -36403,18 +38482,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's list of his father's siblings (estimated birth year 1962, known as Jack)."
+     "note": "Added from John's list of his father's siblings (estimated birth year 1962, known as Jack)."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of the owner.",
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of John Meier.",
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "residences": [
     {
@@ -36446,22 +38525,22 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's list of his father's siblings (estimated birth year 1963, known as Terry)."
+     "note": "Added from John's list of his father's siblings (estimated birth year 1963, known as Terry)."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: was married to a Borgman, later divorced. No public record found by web search."
+     "note": "John: was married to a Borgman, later divorced. No public record found by web search."
     }
    ],
-   "summary": "Known as Terry (Theresa or Teresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt.",
+   "summary": "Known as Terry (Theresa or Teresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt.",
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "residences": [
     {
@@ -36490,18 +38569,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "The owner's fiancée, per the owner (8 Oct 2026); listed as 'Johnny (Shannon)' in John T. Petriello Sr.'s 2025 obituary."
+    "note": "John's fiancée, per John Meier (8 Oct 2026); listed as 'Johnny (Shannon)' in John T. Petriello Sr.'s 2025 obituary."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement."
+     "note": "Added from John's statement."
     }
    ],
-   "summary": "A living family member; recorded from the owner's statement.",
+   "summary": "A living family member; recorded from family information supplied by John Meier.",
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
    ]
   },
@@ -36513,22 +38592,22 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Wife of Thomas F. Meier Jr., per the owner (8 Oct 2026); listed as 'Tommy (Laura)' in the 2025 obituary."
+    "note": "Wife of Thomas F. Meier Jr., per John Meier (8 Oct 2026); listed as 'Tommy (Laura)' in the 2025 obituary."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement."
+     "note": "Added from John's statement."
     },
     {
      "date": "2026-10-08",
-     "note": "Owner: her surname is still De Santis; corrected from 'Meier'."
+     "note": "John: her surname is still De Santis; corrected from 'Meier'."
     }
    ],
    "summary": "Wife of Tommy Meier Jr. and mother of Luca; she kept her surname, De Santis.",
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
    ],
    "manual": true,
@@ -36547,18 +38626,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Son of Thomas F. Meier Jr. and Laura, per the owner (8 Oct 2026); the 'great-grandchild Luca Meier' of the 2025 obituary."
+    "note": "Son of Thomas F. Meier Jr. and Laura, per John Meier (8 Oct 2026); the 'great-grandchild Luca Meier' of the 2025 obituary."
    },
    "tags": [],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement."
+     "note": "Added from John's statement."
     }
    ],
-   "summary": "A living family member; recorded from the owner's statement.",
+   "summary": "A living family member; recorded from family information supplied by John Meier.",
    "sources": [
-    "Owner's statement, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
    ]
   },
@@ -36707,18 +38786,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Married to the owner's aunt Kathy, per the owner."
+    "note": "Married to John's aunt Kathy, per John Meier."
    },
    "tags": [],
-   "summary": "Husband of Kathy (Meier) McGinley; uncle by marriage of the owner.",
+   "summary": "Husband of Kathy (Meier) McGinley; uncle by marriage of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   },
@@ -36730,18 +38809,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Married to the owner's uncle Jamie, per the owner."
+    "note": "Married to John's uncle Jamie, per John Meier."
    },
    "tags": [],
-   "summary": "Wife of Jamie Meier; aunt by marriage of the owner. Lives in Chantilly, Virginia.",
+   "summary": "Wife of Jamie Meier; aunt by marriage of John Meier. Lives in Chantilly, Virginia.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ],
    "facts": [
@@ -36766,18 +38845,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Daughter of the owner's uncle Jamie, per the owner."
+    "note": "Daughter of John's uncle Jamie, per John Meier."
    },
    "tags": [],
-   "summary": "Daughter of Jamie and Marie Meier; first cousin of the owner.",
+   "summary": "Daughter of Jamie and Marie Meier; first cousin of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   },
@@ -36789,18 +38868,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Daughter of the owner's uncle Jamie, per the owner."
+    "note": "Daughter of John's uncle Jamie, per John Meier."
    },
    "tags": [],
-   "summary": "Daughter of Jamie and Marie Meier; first cousin of the owner.",
+   "summary": "Daughter of Jamie and Marie Meier; first cousin of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   },
@@ -36815,18 +38894,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Married to the owner's aunt Nancy, per the owner."
+    "note": "Married to John's aunt Nancy, per John Meier."
    },
    "tags": [],
-   "summary": "Husband of Nancy (Meier) Russo, known as Tony; uncle by marriage of the owner.",
+   "summary": "Husband of Nancy (Meier) Russo, known as Tony; uncle by marriage of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ],
    "nickname": "Tony"
@@ -36839,18 +38918,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of the owner's aunt Nancy, per the owner."
+    "note": "Child of John's aunt Nancy, per John Meier."
    },
    "tags": [],
-   "summary": "Son of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "summary": "Son of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   },
@@ -36862,18 +38941,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of the owner's aunt Nancy, per the owner."
+    "note": "Child of John's aunt Nancy, per John Meier."
    },
    "tags": [],
-   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   },
@@ -36885,18 +38964,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of the owner's aunt Nancy, per the owner."
+    "note": "Child of John's aunt Nancy, per John Meier."
    },
    "tags": [],
-   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   },
@@ -36908,18 +38987,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of the owner's aunt Nancy, per the owner."
+    "note": "Child of John's aunt Nancy, per John Meier."
    },
    "tags": [],
-   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   },
@@ -36931,18 +39010,18 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Former husband of the owner's aunt Terry, per the owner."
+    "note": "Former husband of John's aunt Terry, per John Meier."
    },
    "tags": [],
    "summary": "Former husband of Terry Meier; the marriage ended in divorce. First name not yet recorded.",
    "manual": true,
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026"
    ],
    "researchLog": [
     {
      "date": "2026-10-08",
-     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+     "note": "Added from John's statement (8 Oct 2026). Living person: no further research; name only."
     }
    ]
   }

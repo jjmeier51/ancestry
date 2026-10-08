@@ -20,5 +20,32 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Gardiner-1156",
+      "date": "",
+      "source": "WikiTree",
+      "note": "David Gardiner, 1784-05-29 – 1844-02-28",
+      "url": "https://www.wikitree.com/wiki/Gardiner-1156"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Gardiner-1156)",
+      "note": "",
+      "url": "https://www.findagrave.com/memorial/6685073/david-gardiner:"
+    },
+    {
+      "type": "photo",
+      "title": "Hon. David Gardiner (WikiTree)",
+      "date": "1824",
+      "source": "WikiTree, profile Gardiner-1156; https://www.wikitree.com/photo/jpg/Gardiner-1156",
+      "note": "",
+      "file": "media/H0295/h0295-gardiner-1156.jpg"
+    }
+  ],
+  "photo": "media/H0295/h0295-gardiner-1156.jpg"
 }

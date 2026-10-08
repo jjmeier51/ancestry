@@ -36,5 +36,40 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Bailey-33403",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Theodorus Bailey, 1805-04-12 – 1877-02-10",
+      "url": "https://www.wikitree.com/wiki/Bailey-33403"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Bailey-33403)",
+      "note": "",
+      "url": "https://www.findagrave.com/memorial/37192968/theodorus-bailey"
+    },
+    {
+      "type": "link",
+      "title": "Wikipedia: Theodorus Bailey (officer)",
+      "date": "",
+      "source": "Wikipedia",
+      "note": "Theodorus Bailey (April 12, 1805 – February 10, 1877) was a United States Navy officer during the American Civil War.",
+      "url": "https://en.wikipedia.org/wiki/Theodorus_Bailey_%28officer%29"
+    },
+    {
+      "type": "photo",
+      "title": "Theodorus Bailey (officer) (Wikimedia Commons)",
+      "date": "",
+      "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Commodore_Theodorus_Bailey_-_NARA_-_528661.jpg",
+      "note": "Mathew Benjamin Brady",
+      "file": "media/H0300/theodorus-bailey-officer-portrait.jpg"
+    }
+  ],
+  "photo": "media/H0300/theodorus-bailey-officer-portrait.jpg"
 }

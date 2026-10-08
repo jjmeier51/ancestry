@@ -32,5 +32,40 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Braine-160",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Daniel Lawrence Braine, 1829-00-00 – 1898-01-30",
+      "url": "https://www.wikitree.com/wiki/Braine-160"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Braine-160)",
+      "note": "",
+      "url": "https://www.findagrave.com/memorial/82431803/daniel_lawrence_braine"
+    },
+    {
+      "type": "link",
+      "title": "Wikipedia: Daniel L. Braine",
+      "date": "",
+      "source": "Wikipedia",
+      "note": "Daniel Lawrence Braine (May 18, 1829 – January 30, 1898) was an admiral of the United States Navy.",
+      "url": "https://en.wikipedia.org/wiki/Daniel_L._Braine"
+    },
+    {
+      "type": "photo",
+      "title": "Daniel L. Braine (Wikimedia Commons)",
+      "date": "",
+      "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Daniel_Lawrence_Braine.jpg",
+      "note": "The Evening News Association (Detroit)",
+      "file": "media/H0313/daniel-l-braine-portrait.jpg"
+    }
+  ],
+  "photo": "media/H0313/daniel-l-braine-portrait.jpg"
 }
