@@ -18,7 +18,7 @@ out, and next steps. Person ids refer to `data/tree.json`.
   `scripts/audit_wikitree.py` re-checks matches against the rules (dates
   within 1–2 years, first name, place words in common) and undoes rejected
   ones; manual keeps I282695486653 and H0192, manual rejects listed in the
-  report. Totals now: 18 portraits, 128 people with media, 277 items.
+  report. Second Wikipedia pass on the notable cousins added Commons portraits for Benjamin, William Henry and John Scott Harrison, John Cleves Symmes, Lawrence Grant White, Cornelius Lawrence, Willoughby Jones and Tapping Reeve, and links for Judson LaMoure and S. D. Warren. Totals now: 32 portraits, 131 people with media, 300 items.
 - Wikimedia throttles this container's shared IP (HTTP 429 after nearly every
   call) so the Wikipedia pass is slow; WikiTree is ~1 req/s with occasional
   429s. Wikipedia search found no articles for Bull Smith (covered only in the

@@ -602,6 +602,9 @@
   "image": "Tapping Reeve.JPG",
   "extract": "Tapping Reeve (October 1, 1744 – December 13, 1823) was an American lawyer, judge, and law educator. In 1784 he opened the Litchfield Law School, the first law school in the United States, in Litchfield, Connecticut.",
   "query": "\"Tapping Reeve\"",
-  "checked": "2026-10-08"
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/tapping-reeve-portrait.jpg",
+  "license": "CC BY-SA 3.0",
+  "attached": "2026-10-08"
  }
 }
