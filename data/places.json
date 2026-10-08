@@ -2702,5 +2702,61 @@
   "label": "Raleigh, Wake County, North Carolina, United States",
   "matched": "Raleigh, North Carolina, USA",
   "precision": "exact"
+ },
+ "Ashburn, Loudoun County, Virginia, USA": {
+  "lat": 39.02978,
+  "lon": -77.47441,
+  "label": "Ashburn, Loudoun County, Virginia, United States",
+  "matched": "Ashburn, Loudoun County, Virginia, USA",
+  "precision": "exact"
+ },
+ "Chantilly, Fairfax County, Virginia, USA": {
+  "lat": 38.88522,
+  "lon": -77.44868,
+  "label": "Chantilly, Fairfax County, Virginia, United States",
+  "matched": "Chantilly, Fairfax County, Virginia, USA",
+  "precision": "exact"
+ },
+ "East Stroudsburg, Monroe County, Pennsylvania, USA": {
+  "lat": 40.99954,
+  "lon": -75.18129,
+  "label": "East Stroudsburg, Monroe County, Pennsylvania, 18301, United States",
+  "matched": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Falls Church, Virginia, USA": {
+  "lat": 38.88233,
+  "lon": -77.17109,
+  "label": "Falls Church, Virginia, 22046, United States",
+  "matched": "Falls Church, Virginia, USA",
+  "precision": "exact"
+ },
+ "Herndon, Fairfax County, Virginia, USA": {
+  "lat": 38.96953,
+  "lon": -77.38595,
+  "label": "Herndon, Fairfax County, Virginia, United States",
+  "matched": "Herndon, Fairfax County, Virginia, USA",
+  "precision": "exact"
+ },
+ "McLean, Fairfax County, Virginia, USA": {
+  "lat": 38.93669,
+  "lon": -77.18584,
+  "label": "McLean, Fairfax County, Virginia, United States",
+  "matched": "McLean, Fairfax County, Virginia, USA",
+  "precision": "exact"
+ },
+ "Norfolk, Virginia, USA": {
+  "lat": 36.84937,
+  "lon": -76.28995,
+  "label": "Norfolk, Virginia, United States",
+  "matched": "Norfolk, Virginia, USA",
+  "precision": "exact"
+ },
+ "Northern Virginia, USA": {
+  "lat": 38.84087,
+  "lon": -77.11447,
+  "label": "Northern Virginia Community College - Alexandria Campus, 5000, Dawes Avenue, John Adams, Alexandria, Fairfax County, Virginia, 22311, United States",
+  "matched": "Northern Virginia, USA",
+  "precision": "exact"
  }
 }
