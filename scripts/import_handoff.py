@@ -417,7 +417,8 @@ for r in records:
     n = parse_name(r['name'])
     # name/vitals overrides for GEDCOM people when research is confirmed/probable
     log = []
-    if tree_p and conf in ('confirmed', 'probable'):
+    site_root = json.load(open('data/site.json')).get('rootPerson')
+    if tree_p and conf in ('confirmed', 'probable') and pid != site_root:
         tname = ' '.join(x for x in [tree_p.get('given'), tree_p.get('surname')] if x)
         rname = ' '.join(x for x in [n['given'], n['surname']] if x)
         if plain(tname) != plain(rname):

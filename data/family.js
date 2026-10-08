@@ -29,11 +29,11 @@ window.FAMILY_DATA = {
  "people": [
   {
    "id": "I282604492552",
-   "given": "John",
+   "given": "Johnny",
    "surname": "Meier",
    "sex": "M",
    "birth": {
-    "date": "1992",
+    "date": "16 Jun 1992",
     "place": "Alexandria, Virginia, USA"
    },
    "residences": [
@@ -85,7 +85,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "confirmed",
-    "note": "The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
+    "note": "This is me (site owner). The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
    },
    "aka": [
     "Johnny Meier",
@@ -162,10 +162,6 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
-    },
-    {
-     "date": "2026-10-08",
-     "note": "Name in the Ancestry tree: \"Johnny Meier\"; research uses \"John Meier\"."
     }
    ]
   },
