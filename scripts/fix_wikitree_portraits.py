@@ -16,19 +16,42 @@ for pid, r in report.items():
     d = json.load(open(f))
     if d.get("photo"):
         continue
-    j = fw.api({"action": "getPerson", "key": r["key"], "fields": "Id,Name,Photo"})
-    photo = (((j or {}).get("person") or {}).get("Photo") or "")
+    j = fw.api({"action": "getPerson", "key": r["key"], "fields": "Id,Name,Photo,PhotoData"})
+    person = ((j or {}).get("person") or {})
+    photo = person.get("Photo") or ""
     if not photo:
         continue
     want = re.sub(r"[^a-z0-9.]+", "-", photo.lower()).strip("-")
+    hit = None
     for m in d.get("media", []):
         if m.get("file") and os.path.basename(m["file"]).endswith(want):
-            d["photo"] = m["file"]
-            m["type"] = "photo"
-            json.dump(d, open(f, "w"), indent=2, ensure_ascii=False); open(f, "a").write("\n")
-            r["portrait"] = m["file"]
-            fixed += 1
-            print(pid, r["key"], "->", m["file"])
+            hit = m
             break
+    if hit:
+        d["photo"] = hit["file"]
+        hit["type"] = "photo"
+        json.dump(d, open(f, "w"), indent=2, ensure_ascii=False); open(f, "a").write("\n")
+        r["portrait"] = hit["file"]
+        fixed += 1
+        print(pid, r["key"], "->", hit["file"])
+        continue
+    # primary photo not among the attached images: fetch it
+    path = (person.get("PhotoData") or {}).get("path")
+    if not path:
+        continue
+    data = fw.get("https://www.wikitree.com" + path)
+    if not data or len(data) < 1000 or len(data) > 6_000_000:
+        continue
+    os.makedirs(fw.TMP, exist_ok=True)
+    fn = os.path.join(fw.TMP, f"{pid}-{want}")
+    open(fn, "wb").write(data)
+    import subprocess
+    subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "attach_media.py"), "--no-build", pid, fn,
+                    "--title", f"{r.get('wt_name') or r['key']} (WikiTree profile photo)", "--type", "photo",
+                    "--source", f"WikiTree, profile {r['key']}; https://www.wikitree.com/photo/jpg/{os.path.splitext(photo)[0]}",
+                    "--portrait"], check=False)
+    r["portrait"] = f"media/{pid}/{pid.lower()}-{want}"
+    fixed += 1
+    print(pid, r["key"], "-> downloaded", photo)
 json.dump(report, open(fw.REPORT, "w"), indent=1, ensure_ascii=False)
 print("portraits set:", fixed)

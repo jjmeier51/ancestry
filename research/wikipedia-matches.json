@@ -354,5 +354,63 @@
    "Frank Petriello",
    "Frank Anthony Petriello"
   ]
+ },
+ "I282695486702": {
+  "status": "matched",
+  "title": "John Cleves Symmes",
+  "qid": "Q1699623",
+  "url": "https://en.wikipedia.org/wiki/John_Cleves_Symmes",
+  "wd_birth": 1742,
+  "wd_death": 1814,
+  "image": "John Cleve Symmes (by Howe).png",
+  "extract": "John Cleves Symmes (July 21, 1742 – February 26, 1814) was a delegate to the Continental Congress from New Jersey, and later a pioneer in the Northwest Territory.  He was also the father-in-law of President William Henry Harrison and, thereby, the great-grandfather of President Benjamin Harrison.",
+  "query": "\"John Cleves Symmes\"",
+  "checked": "2026-10-08",
+  "attached": "2026-10-08"
+ },
+ "I282695486894": {
+  "status": "matched",
+  "title": "John Scott Harrison",
+  "qid": "Q1701703",
+  "url": "https://en.wikipedia.org/wiki/John_Scott_Harrison",
+  "wd_birth": 1804,
+  "wd_death": 1878,
+  "image": "JSHarrison.jpg",
+  "extract": "John Scott Harrison (October 4, 1804 – May 25, 1878) was an American politician who served as a member of the United States House of Representatives from Ohio from 1853 to 1857. Harrison was a son of U.S. president William Henry Harrison and First Lady Anna Harrison as well as the father of U.S. president Benjamin Harrison.",
+  "query": "\"John Scott Harrison\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/john-scott-harrison-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "I282695486913": {
+  "status": "matched",
+  "title": "Benjamin Harrison",
+  "qid": "Q35678",
+  "url": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+  "wd_birth": 1833,
+  "wd_death": 1901,
+  "image": "Benjamin Harrison, head and shoulders bw photo, 1896.jpg",
+  "extract": "Benjamin Harrison (August 20, 1833 – March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia—a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison V, a Founding Father.",
+  "query": "\"Benjamin Harrison\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/benjamin-harrison-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
+ },
+ "I282695486914": {
+  "status": "matched",
+  "title": "William Henry Harrison",
+  "qid": "Q11869",
+  "url": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+  "wd_birth": 1773,
+  "wd_death": 1841,
+  "image": "William Henry Harrison by James Reid Lambdin, 1835.jpg",
+  "extract": "William Henry Harrison (February 9, 1773 – April 4, 1841) was the ninth president of the United States from March to April 1841. He died 31 days into his term, making him the shortest serving president and the first president to die in office.",
+  "query": "\"William Henry Harrison\"",
+  "checked": "2026-10-08",
+  "portrait_file": ".cache/wikimedia/william-henry-harrison-portrait.jpg",
+  "license": "Public domain",
+  "attached": "2026-10-08"
  }
 }

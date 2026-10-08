@@ -75,6 +75,31 @@
       "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-4",
       "note": "",
       "file": "media/I282695486913/i282695486913-harrison-913-4.jpg"
+    },
+    {
+      "type": "photo",
+      "title": "Benjamin Harrison (WikiTree profile photo)",
+      "date": "",
+      "source": "WikiTree, profile Harrison-913; https://www.wikitree.com/photo/jpg/Harrison-913-5",
+      "note": "",
+      "file": "media/I282695486913/i282695486913-harrison-913-5.jpg"
+    },
+    {
+      "type": "link",
+      "title": "Wikipedia: Benjamin Harrison",
+      "date": "",
+      "source": "Wikipedia",
+      "note": "Benjamin Harrison (August 20, 1833 – March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia—a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison V, a Founding Father.",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Harrison"
+    },
+    {
+      "type": "photo",
+      "title": "Benjamin Harrison (Wikimedia Commons)",
+      "date": "",
+      "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Benjamin_Harrison,_head_and_shoulders_bw_photo,_1896.jpg",
+      "note": "Pach Brothers",
+      "file": "media/I282695486913/benjamin-harrison-portrait.jpg"
     }
-  ]
+  ],
+  "photo": "media/I282695486913/i282695486913-harrison-913-5.jpg"
 }
