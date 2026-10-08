@@ -4,6 +4,28 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Susan, Nancy, Jack and Terry Meier (third pass); Research status moved; date-parser bug
+
+- John asked for more on his father's siblings Susan, Nancy, Jack and Terry
+  (`M0015`–`M0018`). Searched again (see each researchLog): Legacy.com,
+  Patch/Dignity Levittown lists, in-law family obituaries (Borgman, Russo,
+  McGinley), every public profile of Danny Meier, the ESU lettermen list,
+  Neshaminy archives. Nothing public exists for them online; the 2008
+  Courier Times obituary of James C. Meier (Newspapers.com/GenealogyBank)
+  is still the one record that would give married names and towns. Family
+  information from John is the practical route.
+- Bonus from the ESU media guide text: Thomas Sr.'s 1980 line (45-71, 521
+  yds, 3 TD; 7 TD/42 pts; two rushing TDs vs Bloomsburg; 58- and 55-yard
+  catches) added to `I282604492836`. Jack Meier did not letter at ESU.
+- Site: the Research status card now sits at the very bottom of every
+  profile, full width (`profile-foot`), after Family and the relationship
+  calculator.
+- Bug fixed: dates written `1974-75` were parsed as month 75 and crashed the
+  profile (Danny Meier's page rendered only About and Life; the error was
+  swallowed by the view transition). `parseDate` now treats them as a
+  two-year span, months/days are range-checked, and the router logs and
+  shows a notice when a view throws. All profiles smoke-tested.
+
 ## 2026-10-08 — Round 6 (Cognetti line) imported
 
 - John uploaded a sixth overnight run on the Cognetti line (24 existing people,

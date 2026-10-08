@@ -134,7 +134,7 @@
 
       /* Sources & research */
       const log = p.researchLog || [];
-      side.appendChild(el('section', { class: 'card research conf-' + conf }, [
+      const researchCard = el('section', { class: 'card research conf-' + conf }, [
         el('h2', { html: icon('check') + 'Research status' }),
         el('div', { class: 'research-conf' }, [A.confBadge(p, true), el('span', { class: 'muted', text: F.confidenceDescription(conf) })]),
         p.link && p.link.note ? el('p', { html: A.md(p.link.note) }) : null,
@@ -148,7 +148,7 @@
         p.sources && p.sources.length ? el('div', {}, [el('h3', { text: 'Sources' }), el('ul', { class: 'sources' }, p.sources.map(s => el('li', { html: A.md(s) })))]) : null,
         log.length ? el('div', {}, [el('h3', { text: 'Research log' }), el('ul', { class: 'log' }, log.slice().reverse().map(e => el('li', {}, [el('time', { text: e.date || '' }), ' ', el('span', { html: A.md(e.note || '') })])))]) : null,
         !log.length && !(p.sources && p.sources.length) ? el('p', { class: 'muted', text: 'No research recorded yet.' }) : null
-      ]));
+      ]);
 
       /* Family */
       const fam = el('section', { class: 'card' }, [el('h2', { html: icon('people') + 'Family' })]);
@@ -190,6 +190,9 @@
         sel.addEventListener('change', upd); upd();
         side.appendChild(el('section', { class: 'card' }, [el('h2', { html: icon('heart') + 'Relationship to…' }), sel, out]));
       }
+
+      /* Research status: the last thing on the page */
+      container.appendChild(el('div', { class: 'wrap profile-foot' }, [researchCard]));
     }
   };
 })();

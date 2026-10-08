@@ -32,7 +32,14 @@
       s = q[2].split(/\s+(AND|TO)\s+/i)[0];
     }
     if ((m = s.match(/^(\d{4})(?:-(\d{1,2}))?(?:-(\d{1,2}))?$/))) {
-      out.year = +m[1]; if (m[2]) out.month = +m[2]; if (m[3]) out.day = +m[3];
+      out.year = +m[1];
+      if (m[2] && !m[3] && +m[2] > 12) {
+        /* "1974-75" is a two-year span written short, not a month */
+        out.range = true; out.text = out.text.replace(/-/, '–');
+      } else {
+        if (m[2] && +m[2] >= 1 && +m[2] <= 12) out.month = +m[2];
+        if (m[3] && +m[3] >= 1 && +m[3] <= 31) out.day = +m[3];
+      }
     } else if ((m = s.match(/^(?:(\d{1,2})\s+)?([A-Za-z]{3})[A-Za-z]*\.?\s+(\d{4})$/))) {
       const mi = MON3.indexOf(m[2].toUpperCase());
       out.year = +m[3]; if (mi >= 0) out.month = mi + 1; if (m[1]) out.day = +m[1];
@@ -48,6 +55,7 @@
     if (!d) return '';
     if (d.year === null) return d.text;
     if (/^\d{4}\s*[-–]\s*\d{4}$/.test(d.text)) return d.text.replace(/\s*[-–]\s*/, '–');
+    if (d.range) return d.qualifier ? `${d.qualifier} ${d.text}` : d.text;
     const mon = d.month ? (short ? MONTHS[d.month - 1].slice(0, 3) : MONTHS[d.month - 1]) : '';
     const core = d.day && d.month ? `${d.day} ${mon} ${d.year}` : d.month ? `${mon} ${d.year}` : String(d.year);
     if (d.qualifier === 'between') return d.text.replace(/^BET(WEEN)?\s+/i, 'between ').replace(/\s+AND\s+/i, ' and ');
