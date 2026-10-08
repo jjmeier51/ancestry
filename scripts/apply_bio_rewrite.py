@@ -43,6 +43,7 @@ def check(pid, old, new):
 def main():
     src = sys.argv[1]
     dry = "--dry" in sys.argv
+    keep_notes = "--keep-notes" in sys.argv   # the old bio is already prose: do not copy it into researchNotes
     allow = set()
     for i, a in enumerate(sys.argv):
         if a == "--allow": allow = set(sys.argv[i + 1].split(","))
@@ -64,7 +65,7 @@ def main():
             rejected.append((pid, probs)); continue
         if dry:
             applied += 1; continue
-        if old and old != new["bio"].strip():
+        if old and old != new["bio"].strip() and not keep_notes:
             notes = r.get("researchNotes") or ""
             if old not in notes:
                 r["researchNotes"] = (notes + "\n\n" if notes else "") + old
