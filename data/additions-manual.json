@@ -759,14 +759,31 @@
       "surname": "Notarianni",
       "sex": "F",
       "aka": [
+        "Carabia",
         "Caravia"
-      ]
+      ],
+      "birth": {
+        "date": "1889",
+        "place": "Italy"
+      },
+      "death": {
+        "date": "1953-02-11",
+        "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+      }
     },
     {
       "id": "M0089",
       "given": "Joseph",
       "surname": "Notarianni",
-      "sex": "M"
+      "sex": "M",
+      "birth": {
+        "date": "1880",
+        "place": "Italy"
+      },
+      "death": {
+        "date": "1940-12-03",
+        "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+      }
     },
     {
       "id": "M0090",
@@ -815,6 +832,101 @@
       "given": "David",
       "surname": "Genello",
       "sex": "M"
+    },
+    {
+      "id": "M0097",
+      "given": "Nicola",
+      "surname": "Cognetta",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1886",
+        "place": "Dasà, Vibo Valentia, Calabria, Italy"
+      }
+    },
+    {
+      "id": "M0098",
+      "given": "Jean D. Rossi",
+      "surname": "Cognetti",
+      "sex": "F",
+      "birth": {
+        "date": "1932-04-28",
+        "place": "Old Forge, Lackawanna County, Pennsylvania"
+      },
+      "death": {
+        "date": "2023-04-27",
+        "place": "Paoli Hospital, Paoli, Chester County, Pennsylvania (residence Exton)"
+      }
+    },
+    {
+      "id": "M0099",
+      "given": "Domenica 'Min'",
+      "surname": "Cognetti",
+      "sex": "F",
+      "death": {
+        "date": "2009",
+        "place": "probably Moosic or Scranton, Pennsylvania"
+      }
+    },
+    {
+      "id": "M0102",
+      "given": "Pietro",
+      "surname": "Forgione",
+      "sex": "M",
+      "aka": [
+        "Peter"
+      ],
+      "birth": {
+        "date": "1877",
+        "place": "Italy"
+      },
+      "death": {
+        "date": "1948-12-10",
+        "place": "Scranton, Pennsylvania"
+      }
+    },
+    {
+      "id": "M0103",
+      "given": "Elizabeth D'Ettore",
+      "surname": "Forgione",
+      "sex": "F",
+      "birth": {
+        "date": "1888",
+        "place": "Italy"
+      },
+      "death": {
+        "date": "1964-01-05",
+        "place": "Scranton, Pennsylvania"
+      }
+    },
+    {
+      "id": "M0104",
+      "given": "Nicholas",
+      "surname": "Butchko",
+      "sex": "M",
+      "death": {
+        "date": "BEF 2009"
+      }
+    },
+    {
+      "id": "M0105",
+      "given": "Santino",
+      "surname": "Rossi",
+      "sex": "M",
+      "aka": [
+        "Sandy"
+      ],
+      "death": {
+        "date": "BEF 2023"
+      }
+    },
+    {
+      "id": "M0106",
+      "given": "Elizabeth Marino",
+      "surname": "Rossi",
+      "sex": "F",
+      "death": {
+        "date": "BEF 2023"
+      }
     }
   ],
   "families": [
@@ -1059,6 +1171,40 @@
       ],
       "wife": "M0088",
       "husband": "M0089"
+    },
+    {
+      "id": "MF0031",
+      "children": [],
+      "wife": "M0098",
+      "husband": "H0346"
+    },
+    {
+      "id": "MF0032",
+      "children": [],
+      "wife": "M0099",
+      "husband": "I282695503585"
+    },
+    {
+      "id": "MF0035",
+      "children": [],
+      "husband": "M0104",
+      "wife": "I282695503587"
+    },
+    {
+      "id": "MF0036",
+      "children": [
+        "H0498"
+      ],
+      "husband": "M0102",
+      "wife": "M0103"
+    },
+    {
+      "id": "MF0037",
+      "children": [
+        "M0098"
+      ],
+      "husband": "M0105",
+      "wife": "M0106"
     }
   ],
   "familyUpdates": [
@@ -1190,6 +1336,12 @@
       "id": "HF0001",
       "wife": "H0062",
       "note": "Round 5: Harold E. Arnold (1927–1997) was the husband of Elizabeth 'Betsy' McGuire (m. 13 Sep 1952), not a second husband of her mother Elizabeth (McAvoy) McGuire; Betsy's 2016 obituary names him."
+    },
+    {
+      "id": "F46",
+      "addChildren": [
+        "M0097"
+      ]
     }
   ],
   "setParents": [
@@ -1300,6 +1452,11 @@
       "from": "I282695504092",
       "into": "M0004",
       "reason": "Round 5: 'James Jr.' in the GEDCOM is Jim Petriello, John's uncle, already in the tree."
+    },
+    {
+      "from": "I282695503588",
+      "into": "I282695503685",
+      "reason": "Round 6: only one Ralph appears in Frank and Helen Cognetti's family in 1920–1950; 'Ralph Cognetti abt 1913' duplicated Ralph Anthony Cognetti (1913–2009)."
     }
   ]
 }

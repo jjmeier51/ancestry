@@ -1,0 +1,132 @@
+{
+ "id": "I282697102020",
+ "name": "Giovanni Cognetta",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "residences": [
+   {
+    "date": "1910-04",
+    "place": "Dasà, Calabria, Italy",
+    "note": "Named as 'father Giovanni, Dasa', the nearest relative at home, by his son Nicola when Nicola sailed to Stamford, CT in April 1910 (identity with Giovanni b. 1855 probable by place, surname and naming pattern).",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "In April 1910 a 23-year-old Nicola Cognetta of Dasà sailed from Naples to New York on his way back to Stamford, Connecticut, and gave his 'father Giovanni, Dasa' as his nearest relative at home. In Stamford he was going to join his brother Francesco (S1). This is almost certainly a Giovanni Cognetta of Dasà with sons named Nicola and Francesco. The names fit the Calabrian custom of naming the eldest son after the paternal grandfather: Giovanni's father was Mastro Nicola Cognetta. So the record supports the tree's picture of Giovanni (born 1855) as father of a Francesco, although it does not prove that this Francesco was Frank Cognetti of Scranton. It also shows that Giovanni was still living at Dasà in 1910, and no record of him emigrating was found (S2).\n\nThe tree's death place for him, 'Nicasetro' in 1930, has no support in any record found. The Nicastro Cognetto family of Scranton's other Frank (H0381) descends from Bruno Cognetto (b. 1857) and his parents Pietro Giuseppe Cognetto and Giovanna Cuda, and has no Giovanni. Nicastro (now Lamezia Terme) lies about 50 km north of Dasà. 'Nicasetro' is probably a garbled entry, perhaps borrowed from the other family, and his 1930 death was more likely at Dasà; this is unproven.",
+ "funFacts": [],
+ "conflicts": [
+  {
+   "field": "death.place",
+   "siteValue": "Nicasetro, Italy (1930)",
+   "foundValue": "Living at Dasà in April 1910 (son's manifest); no record of a move to Nicastro",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Keep the 1930 year as tree-only. Flag 'Nicasetro' as doubtful; Dasà is more likely. Needs his death act (Dasà Morti 1930, on FamilySearch 'Italia, Vibo Valentia, Stato Civile 1910-1951', or Antenati when it is accessible)."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "NEW-1501",
+   "evidence": "Nicola Cognetta, 23, of Dasà named 'father Giovanni, Dasa' in 1910.",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "probable"
+  },
+  {
+   "type": "child",
+   "personId": "I282695503559",
+   "evidence": "Nicola's brother Francesco was in Stamford in 1910; a Francesco Cognetta of Dasà, 17, arrived 1905 to join brother Nicola. Identity of that Francesco with Frank of Scranton is unproven.",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "probable",
+  "justification": "His own birth is confirmed. The manifest evidence that a Giovanni of Dasà had sons Nicola and Francesco strengthens the parent link to Frank, but proof still needs Frank's own birth date and comune."
+ },
+ "openQuestionsResolved": [
+  {
+   "question": "Did Giovanni ever emigrate? No PA death-index trace; the tree's 1930 death place is unknown (probably Dasà).",
+   "answer": "No emigration record found. In 1910 his son Nicola gave him as living at Dasà; he seems to have stayed in Italy.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  }
+ ],
+ "openQuestionsNew": [
+  "Is 'Nicasetro' a garbled 'Dasà' or a real move to Nicastro? Check the Dasà Morti 1930 (Vibo Valentia Archivio di Stato, 1910-1951 on FamilySearch/Antenati)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "List or Manifest of Alien Passengers, SS Regina d'Italia, Napoli 19 Apr 1910, arr. New York 2 May 1910, List 141, line 15, both pages (images read): Nicola Cognetta, 23, single, of Dasa; nearest relative in Italy 'father Giovanni, Dasa'; destination Stamford, Conn.; previously in the US ('04/09', Conn.); joining 'brother Francesco, 3 [?] Branch St'. NARA T715 roll 1468 frames 645-646; index JJNS-FNT.",
+   "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "A Giovanni Cognetta was living at Dasà in 1910 and was father of Nicola (b. c.1887) and, by implication, Francesco"
+  },
+  {
+   "ref": "S2",
+   "citation": "Statue of Liberty-Ellis Island Foundation passenger index (FamilySearch-backed), searches 1892-1925 for Cognetta and variants, and residence-filtered searches for Dasa/Dasà.",
+   "url": "https://www.statueofliberty.org/arrival-search/",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "No Giovanni Cognetta of Dasà arrival found; Dasà Cognettas went to Stamford, CT"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1910 Ellis Island manifest (page 1): Nicola Cognetta of Dasà, 'father Giovanni, Dasa'",
+   "date": "1910-05-02",
+   "pageUrl": "https://www.statueofliberty.org/arrival-details/?id=JJNS-FNT",
+   "directUrl": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+   "repository": "NARA microfilm T715 roll 1468 (via FamilySearch / Statue of Liberty-Ellis Island Foundation)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p1.jpg",
+   "people": [
+    "I282697102020",
+    "I282695503559"
+   ],
+   "suggestedFile": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p1.jpg",
+   "note": "1910 US Immigration Service record, public domain. Line 15."
+  },
+  {
+   "type": "record",
+   "title": "1910 Ellis Island manifest (page 2): Nicola joins 'brother Francesco', Branch St, Stamford",
+   "date": "1910-05-02",
+   "pageUrl": "https://www.statueofliberty.org/arrival-details/?id=JJNS-FNT",
+   "directUrl": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38B-4",
+   "repository": "NARA microfilm T715 roll 1468",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p2.jpg",
+   "people": [
+    "I282697102020",
+    "I282695503559"
+   ],
+   "suggestedFile": "media/I282697102020/manifest-1910-05-02-regina-d-italia-nicola-cognetta-p2.jpg",
+   "note": "Line 15, columns 13-29."
+  }
+ ],
+ "searchedNoResult": [
+  "Ellis Island index: no Giovanni Cognetta/Cognetti of Dasà 1892-1925",
+  "Antenati (Dasà registry search): 403, blocked",
+  "FamilySearch catalog search API: 401, blocked",
+  "WebSearch: Cognetta Dasà 1855/1930 Giovanni Lamanna (no relevant hits)"
+ ],
+ "researchLogEntry": "Round 6: 1910 manifest of son Nicola names 'father Giovanni, Dasa' (alive at Dasà 1910) and brother Francesco in Stamford; 'Nicasetro' death place unsupported."
+}

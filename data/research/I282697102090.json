@@ -44,6 +44,18 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: nothing new; no records before 1809 reachable online."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102090.json."
     }
   ],
   "researchNotes": "Tree: Francesco Cognetta (b. 1771) + Domenica Malvaso (1781-1848), parents of Nicola Cognetta. Not researched in civil records. Probably of Dasà (Vibo Valentia)."

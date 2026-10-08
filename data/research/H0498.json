@@ -1,8 +1,8 @@
 {
   "id": "H0498",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 6 (unverified → confirmed): Primary marriage license links her to Ralph A. Cognetti, son of Frank and Helen."
   },
   "tags": [],
   "researchLog": [
@@ -21,6 +21,105 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0498.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Primary marriage license links her to Ralph A. Cognetti, son of Frank and Helen."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 relationship evidence (spouse I282695503685, proven): 1940 marriage license no. 817"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Marguerite Cognetti' obituary 2014: not found (only the 2012 Amori obituary); Legacy.com: blocked"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: from 1940 license and 1950 census: seamstress, daughter of shoemaker Peter Forgione and Elizabeth D'Ettore; alive 2012; FS gives death 30 May 2014."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/H0498.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
-  ]
+  ],
+  "birth": {
+    "date": "ABT 1913-1914",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+  },
+  "death": {
+    "date": "2014-05-30",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+  },
+  "aka": [
+    "Margaret Forgione",
+    "Marguerite Cognetti",
+    "Mrs. Margaret Cognetti",
+    "Marguerita Foragrone (1940 census index)"
+  ],
+  "occupation": "Seamstress (1940); housewife (1950)",
+  "residences": [
+    {
+      "date": "1940-04",
+      "place": "1628 Farr St, Scranton",
+      "note": "With her parents [R6-S1] [R6-S3]"
+    },
+    {
+      "date": "1950",
+      "place": "1217 [street], Scranton",
+      "note": "With husband and four children [R6-S2]"
+    },
+    {
+      "date": "2012",
+      "place": "Scranton",
+      "note": "Named as surviving sister in Amelia Amori's obituary [R6-S5]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to Ralph A. Cognetti",
+      "date": "1940-06-01",
+      "place": "Scranton",
+      "description": "License no. 817; Rev. Luigino R[angi?] officiated. [R6-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LJQW-QT8"
+    }
+  ],
+  "researchNotes": "Round 6: Marguerite (on her licence 'Margaret') Forgione was born in Scranton about 1913, a daughter of Peter (Pietro) Forgione, an Italian-born shoemaker, and Elizabeth D'Ettore; she was one of at least nine children ([R6-S1], [R6-S4]). A 26-year-old seamstress living with her family on Farr Street, she married Ralph A. Cognetti on 1 June 1940 ([R6-S1]). In 1950 she was keeping house for Ralph and their four children ([R6-S2]). She outlived Ralph by five years and was still living in Scranton in 2012, when she was named as a surviving sister in her sister Amelia Amori's obituary ([R6-S5]); the FamilySearch tree gives her death as 30 May 2014 in Scranton, aged about 101 ([R6-S4]).",
+  "openQuestions": [
+    "Marguerite's 2014 obituary (Scranton Times) to confirm the 30 May 2014 death and her burial place.",
+    "Daughter Helen (aged 9 in 1950) is missing from the tree; privacy check needed."
+  ],
+  "sources": [
+    "[R6-S1] Lackawanna County Orphans' Court, marriage license application no. 817 (1940), Ralph A. Cognetti and Margaret Forgione (signed Marguerite), p. 317; FS index VF7X-JLK, image attached to FS tree LJQW-QT8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+    "[R6-S2] 1950 US census, Scranton, E.D. 79-22, sheet 3, house 1217, line 25 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/0/image.jpg",
+    "[R6-S3] 1940 US census, 'Marguerita Foragrone' in the household of Peter 'Foragrone', Scranton; FS index KQWV-NWH, image attached to LJQW-QT8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/2/image.jpg",
+    "[R6-S4] FamilySearch tree LJQW-QT8, Marguerite Forgione 1913-2014 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8",
+    "[R6-S5] Obituary of Amelia Amori, The Times-Tribune, 2012 (Legacy id 20497979; blocked), as quoted in a search summary (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/amelia-amori-obituary?id=20497979"
+  ],
+  "media": [
+    {
+      "url": "https://familysearch.org/ark:/61903/1:1:VF7X-JLK",
+      "type": "link",
+      "title": "1940 marriage license no. 817, Ralph A. Cognetti and Margaret Forgione",
+      "date": "1940-04-22",
+      "source": "FamilySearch (Lackawanna County Orphans' Court), unknown",
+      "note": "Same image as on Ralph's record; rights unknown; not downloaded. (not downloaded: rights unknown)",
+      "people": [
+        "I282695503685",
+        "I282695503559",
+        "I282695503581"
+      ]
+    }
+  ],
+  "summary": "Scranton seamstress, daughter of a Farr Street shoemaker, who married Ralph A. Cognetti in 1940 and lived to about 101; wife of John's great-uncle.",
+  "bio": "Marguerite Forgione, recorded as Margaret on her marriage licence, was born in Scranton about 1913, one of at least nine children of Peter Forgione, an Italian-born shoemaker, and his wife Elizabeth D'Ettore. In 1940 she was a 26-year-old seamstress living with her family on Farr Street, and on 1 June that year she married Ralph A. Cognetti, the eldest brother of John's grandmother Mary Cognetti Petriello. By 1950 she was keeping house for Ralph and their four children.\n\nShe outlived Ralph by five years and was still living in Scranton in 2012, when her sister Amelia Amori's obituary named her among the survivors. Family records give her death as 30 May 2014 in Scranton, at about 101."
 }

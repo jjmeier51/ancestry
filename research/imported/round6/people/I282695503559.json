@@ -1,0 +1,221 @@
+{
+ "id": "I282695503559",
+ "name": "Frank Cognetti",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "events": [
+   {
+    "title": "Candidate arrival (Francesco Cognetta of Dasà)",
+    "date": "1905-06-18",
+    "place": "Ellis Island, New York",
+    "description": "A Francesco Cognetta, 17 (b. c.1888), single peasant of Dasà, arrived on the Citta di Milano bound for Stamford, Connecticut, to join his brother Nicola. In May 1910 Nicola, son of Giovanni of Dasà, returned to Stamford to join 'brother Francesco, Branch St'. CANDIDATE only: age is 2-4 years older than Frank's census ages and the date is earlier than the 1907/1908 immigration years Frank gave.",
+    "sourceRefs": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "title": "Not in PA death index 1950",
+    "date": "1950",
+    "place": "Pennsylvania",
+    "description": "No Frank Cognetti/Cognetto in the 1950 PA death-certificate index (Soundex C253); together with round 4 this covers 1950-1966.",
+    "sourceRefs": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The Ellis Island passenger index, searched under every spelling of the name, contains no Francesco Cognetta of Dasà arriving in 1906-1909, the years Frank later gave to census takers. It does show a small chain migration of Cognettas from Dasà to Stamford, Connecticut (S6). In June 1905 a 17-year-old Francesco Cognetta of Dasà landed in New York on his way to his brother Nicola in Stamford (S1, S2). In May 1910 that brother, Nicola Cognetta, 23, whose nearest relative at home was his 'father Giovanni, Dasà', sailed back to Stamford to join his 'brother Francesco' on Branch Street (S3). So a Giovanni Cognetta of Dasà had sons named Nicola and Francesco, which fits the family tree's claim that Frank was the son of Giovanni Cognetta of Dasà and grandson of Nicola. Whether that Francesco is the Frank who married Helen Ferlaino in Scranton around 1912 is not proven. He was about two to four years older than Frank's census ages suggest, and he arrived in 1905, not 1907 or 1908. He may, however, have gone home and come back.\n\nThe best-looking alternative, a Francesco Cugnetto, 17, who arrived on the Europa on 11 February 1908, can be set aside. He was the son of Raffaele of Nicastro and was bound for Utica, New York (S5). Nothing in the records ties Frank to the Nicastro Cognetto family of the other Scranton Frank (H0381), whose father was Bruno (S9). The 1950 Pennsylvania death index also has no Frank Cognetti (S7), so his death is now unaccounted for in Pennsylvania from 1950 to 1966.",
+ "funFacts": [
+  "Dasà's emigrants went overwhelmingly to Stamford, Connecticut: every Dasà Cognetta found at Ellis Island between 1903 and 1916 was bound there, among them shoemakers named Nicola and Francesco."
+ ],
+ "conflicts": [
+  {
+   "field": "immigration",
+   "siteValue": "1907 (1930 census) / 1908 (1920 census)",
+   "foundValue": "Candidate Dasà arrival 18 Jun 1905 (Francesco Cognetta, 17)",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "Unresolved. If the 1905 Francesco is Frank, the census years would reflect a later re-entry, or the census years are wrong. No 1906-09 Dasà Cognetta arrival was found."
+  },
+  {
+   "field": "birth.date",
+   "siteValue": "BET 1890 AND 1892",
+   "foundValue": "c.1888 (age 17 in June 1905, candidate only)",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "Do not change the site's date unless the identity is proved (WWI or WWII draft card, or naturalization)."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "sibling",
+   "personId": "NEW-1501",
+   "evidence": "Nicola Cognetta (b. c.1886-87), son of Giovanni of Dasà, named 'brother Francesco' in Stamford in 1910. That Francesco is a candidate for Frank. If Frank is Giovanni's son as the tree says, Nicola is his brother.",
+   "sourceRefs": [
+    "S2",
+    "S3"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "parent",
+   "personId": "I282697102020",
+   "evidence": "A Giovanni Cognetta was living at Dasà in 1910 as father of Nicola, whose brother was Francesco; this matches the tree's Giovanni-Frank link but does not prove it.",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "confirmed (as Mary's father); parentage probable",
+  "recommended": "keep confirmed; keep parentage at probable",
+  "justification": "The new manifests show a Giovanni Cognetta of Dasà with sons Nicola and Francesco, which supports the tree, but identity with Frank of Scranton is not yet proven."
+ },
+ "openQuestionsResolved": [
+  {
+   "question": "Immigration 1907: manifest still not found (Ellis Island/Steve Morse are blocked); search Francesco Cognetta, age c.15, destination Scranton.",
+   "answer": "Partly. The Ellis Island index is now reachable through statueofliberty.org. There is no Dasà Francesco Cognetta arrival in 1906-09. The only Dasà Francesco Cognetta was the 1905 arrival to Stamford (brother of Nicola, son of Giovanni), a candidate. The 1908 Nicastro Francesco Cugnetto, son of Raffaele, bound for Utica, is probably not him.",
+   "sourceRefs": [
+    "S1",
+    "S2",
+    "S3",
+    "S5",
+    "S6"
+   ]
+  }
+ ],
+ "openQuestionsNew": [
+  "Was Frank in Stamford, CT, c.1905-1910? Check the 1910 census of Stamford (Branch St) for Francesco/Frank Cognetta and Nicola Cognetta.",
+  "WWI draft card (Lackawanna County, 5 Jun 1917): its birth date and birthplace would test the Dasà/1888 candidate. FamilySearch record search is blocked (401). The Nicastro Frank's card is K6VD-FMF, so look for a second card.",
+  "Death: not in PA indexes 1950-1966. Check whether Helen was a widow in 1965 (her death certificate, file 027518) and search outside PA (Stamford CT?) and the SSDI.",
+  "From the scranton_family worker (PA death indexes, not checked by me): Giuseppe Cognetto, Scranton, d. 2 Aug 1922 (file 79110); Salvatore Cognetti, Scranton, d. 9 Sep 1938 (file 80521); Frances Cognetti, Scranton, d. 24 Feb 1939 (file 16802). These are not Frank and Helen's children; any could be a Cognetta relative of Frank (or of the Nicastro family). Their death certificates would name parents and birthplaces."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Statue of Liberty-Ellis Island Foundation passenger index (FamilySearch-backed), record JF7W-PY9: Francesco 'Cagnetta', male, 17, single, last residence Dasa, b. c.1888, arrived Ellis Island 18 Jun 1905, SS Citta di Milano from Napoli (sailed 1 Jun 1905); NARA microfilm T715, roll 591, frame 82, line 26. Queried via the site's search service (arrival-search page; admin-ajax passenger_search_api / passenger_details_page).",
+   "url": "https://www.statueofliberty.org/arrival-details/?id=JF7W-PY9",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Index entry for a Francesco Cognetta of Dasa arriving 1905"
+  },
+  {
+   "ref": "S2",
+   "citation": "List or Manifest of Alien Passengers, SS Citta di Milano, Napoli to New York, arr. June 1905, List 25, line 26 (image read): 'Cagnetta [Cognetta] Francesco', 17, m, single, peasant, can read and write, Italy/South Italian, last residence Dasa, final destination Stamford [Conn.], ticket no, paid by self, $12, never before in US, going to join 'brother Nicola, Stamford Co[nn].' NARA T715 roll 591 frame 82 (FamilySearch image 3:1:33S7-91J1-8H5).",
+   "url": "https://www.familysearch.org/ark:/61903/3:1:33S7-91J1-8H5",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "A Francesco Cognetta of Dasa, b. c.1888, went to his brother Nicola in Stamford in 1905. Image obtained through the statueofliberty.org image service; the FamilySearch ark itself was not loaded directly (FS image pages need login)."
+  },
+  {
+   "ref": "S3",
+   "citation": "List or Manifest of Alien Passengers, SS Regina d'Italia, Napoli 19 Apr 1910, arr. New York 2 May 1910, List 141, line 15 (images read, both pages): 'Cognetta Nicola', 23, m, single, last residence Dasa; nearest relative in Italy 'father Giovanni, Dasa'; destination Stamford, Conn.; previously in the US (col. 17: 'yes', '04/09', 'Conn'); going to join 'brother Francesco, 3 [?] Branch St' [Stamford]. NARA T715 roll 1468 frames 645-646. Index record JJNS-FNT (b. c.1887).",
+   "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T3-P38P-T",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Nicola, son of Giovanni Cognetta of Dasa, had a brother Francesco living in Stamford, CT in May 1910"
+  },
+  {
+   "ref": "S4",
+   "citation": "List or Manifest of Alien Passengers, SS Citta di Napoli, Napoli 18 Nov 1903, arr. New York 3 Dec 1903, List R, line 21 (image read): 'Cognetta Nicola', 17, m, single, shoemaker(?), reads yes; residence ditto 'Rosa' [index; probably a misreading of Dasa]; destination Stamford Conn.; to cousin '... Box 530'. Index record JFYR-8MQ (b. c.1886).",
+   "url": "https://www.familysearch.org/ark:/61903/3:1:33S7-L161-VSK",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Probably Nicola's first trip (the 1910 list says he had been in Connecticut before); Nicola and Francesco's Stamford link"
+  },
+  {
+   "ref": "S5",
+   "citation": "List or Manifest of Alien Passengers, SS Europa, Napoli 29 Jan 1908, arr. New York 11 Feb 1908, line 26 (image read): 'Cugnetto Francesco', 17, m, single, peasant, last residence Catanzaro / Nicastro, nearest relative 'father Raffaele, Nicastro', destination N.Y., Utica. Index record JXG8-GWT (b. c.1891), NARA T715 roll 1076 frame 85.",
+   "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95R-H9R4-K",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Rejected candidate: right age and year for Frank but father Raffaele (not Giovanni), Nicastro, bound for Utica NY"
+  },
+  {
+   "ref": "S6",
+   "citation": "Statue of Liberty-Ellis Island Foundation passenger index, surname searches 1892-1925 for Cognetta, Cognetti, Cognetto, Cugnetta, Cugnetto, Cugnetti, Coguetta, Cagnetta, Conetta, Cognata, Gagnetta (and first-name Francesco/Frank searches 1904-1940), plus residence-filtered searches for Dasa/Dasà/Daso.",
+   "url": "https://www.statueofliberty.org/arrival-search/",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Only Dasa Cognetta arrivals 1900-1916: Nicola 1903 (prob.), Francesco 1905, Nicola 1910, Nicola (41) + son Pasquale + Francesco (son of Vincenzo) 1911, Nicola (46) + son Giuseppe 1916, all bound for Stamford CT; no Francesco Cognetta of Dasa in 1906-09"
+  },
+  {
+   "ref": "S7",
+   "citation": "Pennsylvania State Archives, death-certificate index 1950, C(000)-D(662) volume, Soundex C253 (p. 273 of the volume): A-M given names list Anthony Cognetto (Greensburg) and Michelina Cagnetti but no Frank Cognetti/Cognetto.",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1950/D-50%20C(000)-D(662).pdf",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Frank did not die in Pennsylvania in 1950 (extends the round-4 1951-66 negative to 1950-66)"
+  },
+  {
+   "ref": "S8",
+   "citation": "FamilySearch published tree, Frank Cognetti GJB1-P6Y (JSON), re-checked: still no parents, no death, no draft card or naturalization attached; attached sources = 1950 census 6X1W-37K9, Lackawanna marriage records VF7X-JLJ and VF7J-VGZ.",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GJB1-P6Y",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Negative: no new records attached"
+  },
+  {
+   "ref": "S9",
+   "citation": "FamilySearch published tree, Frank Cognetti P7MS-NB2 (the Nicastro Frank, H0381) and his parents Bruno Cognetto GV9T-HLM and Rosa GV9T-7DG, siblings GH1F-J7T, GKXW-NPF (JSON).",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/P7MS-NB2",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "The Nicastro Frank's father was Bruno (b. 1857, son of Pietro Giuseppe Cognetto and Giovanna Cuda); no Giovanni in that family"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1905 Ellis Island manifest: Francesco Cognetta of Dasà, 17, to brother Nicola in Stamford",
+   "date": "1905-06-18",
+   "pageUrl": "https://www.statueofliberty.org/arrival-details/?id=JF7W-PY9",
+   "directUrl": "https://www.familysearch.org/ark:/61903/3:1:33S7-91J1-8H5",
+   "repository": "NARA microfilm T715 roll 591 (via FamilySearch / Statue of Liberty-Ellis Island Foundation)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282695503559/manifest-1905-06-18-citta-di-milano-francesco-cognetta-dasa.jpg",
+   "people": [
+    "I282695503559"
+   ],
+   "suggestedFile": "media/I282695503559/manifest-1905-06-18-citta-di-milano-francesco-cognetta-dasa.jpg",
+   "note": "US government record created 1905 (Immigration Service), public domain. Line 26. Identity with Frank of Scranton is a candidate, not proven."
+  },
+  {
+   "type": "record",
+   "title": "1908 Ellis Island manifest: Francesco Cugnetto of Nicastro, son of Raffaele (rejected candidate)",
+   "date": "1908-02-11",
+   "pageUrl": "https://www.statueofliberty.org/arrival-details/?id=JXG8-GWT",
+   "directUrl": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95R-H9R4-K",
+   "repository": "NARA microfilm T715 roll 1076",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": false,
+   "localPath": "",
+   "people": [
+    "I282695503559"
+   ],
+   "suggestedFile": "media/I282695503559/manifest-1908-02-11-europa-francesco-cugnetto-nicastro.jpg",
+   "note": "Not downloaded to the media folder because it is probably NOT our Frank (father Raffaele, bound for Utica). Kept for John's judgment."
+  }
+ ],
+ "searchedNoResult": [
+  "Ellis Island index (statueofliberty.org) 1904-1940, first name Francesco/Frank with surnames Cognetta, Cognetti, Cagnetta, Cognata, Cugnata, Cognitto, Conetta, Gagnetta, Cagnatta: no Dasà Francesco 1906-09, no Scranton-bound Cognetta",
+  "PA death index 1950 C253 (no Frank Cognetti/Cognetto)",
+  "FamilySearch published tree GJB1-P6Y re-checked: no new attachments",
+  "FamilySearch record search API (service/search/hr): 401 blocked",
+  "jewishgen/Steve Morse Ellis Island gold form: redirects to error page",
+  "NARA catalog API: requires key/HTML only",
+  "sortedbyname.com SSDI pages: 403",
+  "WebSearch: \"Frank Cognetti\" Scranton 1890-92 death Social Security (no hits); fold3 Cognetti SSDI (no hits); \"Cognetta\" Scranton (only Paige Cognetti, living, ignored)",
+  "WikiTree API: only Cognetti-1 (Ralph A.), no Frank"
+ ],
+ "researchLogEntry": "Round 6: Ellis Island index reached via statueofliberty.org; found Dasà Cognetta chain migration to Stamford, CT, with a Francesco Cognetta of Dasà (b. c.1888, arr. 1905) whose brother Nicola was son of Giovanni of Dasà (1910 manifest), a candidate for Frank; rejected 1908 Nicastro Francesco (son of Raffaele); PA death index 1950 negative."
+}

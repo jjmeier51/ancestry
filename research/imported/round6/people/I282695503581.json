@@ -1,0 +1,147 @@
+{
+  "id": "I282695503581",
+  "name": "Helen Ferlaino",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1930-04",
+        "place": "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania",
+        "note": "House owned by the family, valued at $5,000",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1940-04",
+        "place": "612 Philo St, Scranton Ward 2, Lackawanna County, Pennsylvania",
+        "note": "Owned, valued at $3,000; same house in 1935",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1950-04",
+        "place": "Scranton, Lackawanna County, Pennsylvania (E.D. 79-23)",
+        "note": "Keeping house, aged 55",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Age at marriage",
+        "date": "c.1911-1912",
+        "place": "",
+        "description": "The 1930 census gives her age at first marriage as 16 and Frank's as 21, which fits a marriage about 1911-12.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Naturalization status",
+        "date": "by 1940",
+        "place": "",
+        "description": "The 1940 census marks her 'Na' (naturalized) and the 1950 census answers 'Yes' to 'naturalized?'. The 1930 entry is overwritten and cannot be read with confidence. No naturalization paper has been found; if Frank was naturalized before 22 Sep 1922 she would have derived citizenship through him.",
+        "sourceRefs": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Education (1940 census)",
+        "value": "Highest grade completed: 7"
+      },
+      {
+        "label": "Literacy (1930 census)",
+        "value": "Able to read and write"
+      }
+    ]
+  },
+  "bioAdditions": "The censuses add some detail to Helen's American life. In 1930 she gave her age at marriage as sixteen, said she had come to the United States in 1901, and could read and write; the family owned their house at 612 Philo Street, valued at $5,000 (S1). By 1940 the Depression had cut the house's value to $3,000; Helen, aged 44, had completed seventh grade, was recorded as naturalized, and was keeping house for her husband and eight children (S2). In 1950 she was 55, still naturalized and keeping house, with five of her children at home (S3). Her son Leo's 2019 obituary says he was predeceased by five brothers and a sister, which confirms that Frank and Helen raised eight children (S4). A year-by-year check of the Pennsylvania death indexes for 1913-1940 found no infant or child death that can be tied to the couple (S5).",
+  "openQuestionsNew": [
+    "Helen's naturalization: was it derivative through Frank (if he naturalized before 22 Sep 1922) or by her own petition in Lackawanna County?",
+    "Funeral and burial of Helen Cognetti, March 1965 (Scranton Times/Tribune obituary, probably 15-17 Mar 1965); burial presumably Cathedral Cemetery like her sons, unconfirmed.",
+    "Helen died in South Abington Township (1965); her daughter Angeline Butchko later lived at Chinchilla in that township (2008). Whether Helen died at Angeline's home is unverified; the death certificate (file 027518) would say."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1930 US census, Scranton Ward 2, Lackawanna Co., PA, E.D. 35-12, sheet 28A, dwelling 612 [Philo St], lines 29-30 (Frank Cognetti household); FS index XH3R-XB1, image attached to FS tree G3NN-88N",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3NN-88N/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Helen, wife, 34, age at first marriage 16, born Italy, parents born Italy, mother tongue Italian, immigrated 1901, able to read and write; home owned, value $5,000; Frank 38, married at 21, immigrated 1907, naturalized, hoisting engineer at a breaker"
+    },
+    {
+      "ref": "S2",
+      "citation": "1940 US census, Scranton Ward 2, Lackawanna Co., PA, E.D. 71-15, sheet 13B, lines 64-75 (612 [Philo St], Frank Cognetti household); FS index KQZZ-JKH, image attached to FS tree GBQH-TGM",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Helen, wife, 44, highest grade completed 7, born Italy, naturalized ('Na'), same house in 1935, no work outside the home; home owned, value $3,000; Frank 48, no schooling, naturalized, repairman at a mine breaker"
+    },
+    {
+      "ref": "S3",
+      "citation": "1950 US census, Scranton, Lackawanna Co., PA, E.D. 79-23, sheet 71, lines 24-30 (Frank Cognetti household); FS index 6X1W-37K7, image attached to FS tree GJB1-8HT",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-8HT/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Helen, wife, 55, born Italy, naturalized 'Yes', keeping house; household Frank 59, Angeline 28, Anthony 25, John 23, Leo 20, Mary 17"
+    },
+    {
+      "ref": "S4",
+      "citation": "Obituary of Leo S. Cognetti (1929-2019), James J. Terry Funeral Homes, Inc.",
+      "url": "https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Leo was 'predeceased by 5 brothers and a sister', i.e. Frank and Helen had eight children who survived to adulthood (Ralph, Salvatore, Joseph, Angeline, Anthony, John, Leo, Mary)"
+    },
+    {
+      "ref": "S5",
+      "citation": "Pennsylvania State Archives, death-certificate indexes 1913-1940 (C-D / C volumes), checked under COGNETTI/COGNETTO and Soundex C253 for every year 1913-1940",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1938/D-38%20C-D.pdf",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "No death of a Cognetti child in Scranton 1913-1940 that can be tied to Frank and Helen; the only Scranton Cognetti/Cognetto deaths indexed were Giuseppe Cognetto (2 Aug 1922, file 79110), Salvatore Cognetti (9 Sep 1938, file 80521) and Frances Cognetti (24 Feb 1939, file 16802); none is known to be Helen's child (see leads)"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1940 census, Frank and Helen Cognetti household, 612 Philo St, Scranton",
+      "date": "1940-04-11",
+      "pageUrl": "https://familysearch.org/ark:/61903/1:1:KQZZ-JKH",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+      "repository": "FamilySearch / NARA",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "I282695503581",
+        "I282695503559",
+        "I282695503685",
+        "I282695503586",
+        "I282695503585",
+        "I282695503587",
+        "I282695503583",
+        "I282695503584",
+        "H0346"
+      ],
+      "suggestedFile": "media/I282695503581/census-1940-philo-st.jpg",
+      "note": "Sheet 13B, lines 64-75. Federal record, but post-1931, so rights treated as unknown per the brief and not downloaded."
+    }
+  ],
+  "searchedNoResult": [
+    "Find a Grave / BillionGraves: blocked per brief, not retried for Helen",
+    "WebSearch: Helen Cognetti obituary 1965 Scranton: nothing online",
+    "PA death indexes 1913-1940 for Cognetti children: none attributable (see S5)"
+  ],
+  "researchLogEntry": "Round 6: added 1930/1940/1950 census details (married at 16, 7th-grade schooling, naturalized by 1940, owned 612 Philo St) and confirmed eight children (Leo's obituary); PA death indexes 1913-40 show no child death for the couple."
+}

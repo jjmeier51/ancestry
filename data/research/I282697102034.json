@@ -43,7 +43,8 @@
   "openQuestions": [
     "Death act 1878 (Dasà Morti)",
     "Marriage to Mariangela Cannatello (Dasà, c.1840s)",
-    "Birth c.1802-04 and parents"
+    "Birth c.1802-04 and parents",
+    "A grandson named Nicola (b. c.1886-87, son of Giovanni, shoemaker, Stamford CT 1903-1910) fits the custom of naming the eldest son after the paternal grandfather (see NEW-1501)."
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -74,6 +75,18 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable); WebSearch: Cognetta Dasà genealogy (no hits)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: nothing new on Nicola himself; a grandson namesake, Nicola Cognetta b. c.1887 (son of Giovanni, of Dasà), went to Stamford CT 1903-1910 (see Giovanni's file)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697102034.json."
     }
   ],
   "researchNotes": "Tree: Nicola Cognetta (1802-1878) + Mariantonia Cannatello (b. 1816); parents Francesco Cognetta (b. 1771) + Domenica Malvaso (1781-1848). Round 1: a MyHeritage index entry (via search extract) shows Mariangiola Cognetta née Cannatello, born 1818 in Dasà, married to Nicola Cognetta - almost certainly the same couple. Round 3: in Giovanni's birth act (22 Mar 1855, Dasà, Nati 1855 act 18) he is 'Mastro Nicola Cognetta', 51 (b. c.1804, not 1802), ceraiuolo (wax-chandler / candle-maker, who made votive and church candles). 'Mastro' marks an artisan of slightly elevated status."

@@ -1,0 +1,24 @@
+{
+  "id": "M0104",
+  "link": {
+    "confidence": "probable",
+    "note": "Husband of John's great-aunt Angeline Cognetti per a summary of her obituary; related by marriage only."
+  },
+  "tags": [],
+  "summary": "Husband of Angeline Cognetti for about fifty years.",
+  "bio": "Nicholas Butchko married Angeline Cognetti, a daughter of Frank and Helen Cognetti of Scranton and John's great-aunt, probably in the 1950s. They were married about fifty years, and he died before her; she died in 2009.",
+  "sources": [
+    "[R6-S1] Search-engine summary of 'Angeline Butchko Obituary (2009) - Scranton, PA' (page not reached; idcrawl/Legacy 403) (derivative) https://www.idcrawl.com/nicholas-butchko"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): new relative NEW-1557 → M0104; research/imported/round6/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+  ]
+}

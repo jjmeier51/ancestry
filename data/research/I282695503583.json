@@ -25,8 +25,8 @@
     "notable",
     "politician"
   ],
-  "summary": "WWII Army veteran, president of Scranton City Council and of the Scranton Red Sox baseball club; John's great-granduncle.",
-  "bio": "Anthony Ralph Cognetti, known as Tony, was born on 19 June 1924 at Scranton, Lackawanna County, Pennsylvania, the son of Frank Cognetti and Helen Ferlaino, whose maiden name appears as Farina in his obituary. He grew up in Scranton and was a student at Central High School when he registered for the draft in June 1942, naming his mother as his next of kin. He entered the Army on 10 July 1943 and served in the Second World War.\n\nAfter the war he attended Keystone Junior College and Penn State. In 1950, aged 25, he was living at home and working in an ice-cream store. He married Mary Carol Ruth (1929–1978). He went on to serve as president of Scranton City Council, and in the 1970s he was president of the Scranton Red Sox collegiate baseball club. He died at Scranton on 19 September 2008. He was John's great-granduncle.",
+  "summary": "WWII Army veteran, president of Scranton City Council, state workers' compensation official and president of the Scranton Red Sox baseball club; John's great-uncle.",
+  "bio": "Anthony Ralph Cognetti, known as Tony, was born on 19 June 1924 at Scranton, Lackawanna County, Pennsylvania, the son of Frank Cognetti and Helen Ferlaino, whose maiden name appears as Farina in his obituary. He grew up in Scranton, finished eighth grade by 1940, and was a student at Central High School when he registered for the draft in June 1942, naming his mother as his next of kin. He entered the Army on 10 July 1943 and served in the Second World War.\n\nAfter the war he attended Keystone Junior College and Penn State. In 1950, aged 25, he was living at home and running an ice-cream store. He married Mary Carol Ruth (1929–1978). He went on to serve as president of Scranton City Council, and in the 1970s he was president of the Scranton Red Sox collegiate baseball club. In state government he was director of the State Workmen's Insurance Fund and later a commissioner of the Workmen's Compensation Appeal Board, lectured often at workers' compensation seminars, and in his last years was a consultant to the Scranton law firm O'Malley & Langan. He had also been president of the Junior Chamber of Commerce and of the Keystone Heart Association. He died at Scranton on 19 September 2008, leaving four sons and twelve grandchildren, and was buried in Cathedral Cemetery. He was John's great-uncle.",
   "notable": "President of Scranton City Council; president of the Scranton Red Sox collegiate baseball club (1970s)",
   "military": [
     {
@@ -38,13 +38,19 @@
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "Anthony 1924-Deceased"
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Ice-cream store/restaurant owner (1950); director, State Workmen's Insurance Fund; commissioner, Workmen's Compensation Appeal Board; consultant to O'Malley & Langan P.C. (2008)"
     }
   ],
   "sources": [
     "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
     "Draft card Q2Q2-NKPY: https://familysearch.org/ark:/61903/1:1:Q2Q2-NKPY",
     "FS tree PW2S-1KJ: https://ancestors.familysearch.org/en/PW2S-1KJ",
-    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576",
+    "[R6-S1] Obituary of Anthony R. Cognetti, The Times-Tribune (Scranton), Sept 2008, Legacy.com id 24081273; page blocked (403); content known only from two search-engine summaries (2026-10-08) (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "[R6-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 70 (Anthony, son, 16, 612 Philo St) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -75,7 +81,59 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Legacy.com obituary: blocked (403); WebSearch 'Anthony Cognetti' council president / Red Sox / Workers' Compensation Appeal Board: no primary or newspaper page found; Google Books API: daily quota exhausted (429); Wikimedia Commons / LOC: no photo found in searches"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: obituary summaries add SWIF director, WCAB commissioner, Jaycees and Heart Association presidencies, Cathedral Cemetery burial; full obituary still blocked."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503583.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
-  "researchNotes": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton."
+  "researchNotes": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton.\n\nRound 6: Summaries of Tony's 2008 obituary add a career in state government to his time on city council: he was director of the State Workmen's Insurance Fund and later a commissioner of the Workmen's Compensation Appeal Board, lectured often at workers' compensation seminars, and at his death was a consultant to the Scranton law firm O'Malley & Langan. He had also been president of the Junior Chamber of Commerce and of the Keystone Heart Association. He left four sons and twelve grandchildren and was buried in Cathedral Cemetery ([R6-S1]). In 1940 he was a 16-year-old schoolboy who had finished eighth grade ([R6-S2]).",
+  "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania"
+  },
+  "events": [
+    {
+      "title": "Public offices",
+      "date": "",
+      "place": "Pennsylvania",
+      "description": "Director of the State Workmen's Insurance Fund (SWIF), later commissioner of the Workmen's Compensation Appeal Board; earlier president of Scranton City Council (dates not found). [R6-S1]"
+    },
+    {
+      "title": "Civic offices",
+      "date": "",
+      "place": "Scranton",
+      "description": "President of the (Scranton) Junior Chamber of Commerce and of the Keystone Heart Association. [R6-S1]"
+    },
+    {
+      "title": "Second marriage",
+      "date": "ABT 1980",
+      "place": "",
+      "description": "Married the former Mary Flanagan; married 28 years at his death. [R6-S1]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "education",
+      "site": "Keystone Junior College and Penn State",
+      "found": "One search summary of the obituary gives Penn State and the University of Scranton; another gives Keystone Junior College and Penn State",
+      "assessment": "Unresolved until the obituary text is read; keep the site value."
+    }
+  ],
+  "openQuestions": [
+    "Years of his City Council service and presidency, and of his SWIF/WCAB appointments (Pennsylvania Manual; Scranton Times archives).",
+    "Second wife Mary (Flanagan) Cognetti: status (may be living) - check before adding.",
+    "Scranton Red Sox presidency (1970s): a newspaper source and photo still to be found."
+  ]
 }

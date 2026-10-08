@@ -1,15 +1,17 @@
 {
   "id": "M0089",
   "link": {
-    "confidence": "possible",
-    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0499 (probable)."
+    "confidence": "confirmed",
+    "note": "Parents of Elizabeth Notarianni, wife of John's great-uncle Sal Cognetti, per her 1943 marriage licence; related to John by marriage only."
   },
   "tags": [],
   "summary": "Scranton produce dealer who founded Joseph Notarianni Produce about 1925; father of Elizabeth Notarianni, wife of Sal D. Cognetti.",
-  "bio": "Joseph Notarianni was a produce dealer in Scranton, Pennsylvania, who founded Joseph Notarianni Produce about 1925; the firm stayed in the family until his great-grandson Joe Cognetti sold it in 1999. He married Michelena Caravia of San Mango d'Aquino, Calabria, and their daughter Elizabeth married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello.",
+  "bio": "Joseph Notarianni was a produce dealer in Scranton, Pennsylvania, who founded Joseph Notarianni Produce about 1925; the firm stayed in the family until his great-grandson Joe Cognetti sold it in 1999. He married Michelena Caravia of San Mango d'Aquino, Calabria, and their daughter Elizabeth married Sal D. Cognetti, a brother of John's grandmother Mary Cognetti Petriello.\n\nJoseph Notarianni was born in Italy in 1880 and died in Scranton on 3 December 1940, three years before his daughter Elizabeth's wedding; her marriage licence names him as her late father.",
   "sources": [
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
-    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+    "[R4-S4] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "Lackawanna County marriage license application no. 1716, Sal Cognetti and Elizabeth Notarianni, 13 Oct 1943 (names her parents Joseph Notarianni, deceased, and Michelina Caravia): https://familysearch.org/ark:/61903/1:1:VF7J-VGD",
+    "FamilySearch tree, Joseph Notarianni (1880–1940)"
   ],
   "manual": true,
   "researchLog": [
@@ -20,6 +22,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): birth and death years and the 1943 marriage licence added; the round-6 file created a duplicate of this person, which was folded back in."
     }
   ],
   "researchNotes": "round5: Scranton produce dealer, founder (c.1925) of Joseph Notarianni Produce; husband of Michelena Caravia; father of Elizabeth (Notarianni) Cognetti."

@@ -16,22 +16,41 @@
   },
   "occupation": "Salesman (1940)",
   "aka": [
-    "Ralf Cognetti"
+    "Ralf Cognetti",
+    "Ralph Anthony Cognetti",
+    "Ralph D. Cognetti (1940 census, error)"
   ],
   "tags": [],
-  "summary": "Eldest son of Frank and Helen Cognetti of Scranton, a salesman who married Marguerite Forgione in 1940; John's great-granduncle.",
-  "bio": "Ralph A. Cognetti was born on 7 August 1913 at Scranton, Lackawanna County, Pennsylvania, the eldest son of Frank Cognetti, a mechanic, and his wife Helen. In 1920 the boy, recorded as \"Ralf\", was living on Diamond Avenue in the household of his mother's family, the Ferlainos, and he was still in Scranton in 1930. He worked as a salesman, and on 1 June 1940 he married Marguerite Forgione.\n\nRalph and Marguerite had sons Frank, born in 1942, Peter, born in 1948, and Anthony, born in 1949, who is probably the Anthony Paul Cognetti of the Candy Hall of Fame. Ralph died at Scranton on 16 April 2009.",
+  "summary": "Eldest son of Frank and Helen Cognetti of Scranton, a bottling-company man and beer-distributor salesman who married Marguerite Forgione in 1940; John's great-uncle.",
+  "bio": "Ralph Anthony Cognetti was born on 7 August 1913 at Scranton, Lackawanna County, Pennsylvania, the eldest son of Frank Cognetti, a mechanic, and his wife Helen. In 1920 the boy, recorded as \"Ralf\", was living on Diamond Avenue in the household of his mother's family, the Ferlainos, and he was still in Scranton in 1930. In April 1940 he was a 27-year-old truck driver for a beverage firm, living at home on Philo Street, and on 1 June 1940 he married Marguerite Forgione, a seamstress; the priest, Father Luigino of Short Avenue, married his brother Sal three years later. When Ralph registered for the draft that October he and his wife lived on Farr Street and he worked for the Royal Bottling Company on Wyoming Avenue; he stood five feet seven, weighed 145 pounds, and had blue eyes and brown hair. He did not serve in the Second World War. By 1950 he was a salesman for a beer distributor with four children at home.\n\nRalph and Marguerite's sons were Frank, born in 1942, Peter, born in 1948, and Anthony, born in 1949, who is probably the Anthony Paul Cognetti of the Candy Hall of Fame; the 1950 census also lists a daughter, Helen, born about 1941. Ralph died at Scranton on 16 April 2009, and Marguerite outlived him by five years. He was John's great-uncle.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "Ralph 1913-Deceased (entered twice)"
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Truck driver for a beverage firm (1940), Royal Bottling Co. (Oct 1940), salesman for a beer distributor (1950)"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "L6CN-7HV"
+    },
+    {
+      "label": "Physical description (1940)",
+      "value": "5 ft 7 in, 145 lb, blue eyes, brown hair, light complexion"
     }
   ],
   "sources": [
     "WikiTree Cognetti-1: https://www.wikitree.com/wiki/Cognetti-1",
     "1940 license VF7X-JLN: https://familysearch.org/ark:/61903/1:1:VF7X-JLN ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg",
     "FS tree L6CN-7HV: https://ancestors.familysearch.org/en/L6CN-7HV",
-    "notes/italian.md 3.1; notes/round2/italian_gaps.md 2-3"
+    "notes/italian.md 3.1; notes/round2/italian_gaps.md 2-3",
+    "[R6-S1] WWII draft registration card (Selective Service, 'Fourth'/1940 registration), Ralph Anthony Cognetti, serial no. 213, Local Board No. 2, Scranton, registered 16 Oct 1940; FS index 'Pennsylvania, World War II Draft Registration Cards, 1940-1945' Q2Q2-NK1C, image attached to FS tree L6CN-7HV (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/2/image.jpg",
+    "[R6-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 66 (as 'Ralph D', son, 27, in Frank Cognetti household, 612 Philo St); FS image attached to GBQH-TGM (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S3] Lackawanna County Orphans' Court, marriage license application no. 817 (1940), Ralph A. Cognetti and Margaret (signed Marguerite) Forgione, pp. 316-317; FS index VF7X-JLN, image attached to FS tree L6CN-7HV (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg",
+    "[R6-S4] 1950 US census, Scranton, Lackawanna Co., PA, E.D. 79-22, sheet 3, house no. 1217, lines 24-29 (Ralph Cognetti household; sample line 24); FS index 6XB1-VXVB, image attached to FS tree LJQW-QT8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/0/image.jpg",
+    "[R6-S5] FamilySearch tree L6CN-7HV, Ralph A Cognetti 1913-2009 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L6CN-7HV"
   ],
   "mediaKnown": [
     "1940 marriage license image"
@@ -73,6 +92,22 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Ralph A. Cognetti' obituary 2009 Scranton: no hits; Legacy.com: blocked (403); NARA AAD WWII enlistment database: blocked (403)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: draft card (Ralph Anthony, 1506 Farr St, Royal Bottling, 1940), 1940/1950 censuses (beer salesman; no WWII service; daughter Helen missing from tree); duplicate I282695503588 confirmed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503685.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
   "media": [
@@ -83,7 +118,77 @@
       "source": "WikiTree",
       "note": "Ralph A Cognetti, 1913-08-07 – 2009-04-16",
       "url": "https://www.wikitree.com/wiki/Cognetti-1"
+    },
+    {
+      "url": "https://familysearch.org/ark:/61903/1:1:Q2Q2-NK1C",
+      "type": "link",
+      "title": "WWII draft card of Ralph Anthony Cognetti, 16 Oct 1940",
+      "date": "1940-10-16",
+      "source": "FamilySearch / NARA (Selective Service records), unknown",
+      "note": "Front and back; Selective Service record. Post-1931, rights treated as unknown per the brief; not downloaded. (not downloaded: rights unknown)",
+      "people": [
+        "H0498"
+      ]
+    },
+    {
+      "url": "https://familysearch.org/ark:/61903/1:1:6XB1-VXVB",
+      "type": "link",
+      "title": "1950 census, Ralph and Marguerite Cognetti household, Scranton",
+      "date": "1950-04-18",
+      "source": "FamilySearch / NARA, unknown",
+      "note": "E.D. 79-22, lines 24-29; Bruno Cognetti of the unrelated(?) Nicastro family is on line 1 of the same sheet. (not downloaded: rights unknown)",
+      "people": [
+        "H0498"
+      ]
     }
   ],
-  "researchNotes": "Tree shows 'Ralph 1913' twice - one man (Round 1 correction 3m). WikiTree Cognetti-1: b. 7 Aug 1913, d. 16 Apr 2009 Scranton; m. Marguerite Forgione 1 Jun 1940; in Scranton in the 1930 census (ED 12, p. 28A). 1920 census: grandson 'Ralf' in the Ferlaino household at 1306 Diamond Ave. 1940 marriage license No. 817: salesman; mother's maiden name 'Farino'; father 'mechanic'; at 612 Philo St. Children (FS L6CN-7HV): Frank (1942), Peter (1948), Anthony (b. 14 Dec 1949, probably Anthony Paul Cognetti of the Candy Hall of Fame)."
+  "researchNotes": "Tree shows 'Ralph 1913' twice - one man (Round 1 correction 3m). WikiTree Cognetti-1: b. 7 Aug 1913, d. 16 Apr 2009 Scranton; m. Marguerite Forgione 1 Jun 1940; in Scranton in the 1930 census (ED 12, p. 28A). 1920 census: grandson 'Ralf' in the Ferlaino household at 1306 Diamond Ave. 1940 marriage license No. 817: salesman; mother's maiden name 'Farino'; father 'mechanic'; at 612 Philo St. Children (FS L6CN-7HV): Frank (1942), Peter (1948), Anthony (b. 14 Dec 1949, probably Anthony Paul Cognetti of the Candy Hall of Fame).\n\nRound 6: Ralph's draft card gives his full name as Ralph Anthony Cognetti. When he registered on 16 October 1940 he and his new wife lived at 1506 Farr Street in Scranton, and he worked for the Royal Bottling Company on Wyoming Avenue; he was 5 ft 7 in, 145 lb, with blue eyes and brown hair ([R6-S1]). Six months earlier the census had found him at home on Philo Street, a 27-year-old truck driver for a beverage firm who had finished eighth grade ([R6-S2]). He married Marguerite Forgione on 1 June 1940; the priest, Rev. Luigino R[angi?] of 1402 Short Avenue, also married his brother Sal three years later ([R6-S3]). In 1950 Ralph was a salesman for a beer distributor, earning $3,000 a year, with four children at home, and the census notes that he had not served in the Second World War ([R6-S4]).",
+  "residences": [
+    {
+      "date": "1940-04",
+      "place": "612 Philo St, Scranton, Pennsylvania",
+      "note": "With his parents, single [R6-S2] [R6-S3]"
+    },
+    {
+      "date": "1940-10-16",
+      "place": "1506 Farr St, Scranton, Pennsylvania",
+      "note": "With his wife [R6-S1]"
+    },
+    {
+      "date": "1950-04",
+      "place": "1217 [street not legible], Scranton, Pennsylvania (E.D. 79-22)",
+      "note": "Head of household [R6-S4]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Draft registration",
+      "date": "1940-10-16",
+      "place": "Scranton (Local Board No. 2)",
+      "description": "Registered as Ralph Anthony Cognetti, working for Royal Bottling Company, 1121 Wyoming Ave. [R6-S1]"
+    },
+    {
+      "title": "Marriage officiant",
+      "date": "1940-06-01",
+      "place": "Scranton",
+      "description": "Married to Marguerite Forgione by Rev. Luigino R[angi?] of 1402 Short Ave, the same priest who married his brother Sal in 1943. [R6-S3]"
+    }
+  ],
+  "military": [
+    {
+      "note": "Registered for the draft 16 Oct 1940; the 1950 census records that he did not serve in WWII. [R6-S1] [R6-S4]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "children",
+      "site": "Sons Frank (1942), Peter (1948), Anthony (1949)",
+      "found": "1950 census also lists a daughter Helen, aged 9 (born c.1940-41)",
+      "assessment": "A daughter named for her grandmother appears to be missing from the tree. She may be living (born c.1941), so she was not researched further."
+    }
+  ],
+  "openQuestions": [
+    "Daughter Helen Cognetti (aged 9 in 1950) is not on the tree; check privacy status before adding.",
+    "Ralph's 2009 obituary (Scranton Times-Tribune) and burial place: not found online (Legacy blocked)."
+  ]
 }

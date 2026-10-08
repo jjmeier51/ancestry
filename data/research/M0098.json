@@ -1,0 +1,26 @@
+{
+  "id": "M0098",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Wife of John's great-uncle Leo S. Cognetti (both obituaries); related by marriage only."
+  },
+  "tags": [],
+  "summary": "School librarian from Old Forge, wife of Leo S. Cognetti for 65 years (1932–2023).",
+  "bio": "Jean D. Rossi was born in Old Forge, Pennsylvania, on 28 April 1932, the daughter of Santino 'Sandy' Rossi and Elizabeth Marino Rossi. About 1954 she married Leo S. Cognetti, a brother of John's grandmother Mary Cognetti Petriello, and they were married 65 years. A homemaker, school librarian and keen golfer, she lived in later life at Exton in Chester County and died at Paoli Hospital on 27 April 2023, the day before her 91st birthday.",
+  "sources": [
+    "[R6-S1] Obituary of Leo S. Cognetti, James J. Terry Funeral Homes, 2019 (secondary) https://www.jamesterryfuneralhome.com/tributes/Leo-Cognetti",
+    "[R6-S2] Obituary of Jean D. Cognetti, James J. Terry Funeral Homes, 2023 (secondary) https://www.jamesterryfuneralhome.com/tributes/Jean-Cognetti"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): new relative NEW-1551 → M0098; research/imported/round6/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+  ],
+  "occupation": "School librarian; homemaker"
+}

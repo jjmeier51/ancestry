@@ -1,0 +1,1872 @@
+[
+ {
+  "siteRecord": {
+   "id": "I282695503581",
+   "given": "Helen",
+   "surname": "Ferlaino",
+   "sex": "F",
+   "birth": {
+    "date": "1894-10-08",
+    "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy"
+   },
+   "residences": [
+    {
+     "date": "1920",
+     "place": "1306 Diamond Avenue, Scranton Ward 2, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+     "date": "1930",
+     "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+     "date": "1942",
+     "place": "614 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+     "date": "1950",
+     "place": "612 Philo St, Scranton, Lackawanna County, Pennsylvania, USA"
+    }
+   ],
+   "citations": [
+    {
+     "source": "1940 United States Federal Census",
+     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
+    }
+   ],
+   "aka": [
+    "Elena Ferlaino",
+    "Helen Cognetti",
+    "Helen Farino",
+    "Helen Farina Cognetti",
+    "Maria Filomena Ferlaino (baptismal name)",
+    "Maria Philumena Ferlaino",
+    "Philomena Cognetti (FamilySearch)"
+   ],
+   "mergedFrom": [
+    {
+     "id": "I282695503686",
+     "name": "Filomena Ferlaino",
+     "reason": "Round 4: Helen Ferlaino was baptized Maria Filomena at San Mango d'Aquino on 9 Oct 1894; 'Filomena Ferlaino' was the same wife of Frank Cognetti."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "As Mary's mother: confirmed. Maiden name Ferlaino: probable, close to confirmed - 1920 census shows her as daughter of widowed Josephine 'Farino' at 1306 Diamond Ave, which an independent forum source identifies as the Ferlaino boarding house (same boarder Antonio Epifano/'Bifano'); son named Leopold after grandfather Leopoldo. No record yet names 'Ferlaino' outright. Birthplace San Mango is probable (family origin), not documented. Round 4 (probable → confirmed): Baptism names Leopoldo Ferlaino and Giuseppina Fiorillo; the birth date fits the US census; the widowed mother Josephine headed the household in 1920; US clerks wrote Farino. Taken together, the link to John is documented. Only her death certificate or marriage license would add a US record naming Ferlaino outright."
+   },
+   "tags": [
+    "immigrant"
+   ],
+   "summary": "Born Maria Filomena at San Mango d'Aquino in Calabria, she came to Scranton as a child and married Frank Cognetti; John's maternal great-grandmother.",
+   "bio": "Helen Ferlaino was born at San Mango d'Aquino in Catanzaro, Calabria, on 8 October 1894 and was baptized the next day in the parish of San Tommaso d'Aquino as Maria Filomena, the daughter of Leopoldo Ferlaino (1871-1915) and Giuseppina Fiorillo (1871-1943); her godmother was Saveria Sacco. She was the couple's only child recorded in the San Mango registers. Helen was the name she used in America, and records that list a Filomena Ferlaino as Frank Cognetti's wife refer to the same woman under her baptismal name.\n\nShe emigrated to the United States with her mother in 1900 or 1901 and married Frank Cognetti of Scranton at about sixteen, around 1912 or 1913. In January 1920 the family were living at 1306 Diamond Avenue in Scranton, the home of her widowed mother Josephine, who owned the house outright and took in boarders from San Mango; also there were Helen's brother Frank, a 17-year-old coal-mine laborer, her sister Raffaela, her husband, and her sons Ralph, Salvatore and Joseph. Another son was named Leopold Salvatore after her father. The census taker wrote the whole household's surname as Farino, and that spelling, or Farina, followed her through later American records, including her sons' marriage licences and a 2008 obituary that called her Helen Farina Cognetti; her baptism shows she was born a Ferlaino.\n\nBy 1930 the family had moved to Philo Street in Scranton, where she was still living in 1950; in 1942 she was named as next of kin on her son Anthony's draft card. She died on 14 March 1965, aged 69, in South Abington Township, Lackawanna County, while a resident of Scranton. She was John's maternal great-grandmother.",
+   "events": [
+    {
+     "title": "Immigration",
+     "date": "1900",
+     "place": "USA",
+     "description": "1920 census gives 1900; 1930 census gives 1901; arrived with mother"
+    },
+    {
+     "title": "Baptism",
+     "date": "1894-10-09",
+     "place": "Parish of San Tommaso d'Aquino, San Mango d'Aquino",
+     "description": "Baptized the day after her birth as Maria Philumena, daughter of Leopoldo Ferlaino and Josepha (Giuseppina) Fiorillo; godmother Saveria Sacco. [R4-S1] [R4-S2]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Tree display (IMG_7830-7840)",
+     "value": "Helen Cognetti 1896-Deceased"
+    },
+    {
+     "label": "PA death index",
+     "value": "1965, file 027518, age 69"
+    }
+   ],
+   "sources": [
+    "1920 US census, Scranton Ward 2, ED 105, sheet 2A: https://familysearch.org/ark:/61903/1:1:MFBR-YF8 ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/0/image.jpg",
+    "ItalianGenealogy.com forum topic 26645 (Biff83): https://www.italiangenealogy.com/forum/topic/26645",
+    "Ralph Cognetti 1940 marriage license No. 817 (VF7X-JLN): https://familysearch.org/ark:/61903/1:1:VF7X-JLN",
+    "Salvatore Cognetti 1943 marriage license No. 1716 (VF7J-VGC): https://familysearch.org/ark:/61903/1:1:VF7J-VGC",
+    "1930 census XH3R-XB1 https://familysearch.org/ark:/61903/1:1:XH3R-XB1 ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3NN-88N/images/i/0/image.jpg",
+    "Leo S. Cognetti WWII draft card Q2Q2-N2SB: https://familysearch.org/ark:/61903/1:1:Q2Q2-N2SB",
+    "Anthony R. Cognetti obituary (2008): https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "Round 1 correction 3o; Round 2 report 3e; notes/round2/italian_gaps.md section 2; notes/round3/italian_origins.md section 5",
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino, San Tommaso d'Aquino parish, Battesimi 1888-1901 (Book 13), photograph 'Book 13 (65).jpg', p. 195 (MS), entry 61, M[ari]a Philumena Ferlaino; read by me (Latin): 'baptizavi infantem pridie natam ex Leopoldo Ferlaino et Josepha Fiorillo, cui nomen M[ari]a Philumena impositum est'. (primary) https://drive.usercontent.google.com/download?id=1H3Xnxq1LsAd42jJhZ83sPsAnGduoRqx8&export=download&confirm=t",
+    "[R4-S3] Pennsylvania State Archives, death-certificate index, 1965, C-D volume, PDF p. 92: COGNETTI HELEN, 69, S ABTN T, county 35, 03/14/65, file 027518, res. 35001. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf"
+   ],
+   "mediaKnown": [
+    "1920 and 1930 census images",
+    "1940 and 1943 marriage-license images"
+   ],
+   "openQuestions": [
+    "Frank & Helen's c.1912-13 Lackawanna County marriage license",
+    "SS-5 application",
+    "Order or view PA death certificate 1965 file 027518 (Ancestry \"Pennsylvania, U.S., Death Certificates, 1906-1970\").",
+    "San Mango civil birth act, Nati 1894 (FamilySearch \"Italia, Catanzaro, Stato Civile\" 1866-1910)."
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Helen Ferlaino (b. 1894)",
+    "line": 10056
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Name in the Ancestry tree: \"Helen Cognetti\"; research uses \"Helen Ferlaino\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Birth in the Ancestry tree: abt 1896; research: BET 1894 AND 1896."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence probable → confirmed: Baptism names Leopoldo Ferlaino and Giuseppina Fiorillo; the birth date fits the US census; the widowed mother Josephine headed the household in 1920; US clerks wrote Farino. Taken together, the link to John is documented. Only her death certificate or marriage license would add a US record naming Ferlaino outright."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Birth act in San Mango d'Aquino 1866-1910 registers (not on Antenati; FamilySearch 1866-1910 collection) → Church baptism found instead: Maria Philumena Ferlaino, b. 8 Oct 1894, bapt. 9 Oct 1894 (Book 13, image 65, no. 61). The civil act (Nati 1894) is still unread."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Death date (FS shows 'Deceased', no date) → 14 Mar 1965, South Abington Twp., Lackawanna Co., PA, age 69, certificate file 027518 (PA death index)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Resolved: Helen's PA death certificate (names parents) - would confirm Ferlaino → Index entry found (1965, file 027518). The certificate falls inside Ancestry's Pennsylvania Death Certificates 1906-1970 collection; not yet viewed."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (parent I282697102554, proven): Baptism names father Leopoldo Ferlaino"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (parent I282824815192, proven): Baptism names mother Josepha Fiorillo"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: found baptism (Maria Filomena Ferlaino, 8 Oct 1894, San Mango) naming Leopoldo and Giuseppina, and PA death index 14 Mar 1965; recommend confirmed and merge with duplicate Filomena."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503581.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "death": {
+    "date": "1965-03-14",
+    "place": "South Abington Township, Lackawanna County, Pennsylvania (residence Scranton)"
+   },
+   "conflicts": [
+    {
+     "field": "birth.date",
+     "site": "BET 1894 AND 1896",
+     "found": "8 Oct 1894 (baptism 9 Oct 1894)",
+     "assessment": "Baptism is a primary record; adopt 8 Oct 1894."
+    },
+    {
+     "field": "name / duplicate person",
+     "site": "Separate person Filomena Ferlaino (I282695503686), also wife of Frank Cognetti",
+     "found": "Helen = Maria Filomena Ferlaino",
+     "assessment": "Probable: only one daughter of Leopoldo and Giuseppina was baptized in San Mango, in 1894. Merge, keeping Helen as the display name."
+    }
+   ],
+   "media": [
+    {
+     "url": "https://drive.google.com/embeddedfolderview?id=1sy_guK45siVzApsnsfDTPxbdGgOhK_WY",
+     "type": "link",
+     "title": "Baptism of Maria Philumena (Helen) Ferlaino, San Mango d'Aquino, 9 Oct 1894",
+     "date": "1894-10-09",
+     "source": "Parish of San Tommaso d'Aquino, San Mango d'Aquino; photographs shared via ItalianParishRecords.org (Google Drive), unknown",
+     "note": "Image is upside-down; entry 61 on the left-hand page. Volunteer photograph of a church register; reuse terms not stated. (not downloaded: rights unknown)",
+     "people": [
+      "I282697102554",
+      "I282824815192"
+     ]
+    },
+    {
+     "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+     "type": "link",
+     "title": "PA death index 1965: Helen Cognetti",
+     "date": "1965",
+     "source": "Pennsylvania State Archives, unknown",
+     "note": "PDF page 92 (C-D volume). (not downloaded: rights unknown)",
+     "people": []
+    }
+   ],
+   "researchNotes": "Tree: Helen (b. 1896), wife of Frank Cognetti, daughter of Leopoldo Ferlaino (1871-1915) + Giuseppina Fiorillo (1871-1943). CONFLICT: Anthony R. Cognetti's 2008 obituary calls her 'Helen Farina Cognetti'. Round 1 left this unresolved (explanations: Americanization/mishearing of Ferlaino; obituary wrong; or the tree's Ferlaino attachment wrong). Round 2 evidence: (1) 1920 US census, Scranton Ward 2, ED 105, sheet 2A (enumerated 2-3 Jan 1920), 1306 Diamond Avenue: Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; Helen, daughter, 25, married, born Italy, immigrated 1900; Frank, son, 17, born PA, coal-mine laborer; 'Rofella' (Raffaela?), daughter, 15, born PA; Frank Cognetti 'boarder' (son-in-law) 29; grandsons Ralf, Salvador, Joseph; boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. (2) Round 1's forum source says 1306 Diamond Ave 'was the home of the Ferlaino family who took in boarders from San Mango' and names boarder Antonio Epifano - same address, same boarder. (3) Widowed mother Josephine (= Giuseppina) fits Giuseppina Fiorillo, widow of Leopoldo (d. 1915). (4) Her son was named Leopold Salvatore ('Leopoldo' in the 1930 census). (5) Two sons' marriage licenses give mother's maiden name 'Farino': Ralph 1940 (No. 817) and Sal 1943 (No. 1716). The 1920 enumerator wrote the whole Ferlaino household as 'Farino'; 'Farina' in the 2008 obituary is a later echo. Verdict: probable, close to confirmed (Helen = Elena Ferlaino). Arrival: 1900 (1920 census) or 1901 (1930 census), with her mother. Age 25 in Jan 1920 suggests birth c.1894; married at 16 (1930 census) c.1912-13. Her FS tree profile shows 'Deceased' with no date. In 1942 she was listed as next of kin ('Mrs. Helen Cognetti') on son Anthony's draft card at 614 Philo St. Antenati's San Mango coverage ends in 1860, so her birth act and her parents' marriage could not be reached.\n\nHelen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco ([R4-S1]). I read the register entry myself on the volunteer-photographed page ([R4-S2]). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) ([R4-S3]). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling."
+  },
+  "round4File": {
+   "id": "I282695503581",
+   "name": "Helen Ferlaino",
+   "researchedAt": "2026-10-08",
+   "status": "researched",
+   "updates": {
+    "birth": {
+     "date": "8 Oct 1894",
+     "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ]
+    },
+    "death": {
+     "date": "14 Mar 1965",
+     "place": "South Abington Township, Lackawanna County, Pennsylvania (residence Scranton)",
+     "sourceRefs": [
+      "S3"
+     ]
+    },
+    "aka": [
+     "Maria Filomena Ferlaino (baptismal name)",
+     "Maria Philumena Ferlaino",
+     "Philomena Cognetti (FamilySearch)",
+     "Helen Farino"
+    ],
+    "events": [
+     {
+      "title": "Baptism",
+      "date": "9 Oct 1894",
+      "place": "Parish of San Tommaso d'Aquino, San Mango d'Aquino",
+      "description": "Baptized the day after her birth as Maria Philumena, daughter of Leopoldo Ferlaino and Josepha (Giuseppina) Fiorillo; godmother Saveria Sacco.",
+      "sourceRefs": [
+       "S1",
+       "S2"
+      ]
+     }
+    ],
+    "facts": [
+     {
+      "label": "PA death index",
+      "value": "1965, file 027518, age 69"
+     }
+    ]
+   },
+   "bioAdditions": "Helen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco (S1). I read the register entry myself on the volunteer-photographed page (S2). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) (S3). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling.",
+   "conflicts": [
+    {
+     "field": "birth.date",
+     "siteValue": "BET 1894 AND 1896",
+     "foundValue": "8 Oct 1894 (baptism 9 Oct 1894)",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ],
+     "assessment": "Baptism is a primary record; adopt 8 Oct 1894."
+    },
+    {
+     "field": "name / duplicate person",
+     "siteValue": "Separate person Filomena Ferlaino (I282695503686), also wife of Frank Cognetti",
+     "foundValue": "Helen = Maria Filomena Ferlaino",
+     "sourceRefs": [
+      "S1"
+     ],
+     "assessment": "Probable: only one daughter of Leopoldo and Giuseppina was baptized in San Mango, in 1894. Merge, keeping Helen as the display name."
+    }
+   ],
+   "relationships": [
+    {
+     "type": "parent",
+     "personId": "I282697102554",
+     "evidence": "Baptism names father Leopoldo Ferlaino",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ],
+     "strength": "proven"
+    },
+    {
+     "type": "parent",
+     "personId": "I282824815192",
+     "evidence": "Baptism names mother Josepha Fiorillo",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ],
+     "strength": "proven"
+    }
+   ],
+   "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "Baptism names Leopoldo Ferlaino and Giuseppina Fiorillo; the birth date fits the US census; the widowed mother Josephine headed the household in 1920; US clerks wrote Farino. Taken together, the link to John is documented. Only her death certificate or marriage license would add a US record naming Ferlaino outright."
+   },
+   "openQuestionsResolved": [
+    {
+     "question": "Birth act in San Mango d'Aquino 1866-1910 registers (not on Antenati; FamilySearch 1866-1910 collection)",
+     "answer": "Church baptism found instead: Maria Philumena Ferlaino, b. 8 Oct 1894, bapt. 9 Oct 1894 (Book 13, image 65, no. 61). The civil act (Nati 1894) is still unread.",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ]
+    },
+    {
+     "question": "Death date (FS shows 'Deceased', no date)",
+     "answer": "14 Mar 1965, South Abington Twp., Lackawanna Co., PA, age 69, certificate file 027518 (PA death index).",
+     "sourceRefs": [
+      "S3"
+     ]
+    },
+    {
+     "question": "Helen's PA death certificate (names parents) - would confirm Ferlaino",
+     "answer": "Index entry found (1965, file 027518). The certificate falls inside Ancestry's Pennsylvania Death Certificates 1906-1970 collection; not yet viewed.",
+     "sourceRefs": [
+      "S3"
+     ]
+    }
+   ],
+   "openQuestionsNew": [
+    "Order or view PA death certificate 1965 file 027518 (Ancestry \"Pennsylvania, U.S., Death Certificates, 1906-1970\").",
+    "San Mango civil birth act, Nati 1894 (FamilySearch \"Italia, Catanzaro, Stato Civile\" 1866-1910)."
+   ],
+   "sources": [
+    {
+     "ref": "S1",
+     "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'.",
+     "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+     "class": "derivative",
+     "accessed": "2026-10-08",
+     "supports": "Maria Philomena Ferlaino b. 8 Oct 1894, bapt. 9 Oct 1894; parents Leopoldus Ferlaino and Josepha Fiorillo; sponsor Xaveria Sacco (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+    },
+    {
+     "ref": "S2",
+     "citation": "San Mango d'Aquino, San Tommaso d'Aquino parish, Battesimi 1888-1901 (Book 13), photograph 'Book 13 (65).jpg', p. 195 (MS), entry 61, M[ari]a Philumena Ferlaino; read by me (Latin): 'baptizavi infantem pridie natam ex Leopoldo Ferlaino et Josepha Fiorillo, cui nomen M[ari]a Philumena impositum est'.",
+     "url": "https://drive.usercontent.google.com/download?id=1H3Xnxq1LsAd42jJhZ83sPsAnGduoRqx8&export=download&confirm=t",
+     "class": "primary",
+     "accessed": "2026-10-08",
+     "supports": "Baptism of Helen as Maria Philumena, parents Leopoldo Ferlaino and Josepha Fiorillo"
+    },
+    {
+     "ref": "S3",
+     "citation": "Pennsylvania State Archives, death-certificate index, 1965, C-D volume, PDF p. 92: COGNETTI HELEN, 69, S ABTN T, county 35, 03/14/65, file 027518, res. 35001.",
+     "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+     "class": "derivative",
+     "accessed": "2026-10-08",
+     "supports": "Death 14 Mar 1965"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "Baptism of Maria Philumena (Helen) Ferlaino, San Mango d'Aquino, 9 Oct 1894",
+     "date": "1894-10-09",
+     "pageUrl": "https://drive.google.com/embeddedfolderview?id=1sy_guK45siVzApsnsfDTPxbdGgOhK_WY",
+     "directUrl": "https://drive.usercontent.google.com/download?id=1H3Xnxq1LsAd42jJhZ83sPsAnGduoRqx8&export=download&confirm=t",
+     "repository": "Parish of San Tommaso d'Aquino, San Mango d'Aquino; photographs shared via ItalianParishRecords.org (Google Drive)",
+     "rights": "unknown",
+     "downloadable": false,
+     "downloaded": false,
+     "localPath": "",
+     "people": [
+      "I282695503581",
+      "I282697102554",
+      "I282824815192"
+     ],
+     "suggestedFile": "media/I282695503581/baptism-1894-san-mango.jpg",
+     "note": "Image is upside-down; entry 61 on the left-hand page. Volunteer photograph of a church register; reuse terms not stated."
+    },
+    {
+     "type": "document",
+     "title": "PA death index 1965: Helen Cognetti",
+     "date": "1965",
+     "pageUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+     "directUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+     "repository": "Pennsylvania State Archives",
+     "rights": "unknown",
+     "downloadable": false,
+     "downloaded": false,
+     "localPath": "",
+     "people": [
+      "I282695503581"
+     ],
+     "suggestedFile": "media/I282695503581/pa-death-index-1965.pdf",
+     "note": "PDF page 92 (C-D volume)."
+    }
+   ],
+   "researchLogEntry": "Round 4: found baptism (Maria Filomena Ferlaino, 8 Oct 1894, San Mango) naming Leopoldo and Giuseppina, and PA death index 14 Mar 1965; recommend confirmed and merge with duplicate Filomena."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "I282695503685",
+   "given": "Ralph A.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "birth": {
+    "date": "1913-08-07",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
+   "citations": [
+    {
+     "source": "Pennsylvania, U.S., Birth Certificates, 1906-1914",
+     "page": "Pennsylvania Historical and Museum Commission; Harrisburg, PA, USA; Pennsylvania (State). Birth Certificates, 1906-1913; Box Number: 602; Certificate Number Range: 221651-224050"
+    }
+   ],
+   "corrections": [
+    {
+     "what": "parents",
+     "reason": "WikiTree Cognetti-1 (SSDI and 1930 census) and 1940 marriage license No. 817 (image read).",
+     "previous": [
+      "I282695503559",
+      "I282695503686"
+     ]
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "WikiTree Cognetti-1 (SSDI and 1930 census) and 1940 marriage license No. 817 (image read)."
+   },
+   "death": {
+    "date": "2009-04-16",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
+   "occupation": "Salesman (1940)",
+   "aka": [
+    "Ralf Cognetti"
+   ],
+   "tags": [],
+   "summary": "Eldest son of Frank and Helen Cognetti of Scranton, a salesman who married Marguerite Forgione in 1940; John's great-granduncle.",
+   "bio": "Ralph A. Cognetti was born on 7 August 1913 at Scranton, Lackawanna County, Pennsylvania, the eldest son of Frank Cognetti, a mechanic, and his wife Helen. In 1920 the boy, recorded as \"Ralf\", was living on Diamond Avenue in the household of his mother's family, the Ferlainos, and he was still in Scranton in 1930. He worked as a salesman, and on 1 June 1940 he married Marguerite Forgione.\n\nRalph and Marguerite had sons Frank, born in 1942, Peter, born in 1948, and Anthony, born in 1949, who is probably the Anthony Paul Cognetti of the Candy Hall of Fame. Ralph died at Scranton on 16 April 2009.",
+   "facts": [
+    {
+     "label": "Tree display (IMG_7830-7840)",
+     "value": "Ralph 1913-Deceased (entered twice)"
+    }
+   ],
+   "sources": [
+    "WikiTree Cognetti-1: https://www.wikitree.com/wiki/Cognetti-1",
+    "1940 license VF7X-JLN: https://familysearch.org/ark:/61903/1:1:VF7X-JLN ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg",
+    "FS tree L6CN-7HV: https://ancestors.familysearch.org/en/L6CN-7HV",
+    "notes/italian.md 3.1; notes/round2/italian_gaps.md 2-3"
+   ],
+   "mediaKnown": [
+    "1940 marriage license image"
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Ralph A. Cognetti (b. 1913)",
+    "line": 11305
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Name in the Ancestry tree: \"Ralph Cognetti\"; research uses \"Ralph A. Cognetti\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "A second handoff record (\"Ralph Cognetti (b. 1913) [duplicate tree entry]\", line 11327) also maps to this person."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Handoff gives parents Frank Cognetti (b. 1891), Helen Ferlaino (b. 1894) but the link is only \"unverified\", so the tree was not changed."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970); Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried; FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: nothing new. Absorbs duplicate I282695503588."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503685.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "WikiTree profile Cognetti-1",
+     "date": "",
+     "source": "WikiTree",
+     "note": "Ralph A Cognetti, 1913-08-07 – 2009-04-16",
+     "url": "https://www.wikitree.com/wiki/Cognetti-1"
+    }
+   ],
+   "researchNotes": "Tree shows 'Ralph 1913' twice - one man (Round 1 correction 3m). WikiTree Cognetti-1: b. 7 Aug 1913, d. 16 Apr 2009 Scranton; m. Marguerite Forgione 1 Jun 1940; in Scranton in the 1930 census (ED 12, p. 28A). 1920 census: grandson 'Ralf' in the Ferlaino household at 1306 Diamond Ave. 1940 marriage license No. 817: salesman; mother's maiden name 'Farino'; father 'mechanic'; at 612 Philo St. Children (FS L6CN-7HV): Frank (1942), Peter (1948), Anthony (b. 14 Dec 1949, probably Anthony Paul Cognetti of the Candy Hall of Fame)."
+  },
+  "round4File": {
+   "id": "I282695503685",
+   "name": "Ralph A. Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970)",
+    "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+    "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+   ],
+   "researchLogEntry": "Round 4: nothing new. Absorbs duplicate I282695503588."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "I282695503588",
+   "given": "Ralph",
+   "surname": "Cognetti",
+   "sex": "M",
+   "birth": {
+    "date": "abt 1913",
+    "place": "Pennsylvania"
+   },
+   "residences": [
+    {
+     "date": "1935",
+     "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+     "date": "1940",
+     "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    }
+   ],
+   "citations": [
+    {
+     "source": "1940 United States Federal Census",
+     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
+    }
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: n/a: duplicate profile"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: duplicate of Ralph A. Cognetti (I282695503685); merge (Round 1 correction 3m)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503588.json."
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "duplicate",
+     "site": "Ralph Cognetti abt 1913",
+     "found": "Same person as Ralph A. Cognetti (7 Aug 1913-16 Apr 2009)",
+     "assessment": "Merge into I282695503685."
+    }
+   ]
+  },
+  "round4File": {
+   "id": "I282695503588",
+   "name": "Ralph Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "conflicts": [
+    {
+     "field": "duplicate",
+     "siteValue": "Ralph Cognetti abt 1913",
+     "foundValue": "Same person as Ralph A. Cognetti (7 Aug 1913-16 Apr 2009)",
+     "sourceRefs": [],
+     "assessment": "Merge into I282695503685."
+    }
+   ],
+   "searchedNoResult": [
+    "n/a: duplicate profile"
+   ],
+   "researchLogEntry": "Round 4: duplicate of Ralph A. Cognetti (I282695503685); merge (Round 1 correction 3m)."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "I282695503586",
+   "given": "Salvatore D.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "birth": {
+    "date": "1915-09-21",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
+   "residences": [
+    {
+     "date": "1935",
+     "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+     "date": "1940",
+     "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    }
+   ],
+   "citations": [
+    {
+     "source": "1940 United States Federal Census",
+     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "FS tree GJB1-GYW, enlistment index K8PX-Z8K, 1943 marriage license No. 1716 (image read), 1920 census."
+   },
+   "death": {
+    "date": "1990-10-19"
+   },
+   "aka": [
+    "Sal Cognetti",
+    "Salvador Cognetti"
+   ],
+   "tags": [
+    "military"
+   ],
+   "summary": "John's great-granduncle, a Scranton-born Second World War Army veteran who married Elizabeth Notarianni in 1943.",
+   "bio": "Salvatore D. Cognetti, known as Sal, was born in Scranton, Lackawanna County, Pennsylvania, on 21 September 1915, and was John's great-granduncle. As a small boy he was living in his Ferlaino grandparents' household in 1920, recorded there as Salvador, and he was still in Scranton in 1935 and 1940.\n\nHe enlisted in the US Army at Wilkes-Barre on 5 January 1942 and was a serving soldier when he married Elizabeth Notarianni on 16 October 1943. He died on 19 October 1990 and was buried in Cathedral Cemetery.",
+   "military": [
+    {
+     "branch": "US Army",
+     "service": "WWII",
+     "note": "Enlisted Wilkes-Barre 5 Jan 1942"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Tree display (IMG_7830-7840)",
+     "value": "Salvatore 1915-Deceased"
+    }
+   ],
+   "sources": [
+    "FS tree GJB1-GYW: https://ancestors.familysearch.org/en/GJB1-GYW",
+    "Enlistment K8PX-Z8K: https://familysearch.org/ark:/61903/1:1:K8PX-Z8K",
+    "1943 license VF7J-VGC: https://familysearch.org/ark:/61903/1:1:VF7J-VGC"
+   ],
+   "mediaKnown": [
+    "1943 marriage license image"
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Salvatore D. Cognetti (b. 1915)",
+    "line": 11343
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Name in the Ancestry tree: \"Salvatore Cognetti\"; research uses \"Salvatore D. Cognetti\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970); Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried; FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: nothing new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503586.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "researchNotes": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household."
+  },
+  "round4File": {
+   "id": "I282695503586",
+   "name": "Salvatore D. Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970)",
+    "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+    "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+   ],
+   "researchLogEntry": "Round 4: nothing new."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "H0499",
+   "given": "Elizabeth",
+   "surname": "Notarianni",
+   "sex": "U",
+   "source": "research",
+   "link": {
+    "confidence": "unverified",
+    "note": "Named only as a relative in another person's handoff record; not researched."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Stub created from a handoff reference."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Not searched beyond existing record (m. Salvatore D. Cognetti 16 Oct 1943)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: nothing new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/H0499.json."
+    }
+   ]
+  },
+  "round4File": {
+   "id": "H0499",
+   "name": "Elizabeth Notarianni",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Not searched beyond existing record (m. Salvatore D. Cognetti 16 Oct 1943)"
+   ],
+   "researchLogEntry": "Round 4: nothing new."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "I282695503585",
+   "given": "Joseph F.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "birth": {
+    "date": "1919",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
+   "residences": [
+    {
+     "date": "1935",
+     "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+     "date": "1940",
+     "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    }
+   ],
+   "citations": [
+    {
+     "source": "1940 United States Federal Census",
+     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Obituary 'son of the late Frank and Helen Cognetti'; Candy Hall of Fame entry; 2016 Thanksgiving article."
+   },
+   "death": {
+    "date": "2009-05-25",
+    "place": "Moosic, Lackawanna County, Pennsylvania, USA"
+   },
+   "occupation": "Food/confectionery broker; chairman, D.C. Sales Co.",
+   "aka": [
+    "Joe Cognetti"
+   ],
+   "tags": [
+    "military",
+    "notable"
+   ],
+   "summary": "WWII Army Air Corps veteran, chairman of D.C. Sales Co. and Candy Hall of Fame member; John's great-granduncle.",
+   "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940. During the Second World War he served in the US Army Air Corps from 1942 to 1946.\n\nHe made his career in the food and confectionery trade as a partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. His standing in the industry brought him the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he started the Cognetti family Thanksgiving, a gathering that continued long after him: the 50th, in 2016, drew 151 relatives. He died at Moosic, Pennsylvania, on 25 May 2009. He is John's great-granduncle.",
+   "notable": "Candy Hall of Fame 1975; AWMA Hall of Fame 1993",
+   "funFacts": [
+    "Founded the 50-year Cognetti family Thanksgiving tradition (151 relatives in 2016)"
+   ],
+   "military": [
+    {
+     "branch": "US Army Air Corps / Army Air Forces",
+     "service": "1942-1946",
+     "theatre": "WWII"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Tree display (IMG_7830-7840)",
+     "value": "Joseph 1918-Deceased"
+    }
+   ],
+   "sources": [
+    "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?pid=127764806",
+    "Candy Hall of Fame: https://candyhalloffame.org/inductee/joseph-f-cognetti/",
+    "Thanksgiving article: https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Joseph F. Cognetti (b. 1919)",
+    "line": 11364
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Name in the Ancestry tree: \"Joseph Cognetti\"; research uses \"Joseph F. Cognetti\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Birth in the Ancestry tree: abt 1918; research: 1919."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970); Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried; FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: nothing new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503585.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "researchNotes": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household."
+  },
+  "round4File": {
+   "id": "I282695503585",
+   "name": "Joseph F. Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970)",
+    "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+    "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+   ],
+   "researchLogEntry": "Round 4: nothing new."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "I282695503587",
+   "given": "Angeline",
+   "surname": "Cognetti",
+   "sex": "F",
+   "birth": {
+    "date": "1922",
+    "place": "Pennsylvania"
+   },
+   "residences": [
+    {
+     "date": "1935",
+     "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+     "date": "1940",
+     "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    }
+   ],
+   "citations": [
+    {
+     "source": "1940 United States Federal Census",
+     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Named as sister in brothers' obituaries; 1950 census at home (age 28)."
+   },
+   "aka": [
+    "Angeline Butchko"
+   ],
+   "tags": [],
+   "summary": "Scranton-born daughter of the Cognetti family who married a Butchko; John's great-grandaunt.",
+   "bio": "Angeline Cognetti was born in Pennsylvania in 1922 and was John's great-grandaunt. She grew up in Scranton, where the family was living in 1935 and 1940, and was still at home with her parents in 1950, aged twenty-eight. She later married and took the name Butchko. She had died by 2016.",
+   "facts": [
+    {
+     "label": "Tree display (IMG_7830-7840)",
+     "value": "Angeline 1922-Deceased"
+    }
+   ],
+   "sources": [
+    "Anthony R. and Joseph F. Cognetti obituaries",
+    "1950 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg"
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Angeline Cognetti (b. 1922)",
+    "line": 11386
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970); Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried; FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: nothing new (married name Butchko; death date still unknown, before Nov 2016)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503587.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "researchNotes": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article."
+  },
+  "round4File": {
+   "id": "I282695503587",
+   "name": "Angeline Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970)",
+    "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+    "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+   ],
+   "researchLogEntry": "Round 4: nothing new (married name Butchko; death date still unknown, before Nov 2016)."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "I282695503583",
+   "given": "Anthony R.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "birth": {
+    "date": "1924-06-19",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
+   "residences": [
+    {
+     "date": "1935",
+     "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+     "date": "1940",
+     "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    }
+   ],
+   "citations": [
+    {
+     "source": "1940 United States Federal Census",
+     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "2008 obituary; WWII draft card Q2Q2-NKPY; FS tree PW2S-1KJ."
+   },
+   "death": {
+    "date": "2008-09-19",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
+   "occupation": "Ice-cream store (1950); politician",
+   "aka": [
+    "Anthony Ralph Cognetti",
+    "Tony Cognetti"
+   ],
+   "tags": [
+    "athlete",
+    "military",
+    "notable",
+    "politician"
+   ],
+   "summary": "WWII Army veteran, president of Scranton City Council and of the Scranton Red Sox baseball club; John's great-granduncle.",
+   "bio": "Anthony Ralph Cognetti, known as Tony, was born on 19 June 1924 at Scranton, Lackawanna County, Pennsylvania, the son of Frank Cognetti and Helen Ferlaino, whose maiden name appears as Farina in his obituary. He grew up in Scranton and was a student at Central High School when he registered for the draft in June 1942, naming his mother as his next of kin. He entered the Army on 10 July 1943 and served in the Second World War.\n\nAfter the war he attended Keystone Junior College and Penn State. In 1950, aged 25, he was living at home and working in an ice-cream store. He married Mary Carol Ruth (1929–1978). He went on to serve as president of Scranton City Council, and in the 1970s he was president of the Scranton Red Sox collegiate baseball club. He died at Scranton on 19 September 2008. He was John's great-granduncle.",
+   "notable": "President of Scranton City Council; president of the Scranton Red Sox collegiate baseball club (1970s)",
+   "military": [
+    {
+     "branch": "US Army",
+     "service": "WWII, from 1943-07-10"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Tree display (IMG_7830-7840)",
+     "value": "Anthony 1924-Deceased"
+    }
+   ],
+   "sources": [
+    "Legacy obituary: https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "Draft card Q2Q2-NKPY: https://familysearch.org/ark:/61903/1:1:Q2Q2-NKPY",
+    "FS tree PW2S-1KJ: https://ancestors.familysearch.org/en/PW2S-1KJ",
+    "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576"
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Anthony R. Cognetti (b. 1924)",
+    "line": 11403
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Name in the Ancestry tree: \"Anthony Cognetti\"; research uses \"Anthony R. Cognetti\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970); Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried; FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: nothing beyond existing obituary-based record."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503583.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "researchNotes": "Obituary (2008): 'son of the late Frank and Helen Farina Cognetti'; WWII Army veteran; former president of Scranton City Council; attended Keystone Junior College and Penn State; president of the Scranton Red Sox collegiate baseball club in the 1970s. WWII draft card 30 Jun 1942: 614 Philo St, Central High student, next of kin Mrs. Helen Cognetti. Army service from 10 Jul 1943. 1950: aged 25, at home, ice-cream store. Married Mary Carol Ruth (1929-1978). Died 19 Sep 2008. His obituary's 'Farina' is the source of the Ferlaino/Farina conflict. ABMC WWII registry lists Anthony Cognetti (Army) of Scranton."
+  },
+  "round4File": {
+   "id": "I282695503583",
+   "name": "Anthony R. Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970)",
+    "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+    "FamilySearch record search / Italian civil images: blocked (401/403 per brief)"
+   ],
+   "researchLogEntry": "Round 4: nothing beyond existing obituary-based record."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "H0500",
+   "given": "Mary Carol",
+   "surname": "Ruth",
+   "sex": "U",
+   "birth": {
+    "date": "1929",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): Primary marriage license links her to Anthony R. Cognetti, son of Frank and Helen."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Stub created from a handoff reference."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Confidence unverified → confirmed: Primary marriage license links her to Anthony R. Cognetti, son of Frank and Helen."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 relationship evidence (spouse I282695503583, proven): 1950 Lackawanna County marriage license no. 687"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Legacy.com Anthony R. Cognetti obituary (id 24081273): blocked 403; survivor names known only from a search-engine summary"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: Mary Carol Ruth was not living: m. Anthony R. Cognetti 27 May 1950 (license no. 687, read), d. 24 Dec 1978, buried Cathedral Cemetery; parents Lawrence R. Ruth and Loretta Barrett."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/H0500.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "death": {
+    "date": "1978-12-24",
+    "place": "Lackawanna County, Pennsylvania"
+   },
+   "burial": {
+    "place": "Cathedral Cemetery, Scranton, Pennsylvania"
+   },
+   "aka": [
+    "Mary C. Ruth",
+    "Mary Ruth Cognetti"
+   ],
+   "occupation": "Clerical worker (1950)",
+   "residences": [
+    {
+     "date": "1940",
+     "place": "Scranton, Pennsylvania",
+     "note": "Age 11, 1940 census (FS index KQZZ-K1X) [R4-S2]"
+    }
+   ],
+   "events": [
+    {
+     "title": "Marriage to Anthony R. Cognetti",
+     "date": "1950-05-27",
+     "place": "Scranton, Pennsylvania",
+     "description": "Lackawanna County marriage license no. 687 (applied 13 May, issued 16 May 1950). Mary C. Ruth, 21, clerical worker, born in Scranton, daughter of Lawrence Ruth (painter, born Scranton) and Loretta Barrett (born Scranton). Groom Anthony R. Cognetti, 25, restaurant owner, of 612 Philo St, son of Frank and Helen ('Farino'). Married by Rev. Thomas Tracy. [R4-S1]"
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "PW29-VF6"
+    }
+   ],
+   "researchNotes": "round5: Mary Carol Ruth was not living. She was born in Scranton in 1929, the daughter of Lawrence Rocco Ruth (1905-1968), a painter, and Mary Loretta (Barrett) Ruth (1909-1985) ([R4-S1], [R4-S2]). She was a 21-year-old clerical worker when she married Anthony R. Cognetti, then a 25-year-old restaurant owner, in Scranton on 27 May 1950; Rev. Thomas Tracy officiated (marriage license no. 687, [R4-S1]). The license again gives Helen Cognetti's maiden name as 'Farino', like the 1940 and 1943 licenses of Anthony's brothers. Mary died on 24 Dec 1978, aged 49, in Lackawanna County, and is buried in Cathedral Cemetery, Scranton ([R4-S2]). Anthony R. Cognetti's 2008 obituary (Legacy, blocked; seen only through a search-engine summary) reportedly says he was predeceased by his first wife Mary Ruth and survived by his wife of 28 years, the former Mary Flanagan, and four sons, Lawrence, Mark, Dr. Peter and attorney Michael. Mary Carol Ruth was presumably the mother of these sons: a FamilySearch index lists 'Mary Carol Ruth' in the marriage entry of a Laurence T. Cognetti ([R4-S3]).",
+   "conflicts": [
+    {
+     "field": "sex",
+     "site": "U",
+     "found": "F",
+     "assessment": "Bride on the 1950 license."
+    }
+   ],
+   "openQuestions": [
+    "Anthony R. Cognetti's second wife (the former Mary Flanagan, m. c.1980) and the four sons Lawrence/Laurence T., Mark, Dr. Peter and attorney Michael are missing from the tree; the Legacy obituary (id 24081273) is blocked, so its survivor list should be read and confirmed."
+   ],
+   "sources": [
+    "[R4-S1] Lackawanna County, PA, Orphans' Court, application for marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth, pp. 186-187; FS index VF7V-JDS / VF7V-J81 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch tree PW29-VF6, Mary Carol Ruth 1929-1978 (parents Lawrence Rocco Ruth 1905-1968 and Mary Loretta Barrett 1909-1985; death 24 Dec 1978, Lackawanna Co.; burial Cathedral Cemetery) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6",
+    "[R4-S3] FamilySearch index 'Pennsylvania, Marriages, 1709-1940': Mary Carol Ruth in the entry for Laurence T. Cognetti (H5JW-HN3Z), as listed among the sources of PW29-VF6 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6"
+   ],
+   "media": [
+    {
+     "url": "https://familysearch.org/ark:/61903/1:1:VF7V-JDS",
+     "type": "link",
+     "title": "1950 marriage license application no. 687, Anthony R. Cognetti and Mary C. Ruth (Lackawanna Co.)",
+     "date": "1950-05-13",
+     "source": "FamilySearch (Lackawanna County Orphans' Court), unknown",
+     "note": "Post-1931 county record; rights unknown per the brief, so not downloaded. (not downloaded: rights unknown)",
+     "people": [
+      "I282695503583",
+      "I282695503559",
+      "I282695503581"
+     ]
+    },
+    {
+     "url": "https://ancestors.familysearch.org/en/PW29-VF6/mary-carol-ruth-1929-1978",
+     "type": "link",
+     "title": "Photo attached to the FamilySearch profile of Mary Carol Ruth",
+     "date": "",
+     "source": "FamilySearch Memories, unknown",
+     "note": "The published JSON reports 1 photo and 1 memory; the image itself was not reachable (profile unpublished). Lead for John. (not downloaded: rights unknown)",
+     "people": []
+    }
+   ],
+   "bio": "Mary Carol Ruth was born in Scranton, Pennsylvania, in 1929, the daughter of Lawrence Rocco Ruth, a painter, and Mary Loretta Barrett. On 27 May 1950, a 21-year-old clerical worker, she married Anthony R. Cognetti in Scranton, with the Rev. Thomas Tracy officiating; Anthony, then a 25-year-old restaurant owner, was a brother of John's grandmother Mary Cognetti Petriello and later president of the Scranton City Council. She was presumably the mother of Anthony's four sons, Lawrence, Mark, Peter, who became a doctor, and Michael, an attorney; a marriage record of a Laurence T. Cognetti names her as his mother.\n\nMary died on 24 December 1978 in Lackawanna County, aged 49, and was buried in Cathedral Cemetery, Scranton. Anthony later remarried, and his 2008 obituary is said to record that he was predeceased by his first wife, Mary Ruth, and survived by his wife of 28 years, the former Mary Flanagan.",
+   "summary": "Scranton clerical worker who in 1950 married Anthony R. Cognetti, a brother of John's grandmother, and was presumably the mother of his four sons; she died in 1978 aged 49."
+  },
+  "round4File": null,
+  "round5File": {
+   "id": "H0500",
+   "name": "Mary Carol Ruth",
+   "researchedAt": "2026-10-08",
+   "status": "deceased_detected",
+   "updates": {
+    "aka": [
+     "Mary C. Ruth",
+     "Mary Ruth Cognetti"
+    ],
+    "birth": {
+     "date": "1929",
+     "place": "Scranton, Lackawanna County, Pennsylvania",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ]
+    },
+    "death": {
+     "date": "1978-12-24",
+     "place": "Lackawanna County, Pennsylvania",
+     "sourceRefs": [
+      "S2"
+     ]
+    },
+    "burial": {
+     "place": "Scranton, Pennsylvania",
+     "cemetery": "Cathedral Cemetery",
+     "sourceRefs": [
+      "S2"
+     ]
+    },
+    "occupation": "Clerical worker (1950)",
+    "residences": [
+     {
+      "date": "1940",
+      "place": "Scranton, Pennsylvania",
+      "note": "Age 11, 1940 census (FS index KQZZ-K1X)",
+      "sourceRefs": [
+       "S2"
+      ]
+     }
+    ],
+    "events": [
+     {
+      "title": "Marriage to Anthony R. Cognetti",
+      "date": "1950-05-27",
+      "place": "Scranton, Pennsylvania",
+      "description": "Lackawanna County marriage license no. 687 (applied 13 May, issued 16 May 1950). Mary C. Ruth, 21, clerical worker, born in Scranton, daughter of Lawrence Ruth (painter, born Scranton) and Loretta Barrett (born Scranton). Groom Anthony R. Cognetti, 25, restaurant owner, of 612 Philo St, son of Frank and Helen ('Farino'). Married by Rev. Thomas Tracy.",
+      "sourceRefs": [
+       "S1"
+      ]
+     }
+    ],
+    "facts": [
+     {
+      "label": "FamilySearch ID",
+      "value": "PW29-VF6"
+     }
+    ]
+   },
+   "bioAdditions": "Mary Carol Ruth was not living. She was born in Scranton in 1929, the daughter of Lawrence Rocco Ruth (1905-1968), a painter, and Mary Loretta (Barrett) Ruth (1909-1985) (S1, S2). She was a 21-year-old clerical worker when she married Anthony R. Cognetti, then a 25-year-old restaurant owner, in Scranton on 27 May 1950; Rev. Thomas Tracy officiated (marriage license no. 687, S1). The license again gives Helen Cognetti's maiden name as 'Farino', like the 1940 and 1943 licenses of Anthony's brothers. Mary died on 24 Dec 1978, aged 49, in Lackawanna County, and is buried in Cathedral Cemetery, Scranton (S2). Anthony R. Cognetti's 2008 obituary (Legacy, blocked; seen only through a search-engine summary) reportedly says he was predeceased by his first wife Mary Ruth and survived by his wife of 28 years, the former Mary Flanagan, and four sons, Lawrence, Mark, Dr. Peter and attorney Michael. Mary Carol Ruth was presumably the mother of these sons: a FamilySearch index lists 'Mary Carol Ruth' in the marriage entry of a Laurence T. Cognetti (S3).",
+   "relationships": [
+    {
+     "type": "spouse",
+     "personId": "I282695503583",
+     "evidence": "1950 Lackawanna County marriage license no. 687",
+     "sourceRefs": [
+      "S1"
+     ],
+     "strength": "proven"
+    },
+    {
+     "type": "parent",
+     "personId": "NEW-1405",
+     "evidence": "Marriage license: father Lawrence (painter, b. Scranton); FS tree: Lawrence Rocco Ruth 1905-1968",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ],
+     "strength": "proven"
+    },
+    {
+     "type": "parent",
+     "personId": "NEW-1406",
+     "evidence": "Marriage license: mother Loretta, maiden name Barrett; FS tree: Mary Loretta Barrett 1909-1985",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ],
+     "strength": "proven"
+    },
+    {
+     "type": "child",
+     "personId": "NEW-1407",
+     "evidence": "FS index 'Pennsylvania, Marriages' names Mary Carol Ruth in the entry for Laurence T. Cognetti (presumably as his mother)",
+     "sourceRefs": [
+      "S3"
+     ],
+     "strength": "probable"
+    }
+   ],
+   "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "Primary marriage license links her to Anthony R. Cognetti, son of Frank and Helen."
+   },
+   "conflicts": [
+    {
+     "field": "sex",
+     "siteValue": "U",
+     "foundValue": "F",
+     "sourceRefs": [
+      "S1"
+     ],
+     "assessment": "Bride on the 1950 license."
+    }
+   ],
+   "openQuestionsNew": [
+    "Anthony R. Cognetti's second wife (the former Mary Flanagan, m. c.1980) and the four sons Lawrence/Laurence T., Mark, Dr. Peter and attorney Michael are missing from the tree; the Legacy obituary (id 24081273) is blocked, so its survivor list should be read and confirmed."
+   ],
+   "sources": [
+    {
+     "ref": "S1",
+     "citation": "Lackawanna County, PA, Orphans' Court, application for marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth, pp. 186-187; FS index VF7V-JDS / VF7V-J81",
+     "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+     "class": "primary",
+     "accessed": "2026-10-08",
+     "supports": "Marriage on 27 May 1950, ages, occupations, birthplaces, parents of both"
+    },
+    {
+     "ref": "S2",
+     "citation": "FamilySearch tree PW29-VF6, Mary Carol Ruth 1929-1978 (parents Lawrence Rocco Ruth 1905-1968 and Mary Loretta Barrett 1909-1985; death 24 Dec 1978, Lackawanna Co.; burial Cathedral Cemetery)",
+     "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6",
+     "class": "derivative",
+     "accessed": "2026-10-08",
+     "supports": "Death date and burial (tree data, unsourced in the published JSON)"
+    },
+    {
+     "ref": "S3",
+     "citation": "FamilySearch index 'Pennsylvania, Marriages, 1709-1940': Mary Carol Ruth in the entry for Laurence T. Cognetti (H5JW-HN3Z), as listed among the sources of PW29-VF6",
+     "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6",
+     "class": "derivative",
+     "accessed": "2026-10-08",
+     "supports": "A son Laurence T. Cognetti (the record itself was not opened; ark pages 401)"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "1950 marriage license application no. 687, Anthony R. Cognetti and Mary C. Ruth (Lackawanna Co.)",
+     "date": "1950-05-13",
+     "pageUrl": "https://familysearch.org/ark:/61903/1:1:VF7V-JDS",
+     "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+     "repository": "FamilySearch (Lackawanna County Orphans' Court)",
+     "rights": "unknown",
+     "downloadable": false,
+     "downloaded": false,
+     "localPath": "",
+     "people": [
+      "H0500",
+      "I282695503583",
+      "I282695503559",
+      "I282695503581"
+     ],
+     "suggestedFile": "media/H0500/1950-marriage-license-687.jpg",
+     "note": "Post-1931 county record; rights unknown per the brief, so not downloaded."
+    },
+    {
+     "type": "photo",
+     "title": "Photo attached to the FamilySearch profile of Mary Carol Ruth",
+     "date": "",
+     "pageUrl": "https://ancestors.familysearch.org/en/PW29-VF6/mary-carol-ruth-1929-1978",
+     "directUrl": "",
+     "repository": "FamilySearch Memories",
+     "rights": "unknown",
+     "downloadable": false,
+     "downloaded": false,
+     "localPath": "",
+     "people": [
+      "H0500"
+     ],
+     "suggestedFile": "media/H0500/familysearch-photo.jpg",
+     "note": "The published JSON reports 1 photo and 1 memory; the image itself was not reachable (profile unpublished). Lead for John."
+    }
+   ],
+   "searchedNoResult": [
+    "Legacy.com Anthony R. Cognetti obituary (id 24081273): blocked 403; survivor names known only from a search-engine summary"
+   ],
+   "researchLogEntry": "Round 5: Mary Carol Ruth was not living: m. Anthony R. Cognetti 27 May 1950 (license no. 687, read), d. 24 Dec 1978, buried Cathedral Cemetery; parents Lawrence R. Ruth and Loretta Barrett."
+  }
+ },
+ {
+  "siteRecord": {
+   "id": "I282695503584",
+   "given": "John",
+   "surname": "Cognetti",
+   "sex": "M",
+   "birth": {
+    "date": "ABT 1926-1927",
+    "place": "Pennsylvania (Scranton)"
+   },
+   "residences": [
+    {
+     "date": "2008",
+     "place": "Pittsburgh, Allegheny County, Pennsylvania, USA"
+    },
+    {
+     "date": "1940",
+     "place": "Scranton, Pennsylvania",
+     "note": "Age 12, at school, in his parents' household [R4-S2]"
+    },
+    {
+     "date": "2013",
+     "place": "Green Tree, Allegheny County, Pennsylvania",
+     "note": "Residence at death [R4-S1]"
+    }
+   ],
+   "citations": [
+    {
+     "source": "1940 United States Federal Census",
+     "page": "Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania; Roll: m-t0627-03682; Page: 13B; Enumeration District: 71-16"
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Brother John listed in 2008 obituary; 1950 census at home aged 23."
+   },
+   "tags": [],
+   "summary": "Scranton-born Navy veteran and Pittsburgh-area confectionery broker, a brother of John's grandmother Mary Cognetti Petriello; he died at Green Tree, Pennsylvania, in 2013.",
+   "bio": "John F. Cognetti was born in Scranton, Pennsylvania, about 1927 (the records give his birth year variously as 1926, 1927 or 1928), a son of Frank and Helen (Ferlaino) Cognetti and a brother of John's grandmother Mary Cognetti Petriello, which makes him John's great-uncle. In 1940 he was a schoolboy of 12 in the family home on Philo Street, Scranton, and in 1950, aged 23, he was still at home, working as a laborer for a wholesale grocer. He served in the US Navy, probably in the Second World War era.\n\nHe later settled in the Pittsburgh area and spent 35 years as a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage trade that made his brother Joseph F. Cognetti a member of the Candy Hall of Fame. He married Evelyn, who died before him, and they had three sons, Dean J., John J. and David, and five grandchildren, Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. He was living in Pittsburgh in 2008.\n\nJohn died on 8 November 2013 at Green Tree, a Pittsburgh suburb, aged 87, and his Mass of Christian Burial was celebrated at SS. Simon and Jude Church in Green Tree on 16 November. He was survived by his brother Leo and his sister Mary, having outlived his siblings Ralph, Joseph, Angeline Butchko, Anthony and Sal.",
+   "facts": [
+    {
+     "label": "Tree display (IMG_7830-7840)",
+     "value": "John 1928-Deceased"
+    }
+   ],
+   "sources": [
+    "Anthony R. Cognetti obituary (2008)",
+    "1950 census",
+    "Thanksgiving article 2016",
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service; also published in the Pittsburgh Post-Gazette on 10 Nov 2013 (Legacy pid 167940321, blocked) (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti",
+    "[R4-S2] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R4-S3] FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9"
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "John Cognetti (b. 1928)",
+    "line": 11425
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Legacy.com Post-Gazette notice pid=167940321: blocked (403); Wayback availability API: 429 rate limited; CDX: blocked by egress policy; WebSearch \"Kramer-Cognetti\" Sales: no other web record of the firm"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 5: found John F. Cognetti's obituary (d. 8 Nov 2013, Green Tree, PA, age 87; Navy; confectionery broker), which names wife Evelyn, three sons and all of his siblings. Deceased, not living."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported) from research/imported/round4/people/I282695503584.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "researchNotes": "Tree: John 1928. 1950: aged 23, laborer, wholesale grocer, at home. Living in Pittsburgh in 2008 (Anthony's obituary). Deceased by Nov 2016 per the Thanksgiving article (only Leo and Mary survived).\n\nround5: John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 ([R4-S1]). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 ([R4-S1]). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton ([R4-S2]). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",
+   "death": {
+    "date": "2013-11-08",
+    "place": "Green Tree, Allegheny County, Pennsylvania"
+   },
+   "aka": [
+    "John F. Cognetti"
+   ],
+   "occupation": "Confectionery broker; partner in Kramer-Cognetti Sales for 35 years",
+   "events": [
+    {
+     "title": "Funeral",
+     "date": "2013-11-16",
+     "place": "SS. Simon & Jude Church, Green Tree (Pittsburgh), PA",
+     "description": "Visitation on 15 Nov 2013 at the William Slater II Funeral Service; Mass of Christian Burial on 16 Nov 2013. [R4-S1]"
+    },
+    {
+     "title": "Partner, Kramer-Cognetti Sales, confectionery brokers (Pittsburgh area)",
+     "date": "35 years",
+     "place": "",
+     "description": "Same candy-brokerage trade as his brother Joseph F. (D.C. Sales Co., Scranton) [R4-S1]"
+    }
+   ],
+   "military": [
+    {
+     "note": "Served in the US Navy; the obituary gives no dates (probably the WWII era, given his birth c.1926-27) [R4-S1]"
+    }
+   ],
+   "funFacts": [
+    "Like his brother Joe and his nephew Tony, John made his career in the candy trade: 35 years as a confectionery broker in Pittsburgh."
+   ],
+   "conflicts": [
+    {
+     "field": "birth.date",
+     "site": "1928",
+     "found": "c.1926 (age 87 at death in Nov 2013); 1927 per FamilySearch tree; age 12 in Apr 1940 implies 1927-28",
+     "assessment": "The year is probably 1926-27. The exact date should come from SSDI or his Navy record."
+    }
+   ],
+   "openQuestions": [
+    "Evelyn Cognetti's maiden name and dates; John's Navy service dates; place of burial (the obituary page shows a cemetery section, but its text was not readable)."
+   ],
+   "media": [
+    {
+     "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+     "type": "link",
+     "title": "Obituary of John F. Cognetti, 2013 (Slater Funeral Home)",
+     "date": "2013-11",
+     "source": "William Slater II Funeral Service, copyrighted",
+     "note": "No portrait photo found on the page. (not downloaded: rights copyrighted)",
+     "people": []
+    }
+   ]
+  },
+  "round4File": null,
+  "round5File": {
+   "id": "I282695503584",
+   "name": "John Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "deceased_detected",
+   "updates": {
+    "aka": [
+     "John F. Cognetti"
+    ],
+    "birth": {
+     "date": "about 1926-1927",
+     "place": "Pennsylvania (Scranton)",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ]
+    },
+    "death": {
+     "date": "2013-11-08",
+     "place": "Green Tree, Allegheny County, Pennsylvania",
+     "sourceRefs": [
+      "S1"
+     ]
+    },
+    "occupation": "Confectionery broker; partner in Kramer-Cognetti Sales for 35 years",
+    "residences": [
+     {
+      "date": "1940",
+      "place": "Scranton, Pennsylvania",
+      "note": "Age 12, at school, in his parents' household",
+      "sourceRefs": [
+       "S2"
+      ]
+     },
+     {
+      "date": "2013",
+      "place": "Green Tree, Allegheny County, Pennsylvania",
+      "note": "Residence at death",
+      "sourceRefs": [
+       "S1"
+      ]
+     }
+    ],
+    "events": [
+     {
+      "title": "Funeral",
+      "date": "2013-11-16",
+      "place": "SS. Simon & Jude Church, Green Tree (Pittsburgh), PA",
+      "description": "Visitation on 15 Nov 2013 at the William Slater II Funeral Service; Mass of Christian Burial on 16 Nov 2013.",
+      "sourceRefs": [
+       "S1"
+      ]
+     }
+    ],
+    "military": [
+     {
+      "note": "Served in the US Navy; the obituary gives no dates (probably the WWII era, given his birth c.1926-27)",
+      "sourceRefs": [
+       "S1"
+      ]
+     }
+    ],
+    "career": [
+     {
+      "role": "Partner",
+      "organization": "Kramer-Cognetti Sales, confectionery brokers (Pittsburgh area)",
+      "years": "35 years",
+      "detail": "Same candy-brokerage trade as his brother Joseph F. (D.C. Sales Co., Scranton)",
+      "sourceRefs": [
+       "S1"
+      ]
+     }
+    ]
+   },
+   "bioAdditions": "John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 (S1). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 (S1). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton (S2). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",
+   "funFacts": [
+    "Like his brother Joe and his nephew Tony, John made his career in the candy trade: 35 years as a confectionery broker in Pittsburgh."
+   ],
+   "conflicts": [
+    {
+     "field": "birth.date",
+     "siteValue": "1928",
+     "foundValue": "c.1926 (age 87 at death in Nov 2013); 1927 per FamilySearch tree; age 12 in Apr 1940 implies 1927-28",
+     "sourceRefs": [
+      "S1",
+      "S2",
+      "S3"
+     ],
+     "assessment": "The year is probably 1926-27. The exact date should come from SSDI or his Navy record."
+    }
+   ],
+   "relationships": [
+    {
+     "type": "spouse",
+     "personId": "NEW-1401",
+     "evidence": "Obituary: 'beloved husband of the late Evelyn Cognetti'",
+     "sourceRefs": [
+      "S1"
+     ],
+     "strength": "proven"
+    },
+    {
+     "type": "child",
+     "personId": "NEW-1402",
+     "evidence": "Obituary names son Dean J. (Deborah)",
+     "sourceRefs": [
+      "S1"
+     ],
+     "strength": "proven"
+    },
+    {
+     "type": "child",
+     "personId": "NEW-1403",
+     "evidence": "Obituary names son John J. (Sandra)",
+     "sourceRefs": [
+      "S1"
+     ],
+     "strength": "proven"
+    },
+    {
+     "type": "child",
+     "personId": "NEW-1404",
+     "evidence": "Obituary names son David (Ann)",
+     "sourceRefs": [
+      "S1"
+     ],
+     "strength": "proven"
+    }
+   ],
+   "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "His own obituary names all of his siblings."
+   },
+   "openQuestionsNew": [
+    "Evelyn Cognetti's maiden name and dates; John's Navy service dates; place of burial (the obituary page shows a cemetery section, but its text was not readable)."
+   ],
+   "sources": [
+    {
+     "ref": "S1",
+     "citation": "Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service; also published in the Pittsburgh Post-Gazette on 10 Nov 2013 (Legacy pid 167940321, blocked)",
+     "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+     "class": "secondary",
+     "accessed": "2026-10-08",
+     "supports": "Death, age, residence, wife, sons, grandchildren, siblings, career, Navy service, services"
+    },
+    {
+     "ref": "S2",
+     "citation": "1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12)",
+     "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+     "class": "primary",
+     "accessed": "2026-10-08",
+     "supports": "Age 12 in 1940, at school, in Frank and Helen's household"
+    },
+    {
+     "ref": "S3",
+     "citation": "FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW)",
+     "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9",
+     "class": "derivative",
+     "accessed": "2026-10-08",
+     "supports": "Birth year 1927 in the FS tree; the FS profile has no death date"
+    }
+   ],
+   "media": [
+    {
+     "type": "link",
+     "title": "Obituary of John F. Cognetti, 2013 (Slater Funeral Home)",
+     "date": "2013-11",
+     "pageUrl": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+     "directUrl": "",
+     "repository": "William Slater II Funeral Service",
+     "rights": "copyrighted",
+     "downloadable": false,
+     "downloaded": false,
+     "localPath": "",
+     "people": [
+      "I282695503584"
+     ],
+     "suggestedFile": "media/I282695503584/obituary-2013.html",
+     "note": "No portrait photo found on the page."
+    }
+   ],
+   "searchedNoResult": [
+    "Legacy.com Post-Gazette notice pid=167940321: blocked (403)",
+    "Wayback availability API: 429 rate limited; CDX: blocked by egress policy",
+    "WebSearch \"Kramer-Cognetti\" Sales: no other web record of the firm"
+   ],
+   "researchLogEntry": "Round 5: found John F. Cognetti's obituary (d. 8 Nov 2013, Green Tree, PA, age 87; Navy; confectionery broker), which names wife Evelyn, three sons and all of his siblings. Deceased, not living."
+  }
+ },
+ {
+  "siteRecord": {
+   "id": "M0079",
+   "given": "Evelyn",
+   "surname": "Cognetti",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282695503584 (proven)."
+   },
+   "tags": [],
+   "summary": "Evelyn Cognetti, wife of John F. Cognetti of Green Tree, Pennsylvania, a brother of John's grandmother; she died before her husband.",
+   "bio": "Evelyn Cognetti was the wife of John F. Cognetti of Green Tree, Pennsylvania, a brother of John's grandmother Mary Cognetti Petriello. They had three sons, Dean J., John J. and David. She died before her husband, who was a widower when he died in November 2013.",
+   "sources": [
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
+   ],
+   "manual": true,
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round5 imported): new relative NEW-1401 → M0079; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "researchNotes": "round5: Wife of John F. Cognetti (I282695503584) of Green Tree, PA; predeceased him (died before Nov 2013). Maiden name unknown."
+  },
+  "round4File": null,
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "H0346",
+   "given": "Leo S.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "birth": {
+    "date": "1929-05-19",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "2019-07-01",
+    "place": "Exton, Chester County, Pennsylvania, USA"
+   },
+   "occupation": "Machine operator, PA State Highway Department (1950)",
+   "source": "research",
+   "aka": [
+    "Leopold Salvatore Cognetti",
+    "Leopoldo Cognetti",
+    "Levyso",
+    "Leupo"
+   ],
+   "mergedFrom": [
+    {
+     "id": "I282695503582",
+     "name": "Levyso Cognetti",
+     "reason": "Round 5: the 1940 census's 'Leopo' (son, 10) is Leopold Salvatore 'Leo S.' Cognetti, born 19 May 1929; 'Levyso' was a misreading of the same entry."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Echovita obituary (parents Frank and Helen; sister Mary Petriello (John)); 1930 census; WWII draft card; 1950 census."
+   },
+   "tags": [],
+   "summary": "Scranton-born state highway machine operator who lived to ninety, brother of Mary Cognetti Petriello; John's great-granduncle.",
+   "bio": "Leo S. Cognetti, whose full name was Leopold Salvatore, was born in Scranton on 19 May 1929 and named for his maternal grandfather, Leopoldo Ferlaino; the 1930 census lists him as Leopoldo. He registered for the draft during the Second World War, and in 1950 he was working as a machine operator for the Pennsylvania State Highway Department. He died at Exton in Chester County, Pennsylvania, on 1 July 2019, aged ninety. His obituary names his sister Mary Petriello, John's great-grandmother, and her husband John, which makes Leo John's great-granduncle.",
+   "facts": [
+    {
+     "label": "Tree display",
+     "value": "Levyso 1930-Living (wrong: Leo S., d. 2019)"
+    }
+   ],
+   "sources": [
+    "Echovita: https://www.echovita.com/us/obituaries/pa/exton/leo-s-cognetti-9386745",
+    "1930 census XH3R-XB1: https://familysearch.org/ark:/61903/1:1:XH3R-XB1",
+    "Draft card Q2Q2-N2SB: https://familysearch.org/ark:/61903/1:1:Q2Q2-N2SB",
+    "Thanksgiving article 2016"
+   ],
+   "handoff": {
+    "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
+    "heading": "Leo S. Cognetti (b. 1929)",
+    "line": 11442
+   },
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970); FamilySearch published tree G3NN-88N ('Leopold Cognetti', 1929-2019), son of GJB1-P6Y: no attached record images in the published JSON"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: FS published tree confirms him as son of Frank (GJB1-P6Y); nothing else new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/H0346.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+   ],
+   "researchNotes": "Tree shows 'Levyso 1930-Living' - a misreading of Leo S. (and he died in 2019). FS tree has a duplicate 'Leupo' (1930). Born 19 May 1929; 'Leopoldo' in the 1930 census; WWII draft card Q2Q2-N2SB; 1950 machine operator for the State Highway Department. Aged 87 in Nov 2016. Died 1 Jul 2019 in Exton, PA; obituary names sister 'Mary Petriello (John)'. FS attaches him to a sourceless second wife 'Philomena' of Frank Cognetti - probably an error."
+  },
+  "round4File": {
+   "id": "H0346",
+   "name": "Leo S. Cognetti",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Pennsylvania death index 1965 (phmc PDF) checked only for Helen; siblings' deaths post-date the public indexes (post-1970)",
+    "FamilySearch published tree G3NN-88N ('Leopold Cognetti', 1929-2019), son of GJB1-P6Y: no attached record images in the published JSON"
+   ],
+   "researchLogEntry": "Round 4: FS published tree confirms him as son of Frank (GJB1-P6Y); nothing else new."
+  },
+  "round5File": null
+ },
+ {
+  "siteRecord": {
+   "id": "H0498",
+   "given": "Marguerite",
+   "surname": "Forgione",
+   "sex": "U",
+   "source": "research",
+   "link": {
+    "confidence": "unverified",
+    "note": "Named only as a relative in another person's handoff record; not researched."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Stub created from a handoff reference."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 searched without result: Not searched beyond existing record (spouse of Ralph A. Cognetti, m. 1 Jun 1940); living status not established, so no contact-type data sought"
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4: nothing new."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Round 4 (round4 imported) from research/imported/round4/people/H0498.json."
+    }
+   ]
+  },
+  "round4File": {
+   "id": "H0498",
+   "name": "Marguerite Forgione",
+   "researchedAt": "2026-10-08",
+   "status": "nothing_new",
+   "searchedNoResult": [
+    "Not searched beyond existing record (spouse of Ralph A. Cognetti, m. 1 Jun 1940); living status not established, so no contact-type data sought"
+   ],
+   "researchLogEntry": "Round 4: nothing new."
+  },
+  "round5File": null
+ }
+]

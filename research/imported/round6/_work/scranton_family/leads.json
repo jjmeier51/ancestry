@@ -1,0 +1,82 @@
+[
+  {
+    "personId": "I282695503559",
+    "collection": "Pennsylvania, U.S., Death Certificates, 1906-1970 (Ancestry) / PA State Archives",
+    "site": "Ancestry (paywalled) or PA State Archives order",
+    "searchTerms": "Salvatore Cognetti, died 9 Sep 1938, Scranton, Lackawanna Co., certificate file 80521",
+    "whatTheSnippetShows": "PA death index 1938 (C-D volume, PDF p. 29, Soundex C253): SALVATORE COGNETTI, SCRANTON, county 35, 9/9/38, file 80521 (no age in this index)",
+    "whyItMatters": "Not Frank's son Sal (alive 1940-1990). A Salvatore Cognetti dying in Scranton in 1938 could be a brother, uncle or father of Frank (Giovanni reportedly died 1930 in 'Nicasetro') or belong to the Nicastro Cognetti family; the certificate names parents and birthplace."
+  },
+  {
+    "personId": "I282695503559",
+    "collection": "Pennsylvania, U.S., Death Certificates, 1906-1970",
+    "site": "Ancestry (paywalled) / PA State Archives",
+    "searchTerms": "Frances Cognetti, died 24 Feb 1939, Scranton, file 16802",
+    "whatTheSnippetShows": "PA death index 1939 (C-D volume, PDF p. 30): FRANCES COGNETTI, SCRANTON, 35, 2/24/39, file 16802",
+    "whyItMatters": "Unidentified Scranton Cognetti death; Frank and Helen's eight children all survived to adulthood, so she is probably of another family (not the Nicastro family's Francis b. 1927, who was alive in the 1980s per FS), but could be an aunt/relative."
+  },
+  {
+    "personId": "I282695503559",
+    "collection": "Pennsylvania, U.S., Death Certificates, 1906-1970",
+    "site": "Ancestry (paywalled) / PA State Archives",
+    "searchTerms": "Giuseppe Cognetto, died 2 Aug 1922, Scranton, file 79110",
+    "whatTheSnippetShows": "PA death index 1922 (C-D volume, PDF p. 15, Soundex C253): Giuseppe Cognetto, Scranton, 8/2, file 79110",
+    "whyItMatters": "Early Scranton Cognetto death; could be a relative of Frank or of Bruno Cognetto's Nicastro family (H0513)."
+  },
+  {
+    "personId": "I282695503585",
+    "collection": "Joseph F. Cognetti obituary (Times-Tribune 28 May 2009) and Domenica Cognetti obituary (c. Mar 2009)",
+    "site": "Legacy.com (blocked) / Newspapers.com",
+    "searchTerms": "Legacy id 23435864; 'Domenica Cognetti' 2009 Scranton/Moosic",
+    "whatTheSnippetShows": "Search summary: wife of 63 years Domenica, married 1946; lumber salesman 1937; D.C. Sales 1956; Lou Spector Award 1961; died at VNA Hospice, Community Medical Center",
+    "whyItMatters": "Domenica's maiden name and dates are unknown; full text needed to confirm summary details."
+  },
+  {
+    "personId": "I282695503587",
+    "collection": "Angeline Butchko obituary, 2009, Scranton Times",
+    "site": "Legacy.com / Newspapers.com",
+    "searchTerms": "'Angeline Butchko' OR 'Angeline Cognetti Butchko' 2009 Scranton",
+    "whatTheSnippetShows": "Search summary: Angeline Cognetti Butchko, 87, died at Hospice Inpatient Unit of Mercy Hospital; widow of Nicholas Butchko, husband of ~50 years",
+    "whyItMatters": "Exact death date, burial, marriage date and husband's details."
+  },
+  {
+    "personId": "I282695503583",
+    "collection": "Anthony R. Cognetti obituary, Times-Tribune, Sept 2008",
+    "site": "Legacy.com id 24081273 (blocked)",
+    "searchTerms": "Anthony R. Cognetti 2008 Scranton",
+    "whatTheSnippetShows": "Summaries: council president; SWIF director; Workmen's Compensation Appeal Board commissioner; Jaycees and Keystone Heart Association president; O'Malley & Langan consultant; Cathedral Cemetery",
+    "whyItMatters": "Dates of public offices and education (Keystone JC vs University of Scranton) need the full text; a newspaper photo would be valuable (rights permitting)."
+  },
+  {
+    "personId": "I282695503583",
+    "collection": "The Pennsylvania Manual (biennial state government directory), 1960s-1980s",
+    "site": "HathiTrust / state library (full-text search blocked)",
+    "searchTerms": "Cognetti, Workmen's Compensation Appeal Board / State Workmen's Insurance Fund",
+    "whatTheSnippetShows": "Not yet searched (HathiTrust full-text blocked; Google Books quota exhausted)",
+    "whyItMatters": "Government publication would give appointment dates and possibly a portrait."
+  },
+  {
+    "personId": "I282695503586",
+    "collection": "NARA AAD, WWII Army Enlistment Records (and VA BIRLS death file)",
+    "site": "aad.archives.gov (403 from this environment) / Fold3",
+    "searchTerms": "Cognetti, Pennsylvania, 1942-1943 (Sal D., Joseph F., Anthony R.); BIRLS for John F. (Navy)",
+    "whatTheSnippetShows": "FS index K8PX-Z8K exists for Sal (enlisted Wilkes-Barre 5 Jan 1942); AAD itself blocked",
+    "whyItMatters": "Serial numbers, branch, education and civilian occupation at enlistment; BIRLS gives exact birth/death dates for John (birth year unsettled)."
+  },
+  {
+    "personId": "H0498",
+    "collection": "Marguerite Cognetti obituary, 2014",
+    "site": "Legacy.com / Times-Tribune",
+    "searchTerms": "Marguerite Cognetti, died 30 May 2014, Scranton, age 100/101",
+    "whatTheSnippetShows": "FS tree gives death 30 May 2014 (unsourced); 2012 Amori obituary shows her alive",
+    "whyItMatters": "Confirms death and burial; would list children (incl. daughter Helen, b. c.1940-41, missing from the tree)."
+  },
+  {
+    "personId": "I282695503559",
+    "collection": "Find a Grave memorial 249936014, Mary Alice Reill Cognetti (1942-2021), Cathedral Cemetery",
+    "site": "findagrave.com (blocked) / Matarese Funeral Home",
+    "searchTerms": "Mary Alice Cognetti 2021; husband Joseph M. Cognetti",
+    "whatTheSnippetShows": "Search summary: buried Cathedral Cemetery, Scranton; children include Joseph M. Cognetti Jr. and Ryan T. Cognetti (husband of Mayor Paige Cognetti)",
+    "whyItMatters": "Her husband Joseph M. Cognetti (Sr.) is not identified; which Scranton Cognetti family he belongs to (Frank/Helen line or the Nicastro family) bears on the open Paige Cognetti question. Deceased people only; do not research the living children."
+  }
+]

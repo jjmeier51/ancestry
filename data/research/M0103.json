@@ -1,0 +1,31 @@
+{
+  "id": "M0103",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Mother of Marguerite Forgione per her 1940 marriage licence; related to John by marriage only."
+  },
+  "tags": [],
+  "summary": "Italian-born Scranton mother of Marguerite Forgione Cognetti.",
+  "bio": "Elizabeth D'Ettore was born in Italy in 1888 and married the shoemaker Pietro Forgione; they lived in Scranton, Pennsylvania, and had at least nine children, among them Marguerite, who married Ralph A. Cognetti in 1940. She died in Scranton on 5 January 1964.",
+  "sources": [
+    "[R6-S1] Lackawanna Co. marriage license no. 817 (1940), Ralph A. Cognetti and Margaret Forgione (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LJQW-QT8/images/i/1/image.jpg",
+    "[R6-S2] FamilySearch tree LJQW-QT8 (Marguerite Forgione) with parents L6CM-QWS and L6CM-7C3 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LJQW-QT8"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research): new relative NEW-1556 → M0103; research/imported/round6/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "L6CM-7C3"
+    }
+  ]
+}

@@ -12,6 +12,18 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503588.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: n/a: duplicate profile; see I282695503685"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: duplicate of Ralph A. Cognetti confirmed again (draft card 1940); merge."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503588.json."
     }
   ],
   "conflicts": [
@@ -20,6 +32,12 @@
       "site": "Ralph Cognetti abt 1913",
       "found": "Same person as Ralph A. Cognetti (7 Aug 1913-16 Apr 2009)",
       "assessment": "Merge into I282695503685."
+    },
+    {
+      "field": "duplicate",
+      "site": "Ralph Cognetti abt 1913",
+      "found": "Same person as Ralph A. (Ralph Anthony) Cognetti, 7 Aug 1913-16 Apr 2009 (I282695503685)",
+      "assessment": "Merge confirmed: 1920-1950 censuses and the 1940 draft card show only one Ralph in Frank and Helen's family. Evidence is in I282695503685.json."
     }
   ]
 }

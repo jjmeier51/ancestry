@@ -28,9 +28,11 @@ SRC = os.path.join(ROOT, "research", "imported", ROUND)
 MEDIA_SRC = os.environ.get("ROUND4_MEDIA", os.path.join(ROOT, ".cache", ROUND, "media"))
 TODAY = "2026-10-08"
 TAG = ROUND
+LABEL = "Round " + re.sub(r"\D", "", ROUND)   # "Round 6"
+RTAG = "R" + re.sub(r"\D", "", ROUND)          # source tags [R6-S1]
 NOTES_ONLY = ROUND != "round4"   # later rounds: bioAdditions go to researchNotes; the About stays prose
 LEADS_FILE = "research/leads-round4.md" if ROUND == "round4" else f"research/leads-{ROUND}.md"
-PRESET_IDS = {"round5": {"NEW-1201": "H0383"}}.get(ROUND, {})          # new people who already exist in the tree
+PRESET_IDS = {"round5": {"NEW-1201": "H0383"}, "round6": {"NEW-1553": "M0089", "NEW-1554": "M0088"}}.get(ROUND, {})          # new people who already exist in the tree
 SKIP_NEW = {"round5": {"NEW-1305", "NEW-1306", "NEW-1307"}}.get(ROUND, set())  # siblings whose parents are not in the tree
 DIR_OVERRIDES = {"round5": {**{(f"NEW-{n}", None): "parent_of" for n in (1405, 1406, 1410, 1411)},
                             ("NEW-1409", "NEW-1408"): "parent_of", ("NEW-1409", "I282695503586"): "child_of", ("NEW-1409", "H0499"): "child_of",
@@ -75,14 +77,14 @@ def refs_to_text(text, have):
     """S1 -> [R4-S1] so the reference points at the appended source line."""
     if not text or not have:
         return text or ""
-    return re.sub(r"\bS(\d{1,2})\b", lambda m: f"[R4-S{m.group(1)}]" if f"S{m.group(1)}" in have else m.group(0), text)
+    return re.sub(r"\bS(\d{1,2})\b", lambda m: f"[{RTAG}-S{m.group(1)}]" if f"S{m.group(1)}" in have else m.group(0), text)
 
 
 def fmt_source(s):
     cite = (s.get("citation") or "").strip()
     url = (s.get("url") or "").strip()
     cls = s.get("class")
-    out = f"[R4-{s.get('ref', '')}] {cite}"
+    out = f"[{RTAG}-{s.get('ref', '')}] {cite}"
     if cls:
         out += f" ({cls})"
     if url:
@@ -147,7 +149,7 @@ def import_person(pid, d, site, stats):
     log = r.setdefault("researchLog", [])
     status = d.get("status")
     if status == "living_detected":
-        log.append({"date": TODAY, "note": f"Round 4 ({TAG} imported): identified as a living person; not researched further."})
+        log.append({"date": TODAY, "note": f"{LABEL} ({TAG} imported): identified as a living person; not researched further."})
         save(path, r); stats["living"] += 1
         return
     if status == "minor_limited":
@@ -173,7 +175,7 @@ def import_person(pid, d, site, stats):
             r.setdefault("conflicts", [])
             if not any(c.get("field") == f"{key}.date" for c in r["conflicts"]):
                 r["conflicts"].append({"field": f"{key}.date", "site": cd, "found": nd,
-                                       "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."})
+                                       "assessment": LABEL + " found a different date; the tree value is kept until a certificate settles it."})
         if up.get("place") and (not cur.get("place") or apply_date):
             new["place"] = up["place"]
         if new != cur:
@@ -193,7 +195,7 @@ def import_person(pid, d, site, stats):
             r.setdefault("facts", list(p.get("facts") or [])).append({"label": "Occupation (round 4)", "value": u["occupation"]})
     def with_refs(txt, refs):
         refs = [x for x in (refs or []) if x in have]
-        return (txt or "") + ((" " if txt else "") + " ".join(f"[R4-{x}]" for x in refs) if refs else "")
+        return (txt or "") + ((" " if txt else "") + " ".join(f"[{RTAG}-{x}]" for x in refs) if refs else "")
     for key in ("residences", "events", "military"):
         items = u.get(key) or []
         if not items:
@@ -259,7 +261,7 @@ def import_person(pid, d, site, stats):
         link = dict(r.get("link") or p.get("link") or {})
         old = link.get("confidence", cr.get("current"))
         link["confidence"] = cr["recommended"]
-        link["note"] = ((link.get("note") or "").strip() + " " if link.get("note") else "") + f"Round 4 ({old} → {cr['recommended']}): {refs_to_text(cr.get('justification', ''), have)}"
+        link["note"] = ((link.get("note") or "").strip() + " " if link.get("note") else "") + f"{LABEL} ({old} → {cr['recommended']}): {refs_to_text(cr.get('justification', ''), have)}"
         r["link"] = link
         log.append({"date": TODAY, "note": f"Confidence {old} → {cr['recommended']}: {refs_to_text(cr.get('justification', ''), have)}"})
         stats["confidence"] += 1
@@ -280,7 +282,7 @@ def import_person(pid, d, site, stats):
         if rel.get("personId", "").startswith("NEW-"):
             continue
         if rel.get("type") in ("parent", "spouse", "child") and rel.get("strength") in ("proven", "probable") and rel.get("evidence"):
-            log.append({"date": TODAY, "note": f"Round 4 relationship evidence ({rel['type']} {rel['personId']}, {rel['strength']}): {refs_to_text(rel['evidence'], have)}"})
+            log.append({"date": TODAY, "note": f"{LABEL} relationship evidence ({rel['type']} {rel['personId']}, {rel['strength']}): {refs_to_text(rel['evidence'], have)}"})
     srcs = r.get("sources") or list(p.get("sources") or [])
     for s in d.get("sources") or []:
         line = fmt_source(s)
@@ -325,10 +327,10 @@ def import_person(pid, d, site, stats):
     if media:
         r["media"] = media
     if d.get("searchedNoResult"):
-        log.append({"date": TODAY, "note": "Round 4 searched without result: " + "; ".join(d["searchedNoResult"])[:1500]})
+        log.append({"date": TODAY, "note": LABEL + " searched without result: " + "; ".join(d["searchedNoResult"])[:1500]})
     if d.get("researchLogEntry"):
         log.append({"date": TODAY, "note": d["researchLogEntry"]})
-    log.append({"date": TODAY, "note": f"Round 4 ({TAG} imported) from research/imported/round4/people/{pid}.json."})
+    log.append({"date": TODAY, "note": f"{LABEL} ({TAG} imported) from research/imported/{ROUND}/people/{pid}.json."})
     save(path, r)
     stats["people"] += 1
 
@@ -385,10 +387,10 @@ def import_new_people(site, stats):
         strengths = [r_.get("strength") for r_ in np_.get("relationships", [])]
         conf = "probable" if any(x in ("proven", "confirmed") for x in strengths) else ("possible" if "probable" in strengths else "possible")
         rels = "; ".join(f"{r_['type']} of {mid(r_['personId'])}" + (f" ({r_['strength']})" if r_.get("strength") else "") for r_ in np_.get("relationships", []))
-        rf = {"id": pid, "link": {"confidence": conf, "note": f"Added by round-4 research (2026-10-08) from records; relationship: {rels}."},
+        rf = {"id": pid, "link": {"confidence": conf, "note": f"Added by {LABEL.lower()} research (2026-10-08) from records; relationship: {rels}."},
               "tags": [], "summary": (np_.get("bio") or "").split(". ")[0][:220], "bio": refs_to_text(np_.get("bio", ""), have),
               "sources": [fmt_source(x) for x in np_.get("sources", [])], "manual": True,
-              "researchLog": [{"date": TODAY, "note": f"Round 4 ({TAG} imported): new relative {np_['id']} → {pid}; research/imported/round4/new_people.json."}]}
+              "researchLog": [{"date": TODAY, "note": f"{LABEL} ({TAG} imported): new relative {np_['id']} → {pid}; research/imported/{ROUND}/new_people.json."}]}
         for key in ("residences", "events", "facts", "funFacts"):
             if np_.get(key):
                 rf[key] = np_[key]
@@ -557,7 +559,7 @@ def import_stories(idmap, stats):
 
 def write_leads(idmap, site):
     leads = load(os.path.join(SRC, "leads.json"), [])
-    out = [f"# Research leads from {ROUND} (8 Oct 2026)", "", "Records seen only as index entries or snippets; each needs the actual record (paywalled or orderable). Source: `research/imported/round4/leads.json`.", "",
+    out = [f"# Research leads from {ROUND} (8 Oct 2026)", "", "Records seen only as index entries or snippets; each needs the actual record (paywalled or orderable). Source: `research/imported/{ROUND}/leads.json`.", "",
            "| Person | Collection | Search terms | What the snippet shows | Why it matters |", "|---|---|---|---|---|"]
     for l in leads:
         pid = idmap.get(l.get("personId"), l.get("personId"))

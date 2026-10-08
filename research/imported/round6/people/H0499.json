@@ -1,0 +1,161 @@
+{
+  "id": "H0499",
+  "name": "Elizabeth Notarianni",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1914-09-24",
+      "place": "Scranton, Lackawanna County, Pennsylvania",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1994-09-20",
+      "place": "Scranton, Lackawanna County, Pennsylvania",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "burial": {
+      "place": "Scranton, Pennsylvania",
+      "cemetery": "Cathedral Cemetery",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "aka": [
+      "Elizabeth Mary Notarianni",
+      "Elizabeth M. Notarianni Cognetti",
+      "Elizabeth Notarianna (1930 census)"
+    ],
+    "occupation": "Stenographer (1943)",
+    "residences": [
+      {
+        "date": "1930",
+        "place": "Scranton, Pennsylvania",
+        "note": "With her parents",
+        "sourceRefs": [
+          "S3"
+        ]
+      },
+      {
+        "date": "1943-10",
+        "place": "1219 Providence Rd, Scranton, Pennsylvania",
+        "note": "At marriage",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage to Sal Cognetti",
+        "date": "1943-10-16",
+        "place": "Scranton, Pennsylvania",
+        "description": "License no. 1716; Rev. Luigino R[angi?] officiated.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GJ6T-768"
+      }
+    ]
+  },
+  "bioAdditions": "Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, a daughter of Joseph Notarianni (1880-1940) and Michelina Carabia (1889-1953), both born in Italy (S1, S2). She was working as a stenographer and living at 1219 Providence Road when she married Sal Cognetti, then a soldier, on 16 October 1943; her father had died three years earlier (S1). She outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery (S2).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "I282695503586",
+      "evidence": "1943 marriage license no. 1716",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "NEW-1553",
+      "evidence": "License names father Joseph (dead, born Italy); FS tree Joseph Notarianni 1880-1940",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "NEW-1554",
+      "evidence": "License names mother Michelina, maiden name Caravia/Carabia",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "Primary marriage license links her to Sal Cognetti, son of Frank and Helen."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Lackawanna County Orphans' Court, marriage license application no. 1716 (1943), Sal. Cognetti and Elizabeth Notarianni, p. 216; FS index VF7J-VGD (bride), image attached to FS tree GJ6T-768",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Elizabeth Notarianni, stenographer, 28, born Scranton, of 1219 Providence Rd, Scranton; father Joseph (dead), born Italy; mother Michelina, maiden name Caravia/Carabia, of Scranton, born Italy, housewife; first marriage; married 16 Oct 1943"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch tree GJ6T-768, Elizabeth Mary Notarianni 1914-1994",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GJ6T-768",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Born 24 Sep 1914 Scranton; died 20 Sep 1994 Scranton; burial Cathedral Cemetery (Find a Grave index CVV7-9XT2); parents Joseph Notarianni (1880-1940, d. 3 Dec 1940) and Michaelina Carabia (1889-1953, d. 11 Feb 1953); siblings Tommas (1911-1911), Claire (1912-1961), Diane Jeanne (1916-1998), William Joseph (1919-2003); Social Security application Jan 1937"
+    },
+    {
+      "ref": "S3",
+      "citation": "1930 US census, Scranton, 'Elizabeth Notarianna' in her parents' household; FS index XH3R-8DM, image attached to FS tree GJ6T-768",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Residence in Scranton in 1930 with her parents (image downloaded but lines not transcribed)"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1943 marriage license application no. 1716, Sal Cognetti and Elizabeth Notarianni",
+      "date": "1943-10-13",
+      "pageUrl": "https://familysearch.org/ark:/61903/1:1:VF7J-VGD",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
+      "repository": "FamilySearch (Lackawanna County Orphans' Court)",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0499",
+        "I282695503586",
+        "I282695503559",
+        "I282695503581"
+      ],
+      "suggestedFile": "media/H0499/marriage-license-1943.jpg",
+      "note": "Already known to the site under Sal; listed here for Elizabeth. Rights unknown; not downloaded."
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch 'Elizabeth Cognetti' Notarianni Scranton 1994 obituary: nothing",
+    "Find a Grave memorial (index CVV7-9XT2): site blocked per brief"
+  ],
+  "researchLogEntry": "Round 6: from her 1943 marriage license and FS tree: b. 24 Sep 1914 Scranton, stenographer, parents Joseph Notarianni and Michelina Carabia; d. 20 Sep 1994, Cathedral Cemetery."
+}

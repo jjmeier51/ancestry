@@ -1,0 +1,87 @@
+{
+  "id": "I282695503583",
+  "name": "Anthony R. Cognetti",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "burial": {
+      "place": "Scranton, Pennsylvania",
+      "cemetery": "Cathedral Cemetery",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Ice-cream store/restaurant owner (1950); director, State Workmen's Insurance Fund; commissioner, Workmen's Compensation Appeal Board; consultant to O'Malley & Langan P.C. (2008)",
+    "events": [
+      {
+        "title": "Public offices",
+        "date": "",
+        "place": "Pennsylvania",
+        "description": "Director of the State Workmen's Insurance Fund (SWIF), later commissioner of the Workmen's Compensation Appeal Board; earlier president of Scranton City Council (dates not found).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Civic offices",
+        "date": "",
+        "place": "Scranton",
+        "description": "President of the (Scranton) Junior Chamber of Commerce and of the Keystone Heart Association.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Second marriage",
+        "date": "c.1980",
+        "place": "",
+        "description": "Married the former Mary Flanagan; married 28 years at his death.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Summaries of Tony's 2008 obituary add a career in state government to his time on city council: he was director of the State Workmen's Insurance Fund and later a commissioner of the Workmen's Compensation Appeal Board, lectured often at workers' compensation seminars, and at his death was a consultant to the Scranton law firm O'Malley & Langan. He had also been president of the Junior Chamber of Commerce and of the Keystone Heart Association. He left four sons and twelve grandchildren and was buried in Cathedral Cemetery (S1). In 1940 he was a 16-year-old schoolboy who had finished eighth grade (S2).",
+  "conflicts": [
+    {
+      "field": "education",
+      "siteValue": "Keystone Junior College and Penn State",
+      "foundValue": "One search summary of the obituary gives Penn State and the University of Scranton; another gives Keystone Junior College and Penn State",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved until the obituary text is read; keep the site value."
+    }
+  ],
+  "openQuestionsNew": [
+    "Years of his City Council service and presidency, and of his SWIF/WCAB appointments (Pennsylvania Manual; Scranton Times archives).",
+    "Second wife Mary (Flanagan) Cognetti: status (may be living) - check before adding.",
+    "Scranton Red Sox presidency (1970s): a newspaper source and photo still to be found."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of Anthony R. Cognetti, The Times-Tribune (Scranton), Sept 2008, Legacy.com id 24081273; page blocked (403); content known only from two search-engine summaries (2026-10-08)",
+      "url": "https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Former president of Scranton City Council; director of the State Workmen's Insurance Fund and later commissioner of the Workmen's Compensation Appeal Board; frequent speaker at workers' compensation seminars; at death a consultant to the Scranton law firm O'Malley & Langan P.C.; president of the Junior Chamber of Commerce and of the Keystone Heart Association; WWII Army veteran; twelve grandchildren; interment Cathedral Cemetery; wife of 28 years the former Mary Flanagan; first wife Mary Ruth; sons Lawrence, Mark, Dr. Peter, attorney Michael; sisters Angeline Butchko (Chinchilla) and Mary Petriello (Scranton). (Summaries; verify against the full text.)"
+    },
+    {
+      "ref": "S2",
+      "citation": "1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 70 (Anthony, son, 16, 612 Philo St)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "At school; highest grade completed 8"
+    }
+  ],
+  "searchedNoResult": [
+    "Legacy.com obituary: blocked (403)",
+    "WebSearch 'Anthony Cognetti' council president / Red Sox / Workers' Compensation Appeal Board: no primary or newspaper page found",
+    "Google Books API: daily quota exhausted (429)",
+    "Wikimedia Commons / LOC: no photo found in searches"
+  ],
+  "researchLogEntry": "Round 6: obituary summaries add SWIF director, WCAB commissioner, Jaycees and Heart Association presidencies, Cathedral Cemetery burial; full obituary still blocked."
+}

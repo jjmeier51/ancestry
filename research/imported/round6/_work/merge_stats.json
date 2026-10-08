@@ -1,0 +1,25 @@
+{
+ "people": 24,
+ "byTier": {
+  "1": 24,
+  "2": 0,
+  "3": 0
+ },
+ "status": {
+  "nothing_new": 11,
+  "researched": 13
+ },
+ "newSources": 72,
+ "media": 11,
+ "downloaded": 4,
+ "newPeople": 10,
+ "stories": 4,
+ "leads": 16,
+ "remaining": {
+  "1": 0,
+  "2": 0,
+  "3": 0
+ },
+ "badFiles": [],
+ "unknownIds": []
+}

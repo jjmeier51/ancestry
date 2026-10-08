@@ -9,20 +9,30 @@
     "place": "Pennsylvania"
   },
   "aka": [
-    "Angeline Butchko"
+    "Angeline Butchko",
+    "Angeline Cognetti Butchko",
+    "Anglean Cognetti (1950 census)"
   ],
   "tags": [],
-  "summary": "Scranton-born daughter of the Cognetti family who married a Butchko; John's great-grandaunt.",
-  "bio": "Angeline Cognetti was born in Pennsylvania in 1922 and was John's great-grandaunt. She grew up in Scranton, where the family was living in 1935 and 1940, and was still at home with her parents in 1950, aged twenty-eight. She later married and took the name Butchko. She had died by 2016.",
+  "summary": "Scranton-born daughter of Frank and Helen Cognetti who married Nicholas Butchko; John's great-aunt.",
+  "bio": "Angeline Cognetti was born in Scranton in 1922 and was John's great-aunt. In 1940 she was eighteen, at home on Philo Street and keeping house, having finished a year of high school, and she was still with her parents in 1950, aged twenty-eight. She later married Nicholas Butchko, probably in the 1950s, and they were married about fifty years before his death. In 2008 she was living at Chinchilla, north of Scranton. She died in 2009, aged 87, in the hospice unit of Mercy Hospital in Scranton, a few months after her brother Joseph.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "Angeline 1922-Deceased"
+    },
+    {
+      "label": "Education (1940 census)",
+      "value": "1st year of high school"
     }
   ],
   "sources": [
     "Anthony R. and Joseph F. Cognetti obituaries",
-    "1950 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg"
+    "1950 census image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJB1-P6Y/images/i/0/image.jpg",
+    "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 69 (Angeline, daughter, 18, 612 Philo St); FS index KQZZ-JK7, image attached to GBQH-TGM / GBQH-FG8 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
+    "[R6-S2] Search-engine summary (WebSearch, 2026-10-08) of an obituary titled 'Angeline Butchko Obituary (2009) - Scranton, PA' (Scranton Times / Legacy.com); the page itself was not reached (Legacy and the aggregator idcrawl.com both 403) (derivative) https://www.idcrawl.com/nicholas-butchko",
+    "[R6-S3] Obituary of Anthony R. Cognetti, The Times-Tribune, Sept 2008 (Legacy id 24081273; blocked), as quoted in a search-engine summary (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/anthony-cognetti-obituary?id=24081273",
+    "[R6-S4] Obituary of Joseph F. Cognetti, The Times-Tribune, 28 May 2009 (Legacy id 23435864; blocked), as quoted in a search-engine summary (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -49,7 +59,63 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Angeline: married name? death? → Married Nicholas Butchko (c.1950s); died 2009 aged 87 at Mercy Hospital hospice, Scranton (obituary known only from a search summary)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Angeline Butchko' obituary: only snippets; Legacy.com and idcrawl.com: blocked (403); augusthaasfuneralhome.com 2009/2010 obituary pages: no Butchko/Cognetti"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: married Nicholas Butchko; lived Chinchilla 2008; died 2009 aged 87 at Mercy Hospital hospice (obituary snippet; full text still needed)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282695503587.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
   ],
-  "researchNotes": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article."
+  "researchNotes": "Tree: Angeline 1922. Married name Butchko (obituary sibling lists). Living at home at 612 Philo St in 1950, aged 28. Deceased by Nov 2016 per the Thanksgiving article.\n\nRound 6: In 1940 Angeline was 18, living at home on Philo Street and keeping house; she had completed one year of high school ([R6-S1]). She married Nicholas Butchko, apparently in the 1950s, and they were married about fifty years before his death. In 2008 she was living in Chinchilla, north of Scranton ([R6-S3]). She survived her brother Joseph, who died in May 2009 ([R6-S4]), and according to a summary of her own obituary died later in 2009, aged 87, in the hospice unit of Mercy Hospital, Scranton ([R6-S2]).",
+  "death": {
+    "date": "2009",
+    "place": "Hospice Inpatient Unit, Mercy Hospital, Scranton, Pennsylvania"
+  },
+  "residences": [
+    {
+      "date": "1935",
+      "place": "Scranton, Lackawanna, Pennsylvania"
+    },
+    {
+      "date": "1940",
+      "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    },
+    {
+      "date": "1940-04",
+      "place": "612 Philo St, Scranton, Pennsylvania",
+      "note": "At home; housework [R6-S1]"
+    },
+    {
+      "date": "2008-09",
+      "place": "Chinchilla (South Abington Township), Lackawanna County, Pennsylvania",
+      "note": "Residence given in her brother Anthony's obituary [R6-S3]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to Nicholas Butchko",
+      "date": "ABT 1950s",
+      "place": "",
+      "description": "Married about 50 years when he died (per obituary summary); exact date not found. She was still single and at home in April 1950. [R6-S2]"
+    }
+  ],
+  "openQuestions": [
+    "Read Angeline Butchko's 2009 obituary (Scranton Times / Legacy) for exact death date, burial, and children; children may be living (privacy rule).",
+    "Nicholas Butchko: dates and parents; marriage record (after Apr 1950)."
+  ]
 }

@@ -48,6 +48,18 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Antenati (antenati.cultura.gov.it, Dasà): 403, blocked (tried once); FamilySearch catalog/record search APIs: 401, blocked (Vibo Valentia civil registration 1861-1910 and 1910-1951 collections exist but are unreachable)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6: nothing new."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 6 (Cognetti research) imported from research/imported/round6/people/I282697103483.json."
     }
   ],
   "researchNotes": "Tree: Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742), with record images. Round 1 flagged the b. 1740 / b. 1742 dates as unsourced. Probably of Dasà or Acquaro."
