@@ -115,8 +115,8 @@ window.FAMILY_DATA = {
      "value": "Older brother Thomas Francis \"Tommy\" Meier Jr. (b. 1990); younger brother Matthew \"Matt\" Meier (b. 1998)."
     },
     {
-     "label": "Partner (per obituary)",
-     "value": "Listed as \"Johnny (Shannon)\" in grandfather John T. Petriello Sr.'s 2025 obituary; surname and status to be confirmed by the owner."
+     "label": "Engaged to",
+     "value": "Shannon McCarthy."
     }
    ],
    "sources": [
@@ -179,6 +179,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Named as a grandson in John T. Petriello Sr.'s 2025 obituary, listed as \"Johnny (Shannon)\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: engaged to Shannon McCarthy (8 Oct 2026)."
     }
    ],
    "nickname": "Johnny",
@@ -262,7 +266,7 @@ window.FAMILY_DATA = {
     "Tommy Meier"
    ],
    "tags": [],
-   "summary": "The owner's father, known as Tommy; one of nine children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania.",
+   "summary": "The owner's father, known as Tommy; one of eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania.",
    "bio": "Thomas F. Meier, born 1959, is John's father and is shown in the tree as 'Thomas F Meier 1959–Living'. His parents are James (C.) Meier (1928–2008) and Kathryn F. McGuire (1930–1970). He married Sharon M. Petriello. Nothing else about him was researched.",
    "sources": [
     "John's Ancestry tree screenshots",
@@ -288,18 +292,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Owner reports seven brothers and one sister in Levittown. Searched Legacy, Dignity, Patch, Find a Grave, FamilySearch and the Courier Times archive index for James C. Meier's 2008 obituary: only paywalled index hits (obitsarchive/GenealogyBank). Siblings still to be named."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner listed his father's seven siblings with estimated years (earlier count of \"seven brothers and a sister\" superseded: three brothers, four sisters)."
     }
    ],
    "nickname": "Tommy",
    "facts": [
     {
      "label": "Siblings",
-     "value": "Seven brothers and one sister (per the owner); names not yet documented."
+     "value": "Kathy (c.1955), Danny (c.1956), Jamie (c.1958), Susie (c.1960), Nancy (c.1961), Jack (c.1962) and Terry (c.1963) Meier."
     }
    ],
    "openQuestions": [
-    "Names and birth years of his seven brothers and one sister. James C. Meier's August 2008 obituary in the Bucks County Courier Times would list all nine children; it is held in GenealogyBank / NewsBank (paywalled) and was not reachable from free sources.",
-    "Did James C. Meier remarry after Kathryn's death in 1970? A Kathleen T. Meier obituary ran in the Courier Times on 15 Aug 2006, and a Fred Meier on 15 Jul 2012, and a Mary R. Meier on 26 Nov 2003: possible relatives in Levittown to check."
+    "Did James C. Meier remarry after Kathryn's death in 1970? A Kathleen T. Meier obituary ran in the Courier Times on 15 Aug 2006, and a Fred Meier on 15 Jul 2012, and a Mary R. Meier on 26 Nov 2003: possible relatives in Levittown to check.",
+    "Exact birth dates and married names of the siblings; James C. Meier's 2008 obituary would confirm them."
    ]
   },
   {
@@ -574,6 +582,10 @@ window.FAMILY_DATA = {
     {
      "label": "Surname",
      "value": "Surname spelling history (Mayer→Meier): Munzingen registers write Mayer 1820–1862 (1820 marriage 'Henericus Mayer', 1835 birth 'Friedrich Mayer', 1862 marriage 'Friedrich Mayer'); 1870 US census 'Meyer, Frederick'; 1880 census 'Myer, Friedrich'; the 1892 Luzerne marriage docket No. 11054 is the first record spelling it 'Meier' (Henry J. Meier) — written by the clerk, so Henry may not have chosen it; 'Meier' is consistent from 1910 on (1910, 1920, 1926, 1930, 1950 records; PA death indexes 1911/1913/1963) except 'Meyer, Henry J.' in the 1940 census; no formal name change is recorded."
+    },
+    {
+     "label": "Children",
+     "value": "Kathryn (c.1955), Daniel (c.1956), James (c.1958), Thomas Francis (1959), Susan (c.1960), Nancy (c.1961), John (c.1962), Theresa (c.1963)."
     }
    ],
    "sources": [
@@ -614,6 +626,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Owner confirms nine children (Thomas Sr. plus seven brothers and one sister). Obituary not reachable from free sources; leads logged."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner listed all eight children (8 Oct 2026)."
     }
    ]
   },
@@ -727,6 +743,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Name in the Ancestry tree: \"Kathryn Francis McGuire\"; research uses \"Kathryn F. McGuire\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner listed her eight children, born c.1955–1963 (8 Oct 2026)."
     }
    ]
   },
@@ -33004,12 +33024,20 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Named as a grandson in John T. Petriello Sr.'s 2025 obituary, listed as \"Tommy (Laura)\"."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: married to Laura; son Luca (8 Oct 2026)."
     }
    ],
    "facts": [
     {
-     "label": "Partner (per obituary)",
-     "value": "Listed as \"Tommy (Laura)\" in grandfather John T. Petriello Sr.'s 2025 obituary; surname and status to be confirmed by the owner."
+     "label": "Married",
+     "value": "Laura."
+    },
+    {
+     "label": "Children",
+     "value": "Luca."
     }
    ],
    "birthDateReduced": true
@@ -33266,6 +33294,343 @@ window.FAMILY_DATA = {
    "summary": "A living relative; recorded only from family obituaries.",
    "sources": [
     "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+   ]
+  },
+  {
+   "id": "M0012",
+   "given": "Kathryn",
+   "surname": "Meier",
+   "sex": "F",
+   "birth": {
+    "date": "1955",
+    "place": "Pennsylvania, USA"
+   },
+   "nickname": "Kathy",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's list of his father's siblings (estimated birth year 1955, known as Kathy)."
+    }
+   ],
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
+    }
+   ],
+   "openQuestions": [
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0013",
+   "given": "Daniel",
+   "surname": "Meier",
+   "sex": "M",
+   "birth": {
+    "date": "1956",
+    "place": "Pennsylvania, USA"
+   },
+   "nickname": "Danny",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's list of his father's siblings (estimated birth year 1956, known as Danny)."
+    }
+   ],
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of the owner.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
+    }
+   ],
+   "openQuestions": [
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0014",
+   "given": "James",
+   "surname": "Meier",
+   "sex": "M",
+   "birth": {
+    "date": "1958",
+    "place": "Pennsylvania, USA"
+   },
+   "nickname": "Jamie",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's list of his father's siblings (estimated birth year 1958, known as Jamie)."
+    }
+   ],
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of the owner.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
+    }
+   ],
+   "openQuestions": [
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0015",
+   "given": "Susan",
+   "surname": "Meier",
+   "sex": "F",
+   "birth": {
+    "date": "1960",
+    "place": "Pennsylvania, USA"
+   },
+   "nickname": "Susie",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's list of his father's siblings (estimated birth year 1960, known as Susie)."
+    }
+   ],
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
+    }
+   ],
+   "openQuestions": [
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0016",
+   "given": "Nancy",
+   "surname": "Meier",
+   "sex": "F",
+   "birth": {
+    "date": "1961",
+    "place": "Pennsylvania, USA"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's list of his father's siblings (estimated birth year 1961)."
+    }
+   ],
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
+    }
+   ],
+   "openQuestions": [
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0017",
+   "given": "John",
+   "surname": "Meier",
+   "sex": "M",
+   "birth": {
+    "date": "1962",
+    "place": "Pennsylvania, USA"
+   },
+   "nickname": "Jack",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's list of his father's siblings (estimated birth year 1962, known as Jack)."
+    }
+   ],
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of the owner.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
+    }
+   ],
+   "openQuestions": [
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0018",
+   "given": "Theresa",
+   "surname": "Meier",
+   "sex": "F",
+   "birth": {
+    "date": "1963",
+    "place": "Pennsylvania, USA"
+   },
+   "nickname": "Terry",
+   "aka": [
+    "Teresa Meier"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's list of his father's siblings (estimated birth year 1963, known as Terry)."
+    }
+   ],
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
+    }
+   ],
+   "openQuestions": [
+    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "birthDateReduced": true
+  },
+  {
+   "id": "M0019",
+   "given": "Shannon",
+   "surname": "McCarthy",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "The owner's fiancée, per the owner (8 Oct 2026); listed as 'Johnny (Shannon)' in John T. Petriello Sr.'s 2025 obituary."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement."
+    }
+   ],
+   "summary": "A living family member; recorded from the owner's statement.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026",
+    "Obituary of John T. Petriello Sr., 2025"
+   ]
+  },
+  {
+   "id": "M0020",
+   "given": "Laura",
+   "surname": "Meier",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Wife of Thomas F. Meier Jr., per the owner (8 Oct 2026); listed as 'Tommy (Laura)' in the 2025 obituary."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement."
+    }
+   ],
+   "summary": "A living family member; recorded from the owner's statement.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026",
+    "Obituary of John T. Petriello Sr., 2025"
+   ]
+  },
+  {
+   "id": "M0021",
+   "given": "Luca",
+   "surname": "Meier",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of Thomas F. Meier Jr. and Laura, per the owner (8 Oct 2026); the 'great-grandchild Luca Meier' of the 2025 obituary."
+   },
+   "tags": [],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement."
+    }
+   ],
+   "summary": "A living family member; recorded from the owner's statement.",
+   "sources": [
+    "Owner's statement, 8 Oct 2026",
+    "Obituary of John T. Petriello Sr., 2025"
    ]
   }
  ],
@@ -33607,7 +33972,14 @@ window.FAMILY_DATA = {
     "date": "Abt 1953"
    },
    "children": [
-    "I282604492836"
+    "I282604492836",
+    "M0012",
+    "M0013",
+    "M0014",
+    "M0015",
+    "M0016",
+    "M0017",
+    "M0018"
    ]
   },
   {
@@ -36553,14 +36925,29 @@ window.FAMILY_DATA = {
    ]
   },
   {
-   "id": "CF0385",
+   "id": "MF0003",
+   "husband": "I282604492552",
+   "wife": "M0019",
+   "status": "engaged",
+   "children": []
+  },
+  {
+   "id": "MF0004",
+   "husband": "M0001",
+   "wife": "M0020",
+   "children": [
+    "M0021"
+   ]
+  },
+  {
+   "id": "CF0387",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0386",
+   "id": "CF0388",
    "children": [
     "I282608085305"
    ],
@@ -36569,7 +36956,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 349,
-  "research": 525
+  "research": 535
  },
  "stories": [
   {

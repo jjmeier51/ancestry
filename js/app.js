@@ -192,7 +192,7 @@
     const rel = me ? F.relationshipSentence(me.id, p.id) : '';
     const relatives = [];
     F.parents(p.id).forEach(q => relatives.push([q, q.sex === 'M' ? 'Father' : q.sex === 'F' ? 'Mother' : 'Parent']));
-    F.spouses(p.id).forEach(q => relatives.push([q, q.sex === 'M' ? 'Husband' : q.sex === 'F' ? 'Wife' : 'Spouse']));
+    F.spouseFamilies(p.id).forEach(f => { const q = F.get(f.husband === p.id ? f.wife : f.husband); if (q) relatives.push([q, f.status === 'engaged' ? (q.sex === 'M' ? 'Fiancé' : 'Fiancée') : q.sex === 'M' ? 'Husband' : q.sex === 'F' ? 'Wife' : 'Spouse']); });
     F.children(p.id).forEach(q => relatives.push([q, q.sex === 'M' ? 'Son' : q.sex === 'F' ? 'Daughter' : 'Child']));
     const content = el('div', { class: 'person-sheet' }, [
       el('div', { class: 'ps-head' }, [
