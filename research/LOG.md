@@ -4,6 +4,20 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Owner's family details; story clean-up; phone crash fix
+
+- Owner's statement (8 Oct 2026): full name John Joseph Meier, born 16 Jun
+  1992 at Alexandria City Hospital, Alexandria VA, now living in Ashburn VA.
+  Brothers added (`data/additions-manual.json`): Thomas Francis "Tommy"
+  Meier Jr., b. 30 Jul 1990 Alexandria City Hospital; Matthew "Matt" Meier,
+  b. 22 Jan 1998 Inova Loudoun Hospital, Ashburn VA. Both live in Ashburn.
+- 22 imported "stories" that were research notes or corrections moved off
+  the site (`data/story-exclusions.json`, text in `research/story-notes.md`).
+  Rule recorded in CLAUDE.md: research process is never published as a story.
+- Site: Stories and Timeline now render incrementally and content cards no
+  longer use backdrop blur, after iOS Safari crashed ("A problem repeatedly
+  occurred") on those pages.
+
 ## 2026-10-08 — Project handoff merged (861 people on the site)
 
 - Imported the owner's three lineage reports and the 1.3 MB project handoff

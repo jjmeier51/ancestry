@@ -1,0 +1,42 @@
+{
+  "_comment": "Hand-maintained additions (same shape as additions.json). Applied by scripts/build.py after the generated file.",
+  "people": [
+    {
+      "id": "M0001",
+      "given": "Thomas Francis",
+      "surname": "Meier",
+      "suffix": "Jr.",
+      "sex": "M",
+      "birth": {
+        "date": "1990-07-30",
+        "place": "Alexandria City Hospital, Alexandria, Virginia, USA"
+      }
+    },
+    {
+      "id": "M0002",
+      "given": "Matthew",
+      "surname": "Meier",
+      "sex": "M",
+      "birth": {
+        "date": "1998-01-22",
+        "place": "Inova Loudoun Hospital, Ashburn, Virginia, USA"
+      }
+    }
+  ],
+  "families": [],
+  "familyUpdates": [],
+  "setParents": [
+    {
+      "child": "M0001",
+      "father": "I282604492836",
+      "mother": "I282604492910",
+      "reason": "Owner's statement, 8 Oct 2026."
+    },
+    {
+      "child": "M0002",
+      "father": "I282604492836",
+      "mother": "I282604492910",
+      "reason": "Owner's statement, 8 Oct 2026."
+    }
+  ]
+}

@@ -25,7 +25,7 @@ html { height: 100%; -webkit-text-size-adjust: 100%; }
 body {
   margin: 0; min-height: 100%; background: var(--bg); color: var(--text); font-family: var(--font); font-size: 16px; line-height: 1.5;
   background-image: radial-gradient(1200px 600px at 80% -10%, rgba(79, 140, 255, .18), transparent 60%), radial-gradient(800px 500px at -10% 110%, rgba(103, 232, 249, .10), transparent 60%);
-  background-attachment: fixed; overscroll-behavior-y: none; -webkit-font-smoothing: antialiased;
+  overscroll-behavior-y: none; -webkit-font-smoothing: antialiased;
 }
 h1, h2, h3 { margin: 0 0 .5em; line-height: 1.2; letter-spacing: -.01em; font-weight: 700; }
 h1 { font-size: clamp(1.7rem, 4vw, 2.3rem); }
@@ -47,7 +47,7 @@ input:focus, select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px r
 .wrap { width: 100%; max-width: 1080px; margin: 0 auto; padding: 20px 16px 40px; }
 .wrap.narrow { max-width: 760px; }
 .empty { text-align: center; color: var(--muted); padding: 48px 16px; border: 1px dashed var(--line-strong); border-radius: var(--radius); }
-.card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 18px; margin-bottom: 14px; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 18px; margin-bottom: 14px; }
 .card h2 { display: flex; align-items: center; gap: 8px; font-size: 1.05rem; margin-bottom: 10px; }
 .card h2 .icon { color: var(--accent-2); }
 .btn {
@@ -236,7 +236,8 @@ body.has-banner .hud-top { top: 66px; }
 .story-date { color: var(--accent-2); font-size: .78rem; font-weight: 700; letter-spacing: .05em; }
 .media-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
 .media-grid.large { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; margin-top: 10px; }
-.media-card { display: flex; flex-direction: column; border-radius: var(--radius-sm); overflow: hidden; background: var(--card); border: 1px solid var(--line); color: var(--text); transition: transform .15s var(--ease), border-color .15s; animation: viewIn .4s var(--ease) both; animation-delay: calc(var(--i, 0) * 30ms); }
+.media-card { display: flex; flex-direction: column; border-radius: var(--radius-sm); overflow: hidden; background: var(--card); border: 1px solid var(--line); color: var(--text); transition: transform .15s var(--ease), border-color .15s; }
+.media-card:nth-child(-n+24) { animation: viewIn .4s var(--ease) both; animation-delay: calc(var(--i, 0) * 30ms); }
 .media-card:hover { transform: translateY(-2px); border-color: var(--accent-2); }
 .media-card img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; background: var(--bg-3); }
 .media-icon { aspect-ratio: 4 / 3; display: flex; align-items: center; justify-content: center; background: var(--bg-3); color: var(--accent-2); } .media-icon .icon { width: 40px; height: 40px; }
@@ -253,7 +254,8 @@ body.has-banner .hud-top { top: 66px; }
 .timeline { position: relative; padding-left: 8px; margin-top: 10px; }
 .timeline::before { content: ""; position: absolute; left: 25px; top: 0; bottom: 0; width: 2px; background: var(--line-strong); }
 .decade { position: relative; margin: 26px 0 12px 48px; font-size: 1.4rem; color: var(--accent-2); }
-.tl-event { position: relative; display: flex; gap: 12px; margin-bottom: 8px; animation: viewIn .35s var(--ease) both; animation-delay: calc(var(--i, 0) * 25ms); }
+.tl-event { position: relative; display: flex; gap: 12px; margin-bottom: 8px; }
+.tl-event:nth-child(-n+30) { animation: viewIn .35s var(--ease) both; animation-delay: calc(var(--i, 0) * 25ms); }
 .tl-dot { width: 36px; height: 36px; border-radius: 50%; flex: none; display: flex; align-items: center; justify-content: center; background: var(--bg-3); border: 1px solid var(--line-strong); color: var(--muted); z-index: 1; }
 .tl-birth .tl-dot { color: var(--confirmed); } .tl-death .tl-dot { color: var(--muted); } .tl-marriage .tl-dot { color: var(--accent-2); } .tl-story .tl-dot { color: var(--possible); } .tl-military .tl-dot { color: var(--probable); } .tl-residence .tl-dot { color: var(--female); }
 .tl-body { flex: 1; padding: 8px 12px; border-radius: var(--radius-sm); background: var(--card); border: 1px solid var(--line); }
@@ -292,3 +294,5 @@ p, li, dd, .tl-body, .story-body, .media-cap, .fact dd, .research { overflow-wra
 .story h2 { overflow-wrap: anywhere; }
 .story-when { margin: -4px 0 12px; }
 strong { font-weight: 700; color: var(--text); }
+
+.load-more { display: flex; justify-content: center; padding: 16px 0 8px; }

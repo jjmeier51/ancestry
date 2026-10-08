@@ -622,7 +622,12 @@ for fn in os.listdir('data/research'):
     pid = fn[:-5]
     if pid.startswith('H') and pid not in research_files: os.remove('data/research/' + fn)
 for pid, rf in research_files.items():
-    json.dump(rf, open('data/research/%s.json' % pid, 'w'), indent=2, ensure_ascii=False)
+    path = 'data/research/%s.json' % pid
+    if os.path.exists(path):
+        try:
+            if json.load(open(path)).get('manual'): continue  # hand-maintained; keep as is
+        except Exception: pass
+    json.dump(rf, open(path, 'w'), indent=2, ensure_ascii=False)
 json.dump(stories, open('data/stories.json', 'w'), indent=2, ensure_ascii=False)
 for path, text in ref_docs: open(path, 'w').write(text)
 print('wrote additions.json, %d research files, %d stories, %d reference docs' % (len(research_files), len(stories), len(ref_docs)))

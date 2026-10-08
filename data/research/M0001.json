@@ -1,0 +1,30 @@
+{
+  "id": "M0001",
+  "link": {
+    "confidence": "confirmed",
+    "note": "The owner's older brother, per the owner (8 Oct 2026)."
+  },
+  "nickname": "Tommy",
+  "aka": [
+    "Tommy Meier",
+    "Tommy Meier Jr."
+  ],
+  "tags": [],
+  "summary": "Johnny's older brother; a living person, so not researched further.",
+  "residences": [
+    {
+      "date": "",
+      "place": "Ashburn, Virginia, USA",
+      "note": "Current home"
+    }
+  ],
+  "sources": [
+    "Owner's statement, 8 Oct 2026"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Added from the owner's statement: born 30 Jul 1990 at Alexandria City Hospital; lives in Ashburn, VA."
+    }
+  ]
+}

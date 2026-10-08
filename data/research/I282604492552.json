@@ -5,8 +5,7 @@
     "note": "The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
   },
   "aka": [
-    "Johnny Meier",
-    "Johnny"
+    "Johnny Meier"
   ],
   "tags": [
     "notable"
@@ -26,6 +25,10 @@
     {
       "label": "Generations to Bull Smith",
       "value": "13, counting John as generation 13 (Bull Smith PDF)."
+    },
+    {
+      "label": "Siblings",
+      "value": "Older brother Thomas Francis \"Tommy\" Meier Jr. (b. 1990); younger brother Matthew \"Matt\" Meier (b. 1998)."
     }
   ],
   "sources": [
@@ -79,6 +82,26 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner's statement: full name John Joseph Meier, born 16 Jun 1992 at Alexandria City Hospital; lives in Ashburn, VA; brothers Tommy (b. 1990) and Matt (b. 1998) added."
     }
-  ]
+  ],
+  "given": "John Joseph",
+  "surname": "Meier",
+  "nickname": "Johnny",
+  "sex": "M",
+  "birth": {
+    "date": "1992-06-16",
+    "place": "Alexandria City Hospital, Alexandria, Virginia, USA"
+  },
+  "residences": [
+    {
+      "date": "",
+      "place": "Ashburn, Virginia, USA",
+      "note": "Current home"
+    }
+  ],
+  "manual": true
 }

@@ -1,0 +1,27 @@
+{
+  "_comment": "Story ids kept out of the website because they are research notes or corrections, not family stories. They stay in data/stories.json and in research/story-notes.md.",
+  "excluded": {
+    "S023": "Ruled-out collateral line (schoolmaster Joseph Heitzler); research note.",
+    "S038": "About an unlinked Mrs. Anna Meier; research lead, not family history.",
+    "S041": "Research suggestion about where to look for a baptism.",
+    "S046": "Note on a name discrepancy in sources (Charity Danforth vs Davenport).",
+    "S058": "Narrative of a record find that fixed the SAR line; research changelog.",
+    "S076": "Correction of the Ancestry tree (Johann C. Doll was not a captain).",
+    "S078": "Speculative research note on possible cousin links.",
+    "S080": "A ruled-out record (a different James Pringle).",
+    "S083": "Context note duplicating the Agnes flood story (S039).",
+    "S091": "Correction note on where Bull Smith did not come from.",
+    "S096": "Correction note on Tuttles who were not cousins.",
+    "S099": "Correction note on Mary Wells's surname.",
+    "S100": "Correction of the tree's 'chaplain to the Queen of Denmark'.",
+    "S128": "Ruled-out connection (Youngs cemetery, Oyster Bay).",
+    "S129": "Ruled-out cousin (Stephen Sayre).",
+    "S130": "Correction note on Mollie vs Mary Cognetti in the tree.",
+    "S143": "Correction note on Grazia Di Marino's mother.",
+    "S148": "Research note on an unidentified coat of arms in the tree.",
+    "S154": "Record-index note about a naturalization entry.",
+    "S155": "Research confirmation note (an obituary).",
+    "S156": "Research note on name collisions in search results.",
+    "S158": "Correction note on a son who was not in the family."
+  }
+}

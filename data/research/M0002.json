@@ -1,0 +1,29 @@
+{
+  "id": "M0002",
+  "link": {
+    "confidence": "confirmed",
+    "note": "The owner's younger brother, per the owner (8 Oct 2026)."
+  },
+  "nickname": "Matt",
+  "aka": [
+    "Matt Meier"
+  ],
+  "tags": [],
+  "summary": "Johnny's younger brother; a living person, so not researched further.",
+  "residences": [
+    {
+      "date": "",
+      "place": "Ashburn, Virginia, USA",
+      "note": "Current home"
+    }
+  ],
+  "sources": [
+    "Owner's statement, 8 Oct 2026"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Added from the owner's statement: born 22 Jan 1998 at Inova Loudoun Hospital, Ashburn, VA; lives in Ashburn, VA."
+    }
+  ]
+}

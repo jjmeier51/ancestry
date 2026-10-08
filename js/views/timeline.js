@@ -19,14 +19,17 @@
         const ids = [focus.id].concat(F.parents(focus.id), F.siblings(focus.id), F.spouses(focus.id), F.children(focus.id)).map(x => typeof x === 'string' ? x : x.id);
         return e.people.some(p => ids.includes(p.id));
       };
+      let inc = null;
       function render() {
         const evs = F.events().filter(e => on[e.type] && relevant(e));
         box.innerHTML = '';
+        if (inc) inc.destroy();
         if (!evs.length) { box.appendChild(el('div', { class: 'empty', text: 'No events to show.' })); return; }
         let lastDecade = null;
-        evs.forEach((e, i) => {
+        inc = A.renderIncremental(box, evs, (e, i) => {
+          const frag = document.createDocumentFragment();
           const decade = Math.floor(F.year(e.date) / 10) * 10;
-          if (decade !== lastDecade) { box.appendChild(el('h2', { class: 'decade', text: decade + 's' })); lastDecade = decade; }
+          if (decade !== lastDecade) { frag.appendChild(el('h2', { class: 'decade', text: decade + 's' })); lastDecade = decade; }
           const names = e.people.map(p => el('a', { href: `#/person/${encodeURIComponent(p.id)}`, text: F.fullName(p) }));
           let title;
           if (e.type === 'birth') title = [names[0], ' is born'];
@@ -35,7 +38,7 @@
           else if (e.type === 'story') title = [el('a', { href: `#/stories/${encodeURIComponent(e.story.id)}`, text: e.title })];
           else title = [e.title || e.type, names.length ? ': ' : '', names[0]];
           const t = TYPES.find(x => x[0] === e.type) || TYPES[6];
-          box.appendChild(el('div', { class: 'tl-event tl-' + e.type, style: { '--i': Math.min(i, 20) } }, [
+          frag.appendChild(el('div', { class: 'tl-event tl-' + e.type, style: { '--i': Math.min(i, 20) } }, [
             el('div', { class: 'tl-dot', html: icon(t[2]) }),
             el('div', { class: 'tl-body' }, [
               el('div', { class: 'tl-date', text: F.formatDate(e.date) }),
@@ -44,9 +47,11 @@
               e.description ? el('div', { class: 'muted small', html: A.md(e.description) }) : null
             ])
           ]));
-        });
+          return frag;
+        }, 120);
       }
       render();
+      return { destroy() { if (inc) inc.destroy(); } };
     }
   };
 })();

@@ -263,6 +263,27 @@
     document.body.appendChild(host);
   }
 
+  /* Render a long list in chunks as the reader scrolls (keeps memory low on phones). */
+  function renderIncremental(container, items, renderItem, chunk, minCount) {
+    let i = 0; let sentinel = null; let observer = null;
+    const more = el('div', { class: 'load-more' }, [el('button', { class: 'btn', text: 'Show more', onclick: () => step() })]);
+    function step() {
+      const end = Math.min(items.length, i + chunk);
+      const frag = document.createDocumentFragment();
+      for (; i < end; i++) { const node = renderItem(items[i], i); if (node) frag.appendChild(node); }
+      container.insertBefore(frag, more.parentNode === container ? more : null);
+      if (i >= items.length) { more.remove(); if (observer) observer.disconnect(); }
+      else if (more.parentNode !== container) container.appendChild(more);
+    }
+    step();
+    while (minCount && i < Math.min(items.length, minCount)) step();
+    if ('IntersectionObserver' in window && i < items.length) {
+      observer = new IntersectionObserver(entries => { if (entries.some(e => e.isIntersecting)) step(); }, { rootMargin: '600px' });
+      observer.observe(more);
+    }
+    return { destroy() { if (observer) observer.disconnect(); } };
+  }
+
   function toast(msg) {
     const t = el('div', { class: 'toast', text: msg });
     document.body.appendChild(t);
@@ -295,7 +316,7 @@
     }
   }
 
-  window.App = { esc, el, md, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, TABS };
+  window.App = { esc, el, md, renderIncremental, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, TABS };
 
   views['404'] = { title: () => 'Not found', render(c) { c.appendChild(el('div', { class: 'wrap empty' }, [el('h1', { text: 'Page not found' }), el('a', { class: 'btn primary', href: '#/', text: 'Back to the tree' })])); } };
 

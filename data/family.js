@@ -29,21 +29,18 @@ window.FAMILY_DATA = {
  "people": [
   {
    "id": "I282604492552",
-   "given": "Johnny",
+   "given": "John Joseph",
    "surname": "Meier",
-   "sex": "U",
+   "sex": "M",
    "birth": {
-    "date": "16 Jun 1992",
-    "place": "Alexandria, Virginia, USA"
+    "date": "1992-06-16",
+    "place": "Alexandria City Hospital, Alexandria, Virginia, USA"
    },
    "residences": [
     {
-     "date": "2009-2016",
-     "place": "Ashburn, Virginia, USA"
-    },
-    {
-     "date": "2016-2020",
-     "place": "Arlington, Virginia, USA"
+     "date": "",
+     "place": "Ashburn, Virginia, USA",
+     "note": "Current home"
     }
    ],
    "citations": [
@@ -88,8 +85,7 @@ window.FAMILY_DATA = {
     "note": "The project owner. His parents are named in his own Ancestry tree and in the Bull Smith lineage PDF. His mother's family is independently confirmed by John T. Petriello Jr.'s 2024 obituary, which names 'Sharon Meier (Thomas)'."
    },
    "aka": [
-    "Johnny Meier",
-    "Johnny"
+    "Johnny Meier"
    ],
    "tags": [
     "notable"
@@ -109,6 +105,10 @@ window.FAMILY_DATA = {
     {
      "label": "Generations to Bull Smith",
      "value": "13, counting John as generation 13 (Bull Smith PDF)."
+    },
+    {
+     "label": "Siblings",
+     "value": "Older brother Thomas Francis \"Tommy\" Meier Jr. (b. 1990); younger brother Matthew \"Matt\" Meier (b. 1998)."
     }
    ],
    "sources": [
@@ -162,8 +162,14 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner's statement: full name John Joseph Meier, born 16 Jun 1992 at Alexandria City Hospital; lives in Ashburn, VA; brothers Tommy (b. 1990) and Matt (b. 1998) added."
     }
-   ]
+   ],
+   "nickname": "Johnny",
+   "manual": true
   },
   {
    "id": "I282604492836",
@@ -32748,6 +32754,82 @@ window.FAMILY_DATA = {
      "note": "Stub created from a handoff reference."
     }
    ]
+  },
+  {
+   "id": "M0001",
+   "given": "Thomas Francis",
+   "surname": "Meier",
+   "suffix": "Jr.",
+   "sex": "M",
+   "birth": {
+    "date": "1990-07-30",
+    "place": "Alexandria City Hospital, Alexandria, Virginia, USA"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "The owner's older brother, per the owner (8 Oct 2026)."
+   },
+   "nickname": "Tommy",
+   "aka": [
+    "Tommy Meier",
+    "Tommy Meier Jr."
+   ],
+   "tags": [],
+   "summary": "Johnny's older brother; a living person, so not researched further.",
+   "residences": [
+    {
+     "date": "",
+     "place": "Ashburn, Virginia, USA",
+     "note": "Current home"
+    }
+   ],
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement: born 30 Jul 1990 at Alexandria City Hospital; lives in Ashburn, VA."
+    }
+   ]
+  },
+  {
+   "id": "M0002",
+   "given": "Matthew",
+   "surname": "Meier",
+   "sex": "M",
+   "birth": {
+    "date": "1998-01-22",
+    "place": "Inova Loudoun Hospital, Ashburn, Virginia, USA"
+   },
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "The owner's younger brother, per the owner (8 Oct 2026)."
+   },
+   "nickname": "Matt",
+   "aka": [
+    "Matt Meier"
+   ],
+   "tags": [],
+   "summary": "Johnny's younger brother; a living person, so not researched further.",
+   "residences": [
+    {
+     "date": "",
+     "place": "Ashburn, Virginia, USA",
+     "note": "Current home"
+    }
+   ],
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement: born 22 Jan 1998 at Inova Loudoun Hospital, Ashburn, VA; lives in Ashburn, VA."
+    }
+   ]
   }
  ],
  "families": [
@@ -33300,7 +33382,9 @@ window.FAMILY_DATA = {
     "place": "This City"
    },
    "children": [
-    "I282604492552"
+    "I282604492552",
+    "M0001",
+    "M0002"
    ]
   },
   {
@@ -36024,7 +36108,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 349,
-  "research": 514
+  "research": 516
  },
  "stories": [
   {
@@ -36290,16 +36374,6 @@ window.FAMILY_DATA = {
    "source": "deep-dive report (GEDBAS 1262174650, 1262175038)."
   },
   {
-   "id": "S023",
-   "title": "A schoolmaster in a farm valley (collateral, ruled-out line)",
-   "date": "1786",
-   "people": [
-    "H0043"
-   ],
-   "body": "Joseph Heitzler taught the Ibental children from 1786, under Austrian rule, while also working as a shoemaker. Village teaching was a part-time, poorly paid job then. He is no longer considered John's ancestor.",
-   "source": "notes/round2/black_forest.md (GEDBAS 1420120011)."
-  },
-  {
    "id": "S024",
    "title": "The Wehrlehof Stöckle",
    "date": "c.1723–1820s",
@@ -36435,14 +36509,6 @@ window.FAMILY_DATA = {
    "source": "notes/meier_mcguire.md (Freeland Tribune 5 Jan 1893 p.1)."
   },
   {
-   "id": "S038",
-   "title": "The Rockafellow bank scandal (unlinked Mrs. Anna Meier)",
-   "date": "1893–1897",
-   "people": [],
-   "body": "Mrs. Anna (Maria) Meier carried $700 to Rockafellow's bank the evening before it failed. She became the lead prosecutrix in the 1893–97 embezzlement trials of the banker F. V. Rockafellow and took the case to the Superior Court, which reversed a lower-court ruling in 1897. She confronted the judge in open court (\"did not think justice had been done\"). She died in July 1897 after a fall on her way home from friends on Grove Street. She is unlinked to the family.",
-   "source": "notes/meier_mcguire.md; notes/round2/meier_gaps.md (Freeland Tribune 23 Nov 1896, 22 Feb 1897, 12 Jul 1897; Scranton Tribune 9 Jul 1897)."
-  },
-  {
    "id": "S039",
    "title": "Agnes flood, June 1972",
    "date": "Jun 1972",
@@ -36462,16 +36528,6 @@ window.FAMILY_DATA = {
    ],
    "body": "Levitt & Sons built Levittown, PA, from 1952 to 1958; \"when completed in 1958, 17,311 homes had been built.\" U.S. Steel's nearby Fairless Works drew many families from the anthracite region. In 1957 William and Daisy Myers, the first Black family, moved in amid mob harassment, which became a national news story. Whether the Meiers were there by 1957 is unknown. Kathryn died there in 1970 (per FamilySearch) and James in 2008. This is Levittown, Pennsylvania, not Levittown on Long Island.",
    "source": "notes/round2/meier_gaps.md (Wikipedia: Levittown, PA); Round 2 report §4."
-  },
-  {
-   "id": "S041",
-   "title": "St. Servatius's day",
-   "date": "1807",
-   "people": [
-    "I282608064919"
-   ],
-   "body": "The first report suggested looking for Servatius's baptism around 13 May, the feast of St. Servatius. He turned out to have been born on 4 May 1807, which fits a name chosen from the coming feast day.",
-   "source": "deep-dive report; notes/round3/meier_line.md. ### 5.2 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)"
   },
   {
    "id": "S042",
@@ -36516,17 +36572,6 @@ window.FAMILY_DATA = {
    ],
    "body": "Jean Mersereau supposedly greeted three cloaked friars with \"Good evening, gentlemen\" instead of \"fathers\", saying he knew \"but one Father, who is in Heaven\". When they drew hidden sabres \"he killed one, wounded another, and the third fled\". The tradition continues: the widow and children fled to England in 1685; fearing James II, all but son Paul sailed for Philadelphia but were \"driven to New York by stress of weather\" and settled on Staten Island. Clute also says Jean was a law student turned saddler and captain of a pike company. A genuine family tradition but not proven history (speculative).",
    "source": "notes/round3/english_french_origins.md §3c, §5.4; Round 3 report §5. Clute, *Annals of Staten Island* (1877) pp.408–9."
-  },
-  {
-   "id": "S046",
-   "title": "\"Charity Danforth\"",
-   "date": "18th century; recorded 1919",
-   "people": [
-    "H0073",
-    "I282695583838"
-   ],
-   "body": "The Lamoreaux descendants of 1919 remembered Jean's wife as \"Charity Danforth\". In the Hudson Highlands \"Danforth's\" was simply how people said \"Davenport's\"; it even appears on Erskine's Revolutionary map of West Point.",
-   "source": "notes/round3/english_french_origins.md §5.11 (Giles & Franklin 1962, p.xvii; Lamoureux 1919)."
   },
   {
    "id": "S047",
@@ -36650,20 +36695,6 @@ window.FAMILY_DATA = {
    ],
    "body": "George Lane Pringle was \"killed by lightning\" in 1886. Cousin Charity (Pringle) Mekeel died in 1899 \"in the one hundredth year of her age\".",
    "source": "uploaded deep-dive report. Harvey Book pp.137, 1020."
-  },
-  {
-   "id": "S058",
-   "title": "The 1850 census that saved the SAR line",
-   "date": "14 Sep 1850 (found by John, 2026)",
-   "people": [
-    "I282608053685",
-    "I282608053719",
-    "I282608053741",
-    "H0156",
-    "H0151"
-   ],
-   "body": "The link that looked weakest - whether Andrew G. Pringle was a son of James and Elizabeth (Croup) - was settled when John found the 1850 Plymouth Twp census page on FamilySearch (attached to Andrew Pringle 1836–1900, KG4S-XMF): assistant marshal A. Atherton, page 140/141 (stamp 71), dwelling 944/family 964: James Pringle 51 farmer $500 PA; Elizabeth 48; Alby 27; Noah 16 farmer; Andrew 14 (line 38); Leva Ann 11; Edwin 9. Noah is independently documented as their son. Two doors away (942/962) was the widow Hulda Pringle 46 ($600, b. NY) with Orange 23 (teamster), Ransom 21, Caturah 17, Jane 14, Lucinda 10, Sarah 6, Lucy Ives 87 (marked insane) and carpenter Philip Minchart 26 - names (Orange, Ransom, Keturah) pointing straight at the Lamoreaux family. Neighbours: Jenkins Jones 36, miner, Wales (943/963); Thomas Gould 39, farmer, $2,500 (945/965).",
-   "source": "uploaded deep-dive report (\"The 1850 census confirms Andrew G. Pringle's parents\"); Drive screenshot IMG_7813, the census page image (transcribed in section 2.2.4), and FamilySearch index screenshots IMG_7810–7812 (NARA M432)."
   },
   {
    "id": "S059",
@@ -36860,17 +36891,6 @@ window.FAMILY_DATA = {
    "source": "notes/pa_lines.md §1.3. Pearce, *Annals of Luzerne* p.248; Wikipedia \"Thomas Cooper\"."
   },
   {
-   "id": "S076",
-   "title": "The captain who wasn't",
-   "date": "1793; 1934",
-   "people": [
-    "I282695584117",
-    "H0214"
-   ],
-   "body": "John's tree shows \"Johann C Doll Captain\" with a \"Flag of the American Revolution\" photo. In fact \"he is NOT known to have held the rank as captain. On his gravesite, there was erected in 1934 a monument or cenotaph to his nephew 'Casper Dull' who served as a captain in the Revolutionary War\"; the nephew, a cornet of the Northampton County Light Dragoons, is buried at McVeytown, Mifflin Co. Find a Grave merges the two.",
-   "source": "notes/pa_lines.md §1.4; Round 1 report correction 3g. WikiTree Doll-527; Find a Grave 19353732 and 21956570."
-  },
-  {
    "id": "S077",
    "title": "A shipload from Ulmet, 1739",
    "date": "27 Aug 1739",
@@ -36879,17 +36899,6 @@ window.FAMILY_DATA = {
    ],
    "body": "Casper Doll, 18, came on the *Samuel* (Hugh Percy) with Stoffel Doll 40, Philip Doll 27, \"Christ. Shook, 48\" (the surname of his mother Anna Sara Schuch), Simon Drum and several Mombour/Mombauer men - apparently a group from Ulmet that included his mother's kin.",
    "source": "notes/round3/german_origins.md (Doll). Strassburger List 69 A–C; GEDBAS 1402009472, 1420550403."
-  },
-  {
-   "id": "S078",
-   "title": "Doll, Sorber and Croop - cousins before the mills? (speculative)",
-   "date": "1739–c.1800",
-   "people": [
-    "H0215",
-    "H0207"
-   ],
-   "body": "Maria Engel Doll (b. Ulmet 1717) married Jacob Sorber in 1739; their son Abraham Sorber came to Hanover Twp, Luzerne, and his daughter Elizabeth married John Croop. If Maria Engel was Casper Doll's sister, the \"Sorbers and Croops\" who built the Hunlock's Creek sawmills were already cousins through the Ulmet Dolls.",
-   "source": "notes/round3/german_origins.md. GEDBAS 1435014144; Plumb 1885 part 38."
   },
   {
    "id": "S079",
@@ -36903,14 +36912,6 @@ window.FAMILY_DATA = {
    ],
    "body": "Hiram Croop once ran four mills, owned 2,000 acres of timber and was a justice of the peace for 25 years. Andrew Croop was a musician in Co. F, 149th PA \"Bucktails\", from 22 Aug 1862 to 24 Jun 1865, serving \"to the close of the war\"; Alvin served in the 203rd PA, which fought at Fort Fisher. The Croop mills later became the Croop's Glen amusement park.",
    "source": "notes/pa_lines.md §3.3; Round 1 report. Bradsby pp.812–813; PA-Roots."
-  },
-  {
-   "id": "S080",
-   "title": "A runaway Pringle apprentice (not John's James)",
-   "date": "9 Apr 1836",
-   "people": [],
-   "body": "\"Six Cents Reward. Ran away … James Pringle, an indented apprentice to the farming business; he was about fourteen … butternut colored pantaloons.\" This is not John's James (b. c.1799); possibly a nephew.",
-   "source": "notes/round2/irish_pa_gaps.md B7 (Bradsby)."
   },
   {
    "id": "S081",
@@ -36929,16 +36930,6 @@ window.FAMILY_DATA = {
    ],
    "body": "The Scotts' 1850 Kingston neighbours were Zeba Hoyt (61, Connecticut-born farmer), German miners (Shoup, Steinhower, Beck) and Welsh miners and a machinist (Davis): the Scotts farmed just as Kingston was becoming a mining town.",
    "source": "notes/round3/irish_pa.md B (1850 census image)."
-  },
-  {
-   "id": "S083",
-   "title": "Context: the Agnes flood",
-   "date": "1897; June 1972",
-   "people": [
-    "I282608053249"
-   ],
-   "body": "The Agnes flood of June 1972 broke the river levee first at the Forty Fort cemetery - where Stephen and Julia Ann Scott are buried - washing dozens of graves away; \"people returning to their homes after the flood found caskets in their backyards\". Florence (Pringle) Meier, widowed in 1963, was probably still in Wilkes-Barre then (unproven).",
-   "source": "notes/round2/meier_gaps.md; Round 2 report §4 (Wilkes University cemetery data page). ### 5.3 Colonial Long Island, New England and English lines Colonial group: stories (Long Island, New England, England, and notable cousins)."
   },
   {
    "id": "S084",
@@ -37020,16 +37011,6 @@ window.FAMILY_DATA = {
    "source": "uploaded deep-dive report, “Founders worth knowing” (Wikipedia: Smithtown, New York)."
   },
   {
-   "id": "S091",
-   "title": "Where Bull Smith did *not* come from",
-   "date": "1635",
-   "people": [
-    "I282608065309"
-   ],
-   "body": "The Gloucestershire origin belongs to a different man, Richard Smith of Cocumscussoc/Wickford, Rhode Island (earlier of Taunton), of whom Roger Williams said he “left a fair possession in Gloucestershire” for conscience’ sake. Both men died in 1691/2, which encouraged online trees to merge them. F. K. Smith judged from Bull Smith’s “court hand” that he was “in all probability … brought up in London”, and that he was probably the Richard Smith, 22, who sailed 2 Oct 1635 on the *John* of London for St Christophers.",
-   "source": "notes/round3/english_french_origins.md §2a."
-  },
-  {
    "id": "S092",
    "title": "A Wraysbury water bailiff who helped found Connecticut",
    "date": "1636–1687",
@@ -37077,16 +37058,6 @@ window.FAMILY_DATA = {
    "source": "notes/round3/english_french_origins.md §2d (Banks, *Planters of the Commonwealth* p. 183)."
   },
   {
-   "id": "S096",
-   "title": "The Tuttles who weren’t cousins",
-   "date": "1634–1635",
-   "people": [
-    "I282608060188"
-   ],
-   "body": "Akerly speculated that William Tuttle of New Haven (the *Planter*, 1635) was Henry’s brother William, baptized at Tharston in 1609. But William of New Haven’s son Thomas was “Babtised Janu. 4. 1634” at Ringstead, Northamptonshire — the New Haven Tuttles are not Tharston kin. (On the same *Planter* came William Lawrence, later first husband of Bull Smith’s daughter Elizabeth, with his stepfather John Tuttell.)",
-   "source": "notes/round3/english_french_origins.md §2d (Green, *TAG* 56:143; WikiTree Tuttle-29); notes/round2/colonial_cousins.md §3c."
-  },
-  {
    "id": "S097",
    "title": "“Unreverent speeches” and the oldest tombstone in Suffolk",
    "date": "1643–1671",
@@ -37107,27 +37078,6 @@ window.FAMILY_DATA = {
    ],
    "body": "Wells married Bridget, widow of Henry Tuthill, and became guardian of her Tuthill children. Bridget’s grandson John Tuthill Jr. later married Wells’s daughter Mehitable — born to Wells’s second wife — so the couple were not blood relatives.",
    "source": "uploaded deep-dive report “Founders worth knowing” (McCurdy p16172); Round 3 notes §2e."
-  },
-  {
-   "id": "S099",
-   "title": "How Mary Wells became “Mary Youngs”",
-   "date": "26 Dec 1678",
-   "people": [
-    "I282608059414"
-   ],
-   "body": "Hayes (1878) wrote that Wells married Mary “whose family name is said to be Youngs”, but “Thus far I have found nothing to throw any light on the question”, guessing the tradition came from a daughter marrying a Youngs. Mary’s own will of 26 Dec 1678, as “Mary Mapes … relict of William Wells”, names “my son-in-law John Youngs, in right of his wife … Mary Youngs, his wife, my daughter” — proving the Youngs tie came through the daughter, not the mother. The tree’s Youngs and Horne ancestors (back to “Sir J W Horne” b. 1500) therefore fall away.",
-   "source": "notes/colonial_virginia.md §2c; notes/round3/english_french_origins.md §2e."
-  },
-  {
-   "id": "S100",
-   "title": "The chaplain to the Queen of Denmark",
-   "date": "1604–1680",
-   "people": [
-    "H0256",
-    "I282608055977"
-   ],
-   "body": "The tree’s “Rev. William Wells to the Queen of Denmark” garbles a Norwich prebendary who was “Chaplain to the Queen (Anne of Denmark)”, wife of James I, d. 26 May 1620. Family tradition made his son William (bapt. St Peter Mancroft, Norwich, 10 Feb 1604/5) the Southold founder; but that son became vicar of North Elmham, Norfolk, and died in England in 1680.",
-   "source": "Round 1 correction 3c; notes/colonial_virginia.md §2b (Hayes 1878 pp. 9–15); notes/round3/english_french_origins.md status change 14 (CCEd 12847)."
   },
   {
    "id": "S101",
@@ -37407,39 +37357,6 @@ window.FAMILY_DATA = {
    "source": "notes/colonial_virginia.md §3b."
   },
   {
-   "id": "S128",
-   "title": "The Oyster Bay cemetery that isn’t family",
-   "date": "n/a (modern)",
-   "people": [
-    "H0329"
-   ],
-   "body": "Theodore Roosevelt is buried in Oyster Bay’s Youngs Memorial Cemetery, on Youngs family land, but he is not a blood relative — and the Youngs ancestry itself is unproven.",
-   "source": "notes/colonial_virginia.md §3d."
-  },
-  {
-   "id": "S129",
-   "title": "Stephen Sayre, a cousin who wasn’t",
-   "date": "1818",
-   "people": [
-    "H0328"
-   ],
-   "body": "Stephen Sayre, Sheriff of London and Franklin’s agent, died in 1818 “at the residence of his son in Brandon, Virginia”. He would have been John’s 3C9R had the tree’s Sayre line been right; it isn’t.",
-   "source": "notes/colonial_virginia.md §3d, §4 (Banks 1901; *Richmond Enquirer* 10 Dec 1818). ### 5.4 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)"
-  },
-  {
-   "id": "S130",
-   "title": "The two \"Marys\": how Mollie was mistaken for Mary Cognetti",
-   "date": "1931–1933 (the people); 2026 (the correction)",
-   "people": [
-    "H0332",
-    "I282695503537",
-    "I282695504010",
-    "I282695503435"
-   ],
-   "body": "The Ancestry tree showed \"Mollie Petriello 1911–\" as James Petriello's wife and left it unclear whether Mollie was Mary Cognetti. Round 1 worked out that Mollie (b. 1911) was James's wife, and so John T.'s mother, while Mary Cognetti (b. c.1933) married John T., James's son. The two were probably confused because \"Mollie\" is a pet form of Mary. Round 2 found James's 1931 marriage license (No. 1107), where the bride is \"Mollie Genett\", 20, of 133 Sand St, Dunmore, daughter of Frank, a blacksmith, and Angelica née Ferrandino. FamilySearch identifies her as Carmela Gianetta (13 Jul 1910 – 7 Feb 2000); her Social Security entry reads \"Mollie C Petriello\", where the C is for Carmela.",
-   "source": "Round 1 report correction 3n; notes/italian.md 2.3; Round 2 report 1 and 3e; notes/round2/italian_gaps.md 1 (FS VF76-TJQ, VF76-TJ9, GQ4M-KCR, SSDI JRHQ-NYH)"
-  },
-  {
    "id": "S131",
    "title": "A teenage wedding needing parental consent",
    "date": "20 Jun – 12 Jul 1931",
@@ -37566,20 +37483,6 @@ window.FAMILY_DATA = {
    "source": "notes/round3/italian_origins.md sections 1, 2 and \"Town and people facts\""
   },
   {
-   "id": "S143",
-   "title": "Gaetano di Marino's two wives",
-   "date": "before 1855–1876",
-   "people": [
-    "I282824814912",
-    "I282824814921",
-    "H0340",
-    "I282824814895",
-    "H0364"
-   ],
-   "body": "John's Ancestry tree made Maria d'Ambrosio the mother of Grazia Di Marino, while FamilySearch said Caterina di Leo. Grazia's own death act (1916) settled it: Caterina di Leo. A December 1855 marriage index shows another daughter of Gaetano, Concetta, whose mother was Maria d'Ambrosio. Gaetano evidently married twice, first Maria d'Ambrosio and then Caterina di Leo, and the tree had merged the two wives. As a result the whole D'Ambrosio/Gialanella pedigree drops out of John's direct line.",
-   "source": "notes/round3/italian_origins.md 1; Round 3 report section 3"
-  },
-  {
    "id": "S144",
    "title": "\"Farino\": how a census clerk hid the Ferlainos",
    "date": "2–3 Jan 1920; 1940; 1943; 2008",
@@ -37621,23 +37524,6 @@ window.FAMILY_DATA = {
    "people": [],
    "body": "San Mango was founded in the early 1600s by a cadet branch of the d'Aquino family, the family of St. Thomas Aquinas. The Bishop of Tropea erected the parish in 1648, and the mother church is dedicated to San Tommaso d'Aquino. The town was first called \"Muricello\", then \"Casale nuovo\". Lord Luigi d'Aquino renamed it \"Santo Mango\" after his father Tommaso's Cilento fief, and \"d'Aquino\" was added after Italian unification. The population was 250 in 1674 and peaked at 2,241 in 1911, then declined through emigration. Earthquakes in 1905 and 1908 fall right in the Ferlainos' emigration window. In Scranton, San Mango families hold La Madonna della Buda over Father's Day weekend, and the San Mango d'Aquino Mutual Benefit Society is at 1258 Providence Rd. (Round 1 gave the founding as about 1640.)",
    "source": "notes/round2/italian_gaps.md 8 (https://it.wikipedia.org/wiki/San_Mango_d%27Aquino); notes/italian.md 4 (Yelp, We The Italians, FamilySearch Wiki); Round 2 report section 4"
-  },
-  {
-   "id": "S148",
-   "title": "The coat of arms nobody can place",
-   "date": "tree images (undated)",
-   "people": [
-    "I282824815347",
-    "I282824815395",
-    "I282824815369",
-    "I282824815401",
-    "I282824815410",
-    "I282824815424",
-    "I282824815431",
-    "I282824815381"
-   ],
-   "body": "Several Fiorillo, Morrello and Guercio profiles in the tree use the same coat of arms: a black shield, a silver rampant lion, a crown and a wreath. Round 1 checked the official arms of 35 comuni across Catanzaro, Cosenza, Crotone and Vibo Valentia provinces, and none shows a silver lion on black. It may be a family arms (for example one sold as \"Fiorillo arms\"), the arms of a noble family such as the d'Aquino or Le Piane lords of San Mango, or an image copied from another user's tree. Round 2 then found that none of these surnames except Guercio appears in San Mango in 1674–1804, which supports the copied-tree explanation.",
-   "source": "notes/italian.md 4.1; notes/round2/italian_gaps.md 7"
   },
   {
    "id": "S149",
@@ -37698,40 +37584,6 @@ window.FAMILY_DATA = {
    "source": "Round 2 report section 2 (military table); notes/round2/italian_gaps.md 3, 4 and 6"
   },
   {
-   "id": "S154",
-   "title": "Grace's 1943 naturalization",
-   "date": "29 Jun 1943",
-   "people": [
-    "H0351"
-   ],
-   "body": "Grace, John Petriello's daughter, is indexed as naturalized on 29 Jun 1943, although she was probably US-born. The reason is unknown. One speculative explanation is that she had lost her citizenship by marrying an alien (Joseph DiBiasi).",
-   "source": "notes/round2/italian_gaps.md 4"
-  },
-  {
-   "id": "S155",
-   "title": "An obituary that confirms Sharon",
-   "date": "29 Feb 2024",
-   "people": [
-    "H0348",
-    "I282604492910",
-    "I282695503435",
-    "I282695503537"
-   ],
-   "body": "John T. Petriello Jr., eldest of the three children of John and Mary Petriello, was born and raised in Scranton. He was a Merrill Lynch financial advisor for 30 years and lived in Mendham, NJ, then Princeton. His obituary names his surviving siblings \"Sharon Meier (Thomas)\" and Paul, and a cousin Ann Marie. This independently confirms that Johnny's mother belongs to this family.",
-   "source": "notes/round2/italian_gaps.md 5 (https://themontynews.org/single-post/john-t-petriello-jr-65); Round 2 report 3e"
-  },
-  {
-   "id": "S156",
-   "title": "Name collisions: the wrong James Petrillo and the wrong Frank Cognetti",
-   "date": "n/a",
-   "people": [
-    "H0380",
-    "H0381"
-   ],
-   "body": "Search engines keep returning James C. Petrillo (Chicago, 1892–1984), the musicians'-union boss. He is not John's great-grandfather James Petrillo. Scranton/Dunmore also had a second Frank Cognetti (1894–1978), born in Nicastro, son of Bruno Cognetto and husband of Maria Grazia Paradiso; his family must not be merged with John's. PFC Frank A. Petriello (1926–1945), Purple Heart, killed in Germany, was from Bayonne, NJ, and is not related.",
-   "source": "Round 2 report \"Ruled out\"; notes/round2/italian_gaps.md 3, 4 and 6; notes/italian.md 5c"
-  },
-  {
    "id": "S157",
    "title": "The 'Ndrangheta judge and the Napoli owner",
    "date": "1975; 1980s",
@@ -37741,17 +37593,6 @@ window.FAMILY_DATA = {
    ],
    "body": "Two famous Ferlainos came from Conflenti, next door to San Mango d'Aquino. Judge Francesco Ferlaino (1914–1975), an investigating judge and later appeals-court president, was murdered by the 'Ndrangheta in Lamezia Terme in 1975 and has been commemorated by President Mattarella. Corrado Ferlaino (b. 1931), an engineer whose father Modesto was a builder from Conflenti, owned SSC Napoli in the Maradona era. Ferlaino is a small Savuto-valley surname, so a distant link is plausible but unproven.",
    "source": "notes/italian.md 5c; Round 1 report section 1"
-  },
-  {
-   "id": "S158",
-   "title": "Rocco James: the son who wasn't",
-   "date": "1889–1980",
-   "people": [
-    "H0361",
-    "I282695504114"
-   ],
-   "body": "Geni listed a Rocco James Petrillo, born in Italy in 1889, among John Petriello's children. Round 1 used his birth to date John's first arrival to c.1889–95. Round 2 found he was actually the son of Michelarcangelo Petriello and Benedetta Ladye, another Guardia family. He immigrated in 1909, lived in Farrell and Berwick, PA, and in Ohio, and died in 1980. Removing him voided the arrival estimate.",
-   "source": "notes/round2/italian_gaps.md 4 (FS L6MH-TCL)"
   }
  ],
  "generated": "2026-10-08"
