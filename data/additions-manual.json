@@ -86,17 +86,20 @@
     },
     {
       "id": "M0012",
-      "given": "Kathryn",
+      "given": "Kathryn A.",
       "surname": "Meier",
       "sex": "F",
       "birth": {
-        "date": "ABT 1955",
+        "date": "1955-05",
         "place": "Pennsylvania, USA"
       },
       "nickname": "Kathy",
       "aka": [
+        "Kate McGinley",
+        "Kathryn A. McGinley",
+        "Kathy McGinley",
         "Kathy Meier",
-        "Kathy McGinley"
+        "Katie McGinley"
       ]
     },
     {
@@ -127,53 +130,61 @@
     },
     {
       "id": "M0015",
-      "given": "Susan",
+      "given": "Susan M.",
       "surname": "Meier",
       "sex": "F",
       "birth": {
-        "date": "ABT 1960",
+        "date": "BET 1961 AND 1962",
         "place": "Pennsylvania, USA"
       },
-      "nickname": "Susie"
-    },
-    {
-      "id": "M0016",
-      "given": "Nancy",
-      "surname": "Meier",
-      "sex": "F",
-      "birth": {
-        "date": "ABT 1961",
-        "place": "Pennsylvania, USA"
-      },
+      "nickname": "Susie",
       "aka": [
-        "Nancy Russo"
+        "Susan Baldassarre",
+        "Susan M. Baldassarre"
       ]
     },
     {
+      "id": "M0016",
+      "given": "Ann K.",
+      "surname": "Meier",
+      "sex": "F",
+      "birth": {
+        "date": "BET 1963 AND 1964",
+        "place": "Pennsylvania, USA"
+      },
+      "aka": [
+        "Nancy Meier",
+        "Nancy Russo",
+        "Ann K. Russo"
+      ],
+      "nickname": "Nancy"
+    },
+    {
       "id": "M0017",
-      "given": "John",
+      "given": "John Francis",
       "surname": "Meier",
       "sex": "M",
       "birth": {
-        "date": "ABT 1962",
+        "date": "BET 1966 AND 1967",
         "place": "Pennsylvania, USA"
       },
       "nickname": "Jack"
     },
     {
       "id": "M0018",
-      "given": "Theresa",
+      "given": "Theresa A.",
       "surname": "Meier",
       "sex": "F",
       "birth": {
-        "date": "ABT 1963",
+        "date": "1969-07",
         "place": "Pennsylvania, USA"
       },
-      "nickname": "Terry",
+      "nickname": "Terri",
       "aka": [
+        "Terri Meier",
         "Terry Meier",
-        "Teresa Meier",
-        "Terry Borgman"
+        "Theresa Borgman",
+        "Terri Borgman"
       ]
     },
     {
@@ -323,9 +334,10 @@
     },
     {
       "id": "M0036",
-      "given": "",
+      "given": "Gregory L.",
       "surname": "Borgman",
-      "sex": "M"
+      "sex": "M",
+      "nickname": "Greg"
     },
     {
       "id": "M0037",
@@ -988,6 +1000,12 @@
       "given": "Bobby",
       "surname": "Borgman",
       "sex": "M"
+    },
+    {
+      "id": "M0113",
+      "given": "",
+      "surname": "Baldassarre",
+      "sex": "M"
     }
   ],
   "families": [
@@ -1274,6 +1292,12 @@
       ],
       "husband": "M0105",
       "wife": "M0106"
+    },
+    {
+      "id": "MF0038",
+      "husband": "M0113",
+      "wife": "M0015",
+      "children": []
     }
   ],
   "familyUpdates": [

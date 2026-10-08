@@ -4,6 +4,23 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — The eight Meier siblings: full names, birth months and towns
+
+- John shared screenshots of a background-report summary (Instant
+  Checkmate) he pulled himself. Recorded from it, names/dates/towns only,
+  never the address, phone or email shown: Kathryn A. McGinley (aliases
+  Kathryn A. Meier, Kate/Katie McGinley) b. May 1955; Susan M. Baldassarre,
+  64, Ottsville (husband `M0113`, first name unknown, `MF0038`); Ann K.
+  Russo, 62, Doylestown (Nancy's given name is Ann); John Francis "Jack"
+  Meier, 59, Jamison; Theresa A. "Terri" Meier b. Jul 1969 (Morrisville,
+  Ewing NJ, Levittown), ex-husband Gregory L. Borgman (`M0036` named).
+  Terri was 14 months old when her mother died (Sept 1970).
+- Birth-year estimates corrected: Susan c.1961/62 (was 1960), Nancy c.1963/64
+  (was 1961), Jack c.1966/67 (was 1962), Terri 1969 (was 1963).
+- Public searches on the new surnames (Baldassarre/Ottsville, Gregory Borgman,
+  John F. Meier/Jamison, Ann Russo/Doylestown): nothing. Rule unchanged:
+  Claude does not query people-search sites; John may share what he finds.
+
 ## 2026-10-08 — Kathy, Nancy and Terry Meier: John's leads; Anthony Russo Jr.
 
 - John supplied: Kathy m. Richard "Rick" McGinley, near Doylestown, children

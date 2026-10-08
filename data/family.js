@@ -4567,6 +4567,24 @@ window.FAMILY_DATA = {
    "lon": -74.83897,
    "label": "Yardley, Bucks County, Pennsylvania, United States",
    "precision": "exact"
+  },
+  "Ewing, Mercer County, New Jersey, USA": {
+   "lat": 40.26881,
+   "lon": -74.80069,
+   "label": "Ewing, Ewing Township, Mercer County, New Jersey, 08628, United States",
+   "precision": "exact"
+  },
+  "Jamison, Warwick Township, Bucks County, Pennsylvania, USA": {
+   "lat": 40.25483,
+   "lon": -75.08934,
+   "label": "Jamison, Warwick Township, Bucks County, Pennsylvania, 18929, United States",
+   "precision": "exact"
+  },
+  "Ottsville, Tinicum Township, Bucks County, Pennsylvania, USA": {
+   "lat": 40.47316,
+   "lon": -75.16101,
+   "label": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, 18942, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -5612,7 +5630,7 @@ window.FAMILY_DATA = {
     "military"
    ],
    "summary": "John's paternal grandfather, raised at 55 Cedar Street in Wilkes-Barre and husband of Kathryn McGuire, who died in Levittown, Pennsylvania, in 2008.",
-   "bio": "James C. Meier was born in Pennsylvania on 13 July 1928, the son of William F. Meier and Florence L. Pringle. He grew up at 55 Cedar Street in Wilkes-Barre, where the family was living in 1930 and still in 1950; by then his father was a supervisor at a coal company, and the household included his elder brother William F. Jr. (1927-2004) and younger sister Barbara Ann (1935-2021), later Barbara Ann Smith. A funeral notice of October 1933 for an infant Florence Irene Meier may record another sister. He was of the right age for the Korean War draft, but no military service is known.\n\nHe married Kathryn F. McGuire, born 22 August 1930, and they had eight children: Kathryn, Daniel, James, Thomas Francis (John's father, born 1959), Susan, Nancy, John and Theresa. Kathryn died of breast cancer in September 1970, in Levittown, Pennsylvania, when the children were between about seven and fifteen, and James raised them alone and never remarried.\n\nJames died on 13 August 2008 in Levittown, Bucks County, Pennsylvania, and was buried at Bensalem. His move to Levittown, the Pennsylvania town rather than the Levittown on Long Island, was the family's first recorded step outside Luzerne County, but he was not the first of the Wilkes-Barre Meiers in lower Bucks County: his uncle Fred Aloysius Meier Sr. died in Bristol Township in March 1966, and Fred's son Gerald Francis Meier, born in Wilkes-Barre on 11 March 1921, died in Levittown in 1994, leaving a widow, Mary Ruth Hashagen (1927-2003), and a son, Frederick Aloysius Meier (1957-2012). A branch of the family was therefore already in the area by the 1960s, which may explain his own move there.\n\nThe family name had been spelled Mayer in the Munzingen registers of Baden and Meyer or Myer in the first American censuses; the spelling Meier first appears in the record of his grandfather Henry J. Meier's marriage in 1892, written by the clerk, and was used consistently from 1910 onward.",
+   "bio": "James C. Meier was born in Pennsylvania on 13 July 1928, the son of William F. Meier and Florence L. Pringle. He grew up at 55 Cedar Street in Wilkes-Barre, where the family was living in 1930 and still in 1950; by then his father was a supervisor at a coal company, and the household included his elder brother William F. Jr. (1927-2004) and younger sister Barbara Ann (1935-2021), later Barbara Ann Smith. A funeral notice of October 1933 for an infant Florence Irene Meier may record another sister. He was of the right age for the Korean War draft, but no military service is known.\n\nHe married Kathryn F. McGuire, born 22 August 1930, and they had eight children between 1953 and 1969: Kathryn, Daniel, James, Thomas Francis (John's father, born 1959), Susan, Ann (known as Nancy), John and Theresa. Kathryn died of breast cancer in September 1970, in Levittown, Pennsylvania, when the children were between fourteen months and fifteen years old, and James raised them alone and never remarried.\n\nJames died on 13 August 2008 in Levittown, Bucks County, Pennsylvania, and was buried at Bensalem. His move to Levittown, the Pennsylvania town rather than the Levittown on Long Island, was the family's first recorded step outside Luzerne County, but he was not the first of the Wilkes-Barre Meiers in lower Bucks County: his uncle Fred Aloysius Meier Sr. died in Bristol Township in March 1966, and Fred's son Gerald Francis Meier, born in Wilkes-Barre on 11 March 1921, died in Levittown in 1994, leaving a widow, Mary Ruth Hashagen (1927-2003), and a son, Frederick Aloysius Meier (1957-2012). A branch of the family was therefore already in the area by the 1960s, which may explain his own move there.\n\nThe family name had been spelled Mayer in the Munzingen registers of Baden and Meyer or Myer in the first American censuses; the spelling Meier first appears in the record of his grandfather Henry J. Meier's marriage in 1892, written by the clerk, and was used consistently from 1910 onward.",
    "military": [
     {
      "note": "No service found. Korean War draft age (registered 1946–48). VA Gravesite Locator, BIRLS and Veterans Legacy Memorial blocked/negative; no Luzerne Korea-era listing found."
@@ -5636,12 +5654,12 @@ window.FAMILY_DATA = {
      "value": "Surname spelling history (Mayer→Meier): Munzingen registers write Mayer 1820–1862 (1820 marriage 'Henericus Mayer', 1835 birth 'Friedrich Mayer', 1862 marriage 'Friedrich Mayer'); 1870 US census 'Meyer, Frederick'; 1880 census 'Myer, Friedrich'; the 1892 Luzerne marriage docket No. 11054 is the first record spelling it 'Meier' (Henry J. Meier) — written by the clerk, so Henry may not have chosen it; 'Meier' is consistent from 1910 on (1910, 1920, 1926, 1930, 1950 records; PA death indexes 1911/1913/1963) except 'Meyer, Henry J.' in the 1940 census; no formal name change is recorded."
     },
     {
-     "label": "Children",
-     "value": "Kathryn \"Kathy\" (c.1955, m. Richard McGinley; Doylestown area), Daniel (c.1953/54), James \"Jamie\" (c.1958), Thomas Francis (1959), Susan \"Susie\" (c.1960), Nancy (c.1961, m. Tony Russo; Doylestown), John \"Jack\" (c.1962), Theresa \"Terry\" (c.1963, m. a Borgman, divorced; Yardley). Exact birth dates not in any public record found; years estimated."
-    },
-    {
      "label": "Marriage",
      "value": "Married Kathryn F. McGuire; widowed in 1970 and never remarried."
+    },
+    {
+     "label": "Children",
+     "value": "Kathryn A. \"Kathy\" (May 1955, m. Richard McGinley; Doylestown area), Daniel \"Danny\" (c.1953/54), James \"Jamie\" (c.1958), Thomas Francis (1959), Susan M. \"Susie\" (c.1961/62, now Baldassarre; Ottsville), Ann K. \"Nancy\" (c.1963/64, m. Tony Russo; Doylestown), John Francis \"Jack\" (c.1966/67; Jamison), Theresa A. \"Terri\" (Jul 1969, m. Gregory Borgman, divorced; Yardley area). Months and years from a report John consulted; exact days not recorded."
     }
    ],
    "sources": [
@@ -5653,7 +5671,8 @@ window.FAMILY_DATA = {
     "notes/meier_mcguire.md; notes/round2/meier_gaps.md; notes/round3/meier_line.md; Round 1–3 reports",
     "[R4-S1] FamilySearch Family Tree, Gerald Francis Meier (G7CS-435), published-tree JSON: b. 11 Mar 1921 Wilkes-Barre, d. 4 May 1994 Levittown, Bristol Twp., Bucks Co.; spouse Mary Ruth Hashagen 1927–2003 (G7LY-Y75); child Frederick Aloysius Meier 1957–2012 (G7L1-MWM); sources include 1930 census and 1947 Luzerne marriage (KHF6-VSL) and SSDI (JP8T-PMN) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-435",
     "[R4-S2] Pennsylvania Death Index 1966, M–N–O, PDF p.151 (printed page 1629): MEIER FREDERICK A, age 73, BRSTL T, county 09 (Bucks), died 03/06/66, file 022971, res 09001 (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1966/D-66%20M-N-O.pdf",
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
    ],
    "mediaKnown": [
     "Ancestry tree profile photo: yearbook page",
@@ -5716,6 +5735,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John (8 Oct 2026): Kathryn died of breast cancer; towns and spouses of Kathy, Nancy and Terry. The children's exact birth dates are not in public records online (only data-broker sites, which are not used); his 2008 Courier Times obituary would list the children and remains the key lead."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Children's full names, birth months/years and towns from the background-report summary John shared (Kathryn A. May 1955 … Theresa A. Jul 1969). The report still lists James himself, aged 98, at Levittown: a stale entry for a man who died in 2008."
     }
    ],
    "researchNotes": "James C. Meier was born 13 Jul 1928 in Pennsylvania (Ancestry birth/Social-Security-type index snippet: 'James C Meier, born 13 July 1928, father William F Meier, mother Florence L Pringle'; a second snippet adds 'Pennsylvania … father Wm F Meier, mother Florence L Pringle'). The age '1 9/12' in the 1930 census (14 Apr 1930) and 21 in the 1950 census (7 Apr 1950) fit this date. In the 1930 census (Wilkes-Barre Ward 15, ED 40-261, sheet 23B, 55 Cedar Street) he is 'James, son, 1 9/12' in the household of Wm F. Meier (26) and Florence (25) with elder brother William (about 3). In the 1950 census (Wilkes-Barre ED 40-102, sheet 2, house 55) he is 'James C., son, 21, single' with father William F. (45, supervisor at a coal company), mother Florence (45), brother William Jr. (23) and sister Barbara Ann (14). He married Kathryn F. McGuire (b. 22 Aug 1930), who died Sep 1970 (FamilySearch tree G3PC-LJL says in Levittown, PA). He died 13 Aug 2008 in Levittown, Bucks County, Pennsylvania (Ancestry index snippet, several queries) — Levittown, Pennsylvania, not Levittown on Long Island; this is the first record of the family outside Luzerne County. No obituary, military record or 1940 census entry has been found. He was the right age for the Korean War draft (registered 1946–48), but no service record was found. The FamilySearch profile GF3P-853 calls him 'James E Meier, b. 1929' with no spouse; the 1950 census it cites reads 'James C', so 'E/1929' is a tree error.\n\nThe three Levittown obituary leads in James's open questions belong to a cousin's family, not his own. FamilySearch tree profiles of the descendants of Fred Aloysius Meier Sr. (James's uncle) place Fred's son Gerald Francis Meier (b. 11 Mar 1921 Wilkes-Barre) at death on 4 May 1994 in Levittown, Bristol Township, Bucks Co. ([R4-S1]). Gerald's wife was Mary Ruth Hashagen (1927–2003) and his son was Frederick Aloysius Meier (1957–2012) ([R4-S1]). These fit the Courier Times obituaries of 'Mary R. Meier' (26 Nov 2003) and 'Fred Meier' (15 Jul 2012), Levittown, so they are James's first cousin's widow and son, not his wife or children. Fred Aloysius Meier Sr. himself died in Bristol Township in March 1966 ([R4-S2]). So a branch of the Wilkes-Barre Meiers was in lower Bucks County by the 1960s, which may explain James's own move to Levittown."
@@ -5786,7 +5809,7 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "John's paternal grandmother, daughter of Frank J. McGuire and Elizabeth McAvoy of Plymouth and Wilkes-Barre, who died aged 40 in 1970, probably at Levittown.",
-   "bio": "Kathryn F. McGuire was born in Wilkes-Barre, Luzerne County, Pennsylvania, on 22 August 1930, the daughter of Francis (Frank) J. McGuire and Elizabeth McAvoy. Her parents had married at Plymouth in 1923; in 1910 her father's family and the Pringles, her future husband's mother's family, had both been living in Larksville. Records differ on her middle name, giving it as F. or as Kay. Her sisters were Jane Clair (1924–2005), who married Elvin R. Nagle, and probably the twins Elizabeth 'Betsy' and Ann 'Nancy', born in March 1928; Nancy married a Holland and died in 2007.\n\nKathryn married James C. Meier and was John's paternal grandmother. She died young, of breast cancer, in September 1970 at the age of 40, probably at Levittown in Bucks County, Pennsylvania, leaving eight children between about seven and fifteen; her husband never remarried and died there in 2008.",
+   "bio": "Kathryn F. McGuire was born in Wilkes-Barre, Luzerne County, Pennsylvania, on 22 August 1930, the daughter of Francis (Frank) J. McGuire and Elizabeth McAvoy. Her parents had married at Plymouth in 1923; in 1910 her father's family and the Pringles, her future husband's mother's family, had both been living in Larksville. Records differ on her middle name, giving it as F. or as Kay. Her sisters were Jane Clair (1924–2005), who married Elvin R. Nagle, and probably the twins Elizabeth 'Betsy' and Ann 'Nancy', born in March 1928; Nancy married a Holland and died in 2007.\n\nKathryn married James C. Meier and was John's paternal grandmother. She died young, of breast cancer, in September 1970 at the age of 40, probably at Levittown in Bucks County, Pennsylvania, leaving eight children between fourteen months and fifteen years old; her husband never remarried and died there in 2008.",
    "facts": [
     {
      "label": "Middle initial / name",
@@ -67714,7 +67737,7 @@ window.FAMILY_DATA = {
   },
   {
    "id": "M0012",
-   "given": "Kathryn",
+   "given": "Kathryn A.",
    "surname": "Meier",
    "sex": "F",
    "birth": {
@@ -67723,8 +67746,11 @@ window.FAMILY_DATA = {
    },
    "nickname": "Kathy",
    "aka": [
+    "Kate McGinley",
+    "Kathryn A. McGinley",
+    "Kathy McGinley",
     "Kathy Meier",
-    "Kathy McGinley"
+    "Katie McGinley"
    ],
    "source": "research",
    "link": {
@@ -67756,11 +67782,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John (8 Oct 2026): lives near Doylestown; husband Richard 'Rick' McGinley; children Ryan, Daniel and Kate. Searched Doylestown/Bucks County news and obituaries for Kathy or Richard McGinley with these leads: nothing public found (people-search sites not used). Birth date still estimated."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John shared a background-report summary: Kathryn A. McGinley, aliases Kathryn A. Meier, Kate/Katie McGinley, born May 1955. Recorded name, birth month/year and aliases only."
     }
    ],
-   "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Richard 'Rick' McGinley; three children; lives near Doylestown.",
+   "summary": "Kathryn A. 'Kathy' Meier, born May 1955, the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; married to Richard 'Rick' McGinley, mother of three, living near Doylestown; John's aunt.",
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
    ],
    "residences": [
     {
@@ -67784,10 +67815,15 @@ window.FAMILY_DATA = {
     {
      "label": "Children",
      "value": "Ryan, Daniel (Danny) and Kate McGinley"
+    },
+    {
+     "label": "Birth",
+     "value": "May 1955 (month and year from a report John consulted; day not recorded)"
     }
    ],
    "manual": true,
-   "bio": "Kathryn 'Kathy' Meier, the eldest of the eight Meier children, grew up in Levittown, Pennsylvania. She married Richard 'Rick' McGinley, and they have three children, Ryan, Daniel and Kate. The family lives near Doylestown in Bucks County."
+   "bio": "Kathryn A. 'Kathy' Meier, also known as Kate or Katie, was born in May 1955, the eldest of the eight Meier children, and grew up in Levittown, Pennsylvania. She was fifteen when her mother died in 1970. She married Richard 'Rick' McGinley, and they have three children, Ryan, Daniel and Kate. The family lives near Doylestown in Bucks County.",
+   "birthDateReduced": true
   },
   {
    "id": "M0013",
@@ -68286,10 +68322,6 @@ window.FAMILY_DATA = {
    ],
    "facts": [
     {
-     "label": "Siblings",
-     "value": "Kathy (McGinley), Danny, Tommy, Susie, Nancy (Russo), Jack and Terry Meier."
-    },
-    {
      "label": "Education",
      "value": "East Stroudsburg State College (football letterman 1977–80)"
     },
@@ -68308,6 +68340,10 @@ window.FAMILY_DATA = {
     {
      "label": "Honours",
      "value": "All-PSAC East first team 1979; Waynewood Citizens Association Citizen of the Year 2018"
+    },
+    {
+     "label": "Siblings",
+     "value": "Kathy (McGinley), Danny, Tommy, Susie (Baldassarre), Ann \"Nancy\" (Russo), Jack and Terri Meier."
     }
    ],
    "manual": true,
@@ -68417,18 +68453,22 @@ window.FAMILY_DATA = {
   },
   {
    "id": "M0015",
-   "given": "Susan",
+   "given": "Susan M.",
    "surname": "Meier",
    "sex": "F",
    "birth": {
-    "date": "1960",
+    "date": "1961",
     "place": "Pennsylvania, USA"
    },
    "nickname": "Susie",
+   "aka": [
+    "Susan Baldassarre",
+    "Susan M. Baldassarre"
+   ],
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
+    "note": "John's aunt, sister of his father Thomas; listed among Theresa Meier's relatives as Susan M. Baldassarre in the report John consulted."
    },
    "tags": [],
    "researchLog": [
@@ -68455,36 +68495,54 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Fourth pass (8 Oct 2026): John gave leads for Kathy, Nancy and Terry but none for this sibling; Doylestown/Yardley/Bucks County searches with the family's known surnames found nothing. Birth date still estimated."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John shared a background-report summary: Susan M. Baldassarre, 64, Ottsville, PA, listed as a relative of Theresa A. Meier. Married name and town recorded; nothing public found for 'Susan Baldassarre' in Bucks County."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of John Meier.",
+   "summary": "Susan M. Meier, known as Susie, born about 1961 or 1962, one of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; now Susan Baldassarre of Ottsville, Bucks County; John's aunt.",
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
    ],
    "residences": [
     {
-     "date": "",
-     "place": "Levittown, Bucks County, Pennsylvania, USA",
-     "note": "Family home"
+     "date": "1960s–1980s",
+     "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+     "date": "2020s",
+     "place": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, USA"
     }
    ],
    "openQuestions": [
     "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names.",
     "Married surname unknown; no public source found naming her. John may know it, and it would unlock further searching."
+   ],
+   "bio": "Susan M. 'Susie' Meier was born about 1961 or 1962 and grew up in Levittown, Pennsylvania, one of the eight Meier children and a younger sister of John's father, Tommy. She married a Baldassarre and lives at Ottsville in upper Bucks County.",
+   "facts": [
+    {
+     "label": "Married",
+     "value": "A Baldassarre (surname from her current name; first name not yet known)"
+    }
    ]
   },
   {
    "id": "M0016",
-   "given": "Nancy",
+   "given": "Ann K.",
    "surname": "Meier",
    "sex": "F",
    "birth": {
-    "date": "1961",
+    "date": "1963",
     "place": "Pennsylvania, USA"
    },
    "aka": [
-    "Nancy Russo"
+    "Nancy Meier",
+    "Nancy Russo",
+    "Ann K. Russo"
    ],
+   "nickname": "Nancy",
    "source": "research",
    "link": {
     "confidence": "confirmed",
@@ -68519,13 +68577,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John: Nancy and Tony live in Doylestown; son Anthony Jr. played QB at Archbishop Wood, Temple and Michigan State. Temple/MSU bios confirm parents' names and uncle Dan Meier. Birth date still only estimated (c.1961); not in any public record found."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: her given name is Ann (Ann K. Russo, 62, Doylestown in the report he consulted). Name, age and town recorded."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Doylestown with her husband Tony Russo; mother of four, including the Temple quarterback Anthony Russo Jr.; John's aunt.",
+   "summary": "Ann K. Meier, known as Nancy, born about 1963 or 1964, one of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Doylestown with her husband Tony Russo; mother of four, including the Temple quarterback Anthony Russo Jr.; John's aunt.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027",
-    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282"
+    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
    ],
    "residences": [
     {
@@ -68551,20 +68614,28 @@ window.FAMILY_DATA = {
      "value": "Anthony Jr. (b. 1997, quarterback), Chelsea, Gianna and Emily Russo"
     },
     {
+     "label": "Name",
+     "value": "Ann K. Meier; known as Nancy; Ann K. Russo since her marriage"
+    },
+    {
+     "label": "Birth",
+     "value": "About 1963–64 (age 62 in October 2026 per a report John consulted)"
+    },
+    {
      "label": "Siblings",
-     "value": "Kathy (McGinley), Danny, Jamie, Tommy, Susie, Jack and Terry Meier"
+     "value": "Kathy (McGinley), Danny, Jamie, Tommy, Susie (Baldassarre), Jack and Terri Meier"
     }
    ],
    "manual": true,
-   "bio": "Nancy Meier grew up in Levittown, Pennsylvania, one of the eight children of James C. and Kathryn (McGuire) Meier and a younger sister of John's father, Tommy. She married Anthony 'Tony' Russo and they live in Doylestown, Bucks County, where they raised four children: Anthony Jr., Chelsea, Gianna and Emily.\n\nThe family's football line ran on through her son. Anthony Russo Jr., born in Doylestown in 1997, quarterbacked Archbishop Wood to Catholic League and state titles, set passing records at Temple University from 2018 to 2020, finished his college career at Michigan State and played professionally in 2023. His college bios name Nancy and Tony as his parents and note that his uncle Dan Meier played football at North Carolina State."
+   "bio": "Ann K. Meier, known in the family as Nancy, was born about 1963 or 1964 and grew up in Levittown, Pennsylvania, one of the eight children of James C. and Kathryn (McGuire) Meier and a younger sister of John's father, Tommy. She married Anthony 'Tony' Russo and they live in Doylestown, Bucks County, where they raised four children: Anthony Jr., Chelsea, Gianna and Emily.\n\nThe family's football line ran on through her son. Anthony Russo Jr., born in Doylestown in 1997, quarterbacked Archbishop Wood to Catholic League and state titles, set passing records at Temple University from 2018 to 2020, finished his college career at Michigan State and played professionally in 2023. His college bios name Nancy and Tony as his parents and note that his uncle Dan Meier played football at North Carolina State."
   },
   {
    "id": "M0017",
-   "given": "John",
+   "given": "John Francis",
    "surname": "Meier",
    "sex": "M",
    "birth": {
-    "date": "1962",
+    "date": "1966",
     "place": "Pennsylvania, USA"
    },
    "nickname": "Jack",
@@ -68598,37 +68669,53 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Fourth pass (8 Oct 2026): John gave leads for Kathy, Nancy and Terry but none for this sibling; Doylestown/Yardley/Bucks County searches with the family's known surnames found nothing. Birth date still estimated."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John shared a background-report summary: John Francis Meier / Jack Meier, 59, Jamison, PA. Full name, age and town recorded; nothing public found."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of John Meier.",
+   "summary": "John Francis 'Jack' Meier, born about 1966 or 1967, one of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives at Jamison in Warwick Township, Bucks County; John's uncle.",
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
    ],
    "residences": [
     {
-     "date": "",
-     "place": "Levittown, Bucks County, Pennsylvania, USA",
-     "note": "Family home"
+     "date": "1960s–1980s",
+     "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+     "date": "2020s",
+     "place": "Jamison, Warwick Township, Bucks County, Pennsylvania, USA"
     }
    ],
    "openQuestions": [
     "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+   ],
+   "bio": "John Francis Meier, known as Jack, was born about 1966 or 1967 and grew up in Levittown, Pennsylvania, one of the eight Meier children and a younger brother of John's father, Tommy; he was a small boy when his mother died in 1970. He lives at Jamison in Warwick Township, Bucks County.",
+   "facts": [
+    {
+     "label": "Birth",
+     "value": "About 1966–67 (age 59 in October 2026 per a report John consulted)"
+    }
    ]
   },
   {
    "id": "M0018",
-   "given": "Theresa",
+   "given": "Theresa A.",
    "surname": "Meier",
    "sex": "F",
    "birth": {
-    "date": "1963",
+    "date": "1969",
     "place": "Pennsylvania, USA"
    },
    "nickname": "Terry",
    "aka": [
+    "Terri Meier",
     "Terry Meier",
-    "Teresa Meier",
-    "Terry Borgman"
+    "Theresa Borgman",
+    "Terri Borgman"
    ],
    "source": "research",
    "link": {
@@ -68664,20 +68751,30 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John (8 Oct 2026): lives in Yardley; divorced; children Kaysie, Rylie and Bobby. One name check on the distinctive 'Kaysie Borgman' found nothing public; Borgman searches for Yardley/Bucks County found nothing. Birth date still estimated."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: she goes by Terri. Background-report summary he shared: Theresa A. Meier, alias Terri Meier, born Jul 1969, places Morrisville PA, Ewing NJ, Levittown PA; relatives Susan M. Baldassarre, Gregory L. Borgman, Kathryn A. McGinley, James C. Meier, John Francis Meier, Thomas Francis Meier, Ann K. Russo. Address, phone and email in the report were not recorded."
     }
    ],
-   "summary": "Known as Terry (Theresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Yardley, Pennsylvania; divorced, with three children; John's aunt.",
+   "summary": "Theresa A. 'Terri' Meier, born July 1969, the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; divorced from Gregory Borgman, mother of three, living in the Yardley area; John's aunt.",
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
    ],
    "residences": [
     {
-     "date": "1960s–1980s",
+     "date": "1969–1980s",
      "place": "Levittown, Bucks County, Pennsylvania, USA"
     },
     {
+     "date": "",
+     "place": "Ewing, Mercer County, New Jersey, USA"
+    },
+    {
      "date": "2020s",
-     "place": "Yardley, Bucks County, Pennsylvania, USA"
+     "place": "Yardley, Bucks County, Pennsylvania, USA",
+     "note": "Yardley and Morrisville area"
     }
    ],
    "openQuestions": [
@@ -68686,16 +68783,21 @@ window.FAMILY_DATA = {
    ],
    "facts": [
     {
-     "label": "Married",
-     "value": "A Borgman; the marriage ended in divorce."
-    },
-    {
      "label": "Children",
      "value": "Kaysie, Rylie and Bobby Borgman"
+    },
+    {
+     "label": "Married",
+     "value": "Gregory L. \"Greg\" Borgman; the marriage ended in divorce."
+    },
+    {
+     "label": "Birth",
+     "value": "July 1969 (month and year from a report John consulted; day not recorded)"
     }
    ],
    "manual": true,
-   "bio": "Theresa 'Terry' Meier, the youngest of the eight Meier children, grew up in Levittown, Pennsylvania. She married a Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in Yardley, Bucks County."
+   "bio": "Theresa A. Meier, known as Terri, was born in July 1969, the youngest of the eight Meier children, and was only fourteen months old when her mother died in September 1970. She grew up in Levittown, Pennsylvania, and has also lived at Ewing, New Jersey. She married Gregory L. Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in the Yardley and Morrisville area of lower Bucks County.",
+   "birthDateReduced": true
   },
   {
    "id": "M0019",
@@ -69905,19 +70007,21 @@ window.FAMILY_DATA = {
   },
   {
    "id": "M0036",
-   "given": "",
+   "given": "Gregory L.",
    "surname": "Borgman",
    "sex": "M",
+   "nickname": "Greg",
    "source": "research",
    "link": {
     "confidence": "confirmed",
     "note": "Former husband of John's aunt Terry, per John Meier."
    },
    "tags": [],
-   "summary": "Former husband of Terry Meier; the marriage ended in divorce. First name not yet recorded.",
+   "summary": "Gregory L. 'Greg' Borgman, former husband of Terri Meier and father of Kaysie, Rylie and Bobby Borgman; the marriage ended in divorce.",
    "manual": true,
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
    ],
    "researchLog": [
     {
@@ -69947,6 +70051,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "John: three children with Terry (Kaysie, Rylie, Bobby). First name still unknown."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "First name Gregory L. from the report John shared (listed as a relative of Theresa A. Meier)."
     }
    ],
    "facts": [
@@ -69954,7 +70062,8 @@ window.FAMILY_DATA = {
      "label": "Children",
      "value": "Kaysie, Rylie and Bobby Borgman"
     }
-   ]
+   ],
+   "bio": "Gregory L. Borgman, known as Greg, married Terri Meier, the youngest sister of John's father. They have three children, Kaysie, Rylie and Bobby, and later divorced."
   },
   {
    "id": "M0037",
@@ -72280,6 +72389,29 @@ window.FAMILY_DATA = {
     "note": "Son of Terry (Meier) Borgman, per John (8 Oct 2026)."
    },
    "summary": "Bobby Borgman, son of Terry (Meier) Borgman; John's first cousin."
+  },
+  {
+   "id": "M0113",
+   "given": "",
+   "surname": "Baldassarre",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from Susan's married name; nothing else known."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Husband of Susan Meier, inferred from her current surname Baldassarre; first name not yet known."
+   },
+   "summary": "Husband of Susan (Meier) Baldassarre; first name not yet recorded; uncle by marriage of John Meier."
   }
  ],
  "families": [
@@ -75847,14 +75979,20 @@ window.FAMILY_DATA = {
    "wife": "M0106"
   },
   {
-   "id": "CF0418",
+   "id": "MF0038",
+   "husband": "M0113",
+   "wife": "M0015",
+   "children": []
+  },
+  {
+   "id": "CF0419",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0419",
+   "id": "CF0420",
    "children": [
     "I282608085305"
    ],
@@ -75863,7 +76001,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 341,
-  "research": 623
+  "research": 624
  },
  "stories": [
   {

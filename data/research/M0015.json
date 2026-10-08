@@ -2,7 +2,7 @@
   "id": "M0015",
   "link": {
     "confidence": "confirmed",
-    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
+    "note": "John's aunt, sister of his father Thomas; listed among Theresa Meier's relatives as Susan M. Baldassarre in the report John consulted."
   },
   "tags": [],
   "researchLog": [
@@ -29,21 +29,36 @@
     {
       "date": "2026-10-08",
       "note": "Fourth pass (8 Oct 2026): John gave leads for Kathy, Nancy and Terry but none for this sibling; Doylestown/Yardley/Bucks County searches with the family's known surnames found nothing. Birth date still estimated."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John shared a background-report summary: Susan M. Baldassarre, 64, Ottsville, PA, listed as a relative of Theresa A. Meier. Married name and town recorded; nothing public found for 'Susan Baldassarre' in Bucks County."
     }
   ],
-  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of John Meier.",
+  "summary": "Susan M. Meier, known as Susie, born about 1961 or 1962, one of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; now Susan Baldassarre of Ottsville, Bucks County; John's aunt.",
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
   ],
   "residences": [
     {
-      "date": "",
-      "place": "Levittown, Bucks County, Pennsylvania, USA",
-      "note": "Family home"
+      "date": "1960s–1980s",
+      "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+      "date": "2020s",
+      "place": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, USA"
     }
   ],
   "openQuestions": [
     "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names.",
     "Married surname unknown; no public source found naming her. John may know it, and it would unlock further searching."
+  ],
+  "bio": "Susan M. 'Susie' Meier was born about 1961 or 1962 and grew up in Levittown, Pennsylvania, one of the eight Meier children and a younger sister of John's father, Tommy. She married a Baldassarre and lives at Ottsville in upper Bucks County.",
+  "facts": [
+    {
+      "label": "Married",
+      "value": "A Baldassarre (surname from her current name; first name not yet known)"
+    }
   ]
 }

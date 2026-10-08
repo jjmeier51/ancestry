@@ -134,10 +134,6 @@
   ],
   "facts": [
     {
-      "label": "Siblings",
-      "value": "Kathy (McGinley), Danny, Tommy, Susie, Nancy (Russo), Jack and Terry Meier."
-    },
-    {
       "label": "Education",
       "value": "East Stroudsburg State College (football letterman 1977–80)"
     },
@@ -156,6 +152,10 @@
     {
       "label": "Honours",
       "value": "All-PSAC East first team 1979; Waynewood Citizens Association Citizen of the Year 2018"
+    },
+    {
+      "label": "Siblings",
+      "value": "Kathy (McGinley), Danny, Tommy, Susie (Baldassarre), Ann \"Nancy\" (Russo), Jack and Terri Meier."
     }
   ],
   "manual": true,

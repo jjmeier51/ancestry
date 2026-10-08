@@ -33,13 +33,18 @@
     {
       "date": "2026-10-08",
       "note": "John: Nancy and Tony live in Doylestown; son Anthony Jr. played QB at Archbishop Wood, Temple and Michigan State. Temple/MSU bios confirm parents' names and uncle Dan Meier. Birth date still only estimated (c.1961); not in any public record found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John: her given name is Ann (Ann K. Russo, 62, Doylestown in the report he consulted). Name, age and town recorded."
     }
   ],
-  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Doylestown with her husband Tony Russo; mother of four, including the Temple quarterback Anthony Russo Jr.; John's aunt.",
+  "summary": "Ann K. Meier, known as Nancy, born about 1963 or 1964, one of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Doylestown with her husband Tony Russo; mother of four, including the Temple quarterback Anthony Russo Jr.; John's aunt.",
   "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027",
-    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282"
+    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
   ],
   "residences": [
     {
@@ -65,10 +70,18 @@
       "value": "Anthony Jr. (b. 1997, quarterback), Chelsea, Gianna and Emily Russo"
     },
     {
+      "label": "Name",
+      "value": "Ann K. Meier; known as Nancy; Ann K. Russo since her marriage"
+    },
+    {
+      "label": "Birth",
+      "value": "About 1963–64 (age 62 in October 2026 per a report John consulted)"
+    },
+    {
       "label": "Siblings",
-      "value": "Kathy (McGinley), Danny, Jamie, Tommy, Susie, Jack and Terry Meier"
+      "value": "Kathy (McGinley), Danny, Jamie, Tommy, Susie (Baldassarre), Jack and Terri Meier"
     }
   ],
   "manual": true,
-  "bio": "Nancy Meier grew up in Levittown, Pennsylvania, one of the eight children of James C. and Kathryn (McGuire) Meier and a younger sister of John's father, Tommy. She married Anthony 'Tony' Russo and they live in Doylestown, Bucks County, where they raised four children: Anthony Jr., Chelsea, Gianna and Emily.\n\nThe family's football line ran on through her son. Anthony Russo Jr., born in Doylestown in 1997, quarterbacked Archbishop Wood to Catholic League and state titles, set passing records at Temple University from 2018 to 2020, finished his college career at Michigan State and played professionally in 2023. His college bios name Nancy and Tony as his parents and note that his uncle Dan Meier played football at North Carolina State."
+  "bio": "Ann K. Meier, known in the family as Nancy, was born about 1963 or 1964 and grew up in Levittown, Pennsylvania, one of the eight children of James C. and Kathryn (McGuire) Meier and a younger sister of John's father, Tommy. She married Anthony 'Tony' Russo and they live in Doylestown, Bucks County, where they raised four children: Anthony Jr., Chelsea, Gianna and Emily.\n\nThe family's football line ran on through her son. Anthony Russo Jr., born in Doylestown in 1997, quarterbacked Archbishop Wood to Catholic League and state titles, set passing records at Temple University from 2018 to 2020, finished his college career at Michigan State and played professionally in 2023. His college bios name Nancy and Tony as his parents and note that his uncle Dan Meier played football at North Carolina State."
 }

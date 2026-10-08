@@ -33,20 +33,30 @@
     {
       "date": "2026-10-08",
       "note": "John (8 Oct 2026): lives in Yardley; divorced; children Kaysie, Rylie and Bobby. One name check on the distinctive 'Kaysie Borgman' found nothing public; Borgman searches for Yardley/Bucks County found nothing. Birth date still estimated."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John: she goes by Terri. Background-report summary he shared: Theresa A. Meier, alias Terri Meier, born Jul 1969, places Morrisville PA, Ewing NJ, Levittown PA; relatives Susan M. Baldassarre, Gregory L. Borgman, Kathryn A. McGinley, James C. Meier, John Francis Meier, Thomas Francis Meier, Ann K. Russo. Address, phone and email in the report were not recorded."
     }
   ],
-  "summary": "Known as Terry (Theresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Yardley, Pennsylvania; divorced, with three children; John's aunt.",
+  "summary": "Theresa A. 'Terri' Meier, born July 1969, the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; divorced from Gregory Borgman, mother of three, living in the Yardley area; John's aunt.",
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "John Meier, family information, 8 Oct 2026 (full names, birth months and years, married names and towns from a background-report summary John consulted and shared; addresses and contact details deliberately not recorded)"
   ],
   "residences": [
     {
-      "date": "1960s–1980s",
+      "date": "1969–1980s",
       "place": "Levittown, Bucks County, Pennsylvania, USA"
     },
     {
+      "date": "",
+      "place": "Ewing, Mercer County, New Jersey, USA"
+    },
+    {
       "date": "2020s",
-      "place": "Yardley, Bucks County, Pennsylvania, USA"
+      "place": "Yardley, Bucks County, Pennsylvania, USA",
+      "note": "Yardley and Morrisville area"
     }
   ],
   "openQuestions": [
@@ -56,14 +66,18 @@
   "nickname": "Terry",
   "facts": [
     {
-      "label": "Married",
-      "value": "A Borgman; the marriage ended in divorce."
-    },
-    {
       "label": "Children",
       "value": "Kaysie, Rylie and Bobby Borgman"
+    },
+    {
+      "label": "Married",
+      "value": "Gregory L. \"Greg\" Borgman; the marriage ended in divorce."
+    },
+    {
+      "label": "Birth",
+      "value": "July 1969 (month and year from a report John consulted; day not recorded)"
     }
   ],
   "manual": true,
-  "bio": "Theresa 'Terry' Meier, the youngest of the eight Meier children, grew up in Levittown, Pennsylvania. She married a Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in Yardley, Bucks County."
+  "bio": "Theresa A. Meier, known as Terri, was born in July 1969, the youngest of the eight Meier children, and was only fourteen months old when her mother died in September 1970. She grew up in Levittown, Pennsylvania, and has also lived at Ewing, New Jersey. She married Gregory L. Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in the Yardley and Morrisville area of lower Bucks County."
 }

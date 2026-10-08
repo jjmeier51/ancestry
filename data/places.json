@@ -5429,5 +5429,26 @@
   "label": "Yardley, Bucks County, Pennsylvania, United States",
   "matched": "Yardley, Bucks County, Pennsylvania, USA",
   "precision": "exact"
+ },
+ "Ewing, Mercer County, New Jersey, USA": {
+  "lat": 40.26881,
+  "lon": -74.80069,
+  "label": "Ewing, Ewing Township, Mercer County, New Jersey, 08628, United States",
+  "matched": "Ewing, Mercer County, New Jersey, USA",
+  "precision": "exact"
+ },
+ "Jamison, Warwick Township, Bucks County, Pennsylvania, USA": {
+  "lat": 40.25483,
+  "lon": -75.08934,
+  "label": "Jamison, Warwick Township, Bucks County, Pennsylvania, 18929, United States",
+  "matched": "Jamison, Warwick Township, Bucks County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Ottsville, Tinicum Township, Bucks County, Pennsylvania, USA": {
+  "lat": 40.47316,
+  "lon": -75.16101,
+  "label": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, 18942, United States",
+  "matched": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, USA",
+  "precision": "exact"
  }
 }
