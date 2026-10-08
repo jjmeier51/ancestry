@@ -4,6 +4,24 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Tommy Jr. and Matt accolades; View As mode; tighter tree
+
+- Tommy Jr. (`M0001`): Broad Run football 2006–07 (MaxPreps), first-team
+  All-Dulles District catcher 2008 (school coaching page), UVA Wise rosters
+  2009-10/2011-12, UVA Wise record book (2012: 50 starts tied record, .992
+  fielding, 238 PO, 266 TC, 185 AB, 69 H, 11-14 SB; 2011: 8 SH), 2021 state
+  title coverage; All-MSC 2012/2013 and 2012 Gold Glove only from his own
+  public profile (flagged as reported).
+- Matt (`M0002`): Frostburg State bio (No. 51, 2016–19 season lines, 330 HS
+  tackles, captain, Ron E. Pyles award, parents named), VHSL 2015 Group 5A
+  defensive second-team all-state (WRIC release), WUSA9 2015 feature.
+- Site: "View as" chooser on first visit (Johnny, Tommy Jr., Matt, Sharon,
+  Tommy Sr.; `viewAs`/`viewAsLabels` in `data/site.json`), remembered in
+  localStorage for an hour; the tree roots at the viewer and every
+  relationship sentence is from their point of view; "Viewing as" chip in the
+  tree HUD reopens it. Tree spacing tightened (node 180px, sibling gap 12,
+  couple gap 14).
+
 ## 2026-10-08 — Round 5 (living members) imported
 
 - John supplied a second overnight run covering the 52 living or presumed

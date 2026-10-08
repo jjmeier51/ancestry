@@ -9,13 +9,21 @@
     "Tommy Meier",
     "Tommy Meier Jr."
   ],
-  "tags": [],
-  "summary": "John's older brother Tommy: Broad Run and UVa-Wise ballplayer, teacher, and Broad Run's head baseball coach, who led the Spartans to the 2021 Virginia Class 4 state title.",
+  "tags": [
+    "athlete",
+    "coach"
+  ],
+  "summary": "John's older brother Tommy: All-District catcher at Broad Run, record-setting catcher at UVA Wise, teacher, and Broad Run's head baseball coach, who led the Spartans to the 2021 Virginia Class 4 state title.",
   "residences": [
     {
       "date": "",
       "place": "Ashburn, Virginia, USA",
       "note": "Current home"
+    },
+    {
+      "date": "2009–2013",
+      "place": "Wise, Wise County, Virginia, USA",
+      "note": "University of Virginia's College at Wise"
     }
   ],
   "sources": [
@@ -27,7 +35,17 @@
     "[R4-S4] Loudoun Times-Mirror, 'Broad Run claims Class 4 baseball title in thrilling fashion', Alex Cirino, 28 Jun 2021 (body text decoded from the page's obfuscated paywall text) (secondary) https://www.loudountimes.com/sports/broad-run-claims-class-4-baseball-title-in-thrilling-fashion/article_17ee7376-d809-11eb-8090-17294d1fbf9f.html",
     "[R4-S5] MaxPreps, Broad Run Spartans Baseball team history (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/baseball/history/",
     "[R4-S6] Washington Post, 'Forty days of dedication give Broad Run baseball its first state title in 30 years', Jacob Richman, 26 Jun 2021 (lede only; paywalled) (secondary) https://www.washingtonpost.com/sports/2021/06/26/forty-days-dedication-give-broad-run-baseball-its-first-state-title-30-years/",
-    "[R4-S7] The Knot registry page 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021 (read via text proxy; direct 403) (secondary) https://registry.theknot.com/laura-de-santis-tommy-meier-may-2021-va/43447109"
+    "[R4-S7] The Knot registry page 'Laura De Santis & Tommy Meier', Leesburg, VA, May 29, 2021 (read via text proxy; direct 403) (secondary) https://registry.theknot.com/laura-de-santis-tommy-meier-may-2021-va/43447109",
+    "MaxPreps, Tommy Meier, Broad Run football stats (coach-entered): https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/tommy-meier/football/stats/?careerid=rm3culsiboa22",
+    "Broad Run High School athletics, baseball coaching staff page (Tommy Meier, BRHS 2008: catcher, first-team All-Dulles District, played at UVA-Wise): https://va01000195.schoolwires.net/Page/6520",
+    "UVA Wise Athletics, 2009-10 baseball roster, Tommy Meier, No. 5, C, freshman, Ashburn: https://uvawisecavs.com/sports/baseball/roster/tommy-meier/451",
+    "UVA Wise Athletics, 2011-12 baseball roster, Tommy Meier, No. 5, 6-2, 205, junior, Ashburn: https://uvawisecavs.com/sports/baseball/roster/tommy-meier/264",
+    "UVA Wise Baseball Records, individual season records (2022 PDF): 50 games started 2012 (tied for most), 185 at-bats, 69 hits, 238 putouts, 266 total chances, .992 fielding (238-26-2), 14 stolen-base attempts (11-14) in 2012; 8 sacrifice hits 2011: https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/uvawise.sidearmsports.com/documents/2022/4/25/baseballseason.pdf",
+    "Bristol Herald Courier, \"Jake Huff a pleasant surprise for UVa-Wise\" (2013; senior catcher Tommy Meier): https://heraldcourier.com/sports/jake-huff-a-pleasant-surprise-for-uva-wise/article_fc076426-9a6b-11e2-9e5c-0019bb30f31a.html",
+    "Loudoun Times-Mirror, 28 Jun 2021, \"Broad Run claims Class 4 baseball title in thrilling fashion\": https://www.loudountimes.com/sports/broad-run-claims-class-4-baseball-title-in-thrilling-fashion/article_17ee7376-d809-11eb-8090-17294d1fbf9f.html",
+    "Washington Post, 26 Jun 2021, \"Forty days of dedication give Broad Run baseball its first state title in 30 years\": https://www.washingtonpost.com/sports/2021/06/26/forty-days-dedication-give-broad-run-baseball-its-first-state-title-30-years/",
+    "Loudoun Times-Mirror, Jun 2021, \"Broad Run lights up scoreboard to claim regional baseball title\": https://www.loudountimes.com/sports/broad-run-lights-up-scoreboard-to-claim-regional-baseball-title/article_a7450062-cf67-11eb-b43e-17bae9e45307.html",
+    "Tommy Meier's public professional profile (self-reported): first-team All-Mid-South Conference 2012 and 2013 (2013 unanimous), 2012 Gold Glove (catcher); Langley HS Rookie of the Year 2015"
   ],
   "researchLog": [
     {
@@ -61,6 +79,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John asked for his playing accolades. Found: MaxPreps football stats 2006-07; Broad Run coaching page (first-team All-Dulles District catcher, UVA-Wise); UVA Wise rosters 2009-10 and 2011-12; UVA Wise record book (2012: 50 GS tied record, .992 fielding, 238 PO, 266 TC, 185 AB, 69 H, 11-14 SB; 2011: 8 SH); Herald Courier 2013 (senior catcher); 2021 title coverage. All-MSC first team 2012/2013 and 2012 Gold Glove only from his own public profile (conference releases for 2012-13 not online)."
     }
   ],
   "facts": [
@@ -71,6 +93,14 @@
     {
       "label": "Children",
       "value": "Luca."
+    },
+    {
+      "label": "Playing honours",
+      "value": "First-team All-Dulles District catcher (Broad Run, 2008); first-team All-Mid-South Conference 2012 and 2013 and 2012 Gold Glove catcher at UVA Wise (reported); UVA Wise single-season records for games started (50, tied) and fielding"
+    },
+    {
+      "label": "Coaching",
+      "value": "Head baseball coach, Broad Run High School 2016–2024; 2021 Virginia Class 4 state champions (16-1)"
     }
   ],
   "occupation": "Teacher and high-school baseball coach (head coach, Broad Run High School, Ashburn, Virginia, 2016-2024 per MaxPreps)",
@@ -110,6 +140,42 @@
       "date": "2021-06-26",
       "place": "",
       "description": "Broad Run beat Hanover 3-2 at home in Ashburn, the school's first baseball state title since 1991; the team went 16-1 and also won the Dulles District and Region 4C titles. [R4-S4] [R4-S6]"
+    },
+    {
+      "title": "Varsity football, Broad Run High School",
+      "date": "2006–2007",
+      "place": "Ashburn, Loudoun County, Virginia, USA",
+      "description": "Wide receiver and defensive back, No. 5: 33 catches for 468 yards over the 2006 (5-5) and 2007 (10-1) seasons; the 2007 team went unbeaten in the regular season with his brother Johnny a sophomore."
+    },
+    {
+      "title": "First-team All-Dulles District catcher",
+      "date": "2008",
+      "place": "Ashburn, Loudoun County, Virginia, USA",
+      "description": "Broad Run baseball; the school's coaching-staff page records the honour."
+    },
+    {
+      "title": "Catcher, University of Virginia's College at Wise",
+      "date": "2010–2013",
+      "place": "Wise, Wise County, Virginia, USA",
+      "description": "No. 5, 6-2, 205 lb. Freshman on the 2009-10 roster, junior in 2011-12, senior catcher in 2013; the Cavaliers played in the NAIA Mid-South Conference."
+    },
+    {
+      "title": "UVA Wise record book, 2012 season",
+      "date": "2012",
+      "place": "Wise, Wise County, Virginia, USA",
+      "description": "Started all 50 games (tied for the most in a season in school history); 185 at-bats, 69 hits, 238 putouts and 266 total chances with a .992 fielding percentage; 11 stolen bases in 14 attempts. Also 8 sacrifice hits in 2011."
+    },
+    {
+      "title": "All-Mid-South Conference first team (reported)",
+      "date": "2012–2013",
+      "place": "Wise, Wise County, Virginia, USA",
+      "description": "First-team all-conference catcher in 2012 and 2013 (unanimous in 2013) and the 2012 conference Gold Glove at catcher, per his public professional profile; not yet confirmed from a conference release."
+    },
+    {
+      "title": "Virginia Class 4 state baseball champions, head coach",
+      "date": "2021-06-26",
+      "place": "Ashburn, Loudoun County, Virginia, USA",
+      "description": "Broad Run beat Hanover 3-2 at home for its first state title in 30 years, finishing 16-1 after Dulles District and Region 4C titles. Forty days earlier he had told the team, \"Give me 40 days to make memories for the next 40 years.\""
     }
   ],
   "researchNotes": "round5: Tommy Meier Jr. graduated from Broad Run High School in Ashburn in 2008. He played varsity football there as a receiver and defensive back in 2006 and 2007, alongside his younger brother Johnny on the 10-1 team of 2007 ([R4-S1]). He went on to catch for the baseball team at the University of Virginia's College at Wise, where he wore No. 5 from about 2009 to 2013 ([R4-S2], [R4-S3]).\n\nHe returned to Broad Run to teach and coach, and MaxPreps lists him as the Spartans' head baseball coach from the 2016 season through 2024 ([R4-S5]). His best-known season was 2021, coming after the pandemic. On May 17 he asked his players to 'give me 40 days to make memories for the next 40 years', and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field to win the Virginia Class 4 state championship. It was the program's first title since 1991, the year after Tommy was born. The Loudoun Times-Mirror noted that the thirty-year gap matched the age of 'head coach and former player Tommy Meier', and he called the title 'a dream come true' ([R4-S4], [R4-S6]). A month earlier, on 29 May 2021, he had married Laura De Santis; their public wedding-registry page gives Leesburg, Virginia ([R4-S7]).",
@@ -161,7 +227,25 @@
       "source": "",
       "note": "",
       "people": []
+    },
+    {
+      "url": "https://uvawisecavs.com/sports/baseball/roster/tommy-meier/451",
+      "type": "link",
+      "title": "UVA Wise baseball roster 2009-10: Tommy Meier, freshman catcher",
+      "date": "2010",
+      "source": "UVA Wise Athletics",
+      "note": "",
+      "people": []
+    },
+    {
+      "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/uvawise.sidearmsports.com/documents/2022/4/25/baseballseason.pdf",
+      "type": "link",
+      "title": "UVA Wise baseball individual season records (Tommy Meier, 2011–2012 entries)",
+      "date": "2022",
+      "source": "UVA Wise Athletics",
+      "note": "",
+      "people": []
     }
   ],
-  "bio": "Thomas Francis \"Tommy\" Meier Jr. was born in 1990 at Alexandria City Hospital in Alexandria, Virginia, the eldest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's older brother. He grew up in Ashburn and graduated from Broad Run High School in 2008. There he played varsity football as a receiver and defensive back in 2006 and 2007, wearing No. 5 and catching 33 passes for 468 yards over the two seasons, and lined up alongside his younger brother Johnny on the 10-1 team of 2007; he also played for the Spartans' baseball programme. He went on to catch for the baseball team at the University of Virginia's College at Wise, again wearing No. 5, from about 2009 to 2013, when the school played in the NAIA Mid-South Conference.\n\nHe returned to Broad Run to teach and coach, and was the Spartans' head baseball coach from the 2016 season through 2024. His best-known season came in 2021, after the pandemic had cut the 2020 season short at three games. On 17 May he asked his players to \"give me 40 days to make memories for the next 40 years\", and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field, the game ending on a pick-off at first base, to win the Virginia Class 4 state championship. The team finished 16-1 and also won the Dulles District and Region 4C titles. It was the programme's first state title since 1991, the year after Tommy was born; the Loudoun Times-Mirror noted that the thirty-year gap matched the age of the head coach and former player, and he called the title \"a dream come true\" after a hard pandemic school year.\n\nA month earlier, on 29 May 2021, he had married Laura De Santis in Leesburg, Virginia; she kept her surname. They have a son, Luca."
+  "bio": "Thomas Francis \"Tommy\" Meier Jr. was born in 1990 at Alexandria City Hospital in Alexandria, Virginia, the eldest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's older brother. He grew up in Ashburn and graduated from Broad Run High School in 2008. There he played varsity football as a receiver and defensive back in 2006 and 2007, wearing No. 5 and catching 33 passes for 468 yards over the two seasons, and lined up alongside his younger brother Johnny on the 10-1 team of 2007; he also played for the Spartans' baseball programme. He went on to catch for the baseball team at the University of Virginia's College at Wise, again wearing No. 5, from about 2009 to 2013, when the school played in the NAIA Mid-South Conference.\n\nHe returned to Broad Run to teach and coach, and was the Spartans' head baseball coach from the 2016 season through 2024. His best-known season came in 2021, after the pandemic had cut the 2020 season short at three games. On 17 May he asked his players to \"give me 40 days to make memories for the next 40 years\", and forty days later, on 26 June 2021, Broad Run beat Hanover 3-2 on its home field, the game ending on a pick-off at first base, to win the Virginia Class 4 state championship. The team finished 16-1 and also won the Dulles District and Region 4C titles. It was the programme's first state title since 1991, the year after Tommy was born; the Loudoun Times-Mirror noted that the thirty-year gap matched the age of the head coach and former player, and he called the title \"a dream come true\" after a hard pandemic school year.\n\nAs a player he caught for Broad Run and was a first-team All-Dulles District catcher in 2008, having also played two seasons of varsity football as a receiver and defensive back, with 33 catches for 468 yards. At the University of Virginia's College at Wise he wore No. 5 behind the plate from 2010 to 2013. His 2012 season is still in the school's record book: he started all 50 games, tying the most in a season, and his 238 putouts, 266 total chances and .992 fielding percentage rank among the best by a Cavalier catcher; he also went 11 for 14 stealing bases. By his own account he was a first-team All-Mid-South Conference catcher in 2012 and 2013, unanimously in 2013, and won the conference Gold Glove in 2012.\n\nA month earlier, on 29 May 2021, he had married Laura De Santis in Leesburg, Virginia; she kept her surname. They have a son, Luca."
 }

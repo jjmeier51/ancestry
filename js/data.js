@@ -255,8 +255,12 @@
     raw.people.forEach(p => (p.media || []).forEach(m => out.push(Object.assign({ owner: p }, m))));
     return out.sort((a, b) => sortKey(a.date) - sortKey(b.date));
   }
-  const rootPerson = () => get(raw.rootPerson) || raw.people[0] || null;
-  const owner = () => get(raw.owner) || rootPerson();
+  /* "View as": the person whose perspective the site takes (tree root, "X is your ..."). */
+  let viewerId = null;
+  function setViewer(id) { viewerId = id && get(id) ? id : null; }
+  const viewer = () => get(viewerId) || null;
+  const rootPerson = () => viewer() || get(raw.rootPerson) || raw.people[0] || null;
+  const owner = () => viewer() || get(raw.owner) || rootPerson();
   const storiesFor = id => raw.stories.filter(s => (s.people || []).includes(id));
   const mediaFor = id => allMedia().filter(m => m.owner.id === id || (m.people || []).includes(id));
 
@@ -268,7 +272,7 @@
     parseDate, formatDate, year, sortKey,
     parents, father, mother, parentsFamily, spouses, spouseFamilies, children, siblings, sortByBirth,
     ancestorMap, descendantMap, relationship, relationshipSentence, relationshipShort,
-    search, events, surnames, allMedia, mediaFor, rootPerson, owner, storiesFor,
+    search, events, surnames, allMedia, mediaFor, rootPerson, owner, viewer, setViewer, storiesFor,
     familyById: id => familiesById[id] || null
   };
 })();

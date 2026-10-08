@@ -341,6 +341,40 @@
     setTimeout(() => { t.classList.remove('show'); setTimeout(() => t.remove(), 300); }, 2600);
   }
 
+  /* ---------- View as ---------- */
+  const VIEW_KEY = 'viewAs', VIEW_TTL = 60 * 60 * 1000; // remembered for an hour
+  const viewerIds = () => (F.raw.viewAs || []).filter(id => F.get(id));
+  function loadViewer() {
+    try {
+      const v = JSON.parse(localStorage.getItem(VIEW_KEY) || 'null');
+      if (v && v.id && viewerIds().includes(v.id) && Date.now() - (v.t || 0) < VIEW_TTL) { F.setViewer(v.id); return true; }
+    } catch (e) { /* storage unavailable */ }
+    return false;
+  }
+  function saveViewer(id) { try { localStorage.setItem(VIEW_KEY, JSON.stringify({ id, t: Date.now() })); } catch (e) { /* ignore */ } }
+  function chooseViewer(allowClose) {
+    const ids = viewerIds();
+    if (!ids.length) return;
+    const cur = F.viewer();
+    const list = el('div', { class: 'viewer-list' }, ids.map(id => {
+      const p = F.get(id);
+      const rel = cur && cur.id !== id ? F.relationshipShort(cur.id, id) : '';
+      return el('button', { class: cur && cur.id === id ? 'current' : '', onclick: () => {
+        F.setViewer(id); saveViewer(id); hideSheet();
+        document.title = F.shortTitle;
+        navigate('#/'); route();
+        toast('Viewing the tree as ' + ((F.raw.viewAsLabels || {})[id] || F.shortName(p)));
+      } }, [avatar(p, 'sm'), el('span', { class: 'who' }, [el('b', { text: (F.raw.viewAsLabels || {})[id] || F.fullName(p) }), el('small', { text: [F.fullName(p) !== ((F.raw.viewAsLabels || {})[id] || '') ? F.fullName(p) : '', rel].filter(Boolean).join(' · ') })])]);
+    }));
+    const body = el('div', { class: 'sheet-body' }, [
+      el('h2', { text: cur ? 'View the tree as…' : 'Whose family tree is this?' }),
+      el('p', { class: 'viewer-intro', text: 'Pick yourself and the site will show every relationship from your point of view. Your choice is remembered for an hour.' }),
+      list
+    ]);
+    showSheet(body, { cls: 'viewer-host' });
+    if (!allowClose && sheetEl) { const bd = sheetEl.querySelector('.sheet-backdrop'); if (bd) bd.onclick = null; }
+  }
+
   /* ---------- Boot ---------- */
   function buildChrome() {
     const top = document.querySelector('.topbar');
@@ -366,7 +400,7 @@
     }
   }
 
-  window.App = { esc, el, md, renderIncremental, placeLink, showMap, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, TABS };
+  window.App = { esc, el, md, renderIncremental, placeLink, showMap, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, chooseViewer, TABS };
 
   views['404'] = { title: () => 'Not found', render(c) { c.appendChild(el('div', { class: 'wrap empty' }, [el('h1', { text: 'Page not found' }), el('a', { class: 'btn primary', href: '#/', text: 'Back to the tree' })])); } };
 
@@ -374,7 +408,9 @@
     buildChrome();
     window.addEventListener('hashchange', route);
     document.addEventListener('keydown', e => { if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); openSearch(); } if (e.key === '/' && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); openSearch(); } });
+    const hasViewer = loadViewer();
     route();
     document.body.classList.add('ready');
+    if (!hasViewer && viewerIds().length) setTimeout(() => chooseViewer(false), 400);
   });
 })();

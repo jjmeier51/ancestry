@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   const F = window.Family, A = window.App, el = A.el, icon = A.icon;
-  const NW = 200, NH = 60, HG = 20, VG = 76, CG = 22, ROWH = NH + VG;
+  const NW = 180, NH = 60, HG = 12, VG = 76, CG = 14, ROWH = NH + VG;
 
   /* Contour-based pedigree layout: each subtree keeps per-depth extents so
    * branches pack tightly without overlapping. All x are relative to root = 0. */
@@ -131,9 +131,10 @@
         el('button', { 'aria-label': 'Fit to screen', html: icon('fit'), onclick: () => fit(true) })
       ]);
       const homeBtn = el('a', { class: 'glass icon-btn home-btn', href: '#/', 'aria-label': 'Back to me', html: icon('home') });
+      const viewerBtn = el('button', { class: 'glass viewer-chip', 'aria-label': 'Change whose tree this is', onclick: () => A.chooseViewer(true) });
       const legend = el('div', { class: 'glass legend' }, Object.keys(F.confidenceLevels).map(k => el('span', { class: 'conf conf-' + k, title: F.confidenceDescription(k) }, [el('i'), F.confidenceLabel(k)])));
       container.appendChild(stage);
-      container.appendChild(el('div', { class: 'hud hud-top' }, [rootChip, homeBtn]));
+      container.appendChild(el('div', { class: 'hud hud-top' }, [rootChip, homeBtn, viewerBtn]));
       container.appendChild(el('div', { class: 'hud hud-bottom' }, [modeSeg, genSel, legend]));
       container.appendChild(zoomBox);
 
@@ -241,6 +242,7 @@
         rootChip.appendChild(el('span', {}, [el('small', { text: state.mode === 'both' ? 'Tree of' : state.mode === 'ancestors' ? 'Ancestors of' : 'Descendants of' }), el('b', { text: F.fullName(p) })]));
         rootChip.onclick = () => A.personSheet(p, { treeLinks: true });
         const me = F.rootPerson();
+        viewerBtn.innerHTML = icon('people') + '<span>Viewing as <b>' + A.esc(me ? ((F.raw.viewAsLabels || {})[me.id] || F.shortName(me)) : '') + '</b></span>';
         homeBtn.style.display = me && me.id === state.rootId && state.mode === 'both' ? 'none' : '';
         const q = `?mode=${state.mode}&gen=${state.gens}`;
         const want = state.rootId === (me && me.id) && state.mode === 'both' && state.gens === (F.config.defaultGenerations || 4) ? '#/' : `#/tree/${encodeURIComponent(state.rootId)}${q}`;

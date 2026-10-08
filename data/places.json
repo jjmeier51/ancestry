@@ -2758,5 +2758,2437 @@
   "label": "Northern Virginia Community College - Alexandria Campus, 5000, Dawes Avenue, John Adams, Alexandria, Fairfax County, Virginia, 22311, United States",
   "matched": "Northern Virginia, USA",
   "precision": "exact"
+ },
+ "'yers' (probably Hiers[-Brouage]), Saintonge, France": {
+  "lat": 48.68002,
+  "lon": 2.1642,
+  "label": "Saintonge, Les Ulis, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91940, France",
+  "matched": "Saintonge, France",
+  "precision": "approximate"
+ },
+ "('John Croop')": null,
+ "('John Lamoreux Junior', 1800 census)": null,
+ "('Peter Krub', 1800 census)": null,
+ "1003 Bunker Hill Street, Scranton Ward 10, PA": null,
+ "1003 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton Ward 10, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "1009 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton Ward 10, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "1015 Bunker Hill St, Scranton": {
+  "lat": 41.40624,
+  "lon": -75.63053,
+  "label": "1015, Bunker Hill Street, Scranton, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "1015 Bunker Hill St, Scranton",
+  "precision": "exact"
+ },
+ "1015 Bunker Hill Street, Scranton Ward 10, PA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton Ward 10, PA",
+  "precision": "approximate"
+ },
+ "1015 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton Ward 10, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "1028 Bunker Hill St, Scranton": null,
+ "1028 Bunker Hill Street, Scranton Ward 10, Lackawanna County, Pennsylvania, USA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton Ward 10, Lackawanna County, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "1028 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton Ward 10, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "1028 Bunker Hill Street, Scranton, PA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton, PA",
+  "precision": "approximate"
+ },
+ "1028 Bunker Hill Street, Scranton, Pennsylvania, USA": {
+  "lat": 41.40616,
+  "lon": -75.63008,
+  "label": "1028, Bunker Hill Street, Scranton, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "1028 Bunker Hill Street, Scranton, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "108 Church St, Plymouth": null,
+ "128 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA": {
+  "lat": 41.44061,
+  "lon": -75.62603,
+  "label": "Lackawanna County, Pennsylvania, United States",
+  "matched": "Lackawanna County, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "128 Sand Street, Dunmore, Pennsylvania, USA": {
+  "lat": 41.40655,
+  "lon": -75.62817,
+  "label": "128, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "128 Sand Street, Dunmore, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "133 Sand St, Dunmore, PA": null,
+ "133 Sand Street, Dunmore Ward 5, Lackawanna County, Pennsylvania, USA": {
+  "lat": 41.4198,
+  "lon": -75.63241,
+  "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+  "matched": "Dunmore Ward 5, Lackawanna County, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "133 Sand Street, Dunmore Ward 5, Pennsylvania, USA": {
+  "lat": 41.4198,
+  "lon": -75.63241,
+  "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+  "matched": "Dunmore Ward 5, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "133 Sand Street, Dunmore, Pennsylvania, USA": {
+  "lat": 41.40653,
+  "lon": -75.62772,
+  "label": "133, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "133 Sand Street, Dunmore, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "134 Sand St, Dunmore, PA": {
+  "lat": 41.40639,
+  "lon": -75.62784,
+  "label": "134, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "134 Sand St, Dunmore, PA",
+  "precision": "exact"
+ },
+ "134 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA": {
+  "lat": 41.40639,
+  "lon": -75.62784,
+  "label": "134, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "134 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "134 Sand Street, Dunmore, Pennsylvania, USA": {
+  "lat": 41.40639,
+  "lon": -75.62784,
+  "label": "134, Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "134 Sand Street, Dunmore, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "16 Barney St, Wilkes-Barre": {
+  "lat": 41.23847,
+  "lon": -75.90447,
+  "label": "16, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+  "matched": "16 Barney St, Wilkes-Barre",
+  "precision": "exact"
+ },
+ "16 Barney Street, Wilkes-Barre, Luzerne County, PA": {
+  "lat": 41.23847,
+  "lon": -75.90447,
+  "label": "16, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+  "matched": "16 Barney Street, Wilkes-Barre, Luzerne County, PA",
+  "precision": "exact"
+ },
+ "19 Barney St, Wilkes-Barre": {
+  "lat": 41.23849,
+  "lon": -75.90473,
+  "label": "19, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+  "matched": "19 Barney St, Wilkes-Barre",
+  "precision": "exact"
+ },
+ "19 Oak St, Wilkes-Barre": null,
+ "25 East Shawnee Avenue, Plymouth, Luzerne Co.": null,
+ "275 Rutter Ave., Kingston, Luzerne Co., PA": {
+  "lat": 41.26227,
+  "lon": -75.89418,
+  "label": "275, Rutter Avenue, Kingston, Luzerne County, Pennsylvania, 18704, United States",
+  "matched": "275 Rutter Ave., Kingston, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "28 Huston Street, Wilkes-Barre": null,
+ "298 Barney Street, Wilkes-Barre, PA": {
+  "lat": 41.23311,
+  "lon": -75.91115,
+  "label": "298, Barney Street, Goose Island, Wilkes-Barre, Luzerne County, Pennsylvania, 18702, United States",
+  "matched": "298 Barney Street, Wilkes-Barre, PA",
+  "precision": "exact"
+ },
+ "331 Franklin Street, Marion, Ohio": null,
+ "337 North Bromley Ave, Scranton, Lackawanna County, PA": {
+  "lat": 41.41609,
+  "lon": -75.68017,
+  "label": "337, North Bromley Avenue, West Side, Hyde Park, Scranton, Lackawanna County, Pennsylvania, 18504, United States",
+  "matched": "337 North Bromley Ave, Scranton, Lackawanna County, PA",
+  "precision": "exact"
+ },
+ "350 Kiefer Ave, Hazleton, PA": null,
+ "519 Turner St, Allentown, Lehigh Co., PA": {
+  "lat": 40.60601,
+  "lon": -75.47007,
+  "label": "519, Turner Street, Center City, Allentown, Lehigh County, Pennsylvania, 18102, United States",
+  "matched": "519 Turner St, Allentown, Lehigh Co., PA",
+  "precision": "exact"
+ },
+ "8 Barney St, Wilkes-Barre": null,
+ "Aiello Calabro, Cosenza": {
+  "lat": 39.11747,
+  "lon": 16.16666,
+  "label": "Aiello Calabro, Cosenza, Calabria, 87031, Italy",
+  "matched": "Aiello Calabro, Cosenza",
+  "precision": "exact"
+ },
+ "Albany, New York (FamilySearch)": null,
+ "Albion / Dunkirk, Dane Co., WI": {
+  "lat": 43.07093,
+  "lon": -89.43222,
+  "label": "Dane County, Wisconsin, United States",
+  "matched": "Dane Co., WI",
+  "precision": "approximate"
+ },
+ "Alexandria, Fairfax County, Virginia, USA": {
+  "lat": 38.84087,
+  "lon": -77.11447,
+  "label": "Northern Virginia Community College - Alexandria Campus, 5000, Dawes Avenue, John Adams, Alexandria, Fairfax County, Virginia, 22311, United States",
+  "matched": "Alexandria, Fairfax County, Virginia, USA",
+  "precision": "exact"
+ },
+ "Altoona, Blair Co., Pa.": {
+  "lat": 40.51936,
+  "lon": -78.39683,
+  "label": "Altoona, Blair County, Pennsylvania, 16601, United States",
+  "matched": "Altoona, Blair Co., Pa.",
+  "precision": "exact"
+ },
+ "Altoona, Blair County, Pennsylvania": {
+  "lat": 40.48707,
+  "lon": -78.36823,
+  "label": "Blair County, Pennsylvania, United States",
+  "matched": "Blair County, Pennsylvania",
+  "precision": "approximate"
+ },
+ "Arlington National Cemetery, Arlington, Va.": {
+  "lat": 38.87693,
+  "lon": -77.08931,
+  "label": "Arlington County, Virginia, United States",
+  "matched": "Arlington, Va.",
+  "precision": "approximate"
+ },
+ "Ashburn, Virginia": null,
+ "Avondale, Luzerne Co.": {
+  "lat": 41.22286,
+  "lon": -75.98187,
+  "label": "Avondale, Plymouth Township, Luzerne County, Pennsylvania, 18634, United States",
+  "matched": "Avondale, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Avondale, Plymouth Twp": {
+  "lat": 41.22286,
+  "lon": -75.98187,
+  "label": "Avondale, Plymouth Township, Luzerne County, Pennsylvania, 18634, United States",
+  "matched": "Avondale, Plymouth Twp",
+  "precision": "exact"
+ },
+ "Avondale, Plymouth Twp, Pa.": {
+  "lat": 41.22286,
+  "lon": -75.98187,
+  "label": "Avondale, Plymouth Township, Luzerne County, Pennsylvania, 18634, United States",
+  "matched": "Avondale, Plymouth Twp, Pa.",
+  "precision": "exact"
+ },
+ "Beach Grove Cemetery (per FamilySearch tree), Beach Haven, Luzerne Co., PA": {
+  "lat": 41.06842,
+  "lon": -76.17577,
+  "label": "Beach Haven, Salem Township, Luzerne County, Pennsylvania, 18601, United States",
+  "matched": "Beach Haven, Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Beaver Dam, Dodge Co., Wisconsin": {
+  "lat": 43.45777,
+  "lon": -88.83733,
+  "label": "Beaver Dam, Dodge County, Wisconsin, 53916, United States",
+  "matched": "Beaver Dam, Dodge Co., Wisconsin",
+  "precision": "exact"
+ },
+ "Beaver Dam, Wisconsin": {
+  "lat": 43.45777,
+  "lon": -88.83733,
+  "label": "Beaver Dam, Dodge County, Wisconsin, 53916, United States",
+  "matched": "Beaver Dam, Wisconsin",
+  "precision": "exact"
+ },
+ "Bedminster, Bucks Co., PA (FamilySearch, 4 Apr 1760)": {
+  "lat": 40.34517,
+  "lon": -75.12639,
+  "label": "Bucks County, Pennsylvania, United States",
+  "matched": "Bucks Co., PA",
+  "precision": "approximate"
+ },
+ "Benjamin Harvey's log house, Plymouth": null,
+ "Bennington, VT (1790 census 'Mathew Scott', per FamilySearch)": null,
+ "Berkeley, Calif.": {
+  "lat": 37.87084,
+  "lon": -122.27286,
+  "label": "Berkeley, Alameda County, California, United States",
+  "matched": "Berkeley, Calif.",
+  "precision": "exact"
+ },
+ "Berschweiler": null,
+ "Berschweiler (Lauterecken Lutheran parish)": {
+  "lat": 49.57828,
+  "lon": 7.29242,
+  "label": "Berschweiler bei Baumholder, Baumholder, Landkreis Birkenfeld, Rhineland-Palatinate, 55777, Germany",
+  "matched": "Berschweiler",
+  "precision": "exact"
+ },
+ "Bidlack's Creek, Jackson Twp., Luzerne Co.": {
+  "lat": 41.28001,
+  "lon": -75.9829,
+  "label": "Jackson Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Jackson Twp., Luzerne Co.",
+  "precision": "approximate"
+ },
+ "Bisaccia": null,
+ "Bisaccia, Avellino": null,
+ "Bisaccia, Italy": {
+  "lat": 41.01212,
+  "lon": 15.37475,
+  "label": "Bisaccia, Avellino, Campania, Italy",
+  "matched": "Bisaccia, Italy",
+  "precision": "exact"
+ },
+ "Blackford Co., Indiana": null,
+ "Blooming Grove, NY": null,
+ "Bloomsburg area, Pa. (FS)": null,
+ "Branford deed, Southampton lands": null,
+ "Brattleboro": null,
+ "Brattleboro, Vermont": null,
+ "Bristol Township, Bucks County, Pennsylvania, USA": {
+  "lat": 40.34517,
+  "lon": -75.12639,
+  "label": "Bucks County, Pennsylvania, United States",
+  "matched": "Bucks County, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "Brombach [?], Baden": null,
+ "Brombach [?], near Lörrach": null,
+ "Brombach [reading uncertain], Amt Lörrach, Baden": null,
+ "Bronx, New York": null,
+ "Brookhaven": {
+  "lat": 31.57907,
+  "lon": -90.44071,
+  "label": "Brookhaven, Lincoln County, Mississippi, United States",
+  "matched": "Brookhaven",
+  "precision": "exact"
+ },
+ "Brookhaven, NY": null,
+ "Brookhaven, Suffolk Co., NY (Fireplace Neck, 'at South')": null,
+ "Bucks Co., PA (per WikiTree/Find a Grave)": {
+  "lat": 40.34517,
+  "lon": -75.12639,
+  "label": "Bucks County, Pennsylvania, United States",
+  "matched": "Bucks Co., PA",
+  "precision": "exact"
+ },
+ "California": null,
+ "California (California Death Index)": {
+  "lat": 36.70146,
+  "lon": -118.756,
+  "label": "California, United States",
+  "matched": "California",
+  "precision": "exact"
+ },
+ "Calvary Cemetery (committal), Altoona, Blair County, Pennsylvania": {
+  "lat": 40.49251,
+  "lon": -78.39159,
+  "label": "Calvary Cemetery, Logan Township, Blair County, Pennsylvania, United States",
+  "matched": "Calvary Cemetery, Altoona, Blair County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Canaan, Litchfield Co., CT": {
+  "lat": 41.7587,
+  "lon": -73.25978,
+  "label": "Litchfield County, Northwest Hills Planning Region, Connecticut, United States",
+  "matched": "Litchfield Co., CT",
+  "precision": "approximate"
+ },
+ "Cathedral Cemetery, Scranton, Pennsylvania": null,
+ "Cedar Crest Cemetery, Trucksville": {
+  "lat": 41.30152,
+  "lon": -75.93043,
+  "label": "Cedar Crest Cemetery, Trucksville, Kingston Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Cedar Crest Cemetery, Trucksville",
+  "precision": "exact"
+ },
+ "Chapel of the Chimes Columbarium and Mausoleum, Oakland, Alameda Co., Calif.": null,
+ "Cheesecocks, Orange Co., NY (FamilySearch residence event)": null,
+ "Chicago, Ill.": null,
+ "Cincinnati, Ohio": null,
+ "Clermont, Florida": {
+  "lat": 28.55519,
+  "lon": -81.76695,
+  "label": "Clermont, Lake County, Florida, 32711, United States",
+  "matched": "Clermont, Florida",
+  "precision": "exact"
+ },
+ "Co. G, 52nd PA Infantry": null,
+ "Coaldale, Schuylkill Co., PA": {
+  "lat": 40.82496,
+  "lon": -75.90852,
+  "label": "Coaldale, Schuylkill County, Pennsylvania, United States",
+  "matched": "Coaldale, Schuylkill Co., PA",
+  "precision": "exact"
+ },
+ "Coaldale, Schuylkill County, Pennsylvania": {
+  "lat": 40.69366,
+  "lon": -76.2278,
+  "label": "Schuylkill County, Pennsylvania, United States",
+  "matched": "Schuylkill County, Pennsylvania",
+  "precision": "approximate"
+ },
+ "Columbia Co., PA": {
+  "lat": 41.03892,
+  "lon": -76.41918,
+  "label": "Columbia County, Pennsylvania, United States",
+  "matched": "Columbia Co., PA",
+  "precision": "exact"
+ },
+ "Columbus, N.M., to El Paso": {
+  "lat": 36.73089,
+  "lon": -107.9605,
+  "label": "El Paso Natural Gas Co, Bloomfield, San Juan County, New Mexico, United States",
+  "matched": "N.M., to El Paso",
+  "precision": "approximate"
+ },
+ "Conflenti": {
+  "lat": 39.04321,
+  "lon": 16.28936,
+  "label": "Conflenti, Catanzaro, Calabria, 88040, Italy",
+  "matched": "Conflenti",
+  "precision": "exact"
+ },
+ "Cornwall Precinct, Orange Co., NY": null,
+ "Cornwall, Orange Co. (FamilySearch)": {
+  "lat": 41.43444,
+  "lon": -74.03583,
+  "label": "Town of Cornwall, Orange County, New York, United States",
+  "matched": "Cornwall, Orange Co.",
+  "precision": "exact"
+ },
+ "Cornwall, Orange Co., NY": {
+  "lat": 41.43444,
+  "lon": -74.03583,
+  "label": "Town of Cornwall, Orange County, New York, United States",
+  "matched": "Cornwall, Orange Co., NY",
+  "precision": "exact"
+ },
+ "Cutchogue, Southold, NY": null,
+ "Dakota Territory / North Dakota": null,
+ "Dallas Twp, Luzerne Co., PA (p.305)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Dallas, Luzerne Co., Pa. (Fern Knoll)": {
+  "lat": 41.33617,
+  "lon": -75.96326,
+  "label": "Dallas, Luzerne County, Pennsylvania, 18612, United States",
+  "matched": "Dallas, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Danville, Montour Co., PA": {
+  "lat": 40.96648,
+  "lon": -76.61315,
+  "label": "Danville, Montour County, Pennsylvania, 17821, United States",
+  "matched": "Danville, Montour Co., PA",
+  "precision": "exact"
+ },
+ "Dickson City, Lackawanna County, Pennsylvania": {
+  "lat": 41.47147,
+  "lon": -75.60769,
+  "label": "Dickson City, Lackawanna County, Pennsylvania, 18519, United States",
+  "matched": "Dickson City, Lackawanna County, Pennsylvania",
+  "precision": "exact"
+ },
+ "District of Columbia": {
+  "lat": 4.81356,
+  "lon": -75.6912,
+  "label": "District, Carrera 8, Sector Plaza de Bolivar, Sector Galeria Central, Centro, Perimetro Urbano Pereira, Pereira, Risaralda, RAP Eje Cafetero, 660002, Colombia",
+  "matched": "District Columbia",
+  "precision": "exact"
+ },
+ "Dodge Co. 5th district": null,
+ "Dodge Co., WI": {
+  "lat": 43.41361,
+  "lon": -88.71778,
+  "label": "Dodge County, Wisconsin, United States",
+  "matched": "Dodge Co., WI",
+  "precision": "exact"
+ },
+ "Dunellen, Middlesex Co., NJ": {
+  "lat": 40.42797,
+  "lon": -74.39631,
+  "label": "Middlesex County, New Jersey, United States",
+  "matched": "Middlesex Co., NJ",
+  "precision": "approximate"
+ },
+ "Dunmore": {
+  "lat": 41.4198,
+  "lon": -75.63241,
+  "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+  "matched": "Dunmore",
+  "precision": "exact"
+ },
+ "Dutch Lutheran Cemetery (Find a Grave 78699319, per WikiTree), Ginger Hill, Washington Co., PA": {
+  "lat": 40.19479,
+  "lon": -79.99811,
+  "label": "Ginger Hill, Fallowfield Township, Washington County, Pennsylvania, 15366, United States",
+  "matched": "Ginger Hill, Washington Co., PA",
+  "precision": "approximate"
+ },
+ "East Hampton, NY": {
+  "lat": 40.96339,
+  "lon": -72.18476,
+  "label": "Town of East Hampton, Suffolk County, New York, United States",
+  "matched": "East Hampton, NY",
+  "precision": "exact"
+ },
+ "Easton": {
+  "lat": 40.69161,
+  "lon": -75.20999,
+  "label": "Easton, Northampton County, Pennsylvania, United States",
+  "matched": "Easton",
+  "precision": "exact"
+ },
+ "Easton / Forks Twp., Northampton Co., PA": null,
+ "Easton area": {
+  "lat": 8.48765,
+  "lon": -13.21901,
+  "label": "Easton Street, Moe Wharf, Mount Aureol, Bambara Town Community, Western Area Urban, Western Area, Sierra Leone",
+  "matched": "Easton area",
+  "precision": "exact"
+ },
+ "Easton area, Northampton Co., PA": null,
+ "Easton, Northampton Co., PA": null,
+ "Easton, Northampton County, Pennsylvania": {
+  "lat": 40.69161,
+  "lon": -75.20999,
+  "label": "Easton, Northampton County, Pennsylvania, United States",
+  "matched": "Easton, Northampton County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Easton, PA": {
+  "lat": 40.69161,
+  "lon": -75.20999,
+  "label": "Easton, Northampton County, Pennsylvania, United States",
+  "matched": "Easton, PA",
+  "precision": "exact"
+ },
+ "Eaton, Quebec (born in Canada per Hammond)": null,
+ "El Paso, Texas": {
+  "lat": 31.7601,
+  "lon": -106.48705,
+  "label": "El Paso, El Paso County, Texas, United States",
+  "matched": "El Paso, Texas",
+  "precision": "exact"
+ },
+ "Elizabethtown, NJ": {
+  "lat": 40.64602,
+  "lon": -74.20028,
+  "label": "Elizabethtown Gas, Liberty Square, Elizabeth, Union County, New Jersey, United States",
+  "matched": "Elizabethtown, NJ",
+  "precision": "exact"
+ },
+ "Elk Point, Dakota Territory": null,
+ "Elmer L. Meyers High School, Wilkes-Barre": null,
+ "England?": {
+  "lat": 52.53102,
+  "lon": -1.26491,
+  "label": "England, United Kingdom",
+  "matched": "England?",
+  "precision": "exact"
+ },
+ "Erie, Erie County, Pennsylvania": {
+  "lat": 42.1823,
+  "lon": -80.14108,
+  "label": "Erie County, Pennsylvania, United States",
+  "matched": "Erie County, Pennsylvania",
+  "precision": "approximate"
+ },
+ "Erie, PA": {
+  "lat": 42.12947,
+  "lon": -80.08527,
+  "label": "Erie, Erie County, Pennsylvania, United States",
+  "matched": "Erie, PA",
+  "precision": "exact"
+ },
+ "Erzweiler, Ulmet parish": null,
+ "Essen, Germany": {
+  "lat": 51.45822,
+  "lon": 7.01582,
+  "label": "Essen, North Rhine-Westphalia, Germany",
+  "matched": "Essen, Germany",
+  "precision": "exact"
+ },
+ "Eugene, Oregon (Wikipedia); grew up in Beaverton, Oregon": null,
+ "Fairview Cemetery, Danville, Montour Co., Pa.": {
+  "lat": 40.96648,
+  "lon": -76.61315,
+  "label": "Danville, Montour County, Pennsylvania, 17821, United States",
+  "matched": "Danville, Montour Co., Pa.",
+  "precision": "approximate"
+ },
+ "Falls Twp., Wyoming Co., PA": {
+  "lat": 41.47122,
+  "lon": -75.85003,
+  "label": "Falls Township, Wyoming County, Pennsylvania, United States",
+  "matched": "Falls Twp., Wyoming Co., PA",
+  "precision": "exact"
+ },
+ "Fassett Cemetery, Edgerton, Rock Co., WI": {
+  "lat": 42.82522,
+  "lon": -89.08083,
+  "label": "Fassett Cemetery, Edgerton, Rock County, Wisconsin, United States",
+  "matched": "Fassett Cemetery, Edgerton, Rock Co., WI",
+  "precision": "exact"
+ },
+ "Fern Knoll Burial Park, Dallas, Pa.": {
+  "lat": 41.33617,
+  "lon": -75.96326,
+  "label": "Dallas, Luzerne County, Pennsylvania, United States",
+  "matched": "Dallas, Pa.",
+  "precision": "approximate"
+ },
+ "Fire Place, Brookhaven, NY": {
+  "lat": 40.95055,
+  "lon": -72.99206,
+  "label": "Miller Place Fire Department, 12, Miller Place Road, Sound Beach, Miller Place, Suffolk County, New York, 11764, United States",
+  "matched": "Fire Place, Brookhaven, NY",
+  "precision": "exact"
+ },
+ "Florida, USA (residence Clermont, Lake County)": {
+  "lat": 27.75677,
+  "lon": -81.46398,
+  "label": "Florida, United States",
+  "matched": "Florida, USA",
+  "precision": "exact"
+ },
+ "Flushing, Long Island": {
+  "lat": 40.76379,
+  "lon": -73.80824,
+  "label": "Koreatown, Flushing, Queens, Queens County, New York, 11358, United States",
+  "matched": "Flushing, Long Island",
+  "precision": "exact"
+ },
+ "Fockenberg-Limbach": {
+  "lat": 49.49492,
+  "lon": 7.49698,
+  "label": "Fockenberg-Limbach, Reichenbach-Steegen, Weilerbach, Landkreis Kaiserslautern, Rhineland-Palatinate, Germany",
+  "matched": "Fockenberg-Limbach",
+  "precision": "exact"
+ },
+ "Forks Twp., Northampton Co., PA": {
+  "lat": 40.74514,
+  "lon": -75.32893,
+  "label": "Northampton County, Pennsylvania, United States",
+  "matched": "Northampton Co., PA",
+  "precision": "approximate"
+ },
+ "Fort Bliss / Big Bend, Texas": null,
+ "Fort Bliss to Tucson": null,
+ "Fort Myer, Va. (2nd Lt., 5th Cavalry)": {
+  "lat": 38.89866,
+  "lon": -77.07237,
+  "label": "North Fort Myer Drive, Rosslyn, Arlington, Arlington County, Virginia, 22209, United States",
+  "matched": "Fort Myer, Va.",
+  "precision": "exact"
+ },
+ "Forty Fort Cemetery (per Find a Grave index on FS), Forty Fort, Luzerne Co., PA": {
+  "lat": 41.28576,
+  "lon": -75.87133,
+  "label": "Forty Fort Cemetery, Forty Fort, Luzerne County, Pennsylvania, United States",
+  "matched": "Forty Fort Cemetery, Forty Fort, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Forty Fort Cemetery, Forty Fort, Luzerne Co., PA": {
+  "lat": 41.28576,
+  "lon": -75.87133,
+  "label": "Forty Fort Cemetery, Forty Fort, Luzerne County, Pennsylvania, United States",
+  "matched": "Forty Fort Cemetery, Forty Fort, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Forty Fort, Luzerne Co.": {
+  "lat": 41.27897,
+  "lon": -75.87825,
+  "label": "Forty Fort, Luzerne County, Pennsylvania, United States",
+  "matched": "Forty Fort, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Freiburg im Breisgau": {
+  "lat": 47.99609,
+  "lon": 7.8494,
+  "label": "Freiburg im Breisgau, Baden-Württemberg, Germany",
+  "matched": "Freiburg im Breisgau",
+  "precision": "exact"
+ },
+ "Frelighsburg, Lower Canada (Quebec)": null,
+ "French Church, New York": {
+  "lat": 40.73911,
+  "lon": -73.99718,
+  "label": "French Evangelical Church of New York, 126-128, West 16th Street, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+  "matched": "French Church, New York",
+  "precision": "exact"
+ },
+ "Frostburg, Maryland": {
+  "lat": 39.65833,
+  "lon": -78.92842,
+  "label": "Frostburg, Allegany County, Maryland, 21532, United States",
+  "matched": "Frostburg, Maryland",
+  "precision": "exact"
+ },
+ "Gethsemane Cemetery, Easton, PA": null,
+ "Glan-Münchweiler": {
+  "lat": 49.47254,
+  "lon": 7.44042,
+  "label": "Glan-Münchweiler, Oberes Glantal, Landkreis Kusel, Rhineland-Palatinate, 66907, Germany",
+  "matched": "Glan-Münchweiler",
+  "precision": "exact"
+ },
+ "Goshen precinct, Orange Co., NY": {
+  "lat": 41.38733,
+  "lon": -74.25073,
+  "label": "Orange County, New York, United States",
+  "matched": "Orange Co., NY",
+  "precision": "approximate"
+ },
+ "Goshen, NY": {
+  "lat": 41.40215,
+  "lon": -74.32421,
+  "label": "Village of Goshen, Town of Goshen, Orange County, New York, 10924, United States",
+  "matched": "Goshen, NY",
+  "precision": "exact"
+ },
+ "Goshen, Orange Co., NY": {
+  "lat": 41.40215,
+  "lon": -74.32421,
+  "label": "Village of Goshen, Town of Goshen, Orange County, New York, 10924, United States",
+  "matched": "Goshen, Orange Co., NY",
+  "precision": "exact"
+ },
+ "Great St Albans, Hertfordshire, England": {
+  "lat": 51.84005,
+  "lon": -0.09786,
+  "label": "Hertfordshire, England, United Kingdom",
+  "matched": "Hertfordshire, England",
+  "precision": "approximate"
+ },
+ "Green Tree, Allegheny County, Pennsylvania": {
+  "lat": 40.41625,
+  "lon": -80.05419,
+  "label": "Green Tree, Allegheny County, Pennsylvania, 15220, United States",
+  "matched": "Green Tree, Allegheny County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Greenwich Twp., Gloucester Co., NJ (per FamilySearch tree)": {
+  "lat": 39.82239,
+  "lon": -75.28109,
+  "label": "Greenwich Township, Gloucester County, New Jersey, 08027, United States",
+  "matched": "Greenwich Twp., Gloucester Co., NJ",
+  "precision": "exact"
+ },
+ "Greenwich, Connecticut": null,
+ "Guardia Lombardi": null,
+ "Hanover Cemetery (per Find a Grave index on FS), Hanover Twp., Luzerne Co., PA": {
+  "lat": 41.21661,
+  "lon": -75.95507,
+  "label": "Hanover Cemetery, Hanover Green, Hanover Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Hanover Cemetery, Hanover Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Hanover Twp, Luzerne Co., PA": {
+  "lat": 41.20333,
+  "lon": -75.9233,
+  "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Hanover Twp, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Hanover Twp, Luzerne Co., Pa.": {
+  "lat": 41.20333,
+  "lon": -75.9233,
+  "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Hanover Twp, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Hanover Twp, Luzerne Co., Pa. (FS)": {
+  "lat": 41.20333,
+  "lon": -75.9233,
+  "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Hanover Twp, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Hanover Twp., Luzerne Co., PA": {
+  "lat": 41.20333,
+  "lon": -75.9233,
+  "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Hanover Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Hanover Twp., Luzerne Co., PA (per FamilySearch tree / Find a Grave index)": {
+  "lat": 41.20333,
+  "lon": -75.9233,
+  "label": "Hanover Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Hanover Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Harrison family tomb (William Henry Harrison Tomb State Memorial), North Bend, Ohio": {
+  "lat": 39.15256,
+  "lon": -84.748,
+  "label": "North Bend, Miami Township, Hamilton County, Ohio, 45052, United States",
+  "matched": "North Bend, Ohio",
+  "precision": "approximate"
+ },
+ "Harvey's Creek, Jackson Twp., Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Hazle Township, Luzerne Co., PA": {
+  "lat": 40.95719,
+  "lon": -76.06007,
+  "label": "Hazle Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Hazle Township, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Hazleton": {
+  "lat": 40.9549,
+  "lon": -75.97696,
+  "label": "Hazleton, Luzerne County, Pennsylvania, 18201, United States",
+  "matched": "Hazleton",
+  "precision": "exact"
+ },
+ "Hazleton, Luzerne Co., PA": {
+  "lat": 40.9549,
+  "lon": -75.97696,
+  "label": "Hazleton, Luzerne County, Pennsylvania, 18201, United States",
+  "matched": "Hazleton, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Hazleton, Luzerne County, Pennsylvania": null,
+ "Herndon, Virginia": null,
+ "Hudson, NY": null,
+ "Hunlock Twp., Luzerne Co., PA": {
+  "lat": 41.23888,
+  "lon": -76.10624,
+  "label": "Hunlock Township, Luzerne County, Pennsylvania, 18621, United States",
+  "matched": "Hunlock Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Hunlock's Creek, Union (now Hunlock) Twp., Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Huntington, NY": null,
+ "Italy (Bisaccia per FS)": null,
+ "Ives, Dundee Co., Nebraska": null,
+ "Jackson Twp, Luzerne Co.": {
+  "lat": 41.28001,
+  "lon": -75.9829,
+  "label": "Jackson Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Jackson Twp, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Jackson Twp, Luzerne Co. (census)": {
+  "lat": 41.28001,
+  "lon": -75.9829,
+  "label": "Jackson Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Jackson Twp, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Jackson Twp. (then Plymouth), Luzerne Co.": {
+  "lat": 41.28001,
+  "lon": -75.9829,
+  "label": "Jackson Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Jackson Twp., Luzerne Co.",
+  "precision": "exact"
+ },
+ "Jackson Twp. area (then part of Plymouth)": {
+  "lat": 42.36554,
+  "lon": -84.43007,
+  "label": "Jackson Rest Area 820, Rives Township, Jackson County, Michigan, 49277, United States",
+  "matched": "Jackson Twp. area",
+  "precision": "exact"
+ },
+ "Jessup, Lackawanna County, PA": {
+  "lat": 41.46869,
+  "lon": -75.56213,
+  "label": "Jessup, Lackawanna County, Pennsylvania, 18434, United States",
+  "matched": "Jessup, Lackawanna County, PA",
+  "precision": "exact"
+ },
+ "Jettenbach": {
+  "lat": 49.53454,
+  "lon": 7.55674,
+  "label": "Jettenbach, Lauterecken-Wolfstein, Landkreis Kusel, Rhineland-Palatinate, Germany",
+  "matched": "Jettenbach",
+  "precision": "exact"
+ },
+ "Jettenbach (FamilySearch gives 28 Jun 1711)": {
+  "lat": 49.53454,
+  "lon": 7.55674,
+  "label": "Jettenbach, Lauterecken-Wolfstein, Landkreis Kusel, Rhineland-Palatinate, Germany",
+  "matched": "Jettenbach",
+  "precision": "exact"
+ },
+ "Jettenbach (Reichenbach Lutheran parish)": {
+  "lat": 49.53454,
+  "lon": 7.55674,
+  "label": "Jettenbach, Lauterecken-Wolfstein, Landkreis Kusel, Rhineland-Palatinate, Germany",
+  "matched": "Jettenbach",
+  "precision": "exact"
+ },
+ "Jettenbach (Reichenbach Lutheran parish), Palatinate-Zweibrücken": null,
+ "Jettenbach (Reichenbach parish)": {
+  "lat": 49.53454,
+  "lon": 7.55674,
+  "label": "Jettenbach, Lauterecken-Wolfstein, Landkreis Kusel, Rhineland-Palatinate, Germany",
+  "matched": "Jettenbach",
+  "precision": "exact"
+ },
+ "Kingston Borough ('Thos Pringdle')": null,
+ "Kingston M.E. Church": {
+  "lat": 41.93012,
+  "lon": -74.00874,
+  "label": "A.M.E. Zion Church of Franklin Street, 26, Franklin Street, Stockade District, City of Kingston, Ulster County, New York, 12401, United States",
+  "matched": "Kingston M.E. Church",
+  "precision": "exact"
+ },
+ "Kingston, Luzerne Co.": {
+  "lat": 41.26201,
+  "lon": -75.8972,
+  "label": "Kingston, Luzerne County, Pennsylvania, United States",
+  "matched": "Kingston, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Kingston, Luzerne Co., PA": {
+  "lat": 41.26201,
+  "lon": -75.8972,
+  "label": "Kingston, Luzerne County, Pennsylvania, United States",
+  "matched": "Kingston, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Kingston, Luzerne Co., Pa.": {
+  "lat": 41.26201,
+  "lon": -75.8972,
+  "label": "Kingston, Luzerne County, Pennsylvania, United States",
+  "matched": "Kingston, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Kingston, PA": null,
+ "Kingston, PA (the old Peter Sharp house at the end of Pringle Lane, now Pringle Street)": {
+  "lat": 41.26201,
+  "lon": -75.8972,
+  "label": "Kingston, Luzerne County, Pennsylvania, United States",
+  "matched": "Kingston, PA",
+  "precision": "exact"
+ },
+ "Kingston, Pa.": {
+  "lat": 41.26201,
+  "lon": -75.8972,
+  "label": "Kingston, Luzerne County, Pennsylvania, United States",
+  "matched": "Kingston, Pa.",
+  "precision": "exact"
+ },
+ "Kollweiler (Reichenbach Lutheran parish)": {
+  "lat": 49.51617,
+  "lon": 7.58182,
+  "label": "Kollweiler, Weilerbach, Landkreis Kaiserslautern, Rhineland-Palatinate, Germany",
+  "matched": "Kollweiler",
+  "precision": "exact"
+ },
+ "La Rochelle, France": {
+  "lat": 46.15973,
+  "lon": -1.1516,
+  "label": "La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, Metropolitan France, 17000, France",
+  "matched": "La Rochelle, France",
+  "precision": "exact"
+ },
+ "Lackawanna County, Pennsylvania": null,
+ "Lackawanna Twp., Luzerne Co., PA": {
+  "lat": 41.34145,
+  "lon": -75.70497,
+  "label": "Springbrook Avenue, Glendale, Pittston Township, Luzerne County, Pennsylvania, 18507, United States",
+  "matched": "Lackawanna Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Ladysmith, British Columbia, Canada": {
+  "lat": 48.99366,
+  "lon": -123.8158,
+  "label": "Ladysmith, Cowichan Valley Regional District, British Columbia, Canada",
+  "matched": "Ladysmith, British Columbia, Canada",
+  "precision": "exact"
+ },
+ "Lamezia Terme (Nicastro)": null,
+ "Larksville": null,
+ "Larksville (FamilySearch)": null,
+ "Larksville Borough, sheet 11A, line 29": null,
+ "Larksville Ward 4": {
+  "lat": 41.24508,
+  "lon": -75.93075,
+  "label": "Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "Larksville Ward 4",
+  "precision": "exact"
+ },
+ "Larksville, Luzerne Co.": {
+  "lat": 41.24508,
+  "lon": -75.93075,
+  "label": "Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "Larksville, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Larksville, Luzerne Co., PA": {
+  "lat": 41.24508,
+  "lon": -75.93075,
+  "label": "Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "Larksville, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Larksville, Luzerne Co., PA (FamilySearch)": {
+  "lat": 41.24508,
+  "lon": -75.93075,
+  "label": "Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "Larksville, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Larksville, Luzerne Co., Pa.": {
+  "lat": 41.24508,
+  "lon": -75.93075,
+  "label": "Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "Larksville, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Larksville, Pa.": {
+  "lat": 41.24508,
+  "lon": -75.93075,
+  "label": "Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "Larksville, Pa.",
+  "precision": "exact"
+ },
+ "Leesburg, Virginia (as shown on the couple's public registry page)": null,
+ "Lehman Twp, Luzerne Co., Pa.": {
+  "lat": 41.30246,
+  "lon": -76.03702,
+  "label": "Lehman Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Lehman Twp, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Lehman Twp., Luzerne Co., PA (per FamilySearch tree)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Lenox, Madison Co., New York": {
+  "lat": 42.87588,
+  "lon": -75.68026,
+  "label": "Madison County, New York, United States",
+  "matched": "Madison Co., New York",
+  "precision": "approximate"
+ },
+ "Levittown, Pennsylvania": null,
+ "Luzerne Co.": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co.",
+  "precision": "exact"
+ },
+ "Luzerne Co. ('Caturah Akley', head of household)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co.",
+  "precision": "exact"
+ },
+ "Luzerne Co. ('Phillip Croop', 1810 census)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co.",
+  "precision": "exact"
+ },
+ "Luzerne Co. (census 'Thomas Lamoreux')": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co.",
+  "precision": "exact"
+ },
+ "Luzerne Co., PA": null,
+ "Luzerne Co., Pa.": null,
+ "Luzerne Co., Pa. (FS)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Luzerne Co., Pennsylvania (state death certificate no. 58862)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., Pennsylvania",
+  "precision": "exact"
+ },
+ "Luzerne County Court of Quarter Sessions, Wilkes-Barre": null,
+ "Luzerne County Courthouse, Wilkes-Barre": null,
+ "Lyndhurst, Bergen County, New Jersey": {
+  "lat": 40.96783,
+  "lon": -74.05633,
+  "label": "Bergen County, New Jersey, United States",
+  "matched": "Bergen County, New Jersey",
+  "precision": "approximate"
+ },
+ "Manhattan, New York City": {
+  "lat": 40.75796,
+  "lon": -73.98553,
+  "label": "Manhattan, New York County, New York, United States",
+  "matched": "Manhattan, New York City",
+  "precision": "exact"
+ },
+ "Maple Shade Township, Burlington County, New Jersey": {
+  "lat": 39.95261,
+  "lon": -74.99239,
+  "label": "Maple Shade Township, Burlington County, New Jersey, 08052, United States",
+  "matched": "Maple Shade Township, Burlington County, New Jersey",
+  "precision": "exact"
+ },
+ "Mayville, Wisconsin": {
+  "lat": 43.4942,
+  "lon": -88.54482,
+  "label": "Mayville, Dodge County, Wisconsin, 53050, United States",
+  "matched": "Mayville, Wisconsin",
+  "precision": "exact"
+ },
+ "McLean, Virginia": null,
+ "Mendham, NJ": {
+  "lat": 40.77594,
+  "lon": -74.60096,
+  "label": "Mendham, Morris County, New Jersey, 07945, United States",
+  "matched": "Mendham, NJ",
+  "precision": "exact"
+ },
+ "Merchantville, New Jersey": {
+  "lat": 39.95163,
+  "lon": -75.04876,
+  "label": "Merchantville, Camden County, New Jersey, 08109, United States",
+  "matched": "Merchantville, New Jersey",
+  "precision": "exact"
+ },
+ "Middle Road, Hanover Twp., Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Milford, Conn.": null,
+ "Minersville, Schuylkill Co., Pa.": {
+  "lat": 40.69065,
+  "lon": -76.26217,
+  "label": "Minersville, Schuylkill County, Pennsylvania, 17954, United States",
+  "matched": "Minersville, Schuylkill Co., Pa.",
+  "precision": "exact"
+ },
+ "Monroe (Cheesecocks), Orange Co., NY": {
+  "lat": 41.38733,
+  "lon": -74.25073,
+  "label": "Orange County, New York, United States",
+  "matched": "Orange Co., NY",
+  "precision": "approximate"
+ },
+ "Monroe Twp, Orange Co., NY": null,
+ "Monroe, NY (FamilySearch)": {
+  "lat": 41.33048,
+  "lon": -74.18663,
+  "label": "Town of Monroe, Orange County, New York, United States",
+  "matched": "Monroe, NY",
+  "precision": "exact"
+ },
+ "Monroe, Orange Co., NY": {
+  "lat": 41.38733,
+  "lon": -74.25073,
+  "label": "Orange County, New York, United States",
+  "matched": "Orange Co., NY",
+  "precision": "approximate"
+ },
+ "Monroe, Orange Co., NY (FamilySearch)": null,
+ "Montague, Massachusetts": {
+  "lat": 42.59012,
+  "lon": -72.54973,
+  "label": "Montague, Franklin County, Massachusetts, United States",
+  "matched": "Montague, Massachusetts",
+  "precision": "exact"
+ },
+ "Mount Olivet Cemetery, Washington, D.C.": null,
+ "Mountain Top, Fairview Twp, Luzerne Co., Pa.": null,
+ "Munzingen": {
+  "lat": 47.96964,
+  "lon": 7.69823,
+  "label": "Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany",
+  "matched": "Munzingen",
+  "precision": "exact"
+ },
+ "Munzingen (Catholic parish), Munzingen": {
+  "lat": 47.97029,
+  "lon": 7.69843,
+  "label": "Schloss Munzingen, Dorfgraben, Munzingen, Freiburg im Breisgau, Baden-Württemberg, 79112, Germany",
+  "matched": "Munzingen, Munzingen",
+  "precision": "exact"
+ },
+ "Munzingen (Catholic parish), Munzingen, Amt Freiburg, Baden": {
+  "lat": 47.99768,
+  "lon": 7.85322,
+  "label": "Amt für Kinder, Jugend und Familie, 1, Europaplatz, Altstadt-Mitte, Old Town, Freiburg im Breisgau, Baden-Württemberg, 79098, Germany",
+  "matched": "Amt Freiburg, Baden",
+  "precision": "approximate"
+ },
+ "Munzingen, Amt Freiburg, Baden": {
+  "lat": 47.99768,
+  "lon": 7.85322,
+  "label": "Amt für Kinder, Jugend und Familie, 1, Europaplatz, Altstadt-Mitte, Old Town, Freiburg im Breisgau, Baden-Württemberg, 79098, Germany",
+  "matched": "Amt Freiburg, Baden",
+  "precision": "approximate"
+ },
+ "Munzingen, Baden": null,
+ "Nanticoke, Luzerne Co., Pa.": {
+  "lat": 41.20527,
+  "lon": -76.00494,
+  "label": "Nanticoke, Luzerne County, Pennsylvania, 18634, United States",
+  "matched": "Nanticoke, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Naples, Italy": null,
+ "New Cornwall, Orange Co., NY": {
+  "lat": 41.42814,
+  "lon": -73.98512,
+  "label": "Storm King Highway, Town of Cornwall, Orange County, New York, 12520, United States",
+  "matched": "New Cornwall, Orange Co., NY",
+  "precision": "exact"
+ },
+ "New Jersey and Pennsylvania": null,
+ "New London, Connecticut": {
+  "lat": 41.35562,
+  "lon": -72.09978,
+  "label": "New London, Southeastern Connecticut Planning Region, Connecticut, 06320, United States",
+  "matched": "New London, Connecticut",
+  "precision": "exact"
+ },
+ "New York (French Church)": {
+  "lat": 40.71273,
+  "lon": -74.00602,
+  "label": "New York, United States",
+  "matched": "New York",
+  "precision": "exact"
+ },
+ "New York City": {
+  "lat": 40.71273,
+  "lon": -74.00602,
+  "label": "New York, United States",
+  "matched": "New York City",
+  "precision": "exact"
+ },
+ "New York City (French Church, per tree)": {
+  "lat": 40.71273,
+  "lon": -74.00602,
+  "label": "New York, United States",
+  "matched": "New York City",
+  "precision": "exact"
+ },
+ "New York; East Hampton": {
+  "lat": 40.96339,
+  "lon": -72.18476,
+  "label": "Town of East Hampton, Suffolk County, New York, United States",
+  "matched": "New York; East Hampton",
+  "precision": "exact"
+ },
+ "Newburgh, Orange Co., NY (FamilySearch)": {
+  "lat": 41.50008,
+  "lon": -74.00983,
+  "label": "City of Newburgh, Orange County, New York, United States",
+  "matched": "Newburgh, Orange Co., NY",
+  "precision": "exact"
+ },
+ "Newport Twp., Luzerne Co., PA": {
+  "lat": 41.18402,
+  "lon": -76.04393,
+  "label": "Newport Township, Luzerne County, Pennsylvania, 18617, United States",
+  "matched": "Newport Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Newport, Rhode Island": {
+  "lat": 41.48998,
+  "lon": -71.31377,
+  "label": "Newport, Newport County, Rhode Island, 02840, United States",
+  "matched": "Newport, Rhode Island",
+  "precision": "exact"
+ },
+ "Newtown, Fairfield Co., CT": {
+  "lat": 41.41106,
+  "lon": -73.30701,
+  "label": "Main Street, Newtown, Western Connecticut Planning Region, Connecticut, 06470, United States",
+  "matched": "Newtown, Fairfield Co., CT",
+  "precision": "exact"
+ },
+ "Newtown, Fairfield Co., Connecticut": null,
+ "Nissequogue (Smithtown); Moriches; Blooming Grove; Brattleboro": null,
+ "Nissequogue, NY": {
+  "lat": 40.90399,
+  "lon": -73.19789,
+  "label": "Village of Nissequogue, Town of Smithtown, Suffolk County, New York, United States",
+  "matched": "Nissequogue, NY",
+  "precision": "exact"
+ },
+ "North Bend, Ohio (farm on the Ohio River)": {
+  "lat": 39.15256,
+  "lon": -84.748,
+  "label": "North Bend, Miami Township, Hamilton County, Ohio, 45052, United States",
+  "matched": "North Bend, Ohio",
+  "precision": "exact"
+ },
+ "Northampton Co.": {
+  "lat": 40.74514,
+  "lon": -75.32893,
+  "label": "Northampton County, Pennsylvania, United States",
+  "matched": "Northampton Co.",
+  "precision": "exact"
+ },
+ "Northampton Co. ('John Grub')": {
+  "lat": 40.74514,
+  "lon": -75.32893,
+  "label": "Northampton County, Pennsylvania, United States",
+  "matched": "Northampton Co.",
+  "precision": "exact"
+ },
+ "Northampton Co., PA": {
+  "lat": 40.74514,
+  "lon": -75.32893,
+  "label": "Northampton County, Pennsylvania, United States",
+  "matched": "Northampton Co., PA",
+  "precision": "exact"
+ },
+ "Northampton Co., PA (inferred: came to Hanover Twp. with her father c.1783 as part of a 'family of grown-up children')": {
+  "lat": 40.74514,
+  "lon": -75.32893,
+  "label": "Northampton County, Pennsylvania, United States",
+  "matched": "Northampton Co., PA",
+  "precision": "exact"
+ },
+ "Northampton County, PA": {
+  "lat": 40.74514,
+  "lon": -75.32893,
+  "label": "Northampton County, Pennsylvania, United States",
+  "matched": "Northampton County, PA",
+  "precision": "exact"
+ },
+ "Oak Lawn Cemetery, Hanover Twp, Pa.": {
+  "lat": 41.22451,
+  "lon": -75.91489,
+  "label": "Oak Lawn Cemetery, Lee Park, Hanover Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Oak Lawn Cemetery, Hanover Twp, Pa.",
+  "precision": "exact"
+ },
+ "Oakland, Calif.": {
+  "lat": 37.80446,
+  "lon": -122.27136,
+  "label": "Oakland, Alameda County, California, United States",
+  "matched": "Oakland, Calif.",
+  "precision": "exact"
+ },
+ "Oberbrombach": {
+  "lat": 49.69838,
+  "lon": 7.26075,
+  "label": "Oberbrombach, Birkenfeld, Landkreis Birkenfeld, Rhineland-Palatinate, Germany",
+  "matched": "Oberbrombach",
+  "precision": "exact"
+ },
+ "Oberbrombach (FamilySearch)": {
+  "lat": 49.69838,
+  "lon": 7.26075,
+  "label": "Oberbrombach, Birkenfeld, Landkreis Birkenfeld, Rhineland-Palatinate, Germany",
+  "matched": "Oberbrombach",
+  "precision": "exact"
+ },
+ "Offenbach am Glan": null,
+ "Ohio": {
+  "lat": 40.22536,
+  "lon": -82.68814,
+  "label": "Ohio, United States",
+  "matched": "Ohio",
+  "precision": "exact"
+ },
+ "Old Burial Ground (headstone beside his son Dr. Henry Wells), Montague, Mass.": {
+  "lat": 42.59012,
+  "lon": -72.54973,
+  "label": "Montague, Franklin County, Massachusetts, United States",
+  "matched": "Montague, Mass.",
+  "precision": "approximate"
+ },
+ "Old Burial Ground on the hill above the Wells homestead (West Brattleboro), Brattleboro, Vermont": {
+  "lat": 42.85076,
+  "lon": -72.55729,
+  "label": "Brattleboro, Windham County, Vermont, United States",
+  "matched": "Brattleboro, Vermont",
+  "precision": "approximate"
+ },
+ "Old Forge, Lackawanna County, PA": null,
+ "Orange Co., NY": {
+  "lat": 41.38733,
+  "lon": -74.25073,
+  "label": "Orange County, New York, United States",
+  "matched": "Orange Co., NY",
+  "precision": "exact"
+ },
+ "Orange Co., NY ('John Lomereaux, Junr')": null,
+ "Osse, Béarn, France": {
+  "lat": 43.18021,
+  "lon": -0.41598,
+  "label": "Béarn, Nouvelle-Aquitaine, Metropolitan France, France",
+  "matched": "Béarn, France",
+  "precision": "approximate"
+ },
+ "Otterberg (FamilySearch)": {
+  "lat": 49.5009,
+  "lon": 7.77236,
+  "label": "Otterberg, Otterbach-Otterberg, Landkreis Kaiserslautern, Rhineland-Palatinate, 67697, Germany",
+  "matched": "Otterberg",
+  "precision": "exact"
+ },
+ "Palatinate": {
+  "lat": 49.36618,
+  "lon": 7.94866,
+  "label": "Palatinate, Rhineland-Palatinate, Germany",
+  "matched": "Palatinate",
+  "precision": "exact"
+ },
+ "Parish of San Tommaso d'Aquino, San Mango d'Aquino": null,
+ "Pennsylvania (FS tree)": {
+  "lat": 40.96999,
+  "lon": -77.72788,
+  "label": "Pennsylvania, United States",
+  "matched": "Pennsylvania",
+  "precision": "exact"
+ },
+ "Pennsylvania (FS tree, censuses)": null,
+ "Pennsylvania (Plymouth per Bradsby)": {
+  "lat": 40.96999,
+  "lon": -77.72788,
+  "label": "Pennsylvania, United States",
+  "matched": "Pennsylvania",
+  "precision": "exact"
+ },
+ "Pennsylvania (Scranton)": null,
+ "Pennsylvania (licence: Plymouth)": null,
+ "Philadelphia, PA": {
+  "lat": 39.95272,
+  "lon": -75.16353,
+  "label": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+  "matched": "Philadelphia, PA",
+  "precision": "exact"
+ },
+ "Philadelphia, Pa.": null,
+ "Philadelphia, Pennsylvania": {
+  "lat": 39.95272,
+  "lon": -75.16353,
+  "label": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+  "matched": "Philadelphia, Pennsylvania",
+  "precision": "exact"
+ },
+ "Philipse's Precinct, Dutchess Co., NY": {
+  "lat": 41.71943,
+  "lon": -73.75162,
+  "label": "Dutchess County, New York, United States",
+  "matched": "Dutchess Co., NY",
+  "precision": "approximate"
+ },
+ "Philipstown (FamilySearch, NY Births and Christenings index 'Charity Lamoreau')": null,
+ "Philipstown, Dutchess (now Putnam) Co., NY": {
+  "lat": 41.44712,
+  "lon": -73.98001,
+  "label": "Breakneck Road, Town of Fishkill, Town of Philipstown, Dutchess County, New York, 12520, United States",
+  "matched": "Philipstown, Dutchess Co., NY",
+  "precision": "exact"
+ },
+ "Phoenix, Arizona, USA": {
+  "lat": 33.44844,
+  "lon": -112.07414,
+  "label": "Phoenix, Maricopa County, Arizona, United States",
+  "matched": "Phoenix, Arizona, USA",
+  "precision": "exact"
+ },
+ "Piedmont, Calif.": {
+  "lat": 37.82437,
+  "lon": -122.23163,
+  "label": "Piedmont, Alameda County, California, 94611, United States",
+  "matched": "Piedmont, Calif.",
+  "precision": "exact"
+ },
+ "Pittston Twp, Luzerne Co., PA": {
+  "lat": 41.30487,
+  "lon": -75.7285,
+  "label": "Pittston Township, Luzerne County, Pennsylvania, 18640, United States",
+  "matched": "Pittston Twp, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Pittstown [Pittston] Twp, Luzerne Co., PA, p.656": {
+  "lat": 37.7946,
+  "lon": 14.20796,
+  "label": "p, Gangi, Palermo, Sicily, 90024, Italy",
+  "matched": "PA, p.656",
+  "precision": "approximate"
+ },
+ "Plainfield Cemetery, Plainfield Twp, Northampton Co., PA": {
+  "lat": 40.82349,
+  "lon": -75.2648,
+  "label": "Plainfield Township, Northampton County, Pennsylvania, 18072, United States",
+  "matched": "Plainfield Twp, Northampton Co., PA",
+  "precision": "approximate"
+ },
+ "Plainfield Twp": {
+  "lat": 44.42264,
+  "lon": -83.76473,
+  "label": "Plainfield Township, Iosco County, Michigan, United States",
+  "matched": "Plainfield Twp",
+  "precision": "exact"
+ },
+ "Plainfield Twp, Northampton Co., PA": {
+  "lat": 40.82349,
+  "lon": -75.2648,
+  "label": "Plainfield Township, Northampton County, Pennsylvania, 18072, United States",
+  "matched": "Plainfield Twp, Northampton Co., PA",
+  "precision": "exact"
+ },
+ "Pleasant Hill, Sabine Parish, La.": {
+  "lat": 31.5223,
+  "lon": -93.52652,
+  "label": "Sabine Parish, Louisiana, United States",
+  "matched": "Sabine Parish, La.",
+  "precision": "approximate"
+ },
+ "Pleasant Mount, Wayne County, PA": {
+  "lat": 41.73981,
+  "lon": -75.43435,
+  "label": "Pleasant Mount, Mount Pleasant Township, Wayne County, Pennsylvania, 18430, United States",
+  "matched": "Pleasant Mount, Wayne County, PA",
+  "precision": "exact"
+ },
+ "Plover, Wisconsin": {
+  "lat": 44.45636,
+  "lon": -89.54401,
+  "label": "Village of Plover, Portage County, Wisconsin, 54467, United States",
+  "matched": "Plover, Wisconsin",
+  "precision": "exact"
+ },
+ "Plymouth": {
+  "lat": 50.37141,
+  "lon": -4.14245,
+  "label": "Plymouth, England, United Kingdom",
+  "matched": "Plymouth",
+  "precision": "exact"
+ },
+ "Plymouth (FamilySearch-attached census)": null,
+ "Plymouth (P.O. Muhlenburg), Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Plymouth (Twp), Luzerne Co., PA; dwelling 879, next door to his parents James and Elizabeth Pringle (dwelling 878)": null,
+ "Plymouth (with widowed mother)": {
+  "lat": 50.37141,
+  "lon": -4.14245,
+  "label": "Plymouth, England, United Kingdom",
+  "matched": "Plymouth",
+  "precision": "exact"
+ },
+ "Plymouth Boro.": null,
+ "Plymouth Borough, Ward 3, Luzerne Co., Pa.": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., Pa.",
+  "precision": "approximate"
+ },
+ "Plymouth Township (Third Election District, East Division), Luzerne Co., PA, dwelling 180": null,
+ "Plymouth Township, Luzerne Co., PA": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Township, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth Township, Luzerne Co., PA (p.341)": null,
+ "Plymouth Township, Luzerne Co., Pa. (P.O. Kingston)": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Township, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Plymouth Twp": {
+  "lat": 42.37306,
+  "lon": -83.49278,
+  "label": "Plymouth Charter Township, Wayne County, Michigan, 48170, United States",
+  "matched": "Plymouth Twp",
+  "precision": "exact"
+ },
+ "Plymouth Twp ('Benjn Pringle', head aged 50-60, a few households above Saml and James Pringle)": {
+  "lat": 42.37306,
+  "lon": -83.49278,
+  "label": "Plymouth Charter Township, Wayne County, Michigan, 48170, United States",
+  "matched": "Plymouth Twp",
+  "precision": "exact"
+ },
+ "Plymouth Twp (P.O. Kingston), Luzerne Co., PA": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Twp, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth Twp, ED 133, sheet 10B, line 83": null,
+ "Plymouth Twp, Luzerne Co.": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Twp, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Plymouth Twp, Luzerne Co., PA": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Twp, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth Twp, Luzerne Co., PA (household of son Orange; next door to son Addison)": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Twp, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth Twp, Luzerne Co., PA (p.496)": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Twp, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth Twp, Luzerne Co., PA (post office Kingston), dwelling 422": {
+  "lat": 40.04704,
+  "lon": -77.50581,
+  "label": "Dwelling Court, Shippensburg, Cumberland County, Pennsylvania, 17257, United States",
+  "matched": "PA, dwelling 422",
+  "precision": "approximate"
+ },
+ "Plymouth Twp, Luzerne Co., PA (stamped p.751)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Plymouth Twp, Luzerne Co., PA, ED 133, sheet 10B, lines 88-92": null,
+ "Plymouth Twp, Luzerne Co., PA, P.O. Kingston, stamped p.496, Ass't Marshal Robeson Boyd": null,
+ "Plymouth Twp.": {
+  "lat": 42.37306,
+  "lon": -83.49278,
+  "label": "Plymouth Charter Township, Wayne County, Michigan, 48170, United States",
+  "matched": "Plymouth Twp.",
+  "precision": "exact"
+ },
+ "Plymouth Twp. / Plymouth Ward 9, Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Plymouth Twp., Luzerne Co., PA": {
+  "lat": 41.24158,
+  "lon": -76.01622,
+  "label": "Plymouth Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Plymouth Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth Twp., Luzerne Co., PA (FS); buried in Plymouth (Giles & Franklin)": null,
+ "Plymouth Ward 1": {
+  "lat": 50.37141,
+  "lon": -4.14245,
+  "label": "Plymouth, England, United Kingdom",
+  "matched": "Plymouth Ward 1",
+  "precision": "exact"
+ },
+ "Plymouth Ward 1, Luzerne Co., Pa.": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., Pa.",
+  "precision": "approximate"
+ },
+ "Plymouth Ward 4": {
+  "lat": 38.95531,
+  "lon": -77.00866,
+  "label": "Plymouth Congregational United Church of Christ, 5301, Ward 4, Washington, District of Columbia, 20011, United States",
+  "matched": "Plymouth Ward 4",
+  "precision": "exact"
+ },
+ "Plymouth Ward 5": {
+  "lat": 38.95423,
+  "lon": -77.0087,
+  "label": "North Capitol at Plymouth, 5233, North Capitol Street Northeast, Fort Totten, Ward 5, Washington, District of Columbia, 20011, United States",
+  "matched": "Plymouth Ward 5",
+  "precision": "exact"
+ },
+ "Plymouth Ward 9 (indexed as 'John L Pringle')": {
+  "lat": 50.37141,
+  "lon": -4.14245,
+  "label": "Plymouth, England, United Kingdom",
+  "matched": "Plymouth Ward 9",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co.": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co. (7 Jan 1917)": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co.",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., PA": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., PA (husband James's farm, dwelling 878)": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., PA (p.410)": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., PA (p.737)": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., PA (place per FS tree)": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., PA (stamped p.737)": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., PA (with husband Andrew, next to his parents)": null,
+ "Plymouth, Luzerne Co., PA, dwelling 878": {
+  "lat": 40.04704,
+  "lon": -77.50581,
+  "label": "Dwelling Court, Shippensburg, Cumberland County, Pennsylvania, 17257, United States",
+  "matched": "PA, dwelling 878",
+  "precision": "approximate"
+ },
+ "Plymouth, Luzerne Co., Pa.": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "Plymouth, Luzerne Co., Pa. (FS); Larksville (1927 licence)": {
+  "lat": 41.2448,
+  "lon": -75.92659,
+  "label": "Plymouth Junction, Larksville, Luzerne County, Pennsylvania, 18765, United States",
+  "matched": "Plymouth, Luzerne Co., Pa. ; Larksville",
+  "precision": "exact"
+ },
+ "Plymouth, PA": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, PA",
+  "precision": "exact"
+ },
+ "Plymouth, Pa.": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Pa.",
+  "precision": "exact"
+ },
+ "Plymouth, in James Pringle's household (age 18)": null,
+ "Point Farm, near North Bend, Hamilton Co., Ohio": {
+  "lat": 39.20854,
+  "lon": -84.55019,
+  "label": "Hamilton County, Ohio, United States",
+  "matched": "Hamilton Co., Ohio",
+  "precision": "approximate"
+ },
+ "Princeton area (Skillman), NJ": {
+  "lat": 40.35994,
+  "lon": -74.63306,
+  "label": "Princeton-Kingston Road, Riverside Area, Princeton, Mercer County, New Jersey, 08540, United States",
+  "matched": "Princeton area, NJ",
+  "precision": "exact"
+ },
+ "Prisoner's Island, St. Lawrence River": null,
+ "Providence, RI": {
+  "lat": 41.82399,
+  "lon": -71.41283,
+  "label": "Providence, Providence County, Rhode Island, United States",
+  "matched": "Providence, RI",
+  "precision": "exact"
+ },
+ "Province of New York": null,
+ "Rathsweiler, Ulmet parish": null,
+ "Reichenbach Lutheran parish (Jettenbach entry)": null,
+ "Richmond, Virginia": {
+  "lat": 37.53851,
+  "lon": -77.43428,
+  "label": "Richmond, Virginia, United States",
+  "matched": "Richmond, Virginia",
+  "precision": "exact"
+ },
+ "Rieschweiler, Zweibrücken (FamilySearch)": null,
+ "Rock Co., WI": null,
+ "Rolla Cemetery, Rolla Twp., Phelps Co., MO": {
+  "lat": 37.91329,
+  "lon": -91.81681,
+  "label": "Phelps County, Missouri, United States",
+  "matched": "Phelps Co., MO",
+  "precision": "approximate"
+ },
+ "Rolla, Phelps Co., MO (burial Rolla Cemetery)": {
+  "lat": 37.95093,
+  "lon": -91.77081,
+  "label": "Rolla, Phelps County, Missouri, United States",
+  "matched": "Rolla, Phelps Co., MO",
+  "precision": "exact"
+ },
+ "SS. Simon & Jude Church, Green Tree (Pittsburgh), PA": null,
+ "Sagtikos Manor": {
+  "lat": 40.70239,
+  "lon": -73.27528,
+  "label": "Sagtikos Manor, 677, West Montauk Highway, West Bay Shore, Town of Islip, Suffolk County, New York, 11706, United States",
+  "matched": "Sagtikos Manor",
+  "precision": "exact"
+ },
+ "Sagtikos Manor, Islip, NY": {
+  "lat": 40.70239,
+  "lon": -73.27528,
+  "label": "Sagtikos Manor, 677, West Montauk Highway, West Bay Shore, Town of Islip, Suffolk County, New York, 11706, United States",
+  "matched": "Sagtikos Manor, Islip, NY",
+  "precision": "exact"
+ },
+ "Salem Twp., Luzerne Co., PA": null,
+ "Salem Twp., Luzerne Co., PA (1860, 1870); Rockford Twp., Floyd Co., IA (1880); Clay Co., IA (1885); Sanborn, O'Brien Co., IA; Rolla, Phelps Co., MO (1900, 1910)": null,
+ "Salem Twp., Luzerne Co., PA (per FamilySearch tree)": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "San Mango d'Aquino": null,
+ "San Tommaso d'Aquino parish, San Mango d'Aquino": null,
+ "Sand Street, Dunmore, PA (next door to James and Mollie Petriello at no. 128)": {
+  "lat": 41.40634,
+  "lon": -75.62752,
+  "label": "Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "Sand Street, Dunmore, PA",
+  "precision": "exact"
+ },
+ "Sand Street, Dunmore, Pennsylvania, USA": {
+  "lat": 41.40634,
+  "lon": -75.62752,
+  "label": "Sand Street, Dunmore, Lackawanna County, Pennsylvania, 18510, United States",
+  "matched": "Sand Street, Dunmore, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Sandusky, Ohio": {
+  "lat": 41.29516,
+  "lon": -83.15554,
+  "label": "Sandusky County, Ohio, United States",
+  "matched": "Sandusky, Ohio",
+  "precision": "exact"
+ },
+ "Scranton": null,
+ "Scranton City Hall": {
+  "lat": 41.40992,
+  "lon": -75.66094,
+  "label": "Scranton City Hall, 340, North Washington Avenue, Downtown, Scranton, Lackawanna County, Pennsylvania, 18503, United States",
+  "matched": "Scranton City Hall",
+  "precision": "exact"
+ },
+ "Scranton area (Lackawanna County), Pennsylvania": null,
+ "Scranton, Lackawanna Co., Pa.": {
+  "lat": 41.44061,
+  "lon": -75.62603,
+  "label": "Lackawanna County, Pennsylvania, United States",
+  "matched": "Lackawanna Co., Pa.",
+  "precision": "approximate"
+ },
+ "Scranton, Lackawanna County, PA": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton, Lackawanna County, PA",
+  "precision": "exact"
+ },
+ "Scranton, Lackawanna County, Pennsylvania": {
+  "lat": 41.40869,
+  "lon": -75.66213,
+  "label": "Scranton, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton, Lackawanna County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Scranton, PA": null,
+ "Scranton, Pennsylvania": null,
+ "Setauket": {
+  "lat": 40.94675,
+  "lon": -73.11592,
+  "label": "Setauket, Town of Brookhaven, Suffolk County, New York, United States",
+  "matched": "Setauket",
+  "precision": "exact"
+ },
+ "Setauket Presbyterian Church (south-east corner; part of tombstone survived in 1918), Setauket, NY": {
+  "lat": 40.94622,
+  "lon": -73.11069,
+  "label": "Presbyterian Church of Setauket, Caroline Avenue, Setauket, Town of Brookhaven, Suffolk County, New York, 11733, United States",
+  "matched": "Setauket Presbyterian Church, Setauket, NY",
+  "precision": "exact"
+ },
+ "Setauket Presbyterian churchyard (SE corner), Setauket, NY": {
+  "lat": 40.94675,
+  "lon": -73.11592,
+  "label": "Setauket, Town of Brookhaven, Suffolk County, New York, United States",
+  "matched": "Setauket, NY",
+  "precision": "approximate"
+ },
+ "Setauket, NY": {
+  "lat": 40.94675,
+  "lon": -73.11592,
+  "label": "Setauket, Town of Brookhaven, Suffolk County, New York, United States",
+  "matched": "Setauket, NY",
+  "precision": "exact"
+ },
+ "Shawnee Cemetery, Plymouth, Luzerne Co., PA": {
+  "lat": 41.24163,
+  "lon": -75.96268,
+  "label": "Shawnee Cemetery, Curry Hill, Plymouth, Luzerne County, Pennsylvania, United States",
+  "matched": "Shawnee Cemetery, Plymouth, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Shupp's Creek, Plymouth, Luzerne Co., PA": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Shutesbury, Hampshire Co., Massachusetts": {
+  "lat": 42.40483,
+  "lon": -72.48956,
+  "label": "Shutesbury Road, Cushman, Amherst, Hampshire County, Massachusetts, 01002, United States",
+  "matched": "Shutesbury, Hampshire Co., Massachusetts",
+  "precision": "exact"
+ },
+ "Smith's Clove (Monroe), Orange Co., NY": {
+  "lat": 41.38733,
+  "lon": -74.25073,
+  "label": "Orange County, New York, United States",
+  "matched": "Orange Co., NY",
+  "precision": "approximate"
+ },
+ "Smith's Clove (Monroe), Orange Co., NY (per FamilySearch tree)": {
+  "lat": 41.38733,
+  "lon": -74.25073,
+  "label": "Orange County, New York, United States",
+  "matched": "Orange Co., NY",
+  "precision": "approximate"
+ },
+ "Smith's Clove, Orange Co., NY": {
+  "lat": 41.38733,
+  "lon": -74.25073,
+  "label": "Orange County, New York, United States",
+  "matched": "Orange Co., NY",
+  "precision": "approximate"
+ },
+ "Smithtown": null,
+ "Smithtown, Suffolk Co., NY": {
+  "lat": 40.85593,
+  "lon": -73.20067,
+  "label": "Town of Smithtown, Suffolk County, New York, United States",
+  "matched": "Smithtown, Suffolk Co., NY",
+  "precision": "exact"
+ },
+ "South Abington Township, Lackawanna County, Pennsylvania (residence Scranton)": {
+  "lat": 41.49468,
+  "lon": -75.67635,
+  "label": "South Abington Township, Lackawanna County, Pennsylvania, 18410, United States",
+  "matched": "South Abington Township, Lackawanna County, Pennsylvania",
+  "precision": "exact"
+ },
+ "South Precinct, Dutchess Co.": null,
+ "Southampton, NY": {
+  "lat": 40.88425,
+  "lon": -72.38971,
+  "label": "Town of Southampton, Suffolk County, New York, United States",
+  "matched": "Southampton, NY",
+  "precision": "exact"
+ },
+ "Southold": null,
+ "Southold, NY": null,
+ "Southold, Suffolk Co., NY": {
+  "lat": 41.06722,
+  "lon": -72.4408,
+  "label": "Southold, Town of Southold, Suffolk County, New York, 11971, United States",
+  "matched": "Southold, Suffolk Co., NY",
+  "precision": "exact"
+ },
+ "Southold; Brookhaven; Southampton": null,
+ "St John's Lutheran Church Cemetery, Easton": null,
+ "St. Catherine Cemetery, Moscow, Lackawanna Co., Pa.": {
+  "lat": 41.33176,
+  "lon": -75.51917,
+  "label": "Saint Catherine's Cemetery, Covington Township, Lackawanna County, Pennsylvania, United States",
+  "matched": "St. Catherine Cemetery, Moscow, Lackawanna Co., Pa.",
+  "precision": "exact"
+ },
+ "St. James Episcopal Church, St. James, NY": {
+  "lat": 40.88389,
+  "lon": -73.16389,
+  "label": "Saint James Episcopal Church, North Country Road, Saint James, Town of Smithtown, Suffolk County, New York, 11780, United States",
+  "matched": "St. James Episcopal Church, St. James, NY",
+  "precision": "exact"
+ },
+ "St. Joseph Catholic Church, Bellwood, PA": {
+  "lat": 40.60144,
+  "lon": -78.32967,
+  "label": "Saint Joseph Catholic Church, 619, East 3rd Street, Reightown, Bellwood, Blair County, Pennsylvania, 16617, United States",
+  "matched": "St. Joseph Catholic Church, Bellwood, PA",
+  "precision": "exact"
+ },
+ "St. Joseph's RC Cemetery, Summit Hill, Carbon Co., PA": {
+  "lat": 40.82481,
+  "lon": -75.87103,
+  "label": "Summit Hill, Carbon County, Pennsylvania, 18250, United States",
+  "matched": "Summit Hill, Carbon Co., PA",
+  "precision": "approximate"
+ },
+ "St. Mary's Cemetery, Hanover Township, Luzerne County": {
+  "lat": 41.21931,
+  "lon": -75.92133,
+  "label": "Saint Mary's Cemetery, 1594, Lee Park, Wilkes-Barre, Luzerne County, Pennsylvania, 18706, United States",
+  "matched": "St. Mary's Cemetery, Hanover Township, Luzerne County",
+  "precision": "exact"
+ },
+ "St. Mary's Cemetery, Hanover Township, Luzerne County, Pennsylvania": {
+  "lat": 41.21931,
+  "lon": -75.92133,
+  "label": "Saint Mary's Cemetery, 1594, Lee Park, Wilkes-Barre, Luzerne County, Pennsylvania, 18706, United States",
+  "matched": "St. Mary's Cemetery, Hanover Township, Luzerne County, Pennsylvania",
+  "precision": "exact"
+ },
+ "St. Mary's Cemetery, Hanover Twp, Luzerne Co., Pa.": {
+  "lat": 41.21931,
+  "lon": -75.92133,
+  "label": "Saint Mary's Cemetery, 1594, Lee Park, Wilkes-Barre, Luzerne County, Pennsylvania, 18706, United States",
+  "matched": "St. Mary's Cemetery, Hanover Twp, Luzerne Co., Pa.",
+  "precision": "exact"
+ },
+ "St. Mary's Cemetery, Hanover Twp, Pa.": {
+  "lat": 41.21931,
+  "lon": -75.92133,
+  "label": "Saint Mary's Cemetery, 1594, Lee Park, Wilkes-Barre, Luzerne County, Pennsylvania, 18706, United States",
+  "matched": "St. Mary's Cemetery, Hanover Twp, Pa.",
+  "precision": "exact"
+ },
+ "St. Mary's Cemetery, Sandusky, Erie County, Ohio": {
+  "lat": 41.4561,
+  "lon": -82.71158,
+  "label": "Sandusky, Erie County, Ohio, 44870, United States",
+  "matched": "Sandusky, Erie County, Ohio",
+  "precision": "approximate"
+ },
+ "St. Mary's Cemetery, Wilkes-Barre/Hanover Twp, Pa.": {
+  "lat": 41.21931,
+  "lon": -75.92133,
+  "label": "Saint Mary's Cemetery, 1594, Lee Park, Wilkes-Barre, Luzerne County, Pennsylvania, 18706, United States",
+  "matched": "St. Mary's Cemetery, Wilkes-Barre/Hanover Twp, Pa.",
+  "precision": "exact"
+ },
+ "St. Rocco's Catholic Church, Dunmore, PA": {
+  "lat": 41.4198,
+  "lon": -75.63241,
+  "label": "Dunmore, Lackawanna County, Pennsylvania, 18512, United States",
+  "matched": "Dunmore, PA",
+  "precision": "approximate"
+ },
+ "St. Vincent de Paul Cemetery, Larksville, Pa.": {
+  "lat": 41.24508,
+  "lon": -75.93075,
+  "label": "Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "Larksville, Pa.",
+  "precision": "approximate"
+ },
+ "St. Vincent's Cemetery, Larksville, Pa.": {
+  "lat": 41.26352,
+  "lon": -75.94728,
+  "label": "Saint Vincent's Cemetery, Gregory, Larksville, Luzerne County, Pennsylvania, United States",
+  "matched": "St. Vincent's Cemetery, Larksville, Pa.",
+  "precision": "exact"
+ },
+ "Stuart, Florida": {
+  "lat": 27.19798,
+  "lon": -80.25192,
+  "label": "Stuart, Martin County, Florida, United States",
+  "matched": "Stuart, Florida",
+  "precision": "exact"
+ },
+ "Sun City West, Maricopa County, Arizona": {
+  "lat": 33.34883,
+  "lon": -112.49123,
+  "label": "Maricopa County, Arizona, United States",
+  "matched": "Maricopa County, Arizona",
+  "precision": "approximate"
+ },
+ "Sunbury, Northumberland Co., PA (FamilySearch)": {
+  "lat": 40.86198,
+  "lon": -76.79363,
+  "label": "Sunbury, Northumberland County, Pennsylvania, 17801, United States",
+  "matched": "Sunbury, Northumberland Co., PA",
+  "precision": "exact"
+ },
+ "Taylor, Lackawanna County, PA": {
+  "lat": 41.38407,
+  "lon": -75.70941,
+  "label": "Taylor, Lackawanna County, Pennsylvania, 18517, United States",
+  "matched": "Taylor, Lackawanna County, PA",
+  "precision": "exact"
+ },
+ "Tohickon Reformed Church, Bucks Co.": null,
+ "Tohickon, Bucks Co., Pennsylvania": {
+  "lat": 40.46171,
+  "lon": -75.22789,
+  "label": "Tohickon Creek, Bedminster Township, Bucks County, Pennsylvania, United States",
+  "matched": "Tohickon, Bucks Co., Pennsylvania",
+  "precision": "exact"
+ },
+ "Tower Hill, London": null,
+ "Trucksville, Luzerne Co.": {
+  "lat": 41.30399,
+  "lon": -75.93214,
+  "label": "Trucksville, Kingston Township, Luzerne County, Pennsylvania, 18708, United States",
+  "matched": "Trucksville, Luzerne Co.",
+  "precision": "exact"
+ },
+ "UPMC Altoona, Altoona, Blair County, Pennsylvania, USA": {
+  "lat": 40.96999,
+  "lon": -77.72788,
+  "label": "Pennsylvania, United States",
+  "matched": "Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "US District Court, Middle District of PA, Scranton": null,
+ "USS Princeton, Potomac River near Mount Vernon": null,
+ "Ulmet": {
+  "lat": 49.58461,
+  "lon": 7.45501,
+  "label": "Ulmet, Kusel-Altenglan, Landkreis Kusel, Rhineland-Palatinate, Germany",
+  "matched": "Ulmet",
+  "precision": "exact"
+ },
+ "Ulmet Lutheran parish, Kusel district (family of Erzweiler)": null,
+ "Union (now Hunlock) Twp.": {
+  "lat": 44.64221,
+  "lon": -85.39392,
+  "label": "Union Township, Grand Traverse County, Michigan, 49666, United States",
+  "matched": "Union Twp.",
+  "precision": "exact"
+ },
+ "Union (now Hunlock) Twp., Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Verona, Faribault Co., Minnesota": {
+  "lat": 43.70991,
+  "lon": -94.18768,
+  "label": "Verona Township, Faribault County, Minnesota, 56047, United States",
+  "matched": "Verona, Faribault Co., Minnesota",
+  "precision": "exact"
+ },
+ "Vincennes, Indiana Territory (Grouseland)": null,
+ "Virginia": {
+  "lat": 37.12322,
+  "lon": -78.49277,
+  "label": "Virginia, United States",
+  "matched": "Virginia",
+  "precision": "exact"
+ },
+ "Voluntown, New London Co., CT (FamilySearch; doubtful)": {
+  "lat": 41.35562,
+  "lon": -72.09978,
+  "label": "New London, Southeastern Connecticut Planning Region, Connecticut, 06320, United States",
+  "matched": "New London Co., CT",
+  "precision": "approximate"
+ },
+ "Walpack, Sussex Co., New Jersey (Dutch Reformed Church)": {
+  "lat": 41.13337,
+  "lon": -74.69304,
+  "label": "Sussex County, New Jersey, United States",
+  "matched": "Sussex Co., New Jersey",
+  "precision": "approximate"
+ },
+ "Ward 4, Wilkes-Barre": null,
+ "Ward 6, Kingston, Pa.": {
+  "lat": 41.26201,
+  "lon": -75.8972,
+  "label": "Kingston, Luzerne County, Pennsylvania, United States",
+  "matched": "Ward 6, Kingston, Pa.",
+  "precision": "exact"
+ },
+ "Washington Ave(?), Larksville Borough, Luzerne Co., PA (household of son Orange)": {
+  "lat": 41.26465,
+  "lon": -75.92496,
+  "label": "Larksville Borough Hall, 211, East State Street, Gregory, Larksville, Luzerne County, Pennsylvania, 18704, United States",
+  "matched": "Larksville Borough, Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "Washington Co., PA": {
+  "lat": 40.19438,
+  "lon": -80.25413,
+  "label": "Washington County, Pennsylvania, United States",
+  "matched": "Washington Co., PA",
+  "precision": "exact"
+ },
+ "Washington Twp., Wood Co., Ohio": {
+  "lat": 41.42565,
+  "lon": -83.75727,
+  "label": "Washington Township, Wood County, Ohio, 43565, United States",
+  "matched": "Washington Twp., Wood Co., Ohio",
+  "precision": "exact"
+ },
+ "Washington, D.C.": {
+  "lat": 38.8951,
+  "lon": -77.03638,
+  "label": "Washington, District of Columbia, United States",
+  "matched": "Washington, D.C.",
+  "precision": "exact"
+ },
+ "Washington, DC (ED 1-350, sheet 8B)": {
+  "lat": 38.8951,
+  "lon": -77.03638,
+  "label": "Washington, District of Columbia, United States",
+  "matched": "Washington, DC",
+  "precision": "exact"
+ },
+ "Wilkes-Barre": {
+  "lat": 41.24648,
+  "lon": -75.88173,
+  "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+  "matched": "Wilkes-Barre",
+  "precision": "exact"
+ },
+ "Wilkes-Barre General Hospital (his death)": {
+  "lat": 41.25827,
+  "lon": -75.86665,
+  "label": "Wilkes-Barre General Hospital, 575, North River Street, North End, Wilkes-Barre, Luzerne County, Pennsylvania, 18764, United States",
+  "matched": "Wilkes-Barre General Hospital",
+  "precision": "exact"
+ },
+ "Wilkes-Barre Ward 15": null,
+ "Wilkes-Barre Ward 15 (with her father Addison F. Pringle in 1930)": null,
+ "Wilkes-Barre, Luzerne Co., PA": {
+  "lat": 41.24648,
+  "lon": -75.88173,
+  "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+  "matched": "Wilkes-Barre, Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "Wilkes-Barre, Luzerne Co., Pa.": null,
+ "Wilkes-Barre, Luzerne County, PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne County, PA",
+  "precision": "approximate"
+ },
+ "Wilkes-Barre, Luzerne County, Pennsylvania": {
+  "lat": 41.24648,
+  "lon": -75.88173,
+  "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+  "matched": "Wilkes-Barre, Luzerne County, Pennsylvania",
+  "precision": "exact"
+ },
+ "Wilkes-Barre, PA": {
+  "lat": 41.24648,
+  "lon": -75.88173,
+  "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+  "matched": "Wilkes-Barre, PA",
+  "precision": "exact"
+ },
+ "Wilkes-Barre, Pa.": {
+  "lat": 41.24648,
+  "lon": -75.88173,
+  "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+  "matched": "Wilkes-Barre, Pa.",
+  "precision": "exact"
+ },
+ "Wilkes-Barre, Pennsylvania": {
+  "lat": 41.24648,
+  "lon": -75.88173,
+  "label": "Wilkes-Barre, Luzerne County, Pennsylvania, United States",
+  "matched": "Wilkes-Barre, Pennsylvania",
+  "precision": "exact"
+ },
+ "Williams Twp": {
+  "lat": 43.61088,
+  "lon": -84.10851,
+  "label": "Williams Township, Bay County, Michigan, United States",
+  "matched": "Williams Twp",
+  "precision": "exact"
+ },
+ "Williams Twp, Northampton Co.": {
+  "lat": 40.63161,
+  "lon": -75.22915,
+  "label": "Williams Township, Northampton County, Pennsylvania, United States",
+  "matched": "Williams Twp, Northampton Co.",
+  "precision": "exact"
+ },
+ "at sea (claim)": {
+  "lat": 12.14635,
+  "lon": -68.27606,
+  "label": "At Sea, Kaya C.E.B. Hellmund, Kralendijk, Bonaire, Netherlands",
+  "matched": "at sea",
+  "precision": "exact"
+ },
+ "burial given as Stonington, CT": null,
+ "came from Esopus (Ulster Co.), NY, to Plymouth, Luzerne Co., PA": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "to Plymouth, Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "her mother's home, Plymouth, PA": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, PA",
+  "precision": "approximate"
+ },
+ "his 'old red mansion house', Plymouth, Luzerne Co., PA": {
+  "lat": 41.24036,
+  "lon": -75.94464,
+  "label": "Plymouth, Luzerne County, Pennsylvania, 18651, United States",
+  "matched": "Plymouth, Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "home of a daughter, Lehman Twp., Luzerne Co., PA": {
+  "lat": 41.30246,
+  "lon": -76.03702,
+  "label": "Lehman Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Lehman Twp., Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "household of Henry J. Johnson": null,
+ "in household of Mary Alles (1940 census)": null,
+ "near Wilkes-Barre (road by his Huntington Twp. farm), PA": null,
+ "part of Plymouth Twp. now Jackson Twp., Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "probably Hunlock Twp., Luzerne Co., PA": {
+  "lat": 41.23888,
+  "lon": -76.10624,
+  "label": "Hunlock Township, Luzerne County, Pennsylvania, 18621, United States",
+  "matched": "Hunlock Twp., Luzerne Co., PA",
+  "precision": "exact"
+ },
+ "probably Plymouth Twp., Luzerne Co., PA": {
+  "lat": 41.17496,
+  "lon": -75.96952,
+  "label": "Luzerne County, Pennsylvania, United States",
+  "matched": "Luzerne Co., PA",
+  "precision": "approximate"
+ },
+ "probably Scranton/Dunmore": {
+  "lat": 41.41072,
+  "lon": -75.60581,
+  "label": "Number Seven Reservoir, Dunmore, Lackawanna County, Pennsylvania, United States",
+  "matched": "Scranton/Dunmore",
+  "precision": "exact"
+ },
+ "road near his farm, Huntington Twp., Luzerne Co., PA": {
+  "lat": 41.18166,
+  "lon": -76.23232,
+  "label": "Huntington Township, Luzerne County, Pennsylvania, United States",
+  "matched": "Huntington Twp., Luzerne Co., PA",
+  "precision": "approximate"
  }
 }
