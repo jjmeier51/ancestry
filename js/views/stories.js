@@ -10,11 +10,11 @@
       F.stories.forEach(s => {
         const people = (s.people || []).map(F.get).filter(Boolean);
         wrap.appendChild(el('article', { class: 'card story', id: 'story-' + s.id }, [
-          s.date ? el('span', { class: 'story-date', text: s.date }) : null,
           el('h2', { text: s.title }),
-          el('div', { class: 'story-body' }, String(s.body || '').split(/\n+/).filter(Boolean).map(t => el('p', { text: t.trim() }))),
+          s.date ? el('p', { class: s.date.length > 40 ? 'story-when muted small' : 'story-date', html: (s.date.length > 40 ? 'When: ' : '') + A.md(s.date) }) : null,
+          el('div', { class: 'story-body' }, String(s.body || '').split(/\n+/).filter(Boolean).map(t => el('p', { html: A.md(t.trim()) }))),
           s.image ? el('img', { src: s.image, alt: s.title, class: 'story-img' }) : null,
-          s.source ? el('p', { class: 'muted small story-source', text: 'Source: ' + s.source }) : null,
+          s.source ? el('p', { class: 'muted small story-source', html: 'Source: ' + A.md(s.source) }) : null,
           people.length ? el('div', { class: 'chip-row' }, people.map(p => el('a', { class: 'chip', href: `#/person/${encodeURIComponent(p.id)}` }, [A.avatar(p, 'xs'), el('b', { text: F.shortName(p) })]))) : null
         ]));
       });

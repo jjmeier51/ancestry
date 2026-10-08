@@ -4,7 +4,7 @@
   const F = window.Family, A = window.App, el = A.el, icon = A.icon, esc = A.esc;
 
   const eventLine = ev => ev ? [ev.date ? F.formatDate(ev.date) : '', ev.place || ''].filter(Boolean).join(' · ') : '';
-  const paragraphs = text => String(text || '').split(/\n+/).map(t => t.trim()).filter(Boolean).map(t => el('p', { text: t }));
+  const paragraphs = text => String(text || '').split(/\n+/).map(t => t.trim()).filter(Boolean).map(t => el('p', { html: A.md(t) }));
   const personLink = p => `#/person/${encodeURIComponent(p.id)}`;
   const section = (title, iconName, children, cls) => el('section', { class: 'card ' + (cls || '') }, [el('h2', { html: icon(iconName) + esc(title) })].concat(children));
   const relLabel = (q, kind) => q.sex === 'M' ? kind[0] : q.sex === 'F' ? kind[1] : kind[2];
@@ -64,13 +64,13 @@
       /* Summary / bio */
       if (p.summary || p.bio || p.notes) {
         main.appendChild(section('About', 'book', [
-          p.summary ? el('p', { class: 'lead', text: p.summary }) : null
+          p.summary ? el('p', { class: 'lead', html: A.md(p.summary) }) : null
         ].concat(paragraphs(p.bio), p.notes && p.notes !== p.bio ? [el('details', {}, [el('summary', { text: 'Notes from the family tree file' })].concat(paragraphs(p.notes)))] : [])));
       }
 
       /* Key facts */
       const facts = [];
-      const fact = (label, value) => { if (value) facts.push(el('div', { class: 'fact' }, [el('dt', { text: label }), el('dd', { text: value })])); };
+      const fact = (label, value) => { if (value) facts.push(el('div', { class: 'fact' }, [el('dt', { text: label }), el('dd', { html: A.md(value) })])); };
       fact('Born', eventLine(p.birth)); fact('Died', eventLine(p.death)); fact('Buried', eventLine(p.burial));
       fact('Occupation', p.occupation); fact('Religion', p.religion); fact('Education', p.education);
       (p.facts || []).forEach(f => fact(f.label, f.value));
@@ -92,18 +92,18 @@
       if (p.military && p.military.length) main.appendChild(section('Military service', 'military', p.military.map(m => el('div', { class: 'military' }, [
         el('b', { text: [m.branch, m.service].filter(Boolean).join(' · ') }),
         el('div', { class: 'muted', text: [m.rank, m.unit, m.theatre].filter(Boolean).join(' · ') }),
-        m.note ? el('p', { text: m.note }) : null
+        m.note ? el('p', { html: A.md(m.note) }) : null
       ]))));
 
       /* Notable & fun facts */
       if (p.notable) main.appendChild(section('Noteworthy', 'star', paragraphs(p.notable)));
-      if (p.funFacts && p.funFacts.length) main.appendChild(section('Fun facts', 'sparkle', [el('ul', { class: 'fun' }, p.funFacts.map(f => el('li', { text: f })))]));
+      if (p.funFacts && p.funFacts.length) main.appendChild(section('Fun facts', 'sparkle', [el('ul', { class: 'fun' }, p.funFacts.map(f => el('li', { html: A.md(f) })))]));
 
       /* Stories */
       const stories = F.storiesFor(p.id);
       if (stories.length) main.appendChild(section('Stories', 'book', stories.map(s => el('a', { class: 'story-teaser', href: `#/stories/${encodeURIComponent(s.id)}` }, [
         el('span', { class: 'story-date', text: s.date || '' }), el('b', { text: s.title }),
-        el('span', { class: 'muted', text: (s.body || '').slice(0, 160).replace(/\s+\S*$/, '') + '…' })
+        el('span', { class: 'muted', text: (s.body || '').replace(/\*\*/g, '').slice(0, 160).replace(/\s+\S*$/, '') + '…' })
       ]))));
 
       /* Media */
@@ -136,13 +136,13 @@
       side.appendChild(el('section', { class: 'card research conf-' + conf }, [
         el('h2', { html: icon('check') + 'Research status' }),
         el('div', { class: 'research-conf' }, [A.confBadge(p, true), el('span', { class: 'muted', text: F.confidenceDescription(conf) })]),
-        p.link && p.link.note ? el('p', { text: p.link.note }) : null,
-        p.corrections && p.corrections.length ? el('div', { class: 'correction' }, [el('h3', { text: 'Corrected from the Ancestry tree' })].concat(p.corrections.map(c => el('p', { class: 'small', text: (c.what === 'parents' ? 'Parents changed. ' : '') + (c.reason || '') })))) : null,
+        p.link && p.link.note ? el('p', { html: A.md(p.link.note) }) : null,
+        p.corrections && p.corrections.length ? el('div', { class: 'correction' }, [el('h3', { text: 'Corrected from the Ancestry tree' })].concat(p.corrections.map(c => el('p', { class: 'small', html: (c.what === 'parents' ? 'Parents changed. ' : '') + A.md(c.reason || '') })))) : null,
         p.source === 'research' ? el('p', { class: 'muted small', text: 'Added by research; this person is not in the Ancestry GEDCOM.' }) : null,
-        p.openQuestions && p.openQuestions.length ? el('div', {}, [el('h3', { text: 'Open questions' }), el('ul', { class: 'sources' }, p.openQuestions.map(q => el('li', { text: q })))]) : null,
-        p.mediaKnown && p.mediaKnown.length ? el('div', {}, [el('h3', { text: 'Known media not yet attached' }), el('ul', { class: 'sources' }, p.mediaKnown.map(q => el('li', { text: q })))]) : null,
-        p.sources && p.sources.length ? el('div', {}, [el('h3', { text: 'Sources' }), el('ul', { class: 'sources' }, p.sources.map(s => el('li', { html: /^https?:/.test(s) ? `<a href="${esc(s)}" target="_blank" rel="noopener">${esc(s)}</a>` : esc(s) })))]) : null,
-        log.length ? el('div', {}, [el('h3', { text: 'Research log' }), el('ul', { class: 'log' }, log.slice().reverse().map(e => el('li', {}, [el('time', { text: e.date || '' }), ' ', e.note || ''])))]) : null,
+        p.openQuestions && p.openQuestions.length ? el('div', {}, [el('h3', { text: 'Open questions' }), el('ul', { class: 'sources' }, p.openQuestions.map(q => el('li', { html: A.md(q) })))]) : null,
+        p.mediaKnown && p.mediaKnown.length ? el('div', {}, [el('h3', { text: 'Known media not yet attached' }), el('ul', { class: 'sources' }, p.mediaKnown.map(q => el('li', { html: A.md(q) })))]) : null,
+        p.sources && p.sources.length ? el('div', {}, [el('h3', { text: 'Sources' }), el('ul', { class: 'sources' }, p.sources.map(s => el('li', { html: A.md(s) })))]) : null,
+        log.length ? el('div', {}, [el('h3', { text: 'Research log' }), el('ul', { class: 'log' }, log.slice().reverse().map(e => el('li', {}, [el('time', { text: e.date || '' }), ' ', el('span', { html: A.md(e.note || '') })])))]) : null,
         !log.length && !(p.sources && p.sources.length) ? el('p', { class: 'muted', text: 'No research recorded yet.' }) : null
       ]));
 

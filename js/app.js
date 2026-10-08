@@ -21,7 +21,7 @@
   }
 
   const ICONS = {
-    tree: '<path d="M12 3v4M12 7a3 3 0 0 1 3 3v1H9v-1a3 3 0 0 1 3-3zM5 15h14M5 15v-3h14v3M5 15v4M19 15v4M12 15v4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>',
+    tree: '<path d="M12 2.5c-2.6 0-4.7 2-4.7 4.5 0 .4.1.8.2 1.2C5.5 8.7 4 10.3 4 12.2 4 14.4 5.8 16 8 16h8c2.2 0 4-1.6 4-3.8 0-1.9-1.5-3.5-3.5-4 .1-.4.2-.8.2-1.2 0-2.5-2.1-4.5-4.7-4.5z" stroke-linejoin="round"/><path d="M12 16v5.5M9 21.5h6M12 11.5l-2-2M12 13.5l2-2" stroke-linecap="round" stroke-linejoin="round"/>',
     people: '<circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0" stroke-linecap="round"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.5a5 5 0 0 1 6 5" stroke-linecap="round"/>',
     clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2" stroke-linecap="round" stroke-linejoin="round"/>',
     book: '<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5M8 7h7" stroke-linecap="round"/>',
@@ -53,6 +53,16 @@
     home: '<path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z" stroke-linejoin="round"/>',
     share: '<circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="M8.2 10.8l7.6-4.6M8.2 13.2l7.6 4.6" stroke-linecap="round"/>'
   };
+  /* Minimal inline markdown: **bold**, *italic*, [text](url), bare URLs. Output is escaped first. */
+  function md(text) {
+    let s = esc(text);
+    s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+    s = s.replace(/(^|[^"'>=\]])(https?:\/\/[^\s<)]+?)([.,;:)]*)(?=\s|$|<)/g, '$1<a href="$2" target="_blank" rel="noopener">$2</a>$3');
+    s = s.replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/(^|[\s(])\*([^*\n]+)\*(?=[\s.,;:)]|$)/g, '$1<em>$2</em>');
+    s = s.replace(/`([^`\n]+)`/g, '<code>$1</code>');
+    return s;
+  }
   const icon = (name, cls) => `<svg class="icon${cls ? ' ' + cls : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">${ICONS[name] || ''}</svg>`;
   const iconEl = (name, cls) => { const t = document.createElement('span'); t.innerHTML = icon(name, cls); return t.firstChild; };
 
@@ -285,7 +295,7 @@
     }
   }
 
-  window.App = { esc, el, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, TABS };
+  window.App = { esc, el, md, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, TABS };
 
   views['404'] = { title: () => 'Not found', render(c) { c.appendChild(el('div', { class: 'wrap empty' }, [el('h1', { text: 'Page not found' }), el('a', { class: 'btn primary', href: '#/', text: 'Back to the tree' })])); } };
 
