@@ -15,8 +15,8 @@
     "place": "Southold, Suffolk Co., NY"
   },
   "tags": [],
-  "summary": "John's 10th-great-grandfather; Southold landowner whose children's births are in his family Bible.",
-  "bio": "Southold landowner; his children's births are recorded in his family Bible (Akerly). WikiTree's 'born Tharston' is uncertain; Akerly says 'in England?', and the Hingham records point to a birth there. After his father's death his mother Bridget married William Wells, who became guardian of the Tuthill children; his son John Jr. later married Wells's daughter Mehitable. Henry Tuthill 'the Justice' (b. 1665), who married Bethia Horton, granddaughter of William Wells, and was great-great-grandfather of First Lady Anna Symmes Harrison, is placed in this family by the relationship math (Anna is 4C7R via Tuthill). Wife not named in project files; the deep-dive report mentions 'Tuthill, King and Wells relationships' and Round 3 'Browne/King' ancestors, which suggests a King wife somewhere in this branch (not specified).\n\nAkerly (1898) gives John's birth as 16 July 1635 ('in England?') and his death at Southold on 12 Oct 1717 ([R4-S1]). He married first Deliverance King, daughter of William and Dorothy (Hayne?) King, baptized at Salem 1641 ('1641:31:8'), who died at Southold aged 49. He married second, on 28 May 1690, Sarah, probably the widow of Thomas Young and daughter of John Frost, who died 8 Nov 1727. His children's births were recorded in his Bible and in Liber E of the Southold town records. The children were John (b. 14 Feb 1658), Elizabeth (1661, m. William Wells Jr.), Henry (1665), Hannah (1667, m. Joshua Wells), Abigail (1670), Dorothy (1674), Deliverance (1677), Daniel (1679), Nathaniel (1683, d. Antigua 1705), and by the second wife Mary (d. young) ([R4-S1]). He and his sister Elizabeth were wards of their stepfather William Wells.",
+  "summary": "Southold landowner (1635–1717) who recorded his children's births in his family Bible, husband of Deliverance King; John's 10th-great-grandfather.",
+  "bio": "John Tuthill was born on 16 July 1635, probably in England, though the Hingham records point to a birth there, and died at Southold, Suffolk Co., NY, on 12 October 1717. After his father's death his mother Bridget married William Wells, who became guardian of John and his sister Elizabeth. He became a landowner at Southold, and the births of his children were recorded in his family Bible and in the Southold town records.\n\nHe married first Deliverance King, daughter of William and Dorothy King, who was baptized at Salem in 1641 and died at Southold aged 49. On 28 May 1690 he married second Sarah, probably the widow of Thomas Young and a daughter of John Frost, who died on 8 November 1727. His children were John, born on 14 February 1658, who married Mehitable, the daughter of his stepfather William Wells; Elizabeth, born in 1661, who married William Wells Jr.; Henry, born in 1665; Hannah, born in 1667, who married Joshua Wells; Abigail (1670); Dorothy (1674); Deliverance (1677); Daniel (1679); Nathaniel, born in 1683, who died at Antigua in 1705; and, by his second wife, Mary, who died young. His son Henry, known as the Justice, married Bethia Horton, a granddaughter of William Wells, and was the great-great-grandfather of First Lady Anna Symmes Harrison. John Tuthill is John's 10th-great-grandfather.",
   "sources": [
     "Akerly (1898)",
     "WikiTree Tuthill profiles",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608055956.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -75,5 +79,6 @@
       "place": "Southold",
       "description": "Married Sarah, probably widow of Thomas Young and daughter of John Frost; she died 8 Nov 1727 [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Southold landowner; his children's births are recorded in his family Bible (Akerly). WikiTree's 'born Tharston' is uncertain; Akerly says 'in England?', and the Hingham records point to a birth there. After his father's death his mother Bridget married William Wells, who became guardian of the Tuthill children; his son John Jr. later married Wells's daughter Mehitable. Henry Tuthill 'the Justice' (b. 1665), who married Bethia Horton, granddaughter of William Wells, and was great-great-grandfather of First Lady Anna Symmes Harrison, is placed in this family by the relationship math (Anna is 4C7R via Tuthill). Wife not named in project files; the deep-dive report mentions 'Tuthill, King and Wells relationships' and Round 3 'Browne/King' ancestors, which suggests a King wife somewhere in this branch (not specified).\n\nAkerly (1898) gives John's birth as 16 July 1635 ('in England?') and his death at Southold on 12 Oct 1717 ([R4-S1]). He married first Deliverance King, daughter of William and Dorothy (Hayne?) King, baptized at Salem 1641 ('1641:31:8'), who died at Southold aged 49. He married second, on 28 May 1690, Sarah, probably the widow of Thomas Young and daughter of John Frost, who died 8 Nov 1727. His children's births were recorded in his Bible and in Liber E of the Southold town records. The children were John (b. 14 Feb 1658), Elizabeth (1661, m. William Wells Jr.), Henry (1665), Hannah (1667, m. Joshua Wells), Abigail (1670), Dorothy (1674), Deliverance (1677), Daniel (1679), Nathaniel (1683, d. Antigua 1705), and by the second wife Mary (d. young) ([R4-S1]). He and his sister Elizabeth were wards of their stepfather William Wells."
 }

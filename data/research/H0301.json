@@ -10,8 +10,8 @@
     "Senator John Smith of New York"
   ],
   "tags": [],
-  "summary": "U.S. Rep. 1800–04, U.S. Senator from New York 1804–13, major general of NY militia; John's 3rd cousin 8x removed via Bull Smith.",
-  "bio": "Path: Bull Smith → Daniel → Daniel 2d (m. Hannah Brewster) → Mary (m. Judge William Smith of Mastic, 'Tangier' Smith family) → John.\n\nPath (Pelletreau [R4-S1]): Bull Smith -> Daniel -> Daniel 2d -> Mary (b. 25 May 1735, m. Judge William Smith of the Tangier family) -> John: 3rd cousin 8 times removed. Pelletreau adds that for his third wife he married the widow of Henry Nicoll, a daughter of Gen. Nathaniel Woodhull, so he became stepfather of Eliza W. Nicoll, mother of Judge J. Lawrence Smith.",
+  "summary": "General John Smith of New York, congressman 1800–04, United States senator 1804–13 and major general of militia; John's 3rd cousin 8 times removed through Bull Smith.",
+  "bio": "John Smith was born on 12 February 1752, the son of Judge William Smith of Mastic, of the \"Tangier\" Smith family, and Mary Smith, who was born on 25 May 1735. Through his mother he descended from Bull Smith of Smithtown: Bull Smith's son Daniel was the father of Daniel Smith 2d, who married Hannah Brewster, and their daughter Mary was the General's mother. That makes him a 3rd cousin 8 times removed of John Meier.\n\nHe served in the United States House of Representatives from 1800 to 1804 and in the United States Senate for New York from 1804 to 1813, and was a major general of the New York militia. For his third wife he married the widow of Henry Nicoll, a daughter of General Nathaniel Woodhull, and so became stepfather to Eliza W. Nicoll, the mother of Judge J. Lawrence Smith. He died on 12 August 1816.",
   "sources": [
     "Pelletreau App. p. 491",
     "jrm Needham I2596",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0301.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -60,5 +64,6 @@
       "people": [],
       "url": "https://commons.wikimedia.org/wiki/File:John_SmithNY.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Path: Bull Smith → Daniel → Daniel 2d (m. Hannah Brewster) → Mary (m. Judge William Smith of Mastic, 'Tangier' Smith family) → John.\n\nPath (Pelletreau [R4-S1]): Bull Smith -> Daniel -> Daniel 2d -> Mary (b. 25 May 1735, m. Judge William Smith of the Tangier family) -> John: 3rd cousin 8 times removed. Pelletreau adds that for his third wife he married the widow of Henry Nicoll, a daughter of Gen. Nathaniel Woodhull, so he became stepfather of Eliza W. Nicoll, mother of Judge J. Lawrence Smith."
 }

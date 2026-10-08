@@ -8,8 +8,8 @@
   "tags": [
     "military"
   ],
-  "summary": "Probably John's 3rd cousin 4x removed; Civil War musician, 149th PA 'Bucktails', 1862-65.",
-  "bio": "Andrew Croop (b. 1843) served as musician, Co. F, 149th PA ('Bucktails'), 22 Aug 1862 - 24 Jun 1865, 'to the close of the war'; later 15 years a school director. Bradsby names brothers Alvin and Simon as also serving.\n\nBradsby says Andrew, Hiram's brother, was a shoemaker by trade. In September 1866 he married Sophia Bonham, daughter of Joseph and Christine Bonham, and they had six children, two of whom (George M. and Maud) were living in 1893. In 1876 he moved from his father's farm to an 80-acre place of his own, and he ran a portable sawmill. He belonged to the G.A.R. and Jr. O.U.A.M. and served as school director for fifteen years, as well as secretary of the school board and township clerk ([R4-S1]). In July 1900 he was a candidate for Luzerne County jury commissioner ([R4-S2]).",
+  "summary": "Civil War musician in the 149th Pennsylvania 'Bucktails', later a shoemaker, farmer, sawmill operator and long-serving school director; probably John's 3rd cousin 4 times removed.",
+  "bio": "Andrew Croop was born on 5 August 1843 in Union, now Hunlock, Township, Luzerne County, Pennsylvania, a brother of Hiram Croop. A shoemaker by trade, he enlisted on 22 August 1862 as a musician in Company F of the 149th Pennsylvania Infantry, the 'Bucktails', and served until 24 June 1865, 'to the close of the war'. His brothers Alvin and Simon also served.\n\nIn September 1866 he married Sophia Bonham, a daughter of Joseph and Christine Bonham; they had six children, of whom two, George M. and Maud, were living in 1893. In 1876 he moved from his father's farm to an eighty-acre place of his own, and he also ran a portable sawmill. He belonged to the Grand Army of the Republic and the Junior Order of United American Mechanics, served fifteen years as a school director as well as secretary of the school board and township clerk, and in July 1900 was a candidate for Luzerne County jury commissioner.",
   "military": [
     {
       "branch": "US Army (Pennsylvania Volunteers)",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0210.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -70,5 +74,6 @@
       "place": "Luzerne Co.",
       "description": "'Andrew Croop, Hunlock' was listed among the Republican candidates for jury commissioner. [R4-S2]"
     }
-  ]
+  ],
+  "researchNotes": "Andrew Croop (b. 1843) served as musician, Co. F, 149th PA ('Bucktails'), 22 Aug 1862 - 24 Jun 1865, 'to the close of the war'; later 15 years a school director. Bradsby names brothers Alvin and Simon as also serving.\n\nBradsby says Andrew, Hiram's brother, was a shoemaker by trade. In September 1866 he married Sophia Bonham, daughter of Joseph and Christine Bonham, and they had six children, two of whom (George M. and Maud) were living in 1893. In 1876 he moved from his father's farm to an 80-acre place of his own, and he ran a portable sawmill. He belonged to the G.A.R. and Jr. O.U.A.M. and served as school director for fifteen years, as well as secretary of the school board and township clerk ([R4-S1]). In July 1900 he was a candidate for Luzerne County jury commissioner ([R4-S2])."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1901, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives Anna a birth date of 18 Sep 1900 in Plymouth Twp, from a Pennsylvania births index ('Annia Pringle'). It shows her still single and living with her father, Addison F. Pringle, in Wilkes-Barre's 15th ward in 1930, and in the same house in 1935 and 1940 ([R4-S1]). No marriage or death has been found.",
+  "summary": "Daughter of Addison F. Pringle and Catherine Heffernan, still at home with her father in Wilkes-Barre in 1940; John's great-grand-aunt, sister of Florence Pringle.",
+  "bio": "Anna Theresa Pringle was a daughter of Addison F. Pringle and Catherine E. Heffernan and a sister of John's great-grandmother Florence Pringle. She was born in Plymouth Township, Luzerne County, about 1901; a Pennsylvania birth record gives 18 September 1900. She grew up in the family household at Plymouth and Larksville, and in 1930 she was still single and living with her father in Wilkes-Barre, where the two were still together in 1935 and 1940.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
     "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0107.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -56,5 +60,6 @@
       "label": "FamilySearch ID",
       "value": "LHHT-L54"
     }
-  ]
+  ],
+  "researchNotes": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1901, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives Anna a birth date of 18 Sep 1900 in Plymouth Twp, from a Pennsylvania births index ('Annia Pringle'). It shows her still single and living with her father, Addison F. Pringle, in Wilkes-Barre's 15th ward in 1930, and in the same house in 1935 and 1940 ([R4-S1]). No marriage or death has been found."
 }

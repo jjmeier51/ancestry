@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's maternal 4th great-grandmother, of Bisaccia.",
-  "bio": "Mother of Savino Giannetta per Bisaccia Matrimoni 1867 act 17. The transcriber marked the surname 'Macchia(?)' as an uncertain reading of 19th-century handwriting.\n\nThe FamilySearch tree spells her surname Macchia, matching Round 3's tentative reading 'Macchia(?)' in the 1867 act ([R4-S1]). It gives her birth as 8 Apr 1812 and her death as 9 May 1880 in Bisaccia, and names her parents as Nicola Macchia (c.1782–1817) and Grazia Maria Gallicchio (c.1785–1855) ([R4-S1], [R4-S2]). Widowed in 1848, she remarried Donato Sena on 28 Sep 1850. One FS source is a FamilySearch-indexed Avellino record (ark 1:1:6J4L-ZFYY) that groups her with Savino, Angelamaria Fede and 'Francesco': this is the 1867 marriage act of her son.",
+  "summary": "Of Bisaccia (1812–1880), mother of Savino Giannetta and later the wife of Donato Sena; John's maternal 4th-great-grandmother.",
+  "bio": "Lucia Macchia was born at Bisaccia, in Avellino, on 8 April 1812, the daughter of Nicola Macchia (about 1782–1817) and Grazia Maria Gallicchio (about 1785–1855). Her surname is an uncertain reading of 19th-century handwriting in the 1867 marriage act of her son Savino Giannetta, which names her as his mother. Widowed in 1848, she married Donato Sena at Bisaccia on 28 September 1850. She died at Bisaccia on 9 May 1880.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn",
     "notes/round3/italian_origins.md 3",
@@ -39,6 +39,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0342.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -56,5 +60,6 @@
       "place": "Bisaccia",
       "description": "Per FS tree; Donato Sena c.1800-1861. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Mother of Savino Giannetta per Bisaccia Matrimoni 1867 act 17. The transcriber marked the surname 'Macchia(?)' as an uncertain reading of 19th-century handwriting.\n\nThe FamilySearch tree spells her surname Macchia, matching Round 3's tentative reading 'Macchia(?)' in the 1867 act ([R4-S1]). It gives her birth as 8 Apr 1812 and her death as 9 May 1880 in Bisaccia, and names her parents as Nicola Macchia (c.1782–1817) and Grazia Maria Gallicchio (c.1785–1855) ([R4-S1], [R4-S2]). Widowed in 1848, she remarried Donato Sena on 28 Sep 1850. One FS source is a FamilySearch-indexed Avellino record (ark 1:1:6J4L-ZFYY) that groups her with Savino, Angelamaria Fede and 'Francesco': this is the 1867 marriage act of her son."
 }

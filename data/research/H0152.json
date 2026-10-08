@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 1st cousin 5x removed; 'the leading merchant' at Hunlock Creek.",
-  "bio": "Son of widow Hulda; 21 in 1850. Became 'the leading merchant' at Hunlock Creek, with a store near the railroad station - the settlement where Frederick Croup had farmed.\n\nFamilySearch tree KL4L-RDD calls him George Ransom Pringle, born April 1829 at Plymouth to Samuel D. Pringle and Hulda Ives. He married Mary C. Stookey (1842-1898), and their children were Ida A. (b. 1861) and Henry A. (b. Beach Haven 9 Jun 1864, d. 1940). He was in Plymouth Twp. in 1870 and died in Hunlock Twp. in April 1880 ([R4-S1]). The tree attaches an entry in the 1880 PA mortality schedule, which counts deaths in the census year ending 31 May 1880. That is a contemporary record of his death and fits Munsell's 'leading merchant' at Hunlock Creek.",
+  "summary": "Merchant at Hunlock Creek (1829–1880), son of Samuel D. Pringle and Hulda Ives; probably John's 1st cousin 5 times removed.",
+  "bio": "George Ransom Pringle was born in April 1829 at Plymouth, Luzerne Co., PA, the son of Samuel D. Pringle and Hulda Ives; in 1850, aged 21, he was living with his widowed mother. He married Mary C. Stookey (1842–1898), and their children were Ida A., born in 1861, and Henry A., born at Beach Haven on 9 June 1864, who lived until 1940. He became \"the leading merchant\" at Hunlock Creek, with a store near the railroad station, in the settlement where Frederick Croup had once farmed. He was in Plymouth Twp. in 1870 and died in Hunlock Twp. in April 1880. He is probably John's 1st cousin 5 times removed.",
   "sources": [
     "Bradsby p.584",
     "Munsell 1880: https://archive.org/details/historyofluzerne00muns",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0152.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -69,5 +73,6 @@
       "found": "FS: 'Charles Evans Cemetery, Reading, Berks Co.'",
       "assessment": "Burial at Reading is unlikely for a man who died in Hunlock Twp. The Find a Grave index entry may belong to another George R. Pringle. Unverified."
     }
-  ]
+  ],
+  "researchNotes": "Son of widow Hulda; 21 in 1850. Became 'the leading merchant' at Hunlock Creek, with a store near the railroad station - the settlement where Frederick Croup had farmed.\n\nFamilySearch tree KL4L-RDD calls him George Ransom Pringle, born April 1829 at Plymouth to Samuel D. Pringle and Hulda Ives. He married Mary C. Stookey (1842-1898), and their children were Ida A. (b. 1861) and Henry A. (b. Beach Haven 9 Jun 1864, d. 1940). He was in Plymouth Twp. in 1870 and died in Hunlock Twp. in April 1880 ([R4-S1]). The tree attaches an entry in the 1880 PA mortality schedule, which counts deaths in the census year ending 31 May 1880. That is a contemporary record of his death and fits Munsell's 'leading merchant' at Hunlock Creek."
 }

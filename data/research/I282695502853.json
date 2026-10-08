@@ -9,8 +9,8 @@
     "Martin(us) HEITZLER (Ancestry tree)"
   ],
   "tags": [],
-  "summary": "Possible 7th great-grandfather of John; Wehrlehof farmer (correct name Mathias Haizler).",
-  "bio": "The tree's 'Martinus Heitzler + Othilia Schirk, both d. 1728' corresponds to Mathias Haizler and Ottilia Schirk, who lived at the Wehrlehof in Oberried-Vörlinsbach in 1723–24, where children Christian and Eva were born in 1724 (GEDBAS 1262183134/1262183135). The later Wehrlehof Heitzlers (Andreas b. c.1710 × Ottilia Maier; Andreas b. 1731 × Magdalena Maier; Joseph × Maria Rombach) had 'grown poor' and lived in the farm's Stöckle. Correct 'Martinus' to Mathias.",
+  "summary": "Farmer at the Wehrlehof in Oberried near Freiburg, properly named Mathias Haizler, who died in 1728; possibly John's 7th-great-grandfather.",
+  "bio": "The man recorded in the family as Martinus Heitzler appears in the local records of the Dreisam valley as Mathias Haizler. Born in 1699 at Kirchzarten near Freiburg im Breisgau in Baden, he and his wife Ottilia Schirk were living at the Wehrlehof farm in Oberried-Vörlinsbach in 1723 and 1724, where their children Christian and Eva were born in 1724. Both husband and wife died in 1728, Mathias in June of that year at the Wehrlebauernhof.\n\nLater Heitzlers of the Wehrlehof, Andreas (born about 1710) with his wife Ottilia Maier, Andreas (born 1731) with Magdalena Maier, and Joseph with Maria Rombach, had 'grown poor' and lived in the farm's Stöckle. Mathias is possibly John's 7th-great-grandfather; the identification rests on the match of names and dates.",
   "residences": [
     {
       "date": "1723",
@@ -52,6 +52,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695502853.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "The tree's 'Martinus Heitzler + Othilia Schirk, both d. 1728' corresponds to Mathias Haizler and Ottilia Schirk, who lived at the Wehrlehof in Oberried-Vörlinsbach in 1723–24, where children Christian and Eva were born in 1724 (GEDBAS 1262183134/1262183135). The later Wehrlehof Heitzlers (Andreas b. c.1710 × Ottilia Maier; Andreas b. 1731 × Magdalena Maier; Joseph × Maria Rombach) had 'grown poor' and lived in the farm's Stöckle. Correct 'Martinus' to Mathias."
 }

@@ -24,9 +24,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816158.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Anna Giovanna was born on 5 June 1666, daughter of Giuseppe Maletta and Vincenza Castagnaro ([R4-S1]). She married Antonino Cicco on 5 October 1681, aged 15 ([R4-S2]).",
+  "bio": "Anna Giovanna Maletta was born on 5 June 1666 at San Mango di Aquino, Catanzaro, in Calabria, a daughter of Giuseppe Maletta and Vincenza Castagnaro. She married Antonino Cicco on 5 October 1681, when she was fifteen. She was still living in 1713 and died at San Mango. She was John's 10th-great-grandmother.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -34,5 +38,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1653-1672 (Book 1), image 44, p. 43, no. 12; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1653-1672'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1670-1687 (Book 2), image 124, p. 131; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Anna Giovanna was born on 5 June 1666, daughter of Giuseppe Maletta and Vincenza Castagnaro ([R4-S1]). She married Antonino Cicco on 5 October 1681, aged 15 ([R4-S2]).",
+  "summary": "Of San Mango di Aquino, married Antonino Cicco at fifteen in 1681; John's 10th-great-grandmother."
 }

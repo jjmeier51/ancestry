@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd cousin 4x removed (Branch 3).",
-  "bio": "Killed in a mine at Cripple Creek, Colorado, in 1901.",
+  "summary": "Mine worker killed at Cripple Creek, Colorado, in 1901; John's 2nd cousin 4x removed.",
+  "bio": "Richard Heffernan was born about 1863. He was killed in a mine at Cripple Creek, Colorado, in 1901.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0133.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Killed in a mine at Cripple Creek, Colorado, in 1901."
 }

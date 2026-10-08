@@ -10,8 +10,8 @@
     "Suzanne Delatour"
   ],
   "tags": [],
-  "summary": "John's 9th-great-grandmother; Huguenot of Cozes, Saintonge.",
-  "bio": "Born 9 Dec, baptized 19 Dec 1666 at Cozes, daughter of 'the deceased Daniel Delatour and Jeanne Meurail' (Garner p.69; probable). Wife of André Lamoureux; mother of Daniel (Bristol 1695).\n\nThe French Church of New York register has a 'Susanne de la tour' as godmother in May 1700, the month André Lamoureux is first recorded in New York ([R4-S1]). This is probably André's wife, using her maiden name in the French manner. In 1720 a 'Susanne la Moureux' was godmother to her grandson Daniel; the Davenport genealogy treats this as her last appearance ([R4-S1], [R4-S2]).",
+  "summary": "Huguenot of Cozes in Saintonge, born 1666, wife of André Lamoureux and mother of Daniel; John's 9th-great-grandmother.",
+  "bio": "Suzanne La Tour was born on 9 December 1666 at Cozes in Saintonge, in what is now Charente-Maritime, France, and was baptized there on 19 December, probably the daughter of the late Daniel Delatour and Jeanne Meurail. A Huguenot, she became the wife of André Lamoureux and the mother of Daniel, who was born at Bristol in 1695.\n\nIn May 1700, the month André Lamoureux is first recorded in New York, a 'Susanne de la tour' stood as godmother at the French Church there; this was probably Suzanne, using her maiden name in the French manner. On 29 May 1720 a 'Susanne la Moureux' was godmother to her grandson Daniel at the same church, which is the last record of her.",
   "sources": [
     "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5 p.69",
     "WikiTree La_Tour-2: https://www.wikitree.com/wiki/La_Tour-2",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0091.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -51,5 +55,6 @@
       "place": "French Church, New York",
       "description": "'Susanne la Moureux' godmother to Daniel, son of Daniel and Jeanne Lamoureux [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Born 9 Dec, baptized 19 Dec 1666 at Cozes, daughter of 'the deceased Daniel Delatour and Jeanne Meurail' (Garner p.69; probable). Wife of André Lamoureux; mother of Daniel (Bristol 1695).\n\nThe French Church of New York register has a 'Susanne de la tour' as godmother in May 1700, the month André Lamoureux is first recorded in New York ([R4-S1]). This is probably André's wife, using her maiden name in the French manner. In 1720 a 'Susanne la Moureux' was godmother to her grandson Daniel; the Davenport genealogy treats this as her last appearance ([R4-S1], [R4-S2])."
 }

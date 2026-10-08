@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0442.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -35,7 +39,7 @@
       "description": "Married in the afternoon by Rev. Silas Constant, who had spent the previous day at 'Mr. Davenport's'. [R4-S1]"
     }
   ],
-  "bio": "The journal of the Rev. Silas Constant, published in 1903, records that on 3 Sep 1783, after a day at 'Mr. Davenport's' in Smith's Clove, he 'married David Prindle and Susanna Lamoreux'. His marriage list for 1783 gives the same couple and date ([R4-S1]). The editor's note identifies Susanna as a daughter of John Lamoreux Sr. of Smith's Clove, named in his will. That will (dated 31 Dec 1808 in one note, 1801 in another) names children Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac. The editor also suggests David Prindle was 'probably of the Waterbury family of that name' ([R4-S1]).\n\nGiles & Franklin give her children as Elizabeth (m. Miles Davenport), Minerva (m. ___ Underwood) and Frances (m. Freeman Polk), and note that David was also called 'Pringle-Miller' ([R4-S2]). Constant also married her sister Phebe to James Prendle on 19 May 1785 ([R4-S1]).",
+  "bio": "Susannah Lamoreux was a daughter of John Lamoreux Sr. of Smith's Clove, Orange County, New York, whose will names his children Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac. On 3 September 1783 the Rev. Silas Constant, after a day at \"Mr. Davenport's\" in Smith's Clove, married her to David Prindle, who was probably of the Waterbury family of that name and was also known as \"Pringle-Miller\".\n\nHer children were Elizabeth, who married Miles Davenport, Minerva, who married an Underwood, and Frances, who married Freeman Polk. Her sister Phebe was married by the same minister to James Prendle on 19 May 1785.",
   "conflicts": [
     {
       "field": "marriage.date",
@@ -67,5 +71,7 @@
         "H0166"
       ]
     }
-  ]
+  ],
+  "researchNotes": "The journal of the Rev. Silas Constant, published in 1903, records that on 3 Sep 1783, after a day at 'Mr. Davenport's' in Smith's Clove, he 'married David Prindle and Susanna Lamoreux'. His marriage list for 1783 gives the same couple and date ([R4-S1]). The editor's note identifies Susanna as a daughter of John Lamoreux Sr. of Smith's Clove, named in his will. That will (dated 31 Dec 1808 in one note, 1801 in another) names children Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac. The editor also suggests David Prindle was 'probably of the Waterbury family of that name' ([R4-S1]).\n\nGiles & Franklin give her children as Elizabeth (m. Miles Davenport), Minerva (m. ___ Underwood) and Frances (m. Freeman Polk), and note that David was also called 'Pringle-Miller' ([R4-S2]). Constant also married her sister Phebe to James Prendle on 19 May 1785 ([R4-S1]).",
+  "summary": "Daughter of John Lamoreux Sr. of Smith's Clove who married David Prindle in 1783."
 }

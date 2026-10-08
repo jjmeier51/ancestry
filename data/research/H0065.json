@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd great-uncle (brother of Anna C. Jones) and husband of Agnes McAvoy.",
+  "summary": "Mine headman of Plymouth, Pa., brother of Anna C. Jones McGuire and husband of Agnes McAvoy; John's 3rd great-uncle.",
   "sources": [
     "FamilySearch",
     "notes/round3/irish_pa.md",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0065.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -83,5 +87,6 @@
       "value": "L85M-P45"
     }
   ],
-  "bio": "In Dec 1914 Joseph S. Jones was 33, a headman, born and living in Plymouth; his parents Edward (born Wales) and Margaret (\"Kiver\") were both dead ([R4-S1]). The docket thus proves he was a son of Edward F. Jones and Margaret McIver and a brother of Anna C. (Jones) McGuire. FS dates his birth to 1883 ([R4-S2])."
+  "bio": "Joseph S. Jones was born at Plymouth, Pa., in 1883 according to the records, a son of Edward F. Jones, who was born in Wales, and Margaret McIver. He was a brother of Anna C. (Jones) McGuire. When he married Agnes McAvoy at Plymouth on 29 December 1914 he was 33, working as a headman in the mines, and both his parents were dead. The couple lived at Larksville in 1920 and were back in Plymouth by 1930, where they remained in 1940.",
+  "researchNotes": "In Dec 1914 Joseph S. Jones was 33, a headman, born and living in Plymouth; his parents Edward (born Wales) and Margaret (\"Kiver\") were both dead ([R4-S1]). The docket thus proves he was a son of Edward F. Jones and Margaret McIver and a brother of Anna C. (Jones) McGuire. FS dates his birth to 1883 ([R4-S2])."
 }

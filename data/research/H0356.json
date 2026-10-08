@@ -12,8 +12,8 @@
     "Charles Petriello"
   ],
   "tags": [],
-  "summary": "John's great-granduncle.",
-  "bio": "b. 13 Nov 1906 at Pittston (so the family briefly lived in Luzerne Co.); 'Charlie' (1) in 1910 - age as transcribed; listed as 'Chas' and/or 'Ralph' in 1920; d. 6 Dec 1971, Miami.\n\nCharles married Elsie Jaworski, a 21-year-old Polish-American waitress, in September 1934. On the license he gave his birthplace as Scranton, not Pittston ([R4-S1]). In 1940 the couple rented one of the units at 1028 Bunker Hill Street beside his brothers James and Nicholas; he was a laborer doing outside work at the mines ([R4-S2]).",
+  "summary": "Scranton mine laborer, born at Pittston in 1906, who died in Miami in 1971; John's great-granduncle.",
+  "bio": "Charles Thomas Petrillo, known as Charlie, was born on 13 November 1906 at Pittston, Luzerne County, Pennsylvania, so the family briefly lived in Luzerne County; later in life he gave his birthplace as Scranton. He appears in the censuses of 1910 and 1920 under the names Charlie, Chas and Ralph.\n\nIn September 1934 he married Elsie Jaworski, a 21-year-old Polish-American waitress, in Scranton. In 1940 the couple rented one of the units in the family's building on Bunker Hill Street in Scranton, beside his brothers James and Nicholas, and Charles worked as a laborer doing outside work at the mines. He died in Miami, Florida, on 6 December 1971. He is John's great-granduncle.",
   "sources": [
     "notes/round2/italian_gaps.md 4",
     "1910 and 1920 census images",
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0356.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -65,5 +69,6 @@
       "found": "Scranton (1934 marriage license)",
       "assessment": "Unresolved; the license is self-reported. Pittston comes from the FS tree."
     }
-  ]
+  ],
+  "researchNotes": "b. 13 Nov 1906 at Pittston (so the family briefly lived in Luzerne Co.); 'Charlie' (1) in 1910 - age as transcribed; listed as 'Chas' and/or 'Ralph' in 1920; d. 6 Dec 1971, Miami.\n\nCharles married Elsie Jaworski, a 21-year-old Polish-American waitress, in September 1934. On the license he gave his birthplace as Scranton, not Pittston ([R4-S1]). In 1940 the couple rented one of the units at 1028 Bunker Hill Street beside his brothers James and Nicholas; he was a laborer doing outside work at the mines ([R4-S2])."
 }

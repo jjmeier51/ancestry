@@ -9,8 +9,8 @@
     "Mary Stacher"
   ],
   "tags": [],
-  "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Maria Magdalena (Grub) Ihrig/Stecher (1759-1801); named 'Mary (m. George Stacher)' in her father's will.\n\nFamilySearch gives Maria Magdalena the dates 6 May 1759 to 27 Dec 1801. It names her two husbands as Johannes Ihrie (1754-1788), whom she married about 1778, and George John Stecher (1764-1830), married about 1790, and has children born at Easton from 1779. A Pennsylvania cemetery record calls her 'Maria-Magdalena Grube Stecher' ([R4-S1]).",
+  "summary": "Daughter of the Grub family of Williams Township, Pennsylvania, twice married, to Johannes Ihrie and George Stecher; John's 5th-great-grand-aunt.",
+  "bio": "Maria Magdalena Grub was born on 6 May 1759 in Williams Twp and died on 27 December 1801. She married first, about 1778, Johannes Ihrie (1754–1788), and second, about 1790, George John Stecher (1764–1830); her children were born at Easton from 1779. Her father's will names her as \"Mary (m. George Stacher)\", and a Pennsylvania cemetery record calls her Maria-Magdalena Grube Stecher. She was John's 5th-great-grand-aunt.",
   "sources": [
     "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
     "[R4-S1] FamilySearch published tree, Maria Magdalena Grub (26KF-6RN), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/26KF-6RN"
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0203.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -80,5 +84,6 @@
       "label": "FamilySearch ID",
       "value": "26KF-6RN"
     }
-  ]
+  ],
+  "researchNotes": "Maria Magdalena (Grub) Ihrig/Stecher (1759-1801); named 'Mary (m. George Stacher)' in her father's will.\n\nFamilySearch gives Maria Magdalena the dates 6 May 1759 to 27 Dec 1801. It names her two husbands as Johannes Ihrie (1754-1788), whom she married about 1778, and George John Stecher (1764-1830), married about 1790, and has children born at Easton from 1779. A Pennsylvania cemetery record calls her 'Maria-Magdalena Grube Stecher' ([R4-S1])."
 }

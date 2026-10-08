@@ -17,8 +17,8 @@
     "Ven Known Meier (Ancestry tree placeholder for Henery Meier's wife)"
   ],
   "tags": [],
-  "summary": "John's 4th great-grandmother; an orphan born illegitimately in Munzingen c.1798.",
-  "bio": "Juliana Senn was born about 1798 (22 in Oct 1820) at Munzingen, the illegitimate daughter of Juliana Senn (the elder), who had died by 1820 — the 1820 entry calls her a 'parentless local citizen's daughter'. She married Heinrich Mayer on 16 Oct 1820 and lived in house No. 68. FS index spellings: 'Julianna Sann' (QP3C-SCW6), 'Juliana Senn', 'Julianaa Senn'. The German-origins reader read the 1835 entry's mother's surname as 'B[onn?]' (ink blot); Senn is preferred. Death not found.",
+  "summary": "Munzingen orphan, born out of wedlock about 1798, who married Heinrich Mayer in 1820; John's 4th-great-grandmother.",
+  "bio": "Juliana Senn was born about 1798 at Munzingen in Baden, the illegitimate daughter of an elder Juliana Senn. Her mother had died by 1820, and the marriage register of that year describes the younger Juliana as a \"parentless local citizen's daughter\". On 16 October 1820, aged twenty-two, she married Heinrich Mayer at Munzingen, and the couple lived in house number 68. She was John's 4th-great-grandmother.\n\nHer surname appears in the records with several spellings, among them Sann, and in one later entry her mother's surname is hard to read because of an ink blot; Senn is the accepted reading.",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), marriages 1820 No. 3 http://www.landesarchiv-bw.de/plink/?f=5-480946-215",
     "FamilySearch index https://familysearch.org/ark:/61903/1:1:QP3C-SCW6",
@@ -52,6 +52,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085305.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Juliana Senn was born about 1798 (22 in Oct 1820) at Munzingen, the illegitimate daughter of Juliana Senn (the elder), who had died by 1820 — the 1820 entry calls her a 'parentless local citizen's daughter'. She married Heinrich Mayer on 16 Oct 1820 and lived in house No. 68. FS index spellings: 'Julianna Sann' (QP3C-SCW6), 'Juliana Senn', 'Julianaa Senn'. The German-origins reader read the 1835 entry's mother's surname as 'B[onn?]' (ink blot); Senn is preferred. Death not found."
 }

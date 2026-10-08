@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Not kin: Harry J. Meier of Bear Creek Twp. (1950 census) — a New York-born family.",
-  "bio": "Salesman, 46, Laurel Run Road, Bear Creek Twp.; wife Margaret M. 42 (b. NY); children Elizabeth A. 5, Patricia Noel 4 (b. NY), Henry Joseph 3 (b. Pa). Arrived c.1946–47. Remove from candidates.",
+  "summary": "Harry J. Meier, a New York-born salesman living in Bear Creek Township in 1950, who was not related to John's Meier family.",
+  "bio": "Harry J. Meier was born in New York about 1904. In 1950 he was a salesman, aged 46, living in Bear Creek Township, Luzerne County, with his wife Margaret M., 42, who was also born in New York, and their children Elizabeth A., 5, and Patricia Noel, 4, both born in New York, and Henry Joseph, 3, born in Pennsylvania. The family had arrived in the area about 1946 or 1947. He belonged to a New York family and was not a relative of John's Meiers of Wilkes-Barre.",
   "sources": [
     "1950 census ED 40-18 image https://1950census.archives.gov/iiif/2/1950census%2F43290879-Pennsylvania%2F43290879-Pennsylvania-136016%2F43290879-Pennsylvania-136016-0023.jpg/full/2400,/0/default.jpg",
     "notes/round2/meier_gaps.md"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0059.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Salesman, 46, Laurel Run Road, Bear Creek Twp.; wife Margaret M. 42 (b. NY); children Elizabeth A. 5, Patricia Noel 4 (b. NY), Henry Joseph 3 (b. Pa). Arrived c.1946–47. Remove from candidates."
 }

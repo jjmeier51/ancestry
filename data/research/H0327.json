@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Co-owner of the New York Yankees; grandson of John A. Topping of Republic Iron & Steel; kinship unverified.",
+  "summary": "Co-owner and president of the New York Yankees from 1945 to 1964; any kinship with John's Southampton Topping line is unproven.",
   "sources": [
     "notes/round2/colonial_cousins.md §2g",
     "[R4-S1] Wikipedia, 'Dan Topping' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Dan_Topping"
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0327.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -41,7 +45,7 @@
   "death": {
     "date": "1974-05-18"
   },
-  "bio": "Daniel Reid Topping was part-owner and president of the New York Yankees 1945-1964 ([R4-S1]), son of Henry Junkins Topping and grandson of John A. Topping of Republic Iron & Steel. Nothing found ties John A. Topping to the Southampton Toppings.",
+  "bio": "Daniel Reid Topping was born at Greenwich, Connecticut, on 11 June 1912, a son of Henry Junkins Topping and a grandson of John A. Topping of Republic Iron & Steel. He was part-owner and president of the New York Yankees from 1945 to 1964, and died on 18 May 1974. Whether his grandfather's family connects to the Southampton Toppings in John's ancestry is unproven.",
   "media": [
     {
       "file": "media/H0327/dan-topping-yankees-1951.jpg",
@@ -53,5 +57,6 @@
       "people": [],
       "url": "https://commons.wikimedia.org/wiki/File:Casey_Stengel,_Joe_DiMaggio,_Dan_Topping_and_Del_Webb_1951.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Daniel Reid Topping was part-owner and president of the New York Yankees 1945-1964 ([R4-S1]), son of Henry Junkins Topping and grandson of John A. Topping of Republic Iron & Steel. Nothing found ties John A. Topping to the Southampton Toppings."
 }

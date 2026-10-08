@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0391.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "shoemaker (Schuster), citizen of Munzingen",
@@ -38,9 +42,11 @@
       "description": "His wife M. Anna Mayer, 'Ehefrau des Joseph Wenz, Bürger und Schuster von hier', was godmother. [R4-S2]"
     }
   ],
-  "bio": "Joseph Wenz, a shoemaker and citizen of Munzingen, was married to Friedrich Mayer's eldest sister Maria Anna Creszentia. He was godfather to Friedrich's first son in January 1862 ([R4-S1]), and his wife was godmother to Pauline Mayer's daughter Christina in 1864 ([R4-S2]).",
+  "bio": "Joseph Wenz, born in 1828, was a shoemaker and a citizen of Munzingen in Baden. He married Maria Anna Creszentia Mayer, the eldest sister of John's ancestor Friedrich Mayer. The two families stayed close: Joseph stood as godfather to Friedrich's first son, Friedrich (later Frederick Meier), in January 1862, and his wife was godmother to Pauline Mayer's daughter Christina in May 1864.",
   "sources": [
     "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2 (images 431–432) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
     "[R4-S2] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9 (image 471) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-471"
-  ]
+  ],
+  "researchNotes": "Joseph Wenz, a shoemaker and citizen of Munzingen, was married to Friedrich Mayer's eldest sister Maria Anna Creszentia. He was godfather to Friedrich's first son in January 1862 ([R4-S1]), and his wife was godmother to Pauline Mayer's daughter Christina in 1864 ([R4-S2]).",
+  "summary": "Shoemaker and citizen of Munzingen, husband of the eldest sister of John's ancestor Friedrich Mayer and godfather to Friedrich's first son."
 }

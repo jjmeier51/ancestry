@@ -18,8 +18,8 @@
     "Carmine Fiorillo"
   ],
   "tags": [],
-  "summary": "John's maternal 4th great-grandfather; a bracciale (day labourer) of San Mango d'Aquino.",
-  "bio": "Tree: Carmine G. Fiorillo (1808-1860) + Giuseppina Ferlaino (1811-1877); parents Domenico G. Fiorillo (1785-1849) + Maria Morrello (1786-1846). Son Domenico's birth act (27 Dec 1840): Carmine Fiorillo, 32, bracciale. Death act: died 17 Nov 1860, San Mango, aged 52 (born c.1808), bracciale; son of the late Domenico Fiorillo and the late Vittoria Marrelli/Morelli (Morti 1860 act 30). The tree's 'Maria Morrello' therefore has a different given name. His birthplace is unknown - the Fiorillos are absent from San Mango's 1674-1804 stati delle anime, so he may have been born elsewhere; his marriage act would say. The marriage of Carmine Fiorillo and Giuseppina Ferlaino (c.1828-40) was not completed: San Mango Matrimoni volumes an_ua37928564 / an_ua37928565 (c.1831-41).\n\nThe 1840 civil marriage act settles the question of Carmine's mother. When Carmine (34, contadino, born at Savuto) married Giuseppina Ferlaino on 1 March 1840, his parents are given as Domenico Fiorillo and Maria Marrelli, both then living ([R4-S1]). The church entry two days later notes that the groom came from Aiello ([R4-S2]). Maria Marrello was buried in 1846 as Domenico's wife ([R4-S4]). Two sisters, Cintia (Giacinta) and Antonia, born at Aiello Calabro, married at San Mango in 1839 and 1844 with the same parents named ([R4-S5]). The 1860 death act read in round 3, and the parish burial index ([R4-S3]), both give his mother as 'Vittoria' Marrelli/Marrello. A Vittoria Marrello was in fact the wife of Francesco Gabriele Fiorillo, very probably Domenico's brother, and mother of Angelo (1824-1912) and Lorenzo (1835-1915). The death informant evidently confused the two Marrello wives. Maria, not Vittoria, was Carmine's mother.",
+  "summary": "Day labourer of San Mango d'Aquino, born at Savuto, who married Giuseppina Ferlaino in 1840; John's maternal 4th-great-grandfather.",
+  "bio": "Carmine Gabriele Fiorillo was born about 1808 at Savuto in the province of Cosenza, Calabria, the son of Domenico Fiorillo and Maria Marrelli, whose surname is also written Marrello and Morrello. He had ties to Aiello Calabro: two of his sisters, Cintia (Giacinta) and Antonia, were born there and married at San Mango d'Aquino in 1839 and 1844. On 1 March 1840, aged 34 and described as a contadino from Savuto, Carmine married Giuseppina Ferlaino in the civil ceremony at San Mango d'Aquino; the church wedding followed two days later, and the parish entry notes that the groom came from Aiello. Both his parents were still living at the time of his marriage; his mother was buried in 1846.\n\nHe worked as a bracciale, a day labourer, and was so described at the birth of his son Domenico on 27 December 1840. He died at San Mango d'Aquino on 17 November 1860, aged about 52. His death record named his mother as Vittoria Marrelli, but Vittoria was in fact the wife of Francesco Gabriele Fiorillo, very probably Domenico's brother, and the informant evidently confused the two women: Maria, not Vittoria, was Carmine's mother. He is John's maternal 4th-great-grandfather.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -69,6 +69,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815339.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -92,5 +96,6 @@
       "place": "San Mango d'Aquino",
       "description": "Married Giuseppina Ferlaino [R4-S1] [R4-S2]"
     }
-  ]
+  ],
+  "researchNotes": "Tree: Carmine G. Fiorillo (1808-1860) + Giuseppina Ferlaino (1811-1877); parents Domenico G. Fiorillo (1785-1849) + Maria Morrello (1786-1846). Son Domenico's birth act (27 Dec 1840): Carmine Fiorillo, 32, bracciale. Death act: died 17 Nov 1860, San Mango, aged 52 (born c.1808), bracciale; son of the late Domenico Fiorillo and the late Vittoria Marrelli/Morelli (Morti 1860 act 30). The tree's 'Maria Morrello' therefore has a different given name. His birthplace is unknown - the Fiorillos are absent from San Mango's 1674-1804 stati delle anime, so he may have been born elsewhere; his marriage act would say. The marriage of Carmine Fiorillo and Giuseppina Ferlaino (c.1828-40) was not completed: San Mango Matrimoni volumes an_ua37928564 / an_ua37928565 (c.1831-41).\n\nThe 1840 civil marriage act settles the question of Carmine's mother. When Carmine (34, contadino, born at Savuto) married Giuseppina Ferlaino on 1 March 1840, his parents are given as Domenico Fiorillo and Maria Marrelli, both then living ([R4-S1]). The church entry two days later notes that the groom came from Aiello ([R4-S2]). Maria Marrello was buried in 1846 as Domenico's wife ([R4-S4]). Two sisters, Cintia (Giacinta) and Antonia, born at Aiello Calabro, married at San Mango in 1839 and 1844 with the same parents named ([R4-S5]). The 1860 death act read in round 3, and the parish burial index ([R4-S3]), both give his mother as 'Vittoria' Marrelli/Marrello. A Vittoria Marrello was in fact the wife of Francesco Gabriele Fiorillo, very probably Domenico's brother, and mother of Angelo (1824-1912) and Lorenzo (1835-1915). The death informant evidently confused the two Marrello wives. Maria, not Vittoria, was Carmine's mother."
 }

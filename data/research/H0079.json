@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 8th-great-grandfather; blacksmith of Jettenbach.",
-  "bio": "Abraham Lampert was the smith (Schmied) of Jettenbach, father of Elisabetha Margaretha (b. 1702).\n\nHis daughter's baptism on 17 Dec 1702 names him as 'Abraham Lamperti' of Jettenbach, with his wife Maria Sara ([R4-S1]). FamilySearch gives him a birth of about 1676 at Otterberg, a marriage at Glan-Münchweiler on 6 Oct 1699 to Maria Sara Jung (widow of Johann Philipp Wirth), and his death at Jettenbach on 18 Jun 1711. It names four children: Maria Elisabeta (1700-1706), Elisabetha Margaretha (1702), Maria Catharina Barbara (1706-1767) and Johann Peter (1708-1713). It also names his parents as Jacob Lampert and Margaretha ([R4-S2]). An Otterberg origin would fit the Walloon/Reformed settlement there, but it is unsourced.",
+  "summary": "Blacksmith of Jettenbach in the Palatinate, born about 1676, husband of Maria Sara Jung; John's 8th-great-grandfather.",
+  "bio": "Abraham Lampert was the smith of Jettenbach, in the Kusel district of the Palatinate. He was born about 1676, perhaps at Otterberg, and on 6 October 1699 at Glan-Münchweiler he married Maria Sara Jung, the widow of Johann Philipp Wirth. The baptism of their daughter Elisabetha Margaretha on 17 December 1702 names him as 'Abraham Lamperti' of Jettenbach, with his wife Maria Sara.\n\nFamily records give the couple four children: Maria Elisabeta (1700–1706), Elisabetha Margaretha (born 1702), Maria Catharina Barbara (1706–1767) and Johann Peter (1708–1713), and name his parents as Jacob Lampert and Margaretha. He died at Jettenbach on 18 June 1711 and was buried there. An origin at Otterberg would fit the Walloon and Reformed settlement of that town, but it has not been documented.",
   "residences": [
     {
       "date": "1702",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0079.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -63,5 +67,6 @@
       "label": "FamilySearch ID",
       "value": "MCWN-NPP"
     }
-  ]
+  ],
+  "researchNotes": "Abraham Lampert was the smith (Schmied) of Jettenbach, father of Elisabetha Margaretha (b. 1702).\n\nHis daughter's baptism on 17 Dec 1702 names him as 'Abraham Lamperti' of Jettenbach, with his wife Maria Sara ([R4-S1]). FamilySearch gives him a birth of about 1676 at Otterberg, a marriage at Glan-Münchweiler on 6 Oct 1699 to Maria Sara Jung (widow of Johann Philipp Wirth), and his death at Jettenbach on 18 Jun 1711. It names four children: Maria Elisabeta (1700-1706), Elisabetha Margaretha (1702), Maria Catharina Barbara (1706-1767) and Johann Peter (1708-1713). It also names his parents as Jacob Lampert and Margaretha ([R4-S2]). An Otterberg origin would fit the Walloon/Reformed settlement there, but it is unsourced."
 }

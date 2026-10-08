@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0433.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -44,8 +48,10 @@
   "burial": {
     "place": "Larksville, Pa."
   },
-  "bio": "FamilySearch: William J. Dailey, son of Michael Dailey (1839-1869) and Elizabeth Keating (1836-1923); Cass Twp, Schuylkill Co. in 1860, Plymouth Twp by 1870; died 18 Jan 1931 ([R4-S1]).",
+  "bio": "William J. Dailey was born in 1851 at Minersville, Schuylkill Co., Pa., a son of Michael Dailey (1839–1869) and Elizabeth Keating (1836–1923). The family was living in Cass Township, Schuylkill County, in 1860 and had moved to Plymouth Township by 1870. He died at Wilkes-Barre on 18 January 1931 and was buried at Larksville.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), William J Dailey (1854-1931), PID LNRQ-5RS; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LNRQ-5RS"
-  ]
+  ],
+  "researchNotes": "FamilySearch: William J. Dailey, son of Michael Dailey (1839-1869) and Elizabeth Keating (1836-1923); Cass Twp, Schuylkill Co. in 1860, Plymouth Twp by 1870; died 18 Jan 1931 ([R4-S1]).",
+  "summary": "Son of Michael Dailey and Elizabeth Keating, born at Minersville and raised in the Schuylkill and Luzerne coal towns; died at Wilkes-Barre in 1931."
 }

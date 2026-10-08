@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's great-granduncle; WWII Army veteran.",
-  "bio": "b. 25 Sep 1914; enlisted in the US Army at Scranton on 17 Feb 1941; married Mildred Leona; d. 21 Apr 1997. Listed as Rocco in the 1920 census.\n\nAs 'Rocco Petrillo' he survived his sister Josephine Castellano in November 1995 ([R4-S1]).",
+  "summary": "John's great-granduncle, a Second World War Army veteran who enlisted at Scranton in 1941 and lived until 1997.",
+  "bio": "Rocco Frank Petrillo, John's great-granduncle, was born on 25 September 1914 and appears as a small boy named Rocco in the 1920 census. On 17 February 1941 he enlisted in the US Army at Scranton and served through the Second World War. He married Mildred Leona. When his sister Josephine Castellano died in November 1995 he was among her survivors. Rocco died on 21 April 1997.",
   "military": [
     {
       "branch": "US Army",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0360.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "b. 25 Sep 1914; enlisted in the US Army at Scranton on 17 Feb 1941; married Mildred Leona; d. 21 Apr 1997. Listed as Rocco in the 1920 census.\n\nAs 'Rocco Petrillo' he survived his sister Josephine Castellano in November 1995 ([R4-S1])."
 }

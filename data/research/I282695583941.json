@@ -5,8 +5,8 @@
     "note": "Tree only; WikiTree lists only daughters Hannah (1742) and Elizabeth (1753-1829) for Casper Doll, no Anna Maria. Parentage probable-but-unproven per Round 1; dates look like placeholders."
   },
   "tags": [],
-  "summary": "John's 6th-great-grandmother per the tree (mother of Mary Young Croup); her Doll parentage is unproven.",
-  "bio": "The tree shows Anna Maria Doll (1751-1813), wife of John Young Sr., as daughter of 'Johann C Doll Captain' and Anna M. Dietz. No record names her. Casper Doll's known daughters are Hannah (b.1742), Elizabeth (1753-1829, m. Christopher Stecher) and Anna Catharine (bapt. 1757, Tohickon). The Stechers also married into the Grubs, so these Forks Twp families overlapped. That an Anna Maria Doll b. 1751 was Casper's daughter is 'probable but unproven' (pa_lines) / 'unproven' (Round 1).\n\nFamilySearch gives Anna Maria Doll's birth as 16 May 1751 in Plainfield Township and her death as 29 June 1813, as the widow of Johannes Jung (d. before 1787) and mother of ten Young children, the eldest being Maria (b. Jan 1776), wife of Frederick Grub/Croup ([R4-S1]). Her will as 'Maria Young' is cited from Northampton County Will Book 4, p.458 ([R4-S1]) - not yet read, but potentially the document that proves both her own Doll parentage (if it names Doll kin or property) and Mary Croup's descent from her. FamilySearch places her among the children of Johann Caspar Doll and Anna Margaretha Dietz, with siblings George (1744-83), Hannah (1746-73), Casper Dull (1748-1829), Sarah Margaretha (1748-79), Abraham (1752), Elizabeth Margaret (1754-88) and Anna Catharina (1757-99) ([R4-S1]). Note that this makes Capt. Casper Dull (1748-1829) her brother, whereas WikiTree's research note (round 2) calls him Casper Doll's nephew; the tree's 'Captain' issue therefore needs re-checking.",
+  "summary": "Wife of John Young Sr. of Northampton County, Pennsylvania, and mother of Mary Young Croup; John's 6th-great-grandmother, whose Doll parentage is unproven.",
+  "bio": "Anna Maria Doll was born on 16 May 1751 in Northampton County, Pennsylvania, in Plainfield Township according to family records. She married Johannes Jung, known as John Young Sr., who died before 1787, and they had ten children; the eldest, Maria, born in January 1776, married Frederick Grub, or Croup, and is John's ancestor. Anna Maria died on 29 June 1813 in Pennsylvania, and her will, made as Maria Young, was proved in Northampton County.\n\nFamily records make her a daughter of Johann Caspar Doll, called Captain, and Anna Margaretha Dietz, with brothers and sisters George (1744–83), Hannah (1746–73), Casper Dull (1748–1829), Sarah Margaretha (1748–79), Abraham (1752), Elizabeth Margaret (1754–88) and Anna Catharina (1757–99). The connection is probable but unproven: no record names her parents, and Casper Doll's known daughters are Hannah, Elizabeth, who married Christopher Stecher, and Anna Catharine. The Stechers also married into the Grubs, so these Forks Township families were closely intertwined. She was John's 6th-great-grandmother.",
   "facts": [
     {
       "label": "Tree shows",
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695583941.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -71,5 +75,6 @@
       "found": "29 Jun 1813 (FamilySearch)",
       "assessment": "Agrees in year; day from FS."
     }
-  ]
+  ],
+  "researchNotes": "The tree shows Anna Maria Doll (1751-1813), wife of John Young Sr., as daughter of 'Johann C Doll Captain' and Anna M. Dietz. No record names her. Casper Doll's known daughters are Hannah (b.1742), Elizabeth (1753-1829, m. Christopher Stecher) and Anna Catharine (bapt. 1757, Tohickon). The Stechers also married into the Grubs, so these Forks Twp families overlapped. That an Anna Maria Doll b. 1751 was Casper's daughter is 'probable but unproven' (pa_lines) / 'unproven' (Round 1).\n\nFamilySearch gives Anna Maria Doll's birth as 16 May 1751 in Plainfield Township and her death as 29 June 1813, as the widow of Johannes Jung (d. before 1787) and mother of ten Young children, the eldest being Maria (b. Jan 1776), wife of Frederick Grub/Croup ([R4-S1]). Her will as 'Maria Young' is cited from Northampton County Will Book 4, p.458 ([R4-S1]) - not yet read, but potentially the document that proves both her own Doll parentage (if it names Doll kin or property) and Mary Croup's descent from her. FamilySearch places her among the children of Johann Caspar Doll and Anna Margaretha Dietz, with siblings George (1744-83), Hannah (1746-73), Casper Dull (1748-1829), Sarah Margaretha (1748-79), Abraham (1752), Elizabeth Margaret (1754-88) and Anna Catharina (1757-99) ([R4-S1]). Note that this makes Capt. Casper Dull (1748-1829) her brother, whereas WikiTree's research note (round 2) calls him Casper Doll's nephew; the tree's 'Captain' issue therefore needs re-checking."
 }

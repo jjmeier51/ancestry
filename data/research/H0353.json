@@ -9,8 +9,8 @@
     "Frank W. Petrillo"
   ],
   "tags": [],
-  "summary": "John's great-granduncle; coal-breaker laborer in 1920.",
-  "bio": "Frank, 10 in 1910 (b. c.1900 PA); laborer at a coal breaker in 1920. Geni lists Frank W. b. Jul 1895 PA, which Round 1 used to date the family's arrival; census age suggests c.1900.\n\nFrank is 10 in the April 1910 census and 20 in January 1920, both consistent with birth c.1899–1900, not 1895 ([R4-S1], [R4-S2]). He is not among the brothers (Nick, Jim, Rocco) who survived his sister Josephine in November 1995, so he had died by then ([R4-S3]). No later record was found.",
+  "summary": "Coal-breaker labourer of Pennsylvania, born about 1900; John's great-granduncle.",
+  "bio": "Frank Petrillo was born in Pennsylvania about 1900; one source gives July 1895, but his ages in the 1910 and 1920 censuses point to 1899 or 1900. By 1920, aged 20, he was working as a labourer at a coal breaker. He had died by November 1995, when his sister Josephine was survived by her brothers Nick, Jim and Rocco but not by Frank. He is John's great-granduncle.",
   "sources": [
     "1910 and 1920 census images",
     "Geni Giovanni Petriello profile",
@@ -42,6 +42,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0353.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Frank, 10 in 1910 (b. c.1900 PA); laborer at a coal breaker in 1920. Geni lists Frank W. b. Jul 1895 PA, which Round 1 used to date the family's arrival; census age suggests c.1900.\n\nFrank is 10 in the April 1910 census and 20 in January 1920, both consistent with birth c.1899–1900, not 1895 ([R4-S1], [R4-S2]). He is not among the brothers (Nick, Jim, Rocco) who survived his sister Josephine in November 1995, so he had died by then ([R4-S3]). No later record was found."
 }

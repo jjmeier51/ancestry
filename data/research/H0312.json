@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "NY legislator and High Sheriff of Queens; John's 1st cousin 10x removed (son of Bull Smith's daughter Deborah).",
+  "summary": "New York legislator and High Sheriff of Queens, grandson of Bull Smith; John's 1st cousin 10 times removed.",
   "sources": [
     "Lawrence (1858)",
     "[R4-S1] Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), p. 27 (secondary) https://archive.org/details/historicalgeneal00lawr"
@@ -28,10 +28,15 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0312.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
     "date": "1780"
   },
-  "bio": "Seventh child of William Lawrence Jr. and Deborah Smith; member of the State Legislature and High Sheriff of Queens; died 1780, leaving Deborah (Mrs S. Van Wyck), Sarah (Mrs James Hewlett), Catharine (Mrs Platt), Dr. Daniel, Stephen, Joseph, Clark and George ([R4-S1])."
+  "bio": "Adam Lawrence was the seventh child of William Lawrence Jr. and Deborah Smith, a daughter of Bull Smith, which makes him John's 1st cousin 10 times removed. He served as a member of the State Legislature and as High Sheriff of Queens. He died in 1780, leaving children Deborah (Mrs S. Van Wyck), Sarah (Mrs James Hewlett), Catharine (Mrs Platt), Dr. Daniel, Stephen, Joseph, Clark and George.",
+  "researchNotes": "Seventh child of William Lawrence Jr. and Deborah Smith; member of the State Legislature and High Sheriff of Queens; died 1780, leaving Deborah (Mrs S. Van Wyck), Sarah (Mrs James Hewlett), Catharine (Mrs Platt), Dr. Daniel, Stephen, Joseph, Clark and George ([R4-S1])."
 }

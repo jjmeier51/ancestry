@@ -11,8 +11,8 @@
     "surname unknown"
   ],
   "tags": [],
-  "summary": "Tried at New Haven in 1646 for calling the minister's sermon 'wast paper'; later wife of Thomas Pell of Pelham Manor; probably not John's ancestor.",
-  "bio": "Tried in 1646 with Mrs. Moore and Mrs. Leach on 14 charges, including saying Rev. John Davenport's sermon was fit for 'wast paper' and urging the women of New Haven to move to Rhode Island. Later married Thomas Pell, lord of Pelham Manor.",
+  "summary": "Lucy, tried at New Haven in 1646 for calling the minister's sermon \"wast paper\" and later wife of Thomas Pell of Pelham Manor; probably not John's ancestor.",
+  "bio": "Lucy, whose maiden name is unknown and who has been called Lucy Brewster and Lucy Pell, was one of three women tried at New Haven in 1646. With Mrs. Moore and Mrs. Leach she faced fourteen charges, among them saying that the Rev. John Davenport's sermon was fit for \"wast paper\" and urging the women of New Haven to move to Rhode Island. She later married Thomas Pell, lord of Pelham Manor. She is probably not an ancestor of John.",
   "sources": [
     "New Haven Colony Records",
     "notes/round2/colonial_cousins.md §3d"
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0260.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tried in 1646 with Mrs. Moore and Mrs. Leach on 14 charges, including saying Rev. John Davenport's sermon was fit for 'wast paper' and urging the women of New Haven to move to Rhode Island. Later married Thomas Pell, lord of Pelham Manor."
 }

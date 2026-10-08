@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Sibling of Carmela 'Mollie' Gianetta; John's great-grand-uncle/aunt.",
-  "bio": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nAnthony's draft card gives his birth as 18 Sep 1907 in Italy. In October 1940 he lived with his mother at 133 Sand Street and worked for Penn Anthracite Collieries on Nay Aug Avenue, the same company as his brother-in-law James Petriello. The card was later annotated that he was honorably discharged from the U.S. Army on 26 October 1945, so he served in WWII ([R4-S1]). By 1950 he was married to Pearl (Nocella), worked as a railroad car repairman, and had his widowed mother living with him at no. 133 ([R4-S3]).",
+  "summary": "Italian-born Dunmore collier and Second World War veteran, brother of Mollie Petriello; John's great-grand-uncle.",
+  "bio": "Antonio Giannetta, known in America as Anthony Genett or Tony, was born in Italy, probably at Bisaccia, on 18 September 1907. He was a brother of Carmela \"Mollie\" Gianetta, John's great-grandmother; his other siblings were Savino (1897-1964), Mariano Martin (1899-1941), Maria (born 1902), Giuseppe (1912-1971), Rosa (born 1914) and Charles J. (1916-1975). The family lived in Dunmore, Pennsylvania, from 1910 to 1930.\n\nIn 1940 he was living with his mother at the family home on Sand Street in Dunmore and working as a laborer at a coal breaker for Penn Anthracite Collieries on Nay Aug Avenue, the same company that employed his brother-in-law James Petriello. He served in the US Army during the Second World War and was honorably discharged on 26 October 1945. By 1950 he was married to Pearl Nocella, worked as a railroad car repairman, and had his widowed mother living with him in the Sand Street house. He died in 1998.",
   "sources": [
     "FS tree LCPG-FC6: https://ancestors.familysearch.org/en/LCPG-FC6",
     "notes/round2/italian_gaps.md 1",
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0370.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -81,5 +85,6 @@
       ],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-85H/images/i/2/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Listed among Mollie's siblings in the FS tree (Savino 1897-1964, Mariano Martin 1899-1941, Maria 1902, Antonio 1907-1998, Giuseppe 1912-1971, Rosa 1914, Charles J. 1916-1975). The family lived in Dunmore (Ward 5) 1910-30.\n\nAnthony's draft card gives his birth as 18 Sep 1907 in Italy. In October 1940 he lived with his mother at 133 Sand Street and worked for Penn Anthracite Collieries on Nay Aug Avenue, the same company as his brother-in-law James Petriello. The card was later annotated that he was honorably discharged from the U.S. Army on 26 October 1945, so he served in WWII ([R4-S1]). By 1950 he was married to Pearl (Nocella), worked as a railroad car repairman, and had his widowed mother living with him at no. 133 ([R4-S3])."
 }

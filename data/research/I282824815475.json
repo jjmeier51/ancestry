@@ -5,8 +5,8 @@
     "note": "Tree only; Briglio absent from San Mango 1674-1804 stati."
   },
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Guercio pedigree.",
-  "bio": "Tree: Anna Briglio (1694-Deceased).",
+  "summary": "Anna Briglio, born about 1694, an ancestor in the Guercio pedigree, a line that remains unsupported by records.",
+  "bio": "Anna Briglio was born about 1694. She appears as an ancestor in the Guercio pedigree, a line of descent that has not yet been supported by records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815475.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Anna Briglio (1694-Deceased)."
 }

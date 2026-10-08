@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Brother of Maria Antonia DiBiasi; John's 3rd great-granduncle.",
-  "bio": "b. 28 Sep 1856 Guardia Lombardi; d. 8 Feb 1922 Scranton; buried in Dunmore. Married Victoria DiPietro; son John N. (1892-1974) had a son Nicholas (1919-2002).\n\nHis widow Victoria (78, born Italy) was living in April 1940 with their son John DiBiasi (46) and his family at 1009 Bunker Hill Street. That was a few doors from Grace (Petrillo) DiBiasi's grocery at no. 1015 and the Petriello house at no. 1028 ([R4-S1]).",
+  "summary": "Brother of Maria Antonia DiBiasi and John's 3rd great-granduncle, who came from Guardia Lombardi to Scranton, Pennsylvania, and died there in 1922.",
+  "bio": "Domenico Antonio DiBiasi was born on 28 September 1856 at Guardia Lombardi in Avellino, Campania, Italy, a brother of Maria Antonia DiBiasi and so John's 3rd great-granduncle. He married Victoria DiPietro and settled in Scranton, Pennsylvania. Their son John N. DiBiasi (1892–1974) had a son Nicholas (1919–2002). Domenico died at Scranton on 8 February 1922 and was buried in Dunmore.\n\nHis widow Victoria was still living in 1940, aged 78, with their son John and his family on Bunker Hill Street, a few doors from the grocery kept by Grace (Petrillo) DiBiasi and from the Petriello family home.",
   "sources": [
     "FS tree G4YT-QC3: https://ancestors.familysearch.org/en/G4YT-QC3",
     "BillionGraves QK9P-G2LN: https://familysearch.org/ark:/61903/1:1:QK9P-G2LN",
@@ -30,6 +30,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0366.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "b. 28 Sep 1856 Guardia Lombardi; d. 8 Feb 1922 Scranton; buried in Dunmore. Married Victoria DiPietro; son John N. (1892-1974) had a son Nicholas (1919-2002).\n\nHis widow Victoria (78, born Italy) was living in April 1940 with their son John DiBiasi (46) and his family at 1009 Bunker Hill Street. That was a few doors from Grace (Petrillo) DiBiasi's grocery at no. 1015 and the Petriello house at no. 1028 ([R4-S1])."
 }

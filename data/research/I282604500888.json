@@ -12,10 +12,16 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604500888.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Margaret (McIver) Jones told the 1880 census taker that her mother was born in England ([R4-S1]). Nothing else is known.",
+  "bio": "Ann, John's 4th-great-grandmother, was the mother of Margaret (McIver) Jones. According to Margaret's own account in 1880, Ann was born in England.",
   "sources": [
     "[R4-S1] 1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
-  ]
+  ],
+  "researchNotes": "Margaret (McIver) Jones told the 1880 census taker that her mother was born in England ([R4-S1]). Nothing else is known.",
+  "summary": "Mother of Margaret McIver Jones, born in England; John's 4th-great-grandmother."
 }

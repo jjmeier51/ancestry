@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd cousin 4x removed (Branch 3).",
-  "bio": "Died at Butte, Montana, in 1899 (western mining-camp death).",
+  "summary": "Young man who died in the mining town of Butte, Montana, in 1899; John's 2nd cousin 4x removed.",
+  "bio": "Michael Heffernan was born in 1875 and died in 1899, aged about twenty-four, at Butte, Montana, then a western mining camp. He is John's 2nd cousin 4 times removed.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0134.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Died at Butte, Montana, in 1899 (western mining-camp death)."
 }

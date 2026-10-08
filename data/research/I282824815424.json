@@ -8,8 +8,8 @@
     "Nicola Guercio N..."
   ],
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Guercio pedigree.",
-  "bio": "Tree: Nicola Guercio N... (1714-1782) + Cecilia Vecchio (1718-). Profile shows the coat of arms. Not to be confused with the San Mango Nicola Guercio (b. c.1741-50) who married Maria Colosimo (stati index).",
+  "summary": "Of Aiello Calabro in Calabria (1714–1782), husband of Cecilia Vecchio; an ancestor in the unsupported Guercio pedigree.",
+  "bio": "Nicola Guercio Nuzio was born at Aiello Calabro in Calabria on 18 August 1714 and died there on 5 March 1782. Family records pair him with Cecilia Vecchio, born in 1718, and attach a coat of arms to the family, but his place in the Guercio pedigree is unsupported by records. He is not to be confused with the Nicola Guercio of San Mango, born about 1741 to 1750, who married Maria Colosimo.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,6 +44,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815424.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Nicola Guercio N... (1714-1782) + Cecilia Vecchio (1718-). Profile shows the coat of arms. Not to be confused with the San Mango Nicola Guercio (b. c.1741-50) who married Maria Colosimo (stati index)."
 }

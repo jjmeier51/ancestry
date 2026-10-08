@@ -17,10 +17,16 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0481.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Of Mastic, of the 'Tangier' Smith family (not a Bull Smith). Pelletreau ([R4-S1]) says he married Mary, daughter of Daniel Smith 2d and Hannah Brewster, that his sister Martha married Caleb Smith of Hauppauge, that Gen. John Smith (U.S. Senator) was 'the son of Judge William and Mary Smith', and that he 'suffered greatly from the British occupation of Long Island'. In-law.",
+  "bio": "William Smith of Mastic belonged to the 'Tangier' Smith family of Long Island, not to the Bull Smiths, and is connected to John's family by marriage. He married Mary, daughter of Daniel Smith 2d and Hannah Brewster, and his sister Martha married Caleb Smith of Hauppauge. He is remembered as Judge William Smith: the family history records that Gen. John Smith, later a United States Senator, was 'the son of Judge William and Mary Smith', and that William 'suffered greatly from the British occupation of Long Island'.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476, 491 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
-  ]
+  ],
+  "researchNotes": "Of Mastic, of the 'Tangier' Smith family (not a Bull Smith). Pelletreau ([R4-S1]) says he married Mary, daughter of Daniel Smith 2d and Hannah Brewster, that his sister Martha married Caleb Smith of Hauppauge, that Gen. John Smith (U.S. Senator) was 'the son of Judge William and Mary Smith', and that he 'suffered greatly from the British occupation of Long Island'. In-law.",
+  "summary": "Judge William Smith of Mastic, of the Tangier Smith family, husband of Mary Smith of the Bull Smith line; related to John by marriage."
 }

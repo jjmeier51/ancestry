@@ -8,8 +8,8 @@
     "Ippolita Guercio N..."
   ],
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Morrello/Guercio pedigree.",
-  "bio": "Tree: Ippolita Guercio N... (1761-1831). Profile shows the coat of arms. San Mango stati 1674-1804 include Guercio (163 entries), e.g. a Nicola Guercio b. c.1741-50 who married Maria Colosimo - not the tree's Nicola Guercio (1714-1782) + Cecilia Vecchio.",
+  "summary": "Woman of Aiello Calabro who lived from 1761 to 1831; part of the Morrello and Guercio pedigree whose connection to John is unsupported.",
+  "bio": "Ippolita Guercio Nuzio was born at Aiello Calabro in Cosenza, Calabria, on 10 July 1761 and died there on 22 September 1831. She belongs to the Morrello and Guercio pedigree, a line whose connection to John's family is not supported by records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815381.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -53,5 +57,6 @@
       "found": "Maria Marrello's 1846 burial names her mother as Hyacinthia (Giacinta) Gabriele Fiorillo",
       "assessment": "Possible misattachment; also Ippolita (b. 1761) would be only ~25 at Maria's birth c.1786, which is fine, but the name conflict needs Aiello records."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Ippolita Guercio N... (1761-1831). Profile shows the coat of arms. San Mango stati 1674-1804 include Guercio (163 entries), e.g. a Nicola Guercio b. c.1741-50 who married Maria Colosimo - not the tree's Nicola Guercio (1714-1782) + Cecilia Vecchio."
 }

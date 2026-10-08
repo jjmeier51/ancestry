@@ -5,8 +5,8 @@
     "note": ""
   },
   "tags": [],
-  "summary": "",
-  "bio": "Continental Congress delegate from New Jersey and later a pioneer of the Northwest Territory; father-in-law of President William Henry Harrison and great-grandfather of President Benjamin Harrison ([R4-S1]). He is an in-law, not a blood relative of John; the blood line runs through his wife Anna Tuthill.",
+  "summary": "New Jersey delegate to the Continental Congress and Ohio pioneer, father-in-law of President William Henry Harrison; linked to John by marriage through his wife Anna Tuthill.",
+  "bio": "John Cleves Symmes was born on Long Island on 21 July 1742. He represented New Jersey in the Continental Congress, served as a judge, and became a pioneer of the Northwest Territory through the land grant known as the Symmes Purchase. He died at North Bend, Ohio, on 26 February 1814. He was the father-in-law of President William Henry Harrison and the great-grandfather of President Benjamin Harrison. He is connected to John by marriage rather than by blood: the family's line runs through his wife, Anna Tuthill.",
   "funFacts": [],
   "residences": [],
   "military": [],
@@ -49,6 +49,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486702.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -59,5 +63,6 @@
     "date": "1814-02-26",
     "place": "North Bend, Ohio"
   },
-  "occupation": "Delegate to the Continental Congress from New Jersey; judge; Northwest Territory pioneer (Symmes Purchase)"
+  "occupation": "Delegate to the Continental Congress from New Jersey; judge; Northwest Territory pioneer (Symmes Purchase)",
+  "researchNotes": "Continental Congress delegate from New Jersey and later a pioneer of the Northwest Territory; father-in-law of President William Henry Harrison and great-grandfather of President Benjamin Harrison ([R4-S1]). He is an in-law, not a blood relative of John; the blood line runs through his wife Anna Tuthill."
 }

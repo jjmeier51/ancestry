@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0474.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -33,7 +37,7 @@
       "description": "Married (1) Hannah Saxton in Huntington, 1730; (2) Anna, daughter of Job Smith 2d and widow of Ebenezer Smith. Large tracts laid out to him 1736; homestead at Sunk Meadow, Smithtown. [R4-S1]"
     }
   ],
-  "bio": "Pelletreau's Platt lineage ([R4-S1]): son of Jonas Platt (b. 1684, drowned at Amboy 1731), grandson of Capt. Epenetus Platt of Huntington. Children by Hannah Saxton: Jonas, Zephaniah, Nathaniel, Charles, Hannah, Elizabeth; by Anna Smith: Jeremiah, Daniel, Sarah and Dorothea. He is an in-law (stepfather of Anna's Smith children). Important: he is NOT the Plattsburgh founder Zephaniah Platt (1735-1807); that man is his son by Hannah Saxton.",
+  "bio": "Zephaniah Platt was born in 1704, the son of Jonas Platt, who was born in 1684 and drowned at Amboy in 1731, and a grandson of Captain Epenetus Platt of Huntington. He married at Huntington, NY, about 1730. By his wife Hannah Saxton he had Jonas, Zephaniah, Nathaniel, Charles, Hannah and Elizabeth; by his second wife, Anna Smith, he had Jeremiah, Daniel, Sarah and Dorothea. He is connected to John's family by marriage, as stepfather of Anna's children by her Smith husband. He died in 1778.\n\nHe should not be confused with Zephaniah Platt (1735–1807), the founder of Plattsburgh: that man was his son by Hannah Saxton.",
   "conflicts": [
     {
       "field": "identity",
@@ -45,5 +49,7 @@
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 473 ('Platt Lineage') (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] Wikipedia, 'Zephaniah Platt' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Zephaniah_Platt"
-  ]
+  ],
+  "researchNotes": "Pelletreau's Platt lineage ([R4-S1]): son of Jonas Platt (b. 1684, drowned at Amboy 1731), grandson of Capt. Epenetus Platt of Huntington. Children by Hannah Saxton: Jonas, Zephaniah, Nathaniel, Charles, Hannah, Elizabeth; by Anna Smith: Jeremiah, Daniel, Sarah and Dorothea. He is an in-law (stepfather of Anna's Smith children). Important: he is NOT the Plattsburgh founder Zephaniah Platt (1735-1807); that man is his son by Hannah Saxton.",
+  "summary": "Zephaniah Platt of Huntington (1704–1778), husband of Anna Smith and stepfather of her Smith children; father of the Plattsburgh founder of the same name."
 }

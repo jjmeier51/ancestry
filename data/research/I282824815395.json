@@ -8,8 +8,8 @@
     "Cecilia Fata Scaff..."
   ],
   "tags": [],
-  "summary": "Tree ancestor in the unsupported pre-1800 Fiorillo pedigree.",
-  "bio": "Tree: Cecilia Fata Scaff... (1738-1797) (second surname truncated in the screenshot). Profile carries the unidentified black-shield/silver-lion coat of arms. Round 1 counted Fata among San Mango surnames (phone directory Fata x2), but Round 2's stati index shows 0 Fata 1674-1804.",
+  "summary": "Of Aiello Calabro in Calabria (1738–1797); an ancestor in the unsupported early Fiorillo pedigree; John's 7th-great-grandmother.",
+  "bio": "Cecilia Fata Scaffarone was born at Aiello Calabro in Calabria on 15 February 1738 and died there on 1 February 1797. Family records attach to her an unidentified coat of arms, a silver lion on a black shield, but her place in the Fiorillo pedigree before 1800 is unsupported by records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,9 +44,14 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815395.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "openQuestions": [
     "Carmine G. Fiorillo (d. 1797)'s wife was Giacinta (sons' death records), so if Cecilia Fata is his mother the Fata line stands; still unsourced."
-  ]
+  ],
+  "researchNotes": "Tree: Cecilia Fata Scaff... (1738-1797) (second surname truncated in the screenshot). Profile carries the unidentified black-shield/silver-lion coat of arms. Round 1 counted Fata among San Mango surnames (phone directory Fata x2), but Round 2's stati index shows 0 Fata 1674-1804."
 }

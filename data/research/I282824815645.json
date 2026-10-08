@@ -24,14 +24,20 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815645.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Gaetano married Candida Colosimo on 22 December 1743 ([R4-S1]). He is called son of the late Nicola, which supports the tree's Nicola Ferraino (b. 1675, from Martirano) as his father.",
+  "bio": "Gaetano Ferlaino was born about 1726. He married Candida Colosimo on 22 December 1743. The marriage record calls him the son of the late Nicola, which supports the family record naming Nicola Ferraino, born in 1675 at Martirano, as his father. He was John's 6th-great-grandfather.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
   },
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 54, p. 49, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Gaetano married Candida Colosimo on 22 December 1743 ([R4-S1]). He is called son of the late Nicola, which supports the tree's Nicola Ferraino (b. 1675, from Martirano) as his father.",
+  "summary": "Husband of Candida Colosimo, married in 1743, and probably a son of Nicola Ferraino of Martirano; John's 6th-great-grandfather."
 }

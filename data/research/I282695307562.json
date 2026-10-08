@@ -5,8 +5,8 @@
     "note": "Tree only; removed from John's line in Round 2 (belongs to the Lanespark branch per Dwyer)."
   },
   "tags": [],
-  "summary": "Tree-only; disproven as John's ancestor.",
-  "bio": "Tree shows Catherine Neagle 1770-Deceased, wife of Patrick Heffernan. 'Neagle' is probably Nagle, a Cork landed family; the Neagle and Kearney generations have no sources. Removed from Andrew H. Heffernan's line.",
+  "summary": "Wife of Patrick Heffernan, born in Tipperary about 1770; once placed among John's ancestors but no longer accepted as one.",
+  "bio": "Catherine Neagle was born about 1770 in Tipperary, Ireland, and married Patrick Heffernan. Her surname is probably a form of Nagle, the name of a landed family of County Cork. She died in Ireland. She was once placed in the ancestry of Andrew H. Heffernan, but that connection has not held up, and she is no longer counted among John's ancestors.",
   "facts": [
     {
       "label": "Tree shows",
@@ -39,6 +39,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695307562.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree shows Catherine Neagle 1770-Deceased, wife of Patrick Heffernan. 'Neagle' is probably Nagle, a Cork landed family; the Neagle and Kearney generations have no sources. Removed from Andrew H. Heffernan's line."
 }

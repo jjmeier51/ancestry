@@ -8,8 +8,8 @@
   "tags": [
     "notable"
   ],
-  "summary": "John's 4th-great-grand-uncle; coal operator, first president of Kingston borough council (1857), and the likely namesake of Pringle Borough.",
-  "bio": "Thomas Pringle (2 Nov 1791 - 22 May 1861), eldest son of Samuel and Martha, married Elizabeth Harvey. He mined coal in partnership with his brothers-in-law, is listed among the valley's coal operators around 1843 (Pearce p.380), and in 1837 moved to a large Kingston farm whose lane later became Pringle Street. A county history says Pringle Borough 'takes its name from that of a prominent family of that vicinity' and notes that Thomas Pringle was the first president of Kingston's borough council in 1857; Wikipedia says the borough honours Thomas Pringle. Neither source says which Thomas; another Thomas Pringle, born 1821, also lived in the area.\n\nFamilySearch gives Thomas a birthplace of Monroe, Orange Co., NY, which fits the Lamoreaux and Prindle presence there around 1790. It places him at Kingston in the 1850 and 1860 censuses (as 'Thos Pringdle' in 1860) and his burial in Forty Fort Cemetery ([R4-S1]). It also gives a marriage to Elizabeth Harvey at Voluntown, Connecticut, on 5 Sep 1813. That place is unexpected and should be checked, since the Harveys were Plymouth people.",
+  "summary": "Eldest son of Samuel and Martha Pringle, coal operator, first president of Kingston borough council and likely namesake of Pringle Borough; John's 4th-great-grand-uncle.",
+  "bio": "Thomas Pringle was born on 2 November 1791, by family record at Monroe in Orange County, New York, where the Lamoreaux and Prindle families were living around 1790. He was the eldest son of Samuel and Martha Pringle and John's 4th-great-grand-uncle. He married Elizabeth Harvey; family records place the wedding at Voluntown, Connecticut, on 5 September 1813, an unexpected place for a Plymouth family, and that detail is doubtful.\n\nThomas mined coal in partnership with his brothers-in-law and was listed among the Wyoming Valley's coal operators around 1843. In 1837 he moved to a large farm at Kingston, where he was recorded in the censuses of 1850 and 1860; the lane to the farm later became Pringle Street. In 1857 he was the first president of Kingston's borough council. A county history says that Pringle Borough 'takes its name from that of a prominent family of that vicinity', and the borough is said to honour Thomas Pringle, though another Thomas Pringle, born in 1821, also lived in the area. He died on 22 May 1861 and was buried in Forty Fort Cemetery.",
   "notable": "Likely namesake of Pringle Borough, PA",
   "sources": [
     "Harvey Book pp.134-136: https://archive.org/details/harveybookgiving00harv",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0141.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -81,5 +85,6 @@
       "label": "FamilySearch ID",
       "value": "KCDC-9LX"
     }
-  ]
+  ],
+  "researchNotes": "Thomas Pringle (2 Nov 1791 - 22 May 1861), eldest son of Samuel and Martha, married Elizabeth Harvey. He mined coal in partnership with his brothers-in-law, is listed among the valley's coal operators around 1843 (Pearce p.380), and in 1837 moved to a large Kingston farm whose lane later became Pringle Street. A county history says Pringle Borough 'takes its name from that of a prominent family of that vicinity' and notes that Thomas Pringle was the first president of Kingston's borough council in 1857; Wikipedia says the borough honours Thomas Pringle. Neither source says which Thomas; another Thomas Pringle, born 1821, also lived in the area.\n\nFamilySearch gives Thomas a birthplace of Monroe, Orange Co., NY, which fits the Lamoreaux and Prindle presence there around 1790. It places him at Kingston in the 1850 and 1860 censuses (as 'Thos Pringdle' in 1860) and his burial in Forty Fort Cemetery ([R4-S1]). It also gives a marriage to Elizabeth Harvey at Voluntown, Connecticut, on 5 Sep 1813. That place is unexpected and should be checked, since the Harveys were Plymouth people."
 }

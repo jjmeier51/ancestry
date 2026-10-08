@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "First Lady; John's 4th cousin 7x removed via Tuthill (also 5C6R via Wells).",
-  "bio": "Daughter of Anna Tuthill; raised on Long Island by her Tuthill grandparents. Grandmother of President Benjamin Harrison.\n\nEach connecting generation is now sourced from Akerly's Tuthill genealogy ([R4-S1]) and Hayes's Wells genealogy ([R4-S3]): John Tuthill (1635-1717, 12 generations above John) -> Henry Tuthill 'the Justice' (b. 1 May 1665, d. 4 Jan 1750; m. Bethia Horton, daughter of Capt. Jonathan Horton and Bethia, daughter of William Wells) -> Henry (b. 1690, d. 1 Sep 1775) -> Henry (b. before Dec 1715, d. 17 Sep 1793; m. 16 Mar 1738 Phoebe Horton) -> Anna Tuthill (m. John Cleves Symmes) -> Anna. Akerly states outright: 'Henry's grand-da., Anna Symmes, m. President Wm. Henry Harrison, and was the grandmother of President Benjamin Harrison.' Result: 4th cousin 7 times removed via Tuthill and 5th cousin 6 times removed via William Wells, both confirmed generation by generation in compiled sources. A third, conditional route: both Bethia Horton and Phoebe Horton descend from Barnabas Horton, whom Round 3 places 13 generations above John through Rachel Browne (probable); that would add 5C7R twice. Wikipedia ([R4-S2]) notes she was the only First Lady never to visit the capital during her husband's presidency.",
+  "summary": "First Lady as wife of President William Henry Harrison and grandmother of President Benjamin Harrison; John's 4th cousin 7 times removed.",
+  "bio": "Anna Symmes Harrison, born Anna Tuthill Symmes on 25 July 1775, was the daughter of John Cleves Symmes and Anna Tuthill. She was raised on Long Island by her Tuthill grandparents. She married William Henry Harrison and became First Lady on his election as president, though she was the only First Lady never to visit the capital during her husband's term. She was the grandmother of President Benjamin Harrison and died on 25 February 1864.\n\nHer Tuthill descent runs from John Tuthill (1635–1717), twelve generations above John, through Henry Tuthill \"the Justice\" (1665–1750), who married Bethia Horton, daughter of Captain Jonathan Horton and Bethia Wells; his son Henry (1690–1775); the next Henry (born by 1715, died 1793), who married Phoebe Horton in 1738; and that Henry's daughter Anna Tuthill, Mrs. Symmes. The Tuthill historian Akerly notes outright that \"Henry's grand-da., Anna Symmes, m. President Wm. Henry Harrison, and was the grandmother of President Benjamin Harrison.\" That makes her John's 4th cousin seven times removed, and through William Wells a 5th cousin six times removed; if the Rachel Browne line to Barnabas Horton holds, both Bethia and Phoebe Horton add further cousinships.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Anna_Harrison",
     "McCurdy, https://mccurdyfamilylineage.com/ancestry/p14544.htm",
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486911.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -80,5 +84,6 @@
       "found": "Same person; Wikipedia gives 25 Jul 1775",
       "assessment": "Merge the two records."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Anna Tuthill; raised on Long Island by her Tuthill grandparents. Grandmother of President Benjamin Harrison.\n\nEach connecting generation is now sourced from Akerly's Tuthill genealogy ([R4-S1]) and Hayes's Wells genealogy ([R4-S3]): John Tuthill (1635-1717, 12 generations above John) -> Henry Tuthill 'the Justice' (b. 1 May 1665, d. 4 Jan 1750; m. Bethia Horton, daughter of Capt. Jonathan Horton and Bethia, daughter of William Wells) -> Henry (b. 1690, d. 1 Sep 1775) -> Henry (b. before Dec 1715, d. 17 Sep 1793; m. 16 Mar 1738 Phoebe Horton) -> Anna Tuthill (m. John Cleves Symmes) -> Anna. Akerly states outright: 'Henry's grand-da., Anna Symmes, m. President Wm. Henry Harrison, and was the grandmother of President Benjamin Harrison.' Result: 4th cousin 7 times removed via Tuthill and 5th cousin 6 times removed via William Wells, both confirmed generation by generation in compiled sources. A third, conditional route: both Bethia Horton and Phoebe Horton descend from Barnabas Horton, whom Round 3 places 13 generations above John through Rachel Browne (probable); that would add 5C7R twice. Wikipedia ([R4-S2]) notes she was the only First Lady never to visit the capital during her husband's presidency."
 }

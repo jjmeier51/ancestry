@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 9x removed (Job → Aaron → Abner); 'an ardent patriot' whose house in the Village of the Branch is the one landmark built by John's direct Job line.",
-  "bio": "Signed the Articles of Association. The 'Abner Smith House on Hauppauge Road' pictured in F. K. Smith (1967) stood on Village Way in the Village of the Branch, Smithtown ('Hauppauge Road' = old Route 111, which ends at the Branch), not in Hauppauge. Pelletreau p. 356: Capt. Richard Smith's 1736 tract was left to son Isaac in 1764 'except 10 acres which he directed to be sold', 'probably sold to Abner Smith'; the 1736 survey map marks '10 acres sold to Abner Smith' in its NE corner. In 1792 Abner's daughter Juliana quitclaimed to her brother Elisha 'all that tract of land formerly my father's Abner Smith, bounded west by the river, north and east by Wm Arthur and south by Obadiah Smith' — on the east side of the Nissequogue beside the 'Old mill creek', site of Smithtown's first mill, where relics of the old dam were visible in 1898 (pp. 44 note, 356). A first cousin of Temperance if she was James's daughter — the closest blood relative tied to any 'Hauppauge' landmark.",
+  "summary": "\"An ardent patriot\" of Smithtown who signed the Articles of Association and whose house in the Village of the Branch is a local landmark; John's 1st cousin 9 times removed.",
+  "bio": "Abner Smith (1734-1782), a grandson of Job Smith through Aaron Smith, was John's 1st cousin 9 times removed and the closest blood relative tied to any landmark in the Hauppauge area. Remembered as \"an ardent patriot\", he signed the Articles of Association at the Revolution. He acquired ten acres of Captain Richard Smith's 1736 tract, and his house, often called the Abner Smith House on Hauppauge Road, stood on Village Way in the Village of the Branch at Smithtown; the old Hauppauge Road ended at the Branch, so the house was never in Hauppauge itself.\n\nHis land lay on the east side of the Nissequogue River beside the Old Mill Creek, the site of Smithtown's first mill, where relics of the old dam could still be seen in 1898. In 1792 his daughter Juliana released to her brother Elisha \"all that tract of land formerly my father's Abner Smith, bounded west by the river, north and east by Wm Arthur and south by Obadiah Smith\". If Temperance Smith was a daughter of James Smith, Abner was her first cousin.",
   "residences": [
     {
       "place": "Village Way, Village of the Branch, Smithtown, Suffolk County, New York, USA"
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0269.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -68,5 +72,6 @@
       "place": "",
       "description": "Mother Seviah, daughter of James Sands. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Signed the Articles of Association. The 'Abner Smith House on Hauppauge Road' pictured in F. K. Smith (1967) stood on Village Way in the Village of the Branch, Smithtown ('Hauppauge Road' = old Route 111, which ends at the Branch), not in Hauppauge. Pelletreau p. 356: Capt. Richard Smith's 1736 tract was left to son Isaac in 1764 'except 10 acres which he directed to be sold', 'probably sold to Abner Smith'; the 1736 survey map marks '10 acres sold to Abner Smith' in its NE corner. In 1792 Abner's daughter Juliana quitclaimed to her brother Elisha 'all that tract of land formerly my father's Abner Smith, bounded west by the river, north and east by Wm Arthur and south by Obadiah Smith' — on the east side of the Nissequogue beside the 'Old mill creek', site of Smithtown's first mill, where relics of the old dam were visible in 1898 (pp. 44 note, 356). A first cousin of Temperance if she was James's daughter — the closest blood relative tied to any 'Hauppauge' landmark."
 }

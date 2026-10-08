@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grand-uncle.",
-  "bio": "John Grub (c.1765 - after 1826), Forks Twp farmer who inherited jointly with Frederick (1800 deed).\n\nFamilySearch gives John two wives, Anna Margaretha Schuch (1769-1809) and Sally Ripple, with children from 1790. It has him in the 1800 census as John Grub and in 1810 as John Croop, and attaches the will of his brother-in-law Gottlieb Hipp (Will Book 6 pp.18-19), which presumably names him ([R4-S1]). A Schuch wife is a link back to the Ulmet Schuch family of the Dolls.",
+  "summary": "Farmer of Forks Township, Northampton County, Pennsylvania, who inherited jointly with his brother Frederick; John's 5th-great-grand-uncle.",
+  "bio": "John Grub was born about 1765 and was still living after 1826. He was a farmer in Forks Township, Northampton County, Pennsylvania, and in 1800 he and his brother Frederick inherited land jointly. He married twice, first Anna Margaretha Schuch (1769–1809) and then Sally Ripple, and his children were born from 1790. His name was written John Grub in 1800 and John Croop in 1810, and his brother-in-law was Gottlieb Hipp. His Schuch wife ties the family back to the Ulmet Schuch family connected with the Dolls. He was John's 5th-great-grand-uncle.",
   "sources": [
     "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
     "[R4-S1] FamilySearch published tree, John Grub (9JB3-48L), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9JB3-48L"
@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0201.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -48,5 +52,6 @@
       "label": "FamilySearch ID",
       "value": "9JB3-48L"
     }
-  ]
+  ],
+  "researchNotes": "John Grub (c.1765 - after 1826), Forks Twp farmer who inherited jointly with Frederick (1800 deed).\n\nFamilySearch gives John two wives, Anna Margaretha Schuch (1769-1809) and Sally Ripple, with children from 1790. It has him in the 1800 census as John Grub and in 1810 as John Croop, and attaches the will of his brother-in-law Gottlieb Hipp (Will Book 6 pp.18-19), which presumably names him ([R4-S1]). A Schuch wife is a link back to the Ulmet Schuch family of the Dolls."
 }

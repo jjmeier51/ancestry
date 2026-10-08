@@ -11,8 +11,8 @@
     "Harry J. Meyer (1940)"
   ],
   "tags": [],
-  "summary": "John's 2nd great-uncle; brother of William F. Meier.",
-  "bio": "Born 24 Aug 1894 in Hazleton; saddler apprentice in a harness shop at 15 (1910); in Jan 1920, as 'Harry J. Jr.', 25, iron-works laborer, he lived at 296 Barney St next door to his parents with wife Mary and son Robert.\n\nThe 1957 Pennsylvania death index lists 'MEIER HARRY J, 62, WLKS BRE, county 40, died 01/29/57, file 5614' ([R4-S1]). This confirms the FamilySearch date of 29 Jan 1957. The tree had only the year. FamilySearch also gives burial at St Mary's Cemetery, Hanover Twp, on 1 Feb 1957 ([R4-S3]). His marriage docket (No. 79542, June 1917) shows him as a 22-year-old moulder like his father. He married Mary M. Proudlove of Forty Fort, whose father was an English-born blacksmith ([R4-S2]). On this docket his father's birthplace is written 'Penna', which contradicts the German birth recorded elsewhere. Their children were Robert J. (1918–98), Marjorie (1920–2010, Mrs. Harold Stitzer), Harry J. Jr. (1924–95) and Regina (1926–2012, Mrs. Francis Gimber) ([R4-S3]).",
+  "summary": "Hazleton-born iron moulder of Wilkes-Barre and brother of William F. Meier; John's 2nd great-uncle.",
+  "bio": "Henry James Meier, known as Harry, was born on 24 August 1894 in Hazleton, Pennsylvania, and was a brother of William F. Meier. At 15 he was an apprentice saddler in a harness shop. On 13 June 1917, by then a 22-year-old moulder like his father, he married Mary M. Proudlove of Forty Fort, the daughter of an English-born blacksmith.\n\nIn January 1920, listed as 'Harry J. Jr.', he was working as a labourer at an iron works and living on Barney Street in Wilkes-Barre, next door to his parents, with his wife Mary and their small son Robert. The family was still on Barney Street in 1930 and 1940, and he lived there to the end of his life. His children were Robert J. (1918–1998), Marjorie (1920–2010), who married Harold Stitzer, Harry J. Jr. (1924–1995) and Regina (1926–2012), who married Francis Gimber.\n\nHe died in Wilkes-Barre on 29 January 1957, aged 62, and was buried on 1 February in St. Mary's Cemetery, Hanover Township. He is John's 2nd great-uncle.",
   "sources": [
     "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
     "1910 and 1920 census images",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0013.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -104,5 +108,6 @@
       "people": [],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LVCM-ZBQ/images/i/2/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Born 24 Aug 1894 in Hazleton; saddler apprentice in a harness shop at 15 (1910); in Jan 1920, as 'Harry J. Jr.', 25, iron-works laborer, he lived at 296 Barney St next door to his parents with wife Mary and son Robert.\n\nThe 1957 Pennsylvania death index lists 'MEIER HARRY J, 62, WLKS BRE, county 40, died 01/29/57, file 5614' ([R4-S1]). This confirms the FamilySearch date of 29 Jan 1957. The tree had only the year. FamilySearch also gives burial at St Mary's Cemetery, Hanover Twp, on 1 Feb 1957 ([R4-S3]). His marriage docket (No. 79542, June 1917) shows him as a 22-year-old moulder like his father. He married Mary M. Proudlove of Forty Fort, whose father was an English-born blacksmith ([R4-S2]). On this docket his father's birthplace is written 'Penna', which contradicts the German birth recorded elsewhere. Their children were Robert J. (1918–98), Marjorie (1920–2010, Mrs. Harold Stitzer), Harry J. Jr. (1924–95) and Regina (1926–2012, Mrs. Francis Gimber) ([R4-S3])."
 }

@@ -9,8 +9,8 @@
     "Charity Davenport (1759)"
   ],
   "tags": [],
-  "summary": "John's 6th-great-grand-aunt (sister of Ensign Thomas); founder with her husband of Plymouth's Davenport clan.",
-  "bio": "Charity Lamoreux (1759-1848), sister of Ensign Thomas, married her first cousin Thomas Davenport (1749-1812); they came to Plymouth in 1794. Their sons were the 'Davenport congress'. Their daughters Phoebe (m. John Pringle) and Hannah (m. Jacob Gould; mother of Charity Gould Pringle) married into the Pringles.\n\nFamilySearch attaches a New York christening index entry for 'Charity Lamoreau', baptized 27 Mar 1760 at Philipstown (born 26 Jan 1759), and gives her death date as 4 Oct 1848. Her 1820 census entry is as Charity Davenport ([R4-S1]). The baptism confirms the Philipstown connection of Jean's family.",
+  "summary": "Sister of Ensign Thomas Lamoreux who, with her husband Thomas Davenport, founded Plymouth's Davenport clan; John's 6th-great-grand-aunt.",
+  "bio": "Charity Lamoreux was born on 26 January 1759 and baptized at Philipstown, New York, on 27 March 1760, a sister of Ensign Thomas Lamoreux and John's 6th-great-grand-aunt. Her baptism at Philipstown confirms her family's connection with that place. On 22 February 1774, at Newburgh in Orange County, she married her first cousin Thomas Davenport (1749-1812), and in 1794 the couple came to Plymouth, Pennsylvania, where they founded the Davenport clan; their sons became known as the \"Davenport congress\".\n\nTheir daughters married into the Pringle family: Phoebe married John Pringle, and Hannah married Jacob Gould and became the mother of Charity Gould Pringle. Charity was still living as a widow in 1820 and died on 4 October 1848.",
   "sources": [
     "Harvey Book pp.355-356",
     "WikiTree Lamoreux-10: https://www.wikitree.com/wiki/Lamoreux-10",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0185.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -65,5 +69,6 @@
       "label": "FamilySearch ID",
       "value": "L1HR-MGW"
     }
-  ]
+  ],
+  "researchNotes": "Charity Lamoreux (1759-1848), sister of Ensign Thomas, married her first cousin Thomas Davenport (1749-1812); they came to Plymouth in 1794. Their sons were the 'Davenport congress'. Their daughters Phoebe (m. John Pringle) and Hannah (m. Jacob Gould; mother of Charity Gould Pringle) married into the Pringles.\n\nFamilySearch attaches a New York christening index entry for 'Charity Lamoreau', baptized 27 Mar 1760 at Philipstown (born 26 Jan 1759), and gives her death date as 4 Oct 1848. Her 1820 census entry is as Charity Davenport ([R4-S1]). The baptism confirms the Philipstown connection of Jean's family."
 }

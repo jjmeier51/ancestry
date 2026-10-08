@@ -16,9 +16,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815608.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Bruno was baptized on 23 March 1751, son of Gaetano Ferlaino and Candida Colosimo ([R4-S1]). He married Francesca Moraca on 3 November 1777 ([R4-S2]). Their sons Nicola Maria (1778) and Vincenzo (1781) both head lines that lead to John.",
+  "bio": "Bruno Ferlaino was baptized on 23 March 1751 at San Mango D'Aquino, Italy, the son of Gaetano Ferlaino and Candida Colosimo. He married Francesca Moraca on 3 November 1777. Their sons Nicola Maria, born in 1778, and Vincenzo, born in 1781, each head a line of descent that leads to John, who is Bruno's 5th-great-grandson.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -26,5 +30,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1747-1767 (Book 5), image 18, p. 31, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 30, p. 54, no. 18; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Bruno was baptized on 23 March 1751, son of Gaetano Ferlaino and Candida Colosimo ([R4-S1]). He married Francesca Moraca on 3 November 1777 ([R4-S2]). Their sons Nicola Maria (1778) and Vincenzo (1781) both head lines that lead to John.",
+  "summary": "Son of Gaetano Ferlaino and Candida Colosimo of San Mango d'Aquino, whose two sons both lead down to John; John's 5th-great-grandfather."
 }

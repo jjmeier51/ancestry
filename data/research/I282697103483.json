@@ -5,8 +5,8 @@
     "note": "Tree only (with record-image thumbnail); birth year given without source."
   },
   "tags": [],
-  "summary": "John's maternal 5th great-grandfather per the tree; father of Domenica Malvaso.",
-  "bio": "Tree: Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742), with record images. Round 1 flagged the b. 1740 / b. 1742 dates as unsourced. Probably of Dasà or Acquaro.",
+  "summary": "Husband of Catarina Croce and father of Domenica Malvaso, of Dasà in Calabria; John's maternal 5th-great-grandfather.",
+  "bio": "Nicola Malvaso was born about 1740 and lived at Dasà in Calabria, or possibly at nearby Acquaro. He married Catarina Croce, born about 1742, and was the father of Domenica Malvaso. He died at Dasà. The birth years of husband and wife are approximate. He is John's maternal 5th-great-grandfather.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,6 +44,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282697103483.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Nicola Malvaso (b. 1740) + Catarina Croce (b. 1742), with record images. Round 1 flagged the b. 1740 / b. 1742 dates as unsourced. Probably of Dasà or Acquaro."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 5x removed.",
-  "bio": "Son of Richard Heffernan and Anastasia Boney; 1835-1891; married Margaret Fennelly.",
+  "summary": "Son of Richard Heffernan and Anastasia Boney and husband of Margaret Fennelly; John's 1st cousin 5x removed.",
+  "bio": "John Heffernan (1835–1891) was the son of Richard Heffernan and Anastasia Boney. He married Margaret Fennelly. He was John's 1st cousin 5x removed.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0128.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Richard Heffernan and Anastasia Boney; 1835-1891; married Margaret Fennelly."
 }

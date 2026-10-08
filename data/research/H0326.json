@@ -9,7 +9,7 @@
     "Dr. Henry Wells of Montague"
   ],
   "tags": [],
-  "summary": "Physician, one of the 23 patentees of Brattleboro, VT, Princeton 1757; possible Wells cousin.",
+  "summary": "Physician, Princeton graduate of 1757 and one of the 23 patentees of Brattleboro, Vermont, later of Montague, Massachusetts; probably John's 3rd cousin 8 times removed.",
   "sources": [
     "Hayes (1878) ch. VII",
     "[R4-S1] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), pp. 33, 38, ch. VI-VII (secondary) https://archive.org/details/williamwellsofso00byuhaye",
@@ -40,7 +40,12 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0326.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Hayes ([R4-S1]) gives his full line: William Wells I of Southold -> William II (b. 1660, m. 1681 Elizabeth Tuthill, daughter of John Tuthill 1635) -> Henry I (b. 7 Feb 1690) -> Obadiah (b. Nov 1716, d. Montague 27 May 1800) -> Dr. Henry. That puts him 4 generations below William Wells and 4 below John Tuthill (both 12 above John): 3rd cousin 8 times removed, twice over. One of the founders of Brattleboro's church society, he later moved to Montague, Mass. Hayes stresses that neither he nor his father was a Tory despite their New York loyalties in the Vermont dispute."
+  "bio": "Dr. Henry Wells was born in 1742, the son of Obadiah Wells and a descendant of William Wells I of Southold through William Wells II, who married Elizabeth Tuthill, daughter of John Tuthill, in 1681, and their son Henry I, born in 1690. He graduated from Princeton in 1757 and practised as a physician. He was one of the 23 patentees of Brattleboro, Vermont, and one of the founders of its church society, and he later moved to Montague, Massachusetts. Although he and his father sided with New York in the dispute over Vermont, neither of them was a Tory. He is probably John's 3rd cousin 8 times removed, both through William Wells and through John Tuthill.",
+  "researchNotes": "Hayes ([R4-S1]) gives his full line: William Wells I of Southold -> William II (b. 1660, m. 1681 Elizabeth Tuthill, daughter of John Tuthill 1635) -> Henry I (b. 7 Feb 1690) -> Obadiah (b. Nov 1716, d. Montague 27 May 1800) -> Dr. Henry. That puts him 4 generations below William Wells and 4 below John Tuthill (both 12 above John): 3rd cousin 8 times removed, twice over. One of the founders of Brattleboro's church society, he later moved to Montague, Mass. Hayes stresses that neither he nor his father was a Tory despite their New York loyalties in the Vermont dispute."
 }

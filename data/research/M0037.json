@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: sibling of I282604494274 (probable); child of H0003 (probable)."
   },
   "tags": [],
-  "summary": "Daughter of Edward McGuire and Mary Jane Gaffney; age 12 in the 1870 Danville household",
-  "bio": "Daughter of Edward McGuire and Mary Jane Gaffney; age 12 in the 1870 Danville household. Married Michael E. Riley (1850-1892) and was widowed young; children Celia (1882-1938), Edward A. (1884-1907), James Aloysius (1885-1939), Johanna Gertrude (1886-1957), Mary A. (1888-1950, m. Daniel F. Burns) and Eugene Francis (1890-1918). Lived in Plymouth 1880-1940. Sister of James McGuire (I282604494274), so John's 3rd-great-grand-aunt.",
+  "summary": "Daughter of Edward McGuire and Mary Jane Gaffney, widow of Michael E. Riley of Plymouth, Pennsylvania; probably John's 3rd-great-grand-aunt.",
+  "bio": "Mary McGuire was born on 3 November 1858 in the Bloomsburg area of Pennsylvania, the daughter of Edward McGuire and Mary Jane Gaffney, and was twelve when the family was living at Danville in 1870. She is probably a sister of James McGuire, which would make her John's 3rd-great-grand-aunt.\n\nShe married Michael E. Riley (1850–1892) and was widowed young. Their children were Celia (1882–1938), Edward A. (1884–1907), James Aloysius (1885–1939), Johanna Gertrude (1886–1957), Mary A. (1888–1950), who married Daniel F. Burns, and Eugene Francis (1890–1918). Mrs. Riley lived in Plymouth from 1880 until at least 1940 and died there on 4 June 1942. She was buried in St. Vincent's Cemetery, Larksville.",
   "sources": [
     "[R4-S1] FamilySearch tree L1RT-FT3, Mary McGuire (1858-1942) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L1RT-FT3",
     "[R4-S2] 1870 census, Mahoning Twp, Montour Co. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg"
@@ -16,6 +16,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-201 → M0037; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of Edward McGuire and Mary Jane Gaffney; age 12 in the 1870 Danville household. Married Michael E. Riley (1850-1892) and was widowed young; children Celia (1882-1938), Edward A. (1884-1907), James Aloysius (1885-1939), Johanna Gertrude (1886-1957), Mary A. (1888-1950, m. Daniel F. Burns) and Eugene Francis (1890-1918). Lived in Plymouth 1880-1940. Sister of James McGuire (I282604494274), so John's 3rd-great-grand-aunt."
 }

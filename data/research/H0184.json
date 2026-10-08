@@ -9,8 +9,8 @@
     "Milly Case"
   ],
   "tags": [],
-  "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Amelia 'Milly' Lamoreaux married Fletcher Case. A sister Jane also married a Case.\n\nFamilySearch gives Amelia (Milly) the dates 18 Feb 1798 to 7 Feb 1868, her marriage to Fletcher Case (1804-1849) in Jackson Twp in 1827, and her 1850 census entry as a widow, Amelia Case ([R4-S1]).",
+  "summary": "Amelia 'Milly' Lamoreaux (1798–1868), wife of Fletcher Case of Jackson Township, Luzerne County; John's 5th-great-grand-aunt.",
+  "bio": "Amelia Lamoreaux, known as Milly, was born on 18 February 1798 at Monroe, New York. In 1827, in Jackson Township, Luzerne County, she married Fletcher Case (1804–1849); her sister Jane also married a Case. By 1850 she was a widow, recorded as Amelia Case. She died on 7 February 1868.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0184.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -56,5 +60,6 @@
       "label": "FamilySearch ID",
       "value": "L7JJ-ZP9"
     }
-  ]
+  ],
+  "researchNotes": "Amelia 'Milly' Lamoreaux married Fletcher Case. A sister Jane also married a Case.\n\nFamilySearch gives Amelia (Milly) the dates 18 Feb 1798 to 7 Feb 1868, her marriage to Fletcher Case (1804-1849) in Jackson Twp in 1827, and her 1850 census entry as a widow, Amelia Case ([R4-S1])."
 }

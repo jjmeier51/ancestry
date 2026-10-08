@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "17th president of the College of William & Mary; John's 6th cousin 5x removed.",
+  "summary": "Son of President John Tyler and 17th president of the College of William & Mary; John's 6th cousin 5 times removed.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Lyon_Gardiner_Tyler",
     "[R4-S1] Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149 (secondary) https://archive.org/details/liongardinerhisd00gard"
@@ -28,6 +28,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0297.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -67,5 +71,6 @@
     }
   ],
   "photo": "media/H0297/lyon-gardiner-tyler-portrait.jpg",
-  "bio": "6th cousin 5 times removed; listed as son 'Lyon-G.' of Juliana and President Tyler ([R4-S1])."
+  "bio": "Lyon Gardiner Tyler was born in 1853 at Sherwood Forest Plantation in Charles City County, Virginia, a son of President Tyler and his wife Juliana, in whose family he is listed as 'Lyon-G.'. He became the 17th president of the College of William & Mary and died in 1935. He was John's 6th cousin 5 times removed.",
+  "researchNotes": "6th cousin 5 times removed; listed as son 'Lyon-G.' of Juliana and President Tyler ([R4-S1])."
 }

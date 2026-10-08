@@ -20,8 +20,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 2nd great-grandmother; English-born, immigrated c.1870–72 with Welsh-born father Edward F. Jones.",
-  "bio": "Anna C. Jones was born Mar 1865 in England and immigrated about 1870–72 (FS GZQT-T86). Her parents were Edward F. Jones (b. c.1840 Wales) and Margaret McIver (b. c.1845 England), in Plymouth in 1880. She married James McGuire and was mother of 11+ children including Francis J. (1898). Her brother Joseph S. Jones married Agnes M. McAvoy, sister of her daughter-in-law Elizabeth. She died 2 Jan 1925 in Larksville.\n\nThe 1925 state death index lists \"McGuire, Anna C.; 7765; Larksville; Jan. 2\" ([R4-S1]). In the 1880 census at Plymouth Township, Ann C. Jones, 15, born in England, lived with her Welsh-born father Edward F. Jones (miner) and English-born mother Margaret; her sisters Rose (13) and Mary (10, a servant) were also born in England, and her brother William J. was born in Pennsylvania in September 1879 ([R4-S2]). The family therefore came over between about 1870 and 1879. Her son William's 1927 licence again gives her birthplace as England ([R4-S3]).",
+  "summary": "English-born daughter of a Welsh miner who came to Plymouth, Pennsylvania, as a child and married James McGuire; John's 2nd-great-grandmother.",
+  "bio": "Anna C. Jones was born in England in March 1865, the daughter of Edward F. Jones, a Welsh-born miner, and Margaret McIver, who was English. The family crossed to America in the 1870s, probably about 1870 to 1872, and by 1880 were living in Plymouth Township, Luzerne County, Pennsylvania; her sisters Rose and Mary had been born in England, while her brother William J. was born in Pennsylvania in September 1879.\n\nAnna married James McGuire and became the mother of at least eleven children, among them Francis J. McGuire, born in 1898. The families were doubly joined when her brother Joseph S. Jones married Agnes M. McAvoy, a sister of Anna's daughter-in-law Elizabeth. The McGuires lived at Plymouth in 1900 and at Larksville by 1910, and Anna died at Larksville on 2 January 1925 and was buried there. She is John's 2nd-great-grandmother.",
   "sources": [
     "FamilySearch tree GZQT-T86",
     "1923 Luzerne licence No. 635",
@@ -51,6 +51,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604494275.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -74,5 +78,6 @@
       ],
       "url": "https://familysearch.org/ark:/61903/1:1:MWNZ-HXR"
     }
-  ]
+  ],
+  "researchNotes": "Anna C. Jones was born Mar 1865 in England and immigrated about 1870–72 (FS GZQT-T86). Her parents were Edward F. Jones (b. c.1840 Wales) and Margaret McIver (b. c.1845 England), in Plymouth in 1880. She married James McGuire and was mother of 11+ children including Francis J. (1898). Her brother Joseph S. Jones married Agnes M. McAvoy, sister of her daughter-in-law Elizabeth. She died 2 Jan 1925 in Larksville.\n\nThe 1925 state death index lists \"McGuire, Anna C.; 7765; Larksville; Jan. 2\" ([R4-S1]). In the 1880 census at Plymouth Township, Ann C. Jones, 15, born in England, lived with her Welsh-born father Edward F. Jones (miner) and English-born mother Margaret; her sisters Rose (13) and Mary (10, a servant) were also born in England, and her brother William J. was born in Pennsylvania in September 1879 ([R4-S2]). The family therefore came over between about 1870 and 1879. Her son William's 1927 licence again gives her birthplace as England ([R4-S3])."
 }

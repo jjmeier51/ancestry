@@ -11,7 +11,7 @@
     "Madeleine Edelberta Meier"
   ],
   "tags": [],
-  "summary": "John's 2nd great-aunt; sister of William F. Meier.",
+  "summary": "Sister of William F. Meier and John's 2nd great-aunt, a Wilkes-Barre bookkeeper who married Joseph Daniel Callaghan in 1936 and settled in Lyndhurst, New Jersey.",
   "sources": [
     "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
     "1910 and 1920 census images",
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0015.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -68,8 +72,9 @@
       "description": "Married Joseph Daniel Callaghan, 39, clerk, of 500 Bergen Ave, Jersey City NJ (b. Mayfield PA; son of John M. Callaghan, b. England, and Catherine Killer, b. St. Clair PA, both dead). Luzerne licence No. 1829 C was sworn 10 Oct and issued 17 Oct 1936. She was 36, a bookkeeper, of 16 Barney St. Her father is given as Henry Joseph, molder, b. Germany, and her mother as Anna Higgins, b. New Philadelphia, PA. [R4-S1]"
     }
   ],
-  "bio": "Madeline's 1936 marriage application was sworn on 10 Oct 1936 ([R4-S1]). She was a 36-year-old bookkeeper living at home at 16 Barney Street. She married Joseph Daniel Callaghan, a 39-year-old clerk from Jersey City, on 24 Oct 1936 at Wilkes-Barre. The licence states plainly that her father Henry Joseph, a molder, was born in Germany. It also gives a new clue for the Irish side: her mother Anna Higgins was born at New Philadelphia, Schuylkill County ([R4-S1]). The couple settled in Lyndhurst, New Jersey. FamilySearch has her death there on 20 Jan 1995 and burial at St Mary's, Hanover Twp. Joseph died in 1961 ([R4-S2]).",
+  "bio": "Madeline Edelberta Meier was born in Wilkes-Barre, Luzerne County, Pennsylvania, on 8 September 1900, a sister of William F. Meier and John's 2nd great-aunt. She worked as a bookkeeper and was still living at home on Barney Street at the age of 36 when, on 24 October 1936, she married Joseph Daniel Callaghan, a 39-year-old clerk from Jersey City, at Wilkes-Barre. Her marriage papers record that her father Henry Joseph Meier, a molder, was born in Germany and that her mother Anna Higgins was born at New Philadelphia in Schuylkill County.\n\nThe couple settled in Lyndhurst, New Jersey. Joseph died in 1961. Madeline died at Lyndhurst, Bergen County, on 20 January 1995 and was buried at St. Mary's Cemetery in Hanover Township, Luzerne County.",
   "openQuestions": [
     "Anna Higgins's birthplace is given as New Philadelphia, PA (1936). Pass this to the Irish/Higgins line."
-  ]
+  ],
+  "researchNotes": "Madeline's 1936 marriage application was sworn on 10 Oct 1936 ([R4-S1]). She was a 36-year-old bookkeeper living at home at 16 Barney Street. She married Joseph Daniel Callaghan, a 39-year-old clerk from Jersey City, on 24 Oct 1936 at Wilkes-Barre. The licence states plainly that her father Henry Joseph, a molder, was born in Germany. It also gives a new clue for the Irish side: her mother Anna Higgins was born at New Philadelphia, Schuylkill County ([R4-S1]). The couple settled in Lyndhurst, New Jersey. FamilySearch has her death there on 20 Jan 1995 and burial at St Mary's, Hanover Twp. Joseph died in 1961 ([R4-S2])."
 }

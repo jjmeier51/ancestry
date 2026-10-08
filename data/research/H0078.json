@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 8th-great-grandmother; of the Jung family of Jettenbach.",
-  "bio": "Daughter of Paul Jung of Jettenbach and Maria Barbara; died at Jettenbach 28 Mar 1734. The Jettenbach Grubs married Jungs for generations.\n\nThe site's 'Gretha Catharina Jung' merges two women. Johann Peter Grub's first wife was Gretha (Margretha) Catharina, named in the Reichenbach baptisms of their daughters in 1684 and 1687 ([R4-S1], [R4-S2]). FamilySearch gives her surname as unknown and her death as before Oct 1694 ([R4-S3]). On 19 Oct 1694 Peter married Elisabetha Catharina Jung (c.1674-1734), daughter of Paul Jung and Maria Barbara of Jettenbach. It is she who died on 28 Mar 1734, the death date the site gives this person ([R4-S4]). If Johann Nickel Grub (c.1694) was born before October 1694, as FamilySearch has it, John descends from the first wife, whose surname is unknown, and not from the Jungs through this line. The Jungs remain John's ancestors either way, through Maria Sara Jung, mother of Elisabetha Margaretha Lampert (see H0075 and H0082).",
+  "summary": "Wife of Johann Peter Grub of Jettenbach; the records combine his two wives, Gretha Catharina and Elisabetha Catharina Jung, who died in 1734; John's 8th-great-grandmother.",
+  "bio": "Gretha (Margretha) Catharina was the first wife of Johann Peter Grub and is named as the mother at the baptisms of their daughters in the Reichenbach Lutheran parish in 1684 and 1687; her maiden name is unknown, and she had died by October 1694. On 19 October 1694 Peter married Elisabetha Catharina Jung (about 1674-1734), daughter of Paul Jung of Jettenbach and Maria Barbara, and it was she who died at Jettenbach on 28 March 1734. The family records combine the two women under the single name Gretha Catharina Jung. The Grubs of Jettenbach married into the Jung family for generations.\n\nWhich wife was the mother of Johann Nickel Grub, born about 1694, decides whether John descends from this Jung marriage: if Nickel was born before October 1694, John's 8th-great-grandmother is the first wife, whose surname is unknown. Either way the Jungs are among John's ancestors through Maria Sara Jung, mother of Elisabetha Margaretha Lampert.",
   "sources": [
     "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), persons 1193191773, 1193191876: https://gedbas.genealogy.net/person/show/1193191773",
     "[R4-S1] Reichenbach Lutheran register, baptisms 1684 p.7 (Anna Catharina Grub) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/1/image.jpg",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0078.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -56,5 +60,6 @@
   ],
   "openQuestions": [
     "Split this record: first wife Gretha/Margretha Catharina (surname unknown) versus Elisabetha Catharina Jung. Nickel's baptism decides which was John's ancestress."
-  ]
+  ],
+  "researchNotes": "Daughter of Paul Jung of Jettenbach and Maria Barbara; died at Jettenbach 28 Mar 1734. The Jettenbach Grubs married Jungs for generations.\n\nThe site's 'Gretha Catharina Jung' merges two women. Johann Peter Grub's first wife was Gretha (Margretha) Catharina, named in the Reichenbach baptisms of their daughters in 1684 and 1687 ([R4-S1], [R4-S2]). FamilySearch gives her surname as unknown and her death as before Oct 1694 ([R4-S3]). On 19 Oct 1694 Peter married Elisabetha Catharina Jung (c.1674-1734), daughter of Paul Jung and Maria Barbara of Jettenbach. It is she who died on 28 Mar 1734, the death date the site gives this person ([R4-S4]). If Johann Nickel Grub (c.1694) was born before October 1694, as FamilySearch has it, John descends from the first wife, whose surname is unknown, and not from the Jungs through this line. The Jungs remain John's ancestors either way, through Maria Sara Jung, mother of Elisabetha Margaretha Lampert (see H0075 and H0082)."
 }

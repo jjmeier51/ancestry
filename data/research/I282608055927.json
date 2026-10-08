@@ -16,8 +16,8 @@
     "Mehitable Tuthill"
   ],
   "tags": [],
-  "summary": "John's 9th-great-grandmother, daughter of Southold founder William Wells.",
-  "bio": "Born 1666 to William Wells and his second wife Mary (surname unknown). The tree names her mother 'Mary Maria YOUNGS 1619–1709', a tradition rejected by Hayes (1878) and Youngs (1907). Her sons James and Joshua were full brothers, so the Wells descent survives the tree's James/Joshua confusion — the deep-dive report notes this makes William Wells the best Society of Colonial Wars route.\n\nAkerly gives Mehitable's death as 26 Aug 1742 ([R4-S1]). The Salmon Record lists 'Jno Tuthill wife Mehetab[le]' among the 1742 deaths ([R4-S2]). Her mother was Mary, widow of William Wells, who remarried Thomas Mapes Jr. Mary's 1678 deed of gift names her daughter Mary Youngs, which explains the 'Youngs' tradition, but Mary's own maiden name is unknown ([R4-S3]).",
+  "summary": "Daughter of Southold founder William Wells and wife of John Tuthill; John's 9th-great-grandmother.",
+  "bio": "Mehitable Wells was born at Southold, Suffolk County, New York, in 1666, a daughter of William Wells, one of the founders of Southold, and his second wife Mary. Family tradition makes her mother Mary Youngs, but historians have rejected this; Mary's maiden name is unknown, and the tradition probably arose because a deed of gift she made in 1678 names her daughter Mary Youngs. After William's death Mary remarried Thomas Mapes Jr.\n\nMehitable married John Tuthill, and their sons James and Joshua, who were full brothers, carry the Wells descent down to John; through William Wells the family has its strongest claim to a Society of Colonial Wars ancestor. She died at Southold on 26 August 1742 and is listed among that year's deaths as the wife of John Tuthill. She is John's 9th-great-grandmother.",
   "facts": [
     {
       "label": "Tree shows",
@@ -52,6 +52,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608055927.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -63,5 +67,6 @@
       "note": "Mehitable Wells, 1666-08-26 – 1742-08-26",
       "url": "https://www.wikitree.com/wiki/Wells-3147"
     }
-  ]
+  ],
+  "researchNotes": "Born 1666 to William Wells and his second wife Mary (surname unknown). The tree names her mother 'Mary Maria YOUNGS 1619–1709', a tradition rejected by Hayes (1878) and Youngs (1907). Her sons James and Joshua were full brothers, so the Wells descent survives the tree's James/Joshua confusion — the deep-dive report notes this makes William Wells the best Society of Colonial Wars route.\n\nAkerly gives Mehitable's death as 26 Aug 1742 ([R4-S1]). The Salmon Record lists 'Jno Tuthill wife Mehetab[le]' among the 1742 deaths ([R4-S2]). Her mother was Mary, widow of William Wells, who remarried Thomas Mapes Jr. Mary's 1678 deed of gift names her daughter Mary Youngs, which explains the 'Youngs' tradition, but Mary's own maiden name is unknown ([R4-S3])."
 }

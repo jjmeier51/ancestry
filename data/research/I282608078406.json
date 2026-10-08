@@ -10,8 +10,8 @@
     "Liva A. Harrison"
   ],
   "tags": [],
-  "summary": "Probably John's 3rd-great-grand-aunt; shown in the tree as 'Lina Ann Harrison 1839-1910'.",
-  "bio": "The 1850 census lists 'Leva Ann', 11, in James Pringle's household. The tree shows Andrew's sibling card 'Lina Ann Harrison 1839-1910'. No online source names a Pringle-Harrison marriage in Luzerne (Bradsby, Harvey, Luzerne wills index and web search all negative). The Harrison married name and 1910 death are tree-only (unverified).\n\nThe Pennsylvania death index for 1910 has 'Harrison, Liva A.; 58862; Luzerne Co.; June 8' ([R4-S1]). The date matches the 8 Jun 1910 death on the tree card. The given name 'Liva' matches the 'Leva Ann', aged 11, in James Pringle's household in 1850, better than the tree's 'Lina'. This is the first independent record of her married name and death. The index gives only 'Luzerne Co.', meaning outside the cities, which fits the tree's Huntington Twp. Certificate 58862 should name her parents and so confirm that she was James and Elizabeth's daughter.",
+  "summary": "Probably a daughter of James and Elizabeth Pringle, recorded as Leva Ann in 1850, who died as Mrs. Harrison in Luzerne County in 1910; John's 3rd-great-grand-aunt.",
+  "bio": "Lina Ann Pringle, whose name was also written Leva Ann and Liva A., was born in Luzerne County, Pennsylvania, on 3 March 1839. In 1850, aged eleven, she was living in the household of James Pringle, and she was probably a daughter of James and Elizabeth Pringle, which would make her John's 3rd-great-grand-aunt. She married a man named Harrison. She died on 8 June 1910 in Luzerne County outside its cities, which fits the family's home in Huntington Township.",
   "sources": [
     "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
     "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608078406.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -54,5 +58,6 @@
   ],
   "openQuestions": [
     "Her husband: a Harrison of Huntington or Plymouth Twp (Harrisons were in Plymouth Twp in 1840); look for her in the 1860-1900 censuses as Livia/Lavina Harrison."
-  ]
+  ],
+  "researchNotes": "The 1850 census lists 'Leva Ann', 11, in James Pringle's household. The tree shows Andrew's sibling card 'Lina Ann Harrison 1839-1910'. No online source names a Pringle-Harrison marriage in Luzerne (Bradsby, Harvey, Luzerne wills index and web search all negative). The Harrison married name and 1910 death are tree-only (unverified).\n\nThe Pennsylvania death index for 1910 has 'Harrison, Liva A.; 58862; Luzerne Co.; June 8' ([R4-S1]). The date matches the 8 Jun 1910 death on the tree card. The given name 'Liva' matches the 'Leva Ann', aged 11, in James Pringle's household in 1850, better than the tree's 'Lina'. This is the first independent record of her married name and death. The index gives only 'Luzerne Co.', meaning outside the cities, which fits the tree's Huntington Twp. Certificate 58862 should name her parents and so confirm that she was James and Elizabeth's daughter."
 }

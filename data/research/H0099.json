@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 10th-great-grandmother; of Cozes.",
-  "bio": "Mother of Suzanne La Tour (b. 9 Dec 1666, Cozes).",
+  "summary": "Of Cozes, mother of Suzanne La Tour; John's 10th-great-grandmother.",
+  "bio": "Jeanne Meurail lived at Cozes, where her daughter Suzanne La Tour was born on 9 December 1666. She was John's 10th-great-grandmother.",
   "sources": [
     "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5 p.69"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0099.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Mother of Suzanne La Tour (b. 9 Dec 1666, Cozes)."
 }

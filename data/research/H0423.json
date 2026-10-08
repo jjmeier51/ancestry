@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0423.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -33,7 +37,7 @@
   "aka": [
     "Edith Corrine Grammes"
   ],
-  "bio": "FamilySearch: Edith Corrine Grammes, daughter of Cyrus Randolph Gramm (1829-1902) and Martha L. Robinson; married John V. Heffernan in Manhattan 4 May 1914 (NYC index as \"Edith C. Graham\"); died Wilkes-Barre 6 Nov 1938; buried Fairview Cemetery, Danville ([R4-S1]).",
+  "bio": "Edith Corrine Graham, whose family name is also spelled Grammes, was born in Pennsylvania in 1896, the daughter of Cyrus Randolph Gramm (1829–1902) and Martha L. Robinson. On 4 May 1914 she married John V. Heffernan in Manhattan, where the marriage was recorded under the name Edith C. Graham. She died at Wilkes-Barre on 6 November 1938 and was buried at Fairview Cemetery in Danville, Montour County.",
   "conflicts": [
     {
       "field": "surname",
@@ -44,5 +48,7 @@
   ],
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Edith Corrine Grammes (1896-1938), PID GM37-PDH; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GM37-PDH"
-  ]
+  ],
+  "researchNotes": "FamilySearch: Edith Corrine Grammes, daughter of Cyrus Randolph Gramm (1829-1902) and Martha L. Robinson; married John V. Heffernan in Manhattan 4 May 1914 (NYC index as \"Edith C. Graham\"); died Wilkes-Barre 6 Nov 1938; buried Fairview Cemetery, Danville ([R4-S1]).",
+  "summary": "Pennsylvania-born wife of John V. Heffernan, married in Manhattan in 1914, who died at Wilkes-Barre in 1938."
 }

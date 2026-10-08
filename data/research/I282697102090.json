@@ -5,8 +5,8 @@
     "note": "Tree only; no record found."
   },
   "tags": [],
-  "summary": "John's maternal 4th great-grandfather per the tree; father of Nicola Cognetta.",
-  "bio": "Tree: Francesco Cognetta (b. 1771) + Domenica Malvaso (1781-1848), parents of Nicola Cognetta. Not researched in civil records. Probably of Dasà (Vibo Valentia).",
+  "summary": "Francesco Cognetta, born about 1771 in Italy, father of Nicola Cognetta; John's maternal 4th-great-grandfather.",
+  "bio": "Francesco Cognetta was born about 1771 in Italy, probably at Dasà in the Vibo Valentia area. With his wife Domenica Malvaso (1781-1848) he was the father of Nicola Cognetta. He is John's maternal 4th-great-grandfather.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -40,6 +40,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282697102090.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Francesco Cognetta (b. 1771) + Domenica Malvaso (1781-1848), parents of Nicola Cognetta. Not researched in civil records. Probably of Dasà (Vibo Valentia)."
 }

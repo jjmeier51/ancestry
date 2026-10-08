@@ -316,3 +316,8 @@ strong { font-weight: 700; color: var(--text); }
 .leaflet-control-attribution a { color: var(--accent-2) !important; }
 .leaflet-bar a { background: var(--bg-2) !important; color: var(--text) !important; border-color: var(--line-strong) !important; }
 @media (min-width: 700px) { .sheet-host.map-host .sheet { width: 520px; } }
+
+/* Evidence notes (the research-note text that used to be the About section) */
+.research-notes { margin: .6rem 0; }
+.research-notes summary { cursor: pointer; color: var(--muted, #9fb0c8); font-size: .9rem; }
+.research-notes p { margin: .5rem 0; color: var(--muted, #9fb0c8); }

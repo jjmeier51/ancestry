@@ -25,13 +25,19 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0482.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
     "date": "1735-05-25"
   },
-  "bio": "Bull Smith -> Daniel -> Daniel 2d -> Mary: 2nd cousin 9 times removed. Mother of Senator John Smith (born 1752, when she was about 16).",
+  "bio": "Mary Smith was born on 25 May 1735, a daughter of Daniel Smith 2d and through his father Daniel a great-granddaughter of Bull Smith. She was the mother of Senator John Smith, who was born in 1752 when she was only about sixteen. She is John's 2nd cousin 9 times removed.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476, 491 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
-  ]
+  ],
+  "researchNotes": "Bull Smith -> Daniel -> Daniel 2d -> Mary: 2nd cousin 9 times removed. Mother of Senator John Smith (born 1752, when she was about 16).",
+  "summary": "Great-granddaughter of Bull Smith and mother of Senator John Smith; John's 2nd cousin 9x removed."
 }

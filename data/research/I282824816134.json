@@ -24,9 +24,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816134.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Giovanni Francesco was born on 5 January 1688, son of Antonino Cicco and Anna Maletta ([R4-S1]). He married Francesca Sposata on 10 September 1713 ([R4-S2]).",
+  "bio": "Giovanni Francesco Cicco, also recorded as Joannes, was born on 5 January 1688 at San Mango di Aquino in Catanzaro, Calabria, the son of Antonino Cicco and Anna Maletta. On 10 September 1713 he married Francesca Sposata. He is John's 9th-great-grandfather.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -34,5 +38,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1687-1713 (Book 3), image 5, p. 6, no. 1; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 5, p. 4, no. 10; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Giovanni Francesco was born on 5 January 1688, son of Antonino Cicco and Anna Maletta ([R4-S1]). He married Francesca Sposata on 10 September 1713 ([R4-S2]).",
+  "summary": "Son of Antonino Cicco and Anna Maletta of San Mango di Aquino, who married Francesca Sposata in 1713; John's 9th-great-grandfather."
 }

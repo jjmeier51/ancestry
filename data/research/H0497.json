@@ -17,10 +17,16 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0497.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Daughter of Joseph Blydenburgh 2d (son of the second wife of Joseph 1st), sister of Joseph Blydenburgh (1732-1833) ([R4-S1]). Not a Bull Smith descendant.",
+  "bio": "Catherine Blydenburgh was a daughter of Joseph Blydenburgh 2d, himself a son of the first Joseph Blydenburgh by his second wife, and a sister of Joseph Blydenburgh (1732–1833). She was not a descendant of Bull Smith.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 485-486 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
-  ]
+  ],
+  "researchNotes": "Daughter of Joseph Blydenburgh 2d (son of the second wife of Joseph 1st), sister of Joseph Blydenburgh (1732-1833) ([R4-S1]). Not a Bull Smith descendant.",
+  "summary": "Daughter of Joseph Blydenburgh 2d and sister of Joseph Blydenburgh (1732–1833); not a descendant of Bull Smith."
 }

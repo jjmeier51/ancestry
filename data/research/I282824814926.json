@@ -14,8 +14,8 @@
     "Pietro Dimarino"
   ],
   "tags": [],
-  "summary": "John's maternal 5th great-grandfather; with Felicita Magnotta the earliest known ancestors in Guardia Lombardi.",
-  "bio": "Tree: Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 1 flagged the identical dates as probably copied or invented. Round 3 confirmed the couple's names from son Gaetano's death act (Morti 1876 act 20). Married before about 1796. Di Marino: 6 US arrivals from Guardia 1830-1912 (paese.app).",
+  "summary": "Of Guardia Lombardi in Avellino, where with his wife Felicita Magnotta he is the earliest known ancestor of the family; John's maternal 5th-great-grandfather.",
+  "bio": "Pietro di Marino, whose name was also written Dimarino, was born at Guardia Lombardi in Avellino about 1760. With his wife Felicita Magnotta he is the earliest known ancestor of John's family in that town. The couple married before about 1796, and their names are confirmed by the death record of their son Gaetano in 1876. Both are recorded as having died in 1808, though the identical dates given for husband and wife are probably not reliable. The Di Marino name was later carried to America by a handful of emigrants from Guardia between 1830 and 1912. He was John's maternal 5th-great-grandfather.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -56,6 +56,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814926.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 1 flagged the identical dates as probably copied or invented. Round 3 confirmed the couple's names from son Gaetano's death act (Morti 1876 act 20). Married before about 1796. Di Marino: 6 US arrivals from Guardia 1830-1912 (paese.app)."
 }

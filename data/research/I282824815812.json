@@ -20,9 +20,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815812.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Saveria was baptized on 31 March 1776, daughter of Bruno Sacco and Marianna Cicco ([R4-S1]). She married Alessio Moraca in 1792. She died on 31 October 1841 as his widow ([R4-S2], [R4-S3]).",
+  "bio": "Saveria Sacco was baptized on 31 March 1776 at San Mango D'Aquino, Catanzaro, in Calabria, a daughter of Bruno Sacco and Marianna Cicco. She married Alessio Moraca in 1792 and outlived him, dying as his widow at San Mango on 31 October 1841. She was John's 6th-great-grandmother.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): Baptism, death and burial consistent; daughter Carmela's records name her."
@@ -31,5 +35,7 @@
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 66, p. 128, no. 13; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino, stato civile, Civil deaths 1841, image 1278, act 56, 31 Oct 1841; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1811-1845 (Book 27), image 114, p. 16, no. 57; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Saveria was baptized on 31 March 1776, daughter of Bruno Sacco and Marianna Cicco ([R4-S1]). She married Alessio Moraca in 1792. She died on 31 October 1841 as his widow ([R4-S2], [R4-S3]).",
+  "summary": "Of San Mango d'Aquino, wife of Alessio Moraca; John's 6th-great-grandmother."
 }

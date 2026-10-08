@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0422.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -35,8 +39,10 @@
       "note": "WWI draft registration, Alameda Co., Calif. [R4-S1]"
     }
   ],
-  "bio": "George Julius Wagner, b. California 27 Jan 1876, son of Theodore F. C. Wagner and Ida Sandow; registered to vote in Alameda in 1897; died 1927 (California Death Index) ([R4-S1]).",
+  "bio": "George Julius Wagner was born in California on 27 January 1876, the son of Theodore F. C. Wagner and Ida Sandow. He registered to vote in Alameda in 1897 and registered for the First World War draft in Alameda County. He died in California in 1927.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), George Julius Wagner (1876-1927), PID G6DD-FJ2; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G6DD-FJ2"
-  ]
+  ],
+  "researchNotes": "George Julius Wagner, b. California 27 Jan 1876, son of Theodore F. C. Wagner and Ida Sandow; registered to vote in Alameda in 1897; died 1927 (California Death Index) ([R4-S1]).",
+  "summary": "George Julius Wagner, a Californian born in 1876, son of Theodore F. C. Wagner and Ida Sandow."
 }

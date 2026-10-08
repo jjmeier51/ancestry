@@ -9,8 +9,8 @@
     "Christmann Grub of Oberbrombach"
   ],
   "tags": [],
-  "summary": "John's 10th-great-grandfather (speculative); of Oberbrombach, Birkenfeld district. His parents Hanns Grub and Elsa would be 11th-great-grandparents.",
-  "bio": "Christmann Grub of Oberbrombach and his wife Margaretha were parents of Caspar Grub (b. 1616); through them the file reaches Hanns Grub and Elsa. The file's death year 'about 1933' is a typo, probably for 1633.\n\nFamilySearch has Christmann Grub of Oberbrombach, born in 1576 or 1596, died about 1633 (which confirms that the site's 'about 1933' is a typo for 1633) ([R4-S1]). It names his parents as Hans Grub (b. 1560) and Elsa (d. 1597), his wife as 'Elssa' (born 11 Apr 1597), and his children as Veltes (1615) and Caspar (1616). The 1642 marriage index entry of Caspar Grueb and Elisabetha Birkhert names Christmann Grub as Caspar's father ([R4-S1]). FamilySearch's naming of both Hans's wife and Christmann's wife as Elsa/Elssa, one dying in 1597 and the other born in 1597, looks like a muddle.",
+  "summary": "Christmann Grub of Oberbrombach in the Birkenfeld district, father of Caspar Grub; speculatively John's 10th-great-grandfather.",
+  "bio": "Christmann Grub lived at Oberbrombach in the Birkenfeld district. The records give his birth as either 1576 or 1596 and his death as about 1633. His parents are given as Hanns Grub (born 1560) and Elsa, who died in 1597. Family records name his wife as Margaretha, though another account calls her Elssa and gives her birth as 11 April 1597; an Elsa appearing both as Hanns's wife dying in 1597 and as Christmann's wife born in 1597 looks like a muddle.\n\nHis children were Veltes (born 1615) and Caspar (born 1616), and the record of Caspar Grueb's marriage to Elisabetha Birkhert in 1642 names Christmann as the groom's father. The descent from him is speculative, but if it holds he is John's 10th-great-grandfather and his parents are John's 11th-great-grandparents.",
   "sources": [
     "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191900: https://gedbas.genealogy.net/person/show/1193191900",
     "[R4-S1] FamilySearch published tree, Christmann Grub (G9MF-GY6), citing Germany Marriages index (Caspar Grueb x Elisabetha Birkhert, father Christmann Grub) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G9MF-GY6"
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0085.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -55,5 +59,6 @@
       "found": "Elssa (FamilySearch G9MF-6ML)",
       "assessment": "Unresolved; needs the Niederbrombach baptisms of 1615-16."
     }
-  ]
+  ],
+  "researchNotes": "Christmann Grub of Oberbrombach and his wife Margaretha were parents of Caspar Grub (b. 1616); through them the file reaches Hanns Grub and Elsa. The file's death year 'about 1933' is a typo, probably for 1633.\n\nFamilySearch has Christmann Grub of Oberbrombach, born in 1576 or 1596, died about 1633 (which confirms that the site's 'about 1933' is a typo for 1633) ([R4-S1]). It names his parents as Hans Grub (b. 1560) and Elsa (d. 1597), his wife as 'Elssa' (born 11 Apr 1597), and his children as Veltes (1615) and Caspar (1616). The 1642 marriage index entry of Caspar Grueb and Elisabetha Birkhert names Christmann Grub as Caspar's father ([R4-S1]). FamilySearch's naming of both Hans's wife and Christmann's wife as Elsa/Elssa, one dying in 1597 and the other born in 1597, looks like a muddle."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "New York City Comptroller and 1969 Democratic nominee for mayor; born in Bisaccia, no known kinship.",
-  "bio": "Born 1912 in Bisaccia. Also from Bisaccia (town-mate only): poet Franco Arminio (b. 1960), of the 'paesologia' of depopulated Irpinia.\n\nBorn 5 September 1912 at Bisaccia (Avellino); New York City Comptroller 1966-69; died 20 December 1995 in the Bronx ([R4-S1]). He is a town-mate notable only; no kinship found.",
+  "summary": "New York City Comptroller and 1969 Democratic nominee for mayor, born in Bisaccia; a town-mate of John's ancestors with no known kinship.",
+  "bio": "Mario Procaccino was born at Bisaccia, in the province of Avellino, on 5 September 1912. He served as Comptroller of New York City from 1966 to 1969 and was the Democratic nominee for mayor in 1969. He died in the Bronx on 20 December 1995. He is included as a notable native of Bisaccia, the home town of John's ancestors; no kinship has been found. Bisaccia also produced the poet Franco Arminio, born in 1960, known for his 'paesologia' of the depopulated villages of Irpinia.",
   "sources": [
     "paese.app Bisaccia: https://paese.app/regioni/campania/avellino/bisaccia",
     "[R4-S1] English Wikipedia, \"Mario Procaccino\" (secondary) https://en.wikipedia.org/wiki/Mario_Procaccino"
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0382.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,5 +46,6 @@
   "death": {
     "date": "1995-12-20",
     "place": "Bronx, New York"
-  }
+  },
+  "researchNotes": "Born 1912 in Bisaccia. Also from Bisaccia (town-mate only): poet Franco Arminio (b. 1960), of the 'paesologia' of depopulated Irpinia.\n\nBorn 5 September 1912 at Bisaccia (Avellino); New York City Comptroller 1966-69; died 20 December 1995 in the Bronx ([R4-S1]). He is a town-mate notable only; no kinship found."
 }

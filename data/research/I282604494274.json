@@ -14,8 +14,8 @@
   },
   "occupation": "Laborer",
   "tags": [],
-  "summary": "John's 2nd great-grandfather; a laborer born near Bloomsburg/Danville who moved to the Plymouth–Larksville coal towns.",
-  "bio": "James McGuire was born 12 Jan 1861 at Bloomsburg, Columbia Co. (FS GZQN-SCM). In 1870 he was 'James 9' in the household of Edward McGuire, furnace helper, in Mahoning Twp., Montour Co. (P.O. Danville). He moved to the Plymouth/Larksville coal towns by the 1880s; laborer; Plymouth 1900; Larksville 1910–20. He married Anna C. Jones (b. England 1865). They had 11+ children including Edward J. (1885), Mary, James J., Marguerite, Francis J. (1898), Vincent, Theresa, William B., Anna C. and Joseph. He died 23 May 1927 in Wilkes-Barre (PA death certificate attached to the FS profile).\n\nThe 1927 Pennsylvania death-certificate index lists \"McGuire, James; 54803; W-Barre; May 23\" ([R4-S1]), matching the FamilySearch death date. Six months later his son William Bernard's marriage application described James as dead and born at Danville, Pa. ([R4-S2]). Danville is the post office of Mahoning Township, Montour County, where Edward McGuire's household, including a son James aged 9, was enumerated in 1870 ([R4-S3]). That ties Kathryn's grandfather to the Danville furnace family by a record independent of the FamilySearch tree.",
+  "summary": "Laborer born near Bloomsburg and raised in the Danville furnace family who settled in the Plymouth and Larksville coal towns; John's 2nd-great-grandfather.",
+  "bio": "James McGuire was born on 12 January 1861 at Bloomsburg, Columbia County, Pennsylvania. In 1870, aged nine, he was in the household of Edward McGuire, a furnace helper, in Mahoning Township, Montour County, where the post office was Danville; his son William later named Danville as James's birthplace.\n\nBy the 1880s James had moved to the coal towns of Plymouth and Larksville in Luzerne County, where he worked as a laborer, living at Plymouth in 1900 and at Larksville from 1910 to 1920. He married Anna C. Jones, who was born in England in 1865, and they had at least eleven children, among them Edward J. (born 1885), Mary, James J., Marguerite, Francis J. (born 1898), Vincent, Theresa, William B., Anna C. and Joseph. He died at Wilkes-Barre on 23 May 1927 and was buried at Larksville.",
   "residences": [
     {
       "date": "1870",
@@ -81,6 +81,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604494274.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -94,5 +98,6 @@
       "found": "Danville, Pa. (son's 1927 marriage application)",
       "assessment": "Danville (Montour Co.) and Bloomsburg (Columbia Co.) are about 10 miles apart; the family was at Danville in 1870 and the elder sister Mary is given as born at Bloomsburg in the FS tree. Keep Bloomsburg as tree value but record Danville; the 1927 death certificate (#54803) should settle it."
     }
-  ]
+  ],
+  "researchNotes": "James McGuire was born 12 Jan 1861 at Bloomsburg, Columbia Co. (FS GZQN-SCM). In 1870 he was 'James 9' in the household of Edward McGuire, furnace helper, in Mahoning Twp., Montour Co. (P.O. Danville). He moved to the Plymouth/Larksville coal towns by the 1880s; laborer; Plymouth 1900; Larksville 1910–20. He married Anna C. Jones (b. England 1865). They had 11+ children including Edward J. (1885), Mary, James J., Marguerite, Francis J. (1898), Vincent, Theresa, William B., Anna C. and Joseph. He died 23 May 1927 in Wilkes-Barre (PA death certificate attached to the FS profile).\n\nThe 1927 Pennsylvania death-certificate index lists \"McGuire, James; 54803; W-Barre; May 23\" ([R4-S1]), matching the FamilySearch death date. Six months later his son William Bernard's marriage application described James as dead and born at Danville, Pa. ([R4-S2]). Danville is the post office of Mahoning Township, Montour County, where Edward McGuire's household, including a son James aged 9, was enumerated in 1870 ([R4-S3]). That ties Kathryn's grandfather to the Danville furnace family by a record independent of the FamilySearch tree."
 }

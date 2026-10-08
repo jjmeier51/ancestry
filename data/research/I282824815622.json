@@ -16,14 +16,20 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815622.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Michele was baptized on 2 June 1748, son of Luca Moraca and Lucrezia Frajacouo ([R4-S1]). His parents are new to the tree. His children Agata (1777) and Alessio (1772) are both John's ancestors.",
+  "bio": "Michele Moraca was baptized on 2 June 1748 at San Mango D'Aquino, Catanzaro, Calabria, Italy, the son of Luca Moraca and Lucrezia Frajacouo. Two of his children, Alessio, born in 1772, and Agata, born in 1777, are both ancestors of John, so Michele is John's 5th-great-grandfather by two lines.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
   },
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1747-1767 (Book 5), image 7, p. 8, no. 14; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Michele was baptized on 2 June 1748, son of Luca Moraca and Lucrezia Frajacouo ([R4-S1]). His parents are new to the tree. His children Agata (1777) and Alessio (1772) are both John's ancestors.",
+  "summary": "Michele Moraca, baptized at San Mango D'Aquino in 1748, father of Agata and Alessio Moraca; John's 5th-great-grandfather."
 }

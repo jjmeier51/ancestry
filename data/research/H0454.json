@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0454.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -48,11 +52,13 @@
       "description": "Names wife Catharine and 'John Grub, Frederic Grub, & Elizabeth Michael' as 'the brothers and sister of my said wife'; also a John Ihrie (probably a nephew). Will Book 6 pp.18-19. [R4-S1]"
     }
   ],
-  "bio": "Gottlieb Hipp married Maria Catharina Grub (b. 25 Nov 1755), daughter of Andreas and Maria Elisabeth Grub, on 21 Jan 1777. Her death entry at St. John's Lutheran, Easton, says they 'lived together 59 years'; she died 19 Mar 1836 ([R4-S1]). He appears in the 1790 census around Easton/Forks Township. His will, dated 9 Jun 1826 and proved 28 Oct 1839, refers to 'John Grub, Frederic Grub, & Elizabeth Michael' as his wife's brothers and sister ([R4-S1]). That makes it a document naming Frederick Grub (John Meier's 5th-great-grandfather) as living, and as Catharine's brother, in 1826.",
+  "bio": "Gottlieb Hipp married Maria Catharina Grub, a daughter of Andreas and Maria Elisabeth Grub born on 25 November 1755, on 21 January 1777 in the Easton area of Northampton County, Pennsylvania. He appears in the 1790 census around Easton and Forks Township. The couple were together for the rest of her life: her death entry at St. John's Lutheran Church in Easton, where she died on 19 March 1836, says they had \"lived together 59 years\".\n\nHis will, dated 9 June 1826 and proved on 28 October 1839, names John Grub, Frederic Grub and Elizabeth Michael as his wife's brothers and sister. It is thus a document showing Frederick Grub, John's 5th-great-grandfather, alive in 1826 and confirming him as Catharina's brother.",
   "openQuestions": [
     "Read Gottlieb Hipp's will (Northampton Will Book 6 pp.18-19; FamilySearch image ark 3:1:3QS7-L991-GCYB, login required) to confirm the wording naming Frederic Grub."
   ],
   "sources": [
     "[R4-S1] WikiTree profile Grub-4 (Johann Andreas Grub), research notes citing Northampton Co. will file #1430, St. John's Lutheran (Easton) and First Reformed (Easton) registers, 1790 census, and Gottlieb Hipp's will (Northampton Will Book 6 pp.18-19) (derivative) https://api.wikitree.com/api.php?action=getProfile&key=Grub-4&fields=Name,Bio&bioFormat=text"
-  ]
+  ],
+  "researchNotes": "Gottlieb Hipp married Maria Catharina Grub (b. 25 Nov 1755), daughter of Andreas and Maria Elisabeth Grub, on 21 Jan 1777. Her death entry at St. John's Lutheran, Easton, says they 'lived together 59 years'; she died 19 Mar 1836 ([R4-S1]). He appears in the 1790 census around Easton/Forks Township. His will, dated 9 Jun 1826 and proved 28 Oct 1839, refers to 'John Grub, Frederic Grub, & Elizabeth Michael' as his wife's brothers and sister ([R4-S1]). That makes it a document naming Frederick Grub (John Meier's 5th-great-grandfather) as living, and as Catharine's brother, in 1826.",
+  "summary": "Easton-area husband of Maria Catharina Grub for 59 years, whose will names her brother Frederick Grub, John's 5th-great-grandfather."
 }

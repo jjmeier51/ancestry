@@ -15,8 +15,8 @@
     "Maria Anna Federer (Ancestry tree, 1772–1844)"
   ],
   "tags": [],
-  "summary": "John's 5th great-grandmother; of the Munzingen Federer family (not the Ibental Fürderer).",
-  "bio": "M. Anna Federer 'von hier' (of Munzingen) married the gamekeeper Joseph Heizler in 1799; mother of Friedrich (1809) and Agatha (1813). She is alive (not marked deceased) as 'Anna Federer' in the 1835 marriage. Johann Federer, former glazier then farmer, who witnessed her daughter Veronica's 1815 burial and the 1836 marriage, was probably her brother or father, and may be where Servatius learned glazing (speculative). Earlier research had guessed 'Federer' = the Unteribental farm family Fürderer/Förderer (Peterhof; entries 1646–1785; GEDBAS 1444211359 'Fürderer (Förderer)') — now disproven. GEDBAS has no Federer in Munzingen. Tree: Maria Anna Federer 1772–1844, parents Georgius G Federer 1732–1802 and Maria Anna Kaltenbach 1745–1808.",
+  "summary": "Maria Anna Federer of Munzingen, wife of the gamekeeper Joseph Heizler and mother of Agatha Heizler; John's 5th-great-grandmother.",
+  "bio": "Maria Anna Federer was born in 1772 at Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany, into the Federer family of that village; family records name her parents as Georgius G Federer (1732–1802) and Maria Anna Kaltenbach (1745–1808). She was not, as was once supposed, of the Fürderer farming family of Ibental. In 1799, described as \"von hier\", of this place, she married the gamekeeper Joseph Heizler. Their children included Friedrich, born in 1809, Agatha, born in 1813, and Veronica, who was buried in 1815.\n\nA Johann Federer, a former glazier turned farmer, witnessed Veronica's burial in 1815 and the 1836 marriage of Servatius Birkenmayer, and was probably her brother or her father; it may have been from him that Servatius learned the glazier's trade, though that is only a guess. Anna was still living when her son Friedrich married in 1835. She died at Munzingen on 13 May 1844. She was John's 5th-great-grandmother.",
   "facts": [
     {
       "label": "Tree says",
@@ -56,6 +56,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695502799.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "M. Anna Federer 'von hier' (of Munzingen) married the gamekeeper Joseph Heizler in 1799; mother of Friedrich (1809) and Agatha (1813). She is alive (not marked deceased) as 'Anna Federer' in the 1835 marriage. Johann Federer, former glazier then farmer, who witnessed her daughter Veronica's 1815 burial and the 1836 marriage, was probably her brother or father, and may be where Servatius learned glazing (speculative). Earlier research had guessed 'Federer' = the Unteribental farm family Fürderer/Förderer (Peterhof; entries 1646–1785; GEDBAS 1444211359 'Fürderer (Förderer)') — now disproven. GEDBAS has no Federer in Munzingen. Tree: Maria Anna Federer 1772–1844, parents Georgius G Federer 1732–1802 and Maria Anna Kaltenbach 1745–1808."
 }

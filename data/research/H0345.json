@@ -9,8 +9,8 @@
     "Vittoria Morelli"
   ],
   "tags": [],
-  "summary": "John's maternal 5th great-grandmother; mother of Carmine Fiorillo. Replaces the tree's 'Maria Morrello'.",
-  "bio": "Round 3 found her in Carmine's death act (San Mango Morti 1860 act 30); reading Marrelli/Morelli. The tree instead gives Carmine's mother as 'Maria Morrello' (1786-1846) with a deep Morrello/Guercio/Chiarello pedigree - same surname family possibly, different given name. Whether Vittoria and the tree's Maria are the same woman is unresolved.\n\nVittoria Marrello was a real person, but she was the wife of Francesco Gabriele Fiorillo, not of Domenico. Her sons Gabriele (d. 1839, aged 7), Angelo (c.1824-1912) and Lorenzo (c.1835-1915) are all recorded as children of Francesco Fiorillo and Vittoria Marrello ([R4-S2], [R4-S3]). Carmine's own 1840 marriage, made during his mother's lifetime, names her as Maria Marrelli ([R4-S1]). The 1860 death act and burial ([R4-S4]) evidently substituted the aunt's name. Recommendation: detach Vittoria from John's line and use Maria Marrello (I282824815353) as Carmine's mother.",
+  "summary": "Wife of Francesco Gabriele Fiorillo of San Mango, named as Carmine Fiorillo's mother at his death; placed as John's 5th-great-grandmother, though she was probably his aunt.",
+  "bio": "Vittoria Marrelli, whose surname is also written Marrello and Morelli, died before 17 November 1860. She was named as the mother of Carmine Fiorillo in the record of his death at San Mango in 1860, and on that basis she is placed as John's 5th-great-grandmother. The records, however, show that she was the wife of Francesco Gabriele Fiorillo, not of Carmine's father Domenico: her sons Gabriele, who died in 1839 aged seven, Angelo (about 1824–1912) and Lorenzo (about 1835–1915) are all recorded as children of Francesco Fiorillo and Vittoria Marrello. Carmine's own marriage in 1840, made in his mother's lifetime, names her as Maria Marrelli, so the death record evidently substituted the aunt's name for the mother's. Vittoria was therefore very probably Carmine's aunt, and Maria Marrello his mother.",
   "sources": [
     "Antenati, San Mango d'Aquino, Morti 1860, act 30: https://antenati.cultura.gov.it/ark:/12657/an_ua37932559/wWyrDq2",
     "notes/round3/italian_origins.md 5",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0345.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -54,5 +58,6 @@
       "found": "Wife of Francesco G. Fiorillo; Carmine's mother was Maria Marrelli",
       "assessment": "Remove from the direct line (or keep as collateral: wife of Carmine's probable uncle Francesco)."
     }
-  ]
+  ],
+  "researchNotes": "Round 3 found her in Carmine's death act (San Mango Morti 1860 act 30); reading Marrelli/Morelli. The tree instead gives Carmine's mother as 'Maria Morrello' (1786-1846) with a deep Morrello/Guercio/Chiarello pedigree - same surname family possibly, different given name. Whether Vittoria and the tree's Maria are the same woman is unresolved.\n\nVittoria Marrello was a real person, but she was the wife of Francesco Gabriele Fiorillo, not of Domenico. Her sons Gabriele (d. 1839, aged 7), Angelo (c.1824-1912) and Lorenzo (c.1835-1915) are all recorded as children of Francesco Fiorillo and Vittoria Marrello ([R4-S2], [R4-S3]). Carmine's own 1840 marriage, made during his mother's lifetime, names her as Maria Marrelli ([R4-S1]). The 1860 death act and burial ([R4-S4]) evidently substituted the aunt's name. Recommendation: detach Vittoria from John's line and use Maria Marrello (I282824815353) as Carmine's mother."
 }

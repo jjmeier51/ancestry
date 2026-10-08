@@ -9,8 +9,8 @@
     "Barbara Ann Meier Smith"
   ],
   "tags": [],
-  "summary": "John's great-aunt; younger sister of grandfather James C. Meier.",
-  "bio": "Barbara Ann Meier Smith (17 Nov 1935 Wilkes-Barre – 16 Sep 2021) was buried at Jesus Bread of Life Catholic Cemetery, Mount Laurel, NJ.",
+  "summary": "John's great-aunt, the younger sister of his grandfather James C. Meier; born in Wilkes-Barre in 1935, she died in 2021 as Barbara Ann Meier Smith.",
+  "bio": "Barbara Ann Meier was born in Wilkes-Barre, Luzerne County, Pennsylvania, on 17 November 1935, the younger sister of John's grandfather James C. Meier. Known in later life as Barbara Ann Meier Smith, she died on 16 September 2021 and was buried at Jesus Bread of Life Catholic Cemetery in Mount Laurel, New Jersey.",
   "sources": [
     "FamilySearch GV6C-8PM https://ancestors.familysearch.org/en/GV6C-8PM/barbara-ann-meier-1935-2021",
     "1950 census image",
@@ -37,9 +37,14 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0010.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "openQuestions": [
     "Read her obituary (FamilySearch 1:1:XMZ3-FPDD) in a signed-in session to get her husband's name (Smith) and her place of death."
-  ]
+  ],
+  "researchNotes": "Barbara Ann Meier Smith (17 Nov 1935 Wilkes-Barre – 16 Sep 2021) was buried at Jesus Bread of Life Catholic Cemetery, Mount Laurel, NJ."
 }

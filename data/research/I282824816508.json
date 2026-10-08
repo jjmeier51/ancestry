@@ -20,6 +20,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816508.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -34,7 +38,7 @@
       "description": "Married Agostina (Faustina) Ferlaino [R4-S1]"
     }
   ],
-  "bio": "Rosario married Agostina (Faustina) Ferlaino on 26 February 1812 ([R4-S1]). He was buried on 10 May 1874, aged 84, as the son of the late Giuseppe Iera and husband of Faustina Ferlaino ([R4-S2]). His father's name, Giuseppe, is new.",
+  "bio": "Rosario Iera was born on 25 February 1791 at San Mango D'Aquino, Catanzaro, Calabria, Italy, a son of Giuseppe Iera. On 26 February 1812 he married Agostina Ferlaino, also known as Faustina. He died at San Mango d'Aquino on 10 May 1874, aged 84, and was buried there, recorded as the son of the late Giuseppe Iera and husband of Faustina Ferlaino.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): Marriage and burial indexed; daughter Filippina's baptism names him."
@@ -42,5 +46,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 5, p. 4, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 149, p. 287, no. 19; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Rosario married Agostina (Faustina) Ferlaino on 26 February 1812 ([R4-S1]). He was buried on 10 May 1874, aged 84, as the son of the late Giuseppe Iera and husband of Faustina Ferlaino ([R4-S2]). His father's name, Giuseppe, is new.",
+  "summary": "Man of San Mango d'Aquino who married Agostina Ferlaino in 1812 and lived to 84; John's 5th-great-grandfather."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "First popularly elected Mayor of New York City (1834–37), U.S. Congressman, Collector of the Port; John's 5th cousin 6x removed via Bull Smith.",
-  "bio": "Path: Elizabeth Smith → Joseph → Richard → Joseph 2d → Henry → Cornelius. His brother Joseph Lawrence (b. 1797), president of the Bank of the State of NY and the US Trust Co., is also 5C6R. Hon. Effingham Lawrence (d. 1811), first judge of Queens Co., NY legislator, iron works on the Peconic near Riverhead (Elizabeth → Joseph → Richard → Joseph 2d → Effingham) is 4C7R.\n\nLawrence 1858 ([R4-S1]) spells out the line in its own words: 'the eldest son of Henry Lawrence, who was the son of the second Joseph who was the son of Richard, who was the son of the first Joseph who was the son of the first William and Elizabeth Smith, afterwards Lady Carterett'. With Elizabeth a daughter of Bull Smith, that is 6 generations: 5th cousin 6 times removed. He married (1) Maria C. Prall, (2) Rachel A. Hicks, (3) Mrs E. N. Lawrence.",
+  "summary": "First popularly elected Mayor of New York City (1834–37), congressman and Collector of the Port; John's 5th cousin 6 times removed through Bull Smith.",
+  "bio": "Cornelius Van Wyck Lawrence was born on 28 February 1791. He became the first popularly elected Mayor of New York City, serving from 1834 to 1837, and was also a United States Congressman and Collector of the Port of New York. He married three times: Maria C. Prall, Rachel A. Hicks and Mrs. E. N. Lawrence. He died on 20 February 1861.\n\nHis descent from Bull Smith runs through Smith's daughter Elizabeth, who married William Lawrence and was afterwards Lady Carteret: as a family history of 1858 put it, he was 'the eldest son of Henry Lawrence, who was the son of the second Joseph who was the son of Richard, who was the son of the first Joseph who was the son of the first William and Elizabeth Smith'. That makes him John's 5th cousin 6 times removed. His brother Joseph Lawrence, born in 1797, president of the Bank of the State of New York and of the US Trust Company, is John's cousin in the same degree, and Hon. Effingham Lawrence, who died in 1811, first judge of Queens County, a New York legislator and owner of iron works on the Peconic near Riverhead, is John's 4th cousin 7 times removed.",
   "sources": [
     "Lawrence (1858)",
     "Wikipedia, https://en.wikipedia.org/wiki/Cornelius_Van_Wyck_Lawrence",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0307.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -83,5 +87,6 @@
   },
   "death": {
     "date": "1861-02-20"
-  }
+  },
+  "researchNotes": "Path: Elizabeth Smith → Joseph → Richard → Joseph 2d → Henry → Cornelius. His brother Joseph Lawrence (b. 1797), president of the Bank of the State of NY and the US Trust Co., is also 5C6R. Hon. Effingham Lawrence (d. 1811), first judge of Queens Co., NY legislator, iron works on the Peconic near Riverhead (Elizabeth → Joseph → Richard → Joseph 2d → Effingham) is 4C7R.\n\nLawrence 1858 ([R4-S1]) spells out the line in its own words: 'the eldest son of Henry Lawrence, who was the son of the second Joseph who was the son of Richard, who was the son of the first Joseph who was the son of the first William and Elizabeth Smith, afterwards Lady Carterett'. With Elizabeth a daughter of Bull Smith, that is 6 generations: 5th cousin 6 times removed. He married (1) Maria C. Prall, (2) Rachel A. Hicks, (3) Mrs E. N. Lawrence."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's great-granduncle.",
-  "bio": "b. 9 Feb 1904; Joseph, 5, in 1910; d. 14 Aug 1996, Bronx, NY. Note Josephine's FS birth date 21 Jul 1904 is only five months later - one date is likely wrong.\n\nJoseph's existence as a separate child is doubtful. The only record is the 1910 census, which lists 'Joseph', son, aged 5 ([R4-S1]). Josephine (b. 21 Jul 1904) does not appear in that census, although the six children listed match Marie's six living children. In January 1920 neither a Joseph nor a Josephine is in the household ([R4-S2]). When Josephine Castellano died in November 1995, her obituary named her surviving brothers as Nick, Jim and Rocco Petrillo ([R4-S3]). A brother Joseph who lived until August 1996, as the FamilySearch tree says (Bronx, NY), would have been listed. The 1910 'Joseph' is therefore probably Josephine entered with the wrong name and sex. The Bronx death probably belongs to an unrelated Joseph Petrillo, a very common name in New York.",
+  "summary": "Listed as a five-year-old son of the Petrillo household in 1910, but probably his sister Josephine entered under the wrong name; John's great-granduncle in family records.",
+  "bio": "Joseph Petrillo is recorded in family records as born on 9 February 1904 and as dying in the Bronx, New York, on 14 August 1996, which would make him John's great-granduncle. His existence as a separate child is doubtful, however. The only record of him is the 1910 census, which lists a five-year-old son Joseph; his sister Josephine, born on 21 July 1904 only five months after his supposed birth, is missing from that census even though the six children listed match the six living children of their mother Marie, and neither name appears in the household in 1920. When Josephine Castellano died in November 1995 her obituary named her surviving brothers as Nick, Jim and Rocco, with no Joseph. The Joseph of 1910 was therefore probably Josephine entered with the wrong name and sex, and the 1996 Bronx death probably belongs to an unrelated man of the same very common name.",
   "sources": [
     "FS tree (notes/round2/italian_gaps.md 4)",
     "1910 census",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0354.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -45,5 +49,6 @@
       "found": "Not named among surviving brothers in his sister Josephine's Nov 1995 obituary; 1910 'Joseph, 5' fits Josephine (b. Jul 1904), who is otherwise missing",
       "assessment": "Probably a phantom built from the 1910 entry plus an unrelated Bronx death record. Recommend demoting."
     }
-  ]
+  ],
+  "researchNotes": "b. 9 Feb 1904; Joseph, 5, in 1910; d. 14 Aug 1996, Bronx, NY. Note Josephine's FS birth date 21 Jul 1904 is only five months later - one date is likely wrong.\n\nJoseph's existence as a separate child is doubtful. The only record is the 1910 census, which lists 'Joseph', son, aged 5 ([R4-S1]). Josephine (b. 21 Jul 1904) does not appear in that census, although the six children listed match Marie's six living children. In January 1920 neither a Joseph nor a Josephine is in the household ([R4-S2]). When Josephine Castellano died in November 1995, her obituary named her surviving brothers as Nick, Jim and Rocco Petrillo ([R4-S3]). A brother Joseph who lived until August 1996, as the FamilySearch tree says (Bronx, NY), would have been listed. The 1910 'Joseph' is therefore probably Josephine entered with the wrong name and sex. The Bronx death probably belongs to an unrelated Joseph Petrillo, a very common name in New York."
 }

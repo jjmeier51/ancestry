@@ -9,8 +9,8 @@
     "Agnes Payne"
   ],
   "tags": [],
-  "summary": "John's 12th-great-grandmother, of Lavenham.",
-  "bio": "Her will was written in 1635 and proved in 1646.",
+  "summary": "Agnes Neves of Lavenham, also known as Agnes Payne; John's 12th-great-grandmother.",
+  "bio": "Agnes Neves, also known as Agnes Payne, lived at Lavenham. She wrote her will in 1635, and it was proved in 1646, so she died at some point between those two years. She was John's 12th-great-grandmother.",
   "sources": [
     "NEHGR 69:251–2; 79:82–4"
   ],
@@ -35,6 +35,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0241.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Her will was written in 1635 and proved in 1646."
 }

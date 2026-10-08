@@ -11,8 +11,8 @@
     "place": "Guardia Lombardi, Avellino, Campania, Italy"
   },
   "tags": [],
-  "summary": "John's maternal 3rd great-grandmother; mother of Maria Antonia DiBiasi.",
-  "bio": "Tree: Rosa Siconolfi (b. 1840). FS tree: b. 1839, 'born Lucera, Foggia' (unsourced; treated as an error). Siconolfi is Guardia Lombardi's most common surname: paese.app shows Guardia as the #1 comune (14 US arrivals 1830-1912); a modern Guardia phone directory lists Siconolfi 21 times; Guardia has a frazione called Case Siconolfi; the current/recent sindaco of Guardia is a Siconolfi (surname only, no kinship). Note: if born 1839, she was about 17 at son Domenico Antonio's birth in 1856. FS profile lists children born 1891 and 1894 (age 52-55) - mis-attachments.",
+  "summary": "Born about 1839 at Guardia Lombardi in Campania and died in Pennsylvania; mother of Maria Antonia DiBiasi and John's maternal 3rd-great-grandmother.",
+  "bio": "Rosa Siconolfi was born about 1839 at Guardia Lombardi, Avellino, Campania, Italy. One record gives her birthplace as Lucera, Foggia, but that is thought to be an error: Siconolfi is the most common surname in Guardia Lombardi, and the town even has a hamlet called Case Siconolfi. She was the mother of Domenico Antonio, born in 1856 when she was only about seventeen, and of Maria Antonia DiBiasi. She died in Pennsylvania, USA. She is John's maternal 3rd-great-grandmother.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -60,6 +60,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814886.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Rosa Siconolfi (b. 1840). FS tree: b. 1839, 'born Lucera, Foggia' (unsourced; treated as an error). Siconolfi is Guardia Lombardi's most common surname: paese.app shows Guardia as the #1 comune (14 US arrivals 1830-1912); a modern Guardia phone directory lists Siconolfi 21 times; Guardia has a frazione called Case Siconolfi; the current/recent sindaco of Guardia is a Siconolfi (surname only, no kinship). Note: if born 1839, she was about 17 at son Domenico Antonio's birth in 1856. FS profile lists children born 1891 and 1894 (age 52-55) - mis-attachments."
 }

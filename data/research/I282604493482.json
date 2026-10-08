@@ -21,8 +21,8 @@
     "\"Frances\" McGuire (Ancestry index)"
   ],
   "tags": [],
-  "summary": "John's great-grandfather (father of grandmother Kathryn); a Plymouth-born bookkeeper who married Elizabeth McAvoy in 1923 and died in Wilkes-Barre in 1958.",
-  "bio": "Frank J. McGuire was born 21 Sep 1898 in Plymouth, Luzerne Co. (FamilySearch GZQT-YKQ), son of James McGuire, laborer, and Anna C. Jones (born England). In 1910 his family (Francis aged 11) lived in Larksville — the same small town as Addison Pringle's family (Florence aged 6), 18 years before their children married. On 19 Jun 1923 he took out Luzerne marriage licence No. 635: Frank J. McGuire, bookkeeper, 220 South St, Plymouth, 24, born Penna.; father James (laborer, Plymouth, born Penna.); mother Anna Jones (born England). The bride was Elizabeth M. McAvoy, clerk, 214 Vine St, Plymouth, 25, born Penna.; father William R. (deceased, born N.Y.); mother Kathryn Murphy (Plymouth, born Penna.). They married 20 Jun 1923, by Rev. P. J. Colligan, Plymouth. His daughters (FS) were Jane Clair (1924), probably twins Elizabeth 'Betsy' and Ann 'Nancy' (Mar 1928), and Kathryn (22 Aug 1930). He died 15 Sep 1958 in Wilkes-Barre aged 59 (PA death index 1958: 'MCGUIRE FRANK J, 59, WLKS BRE, co. 40, 09-15-58, file 83855'). His widow remarried (Harold Arnold). Do not merge with the Frank McGuire whose wife 'Bea Ginley (Mrs. Frank)' died 26 Apr 1938 at Forty Fort.\n\nHis younger brother William Bernard McGuire's 1927 Luzerne marriage application names their parents as James McGuire, born at Danville, Pa., and Anna Jones, born in England, both dead by Nov 1927 ([R4-S1]). FamilySearch lists Frank's siblings as Edward Joseph (1885-1948), Mary (1887-1950), James Joseph (1889-1957), Joseph (1894-1910), Marguerite (1895-1961), Vincent Joseph (1901-1987), Theresa A. (1904-1998), William Bernard (1906-1975), Anna C. (1909-1964) and Joseph (1913-1963) ([R4-S2]; derivative).",
+  "summary": "Plymouth-born bookkeeper who married Elizabeth McAvoy in 1923 and died in Wilkes-Barre in 1958; John's great-grandfather.",
+  "bio": "Francis Joseph McGuire, known as Frank, was born on 21 September 1898 at Plymouth, Luzerne County, Pennsylvania, the son of James McGuire, a laborer born at Danville, Pa., and Anna C. Jones, who was born in England. His siblings were Edward Joseph (1885-1948), Mary (1887-1950), James Joseph (1889-1957), Joseph (1894-1910), Marguerite (1895-1961), Vincent Joseph (1901-1987), Theresa A. (1904-1998), William Bernard (1906-1975), Anna C. (1909-1964) and a second Joseph (1913-1963). In 1910 the family lived in Larksville, the same small town where Addison Pringle's family, including six-year-old Florence, was then living; the two families' children would marry eighteen years later. Both of Frank's parents had died by November 1927.\n\nBy 1923 Frank was a bookkeeper living on South Street in Plymouth. On 20 June 1923, the day after taking out the licence, he married Elizabeth M. McAvoy, a 25-year-old clerk of Plymouth, daughter of the late William R. McAvoy, born in New York, and Kathryn Murphy; the Rev. P. J. Colligan performed the ceremony at Plymouth. Their daughters were Jane Clair (born 1924), Elizabeth \"Betsy\" and Ann \"Nancy\", probably twins born in March 1928, and Kathryn, born 22 August 1930, who became John's grandmother.\n\nFrank died in Wilkes-Barre on 15 September 1958, aged 59, and was buried in Hanover Township, Luzerne County. His widow later remarried, to Harold Arnold. He was not the Frank McGuire whose wife Bea Ginley died at Forty Fort in 1938.",
   "residences": [
     {
       "date": "1910",
@@ -77,6 +77,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604493482.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "facts": [
@@ -100,5 +104,6 @@
       ],
       "url": "https://familysearch.org/ark:/61903/1:1:KHXY-TFM"
     }
-  ]
+  ],
+  "researchNotes": "Frank J. McGuire was born 21 Sep 1898 in Plymouth, Luzerne Co. (FamilySearch GZQT-YKQ), son of James McGuire, laborer, and Anna C. Jones (born England). In 1910 his family (Francis aged 11) lived in Larksville — the same small town as Addison Pringle's family (Florence aged 6), 18 years before their children married. On 19 Jun 1923 he took out Luzerne marriage licence No. 635: Frank J. McGuire, bookkeeper, 220 South St, Plymouth, 24, born Penna.; father James (laborer, Plymouth, born Penna.); mother Anna Jones (born England). The bride was Elizabeth M. McAvoy, clerk, 214 Vine St, Plymouth, 25, born Penna.; father William R. (deceased, born N.Y.); mother Kathryn Murphy (Plymouth, born Penna.). They married 20 Jun 1923, by Rev. P. J. Colligan, Plymouth. His daughters (FS) were Jane Clair (1924), probably twins Elizabeth 'Betsy' and Ann 'Nancy' (Mar 1928), and Kathryn (22 Aug 1930). He died 15 Sep 1958 in Wilkes-Barre aged 59 (PA death index 1958: 'MCGUIRE FRANK J, 59, WLKS BRE, co. 40, 09-15-58, file 83855'). His widow remarried (Harold Arnold). Do not merge with the Frank McGuire whose wife 'Bea Ginley (Mrs. Frank)' died 26 Apr 1938 at Forty Fort.\n\nHis younger brother William Bernard McGuire's 1927 Luzerne marriage application names their parents as James McGuire, born at Danville, Pa., and Anna Jones, born in England, both dead by Nov 1927 ([R4-S1]). FamilySearch lists Frank's siblings as Edward Joseph (1885-1948), Mary (1887-1950), James Joseph (1889-1957), Joseph (1894-1910), Marguerite (1895-1961), Vincent Joseph (1901-1987), Theresa A. (1904-1998), William Bernard (1906-1975), Anna C. (1909-1964) and Joseph (1913-1963) ([R4-S2]; derivative)."
 }

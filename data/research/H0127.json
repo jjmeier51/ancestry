@@ -9,8 +9,8 @@
     "Katherine Heffernan Grimes"
   ],
   "tags": [],
-  "summary": "John's 1st cousin 5x removed (daughter of Richard Heffernan and Anastasia Boney).",
-  "bio": "Catherine Heffernan (1833-1908) married Edmund Grimes; a WikiTree profile gives her birthplace as County Tipperary in 1836 (no specific citation for the county), an early clue to the family's Tipperary origin. Sons Richard E. Grimes (c.1858-1909, killed at the Boston D&H colliery) and Edmund D. Grimes (d. 1927 in a California mine accident).",
+  "summary": "Tipperary-born daughter of Richard Heffernan and Anastasia Boney who married Edmund Grimes; John's 1st cousin 5 times removed.",
+  "bio": "Catherine Heffernan was born in County Tipperary, Ireland, in 1833, or by one account 1836, the daughter of Richard Heffernan and Anastasia Boney; her birthplace was an early clue to the family's Tipperary origins. She married Edmund Grimes and died in 1908. Two of her sons died in mining accidents: Richard E. Grimes (about 1858–1909) was killed at the Boston D&H colliery, and Edmund D. Grimes died in a California mine accident in 1927. She is John's 1st cousin 5 times removed.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "WikiTree Heffernan-720: https://www.wikitree.com/wiki/Heffernan-720"
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0127.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Catherine Heffernan (1833-1908) married Edmund Grimes; a WikiTree profile gives her birthplace as County Tipperary in 1836 (no specific citation for the county), an early clue to the family's Tipperary origin. Sons Richard E. Grimes (c.1858-1909, killed at the Boston D&H colliery) and Edmund D. Grimes (d. 1927 in a California mine accident)."
 }

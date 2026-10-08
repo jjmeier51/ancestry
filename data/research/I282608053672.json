@@ -19,8 +19,8 @@
     "Catherine Heffernon"
   ],
   "tags": [],
-  "summary": "John's 2nd-great-grandmother; eldest of the ten surviving children of Andrew H. Heffernan and Mary Connole, sister of Maj. Leo G. Heffernan and postmaster Thomas F. Heffernan.",
-  "bio": "Catherine E. Heffernan was the eldest child of Andrew H. Heffernan and Mary Connole, who married at Plymouth on 1 Sep 1868. Her birth date conflicts: Find a Grave gives 2 Aug 1870; Dwyer (2020) gives c. Aug 1869; the Ancestry tree shows 1869-1947 (the transcription summary says 1870). She married Addison F. Pringle at Plymouth on 29 Jun 1892 and had eight children, including John's great-grandmother Florence. In the 1910 census (Plymouth/Larksville) her children were listed as Genevieve (1893), Joseph Vincent (1895), Mary E. (1898), Anna Theresa (1901), Florence (1904), Helen (1906), Francis (1909) and Catherine (1912). Harvey & Smith list her as 'Catherine, married A. P. [sic] Pringle'. She died at Wilkes-Barre on 23 Apr 1947 (PA death index 1947: 'CATHERINE E PRINGLE, WLKS BRE, co. 40, 4-23-47, file 35591'). Her siblings were Thomas F. (postmaster and newspaper owner), Nora C., Anna P. (Murphy), Mary (Sister Mary Antonia, IHM), Dr. Andrew J., Josephine R. (Wagner), John Vincent, Maj. Leo Gerald and George Paul.\n\nFamilySearch (LHHH-W5T) gives her birth as 2 Aug 1870 at Plymouth, citing seven attached records ([R4-S1]); the 1880 census lists her as \"Catheren Heferon\" in her father's household.",
+  "summary": "Eldest of the ten surviving children of Andrew H. Heffernan and Mary Connole of Plymouth, and wife of Addison F. Pringle; John's 2nd-great-grandmother.",
+  "bio": "Catherine E. Heffernan was the eldest child of Andrew H. Heffernan and Mary Connole, who had married at Plymouth, Pennsylvania, on 1 September 1868. She was born at Plymouth on 2 August 1870, although some accounts put her birth a year earlier, in August 1869. In 1880 she was living in her father's household. She married Addison F. Pringle at Plymouth on 29 June 1892, and they had eight children: Genevieve (1893), Joseph Vincent (1895), Mary E. (1898), Anna Theresa (1901), Florence (1904), John's great-grandmother, Helen (1906), Francis (1909) and Catherine (1912). In 1910 the family was living at Plymouth and Larksville.\n\nHer brothers and sisters were Thomas F., the postmaster and newspaper owner; Nora C.; Anna P. (Murphy); Mary, who became Sister Mary Antonia, IHM; Dr. Andrew J.; Josephine R. (Wagner); John Vincent; Maj. Leo Gerald; and George Paul. Catherine died at Wilkes-Barre, Luzerne County, on 23 April 1947. She was John's 2nd-great-grandmother.",
   "facts": [
     {
       "label": "Tree shows",
@@ -75,6 +75,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608053672.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -84,5 +88,6 @@
       "found": "2 Aug 1870 (FamilySearch tree)",
       "assessment": "The day and month (August) agree with Dwyer; the year differs by one. Her parents married 1 Sep 1868, so either is possible. Her 1947 death certificate (#35591) should give the date."
     }
-  ]
+  ],
+  "researchNotes": "Catherine E. Heffernan was the eldest child of Andrew H. Heffernan and Mary Connole, who married at Plymouth on 1 Sep 1868. Her birth date conflicts: Find a Grave gives 2 Aug 1870; Dwyer (2020) gives c. Aug 1869; the Ancestry tree shows 1869-1947 (the transcription summary says 1870). She married Addison F. Pringle at Plymouth on 29 Jun 1892 and had eight children, including John's great-grandmother Florence. In the 1910 census (Plymouth/Larksville) her children were listed as Genevieve (1893), Joseph Vincent (1895), Mary E. (1898), Anna Theresa (1901), Florence (1904), Helen (1906), Francis (1909) and Catherine (1912). Harvey & Smith list her as 'Catherine, married A. P. [sic] Pringle'. She died at Wilkes-Barre on 23 Apr 1947 (PA death index 1947: 'CATHERINE E PRINGLE, WLKS BRE, co. 40, 4-23-47, file 35591'). Her siblings were Thomas F. (postmaster and newspaper owner), Nora C., Anna P. (Murphy), Mary (Sister Mary Antonia, IHM), Dr. Andrew J., Josephine R. (Wagner), John Vincent, Maj. Leo Gerald and George Paul.\n\nFamilySearch (LHHH-W5T) gives her birth as 2 Aug 1870 at Plymouth, citing seven attached records ([R4-S1]); the 1880 census lists her as \"Catheren Heferon\" in her father's household."
 }

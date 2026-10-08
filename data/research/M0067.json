@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of H0276 (proven); parent of H0277 (proven); child of H0517 (proven)."
   },
   "tags": [],
-  "summary": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d",
-  "bio": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d. Married Sarah, daughter of Edmund Smith 2d and Charity (daughter of Job 2d). Father of Richard Smith 5th (1770-1831) and so grandfather of Judge J. Lawrence Smith. He is the link that puts the J. Lawrence Smith family (James Clinch Smith, Bessie Smith White) on Job Smith's line: 3rd cousin 7 times removed of John via Job 1st.",
+  "summary": "Son of Ebenezer Smith and grandfather of Judge J. Lawrence Smith; John's 3rd cousin 7 times removed.",
+  "bio": "Richard Smith was the son of Ebenezer Smith and Anna, a daughter of Job Smith 2d. He married Sarah, daughter of Edmund Smith 2d and Charity, who was herself a daughter of Job Smith 2d. He died in 1811. His son Richard Smith 5th (1770–1831) was the father of Judge J. Lawrence Smith, so Richard is the ancestor through whom the judge's family, including James Clinch Smith and Bessie Smith White, descends from Job Smith. Through Job Smith 1st he is John's 3rd cousin 7 times removed.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog"
   ],
@@ -15,6 +15,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-605 → M0067; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d. Married Sarah, daughter of Edmund Smith 2d and Charity (daughter of Job 2d). Father of Richard Smith 5th (1770-1831) and so grandfather of Judge J. Lawrence Smith. He is the link that puts the J. Lawrence Smith family (James Clinch Smith, Bessie Smith White) on Job Smith's line: 3rd cousin 7 times removed of John via Job 1st."
 }

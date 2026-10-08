@@ -6,7 +6,7 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 2nd great-aunt; sister of Elizabeth McAvoy, married Joseph S. Jones (brother of Anna C. Jones McGuire).",
+  "summary": "Agnes McAvoy of Plymouth, Pa., sister of Elizabeth McAvoy and wife of Joseph S. Jones; John's 2nd great-aunt.",
   "sources": [
     "FamilySearch (K6NQ-ZXZ family)",
     "notes/round3/irish_pa.md",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0064.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -61,5 +65,6 @@
       "value": "L85M-PH3"
     }
   ],
-  "bio": "Her 1914 marriage docket names her parents William (deceased, born New York) and Catharine Murphy (living in Plymouth, born Schuylkill Co.) ([R4-S1]). Children (FS): Edward (1916-1995), Joseph (b. 1918) and Kathryn Ann (1919-1995, m. Henry P. Derwin) ([R4-S2])."
+  "bio": "Agnes M. McAvoy was born on 4 February 1884 at Plymouth, Pa., the daughter of William McAvoy, a native of New York, and Catharine Murphy, who was born in Schuylkill County. She was a sister of Elizabeth McAvoy. On 29 December 1914, at Plymouth, she married Joseph S. Jones, a brother of Anna C. Jones McGuire; by then her father had died and her mother was still living in Plymouth.\n\nAgnes and Joseph had three children: Edward (1916–1995), Joseph (born 1918) and Kathryn Ann (1919–1995), who married Henry P. Derwin. Agnes died at Wilkes-Barre on 23 November 1958 and was buried at Larksville, Pa.",
+  "researchNotes": "Her 1914 marriage docket names her parents William (deceased, born New York) and Catharine Murphy (living in Plymouth, born Schuylkill Co.) ([R4-S1]). Children (FS): Edward (1916-1995), Joseph (b. 1918) and Kathryn Ann (1919-1995, m. Henry P. Derwin) ([R4-S2])."
 }

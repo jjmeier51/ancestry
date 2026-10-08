@@ -28,6 +28,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815295.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -46,7 +50,7 @@
       "description": "Married Rosa Moraca [R4-S2]"
     }
   ],
-  "bio": "Fortunato was baptized on 6 March 1822, son of Nicola Ferlaino and Agata Moraca; his godfather came from neighbouring Conflenti ([R4-S1]). He married Rosa (Tommasina) Moraca, daughter of the late Francesco Moraca and Francesca Orlando, on 15 June 1851 ([R4-S2]). Their children in the baptism index are Gennaro (1855), Raffaela (1858), Marianna (1865), Giuseppe Antonio (1868), a first Leopoldo (1870, died at 5 months) and John's ancestor Leopoldo (1871) ([R4-S4]). Fortunato was buried at San Mango on 28 April 1901, aged 82 ([R4-S3]). He thus outlived his wife and saw his son leave for Pennsylvania.",
+  "bio": "Fortunato Ferlaino was baptized at San Mango d'Aquino on 6 March 1822, the son of Nicola Ferlaino and Agata Moraca; his godfather came from the neighbouring village of Conflenti. On 15 June 1851 he married Rosa (Tommasina) Moraca, daughter of the late Francesco Moraca and Francesca Orlando.\n\nTheir children were Gennaro (1855), Raffaela (1858), Marianna (1865), Giuseppe Antonio (1868), a first Leopoldo (1870, who died at five months) and John's ancestor Leopoldo (1871). Fortunato outlived his wife and lived to see his son leave for Pennsylvania. He died on 28 April 1901 and was buried at San Mango, the burial record giving his age as 82. He was John's 3rd-great-grandfather.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): His son Leopoldo's baptism (image read) names him; baptism, marriage and burial are all indexed with consistent parents."
@@ -56,5 +60,7 @@
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1846-1856 (Book 21), image 33, p. 58, no. 9; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1893-1915 (Book 31), image 53, p. 101, no. 15; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1893-1915'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
     "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1846-1856 / 1857-1875 (), Januarius 1855, Rachaela 1858, Marianna 1865, Josephus Antonius 1868, Leopoldus 1870, Leopoldus 1871; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856 / 1857-1875'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Fortunato was baptized on 6 March 1822, son of Nicola Ferlaino and Agata Moraca; his godfather came from neighbouring Conflenti ([R4-S1]). He married Rosa (Tommasina) Moraca, daughter of the late Francesco Moraca and Francesca Orlando, on 15 June 1851 ([R4-S2]). Their children in the baptism index are Gennaro (1855), Raffaela (1858), Marianna (1865), Giuseppe Antonio (1868), a first Leopoldo (1870, died at 5 months) and John's ancestor Leopoldo (1871) ([R4-S4]). Fortunato was buried at San Mango on 28 April 1901, aged 82 ([R4-S3]). He thus outlived his wife and saw his son leave for Pennsylvania.",
+  "summary": "Fortunato Ferlaino of San Mango d'Aquino (1822–1901), husband of Rosa Moraca and father of the Leopoldo Ferlaino who went to Pennsylvania; John's 3rd-great-grandfather."
 }

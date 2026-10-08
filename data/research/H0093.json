@@ -11,8 +11,8 @@
     "Elizabeth Masse"
   ],
   "tags": [],
-  "summary": "John's 9th-great-grandmother; Huguenot of the Mersereau family of Moëze, Saintonge, later famous on Staten Island.",
-  "bio": "Elisabet Mercereau was the wife of Pierre Masse, in New York by 1689. Her brother Daniel Mercereau was godfather to her son Daniel in 1689, and Daniel's wife Suzanne Marie Doucinet was godmother to her son Pierre (1693) and daughter Jeanne (1696). Her siblings Marie, Josué and Daniel, all 'de Moise en St. onge', married in New York in July-August 1693. Her parents were presumably Jean Mersereau Sr. and Elisabet Dubois.",
+  "summary": "Huguenot wife of Pierre Masse, of the Mersereau family of Moëze in Saintonge, who was in New York by 1689; John's 9th-great-grandmother.",
+  "bio": "Elizabeth Mersereau, whose name was written Elisabet Mercereau in the French church records, was a Huguenot of the Mersereau family of Moëze in Saintonge, a family that later became well known on Staten Island. She was the wife of Pierre Masse and was living in New York by 1689. Her brother Daniel Mercereau stood as godfather to her son Daniel in 1689, and Daniel's wife, Suzanne Marie Doucinet, was godmother to her son Pierre in 1693 and her daughter Jeanne in 1696. Her siblings Marie, Josué and Daniel, all described as from Moëze in Saintonge, married in New York in July and August 1693. Her parents were presumably Jean Mersereau Sr. and Elisabet Dubois. She is John's 9th-great-grandmother.",
   "sources": [
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu",
     "WikiTree Mersereau-32: https://www.wikitree.com/wiki/Mersereau-32",
@@ -39,6 +39,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0093.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Elisabet Mercereau was the wife of Pierre Masse, in New York by 1689. Her brother Daniel Mercereau was godfather to her son Daniel in 1689, and Daniel's wife Suzanne Marie Doucinet was godmother to her son Pierre (1693) and daughter Jeanne (1696). Her siblings Marie, Josué and Daniel, all 'de Moise en St. onge', married in New York in July-August 1693. Her parents were presumably Jean Mersereau Sr. and Elisabet Dubois."
 }

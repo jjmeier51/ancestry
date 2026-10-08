@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "A Pringle relative of unknown connection.",
-  "bio": "Emma Pringle, 15, servant, in the household next to Andrew Pringle's in the 1880 Plymouth Twp census.",
+  "summary": "Emma Pringle, born about 1865, a Pringle relative whose exact connection to the family is unknown.",
+  "bio": "Emma Pringle was born about 1865. In 1880 she was a fifteen-year-old servant in the household next to Andrew Pringle's in Plymouth Township. She is probably a relative of the Pringle family, but her exact connection is not known.",
   "sources": [
     "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0164.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Emma Pringle, 15, servant, in the household next to Andrew Pringle's in the 1880 Plymouth Twp census."
 }

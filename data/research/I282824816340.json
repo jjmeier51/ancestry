@@ -24,6 +24,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816340.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -40,7 +44,7 @@
       "assessment": "Use 1678."
     }
   ],
-  "bio": "Giuseppe was born on 30 January 1678 (the tree says 1676), son of Ottavio Putero and Vittoria (A)ragona ([R4-S1]). He married Beatrice Manfrida on 28 August 1709 ([R4-S2]) and was buried on 13 November 1748 ([R4-S3]).",
+  "bio": "Giuseppe Putero, whose surname is also written Puteri, was born at San Mango di Aquino in Catanzaro, Calabria, Italy, the son of Ottavio Putero and Vittoria Aragona. The parish register gives his birth as 30 January 1678, though family records say 1676. He married Beatrice Manfrida at San Mango on 28 August 1709 and was buried there on 13 November 1748. He was John's 8th-great-grandfather.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -49,5 +53,7 @@
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1670-1687 (Book 2), image 20, p. 20, no. 2; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1670-1687'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1686-1713 (Book 3), image 219, p. 363, no. 5; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1686-1713'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1747-1767 (Book 25), image 8, p. 5, no. 21; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Giuseppe was born on 30 January 1678 (the tree says 1676), son of Ottavio Putero and Vittoria (A)ragona ([R4-S1]). He married Beatrice Manfrida on 28 August 1709 ([R4-S2]) and was buried on 13 November 1748 ([R4-S3]).",
+  "summary": "Giuseppe Putero of San Mango di Aquino in Calabria, born in the 1670s and died 1748, husband of Beatrice Manfrida; John's 8th-great-grandfather."
 }

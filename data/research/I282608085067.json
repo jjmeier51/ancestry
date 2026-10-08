@@ -15,7 +15,7 @@
     "place": "Erie, Erie County, Pennsylvania"
   },
   "tags": [],
-  "summary": "John's 3rd great-aunt.",
+  "summary": "Daughter of Fredrick Meier of Hazleton who married William J. Walsh and died at Erie in 1962; John's 3rd great-aunt.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
@@ -47,6 +47,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085067.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -59,8 +63,9 @@
       "value": "G7GQ-NRP"
     }
   ],
-  "bio": "The FamilySearch tree adds exact dates: born 3 Sept 1875 in Pennsylvania, died 6 Nov 1962 at Erie, buried in Millcreek Township. Her husband was William J. Walsh (1873–1951) ([R4-S1]). She is 'Annie Myer' in her father Fredrick Myer's household at Hazleton in 1880. The 1962 state death index (MAR–MY volume) was read for her brother's family; as a married woman she would be indexed under Walsh, which was not checked.",
+  "bio": "Anna J. Meier was born in Pennsylvania on 3 September 1875 and appears as Annie Myer in the Hazleton household of her father, Fredrick Myer, in 1880. She married William J. Walsh (1873–1951) and was thereafter Anna J. Walsh. She died at Erie, Erie County, Pennsylvania, on 6 November 1962 and was buried in Millcreek Township. She is John's 3rd great-aunt.",
   "openQuestions": [
     "PA death index 1962 (W volume) for Anna J. Walsh, Erie, 6 Nov 1962. Also Erie Times obituary, Nov 1962."
-  ]
+  ],
+  "researchNotes": "The FamilySearch tree adds exact dates: born 3 Sept 1875 in Pennsylvania, died 6 Nov 1962 at Erie, buried in Millcreek Township. Her husband was William J. Walsh (1873–1951) ([R4-S1]). She is 'Annie Myer' in her father Fredrick Myer's household at Hazleton in 1880. The 1962 state death index (MAR–MY volume) was read for her brother's family; as a married woman she would be indexed under Walsh, which was not checked."
 }

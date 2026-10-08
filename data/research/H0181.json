@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grand-uncle.",
-  "bio": "Joshua (1793-1839) married Martha Ives, possibly kin of Huldah Ives Pringle (speculative).\n\nFamilySearch gives Joshua B. Lamoreaux a birth date of 30 Aug 1793 and his marriage to Martha Ives on 12 Dec 1813, with children born in Lehman and Jackson Twps from 1815. It gives his death as 1838, against 1839 on the site, and attaches his probate file ([R4-S1]).",
+  "summary": "Joshua B. Lamoreaux, husband of Martha Ives, who raised his family in Lehman and Jackson Townships; John's 5th-great-grand-uncle.",
+  "bio": "Joshua B. Lamoreaux was born on 30 August 1793 at Monroe, Orange County, New York. On 12 December 1813 he married Martha Ives, who may have been a relative of Huldah Ives Pringle, though that is only a guess. Their children were born in Lehman and Jackson Townships from 1815 onward. He died in 1839, or possibly 1838, as the records differ. He was John's 5th-great-grand-uncle.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0181.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -68,5 +72,6 @@
       "label": "FamilySearch ID",
       "value": "M6FQ-CKJ"
     }
-  ]
+  ],
+  "researchNotes": "Joshua (1793-1839) married Martha Ives, possibly kin of Huldah Ives Pringle (speculative).\n\nFamilySearch gives Joshua B. Lamoreaux a birth date of 30 Aug 1793 and his marriage to Martha Ives on 12 Dec 1813, with children born in Lehman and Jackson Twps from 1815. It gives his death as 1838, against 1839 on the site, and attaches his probate file ([R4-S1])."
 }

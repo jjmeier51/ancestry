@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "President of New York Life Insurance & Trust; John's 4th cousin 7x removed.",
-  "bio": "Married Julia Tyler's first cousin Sarah Diodati Gardiner; their son Frederick Diodati Thompson held Sagtikos Manor.\n\nEldest son of Jonathan Thompson ([R4-S1]): 4th cousin 7 times removed via John Thompson, 5th cousin 6 times removed via Bull Smith. Married Sarah Diodati Gardiner; children Sarah G. (Mrs Col. David Lion Gardiner), Elizabeth, Gardiner, David Gardiner, Charles Griswold, Mary Gardiner and Frederick Diodati (proprietor of Sagtikos Manor in 1898).",
+  "summary": "President of the New York Life Insurance and Trust Company; John's 4th cousin 7x removed.",
+  "bio": "David Thompson was born on 3 May 1798, the eldest son of Jonathan Thompson. He is John's 4th cousin seven times removed through John Thompson and 5th cousin six times removed through Bull Smith. He became president of the New York Life Insurance and Trust Company. He married Sarah Diodati Gardiner, a first cousin of Julia Tyler; their children were Sarah G., who married Col. David Lion Gardiner, Elizabeth, Gardiner, David Gardiner, Charles Griswold, Mary Gardiner and Frederick Diodati, who held Sagtikos Manor and was its proprietor in 1898. David Thompson died on 22 February 1871.",
   "sources": [
     "Wikipedia: Jonathan Thompson (collector)",
     "Pelletreau (1898)",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0317.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,5 +46,6 @@
   },
   "death": {
     "date": "1871-02-22"
-  }
+  },
+  "researchNotes": "Married Julia Tyler's first cousin Sarah Diodati Gardiner; their son Frederick Diodati Thompson held Sagtikos Manor.\n\nEldest son of Jonathan Thompson ([R4-S1]): 4th cousin 7 times removed via John Thompson, 5th cousin 6 times removed via Bull Smith. Married Sarah Diodati Gardiner; children Sarah G. (Mrs Col. David Lion Gardiner), Elizabeth, Gardiner, David Gardiner, Charles Griswold, Mary Gardiner and Frederick Diodati (proprietor of Sagtikos Manor in 1898)."
 }

@@ -9,8 +9,8 @@
     "Joseph Birkenmeier"
   ],
   "tags": [],
-  "summary": "John's 4th great-uncle; brother of Maria Anna Birkenmayer; emigrant to Sandusky, Ohio.",
-  "bio": "Born 15 Mar 1842, baptized 19 Mar 1842 at Munzingen (No. 6): 'Joseph Birkenmayer, ehelicher Sohn des Servatius Birkenmayer, hiesigen Bürgers und Glasers, und der Agatha Heizler'; witnesses Gabriel Ott, farmer, and Johann Schell, teacher. The Ancestry index (snippet) has a Joseph Birkenmeier, b. 15 Mar 1842 'Münzingen', Breisgau, parents Servatius Birkenmayer and Agatha Heitzler, d. 3 Nov 1904 Sandusky, Erie Co., Ohio — the clue that led to Munzingen. Munzingen had an emigrant pipeline to northern Ohio. Not in the 1889 History of Erie County biographies (B).\n\nJoseph was still at home in Munzingen in March 1863. When his sister Maria Anna's second child, Franziska (later Frances Meier Miller), was baptized on 10 Mar 1863, the godfather was 'Joseph Birkenmaier, Taglöhner, twenty-year-old single son of the late Servaz Birkenmaier of here'. He also signed as a witness ([R4-S1]). The age fits his birth on 15 Mar 1842 exactly. So he emigrated to Ohio after March 1863. A Sandusky obituary (Nov 1904) is still unread: the Hayes Ohio Obituary Index search page could not be driven from here, and the Erie County USGenWeb obituary page has no Birkenmeier.",
+  "summary": "Glazier's son from Munzingen in Baden who emigrated to Sandusky, Ohio; John's 4th great-uncle.",
+  "bio": "Joseph Birkenmayer, later also spelled Birkenmeier, was born on 15 March 1842 at Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany, and baptized there four days later, the legitimate son of Servatius Birkenmayer, a citizen and glazier of Munzingen, and Agatha Heizler; the farmer Gabriel Ott and the teacher Johann Schell stood as witnesses. He was a brother of Maria Anna Birkenmayer, and is John's 4th great-uncle.\n\nHe was still at home in March 1863, working as a day labourer. When his sister Maria Anna's second child, Franziska, later Frances Meier Miller, was baptized on 10 March 1863, he was her godfather, described as the twenty-year-old single son of the late Servaz Birkenmaier, and he signed the register as a witness. Some time after that he left for America, following the well-worn path from Munzingen to northern Ohio. He died at Sandusky, Erie County, Ohio, on 3 November 1904.",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), births 1842 No. 6 http://www.landesarchiv-bw.de/plink/?f=5-480947-62",
     "Ancestry snippet https://www.ancestry.com/genealogy/records/results?firstName=joseph&lastName=birkenmeier",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0028.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "day labourer (Taglöhner), Munzingen, 1863",
@@ -55,5 +59,6 @@
       "place": "Munzingen, Baden",
       "description": "Named as godfather and witness: 'Joseph Birkenmaier, day labourer, 20-year-old single son of the late Servaz Birkenmaier of here'. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Born 15 Mar 1842, baptized 19 Mar 1842 at Munzingen (No. 6): 'Joseph Birkenmayer, ehelicher Sohn des Servatius Birkenmayer, hiesigen Bürgers und Glasers, und der Agatha Heizler'; witnesses Gabriel Ott, farmer, and Johann Schell, teacher. The Ancestry index (snippet) has a Joseph Birkenmeier, b. 15 Mar 1842 'Münzingen', Breisgau, parents Servatius Birkenmayer and Agatha Heitzler, d. 3 Nov 1904 Sandusky, Erie Co., Ohio — the clue that led to Munzingen. Munzingen had an emigrant pipeline to northern Ohio. Not in the 1889 History of Erie County biographies (B).\n\nJoseph was still at home in Munzingen in March 1863. When his sister Maria Anna's second child, Franziska (later Frances Meier Miller), was baptized on 10 Mar 1863, the godfather was 'Joseph Birkenmaier, Taglöhner, twenty-year-old single son of the late Servaz Birkenmaier of here'. He also signed as a witness ([R4-S1]). The age fits his birth on 15 Mar 1842 exactly. So he emigrated to Ohio after March 1863. A Sandusky obituary (Nov 1904) is still unread: the Hayes Ohio Obituary Index search page could not be driven from here, and the Erie County USGenWeb obituary page has no Birkenmeier."
 }

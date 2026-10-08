@@ -23,8 +23,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 10th-great-grandmother, wife of Bull Smith; came from Ipswich to New England in 1634 aged 10.",
-  "bio": "Sailed from Ipswich on the Francis in April 1634, aged 10, with her mother (47), Elizabeth (15) and John (7) (Hammond 1902). No Lavenham baptism under 'Sarah' found; Hammond's register list has 'Marie, daughter of William Hamond' dated 21 Oct '1628', probably a misprint for 1623 (it sits before the 1626 entry); WikiTree Hammond-356 suggests she was christened 'Marie' 21 Oct 1623 (speculative). Married Richard Smith in 1640 despite his attempt to withdraw. Her will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss' — 'Old Crib', which family tradition says the Patentee's father used in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left Mr. George Phillips a cow and made son Richard give up debts he 'pretends' were owed him (Pelletreau pp. 37–38). Pelletreau (1898) had called her 'Sarah Folger, of Boston, according to all accounts' — superseded.\n\nPelletreau prints the 1688 deeds that Sarah Smith joined as party ('by and with the consent of Sarah his wife'), acknowledged with her husband on 17 Sept 1688 ([R4-S1]). Her maiden name and Lavenham baptism were not re-examined this round.",
+  "summary": "Wife of Bull Smith, who sailed from Ipswich to New England in 1634 at the age of ten; John's 10th-great-grandmother.",
+  "bio": "Sarah Hammond was born about 1623 at Lavenham in Suffolk, a daughter of William Hammond. She was probably the 'Marie, daughter of William Hamond' whose baptism the Lavenham register records on 21 October, under a year that reads 1628 but is probably a misprint for 1623; the identification of Marie with Sarah is speculative. In April 1634, aged ten, she sailed from Ipswich on the Francis with her mother, 47, her sister Elizabeth, 15, and her brother John, 7, to join her father in New England.\n\nIn 1640 she married Richard 'Bull' Smith, despite his attempt to withdraw from the match. Pelletreau's history of 1898 called her 'Sarah Folger, of Boston, according to all accounts', but that identification has been superseded. In 1688 she joined her husband as a party to deeds made 'by and with the consent of Sarah his wife', acknowledging them with him on 17 September 1688.\n\nHer will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss', the gun known as 'Old Crib', which family tradition says the Patentee's father had carried in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left Mr. George Phillips a cow and made her son Richard give up debts he 'pretends' were owed to him. She died at Smithtown in 1708.",
   "funFacts": [
     "Owned the blunderbuss 'Old Crib', a family heirloom still held by descendants in 1898."
   ],
@@ -70,6 +70,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608065316.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -81,5 +85,6 @@
       "note": "Sarah Hammond, 1623-10-21 – 1708-01-20",
       "url": "https://www.wikitree.com/wiki/Hammond-356"
     }
-  ]
+  ],
+  "researchNotes": "Sailed from Ipswich on the Francis in April 1634, aged 10, with her mother (47), Elizabeth (15) and John (7) (Hammond 1902). No Lavenham baptism under 'Sarah' found; Hammond's register list has 'Marie, daughter of William Hamond' dated 21 Oct '1628', probably a misprint for 1623 (it sits before the 1626 entry); WikiTree Hammond-356 suggests she was christened 'Marie' 21 Oct 1623 (speculative). Married Richard Smith in 1640 despite his attempt to withdraw. Her will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss' — 'Old Crib', which family tradition says the Patentee's father used in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left Mr. George Phillips a cow and made son Richard give up debts he 'pretends' were owed him (Pelletreau pp. 37–38). Pelletreau (1898) had called her 'Sarah Folger, of Boston, according to all accounts' — superseded.\n\nPelletreau prints the 1688 deeds that Sarah Smith joined as party ('by and with the consent of Sarah his wife'), acknowledged with her husband on 17 Sept 1688 ([R4-S1]). Her maiden name and Lavenham baptism were not re-examined this round."
 }

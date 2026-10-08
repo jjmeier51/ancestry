@@ -10,8 +10,8 @@
     "Annie Dillon"
   ],
   "tags": [],
-  "summary": "John's 2nd cousin 4x removed (granddaughter of Richard Heffernan and Anastasia Boney); wife of a Leadville mine owner shot in 1880.",
-  "bio": "Anna S. Heffernan (1859-1914) married Richard Dillon (1850-1927), 'former owner of the Little Chief mine', who was shot by a faro dealer at Leadville, Colorado, in July 1880. He survived: 'Dick is shot; getting along well. Annie Dillon.' He died at Globe, Arizona, in 1927.",
+  "summary": "Granddaughter of Richard Heffernan and Anastasia Boney and wife of the Leadville mine owner Richard Dillon; John's 2nd cousin 4 times removed.",
+  "bio": "Anna S. Heffernan was born in 1859, a granddaughter of Richard Heffernan and Anastasia Boney. She married Richard Dillon (1850–1927), a former owner of the Little Chief mine at Leadville, Colorado. In July 1880 Dillon was shot by a faro dealer at Leadville. He survived, and the news went out in Annie's own brief words: \"Dick is shot; getting along well. Annie Dillon.\" She died in 1914; her husband outlived her and died at Globe, Arizona, in 1927. She is John's 2nd cousin 4 times removed.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (quoting The Sun (NY) 29 Jul 1880 and the Wilkes-Barre Record of the Times 30 Jul 1880)"
   ],
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0132.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Anna S. Heffernan (1859-1914) married Richard Dillon (1850-1927), 'former owner of the Little Chief mine', who was shot by a faro dealer at Leadville, Colorado, in July 1880. He survived: 'Dick is shot; getting along well. Annie Dillon.' He died at Globe, Arizona, in 1927."
 }

@@ -9,7 +9,7 @@
     "place": "Wales"
   },
   "tags": [],
-  "summary": "John's 3rd great-grandfather; Welsh-born, in Plymouth by 1880 (c.1870).",
+  "summary": "Welsh-born miner who worked in England before settling in Plymouth, Pennsylvania, about 1870; John's 3rd-great-grandfather.",
   "residences": [
     {
       "date": "1880",
@@ -39,6 +39,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604497369.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -50,7 +54,7 @@
     }
   ],
   "occupation": "Miner (1880)",
-  "bio": "1880 census, Plymouth Township, 11 Jun 1880: Edward F. Jones, 40, miner, born Wales of Welsh parents, with wife Margret and children Ann C. 15, Rose 13, Mary 10 (all born England) and William J. (born Sept 1879, Pennsylvania) ([R4-S1]). The English births show he worked in England (probably a mining district) from at least 1865 to about 1870 before emigrating. His son Joseph's 1914 marriage docket gives him as deceased, born Wales ([R4-S2]). Next door in 1880 lived Evan W. Jones, 60, and Martha, 52, both Welsh, possibly kin.",
+  "bio": "Edward F. Jones was born in Wales about 1840, of Welsh parents, and worked as a miner. In June 1880 he was living in Plymouth Township, Luzerne County, Pennsylvania, aged 40, with his wife Margret and their children Ann C., 15, Rose, 13, and Mary, 10, all born in England, and William J., born in Pennsylvania in September 1879. The children's English births show that he had worked in England, probably in a mining district, from at least 1865 until about 1870 before emigrating. Next door lived Evan W. Jones, 60, and Martha, 52, both Welsh and possibly kin.\n\nHe died in 1889 and was buried at Larksville, Luzerne County, Pennsylvania; when his son Joseph married in 1914 he was recorded as deceased and born in Wales. He is John's 3rd-great-grandfather.",
   "openQuestions": [
     "Children born in England c.1865-1870: a 1871 England census search (Ancestry/FindMyPast) for Edward & Margaret Jones with Ann, Rose and Mary would show where they lived."
   ],
@@ -85,5 +89,6 @@
       ],
       "url": "https://familysearch.org/ark:/61903/1:1:KHFK-JHT"
     }
-  ]
+  ],
+  "researchNotes": "1880 census, Plymouth Township, 11 Jun 1880: Edward F. Jones, 40, miner, born Wales of Welsh parents, with wife Margret and children Ann C. 15, Rose 13, Mary 10 (all born England) and William J. (born Sept 1879, Pennsylvania) ([R4-S1]). The English births show he worked in England (probably a mining district) from at least 1865 to about 1870 before emigrating. His son Joseph's 1914 marriage docket gives him as deceased, born Wales ([R4-S2]). Next door in 1880 lived Evan W. Jones, 60, and Martha, 52, both Welsh, possibly kin."
 }

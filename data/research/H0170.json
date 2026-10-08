@@ -12,8 +12,8 @@
     "military",
     "patriot"
   ],
-  "summary": "Husband of John's 5th-great-grand-aunt Elizabeth Lamoreaux; Revolutionary soldier who escaped from a British island prison.",
-  "bio": "Col. George Palmer Ransom (1762-1850) married Elizabeth Lamoreaux in 1794. His father, Capt. Samuel Ransom, was killed in the 1778 Battle of Wyoming, his remains later found 'with the head severed from the body'. George was captured in 1780 and escaped from Prisoners' Island in the St. Lawrence River in 1782. In October 1790 Thomas Lamoreaux served in Capt. George P. Ransom's militia company at Plymouth.\n\nCol. H. B. Wright lived next door to Colonel Ransom for twenty years. In his Historical Sketches of Plymouth (1873) he says Ransom was born at Canaan, Litchfield Co., Conn., in 1761. He served as orderly-sergeant in his father's company at Millstone, Bound Brook, Germantown and Brandywine. On 6 Dec 1780 he had gone 'a sparking' in his best regimentals to old Benjamin Harvey's house when six Indians burst in and carried off the household. After imprisonment on Prisoner's Island in the St. Lawrence he swam the river and escaped through the woods to Vermont. He lived and died in the 'old red mansion house' on the Plymouth flats, and the town pound stood on his land. Wright's book has his portrait 'taken at 85' ([R4-S1]). Charles Miner noted in 1845 that he was 82 and lame, and that his grandson George Palmer Steele had just finished a term as sheriff of Luzerne ([R4-S3]). A later county history tells how he was fined one cent for knocking down a man who had insulted Washington ([R4-S2]). He built a sawmill in 1815, and his son Chester replaced it in 1840 ([R4-S3]). One daughter married the schoolmaster Charles C. Curtis and inherited the Jackson Twp. farm ([R4-S1]). Another, Livia, married Oliver Davenport (Bradsby).",
+  "summary": "Revolutionary soldier who escaped from a British island prison and became a Plymouth militia colonel; husband of John's 5th-great-grand-aunt Elizabeth Lamoreaux.",
+  "bio": "George Palmer Ransom was born at Canaan, Litchfield Co., CT, in 1762, or in 1761 according to his neighbour of twenty years, the historian H. B. Wright. His father, Captain Samuel Ransom, was killed at the Battle of Wyoming in 1778; his remains were later found \"with the head severed from the body\". George served as orderly-sergeant in his father's company at Millstone, Bound Brook, Germantown and Brandywine. On 6 December 1780 he had gone \"a sparking\" in his best regimentals to old Benjamin Harvey's log house at Plymouth when six Indians burst in and carried off the household. He was imprisoned on Prisoners' Island in the St. Lawrence River, and in 1782 swam the river and escaped through the woods to Vermont.\n\nBack in Plymouth, Luzerne County, Pennsylvania, he commanded the local militia company as captain in 1790, when Thomas Lamoreaux served under him, and rose to colonel. In 1794 he married Elizabeth Lamoreaux, John's 5th-great-grand-aunt. A county history tells how he was fined one cent by the Luzerne court for knocking down a man who had insulted Washington. He farmed and built a sawmill in 1815 in what became Jackson Township, which his son Chester replaced in 1840. One daughter married the schoolmaster Charles C. Curtis and inherited the Jackson Township farm; another, Livia, married Oliver Davenport.\n\nHe lived and died in the \"old red mansion house\" on the Plymouth flats, where the town pound stood on his land. In 1845 he was 82 and lame, and his grandson George Palmer Steele had just finished a term as sheriff of Luzerne. Wright's history of Plymouth carries his portrait, \"taken at 85\". He died in 1850.",
   "military": [
     {
       "branch": "Continental/Wyoming forces",
@@ -57,6 +57,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0170.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -153,5 +157,6 @@
   ],
   "openQuestions": [
     "Revolutionary pension file (George P. Ransom, Pennsylvania/Connecticut line) would fix the birth date and list children. It is on Fold3 (subscription)."
-  ]
+  ],
+  "researchNotes": "Col. George Palmer Ransom (1762-1850) married Elizabeth Lamoreaux in 1794. His father, Capt. Samuel Ransom, was killed in the 1778 Battle of Wyoming, his remains later found 'with the head severed from the body'. George was captured in 1780 and escaped from Prisoners' Island in the St. Lawrence River in 1782. In October 1790 Thomas Lamoreaux served in Capt. George P. Ransom's militia company at Plymouth.\n\nCol. H. B. Wright lived next door to Colonel Ransom for twenty years. In his Historical Sketches of Plymouth (1873) he says Ransom was born at Canaan, Litchfield Co., Conn., in 1761. He served as orderly-sergeant in his father's company at Millstone, Bound Brook, Germantown and Brandywine. On 6 Dec 1780 he had gone 'a sparking' in his best regimentals to old Benjamin Harvey's house when six Indians burst in and carried off the household. After imprisonment on Prisoner's Island in the St. Lawrence he swam the river and escaped through the woods to Vermont. He lived and died in the 'old red mansion house' on the Plymouth flats, and the town pound stood on his land. Wright's book has his portrait 'taken at 85' ([R4-S1]). Charles Miner noted in 1845 that he was 82 and lame, and that his grandson George Palmer Steele had just finished a term as sheriff of Luzerne ([R4-S3]). A later county history tells how he was fined one cent for knocking down a man who had insulted Washington ([R4-S2]). He built a sawmill in 1815, and his son Chester replaced it in 1840 ([R4-S3]). One daughter married the schoolmaster Charles C. Curtis and inherited the Jackson Twp. farm ([R4-S1]). Another, Livia, married Oliver Davenport (Bradsby)."
 }

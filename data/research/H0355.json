@@ -9,8 +9,8 @@
     "Josephine Castellano"
   ],
   "tags": [],
-  "summary": "John's great-grandaunt.",
-  "bio": "b. 21 Jul 1904; married Nicola Castellano; d. 28 Nov 1995, Phoenix AZ. Not listed in the 1910 census household as transcribed.\n\nJosephine Castellano died in Phoenix on 28 November 1995, aged 91. Her obituary in The Arizona Republic says she was born in Scranton and was a homemaker. She was survived by daughters Carmella Valvano and Marie Liburdi, son Vito, brothers Nick, Jim and Rocco Petrillo, nine grandchildren and 15 great-grandchildren. Visitation was at Whitney and Murphy Arcadia Funeral Chapel, with Mass at St. Theresa Catholic Church, Phoenix ([R4-S1]). In 1940 she and her husband Nicholas Castellano, a railroad car repairer, lived at 1003 Bunker Hill Street, a few doors from her parents' old home, with Vito, Carmella and Marie ([R4-S2]). She is probably the 'Joseph, 5' of the 1910 census (see H0354) ([R4-S3]).",
+  "summary": "Scranton-born homemaker who lived on Bunker Hill Street with her husband Nicholas Castellano and died in Phoenix, Arizona, at 91; John's great-grandaunt.",
+  "bio": "Josephine Petrillo was born in Scranton, Pennsylvania, on 21 July 1904. She married Nicola, or Nicholas, Castellano, a railroad car repairer, and in 1940 the couple lived at 1003 Bunker Hill Street in Scranton, a few doors from her parents' old home, with their children Vito, Carmella and Marie.\n\nShe later moved to Phoenix, Arizona, where she died on 28 November 1995, aged 91. Her obituary described her as a homemaker and listed her survivors as her daughters Carmella Valvano and Marie Liburdi, her son Vito, her brothers Nick, Jim and Rocco Petrillo, nine grandchildren and fifteen great-grandchildren. Her funeral Mass was said at St. Theresa Catholic Church in Phoenix.",
   "sources": [
     "FS tree GQWT-QQ6: https://ancestors.familysearch.org/en/GQWT-QQ6",
     "[R4-S1] Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P). (secondary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0355.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "residences": [
@@ -60,5 +64,6 @@
         "H0503"
       ]
     }
-  ]
+  ],
+  "researchNotes": "b. 21 Jul 1904; married Nicola Castellano; d. 28 Nov 1995, Phoenix AZ. Not listed in the 1910 census household as transcribed.\n\nJosephine Castellano died in Phoenix on 28 November 1995, aged 91. Her obituary in The Arizona Republic says she was born in Scranton and was a homemaker. She was survived by daughters Carmella Valvano and Marie Liburdi, son Vito, brothers Nick, Jim and Rocco Petrillo, nine grandchildren and 15 great-grandchildren. Visitation was at Whitney and Murphy Arcadia Funeral Chapel, with Mass at St. Theresa Catholic Church, Phoenix ([R4-S1]). In 1940 she and her husband Nicholas Castellano, a railroad car repairer, lived at 1003 Bunker Hill Street, a few doors from her parents' old home, with Vito, Carmella and Marie ([R4-S2]). She is probably the 'Joseph, 5' of the 1910 census (see H0354) ([R4-S3])."
 }

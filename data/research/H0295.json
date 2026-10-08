@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "NY state senator killed in the 1844 USS Princeton explosion; John's 4th cousin 7x removed via Bull Smith.",
+  "summary": "New York state senator killed in the 1844 gun explosion aboard USS Princeton; John's 4th cousin 7 times removed through Bull Smith.",
   "sources": [
     "Gardiner (1890) p. 149",
     "[R4-S1] Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), pp. 118-121, 131-132, 148-149 (secondary) https://archive.org/details/liongardinerhisd00gard",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0295.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -112,7 +116,7 @@
       "description": "Married Juliana McLachlan, daughter of the brewer Michael McLachlan (from Jamaica; brewery near Chatham Square). [R4-S1]"
     }
   ],
-  "bio": "4th cousin 7 times removed (Bull Smith -> Richard 2d -> Nathaniel -> Mary -> Capt. Abraham -> David). Killed by the bursting of the 'Peacemaker' gun aboard USS Princeton on 28 Feb 1844, one of seven killed. His widow's will was contested and rejected by the Court of Appeals, 'a celebrated Will case' ([R4-S1]).",
+  "bio": "David Gardiner was born in May 1784; the records disagree on whether the day was the 2nd or the 29th. He was educated and made his career in New York and East Hampton between 1804 and 1828, married in New York in 1816, and served as a New York state senator. On 28 February 1844 he was aboard the USS Princeton on the Potomac River near Mount Vernon when the great 'Peacemaker' gun burst; he was one of the seven people killed. His widow's will was later contested and rejected by the Court of Appeals in what became known as 'a celebrated Will case'. Through Bull Smith he was John's 4th cousin 7 times removed.",
   "conflicts": [
     {
       "field": "birth.date",
@@ -120,5 +124,6 @@
       "found": "2 May 1784 (Gardiner 1890) vs 29 May 1784 (Wikipedia)",
       "assessment": "Unresolved; Gardiner is the family genealogy."
     }
-  ]
+  ],
+  "researchNotes": "4th cousin 7 times removed (Bull Smith -> Richard 2d -> Nathaniel -> Mary -> Capt. Abraham -> David). Killed by the bursting of the 'Peacemaker' gun aboard USS Princeton on 28 Feb 1844, one of seven killed. His widow's will was contested and rejected by the Court of Appeals, 'a celebrated Will case' ([R4-S1])."
 }

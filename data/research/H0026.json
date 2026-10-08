@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th great-uncle; sibling of Friedrich Mayer.",
-  "bio": "Died a month after his sister Carolina, 1857.",
+  "summary": "Younger brother of Friedrich Mayer who died at Munzingen in 1857, aged nineteen; John's 4th-great-uncle.",
+  "bio": "Johann Baptist Alois Mayer was born at Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany, on 16 June 1838, a younger brother of John's ancestor Friedrich Mayer. He died at Munzingen on 25 June 1857, aged nineteen, a month after the death of his sister Carolina.",
   "sources": [
     "FamilySearch tree G7PF-7J6 / G921-25N",
     "notes/round3/meier_line.md"
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0026.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Died a month after his sister Carolina, 1857."
 }

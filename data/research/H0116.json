@@ -9,8 +9,8 @@
     "Dr. Andrew J. Heffernan Jr."
   ],
   "tags": [],
-  "summary": "John's 2nd-great-grand-uncle; Dr. Andrew J. Heffernan Jr., Wilkes-Barre dentist who built the Heffernan Building.",
-  "bio": "Dr. Andrew Joseph Heffernan (27 Feb 1881 - 17 Nov 1959) attended Wyoming Seminary and took a DDS from Philadelphia Dental College (Temple) in 1907. He was president of the Susquehanna Dental Society, State Grand Master of Psi Omega, built the Heffernan Building in Wilkes-Barre, practiced dentistry more than 50 years and served 19 years on the state dental board. He married Lillian T. MacDonald, daughter of a director of Philadelphia's Corn Exchange National Bank; their Philadelphia marriage application of 24 Nov 1914 names his father Andrew H. Heffernan (b. Ireland, clerk) and mother Mary Connole (b. New York).\n\nBefore dental school, the 19-year-old Andrew was listed in the 1900 census as a \"wire maker\" ([R4-S9]). FS gives his burial at St. Mary's, Hanover Twp ([R4-S1]).",
+  "summary": "Wilkes-Barre dentist for more than fifty years who built the Heffernan Building; John's 2nd-great-grand-uncle.",
+  "bio": "Dr. Andrew Joseph Heffernan was born on 27 February 1881, a son of Andrew H. Heffernan, an Irish-born clerk, and Mary Connole, who was born in New York. At nineteen, in 1900, he was working as a wire maker. He attended Wyoming Seminary and took his dental degree at the Philadelphia Dental College, now part of Temple University, in 1907. He was John's 2nd-great-grand-uncle.\n\nHe practiced dentistry in Wilkes-Barre for more than fifty years, built the Heffernan Building there, served as president of the Susquehanna Dental Society and State Grand Master of Psi Omega, and sat for nineteen years on the state dental board. In Philadelphia in November 1914 he married Lillian T. MacDonald, daughter of a director of the Corn Exchange National Bank. He was still living in Wilkes-Barre in 1940, died on 17 November 1959 and was buried at St. Mary's Cemetery, Hanover Township.",
   "sources": [
     "Harvey & Smith vol. V p.346: https://archive.org/details/historyofwilkesb05harv",
     "Find a Grave 139404421: https://www.findagrave.com/memorial/139404421/andrew_joseph-heffernan",
@@ -37,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0116.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "burial": {
@@ -58,5 +62,6 @@
       "place": "Ward 4, Wilkes-Barre",
       "note": "[R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Dr. Andrew Joseph Heffernan (27 Feb 1881 - 17 Nov 1959) attended Wyoming Seminary and took a DDS from Philadelphia Dental College (Temple) in 1907. He was president of the Susquehanna Dental Society, State Grand Master of Psi Omega, built the Heffernan Building in Wilkes-Barre, practiced dentistry more than 50 years and served 19 years on the state dental board. He married Lillian T. MacDonald, daughter of a director of Philadelphia's Corn Exchange National Bank; their Philadelphia marriage application of 24 Nov 1914 names his father Andrew H. Heffernan (b. Ireland, clerk) and mother Mary Connole (b. New York).\n\nBefore dental school, the 19-year-old Andrew was listed in the 1900 census as a \"wire maker\" ([R4-S9]). FS gives his burial at St. Mary's, Hanover Twp ([R4-S1])."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th-great-grand-uncle; transported to New South Wales after the 1834 Ballynonty constable killing.",
-  "bio": "Baptized 1812, son of Humphrey Heffernan and Anastasia Ryan. With his brother Patrick and others he was convicted of manslaughter over the killing of 'Constable Feeney' at Ballynonty in 1834, and transported to New South Wales for seven years.",
+  "summary": "Tipperary-born son of Humphrey Heffernan, transported to New South Wales after the 1834 killing of a constable at Ballynonty; John's 4th-great-grand-uncle.",
+  "bio": "James Heffernan was baptized in 1812 in County Tipperary, a son of Humphrey Heffernan and Anastasia Ryan. In 1834 he, his brother Patrick and others were convicted of manslaughter over the killing of a constable named Feeney at Ballynonty, and he was transported to New South Wales for seven years. He was probably John's 4th-great-grand-uncle.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
     "IrelandXO Gortnahoe message board: https://irelandxo.com/ireland/tipperary/gortnahoe-tipperary/message-board/information-heffernans-gortnahoe"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0130.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Baptized 1812, son of Humphrey Heffernan and Anastasia Ryan. With his brother Patrick and others he was convicted of manslaughter over the killing of 'Constable Feeney' at Ballynonty in 1834, and transported to New South Wales for seven years."
 }

@@ -9,8 +9,8 @@
     "Rev. Nathaniel Brewster"
   ],
   "tags": [],
-  "summary": "Harvard's first class (1642); Brookhaven's first minister; not an ancestor, and his kinship now hinges on the Brewster question.",
-  "bio": "Graduated in Harvard's first class (1642). At Walberswick, Suffolk in 1649; minister of Alby and Thwaite, Norfolk; Cromwell sent him to Ireland in 1655 with Henry Cromwell. Brookhaven's first minister. Sources disagree whether he was born in America or Bristol. His father-in-law Roger Ludlow 'removed to Virginia in 1654' (actually visited his brother George there, then went to Ireland) — in-law only. Cannot qualify John for the Colonial Clergy society (collateral).\n\nThompson ([R4-S1]) states that Rev. Nathaniel Brewster's wife was a daughter of Roger Ludlow, deputy-governor of Massachusetts and framer of Connecticut's code, and that their daughter Hannah married John Muncy and then Samuel Thompson.",
+  "summary": "Member of Harvard's first class and Brookhaven's first minister; a collateral relation whose kinship to John depends on the unresolved Brewster question.",
+  "bio": "Rev. Nathaniel Brewster graduated in Harvard's first class in 1642. He was at Walberswick in Suffolk in 1649, served as minister of Alby and Thwaite in Norfolk, and in 1655 was sent by Cromwell to Ireland with Henry Cromwell. He later became the first minister of Brookhaven on Long Island. Sources disagree on whether he was born in America or at Bristol.\n\nHis wife was a daughter of Roger Ludlow, deputy-governor of Massachusetts and framer of Connecticut's code of laws; Ludlow is said to have removed to Virginia in 1654, though in fact he visited his brother George there and then went to Ireland. Their daughter Hannah married John Muncy and then Samuel Thompson. Brewster is not an ancestor of John, and his kinship to the family rests on the still unresolved question of the Brewster line.",
   "sources": [
     "We're History, https://werehistory.org/harvard-1642-americas-first-commencement/",
     "Champlin (1915)",
@@ -44,6 +44,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0291.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Graduated in Harvard's first class (1642). At Walberswick, Suffolk in 1649; minister of Alby and Thwaite, Norfolk; Cromwell sent him to Ireland in 1655 with Henry Cromwell. Brookhaven's first minister. Sources disagree whether he was born in America or Bristol. His father-in-law Roger Ludlow 'removed to Virginia in 1654' (actually visited his brother George there, then went to Ireland) — in-law only. Cannot qualify John for the Colonial Clergy society (collateral).\n\nThompson ([R4-S1]) states that Rev. Nathaniel Brewster's wife was a daughter of Roger Ludlow, deputy-governor of Massachusetts and framer of Connecticut's code, and that their daughter Hannah married John Muncy and then Samuel Thompson."
 }

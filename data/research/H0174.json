@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 1st cousin 6x removed; Luzerne County sheriff from 1859.",
-  "bio": "Probable son of Stephen Van Loon and Hannah Lamoreaux (mother not proven); Luzerne sheriff from 1859.\n\nThe Harvey Book says Samuel Van Loon, son of Stephen, was born on 8 Jun 1811 and died on 28 Jun 1885. In 1834 he married Jane Davenport (b. 23 Oct 1815), daughter of Robert and Phebe (Nesbitt) Davenport, and they had thirteen children. In 1859 he was elected sheriff for three years ([R4-S2]), following his father, who had held the office in 1816. Wright calls him 'a man well known in the county' and the last of five Plymouth sheriffs ([R4-S1]). Bradsby lists a Samuel Van Loon among Plymouth's township officers in 1838 ([R4-S3]).",
+  "summary": "Sheriff of Luzerne County from 1859, following his father Stephen Van Loon; probably John's 1st cousin 6x removed.",
+  "bio": "Samuel Van Loon was born at Plymouth, Luzerne Co., PA, on 8 June 1811, the son of Stephen Van Loon and probably of Hannah Lamoreaux, though his mother is not proven. In 1834 he married Jane Davenport, born 23 October 1815, daughter of Robert and Phebe (Nesbitt) Davenport, and they had thirteen children. He was among Plymouth's township officers in 1838, and in 1859 he was elected Sheriff of Luzerne County for a three-year term, an office his father had held in 1816. A county historian called him \"a man well known in the county\" and the last of five Plymouth men to serve as sheriff. He died on 28 June 1885. He was probably John's 1st cousin 6x removed.",
   "sources": [
     "Harvey Book p.357",
     "[R4-S1] H. B. Wright, Historical Sketches of Plymouth (1873), pp.387-389 ('Van Loons') and p.255 (secondary) https://archive.org/details/historicalsketch00wrig_2",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0174.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -71,5 +75,6 @@
   ],
   "openQuestions": [
     "Mother: Hannah Lamoreux (H0172) married Stephen (Giles & Franklin), but no source names Samuel's mother. His 1885 obituary in the Wilkes-Barre papers would settle it."
-  ]
+  ],
+  "researchNotes": "Probable son of Stephen Van Loon and Hannah Lamoreaux (mother not proven); Luzerne sheriff from 1859.\n\nThe Harvey Book says Samuel Van Loon, son of Stephen, was born on 8 Jun 1811 and died on 28 Jun 1885. In 1834 he married Jane Davenport (b. 23 Oct 1815), daughter of Robert and Phebe (Nesbitt) Davenport, and they had thirteen children. In 1859 he was elected sheriff for three years ([R4-S2]), following his father, who had held the office in 1816. Wright calls him 'a man well known in the county' and the last of five Plymouth sheriffs ([R4-S1]). Bradsby lists a Samuel Van Loon among Plymouth's township officers in 1838 ([R4-S3])."
 }

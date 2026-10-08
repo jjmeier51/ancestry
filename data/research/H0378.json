@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Mayor of Scranton (2020-); married-in Cognetti, kinship unknown.",
-  "bio": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family.",
+  "summary": "Mayor of Scranton since 2020, married to Ryan Cognetti; a Cognetti by marriage whose exact kinship to John's family is unknown.",
+  "bio": "Paige Cognetti has served as Mayor of Scranton, Pennsylvania, since 2020. She is a Cognetti by marriage, the wife of Ryan Cognetti, and the exact kinship between her husband's family and John's Cognettis is unknown. Scranton was also home to a separate, unrelated Cognetti family whose origins lay in Nicastro.",
   "sources": [
     "Wikipedia: https://en.wikipedia.org/wiki/Paige_Cognetti"
   ],
@@ -24,6 +24,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family."
 }

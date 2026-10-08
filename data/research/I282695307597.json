@@ -5,8 +5,8 @@
     "note": "Tree only (with a DNA image); unsourced and removed with Patrick's line."
   },
   "tags": [],
-  "summary": "Tree-only; disproven as John's ancestor.",
-  "bio": "Tree shows Thomas Heffernan 1736-Deceased (DNA image) as Patrick's father. No source; removed.",
+  "summary": "Thomas Heffernan, born about 1736 in Tipperary, Ireland, once placed as father of Patrick Heffernan; the link to John's line has been disproven.",
+  "bio": "Thomas Heffernan was born about 1736 in Tipperary, Ireland. He was at one time recorded as the father of Patrick Heffernan, but no record supports the connection, and he is no longer regarded as one of John's ancestors.",
   "facts": [
     {
       "label": "Tree shows",
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695307597.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree shows Thomas Heffernan 1736-Deceased (DNA image) as Patrick's father. No source; removed."
 }

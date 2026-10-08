@@ -18,8 +18,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 11th-great-grandfather; Norfolk emigrant of 1637 who went from Hingham, Massachusetts, to Southold.",
-  "bio": "Baptized 'Henrye Tutthill' 28 Jun 1612 at St Mary, Tharston, aged 5 when his father died in 1618. Sailed 1637 in the Mary Anne of Yarmouth (William Goose, master) as 'Henry Tuthill and wife, of Saxlingham, Norfolk' (Banks, Planters of the Commonwealth p. 183). Hingham, Mass.: planting lot 1635 (per Round 2/Akerly) and house lot 1637; freeman 1638; constable 1640; sold out 20 Jun 1644 and went to Southold. Died before 15 Dec 1650 (tree says 1644). His widow Bridget married William Wells. Akerly's suggestion that William Tuttle of New Haven (Planter, 1635) was Henry's brother William (bapt. Tharston 1609) is disproven: William of New Haven's son Thomas was baptized 4 Jan 1634 at Ringstead, Northamptonshire (FreeREG; Green, TAG 56:143; WikiTree Tuttle-29).",
+  "summary": "Norfolk emigrant of 1637 who settled first at Hingham, Massachusetts, and then at Southold on Long Island; John's 11th-great-grandfather.",
+  "bio": "Henry Tuthill was baptized as Henrye Tutthill at St Mary's, Tharston, Norfolk, on 28 June 1612, and was five years old when his father died in 1618. In 1637 he and his wife, then of Saxlingham in Norfolk, sailed from Great Yarmouth in the Mary Anne, William Goose master, for New England.\n\nHe settled at Hingham, Massachusetts, where he had a house lot in 1637 (some accounts also credit him with a planting lot in 1635), was made a freeman in 1638 and served as constable in 1640. On 20 June 1644 he sold out and moved to Southold on Long Island. He died there before 15 December 1650, though some records give 1644. His widow Bridget married William Wells. A suggestion that William Tuttle of New Haven was his brother William, baptized at Tharston in 1609, has been disproven. He was John's 11th-great-grandfather.",
   "residences": [
     {
       "date": "1612",
@@ -87,6 +87,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608060188.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -98,5 +102,6 @@
       "note": "Henry Tuthill, 1612-06-28 – 1650-00-00",
       "url": "https://www.wikitree.com/wiki/Tuthill-7"
     }
-  ]
+  ],
+  "researchNotes": "Baptized 'Henrye Tutthill' 28 Jun 1612 at St Mary, Tharston, aged 5 when his father died in 1618. Sailed 1637 in the Mary Anne of Yarmouth (William Goose, master) as 'Henry Tuthill and wife, of Saxlingham, Norfolk' (Banks, Planters of the Commonwealth p. 183). Hingham, Mass.: planting lot 1635 (per Round 2/Akerly) and house lot 1637; freeman 1638; constable 1640; sold out 20 Jun 1644 and went to Southold. Died before 15 Dec 1650 (tree says 1644). His widow Bridget married William Wells. Akerly's suggestion that William Tuttle of New Haven (Planter, 1635) was Henry's brother William (bapt. Tharston 1609) is disproven: William of New Haven's son Thomas was baptized 4 Jan 1634 at Ringstead, Northamptonshire (FreeREG; Green, TAG 56:143; WikiTree Tuttle-29)."
 }

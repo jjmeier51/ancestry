@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Son of Bull Smith — John's 9th-great-grand-uncle; ancestor of the Woodhull, Gardiner/Tyler, Bailey and J. Lawrence Smith cousins.",
-  "bio": "His eldest son inherited his mother Sarah Hammond's blunderbuss 'Old Crib'. Grandchildren include Gen. Nathaniel Woodhull (via Sarah) and Mary Smith Gardiner (via Nathaniel).",
+  "summary": "Son of Bull Smith of Smithtown and John's 9th-great-grand-uncle; ancestor of the Woodhull, Gardiner, Tyler, Bailey and J. Lawrence Smith cousins.",
+  "bio": "Richard Smith was a son of Bull Smith, the founder of Smithtown, and his wife Sarah Hammond, and is John's 9th-great-grand-uncle. His eldest son inherited the blunderbuss known in the family as \"Old Crib\" that had belonged to Richard's mother, Sarah Hammond.\n\nThrough his daughter Sarah he was a grandfather of General Nathaniel Woodhull, and through his son Nathaniel a grandfather of Mary Smith Gardiner. His descendants include the Woodhull, Gardiner and Tyler, Bailey and J. Lawrence Smith cousins of John's family.",
   "sources": [
     "Pelletreau (1898)",
     "Gardiner (1890)"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0293.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "His eldest son inherited his mother Sarah Hammond's blunderbuss 'Old Crib'. Grandchildren include Gen. Nathaniel Woodhull (via Sarah) and Mary Smith Gardiner (via Nathaniel)."
 }

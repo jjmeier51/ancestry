@@ -9,8 +9,8 @@
     "Catherine Healy"
   ],
   "tags": [],
-  "summary": "Sister of John's 3rd-great-grandfather Andrew H. Heffernan.",
-  "bio": "Baptized 6 Feb 1848; married William Healy; her widowed mother lived with her in Plymouth in 1880; died at Plymouth 1887.",
+  "summary": "Sister of John's 3rd-great-grandfather Andrew H. Heffernan; born in Tipperary, she married William Healy and died at Plymouth, Pennsylvania, in 1887.",
+  "bio": "Catherine Heffernan was baptized in County Tipperary, Ireland, on 6 February 1848, a sister of John's 3rd-great-grandfather Andrew H. Heffernan. She married William Healy, and by 1880 her widowed mother was living with her in Plymouth, Luzerne County, Pennsylvania. Catherine died at Plymouth in 1887.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -35,6 +35,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0123.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Baptized 6 Feb 1848; married William Healy; her widowed mother lived with her in Plymouth in 1880; died at Plymouth 1887."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's maternal 4th great-grandmother, of Guardia Lombardi.",
-  "bio": "Wife of Angelo Petriello; dead by 29 Mar 1901. Note: another Guardia couple, Carmine Petriello and Maria Marra, were parents of Giuseppe Petriello who married Concetta di Marino in 1855 - Marra and Petriello intermarried; relationship to Lucia unknown. Petriello, Marra, Di Marino and De Biasi act as witnesses for one another in Guardia records.",
+  "summary": "Wife of Angelo Petriello at Guardia Lombardi; John's maternal 4th-great-grandmother.",
+  "bio": "Lucia Marra was the wife of Angelo Petriello of Guardia Lombardi and is John's maternal 4th-great-grandmother. She had died by March 1901.\n\nThe Marra and Petriello families of Guardia intermarried more than once: another couple there, Carmine Petriello and Maria Marra, were the parents of Giuseppe Petriello, who married Concetta di Marino in 1855, though how Maria was related to Lucia is not known. The Petriello, Marra, Di Marino and De Biasi families regularly stood as witnesses for one another in the town's records.",
   "sources": [
     "Antenati, Guardia, Morti 1901, act 28: https://antenati.cultura.gov.it/ark:/12657/an_ua524116/LzaVz4G",
     "Antenati, Guardia marriage index 1855 #16: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/57Ekokq",
@@ -34,6 +34,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0339.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Wife of Angelo Petriello; dead by 29 Mar 1901. Note: another Guardia couple, Carmine Petriello and Maria Marra, were parents of Giuseppe Petriello who married Concetta di Marino in 1855 - Marra and Petriello intermarried; relationship to Lucia unknown. Petriello, Marra, Di Marino and De Biasi act as witnesses for one another in Guardia records."
 }

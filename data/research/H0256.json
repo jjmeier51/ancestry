@@ -9,8 +9,8 @@
     "Rev. William Wells to the Queen of Denmark (tree)"
   ],
   "tags": [],
-  "summary": "Disproven father of William Wells; a Norwich prebendary and chaplain to Queen Anne of Denmark.",
-  "bio": "Norwich prebendary and 'Chaplain to the Queen (Anne of Denmark)', wife of James I; died 26 May 1620. His will names wife Elizabeth and sons John and William. The tree's title 'to the Queen of Denmark' garbles this. The baptism also conflicted with the tree's 1608 birth for William Wells.\n\nHayes ([R4-S1]) gives the tradition and also hedges it: the Southold founder's parentage is accepted 'if his parentage is correctly given in Ch. I', and Hayes notes the tombstone age (63) conflicts with the Norwich baptism (which would make him 66). Round 3 already showed the prebendary's son William became vicar of North Elmham. No new evidence changes the verdict: disproven as an ancestor.",
+  "summary": "Norwich prebendary and chaplain to Queen Anne of Denmark (1566–1620), once thought the father of William Wells of Southold; the link is disproven.",
+  "bio": "William Welles was born in 1566 and became a prebendary of Norwich and chaplain to the Queen, Anne of Denmark, the wife of James I; the family label 'Rev. William Wells to the Queen of Denmark' garbles that title. He died at Norwich on 26 May 1620. His will names his wife Elizabeth and sons John and William, and this son William became vicar of North Elmham.\n\nFamily tradition made him the father of William Wells, the founder of Southold, and Hayes's history records the tradition while hedging it, accepting the founder's parentage only 'if his parentage is correctly given'. The tombstone age of the Southold founder, 63, does not fit the Norwich baptism, which would make him 66, and the baptism also conflicts with the birth year of 1608 given for the founder. The prebendary is therefore not an ancestor of John.",
   "facts": [
     {
       "label": "Tree shows",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0256.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Norwich prebendary and 'Chaplain to the Queen (Anne of Denmark)', wife of James I; died 26 May 1620. His will names wife Elizabeth and sons John and William. The tree's title 'to the Queen of Denmark' garbles this. The baptism also conflicted with the tree's 1608 birth for William Wells.\n\nHayes ([R4-S1]) gives the tradition and also hedges it: the Southold founder's parentage is accepted 'if his parentage is correctly given in Ch. I', and Hayes notes the tombstone age (63) conflicts with the Norwich baptism (which would make him 66). Round 3 already showed the prebendary's son William became vicar of North Elmham. No new evidence changes the verdict: disproven as an ancestor."
 }

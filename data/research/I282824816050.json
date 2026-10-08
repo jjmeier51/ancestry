@@ -12,9 +12,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816050.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "The San Mango parish burial index has the entry on 8 September 1668 ([R4-S1]), matching the tree's death date.",
+  "bio": "Santa Riccio, whose surname is also written Rizzo, lived at San Mango di Aquino, Catanzaro, Calabria, Italy. She died there on 8 September 1668, when her burial was entered in the San Mango parish register. She is John's 12th-great-grandmother.",
   "funFacts": [
     "Burials in 1668 (49) and 1669 (52) were several times the normal level: an epidemic year in San Mango."
   ],
@@ -24,5 +28,7 @@
   },
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1653-1671 (Book 1), image 86, p. 87, no. 28; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1653-1671'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "The San Mango parish burial index has the entry on 8 September 1668 ([R4-S1]), matching the tree's death date.",
+  "summary": "Woman of San Mango di Aquino in Calabria who was buried there in 1668; John's 12th-great-grandmother."
 }

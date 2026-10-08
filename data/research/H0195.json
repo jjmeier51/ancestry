@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Possible distant Lamoreaux cousin (speculative).",
-  "bio": "Silas W. Lamoreux (1843-1909), born Lenox, Madison Co., NY; Commissioner of the General Land Office 1893-97. The 1919 book says his family came from an Orange Co. Lamoreaux family; line not traced. Others named in the 1919 book without traced descent: Rev. Rufus Lamoreaux, Andrew (Colorado legislator), Prof. Oscar F. Lamoreaux (Wheaton), Prof. Wendell Lamoreaux (Union), Judge John J. Lamoree (Oswego).\n\nSilas Wright Lamoreux was born at Lenox, Madison Co., NY, on 8 Mar 1843 and came with his parents to Plover, Wisconsin, in 1852, joining his older brother Oliver; the family moved to Mayville a year later. He read law at Plover, was admitted at 21, served in the 5th Wisconsin Infantry in 1864-65, and returned to practise at Mayville. He sat in the Assembly in 1872, was Dodge County judge from 1877, and was Commissioner of the General Land Office under Cleveland (1893-97). At Beaver Dam he controlled the Beaver Dam Malleable Iron Works (750 employees) and was president of the German National Bank. He died at home on 5 Aug 1909 after long illness (blood poisoning, with diabetes); his funeral was held under Masonic auspices ([R4-S1], [R4-S2], [R4-S3]).\n\nThe 1919 Lamoureux Record places his family (Madison Co., NY, to Wisconsin in 1852) among the descendants of one of the Orange County Lamoreux families (John or Peter), but gives no generations ([R4-S4]). Neither obituary seen names his parents.",
+  "summary": "Wisconsin lawyer, Civil War soldier, Dodge County judge and Commissioner of the General Land Office; possibly a distant Lamoreaux cousin of John.",
+  "bio": "Silas Wright Lamoreux was born at Lenox in Madison County, New York, on 8 March 1843. In 1852 his parents took the family to Plover, Wisconsin, where his older brother Oliver had already settled, and a year later they moved on to Mayville. He read law at Plover and was admitted to the bar at 21. In 1864 he enlisted in the reorganized 5th Wisconsin Volunteer Infantry and served with the Army of the Potomac at Hatcher's Run, at Fort Fisher as his record has it, and before Petersburg, ending the war in charge of the distributing office at City Point, Virginia; he was discharged on 2 July 1865.\n\nReturning to practise at Mayville, he sat in the Wisconsin State Assembly in 1872 for the fifth district of Dodge County and served as Dodge County judge from 1877 to 1893. President Cleveland then made him Commissioner of the General Land Office in Washington, a post he held from 1893 to 1897. He settled afterwards at Beaver Dam, where he controlled the Beaver Dam Malleable Iron Works, with 750 employees, and was president of the German National Bank. He died at home on 5 August 1909 after a long illness of blood poisoning complicated by diabetes, and his funeral was held under Masonic auspices.\n\nA family history of 1919 places his branch, which went from Madison County to Wisconsin in 1852, among the descendants of the Orange County Lamoreux families, but the generations between are not traced, so he is only possibly a distant cousin of John.",
   "sources": [
     "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
     "[R4-S1] Wikipedia, 'Silas W. Lamoreux' (secondary) https://en.wikipedia.org/wiki/Silas_W._Lamoreux",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0195.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -131,5 +135,6 @@
   ],
   "openQuestions": [
     "Names of his parents (Madison Co., NY, to Plover, WI, 1852); 1850 census of Lenox, Madison Co. would give them."
-  ]
+  ],
+  "researchNotes": "Silas W. Lamoreux (1843-1909), born Lenox, Madison Co., NY; Commissioner of the General Land Office 1893-97. The 1919 book says his family came from an Orange Co. Lamoreaux family; line not traced. Others named in the 1919 book without traced descent: Rev. Rufus Lamoreaux, Andrew (Colorado legislator), Prof. Oscar F. Lamoreaux (Wheaton), Prof. Wendell Lamoreaux (Union), Judge John J. Lamoree (Oswego).\n\nSilas Wright Lamoreux was born at Lenox, Madison Co., NY, on 8 Mar 1843 and came with his parents to Plover, Wisconsin, in 1852, joining his older brother Oliver; the family moved to Mayville a year later. He read law at Plover, was admitted at 21, served in the 5th Wisconsin Infantry in 1864-65, and returned to practise at Mayville. He sat in the Assembly in 1872, was Dodge County judge from 1877, and was Commissioner of the General Land Office under Cleveland (1893-97). At Beaver Dam he controlled the Beaver Dam Malleable Iron Works (750 employees) and was president of the German National Bank. He died at home on 5 Aug 1909 after long illness (blood poisoning, with diabetes); his funeral was held under Masonic auspices ([R4-S1], [R4-S2], [R4-S3]).\n\nThe 1919 Lamoureux Record places his family (Madison Co., NY, to Wisconsin in 1852) among the descendants of one of the Orange County Lamoreux families (John or Peter), but gives no generations ([R4-S4]). Neither obituary seen names his parents."
 }

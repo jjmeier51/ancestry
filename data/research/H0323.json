@@ -9,8 +9,8 @@
     "S. D. Warren"
   ],
   "tags": [],
-  "summary": "Founder of the S. D. Warren paper company (Westbrook, ME); John's 6th cousin 6x removed via Hammond.",
-  "bio": "Path: Lt. John Hammond → Abigail Hastings → Abigail Hastings (m. John Warren) → Samuel Warren (1704) → Joseph (1745) → John (m. Susanna Grout) → S. D. Children (all 7C5R): Samuel D. Warren II (1852–1910), co-author with Louis Brandeis of 'The Right to Privacy' (1890); Edward Perry Warren (1860–1928), art collector (the Warren Cup), who commissioned Rodin's The Kiss (Lewes version); Henry Clarke Warren (1854–1899), Pali/Buddhism scholar (Buddhism in Translations); Fiske Warren, single-tax utopian; Cornelia Warren, philanthropist.\n\nHammond ([R4-S1]): Samuel Warren (V, b. Watertown 18 Mar 1704, m. 1728 Tabitha Stone) -> Joseph (b. Grafton 22 Apr 1745, d. 1808, m. Lois Lyons) -> John (b. Grafton 28 Nov 1767, d. 17 Jun 1828, m. 2nd 1804 Susanna Groat) -> 'Samuel Dennis Warren, the founder of the well known firm of S. D. Warren & Co., of Boston'. With Samuel Warren (V) descending from William Hammond through Lt. John Hammond and the Hastings line, S. D. Warren is a 6th cousin 6 times removed. His sister Anna Groat Warren's son George Warren Hammond helped compile the Hammond genealogy.",
+  "summary": "Founder of the S. D. Warren paper company of Westbrook, Maine, and father of a remarkable family; John's 6th cousin 6x removed.",
+  "bio": "Samuel Dennis Warren, known as S. D. Warren, was born on 13 September 1817 and founded the paper firm S. D. Warren & Co. of Boston, whose mills were at Westbrook, Maine. He descended from Lieutenant John Hammond through the Hastings family: Abigail Hastings, a second Abigail Hastings who married John Warren, Samuel Warren, born at Watertown in 1704, who married Tabitha Stone in 1728, Joseph Warren, born at Grafton in 1745 and died in 1808, who married Lois Lyons, and John Warren, born at Grafton in 1767 and died in 1828, whose second wife, married in 1804, was Susanna Grout. Through the Hammonds he is John's 6th cousin 6 times removed. His sister Anna Groat Warren was the mother of George Warren Hammond, who helped compile the Hammond family genealogy.\n\nHis children, all John's 7th cousins 5 times removed, made their own marks: Samuel D. Warren II (1852–1910) wrote The Right to Privacy of 1890 with Louis Brandeis; Henry Clarke Warren (1854–1899) was a Pali scholar and author of Buddhism in Translations; Edward Perry Warren (1860–1928) was the art collector who owned the Warren Cup and commissioned the Lewes version of Rodin's The Kiss; Fiske Warren was a single-tax utopian; and Cornelia Warren was a philanthropist. S. D. Warren died on 11 May 1888.",
   "sources": [
     "Hammond (1902)",
     "Wikipedia, https://en.wikipedia.org/wiki/Samuel_Dennis_Warren",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0323.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -78,5 +82,6 @@
   },
   "death": {
     "date": "1888-05-11"
-  }
+  },
+  "researchNotes": "Path: Lt. John Hammond → Abigail Hastings → Abigail Hastings (m. John Warren) → Samuel Warren (1704) → Joseph (1745) → John (m. Susanna Grout) → S. D. Children (all 7C5R): Samuel D. Warren II (1852–1910), co-author with Louis Brandeis of 'The Right to Privacy' (1890); Edward Perry Warren (1860–1928), art collector (the Warren Cup), who commissioned Rodin's The Kiss (Lewes version); Henry Clarke Warren (1854–1899), Pali/Buddhism scholar (Buddhism in Translations); Fiske Warren, single-tax utopian; Cornelia Warren, philanthropist.\n\nHammond ([R4-S1]): Samuel Warren (V, b. Watertown 18 Mar 1704, m. 1728 Tabitha Stone) -> Joseph (b. Grafton 22 Apr 1745, d. 1808, m. Lois Lyons) -> John (b. Grafton 28 Nov 1767, d. 17 Jun 1828, m. 2nd 1804 Susanna Groat) -> 'Samuel Dennis Warren, the founder of the well known firm of S. D. Warren & Co., of Boston'. With Samuel Warren (V) descending from William Hammond through Lt. John Hammond and the Hastings line, S. D. Warren is a 6th cousin 6 times removed. His sister Anna Groat Warren's son George Warren Hammond helped compile the Hammond genealogy."
 }

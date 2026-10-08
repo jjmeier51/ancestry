@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th cousin 7x removed via Thompson (earlier 5C6R via Bull Smith); U.S. Representative 1843–45 and NY Supreme Court justice.",
-  "bio": "Path: John Thompson → Samuel → Susannah → Selah → Thomas S. Strong → Selah B. Wikipedia repeats the false Mayflower Brewster claim for his ancestry.\n\nPath: John Thompson -> Samuel -> Susannah Strong -> Selah Strong (1737) -> Thomas S. Strong -> Selah B., 5 generations: 4th cousin 7 times removed (Thompson [R4-S1] for the first three generations; the last two as in earlier rounds).",
+  "summary": "U.S. Representative from 1843 to 1845 and justice of the New York Supreme Court; John's 4th cousin 7 times removed.",
+  "bio": "Selah Brewster Strong (1792–1872) served in the United States House of Representatives from 1843 to 1845 and later sat as a justice of the New York Supreme Court. He was a son of Thomas S. Strong and a grandson of Captain Selah Strong, and through the captain's mother Susannah Thompson he descended from John Thompson, which makes him John's 4th cousin 7 times removed on the Thompson side. The Mayflower Brewster ancestry sometimes claimed for him is false.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Selah_B._Strong",
     "Thompson vol. 3",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0288.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -101,5 +105,6 @@
       "people": []
     }
   ],
-  "photo": "media/H0288/h0288-strong-2465.png"
+  "photo": "media/H0288/h0288-strong-2465.png",
+  "researchNotes": "Path: John Thompson → Samuel → Susannah → Selah → Thomas S. Strong → Selah B. Wikipedia repeats the false Mayflower Brewster claim for his ancestry.\n\nPath: John Thompson -> Samuel -> Susannah Strong -> Selah Strong (1737) -> Thomas S. Strong -> Selah B., 5 generations: 4th cousin 7 times removed (Thompson [R4-S1] for the first three generations; the last two as in earlier rounds)."
 }

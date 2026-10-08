@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 3rd cousin 4x removed.",
-  "bio": "Named by Bradsby as a third Civil War brother of Andrew and Alvin; not found in PA-Roots.\n\nBradsby's sketch of Andrew Croop (b. 1843), brother of Hiram and son of William and Mary (Sorber) Croop, ends: 'There were three brothers who served in the Civil war, viz.: Alvin, Andrew and Simon Croop, all stanch Republicans' ([R4-S1]). Read with the sketch of Hiram, this makes Simon a son of William Croop (1805-1889) and grandson of the pioneer John Croop, though Bradsby does not say so in so many words.\n\nThe only other trace found is a 1901 news item: on New Year's Day 1901 the blacksmith and wagon shop 'owned by the estate of Simon Croop, in Hunlock township' was destroyed by fire, with no insurance ([R4-S2]). So Simon had died by the end of 1900, and he or his family ran a smithy and wagon shop in Hunlock Township.",
+  "summary": "Civil War soldier of Hunlock Township, Luzerne County, son of William and Mary (Sorber) Croop; probably John's 3rd cousin 4x removed.",
+  "bio": "Simon Croop was one of three brothers, with Alvin and Andrew, who served in the Civil War; Bradsby's county history, in its sketch of Andrew, calls the three 'all stanch Republicans'. Read together with the sketch of their brother Hiram, this makes Simon a son of William Croop (1805–1889) and Mary Sorber and a grandson of the pioneer John Croop, though Bradsby does not say so in so many words.\n\nHe had died by the end of 1900, probably in Hunlock Township. On New Year's Day 1901 the blacksmith and wagon shop 'owned by the estate of Simon Croop, in Hunlock township' was destroyed by fire, with no insurance; he or his family had run the smithy and wagon shop there.",
   "sources": [
     "Bradsby p.813",
     "[R4-S1] Bradsby, History of Luzerne County (1893), p.813, sketch of Andrew Croop (secondary) https://archive.org/details/historyofluzerne00brad",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0212.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -67,5 +71,6 @@
   "openQuestions": [
     "Civil War unit: search the PA Civil War Veterans' Card File (PA State Archives, ARIAS) for Simon Croop/Croup/Kroop.",
     "Death date before 1901: Luzerne wills/administrations index (C) and Hunlock-area cemeteries."
-  ]
+  ],
+  "researchNotes": "Named by Bradsby as a third Civil War brother of Andrew and Alvin; not found in PA-Roots.\n\nBradsby's sketch of Andrew Croop (b. 1843), brother of Hiram and son of William and Mary (Sorber) Croop, ends: 'There were three brothers who served in the Civil war, viz.: Alvin, Andrew and Simon Croop, all stanch Republicans' ([R4-S1]). Read with the sketch of Hiram, this makes Simon a son of William Croop (1805-1889) and grandson of the pioneer John Croop, though Bradsby does not say so in so many words.\n\nThe only other trace found is a 1901 news item: on New Year's Day 1901 the blacksmith and wagon shop 'owned by the estate of Simon Croop, in Hunlock township' was destroyed by fire, with no insurance ([R4-S2]). So Simon had died by the end of 1900, and he or his family ran a smithy and wagon shop in Hunlock Township."
 }

@@ -12,14 +12,20 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815679.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "A Francesco Colosimo was buried at San Mango on 20 October 1692 ([R4-S1]), matching the tree's death date. His son Giovanni Antonio was baptized in 1679 (Book 2, img 26 no. 11) as son of Francesco and Giustina Berardello.",
+  "bio": "Francesco Maria Colosimo was born in 1634. With his wife Giustina Berardello he had a son, Giovanni Antonio, baptized at San Mango D'Aquino in 1679. A Francesco Colosimo was buried at San Mango on 20 October 1692, which matches his recorded date of death.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
   },
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1687-1713 (Book 3), image 134, p. 223, no. 11; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "A Francesco Colosimo was buried at San Mango on 20 October 1692 ([R4-S1]), matching the tree's death date. His son Giovanni Antonio was baptized in 1679 (Book 2, img 26 no. 11) as son of Francesco and Giustina Berardello.",
+  "summary": "Francesco Maria Colosimo of San Mango D'Aquino (1634–1692), husband of Giustina Berardello; John's 8th-great-grandfather."
 }

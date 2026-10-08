@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0436.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -54,9 +58,11 @@
       "description": "Luzerne wills index: Ellen C. Pringle, Plymouth Boro., 1898, file 338, vol. R p.438. [R4-S2]"
     }
   ],
-  "bio": "Ellen C. Fuller was born 16 Apr 1830, daughter of Isaac Fuller of Huntsville, Luzerne Co., and Nancy Bulkeley Worthington (b. Colchester, Conn., 1 Jul 1792), whose mother Mary Adams Bulkeley descended from Lt. Col. Eliphalet Bulkeley of the 25th Connecticut Militia and, through him, from the Puritan minister Rev. Peter Bulkeley of Concord, Mass. ([R4-S1]). She married (1) on 3 Dec 1848 David Nesbitt of Plymouth, who died 14 Jul 1862, leaving four children, and (2) in April 1864 Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle. She died at Plymouth on 9 Sep 1898 ([R4-S1]); her will was registered in Plymouth Borough that year ([R4-S2]).",
+  "bio": "Ellen C. Fuller was born on 16 April 1830, the daughter of Isaac Fuller of Huntsville, Luzerne County, Pennsylvania, and Nancy Bulkeley Worthington, who was born at Colchester, Connecticut, on 1 July 1792. Through Nancy's mother, Mary Adams Bulkeley, Ellen descended from Lieutenant Colonel Eliphalet Bulkeley of the 25th Connecticut Militia and, further back, from the Puritan minister Rev. Peter Bulkeley of Concord, Massachusetts.\n\nOn 3 December 1848 she married David Nesbitt of Plymouth, who died on 14 July 1862 leaving her with four children. In April 1864 she married again, to Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle. She died at Plymouth on 9 September 1898, and her will was registered in Plymouth Borough that year.",
   "sources": [
     "[R4-S1] Harvey, The Harvey Book (1899), Nesbitt genealogy, entry (37) David Nesbitt, pp.361-362 (secondary) https://archive.org/details/harveybookgiving00harv",
     "[R4-S2] Luzerne County wills index, surnames P (PAGenWeb) (derivative) https://pagenweb.org/~luzerne/wills/pwill.htm"
-  ]
+  ],
+  "researchNotes": "Ellen C. Fuller was born 16 Apr 1830, daughter of Isaac Fuller of Huntsville, Luzerne Co., and Nancy Bulkeley Worthington (b. Colchester, Conn., 1 Jul 1792), whose mother Mary Adams Bulkeley descended from Lt. Col. Eliphalet Bulkeley of the 25th Connecticut Militia and, through him, from the Puritan minister Rev. Peter Bulkeley of Concord, Mass. ([R4-S1]). She married (1) on 3 Dec 1848 David Nesbitt of Plymouth, who died 14 Jul 1862, leaving four children, and (2) in April 1864 Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle. She died at Plymouth on 9 Sep 1898 ([R4-S1]); her will was registered in Plymouth Borough that year ([R4-S2]).",
+  "summary": "Luzerne County woman of Puritan Bulkeley descent who married David Nesbitt and then Jacob Pringle of Plymouth, Pennsylvania."
 }

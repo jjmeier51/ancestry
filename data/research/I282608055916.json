@@ -20,8 +20,8 @@
     "John J Tuthill Jr. (tree)"
   ],
   "tags": [],
-  "summary": "John's 9th-great-grandfather; Southold justice, sheriff and NY Assemblyman who lived to about 96.",
-  "bio": "Died 1754 aged about 96. Justice of the peace and sheriff; member of the NY Assembly 1693–98; commissioner to lay out the King's Highway from Brooklyn to East Hampton (Akerly 1898). Married Mehitable Wells, daughter of William Wells by his second wife Mary — since Wells's first wife was Bridget, widow of Henry Tuthill (John Jr.'s grandmother), the couple were not blood relatives. Children (Akerly) include James (of Brookhaven and Orange Co.), Mary (1687–1780, m. Jonathan Horton; mother of Rev. Azariah Horton), Freegift (1698–1765), Joshua (m. Hannah Reeve) and John III of Southold (will 1740). Cousins through him and Mehitable: Rev. Azariah Horton (1C9R), Rev. Theodore L. Cuyler (5C5R).\n\nAkerly (1898) gives John Jr. b. 14 Feb 1658, d. 21 Nov 1754. He married Mehitable Wells (b. 1666, d. 26 Aug 1742) 'in or before 1683'. He was a Southold landowner, JP, commissioner for the King's Highway, NY Assembly member 1693-98, and sheriff ([R4-S1]). His children were John (b. 1683), James, Mary (1687, m. Jonathan Horton), Joshua (1690), Dorothy (c.1692, m. Joseph Brown), Daniel, Freegift (8 Aug 1698), and perhaps Hannah ([R4-S1]). The contemporary Salmon Record has the death of 'John Tuthil aged 96 years old' on the 21st in a November run of entries ([R4-S2]), matching Akerly.",
+  "summary": "Southold justice of the peace, sheriff and New York Assemblyman who lived to about 96; John's 9th-great-grandfather.",
+  "bio": "John Tuthill, often called John Tuthill Jr., was born at Southold on 14 February 1658. A Southold landowner, he served as a justice of the peace and as sheriff, sat in the New York Assembly from 1693 to 1698, and was one of the commissioners appointed to lay out the King's Highway from Brooklyn to East Hampton. In or before 1683 he married Mehitable Wells (1666–1742), daughter of William Wells by his second wife Mary. Since Wells's first wife had been Bridget, the widow of Henry Tuthill and John Tuthill's own grandmother, the couple were connected by marriage but not by blood.\n\nTheir children included John, born in 1683, later John Tuthill III of Southold; James, of Brookhaven and Orange County; Mary (1687–1780), who married Jonathan Horton and was the mother of the Rev. Azariah Horton; Joshua, born in 1690, who married Hannah Reeve; Dorothy, born about 1692, who married Joseph Brown; Daniel; Freegift (1698–1765); and perhaps Hannah.\n\nJohn Tuthill died at Southold on 21 November 1754, aged about 96; a contemporary record notes the death of \"John Tuthil aged 96 years old\". He is John's 9th-great-grandfather, and through him and Mehitable John is also a cousin of the Rev. Azariah Horton and of the Rev. Theodore L. Cuyler.",
   "facts": [
     {
       "label": "Tree shows",
@@ -60,6 +60,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608055916.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -71,5 +75,6 @@
       "note": "John Tuthill, 1658-02-14 – 1754-11-21",
       "url": "https://www.wikitree.com/wiki/Tuthill-98"
     }
-  ]
+  ],
+  "researchNotes": "Died 1754 aged about 96. Justice of the peace and sheriff; member of the NY Assembly 1693–98; commissioner to lay out the King's Highway from Brooklyn to East Hampton (Akerly 1898). Married Mehitable Wells, daughter of William Wells by his second wife Mary — since Wells's first wife was Bridget, widow of Henry Tuthill (John Jr.'s grandmother), the couple were not blood relatives. Children (Akerly) include James (of Brookhaven and Orange Co.), Mary (1687–1780, m. Jonathan Horton; mother of Rev. Azariah Horton), Freegift (1698–1765), Joshua (m. Hannah Reeve) and John III of Southold (will 1740). Cousins through him and Mehitable: Rev. Azariah Horton (1C9R), Rev. Theodore L. Cuyler (5C5R).\n\nAkerly (1898) gives John Jr. b. 14 Feb 1658, d. 21 Nov 1754. He married Mehitable Wells (b. 1666, d. 26 Aug 1742) 'in or before 1683'. He was a Southold landowner, JP, commissioner for the King's Highway, NY Assembly member 1693-98, and sheriff ([R4-S1]). His children were John (b. 1683), James, Mary (1687, m. Jonathan Horton), Joshua (1690), Dorothy (c.1692, m. Joseph Brown), Daniel, Freegift (8 Aug 1698), and perhaps Hannah ([R4-S1]). The contemporary Salmon Record has the death of 'John Tuthil aged 96 years old' on the 21st in a November run of entries ([R4-S2]), matching Akerly."
 }

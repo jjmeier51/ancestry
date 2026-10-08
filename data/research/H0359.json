@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's great-grandaunt.",
-  "bio": "Listed as Carrie in the 1920 census at 1028 Bunker Hill; b. c.1914.",
+  "summary": "Carrie Petrillo, born about 1914, a child of the Petrillo family of Bunker Hill Street; John's great-grandaunt.",
+  "bio": "Carrie Petrillo was born about 1914. In 1920 she was a small child in the family home on Bunker Hill Street, recorded there as Carrie. She is probably John's great-grandaunt.",
   "sources": [
     "1920 census image GQWT-4Z7"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0359.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Listed as Carrie in the 1920 census at 1028 Bunker Hill; b. c.1914."
 }

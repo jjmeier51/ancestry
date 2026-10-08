@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "Brother of Temperance Smith (John's 7th-great-grand-uncle); former captain of the Upper Clove militia company.",
-  "bio": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.\n\nWeygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company ([R4-S1]). WikiTree gives his wife as Mehitable Tuthill (unverified).",
+  "summary": "Brother of Temperance Smith and John's 7th-great-grand-uncle; captain of the Woodbury Clove militia company in Orange County, New York.",
+  "bio": "Austin Smith was a brother of Temperance Smith, which makes him John's 7th-great-grand-uncle. He was a public man of Woodbury Clove in Orange County, New York. In 1765 he and John Earl served as overseers of roads for the Clove, in 1771 he was captain of the Woodbury Clove military company, and in 1775 he was fence-viewer and assessor. The Upper Clove company was afterwards described as the one 'formerly commanded by Capt. Austin Smith'. His wife may have been Mehitable Tuthill, though that has not been verified.",
   "military": [
     {
       "branch": "Orange County, NY militia",
@@ -42,6 +42,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0263.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.\n\nWeygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company ([R4-S1]). WikiTree gives his wife as Mehitable Tuthill (unverified)."
 }

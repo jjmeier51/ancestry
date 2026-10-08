@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0386.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -40,8 +44,10 @@
       "value": "LRVD-RMZ"
     }
   ],
-  "bio": "Husband of Frances Meier. FamilySearch: born 29 Mar 1859 at Hazleton, in Hazle Twp in 1860 and Hazleton in 1880. From 1900 he lived at Coal Dale (Rahn Twp) and Coaldale, Schuylkill Co. He died at Coaldale on 22 Jan 1940 and was buried at St Joseph's RC Cemetery, Summit Hill ([R4-S1]).",
+  "bio": "Philip Miller, the husband of Frances Meier, was born at Hazleton in Luzerne County, Pennsylvania, on 29 March 1859. He was living in Hazle Township in 1860 and in Hazleton in 1880. From 1900 he lived at Coal Dale in Rahn Township and then at Coaldale in Schuylkill County, where he died on 22 January 1940. He was buried at St. Joseph's Roman Catholic Cemetery in Summit Hill, Carbon County.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree, Philip Miller (LRVD-RMZ), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/LRVD-RMZ"
-  ]
+  ],
+  "researchNotes": "Husband of Frances Meier. FamilySearch: born 29 Mar 1859 at Hazleton, in Hazle Twp in 1860 and Hazleton in 1880. From 1900 he lived at Coal Dale (Rahn Twp) and Coaldale, Schuylkill Co. He died at Coaldale on 22 Jan 1940 and was buried at St Joseph's RC Cemetery, Summit Hill ([R4-S1]).",
+  "summary": "Hazleton-born husband of Frances Meier who spent his later life at Coaldale in Schuylkill County, Pennsylvania."
 }

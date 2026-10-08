@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 3rd cousin 4x removed; Hunlock Creek lumber baron and 25-year justice of the peace.",
-  "bio": "Hiram Croop (b. 1832), 'a grandson of both John Croop and Philip Sorber', once ran four mills and owned 2,000 acres of timber; justice of the peace for 25 years; store at Croop's mills.\n\nBradsby gives Hiram's birth as 15 Jul 1832. He was the eldest of seven children of William Croop and Mary Sorber. He married Susanna Dodson, daughter of Joseph B. and Martha Dodson, in 1854. In 1893 he owned farms of 180 and 125 acres in Hunlock Twp. and had been a justice of the peace for twenty-five years ([R4-S1]). In October 1883 he stood surety for $4,000 for Franklin Monroe, who was accused of shooting a tramp at Hunlock Creek ([R4-S2]).",
+  "summary": "Hunlock Creek lumberman who ran four mills and served 25 years as justice of the peace; probably John's 3rd cousin 4 times removed.",
+  "bio": "Hiram Croop was born on 15 July 1832 in Union (now Hunlock) Twp., Luzerne Co., PA, the eldest of the seven children of William Croop and Mary Sorber, and so a grandson of both John Croop and Philip Sorber. In 1854 he married Susanna Dodson, daughter of Joseph B. and Martha Dodson.\n\nHe became a lumberman on a large scale, at one time running four mills and owning 2,000 acres of timber, with a store at Croop's mills. By 1893 he owned farms of 180 and 125 acres in Hunlock Twp. and had served as justice of the peace for twenty-five years. In October 1883 he stood surety of $4,000 for Franklin Monroe, who was accused of shooting a tramp at Hunlock Creek. He is probably John's 3rd cousin 4 times removed.",
   "sources": [
     "Bradsby pp.812-813",
     "Munsell 1880",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0209.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -59,5 +63,6 @@
       "place": "Wilkes-Barre",
       "description": "When Franklin Monroe was charged with shooting a tramp at Hunlock Creek, Judge Woodward admitted him to bail on habeas corpus, and 'Hiram Croop became his surety in the sum of $4,000'. [R4-S2]"
     }
-  ]
+  ],
+  "researchNotes": "Hiram Croop (b. 1832), 'a grandson of both John Croop and Philip Sorber', once ran four mills and owned 2,000 acres of timber; justice of the peace for 25 years; store at Croop's mills.\n\nBradsby gives Hiram's birth as 15 Jul 1832. He was the eldest of seven children of William Croop and Mary Sorber. He married Susanna Dodson, daughter of Joseph B. and Martha Dodson, in 1854. In 1893 he owned farms of 180 and 125 acres in Hunlock Twp. and had been a justice of the peace for twenty-five years ([R4-S1]). In October 1883 he stood surety for $4,000 for Franklin Monroe, who was accused of shooting a tramp at Hunlock Creek ([R4-S2])."
 }

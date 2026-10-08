@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Temperance Lamoreaux (1778-1855) married Mathias Van Loon; 8 children.\n\nFamilySearch gives Temperance's dates as 25 Mar 1778 to 29 Jul 1855 and her marriage to Matthias C. Van Loon in 1797, citing Historical Society of Pennsylvania baptism and marriage cards. She is in his household in 1850 ([R4-S1]).",
+  "summary": "Temperance Lamoreaux (1778–1855), born in Monroe, New York, wife of Matthias C. Van Loon and mother of eight; John's 5th-great-grand-aunt.",
+  "bio": "Temperance Lamoreaux was born on 25 March 1778 at Monroe, Orange Co., NY. In 1797, in Pennsylvania, she married Matthias C. Van Loon, and they had eight children. She was still living in his household in 1850, and she died on 29 July 1855. She is John's 5th-great-grand-aunt.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0175.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -71,5 +75,6 @@
       "label": "FamilySearch ID",
       "value": "K2XZ-HJD"
     }
-  ]
+  ],
+  "researchNotes": "Temperance Lamoreaux (1778-1855) married Mathias Van Loon; 8 children.\n\nFamilySearch gives Temperance's dates as 25 Mar 1778 to 29 Jul 1855 and her marriage to Matthias C. Van Loon in 1797, citing Historical Society of Pennsylvania baptism and marriage cards. She is in his household in 1850 ([R4-S1])."
 }

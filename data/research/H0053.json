@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Head of the Ebringen Birkenmeier family (New Orleans 1855, St. Louis) — NOT Maria Anna's family.",
-  "bio": "DAD lists the family arriving at New Orleans 19 Feb 1855: widow Marie 48; Magdalena 26; Caroline 25; Mathias 20; Victoria 18; Marie 15; Joseph 9; Therese 8; Rosa 7. Settled in St. Louis.",
+  "summary": "Otmar Birkenmeier of Ebringen, head of a Birkenmeier family that emigrated to St. Louis in 1855; not the family of Maria Anna Birkenmeier.",
+  "bio": "Otmar Birkenmeier was born in 1794 at Ebringen, Breisgau-Hochschwarzwald, Baden-Württemberg, Germany, and died in 1854. He was the head of the Ebringen Birkenmeier family, which emigrated the year after his death: his widow Marie, 48, landed at New Orleans on 19 February 1855 with Magdalena, 26, Caroline, 25, Mathias, 20, Victoria, 18, Marie, 15, Joseph, 9, Therese, 8, and Rosa, 7. The family settled in St. Louis.\n\nThis Ebringen family is not the family of Maria Anna Birkenmeier and should not be confused with it.",
   "sources": [
     "FamilySearch KP4Y-KRW https://ancestors.familysearch.org/en/KP4Y-KRW/mathias-birkemeier-1834-1893",
     "DAD",
@@ -34,6 +34,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0053.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "DAD lists the family arriving at New Orleans 19 Feb 1855: widow Marie 48; Magdalena 26; Caroline 25; Mathias 20; Victoria 18; Marie 15; Joseph 9; Therese 8; Rosa 7. Settled in St. Louis."
 }

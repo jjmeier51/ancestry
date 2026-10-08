@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 10th-great-grandfather (via Rachel Browne), of Southold.",
-  "bio": "His 'Brough under Stainmore, Westmorland' origin and a Curtis of Nazeing link appear on WikiTree and are speculative.\n\nSouthold town records (Liber A, printed vol. 1 pp. 169-170) recite that William Salmon married Katherine, widow of Mathew Sinderland, and 'after the decease of the said Katherine married with Sarah Hortton', and that he died intestate, his estate falling to Sarah and his children by both wives ([R4-S1]). Sarah then married John Conklin Jr. ([R4-S1], [R4-S2]).",
+  "summary": "William Salmon of Southold, Long Island, husband of Katherine Sinderland and then of Sarah Hortton; John's 10th-great-grandfather through Rachel Browne.",
+  "bio": "William Salmon settled at Southold on Long Island. An origin at Brough under Stainmore in Westmorland, and a connection with the Curtis family of Nazeing, have been suggested for him but remain speculative. The Southold town records recite that he married Katherine, the widow of Mathew Sinderland, and \"after the decease of the said Katherine married with Sarah Hortton\". He died in 1657 at Southold, Suffolk County, New York, without leaving a will, and his estate passed to Sarah and to his children by both wives. Sarah afterwards married John Conklin Jr. William was John's 10th-great-grandfather through Rachel Browne.",
   "sources": [
     "WikiTree Tuthill-530 getAncestors",
     "notes/round3/english_french_origins.md §2i",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0233.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -50,5 +54,6 @@
       "note": "",
       "url": "https://www.findagrave.com/memorial/7592098/william-salmon:"
     }
-  ]
+  ],
+  "researchNotes": "His 'Brough under Stainmore, Westmorland' origin and a Curtis of Nazeing link appear on WikiTree and are speculative.\n\nSouthold town records (Liber A, printed vol. 1 pp. 169-170) recite that William Salmon married Katherine, widow of Mathew Sinderland, and 'after the decease of the said Katherine married with Sarah Hortton', and that he died intestate, his estate falling to Sarah and his children by both wives ([R4-S1]). Sarah then married John Conklin Jr. ([R4-S1], [R4-S2])."
 }

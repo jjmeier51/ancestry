@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Probable full sister of Grazia Di Marino; John's 3rd great-grandaunt.",
-  "bio": "Daughter of G[aetano] di Marino and Caterina di Leo; married Nicola di Pietro 12 Feb 1857 (index 1857 #21).\n\nA FamilySearch tree profile for Maria Di Marino (9CF8-2TL) names her parents as Gaetano Di Marino and Caterina di Leo. It gives her birth as c.1835 and her death as 29 Dec 1914 in Guardia Lombardi, citing a 1914 Guardia death act on Antenati (an_ua524129/La8qX6B, not opened here because Antenati is blocked) and an Avellino record index ([R4-S1]). The profile names her husband 'Nicola di Paola', whereas Round 3 read the 1857 marriage index as 'Nicola di Pietro'. It also attaches, oddly, a New York City marriage index. Her death act would settle the husband's surname.",
+  "summary": "Probable full sister of Grazia Di Marino, of Guardia Lombardi in Campania, who married Nicola di Pietro in 1857; John's 3rd great-grandaunt.",
+  "bio": "Maria di Marino was born about 1835 at Guardia Lombardi, the daughter of Gaetano di Marino and Caterina di Leo, and was probably a full sister of Grazia Di Marino. On 12 February 1857 she married Nicola di Pietro, though the records disagree on her husband's surname and one account gives it as di Paola. She died at Guardia Lombardi, Avellino, Campania, Italy, on 29 December 1914.",
   "sources": [
     "Antenati index 1857 #21: https://antenati.cultura.gov.it/ark:/12657/an_ua376659/wWNxVgm",
     "[R4-S1] FamilySearch Family Tree published profile 9CF8-2TL (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9CF8-2TL"
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0365.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -50,5 +54,6 @@
       "found": "Nicola di Paola (FS tree 9CF8-2TL)",
       "assessment": "Unresolved; check the 1914 death act (Antenati an_ua524129/La8qX6B)."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of G[aetano] di Marino and Caterina di Leo; married Nicola di Pietro 12 Feb 1857 (index 1857 #21).\n\nA FamilySearch tree profile for Maria Di Marino (9CF8-2TL) names her parents as Gaetano Di Marino and Caterina di Leo. It gives her birth as c.1835 and her death as 29 Dec 1914 in Guardia Lombardi, citing a 1914 Guardia death act on Antenati (an_ua524129/La8qX6B, not opened here because Antenati is blocked) and an Avellino record index ([R4-S1]). The profile names her husband 'Nicola di Paola', whereas Round 3 read the 1857 marriage index as 'Nicola di Pietro'. It also attaches, oddly, a New York City marriage index. Her death act would settle the husband's surname."
 }

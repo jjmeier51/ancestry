@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 5th-great-grand-uncle.",
-  "bio": "Daniel (1796-1838) married Martha Lum/Linn.\n\nFamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father ([R4-S1]). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead.",
+  "summary": "Daniel Lamoreaux of Luzerne County (1796–1838); John's 5th-great-grand-uncle.",
+  "bio": "Daniel Lamoreaux was born in Luzerne County on 28 November 1796 and married about 1821. The records disagree on his wife: some give her as Maria Allen (1804–1863), with children born between 1822 and 1828, among them Samuel A. Lamoreux, whose Iowa death record names Daniel as his father, while the Davenport family genealogy names her as Martha Lum or Linn. Daniel died in 1838.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
@@ -31,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0182.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -68,5 +72,6 @@
       "found": "Maria Allen (FamilySearch)",
       "assessment": "Unresolved; possibly two marriages."
     }
-  ]
+  ],
+  "researchNotes": "Daniel (1796-1838) married Martha Lum/Linn.\n\nFamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father ([R4-S1]). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead."
 }

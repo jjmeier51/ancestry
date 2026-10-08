@@ -15,7 +15,7 @@
     "place": "Easton, Northampton County, Pennsylvania"
   },
   "tags": [],
-  "summary": "John's 3rd great-aunt.",
+  "summary": "Hazleton-born wife of George T. Duffin of Easton, Pennsylvania, who died there at 28; John's 3rd-great-aunt.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "notes/round3/meier_line.md",
@@ -51,6 +51,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085071.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "aka": [
@@ -70,7 +74,7 @@
       "value": "G7GQ-XH5"
     }
   ],
-  "bio": "Sophia's own marriage licence confirms her birth on 12 Nov 1880 at Hazleton ([R4-S1]). She was living at Easton when she married the clerk George Thomas Duffin there on 3 Jun 1903. She died at Easton on 3 Apr 1909, aged 28 ([R4-S2]). A family twist: in 1917 the widower George T. Duffin married Agatha Mary Rose, daughter of Sophia's sister Mary (Meier) Rose. His second wife was therefore his first wife's niece ([R4-S2]).",
+  "bio": "Sophia Gertrude Meier was born on 12 November 1880 at Hazleton, Pennsylvania. She was living at Easton when she married George Thomas Duffin, a clerk, there on 3 June 1903. She died at Easton, Northampton County, on 3 April 1909, aged 28, and was buried there.\n\nThere was a twist in the family afterwards: in 1917 her widower George T. Duffin married Agatha Mary Rose, the daughter of Sophia's sister Mary (Meier) Rose, so that his second wife was his first wife's niece. Sophia was John's 3rd-great-aunt.",
   "media": [
     {
       "file": "media/I282608085071/marriage-licence-1903-duffin-meier.jpg",
@@ -84,5 +88,6 @@
       ],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XH5/images/i/1/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Sophia's own marriage licence confirms her birth on 12 Nov 1880 at Hazleton ([R4-S1]). She was living at Easton when she married the clerk George Thomas Duffin there on 3 Jun 1903. She died at Easton on 3 Apr 1909, aged 28 ([R4-S2]). A family twist: in 1917 the widower George T. Duffin married Agatha Mary Rose, daughter of Sophia's sister Mary (Meier) Rose. His second wife was therefore his first wife's niece ([R4-S2])."
 }

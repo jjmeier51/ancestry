@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's maternal 4th great-grandmother, of Bisaccia.",
-  "bio": "Mother of Angelamaria Fede per Bisaccia Matrimoni 1867 act 17. Given name read as 'Luigia(?)'.\n\nThe FamilySearch tree calls Angelamaria Fede's mother 'Nunzianna Roberto'. It gives her birth as about 1814 in Bisaccia, her marriage to Bartolomeo Fede as 10 Jul 1835, and her parents as Pasquale di Roberto and Antonia Sena (both b. 1777) ([R4-S1]). Round 3 read the given name in the 1867 act only tentatively as 'Luigia(?)'. One fact supports Nunzianna: Angelamaria named a daughter born c.1885 'Nunzianda', following the southern-Italian custom of naming daughters after grandmothers ([R4-S2]).",
+  "summary": "Wife of Bartolomeo Fede of Bisaccia and mother of Angelamaria Fede; John's maternal 4th-great-grandmother.",
+  "bio": "Luigia Roberto was born about 1814 at Bisaccia in the province of Avellino, the daughter of Pasquale di Roberto and Antonia Sena, who were both born in 1777. On 10 July 1835 she married Bartolomeo Fede at Bisaccia, and she was the mother of Angelamaria Fede, which makes her John's 4th-great-grandmother on his mother's side.\n\nHer given name is uncertain. Angelamaria's 1867 marriage record seems to read Luigia, but other sources call her Nunzianna, and Angelamaria named a daughter born about 1885 Nunzianda, following the southern Italian custom of naming daughters after their grandmothers, which supports Nunzianna.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
     "notes/round3/italian_origins.md 3",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0344.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -62,5 +66,6 @@
       "found": "Nunzianna (FS tree LY5M-RSK)",
       "assessment": "Probably Nunzianna/Annunziata: the FS name has its own sources and the granddaughter Nunzianda (c.1885-1888) carries the name. Re-read the 1867 act before changing."
     }
-  ]
+  ],
+  "researchNotes": "Mother of Angelamaria Fede per Bisaccia Matrimoni 1867 act 17. Given name read as 'Luigia(?)'.\n\nThe FamilySearch tree calls Angelamaria Fede's mother 'Nunzianna Roberto'. It gives her birth as about 1814 in Bisaccia, her marriage to Bartolomeo Fede as 10 Jul 1835, and her parents as Pasquale di Roberto and Antonia Sena (both b. 1777) ([R4-S1]). Round 3 read the given name in the 1867 act only tentatively as 'Luigia(?)'. One fact supports Nunzianna: Angelamaria named a daughter born c.1885 'Nunzianda', following the southern-Italian custom of naming daughters after grandmothers ([R4-S2])."
 }

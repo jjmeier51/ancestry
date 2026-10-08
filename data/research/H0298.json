@@ -6,7 +6,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Co-founder of ChemTreat who restored Sherwood Forest; W&M's history department is named for him; John's 7th cousin 4x removed.",
+  "summary": "Co-founder of ChemTreat who restored Sherwood Forest and was President John Tyler's last living grandchild; John's 7th cousin 4 times removed.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler",
     "[R4-S1] Wikipedia, 'Harrison Ruffin Tyler' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler"
@@ -28,6 +28,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0298.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -54,8 +58,9 @@
   "death": {
     "date": "2025-05-25"
   },
-  "bio": "Last living grandchild of President John Tyler; the span from the president's birth to his death was 235 years ([R4-S1]). 7th cousin 4 times removed. No public-domain or freely licensed photograph was found on Commons (his Wikipedia article has no lead image).",
+  "bio": "Harrison Ruffin Tyler was born on 9 November 1928 and died on 25 May 2025. A grandson of President John Tyler, he was the president's last living grandchild; the span from the president's birth to Harrison's death was 235 years. He co-founded ChemTreat and restored Sherwood Forest, and the history department at William & Mary is named for him. He was probably John's 7th cousin 4 times removed.",
   "funFacts": [
     "A grandson of a president born in 1790 lived until 2025: 235 years across three generations."
-  ]
+  ],
+  "researchNotes": "Last living grandchild of President John Tyler; the span from the president's birth to his death was 235 years ([R4-S1]). 7th cousin 4 times removed. No public-domain or freely licensed photograph was found on Commons (his Wikipedia article has no lead image)."
 }

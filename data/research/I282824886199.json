@@ -5,8 +5,8 @@
     "note": "Only a FamilySearch tree claim; that tree merges him with a Rhode Island family (wife Ann Nancy Waterman). A plausible Luzerne father for Julia Ann, unproven."
   },
   "tags": [],
-  "summary": "Possible 5th-great-grandfather of John (father of Julia Ann Watson Scott) - a lead only.",
-  "bio": "FamilySearch makes Julia Ann Watson Scott a daughter of George Watson, b. Mansfield, Notts., 6 Apr 1778, in Huntington Twp 1810, Dallas 1820, d. 1830 Fairmount Springs, Luzerne. It pairs him with Ann Nancy Waterman (b. Norwich CT 1780, d. Barrington RI 1809), who had her own Julia Ann Watson b. Bristol RI 17 Jul 1809 - a merge of two families. George Watson of Huntington/Dallas is the only candidate found; the 'Watson from Nottinghamshire' origin is speculative.\n\nThe 1820 census attached to George Watson's FamilySearch profile shows a George Watson heading a large family in Dallas Township ([R4-S1]). The columns are too faint to say confidently whether a girl of about 11 (Julia Ann, b. c.1809) was present. The FamilySearch children assigned to him include Jairus Harrison Watson (b. Plymouth 1812, d. New Albany, Bradford Co., 1893), who married Rebecca Van Loon, and Sabina Partington, a widow in Plymouth Twp in 1850 born in Pennsylvania c.1802 ([R4-S2]). Against this identification: no county history mentions a George Watson in Huntington, Dallas or Plymouth, while an Amariah (Amaziah) Watson was a Plymouth taxable in 1796 and settled 'just below the Scott house' on Huntington Creek (Bradsby 1893; see Julia Ann Watson). George's role as Julia's father therefore remains a candidate only, with Amariah Watson an alternative.",
+  "summary": "Englishman of Huntington and Dallas townships, Luzerne County, and the likeliest candidate as father of Julia Ann Watson Scott; possibly John's 5th-great-grandfather.",
+  "bio": "George Watson was born in England in 1778, by one account at Mansfield in Nottinghamshire on 6 April, though that origin is speculative. He was living in Huntington Township, Luzerne County, Pennsylvania, in 1810 and heading a large family in Dallas Township in 1820, and he died at Fairmount Springs, Luzerne, in 1830. Children attributed to him include Jairus Harrison Watson, born at Plymouth in 1812, who married Rebecca Van Loon and died at New Albany, Bradford County, in 1893, and Sabina Partington, born in Pennsylvania about 1802 and a widow in Plymouth Township by 1850.\n\nHe is the leading candidate as the father of John's 4th-great-grandmother Julia Ann Watson Scott, but the identification is only possible. Compiled trees pair him with Ann Nancy Waterman of Norwich, Connecticut, who died at Barrington, Rhode Island, in 1809 and had a Julia Ann Watson of her own, born at Bristol, Rhode Island, in July 1809; that is a confusion of two separate families. An Amariah or Amaziah Watson, a Plymouth taxable in 1796 who settled \"just below the Scott house\" on Huntington Creek, is the other possible father.",
   "residences": [
     {
       "date": "1810",
@@ -47,6 +47,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824886199.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -76,5 +80,6 @@
       "place": "Dallas Twp, Luzerne Co., PA (p.305)",
       "description": "'Watson George' heads a large household of about 11 (3 boys under 10, 1 boy 10-15, 2 young men 16-25, and several females, the column readings uncertain), the last entry for the township. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "FamilySearch makes Julia Ann Watson Scott a daughter of George Watson, b. Mansfield, Notts., 6 Apr 1778, in Huntington Twp 1810, Dallas 1820, d. 1830 Fairmount Springs, Luzerne. It pairs him with Ann Nancy Waterman (b. Norwich CT 1780, d. Barrington RI 1809), who had her own Julia Ann Watson b. Bristol RI 17 Jul 1809 - a merge of two families. George Watson of Huntington/Dallas is the only candidate found; the 'Watson from Nottinghamshire' origin is speculative.\n\nThe 1820 census attached to George Watson's FamilySearch profile shows a George Watson heading a large family in Dallas Township ([R4-S1]). The columns are too faint to say confidently whether a girl of about 11 (Julia Ann, b. c.1809) was present. The FamilySearch children assigned to him include Jairus Harrison Watson (b. Plymouth 1812, d. New Albany, Bradford Co., 1893), who married Rebecca Van Loon, and Sabina Partington, a widow in Plymouth Twp in 1850 born in Pennsylvania c.1802 ([R4-S2]). Against this identification: no county history mentions a George Watson in Huntington, Dallas or Plymouth, while an Amariah (Amaziah) Watson was a Plymouth taxable in 1796 and settled 'just below the Scott house' on Huntington Creek (Bradsby 1893; see Julia Ann Watson). George's role as Julia's father therefore remains a candidate only, with Amariah Watson an alternative."
 }

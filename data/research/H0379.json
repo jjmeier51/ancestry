@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "PFC killed in Germany in 1945 (Purple Heart); ruled out as kin.",
-  "bio": "PFC Frank A. Petriello (1926-1945), Purple Heart, killed in Germany; from Bayonne, NJ.",
+  "summary": "Private first class from Bayonne, New Jersey, killed in Germany in 1945 and awarded the Purple Heart; not a relative of John's Petriello family.",
+  "bio": "Frank Anthony Petriello was born in 1926 and came from Bayonne, New Jersey. He served in the US Army in the Second World War as a private first class and was killed in Germany in 1945, receiving the Purple Heart. Despite the shared surname, he has been ruled out as a relative of John's Petriello family.",
   "military": [
     {
       "branch": "US Army",
@@ -45,6 +45,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0379.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "PFC Frank A. Petriello (1926-1945), Purple Heart, killed in Germany; from Bayonne, NJ."
 }

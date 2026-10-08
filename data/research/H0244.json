@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 12th-great-grandfather; briefly lord of the manor of Remingham and Cow in Wraysbury.",
-  "bio": "Bought the manor of Remingham and Cow in Wraysbury, Bucks., in 1611 and sold it for £500 in 1613 (Gyll 1862, pp. 58, 63).",
+  "summary": "Briefly lord of the manor of Remingham and Cow in Wraysbury, Buckinghamshire, in the reign of James I; John's 12th-great-grandfather.",
+  "bio": "Ambrose Aldridge was for a short time lord of the manor of Remingham and Cow in Wraysbury, Buckinghamshire, England. He bought the manor in 1611 and sold it two years later, in 1613, for £500. He is John's 12th-great-grandfather.",
   "residences": [
     {
       "date": "1611",
@@ -39,6 +39,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0244.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Bought the manor of Remingham and Cow in Wraysbury, Bucks., in 1611 and sold it for £500 in 1613 (Gyll 1862, pp. 58, 63)."
 }

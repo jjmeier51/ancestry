@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 2nd cousin 5x removed.",
-  "bio": "William Croop (1805-1889), lumberman; held township offices.\n\nBradsby says William, son of John Croop, was born in Newport Twp. and began his working life in Union (now Hunlock) Twp. There he married Mary Sorber, a native of Northampton Co. He was an extensive lumberman and farmer, owned 250 acres and a sawmill he had bought, held several township offices, and died in 1889 aged 84. Of his seven children, six were living in 1893, and Hiram (b. 15 Jul 1832) was the eldest. Andrew (b. 5 Aug 1843) was another ([R4-S1]). Bradsby names three sons who served in the Civil War: Alvin, Andrew and Simon.",
+  "summary": "Lumberman and farmer of Hunlock Township, Luzerne County, who held township offices; probably John's 2nd cousin 5x removed.",
+  "bio": "William Croop was born about 1805 in Newport Township, Luzerne County, a son of John Croop, and began his working life in Union, now Hunlock, Township. There he married Mary Sorber, a native of Northampton County. He became an extensive lumberman and farmer, owning 250 acres and a sawmill he had bought, and held several township offices. He died in Hunlock Township in 1889, aged 84. Of his seven children, six were living in 1893; Hiram, born 15 July 1832, was the eldest, and Andrew was born on 5 August 1843. Three of his sons, Alvin, Andrew and Simon, served in the Civil War.",
   "sources": [
     "Bradsby p.812",
     "[R4-S1] H. C. Bradsby, History of Luzerne County (1893), pp.584 and 812-813 (Hiram and Andrew Croop biographies) (secondary) https://archive.org/details/historyofluzerne00brad"
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0208.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -72,5 +76,6 @@
   ],
   "openQuestions": [
     "If his mother was Elizabeth Sorber (Plumb) and his wife Mary Sorber was a daughter of Philip Sorber (son of Jacob, son of Abraham?), then William married a first cousin once removed. Needs probate or church records."
-  ]
+  ],
+  "researchNotes": "William Croop (1805-1889), lumberman; held township offices.\n\nBradsby says William, son of John Croop, was born in Newport Twp. and began his working life in Union (now Hunlock) Twp. There he married Mary Sorber, a native of Northampton Co. He was an extensive lumberman and farmer, owned 250 acres and a sawmill he had bought, held several township offices, and died in 1889 aged 84. Of his seven children, six were living in 1893, and Hiram (b. 15 Jul 1832) was the eldest. Andrew (b. 5 Aug 1843) was another ([R4-S1]). Bradsby names three sons who served in the Civil War: Alvin, Andrew and Simon."
 }

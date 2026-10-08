@@ -24,8 +24,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's maternal 2nd great-grandmother; widowed head of the Ferlaino boarding house for San Mango newcomers at 1306 Diamond Avenue, Scranton.",
-  "bio": "Tree: Giuseppina Fiorillo (1871-1943), daughter of Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926), wife of Leopoldo Ferlaino. 1920 census (Scranton Ward 2, ED 105, sheet 2A, 1306 Diamond Avenue): Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; with daughter Helen (25), son Frank (17), daughter 'Rofella' (15), son-in-law Frank Cognetti, three grandsons and boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. The census age points to birth c.1874-75 rather than the tree's 1871. A forum post says 1306 Diamond Ave was the home of the Ferlaino family who took in boarders from San Mango d'Aquino in the 1910s-20s. Arrived with Helen in 1900 (1920 census) or 1901 (1930 census). No San Mango cemetery entry for her, consistent with death in Scranton.\n\nGiuseppina was baptized at San Mango d'Aquino on 11 January 1871 as Josephina, daughter of Domenico Gabriele Fiorillo and Saveria Colosimo; the godfather was Felice Sacco. I read the entry on the register photograph ([R4-S1], [R4-S2]). 'Gabriele Fiorillo' was the family's double surname at the time. Her parents had married in the parish on 1 April 1870, so she was their first child ([R4-S4]). The baptism confirms the tree's 1871 birth year. Her 1920 census age (45) understated it by about four years. The 1943 Pennsylvania death index lists 'Josephine Farino', Scranton, county 35 (Lackawanna), died 4 June 1943, certificate file 54686 ([R4-S3]). This uses the same 'Farino' spelling as the 1920 census of her household at 1306 Diamond Avenue, so it is very probably her. No 'Ferlaino' entry exists in the same year's index (soundex F645 checked). Her siblings, from the parish index, were Carmelo (1873), Filomena (1874), Carolina (1877), Carmine (1880), Antonio (1884) and Gaetano (1886) ([R4-S5]).",
+  "summary": "Widowed head of the Ferlaino boarding house on Diamond Avenue, Scranton, that took in newcomers from San Mango d'Aquino; John's maternal 2nd-great-grandmother.",
+  "bio": "Giuseppina Fiorillo was baptized at San Mango d'Aquino in Calabria on 11 January 1871 as Josephina, the first child of Domenico Gabriele Fiorillo and Saveria Colosimo, who had married in the parish on 1 April 1870; her godfather was Felice Sacco. Gabriele Fiorillo was the family's double surname at the time. Her younger brothers and sisters were Carmelo, Filomena, Carolina, Carmine, Antonio and Gaetano, born between 1873 and 1886. She married Leopoldo Ferlaino, and she was John's maternal 2nd-great-grandmother.\n\nShe came to America in 1900, or 1901 by another account, with her daughter Helen. By 1920 she was a widow and the head of her own household at 1306 Diamond Avenue in Scranton, Pennsylvania, a house she owned free of mortgage. Living with her were her daughter Helen, her son Frank, her daughter Rofella, her son-in-law Frank Cognetti, three grandsons and two boarders, Anthony Epifano and Angelo Bonacci; the Ferlaino house on Diamond Avenue was remembered as the place that took in boarders newly arrived from San Mango d'Aquino in the 1910s and 1920s. The census that year gave her age as 45, about four years younger than she really was. She died in Scranton on 4 June 1943, recorded under the American spelling Josephine Farino.",
   "residences": [
     {
       "date": "1920",
@@ -184,6 +184,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815192.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -193,5 +197,6 @@
       "found": "baptized 11 Jan 1871",
       "assessment": "Baptism confirms 1871."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Giuseppina Fiorillo (1871-1943), daughter of Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926), wife of Leopoldo Ferlaino. 1920 census (Scranton Ward 2, ED 105, sheet 2A, 1306 Diamond Avenue): Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; with daughter Helen (25), son Frank (17), daughter 'Rofella' (15), son-in-law Frank Cognetti, three grandsons and boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. The census age points to birth c.1874-75 rather than the tree's 1871. A forum post says 1306 Diamond Ave was the home of the Ferlaino family who took in boarders from San Mango d'Aquino in the 1910s-20s. Arrived with Helen in 1900 (1920 census) or 1901 (1930 census). No San Mango cemetery entry for her, consistent with death in Scranton.\n\nGiuseppina was baptized at San Mango d'Aquino on 11 January 1871 as Josephina, daughter of Domenico Gabriele Fiorillo and Saveria Colosimo; the godfather was Felice Sacco. I read the entry on the register photograph ([R4-S1], [R4-S2]). 'Gabriele Fiorillo' was the family's double surname at the time. Her parents had married in the parish on 1 April 1870, so she was their first child ([R4-S4]). The baptism confirms the tree's 1871 birth year. Her 1920 census age (45) understated it by about four years. The 1943 Pennsylvania death index lists 'Josephine Farino', Scranton, county 35 (Lackawanna), died 4 June 1943, certificate file 54686 ([R4-S3]). This uses the same 'Farino' spelling as the 1920 census of her household at 1306 Diamond Avenue, so it is very probably her. No 'Ferlaino' entry exists in the same year's index (soundex F645 checked). Her siblings, from the parish index, were Carmelo (1873), Filomena (1874), Carolina (1877), Carmine (1880), Antonio (1884) and Gaetano (1886) ([R4-S5])."
 }

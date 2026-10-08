@@ -8,6 +8,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824886193.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -18,7 +22,7 @@
     "Hannah Davids",
     "Hannah Covert (Find a Grave index, per FamilySearch)"
   ],
-  "bio": "Hannah's baptism is indexed from the Walpack Dutch Reformed Church, Sussex County, New Jersey: born 1 June, baptized 13 August 1787, daughter of Leonard (Leendert) Devens or Davids ([R4-S1]). The family moved to Plymouth, Luzerne County: FamilySearch gives her sister Jane (later Mrs Nathaniel Johnson, d. 1885) a Plymouth birth in 1793 ([R4-S2]); Leonard, Benjamin and Joseph Devens were heads of households in Plymouth in 1820 ([R4-S3]); Stephen Devens and Leonard Devens are named among the settlers 'northeast of the village' about 1815 ([R4-S4]); Leonard Devens's will was registered in 1839 (Luzerne Will Book B p.20) ([R4-S5]); and Elizabeth, 'wife of Leonard' Devens, died 30 Jan 1858 aged 80 and was buried in the Shupp Cemetery, Larksville ([R4-S6]) - probably a second wife, being only nine years older than Hannah. The name Stephen among the Devens men is suggestive given her son Stephen J. Scott. FamilySearch links her to a Find a Grave index entry as 'Hannah Devens Covert', implying a second marriage to a Covert after Daniel Scott's death c.1811; several Covert households lived in Plymouth Twp in 1840 ([R4-S7]). None of this yet proves that she was Stephen Scott's mother; Leonard's will is the obvious test.",
+  "bio": "Hannah Devens, whose surname was also written Davids, was born on 1 June 1787 and baptized on 13 August at the Dutch Reformed Church of Walpack, Sussex County, New Jersey, the daughter of Leonard, or Leendert, Devens. The family moved to Plymouth in Luzerne County, Pennsylvania, where her sister Jane, later Mrs Nathaniel Johnson, who died in 1885, was born in 1793. Stephen and Leonard Devens were among the settlers northeast of the village about 1815, and Leonard, Benjamin and Joseph Devens were heads of households in Plymouth in 1820. Leonard's will was registered in 1839. An Elizabeth, wife of Leonard Devens, died on 30 January 1858 aged 80 and was buried in the Shupp Cemetery at Larksville; being only nine years older than Hannah, she was probably Leonard's second wife.\n\nHannah married Daniel Scott, who died about 1811, and is believed to be the mother of Stephen J. Scott, whose first name recurs among the Devens men. She appears to have married again, to a Covert, after Daniel's death; several Covert households were living in Plymouth Township in 1840. She died before 1860 at Kingston, Luzerne, Pennsylvania. Her place as Stephen Scott's mother, and so as John's 5th-great-grandmother, is probable but not yet proven.",
   "openQuestions": [
     "Read Leonard Devens's will (Luzerne Will Book B p.20, 1839) for 'daughter Hannah' and her married name.",
     "Find Hannah Covert's Find a Grave memorial / burial (FS index ark 1:1:XW22-6K4W) and her Covert husband."
@@ -31,5 +35,7 @@
     "[R4-S5] Luzerne County Wills Index (PAGenWeb): 'Devens, Leonard, Plymouth Twp., 1839, Book B, p.20' (derivative) https://pagenweb.org/~luzerne/wills/dwills.htm",
     "[R4-S6] PAGenWeb Luzerne, Shupp Cemetery transcription: 'Devens, Elizabeth, d. 30 Jan 1858, 80y, wf of Leonard' (derivative) http://www.pagenweb.org/~luzerne/township/cemetery/shupp1.htm",
     "[R4-S7] 1840 US census, Plymouth Township, Luzerne Co. (same page as Fred'k Croup): John Covert, Hiram Covert, Chas. Covert, John Covert (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9JB3-46Q/images/i/0/image.jpg"
-  ]
+  ],
+  "researchNotes": "Hannah's baptism is indexed from the Walpack Dutch Reformed Church, Sussex County, New Jersey: born 1 June, baptized 13 August 1787, daughter of Leonard (Leendert) Devens or Davids ([R4-S1]). The family moved to Plymouth, Luzerne County: FamilySearch gives her sister Jane (later Mrs Nathaniel Johnson, d. 1885) a Plymouth birth in 1793 ([R4-S2]); Leonard, Benjamin and Joseph Devens were heads of households in Plymouth in 1820 ([R4-S3]); Stephen Devens and Leonard Devens are named among the settlers 'northeast of the village' about 1815 ([R4-S4]); Leonard Devens's will was registered in 1839 (Luzerne Will Book B p.20) ([R4-S5]); and Elizabeth, 'wife of Leonard' Devens, died 30 Jan 1858 aged 80 and was buried in the Shupp Cemetery, Larksville ([R4-S6]) - probably a second wife, being only nine years older than Hannah. The name Stephen among the Devens men is suggestive given her son Stephen J. Scott. FamilySearch links her to a Find a Grave index entry as 'Hannah Devens Covert', implying a second marriage to a Covert after Daniel Scott's death c.1811; several Covert households lived in Plymouth Twp in 1840 ([R4-S7]). None of this yet proves that she was Stephen Scott's mother; Leonard's will is the obvious test.",
+  "summary": "Hannah Devens of Walpack, New Jersey, and Plymouth, Pa., wife of Daniel Scott and mother of Stephen J. Scott; John's 5th-great-grandmother."
 }

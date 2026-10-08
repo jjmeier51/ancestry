@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 5x removed.",
-  "bio": "Son of Richard Heffernan and Anastasia Boney; 1838-1910; married Ellen Kelly; lived with his mother in 1860 Plymouth.",
+  "summary": "Son of Richard Heffernan and Anastasia Boney who married Ellen Kelly; John's 1st cousin 5 times removed.",
+  "bio": "James Heffernan was born in 1838, a son of Richard Heffernan and Anastasia Boney. In 1860 he was living with his mother at Plymouth. He married Ellen Kelly and died in 1910.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0129.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -59,5 +63,6 @@
       "note": "",
       "url": "https://www.findagrave.com/memorial/218946431/james-heffernan:"
     }
-  ]
+  ],
+  "researchNotes": "Son of Richard Heffernan and Anastasia Boney; 1838-1910; married Ellen Kelly; lived with his mother in 1860 Plymouth."
 }

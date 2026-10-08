@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's 2nd cousin 9x removed via Bull Smith (also 3C9R via Topping, formerly reported 3C8R); Revolutionary general who died a British prisoner in 1776.",
-  "bio": "Path: Bull Smith → Richard 2d → Sarah (m. Nathaniel Woodhull) → Gen. Nathaniel. Captured 29 Aug 1776, denied medical care and food, died 20 Sep 1776; his death turned his cousin Abraham Woodhull against the British. Married Ruth Floyd, William Floyd's sister (her own 2nd cousin once removed). Grandfather of Eliza Nicoll Smith and great-grandfather of Judge J. Lawrence Smith.",
+  "summary": "Revolutionary general who died a British prisoner in 1776; John's 2nd cousin 9x removed through Bull Smith.",
+  "bio": "Gen. Nathaniel Woodhull descended from Bull Smith through Richard Smith 2d, whose daughter Sarah married a Nathaniel Woodhull; on that line he is John's 2nd cousin nine times removed, and through the Topping family he is also a 3rd cousin nine times removed. He married Ruth Floyd, the sister of William Floyd and his own second cousin once removed.\n\nIn the Revolution he was captured by the British on 29 August 1776, denied medical care and food, and died on 20 September 1776. His death turned his cousin Abraham Woodhull against the British. He was the grandfather of Eliza Nicoll Smith and the great-grandfather of Judge J. Lawrence Smith.",
   "military": [
     {
       "service": "American Revolution",
@@ -47,6 +47,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0284.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -67,5 +71,6 @@
       "file": "media/H0284/nathaniel-woodhull-portrait.jpg"
     }
   ],
-  "photo": "media/H0284/nathaniel-woodhull-portrait.jpg"
+  "photo": "media/H0284/nathaniel-woodhull-portrait.jpg",
+  "researchNotes": "Path: Bull Smith → Richard 2d → Sarah (m. Nathaniel Woodhull) → Gen. Nathaniel. Captured 29 Aug 1776, denied medical care and food, died 20 Sep 1776; his death turned his cousin Abraham Woodhull against the British. Married Ruth Floyd, William Floyd's sister (her own 2nd cousin once removed). Grandfather of Eliza Nicoll Smith and great-grandfather of Judge J. Lawrence Smith."
 }

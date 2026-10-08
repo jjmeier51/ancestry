@@ -5,8 +5,8 @@
     "note": "Tree only; no record of her found. Colosimo is genuinely a San Mango family (652 entries in the 1674-1804 stati delle anime). Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me). Baptism and marriage indexed."
   },
   "tags": [],
-  "summary": "John's maternal 3rd great-grandmother per the tree; wife of Domenico Fiorillo.",
-  "bio": "Tree: Saveria Colosimo (1848-1926). Colosimo is one of the commonest San Mango surnames: 652 entries in the 1674-1804 parish stati delle anime; Colosimo x14 in the mid-1990s San Mango phone directory; listed by ItalianSide among the town's traditional families. A Gaetano Colosimo, 40, witnessed Domenico Fiorillo's 1840 birth act (relationship unknown).\n\nSaveria was baptized on 26 October 1848, daughter of Raffaele Colosimo and Filippina Iera ([R4-S1]). The tree's 25 October is probably her birth date. She married Domenico Gabriele Fiorillo at San Mango on 1 April 1870 ([R4-S2]). The parish burial index has Saveria Colosimo, widow of Domenico Fiorillo, buried 10 August 1931 with a stated age of 70 ([R4-S3]). Husband and widowhood match (Domenico died 1921), but the age is about twelve years too low. This entry is a candidate for her death and conflicts with the tree's 26 May 1926.",
+  "summary": "Daughter of Raffaele Colosimo and Filippina Iera of San Mango d'Aquino, wife of Domenico Fiorillo; John's maternal 3rd-great-grandmother.",
+  "bio": "Saveria Colosimo was baptized at San Mango d'Aquino in Calabria on 26 October 1848, and was probably born the day before, the daughter of Raffaele Colosimo and Filippina Iera. Colosimo is one of the oldest and commonest surnames of San Mango, counted among the town's traditional families. On 1 April 1870 she married Domenico Gabriele Fiorillo in the San Mango parish.\n\nFamily records give her death as 26 May 1926 at San Mango, but the parish burial register has a Saveria Colosimo, widow of Domenico Fiorillo, buried on 10 August 1931 with an age that does not quite fit; the records disagree on when she died. She is John's maternal 3rd-great-grandmother.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -63,6 +63,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815333.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -80,5 +84,6 @@
       "found": "Candidate: burial 10 Aug 1931, widow of Domenico Fiorillo (age given 70)",
       "assessment": "Candidate only (age discrepancy). No Saveria Colosimo burial in 1926 in the index."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Saveria Colosimo (1848-1926). Colosimo is one of the commonest San Mango surnames: 652 entries in the 1674-1804 parish stati delle anime; Colosimo x14 in the mid-1990s San Mango phone directory; listed by ItalianSide among the town's traditional families. A Gaetano Colosimo, 40, witnessed Domenico Fiorillo's 1840 birth act (relationship unknown).\n\nSaveria was baptized on 26 October 1848, daughter of Raffaele Colosimo and Filippina Iera ([R4-S1]). The tree's 25 October is probably her birth date. She married Domenico Gabriele Fiorillo at San Mango on 1 April 1870 ([R4-S2]). The parish burial index has Saveria Colosimo, widow of Domenico Fiorillo, buried 10 August 1931 with a stated age of 70 ([R4-S3]). Husband and widowhood match (Domenico died 1921), but the age is about twelve years too low. This entry is a candidate for her death and conflicts with the tree's 26 May 1926."
 }

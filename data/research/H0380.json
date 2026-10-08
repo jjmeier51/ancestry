@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Musicians' union leader; ruled out (name collision only).",
-  "bio": "President of the American Federation of Musicians; Chicago, 1892-1984.",
+  "summary": "President of the American Federation of Musicians, born in Chicago in 1892; he shares a surname with the family but is not related to John.",
+  "bio": "James C. Petrillo was born in Chicago, Cook County, Illinois, in 1892 and died in 1984. He was president of the American Federation of Musicians. His name resembles the family's Petriello surname, but he is not a relative of John's.",
   "sources": [
     "Wikipedia: https://en.wikipedia.org/wiki/James_Petrillo"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0380.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "President of the American Federation of Musicians; Chicago, 1892-1984."
 }

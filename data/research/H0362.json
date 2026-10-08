@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Possible younger sister of John Petriello (John's 2nd great-grandaunt).",
-  "bio": "FS tree: Filomena Petriello b. 16 Dec 1885 at Carife, the comune next to Guardia. Grazia would have been about 40.",
+  "summary": "Born at Carife in 1885, possibly a younger sister of John Petriello; John's 2nd great-grandaunt if so.",
+  "bio": "Filomena Petriello was born on 16 December 1885 at Carife, the comune next to Guardia. She may have been a younger sister of John Petriello; if so, her mother Grazia would have been about 40 at her birth, and she would be John's 2nd great-grandaunt. The identification is possible rather than certain.",
   "sources": [
     "FS tree GQWR-RPT / G44P-XYT",
     "notes/round2/italian_gaps.md 4; notes/round3/italian_origins.md origins map"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0362.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "FS tree: Filomena Petriello b. 16 Dec 1885 at Carife, the comune next to Guardia. Grazia would have been about 40."
 }

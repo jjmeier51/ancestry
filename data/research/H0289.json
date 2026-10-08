@@ -11,7 +11,7 @@
     "Judge Abraham Woodhull"
   ],
   "tags": [],
-  "summary": "Chief agent of Washington's Culper Ring; John's 4th cousin 8x removed via Topping (reported 4C7R before the Elnathan Topping generation was added).",
+  "summary": "Chief agent of Washington's Culper spy ring, 'Samuel Culper Sr.', and later a judge; John's 3rd cousin 8 times removed through Bull Smith.",
   "sources": [
     "Stony Brook special collections, https://www.stonybrook.edu/commcms/libspecial/collections/manuscripts/woodhull.php",
     "Wikipedia: Abraham Woodhull",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0289.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -66,7 +70,7 @@
       "description": "Married Lydia, daughter of James Terry; no children. [R4-S1]"
     }
   ],
-  "bio": "His kinship to John no longer depends on the Topping route. The Woodhull Genealogy ([R4-S1]) makes him the son of Richard Woodhull IV (1712-1788) and Margaret Smith (1714-1803), 'daughter of Edmund Smith of the \"Bull Smith\" family, and Susannah Floyd'. Pelletreau ([R4-S2]) and Thompson ([R4-S3]) both give Edmund Smith 1st as the only son of Adam Smith, son of the patentee, and list Margaret (wife of Richard Woodhull) among Edmund's children; Edmund's 1734 will names daughters Anne and Margaret. Path: Bull Smith -> Adam -> Edmund 1st -> Margaret -> Abraham, 4 generations below John's 11th-great-grandparents Bull Smith & Sarah Hammond: 3rd cousin 8 times removed. His wife Mary Smith was herself a Bull Smith descendant through both parents (Obadiah, son of Daniel 2d; Anna, daughter of Edmund 1st by his second wife Mary), so Abraham married his half-first cousin.\n\nThe Topping route is now doubtful: the Woodhull Genealogy says his great-grandmother Temperance, wife of Richard Woodhull II, was a daughter of Rev. Jonah Fordham, while Southampton records record Richard's 1684 marriage to 'Temperance Topping'. Howell's Topping genealogy gives Capt. Thomas Topping no daughter Temperance. The likeliest reading is that she was Temperance Fordham, widow of a Topping, which would leave the Woodhulls with no Topping blood.",
+  "bio": "Abraham Woodhull was born at Setauket, New York, on 7 October 1750, the son of Richard Woodhull IV (1712–1788) and Margaret Smith (1714–1803). During the Revolutionary War he was the chief agent of Washington's Culper Ring, operating under the name 'Samuel Culper Sr.', and in later life he served as a judge. He married twice, first in the early 1780s and again on 5 October 1824. His wife Mary Smith was herself a descendant of Bull Smith through both her parents, Obadiah Smith, son of Daniel Smith 2d, and Anna, daughter of Edmund Smith 1st by his second wife Mary, so that Abraham married his half-first cousin. He died on 23 January 1826.\n\nHis kinship to John runs through his mother. Margaret Smith was a daughter of Edmund Smith 1st, the only son of Adam Smith, son of Bull Smith, and of Susannah Floyd, which makes Abraham a 3rd cousin 8 times removed of John. An older reckoning traced the connection through the Topping family, on the strength of his great-grandmother Temperance, wife of Richard Woodhull II; but she was probably Temperance Fordham, a daughter of Rev. Jonah Fordham and the widow of a Topping, so that route is doubtful.",
   "funFacts": [
     "George Washington suggested his alias 'Samuel Culper', a play on Culpeper County, Virginia."
   ],
@@ -95,5 +99,6 @@
       "people": [],
       "url": "https://commons.wikimedia.org/wiki/File:Culper_Ring_code.jpg"
     }
-  ]
+  ],
+  "researchNotes": "His kinship to John no longer depends on the Topping route. The Woodhull Genealogy ([R4-S1]) makes him the son of Richard Woodhull IV (1712-1788) and Margaret Smith (1714-1803), 'daughter of Edmund Smith of the \"Bull Smith\" family, and Susannah Floyd'. Pelletreau ([R4-S2]) and Thompson ([R4-S3]) both give Edmund Smith 1st as the only son of Adam Smith, son of the patentee, and list Margaret (wife of Richard Woodhull) among Edmund's children; Edmund's 1734 will names daughters Anne and Margaret. Path: Bull Smith -> Adam -> Edmund 1st -> Margaret -> Abraham, 4 generations below John's 11th-great-grandparents Bull Smith & Sarah Hammond: 3rd cousin 8 times removed. His wife Mary Smith was herself a Bull Smith descendant through both parents (Obadiah, son of Daniel 2d; Anna, daughter of Edmund 1st by his second wife Mary), so Abraham married his half-first cousin.\n\nThe Topping route is now doubtful: the Woodhull Genealogy says his great-grandmother Temperance, wife of Richard Woodhull II, was a daughter of Rev. Jonah Fordham, while Southampton records record Richard's 1684 marriage to 'Temperance Topping'. Howell's Topping genealogy gives Capt. Thomas Topping no daughter Temperance. The likeliest reading is that she was Temperance Fordham, widow of a Topping, which would leave the Woodhulls with no Topping blood."
 }

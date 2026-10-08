@@ -14,8 +14,8 @@
   },
   "occupation": "Contadino",
   "tags": [],
-  "summary": "John's maternal 4th great-grandfather; contadino of Guardia Lombardi who married twice.",
-  "bio": "Tree: Gaetano di Marino (1795-1876) + Maria d'Ambrosio; parents Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 3: died March 1876 (registered 6 Mar), Guardia, aged 80 (so born c.1796), contadino; son of the late Pietro and the late Felicita Magnotta; 'marito di Caterina di Leo'; Morti 1876 act 20. Two wives (probable): first Maria d'Ambrosio (mother of Concetta, who married Giuseppe Petriello on 26 Dec 1855, index 1855 #23), then Caterina di Leo (mother of Grazia and probably of Maria, who married Nicola di Pietro 12 Feb 1857). The tree conflated the wives by making Maria d'Ambrosio Grazia's mother.\n\nThe FamilySearch tree (G7NK-RH2) gives Gaetano both wives, Caterina di Leo and Maria d'Ambrosio, which agrees with Round 3's two-marriage reading. It also attaches three indexed Avellino civil records (6GZ5-3NV8, 6P6S-FJ51, 6PG6-674K) ([R4-S1]). The tree has a daughter Maria di Marino (b. c.1835, d. 29 Dec 1914 in Guardia), daughter of Gaetano and Caterina di Leo, whose husband is given as 'Nicola di Paola' ([R4-S2]). Round 3 read Maria's 1857 marriage index as to 'Nicola di Pietro'. Her 1835 birth would mean Gaetano had married Caterina by about 1834, earlier than Round 3 assumed. If so, Maria d'Ambrosio (mother of Concetta, married 1855) was either the first wife before c.1834, or the tree's 1835 date for Maria is wrong.",
+  "summary": "Contadino of Guardia Lombardi who married twice and lived to about eighty; John's maternal 4th-great-grandfather.",
+  "bio": "Gaetano di Marino was born about 1796 at Guardia Lombardi, Avellino, in Campania, a son of Pietro di Marino and Felicita Magnotta. He was a contadino, or farmer, and died at Guardia in March 1876, aged eighty, the death record calling him the husband of Caterina di Leo. He was John's maternal 4th-great-grandfather.\n\nHe probably married twice. His first wife, Maria d'Ambrosio, was the mother of Concetta, who married Giuseppe Petriello on 26 December 1855. His second wife, Caterina di Leo, was the mother of John's ancestor Grazia and probably of Maria di Marino, who was born about 1835, married on 12 February 1857 a Nicola di Pietro, or di Paola as another record has it, and died at Guardia on 29 December 1914. If Maria's birth year is right, Gaetano had married Caterina by about 1834, which would place his marriage to Maria d'Ambrosio before then; otherwise the 1835 date may be wrong. Some family trees have run the two wives together by making Maria d'Ambrosio the mother of Grazia.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -63,6 +63,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814912.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -72,5 +76,6 @@
       "found": "FS tree has Maria di Marino, daughter of Caterina di Leo, b. c.1835, d. 1914",
       "assessment": "Still consistent if Concetta (d'Ambrosio) was born before c.1834; needs Concetta's age from her 1855 marriage act."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Gaetano di Marino (1795-1876) + Maria d'Ambrosio; parents Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 3: died March 1876 (registered 6 Mar), Guardia, aged 80 (so born c.1796), contadino; son of the late Pietro and the late Felicita Magnotta; 'marito di Caterina di Leo'; Morti 1876 act 20. Two wives (probable): first Maria d'Ambrosio (mother of Concetta, who married Giuseppe Petriello on 26 Dec 1855, index 1855 #23), then Caterina di Leo (mother of Grazia and probably of Maria, who married Nicola di Pietro 12 Feb 1857). The tree conflated the wives by making Maria d'Ambrosio Grazia's mother.\n\nThe FamilySearch tree (G7NK-RH2) gives Gaetano both wives, Caterina di Leo and Maria d'Ambrosio, which agrees with Round 3's two-marriage reading. It also attaches three indexed Avellino civil records (6GZ5-3NV8, 6P6S-FJ51, 6PG6-674K) ([R4-S1]). The tree has a daughter Maria di Marino (b. c.1835, d. 29 Dec 1914 in Guardia), daughter of Gaetano and Caterina di Leo, whose husband is given as 'Nicola di Paola' ([R4-S2]). Round 3 read Maria's 1857 marriage index as to 'Nicola di Pietro'. Her 1835 birth would mean Gaetano had married Caterina by about 1834, earlier than Round 3 assumed. If so, Maria d'Ambrosio (mother of Concetta, married 1855) was either the first wife before c.1834, or the tree's 1835 date for Maria is wrong."
 }

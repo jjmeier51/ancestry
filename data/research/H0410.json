@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0410.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -28,8 +32,10 @@
   "aka": [
     "Robert Holland"
   ],
-  "bio": "FamilySearch names Ann \"Nancy\" McGuire's husband as Robert Holland (1925-1979) ([R4-S1]).",
+  "bio": "Robert Holland was born in 1925 and died in 1979. Records name him as the husband of Ann \"Nancy\" McGuire.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Ann Nancy McGuire (1928-2007), spouse Robert Holland 1925-1979, PID G3PC-FFK; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PC-FFK"
-  ]
+  ],
+  "researchNotes": "FamilySearch names Ann \"Nancy\" McGuire's husband as Robert Holland (1925-1979) ([R4-S1]).",
+  "summary": "Robert Holland (1925–1979), husband of Ann \"Nancy\" McGuire."
 }

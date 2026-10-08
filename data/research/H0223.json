@@ -10,8 +10,8 @@
     "Rachel Tuthill"
   ],
   "tags": [],
-  "summary": "John's 8th-great-grandmother, wife of James Tuthill; through her come the Browne, Salmon and Horton (Barnabas Horton of Southold) ancestors.",
-  "bio": "Married James Tuthill about 1714. Not in the Ancestry tree, which instead shows 'Hannah S Reeve' as James's wife (an error merging Joshua Tuthill's marriage). WikiTree gives her parents as Jonathan Browne (1653–1710) & Elisabeth Salmon of Southold; Elisabeth was daughter of William Salmon (d. 1657) and Sarah Horton, daughter of Barnabas Horton of Southold, born Mowsley, Leicestershire. Brown executors in two Tuthill branches fit the marriage.\n\nWikiTree's profile quotes Alva Tuttle (1968, p. 279) for Rachel's children with James Tuthill: Rachel (1715), James (1717), Elizabeth (1719), Daniel (1721), Mary (1725), Jonathan (b. 6 Oct 1727), Mehitable (1728/9) and John (1730) ([R4-S1]). The list includes Daniel of Goshen (will 1761) and James Jr. of New Windsor (will 1756), whose wills fit. WikiTree gives her a death of 1738, unsourced. Her father Jonathan Browne is given on WikiTree as d. 19 Aug 1710 at Orient. The Salmon Record has a 'Jonathan Brown died' on 18 Sept, apparently 1704 by its sequence ([R4-S2]). This could be a different Jonathan Brown, but the conflict should be checked.",
+  "summary": "Wife of James Tuthill of Southold, through whom the Browne, Salmon and Horton ancestors enter the family; John's 8th-great-grandmother.",
+  "bio": "Rachel Browne married James Tuthill about 1714. Published genealogies give her parents as Jonathan Browne (1653–1710) and Elisabeth Salmon of Southold; Elisabeth was a daughter of William Salmon, who died in 1657, and Sarah Horton, daughter of Barnabas Horton of Southold, who was born at Mowsley in Leicestershire. Jonathan Browne is said to have died at Orient on 19 August 1710, though the Salmon Record enters a Jonathan Brown's death on 18 September of what appears to be 1704, and the two may or may not be the same man. She has sometimes been confused with Hannah Reeve, who was in fact the wife of Joshua Tuthill.\n\nHer children with James Tuthill were Rachel (1715), James (1717), Elizabeth (1719), Daniel (1721), Mary (1725), Jonathan (born 6 October 1727), Mehitable (1728/9) and John (1730). Among them were Daniel of Goshen and James Jr. of New Windsor, whose wills fit the family. Rachel is said to have died in 1738, though this is unconfirmed.",
   "sources": [
     "WikiTree Tuthill-530 (getAncestors), https://www.wikitree.com/wiki/Tuthill-530",
     "Alva Tuttle (1968) p. 279",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0223.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -55,5 +59,6 @@
       "found": "Salmon Record: 'Jonathan Brown died' 18 Sept, in the 1704 run of entries",
       "assessment": "Unresolved; there may have been two Jonathan Browns in Southold. Check Southold probate."
     }
-  ]
+  ],
+  "researchNotes": "Married James Tuthill about 1714. Not in the Ancestry tree, which instead shows 'Hannah S Reeve' as James's wife (an error merging Joshua Tuthill's marriage). WikiTree gives her parents as Jonathan Browne (1653–1710) & Elisabeth Salmon of Southold; Elisabeth was daughter of William Salmon (d. 1657) and Sarah Horton, daughter of Barnabas Horton of Southold, born Mowsley, Leicestershire. Brown executors in two Tuthill branches fit the marriage.\n\nWikiTree's profile quotes Alva Tuttle (1968, p. 279) for Rachel's children with James Tuthill: Rachel (1715), James (1717), Elizabeth (1719), Daniel (1721), Mary (1725), Jonathan (b. 6 Oct 1727), Mehitable (1728/9) and John (1730) ([R4-S1]). The list includes Daniel of Goshen (will 1761) and James Jr. of New Windsor (will 1756), whose wills fit. WikiTree gives her a death of 1738, unsourced. Her father Jonathan Browne is given on WikiTree as d. 19 Aug 1710 at Orient. The Salmon Record has a 'Jonathan Brown died' on 18 Sept, apparently 1704 by its sequence ([R4-S2]). This could be a different Jonathan Brown, but the conflict should be checked."
 }

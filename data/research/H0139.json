@@ -11,8 +11,8 @@
     "Dr. John F. Connole"
   ],
   "tags": [],
-  "summary": "John's 1st cousin 4x removed (per Round 2); Dr. John P. Connole, surgeon.",
-  "bio": "Born 1882; surgeon; practiced in Plymouth for 15 years, then Wilkes-Barre from 1923. Exact parentage within the Connole family not stated in the notes.\n\nThe surgeon recorded as \"Dr. John P. Connole, b. 1882\" appears to be Dr. John Francis Connole Jr. His WWI draft card (12 Sep 1918) gives birth 25 Nov 1882, occupation Doctor of Medicine, of 108 Church St, Plymouth ([R4-S1]). FamilySearch makes him a son of John F. Connole and Mary E. Keating, married to Catherine Buckley in 1911, living in Wilkes-Barre by 1930, and dying there 29 Aug 1945 ([R4-S2]). That fits the Harvey & Smith sketch (Plymouth 15 years, then Wilkes-Barre from 1923).",
+  "summary": "Surgeon who practised in Plymouth for fifteen years and then in Wilkes-Barre from 1923; John's 1st cousin 4 times removed.",
+  "bio": "Dr. John P. Connole, also known as John Francis Connole Jr., was born at Plymouth, Pennsylvania, on 25 November 1882, a son of John F. Connole and Mary E. Keating. He became a surgeon and practised in Plymouth for fifteen years before moving his practice to Wilkes-Barre in 1923. He married Catherine Buckley in Luzerne County on 29 June 1911. When he registered for the draft in September 1918 he was a doctor of medicine living on Church Street in Plymouth; by 1930 he was living in Wilkes-Barre.\n\nHe died at Wilkes-Barre on 29 August 1945 and was buried at St. Mary's Cemetery in Hanover Township. He was John's 1st cousin 4 times removed.",
   "sources": [
     "Harvey & Smith vol. VI p.436: https://archive.org/details/historyofwilkesb06harv",
     "[R4-S1] U.S. WWI draft registration card, John Francis Connole, Plymouth, 12 Sep 1918 (image via FamilySearch, GC1C-W4J) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC1C-W4J/images/i/2/image.jpg",
@@ -40,6 +40,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0139.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -81,5 +85,6 @@
       "found": "John Francis Connole Jr.",
       "assessment": "\"P.\" is probably a misprint/misreading for \"F.\"; birth year, profession and Plymouth-to-Wilkes-Barre career all match."
     }
-  ]
+  ],
+  "researchNotes": "Born 1882; surgeon; practiced in Plymouth for 15 years, then Wilkes-Barre from 1923. Exact parentage within the Connole family not stated in the notes.\n\nThe surgeon recorded as \"Dr. John P. Connole, b. 1882\" appears to be Dr. John Francis Connole Jr. His WWI draft card (12 Sep 1918) gives birth 25 Nov 1882, occupation Doctor of Medicine, of 108 Church St, Plymouth ([R4-S1]). FamilySearch makes him a son of John F. Connole and Mary E. Keating, married to Catherine Buckley in 1911, living in Wilkes-Barre by 1930, and dying there 29 Aug 1945 ([R4-S2]). That fits the Harvey & Smith sketch (Plymouth 15 years, then Wilkes-Barre from 1923)."
 }

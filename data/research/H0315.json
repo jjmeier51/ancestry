@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Physician, lawyer and author of the standard History of Long Island (1839/1843); John's 3rd cousin 8x removed.",
-  "bio": "Path: John Thompson → Samuel → Jonathan → Dr. Samuel → Benjamin. Also 4C8R via Brewster (affected by the Brewster disproof) and probably 4C8R via Topping (his grandmother Mary Woodhull, b. 1711, appears to be a granddaughter of Temperance Topping). Called John Thompson 'the first Long Island ancestor of the compiler'.\n\nSon of Dr. Samuel Thompson and his first wife Phebe Satterly ([R4-S1]); 3rd cousin 8 times removed via John Thompson. Irony worth telling: his own family account (the source used by earlier rounds) contains the two errors later disproved, the 1609 birth and the Mayflower Brewster wife for John Thompson.",
+  "summary": "Physician, lawyer and author of the standard History of Long Island; John's 3rd cousin 8x removed.",
+  "bio": "Benjamin Franklin Thompson was born on 15 May 1784, the son of Dr. Samuel Thompson and his first wife Phebe Satterly. He descends from John Thompson through Samuel, Jonathan and Dr. Samuel, making him John's 3rd cousin eight times removed; he is probably also a 4th cousin eight times removed through the Topping family, since his grandmother Mary Woodhull, born in 1711, appears to have been a granddaughter of Temperance Topping. He married on 12 June 1810.\n\nA physician and lawyer, he wrote the History of Long Island, published in 1839 and 1843, which became the standard work on the island; in it he called John Thompson 'the first Long Island ancestor of the compiler'. There is an irony in his own account of the family: it contains two errors later disproved, a birth year of 1609 for John Thompson and a Mayflower Brewster wife for him. He died in 1849.",
   "sources": [
     "Thompson vol. 3",
     "Online Books, https://onlinebooks.library.upenn.edu/webbin/who/Thompson%2c%20Benjamin%20F%2e%20%28Benjamin%20Franklin%29%2c%201784%2d1849",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0315.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -65,5 +69,6 @@
       "place": "",
       "description": "Married Mary Howard, daughter of Rev. Zachariah and Mrs Abigail Greene; son Henry Rutgers (1813-1842). [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Path: John Thompson → Samuel → Jonathan → Dr. Samuel → Benjamin. Also 4C8R via Brewster (affected by the Brewster disproof) and probably 4C8R via Topping (his grandmother Mary Woodhull, b. 1711, appears to be a granddaughter of Temperance Topping). Called John Thompson 'the first Long Island ancestor of the compiler'.\n\nSon of Dr. Samuel Thompson and his first wife Phebe Satterly ([R4-S1]); 3rd cousin 8 times removed via John Thompson. Irony worth telling: his own family account (the source used by earlier rounds) contains the two errors later disproved, the 1609 birth and the Mayflower Brewster wife for John Thompson."
 }

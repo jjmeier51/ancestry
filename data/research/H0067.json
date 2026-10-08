@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd great-uncle; eldest known child of James McGuire.",
-  "bio": "Siblings of Francis J. (FS): Edward J. (1885), Mary, James J., Marguerite, Vincent, Theresa, William B., Anna C., Joseph.",
+  "summary": "Eldest known child of James McGuire, of Larksville and Kingston, Pennsylvania; John's 2nd great-uncle.",
+  "bio": "Edward J. McGuire was born at Larksville, Pa., on 30 October 1885, the eldest known child of James McGuire. His brothers and sisters were Francis J., Mary, James J., Marguerite, Vincent, Theresa, William B., Anna C. and Joseph. He married in Luzerne County on 15 June 1915. By 1940 he was living in Kingston, and in 1942 he registered for the Second World War draft in the registration of older men. He died at Kingston on 14 May 1948 and was buried in St. Mary's Cemetery, Hanover Township.",
   "sources": [
     "FamilySearch GZQN-SCM",
     "notes/round3/irish_pa.md",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0067.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -68,5 +72,6 @@
       "label": "FamilySearch ID",
       "value": "GWHL-YXC"
     }
-  ]
+  ],
+  "researchNotes": "Siblings of Francis J. (FS): Edward J. (1885), Mary, James J., Marguerite, Vincent, Theresa, William B., Anna C., Joseph."
 }

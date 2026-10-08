@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 5x removed (Kingston branch); Wyoming Seminary treasurer, bank founder and Free Soil/anti-slavery-extension organizer.",
-  "bio": "Alexander J. Pringle (1824-1881), of the Kingston branch, was a trustee and treasurer of Wyoming Seminary, a founder of a Wilkes-Barre savings bank, and an organizer in 1856 of the Luzerne County party opposing the extension of slavery into free territories.\n\nAlexander Jameson Pringle was the youngest son of Thomas Pringle (d. Kingston 22 May 1861) and Elizabeth Harvey (d. Kingston 26 May 1868). He was born in Plymouth on 3 Sep 1824 and moved with the family to Kingston in 1837. He worked on his father's farm until he was past 21, then studied at Wyoming Seminary. He taught school in Kingston, and from about 1853 to 1862 he ran the principal public school in Wilkes-Barre. After 1862 he was a merchant and acted as executor, administrator or trustee of several large estates. He was a trustee of Wyoming Seminary from 1860 and its treasurer from 1872, led the Kingston M.E. choir, and helped found the Wilkes-Barre Deposit and Savings Bank in 1871, serving as its secretary. He married Mary Price at Kingston on 21 Oct 1858. Their only child was Nelson George Pringle (H0143). He had a stroke in church on 24 Jul 1881 and died on 12 Aug 1881 ([R4-S1]). His siblings were Sarah (Mrs. Elias Culver), Rosanna Harvey, Martha (d. infant), Samuel (twin of Martha; life director of Wyoming Seminary), Millicent, and the twins George Lane (H0144) and Caroline.",
+  "summary": "Kingston schoolteacher, merchant, Wyoming Seminary treasurer, bank founder and anti-slavery organizer; John's 1st cousin 5x removed.",
+  "bio": "Alexander Jameson Pringle was born at Plymouth, Luzerne County, on 3 September 1824, the youngest son of Thomas Pringle, who died at Kingston on 22 May 1861, and Elizabeth Harvey, who died there on 26 May 1868. His brothers and sisters were Sarah (Mrs. Elias Culver), Rosanna Harvey, Martha, who died in infancy, her twin Samuel, later a life director of Wyoming Seminary, Millicent, and the twins George Lane and Caroline. The family moved to Kingston in 1837, and Alexander worked on his father's farm until he was past 21 before studying at Wyoming Seminary.\n\nHe taught school in Kingston, and from about 1853 to 1862 he ran the principal public school in Wilkes-Barre. In 1856 he helped organize the Luzerne County party that opposed the extension of slavery into the free territories. After 1862 he was a merchant and acted as executor, administrator or trustee of several large estates. He was a trustee of Wyoming Seminary from 1860 and its treasurer from 1872, led the choir of the Kingston M.E. church, and in 1871 helped found the Wilkes-Barre Deposit and Savings Bank, serving as its secretary.\n\nHe married Mary Price at Kingston on 21 October 1858; their only child was Nelson George Pringle. On 24 July 1881 he suffered a stroke in church, and he died at Kingston on 12 August 1881.",
   "sources": [
     "Harvey Book: https://archive.org/details/harveybookgiving00harv",
     "Harvey & Smith vol. VI p.378: https://archive.org/details/historyofwilkesb06harv",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0142.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -78,5 +82,6 @@
       "place": "Kingston M.E. Church",
       "description": "Had an attack of paralysis at Sunday service; a second attack a week later; died 12 Aug 1881. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Alexander J. Pringle (1824-1881), of the Kingston branch, was a trustee and treasurer of Wyoming Seminary, a founder of a Wilkes-Barre savings bank, and an organizer in 1856 of the Luzerne County party opposing the extension of slavery into free territories.\n\nAlexander Jameson Pringle was the youngest son of Thomas Pringle (d. Kingston 22 May 1861) and Elizabeth Harvey (d. Kingston 26 May 1868). He was born in Plymouth on 3 Sep 1824 and moved with the family to Kingston in 1837. He worked on his father's farm until he was past 21, then studied at Wyoming Seminary. He taught school in Kingston, and from about 1853 to 1862 he ran the principal public school in Wilkes-Barre. After 1862 he was a merchant and acted as executor, administrator or trustee of several large estates. He was a trustee of Wyoming Seminary from 1860 and its treasurer from 1872, led the Kingston M.E. choir, and helped found the Wilkes-Barre Deposit and Savings Bank in 1871, serving as its secretary. He married Mary Price at Kingston on 21 Oct 1858. Their only child was Nelson George Pringle (H0143). He had a stroke in church on 24 Jul 1881 and died on 12 Aug 1881 ([R4-S1]). His siblings were Sarah (Mrs. Elias Culver), Rosanna Harvey, Martha (d. infant), Samuel (twin of Martha; life director of Wyoming Seminary), Millicent, and the twins George Lane (H0144) and Caroline."
 }

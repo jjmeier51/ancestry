@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1898, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives Mary Elizabeth Pringle a birth date of March 1898 (from the 1900 census), places her in Wilkes-Barre's 15th ward in 1920, and records her marriage in Luzerne Co. on 7 Jun 1922 to Thomas Christopher Halloran (1898-1967) ([R4-S1]). No death date has been found.",
+  "summary": "Sister of John's great-grandmother Florence Pringle and wife of Thomas Christopher Halloran; John's great-grand-aunt.",
+  "bio": "Mary Elizabeth Pringle was born in Pennsylvania in March 1898, a daughter of Addison F. Pringle and Catherine E. Heffernan. She was in her parents' household at Plymouth/Larksville in 1910 and was living in Wilkes-Barre in 1920. On 7 June 1922, in Luzerne County, she married Thomas Christopher Halloran (1898–1967).",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
     "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0106.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -56,5 +60,6 @@
       "label": "FamilySearch ID",
       "value": "LT9F-H4V"
     }
-  ]
+  ],
+  "researchNotes": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1898, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives Mary Elizabeth Pringle a birth date of March 1898 (from the 1900 census), places her in Wilkes-Barre's 15th ward in 1920, and records her marriage in Luzerne Co. on 7 Jun 1922 to Thomas Christopher Halloran (1898-1967) ([R4-S1]). No death date has been found."
 }

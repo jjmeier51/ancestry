@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 4th great-aunt; sibling of Friedrich Mayer.",
-  "bio": "One of a cluster of 1857 family events (her death, Johann Baptist Alois's death, her sister's marriage).",
+  "summary": "Sister of Friedrich Mayer, born in Munzingen in 1833 and dead there at twenty-four; John's 4th-great-aunt.",
+  "bio": "Carolina Mayer was born in 1833 at Munzingen in Baden, a sister of John's 3rd-great-grandfather Friedrich Mayer, which makes her John's 4th-great-aunt. She died at Munzingen on 21 May 1857, aged about twenty-four. Hers was one of several family events of that year, which also saw the death of Johann Baptist Alois Mayer and the marriage of her sister.",
   "sources": [
     "FamilySearch tree G7PF-7J6 / G921-25N",
     "notes/round3/meier_line.md"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0025.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "One of a cluster of 1857 family events (her death, Johann Baptist Alois's death, her sister's marriage)."
 }

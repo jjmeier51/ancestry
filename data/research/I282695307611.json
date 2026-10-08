@@ -5,8 +5,8 @@
     "note": "Tree only; removed. She would have been 13 at Patrick's birth - at least one date is wrong."
   },
   "tags": [],
-  "summary": "Tree-only; disproven as John's ancestor.",
-  "bio": "Tree shows Joanna Kearney 1750-Deceased as Patrick's mother. Removed in Round 2.",
+  "summary": "Joanna Kearney of County Tipperary, born about 1750, once recorded as Patrick's mother but disproven as an ancestor of John.",
+  "bio": "Joanna Kearney was born in County Tipperary, Ireland, about 1750 and died in Ireland. She was once recorded as the mother of Patrick, but that link has since been disproved, and she is not an ancestor of John.",
   "facts": [
     {
       "label": "Tree shows",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695307611.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree shows Joanna Kearney 1750-Deceased as Patrick's mother. Removed in Round 2."
 }

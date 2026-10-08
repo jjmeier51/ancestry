@@ -5,8 +5,8 @@
     "note": "Tree only; removed. He would have been 60 when Catherine was born in 1770, suggesting a missing generation."
   },
   "tags": [],
-  "summary": "Tree-only; disproven as John's ancestor.",
-  "bio": "Tree shows Richard NEAGLE 1710-Deceased as Catherine Neagle's father. Removed with the Neagle branch.",
+  "summary": "Richard Neagle, born about 1710 in County Tipperary, once recorded as Catherine Neagle's father; the Neagle line has been shown not to be John's.",
+  "bio": "Richard Neagle was born about 1710 in Co. Tipperary, Ireland. He was long recorded as the father of Catherine Neagle, but research has since shown that the Neagle family does not belong to John's ancestry.",
   "facts": [
     {
       "label": "Tree shows",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695307575.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree shows Richard NEAGLE 1710-Deceased as Catherine Neagle's father. Removed with the Neagle branch."
 }

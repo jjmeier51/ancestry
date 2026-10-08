@@ -6,7 +6,7 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 3rd great-grandmother; Irish-born wife of Edward McGuire. Origin of the Gaffneys unknown.",
+  "summary": "Irish-born wife of Edward McGuire, born in 1835; John's 3rd-great-grandmother.",
   "sources": [
     "1870 census Mahoning Twp.",
     "FamilySearch tree",
@@ -30,10 +30,15 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0004.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "FamilySearch attaches two Ancestry index entries to her profile: a 1900 census entry for \"Mary Mcguire\" and a \"Pennsylvania, Death Certificates, 1906-1970\" entry under her maiden name, \"Mary Gaffney\" ([R4-S1]). The second implies she died in Pennsylvania in 1906 or later, outliving her husband Edward (d. 4 Apr 1907) or dying close to him. The certificate would name her parents and Irish birthplace.",
+  "bio": "Mary Jane Gaffney was born in Ireland in October 1835 and married Edward McGuire. Where in Ireland the Gaffneys came from is not known. She was still living in 1900, recorded as Mary McGuire, and a Pennsylvania death record indexed under her maiden name suggests she died in that state in 1906 or later, either outliving her husband Edward, who died on 4 April 1907, or dying close in time to him. She is John's 3rd-great-grandmother.",
   "openQuestions": [
     "Find Mary (Gaffney) McGuire's PA death certificate (Ancestry PA Death Certificates 1906-1970; FS shows an index link) and her death year; search PA death indexes under McGuire, Mary, Plymouth/Larksville after 1906."
-  ]
+  ],
+  "researchNotes": "FamilySearch attaches two Ancestry index entries to her profile: a 1900 census entry for \"Mary Mcguire\" and a \"Pennsylvania, Death Certificates, 1906-1970\" entry under her maiden name, \"Mary Gaffney\" ([R4-S1]). The second implies she died in Pennsylvania in 1906 or later, outliving her husband Edward (d. 4 Apr 1907) or dying close to him. The certificate would name her parents and Irish birthplace."
 }

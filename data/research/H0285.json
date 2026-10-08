@@ -11,8 +11,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's 2nd cousin 9x removed via Bull Smith (also 3C9R via Topping); Orange County militia colonel and NY state senator — very probably the 'Colonel Woodhull' under whom Thomas Lamoreaux served.",
-  "bio": "Commanded the 1st Regiment of Orange County Militia (the Cornwall-area regiment); later NY state senator. SAR record for Thomas Lamoreaux says he served under 'Colonel Woodhull' (first name not given) — so Thomas very probably served under a cousin of his wife Keturah.\n\nPath confirmed in two compiled sources: Bull Smith -> Richard 2d -> Sarah Smith (b. 13 Feb 1700, m. 1716 Nathaniel Woodhull of Mastic) -> Jesse: 2nd cousin 9 times removed (Woodhull Genealogy [R4-S1]; Pelletreau [R4-S3]). The proposed Topping route (via Richard Woodhull II's wife Temperance) is doubtful: the Woodhull Genealogy calls her a Fordham (see Abraham Woodhull). His daughter Hannah (b. 8 Jul 1761) married Oliver Smith of Moriches, a Bull Smith cousin ([R4-S3]).",
+  "summary": "Colonel of the 1st Regiment of Orange County militia in the Revolution and later a New York state senator; John's 2nd cousin 9 times removed.",
+  "bio": "Jesse Woodhull was born on 10 February 1735 and died on 3 February 1795. During the American Revolution he commanded the 1st Regiment of Orange County Militia, the Cornwall-area regiment, and he later sat in the New York State Senate. Thomas Lamoreaux, John's 6th-great-grandfather, is recorded as having served under a \"Colonel Woodhull\", and that colonel was very probably Jesse, so Thomas most likely served under a cousin of his wife Keturah.\n\nJesse descended from Bull Smith of Smithtown through Richard Smith 2d and Sarah Smith, born 13 February 1700, who married Nathaniel Woodhull of Mastic in 1716. That makes him John's 2nd cousin nine times removed; a second, more doubtful line through the Topping family has also been suggested. His daughter Hannah, born 8 July 1761, married Oliver Smith of Moriches, another of Bull Smith's descendants.",
   "military": [
     {
       "branch": "Orange County, NY militia",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0285.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -61,5 +65,6 @@
       "found": "Temperance (wife of Richard Woodhull II) was a daughter of Rev. Jonah Fordham per Woodhull Genealogy and Howell",
       "assessment": "Drop the Topping route unless Temperance's parentage is proven."
     }
-  ]
+  ],
+  "researchNotes": "Commanded the 1st Regiment of Orange County Militia (the Cornwall-area regiment); later NY state senator. SAR record for Thomas Lamoreaux says he served under 'Colonel Woodhull' (first name not given) — so Thomas very probably served under a cousin of his wife Keturah.\n\nPath confirmed in two compiled sources: Bull Smith -> Richard 2d -> Sarah Smith (b. 13 Feb 1700, m. 1716 Nathaniel Woodhull of Mastic) -> Jesse: 2nd cousin 9 times removed (Woodhull Genealogy [R4-S1]; Pelletreau [R4-S3]). The proposed Topping route (via Richard Woodhull II's wife Temperance) is doubtful: the Woodhull Genealogy calls her a Fordham (see Abraham Woodhull). His daughter Hannah (b. 8 Jul 1761) married Oliver Smith of Moriches, a Bull Smith cousin ([R4-S3])."
 }

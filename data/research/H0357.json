@@ -10,8 +10,8 @@
     "Gaetano 'Anthony' Petriello"
   ],
   "tags": [],
-  "summary": "John's great-granduncle; salesman.",
-  "bio": "b. 26 Nov 1907; Tony, 3, in 1910; salesman; married Ann Jason in 1941 (license lists John and Maria Antonia as deceased); d. Feb 1975, Scranton. Named Gaetano, apparently after great-grandfather Gaetano di Marino.",
+  "summary": "Salesman who married Ann Jason in 1941 and died at Scranton in 1975; John's great-granduncle.",
+  "bio": "Anthony Gaetano Petrillo, known as Tony, was born on 26 November 1907, a son of John and Maria Antonia Petrillo. His second name was apparently given in honour of his great-grandfather Gaetano di Marino. He worked as a salesman and in 1941 married Ann Jason, by which time both his parents had died. He died in February 1975 at Scranton, Lackawanna County, Pennsylvania.",
   "sources": [
     "1941 license image: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/1/image.jpg",
     "Geni profile"
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0357.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "b. 26 Nov 1907; Tony, 3, in 1910; salesman; married Ann Jason in 1941 (license lists John and Maria Antonia as deceased); d. Feb 1975, Scranton. Named Gaetano, apparently after great-grandfather Gaetano di Marino."
 }

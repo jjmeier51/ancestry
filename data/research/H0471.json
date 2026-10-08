@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0471.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -29,7 +33,7 @@
     "Thomas Pell, 1st Lord of Pelham Manor"
   ],
   "occupation": "Physician; founder of Westchester and purchaser of Pelham",
-  "bio": "English-born physician who bought Pelham and founded the town of Westchester (1654) ([R4-S1]). Second husband of Lucy Brewster; an in-law with no blood tie to John.",
+  "bio": "Thomas Pell (1608–1669), known as the 1st Lord of Pelham Manor, was an English-born physician who purchased Pelham and founded the town of Westchester in 1654. He was the second husband of Lucy Brewster. He died on 21 September 1669. He is connected to John's family only by marriage and has no blood tie to John.",
   "sources": [
     "[R4-S1] Wikipedia, 'Thomas Pell' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Thomas_Pell"
   ],
@@ -43,5 +47,7 @@
       "note": "Reusable under CC BY-SA 4.0 but not downloaded (in-law; modern drawing). (not downloaded: rights cc (CC BY-SA 4.0))",
       "people": []
     }
-  ]
+  ],
+  "researchNotes": "English-born physician who bought Pelham and founded the town of Westchester (1654) ([R4-S1]). Second husband of Lucy Brewster; an in-law with no blood tie to John.",
+  "summary": "English-born physician, 1st Lord of Pelham Manor and founder of the town of Westchester; second husband of Lucy Brewster, an in-law with no blood tie to John."
 }

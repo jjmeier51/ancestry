@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th great-uncle; infant brother of Maria Anna, died weeks after their father.",
-  "bio": "A small child, 'ehelicher Sohn des verstorbenen … Schreiners Servaz Birkenmaier, und der Agatha geb. Heizler'; died about three weeks after his father (19 Apr 1853).",
+  "summary": "Infant son of the Munzingen carpenter Servaz Birkenmaier, who died in 1853 only weeks after his father; John's 4th great-uncle.",
+  "bio": "Heinrich Birkenmaier was born in 1852 at Munzingen in Baden, the legitimate son of the carpenter Servaz Birkenmaier and his wife Agatha Heizler, and a younger brother of Maria Anna. He died at Munzingen in May 1853, still a small child, about three weeks after his father, who had died on 19 April. He was John's 4th great-uncle.",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), deaths 1853 No. 9 http://www.landesarchiv-bw.de/plink/?f=5-480947-286",
     "notes/round3/german_origins.md"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0033.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "A small child, 'ehelicher Sohn des verstorbenen … Schreiners Servaz Birkenmaier, und der Agatha geb. Heizler'; died about three weeks after his father (19 Apr 1853)."
 }

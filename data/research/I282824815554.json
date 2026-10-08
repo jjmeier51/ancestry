@@ -24,6 +24,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815554.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -38,7 +42,7 @@
       "description": "Married Francesca Orlando [R4-S2]"
     }
   ],
-  "bio": "Francesco Maria was baptized on 22 July 1793, son of Angelo Moraca and Rosanna Marasco ([R4-S1]). He married Francesca Orlando on 16 March 1819 ([R4-S2]) and died on 23 February 1837, aged about 43 (recorded as 40) ([R4-S3]).",
+  "bio": "Francesco Maria Moraca was baptized on 22 July 1793 at San Mango D'Aquino, Catanzaro, Calabria, Italy, the son of Angelo Moraca and Rosanna Marasco. He married Francesca Orlando on 16 March 1819 at San Mango d'Aquino. He died there on 23 February 1837, aged about 43, though the death record gave his age as 40. He is John's 4th-great-grandfather.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): Baptism, marriage and death all indexed and consistent; daughter Rosa's records name him."
@@ -47,5 +51,7 @@
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 191, p. 376, no. 39; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 13, p. 19, no. 1; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino, stato civile, Civil deaths 1837, image 1125, act 5, 23 Feb 1837; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Francesco Maria was baptized on 22 July 1793, son of Angelo Moraca and Rosanna Marasco ([R4-S1]). He married Francesca Orlando on 16 March 1819 ([R4-S2]) and died on 23 February 1837, aged about 43 (recorded as 40) ([R4-S3]).",
+  "summary": "Francesco Maria Moraca (1793–1837) of San Mango D'Aquino, husband of Francesca Orlando; John's 4th-great-grandfather."
 }

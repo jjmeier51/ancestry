@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282824815672 (proven); parent of I282824815661 (proven)."
   },
   "tags": [],
-  "summary": "Wife of Giovanni Antonio Colosimo; mother of Candida (1715), Matteo Nunziato (1718) and Giovanna Santa (1721)",
-  "bio": "Wife of Giovanni Antonio Colosimo; mother of Candida (1715), Matteo Nunziato (1718) and Giovanna Santa (1721). Direct ancestor.",
+  "summary": "Wife of Giovanni Antonio Colosimo and mother of Candida, Matteo Nunziato and Giovanna Santa; John's 7th-great-grandmother.",
+  "bio": "Fenice Rizulo, whose surname is also written Ripolo, was the wife of Giovanni Antonio Colosimo. Their children were Candida, born in 1715, Matteo Nunziato, born in 1718, and Giovanna Santa, born in 1721. She is John's 7th-great-grandmother.",
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 13, p. 8, no. 1; image 26, p. 20, no. 9; image 37, p. 31, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
   ],
@@ -15,6 +15,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-811 → M0061; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Wife of Giovanni Antonio Colosimo; mother of Candida (1715), Matteo Nunziato (1718) and Giovanna Santa (1721). Direct ancestor."
 }

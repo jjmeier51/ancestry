@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 2nd cousin 7x removed; president of the LDS French Mission.",
-  "bio": "Andrew Losee Lamoreaux (1812-1855), via Daniel Lamoureux -> Joshua (b. 1739; Loyalist; New Brunswick, then Scarborough near Toronto) -> John McCord Lamoreaux -> Andrew. President of the LDS French Mission; died of cholera at St. Louis while bringing converts west. The Utah branch descends from Joshua (1919 book).\n\nA. J. Lamoureux's Lamoureux Record (1919) says Joshua Lamoureux, youngest son of Daniel, married Elizabeth Ogden (b. 1738) in Dutchess Co., lived for a time in New Brunswick and then settled near Scarborough, York Co., Upper Canada. It says 'the Utah branch' descends from him through 'Andrew Lacy and David Burlock Lamoreaux who went to that territory with Brigham Young' ([R4-S1]). This supports the site's line through Joshua. The 1919 author's 'Andrew Lacy' is evidently Andrew Losee Lamoreaux. Andrew died in 1855, so 'went to that territory with Brigham Young' is loose for him: he died at St. Louis on the way.",
+  "summary": "President of the Latter-day Saints' French Mission, who died of cholera at St. Louis in 1855 while leading converts west; probably John's 2nd cousin 7 times removed.",
+  "bio": "Andrew Losee Lamoreaux was born in 1812, a son of John McCord Lamoreaux and a grandson of Joshua Lamoureux, the youngest son of Daniel Lamoureux. Joshua, born in 1739, married Elizabeth Ogden, born in 1738, in Dutchess County; a Loyalist, he lived for a time in New Brunswick and then settled near Scarborough, York County, Upper Canada, close to Toronto. The Utah branch of the family descends from Joshua through Andrew and David Burlock Lamoreaux, who, as a family history of 1919 put it, \"went to that territory with Brigham Young\".\n\nAndrew became president of the French Mission of the Latter-day Saints. He died of cholera at St. Louis, Missouri, in 1855 while bringing converts west, so he never reached Utah himself; the family history, which calls him \"Andrew Lacy\", was speaking loosely when it said he went there with Brigham Young.",
   "sources": [
     "LDS Church History Biographical Database",
     "Joseph Smith Papers",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0192.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -57,5 +61,6 @@
   ],
   "openQuestions": [
     "Wikipedia (Andrew L. Lamoreaux) could not be checked this round: HTTP 429 rate limit."
-  ]
+  ],
+  "researchNotes": "Andrew Losee Lamoreaux (1812-1855), via Daniel Lamoureux -> Joshua (b. 1739; Loyalist; New Brunswick, then Scarborough near Toronto) -> John McCord Lamoreaux -> Andrew. President of the LDS French Mission; died of cholera at St. Louis while bringing converts west. The Utah branch descends from Joshua (1919 book).\n\nA. J. Lamoureux's Lamoureux Record (1919) says Joshua Lamoureux, youngest son of Daniel, married Elizabeth Ogden (b. 1738) in Dutchess Co., lived for a time in New Brunswick and then settled near Scarborough, York Co., Upper Canada. It says 'the Utah branch' descends from him through 'Andrew Lacy and David Burlock Lamoreaux who went to that territory with Brigham Young' ([R4-S1]). This supports the site's line through Joshua. The 1919 author's 'Andrew Lacy' is evidently Andrew Losee Lamoreaux. Andrew died in 1855, so 'went to that territory with Brigham Young' is loose for him: he died at St. Louis on the way."
 }

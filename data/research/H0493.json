@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0493.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -48,9 +52,11 @@
       "description": "Licensed 1735; withdrew c.1748 for intemperance; restored and ordained at Moriches 6 Nov 1755; dismissed 1763; led emigrants to Blooming Grove, Orange Co.; pastor at Brattleboro c.1767/70-1794. [R4-S1]"
     }
   ],
-  "bio": "Dexter ([R4-S1]) makes him a son of Thomas and Bethia (Horton) Reeve of Southold. His candid biography includes two removals for drink, a recovery through Rev. William Throop, and a late, sober pastorate at Brattleboro, where Hayes ([R4-S2]) says he was remembered as 'a fine-looking man, well built, large and portly'. In 1763 he led 'a company of emigrants' from Moriches to Blooming Grove, Orange County, the same move that may have carried John's Tuthill and Smith ancestors to the Clove (Round 2). His stepmother was Mary Wells, granddaughter of William Wells.",
+  "bio": "Abner Reeve was born at Southold, New York, on 21 February 1707/8, the son of Thomas and Bethia (Horton) Reeve of Southold. His stepmother was Mary Wells, granddaughter of William Wells. He graduated from Yale in 1731 and spent his life as a Presbyterian and Congregational minister, serving from 1735 to 1794 at Nissequogue in Smithtown, at Moriches, at Blooming Grove and at Brattleboro. He married three times: at Southold in 1732, at Brookhaven in December 1743 and at Southampton in 1761.\n\nHis life was a candid one. He was twice removed from his pulpit for drink, recovered through the help of Rev. William Throop, and went on to a late, sober pastorate at Brattleboro, where he was remembered as 'a fine-looking man, well built, large and portly'. In 1763 he led 'a company of emigrants' from Moriches to Blooming Grove in Orange County, the same move that may have carried John's Tuthill and Smith ancestors to the Clove. He died at Brattleboro, Vermont, on 6 May 1798 and was buried in the Old Burial Ground on the hill above the Wells homestead in West Brattleboro.",
   "sources": [
     "[R4-S1] F. B. Dexter, Biographical Sketches of the Graduates of Yale College, vol. 1 (1885) (archive.org full text), pp. 434-435 (secondary) https://archive.org/details/biogsketchgrad01dextuoft",
     "[R4-S2] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), c. pp. 94-95 (note to ch. VII) (secondary) https://archive.org/details/williamwellsofso00byuhaye"
-  ]
+  ],
+  "researchNotes": "Dexter ([R4-S1]) makes him a son of Thomas and Bethia (Horton) Reeve of Southold. His candid biography includes two removals for drink, a recovery through Rev. William Throop, and a late, sober pastorate at Brattleboro, where Hayes ([R4-S2]) says he was remembered as 'a fine-looking man, well built, large and portly'. In 1763 he led 'a company of emigrants' from Moriches to Blooming Grove, Orange County, the same move that may have carried John's Tuthill and Smith ancestors to the Clove (Round 2). His stepmother was Mary Wells, granddaughter of William Wells.",
+  "summary": "Long Island-born minister who led settlers from Moriches to Blooming Grove in 1763 and ended his days as pastor at Brattleboro, Vermont; stepson of Mary Wells."
 }

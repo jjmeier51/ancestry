@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 2nd great-aunt; sister of William F. Meier.",
-  "bio": "Born 29 Jan 1897 in Wilkes-Barre; bookkeeper in 1920 and 1940; living with her parents at 16 Barney St in 1940, aged 42.\n\nMary never married. She was still at 16 Barney Street with her elderly parents in the 1950 census, working as a saleswoman in a retail clothing store ([R4-S2]). The 1962 Pennsylvania death index has 'MEIER MARY C, 65, WLKS BRE, county 40, died 02/10/62, file 016450' ([R4-S1]). This confirms the FamilySearch date of 10 Feb 1962. She was buried at St Mary's, Hanover Township ([R4-S3]).",
+  "summary": "Sister of William F. Meier and John's 2nd great-aunt, a Wilkes-Barre bookkeeper who never married and stayed in the family home on Barney Street.",
+  "bio": "Mary C. Meier was born in Wilkes-Barre, Luzerne County, Pennsylvania, on 29 January 1897, a sister of William F. Meier and John's 2nd great-aunt. She worked as a bookkeeper, in 1920 and again in 1940, and never married. She remained in the family home on Barney Street with her parents, who were elderly by 1950, when she was working as a saleswoman in a retail clothing store.\n\nMary died at Wilkes-Barre on 10 February 1962, aged 65, and was buried at St. Mary's Cemetery in Hanover Township.",
   "sources": [
     "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
     "1910, 1920, 1940 census images",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0014.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -79,5 +83,6 @@
         "I282608064820"
       ]
     }
-  ]
+  ],
+  "researchNotes": "Born 29 Jan 1897 in Wilkes-Barre; bookkeeper in 1920 and 1940; living with her parents at 16 Barney St in 1940, aged 42.\n\nMary never married. She was still at 16 Barney Street with her elderly parents in the 1950 census, working as a saleswoman in a retail clothing store ([R4-S2]). The 1962 Pennsylvania death index has 'MEIER MARY C, 65, WLKS BRE, county 40, died 02/10/62, file 016450' ([R4-S1]). This confirms the FamilySearch date of 10 Feb 1962. She was buried at St Mary's, Hanover Township ([R4-S3])."
 }

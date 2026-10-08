@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 4th great-aunt; sister of Maria Anna Birkenmayer.",
-  "bio": "Second Rosa; died 1845.",
+  "summary": "Infant daughter of the Birkenmayer family of Munzingen who died in 1845; sister of Maria Anna Birkenmayer and John's 4th great-aunt.",
+  "bio": "Rosa Birkenmayer was born at Munzingen, near Freiburg in Baden, in 1844 and died there the following year, in 1845. She was the second child of the family to be given the name Rosa, and a sister of Maria Anna Birkenmayer, which makes her John's 4th great-aunt.",
   "sources": [
     "FamilySearch G921-2R4",
     "notes/round3/meier_line.md"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0031.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Second Rosa; died 1845."
 }

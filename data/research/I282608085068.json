@@ -14,7 +14,7 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 3rd great-uncle; youngest child of Friedrich and Maria.",
+  "summary": "Youngest child of Friedrich and Maria Mayer, an Allentown merchant who later returned to Hazleton; John's 3rd-great-uncle.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "notes/round3/meier_line.md",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085068.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "merchant (1918)",
@@ -72,7 +76,7 @@
       "value": "G7GQ-JPJ"
     }
   ],
-  "bio": "Both of John Joseph's draft cards confirm his birth on 9 April 1883 at Hazleton. In 1918 he was a 35-year-old merchant with his own business at 1013 Hamilton Street, Allentown. He lived at 519 Turner Street, and his nearest relative was Mary Meier at the same address, probably his wife ([R4-S1]). By April 1942 he was 59, unemployed, and gave his home as 350 Kiefer Avenue, Hazleton. The person who would always know his address was 'Mrs. John Brill' at that house. Oddly, the card was stamped by Local Board No. 2 of Clarion County at Sligo, PA, so he was probably working or staying in western Pennsylvania when he registered ([R4-S2]). The registrar noted two scars on the back of his head. FamilySearch has his death on 2 Oct 1966 at Maple Shade, NJ (SSDI) and burial at Hazleton ([R4-S3]).",
+  "bio": "John Joseph Meier, the youngest child of Friedrich and Maria Mayer, was born at Hazleton, Pennsylvania, on 9 April 1883. When he registered for the draft in 1918 he was a 35-year-old merchant with his own business on Hamilton Street in Allentown, living on Turner Street with a Mary Meier, probably his wife. By April 1942, when he registered again in the Second World War's draft of older men, he was 59 and out of work and gave his home as Hazleton, where a Mrs. John Brill lived at the same house; his card was stamped by the Clarion County board at Sligo, so he was probably working or staying in western Pennsylvania at the time. The registrar described him as five feet nine inches tall and 150 pounds, with two scars on the back of his head. He died at Maple Shade Township, New Jersey, on 2 October 1966 and was buried at Hazleton. He is John's 3rd-great-uncle.",
   "openQuestions": [
     "Who was Mary Meier of 519 Turner St, Allentown (1918): a wife? A 1920 Allentown census search for John J. and Mary Meier is needed.",
     "Who was Mrs. John Brill of 350 Kiefer Ave, Hazleton (1942)? Possibly a niece."
@@ -98,5 +102,6 @@
       "people": [],
       "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-JPJ/images/i/0/image.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Both of John Joseph's draft cards confirm his birth on 9 April 1883 at Hazleton. In 1918 he was a 35-year-old merchant with his own business at 1013 Hamilton Street, Allentown. He lived at 519 Turner Street, and his nearest relative was Mary Meier at the same address, probably his wife ([R4-S1]). By April 1942 he was 59, unemployed, and gave his home as 350 Kiefer Avenue, Hazleton. The person who would always know his address was 'Mrs. John Brill' at that house. Oddly, the card was stamped by Local Board No. 2 of Clarion County at Sligo, PA, so he was probably working or staying in western Pennsylvania when he registered ([R4-S2]). The registrar noted two scars on the back of his head. FamilySearch has his death on 2 Oct 1966 at Maple Shade, NJ (SSDI) and burial at Hazleton ([R4-S3])."
 }

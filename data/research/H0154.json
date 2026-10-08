@@ -10,8 +10,8 @@
     "Keturah Robbins"
   ],
   "tags": [],
-  "summary": "Probably John's 1st cousin 5x removed.",
-  "bio": "'Caturah', 17, in Hulda Pringle's 1850 household; probably Keturah (Pringle) Robbins, wife of Charles Robbins, whose daughter Lulu married Charles W. Honeywell, Plymouth tax collector 1889-92.\n\nFamilySearch tree K86Y-ZB8 gives Keturah's birth as 7 Oct 1835. (The tree misplaces Plymouth in Philadelphia Co.; it is Plymouth, Luzerne Co.) Her first husband was Charles Carter Robbins (1829-1878, d. Hanover Twp. 23 Sep 1878). Their children: Emily (b. 17 Sep 1855, d. 1930), Ella (b. 21 Jun 1859, d. 1919), Lulu M. (b. Nanticoke 20 Aug 1862, d. 1950; she married Charles W. Honeywell), Byron S. (b. 11 Sep 1870, d. 1951) and Clarence Howard (b. 25 Aug 1873, d. 1959). On 19 Sep 1883 she married Philip Manhart (1823-1910). He is evidently the 'Philip Minchart, 26, carpenter' who lived in her mother's house in 1850. She died at Plymouth on 15 Aug 1900 and was buried in Hanover Twp. on 17 Aug 1900. Find a Grave indexes her as 'Robbins Manhart' ([R4-S1]). The 1880 census entry is indexed as 'Toura Robbins'.",
+  "summary": "Of Plymouth, Pennsylvania, wife of Charles Carter Robbins and later of Philip Manhart; probably John's 1st cousin 5x removed.",
+  "bio": "Keturah Pringle was born in Pennsylvania about 1833, or by family record on 7 October 1835. In 1850, as 'Caturah', aged 17, she was in the Plymouth household of her mother, Hulda Pringle. She married Charles Carter Robbins (1829–1878), who died in Hanover Township on 23 September 1878. Their children were Emily (1855–1930), Ella (1859–1919), Lulu M. (born at Nanticoke in 1862, died 1950), who married Charles W. Honeywell, Plymouth's tax collector from 1889 to 1892, Byron S. (1870–1951) and Clarence Howard (1873–1959).\n\nOn 19 September 1883, in Columbia County, she married Philip Manhart (1823–1910), evidently the 'Philip Minchart, 26, carpenter' who had lived in her mother's house in 1850. She died at Plymouth on 15 August 1900 and was buried in Hanover Township two days later.",
   "sources": [
     "1850 census dwelling 942",
     "Bradsby",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0154.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -75,5 +79,6 @@
       "place": "Columbia Co., PA",
       "description": "Married Philip Manhart (1823-1910) as his/her second marriage. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "'Caturah', 17, in Hulda Pringle's 1850 household; probably Keturah (Pringle) Robbins, wife of Charles Robbins, whose daughter Lulu married Charles W. Honeywell, Plymouth tax collector 1889-92.\n\nFamilySearch tree K86Y-ZB8 gives Keturah's birth as 7 Oct 1835. (The tree misplaces Plymouth in Philadelphia Co.; it is Plymouth, Luzerne Co.) Her first husband was Charles Carter Robbins (1829-1878, d. Hanover Twp. 23 Sep 1878). Their children: Emily (b. 17 Sep 1855, d. 1930), Ella (b. 21 Jun 1859, d. 1919), Lulu M. (b. Nanticoke 20 Aug 1862, d. 1950; she married Charles W. Honeywell), Byron S. (b. 11 Sep 1870, d. 1951) and Clarence Howard (b. 25 Aug 1873, d. 1959). On 19 Sep 1883 she married Philip Manhart (1823-1910). He is evidently the 'Philip Minchart, 26, carpenter' who lived in her mother's house in 1850. She died at Plymouth on 15 Aug 1900 and was buried in Hanover Twp. on 17 Aug 1900. Find a Grave indexes her as 'Robbins Manhart' ([R4-S1]). The 1880 census entry is indexed as 'Toura Robbins'."
 }

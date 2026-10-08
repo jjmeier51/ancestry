@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 4th great-aunt; youngest sibling of Friedrich Mayer.",
-  "bio": "Married Joseph Spinner; their son Franz (b. 1870 Freiburg) married Rosalie Lienert at Munzingen in 1897.\n\nPauline was a 22-year-old unmarried day labourer at Munzingen in March 1863, when she was godmother to her brother Friedrich's daughter Franziska ([R4-S2]). Fourteen months later, in May 1864, she had a daughter of her own out of wedlock, Christina Mayer. The entry names Pauline's parents as Heinrich Mayer and Juliana Senn, which confirms her place in the family. Her brother Friedrich and sister Maria Anna (Mrs. Joseph Wenz) were the godparents ([R4-S1]). This child is new to the tree (NEW-104). Whether Christina stayed with her mother after Pauline's marriage to Joseph Spinner, or went to America with Friedrich's family in 1868, is unknown.",
+  "summary": "Youngest sister of Friedrich Mayer, a day labourer at Munzingen who later married Joseph Spinner in Freiburg; John's 4th great-aunt.",
+  "bio": "Pauline Mayer was born on 20 May 1840 at Freiburg im Breisgau in Baden, the youngest of the children of Heinrich Mayer and Juliana Senn and a sister of John's ancestor Friedrich Mayer. In March 1863, a 22-year-old unmarried day labourer at Munzingen, she stood as godmother to her brother Friedrich's daughter Franziska. Fourteen months later, in May 1864, she had a daughter of her own out of wedlock, Christina Mayer; Friedrich and their sister Maria Anna, the wife of Joseph Wenz, were the godparents.\n\nPauline afterwards married Joseph Spinner. Their son Franz, born at Freiburg in 1870, married Rosalie Lienert at Munzingen in 1897. Whether Christina stayed with her mother or went to America with Friedrich's family in 1868 is unknown. Pauline died at Freiburg.",
   "sources": [
     "FamilySearch tree",
     "notes/round3/meier_line.md",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0027.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "day labourer (Taglöhnerin), Munzingen, 1863–64",
@@ -69,5 +73,6 @@
       ],
       "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-471"
     }
-  ]
+  ],
+  "researchNotes": "Married Joseph Spinner; their son Franz (b. 1870 Freiburg) married Rosalie Lienert at Munzingen in 1897.\n\nPauline was a 22-year-old unmarried day labourer at Munzingen in March 1863, when she was godmother to her brother Friedrich's daughter Franziska ([R4-S2]). Fourteen months later, in May 1864, she had a daughter of her own out of wedlock, Christina Mayer. The entry names Pauline's parents as Heinrich Mayer and Juliana Senn, which confirms her place in the family. Her brother Friedrich and sister Maria Anna (Mrs. Joseph Wenz) were the godparents ([R4-S1]). This child is new to the tree (NEW-104). Whether Christina stayed with her mother after Pauline's marriage to Joseph Spinner, or went to America with Friedrich's family in 1868, is unknown."
 }

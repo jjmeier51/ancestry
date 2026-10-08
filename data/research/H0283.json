@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Possibly John's 3rd cousin 8x removed (Bull → Jonathan → Deborah → Joseph → Joseph); SAR patriot buried at Hauppauge.",
-  "bio": "Elder Joseph Blydenburgh, son of a Dutch New Yorker, married Deborah daughter of Jonathan Smith on 8 Jul 1692 (she d. before May 1699), then Catherine DeHart; founded the Blydenburgh homestead at the Branch. This younger Joseph moved to Hauppauge and survived a British search of his house for gold hidden in a churn. SAR-recognized patriot buried in Hauppauge Rural Cemetery.\n\nPelletreau's Blydenburgh family sketch ([R4-S1]) settles the open point: Joseph (1732-1833) was a son of Joseph Blydenburgh 2d and his wife (a Saxton), and Joseph 2d was a child of the immigrant's son Joseph 1st by his second wife 'Collosia' (the Catherine DeHart of other sources), not by Deborah Smith. So Joseph (1732) does not descend from Bull Smith and is not John's blood cousin through that route. His brother Daniel was killed in the French War. He married Nancy Smith, whose parentage is not stated (if she was a Bull Smith, their children would be cousins).",
+  "summary": "Patriot of the Revolution buried at Hauppauge (1732–1833), of the Blydenburgh family of Smithtown; not John's blood cousin through Bull Smith.",
+  "bio": "Joseph Blydenburgh was born in 1732 into the Blydenburgh family of Smithtown. The elder Joseph Blydenburgh, son of a Dutch New Yorker, had married Deborah, daughter of Jonathan Smith, on 8 July 1692 (she died before May 1699) and then Catherine DeHart, called 'Collosia' in one account, and had founded the Blydenburgh homestead at the Branch. Pelletreau's sketch of the family shows that this younger Joseph was a son of Joseph Blydenburgh 2d and his wife, a Saxton, and that Joseph 2d was a child of the second marriage, not of Deborah Smith. Joseph therefore does not descend from Bull Smith and is not John's blood cousin by that route. His brother Daniel was killed in the French War.\n\nJoseph moved to Hauppauge, where he survived a British search of his house for gold hidden in a churn. He married Nancy Smith, whose parentage is not recorded; if she was a Bull Smith, their children would be John's cousins. He is recognized as a patriot by the Sons of the American Revolution. He died in 1833 and was buried in Hauppauge Rural Cemetery.",
   "sources": [
     "Wood (1920) pp. 16, 26–27",
     "jrm Needham I3699, https://jrm.phys.ksu.edu/genealogy/needham/d0002/I3699.html",
@@ -39,6 +39,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0283.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -74,5 +78,6 @@
       "found": "Descends from Joseph 1st's second wife 'Collosia', not Deborah Smith",
       "assessment": "Not kin via Bull Smith; recommend changing to in-law family / not related."
     }
-  ]
+  ],
+  "researchNotes": "Elder Joseph Blydenburgh, son of a Dutch New Yorker, married Deborah daughter of Jonathan Smith on 8 Jul 1692 (she d. before May 1699), then Catherine DeHart; founded the Blydenburgh homestead at the Branch. This younger Joseph moved to Hauppauge and survived a British search of his house for gold hidden in a churn. SAR-recognized patriot buried in Hauppauge Rural Cemetery.\n\nPelletreau's Blydenburgh family sketch ([R4-S1]) settles the open point: Joseph (1732-1833) was a son of Joseph Blydenburgh 2d and his wife (a Saxton), and Joseph 2d was a child of the immigrant's son Joseph 1st by his second wife 'Collosia' (the Catherine DeHart of other sources), not by Deborah Smith. So Joseph (1732) does not descend from Bull Smith and is not John's blood cousin through that route. His brother Daniel was killed in the French War. He married Nancy Smith, whose parentage is not stated (if she was a Bull Smith, their children would be cousins)."
 }

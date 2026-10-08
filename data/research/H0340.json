@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's maternal 4th great-grandmother; Gaetano di Marino's (probably second) wife.",
-  "bio": "Round 2 found the FS tree naming Caterina di Leo as Grazia's mother, conflicting with the Ancestry tree (Maria d'Ambrosio). Round 3 confirmed Caterina from Grazia's death act (Morti 1916 act 22) and Gaetano's death act (Morti 1876 act 20, 'marito di Caterina di Leo'). She was dead by 1916. The surname matches Fr. Nunzio Di Leo, whose will funded Guardia's St. Rocco chapel after the 1656 plague (no proven link).",
+  "summary": "Wife, probably the second, of Gaetano di Marino and mother of Grazia; John's maternal 4th-great-grandmother.",
+  "bio": "Caterina di Leo was the wife, probably the second wife, of Gaetano di Marino and the mother of his daughter Grazia. Gaetano's death record of 1876 describes him as the husband of Caterina di Leo, and Grazia's death record of 1916 names Caterina as her mother; some family records instead give Maria d'Ambrosio as Grazia's mother. Caterina had died by 1916. Her surname is that of Fr. Nunzio Di Leo, whose will funded the St. Rocco chapel at Guardia after the plague of 1656, though no link between them has been proven.",
   "sources": [
     "Antenati, Guardia, Morti 1916, act 22: https://antenati.cultura.gov.it/ark:/12657/an_ua524131/wj7o8Qr",
     "Antenati, Guardia, Morti 1876, act 20: https://antenati.cultura.gov.it/ark:/12657/an_ua524100/wbdvxng",
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0340.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Round 2 found the FS tree naming Caterina di Leo as Grazia's mother, conflicting with the Ancestry tree (Maria d'Ambrosio). Round 3 confirmed Caterina from Grazia's death act (Morti 1916 act 22) and Gaetano's death act (Morti 1876 act 20, 'marito di Caterina di Leo'). She was dead by 1916. The surname matches Fr. Nunzio Di Leo, whose will funded Guardia's St. Rocco chapel after the 1656 plague (no proven link)."
 }

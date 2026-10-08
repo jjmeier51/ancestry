@@ -5,8 +5,8 @@
     "note": "Round 4 (unverified → confirmed): Identity (dates, parents, son Benjamin) is fully documented by the Congressional biography summary and a contemporary newspaper; his kinship to John Meier depends on the Symmes/Tuthill (Long Island) link, which is outside this worklist."
   },
   "tags": [],
-  "summary": "",
-  "bio": "John Scott Harrison (4 Oct 1804 - 25 May 1878) was a son of President William Henry Harrison and Anna Tuthill Symmes, born at Grouseland, Vincennes, and the father of President Benjamin Harrison; he is the only American who was both son and father of a president ([R4-S1]). He studied law but farmed at Point Farm, North Bend, Ohio, and served two terms in Congress (1853-57), first as a Whig and then as an Anti-Nebraska man. He married (1) Lucretia Knapp Johnson in 1824 (three children) and (2) on 12 Aug 1831 Elizabeth Ramsey Irwin (1810-1850), daughter of Archibald Irwin and Mary Ramsey, with whom he had ten children, including Benjamin ([R4-S1]).\n\nHe died suddenly at home in May 1878. The New York Herald of 31 May 1878 carried the Cincinnati telegraph story: the family had seen that a neighbour's grave had been robbed and took 'extraordinary precautions', yet the body was stolen; his son John and grandson George Eaton, searching the Ohio Medical College with a warrant for the other body, hauled up a corpse on a rope and recognised it ('My God, it's father!'). The scandal fed into Ohio's 1881 anatomy law ([R4-S2], [R4-S1]).",
+  "summary": "Ohio farmer and congressman, son of President William Henry Harrison and father of President Benjamin Harrison.",
+  "bio": "John Scott Harrison was born on 4 October 1804 at Grouseland, Vincennes, in the Indiana Territory, a son of President William Henry Harrison and Anna Tuthill Symmes. He was the father of President Benjamin Harrison, which makes him the only American who was both the son and the father of a president. He studied law but chose to farm at Point Farm near North Bend, Ohio, and served two terms in Congress from 1853 to 1857, first as a Whig and then as an Anti-Nebraska man. He married first, in 1824, Lucretia Knapp Johnson, with whom he had three children, and second, on 12 August 1831, Elizabeth Ramsey Irwin (1810-1850), daughter of Archibald Irwin and Mary Ramsey, with whom he had ten children, Benjamin among them.\n\nHe died suddenly at home on 25 May 1878 and was laid in the Harrison family tomb at North Bend. The family had seen that a neighbour's grave had been robbed and took 'extraordinary precautions', yet his body was stolen. On 30 May his son John and grandson George Eaton, searching the Ohio Medical College in Cincinnati with a warrant for the neighbour's body, hauled up a corpse on a rope and recognised it: 'My God, it's father!' The New York Herald carried the story from Cincinnati, and the scandal helped bring about Ohio's anatomy law of 1881.",
   "funFacts": [
     "Only man in U.S. history to be both the son and the father of a president.",
     "The contemporary Herald report says it was his son John (Jr.) with grandson George Eaton who found the body; later retellings often credit Benjamin."
@@ -87,6 +87,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486894.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "photo": "media/I282695486894/john-scott-harrison-portrait.jpg",
@@ -132,5 +136,6 @@
   ],
   "openQuestions": [
     "The roster places him in the pringle_pa line, but his parents/son are tagged long_island; the connection to John is through Anna Tuthill Symmes, not the Pringles/Scotts. Check line assignment."
-  ]
+  ],
+  "researchNotes": "John Scott Harrison (4 Oct 1804 - 25 May 1878) was a son of President William Henry Harrison and Anna Tuthill Symmes, born at Grouseland, Vincennes, and the father of President Benjamin Harrison; he is the only American who was both son and father of a president ([R4-S1]). He studied law but farmed at Point Farm, North Bend, Ohio, and served two terms in Congress (1853-57), first as a Whig and then as an Anti-Nebraska man. He married (1) Lucretia Knapp Johnson in 1824 (three children) and (2) on 12 Aug 1831 Elizabeth Ramsey Irwin (1810-1850), daughter of Archibald Irwin and Mary Ramsey, with whom he had ten children, including Benjamin ([R4-S1]).\n\nHe died suddenly at home in May 1878. The New York Herald of 31 May 1878 carried the Cincinnati telegraph story: the family had seen that a neighbour's grave had been robbed and took 'extraordinary precautions', yet the body was stolen; his son John and grandson George Eaton, searching the Ohio Medical College with a warrant for the other body, hauled up a corpse on a rope and recognised it ('My God, it's father!'). The scandal fed into Ohio's 1881 anatomy law ([R4-S2], [R4-S1])."
 }

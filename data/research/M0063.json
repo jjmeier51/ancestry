@@ -5,8 +5,8 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of M0064 (probable); child of I282695486653 (probable)."
   },
   "tags": [],
-  "summary": "Son of Henry Tuthill (b",
-  "bio": "Son of Henry Tuthill (b. 1690) and grandson of Justice Henry Tuthill (1665-1750). Married 16 Mar 1738 Phoebe Horton (a descendant of Barnabas Horton through three Calebs). Father of Anna Tuthill, wife of Judge John Cleves Symmes and mother of First Lady Anna Symmes Harrison. Akerly says outright that Henry's granddaughter Anna Symmes married President W. H. Harrison.",
+  "summary": "Henry Tuthill (before 1715-1793), husband of Phoebe Horton and grandfather of First Lady Anna Symmes Harrison.",
+  "bio": "Henry Tuthill was born before December 1715, a son of Henry Tuthill (born 1690) and grandson of Justice Henry Tuthill (1665-1750). On 16 March 1738 he married Phoebe Horton, a descendant of Barnabas Horton through three generations of men named Caleb Horton. Their daughter Anna Tuthill married Judge John Cleves Symmes and became the mother of Anna Symmes Harrison, wife of President William Henry Harrison; the Tuthill family history states outright that Henry's granddaughter married the President. Henry died on 17 September 1793.",
   "sources": [
     "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 8-10 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
   ],
@@ -15,6 +15,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-603 → M0063; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Henry Tuthill (b. 1690) and grandson of Justice Henry Tuthill (1665-1750). Married 16 Mar 1738 Phoebe Horton (a descendant of Barnabas Horton through three Calebs). Father of Anna Tuthill, wife of Judge John Cleves Symmes and mother of First Lady Anna Symmes Harrison. Akerly says outright that Henry's granddaughter Anna Symmes married President W. H. Harrison."
 }

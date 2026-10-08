@@ -9,7 +9,7 @@
     "Anna Platt"
   ],
   "tags": [],
-  "summary": "Granddaughter of Job Smith — John's 1st cousin 9x removed (Job → Job 2d → Anna).",
+  "summary": "Granddaughter of Job Smith, widow of Ebenezer Smith and wife of Zephaniah Platt; John's 1st cousin 9 times removed.",
   "sources": [
     "Pelletreau (1898) App. pp. 472, 475",
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog"
@@ -31,12 +31,16 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0277.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
     "date": "1813-03-12"
   },
-  "bio": "Pelletreau ([R4-S1]): 'Anna, widow of Ebenezer Smith, married Zephaniah Platt, and died March 12, 1813.' (The same date is given for her daughter Temperance Platt; one of the two may be an error.) Her children by Ebenezer include Richard 4th, grandfather of Judge J. Lawrence Smith; so she is the link that makes the J. Lawrence Smith family, James Clinch Smith and Bessie Smith White John's cousins through Job Smith 1st.",
+  "bio": "Anna Smith, a daughter of Job Smith 2d and granddaughter of Job Smith, is John's 1st cousin 9 times removed. She married first Ebenezer Smith and, after his death, Zephaniah Platt. She died on 12 March 1813, although the same date is also recorded for her daughter Temperance Platt, so one of the two may be an error.\n\nHer children by Ebenezer included Richard Smith 4th, grandfather of Judge J. Lawrence Smith. It is through Anna that the J. Lawrence Smith family, James Clinch Smith and Bessie Smith White are cousins of John by way of Job Smith.",
   "conflicts": [
     {
       "field": "death.date",
@@ -44,5 +48,6 @@
       "found": "12 Mar 1813 for Anna and also for her daughter Temperance (Pelletreau)",
       "assessment": "Identical dates for mother and daughter suggest a copying error in Pelletreau; verify with gravestones."
     }
-  ]
+  ],
+  "researchNotes": "Pelletreau ([R4-S1]): 'Anna, widow of Ebenezer Smith, married Zephaniah Platt, and died March 12, 1813.' (The same date is given for her daughter Temperance Platt; one of the two may be an error.) Her children by Ebenezer include Richard 4th, grandfather of Judge J. Lawrence Smith; so she is the link that makes the J. Lawrence Smith family, James Clinch Smith and Bessie Smith White John's cousins through Job Smith 1st."
 }

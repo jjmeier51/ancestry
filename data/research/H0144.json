@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "A Kingston-branch Pringle cousin.",
-  "bio": "George Lane Pringle was 'killed by lightning' in 1886 (Harvey Book p.137).\n\nGeorge Lane Pringle was a twin of Caroline, born 20 May 1822 to Thomas Pringle and Elizabeth Harvey. He was probably named for the Rev. George Lane, the Methodist preacher who had married his aunt. He moved with the family to Kingston in 1837 and farmed there all his life. He never married. On 19 Mar 1886, in a severe thunderstorm, he was killed by lightning while walking on the road near a farm he owned in Huntington Twp. ([R4-S1]). The next day the Washington Evening Star carried the news among its telegraph items ([R4-S2]).",
+  "summary": "Kingston farmer (1822–1886), twin son of Thomas Pringle and Elizabeth Harvey, killed by lightning near his Huntington Township farm; a Pringle cousin of John.",
+  "bio": "George Lane Pringle was born on 20 May 1822 at Plymouth, Luzerne Co., PA, the son of Thomas Pringle and Elizabeth Harvey and the twin of Caroline. He was probably named for the Rev. George Lane, the Methodist preacher who had married his aunt. He moved with the family to Kingston in 1837 and farmed there all his life, and he never married. On 19 March 1886, during a severe thunderstorm, he was killed by lightning while walking on the road near a farm he owned in Huntington Twp. The next day the news was carried among the telegraph items of the Washington Evening Star. He belongs to the Kingston branch of John's Pringle cousins.",
   "sources": [
     "Harvey Book p.137",
     "[R4-S1] Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle (secondary) https://archive.org/details/harveybookgiving00harv",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0144.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -68,5 +72,6 @@
       "people": [],
       "url": "https://www.loc.gov/resource/sn83045462/1886-03-20/ed-1/?sp=5"
     }
-  ]
+  ],
+  "researchNotes": "George Lane Pringle was 'killed by lightning' in 1886 (Harvey Book p.137).\n\nGeorge Lane Pringle was a twin of Caroline, born 20 May 1822 to Thomas Pringle and Elizabeth Harvey. He was probably named for the Rev. George Lane, the Methodist preacher who had married his aunt. He moved with the family to Kingston in 1837 and farmed there all his life. He never married. On 19 Mar 1886, in a severe thunderstorm, he was killed by lightning while walking on the road near a farm he owned in Huntington Twp. ([R4-S1]). The next day the Washington Evening Star carried the news among its telegraph items ([R4-S2])."
 }

@@ -14,8 +14,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 11th-great-grandmother; widow of Henry Tuthill who married William Wells.",
-  "bio": "Sailed with Henry in 1637 ('Henry Tuthill and wife'). After his death she married William Wells about 1650, who became guardian of her Tuthill children; her grandson John Tuthill Jr. later married Wells's daughter Mehitable (by Wells's second wife).\n\nAkerly says Henry Tuthill married Bridget in England. She came to America with him, survived him, and married second William Wells, Gent., of Southold; her children John and Elizabeth Tuthill were Wells's wards ([R4-S1]). Savage (via Akerly) says Henry and Bridget both died before 1650.",
+  "summary": "English-born wife of Henry Tuthill who crossed with him in 1637 and later married William Wells of Southold; John's 11th-great-grandmother.",
+  "bio": "Bridget, whose maiden name is unknown, was born in England in April 1614 and married Henry Tuthill there. The couple sailed for America in 1637, recorded simply as \"Henry Tuthill and wife\". After Henry's death she married, about 1650, William Wells, Gent., of Southold, who became guardian of her Tuthill children John and Elizabeth. Years later her grandson John Tuthill Jr. married Mehitable Wells, William's daughter by his second wife. Bridget is said to have died at Southold in 1650, though the accounts of her last years disagree. She is John's 11th-great-grandmother.",
   "sources": [
     "WikiTree Wells-639",
     "McCurdy p16172",
@@ -43,6 +43,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695478210.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Sailed with Henry in 1637 ('Henry Tuthill and wife'). After his death she married William Wells about 1650, who became guardian of her Tuthill children; her grandson John Tuthill Jr. later married Wells's daughter Mehitable (by Wells's second wife).\n\nAkerly says Henry Tuthill married Bridget in England. She came to America with him, survived him, and married second William Wells, Gent., of Southold; her children John and Elizabeth Tuthill were Wells's wards ([R4-S1]). Savage (via Akerly) says Henry and Bridget both died before 1650."
 }

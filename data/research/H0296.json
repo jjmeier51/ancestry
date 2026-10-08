@@ -8,7 +8,7 @@
   "tags": [
     "military"
   ],
-  "summary": "Confederate private (Rockbridge Artillery), U.S. Representative from Virginia 1893–97, Virginia circuit judge; John's 6th cousin 5x removed.",
+  "summary": "Confederate private in the Rockbridge Artillery, U.S. Representative from Virginia 1893–97 and circuit judge; John's 6th cousin 5 times removed.",
   "military": [
     {
       "branch": "Confederate States Army",
@@ -39,6 +39,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0296.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -74,5 +78,6 @@
   "death": {
     "date": "1927-09-05"
   },
-  "bio": "6th cousin 5 times removed (son of Julia Gardiner Tyler, [R4-S2]). Born in New York; Confederate soldier; studied in Germany and Virginia; Virginia State Senator, U.S. Representative (Va. 2nd district) and circuit judge ([R4-S1])."
+  "bio": "David Gardiner Tyler was born on 12 July 1846 in New York, a son of Julia Gardiner Tyler. As a young man he served in the Confederate army as a private in the Rockbridge Artillery. He then studied in Germany and in Virginia and went on to a career in Virginia public life as a state senator, as a member of the U.S. House of Representatives for Virginia's 2nd district from 1893 to 1897, and as a circuit judge. He died on 5 September 1927. Through his mother he is John's 6th cousin 5 times removed.",
+  "researchNotes": "6th cousin 5 times removed (son of Julia Gardiner Tyler, [R4-S2]). Born in New York; Confederate soldier; studied in Germany and Virginia; Virginia State Senator, U.S. Representative (Va. 2nd district) and circuit judge ([R4-S1])."
 }

@@ -16,6 +16,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816515.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -27,7 +31,7 @@
     "Agostina",
     "Faustina"
   ],
-  "bio": "The baptism on the tree's date, 25 February 1797, is of Francesca Angelina Ferlaino, daughter of Giuseppe Antonio Ferlaino and Rosa Gallo ([R4-S1]). Her parents are new to the tree. She married Rosario Iera as 'Agostina' on 26 February 1812, aged about 15 ([R4-S2]). She was buried as Faustina on 3 February 1880 ([R4-S3]). The burial index gives her age as 90 and her late husband as 'Joseph'. That may be an index slip for Rosario, son of Giuseppe. The run of names (Angelina, Agostina, Faustina) needs checking on the images.",
+  "bio": "Francesca Ferlaino was baptized at San Mango d'Aquino on 25 February 1797 as Francesca Angelina, daughter of Giuseppe Antonio Ferlaino and Rosa Gallo. On 26 February 1812, aged about fifteen, she married Rosario Iera, the marriage entry calling her Agostina. She was buried at San Mango on 3 February 1880, this time under the name Faustina, with her age given as 90 and her late husband as 'Joseph', probably a slip for Rosario, who was a son of Giuseppe. The run of different names across her records probably all belongs to one woman, but it has not been fully resolved. She was John's 5th-great-grandmother.",
   "conflicts": [
     {
       "field": "name",
@@ -53,5 +57,7 @@
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 214, p. 418, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 5, p. 4, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1877-1893 (Book 30), image 17, p. 28, no. 4; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1877-1893'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "The baptism on the tree's date, 25 February 1797, is of Francesca Angelina Ferlaino, daughter of Giuseppe Antonio Ferlaino and Rosa Gallo ([R4-S1]). Her parents are new to the tree. She married Rosario Iera as 'Agostina' on 26 February 1812, aged about 15 ([R4-S2]). She was buried as Faustina on 3 February 1880 ([R4-S3]). The burial index gives her age as 90 and her late husband as 'Joseph'. That may be an index slip for Rosario, son of Giuseppe. The run of names (Angelina, Agostina, Faustina) needs checking on the images.",
+  "summary": "Of San Mango d'Aquino, wife of Rosario Iera, known by turns as Angelina, Agostina and Faustina; John's 5th-great-grandmother."
 }

@@ -9,8 +9,8 @@
     "Capt. Effingham Lawrence"
   ],
   "tags": [],
-  "summary": "Commanded a British frigate; Elder Brother of Trinity House; London merchant; John's 3rd cousin 8x removed.",
-  "bio": "Path: Elizabeth → Joseph → Richard → Effingham. His daughter Catharine Maria married Sir John Thomas Jones, 1st Bt, Wellington's engineer.\n\nThird son and seventh child of Richard Lawrence (son of Joseph, son of William & Elizabeth Smith); b. 1734; married Catharine Farmer; moved to London, commanded a British frigate, became an Elder Brother of Trinity House and a merchant at Tower Hill ([R4-S1]). Children: William Effingham, John Curson, Effingham Calvert, Edward Billop and Catharine Maria (wife of Sir John Thomas Jones, Bt, Wellington's aide). 3rd cousin 8 times removed. Note: the Wikipedia article 'Effingham Lawrence' is a different man (Louisiana congressman, 1820-1878).",
+  "summary": "Frigate captain, Elder Brother of Trinity House and London merchant, born in 1734; John's 3rd cousin 8 times removed.",
+  "bio": "Capt. Effingham Lawrence was born in 1734, the third son and seventh child of Richard Lawrence, whose father Joseph was a son of William Lawrence and Elizabeth Smith; through that line he was John's 3rd cousin 8 times removed. He married Catharine Farmer and moved to London, where he commanded a British frigate, became an Elder Brother of Trinity House and traded as a merchant at Tower Hill. He died about 1805.\n\nHis children were William Effingham, John Curson, Effingham Calvert, Edward Billop and Catharine Maria, who married Sir John Thomas Jones, 1st Baronet, the engineer who served under Wellington. He was not the Effingham Lawrence (1820-1878) who sat in Congress for Louisiana.",
   "sources": [
     "Lawrence (1858)",
     "[R4-S1] Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 48-49 (secondary) https://archive.org/details/historicalgeneal00lawr"
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0308.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -43,5 +47,6 @@
       "place": "Tower Hill, London",
       "note": "[R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Path: Elizabeth → Joseph → Richard → Effingham. His daughter Catharine Maria married Sir John Thomas Jones, 1st Bt, Wellington's engineer.\n\nThird son and seventh child of Richard Lawrence (son of Joseph, son of William & Elizabeth Smith); b. 1734; married Catharine Farmer; moved to London, commanded a British frigate, became an Elder Brother of Trinity House and a merchant at Tower Hill ([R4-S1]). Children: William Effingham, John Curson, Effingham Calvert, Edward Billop and Catharine Maria (wife of Sir John Thomas Jones, Bt, Wellington's aide). 3rd cousin 8 times removed. Note: the Wikipedia article 'Effingham Lawrence' is a different man (Louisiana congressman, 1820-1878)."
 }

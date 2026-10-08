@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1912, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives Katherine (Catherine) a birth year of 1911 and records her marriage in Luzerne Co. on 20 Jun 1936 to Daniel F. Toole (1911-1996). It places her in Wilkes-Barre in 1950 and gives 1969 as her death year ([R4-S1]). Since she was born in 1911, she was presumably the youngest child, not 'about 1912'. A WWII draft card for 'Catherine Toole' is attached, which probably means she was named as the contact on her husband's card.",
+  "summary": "Youngest child of Addison Pringle and Catherine Heffernan, wife of Daniel F. Toole; sister of John's great-grandmother Florence Pringle.",
+  "bio": "Catherine Pringle, also written Katherine, was a daughter of Addison F. Pringle and Catherine E. Heffernan and a sister of John's great-grandmother Florence Pringle, which makes her John's great-grand-aunt. She was born in Pennsylvania in 1911, or about 1912 by some accounts, and was presumably the youngest of the family, which lived in the Plymouth and Larksville area. On 20 June 1936 she married Daniel F. Toole (1911-1996) in Luzerne County. She was living in Wilkes-Barre in 1950 and died in 1969.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
     "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0109.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -71,5 +75,6 @@
       "label": "FamilySearch ID",
       "value": "GQ6X-VZG"
     }
-  ]
+  ],
+  "researchNotes": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1912, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives Katherine (Catherine) a birth year of 1911 and records her marriage in Luzerne Co. on 20 Jun 1936 to Daniel F. Toole (1911-1996). It places her in Wilkes-Barre in 1950 and gives 1969 as her death year ([R4-S1]). Since she was born in 1911, she was presumably the youngest child, not 'about 1912'. A WWII draft card for 'Catherine Toole' is attached, which probably means she was named as the contact on her husband's card."
 }

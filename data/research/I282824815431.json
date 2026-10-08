@@ -5,8 +5,8 @@
     "note": "Tree only; unsupported pedigree (Vecchio has 10 entries in San Mango stati but this couple not shown)."
   },
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Guercio pedigree.",
-  "bio": "Tree: Cecilia Vecchio (1718-). Profile shows the coat of arms. Vecchio is not on the modern San Mango surname list but has 10 entries in the 1674-1804 stati.",
+  "summary": "Cecilia Vecchio, born about 1718, an ancestor in the Guercio pedigree, which is not supported by records.",
+  "bio": "Cecilia Vecchio was born about 1718. She belongs to the Guercio pedigree, which has not been supported by any records, although the Vecchio surname does appear in the San Mango parish census lists of 1674 to 1804.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815431.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Cecilia Vecchio (1718-). Profile shows the coat of arms. Vecchio is not on the modern San Mango surname list but has 10 entries in the 1674-1804 stati."
 }

@@ -9,8 +9,8 @@
     "Anar Turner"
   ],
   "tags": [],
-  "summary": "Possible 6th-great-grandmother of John - a lead only.",
-  "bio": "'Anar' [Hannah] Turner married James Prindle of Newtown on 22 Jan 1759 (Prindle Genealogy p.41).\n\nThe Newtown church register records the marriage of James Prindle and 'Anar Turner' on 22 Jan 1759 ([R4-S1], image already held under James Prindle). FamilySearch identifies her as Hannah Turner, daughter of Samuel Turner (1713-1794) and Rebeckah Cheesebrough, born at New London on 7 Sep 1738, and says she died on 19 Jul 1838 aged 99 and was buried at Stonington ([R4-S2]). That identification is doubtful: the same FamilySearch family also has a sister 'Anna Turner' born in 1740, and 'Anar' is a closer spelling of Anna/Anner than of Hannah. Her attached birth records are indexed under both 'Anner Turner' and 'Hannah Turner'. The death and burial carry no source, and a widow of a Newtown man buried in Stonington at 99 needs proof. FamilySearch also gives her children born in 1754 and 1757, before the 1759 marriage, so those two (James 'Pringle' 1754-1828 and David 1757) cannot be hers unless the marriage date is wrong. The other children are Benjamin (1764), Samuel (c.1767, our Samuel Pringle) and Hannah (1773).",
+  "summary": "Wife of James Prindle of Newtown, Connecticut, married in 1759 as \"Anar Turner\"; possibly John's 6th-great-grandmother, though her identity is uncertain.",
+  "bio": "Hannah Turner, recorded as \"Anar Turner\", married James Prindle of Newtown, Connecticut, on 22 January 1759, according to the Newtown church register. She has been identified as Hannah Turner, a daughter of Samuel Turner (1713-1794) and Rebeckah Cheesebrough, born at New London on 7 September 1738, who is said to have died on 19 July 1838 aged 99 and to have been buried at Stonington.\n\nThat identification is doubtful. The same Turner family also had a daughter Anna born in 1740, and \"Anar\" is a closer spelling of Anna or Anner than of Hannah; her birth records are indexed under both names, and the death and burial of a Newtown man's widow at Stonington at the age of 99 are not supported by any source. The children attributed to the marriage include James \"Pringle\" (1754-1828) and David (born 1757), who were born before the 1759 wedding and so cannot be hers unless the marriage date is wrong, as well as Benjamin (1764), Samuel (about 1767), John's ancestor, and Hannah (1773). She is a possible 6th-great-grandmother of John, no more.",
   "sources": [
     "The Prindle Genealogy (1906) p.41",
     "[R4-S1] Newtown, Conn., church register, marriage of James Prindle and Anar Turner, 22 Jan 1759 (FS Connecticut Church Records ark 1:1:QGR1-ZV95) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L8MP-W4X/images/i/2/image.jpg",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0103.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -68,5 +72,6 @@
   ],
   "openQuestions": [
     "Was 'Anar' Hannah (b. 1738) or Anna/Anner (b. 1740) Turner? Check the New London/Stonington birth entries and any Newtown probate of James Prindle (1800) naming his widow."
-  ]
+  ],
+  "researchNotes": "'Anar' [Hannah] Turner married James Prindle of Newtown on 22 Jan 1759 (Prindle Genealogy p.41).\n\nThe Newtown church register records the marriage of James Prindle and 'Anar Turner' on 22 Jan 1759 ([R4-S1], image already held under James Prindle). FamilySearch identifies her as Hannah Turner, daughter of Samuel Turner (1713-1794) and Rebeckah Cheesebrough, born at New London on 7 Sep 1738, and says she died on 19 Jul 1838 aged 99 and was buried at Stonington ([R4-S2]). That identification is doubtful: the same FamilySearch family also has a sister 'Anna Turner' born in 1740, and 'Anar' is a closer spelling of Anna/Anner than of Hannah. Her attached birth records are indexed under both 'Anner Turner' and 'Hannah Turner'. The death and burial carry no source, and a widow of a Newtown man buried in Stonington at 99 needs proof. FamilySearch also gives her children born in 1754 and 1757, before the 1759 marriage, so those two (James 'Pringle' 1754-1828 and David 1757) cannot be hers unless the marriage date is wrong. The other children are Benjamin (1764), Samuel (c.1767, our Samuel Pringle) and Hannah (1773)."
 }

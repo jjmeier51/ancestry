@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "The other Scranton Frank Cognetti, from Nicastro; ruled out.",
-  "bio": "Son of Bruno Cognetto; married Maria Grazia Paradiso ('Mary Grace Paradise'); children Bruno, Jane, Antoinette, Anthony (1929-2013), Russell and Victor L.",
+  "summary": "A Scranton Frank Cognetti from Nicastro who was a different man from John's relative of the same name.",
+  "bio": "Frank Cognetti was born in 1894 at Nicastro (now Lamezia Terme) in Catanzaro, Calabria, Italy, the son of Bruno Cognetto. He settled in Scranton, Pennsylvania, and married Maria Grazia Paradiso, known in America as Mary Grace Paradise. Their children were Bruno, Jane, Antoinette, Anthony (1929–2013), Russell and Victor L. He died in 1978. He shared his name and his adopted city with a Frank Cognetti in John's family, but he was not the same man and is not a proven relative.",
   "sources": [
     "FS tree P7MS-NB2: https://ancestors.familysearch.org/en/P7MS-NB2",
     "Victor L. Cognetti obituary: https://www.legacy.com/us/obituaries/name/victor-cognetti-obituary?id=59852747"
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0381.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Bruno Cognetto; married Maria Grazia Paradiso ('Mary Grace Paradise'); children Bruno, Jane, Antoinette, Anthony (1929-2013), Russell and Victor L."
 }

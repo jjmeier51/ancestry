@@ -9,7 +9,7 @@
     "Hannah Tuthill"
   ],
   "tags": [],
-  "summary": "Tree error: wife of Joshua Tuthill, not of James; not an ancestor.",
+  "summary": "Daughter of Maj. James Reeve of Mattituck and wife of Joshua Tuthill of Cutchogue; not an ancestor of John.",
   "facts": [
     {
       "label": "Tree shows",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486799.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -58,7 +62,7 @@
       "url": "https://www.wikitree.com/wiki/Reeve-571"
     }
   ],
-  "bio": "Akerly (1898): Hannah, daughter of Maj. James Reeve of Mattituck, was the wife of Joshua Tuthill (b. 1690, d. 2 June 1782) of Cutchogue. She died 8 Mar 1764, aged 64 ([R4-S1]). She was not the wife of James Tuthill, as the tree has it.",
+  "bio": "Hannah Reeve was born at Mattituck, Long Island, on 3 June 1699, the daughter of Maj. James Reeve of Mattituck and Deborah Satterly. She married Joshua Tuthill of Cutchogue, who was born in 1690 and died on 2 June 1782. She died at Cutchogue in March 1764, aged 64; family records give the day as the 18th and Akerly's history as the 8th. She was the wife of Joshua Tuthill, not of James Tuthill as family records have it, and so she is not one of John's ancestors.",
   "conflicts": [
     {
       "field": "spouse",
@@ -72,5 +76,6 @@
       "found": "8 Mch. 1764, ae. 64",
       "assessment": "Akerly says 8 March; check the gravestone."
     }
-  ]
+  ],
+  "researchNotes": "Akerly (1898): Hannah, daughter of Maj. James Reeve of Mattituck, was the wife of Joshua Tuthill (b. 1690, d. 2 June 1782) of Cutchogue. She died 8 Mar 1764, aged 64 ([R4-S1]). She was not the wife of James Tuthill, as the tree has it."
 }

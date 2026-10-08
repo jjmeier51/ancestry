@@ -24,6 +24,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815737.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -48,7 +52,7 @@
       "description": "Married Maria Luigia Rametta [R4-S3]"
     }
   ],
-  "bio": "Raffaele was baptized on 27 August 1821, son of Luigi Colosimo and Carmela Moraca ([R4-S1]). He married Filippina Iera on 24 March 1839, aged only 17 ([R4-S2]). They had at least ten children between 1840 and 1866, including John's ancestor Saveria (1848) ([R4-S5]). Filippina died in 1871. In October 1872 Raffaele remarried Maria Luigia Rametta (indexed as Barretta at a son's 1873 baptism) ([R4-S3], [R4-S5]). He was buried at San Mango on 18 January 1899 ([R4-S4]). The burial gives his age as 89, but by his baptism he was 77.",
+  "bio": "Raffaele Colosimo was baptized at San Mango d'Aquino on 27 August 1821, the son of Luigi Colosimo and Carmela Moraca. On 24 March 1839, when he was only seventeen, he married Filippina Iera. They had at least ten children between 1840 and 1866, among them John's ancestor Saveria, born in 1848.\n\nFilippina died in 1871, and in October 1872 Raffaele married Maria Luigia Rametta. He died in January 1899 and was buried at San Mango on 18 January. The burial record gives his age as 89, but by his baptism he was 77.",
   "link": {
     "confidence": "confirmed",
     "note": "Round 4 (unverified → confirmed): Baptism, two marriages and burial indexed; daughter Saveria's baptism and marriage name him."
@@ -59,5 +63,7 @@
     "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1856-1884 (Book 22), image 84, p. 166, no. 23; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1856-1884'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1893-1915 (Book 31), image 42, p. 78, no. 3; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1893-1915'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
     "[R4-S5] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1811-1840 to 1857-1875 (), Isabella 1840, Aloysius 1841, Petrus Maria 1844, Joachim 1846, Xaveria 1848, Carolina 1851, Maria Theresia 1853, Fidericus 1856, Maria 1862, Josephus 1866; Franciscus 1873 (by 2nd wife Maria Barretta); volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1840 to 1857-1875'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Raffaele was baptized on 27 August 1821, son of Luigi Colosimo and Carmela Moraca ([R4-S1]). He married Filippina Iera on 24 March 1839, aged only 17 ([R4-S2]). They had at least ten children between 1840 and 1866, including John's ancestor Saveria (1848) ([R4-S5]). Filippina died in 1871. In October 1872 Raffaele remarried Maria Luigia Rametta (indexed as Barretta at a son's 1873 baptism) ([R4-S3], [R4-S5]). He was buried at San Mango on 18 January 1899 ([R4-S4]). The burial gives his age as 89, but by his baptism he was 77.",
+  "summary": "Raffaele Colosimo of San Mango d'Aquino (1821–1899), twice married and father of at least ten children; John's 4th-great-grandfather."
 }

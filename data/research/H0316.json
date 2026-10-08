@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Collector of the Port of New York 1820–29, president of the Bank of the Manhattan Company; John's 3rd cousin 8x removed via Thompson and 4th cousin 7x removed via Bull Smith.",
-  "bio": "Path: John Thompson → Samuel → Jonathan → Isaac → Jonathan. His mother Mary Gardiner was a daughter of Col. Abraham & Mary (Smith) Gardiner.\n\n3rd cousin 8 times removed via John Thompson and 4th cousin 7 times removed via Bull Smith through his mother Mary Gardiner (Bull -> Richard 2d -> Nathaniel -> Mary Smith -> Mary Gardiner -> Jonathan) ([R4-S1]). Children: David, George W., Jonathan, Dr. Abraham Gardiner, Mary (wife of Samuel Buel Gardiner, 10th Lord of Gardiner's Island) and Elizabeth.",
+  "summary": "Collector of the Port of New York 1820–29 and president of the Bank of the Manhattan Company; John's 3rd cousin 8 times removed via Thompson and 4th cousin 7 times removed via Bull Smith.",
+  "bio": "Jonathan Thompson was born at Sagtikos Manor on 7 December 1773, the son of Isaac Thompson and Mary Gardiner, a daughter of Col. Abraham Gardiner and Mary Smith. He married on 4 July 1796. He served as Collector of the Port of New York from 1820 to 1829 and was president of the Bank of the Manhattan Company. He died in New York City on 30 December 1846.\n\nHis children were David, George W., Jonathan, Dr. Abraham Gardiner Thompson, Mary, who married Samuel Buel Gardiner, 10th Lord of Gardiner's Island, and Elizabeth. He is related to John twice over: as 3rd cousin 8 times removed through the Thompson line from John Thompson, and as 4th cousin 7 times removed through his mother's descent from Bull Smith.",
   "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Jonathan_Thompson_(collector)",
     "Gardiner (1890)",
@@ -35,6 +35,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0316.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -52,5 +56,6 @@
       "place": "",
       "description": "Married Elizabeth, daughter of James Havens of Shelter Island. [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Path: John Thompson → Samuel → Jonathan → Isaac → Jonathan. His mother Mary Gardiner was a daughter of Col. Abraham & Mary (Smith) Gardiner.\n\n3rd cousin 8 times removed via John Thompson and 4th cousin 7 times removed via Bull Smith through his mother Mary Gardiner (Bull -> Richard 2d -> Nathaniel -> Mary Smith -> Mary Gardiner -> Jonathan) ([R4-S1]). Children: David, George W., Jonathan, Dr. Abraham Gardiner, Mary (wife of Samuel Buel Gardiner, 10th Lord of Gardiner's Island) and Elizabeth."
 }

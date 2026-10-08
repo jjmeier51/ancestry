@@ -9,8 +9,8 @@
     "William Davenport of Fordham"
   ],
   "tags": [],
-  "summary": "John's 9th-great-grandfather; of Fordham Manor and West Farms, Westchester, on record 1680-1718.",
-  "bio": "William Davenport of Fordham Manor and West Farms, Westchester, is on record 1680-1718 with wife Mary (Westchester deeds, NYGBR 51:40, 52:71, 77). Bolton says 'William Davenport and his wife Mary came from England in 1670' (speculative); Giles & Franklin think he came as a boy. A John Davenport 'of Long Neck', Westchester (deed 1682/3) is a possible father (speculative). English origin unknown; Bramhall/Bromhall Cheshire and Rev. John Davenport connections unsupported or disproven.\n\nAccording to the Davenport genealogy, the family Bible gives his children as Thomas (b. 1682, d. 1759), William (b. 1683, d. 1735), Francis (b. 1685, d. 1720) and Rachel, while noting that these four may not be all his children ([R4-S1]). The Bible was given to a grandson in 1759 and its entries are copies, so it is family evidence, not a contemporary record. The book's chart then names John Davenport and his wife Mary of Long Neck near New Rochelle, said to have come to America in 1670 with four children, as William's parents. The book itself calls that first generation 'a supposition'. Its only document is a deed of 15 Jan 1682/3 in which John Davenport and Mary his wife sold land on Long Neck (NY Hist. Record vol. 45 p.112) ([R4-S1]). Note that 'came from England in 1670' is told of John and Mary in one place and of William and Mary in another (Bolton).",
+  "summary": "William Davenport of Fordham Manor and West Farms in Westchester, on record from 1680 to 1718; John's 9th-great-grandfather.",
+  "bio": "William Davenport of Fordham Manor and West Farms, Westchester, appears in the records from 1680 to 1718, together with his wife Mary. One county historian wrote that \"William Davenport and his wife Mary came from England in 1670\", while the family genealogists think he came as a boy; both are guesses. The family genealogy proposes as his parents a John Davenport and his wife Mary of Long Neck, near New Rochelle, said to have come to America in 1670 with four children, but calls that first generation a supposition; its only document is a deed of January 1682/3 in which John and Mary sold land on Long Neck. The story of coming from England in 1670 is thus told of John and Mary in one place and of William and Mary in another. His English origin is unknown, and suggested connections with the Davenports of Bramhall in Cheshire and with the Rev. John Davenport are unsupported or disproven.\n\nAccording to the family Bible, as copied in the Davenport genealogy, his children were Thomas (1682–1759), William (1683–1735), Francis (1685–1720) and Rachel, though these may not have been all of them. The Bible was given to a grandson in 1759 and its entries are copies, so it is family evidence rather than a contemporary record. William was John's 9th-great-grandfather.",
   "residences": [
     {
       "date": "BET 1680 AND 1718",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0515.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -53,5 +57,6 @@
       "place": "",
       "description": "The Bible, presented by Thomas Davenport (1682-1759) to his grandson Thomas on 25 Aug 1759, records that William Davenport of Fordham and his wife Mary (surname not known) had Thomas (1682-1759), William (1683-1735), Francis (1685-1720) and Rachel [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "William Davenport of Fordham Manor and West Farms, Westchester, is on record 1680-1718 with wife Mary (Westchester deeds, NYGBR 51:40, 52:71, 77). Bolton says 'William Davenport and his wife Mary came from England in 1670' (speculative); Giles & Franklin think he came as a boy. A John Davenport 'of Long Neck', Westchester (deed 1682/3) is a possible father (speculative). English origin unknown; Bramhall/Bromhall Cheshire and Rev. John Davenport connections unsupported or disproven.\n\nAccording to the Davenport genealogy, the family Bible gives his children as Thomas (b. 1682, d. 1759), William (b. 1683, d. 1735), Francis (b. 1685, d. 1720) and Rachel, while noting that these four may not be all his children ([R4-S1]). The Bible was given to a grandson in 1759 and its entries are copies, so it is family evidence, not a contemporary record. The book's chart then names John Davenport and his wife Mary of Long Neck near New Rochelle, said to have come to America in 1670 with four children, as William's parents. The book itself calls that first generation 'a supposition'. Its only document is a deed of 15 Jan 1682/3 in which John Davenport and Mary his wife sold land on Long Neck (NY Hist. Record vol. 45 p.112) ([R4-S1]). Note that 'came from England in 1670' is told of John and Mary in one place and of William and Mary in another (Bolton)."
 }

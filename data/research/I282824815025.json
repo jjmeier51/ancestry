@@ -5,8 +5,8 @@
     "note": "Tree only; duplicated as Claudia Di Vivo's father too (error); detached from John's line."
   },
   "tags": [],
-  "summary": "Tree ancestor in the detached D'Ambrosio/Gialanella cluster; not John's ancestor.",
-  "bio": "Tree: Angelo A GIALANEL... (1677-Deceased) + Maddalena PARISI (1687-1756).",
+  "summary": "Of Guardia Lombardi, husband of Maddalena Parisi; part of a D'Ambrosio and Gialanella family group that is not connected to John's own line.",
+  "bio": "Angelo Andrea Gialanella was born in 1677 at Guardia Lombardi, in the province of Avellino. He married Maddalena Parisi, who lived from 1687 to 1756, and he died at Guardia Lombardi some time between 1742 and 1755.\n\nHe belongs to a group of D'Ambrosio and Gialanella families from Guardia Lombardi that has not been connected to John's direct ancestry.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815025.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Angelo A GIALANEL... (1677-Deceased) + Maddalena PARISI (1687-1756)."
 }

@@ -8,6 +8,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604680698.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -53,8 +57,10 @@
       "value": "GZQY-997"
     }
   ],
-  "bio": "Daughter of James McGuire and Anna C. Jones; enumerated as Theresa Maguire in her father's Larksville household in 1910. She married Samuel A. Powell in 1934 and died at Nanticoke on 31 Mar 1998, aged 94 ([R4-S1]).",
+  "bio": "Teresa A. McGuire was born about 1905 at Plymouth in Luzerne County, Pennsylvania, the daughter of James McGuire and Anna C. Jones. As a small girl she was living in her father's household at Larksville in 1910, where her name was written Theresa. She married Samuel A. Powell at Wilkes-Barre on 3 September 1934.\n\nShe died at Nanticoke on 31 March 1998, aged ninety-four, and was buried in St. Mary's Cemetery, Hanover Township.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Theresa A McGuire (1904-1998), PID GZQY-997; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GZQY-997"
-  ]
+  ],
+  "researchNotes": "Daughter of James McGuire and Anna C. Jones; enumerated as Theresa Maguire in her father's Larksville household in 1910. She married Samuel A. Powell in 1934 and died at Nanticoke on 31 Mar 1998, aged 94 ([R4-S1]).",
+  "summary": "Daughter of James McGuire and Anna C. Jones of Plymouth, Pennsylvania, who married Samuel A. Powell and lived to ninety-four."
 }

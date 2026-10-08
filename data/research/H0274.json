@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd cousin 9x removed; builder of the Joshua Smith House at Hauppauge.",
-  "bio": "Wood: house built 'about 1769, not far west of Thomas Wheeler's' (the old store/post office corner); the 1968 Rockwell scrapbook dates it 'circa 1761 or possibly earlier', a salt-box; he married in October 1761 (Pelletreau App. p. 478). A photo caption in John's Drive: 'built c. 1761, remodeled in 1819, demolished in 1960. Hall woodwork now at the Henry Francis duPont Winterthur Museum'. Four generations lived there: Joshua I, Judge Joshua II, Sen. Joshua B., Ellen. No Find a Grave memorial found for him.",
+  "summary": "Builder of the Joshua Smith House at Hauppauge, home to four generations of his family; John's 2nd cousin 9 times removed.",
+  "bio": "Joshua Smith (1732–1814) built the Joshua Smith House at Hauppauge. Accounts of its date differ: one puts it about 1769, not far west of Thomas Wheeler's at the old store and post-office corner, while a family scrapbook dates the salt-box house to about 1761 or possibly earlier, the year of Joshua's marriage in October 1761. Four generations of the family lived there: Joshua himself, Judge Joshua Smith II, Senator Joshua B. Smith and Ellen. The house was remodeled in 1819 and demolished in 1960; the woodwork of its hall is now preserved at the Henry Francis duPont Winterthur Museum. He is John's 2nd cousin 9 times removed.",
   "sources": [
     "Wood (1920) pp. 25–26",
     "Rockwell scrapbook (1968)",
@@ -35,6 +35,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0274.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Wood: house built 'about 1769, not far west of Thomas Wheeler's' (the old store/post office corner); the 1968 Rockwell scrapbook dates it 'circa 1761 or possibly earlier', a salt-box; he married in October 1761 (Pelletreau App. p. 478). A photo caption in John's Drive: 'built c. 1761, remodeled in 1819, demolished in 1960. Hall woodwork now at the Henry Francis duPont Winterthur Museum'. Four generations lived there: Joshua I, Judge Joshua II, Sen. Joshua B., Ellen. No Find a Grave memorial found for him."
 }

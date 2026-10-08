@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Brother of Capt. John Tuttle (John's 7th-great-grand-uncle); his 1756 will proves James Sr. moved to Orange County.",
-  "bio": "Will dated 17 Mar 1756, New Windsor, Ulster Co. (NY Wills V, Liber 20, p. 25): 'my father, James Tuthill, and Selah Strong, both of Orange County, executors'. Died young leaving five children.",
+  "summary": "Brother of Capt. John Tuttle and John's 7th-great-grand-uncle; he died young at New Windsor, New York, about 1756, leaving five children.",
+  "bio": "James Tuthill was a brother of Capt. John Tuttle, which makes him John's 7th-great-grand-uncle. He made his will at New Windsor in Ulster (now Orange) County, New York, on 17 March 1756, naming as executors 'my father, James Tuthill, and Selah Strong, both of Orange County', a clause that shows the elder James Tuthill had by then settled in Orange County. He died young, between 1756 and 1757, leaving five children.",
   "sources": [
     "Abstracts of Wills, NYHS vol. V, Liber 20 p. 25, https://archive.org/details/abstractswillso04kellgoog"
   ],
@@ -32,6 +32,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0266.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -43,5 +47,6 @@
       "note": "James Tuthill, 1717-00-00 – 1756-00-00",
       "url": "https://www.wikitree.com/wiki/Tuthill-359"
     }
-  ]
+  ],
+  "researchNotes": "Will dated 17 Mar 1756, New Windsor, Ulster Co. (NY Wills V, Liber 20, p. 25): 'my father, James Tuthill, and Selah Strong, both of Orange County, executors'. Died young leaving five children."
 }

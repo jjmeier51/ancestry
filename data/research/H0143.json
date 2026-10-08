@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd cousin 4x removed; Kingston merchant, Yale 1884.",
-  "bio": "Nelson George Pringle (1860-1908), son of Alexander J. Pringle; Kingston merchant; Yale class of 1884. His daughters Elizabeth H. and Bertha A. Pringle graduated from Vassar in 1913 and 1916 (3rd cousins 3x removed).\n\nNelson George Pringle was the only child of Alexander J. Pringle (H0142) and Mary Price. He was born at Kingston on 5 Apr 1860 and educated at Wyoming Seminary and Yale. By 1899 he had been a merchant in Kingston for about fifteen years and lived there with his widowed mother. On 3 Jan 1884 he married Sarah Adula Copeland, daughter of the Rev. Dr. David Copeland, president of Wyoming Seminary from 1872 to 1882, and Sarah Wheelock. Their daughters were Elizabeth (b. 14 Jan 1891) and Bertha (b. 30 Oct 1893) ([R4-S1]). These are the Elizabeth H. and Bertha A. Pringle already on the site as Vassar graduates.",
+  "summary": "Kingston merchant and Yale graduate of 1884 whose daughters went to Vassar; John's 2nd cousin 4x removed.",
+  "bio": "Nelson George Pringle was born at Kingston, Luzerne Co., PA, on 5 April 1860, the only child of Alexander J. Pringle and Mary Price. He was educated at Wyoming Seminary and at Yale, where he graduated in the class of 1884. He became a merchant in Kingston, and by 1899 had been in business there for about fifteen years, living with his widowed mother.\n\nOn 3 January 1884 he married Sarah Adula Copeland, daughter of the Rev. Dr. David Copeland, president of Wyoming Seminary from 1872 to 1882, and Sarah Wheelock. Their daughters Elizabeth, born 14 January 1891, and Bertha, born 30 October 1893, graduated from Vassar in 1913 and 1916. He died in 1908. He is John's 2nd cousin 4 times removed, and his daughters are 3rd cousins 3 times removed.",
   "sources": [
     "Harvey & Smith vol. VI: https://archive.org/details/historyofwilkesb06harv",
     "[R4-S1] Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle (secondary) https://archive.org/details/harveybookgiving00harv"
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0143.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -50,5 +54,6 @@
   ],
   "openQuestions": [
     "Death in 1908 (site): no obituary found in Chronicling America; the Wilkes-Barre papers for 1908 are not on Chronicling America."
-  ]
+  ],
+  "researchNotes": "Nelson George Pringle (1860-1908), son of Alexander J. Pringle; Kingston merchant; Yale class of 1884. His daughters Elizabeth H. and Bertha A. Pringle graduated from Vassar in 1913 and 1916 (3rd cousins 3x removed).\n\nNelson George Pringle was the only child of Alexander J. Pringle (H0142) and Mary Price. He was born at Kingston on 5 Apr 1860 and educated at Wyoming Seminary and Yale. By 1899 he had been a merchant in Kingston for about fifteen years and lived there with his widowed mother. On 3 Jan 1884 he married Sarah Adula Copeland, daughter of the Rev. Dr. David Copeland, president of Wyoming Seminary from 1872 to 1882, and Sarah Wheelock. Their daughters were Elizabeth (b. 14 Jan 1891) and Bertha (b. 30 Oct 1893) ([R4-S1]). These are the Elizabeth H. and Bertha A. Pringle already on the site as Vassar graduates."
 }

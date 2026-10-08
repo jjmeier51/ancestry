@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 5th-great-grandmother; wife of Humphrey Heffernan of Lickfinn, Gortnahoe, Co. Tipperary.",
-  "bio": "Anastasia Ryan married Humphrey Heffernan, miner of Lickfin, Gortnahoe parish (marriage record not found); the couple flourished 1805-1817 and baptized at least five sons at Gortnahoe.",
+  "summary": "Wife of Humphrey Heffernan, a miner of Lickfinn in the parish of Gortnahoe, County Tipperary; John's 5th-great-grandmother.",
+  "bio": "Anastasia Ryan married Humphrey Heffernan, a miner of Lickfinn in the parish of Gortnahoe, County Tipperary. The couple were raising their family there between 1805 and 1817, when at least five sons were baptized at Gortnahoe. She was John's 5th-great-grandmother.",
   "residences": [
     {
       "date": "BET 1805 AND 1817",
@@ -41,6 +41,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0069.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Anastasia Ryan married Humphrey Heffernan, miner of Lickfin, Gortnahoe parish (marriage record not found); the couple flourished 1805-1817 and baptized at least five sons at Gortnahoe."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Husband of John's 5th-great-grand-aunt Hannah Lamoreaux; Luzerne County sheriff from 1816.",
-  "bio": "Luzerne County sheriff from 1816; militia captain, War of 1812 era.\n\nWright (1873) says the Van Loons were three Dutch brothers, Abraham ('Brom'), Mathias and Nicholas, who came from Esopus in 1794. Stephen was Brom's eldest son. He was captain of the Plymouth militia in 1814, a noted Democratic politician during the War of 1812, and was rewarded with election as High Sheriff in 1816. He 'discharged the duties of the office faithfully' and died in February 1840 or 1841 ([R4-S1]). Harvey adds that he beat Arnold Colt in October 1816 and that his company belonged to the 45th Regiment ([R4-S2]). Giles & Franklin list Hannah, daughter of Ensign Thomas Lamoreux, as his wife ([R4-S4]). His son Samuel (H0174) was sheriff from 1859.",
+  "summary": "Luzerne County sheriff from 1816 and Plymouth militia captain of 1814; husband of John's 5th-great-grand-aunt Hannah Lamoreaux.",
+  "bio": "Stephen Van Loon was the eldest son of Abraham 'Brom' Van Loon, one of three Dutch brothers, Abraham, Mathias and Nicholas, who came from Esopus in 1794. He farmed at Plymouth and married Hannah, a daughter of Ensign Thomas Lamoreaux. In 1814, during the War of 1812, he was captain of the Plymouth militia company, which belonged to the 45th Regiment, and he became a noted Democratic politician of the period. His party rewarded him in October 1816 with election as High Sheriff of Luzerne County, defeating Arnold Colt, and he served until 1819; an early county history says that he 'discharged the duties of the office faithfully'. He died at Plymouth in February 1840 or 1841. His son Samuel Van Loon followed him as sheriff from 1859.",
   "sources": [
     "Harvey Book p.357: https://archive.org/details/harveybookgiving00harv",
     "[R4-S1] H. B. Wright, Historical Sketches of Plymouth (1873), pp.387-389 ('Van Loons') and p.255 (secondary) https://archive.org/details/historicalsketch00wrig_2",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0173.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -78,5 +82,6 @@
       "found": "Wright: eldest son of Abraham 'Brom' Van Loon. Giles & Franklin list only three children (Rebecca 1799, Hannah 1806, Katherine 1809) for Abram Van Loon and Elizabeth Davenport (b. Dec 1774).",
       "assessment": "A man who was sheriff in 1816 was probably born before 1795, so Stephen was either a child of an earlier wife of Brom or of a different Abraham. Elizabeth Davenport is unlikely to be his mother."
     }
-  ]
+  ],
+  "researchNotes": "Luzerne County sheriff from 1816; militia captain, War of 1812 era.\n\nWright (1873) says the Van Loons were three Dutch brothers, Abraham ('Brom'), Mathias and Nicholas, who came from Esopus in 1794. Stephen was Brom's eldest son. He was captain of the Plymouth militia in 1814, a noted Democratic politician during the War of 1812, and was rewarded with election as High Sheriff in 1816. He 'discharged the duties of the office faithfully' and died in February 1840 or 1841 ([R4-S1]). Harvey adds that he beat Arnold Colt in October 1816 and that his company belonged to the 45th Regiment ([R4-S2]). Giles & Franklin list Hannah, daughter of Ensign Thomas Lamoreux, as his wife ([R4-S4]). His son Samuel (H0174) was sheriff from 1859."
 }

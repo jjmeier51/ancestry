@@ -24,6 +24,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815535.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -42,7 +46,7 @@
       "description": "Married Agata Moraca [R4-S2]"
     }
   ],
-  "bio": "Nicola Maria was baptized on 9 December 1778, son of Bruno Ferlaino and Francesca Moraca ([R4-S1]). He married Agata Moraca, daughter of Michele, in 1801-02; the index lists the marriage on both 20 October 1801 and 12 June 1802 ([R4-S2]). He died on 22 June 1835 and was buried the next day ([R4-S3], [R4-S4]). His younger brother Vincenzo (b. 1781) was the father of Giuseppina Ferlaino (Carmine Fiorillo's wife). John's Ferlaino and Fiorillo lines therefore both descend from Bruno Ferlaino and Francesca Moraca.",
+  "bio": "Nicola Maria Ferlaino was baptized on 9 December 1778 at San Mango d'Aquino, the son of Bruno Ferlaino and Francesca Moraca. He married Agata Moraca, daughter of Michele Moraca, in 1801 or 1802; the parish records give the marriage under both 20 October 1801 and 12 June 1802. He died on 22 June 1835 and was buried the next day.\n\nHis younger brother Vincenzo, born in 1781, was the father of Giuseppina Ferlaino, the wife of Carmine Fiorillo, so John's Ferlaino and Fiorillo lines both descend from Bruno Ferlaino and Francesca Moraca. Nicola Maria is John's 4th-great-grandfather.",
   "funFacts": [
     "Pedigree collapse: Nicola (Leopoldo's grandfather) and his brother Vincenzo (Giuseppina Fiorillo's great-grandfather) were both sons of Bruno Ferlaino and Francesca Moraca, so Helen's parents were second cousins once removed."
   ],
@@ -55,5 +59,7 @@
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1801-1811 (Book 19), image 4, p. 2, no. 3 (20 Oct 1801) and image 9, p. 12, no. 20 (12 Jun 1802); volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1801-1811'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
     "[R4-S3] San Mango d'Aquino, stato civile, Civil deaths 1835, image 1078, act 15, 22 Jun 1835; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
     "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1811-1845 (Book 27), image 84, p. 58, no. 16; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Nicola Maria was baptized on 9 December 1778, son of Bruno Ferlaino and Francesca Moraca ([R4-S1]). He married Agata Moraca, daughter of Michele, in 1801-02; the index lists the marriage on both 20 October 1801 and 12 June 1802 ([R4-S2]). He died on 22 June 1835 and was buried the next day ([R4-S3], [R4-S4]). His younger brother Vincenzo (b. 1781) was the father of Giuseppina Ferlaino (Carmine Fiorillo's wife). John's Ferlaino and Fiorillo lines therefore both descend from Bruno Ferlaino and Francesca Moraca.",
+  "summary": "Nicola Maria Ferlaino (1778–1835) of San Mango d'Aquino, husband of Agata Moraca; John's 4th-great-grandfather."
 }

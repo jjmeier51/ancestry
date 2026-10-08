@@ -15,8 +15,8 @@
     "Emma Topping"
   ],
   "tags": [],
-  "summary": "John's 11th-great-grandmother, wife of Capt. Thomas Topping.",
-  "bio": "Probably baptized at Langley Marish (a chapelry of Wraysbury), Bucks., c. Jul 1611. Her father Ambrose bought the manor of Remingham and Cow in Wraysbury in 1611 and sold it for £500 in 1613. Tree gives 1610–1665; Thomas Topping married three times, so whether she was Elnathan's mother rests on dates.\n\nSavage records that Thomas Topping joined the Milford church with his wife Emma in 1640 and had Elnathan baptized on 2 Aug 1640. Thomas's next marriage contract is dated 20 Oct 1666 ([R4-S1]). So Emma was the mother of Capt. Elnathan ([R4-S1]).",
+  "summary": "Wife of Capt. Thomas Topping and mother of Capt. Elnathan Topping, from Langley Marish in Buckinghamshire; John's 11th-great-grandmother.",
+  "bio": "Emma Aldridge was probably baptised about July 1611 at Langley Marish, a chapelry of Wraysbury in Buckinghamshire. Her father Ambrose bought the manor of Remingham and Cow in Wraysbury in 1611 and sold it for £500 two years later.\n\nShe married Capt. Thomas Topping, who married three times in all. The couple joined the Milford church in 1640, and their son Elnathan was baptised there on 2 August of that year. Since Thomas's next marriage contract is dated 20 October 1666, Emma was the mother of Capt. Elnathan Topping, the line through which she is John's 11th-great-grandmother. She died in 1665 at Southampton, Suffolk County, New York.",
   "facts": [
     {
       "label": "Tree shows",
@@ -60,6 +60,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608083531.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -71,5 +75,6 @@
       "note": "Emma Aldridge, 1611-00-00 – 1665-00-00",
       "url": "https://www.wikitree.com/wiki/Aldridge-218"
     }
-  ]
+  ],
+  "researchNotes": "Probably baptized at Langley Marish (a chapelry of Wraysbury), Bucks., c. Jul 1611. Her father Ambrose bought the manor of Remingham and Cow in Wraysbury in 1611 and sold it for £500 in 1613. Tree gives 1610–1665; Thomas Topping married three times, so whether she was Elnathan's mother rests on dates.\n\nSavage records that Thomas Topping joined the Milford church with his wife Emma in 1640 and had Elnathan baptized on 2 Aug 1640. Thomas's next marriage contract is dated 20 Oct 1666 ([R4-S1]). So Emma was the mother of Capt. Elnathan ([R4-S1])."
 }

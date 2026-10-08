@@ -13,8 +13,8 @@
     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
   },
   "tags": [],
-  "summary": "John's 3rd great-grandfather; Irish-born, in Schuylkill County by 1857 and Plymouth by 1860.",
-  "bio": "Martin Murphy, born c.1835 in Ireland, had a child born in Schuylkill Co. in Feb 1857, was in Plymouth by 1860, and in Plymouth Twp. in 1870 and 1880. He died 8 May 1885.\n\nIn the 1870 census Martin Murphy was a miner in Plymouth Township, owning real estate worth $1,100 and personal property worth $200 ([R4-S1]). With him were Alice (35) and seven children: Mary 13, Patrick 12, Catherine 9, James 7, John 4, and one-month-old twins Martin and Thomas.",
+  "summary": "Irish-born coal miner of Plymouth, Luzerne County, Pennsylvania, father of a large family including twin sons; John's 3rd-great-grandfather.",
+  "bio": "Martin Murphy was born in Ireland about 1835 and had come to Pennsylvania by 1857, when a child of his was born in Schuylkill County. By 1860 he was living at Plymouth in Luzerne County, and he remained in Plymouth Township through 1870 and 1880.\n\nIn 1870 he was working as a miner and owned real estate worth $1,100 and personal property worth $200. With him were his wife Alice, aged 35, and seven children: Mary, 13, Patrick, 12, Catherine, 9, James, 7, John, 4, and the one-month-old twins Martin and Thomas. He died at Plymouth on 8 May 1885 and was buried at Larksville. He is probably John's 3rd-great-grandfather.",
   "residences": [
     {
       "date": "1857",
@@ -64,6 +64,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604500799.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "Miner (1870)",
@@ -89,5 +93,6 @@
       ],
       "url": "https://familysearch.org/ark:/61903/1:1:MZPY-311"
     }
-  ]
+  ],
+  "researchNotes": "Martin Murphy, born c.1835 in Ireland, had a child born in Schuylkill Co. in Feb 1857, was in Plymouth by 1860, and in Plymouth Twp. in 1870 and 1880. He died 8 May 1885.\n\nIn the 1870 census Martin Murphy was a miner in Plymouth Township, owning real estate worth $1,100 and personal property worth $200 ([R4-S1]). With him were Alice (35) and seven children: Mary 13, Patrick 12, Catherine 9, James 7, John 4, and one-month-old twins Martin and Thomas."
 }

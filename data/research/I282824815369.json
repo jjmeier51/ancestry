@@ -8,8 +8,8 @@
     "Vincenzo Morrello M..."
   ],
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Morrello/Guercio pedigree.",
-  "bio": "Tree: Vincenzo Morrello M... (1759-1836) + Ippolita Guercio N... (1761-1831). Profile shows the unidentified coat of arms.",
+  "summary": "Vincenzo Morrello Magaro of Aiello Calabro (1759–1836), husband of Ippolita Guercio; an ancestor in the Morrello and Guercio pedigree, which is not supported by records.",
+  "bio": "Vincenzo Morrello Magaro was born at Aiello Calabro, in the province of Cosenza in Calabria, on 21 September 1759 and died there on 15 August 1836. His wife was Ippolita Guercio (1761–1831). He belongs to the Morrello and Guercio pedigree, which has not been supported by any records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815369.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -53,5 +57,6 @@
       "found": "Maria Marrello's 1846 burial (San Mango index, Morti 1846-1856 img 5 no. 13) names her father as the late Vincenzo Marrello: consistent",
       "assessment": "Father consistent; mother not."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Vincenzo Morrello M... (1759-1836) + Ippolita Guercio N... (1761-1831). Profile shows the unidentified coat of arms."
 }

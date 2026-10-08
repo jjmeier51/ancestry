@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1906, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch records Helen R. Pringle's marriage at Wilkes-Barre on 16 Sep 1931 to William J. Toole (1905-1976). At the time she lived at 28 Huston Street, the address her sister Florence gave at her own 1926 marriage. FamilySearch places the Tooles at Marion, Ohio, in 1940 and gives Helen's death date as 13 Apr 1992 ([R4-S1]). Her younger sister Katherine married a Daniel F. Toole.",
+  "summary": "Sister of John's great-grandmother Florence Pringle (1906–1992), who married William J. Toole and moved to Marion, Ohio; John's great-grand-aunt.",
+  "bio": "Helen R. Pringle was born in 1906 at Plymouth, Luzerne Co., PA, a child of Addison F. Pringle and Catherine E. Heffernan and a sister of John's great-grandmother Florence Pringle. She was with the family in Plymouth in 1910. On 16 September 1931 she married William J. Toole (1905–1976) at Wilkes-Barre; she was then living at the family home on Huston Street, the same address her sister Florence had given at her own marriage in 1926. By 1940 the Tooles were living in Marion, Ohio. Her younger sister Katherine married a Daniel F. Toole. Helen died on 13 April 1992.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
     "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0108.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -72,5 +76,6 @@
       "label": "FamilySearch ID",
       "value": "LHC3-KMF"
     }
-  ]
+  ],
+  "researchNotes": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1906, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch records Helen R. Pringle's marriage at Wilkes-Barre on 16 Sep 1931 to William J. Toole (1905-1976). At the time she lived at 28 Huston Street, the address her sister Florence gave at her own 1926 marriage. FamilySearch places the Tooles at Marion, Ohio, in 1940 and gives Helen's death date as 13 Apr 1992 ([R4-S1]). Her younger sister Katherine married a Daniel F. Toole."
 }

@@ -16,8 +16,8 @@
     "Jacobus Heitzler (Ancestry tree)"
   ],
   "tags": [],
-  "summary": "Probable 6th great-grandfather of John; Kageneck gamekeeper and forest warden in Unteribental.",
-  "bio": "Jakob Heitzler (b. c.1740) is listed in the 'Familien aus dem Dreisamtal' database as 'Kageneck'scher Jäger in Unteribental, Waldhüter' (gamekeeper and forest warden for the Counts of Kageneck); it records his role in a 1789 lawsuit and names his wife Katharina Begelspacher, whose father was also a Kageneck gamekeeper. Children recorded 1764–1781: Andreas (1764; Vogt of Unteribental 1813), Agathe (1771), Franziska (1779), Jakob (1781–1847); gaps 1765–70 and 1772–78 leave room for Joseph (b. c.1773). Tree: Jacob(us) Heitzler –1806, parents Martin(us) Heitzler 1699–1728 + Othilia Schirk –1728 (if both died 1728, a c.1740 birth is impossible — the 1728 deaths are unsupported).",
+  "summary": "Gamekeeper and forest warden for the Counts of Kageneck at Unteribental in the Black Forest; probably John's 6th-great-grandfather.",
+  "bio": "Jacob Heitzler, or Jakob, was born about 1740 at Kirchzarten in the Breisgau. He served the Counts of Kageneck as gamekeeper and forest warden at Unteribental, and he figured in a lawsuit in 1789. His wife was Katharina Begelspacher, whose father had also been a Kageneck gamekeeper.\n\nTheir recorded children, born between 1764 and 1781, were Andreas (born 1764, who was Vogt of Unteribental in 1813), Agathe (1771), Franziska (1779) and Jakob (1781–1847); gaps in the record leave room for Joseph, born about 1773, through whom Jacob is probably John's 6th-great-grandfather. His parents are given as Martin Heitzler and Othilia Schirk, though the dates recorded for them do not fit well with his own birth. He died in 1806.",
   "residences": [
     {
       "date": "1764–1789",
@@ -62,6 +62,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695502848.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Jakob Heitzler (b. c.1740) is listed in the 'Familien aus dem Dreisamtal' database as 'Kageneck'scher Jäger in Unteribental, Waldhüter' (gamekeeper and forest warden for the Counts of Kageneck); it records his role in a 1789 lawsuit and names his wife Katharina Begelspacher, whose father was also a Kageneck gamekeeper. Children recorded 1764–1781: Andreas (1764; Vogt of Unteribental 1813), Agathe (1771), Franziska (1779), Jakob (1781–1847); gaps 1765–70 and 1772–78 leave room for Joseph (b. c.1773). Tree: Jacob(us) Heitzler –1806, parents Martin(us) Heitzler 1699–1728 + Othilia Schirk –1728 (if both died 1728, a c.1740 birth is impossible — the 1728 deaths are unsupported)."
 }

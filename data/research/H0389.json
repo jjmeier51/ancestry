@@ -21,6 +21,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0389.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -37,8 +41,10 @@
       "value": "GRC2-JFG"
     }
   ],
-  "bio": "Husband of Anna J. Meier. FamilySearch (unsourced): born 26 Jul 1873 at Erie, PA; died at Erie on 24 Jul 1951 ([R4-S1]).",
+  "bio": "William J. Walsh was the husband of Anna J. Meier. According to family records he was born at Erie, Pennsylvania, on 26 July 1873 and died there on 24 July 1951.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree, William J. Walsh (GRC2-JFG), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/GRC2-JFG"
-  ]
+  ],
+  "researchNotes": "Husband of Anna J. Meier. FamilySearch (unsourced): born 26 Jul 1873 at Erie, PA; died at Erie on 24 Jul 1951 ([R4-S1]).",
+  "summary": "Husband of Anna J. Meier, born and died at Erie, Pennsylvania."
 }

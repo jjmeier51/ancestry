@@ -5,8 +5,8 @@
     "note": "Tree only; not checked in civil records. The record thumbnail attached to him in the tree appears to mention Lucera, Foggia, which is probably someone else's record."
   },
   "tags": [],
-  "summary": "John's maternal 4th great-grandfather per the tree; father of Giovanni Pasquale DiBiasi.",
-  "bio": "Tree: Domenico Di Biase (b. 1789) + Angela Carrozzino, parents of Giovanni P. Dibiasi. A record thumbnail on Domenico appears to mention Lucera?, Foggia (unconfirmed). Round 1 judged this probably attached to the wrong man: the family was from Guardia Lombardi (Avellino), whose records are at AS Avellino, while Lucera holds a Sezione di Archivio di Stato for Foggia-province records and Di Biase is a common Capitanata surname. Round 2 found the 'Lucera' claim on the FS tree profiles of his son and daughter-in-law with zero sources; remove Lucera. Speculative until the image is checked: verify whether the record's comune is Guardia Lombardi.",
+  "summary": "Husband of Angela Carrozzino and father of Giovanni Pasquale DiBiasi; John's maternal 4th-great-grandfather.",
+  "bio": "Domenico Di Biase was born about 1789. With his wife Angela Carrozzino he was the father of Giovanni Pasquale DiBiasi, which makes him John's 4th-great-grandfather on his mother's side. His birthplace has been given as Lucera in the province of Foggia, but this is doubtful: the family belonged to Guardia Lombardi in Avellino, and the Lucera claim rests on nothing firm.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -45,6 +45,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815221.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Domenico Di Biase (b. 1789) + Angela Carrozzino, parents of Giovanni P. Dibiasi. A record thumbnail on Domenico appears to mention Lucera?, Foggia (unconfirmed). Round 1 judged this probably attached to the wrong man: the family was from Guardia Lombardi (Avellino), whose records are at AS Avellino, while Lucera holds a Sezione di Archivio di Stato for Foggia-province records and Di Biase is a common Capitanata surname. Round 2 found the 'Lucera' claim on the FS tree profiles of his son and daughter-in-law with zero sources; remove Lucera. Speculative until the image is checked: verify whether the record's comune is Guardia Lombardi."
 }

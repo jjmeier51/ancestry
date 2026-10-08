@@ -17,6 +17,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0416.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -25,8 +29,10 @@
   "death": {
     "place": "Oberbrombach (FamilySearch)"
   },
-  "bio": "FamilySearch has 'Hans Grub', born 1560, died at Oberbrombach, as father of Christmann Grub, with wife Elsa (d. 1597 Oberbrombach); no sources are attached to either ([R4-S1]).",
+  "bio": "Hanns Grub, also written Hans, was born in 1560 and died at Oberbrombach. He and his wife Elsa, who died at Oberbrombach in 1597, are recorded as the parents of Christmann Grub. The parentage rests on compiled family trees rather than on documented records.",
   "sources": [
     "[R4-S1] FamilySearch published tree, Hans Grub (GCNN-FQD) and Elsa (GCNN-VTB) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GCNN-FQD"
-  ]
+  ],
+  "researchNotes": "FamilySearch has 'Hans Grub', born 1560, died at Oberbrombach, as father of Christmann Grub, with wife Elsa (d. 1597 Oberbrombach); no sources are attached to either ([R4-S1]).",
+  "summary": "Father of Christmann Grub, born in 1560 and said to have died at Oberbrombach; John's 11th-great-grandfather."
 }

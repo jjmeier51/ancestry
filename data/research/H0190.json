@@ -8,8 +8,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's 7th-great-grand-uncle (brother of Ensign Thomas).",
-  "bio": "Son of Jean Lamoreaux; captured at Fort Montgomery in Oct 1777.\n\nFamilySearch gives John the dates 5 Mar 1754 to 7 Jan 1823 and his marriage to Jemima Stephens at Goshen on 9 Jun 1779, as in the Davenport genealogy. It attaches the 1790 census ('John Lomereaux, Junr') and the 1800 census ('John Lamoreux Junior'), so in 1790 there were separate households of John senior and John junior ([R4-S1]).",
+  "summary": "Brother of Ensign Thomas Lamoreaux and John's 7th-great-grand-uncle; captured at Fort Montgomery in 1777 and married Jemima Stephens at Goshen in 1779.",
+  "bio": "John Lamoreux was born at Monroe in Orange County, New York, on 5 March 1754, a son of Jean Lamoreaux and a brother of Ensign Thomas Lamoreaux, which makes him John's 7th-great-grand-uncle. During the Revolution he served in the New York militia and was captured when Fort Montgomery fell in October 1777.\n\nOn 9 June 1779 he married Jemima Stephens at Goshen. In the censuses of 1790 and 1800 he was listed as John Lamoreux Junior, with a separate household from his father. He died on 7 January 1823.",
   "military": [
     {
       "branch": "New York militia",
@@ -48,6 +48,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0190.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -76,5 +80,6 @@
       "place": "Goshen, Orange Co., NY",
       "description": "To Jemima Stephens (1754-1826) [R4-S1]"
     }
-  ]
+  ],
+  "researchNotes": "Son of Jean Lamoreaux; captured at Fort Montgomery in Oct 1777.\n\nFamilySearch gives John the dates 5 Mar 1754 to 7 Jan 1823 and his marriage to Jemima Stephens at Goshen on 9 Jun 1779, as in the Davenport genealogy. It attaches the 1790 census ('John Lomereaux, Junr') and the 1800 census ('John Lamoreux Junior'), so in 1790 there were separate households of John senior and John junior ([R4-S1])."
 }

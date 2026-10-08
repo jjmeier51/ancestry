@@ -5,8 +5,8 @@
     "note": "Tree only; duplicated as Claudia Di Vivo's mother (error); detached from John's line."
   },
   "tags": [],
-  "summary": "Tree ancestor in the detached Gialanella cluster; not John's ancestor.",
-  "bio": "Tree: Maddalena PARISI (1687-1756).",
+  "summary": "Maddalena Parisi (1687–after 1756) of Guardia Lombardi in Campania, part of a Gialanella family group that is not connected to John's own ancestry.",
+  "bio": "Maddalena Parisi was born in 1687 at Guardia Lombardi, Avellino, Campania, Italy, and died there some time after 1756. She belongs to a Gialanella family group that is recorded alongside John's relatives but is not part of his own line of descent.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815038.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Maddalena PARISI (1687-1756)."
 }

@@ -9,8 +9,8 @@
     "Justice, A Smith (tree)"
   ],
   "tags": [],
-  "summary": "Bull Smith's son Adam (b. 1649) — John's 9th-great-grand-uncle — wrongly shown in the tree as James Smith's father.",
-  "bio": "Bull Smith had a son Adam, b. 1649; William Hammond's will (1662) left 'Adam Smith, son of daughter, Sarah' a mare colt and £20 'if he behave obediently to my wife'. The tree's 'Justice A Smith' card carries a Smithtown 350th logo image and pairs him with Elizabeth Thompson 1657–1718. Preferred: Job Smith is James's father; Adam is a collateral uncle.\n\nPelletreau prints Adam Smith's will of 12 June 1704, which leaves 'all estate to his only son Edmund Smith' (not probated) ([R4-S1]). The Introduction says 'Adam is said to have died in 1720' ([R4-S2]), against the tree's 2 July 1726. Adam therefore cannot be the father of James Smith of Moriches, and the tree's pairing of Adam with Elizabeth Thompson is wrong: she was Job's wife ([R4-S3]).",
+  "summary": "Son of Bull Smith, born 1649, and John's 9th-great-grand-uncle; wrongly recorded as the father of James Smith.",
+  "bio": "Adam Smith was born in 1649 on the Smith farm at Southampton, Long Island, a son of Bull Smith and Sarah Hammond. His grandfather William Hammond's will of 1662 left 'Adam Smith, son of daughter, Sarah' a mare colt and £20 'if he behave obediently to my wife'. Known as Justice Adam Smith, he made his will on 12 June 1704, leaving all his estate to 'his only son Edmund Smith'; it was never probated. Family records give his death as 2 July 1726 at the Sherewog farm in Smithtown, but Pelletreau's history says he is said to have died in 1720.\n\nBecause Edmund was his only son, Adam cannot have been the father of James Smith of Moriches, as family records show him; James's father was Job Smith, and Adam was a collateral uncle, John's 9th-great-grand-uncle. The pairing of Adam with Elizabeth Thompson (1657–1718) is likewise wrong: she was Job's wife.",
   "facts": [
     {
       "label": "Tree shows",
@@ -46,6 +46,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608065145.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "conflicts": [
@@ -61,5 +65,6 @@
       "found": "'said to have died in 1720'",
       "assessment": "Tradition only; unresolved."
     }
-  ]
+  ],
+  "researchNotes": "Bull Smith had a son Adam, b. 1649; William Hammond's will (1662) left 'Adam Smith, son of daughter, Sarah' a mare colt and £20 'if he behave obediently to my wife'. The tree's 'Justice A Smith' card carries a Smithtown 350th logo image and pairs him with Elizabeth Thompson 1657–1718. Preferred: Job Smith is James's father; Adam is a collateral uncle.\n\nPelletreau prints Adam Smith's will of 12 June 1704, which leaves 'all estate to his only son Edmund Smith' (not probated) ([R4-S1]). The Introduction says 'Adam is said to have died in 1720' ([R4-S2]), against the tree's 2 July 1726. Adam therefore cannot be the father of James Smith of Moriches, and the tree's pairing of Adam with Elizabeth Thompson is wrong: she was Job's wife ([R4-S3])."
 }

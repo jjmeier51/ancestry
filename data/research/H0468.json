@@ -17,10 +17,16 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0468.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Mary (Warren), widow Gardner, daughter of Thomas Warren of Southwold, was Rev. John Youngs's third wife, probably married at Salem about 1639. She died at Southold in 1678 ([R4-S1]). Not ancestral.",
+  "bio": "Mary Gardner was born Mary Warren, a daughter of Thomas Warren of Southwold. Widowed by her first husband, a Gardner, she became the third wife of Rev. John Youngs, probably marrying him at Salem about 1639. She died at Southold in 1678. She is connected to the family by marriage only and is not one of John's ancestors.",
   "sources": [
     "[R4-S1] Selah Youngs Jr., Youngs Family: Vicar Christopher Yonges, his ancestors in England and his descendants in America (1907), pp. 38-41 (First and Second Generations) (secondary) https://archive.org/details/youngsfamilyvica00youn"
-  ]
+  ],
+  "researchNotes": "Mary (Warren), widow Gardner, daughter of Thomas Warren of Southwold, was Rev. John Youngs's third wife, probably married at Salem about 1639. She died at Southold in 1678 ([R4-S1]). Not ancestral.",
+  "summary": "Mary (Warren) Gardner, daughter of Thomas Warren of Southwold, who became the third wife of Rev. John Youngs; not an ancestor of John."
 }

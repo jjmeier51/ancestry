@@ -142,6 +142,7 @@
         p.source === 'research' ? el('p', { class: 'muted small', text: 'Added by research; this person is not in the Ancestry GEDCOM.' }) : null,
         p.mergedFrom && p.mergedFrom.length ? el('div', { class: 'correction' }, [el('h3', { text: 'Merged duplicate records' })].concat(p.mergedFrom.map(m => el('p', { class: 'small', html: A.md(`The separate record "${m.name}" was the same person. ${m.reason || ''}`) })))) : null,
         p.conflicts && p.conflicts.length ? el('div', {}, [el('h3', { text: 'Conflicting evidence' }), el('ul', { class: 'sources' }, p.conflicts.map(c => el('li', { html: A.md(`**${c.field}**: tree says “${c.site || '—'}”, records say “${c.found || '—'}”. ${c.assessment || ''}`) })))]) : null,
+        p.researchNotes ? el('details', { class: 'research-notes' }, [el('summary', { text: 'Evidence notes (research detail)' })].concat(p.researchNotes.split(/\n\s*\n/).map(t => el('p', { class: 'small', html: A.md(t) })))) : null,
         p.openQuestions && p.openQuestions.length ? el('div', {}, [el('h3', { text: 'Open questions' }), el('ul', { class: 'sources' }, p.openQuestions.map(q => el('li', { html: A.md(q) })))]) : null,
         p.mediaKnown && p.mediaKnown.length ? el('div', {}, [el('h3', { text: 'Known media not yet attached' }), el('ul', { class: 'sources' }, p.mediaKnown.map(q => el('li', { html: A.md(q) })))]) : null,
         p.sources && p.sources.length ? el('div', {}, [el('h3', { text: 'Sources' }), el('ul', { class: 'sources' }, p.sources.map(s => el('li', { html: A.md(s) })))]) : null,

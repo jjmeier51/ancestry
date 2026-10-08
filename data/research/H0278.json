@@ -9,8 +9,8 @@
     "Temperance Platt"
   ],
   "tags": [],
-  "summary": "John's 2nd cousin 8x removed (Job → Job 2d → Anna → Temperance); NOT John's ancestor Temperance Tuttle.",
-  "bio": "Married Jonas Platt, her stepbrother (her widowed mother Anna married Jonas's father Zephaniah Platt). Jonas died in 1775 aged 44; she died 12 Mar 1813 his widow. Children included Col. Richard Platt.",
+  "summary": "Wife of her stepbrother Jonas Platt and mother of Col. Richard Platt; John's 2nd cousin 8 times removed, not his ancestor Temperance Tuttle.",
+  "bio": "Temperance Smith descended from Job Smith through Job Smith 2d and his daughter Anna, which makes her John's 2nd cousin 8 times removed. She married Jonas Platt, who was also her stepbrother: her widowed mother Anna had married Jonas's father, Zephaniah Platt. Jonas died in 1775 aged 44, and Temperance lived on as his widow until her own death on 12 March 1813. Their children included Col. Richard Platt. She is a different woman from John's ancestor Temperance Tuttle, who shared her first name.",
   "sources": [
     "Pelletreau (1898) App. pp. 465, 475",
     "Uploaded Hauppauge report"
@@ -36,6 +36,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0278.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Married Jonas Platt, her stepbrother (her widowed mother Anna married Jonas's father Zephaniah Platt). Jonas died in 1775 aged 44; she died 12 Mar 1813 his widow. Children included Col. Richard Platt."
 }

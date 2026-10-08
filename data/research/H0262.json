@@ -12,8 +12,8 @@
     "military",
     "patriot"
   ],
-  "summary": "Brother of Temperance Smith — uncle of Keturah Tuttle (John's 7th-great-grand-uncle); captain of the Woodbury Clove militia company in 1775–76, under whom Thomas Lamoreaux was ensign.",
-  "bio": "Ruttenber & Clark (1881): 'Woodbury Clove Co.—1775—Francis Smith, captain; Thomas Smith, 1st lt.; ... 1776—... Thos. Lammoreux, ensign.' SAR P-232580 says Thomas Lamoreaux served as Ensign under Capt. Francis Smith and Colonel Woodhull.\n\nWeygant (1897) says Capt. Francis and Capt. Austin Smith were residents of Woodbury Clove 'some twenty years or more' before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him at the reorganization a year later, 'at the time a widower with two grown daughters'. Francis's eldest daughter Elizabeth married John Weygant, and a granddaughter of James & Jerusha Smith, Jerusha Smith, married Tobias Weygant ([R4-S1]).",
+  "summary": "Captain of the Woodbury Clove militia company in 1775-76, under whom Thomas Lamoreaux served as ensign; John's 7th-great-grand-uncle.",
+  "bio": "Captain Francis Smith was a brother of Temperance Smith and an uncle of Keturah Tuttle, which makes him John's 7th-great-grand-uncle. He and Capt. Austin Smith had lived in Woodbury Clove, Orange County, New York, for twenty years or more before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him when it was reorganised a year later, being at the time \"a widower with two grown daughters\".\n\nHe commanded the company in 1775 and 1776, with Thomas Smith as first lieutenant and, in 1776, Thomas Lamoreaux as ensign, serving under Colonel Woodhull. His eldest daughter Elizabeth married John Weygant, and a granddaughter of James and Jerusha Smith, also named Jerusha Smith, married Tobias Weygant.",
   "military": [
     {
       "branch": "Orange County, NY militia",
@@ -47,6 +47,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0262.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Ruttenber & Clark (1881): 'Woodbury Clove Co.—1775—Francis Smith, captain; Thomas Smith, 1st lt.; ... 1776—... Thos. Lammoreux, ensign.' SAR P-232580 says Thomas Lamoreaux served as Ensign under Capt. Francis Smith and Colonel Woodhull.\n\nWeygant (1897) says Capt. Francis and Capt. Austin Smith were residents of Woodbury Clove 'some twenty years or more' before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him at the reorganization a year later, 'at the time a widower with two grown daughters'. Francis's eldest daughter Elizabeth married John Weygant, and a granddaughter of James & Jerusha Smith, Jerusha Smith, married Tobias Weygant ([R4-S1])."
 }

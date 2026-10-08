@@ -9,7 +9,7 @@
     "Sarah Salmon"
   ],
   "tags": [],
-  "summary": "John's 10th-great-grandmother; daughter of Barnabas Horton of Southold.",
+  "summary": "Daughter of Barnabas Horton of Southold who married William Salmon and then John Conklin Jr.; John's 10th-great-grandmother.",
   "sources": [
     "WikiTree Tuthill-530 getAncestors",
     "notes/round3/english_french_origins.md §2i",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0234.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -48,5 +52,6 @@
       "description": "Married John Conckelyne Jr. as 'Sarah Solmon wid' (per WikiTree, citing Southold Town Records 1:464) [R4-S3]"
     }
   ],
-  "bio": "Southold Town Records vol. 1 states that William Salmon 'married with Sarah Hortton' after his first wife Katherine died, and that after his intestate death John Conckelyne Jr. 'tooke to wife the said Sarah Salmon' ([R4-S1]). The town record therefore proves her maiden name Horton. Her descent from Barnabas Horton is not stated there. Horton Genealogy (1876) does not list her; it has a daughter Sarah b. c.1653 who married Joseph Conklin, apparently a garble of this Sarah's Conklin marriage ([R4-S2]). Recent research (Dinan, In Search of Barnabas Horton, cited on WikiTree) makes her Barnabas's daughter by his first wife Anne Smith, born c.1635 near Nuneaton ([R4-S3])."
+  "bio": "Sarah Horton married William Salmon of Southold after the death of his first wife, Katherine. When Salmon died without a will, she married John Conklin Jr. at Southold on 2 December 1657; the town records describe both marriages and so establish her maiden name as Horton. Recent research makes her a daughter of Barnabas Horton of Southold by his first wife Anne Smith, born about 1635 near Nuneaton in England, though the older Horton genealogy confused her with a younger Sarah said to have married a Joseph Conklin. She is probably John's 10th-great-grandmother.",
+  "researchNotes": "Southold Town Records vol. 1 states that William Salmon 'married with Sarah Hortton' after his first wife Katherine died, and that after his intestate death John Conckelyne Jr. 'tooke to wife the said Sarah Salmon' ([R4-S1]). The town record therefore proves her maiden name Horton. Her descent from Barnabas Horton is not stated there. Horton Genealogy (1876) does not list her; it has a daughter Sarah b. c.1653 who married Joseph Conklin, apparently a garble of this Sarah's Conklin marriage ([R4-S2]). Recent research (Dinan, In Search of Barnabas Horton, cited on WikiTree) makes her Barnabas's daughter by his first wife Anne Smith, born c.1635 near Nuneaton ([R4-S3])."
 }

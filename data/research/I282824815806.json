@@ -28,9 +28,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815806.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Alessio was baptized on 19 September 1772, son of Michele Moraca and Anna Maria Putero ([R4-S1]). This makes him the brother of Agata Moraca, Fortunato Ferlaino's mother. The site shows no parents for him; they are already in the tree as I282824815622 and I282824815627. He married Saveria Sacco on 24 September 1792 ([R4-S2]).",
+  "bio": "Alessio Moraca was baptized at San Mango D'Aquino, Catanzaro, Calabria, Italy, on 19 September 1772, a son of Michele Moraca and Anna Maria Putero. He was a brother of Agata Moraca, the mother of Fortunato Ferlaino. On 24 September 1792 he married Saveria Sacco. He died at San Mango on 2 September 1805, a few weeks short of his thirty-third birthday.",
   "funFacts": [
     "Alessio and his sister Agata are both John's ancestors, so Michele Moraca and Anna Maria Puteri appear twice in his pedigree."
   ],
@@ -41,5 +45,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 41, p. 77, no. 25; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 66, p. 125, no. 6; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Alessio was baptized on 19 September 1772, son of Michele Moraca and Anna Maria Putero ([R4-S1]). This makes him the brother of Agata Moraca, Fortunato Ferlaino's mother. The site shows no parents for him; they are already in the tree as I282824815622 and I282824815627. He married Saveria Sacco on 24 September 1792 ([R4-S2]).",
+  "summary": "Man of San Mango d'Aquino who married Saveria Sacco in 1792 and died there in 1805; John's 6th-great-grandfather."
 }

@@ -12,8 +12,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 11th-great-grandmother; crossed to New England on the Francis in 1634 aged 47.",
-  "bio": "Baptized Lavenham 11 Sep 1586. Siblings: the emigrants William Paine of Ipswich and Boston, Dorothy (Paine) Eire and Phebe (Paine) Page. Sailed from Ipswich on the Francis, April 1634, aged 47, with Elizabeth (15), Sarah (10) and John (7). Died 1670 aged 83. Hammond (1902, p. 59) had considered and rejected the Lavenham Elizabeth, placing her in Nowton parish; later scholarship reverses that.",
+  "summary": "Elizabeth Paine of Lavenham, Suffolk, who sailed to New England on the Francis in 1634 and died at Watertown; John's 11th-great-grandmother.",
+  "bio": "Elizabeth Paine, later Elizabeth Hammond, was baptized at Lavenham, Suffolk, England, on 11 September 1586. Her brother William Paine of Ipswich and Boston and her sisters Dorothy (Paine) Eire and Phebe (Paine) Page also emigrated to New England. In April 1634, aged 47, she sailed from Ipswich on the Francis with Elizabeth, aged 15, Sarah, 10, and John, 7.\n\nShe died in 1670 at Watertown, Middlesex County, Massachusetts, aged 83. An earlier historian of the Hammond family had doubted that she was the Elizabeth baptized at Lavenham, placing her instead in the parish of Nowton, but later scholarship has restored the Lavenham identification. She was John's 11th-great-grandmother.",
   "sources": [
     "Moriarty, NEHGR 79:82–84",
     "NEHGR 69:251–2 (Lavenham registers)",
@@ -43,6 +43,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0236.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -54,5 +58,6 @@
       "note": "Elizabeth Paine, 1586-09-11 – 1670-09-14",
       "url": "https://www.wikitree.com/wiki/Paine-100"
     }
-  ]
+  ],
+  "researchNotes": "Baptized Lavenham 11 Sep 1586. Siblings: the emigrants William Paine of Ipswich and Boston, Dorothy (Paine) Eire and Phebe (Paine) Page. Sailed from Ipswich on the Francis, April 1634, aged 47, with Elizabeth (15), Sarah (10) and John (7). Died 1670 aged 83. Hammond (1902, p. 59) had considered and rejected the Lavenham Elizabeth, placing her in Nowton parish; later scholarship reverses that."
 }

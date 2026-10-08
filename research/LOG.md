@@ -4,6 +4,21 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — About texts rewritten as narrative
+
+- John: the About sections read like pasted research notes (record ids,
+  census sheet numbers, "Round 1" remarks). All 703 biographies were
+  rewritten as plain narrative (14 parallel batches, instructions in the
+  session scratchpad: facts only from the existing text, no identifiers,
+  no research-process language, hedges kept, living people unchanged in
+  substance). Summaries rewritten to one sentence. The previous text is kept
+  verbatim in `researchNotes`, shown on the profile as the collapsible
+  "Evidence notes (research detail)" under Research status, so nothing was
+  lost. `scripts/apply_bio_rewrite.py` validated and applied them (rejects
+  texts that still contain ids or process words). Rule for future research:
+  write findings into `researchNotes`, facts, events and sources; keep
+  `bio` as prose.
+
 ## 2026-10-08 — Round 4 overnight research imported
 
 - John supplied the output of a separate overnight research run (four zip

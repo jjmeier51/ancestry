@@ -8,8 +8,8 @@
   "tags": [
     "military"
   ],
-  "summary": "Union Navy officer and rear admiral; John's 5th cousin 6x removed via Bull Smith.",
-  "bio": "Path: Deborah Smith (m. Maj. William Lawrence Jr.) → Daniel Lawrence (m. Mary Redwood) → Abraham → Elizabeth (m. Capt. Daniel H. Braine) → Abraham L. Braine → Daniel L. Commanded USS Monticello (Civil War), USS Juniata (Polaris search) and the South Atlantic Squadron.\n\nLine in Lawrence 1858 ([R4-S1]): Deborah Smith & William Lawrence Jr. -> Daniel (d. 1757, m. Mary Redwood) -> Abraham (m. Mary Smith) -> Elizabeth (m. Capt. Daniel H. Braine) -> Abraham L. Braine (b. 1782, m. 1811 Agnes Dean Hamilton) -> Daniel Lawrence Braine, 'now lieutenant in the United States Navy', married 1855 Mary E. Fulton: 5th cousin 6 times removed.",
+  "summary": "Union Navy officer who rose to rear admiral (1829–1898), commander of USS Monticello and USS Juniata; John's 5th cousin 6 times removed through Bull Smith.",
+  "bio": "Daniel Lawrence Braine was born on 18 May 1829, the son of Abraham L. Braine, born in 1782, and Agnes Dean Hamilton, who married in 1811. Through his father he descended from Deborah Smith and Major William Lawrence Jr., by way of their son Daniel Lawrence, who died in 1757 and married Mary Redwood; Daniel's son Abraham, who married Mary Smith; and Abraham's daughter Elizabeth, who married Captain Daniel H. Braine. That descent from Bull Smith makes him John's 5th cousin 6 times removed.\n\nHe was a lieutenant in the United States Navy by 1858 and married Mary E. Fulton in 1855. During the Civil War he commanded the USS Monticello, and he later commanded the USS Juniata in the search for the Polaris expedition and the South Atlantic Squadron, rising to the rank of rear admiral. He died on 30 January 1898.",
   "military": [
     {
       "branch": "US Navy",
@@ -41,6 +41,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0313.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -93,5 +97,6 @@
   },
   "death": {
     "date": "1898-01-30"
-  }
+  },
+  "researchNotes": "Path: Deborah Smith (m. Maj. William Lawrence Jr.) → Daniel Lawrence (m. Mary Redwood) → Abraham → Elizabeth (m. Capt. Daniel H. Braine) → Abraham L. Braine → Daniel L. Commanded USS Monticello (Civil War), USS Juniata (Polaris search) and the South Atlantic Squadron.\n\nLine in Lawrence 1858 ([R4-S1]): Deborah Smith & William Lawrence Jr. -> Daniel (d. 1757, m. Mary Redwood) -> Abraham (m. Mary Smith) -> Elizabeth (m. Capt. Daniel H. Braine) -> Abraham L. Braine (b. 1782, m. 1811 Agnes Dean Hamilton) -> Daniel Lawrence Braine, 'now lieutenant in the United States Navy', married 1855 Mary E. Fulton: 5th cousin 6 times removed."
 }

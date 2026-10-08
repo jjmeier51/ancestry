@@ -8,6 +8,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604680728.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -39,8 +43,10 @@
       "value": "GZQY-6Z2"
     }
   ],
-  "bio": "Youngest daughter of James McGuire and Anna C. Jones (Anna Maguire in the 1910 Larksville census). She married Herman Gunster in 1935, lived at Lee Park, and died 7 Nov 1964 ([R4-S1]).",
+  "bio": "Ann C. McGuire was born on 11 April 1909 at Plymouth, Luzerne County, Pennsylvania, the youngest daughter of James McGuire and Anna C. Jones. She married Herman Gunster in Luzerne County on 3 August 1935, and the couple made their home at Lee Park. She died on 7 November 1964 in Hanover Township and was buried in Oak Lawn Cemetery there.",
   "sources": [
     "[R4-S1] FamilySearch Family Tree (published), Anna C McGuire (1909-1964), PID GZQY-6Z2; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GZQY-6Z2"
-  ]
+  ],
+  "researchNotes": "Youngest daughter of James McGuire and Anna C. Jones (Anna Maguire in the 1910 Larksville census). She married Herman Gunster in 1935, lived at Lee Park, and died 7 Nov 1964 ([R4-S1]).",
+  "summary": "Youngest daughter of James McGuire and Anna C. Jones of Plymouth, Pennsylvania, who married Herman Gunster and lived at Lee Park."
 }

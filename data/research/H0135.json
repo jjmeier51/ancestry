@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 2nd cousin 4x removed.",
-  "bio": "Son of Catherine Heffernan and Edmund Grimes; killed in a mine accident at the Boston D&H colliery in 1909 (W-B Times-Leader 17 Apr 1909). His brother Edmund D. Grimes died in a California mine accident in 1927 (Evening News 16 Apr 1927).",
+  "summary": "Luzerne County miner killed at the Boston colliery in 1909, son of Edmund Grimes and Catherine Heffernan; John's 2nd cousin 4 times removed.",
+  "bio": "Richard E. Grimes was born about 1858, a son of Edmund Grimes and Catherine Heffernan. He was killed in a mine accident at the Boston D&H colliery in Luzerne County, Pennsylvania, in 1909. His brother Edmund D. Grimes also died in a mine accident, in California in 1927. Richard is John's 2nd cousin 4 times removed.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
   ],
@@ -32,6 +32,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0135.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Son of Catherine Heffernan and Edmund Grimes; killed in a mine accident at the Boston D&H colliery in 1909 (W-B Times-Leader 17 Apr 1909). His brother Edmund D. Grimes died in a California mine accident in 1927 (Evening News 16 Apr 1927)."
 }

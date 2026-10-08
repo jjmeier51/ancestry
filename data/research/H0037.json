@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probable 6th great-uncle of John; Vogt (headman) of Unteribental.",
-  "bio": "Built the 'Jägerhäusle' (hunter's cottage) on manorial land in 1801; Vogt of Unteribental in 1813.",
+  "summary": "Gamekeeper who built the Jägerhäusle in 1801 and served as Vogt, or headman, of Unteribental; probably John's 6th great-uncle.",
+  "bio": "Andreas Heitzler (1764–1836) was a gamekeeper, or Jäger, at Unteribental. In 1801 he built the Jägerhäusle, the hunter's cottage, on manorial land, and by 1813 he was serving as Vogt, the village headman, of Unteribental. He was probably John's 6th great-uncle.",
   "sources": [
     "GEDBAS 1262174650 https://gedbas.genealogy.net/person/show/1262174650",
     "deep-dive report; notes/round2/black_forest.md"
@@ -34,6 +34,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0037.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Built the 'Jägerhäusle' (hunter's cottage) on manorial land in 1801; Vogt of Unteribental in 1813."
 }

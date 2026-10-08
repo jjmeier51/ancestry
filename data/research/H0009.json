@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Brother of John's grandfather James C. Meier (John's great-uncle).",
-  "bio": "Son of William F. Meier and Florence L. Pringle; 'William, son, about 3' in the 1930 Wilkes-Barre census (55 Cedar St) and 'William Jr., son, 23' in the 1950 census (house 55, ED 40-102). Nothing further recorded.\n\nThe FamilySearch tree links William Jr. (d. 29 Feb 2004) to a wife, Nancy Anne Stahl Meier. She died on 13 May 2009 at Clermont, Florida ([R4-S1]). The tree also cites a NUMIDENT entry for him and an obituary from the 'United States, Obituary Records, 2014–2023' collection, but both source images returned HTTP 404 from the public endpoint, so neither was read.",
+  "summary": "Brother of John's grandfather James C. Meier and husband of Nancy Anne Stahl; John's great-uncle.",
+  "bio": "William F. Meier, known as William Jr., was born in 1927, the son of William F. Meier and Florence L. Pringle, and grew up in the family home on Cedar Street in Wilkes-Barre, where he was still living at 23 in 1950. He married Nancy Anne Stahl. He died on 29 February 2004; Nancy died on 13 May 2009 at Clermont, Florida. He was a brother of John's grandfather James C. Meier, and so John's great-uncle.",
   "sources": [
     "1930 census Wilkes-Barre ED 40-261 sheet 23B; 1950 census ED 40-102 sheet 2 (FamilySearch GF3P-853 images)",
     "research/notes/round3/meier_line.md",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0009.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -56,5 +60,6 @@
   ],
   "openQuestions": [
     "Read William F. Meier Jr.'s obituary (FamilySearch 1:1:XMZ3-FPDF) and Nancy Stahl Meier's (1:1:QK2P-7S8D, 1:1:XMK2-9SZ5) in a signed-in session. They should give his place of death and burial."
-  ]
+  ],
+  "researchNotes": "Son of William F. Meier and Florence L. Pringle; 'William, son, about 3' in the 1930 Wilkes-Barre census (55 Cedar St) and 'William Jr., son, 23' in the 1950 census (house 55, ED 40-102). Nothing further recorded.\n\nThe FamilySearch tree links William Jr. (d. 29 Feb 2004) to a wife, Nancy Anne Stahl Meier. She died on 13 May 2009 at Clermont, Florida ([R4-S1]). The tree also cites a NUMIDENT entry for him and an obituary from the 'United States, Obituary Records, 2014–2023' collection, but both source images returned HTTP 404 from the public endpoint, so neither was read."
 }

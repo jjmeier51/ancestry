@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 5th-great-grand-uncle (Samuel's brother) and also uncle by marriage of Martha Lamoreaux.",
-  "bio": "James Pringle, Samuel's brother ('brothers, presumably natives of Connecticut', Harvey Book), married Phebe Lamoreux, sister of Ensign Thomas, in 1785. Not John's ancestor James (b. c.1799).\n\nRev. Silas Constant married 'James Prendle and Phebe Lamoreux' at Smith's Clove on 19 May 1785 ([R4-S1]). Giles & Franklin say Phebe (1765-1856) was a daughter of John and Charity (Davenport) Lamoreux, lived with her sister Charity in Plymouth, Pa., and later with the Mekeels. They list three children: Charity (b. 31 Jan 1800, d. 1899, m. Oliver McKeel/Mekeel), Hannah, and Phebe, whose daughters were Elmira and Martha (Mrs. Clinton Brown) ([R4-S2]). Harvey says James settled about 1797-98 in the part of Plymouth that became Jackson Twp., and that he was the father of Charity Mekeel (H0145) ([R4-S3]). On p.135 Harvey calls Samuel and James Pringle brothers, 'presumably natives of Connecticut', who lived in Orange Co., N.Y., for several years before 1790.",
+  "summary": "Brother of Samuel Pringle and husband of Phebe Lamoreux, who settled in what became Jackson Township, Luzerne County, about 1797; probably John's 5th-great-grand-uncle.",
+  "bio": "James Pringle, whose name was also written Prendle and Prindle, was a brother of Samuel Pringle; the brothers were 'presumably natives of Connecticut' who lived in Orange County, New York, for several years before 1790. He is probably John's 5th-great-grand-uncle, and through his marriage he was also uncle of Martha Lamoreaux. He was not the James Pringle born about 1799 who is John's ancestor.\n\nOn 19 May 1785 Rev. Silas Constant married 'James Prendle and Phebe Lamoreux' at Smith's Clove in Orange County. Phebe (1765–1856) was a daughter of John and Charity (Davenport) Lamoreux and a sister of Ensign Thomas Lamoreaux. About 1797 or 1798 James settled in the part of Plymouth, Pennsylvania, that later became Jackson Township. The couple had three children: Charity (31 January 1800 – 1899), who married Oliver Mekeel; Hannah; and Phebe, whose daughters were Elmira and Martha, later Mrs. Clinton Brown. In her widowhood Phebe lived with her sister Charity in Plymouth and afterwards with the Mekeels.",
   "facts": [
     {
       "label": "Disambiguation",
@@ -50,6 +50,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0167.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -73,5 +77,6 @@
       "found": "19 May 1785 (Constant) vs 9 May 1785 (Giles & Franklin)",
       "assessment": "Prefer the officiating minister's journal: 19 May."
     }
-  ]
+  ],
+  "researchNotes": "James Pringle, Samuel's brother ('brothers, presumably natives of Connecticut', Harvey Book), married Phebe Lamoreux, sister of Ensign Thomas, in 1785. Not John's ancestor James (b. c.1799).\n\nRev. Silas Constant married 'James Prendle and Phebe Lamoreux' at Smith's Clove on 19 May 1785 ([R4-S1]). Giles & Franklin say Phebe (1765-1856) was a daughter of John and Charity (Davenport) Lamoreux, lived with her sister Charity in Plymouth, Pa., and later with the Mekeels. They list three children: Charity (b. 31 Jan 1800, d. 1899, m. Oliver McKeel/Mekeel), Hannah, and Phebe, whose daughters were Elmira and Martha (Mrs. Clinton Brown) ([R4-S2]). Harvey says James settled about 1797-98 in the part of Plymouth that became Jackson Twp., and that he was the father of Charity Mekeel (H0145) ([R4-S3]). On p.135 Harvey calls Samuel and James Pringle brothers, 'presumably natives of Connecticut', who lived in Orange Co., N.Y., for several years before 1790."
 }

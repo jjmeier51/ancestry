@@ -5,8 +5,8 @@
     "note": "Tree only (shown Living); not researched."
   },
   "tags": [],
-  "summary": "John's great-uncle per the tree (brother of John T. Petriello).",
-  "bio": "Tree shows 'James (Living)' as a child of James Petriello and Mollie.",
+  "summary": "Son of James Petriello and Mollie and brother of John T. Petriello; John's great-uncle.",
+  "bio": "James was a son of James Petriello and Mollie and a brother of John T. Petriello, which makes him John's great-uncle.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -33,6 +33,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree shows 'James (Living)' as a child of James Petriello and Mollie."
 }

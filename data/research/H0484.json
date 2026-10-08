@@ -17,9 +17,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0484.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Architect, husband of John's cousin Bessie Springs Smith; in-law. Wikipedia's J. Lawrence Smith article notes that his brother-in-law James Clinch Smith witnessed White's murder (1906) ([R4-S1]).",
+  "bio": "Stanford White was the architect who married Bessie Springs Smith, a cousin of John's, which makes him an in-law rather than a blood relation. His brother-in-law James Clinch Smith was a witness to White's murder in 1906.",
   "sources": [
     "[R4-S1] Wikipedia, 'J. Lawrence Smith (New York politician)' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/J._Lawrence_Smith_(New_York_politician)"
   ],
@@ -34,5 +38,7 @@
       "people": [],
       "url": "https://commons.wikimedia.org/wiki/File:Stanford_White_by_George_Cox_ca._1892.jpg"
     }
-  ]
+  ],
+  "researchNotes": "Architect, husband of John's cousin Bessie Springs Smith; in-law. Wikipedia's J. Lawrence Smith article notes that his brother-in-law James Clinch Smith witnessed White's murder (1906) ([R4-S1]).",
+  "summary": "The architect Stanford White, husband of John's cousin Bessie Springs Smith; an in-law rather than a blood relative."
 }

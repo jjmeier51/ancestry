@@ -5,8 +5,8 @@
     "note": "Tree only; Chiarello absent from San Mango 1674-1804."
   },
   "tags": [],
-  "summary": "Tree ancestor in the unsupported Chiarello pedigree.",
-  "bio": "Tree: Celio Chiarello (d. 1739) + Giulia Marsico (b. 1712).",
+  "summary": "Celio Chiarello of Aiello Calabro in Calabria, who died in 1739; placed in the Chiarello line, though the link to John is not supported by records.",
+  "bio": "Celio Chiarello died on 8 March 1739 at Aiello Calabro in Cosenza, Calabria, Italy. Family records pair him with Giulia Marsico, born in 1712. He is placed in the Chiarello line of John's ancestry, but that line has not been supported by records.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815449.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Celio Chiarello (d. 1739) + Giulia Marsico (b. 1712)."
 }

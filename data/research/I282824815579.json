@@ -16,9 +16,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815579.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "Agostino Antonio was baptized on 30 August 1748, son of Giuseppe Orlando and Domenica Berardelli ([R4-S1]). He married Maria Mollame, daughter of Domenico, on 6 May 1782 ([R4-S2]). His parents and his wife are new to the tree.",
+  "bio": "Agostino Antonio Orlando, recorded as Augustino, was baptized on 30 August 1748 at San Mango D'Aquino, Catanzaro, Calabria, Italy, the son of Giuseppe Orlando and Domenica Berardelli. On 6 May 1782 he married Maria Mollame, daughter of Domenico Mollame. He was John's 5th-great-grandfather.",
   "link": {
     "confidence": "probable",
     "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
@@ -26,5 +30,7 @@
   "sources": [
     "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1747-1767 (Book 5), image 8, p. 10, no. 23; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
     "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 43, p. 80, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
-  ]
+  ],
+  "researchNotes": "Agostino Antonio was baptized on 30 August 1748, son of Giuseppe Orlando and Domenica Berardelli ([R4-S1]). He married Maria Mollame, daughter of Domenico, on 6 May 1782 ([R4-S2]). His parents and his wife are new to the tree.",
+  "summary": "Son of Giuseppe Orlando and Domenica Berardelli of San Mango D'Aquino, husband of Maria Mollame; John's 5th-great-grandfather."
 }

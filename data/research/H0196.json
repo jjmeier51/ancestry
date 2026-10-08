@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 2nd cousin 9x removed; ran the Mersereau spy ring for Washington.",
-  "bio": "Joshua Mersereau (1728-1804), via Jean Sr. -> Joshua (1658) -> Joshua (1696) -> Joshua. Ran the Mersereau spy ring (Staten Island) for Washington; Deputy Commissary of Prisoners; NY Assembly. Brothers Jacob (1730) and John/Johannes (1731) were ring members (2C9R); sons John LaGrange Mersereau (worked behind British lines on Staten Island) and Joshua III were spies (3C8R).",
+  "summary": "Ran the Mersereau spy ring on Staten Island for Washington and sat in the New York Assembly; probably John's 2nd cousin 9 times removed.",
+  "bio": "Joshua Mersereau was born in 1728, a great-grandson of Jean Mersereau Sr. through two earlier Joshuas, born in 1658 and 1696. He ran the Mersereau spy ring on Staten Island for Washington, served as Deputy Commissary of Prisoners and sat in the New York Assembly. His brothers Jacob, born in 1730, and John, also called Johannes, born in 1731, were members of the ring, and his sons John LaGrange Mersereau, who worked behind British lines on Staten Island, and Joshua III were spies as well. He died in 1804.\n\nHe is probably John's 2nd cousin 9 times removed; his brothers stand in the same degree, and his sons are 3rd cousins 8 times removed.",
   "sources": [
     "WikiTree Mersereau-1: https://www.wikitree.com/wiki/Mersereau-1",
     "Wikipedia, Mersereau Ring: https://en.wikipedia.org/wiki/Mersereau_Ring",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0196.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -70,5 +74,6 @@
       "file": "media/H0196/h0196-mersereau-8-1.jpg"
     }
   ],
-  "photo": "media/H0196/h0196-mersereau-8.jpg"
+  "photo": "media/H0196/h0196-mersereau-8.jpg",
+  "researchNotes": "Joshua Mersereau (1728-1804), via Jean Sr. -> Joshua (1658) -> Joshua (1696) -> Joshua. Ran the Mersereau spy ring (Staten Island) for Washington; Deputy Commissary of Prisoners; NY Assembly. Brothers Jacob (1730) and John/Johannes (1731) were ring members (2C9R); sons John LaGrange Mersereau (worked behind British lines on Staten Island) and Joshua III were spies (3C8R)."
 }

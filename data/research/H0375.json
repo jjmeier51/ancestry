@@ -9,8 +9,8 @@
     "Rofella Farino"
   ],
   "tags": [],
-  "summary": "Sister of Helen (Ferlaino) Cognetti; John's 2nd great-grandaunt.",
-  "bio": "Listed as 'Rofella' (Raffaela?), 15, born PA, in the 1920 census at 1306 Diamond Ave.",
+  "summary": "Sister of Helen (Ferlaino) Cognetti, born in Pennsylvania about 1904; John's 2nd great-grandaunt.",
+  "bio": "Raffaela Ferlaino was born in Pennsylvania about 1904 or 1905, a sister of Helen (Ferlaino) Cognetti. The 1920 census recorded her, aged 15, as 'Rofella' in the family household. She is John's 2nd great-grandaunt.",
   "sources": [
     "1920 census MFBR-YF8: https://familysearch.org/ark:/61903/1:1:MFBR-YF8"
   ],
@@ -35,6 +35,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0375.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Listed as 'Rofella' (Raffaela?), 15, born PA, in the 1920 census at 1306 Diamond Ave."
 }

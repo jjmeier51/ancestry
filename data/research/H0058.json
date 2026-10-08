@@ -9,8 +9,8 @@
     "Annie (Maria) Meier"
   ],
   "tags": [],
-  "summary": "Mrs. Anna (Maria) Meier of Wilkes-Barre, d. 1897 — lead prosecutrix in the Rockafellow bank case; NOT John's Maria A.; kinship unproven.",
-  "bio": "A depositor on the bank's last day, she lost $700, fought the embezzlement case of failed banker F. V. Rockafellow (1893–97) to the Superior Court, which reversed a lower-court ruling in 1897, told the judge in open court she 'did not think justice had been done', and died July 1897 after a fall on her way home from friends on Grove Street.",
+  "summary": "Wilkes-Barre depositor who pursued the failed banker F. V. Rockafellow through the courts and died in 1897; her kinship to John is unproven.",
+  "bio": "Anna Meier, also recorded as Annie or Maria Meier, lived in Wilkes-Barre, Luzerne County, Pennsylvania. She was a depositor at the bank of F. V. Rockafellow on its last day and lost $700 when it failed. She then pursued the embezzlement case against Rockafellow from 1893 to 1897, carrying it to the Superior Court, which in 1897 reversed a lower-court ruling; she told the judge in open court that she \"did not think justice had been done\". She died in July 1897 after a fall on her way home from visiting friends on Grove Street.\n\nShe was not John's ancestor Maria A. Meier, and whether she was related to the family at all is unproven.",
   "sources": [
     "Freeland Tribune 23 Nov 1896 https://www.loc.gov/resource/sn87080287/1896-11-23/ed-1/?sp=1 ; 22 Feb 1897 https://www.loc.gov/resource/sn87080287/1897-02-22/ed-1/?sp=1 ; 12 Jul 1897 https://www.loc.gov/resource/sn87080287/1897-07-12/ed-1/?sp=1",
     "Scranton Tribune 9 Jul 1897 https://www.loc.gov/resource/sn84026355/1897-07-09/ed-1/?sp=8",
@@ -37,6 +37,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0058.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "A depositor on the bank's last day, she lost $700, fought the embezzlement case of failed banker F. V. Rockafellow (1893–97) to the Superior Court, which reversed a lower-court ruling in 1897, told the judge in open court she 'did not think justice had been done', and died July 1897 after a fall on her way home from friends on Grove Street."
 }

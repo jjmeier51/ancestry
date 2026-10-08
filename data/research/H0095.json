@@ -10,8 +10,8 @@
     "Elisabet Mersereau"
   ],
   "tags": [],
-  "summary": "John's 10th-great-grandmother; widowed Huguenot matriarch who brought the Mersereau children from Moëze to New York.",
-  "bio": "Elisabet Dubois made her mark ('marque X') at her son Daniel Mercereau's wedding to Suzanne Marie Doucinet at the French Church of New York on 6 Aug 1693. She is not of the Louis DuBois (Walloon, New Paltz) family; no link to any other Dubois immigrant is proven. Her parents are unknown; birth at Moëze c.1636 is speculative (WikiTree Dubois-163).",
+  "summary": "Widowed Huguenot matriarch who brought the Mersereau children from Moëze in France to New York; John's 10th-great-grandmother.",
+  "bio": "Elisabet Dubois, also written Elizabeth, was the widowed Huguenot matriarch who brought the Mersereau children from Moëze, Charente-Maritime, France, to New York. On 6 August 1693 she made her mark at the French Church of New York at the wedding of her son Daniel Mercereau to Suzanne Marie Doucinet. She was not of the Walloon Louis DuBois family of New Paltz, and no connection to any other Dubois immigrant has been proven; her parents are unknown, and her birth at Moëze about 1636 is only a guess. She was John's 10th-great-grandmother.",
   "sources": [
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu pp.29-31",
     "WikiTree Dubois-163: https://www.wikitree.com/wiki/Dubois-163",
@@ -38,6 +38,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0095.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Elisabet Dubois made her mark ('marque X') at her son Daniel Mercereau's wedding to Suzanne Marie Doucinet at the French Church of New York on 6 Aug 1693. She is not of the Louis DuBois (Walloon, New Paltz) family; no link to any other Dubois immigrant is proven. Her parents are unknown; birth at Moëze c.1636 is speculative (WikiTree Dubois-163)."
 }

@@ -19,8 +19,8 @@
   "tags": [
     "immigrant"
   ],
-  "summary": "John's 4th-great-grandfather; Irish immigrant of 1848 who lived at Elmira, NY, then ran a restaurant in Plymouth.",
-  "bio": "Thomas Connole and his wife Honora Dwyre were 'natives of Ireland, who came to America in 1848, settling in the State of New York' (Bradsby 1893). Their children Mary (1850) and John F. (9 Mar 1853) were born at Elmira, and Honora 'Nora' in Plymouth Twp about 1855. FamilySearch gives him a birth in 1815 in 'County Clare' (from the Find a Grave index only - speculative; Connole is a north Clare surname, found mainly in Clare, Galway and Cork per John Grenham). He ran a restaurant in Plymouth, which John F. briefly managed after 1878. After Honora died (FamilySearch says at Elmira, speculative) he married Anastasia (Boney) Heffernan, widow of Richard Heffernan; this was after 1860, when she was still listed as Heffernan. He died in 1878 at Plymouth and was buried at St. Mary's, Hanover Twp. (FamilySearch). The family was not found in the full 1860 Elmira city census transcription.",
+  "summary": "Irish immigrant of 1848 who lived at Elmira, New York, then kept a restaurant in Plymouth, Pennsylvania; John's 4th-great-grandfather.",
+  "bio": "Thomas Connole, whose name was also written Connolly, was born in Ireland about 1815. Connole is a north Clare surname, found mainly in Clare, Galway and Cork, and one record places his birth in County Clare, though that is unproven. He and his wife Honora Dwyre were \"natives of Ireland, who came to America in 1848, settling in the State of New York\". Their children Mary, born in 1850, and John F., born 9 March 1853, were born at Elmira, and Honora, called Nora, was born in Plymouth Twp about 1855, by which time the family had moved to Luzerne County, Pennsylvania.\n\nIn Plymouth he kept a restaurant, which his son John F. briefly managed after his death. After Honora died, perhaps at Elmira, he married Anastasia (Boney) Heffernan, widow of Richard Heffernan; the marriage took place after 1860, when she was still recorded under the Heffernan name. He died in 1878 at Plymouth and was buried at St. Mary's, Hanover Twp. He is John's 4th-great-grandfather.",
   "residences": [
     {
       "date": "1848",
@@ -78,6 +78,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695307188.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Thomas Connole and his wife Honora Dwyre were 'natives of Ireland, who came to America in 1848, settling in the State of New York' (Bradsby 1893). Their children Mary (1850) and John F. (9 Mar 1853) were born at Elmira, and Honora 'Nora' in Plymouth Twp about 1855. FamilySearch gives him a birth in 1815 in 'County Clare' (from the Find a Grave index only - speculative; Connole is a north Clare surname, found mainly in Clare, Galway and Cork per John Grenham). He ran a restaurant in Plymouth, which John F. briefly managed after 1878. After Honora died (FamilySearch says at Elmira, speculative) he married Anastasia (Boney) Heffernan, widow of Richard Heffernan; this was after 1860, when she was still listed as Heffernan. He died in 1878 at Plymouth and was buried at St. Mary's, Hanover Twp. (FamilySearch). The family was not found in the full 1860 Elmira city census transcription."
 }

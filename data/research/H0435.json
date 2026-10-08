@@ -29,6 +29,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0435.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -55,7 +59,7 @@
       "value": "L4WX-HKC"
     }
   ],
-  "bio": "Charity Gould was the eldest child of Jacob Gould (d. 1849, aged 77, buried in the old Shupp cemetery, Plymouth; a New Jersey Revolutionary soldier) and Hannah Davenport, daughter of Thomas and Charity (Lamoreux) Davenport ([R4-S1]). She married Benjamin Pringle (1794-1853), son of Samuel and Martha (Lamoreaux) Pringle, about 1821, so she was both a granddaughter of Charity Lamoreux Davenport and a daughter-in-law of Martha Lamoreaux Pringle. Their children were Bethia (m. Caleb Roberts 1852, went to Iowa), Martha Ann (m. William Hutchinson), 'Lege' (Elijah, b. 1825/26, d. 1898, whose will is indexed in Salem Twp. 1898), Ira (1833/35-1918), Jacob Gould, Martin (California), and Caleb (b. 1839, 'went West') ([R4-S1], [R4-S2]).\n\nA primary record now names her as a mother: the 1897 death register of the town of Verona, Faribault Co., Minnesota, records Bethia Roberts, widow, died 30 Dec 1897 aged 75 years 3 months 9 days, born Pennsylvania, of Bright's disease, parents 'Benj. Pringle' and 'Charity Pringle', both born Pennsylvania ([R4-S3]). The FamilySearch tree gives Charity's birth as 16 Feb 1800 in Salem Twp. and her death on 19 Jan 1883 at Lehman, with burial at Beach Grove Cemetery, Beach Haven ([R4-S2]).",
+  "bio": "Charity Gould was born on 16 February 1800 in Salem Township, Luzerne County, Pennsylvania, the eldest child of Jacob Gould and Hannah Davenport. Her father, a New Jersey soldier of the Revolution, died in 1849 aged 77 and was buried in the old Shupp cemetery at Plymouth; her mother was a daughter of Thomas and Charity (Lamoreux) Davenport.\n\nAbout 1821 she married Benjamin Pringle (1794–1853), son of Samuel and Martha (Lamoreaux) Pringle, which made her at once a granddaughter of Charity Lamoreux Davenport and a daughter-in-law of Martha Lamoreaux Pringle. Their children were Bethia, who married Caleb Roberts in 1852 and went to Iowa, dying a widow at Verona, Faribault County, Minnesota, on 30 December 1897; Martha Ann, who married William Hutchinson; Elijah, called Lege (about 1825–1898), who died in Salem Township; Ira (about 1834–1918); Jacob Gould; Martin, who went to California; and Caleb, born in 1839, who \"went West\".\n\nThe family lived in Salem Township from 1860 to 1880. According to family records Charity died in Lehman Township on 19 January 1883 and was buried in Beach Grove Cemetery at Beach Haven.",
   "conflicts": [
     {
       "field": "spouses/children (FamilySearch tree)",
@@ -86,5 +90,7 @@
       ],
       "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L4WX-HKC"
     }
-  ]
+  ],
+  "researchNotes": "Charity Gould was the eldest child of Jacob Gould (d. 1849, aged 77, buried in the old Shupp cemetery, Plymouth; a New Jersey Revolutionary soldier) and Hannah Davenport, daughter of Thomas and Charity (Lamoreux) Davenport ([R4-S1]). She married Benjamin Pringle (1794-1853), son of Samuel and Martha (Lamoreaux) Pringle, about 1821, so she was both a granddaughter of Charity Lamoreux Davenport and a daughter-in-law of Martha Lamoreaux Pringle. Their children were Bethia (m. Caleb Roberts 1852, went to Iowa), Martha Ann (m. William Hutchinson), 'Lege' (Elijah, b. 1825/26, d. 1898, whose will is indexed in Salem Twp. 1898), Ira (1833/35-1918), Jacob Gould, Martin (California), and Caleb (b. 1839, 'went West') ([R4-S1], [R4-S2]).\n\nA primary record now names her as a mother: the 1897 death register of the town of Verona, Faribault Co., Minnesota, records Bethia Roberts, widow, died 30 Dec 1897 aged 75 years 3 months 9 days, born Pennsylvania, of Bright's disease, parents 'Benj. Pringle' and 'Charity Pringle', both born Pennsylvania ([R4-S3]). The FamilySearch tree gives Charity's birth as 16 Feb 1800 in Salem Twp. and her death on 19 Jan 1883 at Lehman, with burial at Beach Grove Cemetery, Beach Haven ([R4-S2]).",
+  "summary": "Granddaughter of Charity Lamoreux Davenport who married Benjamin Pringle, son of Samuel and Martha Lamoreaux Pringle; tied to John by blood and marriage."
 }

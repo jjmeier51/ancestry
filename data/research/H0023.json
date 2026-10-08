@@ -6,7 +6,7 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 4th great-aunt; sibling of Friedrich Mayer.",
+  "summary": "Sister of Friedrich Mayer, in domestic service at Freiburg in 1862 and godmother to his first child; John's 4th-great-aunt.",
   "sources": [
     "FamilySearch tree G7PF-7J6 / G921-25N",
     "notes/round3/meier_line.md",
@@ -33,6 +33,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0023.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "occupation": "domestic servant at Freiburg (1862)",
@@ -51,5 +55,6 @@
       "description": "Godmother at the baptism of Friedrich, son of Maria Anna Birkenmaier, whom her brother Friedrich Mayer acknowledged. [R4-S1]"
     }
   ],
-  "bio": "In January 1862 Sophie, then 30, was unmarried and in domestic service at Freiburg. She came home to Munzingen to be godmother to her brother Friedrich's first child, born before the parents' marriage ([R4-S1])."
+  "bio": "Sophie Mayer was born on 3 June 1831 at Munzingen, Freiburg im Breisgau, Baden-Württemberg, Germany, a sister of John's ancestor Friedrich Mayer. In January 1862, aged 30 and still unmarried, she was working as a domestic servant at Freiburg. On 13 January that year she came home to Munzingen to stand as godmother to her brother Friedrich's first child, a son also named Friedrich, who was born before his parents' marriage. She was John's 4th-great-aunt.",
+  "researchNotes": "In January 1862 Sophie, then 30, was unmarried and in domestic service at Freiburg. She came home to Munzingen to be godmother to her brother Friedrich's first child, born before the parents' marriage ([R4-S1])."
 }

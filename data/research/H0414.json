@@ -17,9 +17,13 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0414.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "bio": "FamilySearch does not have a Margaretha as wife of Christmann Grub: it names his wife (mother of Veltes 1615 and Caspar 1616) as 'Elssa', born 11 Apr 1597, with no source beyond a marriage index entry ([R4-S1]). The site's Margaretha is therefore unsupported by the tree that the site's Grub line otherwise follows; her name needs the Niederbrombach baptism of Caspar (26 May 1616), which should name the mother.",
+  "bio": "Margaretha is recorded as the wife of Christmann Grub and the mother of his sons Veltes, born in 1615, and Caspar, baptized at Niederbrombach on 26 May 1616. Her name is uncertain: other records call Christmann's wife Elssa, born on 11 April 1597, and neither name is yet backed by a baptism record naming the mother. She is John's 10th-great-grandparent.",
   "conflicts": [
     {
       "field": "name",
@@ -30,5 +34,7 @@
   ],
   "sources": [
     "[R4-S1] FamilySearch published tree, Elssa (G9MF-6ML), wife of Christmann Grub (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G9MF-6ML"
-  ]
+  ],
+  "researchNotes": "FamilySearch does not have a Margaretha as wife of Christmann Grub: it names his wife (mother of Veltes 1615 and Caspar 1616) as 'Elssa', born 11 Apr 1597, with no source beyond a marriage index entry ([R4-S1]). The site's Margaretha is therefore unsupported by the tree that the site's Grub line otherwise follows; her name needs the Niederbrombach baptism of Caspar (26 May 1616), which should name the mother.",
+  "summary": "Recorded as the wife of Christmann Grub and mother of Veltes and Caspar, born 1615 and 1616; John's 10th-great-grandparent, though her name is uncertain."
 }

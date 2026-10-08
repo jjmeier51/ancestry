@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Probably John's 3rd-great-grand-uncle.",
-  "bio": "Alby, 27, in James Pringle's 1850 household (relationship not stated). No Civil War service found.\n\nThe 1840 census of Plymouth Twp shows a boy aged 15-20 in James Pringle's household, which fits Alby, who was 27 in 1850 (born about 1823) ([R4-S2]). If he was James's son, James would have been about 24 at his birth; the 1840 household (a man and a woman each 30-40) does not rule that out. FamilySearch has no profile for Alby among James's children ([R4-S1]).",
+  "summary": "Member of James Pringle's household in Plymouth Township, born about 1823; probably John's 3rd-great-grand-uncle.",
+  "bio": "Alby Pringle was born in Pennsylvania about 1823. In 1850 he was living, aged 27, in the household of James Pringle, though the census did not state how they were related; a boy of between fifteen and twenty in James Pringle's household in Plymouth Township in 1840 also fits him. If he was James's son, James was about 24 when he was born, which the ages of the couple in 1840 do not rule out. He was probably John's 3rd-great-grand-uncle.",
   "sources": [
     "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
     "[R4-S1] FamilySearch published tree, James Pringle (KP7T-1HK), children list (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
@@ -34,6 +34,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0157.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Alby, 27, in James Pringle's 1850 household (relationship not stated). No Civil War service found.\n\nThe 1840 census of Plymouth Twp shows a boy aged 15-20 in James Pringle's household, which fits Alby, who was 27 in 1850 (born about 1823) ([R4-S2]). If he was James's son, James would have been about 24 at his birth; the 1840 household (a man and a woman each 30-40) does not rule that out. FamilySearch has no profile for Alby among James's children ([R4-S1])."
 }

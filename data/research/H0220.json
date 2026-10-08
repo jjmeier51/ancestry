@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "Sibling of John's 3rd-great-grandmother Catherine Scott (John's 3rd-great-grand-aunt).",
-  "bio": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 10 in 1850.\n\nFamilySearch gives Hannah's marriage to John S. Jones (1834-1904) in 1856 and her death on 17 Feb 1910. It has a child born in Wales in 1861, so the couple apparently spent time in Wales ([R4-S1]). A Social Security file for her son Frank Sylvester Jones names his mother as Hanna Scott.",
+  "summary": "Hannah Scott of Kingston, Pa., wife of John S. Jones and sister of Catherine Scott; John's 3rd-great-grand-aunt.",
+  "bio": "Hannah Scott was born on 2 August 1839, probably a daughter of Stephen and Julia Ann Scott of Kingston, Pa., and a sister of John's 3rd-great-grandmother Catherine Scott. In 1856 she married John S. Jones (1834–1904) in Pennsylvania. One of their children was born in Wales in 1861, so the couple apparently spent some time there. Among their sons was Frank Sylvester Jones. Hannah died on 17 February 1910.",
   "sources": [
     "FamilySearch (Scott children)",
     "1850 census Kingston Twp dwelling 262",
@@ -30,6 +30,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0220.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "death": {
@@ -51,5 +55,6 @@
       "label": "FamilySearch ID",
       "value": "G7LQ-QMP"
     }
-  ]
+  ],
+  "researchNotes": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 10 in 1850.\n\nFamilySearch gives Hannah's marriage to John S. Jones (1834-1904) in 1856 and her death on 17 Feb 1910. It has a child born in Wales in 1861, so the couple apparently spent time in Wales ([R4-S1]). A Social Security file for her son Frank Sylvester Jones names his mother as Hanna Scott."
 }

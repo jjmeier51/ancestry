@@ -20,8 +20,8 @@
   "tags": [
     "military"
   ],
-  "summary": "John's great-granduncle; WWII Army veteran.",
-  "bio": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household.",
+  "summary": "John's great-granduncle, a Scranton-born Second World War Army veteran who married Elizabeth Notarianni in 1943.",
+  "bio": "Salvatore D. Cognetti, known as Sal, was born in Scranton, Lackawanna County, Pennsylvania, on 21 September 1915, and was John's great-granduncle. As a small boy he was living in his Ferlaino grandparents' household in 1920, recorded there as Salvador, and he was still in Scranton in 1935 and 1940.\n\nHe enlisted in the US Army at Wilkes-Barre on 5 January 1942 and was a serving soldier when he married Elizabeth Notarianni on 16 October 1943. He died on 19 October 1990 and was buried in Cathedral Cemetery.",
   "military": [
     {
       "branch": "US Army",
@@ -68,6 +68,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695503586.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Tree: Salvatore 1915. Round 1 found no public record. Round 2: b. 21 Sep 1915, d. 19 Oct 1990; enlisted in the Army at Wilkes-Barre on 5 Jan 1942; a soldier when he married Elizabeth Notarianni on 16 Oct 1943 (license No. 1716, mother's maiden name 'Farino'); buried in Cathedral Cemetery. Grandson 'Salvador' in the 1920 Ferlaino household."
 }

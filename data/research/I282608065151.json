@@ -16,8 +16,8 @@
     "Elizabeth Smith"
   ],
   "tags": [],
-  "summary": "John's 9th-great-grandmother, wife of Job Smith and daughter of John Thompson of Setauket.",
-  "bio": "Daughter of John Thompson of Setauket. Round 1 rated her parentage 'probable to confirmed'. The tree and older sources (Thompson 1918; F. K. Smith 1967) name her mother as Hannah Brewster; Round 3 (Jacobus, TAG 12:199–204, 13:221) showed John Thompson's only recorded wife was Mary, and that the Hannah Brewster in this family married John's son Samuel. Preferred mother: Mary (surname unknown). Dates from tree 1657–1718; PDF gives the couple c.1647–c.1719.\n\nPelletreau's Appendix states that Job Smith 'married Elizabeth, daughter of John Thompson, Esq., of Setauket' and lists her seven children ([R4-S1]). Weygant (1897) repeats this but adds the now-disproven Mayflower Brewster mother and Rev. William Thompson grandfather ([R4-S2]).",
+  "summary": "Daughter of John Thompson of Setauket and wife of Job Smith, to whom she bore seven children; John's 9th-great-grandmother.",
+  "bio": "Elizabeth Thompson was a daughter of John Thompson, Esq., of Setauket. She was born about 1657 and died about 1718, both at New Haven, Connecticut, though one account places her life from about 1647 to about 1719. She married Job Smith, who is recorded as having \"married Elizabeth, daughter of John Thompson, Esq., of Setauket\", and she bore him seven children.\n\nOlder family histories gave her mother as Hannah Brewster of the Mayflower family, with the Rev. William Thompson as her grandfather, but that has since been disproven. John Thompson's only recorded wife was Mary, whose surname is unknown, and the Hannah Brewster in this family married John's son Samuel.",
   "facts": [
     {
       "label": "Tree shows",
@@ -49,6 +49,11 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608065151.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "researchNotes": "Daughter of John Thompson of Setauket. Round 1 rated her parentage 'probable to confirmed'. The tree and older sources (Thompson 1918; F. K. Smith 1967) name her mother as Hannah Brewster; Round 3 (Jacobus, TAG 12:199–204, 13:221) showed John Thompson's only recorded wife was Mary, and that the Hannah Brewster in this family married John's son Samuel. Preferred mother: Mary (surname unknown). Dates from tree 1657–1718; PDF gives the couple c.1647–c.1719.\n\nPelletreau's Appendix states that Job Smith 'married Elizabeth, daughter of John Thompson, Esq., of Setauket' and lists her seven children ([R4-S1]). Weygant (1897) repeats this but adds the now-disproven Mayflower Brewster mother and Rev. William Thompson grandfather ([R4-S2])."
 }

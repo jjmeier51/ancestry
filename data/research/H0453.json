@@ -25,6 +25,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0453.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -44,8 +48,10 @@
       "description": "Sponsor, with Marie Susanne Doucinet, for Pierre, son of Pierre Masse and Elisabet Mercereau (John Meier's ancestors' family). [R4-S1]"
     }
   ],
-  "bio": "The French Church of New York records the marriage on Sunday 16 Jul 1693 of Jean la Tourette, 'of Osse in Béarn', and Marie Mercereau, 'of Moise [Moëze] in Saintonge', by the minister Pierre Peiret, after banns on three successive Sundays. Pierre Masse, J. Mercereau, Josué Mercereau, Marie Mercereau and Elie Boudinot signed as witnesses ([R4-S1]). On the same day Josué Mercereau married Marie Chadaine, with Jean La Tourette among the witnesses. Three weeks earlier, on 25 Jun 1693, Jean had stood godfather to Pierre, son of Pierre Masse and Elisabet Mercereau ([R4-S1]).\n\nThe register gives four children: Marie (b. 23 Sep 1693, bapt. 6 Dec 1693), Jean (b. 6 Oct 1695, bapt. 20 Oct 1695, godmother Elizabet Mercereau), Pierre (b. 22 Nov 1697, bapt. 28 Nov 1697; the clerk wrote the father as 'Pierre Latourette', but Jean La Tourette signed) and David (b. 28 Dec 1699, bapt. 7 Jan 1700, sponsors Marie du Bois and Jean Chevalier) ([R4-S1]).",
+  "bio": "Jean La Tourette came from Osse in Béarn. On Sunday 16 July 1693, at the French Church of New York, the minister Pierre Peiret married him to Marie Mercereau, 'of Moise in Saintonge', after the banns had been read on three successive Sundays; Pierre Masse, J. Mercereau, Josué Mercereau, Marie Mercereau and Elie Boudinot signed as witnesses. The same day Josué Mercereau married Marie Chadaine, with Jean La Tourette among the witnesses, and three weeks earlier, on 25 June 1693, Jean had stood godfather to Pierre, son of Pierre Masse and Elisabet Mercereau.\n\nThe church register records four children: Marie, born 23 September 1693; Jean, born 6 October 1695, with Elizabet Mercereau as godmother; Pierre, born 22 November 1697, whose entry the clerk wrote under the name 'Pierre Latourette' although Jean La Tourette signed it; and David, born 28 December 1699, with Marie du Bois and Jean Chevalier as sponsors.",
   "sources": [
     "[R4-S1] Collections of the Huguenot Society of America, vol. I (1886): registers of the French Church (Eglise Françoise à la Nouvelle York), transcribed (primary) https://archive.org/details/collectionsofhug01hugu"
-  ]
+  ],
+  "researchNotes": "The French Church of New York records the marriage on Sunday 16 Jul 1693 of Jean la Tourette, 'of Osse in Béarn', and Marie Mercereau, 'of Moise [Moëze] in Saintonge', by the minister Pierre Peiret, after banns on three successive Sundays. Pierre Masse, J. Mercereau, Josué Mercereau, Marie Mercereau and Elie Boudinot signed as witnesses ([R4-S1]). On the same day Josué Mercereau married Marie Chadaine, with Jean La Tourette among the witnesses. Three weeks earlier, on 25 Jun 1693, Jean had stood godfather to Pierre, son of Pierre Masse and Elisabet Mercereau ([R4-S1]).\n\nThe register gives four children: Marie (b. 23 Sep 1693, bapt. 6 Dec 1693), Jean (b. 6 Oct 1695, bapt. 20 Oct 1695, godmother Elizabet Mercereau), Pierre (b. 22 Nov 1697, bapt. 28 Nov 1697; the clerk wrote the father as 'Pierre Latourette', but Jean La Tourette signed) and David (b. 28 Dec 1699, bapt. 7 Jan 1700, sponsors Marie du Bois and Jean Chevalier) ([R4-S1]).",
+  "summary": "Huguenot from Osse in Béarn who married Marie Mercereau at the French Church of New York in 1693."
 }

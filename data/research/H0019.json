@@ -6,8 +6,8 @@
   },
   "sex": "F",
   "tags": [],
-  "summary": "John's 4th great-aunt; eldest sister of Friedrich Mayer.",
-  "bio": "Born 3 Jul 1821 in house No. 68 (tree says 7 Jul, probably the baptism). Godparents: the local citizens and masons Anton Mayer and Joseph Mayer (possible kin of Heinrich) and a single woman Anna [Rothenbacher?]. Married Joseph Wenz (b. 1828) at Munzingen 26 Feb 1857; children Mary Ann (1861) and Heinrich Wenz (1863–1943). Died 2 Apr 1872. A Joseph [Wenz?] witnessed Friedrich's 1862 marriage.\n\nMaria Anna and her husband Joseph Wenz stood by her brother Friedrich's young family. Joseph Wenz, shoemaker, was godfather to Friedrich's first son in Jan 1862 ([R4-S2]). In May 1864 'M. Anna Mayer, wife of Joseph Wenz, citizen and shoemaker' was godmother, alongside Friedrich himself, to the illegitimate daughter of her youngest sister Paulina ([R4-S1]).",
+  "summary": "Eldest sister of Friedrich Mayer and John's 4th great-aunt; born in Munzingen in 1821, she married the shoemaker Joseph Wenz and stood godmother within the family.",
+  "bio": "Maria Anna Creszentia Mayer was born on 3 July 1821 in house No. 68 at Munzingen near Freiburg im Breisgau in Baden, the eldest sister of Friedrich Mayer and John's 4th great-aunt. Family records give 7 July, which was probably her baptism. Her godparents were the local masons Anton Mayer and Joseph Mayer, possibly kin of her father Heinrich, and a single woman named Anna. On 26 February 1857 she married Joseph Wenz, a shoemaker born in 1828, at Munzingen. Their children were Mary Ann, born in 1861, and Heinrich Wenz (1863–1943).\n\nMaria Anna and her husband stood by her brother Friedrich's young family. Joseph Wenz was godfather to Friedrich's first son in January 1862, and in May 1864 'M. Anna Mayer, wife of Joseph Wenz, citizen and shoemaker' was godmother, alongside Friedrich himself, to the daughter of her youngest sister Paulina. A Joseph, probably Wenz, also witnessed Friedrich's marriage in 1862. Maria Anna died on 2 April 1872.",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), births 1821 http://www.landesarchiv-bw.de/plink/?f=5-480946-220",
     "FamilySearch index https://familysearch.org/ark:/61903/1:1:QP3C-SCW4 ; https://familysearch.org/ark:/61903/1:1:QP3C-SCW6",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0019.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "events": [
@@ -51,5 +55,6 @@
       "place": "Munzingen",
       "description": "Her husband Joseph Wenz, shoemaker, was godfather to her nephew Friedrich (later Frederick Meier of Hazleton). [R4-S2]"
     }
-  ]
+  ],
+  "researchNotes": "Born 3 Jul 1821 in house No. 68 (tree says 7 Jul, probably the baptism). Godparents: the local citizens and masons Anton Mayer and Joseph Mayer (possible kin of Heinrich) and a single woman Anna [Rothenbacher?]. Married Joseph Wenz (b. 1828) at Munzingen 26 Feb 1857; children Mary Ann (1861) and Heinrich Wenz (1863–1943). Died 2 Apr 1872. A Joseph [Wenz?] witnessed Friedrich's 1862 marriage.\n\nMaria Anna and her husband Joseph Wenz stood by her brother Friedrich's young family. Joseph Wenz, shoemaker, was godfather to Friedrich's first son in Jan 1862 ([R4-S2]). In May 1864 'M. Anna Mayer, wife of Joseph Wenz, citizen and shoemaker' was godmother, alongside Friedrich himself, to the illegitimate daughter of her youngest sister Paulina ([R4-S1])."
 }

@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "Husband of John's 6th-great-grand-aunt Charity Lamoreux (and her first cousin).",
-  "bio": "Thomas Davenport (1749-1812) came to Plymouth in 1794. After his death in 1812 the estate 'remained in common' until 1820, worked by his sons as 'a commune of themselves' - the 'Davenport congress'.\n\nGiles & Franklin (1962) say Thomas was the eldest of nine children of Oliver Davenport and Hannah Seeley. He was born on 4 Jun 1749, fought in the Revolution, and married his first cousin Charity Lamoreux on 22 Feb 1774. They give his death as 4 or 5 May 1812. They also say the family went to Pennsylvania in 1787, and that his father Oliver, who lived with them until 1800, left him all his Plymouth property. The family's four houses had long front stoops in Hudson Valley Dutch style, unlike the Connecticut-style houses of their Yankee neighbours. They stood in a row between the 'Swing-gate' and the mountain road near the Nottingham colliery. Twelve children are listed, including Elizabeth (Mrs. Abram Van Loon), Hannah (Mrs. Jacob Gould), Daniel (H0188), Phoebe (Mrs. John Pringle, H0189) and Stephen (H0187) ([R4-S1]).",
+  "summary": "Revolutionary soldier who settled at Plymouth, Pennsylvania; husband of John's 6th-great-grand-aunt Charity Lamoreux, who was also his first cousin.",
+  "bio": "Thomas Davenport was born on 4 June 1749 at Philipstown in Dutchess, now Putnam, County, New York, the eldest of the nine children of Oliver Davenport and Hannah Seeley. He fought in the Revolution, and on 22 February 1774, in Orange County, he married his first cousin Charity Lamoreux. By one account the family went to Pennsylvania in 1787; Thomas settled at Plymouth in Luzerne County in 1794. His father Oliver lived with them until 1800 and left him all his Plymouth property.\n\nThe family's four houses stood in a row between the 'Swing-gate' and the mountain road near the Nottingham colliery, with the long front stoops of the Hudson Valley Dutch style rather than the Connecticut style of their Yankee neighbours. Thomas died on 4 or 5 May 1812. His estate 'remained in common' until 1820, worked by his sons as 'a commune of themselves', which neighbours called the 'Davenport congress'. Twelve children are recorded, including Elizabeth (Mrs. Abram Van Loon), Hannah (Mrs. Jacob Gould), Daniel, Phoebe (Mrs. John Pringle) and Stephen.",
   "sources": [
     "Harvey Book pp.355-356",
     "Wright pp.384-386: https://archive.org/details/historicalsketch00wrig_2",
@@ -51,6 +51,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0186.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -98,5 +102,6 @@
       "found": "1787 (Giles & Franklin)",
       "assessment": "The site's 1794 follows Wright. Giles & Franklin say 1787, but the FS tree's birthplace of Smith's Clove, N.Y., for daughter Phoebe (b. 1798/99) and the Pringle-Lamoreux removal of 1794 support the later date. The family may have gone back and forth. Unresolved."
     }
-  ]
+  ],
+  "researchNotes": "Thomas Davenport (1749-1812) came to Plymouth in 1794. After his death in 1812 the estate 'remained in common' until 1820, worked by his sons as 'a commune of themselves' - the 'Davenport congress'.\n\nGiles & Franklin (1962) say Thomas was the eldest of nine children of Oliver Davenport and Hannah Seeley. He was born on 4 Jun 1749, fought in the Revolution, and married his first cousin Charity Lamoreux on 22 Feb 1774. They give his death as 4 or 5 May 1812. They also say the family went to Pennsylvania in 1787, and that his father Oliver, who lived with them until 1800, left him all his Plymouth property. The family's four houses had long front stoops in Hudson Valley Dutch style, unlike the Connecticut-style houses of their Yankee neighbours. They stood in a row between the 'Swing-gate' and the mountain road near the Nottingham colliery. Twelve children are listed, including Elizabeth (Mrs. Abram Van Loon), Hannah (Mrs. Jacob Gould), Daniel (H0188), Phoebe (Mrs. John Pringle, H0189) and Stephen (H0187) ([R4-S1])."
 }

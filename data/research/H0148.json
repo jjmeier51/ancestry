@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 1st cousin 5x removed.",
-  "bio": "Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle, married (1) a VanScoy and (2) in 1864 the widow Ellen C. (Fuller) Nesbitt (her will 1898 in the Luzerne wills index).\n\nFamilySearch tree 2ZSS-9R1 lists Jacob Pringle, born 1828 in Luzerne Co., among the children of Benjamin Pringle and Charity Gould. It records his marriage to Ellen C. Fuller (1830-1898) at Plymouth in April 1864, and his census residence in Falls Twp., Wyoming Co., in 1870 and 1880. It names two daughters: Carry (b. 1865) and Emma C. (b. 15 Sep 1867, d. 1960) ([R4-S1]). One attached record is indexed as 'Jacob G Pr[ingle]', which supports the middle initial G (for Gould). The tree gives no death date.",
+  "summary": "Son of Benjamin and Charity (Gould) Pringle of Plymouth, born 1828, later a farmer's household in Falls Township, Wyoming County; John's 1st cousin 5 times removed.",
+  "bio": "Jacob Gould Pringle was born in 1828 in Luzerne Co., PA, a son of Benjamin Pringle and Charity Gould of Plymouth; his middle initial G stands for his mother's family name. He married first a VanScoy and second, at Plymouth in April 1864, the widow Ellen C. (Fuller) Nesbitt (1830–1898). In 1870 and 1880 the family was living in Falls Twp., Wyoming Co., PA. He had two daughters, Carry, born in 1865, and Emma C., born on 15 September 1867, who lived until 1960. He is John's 1st cousin 5 times removed.",
   "sources": [
     "Harvey Book p.362",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395)",
@@ -47,6 +47,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0148.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "birth": {
@@ -71,5 +75,6 @@
     "Death date and place unknown (after 1880; Falls Twp., Wyoming Co.?)",
     "First wife, 'a VanScoy' (Giles & Franklin), is not in the FS tree.",
     "Daughter Emma C. Pringle (1867-1960) may be the 'Emma Pringle, b. abt 1865' on the worklist; check before attaching."
-  ]
+  ],
+  "researchNotes": "Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle, married (1) a VanScoy and (2) in 1864 the widow Ellen C. (Fuller) Nesbitt (her will 1898 in the Luzerne wills index).\n\nFamilySearch tree 2ZSS-9R1 lists Jacob Pringle, born 1828 in Luzerne Co., among the children of Benjamin Pringle and Charity Gould. It records his marriage to Ellen C. Fuller (1830-1898) at Plymouth in April 1864, and his census residence in Falls Twp., Wyoming Co., in 1870 and 1880. It names two daughters: Carry (b. 1865) and Emma C. (b. 15 Sep 1867, d. 1960) ([R4-S1]). One attached record is indexed as 'Jacob G Pr[ingle]', which supports the middle initial G (for Gould). The tree gives no death date."
 }

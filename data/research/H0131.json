@@ -6,8 +6,8 @@
   },
   "sex": "M",
   "tags": [],
-  "summary": "John's 4th-great-grand-uncle; transported to New South Wales after the 1834 Ballynonty killing.",
-  "bio": "Son of Humphrey Heffernan and Anastasia Ryan (parentage probable). Convicted with his brother James over the 1834 killing of Constable Feeney at Ballynonty; first sentenced to life, he was also transported. He married twice, had eleven children and died at Orange, NSW, on 10 Dec 1869 (NSW death cert. 5288/1869). Not to be confused with the tree's Patrick Heffernan (1763-1871).",
+  "summary": "Tipperary man transported to New South Wales after the 1834 killing of a constable at Ballynonty; John's 4th-great-grand-uncle.",
+  "bio": "Patrick Heffernan was probably a son of Humphrey Heffernan and Anastasia Ryan. In 1834 he and his brother James were convicted over the killing of Constable Feeney at Ballynonty. Patrick was first sentenced to life, and like his brother was transported to New South Wales. There he married twice and raised eleven children. He died at Orange, New South Wales, on 10 December 1869. He is John's 4th-great-grand-uncle, and should not be confused with the older Patrick Heffernan (1763–1871) in the family.",
   "facts": [
     {
       "label": "Disambiguation",
@@ -39,6 +39,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0131.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -58,5 +62,6 @@
       "note": "",
       "url": "https://www.findagrave.com/memorial/173482277/patrick-heffernan"
     }
-  ]
+  ],
+  "researchNotes": "Son of Humphrey Heffernan and Anastasia Ryan (parentage probable). Convicted with his brother James over the 1834 killing of Constable Feeney at Ballynonty; first sentenced to life, he was also transported. He married twice, had eleven children and died at Orange, NSW, on 10 Dec 1869 (NSW death cert. 5288/1869). Not to be confused with the tree's Patrick Heffernan (1763-1871)."
 }

@@ -18,8 +18,8 @@
     "Margaret Doll"
   ],
   "tags": [],
-  "summary": "John's 7th-great-grandmother per the tree; wife of Johann Casper Doll.",
-  "bio": "Shown in the tree as 'Anna M. Dietz' 1724-1790 with a gravestone image; recorded as 'Margaret' in the 1757 Tohickon Reformed baptism of daughter Anna Catharine. WikiTree (Dietz-563) gives her birthplace as Zweibrücken without a source (speculative); several Dietz families from Eschweiler and Rieschweiler in Zweibrücken settled in Plainfield Twp.\n\nFamilySearch makes her a daughter of Joh. Adam Dietz Sr. (1696-1769) and Anna Catharine Abel (1704-1753), born at Rieschweiler, Zweibrücken, on 15 Feb 1724, and has both parents dying in the Wind Gap and Plainfield area of Northampton Co. ([R4-S1]). That would put her parents in the same community as the Dolls, which is plausible. The birth record is not attached to her profile, though, and the same FamilySearch family has two daughters born in 1724 (Anna Elisabetha and Anna Margaretha) and a second Anna Margaretha in 1733. Treat the parentage as a candidate only. Her death date of 23 Apr 1790 comes from a Pennsylvania cemetery-record entry for 'Margareth Dietz Doll' (its image downloaded empty) and agrees with WikiTree ([R4-S1], [R4-S2]). WikiTree's birthplace 'Zweibrücken' and its stray '29 Oct 1777 Edenkoben' line have no supporting source ([R4-S2]).",
+  "summary": "Wife of Johann Casper Doll, buried at Plainfield, Northampton County, Pennsylvania, in 1790; John's 7th-great-grandmother.",
+  "bio": "Anna Margaretha Dietz, known as Margaret, was the wife of Johann Casper Doll. Family records give her birth as 15 February 1724 at Rieschweiler in Zweibrücken, though this is not documented; several Dietz families from Eschweiler and Rieschweiler in Zweibrücken did settle in Plainfield Township, Northampton County, Pennsylvania, where the Dolls lived. Her parents are possibly Johann Adam Dietz Sr. (1696–1769) and Anna Catharine Abel (1704–1753), who are said to have died in the Wind Gap and Plainfield area, but that identification is only a candidate. She was recorded as 'Margaret' at the Tohickon Reformed Church in 1757 when her daughter Anna Catharine was baptized. She died in Plainfield Township on 23 April 1790 and was buried in Plainfield Cemetery, where she has a gravestone. She is John's 7th-great-grandmother.",
   "facts": [
     {
       "label": "Tree shows",
@@ -65,6 +65,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695584129.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
   "media": [
@@ -87,5 +91,6 @@
       "found": "Rieschweiler, Zweibrücken (FS); 'Zweibrücken' (WikiTree)",
       "assessment": "All unsourced; leave open until a parish record is found."
     }
-  ]
+  ],
+  "researchNotes": "Shown in the tree as 'Anna M. Dietz' 1724-1790 with a gravestone image; recorded as 'Margaret' in the 1757 Tohickon Reformed baptism of daughter Anna Catharine. WikiTree (Dietz-563) gives her birthplace as Zweibrücken without a source (speculative); several Dietz families from Eschweiler and Rieschweiler in Zweibrücken settled in Plainfield Twp.\n\nFamilySearch makes her a daughter of Joh. Adam Dietz Sr. (1696-1769) and Anna Catharine Abel (1704-1753), born at Rieschweiler, Zweibrücken, on 15 Feb 1724, and has both parents dying in the Wind Gap and Plainfield area of Northampton Co. ([R4-S1]). That would put her parents in the same community as the Dolls, which is plausible. The birth record is not attached to her profile, though, and the same FamilySearch family has two daughters born in 1724 (Anna Elisabetha and Anna Margaretha) and a second Anna Margaretha in 1733. Treat the parentage as a candidate only. Her death date of 23 Apr 1790 comes from a Pennsylvania cemetery-record entry for 'Margareth Dietz Doll' (its image downloaded empty) and agrees with WikiTree ([R4-S1], [R4-S2]). WikiTree's birthplace 'Zweibrücken' and its stray '29 Oct 1777 Edenkoben' line have no supporting source ([R4-S2])."
 }
