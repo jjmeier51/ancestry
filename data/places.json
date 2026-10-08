@@ -2660,5 +2660,47 @@
   "label": "Zähringen, Freiburg im Breisgau, Baden-Württemberg, Germany",
   "matched": "Zahringen, Freiburg im Breisgau, Baden-Württemberg, Germany",
   "precision": "exact"
+ },
+ "Chantilly, Virginia, USA": {
+  "lat": 38.88522,
+  "lon": -77.44868,
+  "label": "Chantilly, Fairfax County, Virginia, United States",
+  "matched": "Chantilly, Virginia, USA",
+  "precision": "exact"
+ },
+ "Fairfax County, Virginia, USA": {
+  "lat": 38.81564,
+  "lon": -77.28368,
+  "label": "Fairfax County, Virginia, United States",
+  "matched": "Fairfax County, Virginia, USA",
+  "precision": "exact"
+ },
+ "Fairfax Station, Virginia, USA": {
+  "lat": 38.79255,
+  "lon": -77.34517,
+  "label": "Fairfax Station, Fairfax County, Virginia, United States",
+  "matched": "Fairfax Station, Virginia, USA",
+  "precision": "exact"
+ },
+ "Fairfax, Virginia, USA": {
+  "lat": 38.84622,
+  "lon": -77.30637,
+  "label": "Fairfax, Virginia, 20030, United States",
+  "matched": "Fairfax, Virginia, USA",
+  "precision": "exact"
+ },
+ "Hillsborough, North Carolina, USA": {
+  "lat": 36.07538,
+  "lon": -79.0994,
+  "label": "Hillsborough, Orange County, North Carolina, 27278, United States",
+  "matched": "Hillsborough, North Carolina, USA",
+  "precision": "exact"
+ },
+ "Raleigh, North Carolina, USA": {
+  "lat": 35.7804,
+  "lon": -78.6391,
+  "label": "Raleigh, Wake County, North Carolina, United States",
+  "matched": "Raleigh, North Carolina, USA",
+  "precision": "exact"
  }
 }

@@ -2303,6 +2303,42 @@ window.FAMILY_DATA = {
    "lon": 7.86014,
    "label": "Zähringen, Freiburg im Breisgau, Baden-Württemberg, Germany",
    "precision": "exact"
+  },
+  "Chantilly, Virginia, USA": {
+   "lat": 38.88522,
+   "lon": -77.44868,
+   "label": "Chantilly, Fairfax County, Virginia, United States",
+   "precision": "exact"
+  },
+  "Fairfax County, Virginia, USA": {
+   "lat": 38.81564,
+   "lon": -77.28368,
+   "label": "Fairfax County, Virginia, United States",
+   "precision": "exact"
+  },
+  "Fairfax Station, Virginia, USA": {
+   "lat": 38.79255,
+   "lon": -77.34517,
+   "label": "Fairfax Station, Fairfax County, Virginia, United States",
+   "precision": "exact"
+  },
+  "Fairfax, Virginia, USA": {
+   "lat": 38.84622,
+   "lon": -77.30637,
+   "label": "Fairfax, Virginia, 20030, United States",
+   "precision": "exact"
+  },
+  "Hillsborough, North Carolina, USA": {
+   "lat": 36.07538,
+   "lon": -79.0994,
+   "label": "Hillsborough, Orange County, North Carolina, 27278, United States",
+   "precision": "exact"
+  },
+  "Raleigh, North Carolina, USA": {
+   "lat": 35.7804,
+   "lon": -78.6391,
+   "label": "Raleigh, Wake County, North Carolina, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -2476,37 +2512,24 @@ window.FAMILY_DATA = {
    },
    "residences": [
     {
-     "date": "1987-2004",
-     "place": "Ashburn, Virginia, USA"
+     "date": "1959–c.1977",
+     "place": "Levittown, Bucks County, Pennsylvania, USA",
+     "note": "Family home"
     },
     {
-     "date": "Abt 1988",
-     "place": "5146 Cottonwood Court , Fredericksburg , VA."
+     "date": "c.1977–1981",
+     "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+     "note": "East Stroudsburg State College"
     },
     {
-     "date": "Abt 1989",
-     "place": "5146 Cottonwood Court , Fredricksburg , VA."
+     "date": "1980s–",
+     "place": "Northern Virginia, USA",
+     "note": "Coached at George Mason High (Falls Church) and Herndon High; sons born in Alexandria 1990 and 1992"
     },
     {
-     "date": "1993",
-     "place": "Ashburn, VA"
-    },
-    {
-     "date": "1994",
-     "place": "Ashburn, VA"
-    },
-    {
-     "date": "2003-2020",
-     "place": "Ashburn, Virginia, USA"
-    },
-    {
-     "place": "5146 Cottonwood Court , Fredericksburg , VA"
-    },
-    {
-     "place": "Alexandria , VA ."
-    },
-    {
-     "place": "Ashburn, VA"
+     "date": "by 1998–present",
+     "place": "Ashburn, Loudoun County, Virginia, USA",
+     "note": ""
     }
    ],
    "citations": [
@@ -2541,15 +2564,32 @@ window.FAMILY_DATA = {
     "Thomas Meier Sr.",
     "Tommy Meier"
    ],
-   "tags": [],
-   "summary": "The owner's father, known as Tommy; one of eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania.",
-   "bio": "Thomas F. Meier, born 1959, is John's father and is shown in the tree as 'Thomas F Meier 1959–Living'. His parents are James (C.) Meier (1928–2008) and Kathryn F. McGuire (1930–1970). He married Sharon M. Petriello. Nothing else about him was researched.",
+   "tags": [
+    "athlete",
+    "coach"
+   ],
+   "summary": "The owner's father, known as Tommy: East Stroudsburg quarterback, head football coach at George Mason High and then Herndon High for 17 seasons (1990–2006), later assistant principal at Langley High School; one of the three Meier brothers who coached Fairfax County football.",
+   "bio": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College (now East Stroudsburg University) for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns (42 points, tying the team lead), ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District (the school lists football district titles in 1985 and 1990), and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to eventual state champion Annandale. A decade later he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night 2003; that 7-4 team ended a six-year regional playoff drought. He coached Herndon through the 2006 season (6-4, 3-3 in the Concorde District), seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The owner reports that he is among the winningest coaches in Virginia high-school history; a season-by-season record has not yet been compiled.\n\nHe then moved into administration at Langley High School in McLean, one of Virginia's top public schools, where as assistant principal he coordinated the committee planning the school's $100-million-class renovation (2011–14 coverage in the student paper) and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.",
    "sources": [
+    "Owner's statement, 8 Oct 2026",
     "John's Ancestry tree screenshots",
-    "Richard_Bull_Smith_Lineage.pdf",
-    "John T. Petriello Jr. obituary, 2024 (cited in research/notes/round2/italian_gaps.md)",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
-    "Owner's statement, 8 Oct 2026 (nine children in the family)"
+    "East Stroudsburg University, 2018 Football Media Guide (All-Time Lettermen: Tom Meier 1978-80, Jamie Meier 1977-80; yearly leaders; records): https://static.esuwarriors.com/custompages/Football/2018/2018%20ESU%20Football%20Media%20Guide.pdf",
+    "Washington Post, 20 Sep 1990, \"Herndon-West Potomac battle lines drawn for coaching brothers\": https://www.washingtonpost.com/archive/sports/1990/09/20/herndon-west-potomac-battle-lines-drawn-for-coaching-brothers/3651e730-f857-4203-a52f-212e3f7151b3/",
+    "Washington Post, 21 Sep 1991, \"No. 7 West Potomac stops Herndon\": https://www.washingtonpost.com/archive/sports/1991/09/21/no-7-west-potomac-stops-herndon/e1850e80-6676-4f04-ad4e-4e0f98c8ba78/",
+    "Washington Post, 24 Sep 1993, \"Leach-to-Steeper lifts Herndon in overtime\": https://www.washingtonpost.com/archive/sports/1993/09/24/leach-to-steeper-lifts-herndon-in-overtime/dc531d22-36e8-46ed-b471-d10fafc73f9c/",
+    "Washington Post, 9 Oct 2003, \"Herndon's Guyer: No Big Surprises\": https://www.washingtonpost.com/archive/local/2003/10/09/herndons-guyer-no-big-surprises/66c59fb1-6656-4298-b115-e753056bb902/",
+    "Connection Newspapers, 23 Jul 2012, \"Top 100: Brandon Guyer, Herndon, 2004\": https://www.connection-sports.com/news/2012/jul/23/top-100-brandon-guyer-herndon-2004/",
+    "Connection Newspapers, 24 Jul 2012, \"Top 100: Jon Carman, Herndon, Football, 1994\": https://www.connection-sports.com/news/2012/jul/24/top-100-jon-carman-herndon-football-1994/",
+    "Patch (Herndon), 8 Nov 2024, \"Remembering Herndon's History: Some of the Town's Famous Residents\": https://patch.com/virginia/herndon/remembering-herndons-history-some-towns-famous-residents",
+    "MaxPreps, Herndon Hornets football history (2006-07: head coach Tom Meier, 6-4): https://www.maxpreps.com/va/herndon/herndon-hornets/football/history/",
+    "Herndon High School, \"Herndon Hornet Championships\" (football district titles 1985, 1990): https://herndonhs.fcps.edu/student-life-activities/athletics/herndon-hornet-championships",
+    "Virginia Tech Athletics, Danny McGrath bio (\"three-year letterman ... for Coach Tom Meier at Herndon High\"): https://hokiesports.com/sports/football/roster/player/danny-mcgrath-2",
+    "The Saxon Scope (Langley HS), 5 Oct 2011, \"Dream school\": https://www.saxonscope.com/photos/2011/10/05/dream-school/",
+    "The Saxon Scope, 20 Oct 2011, \"Changing the face of Langley\": https://www.saxonscope.com/multimedia/2011/10/20/changing-the-face-of-langley-interactive-story/",
+    "The Saxon Scope, 12 Jun 2013, \"Langley renovation update\": https://www.saxonscope.com/news-2/2013/06/12/langley-renovation-update-3/",
+    "The Saxon Scope, 23 Sep 2013, \"Langley Leap Update\": https://www.saxonscope.com/news-2/2013/09/23/langley-leap-update/",
+    "The Saxon Scope, 21 Mar 2014, \"Saxons Shine in Regional Science Fair\": https://www.saxonscope.com/news-2/2014/03/21/saxons-shine-in-regional-science-fair/"
    ],
    "handoff": {
     "section": "3.1 John and his parents",
@@ -2572,18 +2612,264 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Owner listed his father's seven siblings with estimated years (earlier count of \"seven brothers and a sister\" superseded: three brothers, four sisters)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner's leads (George Mason HS and Herndon HS head coach, Langley administrator, retired 2014, East Stroudsburg with Jamie, met Sharon there). Verified: ESU 2018 media guide lists Tom Meier as a 1978-80 letterman with 1980 passing/scoring/long-TD entries; Washington Post 1990, 1991, 1993 and 2003 stories cover his Herndon tenure; MaxPreps shows 2006 as his last season; Langley's Saxon Scope names him assistant principal 2011-14. George Mason seasons not found in the Post archive (1985 Post story describes the programme's Group A struggles). Washington Post archive is readable only through a text proxy; full 1990 article is paywalled after the lede."
     }
    ],
    "nickname": "Tommy",
    "facts": [
     {
      "label": "Siblings",
-     "value": "Kathy (c.1955), Danny (c.1956), Jamie (c.1958), Susie (c.1960), Nancy (c.1961), Jack (c.1962) and Terry (c.1963) Meier."
+     "value": "Kathy (McGinley), Danny, Jamie, Susie, Nancy (Russo), Jack and Terry Meier."
+    },
+    {
+     "label": "Education",
+     "value": "East Stroudsburg State College (football letterman 1978–80)"
+    },
+    {
+     "label": "Profession",
+     "value": "Teacher, head football coach (George Mason HS, Herndon HS 1990–2006) and assistant principal (Langley HS); retired 2014"
+    },
+    {
+     "label": "Married",
+     "value": "Sharon M. Petriello, whom he met at East Stroudsburg"
+    },
+    {
+     "label": "Children",
+     "value": "Thomas Jr. (Tommy), John (Johnny) and Matthew (Matt)"
     }
    ],
    "openQuestions": [
-    "Did James C. Meier remarry after Kathryn's death in 1970? A Kathleen T. Meier obituary ran in the Courier Times on 15 Aug 2006, and a Fred Meier on 15 Jul 2012, and a Mary R. Meier on 26 Nov 2003: possible relatives in Levittown to check.",
-    "Exact birth dates and married names of the siblings; James C. Meier's 2008 obituary would confirm them."
+    "Season-by-season record at George Mason and Herndon (the owner says he is among the winningest coaches in Virginia history); which years he coached George Mason; teaching subject; marriage date and place."
+   ],
+   "notable": "Head football coach at George Mason High School (Falls Church) and Herndon High School (1990–2006); one of three brothers who were Fairfax County head coaches at the same time, a rarity noted by the Washington Post in 1990; later assistant principal at Langley High School.",
+   "funFacts": [
+    "In September 1990 the Washington Post previewed Herndon at West Potomac as a 'family affair': Tommy coaching Herndon, brother Danny coaching West Potomac and brother Jamie on Danny's staff.",
+    "At East Stroudsburg in 1980 he both threw three touchdown passes and caught two long touchdown passes (58 and 55 yards) in the same season.",
+    "He recruited future NFL lineman Jon Carman out of the school band in a parking lot, and had to order a single pair of extra-large game pants from the Atlanta Falcons to fit him."
+   ],
+   "events": [
+    {
+     "title": "Lettered in football at East Stroudsburg State College",
+     "date": "1978–1980",
+     "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+     "description": "1980: 45-of-71 passing, 521 yards, 3 TD; 7 touchdowns scored; 58- and 55-yard TD receptions still in the record book."
+    },
+    {
+     "title": "Head football coach, George Mason High School",
+     "date": "late 1980s",
+     "place": "Falls Church, Virginia, USA",
+     "description": "Per the owner; exact seasons not yet documented."
+    },
+    {
+     "title": "Named head football coach at Herndon High School",
+     "date": "1990",
+     "place": "Herndon, Fairfax County, Virginia, USA",
+     "description": "Succeeded Dennis Baughan; first season produced a Great Falls District title."
+    },
+    {
+     "title": "Herndon 8-2, Northern Region playoffs",
+     "date": "1993",
+     "place": "Herndon, Fairfax County, Virginia, USA",
+     "description": "Ranked No. 7 in the region; beat Robinson 6-0 in overtime; lost in the playoffs to eventual AAA champion Annandale."
+    },
+    {
+     "title": "Herndon 7-4, ends six-year playoff drought",
+     "date": "2003",
+     "place": "Herndon, Fairfax County, Virginia, USA",
+     "description": "Brandon Guyer scored a school-record seven touchdowns on homecoming night against West Potomac."
+    },
+    {
+     "title": "Final season as Herndon head coach",
+     "date": "2006",
+     "place": "Herndon, Fairfax County, Virginia, USA",
+     "description": "6-4 overall, 3-3 Concorde District; Joe Sheaffer took over in 2007."
+    },
+    {
+     "title": "Assistant principal, Langley High School",
+     "date": "2011–2014",
+     "place": "McLean, Fairfax County, Virginia, USA",
+     "description": "Coordinated the renovation committee and the Langley Leap senior internship programme."
+    },
+    {
+     "title": "Retired from Fairfax County Public Schools",
+     "date": "2014",
+     "place": "McLean, Fairfax County, Virginia, USA",
+     "description": "Owner's statement."
+    }
+   ],
+   "manual": true,
+   "media": [
+    {
+     "type": "record",
+     "title": "East Stroudsburg yearly statistical leaders: Tommy Meier passing 1980, Jamie Meier receiving 1979–80",
+     "date": "2018",
+     "source": "ESU 2018 Football Media Guide, p. 44",
+     "note": "",
+     "file": "media/I282604492836/esu-1980-stat-leaders.jpg",
+     "people": [
+      "M0014"
+     ]
+    },
+    {
+     "type": "record",
+     "title": "East Stroudsburg scoring leaders: Tommy Meier 7 TD, 42 points, 1980",
+     "date": "2018",
+     "source": "ESU 2018 Football Media Guide, p. 48",
+     "note": "",
+     "file": "media/I282604492836/esu-1980-scoring.jpg"
+    },
+    {
+     "type": "record",
+     "title": "East Stroudsburg all-time football lettermen: Tom Meier 1978–80, Jamie Meier 1977–80",
+     "date": "2018",
+     "source": "ESU 2018 Football Media Guide, p. 92",
+     "note": "",
+     "file": "media/I282604492836/esu-all-time-lettermen.jpg",
+     "people": [
+      "M0014"
+     ]
+    },
+    {
+     "type": "link",
+     "title": "ESU 2018 Football Media Guide (PDF, 9.5 MB)",
+     "date": "",
+     "source": "esuwarriors.com",
+     "note": "",
+     "url": "https://static.esuwarriors.com/custompages/Football/2018/2018%20ESU%20Football%20Media%20Guide.pdf",
+     "people": [
+      "M0014"
+     ]
+    },
+    {
+     "type": "link",
+     "title": "Washington Post: Herndon-West Potomac battle lines drawn for coaching brothers",
+     "date": "1990-09-20",
+     "source": "Washington Post",
+     "note": "",
+     "url": "https://www.washingtonpost.com/archive/sports/1990/09/20/herndon-west-potomac-battle-lines-drawn-for-coaching-brothers/3651e730-f857-4203-a52f-212e3f7151b3/",
+     "people": [
+      "M0014",
+      "M0013"
+     ]
+    },
+    {
+     "type": "link",
+     "title": "Washington Post: No. 7 West Potomac stops Herndon (second Meier brothers matchup)",
+     "date": "1991-09-21",
+     "source": "Washington Post",
+     "note": "",
+     "url": "https://www.washingtonpost.com/archive/sports/1991/09/21/no-7-west-potomac-stops-herndon/e1850e80-6676-4f04-ad4e-4e0f98c8ba78/",
+     "people": [
+      "M0013"
+     ]
+    },
+    {
+     "type": "link",
+     "title": "Washington Post: Leach-to-Steeper lifts Herndon in overtime",
+     "date": "1993-09-24",
+     "source": "Washington Post",
+     "note": "",
+     "url": "https://www.washingtonpost.com/archive/sports/1993/09/24/leach-to-steeper-lifts-herndon-in-overtime/dc531d22-36e8-46ed-b471-d10fafc73f9c/"
+    },
+    {
+     "type": "link",
+     "title": "Washington Post: Herndon's Guyer: No Big Surprises (Coach Tommy Meier)",
+     "date": "2003-10-09",
+     "source": "Washington Post",
+     "note": "",
+     "url": "https://www.washingtonpost.com/archive/local/2003/10/09/herndons-guyer-no-big-surprises/66c59fb1-6656-4298-b115-e753056bb902/"
+    },
+    {
+     "type": "link",
+     "title": "Connection: Top 100 – Brandon Guyer, Herndon 2004 (Meier quoted)",
+     "date": "2012-07-23",
+     "source": "Connection Newspapers",
+     "note": "",
+     "url": "https://www.connection-sports.com/news/2012/jul/23/top-100-brandon-guyer-herndon-2004/"
+    },
+    {
+     "type": "link",
+     "title": "Connection: Top 100 – Jon Carman, Herndon football 1994 (Meier quoted)",
+     "date": "2012-07-24",
+     "source": "Connection Newspapers",
+     "note": "",
+     "url": "https://www.connection-sports.com/news/2012/jul/24/top-100-jon-carman-herndon-football-1994/"
+    },
+    {
+     "type": "link",
+     "title": "Patch: Herndon's famous residents (Jon Carman 'played for coach Tommy Meier')",
+     "date": "2024-11-08",
+     "source": "Patch",
+     "note": "",
+     "url": "https://patch.com/virginia/herndon/remembering-herndons-history-some-towns-famous-residents"
+    },
+    {
+     "type": "link",
+     "title": "MaxPreps: Herndon football history (2006-07 head coach Tom Meier, 6-4)",
+     "date": "",
+     "source": "MaxPreps",
+     "note": "",
+     "url": "https://www.maxpreps.com/va/herndon/herndon-hornets/football/history/"
+    },
+    {
+     "type": "link",
+     "title": "Herndon High: Hornet championships (football district titles 1985, 1990)",
+     "date": "",
+     "source": "Herndon High School",
+     "note": "",
+     "url": "https://herndonhs.fcps.edu/student-life-activities/athletics/herndon-hornet-championships"
+    },
+    {
+     "type": "link",
+     "title": "Virginia Tech bio of Danny McGrath: 'letterman for Coach Tom Meier at Herndon High'",
+     "date": "2005",
+     "source": "Virginia Tech Athletics",
+     "note": "",
+     "url": "https://hokiesports.com/sports/football/roster/player/danny-mcgrath-2"
+    },
+    {
+     "type": "link",
+     "title": "Saxon Scope: Dream school (assistant principal Thomas Meier on the Langley renovation)",
+     "date": "2011-10-05",
+     "source": "The Saxon Scope, Langley HS",
+     "note": "",
+     "url": "https://www.saxonscope.com/photos/2011/10/05/dream-school/"
+    },
+    {
+     "type": "link",
+     "title": "Saxon Scope: Changing the face of Langley",
+     "date": "2011-10-20",
+     "source": "The Saxon Scope, Langley HS",
+     "note": "",
+     "url": "https://www.saxonscope.com/multimedia/2011/10/20/changing-the-face-of-langley-interactive-story/"
+    },
+    {
+     "type": "link",
+     "title": "Saxon Scope: Langley renovation update",
+     "date": "2013-06-12",
+     "source": "The Saxon Scope, Langley HS",
+     "note": "",
+     "url": "https://www.saxonscope.com/news-2/2013/06/12/langley-renovation-update-3/"
+    },
+    {
+     "type": "link",
+     "title": "Saxon Scope: Langley Leap update (Mr. Meier on the senior internship programme)",
+     "date": "2013-09-23",
+     "source": "The Saxon Scope, Langley HS",
+     "note": "",
+     "url": "https://www.saxonscope.com/news-2/2013/09/23/langley-leap-update/"
+    },
+    {
+     "type": "link",
+     "title": "Saxon Scope: Saxons shine in regional science fair (Assistant Principal Meier)",
+     "date": "2014-03-21",
+     "source": "The Saxon Scope, Langley HS",
+     "note": "",
+     "url": "https://www.saxonscope.com/news-2/2014/03/21/saxons-shine-in-regional-science-fair/"
+    }
    ]
   },
   {
@@ -2597,31 +2883,9 @@ window.FAMILY_DATA = {
    },
    "residences": [
     {
-     "date": "1967-2010",
-     "place": "Scranton, Pennsylvania, USA"
-    },
-    {
-     "date": "13 Oct 1988",
-     "place": "Scranton, Pennsylvania, USA"
-    },
-    {
-     "date": "Abt 1989",
-     "place": "Alexandria , VA ."
-    },
-    {
-     "date": "1993",
-     "place": "Ashburn, VA"
-    },
-    {
-     "date": "1994",
-     "place": "Ashburn, VA"
-    },
-    {
-     "date": "2004-2020",
-     "place": "Ashburn, Virginia, USA"
-    },
-    {
-     "place": "Ashburn, VA"
+     "date": "c.1978–1982",
+     "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+     "note": "East Stroudsburg University (owner)"
     }
    ],
    "citations": [
@@ -2648,7 +2912,7 @@ window.FAMILY_DATA = {
     "Sharon Petriello"
    ],
    "tags": [],
-   "summary": "John's mother; a living person, so not researched.",
+   "summary": "John's mother; grew up in Scranton, Pennsylvania, studied at East Stroudsburg University, where she met her husband Tom Meier, and lives in Ashburn, Virginia.",
    "bio": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.",
    "facts": [
     {
@@ -2662,6 +2926,10 @@ window.FAMILY_DATA = {
     {
      "label": "Children",
      "value": "Thomas Jr. (Tommy), John (Johnny) and Matthew."
+    },
+    {
+     "label": "Education",
+     "value": "East Stroudsburg University, Pennsylvania, where she met Tom Meier."
     }
    ],
    "sources": [
@@ -2669,7 +2937,8 @@ window.FAMILY_DATA = {
     "Richard_Bull_Smith_Lineage.pdf",
     "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
-    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
+    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Owner's statement, 8 Oct 2026"
    ],
    "handoff": {
     "section": "3.1 John and his parents",
@@ -2688,8 +2957,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Her father John T. Petriello Sr. died 1 Mar 2025; her mother Mary was living then. Both brothers and all three sons confirmed by the obituaries."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: she attended East Stroudsburg University and met Tom Meier there."
     }
-   ]
+   ],
+   "manual": true
   },
   {
    "id": "I282604492974",
@@ -35589,6 +35863,10 @@ window.FAMILY_DATA = {
     "place": "Pennsylvania, USA"
    },
    "nickname": "Kathy",
+   "aka": [
+    "Kathy Meier",
+    "Kathy McGinley"
+   ],
    "source": "research",
    "link": {
     "confidence": "confirmed",
@@ -35599,9 +35877,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the owner's list of his father's siblings (estimated birth year 1955, known as Kathy)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: married to Rick McGinley. Web search found no public record (obituary, press) naming her; no people-search sites used."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt. Married to Rick McGinley.",
    "sources": [
     "Owner's statement, 8 Oct 2026"
    ],
@@ -35613,8 +35895,15 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+    "Exact birth date; where she lives; profession. James C. Meier's 2008 obituary would list her as 'Kathleen/Kathryn McGinley'."
    ],
+   "facts": [
+    {
+     "label": "Married",
+     "value": "Rick McGinley"
+    }
+   ],
+   "manual": true,
    "birthDateReduced": true
   },
   {
@@ -35848,31 +36137,163 @@ window.FAMILY_DATA = {
     "place": "Pennsylvania, USA"
    },
    "nickname": "Jamie",
+   "aka": [
+    "Jamie Meier",
+    "Jaime Meier"
+   ],
    "source": "research",
    "link": {
     "confidence": "confirmed",
     "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
    },
-   "tags": [],
+   "tags": [
+    "athlete",
+    "coach"
+   ],
    "researchLog": [
     {
      "date": "2026-10-08",
      "note": "Added from the owner's list of his father's siblings (estimated birth year 1958, known as Jamie)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner's leads (Chantilly; wife Marie; daughters Sarah and Samantha; elementary principal; assistant coach; East Stroudsburg football). Verified from the ESU media guide (letterman 1977-80, All-PSAC 1979, receiving leader 1979-80), Washington Post 20-21 Dec 1989 (offensive coordinator at West Potomac) and 20 Sep 1990, and Connection 7 Jun 2006 ('Jaime Meier, an elementary-school principal'). School not identified."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of the owner.",
+   "summary": "Known as Jamie: All-PSAC split end at East Stroudsburg (1977–80), offensive coordinator of West Potomac's 1989 state champions under his brother Danny, and later an elementary-school principal; lives in Chantilly, Virginia.",
    "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "Owner's statement, 8 Oct 2026",
+    "East Stroudsburg University, 2018 Football Media Guide (All-Time Lettermen: Tom Meier 1978-80, Jamie Meier 1977-80; yearly leaders; records): https://static.esuwarriors.com/custompages/Football/2018/2018%20ESU%20Football%20Media%20Guide.pdf",
+    "East Stroudsburg University, \"300-yard passers / 100-yard rushers and receivers vs. PSAC\" (Jamie Meier 215 yds vs. Bloomsburg 1979): https://static.esuwarriors.com/custompages/Football/300%20Passers%20100%20Rushers%20Receivers%20PSAC.pdf",
+    "Washington Post, 21 Dec 1989, \"West Potomac surprises help win title\" (Jamie Meier, offensive coordinator): https://www.washingtonpost.com/archive/local/1989/12/21/football/66e06d34-e23a-4261-8a38-adceaaa7d016/",
+    "Washington Post, 20 Sep 1990, \"Herndon-West Potomac battle lines drawn for coaching brothers\": https://www.washingtonpost.com/archive/sports/1990/09/20/herndon-west-potomac-battle-lines-drawn-for-coaching-brothers/3651e730-f857-4203-a52f-212e3f7151b3/",
+    "Connection Newspapers, 7 Jun 2006, \"Principal Mike Campbell Switching Schools\" (\"Jaime Meier, an elementary-school principal\"): https://www.connectionnewspapers.com/news/2006/jun/07/principal-mike-campbell-switching-schools/"
    ],
    "residences": [
     {
-     "date": "",
+     "date": "c.1958–c.1976",
      "place": "Levittown, Bucks County, Pennsylvania, USA",
      "note": "Family home"
+    },
+    {
+     "date": "1977–1981",
+     "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+     "note": "East Stroudsburg State College"
+    },
+    {
+     "date": "1980s–present",
+     "place": "Chantilly, Fairfax County, Virginia, USA",
+     "note": "Northern Virginia; Chantilly per the owner"
     }
    ],
    "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+    "Exact birth date; which elementary school(s) he led and when he retired; Marie's maiden name; marriage date."
+   ],
+   "bio": "James \"Jamie\" Meier, the third of the eight Meier children of Levittown, Pennsylvania, played split end at East Stroudsburg State College for Denny Douds from 1977 to 1980, overlapping with his younger brother Tommy. As a freshman in 1977 he caught a 69-yard touchdown pass from Frank Bell against Mansfield. In 1979 he was the Warriors' leading receiver (26 catches, 476 yards, four touchdowns), was named All-PSAC East first team, and had 215 receiving yards at Bloomsburg, still among the top single-game totals in school history, plus a 102-yard day at Cortland State and a 67-yard touchdown from Barry Kennedy. He led the team again in 1980 with 37 catches for 496 yards.\n\nHe followed his brother Danny into Fairfax County, Virginia, as a football coach. As West Potomac's offensive coordinator he helped design the 'Springer Special' trick play that beat Highland Springs 17-14 for the 1989 Virginia AAA state championship and a 14-0 season; Danny told the Washington Post that it was Jamie who said 'let's do it on second down'. He was still on Danny's staff in 1990 when West Potomac played Tommy's Herndon team, and the owner notes that he assisted at Chantilly High as well.\n\nHe became an elementary-school principal; a 2006 Connection newspaper story describes him as 'Jaime Meier, an elementary-school principal'. He lives in Chantilly, Virginia, with his wife Marie; they have two daughters, Sarah and Samantha.",
+   "notable": "All-PSAC East first-team receiver (1979); offensive coordinator of the 1989 Virginia AAA champion West Potomac Wolverines; elementary-school principal.",
+   "funFacts": [
+    "His 215 receiving yards at Bloomsburg in 1979 was still the 11th-best single game in East Stroudsburg history in 2018.",
+    "All three Meier brothers who went into coaching were on Fairfax County sidelines in 1990: Danny (West Potomac head coach), Jamie (his assistant) and Tommy (Herndon head coach)."
+   ],
+   "events": [
+    {
+     "title": "Lettered in football at East Stroudsburg State College",
+     "date": "1977–1980",
+     "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+     "description": "Split end; team receiving leader 1979 and 1980."
+    },
+    {
+     "title": "All-PSAC East first team",
+     "date": "1979",
+     "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+     "description": "26 catches, 476 yards, 4 TD; 215 yards at Bloomsburg."
+    },
+    {
+     "title": "Offensive coordinator, West Potomac state champions",
+     "date": "1989-12-16",
+     "place": "Norfolk, Virginia, USA",
+     "description": "West Potomac 17, Highland Springs 14 in the Virginia AAA Division 6 final at Foreman Field; season record 14-0."
+    },
+    {
+     "title": "Assistant coach, West Potomac vs. Herndon",
+     "date": "1990-09-21",
+     "place": "Alexandria, Virginia, USA",
+     "description": "Washington Post 'family affair' preview: Danny, Jamie and Tommy Meier."
+    },
+    {
+     "title": "Elementary-school principal",
+     "date": "by 2006",
+     "place": "Fairfax County, Virginia, USA",
+     "description": "Named as an elementary-school principal in a June 2006 Connection newspaper article."
+    }
+   ],
+   "facts": [
+    {
+     "label": "Siblings",
+     "value": "Kathy (McGinley), Danny, Tommy, Susie, Nancy (Russo), Jack and Terry Meier."
+    },
+    {
+     "label": "Education",
+     "value": "East Stroudsburg State College (football letterman 1977–80)"
+    },
+    {
+     "label": "Profession",
+     "value": "Elementary-school principal; assistant football coach (West Potomac, Chantilly)"
+    },
+    {
+     "label": "Married",
+     "value": "Marie"
+    },
+    {
+     "label": "Children",
+     "value": "Sarah and Samantha"
+    }
+   ],
+   "manual": true,
+   "media": [
+    {
+     "type": "record",
+     "title": "All-PSAC East first team 1979: Jamie Meier (SE)",
+     "date": "2018",
+     "source": "ESU 2018 Football Media Guide, p. 43",
+     "note": "",
+     "file": "media/M0014/esu-all-psac-1979.jpg"
+    },
+    {
+     "type": "record",
+     "title": "East Stroudsburg receiving records: Jamie Meier 215 yards at Bloomsburg, 1979",
+     "date": "2018",
+     "source": "ESU 2018 Football Media Guide, p. 54",
+     "note": "",
+     "file": "media/M0014/esu-receiving-records.jpg"
+    },
+    {
+     "type": "link",
+     "title": "Washington Post: West Potomac surprises help win title (Jamie Meier, offensive coordinator)",
+     "date": "1989-12-21",
+     "source": "Washington Post",
+     "note": "",
+     "url": "https://www.washingtonpost.com/archive/local/1989/12/21/football/66e06d34-e23a-4261-8a38-adceaaa7d016/",
+     "people": [
+      "M0013"
+     ]
+    },
+    {
+     "type": "link",
+     "title": "Connection: Principal Mike Campbell switching schools ('Jaime Meier, an elementary-school principal')",
+     "date": "2006-06-07",
+     "source": "Connection Newspapers",
+     "note": "",
+     "url": "https://www.connectionnewspapers.com/news/2006/jun/07/principal-mike-campbell-switching-schools/"
+    },
+    {
+     "type": "link",
+     "title": "ESU records vs. PSAC opponents: Jamie Meier 215 receiving yards vs. Bloomsburg, 1979",
+     "date": "",
+     "source": "esuwarriors.com",
+     "note": "",
+     "url": "https://static.esuwarriors.com/custompages/Football/300%20Passers%20100%20Rushers%20Receivers%20PSAC.pdf"
+    }
    ],
    "birthDateReduced": true
   },
@@ -35923,6 +36344,9 @@ window.FAMILY_DATA = {
     "date": "1961",
     "place": "Pennsylvania, USA"
    },
+   "aka": [
+    "Nancy Russo"
+   ],
    "source": "research",
    "link": {
     "confidence": "confirmed",
@@ -35933,9 +36357,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the owner's list of his father's siblings (estimated birth year 1961)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: married to Anthony 'Tony' Russo; children Anthony, Chelsea, Gianna and Emily. No public record found by web search."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt. Married to Tony Russo; four children.",
    "sources": [
     "Owner's statement, 8 Oct 2026"
    ],
@@ -35947,8 +36375,19 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+    "Exact birth date; where the Russos live; professions."
    ],
+   "facts": [
+    {
+     "label": "Married",
+     "value": "Anthony \"Tony\" Russo"
+    },
+    {
+     "label": "Children",
+     "value": "Anthony, Chelsea, Gianna and Emily Russo"
+    }
+   ],
+   "manual": true,
    "birthDateReduced": true
   },
   {
@@ -36000,7 +36439,9 @@ window.FAMILY_DATA = {
    },
    "nickname": "Terry",
    "aka": [
-    "Teresa Meier"
+    "Terry Meier",
+    "Teresa Meier",
+    "Terry Borgman"
    ],
    "source": "research",
    "link": {
@@ -36012,9 +36453,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the owner's list of his father's siblings (estimated birth year 1963, known as Terry)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: was married to a Borgman, later divorced. No public record found by web search."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+   "summary": "Known as Terry (Theresa or Teresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt.",
    "sources": [
     "Owner's statement, 8 Oct 2026"
    ],
@@ -36026,8 +36471,15 @@ window.FAMILY_DATA = {
     }
    ],
    "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+    "Spelling of her first name (Theresa/Teresa); exact birth date; the Borgman husband's first name; where she lives; profession."
    ],
+   "facts": [
+    {
+     "label": "Married",
+     "value": "A Borgman; the marriage ended in divorce."
+    }
+   ],
+   "manual": true,
    "birthDateReduced": true
   },
   {
@@ -36056,7 +36508,7 @@ window.FAMILY_DATA = {
   {
    "id": "M0020",
    "given": "Laura",
-   "surname": "Meier",
+   "surname": "De Santis",
    "sex": "F",
    "source": "research",
    "link": {
@@ -36068,12 +36520,23 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the owner's statement."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Owner: her surname is still De Santis; corrected from 'Meier'."
     }
    ],
-   "summary": "A living family member; recorded from the owner's statement.",
+   "summary": "Wife of Tommy Meier Jr. and mother of Luca; she kept her surname, De Santis.",
    "sources": [
     "Owner's statement, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
+   ],
+   "manual": true,
+   "facts": [
+    {
+     "label": "Surname",
+     "value": "De Santis (kept after marriage)"
+    }
    ]
   },
   {
@@ -36140,12 +36603,20 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "A Mike Meier, Robinson Secondary senior, was a Washington Post All-Met honorable-mention running back in fall 2006, while Danny Meier was Robinson's principal. Probably this Mike; not confirmed. https://www.washingtonpost.com/wp-srv/sports/hssports/longterm/allmets/fall06/football.html"
     }
    ],
    "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. An Army second lieutenant at Fort Sill in 2013.",
    "sources": [
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
    ],
+   "openQuestions": [
+    "Confirm whether he is the Mike Meier named Washington Post All-Met honorable mention (running back, Robinson, 2006)."
+   ],
+   "manual": true,
    "birthDateReduced": true
   },
   {
@@ -36227,6 +36698,253 @@ window.FAMILY_DATA = {
     "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
    ],
    "birthDateReduced": true
+  },
+  {
+   "id": "M0027",
+   "given": "Rick",
+   "surname": "McGinley",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Married to the owner's aunt Kathy, per the owner."
+   },
+   "tags": [],
+   "summary": "Husband of Kathy (Meier) McGinley; uncle by marriage of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
+  },
+  {
+   "id": "M0028",
+   "given": "Marie",
+   "surname": "Meier",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Married to the owner's uncle Jamie, per the owner."
+   },
+   "tags": [],
+   "summary": "Wife of Jamie Meier; aunt by marriage of the owner. Lives in Chantilly, Virginia.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ],
+   "facts": [
+    {
+     "label": "Maiden name",
+     "value": "Not recorded"
+    }
+   ],
+   "residences": [
+    {
+     "date": "",
+     "place": "Chantilly, Fairfax County, Virginia, USA",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "M0029",
+   "given": "Sarah",
+   "surname": "Meier",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of the owner's uncle Jamie, per the owner."
+   },
+   "tags": [],
+   "summary": "Daughter of Jamie and Marie Meier; first cousin of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
+  },
+  {
+   "id": "M0030",
+   "given": "Samantha",
+   "surname": "Meier",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of the owner's uncle Jamie, per the owner."
+   },
+   "tags": [],
+   "summary": "Daughter of Jamie and Marie Meier; first cousin of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
+  },
+  {
+   "id": "M0031",
+   "given": "Anthony",
+   "surname": "Russo",
+   "sex": "M",
+   "aka": [
+    "Tony Russo"
+   ],
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Married to the owner's aunt Nancy, per the owner."
+   },
+   "tags": [],
+   "summary": "Husband of Nancy (Meier) Russo, known as Tony; uncle by marriage of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ],
+   "nickname": "Tony"
+  },
+  {
+   "id": "M0032",
+   "given": "Anthony",
+   "surname": "Russo",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of the owner's aunt Nancy, per the owner."
+   },
+   "tags": [],
+   "summary": "Son of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
+  },
+  {
+   "id": "M0033",
+   "given": "Chelsea",
+   "surname": "Russo",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of the owner's aunt Nancy, per the owner."
+   },
+   "tags": [],
+   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
+  },
+  {
+   "id": "M0034",
+   "given": "Gianna",
+   "surname": "Russo",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of the owner's aunt Nancy, per the owner."
+   },
+   "tags": [],
+   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
+  },
+  {
+   "id": "M0035",
+   "given": "Emily",
+   "surname": "Russo",
+   "sex": "F",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of the owner's aunt Nancy, per the owner."
+   },
+   "tags": [],
+   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of the owner.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
+  },
+  {
+   "id": "M0036",
+   "given": "",
+   "surname": "Borgman",
+   "sex": "M",
+   "source": "research",
+   "link": {
+    "confidence": "confirmed",
+    "note": "Former husband of the owner's aunt Terry, per the owner."
+   },
+   "tags": [],
+   "summary": "Former husband of Terry Meier; the marriage ended in divorce. First name not yet recorded.",
+   "manual": true,
+   "sources": [
+    "Owner's statement, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from the owner's statement (8 Oct 2026). Living person: no further research; name only."
+    }
+   ]
   }
  ],
  "families": [
@@ -39546,14 +40264,47 @@ window.FAMILY_DATA = {
    ]
   },
   {
-   "id": "CF0388",
+   "id": "MF0006",
+   "husband": "M0027",
+   "wife": "M0012",
+   "children": []
+  },
+  {
+   "id": "MF0007",
+   "husband": "M0014",
+   "wife": "M0028",
+   "children": [
+    "M0029",
+    "M0030"
+   ]
+  },
+  {
+   "id": "MF0008",
+   "husband": "M0031",
+   "wife": "M0016",
+   "children": [
+    "M0032",
+    "M0033",
+    "M0034",
+    "M0035"
+   ]
+  },
+  {
+   "id": "MF0009",
+   "husband": "M0036",
+   "wife": "M0018",
+   "status": "divorced",
+   "children": []
+  },
+  {
+   "id": "CF0392",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0389",
+   "id": "CF0393",
    "children": [
     "I282608085305"
    ],
@@ -39562,7 +40313,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 349,
-  "research": 540
+  "research": 550
  },
  "stories": [
   {

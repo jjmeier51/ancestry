@@ -15,7 +15,7 @@
     "Sharon Petriello"
   ],
   "tags": [],
-  "summary": "John's mother; a living person, so not researched.",
+  "summary": "John's mother; grew up in Scranton, Pennsylvania, studied at East Stroudsburg University, where she met her husband Tom Meier, and lives in Ashburn, Virginia.",
   "bio": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.",
   "facts": [
     {
@@ -29,6 +29,10 @@
     {
       "label": "Children",
       "value": "Thomas Jr. (Tommy), John (Johnny) and Matthew."
+    },
+    {
+      "label": "Education",
+      "value": "East Stroudsburg University, Pennsylvania, where she met Tom Meier."
     }
   ],
   "sources": [
@@ -36,7 +40,8 @@
     "Richard_Bull_Smith_Lineage.pdf",
     "John T. Petriello Jr. obituary, Montgomery News, 2024: https://themontynews.org/single-post/john-t-petriello-jr-65 (research/notes/round2/italian_gaps.md line 157)",
     "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
-    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
+    "Obituary of John T. Petriello Jr., 2024: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "Owner's statement, 8 Oct 2026"
   ],
   "handoff": {
     "section": "3.1 John and his parents",
@@ -55,6 +60,18 @@
     {
       "date": "2026-10-08",
       "note": "Her father John T. Petriello Sr. died 1 Mar 2025; her mother Mary was living then. Both brothers and all three sons confirmed by the obituaries."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner: she attended East Stroudsburg University and met Tom Meier there."
     }
-  ]
+  ],
+  "residences": [
+    {
+      "date": "c.1978–1982",
+      "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
+      "note": "East Stroudsburg University (owner)"
+    }
+  ],
+  "manual": true
 }

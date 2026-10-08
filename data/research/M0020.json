@@ -9,11 +9,22 @@
     {
       "date": "2026-10-08",
       "note": "Added from the owner's statement."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner: her surname is still De Santis; corrected from 'Meier'."
     }
   ],
-  "summary": "A living family member; recorded from the owner's statement.",
+  "summary": "Wife of Tommy Meier Jr. and mother of Luca; she kept her surname, De Santis.",
   "sources": [
     "Owner's statement, 8 Oct 2026",
     "Obituary of John T. Petriello Sr., 2025"
+  ],
+  "manual": true,
+  "facts": [
+    {
+      "label": "Surname",
+      "value": "De Santis (kept after marriage)"
+    }
   ]
 }

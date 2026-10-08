@@ -188,11 +188,11 @@
     const a = get(aId), b = get(bId);
     if (!a || !b) return null;
     const sf = spouseFamilies(aId).find(f => f.husband === bId || f.wife === bId);
-    if (sf) return sf.status === 'engaged' ? gendered(b, 'fiancé', 'fiancée', 'fiancé(e)') : gendered(b, 'husband', 'wife', 'spouse');
+    if (sf) return sf.status === 'engaged' ? gendered(b, 'fiancé', 'fiancée', 'fiancé(e)') : sf.status === 'divorced' ? gendered(b, 'former husband', 'former wife', 'former spouse') : gendered(b, 'husband', 'wife', 'spouse');
     const blood = relationshipBlood(aId, bId);
     if (blood) return blood;
     for (const s of spouses(aId)) { const r = relationshipBlood(s.id, bId); if (r && r !== 'self') return r + '-in-law'; }
-    for (const s of spouses(bId)) { const r = relationshipBlood(aId, s.id); if (r && r !== 'self') return gendered(b, 'husband', 'wife', 'spouse') + ' of ' + gendered(a, 'his', 'her', 'their') + ' ' + r; }
+    for (const s of spouses(bId)) { const r = relationshipBlood(aId, s.id); if (r && r !== 'self') { const f = spouseFamilies(bId).find(x => x.husband === s.id || x.wife === s.id); const former = f && f.status === 'divorced' ? 'former ' : ''; return former + gendered(b, 'husband', 'wife', 'spouse') + ' of ' + gendered(a, 'his', 'her', 'their') + ' ' + r; } }
     return null;
   }
   function relationshipSentence(aId, bId) {
@@ -201,7 +201,9 @@
     if (aId === bId) return `${fullName(b)} is you.`;
     const r = relationship(aId, bId);
     if (!r) return `No known relationship to ${shortName(a)} yet.`;
-    return `${shortName(b)} is ${/^(husband|wife|spouse) of/.test(r) ? 'the ' + r : 'the ' + r + ' of'} ${shortName(a)}.`;
+    const m = r.match(/^((?:former )?(?:husband|wife|spouse)) of (?:his|her|their) (.+)$/);
+    if (m) return `${shortName(b)} is the ${m[1]} of ${shortName(a)}'s ${m[2]}.`;
+    return `${shortName(b)} is the ${r} of ${shortName(a)}.`;
   }
   function relationshipShort(aId, bId) {
     if (aId === bId) return 'You';

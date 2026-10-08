@@ -165,7 +165,7 @@
       });
       F.spouseFamilies(p.id).forEach(f => {
         const sp = F.get(f.husband === p.id ? f.wife : f.husband);
-        fam.appendChild(el('h3', { text: sp ? (f.status === 'engaged' ? relLabel(sp, ['Fiancé', 'Fiancée', 'Fiancé(e)']) : f.status === 'partner' ? 'Partner' : relLabel(sp, ['Husband', 'Wife', 'Spouse'])) : 'Partner' }));
+        fam.appendChild(el('h3', { text: sp ? (f.status === 'engaged' ? relLabel(sp, ['Fiancé', 'Fiancée', 'Fiancé(e)']) : f.status === 'partner' ? 'Partner' : f.status === 'divorced' ? relLabel(sp, ['Former husband', 'Former wife', 'Former spouse']) : relLabel(sp, ['Husband', 'Wife', 'Spouse'])) : 'Partner' }));
         if (sp) fam.appendChild(A.personRow(sp, { compact: true }));
         if (f.marriage && (f.marriage.date || f.marriage.place)) fam.appendChild(el('p', { class: 'muted small' }, ['Married '].concat(eventNode(f.marriage))));
         const dl = eventLine(f.divorce); if (dl) fam.appendChild(el('p', { class: 'muted small', text: 'Divorced ' + dl }));

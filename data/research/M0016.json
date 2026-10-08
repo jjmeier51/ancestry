@@ -9,9 +9,13 @@
     {
       "date": "2026-10-08",
       "note": "Added from the owner's list of his father's siblings (estimated birth year 1961)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner: married to Anthony 'Tony' Russo; children Anthony, Chelsea, Gianna and Emily. No public record found by web search."
     }
   ],
-  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt. Married to Tony Russo; four children.",
   "sources": [
     "Owner's statement, 8 Oct 2026"
   ],
@@ -23,6 +27,17 @@
     }
   ],
   "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
-  ]
+    "Exact birth date; where the Russos live; professions."
+  ],
+  "facts": [
+    {
+      "label": "Married",
+      "value": "Anthony \"Tony\" Russo"
+    },
+    {
+      "label": "Children",
+      "value": "Anthony, Chelsea, Gianna and Emily Russo"
+    }
+  ],
+  "manual": true
 }

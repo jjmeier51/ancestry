@@ -9,9 +9,13 @@
     {
       "date": "2026-10-08",
       "note": "Added from the owner's list of his father's siblings (estimated birth year 1955, known as Kathy)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Owner: married to Rick McGinley. Web search found no public record (obituary, press) naming her; no people-search sites used."
     }
   ],
-  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of the owner.",
+  "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and the owner's aunt. Married to Rick McGinley.",
   "sources": [
     "Owner's statement, 8 Oct 2026"
   ],
@@ -23,6 +27,14 @@
     }
   ],
   "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
-  ]
+    "Exact birth date; where she lives; profession. James C. Meier's 2008 obituary would list her as 'Kathleen/Kathryn McGinley'."
+  ],
+  "nickname": "Kathy",
+  "facts": [
+    {
+      "label": "Married",
+      "value": "Rick McGinley"
+    }
+  ],
+  "manual": true
 }
