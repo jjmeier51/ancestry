@@ -1,0 +1,32 @@
+{
+  "id": "I282608055977",
+  "name": "William Wells Esq.",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "The Southold town records print the 26 Dec 1678 deed of gift (recorded 3 Apr 1679) by which 'Mary Mapes ... the relect of William Wells ... lately desceased, and now wife to Thomas Mapes Junr' passed property she had received from Wells by deed of gift to 'my son in law John Yongs ... and to Mary Yongs his wife my daughter' (S1). Round 3 described this as Mary's will; it is a deed of gift. A 1677 entry also records meadow 'had of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread' (S1).",
+  "conflicts": [
+    {
+      "field": "widow's 1678 document",
+      "siteValue": "Round 3: 'Mary's own will of 26 Dec 1678'",
+      "foundValue": "Deed of gift dated 26 Dec 1678, recorded 3 Apr 1679 (Southold Town Records 1:302-303)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Correct the description to 'deed of gift'."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 302-303: deed of gift 26 Dec 1678 (recorded 3 Apr 1679) by 'Mary Mapes of Southold ... the relect of William Wells of ye sd Town ... lately desceased, and now wife to Thomas Mapes Junr', who had received all Wells's lands and goods by his deed of gift, to 'my son in law John Yongs, in right of his wife and to Mary Yongs his wife my daughter' (witnesses Thomas Mapes, William Wells); also an entry (Liber page 141, 1677) of meadow had 'of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread'",
+      "url": "https://archive.org/details/southoldtownreco0000jwic",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Mary Mapes, relict of William Wells, deed of gift to son-in-law John Youngs and daughter Mary"
+    }
+  ],
+  "searchedNoResult": [
+    "English origin: no new evidence (Hayes 1878 already known)"
+  ],
+  "researchLogEntry": "Round 4: read the 1678 Mary Mapes deed of gift in Southold Town Records vol. 1, pp. 302-303."
+}

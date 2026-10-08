@@ -1,0 +1,69 @@
+{
+  "id": "H0304",
+  "name": "Bessie Springs Smith",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Bessie Springs Smith White",
+      "Mrs. Stanford White"
+    ]
+  },
+  "bioAdditions": "Daughter of Judge J. Lawrence Smith; 5th cousin 5 times removed via Job Smith. Augustus Saint-Gaudens made a marble bust (1884, carved by 1888) and a bronze relief medallion (1884, cast 1893) of her, both at the Metropolitan Museum of Art and released by the Met as CC0 (S1).",
+  "conflicts": [
+    {
+      "field": "relationship",
+      "siteValue": "6C5R",
+      "foundValue": "5C5R via Job Smith",
+      "sourceRefs": [],
+      "assessment": "See J. Lawrence Smith (H0302)."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikimedia Commons files from the Metropolitan Museum of Art (Open Access): 'Mrs. Stanford White (Bessie Springs Smith)' by Augustus Saint-Gaudens",
+      "url": "https://commons.wikimedia.org/wiki/File:Mrs._Stanford_White_(Bessie_Springs_Smith)_MET_DT2594.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Portrait sculpture of her and its CC0 status"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Mrs. Stanford White (Bessie Springs Smith), marble bust by Augustus Saint-Gaudens",
+      "date": "1884 (carved by 1888)",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mrs._Stanford_White_(Bessie_Springs_Smith)_MET_DT2594.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mrs._Stanford_White_%28Bessie_Springs_Smith%29_MET_DT2594.jpg",
+      "repository": "Metropolitan Museum of Art via Wikimedia Commons",
+      "rights": "cc (CC0)",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0304/bessie-white-saint-gaudens-bust.jpg",
+      "people": [
+        "H0304"
+      ],
+      "suggestedFile": "media/H0304/bessie-white-saint-gaudens-bust.jpg",
+      "note": "CC0 (Met Open Access). 1280px derivative."
+    },
+    {
+      "type": "portrait",
+      "title": "Mrs. Stanford White (Bessie Springs Smith), bronze relief medallion by Augustus Saint-Gaudens",
+      "date": "1884 (cast 1893)",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mrs._Stanford_White_(Bessie_Springs_Smith)_MET_1981.55.1.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mrs._Stanford_White_%28Bessie_Springs_Smith%29_MET_1981.55.1.jpg",
+      "repository": "Metropolitan Museum of Art (1981.55.1) via Wikimedia Commons",
+      "rights": "cc (CC0)",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0304/bessie-white-saint-gaudens-medallion.jpg",
+      "people": [
+        "H0304"
+      ],
+      "suggestedFile": "media/H0304/bessie-white-saint-gaudens-medallion.jpg",
+      "note": "CC0. 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: two CC0 Saint-Gaudens portraits (Met) downloaded; relationship 5C5R.",
+  "researchedAt": "2026-10-08"
+}

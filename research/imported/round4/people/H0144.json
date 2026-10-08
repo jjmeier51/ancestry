@@ -1,0 +1,101 @@
+{
+  "id": "H0144",
+  "name": "George Lane Pringle",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1822-05-20",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1886-03-19",
+      "place": "road near his farm, Huntington Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "occupation": "Farmer",
+    "events": [
+      {
+        "title": "Killed by lightning",
+        "date": "1886-03-19",
+        "place": "near Wilkes-Barre (road by his Huntington Twp. farm), PA",
+        "description": "Struck and killed by lightning during a severe thunderstorm while walking along the road near a farm he owned in Huntington Twp. (Harvey). Reported nationally the next day: 'George L. Pringle, an old and prominent resident of Kingston, was struck by lightning on the roadway and killed' (Evening Star, Washington, 20 Mar 1886).",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "George Lane Pringle was a twin of Caroline, born 20 May 1822 to Thomas Pringle and Elizabeth Harvey. He was probably named for the Rev. George Lane, the Methodist preacher who had married his aunt. He moved with the family to Kingston in 1837 and farmed there all his life. He never married. On 19 Mar 1886, in a severe thunderstorm, he was killed by lightning while walking on the road near a farm he owned in Huntington Twp. (S1). The next day the Washington Evening Star carried the news among its telegraph items (S2).",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0141",
+      "evidence": "Harvey Book p.137",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "H0434",
+      "evidence": "Harvey Book p.137",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "media": [
+    {
+      "type": "newspaper",
+      "title": "Evening Star (Washington), 20 Mar 1886, p.5: George L. Pringle killed by lightning",
+      "date": "1886-03-20",
+      "pageUrl": "https://www.loc.gov/resource/sn83045462/1886-03-20/ed-1/?sp=5",
+      "directUrl": "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886032001:0276/3020,8320,1050,250/full/0/default.jpg",
+      "repository": "Library of Congress, Chronicling America",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0144/evening-star-1886-03-20-lightning.jpg",
+      "people": [
+        "H0144"
+      ],
+      "suggestedFile": "media/H0144/evening-star-1886-03-20-lightning.jpg",
+      "note": "Crop of the paragraph (IIIF region)."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Harvey Book corroborated by a contemporary newspaper."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth 20 May 1822 (twin of Caroline), parents, unmarried, death by lightning 19 Mar 1886 near his Huntington Twp. farm"
+    },
+    {
+      "ref": "S2",
+      "citation": "Evening Star (Washington, D.C.), 20 Mar 1886, p.5, telegraphic news",
+      "url": "https://www.loc.gov/resource/sn83045462/1886-03-20/ed-1/?sp=5",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "death by lightning near Wilkes-Barre 'yesterday afternoon'; 'old and prominent resident of Kingston'"
+    }
+  ],
+  "researchLogEntry": "Round 4: Harvey gives b. 20 May 1822 and d. 19 Mar 1886. Found the Evening Star 20 Mar 1886 report of the lightning death; crop downloaded.",
+  "researchedAt": "2026-10-08"
+}

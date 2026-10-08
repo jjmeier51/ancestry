@@ -1,0 +1,20 @@
+{
+  "id": "M0068",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0495 (probable)."
+  },
+  "tags": [],
+  "summary": "Son of William Wells II and Elizabeth Tuthill (so a grandson of both William Wells and John Tuthill 1635)",
+  "bio": "Son of William Wells II and Elizabeth Tuthill (so a grandson of both William Wells and John Tuthill 1635). Father of Obadiah Wells (1716-1800) and grandfather of Dr. Henry Wells. 1st cousin 10 times removed of John by both routes.",
+  "sources": [
+    "[R4-S1] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), ch. VI-VII (secondary) https://archive.org/details/williamwellsofso00byuhaye"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-607 → M0068; research/imported/round4/new_people.json."
+    }
+  ]
+}

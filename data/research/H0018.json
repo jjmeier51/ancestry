@@ -21,6 +21,21 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: PA Death Index 1949 M–O, Soundex M600 block (pp.161–162): no Agatha Meier/Meyer at Retreat or Luzerne County; FamilySearch tree G7GQ-JPP (only source: 1880 census)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: not found in the 1949 PA death index under Meier/Meyer. The only FS source is the 1880 census."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0018.json."
     }
+  ],
+  "openQuestions": [
+    "Death 25 Dec 1949 at Retreat (state hospital) is unsourced on FamilySearch, and no Meier entry fits the 1949 index. Check under a married name or a different year."
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "id": "H0090",
+  "name": "André Lamoureux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Witness to a marriage",
+        "date": "13 Jan 1703",
+        "place": "French Church, New York",
+        "description": "Signed 'Andre Lamourau' as a witness at the marriage of Daniel Bueau (Beau) and Ester Gaillard",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The printed registers of the French Church of New York record André once in person: on 13 Jan 1703 he signed as 'Andre Lamourau' at the wedding of Daniel Bueau and Ester Gaillard (S1). A Suzanne de la Tour, probably his wife, who kept her maiden name in the French manner, was a godmother there in May 1700 (S1). The Protestant registers of Cozes, where his 1663 baptism is said to be, are online through the Charente-Maritime archives' Archinoe viewer ('Registres protestants', Cozes listed). Round 4 could not read them because the viewer needs an interactive browser (S2). His death is still unknown. The Davenport genealogy notes that he disappears from the records after Cornbury's 1706 order, and that Suzanne was last seen in 1720.",
+  "openQuestionsNew": [
+    "Cozes Protestant register (AD17, Archinoe 'Registres protestants' series I) needs reading in an interactive browser for the 3/25 Nov 1663 baptism."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Supported by the Bristol and New York primary records already cited."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), p.92 (marriage 13 Jan 1703) and p.72 area (baptism May 1700, godmother Susanne de la tour)",
+      "url": "https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "presence and signature in NY 1703"
+    },
+    {
+      "ref": "S2",
+      "citation": "Archives départementales de la Charente-Maritime, Répertoire des registres protestants (Archinoe), entry list incl. Cozes",
+      "url": "https://archinoe.com/console/ir_ead_visu.php?eadid=FRAD017_serie_I&ir=37170",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Cozes Protestant registers exist online"
+    }
+  ],
+  "searchedNoResult": [
+    "French Church NY registers 1688-1804: no burial of André Lamoureux"
+  ],
+  "researchLogEntry": "Round 4: French Church register shows him signing as a marriage witness on 13 Jan 1703; the Cozes Protestant registers are online at AD17 but were not readable without a browser."
+}

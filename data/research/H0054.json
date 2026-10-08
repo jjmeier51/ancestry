@@ -1,15 +1,16 @@
 {
   "id": "H0054",
   "link": {
-    "confidence": "possible",
-    "note": "Newspaper death list only; not Anna Higgins (b. c.1893)."
+    "confidence": "probable",
+    "note": "Newspaper death list only; not Anna Higgins (b. c.1893). Round 4 (possible → probable): Name, death date and age match the FS profile LRT7-WHC, which has census and marriage sources and a Find a Grave entry."
   },
   "sex": "F",
   "tags": [],
   "summary": "Lead: 'Anna Meier (Mrs. Frederick)', d. 9 Feb 1940 Wilkes-Barre, aged 47 — possible wife of Fred Aloysius Meier, and a possible source of the tree's 1940 date for Henry.",
   "sources": [
     "Genealogy Trails 1940 deaths M–P http://genealogytrails.com/penn/luzerne/1940_deaths/m_n_o_p.html",
-    "notes/round2/meier_gaps.md; notes/round3/meier_line.md"
+    "notes/round2/meier_gaps.md; notes/round3/meier_line.md",
+    "[R4-S1] FamilySearch Family Tree, Anna Mather (LRT7-WHC), published-tree JSON: b. 28 Aug 1892, d. 9 Feb 1940 Wilkes-Barre, burial St. Marys Cemetery, Hanover Twp.; parents John Mather and Hanna M. Flynn; sources 1900 census (M3QH-Z5T), Pennsylvania County Marriages (KHFK-S2W), Find a Grave index (QVG4-98JX) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LRT7-WHC"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -24,6 +25,54 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Meier-1343 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence possible → probable: Name, death date and age match the FS profile LRT7-WHC, which has census and marriage sources and a Find a Grave entry."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0012, probable): FS tree marriage 21 Apr 1915; 'Mrs. Frederick' in the 1940 death notice; Fred widowed in the April 1940 census"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0011, probable): FS tree"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified as Anna Mather (1892–1940), wife of Fred A. Meier Sr.; not linked to Henry J.'s death."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0054.json."
     }
-  ]
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "ABT 1893",
+      "found": "1892-08-28",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "birth": {
+    "date": "ABT 1893",
+    "place": "Pennsylvania, USA"
+  },
+  "burial": {
+    "place": "St. Mary's Cemetery, Hanover Township, Luzerne County, Pennsylvania, USA"
+  },
+  "aka": [
+    "Anna Mather (maiden name)",
+    "Anna J. Madder (1900 census index)"
+  ],
+  "events": [
+    {
+      "title": "Marriage to Fred Aloysius Meier",
+      "date": "1915-04-21",
+      "place": "Luzerne County, PA",
+      "description": "FS tree citing Pennsylvania County Marriages (KHFK-S2W). [R4-S1]"
+    }
+  ],
+  "bio": "'Anna Meier (Mrs. Frederick)', who died in Wilkes-Barre on 9 Feb 1940 aged 47, was Anna Mather, wife of Fred Aloysius Meier Sr. (Henry J. Meier's eldest son). The FamilySearch tree gives her as born 28 Aug 1892 in Pennsylvania, daughter of John Mather (1854–1914) and Hanna M. Flynn (1855–1924). She lived in Wilkes-Barre in 1900 and 1910 (Ward 16), married Fred on 21 Apr 1915, and died 9 Feb 1940. She is buried at St. Mary's Cemetery, Hanover Township (Find a Grave index) ([R4-S1]). Her children were Florence Irene (1916–1933), Fred A. Jr. (1918–2000), Gerald Francis (1921–1994) and Henry James 'Harry' (1923–1943). Her death is a separate event from Henry J. Meier's death, which was in December 1950, not 1940."
 }

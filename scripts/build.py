@@ -83,6 +83,41 @@ def main():
         target.setdefault("children", []).append(child)
         if people[child].get("source") != "research":
             people[child].setdefault("corrections", []).append({"what": "parents", "reason": op.get("reason", ""), "previous": op.get("previous")})
+    # Merges: duplicate records found by research are folded into the surviving record.
+    # {"from": "H0017", "into": "I282608085064", "reason": "..."}; the duplicate's family links move
+    # to the survivor, its names become aliases, and it disappears from the site.
+    for op in list(adds.get("merges", [])) + list(manual.get("merges", [])):
+        src, dst = op.get("from"), op.get("into")
+        if src not in people or dst not in people:
+            warnings.append("merges: unknown person in %s -> %s" % (src, dst)); continue
+        sp, dp = people[src], people[dst]
+        for f in families:
+            for key in ("husband", "wife"):
+                if f.get(key) == src:
+                    f[key] = dst
+            if src in f.get("children", []):
+                f["children"] = [dst if c == src else c for c in f["children"]]
+                if f["children"].count(dst) > 1:
+                    seen = set(); f["children"] = [c for c in f["children"] if not (c in seen or seen.add(c))]
+        # drop a now-duplicated spouse family (same couple twice): keep the one with children
+        couples = {}
+        for f in list(families):
+            k = (f.get("husband"), f.get("wife"))
+            if dst in k and all(k):
+                if k in couples:
+                    keep, drop = couples[k], f
+                    if len(drop.get("children", [])) > len(keep.get("children", [])): keep, drop = drop, keep
+                    for c in drop.get("children", []):
+                        if c not in keep.setdefault("children", []): keep["children"].append(c)
+                    if not keep.get("marriage") and drop.get("marriage"): keep["marriage"] = drop["marriage"]
+                    families.remove(drop); couples[k] = keep
+                else:
+                    couples[k] = f
+        alias = " ".join(x for x in (sp.get("given"), sp.get("surname")) if x).strip()
+        if alias and alias not in (dp.get("aka") or []):
+            dp.setdefault("aka", []).append(alias)
+        dp.setdefault("mergedFrom", []).append({"id": src, "name": alias, "reason": op.get("reason", "")})
+        del people[src]
     for f in families:
         for key in ("husband", "wife"):
             if f.get(key) and f[key] not in people:
@@ -100,7 +135,9 @@ def main():
             problems.append("%s: invalid JSON (%s)" % (path, e))
             continue
         if pid not in people:
-            warnings.append("%s: no person with id %s in tree.json (skipped)" % (path, pid))
+            merged = {m.get("from") for m in list(adds.get("merges", [])) + list(manual.get("merges", []))}
+            if pid not in merged:
+                warnings.append("%s: no person with id %s in tree.json (skipped)" % (path, pid))
             continue
         link = r.get("link") or {}
         if link.get("confidence") and link["confidence"] not in CONFIDENCE:

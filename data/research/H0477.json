@@ -1,14 +1,33 @@
 {
   "id": "H0477",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Pelletreau gives each generation; same dependency on the Temperance Smith link as all Bull Smith cousins."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Pelletreau gives each generation; same dependency on the Temperance Smith link as all Bull Smith cousins."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: birth date and Bull Smith descent (3C8R) from Pelletreau."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0477.json."
     }
+  ],
+  "birth": {
+    "date": "1731-02-02"
+  },
+  "bio": "Daughter of Nicoll Floyd and Tabitha, daughter of Jonathan Smith 2d ([R4-S1]), so a Bull Smith descendant: Bull -> Jonathan -> Jonathan 2d -> Tabitha -> Ruth, 4 generations: 3rd cousin 8 times removed. Sister of the signer William Floyd and wife of Gen. Nathaniel Woodhull.",
+  "sources": [
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465, 486 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ]
 }

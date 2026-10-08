@@ -1,0 +1,53 @@
+{
+  "id": "H0386",
+  "name": "Philip Miller",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1859-03-29",
+      "place": "Hazleton, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1940-01-22",
+      "place": "Coaldale, Schuylkill Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Summit Hill, Carbon Co., PA",
+      "cemetery": "St. Joseph's RC Cemetery",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LRVD-RMZ"
+      }
+    ]
+  },
+  "bioAdditions": "Husband of Frances Meier. FamilySearch: born 29 Mar 1859 at Hazleton, in Hazle Twp in 1860 and Hazleton in 1880. From 1900 he lived at Coal Dale (Rahn Twp) and Coaldale, Schuylkill Co. He died at Coaldale on 22 Jan 1940 and was buried at St Joseph's RC Cemetery, Summit Hill (S1).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Spouse link is consistent across the FamilySearch family and attached records."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, Philip Miller (LRVD-RMZ), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LRVD-RMZ",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Birth, residences, death, burial"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: brief pass; details from the FamilySearch tree and its attached records.",
+  "researchedAt": "2026-10-08"
+}

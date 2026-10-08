@@ -11,11 +11,13 @@
   ],
   "tags": [],
   "summary": "U.S. Rep. 1800–04, U.S. Senator from New York 1804–13, major general of NY militia; John's 3rd cousin 8x removed via Bull Smith.",
-  "bio": "Path: Bull Smith → Daniel → Daniel 2d (m. Hannah Brewster) → Mary (m. Judge William Smith of Mastic, 'Tangier' Smith family) → John.",
+  "bio": "Path: Bull Smith → Daniel → Daniel 2d (m. Hannah Brewster) → Mary (m. Judge William Smith of Mastic, 'Tangier' Smith family) → John.\n\nPath (Pelletreau [R4-S1]): Bull Smith -> Daniel -> Daniel 2d -> Mary (b. 25 May 1735, m. Judge William Smith of the Tangier family) -> John: 3rd cousin 8 times removed. Pelletreau adds that for his third wife he married the widow of Henry Nicoll, a daughter of Gen. Nathaniel Woodhull, so he became stepfather of Eliza W. Nicoll, mother of Judge J. Lawrence Smith.",
   "sources": [
     "Pelletreau App. p. 491",
     "jrm Needham I2596",
-    "Wikipedia, https://en.wikipedia.org/wiki/John_Smith_(New_York_senator)"
+    "Wikipedia, https://en.wikipedia.org/wiki/John_Smith_(New_York_senator)",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476, 491 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] Wikipedia, 'John Smith (New York politician, born 1752)' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/John_Smith_(New_York_politician,_born_1752)"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -30,6 +32,33 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Smith-8959 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: path verified in Pelletreau; stepfather of Eliza Nicoll; Bioguide portrait downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0301.json."
+    }
+  ],
+  "birth": {
+    "date": "1752-02-12"
+  },
+  "death": {
+    "date": "1816-08-12"
+  },
+  "photo": "media/H0301/john-smith-senator-bioguide.jpg",
+  "media": [
+    {
+      "file": "media/H0301/john-smith-senator-bioguide.jpg",
+      "type": "photo",
+      "title": "Senator John Smith of New York (Biographical Directory of the U.S. Congress image)",
+      "date": "",
+      "source": "Wikimedia Commons (source: bioguide.congress.gov S000566), public_domain",
+      "note": "Commons licence: Public domain (Congress image; no artist/date). A second Commons file, 'John Smith New York.jpg' (engraving 'done in 1799'), credits the Ohio Historical Society, which suggests confusion with Senator John Smith of Ohio; not used.",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:John_SmithNY.jpg"
     }
   ]
 }

@@ -15,7 +15,7 @@
   "occupation": "Contadino",
   "tags": [],
   "summary": "John's maternal 4th great-grandfather; contadino of Guardia Lombardi who married twice.",
-  "bio": "Tree: Gaetano di Marino (1795-1876) + Maria d'Ambrosio; parents Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 3: died March 1876 (registered 6 Mar), Guardia, aged 80 (so born c.1796), contadino; son of the late Pietro and the late Felicita Magnotta; 'marito di Caterina di Leo'; Morti 1876 act 20. Two wives (probable): first Maria d'Ambrosio (mother of Concetta, who married Giuseppe Petriello on 26 Dec 1855, index 1855 #23), then Caterina di Leo (mother of Grazia and probably of Maria, who married Nicola di Pietro 12 Feb 1857). The tree conflated the wives by making Maria d'Ambrosio Grazia's mother.",
+  "bio": "Tree: Gaetano di Marino (1795-1876) + Maria d'Ambrosio; parents Pietro Dimarino (1760-1808) + Felicia Magnotta (1760-1808). Round 3: died March 1876 (registered 6 Mar), Guardia, aged 80 (so born c.1796), contadino; son of the late Pietro and the late Felicita Magnotta; 'marito di Caterina di Leo'; Morti 1876 act 20. Two wives (probable): first Maria d'Ambrosio (mother of Concetta, who married Giuseppe Petriello on 26 Dec 1855, index 1855 #23), then Caterina di Leo (mother of Grazia and probably of Maria, who married Nicola di Pietro 12 Feb 1857). The tree conflated the wives by making Maria d'Ambrosio Grazia's mother.\n\nThe FamilySearch tree (G7NK-RH2) gives Gaetano both wives, Caterina di Leo and Maria d'Ambrosio, which agrees with Round 3's two-marriage reading. It also attaches three indexed Avellino civil records (6GZ5-3NV8, 6P6S-FJ51, 6PG6-674K) ([R4-S1]). The tree has a daughter Maria di Marino (b. c.1835, d. 29 Dec 1914 in Guardia), daughter of Gaetano and Caterina di Leo, whose husband is given as 'Nicola di Paola' ([R4-S2]). Round 3 read Maria's 1857 marriage index as to 'Nicola di Pietro'. Her 1835 birth would mean Gaetano had married Caterina by about 1834, earlier than Round 3 assumed. If so, Maria d'Ambrosio (mother of Concetta, married 1855) was either the first wife before c.1834, or the tree's 1835 date for Maria is wrong.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -27,7 +27,9 @@
     "Antenati, Guardia, Morti 1916, act 22: https://antenati.cultura.gov.it/ark:/12657/an_ua524131/wj7o8Qr",
     "Antenati marriage index 1855 #23: https://antenati.cultura.gov.it/ark:/12657/an_ua376657/wRvYlYY",
     "Antenati marriage index 1857 #21: https://antenati.cultura.gov.it/ark:/12657/an_ua376659/wWNxVgm",
-    "notes/round3/italian_origins.md 1"
+    "notes/round3/italian_origins.md 1",
+    "[R4-S1] FamilySearch Family Tree published profile G7NK-RH2 (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7NK-RH2",
+    "[R4-S2] FamilySearch Family Tree published profile 9CF8-2TL (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9CF8-2TL"
   ],
   "mediaKnown": [
     "1876 death act image (Antenati)"
@@ -49,6 +51,26 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 1795; research: ABT 1796."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch Italian civil-record images (ancestors.familysearch.org published-source image URLs) return 403; Antenati returns 403"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree confirms both wives and adds daughter Maria (c.1835-1914), which bears on the order of his marriages."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814912.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "order of marriages",
+      "site": "Probable: Maria d'Ambrosio first, Caterina di Leo second",
+      "found": "FS tree has Maria di Marino, daughter of Caterina di Leo, b. c.1835, d. 1914",
+      "assessment": "Still consistent if Concetta (d'Ambrosio) was born before c.1834; needs Concetta's age from her 1855 marriage act."
     }
   ]
 }

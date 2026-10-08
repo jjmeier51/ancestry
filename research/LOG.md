@@ -4,6 +4,43 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Round 4 overnight research imported
+
+- John supplied the output of a separate overnight research run (four zip
+  archives + SUMMARY.md): 873 per-person result files (524 researched, 323
+  nothing new, 26 living), 1,066 source citations, 129 media items (92 files
+  copied), 42 new relatives, 30 stories, 78 leads. Archived read-only under
+  `research/imported/round4/` (SUMMARY.md, appendix.md with every confidence
+  change and conflict, people/*.json, new_people.json, stories.json,
+  leads.json, media_manifest.csv).
+- `scripts/import_round4.py` merged it: vital-date refinements (414), bio
+  additions (499), 176 confidence changes applied with the justification in
+  the link note and research log, 182 conflicts recorded (shown on profiles
+  as "Conflicting evidence"), 40 open questions resolved, sources appended as
+  `[R4-S#]` references, negative searches logged. Dates that disagree with
+  the tree were applied only when the summary settles them with primary
+  records (Henry J. Meier d. 20 Dec 1950; Theresa Meier b. 10 Sep 1868;
+  Helen Ferlaino b. 8 Oct 1894; Johann Andreas Grub b. 12 Sep 1727);
+  everything else stays a conflict.
+- New relatives `M0037`–`M0078` (ids mapped in `_work/new_ids.json`), with
+  families built from their relationships (direction reviewed by hand: the
+  worker groups used parent/child labels inconsistently). Includes a new
+  direct ancestor, Deliverance King (`M0069`), first wife of John Tuthill
+  (1635–1717) and mother of John Jr.
+- Duplicate records merged (new `merges` op in `build.py`): Clarissa→Theresa
+  Meier, Filomena→Helen Ferlaino, Mollie Petriello→Carmela Gianetta,
+  Mariantonia→Mariangela Cannatello, Anna Tuthill Symmes→Anna Symmes
+  Harrison. Hannah Reeve moved from James to Joshua Tuthill (Akerly 1898).
+  Not applied (John's call, see SUMMARY "Conflicts that need your
+  judgment"): splitting H0078 (two Grub wives) and the two Charity Pringles,
+  Katie→Grace Petrillo, detaching the Youngs/Horne block, Sir Samuel Smith,
+  the Buswells and Mary Steele (kept with downgraded confidence per site
+  convention), Carmine Fiorillo's mother (Maria vs Vittoria Marrelli),
+  Frederick Meier's birth day (11 Jan vs 11 Nov 1862).
+- Stories: 28 added to the site; two kept out as research notes ("How
+  William Wells's widow became 'Mary Youngs'", "A will that settles a
+  mother"). Leads: `research/leads-round4.md`.
+
 ## 2026-10-08 — Tree-wide media hunt (WikiTree, Wikipedia/Commons)
 
 - John asked for media and photos for everyone. Two new scripts:

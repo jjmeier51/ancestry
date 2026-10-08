@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Possible 6th-great-grandfather of John (father of Samuel Pringle) - a lead only.",
-  "bio": "The Prindle Genealogy (1906, p.41) confirms James Prindle b. 1736, m. 'Anar' Turner, d. Newtown 1800, and a 'James Jr.' in 1771, but lists no children. FamilySearch assigns him children James (c1754), David (1757), Benjamin (1764), Samuel (c1767) and Hannah (1773) - exactly the Orange Co. sibling set plus militia private Benjamin. Note a James Jr. c.1754 predates the 1759 marriage.",
+  "bio": "The Prindle Genealogy (1906, p.41) confirms James Prindle b. 1736, m. 'Anar' Turner, d. Newtown 1800, and a 'James Jr.' in 1771, but lists no children. FamilySearch assigns him children James (c1754), David (1757), Benjamin (1764), Samuel (c1767) and Hannah (1773) - exactly the Orange Co. sibling set plus militia private Benjamin. Note a James Jr. c.1754 predates the 1759 marriage.\n\nTwo Newtown records attached to his FamilySearch profile can now be cited directly. The Newtown church marriage register records 'James Prindle & Anar Turner both of Newtown' married on 22 January 1759 ([R4-S1]), matching the Prindle Genealogy. The Barbour Collection slip abstracted from Newtown Vital Records vol. 2 p.172 reads 'PRINDLE, James, d. Dec. 9, 1800' ([R4-S2]) - December, where the Prindle Genealogy and FamilySearch have 9 November. The 1759 marriage date means that two of the five children FamilySearch assigns to him and Anar (James c.1754 and David 1757) were born before the marriage; they could only be his by an unrecorded earlier wife, or are misattributed. Samuel (c.1767) remains a possible son but is not documented as such.",
   "sources": [
     "The Prindle Genealogy (1906) p.41: https://archive.org/details/prindlegenealogy00prin",
-    "FamilySearch G99D-9DZ / L8MP-W4X"
+    "FamilySearch G99D-9DZ / L8MP-W4X",
+    "[R4-S1] Newtown, Conn., church register of marriages, 1759 (Connecticut, Church Records 1660-1955; FS index ark 1:1:QGR1-ZV9P; image attached to tree L8MP-W4X) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L8MP-W4X/images/i/2/image.jpg",
+    "[R4-S2] Barbour Collection slip, Newtown Vital Records vol. 2 p.172 (Connecticut, Vital Records Prior to 1850; FS index ark 1:1:QPSF-C8RP) (derivative) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L8MP-W4X/images/i/1/image.jpg"
   ],
   "openQuestions": [
     "Newtown CT probate of James Prindle (d. 1800)."
@@ -24,6 +26,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Web search for James Prindle Newtown 1800 estate/probate: nothing online"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read the 1759 Newtown marriage entry and the Barbour death slip (9 Dec 1800); noted FS children born before the marriage."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0102.json."
     }
   ],
   "media": [
@@ -34,6 +48,54 @@
       "source": "WikiTree",
       "note": "James Prindle, 1735-08-05 – 1800-12-09",
       "url": "https://www.wikitree.com/wiki/Prindle-552"
+    },
+    {
+      "file": "media/H0102/newtown-church-marriages-1759-james-prindle-anar-turner.jpg",
+      "type": "record",
+      "title": "Newtown church marriages 1759: James Prindle & Anar Turner",
+      "date": "1759-01-22",
+      "source": "FamilySearch (Connecticut State Library church records), public_domain",
+      "note": "18th-century manuscript register (pre-1931, author long dead): public domain as a document; the photograph is FamilySearch's.",
+      "people": [
+        "H0103"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L8MP-W4X"
+    },
+    {
+      "file": "media/H0102/barbour-card-james-prindle-d1800.jpg",
+      "type": "record",
+      "title": "Barbour index slip: James Prindle d. 9 Dec 1800, Newtown",
+      "date": "1800-12-09",
+      "source": "FamilySearch / Connecticut State Library (Barbour Collection), public_domain",
+      "note": "Barbour Collection slips were compiled by the State of Connecticut in the 1920s-30s (state government work, pre-1931 for most); treated as public domain.",
+      "people": [],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L8MP-W4X"
+    }
+  ],
+  "death": {
+    "date": "1800-12-09",
+    "place": "Newtown, Fairfield Co., CT"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1759-01-22",
+      "place": "Newtown, Fairfield Co., CT",
+      "description": "Church register: 'Married James Prindle & Anar Turner both of Newtown Jan 22' [1759]. [R4-S1]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "",
+      "found": "9 Dec 1800 (Barbour, Newtown VR 2:172) vs 9 Nov 1800 (Prindle Genealogy; FS)",
+      "assessment": "Barbour slip is closer to the town record; prefer 9 Dec 1800 pending a look at the original."
+    },
+    {
+      "field": "children",
+      "site": "(tree: Samuel)",
+      "found": "FS children James c.1754 and David 1757 pre-date the 22 Jan 1759 marriage",
+      "assessment": "FS family group unreliable; Samuel's parentage unproven."
     }
   ]
 }

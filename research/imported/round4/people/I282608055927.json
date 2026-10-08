@@ -1,0 +1,44 @@
+{
+  "id": "I282608055927",
+  "name": "Mehitable Wells",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1742-08-26",
+      "place": "Southold, Suffolk Co., NY",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Akerly gives Mehitable's death as 26 Aug 1742 (S1). The Salmon Record lists 'Jno Tuthill wife Mehetab[le]' among the 1742 deaths (S2). Her mother was Mary, widow of William Wells, who remarried Thomas Mapes Jr. Mary's 1678 deed of gift names her daughter Mary Youngs, which explains the 'Youngs' tradition, but Mary's own maiden name is unknown (S3).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11)",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Mehitable d. 26 Aug 1742"
+    },
+    {
+      "ref": "S2",
+      "citation": "The Salmon Records: a private register of marriages and deaths of the residents of the town of Southold, 1696-1811 (NYG&B, 1918), full text searched",
+      "url": "https://archive.org/details/salmonrecordspri00salm",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "'Jno Tuthill wife Mehetab[le]' among the 1742 deaths"
+    },
+    {
+      "ref": "S3",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 302-303: deed of gift 26 Dec 1678 (recorded 3 Apr 1679) by 'Mary Mapes of Southold ... the relect of William Wells of ye sd Town ... lately desceased, and now wife to Thomas Mapes Junr', who had received all Wells's lands and goods by his deed of gift, to 'my son in law John Yongs, in right of his wife and to Mary Yongs his wife my daughter' (witnesses Thomas Mapes, William Wells); also an entry (Liber page 141, 1677) of meadow had 'of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread'",
+      "url": "https://archive.org/details/southoldtownreco0000jwic",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "mother Mary Mapes, relict of William Wells"
+    }
+  ],
+  "researchLogEntry": "Round 4: death 26 Aug 1742 (Akerly; Salmon Record)."
+}

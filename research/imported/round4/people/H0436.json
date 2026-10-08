@@ -1,0 +1,87 @@
+{
+  "id": "H0436",
+  "name": "Ellen C. Fuller",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1830-04-16",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1898-09-09",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "First marriage, to David Nesbitt",
+        "date": "1848-12-03",
+        "place": "",
+        "description": "David Nesbitt (b. Plymouth 9 Jul 1814, d. Plymouth 14 Jul 1862); children Asher Gaylord (1850-1896), Mary Helen (1851-1855), Alfred Ruggles (1854), Charles Linskill (1861).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Second marriage, to Jacob Pringle",
+        "date": "1864-04",
+        "place": "Plymouth, PA",
+        "description": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Will",
+        "date": "1898",
+        "place": "Plymouth Boro.",
+        "description": "Luzerne wills index: Ellen C. Pringle, Plymouth Boro., 1898, file 338, vol. R p.438.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Ellen C. Fuller was born 16 Apr 1830, daughter of Isaac Fuller of Huntsville, Luzerne Co., and Nancy Bulkeley Worthington (b. Colchester, Conn., 1 Jul 1792), whose mother Mary Adams Bulkeley descended from Lt. Col. Eliphalet Bulkeley of the 25th Connecticut Militia and, through him, from the Puritan minister Rev. Peter Bulkeley of Concord, Mass. (S1). She married (1) on 3 Dec 1848 David Nesbitt of Plymouth, who died 14 Jul 1862, leaving four children, and (2) in April 1864 Jacob Pringle of Plymouth, son of Benjamin and Charity (Gould) Pringle. She died at Plymouth on 9 Sep 1898 (S1); her will was registered in Plymouth Borough that year (S2).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0148",
+      "evidence": "Harvey Book p.362",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Dates and parentage from the Harvey Book's Nesbitt genealogy plus the wills index entry."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Harvey, The Harvey Book (1899), Nesbitt genealogy, entry (37) David Nesbitt, pp.361-362",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth, parents, both marriages, death, Nesbitt children"
+    },
+    {
+      "ref": "S2",
+      "citation": "Luzerne County wills index, surnames P (PAGenWeb)",
+      "url": "https://pagenweb.org/~luzerne/wills/pwill.htm",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "1898 will, file 338, vol. R p.438"
+    }
+  ],
+  "researchLogEntry": "Round 4: added birth 16 Apr 1830, parents Isaac Fuller & Nancy B. Worthington, first marriage to David Nesbitt 1848, death 9 Sep 1898 from the Harvey Book.",
+  "researchedAt": "2026-10-08"
+}

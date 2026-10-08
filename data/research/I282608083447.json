@@ -1,12 +1,12 @@
 {
   "id": "I282608083447",
   "link": {
-    "confidence": "unverified",
-    "note": "Tree shows him as Jerusha Topping's father; removed in Round 1 (correction 3a): Banks's Sayre Family (1901, p. 30) lists only sons Josiah and John (b. 1706); jrm's page lists no children; Jerusha was daughter of Elnathan Topping (1664–1751). Charles E. Topping's 1980 Topping Genealogy p. 392 (repeated on WikiTree Smith-141655) still gives this line. Not an ancestor."
+    "confidence": "possible",
+    "note": "Tree shows him as Jerusha Topping's father; removed in Round 1 (correction 3a): Banks's Sayre Family (1901, p. 30) lists only sons Josiah and John (b. 1706); jrm's page lists no children; Jerusha was daughter of Elnathan Topping (1664–1751). Charles E. Topping's 1980 Topping Genealogy p. 392 (repeated on WikiTree Smith-141655) still gives this line. Not an ancestor. Round 4 (unverified → possible): Identity and marriage are documented (Sayre will); parentage is not, so his collateral kinship stays possible."
   },
   "tags": [],
   "summary": "Removed: the tree's wrong father for Jerusha Topping.",
-  "bio": "Daniel Sayre's 1707 will names 'Hannah Topping the wife of Mr Josiah Topping'.",
+  "bio": "Daniel Sayre's 1707 will names 'Hannah Topping the wife of Mr Josiah Topping'.\n\nBanta's Sayre Family ([R4-S1]) calls him Capt. Josiah Topping, born 1663, died 1726, husband of Hannah Sayre, with sons Josiah and John (b. 1706); there is no daughter Jerusha, confirming the earlier removal of this couple from John's direct line. Howell ([R4-S2]) lists Capt. Thomas Topping's children as Elnathan (1640), James, John (1646), Thomas, Mary and Martha, but does not assign Josiah to any of them. If he was a son of John Topping and grandson of Capt. Thomas, he would still be a collateral blood cousin (1C11R), but that link is unproven.",
   "facts": [
     {
       "label": "Tree shows",
@@ -16,7 +16,9 @@
   "sources": [
     "Banks (1901) p. 30, https://archive.org/details/sayrefamilylinea00bant",
     "jrm Needham I2543, https://jrm.phys.ksu.edu/Genealogy/Needham/d0001/I2543.html",
-    "notes/colonial_virginia.md §2a"
+    "notes/colonial_virginia.md §2a",
+    "[R4-S1] T. M. Banta, Sayre Family (1901) (archive.org full text), p. 30 (secondary) https://archive.org/details/sayrefamilylinea00bant",
+    "[R4-S2] George R. Howell, Early History of Southampton, L.I. (1887) (archive.org full text), pp. 395-396 (secondary) https://archive.org/details/earlyhistoryofso00howe"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -31,6 +33,22 @@
     {
       "date": "2026-10-08",
       "note": "Handoff gives parents John Topping (b. 1636), Sarah White (b. unknown) but the link is only \"unverified\", so the tree was not changed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → possible: Identity and marriage are documented (Sayre will); parentage is not, so his collateral kinship stays possible."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282608083460, proven): Daniel Sayre's 1707 will; Banta lists Hannah's husband as Capt. Josiah Topping (1663-1726) with children Josiah and John (b. 1706)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Banta 1901 gives Capt. Josiah Topping 1663-1726 with sons Josiah and John only; parentage still unproven."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608083447.json."
     }
   ],
   "media": [
@@ -49,6 +67,17 @@
       "source": "Find a Grave (cited on WikiTree Topping-135)",
       "note": "",
       "url": "https://www.findagrave.com/memorial/32425237/josiah-topping:"
+    }
+  ],
+  "aka": [
+    "Capt. Josiah Topping"
+  ],
+  "events": [
+    {
+      "title": "Named in father-in-law's will",
+      "date": "1707-08-21",
+      "place": "Southampton, NY",
+      "description": "Daniel Sayre's will names 'Hannah Topping the wife of Mr Josiah Topping' and makes 'my son-in-law Josiah Toppin' co-seller of two slaves. [R4-S1]"
     }
   ]
 }

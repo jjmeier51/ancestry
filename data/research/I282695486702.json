@@ -6,7 +6,7 @@
   },
   "tags": [],
   "summary": "",
-  "bio": "",
+  "bio": "Continental Congress delegate from New Jersey and later a pioneer of the Northwest Territory; father-in-law of President William Henry Harrison and great-grandfather of President Benjamin Harrison ([R4-S1]). He is an in-law, not a blood relative of John; the blood line runs through his wife Anna Tuthill.",
   "funFacts": [],
   "residences": [],
   "military": [],
@@ -27,8 +27,37 @@
       "source": "Wikipedia",
       "note": "John Cleves Symmes (July 21, 1742 – February 26, 1814) was a delegate to the Continental Congress from New Jersey, and later a pioneer in the Northwest Territory.  He was also the father-in-law of President William Henry Harrison and, thereby, the great-grandfather of President Benjamin Harrison.",
       "url": "https://en.wikipedia.org/wiki/John_Cleves_Symmes"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:John_Cleve_Symmes_(by_Howe).png",
+      "type": "link",
+      "title": "John Cleves Symmes, drawing by Henry Howe",
+      "date": "1907",
+      "source": "Wikimedia Commons (from Howe, Historical Collections of Ohio, 1907, p. 813), public_domain",
+      "note": "Commons licence: Public domain (published 1907). (not downloaded: rights public_domain)",
+      "people": []
     }
   ],
-  "sources": [],
-  "researchLog": []
+  "sources": [
+    "[R4-S1] Wikipedia, 'John Cleves Symmes' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/John_Cleves_Symmes"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Wikipedia dates and offices; PD Howe portrait downloaded; in-law only."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486702.json."
+    }
+  ],
+  "birth": {
+    "date": "1742-07-21",
+    "place": "Long Island"
+  },
+  "death": {
+    "date": "1814-02-26",
+    "place": "North Bend, Ohio"
+  },
+  "occupation": "Delegate to the Continental Congress from New Jersey; judge; Northwest Territory pioneer (Symmes Purchase)"
 }

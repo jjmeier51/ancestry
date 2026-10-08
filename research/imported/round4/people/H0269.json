@@ -1,0 +1,41 @@
+{
+  "id": "H0269",
+  "name": "Abner Smith",
+  "status": "researched",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0472",
+      "evidence": "Thompson: Aaron (son of Job 1st) m. Seviah Sands; issue incl. Abner",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "updates": {
+    "events": [
+      {
+        "title": "Mother identified",
+        "date": "",
+        "place": "",
+        "description": "Mother Seviah, daughter of James Sands.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 377",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Aaron son of Job 1st m. Seviah dau. of James Sands; issue Othniel, Abigail, Sands, Jessie, Abner, Sarah, Seviah"
+    }
+  ],
+  "researchLogEntry": "Round 4: mother Seviah Sands and siblings from Thompson vol. 3.",
+  "researchedAt": "2026-10-08"
+}

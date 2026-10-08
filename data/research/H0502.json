@@ -9,6 +9,25 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS gives b. 1897 Pleasant Mount, Wayne Co.; son Victor M. Petrillo."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0502.json."
     }
+  ],
+  "birth": {
+    "date": "1897",
+    "place": "Pleasant Mount, Wayne County, PA"
+  },
+  "aka": [
+    "Anna Harosko"
+  ],
+  "bio": "The FamilySearch tree (from the Social Security NUMIDENT entry of her son Victor M. Petrillo, 1926–1989) gives her name as Anna Harosko, born 1897 at Pleasant Mount, Wayne County, PA ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree published profile L1QG-GKQ (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L1QG-GKQ"
   ]
 }

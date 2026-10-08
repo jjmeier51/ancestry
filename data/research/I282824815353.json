@@ -1,12 +1,12 @@
 {
   "id": "I282824815353",
   "link": {
-    "confidence": "unverified",
-    "note": "Tree only and contradicted: Carmine Fiorillo's 1860 death act names his mother Vittoria Marrelli/Morelli, not Maria. Morrello is absent from San Mango's 1674-1804 stati delle anime. Do not treat as an ancestor until proven."
+    "confidence": "confirmed",
+    "note": "Tree only and contradicted: Carmine Fiorillo's 1860 death act names his mother Vittoria Marrelli/Morelli, not Maria. Morrello is absent from San Mango's 1674-1804 stati delle anime. Do not treat as an ancestor until proven. Round 4 (unverified → confirmed): She is Carmine's mother per the 1840 marriage; her burial gives age and father."
   },
   "tags": [],
   "summary": "Tree's mother of Carmine Fiorillo; superseded by Vittoria Marrelli (confirmed). Possibly a garbled or mis-attached version of her.",
-  "bio": "Tree: Maria Morrello (1786-1846), wife of Domenico G. Fiorillo; parents Vincenzo Morrello M... (1759-1836) + Ippolita Guercio N... (1761-1831). Round 2: Morrello/Morello has 0 entries in San Mango's stati 1674-1804, including fuzzy spellings, and the couple would have been listed in 1800/1804. Round 3: Carmine's death act gives 'Vittoria Marrelli/Morelli'. The whole Morrello/Guercio/Chiarello pedigree above her is flagged unsupported.",
+  "bio": "Tree: Maria Morrello (1786-1846), wife of Domenico G. Fiorillo; parents Vincenzo Morrello M... (1759-1836) + Ippolita Guercio N... (1761-1831). Round 2: Morrello/Morello has 0 entries in San Mango's stati 1674-1804, including fuzzy spellings, and the couple would have been listed in 1800/1804. Round 3: Carmine's death act gives 'Vittoria Marrelli/Morelli'. The whole Morrello/Guercio/Chiarello pedigree above her is flagged unsupported.\n\nMaria Marrello (the tree's 'Morrello') was buried at San Mango on 20 March 1846, aged 60. She is named as the daughter of the late Vincenzo Marrello and of Giacinta Gabriele Fiorillo, and as the wife of Domenico Gabriele Fiorillo ([R4-S1]). Her son Carmine's 1840 marriage names her, still living, as his mother ([R4-S2]). Her daughters Cintia and Antonia were born at Aiello Calabro ([R4-S3]). Her father Vincenzo matches the tree. Her mother is given as Giacinta Gabriele Fiorillo, not the tree's Ippolita Guercio Nuzio. She is therefore a direct ancestor (Carmine's mother), replacing 'Vittoria Marrelli'.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -15,7 +15,10 @@
   ],
   "sources": [
     "Ancestry tree transcription",
-    "notes/round2/italian_gaps.md 7; notes/round3/italian_origins.md 5"
+    "notes/round2/italian_gaps.md 7; notes/round3/italian_origins.md 5",
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 5, p. 4, no. 13; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino, stato civile, Civil marriages 1840, image 172, act 3; volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t",
+    "[R4-S3] San Mango d'Aquino, stato civile, Civil marriages 1839 / 1844, acts 1 (1839) and 13 (1844); volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t"
   ],
   "openQuestions": [
     "Is she the same person as Vittoria Marrelli (different given name), or a mis-attachment from another family's tree?"
@@ -29,6 +32,48 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: She is Carmine's mother per the 1840 marriage; her burial gives age and father."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824815347, proven): Burial names husband"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child I282824815339, proven): Carmine's 1840 marriage names her"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: burial 20 Mar 1846 (age 60, father Vincenzo, mother Giacinta Gabriele Fiorillo); confirmed as Carmine's mother."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815353.json."
+    }
+  ],
+  "death": {
+    "date": "1846-03-20",
+    "place": "San Mango d'Aquino"
+  },
+  "aka": [
+    "Maria Marrello",
+    "Maria Marrelli"
+  ],
+  "conflicts": [
+    {
+      "field": "mother",
+      "site": "Ippolita Guercio Nuzio",
+      "found": "Hyacinthia (Giacinta) Gabriele Fiorillo",
+      "assessment": "Single derivative source (burial index); death-record parent names can be wrong. Treat the Guercio/Morrello-Magaro pedigree as unverified until Aiello Calabro records are checked."
+    },
+    {
+      "field": "death.date",
+      "site": "19 Mar 1846",
+      "found": "20 Mar 1846 (burial)",
+      "assessment": "Burial the day after death; consistent."
     }
   ]
 }

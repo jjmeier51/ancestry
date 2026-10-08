@@ -7,10 +7,11 @@
   "sex": "F",
   "tags": [],
   "summary": "Sibling of John's 3rd-great-grandmother Catherine Scott (John's 3rd-great-grand-aunt).",
-  "bio": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 10 in 1850.",
+  "bio": "Child of Stephen and Julia Ann Scott of Kingston (FamilySearch; probable). 10 in 1850.\n\nFamilySearch gives Hannah's marriage to John S. Jones (1834-1904) in 1856 and her death on 17 Feb 1910. It has a child born in Wales in 1861, so the couple apparently spent time in Wales ([R4-S1]). A Social Security file for her son Frank Sylvester Jones names his mother as Hanna Scott.",
   "sources": [
     "FamilySearch (Scott children)",
-    "1850 census Kingston Twp dwelling 262"
+    "1850 census Kingston Twp dwelling 262",
+    "[R4-S1] FamilySearch published tree, Hannah Scott (G7LQ-QMP), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7LQ-QMP"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,34 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives m. 1856 John S. Jones (a child born in Wales 1861) and d. 17 Feb 1910."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0220.json."
+    }
+  ],
+  "death": {
+    "date": "1910-02-17"
+  },
+  "aka": [
+    "Hannah S. Jones"
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1856",
+      "place": "Pennsylvania",
+      "description": "To John S. Jones (1834-1904) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G7LQ-QMP"
     }
   ]
 }

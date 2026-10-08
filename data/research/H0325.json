@@ -8,7 +8,8 @@
   "tags": [],
   "summary": "Congressman-elect; uncle of Rep. Joseph H. Tuthill; speculative cousin.",
   "sources": [
-    "notes/round2/colonial_cousins.md §2g"
+    "notes/round2/colonial_cousins.md §2g",
+    "[R4-S1] Wikipedia, 'Selah Tuthill' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Selah_Tuthill"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -19,6 +20,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Akerly 1898 full text: no Selah Tuthill; Web search 'Selah Tuthill 1771 Blooming Grove parents Daniel Tuthill Anna Strong' (no source naming Selah as their son)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates from Wikipedia; parentage still unproven (speculative)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0325.json."
     }
   ],
   "media": [
@@ -38,5 +51,14 @@
       "note": "",
       "url": "https://www.findagrave.com/memorial/6944300/selah-tuthill:"
     }
-  ]
+  ],
+  "birth": {
+    "date": "1771-10-26",
+    "place": "Blooming Grove, NY"
+  },
+  "death": {
+    "date": "1821-09-07",
+    "place": "Goshen, NY"
+  },
+  "bio": "Elected to the 17th Congress in April 1821 but died before taking his seat; Assembly member for Ulster (1804-05) and Orange (1820) ([R4-S1]). His parents are still not documented; no Tuthill genealogy consulted names them (Akerly 1898 has no Selah)."
 }

@@ -1,0 +1,47 @@
+{
+  "id": "H0156",
+  "name": "Noah Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "15 Nov 1857",
+        "place": "",
+        "description": "To Esther Louisa Nesbitt (1839-1918), per FamilySearch",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1850-1880",
+        "place": "Plymouth, Luzerne Co.",
+        "note": "census residences per FamilySearch",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LWNW-PX9"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch dates Noah's marriage to Esther Louisa Nesbitt to 15 Nov 1857, places him in Plymouth in every census from 1850 to 1880, and attaches an Ohio death record (1908-1953) of a son, Frank E. Pringle, that names Noah as his father (S1). That son is not yet in the tree.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Noah Pringle (LWNW-PX9), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LWNW-PX9",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "marriage date; son Frank E. in Ohio"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. 15 Nov 1857 and a son Frank E. Pringle, d. in Ohio, whose death record names Noah."
+}

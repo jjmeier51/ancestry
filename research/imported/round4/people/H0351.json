@@ -1,0 +1,120 @@
+{
+ "id": "H0351",
+ "name": "Grace Petrillo",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Grace DiBiasi",
+   "Katie Petrillo (probably, 1910 census)"
+  ],
+  "occupation": "Merchant, general grocery store (1940)",
+  "residences": [
+   {
+    "date": "1940-04-16",
+    "place": "1015 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
+    "note": "Wife of Joseph DiBiasi (47, b. Italy); she is the merchant of a general grocery store, own account.",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1943-06-29",
+    "place": "1015 Bunker Hill St, Scranton",
+    "note": "Address on repatriation card",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Repatriated as a US citizen",
+    "date": "1943-06-29",
+    "place": "US District Court, Middle District of PA, Scranton",
+    "description": "Card marked 'Rep.' (repatriation), vol. 1, certificate 250; country of birth U.S.A.; born Jan 5, 1897. US-born women who had married an alien before 22 Sep 1922 lost their citizenship and could regain it by repatriation.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Grace's 1943 'naturalization' was in fact a repatriation. The index card is marked 'Rep.' and gives her country of birth as the U.S.A. (S1). Under the Expatriation Act of 1907, an American woman who married a foreigner took his nationality. Grace's husband Joseph DiBiasi was Italian-born, so she must have married him before the Cable Act took effect in September 1922, and she formally regained her citizenship in June 1943. In 1940 she and Joseph lived at 1015 Bunker Hill Street, where Grace, not Joseph, was the merchant running a general grocery store (S2). She was carrying on the grocery trade of her father John Petriello, whose store had stood at 1028 on the same street. She is very probably the 'Katie', 13, of the 1910 census (S3; see H0350).",
+ "openQuestionsResolved": [
+  {
+   "question": "(bio) naturalized 29 Jun 1943 - reason unknown",
+   "answer": "Repatriation, not naturalization: the card is marked 'Rep.' and gives birth country U.S.A.; she had lost citizenship by marrying the Italian-born Joseph DiBiasi before Sept 1922.",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "US District Court, Middle District of PA, naturalization index card (Form N-35), Grace DiBiasi, 1015 Bunker Hill St, Scranton; born Jan 5, 1897, country of birth U.S.A.; 'Rep.' (repatriation) June 29, 1943, vol. 1, certificate 250. Image attached to FamilySearch tree GQWT-QQ8 (index ark 1:1:6KPY-79MP).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Grace was US-born and was repatriated in 1943, i.e. she had lost citizenship by marrying an alien"
+  },
+  {
+   "ref": "S2",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 DiBiasi and Castellano households on Bunker Hill St"
+  },
+  {
+   "ref": "S3",
+   "citation": "1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1910 Petriello household; Katie is female, 13"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "Repatriation index card of Grace DiBiasi, 29 Jun 1943",
+   "date": "1943-06-29",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0351/repatriation-card-1943.jpg",
+   "people": [
+    "H0351"
+   ],
+   "suggestedFile": "media/H0351/repatriation-card-1943.jpg",
+   "note": "Federal court / INS index card: US government work, public domain."
+  },
+  {
+   "type": "record",
+   "title": "1940 census, 1003-1015 Bunker Hill St, Scranton (DiBiasi and Castellano households)",
+   "date": "1940-04-16",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0351/1940-census-1015-bunker-hill.jpg",
+   "people": [
+    "H0351",
+    "H0501",
+    "H0355",
+    "H0503",
+    "H0512",
+    "H0366"
+   ],
+   "suggestedFile": "media/H0351/1940-census-1015-bunker-hill.jpg",
+   "note": "US federal census / Selective Service record: a US government work, so public domain."
+  }
+ ],
+ "researchLogEntry": "Round 4: her 1943 'naturalization' is a repatriation (US-born wife of an alien); in 1940 she ran a general grocery at 1015 Bunker Hill St; probably the 'Katie' of 1910.",
+ "researchedAt": "2026-10-08"
+}

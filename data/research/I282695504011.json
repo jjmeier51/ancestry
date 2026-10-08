@@ -1,0 +1,33 @@
+{
+  "id": "I282695504011",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → possible: Duplicate entry; retire after merging into H0332."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: duplicate of Carmela 'Mollie' Gianetta (H0332); James had one wife Mollie in 1940 and 1950."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695504011.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "Separate person 'Mollie Petriello', b. abt 1911",
+      "found": "Same person as Carmela 'Mollie' Gianetta (H0332), b. 13 Jul 1910",
+      "assessment": "Duplicate. Merge into H0332."
+    }
+  ],
+  "link": {
+    "confidence": "possible",
+    "note": "Round 4 (unverified → possible): Duplicate entry; retire after merging into H0332."
+  },
+  "sources": [
+    "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+    "[R4-S2] WWII draft registration card (first registration, 16 Oct 1940), James Petriello, serial 853, order 815, Local Board No. 7, Scranton; registered 16 Oct 1940. Image attached to FamilySearch tree GQWR-TY6 (FS index 'Mollie Petriello', PA WWII Draft Registration Cards, ark 1:1:Q2SV-6J3V). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/2/image.jpg"
+  ]
+}

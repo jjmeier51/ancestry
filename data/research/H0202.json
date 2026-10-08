@@ -10,9 +10,10 @@
   ],
   "tags": [],
   "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Catherine (Grub) Hipp (1755-1836), m. Gottlieb Hipp; lived around Easton.",
+  "bio": "Catherine (Grub) Hipp (1755-1836), m. Gottlieb Hipp; lived around Easton.\n\nFamilySearch gives Catharina a birth date of 25 Nov 1755 in Williams Twp, her marriage to Gottlieb Hipp on 21 Jan 1777, and her death on 19 Mar 1836, with burial at St John's Lutheran, Easton ([R4-S1]). Gottlieb Hipp's will is in Northampton Will Book 6 pp.18-19.",
   "sources": [
-    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
+    "[R4-S1] FamilySearch published tree, Catherine Grub (PWSP-YPG), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/PWSP-YPG"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -23,6 +24,39 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 25 Nov 1755-19 Mar 1836 and m. 21 Jan 1777 Gottlieb Hipp."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0202.json."
+    }
+  ],
+  "birth": {
+    "date": "1755-11-25",
+    "place": "Williams Twp, Northampton Co."
+  },
+  "death": {
+    "date": "1836-03-19",
+    "place": "Northampton Co."
+  },
+  "burial": {
+    "place": "St John's Lutheran Church Cemetery, Easton"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1777-01-21",
+      "place": "Northampton Co.",
+      "description": "To Gottlieb Hipp (1752-1839); his will is in Northampton Will Book 6 pp.18-19 [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "PWSP-YPG"
     }
   ]
 }

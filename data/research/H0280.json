@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 3rd cousin 8x removed (Bull → Daniel → Daniel 2d → Caleb → Caleb II); 1798 mill partner.",
-  "bio": "Built a house in Hauppauge in 1790, reported to have stood at Veterans Highway and Old Willets Path, where the Suffolk County Police Fourth Precinct is today; moved to Commack in 1819; gave the Hauppauge house to daughter Sarah when she married Maj. Ebenezer Smith.",
+  "bio": "Built a house in Hauppauge in 1790, reported to have stood at Veterans Highway and Old Willets Path, where the Suffolk County Police Fourth Precinct is today; moved to Commack in 1819; gave the Hauppauge house to daughter Sarah when she married Maj. Ebenezer Smith.\n\nHis wife Elizabeth, daughter of Aaron Smith 2d, was presumably a granddaughter of Aaron Smith (son of Job 1st), which would make his children John's cousins through Job Smith as well; Aaron 2d's parentage was not checked.",
   "residences": [
     {
       "date": "1790",
@@ -21,7 +21,8 @@
   "sources": [
     "Patch, https://patch.com/new-york/commack/commack-history-caleb-smith-ii",
     "Rockwell scrapbook",
-    "Wood (1920) p. 26"
+    "Wood (1920) p. 26",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 477 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -32,6 +33,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: exact dates and marriage to Elizabeth dau. of Aaron Smith 2d from Pelletreau."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0280.json."
+    }
+  ],
+  "birth": {
+    "date": "1762-09-22"
+  },
+  "death": {
+    "date": "1831-12-05"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1795",
+      "place": "",
+      "description": "Married Elizabeth, daughter of Aaron Smith 2d; children Sarah (Mrs Maj. Ebenezer Smith), Martha (Mrs Thomas Mills), Elizabeth (Mrs Richard Blydenburgh), Caleb 3. [R4-S1]"
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "id": "I282695486914",
+  "name": "William Henry Harrison",
+  "status": "researched",
+  "bioAdditions": "Ninth U.S. President; husband of John's cousin Anna Symmes. In-law only: he descends from the Virginia Harrisons, not from the Long Island lines.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'William Henry Harrison' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Lead portrait metadata"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "William Henry Harrison, by Albert Gallatin Hoit",
+      "date": "1840",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:William_Henry_Harrison_crop.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/William_Henry_Harrison_crop.jpg",
+      "repository": "Wikimedia Commons; original at National Portrait Gallery NPG.67.5",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282695486914/william-henry-harrison-hoit-1840.jpg",
+      "people": [
+        "I282695486914"
+      ],
+      "suggestedFile": "media/I282695486914/william-henry-harrison-hoit-1840.jpg",
+      "note": "Commons licence: Public domain (faithful reproduction of a 1840 painting). Saved as 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: PD Hoit portrait catalogued; relationship by marriage only confirmed.",
+  "researchedAt": "2026-10-08"
+}

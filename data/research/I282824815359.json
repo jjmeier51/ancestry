@@ -6,7 +6,7 @@
   },
   "tags": [],
   "summary": "Tree's father of Domenico G. Fiorillo (1785); unsupported pedigree.",
-  "bio": "Tree: Carmine G. Fiorillo (d. 1797), wife unknown/empty; parents Domenico G. Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Flagged unverified by Rounds 1-2.",
+  "bio": "Tree: Carmine G. Fiorillo (d. 1797), wife unknown/empty; parents Domenico G. Fiorillo (d. 1770) + Cecilia Fata Scaff... (1738-1797). Flagged unverified by Rounds 1-2.\n\nThis Carmine is known only through his sons' death records. Domenico (b. c.1775 at Cannovali, Aiello Calabro, d. 1849) and Francesco (b. c.1789, d. 1853) are both called sons of the late Carmine Gabriele Fiorillo and of a Giacinta ('Cintia'), whose surname is variously given as Feraculo, Iera and Marrello ([R4-S1], [R4-S2]). Carmine's wife, missing from the tree, was therefore Giacinta. The tree's death date of 22 November 1797 and his parentage (Domenico G. Fiorillo and Cecilia Fata) presumably come from Aiello Calabro registers, which are not indexed here.",
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
@@ -15,7 +15,9 @@
   ],
   "sources": [
     "Ancestry tree transcription",
-    "notes/round2/italian_gaps.md 7"
+    "notes/round2/italian_gaps.md 7",
+    "[R4-S1] San Mango d'Aquino, stato civile, Civil deaths 1849, image 1557, act 22; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 32, p. 58, no. 23 and image 61, p. 117, no. 11; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -26,6 +28,25 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child I282824815347, proven): Son's death records name him"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: San Mango baptism and marriage indexes 1767-1808: no Fiorillo or Gabriele entries (family not yet in San Mango)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified wife Giacinta from sons' 1849/1853 death records; family was from Cannovali (Aiello)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815359.json."
     }
+  ],
+  "openQuestions": [
+    "Wife Giacinta: surname Feraco/Iera/Marrello? Check Aiello Calabro (Cannovali) parish records for Domenico's baptism c.1775."
   ]
 }

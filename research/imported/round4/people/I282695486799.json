@@ -1,0 +1,49 @@
+{
+  "id": "I282695486799",
+  "name": "HANNAH SATTERLY REEVE",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Akerly (1898): Hannah, daughter of Maj. James Reeve of Mattituck, was the wife of Joshua Tuthill (b. 1690, d. 2 June 1782) of Cutchogue. She died 8 Mar 1764, aged 64 (S1). She was not the wife of James Tuthill, as the tree has it.",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "Tree: wife of James M. Tuthill",
+      "foundValue": "Wife of Joshua Tuthill of Cutchogue",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Tree error; reattach to Joshua (H0265)."
+    },
+    {
+      "field": "death.date",
+      "siteValue": "18 Mar 1764",
+      "foundValue": "8 Mch. 1764, ae. 64",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Akerly says 8 March; check the gravestone."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0265",
+      "evidence": "Akerly no. 9",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11)",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joshua no. 9 m. Hannah dau. of Maj. James Reeve, d. 8 Mar 1764 ae. 64"
+    }
+  ],
+  "researchLogEntry": "Round 4: shown to be the wife of Joshua, not James, Tuthill."
+}

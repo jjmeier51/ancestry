@@ -1,14 +1,90 @@
 {
   "id": "H0435",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Parentage and marriage from Giles & Franklin, now supported by a primary death register naming her as Bethia's mother."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Parentage and marriage from Giles & Franklin, now supported by a primary death register naming her as Bethia's mother."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0147, probable): Giles & Franklin list Caleb b. 1839 as son of Benjamin and Charity"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0148, probable): Giles & Franklin; Harvey Book p.362"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found Bethia (Pringle) Roberts's 1897 Minnesota death record naming parents Benj. and Charity Pringle; FS tree dates added with a warning that FS merged her with Charity Pringle Mekeel."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0435.json."
+    }
+  ],
+  "birth": {
+    "date": "1800-02-16",
+    "place": "Salem Twp., Luzerne Co., PA (per FamilySearch tree)"
+  },
+  "death": {
+    "date": "1883-01-19",
+    "place": "Lehman Twp., Luzerne Co., PA (per FamilySearch tree)"
+  },
+  "burial": {
+    "place": "Beach Grove Cemetery (per FamilySearch tree), Beach Haven, Luzerne Co., PA"
+  },
+  "residences": [
+    {
+      "date": "1860-1880",
+      "place": "Salem Twp., Luzerne Co., PA",
+      "note": "FS tree residence events from censuses [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "L4WX-HKC"
+    }
+  ],
+  "bio": "Charity Gould was the eldest child of Jacob Gould (d. 1849, aged 77, buried in the old Shupp cemetery, Plymouth; a New Jersey Revolutionary soldier) and Hannah Davenport, daughter of Thomas and Charity (Lamoreux) Davenport ([R4-S1]). She married Benjamin Pringle (1794-1853), son of Samuel and Martha (Lamoreaux) Pringle, about 1821, so she was both a granddaughter of Charity Lamoreux Davenport and a daughter-in-law of Martha Lamoreaux Pringle. Their children were Bethia (m. Caleb Roberts 1852, went to Iowa), Martha Ann (m. William Hutchinson), 'Lege' (Elijah, b. 1825/26, d. 1898, whose will is indexed in Salem Twp. 1898), Ira (1833/35-1918), Jacob Gould, Martin (California), and Caleb (b. 1839, 'went West') ([R4-S1], [R4-S2]).\n\nA primary record now names her as a mother: the 1897 death register of the town of Verona, Faribault Co., Minnesota, records Bethia Roberts, widow, died 30 Dec 1897 aged 75 years 3 months 9 days, born Pennsylvania, of Bright's disease, parents 'Benj. Pringle' and 'Charity Pringle', both born Pennsylvania ([R4-S3]). The FamilySearch tree gives Charity's birth as 16 Feb 1800 in Salem Twp. and her death on 19 Jan 1883 at Lehman, with burial at Beach Grove Cemetery, Beach Haven ([R4-S2]).",
+  "conflicts": [
+    {
+      "field": "spouses/children (FamilySearch tree)",
+      "site": "spouse Benjamin Pringle only",
+      "found": "FS L4WX-HKC also attaches Oliver Mekeel (1796-1847) as a spouse and his children (1820-1844), plus a 'Charity Mekeel' cemetery record",
+      "assessment": "FS has merged her with Charity (Pringle) Mekeel (1800-1899), daughter of James Pringle and wife of Oliver Mekeel (Harvey Book p.980). The Mekeel data do not belong to Charity Gould. Her FS death date/burial may also come from the merged profile and should be checked."
+    }
+  ],
+  "openQuestions": [
+    "Verify death date 19 Jan 1883 / Beach Grove burial independently of the merged FS profile (Find a Grave blocked)."
+  ],
+  "sources": [
+    "[R4-S1] Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.280-282 (secondary) https://archive.org/details/thomasdavenportp00gile",
+    "[R4-S2] FamilySearch Family Tree (published), Charity Gould L4WX-HKC; Benjamin Pringle L7XP-VKX (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L4WX-HKC",
+    "[R4-S3] Minnesota, Faribault Co., Register of Deaths, Town of Verona, 1897, p.173: Bethia Roberts (image attached to FS L4WX-HKC, 'Minnesota, County Deaths, 1850-2001') (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L4WX-HKC/images/i/1/image.jpg",
+    "[R4-S4] Harvey, The Harvey Book (1899), p.980 note on Lewis McKeel (secondary) https://archive.org/details/harveybookgiving00harv"
+  ],
+  "media": [
+    {
+      "file": "media/H0435/1897-minnesota-death-register-bethia-roberts.jpg",
+      "type": "record",
+      "title": "Verona, Minn., death register 1897 with Bethia Roberts, daughter of Benj. and Charity Pringle",
+      "date": "1897-12-30",
+      "source": "FamilySearch (Faribault Co., Minn. records), public_domain",
+      "note": "Pre-1931 U.S. local government register; last entry under Town of Verona.",
+      "people": [
+        "H0146"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L4WX-HKC"
     }
   ]
 }

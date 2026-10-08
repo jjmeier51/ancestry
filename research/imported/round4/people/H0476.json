@@ -1,0 +1,37 @@
+{
+  "id": "H0476",
+  "name": "Deborah Smith",
+  "status": "researched",
+  "conflicts": [
+    {
+      "field": "identity (merged record)",
+      "siteValue": "One 'Deborah Smith' as wife of both Joshua Smith II (H0279) and William Lawrence Jr. (H0488), mother of both Joshua B. Smith and Adam Lawrence",
+      "foundValue": "Two different women: (a) Deborah, daughter of Bull Smith, who married William Lawrence Jr. in 1680 and was mother of Adam Lawrence; (b) Deborah, daughter of Epenetus Smith 1st, third wife of Judge Joshua Smith II (1763-1845)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Split into two records. Note also that Pelletreau names Joshua II's wives as Mary Blydenburgh, Ruth Smith and Deborah (Epenetus); whether Deborah was Joshua B. Smith's mother should be checked (Joshua B. b. 1801)."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), p. 34",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "William Lawrence Jr. m. 1680 Deborah dau. of Richard Smith, patentee"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 477",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joshua Smith 2d m. (1) Mary Blydenburgh (2) Ruth Smith (3) Deborah dau. of Epenetus Smith 1st"
+    }
+  ],
+  "researchLogEntry": "Round 4: record conflates two Deborah Smiths (Bull Smith's daughter, wife of William Lawrence Jr.; and Epenetus's daughter, wife of Joshua Smith II).",
+  "researchedAt": "2026-10-08"
+}

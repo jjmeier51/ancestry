@@ -19,7 +19,7 @@
   ],
   "tags": [],
   "summary": "John's 10th-great-grandmother; William Wells's second wife, later Mrs. Mapes; maiden name unknown.",
-  "bio": "Hayes (1878, pp. 27–28): Wells married about 1654 'Mary… whose family name is said to be Youngs', adding 'Thus far I have found nothing to throw any light on the question'; she 'can hardly have been' Rev. John Youngs's sister (who married William Browne of Salem), nor his daughter Mary (b. 1631) who 'more prob. m. Edward Petty'. Her own will of 26 Dec 1678, as 'Mary Mapes … relict of William Wells', names 'my son-in-law John Youngs, in right of his wife … Mary Youngs, his wife, my daughter' — the Youngs connection came through a daughter, not the mother (as Hayes guessed). Tree: 'Mary Maria YOUNGS 1619–1709', father 'John E M o Yonges' 1598–1671.",
+  "bio": "Hayes (1878, pp. 27–28): Wells married about 1654 'Mary… whose family name is said to be Youngs', adding 'Thus far I have found nothing to throw any light on the question'; she 'can hardly have been' Rev. John Youngs's sister (who married William Browne of Salem), nor his daughter Mary (b. 1631) who 'more prob. m. Edward Petty'. Her own will of 26 Dec 1678, as 'Mary Mapes … relict of William Wells', names 'my son-in-law John Youngs, in right of his wife … Mary Youngs, his wife, my daughter' — the Youngs connection came through a daughter, not the mother (as Hayes guessed). Tree: 'Mary Maria YOUNGS 1619–1709', father 'John E M o Yonges' 1598–1671.\n\nThe Southold town records print the deed of gift of 26 Dec 1678 by 'Mary Mapes of Southold ... the relect of William Wells ... and now wife to Thomas Mapes Junr' to her son-in-law John Yongs and 'Mary Yongs his wife my daughter' ([R4-S1]). This is the wife of William Wells (the tree's 'Mary Youngs'). The record shows her second husband was Thomas Mapes Jr. and that her daughter, not she, married a Youngs. A 1677 entry mentions her son William Wells being taught a trade ([R4-S1]). Her maiden name is unknown. The tree's 'daughter of Rev. John Youngs' is not supported: Youngs 1907 lists no such daughter ([R4-S2]).",
   "facts": [
     {
       "label": "Tree shows",
@@ -30,7 +30,9 @@
     "Hayes (1878) pp. 27–28",
     "Youngs, Youngs Family (1907), https://archive.org/details/youngsfamilyvica00youn",
     "Southold Town Records v1; WikiTree Wells-639",
-    "Round 1 correction 3b"
+    "Round 1 correction 3b",
+    "[R4-S1] J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 302-303: deed of gift 26 Dec 1678 (recorded 3 Apr 1679) by 'Mary Mapes of Southold ... the relect of William Wells of ye sd Town ... lately desceased, and now wife to Thomas Mapes Junr', who had received all Wells's lands and goods by his deed of gift, to 'my son in law John Yongs, in right of his wife and to Mary Yongs his wife my daughter' (witnesses Thomas Mapes, William Wells); also an entry (Liber page 141, 1677) of meadow had 'of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread' (primary) https://archive.org/details/southoldtownreco0000jwic",
+    "[R4-S2] Selah Youngs Jr., Youngs Family: Vicar Christopher Yonges, his ancestors in England and his descendants in America (1907), pp. 38-41 (First and Second Generations) (secondary) https://archive.org/details/youngsfamilyvica00youn"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -67,6 +69,26 @@
     {
       "date": "2026-10-08",
       "note": "Death in the Ancestry tree: 1 Apr 1709; research: AFT 1678-12-26."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0461, proven): 1678 deed: 'now wife to Thomas Mapes Junr'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: the 1678 Mapes deed proves her 2nd husband Thomas Mapes Jr. and that 'Youngs' was her daughter's married name."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608056003.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "surname / father",
+      "site": "Mary 'Maria' Youngs, daughter of Rev. John Youngs",
+      "found": "Mary (maiden name unknown), widow of William Wells, later wife of Thomas Mapes Jr.; her daughter Mary married John Youngs",
+      "assessment": "Rename her 'Mary (Unknown) Wells Mapes' and detach Rev. John Youngs."
     }
   ]
 }

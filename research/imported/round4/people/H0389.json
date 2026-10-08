@@ -1,0 +1,46 @@
+{
+  "id": "H0389",
+  "name": "William J. Walsh",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1873-07-26",
+      "place": "Erie, PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1951-07-24",
+      "place": "Erie, PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GRC2-JFG"
+      }
+    ]
+  },
+  "bioAdditions": "Husband of Anna J. Meier. FamilySearch (unsourced): born 26 Jul 1873 at Erie, PA; died at Erie on 24 Jul 1951 (S1).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Spouse link is consistent across the FamilySearch family and attached records."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, William J. Walsh (GRC2-JFG), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GRC2-JFG",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Birth and death dates (unsourced)"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: brief pass; details from the FamilySearch tree and its attached records.",
+  "researchedAt": "2026-10-08"
+}

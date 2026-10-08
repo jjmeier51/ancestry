@@ -1,0 +1,114 @@
+{
+ "id": "I282695503435",
+ "name": "John T. Petriello Sr.",
+ "status": "researched",
+ "updates": {
+  "residences": [
+   {
+    "date": "1940-04-20",
+    "place": "1028 Bunker Hill Street, Scranton Ward 10, Lackawanna County, Pennsylvania, USA",
+    "note": "Son 'John', 7, in household of James 'Petranello' (father), with sister Ann Marie, 6; uncles Nicholas and Charles in other flats of the same house.",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1950-04-21",
+    "place": "128 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA",
+    "note": "Son 'John', 17, single, in school ('OT'), in household of James and Mollie Petriello.",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID (1950 census profile)",
+    "value": "PST1-D86 (gives birth 1933, an estimate from the census age)"
+   }
+  ]
+ },
+ "bioAdditions": "John appears as a seven-year-old in the April 1940 census at 1028 Bunker Hill Street in Scranton's 10th Ward, the Guardia Lombardi colony on the Scranton/Dunmore line. The house had been his grandfather John Petriello's, and in 1940 three of the grandfather's sons lived in separate rented units there: John's father James, and his uncles Nicholas and Charles (S1). Ten years later the family had moved a few blocks into Dunmore, to 128 Sand Street. His mother's widowed mother, Angelica (Ferrantino) Giannetta, lived at 133 Sand Street, and his aunt Mary (Giannetta) Pichiarello lived next door. In April 1950 John was 17 and still in school (S2). His ages in both censuses (7 in April 1940, 17 in April 1950) fit the 19 May 1932 birth date in his funeral-home listing.",
+ "openQuestionsResolved": [
+  {
+   "question": "Exact birth date/place (not researched; possibly living per tree)",
+   "answer": "The funeral home gives 19 May 1932 – 1 March 2025 (already on the site). The 1940 census (age 7) and the 1950 census (age 17) both fit May 1932, and both record his birthplace as Pennsylvania. The FamilySearch profile's 1933 is only an estimate from the census age. Birth registration not seen.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  }
+ ],
+ "openQuestionsNew": [
+  "Obituary text of the 2025 Solfanelli-Fiorillo notice was not readable (the page shows only the dates); the published Times-Tribune obituary would confirm the survivors list.",
+  "Ann Marie in the 1940 and 1950 censuses is his sister (b. c.1933–34). The 'cousin Ann Marie' in John Jr.'s 2024 obituary is therefore either a loose use of 'cousin' for this aunt or a different Ann Marie; unresolved."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  },
+  {
+   "ref": "S2",
+   "citation": "1950 US census, Dunmore borough, Lackawanna Co., PA, ED 35-115, sheet 10 (21 Apr 1950), Sand Street: James Petriello household (no. 128) and Joseph Pichiarello household next door. Image attached to FamilySearch tree GQWR-TY6 (index ark 1:1:6X1Q-9M51).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "James 39, railroad car repairman; Mollie 39, sewing-machine operator in lingerie factory; children John 17, Ann Marie 16; Mary (Giannetta) Pichiarello 47 next door"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1940 census, 1028 Bunker Hill St, Scranton (Petriello households)",
+   "date": "1940-04-20",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282695503435/1940-census-bunker-hill.jpg",
+   "people": [
+    "I282695503435",
+    "I282695504010",
+    "H0332",
+    "H0356",
+    "H0358",
+    "H0505"
+   ],
+   "suggestedFile": "media/I282695503435/1940-census-bunker-hill.jpg",
+   "note": "US federal census / Selective Service record: a US government work, so public domain."
+  },
+  {
+   "type": "record",
+   "title": "1950 census, 128 Sand St, Dunmore (James Petriello household)",
+   "date": "1950-04-21",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/0/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/0/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282695503435/1950-census-sand-st.jpg",
+   "people": [
+    "I282695503435",
+    "I282695504010",
+    "H0332",
+    "H0369"
+   ],
+   "suggestedFile": "media/I282695503435/1950-census-sand-st.jpg",
+   "note": "US federal census / Selective Service record: a US government work, so public domain."
+  }
+ ],
+ "searchedNoResult": [
+  "Solfanelli-Fiorillo obituary page (known URL) re-fetched 2026-10-08: only dates visible, no text",
+  "WebSearch: 'John T. Petriello' obituary 2025 Scranton Lackawanna College Tobyhanna (only John Jr.'s 2024 obituary found)"
+ ],
+ "researchLogEntry": "Round 4: read the 1940 (1028 Bunker Hill St) and 1950 (128 Sand St, Dunmore) census images showing John with his parents and sister Ann Marie; the ages fit a May 1932 birth.",
+ "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,110 @@
+{
+ "id": "I282608060497",
+ "name": "Andrew H. Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1919-05-06",
+   "place": "Wilkes-Barre, Luzerne Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "occupation": "School janitor (1900 census); court-house attaché (obituary, prior rounds)",
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "1919 #61616 (indexed as \"Hefferman, Andrew\", Wilkes Barre, May 6)"
+   },
+   {
+    "label": "FamilySearch ID",
+    "value": "L2G4-NQW"
+   },
+   {
+    "label": "Immigration (1900 census)",
+    "value": "1863; naturalized"
+   }
+  ],
+  "residences": [
+   {
+    "date": "1900-06-01",
+    "place": "Plymouth Borough, Ward 3, Luzerne Co., Pa.",
+    "note": "Head, 53, b. Mar 1847 Ireland, married 31 years; school janitor; wife Mary mother of 11 children, 10 living",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The state death index for 1919 has \"Hefferman, Andrew; 61616; Wilkes Barre; May 6\" (S1), confirming the date Dwyer took from the certificate. In the 1900 census of Plymouth Borough, Ward 3 (S2) Andrew, 53, gave his birth as March 1847 in Ireland, immigration in 1863, and occupation school janitor; Mary, 49, born Nov 1850 in New York, had borne 11 children, 10 living. At home were Thomas (29, newspaper reporter), Norah (26, dressmaker), Annie (23, tailoress), Mary (21), Andrew (19), Josephine (16) and John (13). The \"11 born, 10 living\" count implies one child who died young, matching an unnamed \"Daughter Heffernan\" on FamilySearch.",
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "bapt. 3 Apr 1842 (Dwyer)",
+   "foundValue": "March 1847 (1900 census); 31 Mar 1848 (FS)",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "Census ages drift; the Killenaule baptism (1842) and Harvey's \"seventy-six\" at death in 1919 both point to 1842. Keep 1842."
+  },
+  {
+   "field": "immigration",
+   "siteValue": "about 1861 (Harvey) / mid-1860s",
+   "foundValue": "1863 (1900 census)",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "Self-reported; fits arrival a few years before his 1868 marriage."
+  }
+ ],
+ "openQuestionsNew": [
+  "1900 census sheet 1B (continuation) should hold the rest of the household (Leo, George, and possibly widowed mother Catherine Boney, whom FamilySearch attaches to this ED)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Department of Health death certificate index, 1919 (PA State Archives RG-11), PDF p.69: \"Hefferman, Andrew; --61616; Wilkes Barre; May 6.\"",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 6 May 1919, file 61616",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1919/D-19%20H-I-J.pdf"
+  },
+  {
+   "ref": "S2",
+   "citation": "1900 U.S. census, Plymouth Borough Ward 3, Luzerne Co., Pa., Sup. Dist. 6, ED 120, sheet 1A, enumerated 1 Jun 1900 by John R. Wilton, dwelling 137, family 9 (image via FamilySearch, attached to LB2N-F9R)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Andrew Hefferman household; immigration 1863; school janitor; children and occupations",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/0/image.jpg"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1900 census, Plymouth Ward 3: Andrew Hefferman household",
+   "date": "1900-06-01",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:M3QQ-KR7",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/0/image.jpg",
+   "repository": "NARA via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282608060497/1900-census-plymouth-ward3-heffernan.jpg",
+   "people": [
+    "I282608060497",
+    "I282608064637",
+    "H0111",
+    "H0113",
+    "H0114",
+    "H0115",
+    "H0116",
+    "H0117",
+    "H0118"
+   ],
+   "suggestedFile": "media/I282608060497/1900-census-plymouth-ward3-heffernan.jpg",
+   "note": "US federal census, government record, public domain."
+  }
+ ],
+ "researchLogEntry": "Round 4: PA 1919 death index file 61616; 1900 census read (immigration 1863, school janitor, 11 children/10 living)."
+}

@@ -13,7 +13,8 @@
   "summary": "John's 9th-great-grandmother, mother of Jerusha Topping; surname unknown.",
   "sources": [
     "Howell (1887) pp. 395–396",
-    "F. K. Smith (1967) via jrm Needham I2549"
+    "F. K. Smith (1967) via jrm Needham I2549",
+    "[R4-S1] Giles, Thomas Davenport, Pioneer, and His Descendants: family Bible entries (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt"
   ],
   "openQuestions": [
     "Maiden name."
@@ -31,6 +32,19 @@
     {
       "date": "2026-10-08",
       "note": "A second handoff record (\"Generation 12 (10th-great-grandparents)\", line 7723) also maps to this person."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Davenport genealogy (Giles) full text: no maiden name for Mary"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: maiden name still unknown; the Bible names her only as Mary."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0226.json."
     }
-  ]
+  ],
+  "bio": "Wife of William Davenport of Fordham; the Davenport family Bible, as reported by the Davenport genealogy, names her only as Mary, 'surname not known', and lists her children Thomas (1682), William (1683), Francis (1685) and Rachel ([R4-S1])."
 }

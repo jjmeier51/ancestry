@@ -1,0 +1,64 @@
+{
+  "id": "H0234",
+  "name": "Sarah Horton",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Second marriage",
+        "date": "1657-12-02",
+        "place": "Southold",
+        "description": "Married John Conckelyne Jr. as 'Sarah Solmon wid' (per WikiTree, citing Southold Town Records 1:464)",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Southold Town Records vol. 1 states that William Salmon 'married with Sarah Hortton' after his first wife Katherine died, and that after his intestate death John Conckelyne Jr. 'tooke to wife the said Sarah Salmon' (S1). The town record therefore proves her maiden name Horton. Her descent from Barnabas Horton is not stated there. Horton Genealogy (1876) does not list her; it has a daughter Sarah b. c.1653 who married Joseph Conklin, apparently a garble of this Sarah's Conklin marriage (S2). Recent research (Dinan, In Search of Barnabas Horton, cited on WikiTree) makes her Barnabas's daughter by his first wife Anne Smith, born c.1635 near Nuneaton (S3).",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Maiden name Horton proven by the town record. Paternity (Barnabas) rests on modern compiled work (Dinan) and was not read directly."
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0237",
+      "evidence": "Not stated in the town records; Dinan (via WikiTree) says yes; the 1876 Horton Genealogy omits her",
+      "sourceRefs": [
+        "S2",
+        "S3"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 169-170 (Liber A: recital that William Salmon, after the death of his wife Katherine, widow of Mathew Sinderland, 'married with Sarah Hortton' and died intestate; John Conckelyne Jr. 'tooke to wife the said Sarah Salmon')",
+      "url": "https://archive.org/details/southoldtownreco0000jwic",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "'married with Sarah Hortton'; John Conckelyne Jr. took the said Sarah Salmon to wife"
+    },
+    {
+      "ref": "S2",
+      "citation": "G. F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton of Southold (1876), First Generation (Barnabas I) and 'Sarah I.'",
+      "url": "https://archive.org/details/hortongenealogyo00hort",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Barnabas's children; 'Sarah I.' m. Joseph Conklin"
+    },
+    {
+      "ref": "S3",
+      "citation": "WikiTree Horton-219 (Sarah Horton), biography read via api.wikitree.com, citing Southold Town Records vol. 1 (marriage 'John Conckelyne and Sarah Solmon wid married the 2d of December' 1657), Conklin Mann, TAG 21:246-253 (1945), and J. Dinan, In Search of Barnabas Horton (Nuneaton baker 1633)",
+      "url": "https://www.wikitree.com/wiki/Horton-219",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Dinan's identification; 1657 marriage to John Conklin Jr."
+    }
+  ],
+  "researchLogEntry": "Round 4: maiden name Horton confirmed in Southold Town Records vol. 1; paternity relies on Dinan."
+}

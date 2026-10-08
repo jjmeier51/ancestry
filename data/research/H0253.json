@@ -9,7 +9,8 @@
   "summary": "Removed (Sayre branch).",
   "sources": [
     "Banks (1901)",
-    "notes/colonial_virginia.md §2a"
+    "notes/colonial_virginia.md §2a",
+    "[R4-S1] T. M. Banta, Sayre Family (1901) (archive.org full text), pp. 29-30 (secondary) https://archive.org/details/sayrefamilylinea00bant"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -20,6 +21,23 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Daniel Sayre's 1707 will transcribed in Banta; non-ancestral branch."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0253.json."
     }
-  ]
+  ],
+  "events": [
+    {
+      "title": "Will",
+      "date": "21 Aug 1707, proved 13 Apr 1708",
+      "place": "Southampton, NY",
+      "description": "Names children Joseph, Daniel, Hannah (wife of Mr Josiah Topping), deceased son Samuel's children, David, Ephraim and Nathan (executor); son-in-law Josiah Topping to sell two slaves, Gordg and Moll; the woman to choose her own master. [R4-S1]"
+    }
+  ],
+  "bio": "His will (Banta, [R4-S1]; recorded N.Y. Liber 7, folio 480) is the document that shows his daughter Hannah married Josiah Topping and had no daughter Jerusha. A humane touch: he asked that his enslaved woman 'may have Liberty to chuse her master when she is sold' and keep her clothes and box."
 }

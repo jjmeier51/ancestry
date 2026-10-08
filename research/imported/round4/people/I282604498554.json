@@ -1,0 +1,54 @@
+{
+ "id": "I282604498554",
+ "name": "William Richard McAvoy",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "A second, independent licence confirms his New York birth: daughter Agnes M. McAvoy's 1914 Luzerne docket gives her father William as deceased and born in \"New York\" (S1), matching Elizabeth's 1923 licence. FamilySearch attaches a Social Security NUMIDENT entry for William Richard McAvoy (almost certainly William Jr., 1886-1942) in which the father's name appears as \"William R McAvoy\"; the SS-5 application behind it would give the son's birth date and both parents' names (S2).",
+ "conflicts": [
+  {
+   "field": "birth.place",
+   "siteValue": "New York, USA",
+   "foundValue": "FamilySearch tree says Pennsylvania",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Two licences (1914, 1923) given by different daughters both say New York; keep New York. The FS \"Pennsylvania\" is unsourced."
+  },
+  {
+   "field": "parents (Peter McAvoy b. abt 1845)",
+   "siteValue": "Father Peter McAvoy, b. abt 1845",
+   "foundValue": "William was born c.1857",
+   "sourceRefs": [
+    "S2"
+   ],
+   "assessment": "A father born c.1845 could not have a son in 1857. The Peter McAvoy/Mary Doran parentage is unsourced on FamilySearch and its dates are impossible; treat as unverified, possibly a wrong family."
+  }
+ ],
+ "openQuestionsNew": [
+  "NUMIDENT/SS-5 for William Richard McAvoy Jr. (1886-1942) would name the parents and may give William Sr.'s full name.",
+  "1899 death in Plymouth predates state registration: look for a Luzerne County Register of Deaths entry (1893-1906) and a St. Vincent de Paul, Plymouth burial; obituary in the Wilkes-Barre Record / Times, 5-7 Nov 1899."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), William Richard McAvoy (1857-1899), PID K6NQ-ZXZ; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 4 Nov 1899 Plymouth; NUMIDENT entry for William Richard McAvoy listing father William R McAvoy",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K6NQ-ZXZ"
+  }
+ ],
+ "searchedNoResult": [
+  "Chronicling America (loc.gov) \"McAvoy\" + Plymouth, Nov 1899 and 1890-1900: no obituary found (Scranton Tribune hits all other McAvoys)"
+ ],
+ "researchLogEntry": "Round 4: second licence (1914) confirms NY birth; flagged impossible dates for tree parents Peter McAvoy/Mary Doran."
+}

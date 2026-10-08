@@ -1,0 +1,61 @@
+{
+  "id": "H0322",
+  "name": "John F. Farnsworth",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "27 Mar 1820",
+      "place": "Eaton, Quebec (born in Canada per Hammond)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "14 Jul 1897",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Hammond (S1) gives each generation: William Hammond (I) -> Lt. John Hammond (II) -> Abigail (III, m. John Hastings) -> John Hastings (IV) -> Hannah Hastings (V, b. Watertown 1716/17, m. 15 Aug 1735 Lt. David Farnsworth, a settler of 'No. 4' Charlestown, N.H., captured by the French and Indians in April 1757, escaped after seventeen days) -> Samuel Farnsworth (VI, b. 1750, drummer at Bunker Hill, later in Canada) -> John (VII, b. Stoddard, N.H., 15 May 1783, surveyor, d. Michigan 1844) -> John Franklin (VIII, b. 27 Mar 1820). 6th cousin 6 times removed.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Frederick S. Hammond, History and Genealogies of the Hammond Families in America, vol. 1 (1902) (archive.org full text), pp. 90-96",
+      "url": "https://archive.org/details/historygenealogi0001fred",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Hastings-Farnsworth generations (V)-(VIII)"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'John F. Farnsworth' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/John_F._Farnsworth",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates and career"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Hon. John Franklin Farnsworth of Illinois (Brady-Handy)",
+      "date": "c. 1860-1875",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:John_F._Farnsworth_-_Brady-Handy.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/John_F._Farnsworth_-_Brady-Handy.jpg",
+      "repository": "Library of Congress Brady-Handy Collection (cwpbh.00287) via Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0322/john-f-farnsworth-brady-handy.jpg",
+      "people": [
+        "H0322"
+      ],
+      "suggestedFile": "media/H0322/john-f-farnsworth-brady-handy.jpg",
+      "note": "Public domain. 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: each Hammond-Hastings-Farnsworth generation from Hammond 1902; PD Brady-Handy photo downloaded.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "H0153",
+  "name": "Orange Pringle",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1827-02-07",
+      "place": "Plymouth Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1900-06-26",
+      "place": "Rock Co., WI",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Fassett Cemetery, Edgerton, Rock Co., WI",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Moved west",
+        "date": "between 1857 and 1870",
+        "place": "Albion / Dunkirk, Dane Co., WI",
+        "description": "In Albion, Dane Co., WI, in 1870, and in Dunkirk in 1885 (the 1885 Wisconsin state census is attached in the tree).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch tree KD3Q-Q7P gives Orange Pringle's birth as 7 Feb 1827 in Plymouth Twp., son of Samuel D. Pringle and Hulda Ives. He married Elizabeth Ann Keller (1835-1912). Their children were Samuel (b. Plymouth 26 Nov 1852, d. Edgerton, Wis., 28 Jun 1882), Emma Ann (b. Plymouth 22 Oct 1854, d. 1928), Lenora (1857-1872) and Adelia (b. Dunkirk, Wis., 1873). The family moved to Dane Co., Wisconsin, by 1870, living at Albion and then Dunkirk. Orange died in Rock Co. on 26 Jun 1900 and is buried in Fassett Cemetery, Edgerton (S1). He appears as a parent in a Wisconsin marriage entry for a Miles Herrick, probably a daughter's marriage.",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0150",
+      "evidence": "1850 census; FS",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "parent",
+      "personId": "H0151",
+      "evidence": "same",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "1850 census age and occupation agree with an FS tree that has a state census and Find a Grave."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Orange Pringle KD3Q-Q7P",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KD3Q-Q7P",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, wife Elizabeth Ann Keller, children, Wisconsin residences 1870-1885, death 26 Jun 1900, burial Fassett Cemetery"
+    }
+  ],
+  "researchLogEntry": "Round 4: FS KD3Q-Q7P gives b. 7 Feb 1827, wife Elizabeth Ann Keller, moved to Dane Co., Wis.; d. 26 Jun 1900, buried Fassett Cemetery, Edgerton.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "H0452",
+  "name": "Suzanne Marie Doucinet",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "",
+      "place": "La Rochelle, France",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Marie Susanne Dousinet"
+    ],
+    "events": [
+      {
+        "title": "Marriage to Daniel Mercereau",
+        "date": "1693-08-06",
+        "place": "French Church, New York",
+        "description": "By Pierre Peiret after banns on three Sundays; Daniel of the bourg of Moëze in Saintonge, she of the city of La Rochelle. Marks/signatures of 'the sieur Doucinet', D. Mercereau, Elisabet Dubois (mark), Marie Mercereau (mark), Suzanne Doucinet (mark), Susanne Ratier, Josué Mercereau, Elie Masse, Pierre Masse, Ezechiel Grazillier, Jean La Tourette, René Rezeau.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Suzanne Marie Doucinet, of La Rochelle, married Daniel Mercereau of Moëze in Saintonge at the French Church of New York on Sunday 6 Aug 1693. The register carries the mark of 'the sieur Doucinet' and that of Elisabet Dubois, the groom's mother, among the witnesses (S1). The sieur Doucinet was probably Estienne Dousinet, a shoemaker of New York who appears as a sponsor in the same register. Earlier that summer (25 Jun 1693) 'Marie Susanne Doucinet' had been godmother, with Jean La Tourette, to Pierre, son of Pierre Masse and Elisabet Mercereau, and she could only make her mark (S1). Children baptized: Daniel (b. 10 Aug 1695, bapt. 18 Aug 1695, sponsors Pierre Masse and Judy Pare), Susanne Marie (b. 8 Jul 1697, bapt. 18 Jul 1697) and Marianne (b. 31 Oct 1699, bapt. 5 Nov 1699, sponsors Joshue Mercereau and Jeanne Jamain) (S1).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0198",
+      "evidence": "French Church of NY marriage, 6 Aug 1693",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "Marriage and baptisms in the contemporary register (published)."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Collections of the Huguenot Society of America, vol. I (1886): registers of the French Church (Eglise Françoise à la Nouvelle York), transcribed",
+      "url": "https://archive.org/details/collectionsofhug01hugu",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "marriage 6 Aug 1693 (p.31), La Rochelle origin, godmother 25 Jun 1693 (p.29), baptisms of Daniel 1695, Susanne Marie 1697, Marianne 1699 (p.68)"
+    }
+  ],
+  "researchLogEntry": "Round 4: found her 6 Aug 1693 marriage to Daniel Mercereau (she of La Rochelle) and three children's baptisms in the French Church of NY registers.",
+  "researchedAt": "2026-10-08"
+}

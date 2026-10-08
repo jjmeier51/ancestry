@@ -1,8 +1,8 @@
 {
   "id": "I282608085069",
   "link": {
-    "confidence": "confirmed",
-    "note": "1880 census (Elizabeth 8); details FS."
+    "confidence": "probable",
+    "note": "1880 census (Elizabeth 8); details FS. Round 4 (confirmed → probable): The death date rests only on an unsourced tree entry, and the state index shows no matching Meier."
   },
   "given": "Elizabeth",
   "surname": "Meier",
@@ -11,8 +11,8 @@
     "place": "Pennsylvania, USA"
   },
   "death": {
-    "date": "1945",
-    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+    "date": "1945-05-12",
+    "place": "Hazleton, Luzerne County, Pennsylvania"
   },
   "tags": [],
   "summary": "John's 3rd great-aunt.",
@@ -20,12 +20,18 @@
     {
       "label": "Date conflict",
       "value": "FS gives Elizabeth b. 18 Feb 1872 and Theresa b. 10 Sep 1872 — 7 months apart; both cannot be right."
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "G7GQ-DJ2"
     }
   ],
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] FamilySearch Family Tree, Elizabeth Meier (G7GQ-DJ2), published-tree JSON; only source attached: 1880 census (1:1:MWNZ-PDC) (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G7GQ-DJ2",
+    "[R4-S2] Pennsylvania Death Index 1945, M–O, PDF pp.178–179 (Soundex M600) (secondary) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1945/D-45%20M-O.pdf"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -44,6 +50,26 @@
     {
       "date": "2026-10-08",
       "note": "Death in the Ancestry tree: 12 May 1948; research: 1945."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence confirmed → probable: The death date rests only on an unsourced tree entry, and the state index shows no matching Meier."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: PA Death Index 1945 M600 block (no Elizabeth Meier/Meyer, Hazleton)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS gives death 12 May 1945 Hazleton, but she is not in the 1945 PA death index under Meier/Meyer."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085069.json."
     }
+  ],
+  "bio": "FamilySearch gives her death as 12 May 1945 at Hazleton ([R4-S1]); the tree had only the year. A search of the 1945 Pennsylvania death index (M–O volume, Soundex M600 block, pp.178–179) found no Elizabeth Meier/Meyer/Mayer dying in May 1945 at Hazleton ([R4-S2]). She may have died under a married name, or the date may be wrong.",
+  "openQuestions": [
+    "Did she marry? No Meier entry fits in the 1945 PA death index, which suggests a married surname. Check the 1900–1940 Hazleton censuses."
   ]
 }

@@ -7,11 +7,14 @@
   "sex": "F",
   "tags": [],
   "summary": "John's 2nd great-aunt; sister of William F. Meier.",
-  "bio": "Born 29 Jan 1897 in Wilkes-Barre; bookkeeper in 1920 and 1940; living with her parents at 16 Barney St in 1940, aged 42.",
+  "bio": "Born 29 Jan 1897 in Wilkes-Barre; bookkeeper in 1920 and 1940; living with her parents at 16 Barney St in 1940, aged 42.\n\nMary never married. She was still at 16 Barney Street with her elderly parents in the 1950 census, working as a saleswoman in a retail clothing store ([R4-S2]). The 1962 Pennsylvania death index has 'MEIER MARY C, 65, WLKS BRE, county 40, died 02/10/62, file 016450' ([R4-S1]). This confirms the FamilySearch date of 10 Feb 1962. She was buried at St Mary's, Hanover Township ([R4-S3]).",
   "sources": [
     "FamilySearch tree LTHM-1XV JSON https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-1XV",
     "1910, 1920, 1940 census images",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Pennsylvania Death Index 1962, MAR–MY, PDF p.92: MEIER MARY C, 65, WLKS BRE, 40, 02/10/62, file 016450 (secondary) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1962/D-62%20MAR-MY.pdf",
+    "[R4-S2] 1950 U.S. census, Wilkes-Barre, Luzerne Co., PA, ED written '80-106', sheet 15, 8 Apr 1950, house 16 [Barney St] (FamilySearch index 1:1:6XB1-LZM7) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-BQ6/images/i/0/image.jpg",
+    "[R4-S3] FamilySearch Family Tree, Mary C. Meier (LTHM-BQ6), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/LTHM-BQ6"
   ],
   "occupation": "Bookkeeper",
   "handoff": {
@@ -23,6 +26,58 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: PA death index 1962 file 016450 (d. 10 Feb 1962); 1950 census with her parents."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0014.json."
+    }
+  ],
+  "death": {
+    "date": "1962-02-10",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania"
+  },
+  "burial": {
+    "place": "St. Mary's Cemetery, Hanover Township, Luzerne County"
+  },
+  "facts": [
+    {
+      "label": "Occupation (round 4)",
+      "value": "bookkeeper; saleswoman in a retail clothing store (1950)"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "LTHM-BQ6"
+    },
+    {
+      "label": "PA death file",
+      "value": "1962 no. 016450"
+    }
+  ],
+  "residences": [
+    {
+      "date": "1950-04-08",
+      "place": "16 Barney St, Wilkes-Barre",
+      "note": "Single, 51. Living with her father Henry J., 83, and mother Anna, 82. [R4-S2]"
+    }
+  ],
+  "openQuestions": [
+    "Order PA death certificate 1962 file 016450."
+  ],
+  "media": [
+    {
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-BQ6/images/i/0/image.jpg",
+      "type": "link",
+      "title": "1950 census, 16 Barney St, Wilkes-Barre: Henry J., Anna and Mary C. Meier",
+      "date": "1950-04-08",
+      "source": "NARA (via FamilySearch), public_domain",
+      "note": "The same image is downloaded under media/I282608064820/census-1950-wilkes-barre-16-barney.jpg. (not downloaded: rights public_domain)",
+      "people": [
+        "I282608064820"
+      ]
     }
   ]
 }

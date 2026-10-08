@@ -1,0 +1,65 @@
+{
+  "id": "H0285",
+  "name": "Jesse Woodhull",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "10 Feb 1735",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "3 Feb 1795",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Path confirmed in two compiled sources: Bull Smith -> Richard 2d -> Sarah Smith (b. 13 Feb 1700, m. 1716 Nathaniel Woodhull of Mastic) -> Jesse: 2nd cousin 9 times removed (Woodhull Genealogy S1; Pelletreau S3). The proposed Topping route (via Richard Woodhull II's wife Temperance) is doubtful: the Woodhull Genealogy calls her a Fordham (see Abraham Woodhull). His daughter Hannah (b. 8 Jul 1761) married Oliver Smith of Moriches, a Bull Smith cousin (S3).",
+  "conflicts": [
+    {
+      "field": "secondary route",
+      "siteValue": "3C9R via Topping",
+      "foundValue": "Temperance (wife of Richard Woodhull II) was a daughter of Rev. Jonah Fordham per Woodhull Genealogy and Howell",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Drop the Topping route unless Temperance's parentage is proven."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Bull Smith route sourced; Topping route doubtful."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Mary Gould Woodhull & Francis Bowes Stevens, Woodhull Genealogy: The Woodhull Family in England and America (1904) (archive.org full text), pp. 62-63, 266",
+      "url": "https://archive.org/details/woodhullgenealog1904wood",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Children of Nathaniel Woodhull & Sarah Smith incl. Col. Jesse b. 10 Feb 17[35]; Nathaniel m. 1716 Sarah dau. of Richard Smith 2d; Richard II m. Temperance Fordham"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Jesse Woodhull' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Jesse_Woodhull",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "b. 10 Feb 1735, d. 3 Feb 1795"
+    },
+    {
+      "ref": "S3",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466, 468",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Sarah Smith (b. 13 Feb 1700) m. Nathaniel Woodhull; children incl. Gen. Nathaniel and Col. Jesse; Oliver Smith m. Hannah dau. of Jesse Woodhull 2 Dec 1790"
+    }
+  ],
+  "researchLogEntry": "Round 4: Bull Smith route verified in Woodhull Genealogy and Pelletreau; Topping route questioned.",
+  "researchedAt": "2026-10-08"
+}

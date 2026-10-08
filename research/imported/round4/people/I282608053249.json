@@ -1,0 +1,37 @@
+{
+  "id": "I282608053249",
+  "name": "Florence Louise Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "updates": {
+    "events": [
+      {
+        "title": "Social program application (FamilySearch tree event)",
+        "date": "1971-03",
+        "place": "",
+        "description": "FamilySearch tree LHHT-GQ4 carries an undocumented 'SocialProgramApplication' event dated March 1971 (no source attached); if correct it shows she was alive in 1971, consistent with the tree's 1980 death.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Florence Louise Pringle (LHHT-GQ4), events list",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHHT-GQ4",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "March 1971 event; no death date or burial recorded in the tree"
+    }
+  ],
+  "openQuestionsNew": [
+    "FamilySearch shows a March 1971 'SocialProgramApplication' event (likely from SS Numident/claims index); the Social Security Applications and Claims Index on Ancestry would give her exact birth date and parents' names."
+  ],
+  "searchedNoResult": [
+    "FamilySearch tree LHHT-GQ4 and husband LTHM-B3G: no death date, burial or 1980 record attached",
+    "Web search: 'Florence Meier' / 'Florence L. Meier' Wilkes-Barre 1980 obituary (no match)"
+  ],
+  "researchLogEntry": "Round 4: re-checked FamilySearch tree for Florence and William F. Meier; no 1980 death/burial record; only an undocumented March 1971 social-program event."
+}

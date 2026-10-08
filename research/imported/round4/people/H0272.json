@@ -1,0 +1,31 @@
+{
+  "id": "H0272",
+  "name": "Hannah Brewster",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1698",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "14 Jun 1761",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 476",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Daniel Smith 2d m. first Hannah Brewster, b. 1698, d. 14 Jun 1761"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact death date from Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

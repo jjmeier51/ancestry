@@ -9,6 +9,28 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Pelletreau appendix: no Bull Smith descent shown for Anna Smith Strong; Wikimedia Commons search 'Anna Smith Strong' (no portrait)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates from Wikipedia; no blood link found (in-law)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0480.json."
     }
+  ],
+  "birth": {
+    "date": "1740-04-14"
+  },
+  "death": {
+    "date": "1812-08-12"
+  },
+  "bio": "Culper Ring signaller of Setauket, wife of Selah Strong ([R4-S1]). No Bull Smith descent was found for her; treat her as an in-law (her husband is the blood cousin).",
+  "sources": [
+    "[R4-S1] Wikipedia, 'Anna Strong (spy)' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Anna_Strong_(spy)"
   ]
 }

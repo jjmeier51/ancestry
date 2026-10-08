@@ -1,0 +1,25 @@
+{
+  "id": "I282824815062",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Antenati (AS Avellino) blocked (403); FamilySearch Italian record images 403; no FamilySearch published-tree profile found for this person"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: duplicate of I282824815038; no new records."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815062.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "separate roster entry",
+      "found": "Same name, same dates as I282824815038",
+      "assessment": "Duplicate created by the tree's double attachment as Claudia Di Vivo's parents (Round 1 error 1); merge into I282824815038 and remove as Claudia's parents."
+    }
+  ]
+}

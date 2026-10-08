@@ -1,0 +1,21 @@
+{
+  "id": "M0065",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of M0066 (probable); child of H0289 (probable)."
+  },
+  "tags": [],
+  "summary": "Daughter of Edmund Smith 1st (son of Adam, son of Bull Smith)",
+  "bio": "Daughter of Edmund Smith 1st (son of Adam, son of Bull Smith). Married in 1738 Richard Woodhull IV (1712-1788) of Setauket; mother of Abraham Woodhull, chief of the Culper Ring ('Samuel Culper Sr.'). Her granddaughter-in-law Mary Smith (Abraham's wife) was the daughter of Obadiah Smith and Anna, Edmund 1st's daughter by his second wife, so Abraham married his half-first cousin.",
+  "sources": [
+    "[R4-S1] Mary Gould Woodhull & Francis Bowes Stevens, Woodhull Genealogy: The Woodhull Family in England and America (1904) (archive.org full text), pp. 69-70 (entry 44) (secondary) https://archive.org/details/woodhullgenealog1904wood",
+    "[R4-S2] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), pp. 46-48; App. pp. 476-478 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-604 → M0065; research/imported/round4/new_people.json."
+    }
+  ]
+}

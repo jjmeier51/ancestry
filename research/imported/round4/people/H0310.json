@@ -1,0 +1,59 @@
+{
+  "id": "H0310",
+  "name": "John W. Lawrence",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "19 Aug 1800",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "20 Dec 1888",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Son of Effingham Lawrence (b. 6 Jun 1760, a founder of the Tontine Coffee House, d. 13 Dec 1800), son of John, son of Richard, son of Joseph, son of William & Elizabeth Smith (S1): 5th cousin 6 times removed. Married Mary K., daughter of Mayor Walter Bowne.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 46-47",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Effingham (1760) line; John W. Lawrence offices, marriage"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'John W. Lawrence' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/John_W._Lawrence",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; Congress 1845-47"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "John Watson Lawrence (History of Queens County, 1882)",
+      "date": "1882",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:John_Watson_Lawrence.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/John_Watson_Lawrence.jpg",
+      "repository": "Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0310"
+      ],
+      "suggestedFile": "media/H0310/john-watson-lawrence-1882.jpg",
+      "note": "Public domain (published 1882)."
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates and line verified; PD 1882 engraving downloaded.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "I282608055692",
+  "name": "James Tuthill",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1714-1741",
+        "place": "Brookhaven, Suffolk Co., NY (Fireplace Neck, 'at South')",
+        "note": "Land laid out 1 May 1721 on Dayton's Right next to his Chestnut Pound land; owned the westernmost 15-acre lot in Fireplace Neck in 1737; arbitrator 1741",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Land laid out",
+        "date": "1721-05-01",
+        "place": "Brookhaven",
+        "description": "22 1/2 acres on the other half of Dayton's Right east of his Chestnut Pound land, plus 9 1/2 acres on John Roe's right, adjoining his former 50 lot",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Fireplace Neck highway",
+        "date": "1737-06-10",
+        "place": "Brookhaven",
+        "description": "Highway laid out at the request of 'Jeames Tuttel' and other owners, beginning at the westernmost 15-acre lot 'now belonging to Jeames Tuttel'",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Town arbitrator",
+        "date": "1741-10-05",
+        "place": "Brookhaven",
+        "description": "One of four arbitrators (with Isaac Browne, William Smith and Richard Woodhull) who sealed an award entered in the town records",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The printed Brookhaven town records add detail to James's Long Island years. On 1 May 1721 land was laid out to him on the other half of Dayton's Right, next to his Chestnut Pound land and his 'former 50 lot'. This is the Dayton's Right land his brother John (d. 1743) also referred to (S1, S2). In June 1737 he owned the westernmost 15-acre lot in Fireplace Neck 'at South', and a new highway was laid along the north ends of those lots at his request and his neighbours' (S1). A 'James Tuttle, junr.' signs a town paper c.1738/9. On Alva Tuttle's list he is the son James b. 1717, later of New Windsor (d. 1756) (S1, S4). In October 1741 James sat as one of four arbitrators in a town dispute (S1). Fireplace Neck lies a few miles west of Moriches, the home of James Smith and Jerusha Topping, whose daughter Temperance married James's son John in 1752.\n\nThe tree gives James's wife as 'Hannah S. Reeve (1699-1764)'. Akerly (1898) shows that Hannah, daughter of Maj. James Reeve of Mattituck (d. 8 Mar 1764, aged 64), was the wife of James's brother **Joshua** Tuthill of Cutchogue (S2). The tree has transferred Joshua's wife and her gravestone to James. James's wife was Rachel Browne (Alva Tuttle p. 279, via S4).",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "Tree: Hannah Satterly Reeve (1699-1764)",
+      "foundValue": "Akerly 1898: Hannah, dau. of Maj. James Reeve, d. 8 Mar 1764 ae. 64, was wife of Joshua Tuthill (b. 1690) of Cutchogue",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Tree error: Joshua's wife was attached to James. Keep Rachel Browne as James's wife."
+    }
+  ],
+  "openQuestionsNew": [
+    "Brookhaven rate lists 1741/1749 and the 'James Tuttle junr.' paper: get exact dates from the original record book."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Records of the Town of Brookhaven, Suffolk County, N.Y. (printed 1880; volume covering the 1720s-1750s), p. 113 (1 May 1721 land laid out to James Tuthill on the other half of Dayton's Right, 22 1/2 acres east of his Chestnut Pound land, plus 9 1/2 acres on John Roe's right, adjoining his former 50 lot), pp. 139-140 (10 June 1737 highway across the north ends of the 15-acre lots in Fireplace Neck, laid out at the request of owners incl. 'Jeames Tuttel', beginning at the westernmost 15-acre lot 'now belonging to Jeames Tuttel'), p. 143 ('James Tuttle, junr.' among signers, c. 1738/9), pp. 147-148 (award of arbitrators Isaac Browne, William Smith, James Tuthill and Richard Woodhull, sealed 5 Oct 1741), p. 166 (c. 1750 road between Thomas Rose's and James Tuthill's land in Fireplace Neck)",
+      "url": "https://archive.org/details/cu31924064122769",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "James Tuthill's land and civic acts in Brookhaven, 1721-1750"
+    },
+    {
+      "ref": "S2",
+      "citation": "L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11)",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "James no. 8; Joshua no. 9 m. Hannah Reeve, d. 8 Mar 1764 ae. 64"
+    },
+    {
+      "ref": "S3",
+      "citation": "Abstracts of Wills on File in the Surrogate's Office, City of New York (Collections of the New-York Historical Society, 1893-1908), full text of the volumes covering 1730-1784 searched (archive.org items abstractswillso01kellgoog, 02kellgoog, 04kellgoog, 05kellgoog, 00kellgoog/abstractsofwills34newy [1766-76], 06kellgoog [1771-76], 07kellgoog, abstractswillso00/01/03/04courgoog)",
+      "url": "https://archive.org/details/abstractswillso06kellgoog",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "negative for James's own will or administration"
+    },
+    {
+      "ref": "S4",
+      "citation": "WikiTree Browne-2352 (Rachel Browne), biography read via api.wikitree.com, quoting Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968) p. 279: children Rachel 1715, James 1717, Elizabeth 1719, Daniel 1721, Mary 1725, Jonathan b. 6 Oct 1727, Mehitable 1728-29, John 1730",
+      "url": "https://www.wikitree.com/wiki/Browne-2352",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "children of James & Rachel per Alva Tuttle p. 279, incl. John b. 1730"
+    }
+  ],
+  "searchedNoResult": [
+    "NY will abstracts to 1784: no will or administration for James Tuthill Sr. (d. c.1772)",
+    "Salmon Records (Southold register): no marriage of James Tuthill and Rachel Browne"
+  ],
+  "researchLogEntry": "Round 4: Brookhaven town records (1721, 1737, 1741) document James in Fireplace Neck; tree's wife Hannah Reeve shown to be brother Joshua's wife."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "I282604499706",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch: Margaret McIver profile L85M-P2R has no parents attached; No record found naming Patrick McIver"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1880 census supports an Irish-born father for Margaret McIver; Patrick himself still unsourced."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604499706.json."
+    }
+  ],
+  "bio": "The 1880 census of his presumed daughter Margaret (Mrs. Edward F. Jones) at Plymouth Township gives her father's birthplace as Ireland and her mother's as England ([R4-S1]), consistent with an Irish-born Patrick McIver living in England. Margaret's son Joseph's 1914 marriage docket writes her maiden name as \"Kiver\" ([R4-S2]). No record naming Patrick himself was found.",
+  "sources": [
+    "[R4-S1] 1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg",
+    "[R4-S2] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  ]
+}

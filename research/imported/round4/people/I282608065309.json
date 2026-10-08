@@ -1,0 +1,21 @@
+{
+  "id": "I282608065309",
+  "name": "Richard Smith",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "bioAdditions": "Pelletreau's 1688 deeds (pp. 56-58, 71) show Richard Smith Sr. 'Gent.' with wife Sarah, acknowledged before Wait Winthrop (S1); already in the tree in substance.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Richard and Sarah Smith's deeds to Job, 1688"
+    }
+  ],
+  "searchedNoResult": [
+    "No new evidence on English origin: Pelletreau 1898 Introduction re-read ('we know absolutely nothing'); Weygant 1897 offers no origin"
+  ],
+  "researchLogEntry": "Round 4: nothing new on English origin or parents."
+}

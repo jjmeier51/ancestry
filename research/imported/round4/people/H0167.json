@@ -1,0 +1,95 @@
+{
+  "id": "H0167",
+  "name": "James Pringle",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1785-05-19",
+        "place": "Smith's Clove, Orange Co., NY",
+        "description": "Constant's journal, 19 May 1785: 'Rode to Smith Clove; married James Prendle and Phebe Lamoreux.' Giles & Franklin give 9 May 1785.",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Settled in Jackson Twp.",
+        "date": "c.1797-1798",
+        "place": "part of Plymouth Twp. now Jackson Twp., Luzerne Co., PA",
+        "description": "Harvey Book p.1020.",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Rev. Silas Constant married 'James Prendle and Phebe Lamoreux' at Smith's Clove on 19 May 1785 (S1). Giles & Franklin say Phebe (1765-1856) was a daughter of John and Charity (Davenport) Lamoreux, lived with her sister Charity in Plymouth, Pa., and later with the Mekeels. They list three children: Charity (b. 31 Jan 1800, d. 1899, m. Oliver McKeel/Mekeel), Hannah, and Phebe, whose daughters were Elmira and Martha (Mrs. Clinton Brown) (S2). Harvey says James settled about 1797-98 in the part of Plymouth that became Jackson Twp., and that he was the father of Charity Mekeel (H0145) (S3). On p.135 Harvey calls Samuel and James Pringle brothers, 'presumably natives of Connecticut', who lived in Orange Co., N.Y., for several years before 1790.",
+  "conflicts": [
+    {
+      "field": "marriage.date",
+      "siteValue": "1785",
+      "foundValue": "19 May 1785 (Constant) vs 9 May 1785 (Giles & Franklin)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Prefer the officiating minister's journal: 19 May."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0191",
+      "evidence": "Constant's journal",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "child",
+      "personId": "H0145",
+      "evidence": "Harvey p.1020; Giles & Franklin p.359",
+      "sourceRefs": [
+        "S2",
+        "S3"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Marriage from the minister's journal; settlement and child from two secondary works."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "The Journal of the Reverend Silas Constant (ed. E. W. Roebling, 1903), journal entries and Appendix marriage list",
+      "url": "https://archive.org/details/cu31924028826894",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "marriage 19 May 1785"
+    },
+    {
+      "ref": "S2",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.359-360",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "wife's parents and dates, children Charity, Hannah, Phebe"
+    },
+    {
+      "ref": "S3",
+      "citation": "Harvey, The Harvey Book (1899), pp.135 and 1020",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "brother of Samuel; settled Jackson Twp. c.1797-98; father of Charity Mekeel"
+    }
+  ],
+  "researchLogEntry": "Round 4: Constant gives the marriage as 19 May 1785. Giles & Franklin and Harvey give children Charity (H0145), Hannah and Phebe, and the Jackson Twp. settlement c.1797-98.",
+  "researchedAt": "2026-10-08"
+}

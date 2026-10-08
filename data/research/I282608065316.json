@@ -24,7 +24,7 @@
     "immigrant"
   ],
   "summary": "John's 10th-great-grandmother, wife of Bull Smith; came from Ipswich to New England in 1634 aged 10.",
-  "bio": "Sailed from Ipswich on the Francis in April 1634, aged 10, with her mother (47), Elizabeth (15) and John (7) (Hammond 1902). No Lavenham baptism under 'Sarah' found; Hammond's register list has 'Marie, daughter of William Hamond' dated 21 Oct '1628', probably a misprint for 1623 (it sits before the 1626 entry); WikiTree Hammond-356 suggests she was christened 'Marie' 21 Oct 1623 (speculative). Married Richard Smith in 1640 despite his attempt to withdraw. Her will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss' — 'Old Crib', which family tradition says the Patentee's father used in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left Mr. George Phillips a cow and made son Richard give up debts he 'pretends' were owed him (Pelletreau pp. 37–38). Pelletreau (1898) had called her 'Sarah Folger, of Boston, according to all accounts' — superseded.",
+  "bio": "Sailed from Ipswich on the Francis in April 1634, aged 10, with her mother (47), Elizabeth (15) and John (7) (Hammond 1902). No Lavenham baptism under 'Sarah' found; Hammond's register list has 'Marie, daughter of William Hamond' dated 21 Oct '1628', probably a misprint for 1623 (it sits before the 1626 entry); WikiTree Hammond-356 suggests she was christened 'Marie' 21 Oct 1623 (speculative). Married Richard Smith in 1640 despite his attempt to withdraw. Her will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss' — 'Old Crib', which family tradition says the Patentee's father used in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left Mr. George Phillips a cow and made son Richard give up debts he 'pretends' were owed him (Pelletreau pp. 37–38). Pelletreau (1898) had called her 'Sarah Folger, of Boston, according to all accounts' — superseded.\n\nPelletreau prints the 1688 deeds that Sarah Smith joined as party ('by and with the consent of Sarah his wife'), acknowledged with her husband on 17 Sept 1688 ([R4-S1]). Her maiden name and Lavenham baptism were not re-examined this round.",
   "funFacts": [
     "Owned the blunderbuss 'Old Crib', a family heirloom still held by descendants in 1898."
   ],
@@ -39,7 +39,8 @@
     "jrm Needham I2516 citing NYGBR 121, https://jrm.phys.ksu.edu/Genealogy/Needham/d0003/I2516.html",
     "Pelletreau (1898) pp. 37–38",
     "WikiTree Hammond-356",
-    "Round 1 correction 3d"
+    "Round 1 correction 3d",
+    "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "openQuestions": [
     "Lavenham register 21 Oct 1623 ('Marie'): read directly."
@@ -57,6 +58,18 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Sarah Folger Hammond\"; research uses \"Sarah Hammond\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Lavenham register for 'Marie' 1623: no online image found this round"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: only the 1688 deed acknowledgments added; Lavenham baptism still unread."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608065316.json."
     }
   ],
   "media": [

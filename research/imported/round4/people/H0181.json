@@ -1,0 +1,51 @@
+{
+  "id": "H0181",
+  "name": "Joshua Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "30 Aug 1793",
+      "place": "Monroe, Orange Co., NY (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1838 (FamilySearch)",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "12 Dec 1813",
+        "place": "",
+        "description": "To Martha Ives (b. 1798)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "M6FQ-CKJ"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Joshua B. Lamoreaux a birth date of 30 Aug 1793 and his marriage to Martha Ives on 12 Dec 1813, with children born in Lehman and Jackson Twps from 1815. It gives his death as 1838, against 1839 on the site, and attaches his probate file (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. 12 Dec 1813 Martha Ives and d. 1838 (site 1839)."
+}

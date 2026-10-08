@@ -51,6 +51,18 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Johann Evangeliste BIRKENMEIER\"; research uses \"Johann Evangelist Birkenmayer\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FS profile G7PN-SR8 (father of Servatius) not fetched beyond the link in G921-V35; Munzingen parish books before 1810 not online; WikiTree API Birkenmaier: no match"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: nothing new (1771 baptism and marriage predate the online civil duplicates)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064981.json."
     }
   ]
 }

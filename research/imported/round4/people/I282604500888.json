@@ -1,0 +1,21 @@
+{
+ "id": "I282604500888",
+ "name": "Ann",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Margaret (McIver) Jones told the 1880 census taker that her mother was born in England (S1). Nothing else is known.",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Edward F. Jones 40, miner, b. Wales (parents Wales); Margret 35, wife, b. England (father b. Ireland, mother b. England); Ann C. 15, dau., b. England; Rose 13, dau., b. England; Mary 10, dau., servant, b. England; William J. 9/12, son, born Sept., b. Penna. Next household (fam. 134): Evan W. Jones 60, laborer, and Martha 52, both b. Wales.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
+  }
+ ],
+ "searchedNoResult": [
+  "No record naming Ann found"
+ ],
+ "researchLogEntry": "Round 4: 1880 census implies an English-born mother for Margaret McIver."
+}

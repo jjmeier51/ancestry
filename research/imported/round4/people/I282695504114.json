@@ -1,0 +1,125 @@
+{
+ "id": "I282695504114",
+ "name": "John Petriello",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1939-04-25",
+   "place": "Scranton, Lackawanna County, Pennsylvania, USA",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Giovanni J. Petrillo (PA death index 1939)"
+  ],
+  "events": [
+   {
+    "title": "Alive with wife in Aug 1934",
+    "date": "1934-08-27",
+    "place": "Scranton, PA",
+    "description": "Son Charles's marriage-license application lists father John and mother Mary (maiden name 'Bibisi'), both born in Italy and residing in Scranton; father's occupation 'Mdse'.",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "title": "Family house after his death",
+    "date": "1940-04-20",
+    "place": "1028 Bunker Hill St, Scranton",
+    "description": "A year after his death, three of his sons (James, Nicholas, Charles) were renting separate units at 1028 Bunker Hill St, his former home and store address.",
+    "sourceRefs": [
+     "S3"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "37883 (1939)"
+   }
+  ]
+ },
+ "bioAdditions": "The Pennsylvania state death index for 1939 lists 'Giovanni J Petrillo' of Scranton, Lackawanna County, who died on 25 April 1939, under state file number 37883 (S1). This independently confirms the 1939 death year (against the Ancestry index's 1937) and gives the number needed to order his death certificate, which should name his parents and birthplace. Five years earlier, in August 1934, son Charles's marriage-license application had shown John and Mary both still living in Scranton, with John still in 'merchandise', i.e. running his grocery (S2). After his death the family kept the Bunker Hill house. In the April 1940 census his sons James, Nicholas and Charles were each renting a unit at no. 1028 (S3).",
+ "openQuestionsResolved": [
+  {
+   "question": "PA death certificate (1939)",
+   "answer": "Not yet seen, but now locatable: the PA death index gives state file no. 37883, died 25 Apr 1939, Scranton, indexed as 'Giovanni J Petrillo'. The certificate can be requested from the PA State Archives (RG-11) or viewed on Ancestry's 'Pennsylvania, U.S., Death Certificates, 1906-1970'.",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ ],
+ "openQuestionsNew": [
+  "Middle initial 'J' in the 1939 index: possibly a second given name (Giuseppe?) or a clerk's addition."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Death Index 1939, P-Q volume, Soundex P364 (index p. 1525): 'Giovanni J Petrillo', Scranton, county 35 (Lackawanna), died 4/25/39, state file no. 37883. PA State Archives RG-11.",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1939/D-39%20P-Q.pdf",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "John Petriello death 25 Apr 1939 Scranton; death-certificate file number 37883"
+  },
+  {
+   "ref": "S2",
+   "citation": "Lackawanna Co. Orphans' Court, marriage license application No. 1856 (1934): Charles Petriello (26, labor, b. Scranton, 1028 Bunker Hill St; father John, mother Mary, maiden name 'Bibisi' [DiBiasi], father occupation 'Mdse', both parents b. Italy, residing Scranton) and Elsie Jaworski (21, waitress, b. Scranton, 416 Christ Ct; father Alexander, deceased; mother Victoria, b. Poland); sworn 27 Aug 1934; married Sept 1934 at Scranton by Rev. Andrew Lychowicz. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:VF78-5KW).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/2/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Charles Thomas Petriello marriage; John and Maria Antonia both alive Aug 1934"
+  },
+  {
+   "ref": "S3",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "PA death index 1939, entry for Giovanni J Petrillo (file 37883)",
+   "date": "1939",
+   "pageUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1939/D-39%20P-Q.pdf",
+   "directUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1939/D-39%20P-Q.pdf",
+   "repository": "Pennsylvania State Archives",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "people": [
+    "I282695504114"
+   ],
+   "suggestedFile": "media/I282695504114/pa-death-index-1939.pdf",
+   "note": "State government index (not federal); reuse status not stated, so not downloaded. Entry is on index page 1525 (PDF page 35)."
+  },
+  {
+   "type": "record",
+   "title": "Marriage license No. 1856 (1934), Charles Petriello and Elsie Jaworski, naming parents John and Mary 'Bibisi'",
+   "date": "1934-08-27",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/2/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/2/image.jpg",
+   "repository": "FamilySearch (Lackawanna Co. Orphans' Court)",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "people": [
+    "I282695504114",
+    "I282695504203",
+    "H0356"
+   ],
+   "suggestedFile": "media/H0356/marriage-license-1934.jpg",
+   "note": "County record after 1930; rights unknown, not downloaded."
+  }
+ ],
+ "searchedNoResult": [
+  "Ellis Island / Steve Morse passenger search for Giovanni Petriello/Petrillo 1880-1900: no usable unauthenticated search (not attempted beyond a check of access)",
+  "FamilySearch historical record search for naturalization c.1900: blocked (401)",
+  "Lackawanna County naturalization (1900): no online index found"
+ ],
+ "researchLogEntry": "Round 4: found his 1939 PA death-index entry (Giovanni J Petrillo, d. 25 Apr 1939, file 37883) and his son Charles's 1934 marriage license showing him alive in 1934.",
+ "researchedAt": "2026-10-08"
+}

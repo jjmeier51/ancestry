@@ -1,0 +1,34 @@
+{
+ "id": "I282824814840",
+ "name": "Pietro Petriello",
+ "status": "researched",
+ "bioAdditions": "Three FamilySearch-indexed Avellino civil records are attached to Pietro's tree profile (S1). The first (ark 1:1:6PG6-674L) indexes Pietro together with Grazia di Marino (6PG6-674V) and her parents Gaetano di Marino (6PG6-674K) and Caterina di Leo (6PG6-6742), all under one record. That pattern is typical of a marriage act, so it is very likely the Petriello–Di Marino marriage that Round 3 could not find in the Antenati indexes. The second (6PJX-KPGJ, with Angelo Petriello, Lucia Marra and Grazia) is his 1901 death act, already read. The third is the 16 Dec 1885 birth of daughter Filomena at Carife (QPR6-CHPY), which places Pietro and Grazia in neighbouring Carife in 1885. The images are blocked from here, so the record date of 6PG6-674L is unknown.",
+ "openQuestionsNew": [
+  "Open FamilySearch record 1:1:6PG6-674L (Avellino Stato Civile) while logged in: it is probably Pietro and Grazia's marriage act (c.1862-68) and will give its date, comune and act number.",
+  "Why was daughter Filomena born at Carife in 1885? Temporary residence, or Grazia's home parish?"
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile GQWR-RPT (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GQWR-RPT",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Attached indexed records 6PG6-674L, 6PJX-KPGJ and QPR6-CHPY"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile G44P-XYT (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G44P-XYT",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Grazia di Marino attached records 6PG6-674V, 6PJX-KPG2, QPR6-CHPB (same record clusters)"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images (ancestors.familysearch.org published-source image URLs) return 403; Antenati returns 403",
+  "WebSearch 'Pietro Petriello' 'Grazia di Marino' Guardia Lombardi: no hits"
+ ],
+ "researchLogEntry": "Round 4: FS indexes a record (6PG6-674L) naming Pietro, Grazia and both of her parents, very likely their marriage; images blocked.",
+ "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "I282695583810",
+  "name": "Thomas Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "facts": [
+      {
+        "label": "SAR approved applications (as of Oct 2026)",
+        "value": "5: 1995 NJ ACN 206959 (via James); 2014 NJ 58344 (James); 2017 PA 75326 (Thomas Jr.); 2025-10-10 NJ 119814 (James); 2025-11-07 PA 119145 (Daniel). None via Martha."
+      },
+      {
+        "label": "SAR qualifying service",
+        "value": "NY; Ensign / Patriotic Service: ensign under Capt Francis Smith, Col. Woodhull, militia; signed Articles of Association, Orange Co. References: Fernow, NY in the Rev vol 15 p.289; Ruttenber & Clark vol 1 p.69"
+      }
+    ]
+  },
+  "bioAdditions": "The SAR Patriot Research System entry P-232580 now shows five approved member applications: three already known (1995, 2014, 2017) and two approved in late 2025 - Joshua Paul Lance (NJ, 10 Oct 2025, via son James) and Brian Tyler Baker (PA, 7 Nov 2025, via son Daniel) (S1). None descends through Martha (Pringle), so Johnny's line would be a new line for SAR/DAR; the existing applications can be bought from SAR for their proofs of Thomas's service. The SAR page records burial at Shupp's Cemetery, Larksville, but notes 'No entry found in Find-A-Grave - Nov 2024'.\n\nThe page also carries a user-contributed biography (author Robert Stanley Ptaszek) that should not be relied on. It names Thomas's mother as 'Marie (Dubois)', lists children (John m. Sarah Holland, Samuel m. Martha Baker, Mary m. James Hicks, Jacob, Abigail, Rebecca...) that do not match Thomas's own 1815 will, has him moving to Luzerne 'about 1805' (he was in Plymouth by 1790 and in the 1800 census) and as a Luzerne justice 1813-17, and cites a 'Revolutionary-War Pension File NY-RWP-00123' showing a reduction to corporal in 1779. That citation is not in the form of a federal pension file number (S/W/R), no such pension appears in the indexes searched, and Thomas died in 1829, before the 1832 act under which most militia veterans applied (S1). It should be treated as unsupported. Separately, the published New York in the Revolution (1898) lists Isaac Lamore, John Lamoreux and Nicolas Lamarux - but not Thomas - among the Orange County First Regiment land-bounty-rights men, alongside Benjamin and David Prindle (S2).",
+  "openQuestionsNew": [
+    "Widow's pension: Keturah lived until c.1842; check NARA M804 (Fold3 index) for any W- or R- file under Thomas Lamoreux/Lamoree - none found in web search.",
+    "Purchase SAR application ACN 75326 (2017, via Thomas Jr.) and ACN 119145 (2025, via Daniel) to see what proof of service was accepted.",
+    "Birth year: his mother appears to have been unmarried in 1746 (see Charity Davenport H0073), so 'abt 1745' needs checking against his age at death or in the census."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "SAR Patriot Research System, Patriot P-232580, Thomas LAMOREUX/LAMOREAUX (patriot detail, member applications, grave detail, user biography)",
+      "url": "https://sarpatriots.sar.org/patriot/display/232580",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "5 approved applications incl. two in 2025; service description; Shupp's Cemetery; unreliable user biography"
+    },
+    {
+      "ref": "S2",
+      "citation": "New York in the Revolution as Colony and State (Albany, 1898), p.253, Orange County Militia (Land Bounty Rights), First Regiment, enlisted men",
+      "url": "https://archive.org/details/newyorkinrevolut00robe",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Isaac Lamore, John Lamoreux, Nicolas Lamarux, Benjamin and David Prindle listed; no Thomas"
+    },
+    {
+      "ref": "S_DAV46",
+      "citation": "Giles, Thomas Davenport, Pioneer, and His Descendants: transcript of Thomas Davenport's will dated 1746 naming minor children incl. Charity Davenport",
+      "url": "https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "mother unmarried minor in 1746"
+    }
+  ],
+  "searchedNoResult": [
+    "FamilySearch LHRW-YTT: attached HSP marriage image returns 0 bytes; no pension or will images",
+    "Web search for Lamoreux/Lamoreaux Revolutionary pension (Thomas, Keturah): none found",
+    "NY State Archives name index (archives.nysed.gov): TLS certificate chain error from this environment - blocked",
+    "New York in the Revolution (1898, 1904 eds., archive.org full text): no Thomas Lamoreux entry"
+  ],
+  "researchLogEntry": "Round 4: SAR P-232580 now shows 5 approved applications (2 new in 2025, none via Martha); its user biography (pension 'NY-RWP-00123', wrong children) flagged as unreliable; no federal pension found.",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "ABT 1745",
+      "foundValue": "probably c.1747-1752",
+      "sourceRefs": [
+        "S_DAV46"
+      ],
+      "assessment": "His mother Charity Davenport is named in her father's 1746 will as an unmarried minor, and she was a wife by July 1752. A 1745 birth is unlikely unless the will's date is wrong; FamilySearch has 1746. Note only; no record of his birth has been found."
+    }
+  ]
+}

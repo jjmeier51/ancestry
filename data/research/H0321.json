@@ -10,9 +10,11 @@
   ],
   "tags": [],
   "summary": "Great-great-grandfather of First Lady Anna Symmes Harrison; his wife Bethia Horton was a granddaughter of William Wells.",
-  "bio": "His marriage to Bethia Horton gives the Harrisons a second, independent blood link to John through William Wells.",
+  "bio": "His marriage to Bethia Horton gives the Harrisons a second, independent blood link to John through William Wells.\n\nSon of John Tuthill (1635-1717) and Deliverance King, so a brother of John's 10th-great-grandfather John Tuthill Jr (John's 10th-great-granduncle, not a cousin). Akerly ([R4-S1]) cites his will (N.Y. Liber 17, p. 118) and lists children Henry (1690), Jonathan (1695-1741, m. Susannah L'Hommedieu, granddaughter of Thomas Brinley, auditor to Charles I), Nathaniel (drowned 1727), Barnabas and Bethia (m. Samuel Landon). A family record ([R4-S2]) says he died 4 Jan 1750 aged 84.",
   "sources": [
-    "McCurdy, https://mccurdyfamilylineage.com/ancestry/p7701.htm; https://mail.mccurdyfamilylineage.com/ancestry/g14/p14863.htm"
+    "McCurdy, https://mccurdyfamilylineage.com/ancestry/p7701.htm; https://mail.mccurdyfamilylineage.com/ancestry/g14/p14863.htm",
+    "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 7-9 (secondary) https://archive.org/details/tuthillfamilyoft00aker",
+    "[R4-S2] George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), family record (secondary) https://archive.org/details/hortongenealogyo00hort"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -23,6 +25,27 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0491, proven): Akerly; family record in Horton Genealogy"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates, will and children from Akerly; family record death date."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0321.json."
     }
-  ]
+  ],
+  "birth": {
+    "date": "1665-05-01",
+    "place": "Southold, NY"
+  },
+  "death": {
+    "date": "1750-01-04",
+    "place": "Southold, NY"
+  },
+  "occupation": "Justice of the Peace; landowner in Southold and Brookhaven"
 }

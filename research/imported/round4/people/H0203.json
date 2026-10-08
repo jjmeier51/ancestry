@@ -1,0 +1,51 @@
+{
+  "id": "H0203",
+  "name": "Maria Magdalena Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "6 May 1759",
+      "place": "Williams Twp",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "27 Dec 1801",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriages",
+        "date": "c.1778; c.1790",
+        "place": "Easton area",
+        "description": "(1) Johannes Ihrie (1754-1788); (2) George John Stecher (1764-1830)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "26KF-6RN"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Maria Magdalena the dates 6 May 1759 to 27 Dec 1801. It names her two husbands as Johannes Ihrie (1754-1788), whom she married about 1778, and George John Stecher (1764-1830), married about 1790, and has children born at Easton from 1779. A Pennsylvania cemetery record calls her 'Maria-Magdalena Grube Stecher' (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Maria Magdalena Grub (26KF-6RN), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/26KF-6RN",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 6 May 1759-27 Dec 1801 and two husbands, Ihrie and Stecher."
+}

@@ -7,9 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "Probably John's 3rd-great-grand-uncle.",
-  "bio": "Edwin, 9, in James Pringle's 1850 household. No Civil War service found.",
+  "bio": "Edwin, 9, in James Pringle's 1850 household. No Civil War service found.\n\nFamilySearch confirms Edwin (b. about 1841) in James Pringle's household in 1850 and 1860 ([R4-S1]). It also has a separate profile for an Edward Pringle (b. 11 Aug 1843, d. 16 Dec 1917 at Retreat, Luzerne Co.), who married Amanda Dodson, lived in Plymouth in 1870 and 1880, and is buried in the Scott Cemetery, Huntington Twp, which was the Scott family's burial ground ([R4-S2]). That profile carries an 1850 census entry too. 'Edwin' and 'Edward' may be one man; the burial among the Scotts fits a son of this family. The 1917 Pennsylvania death certificate would settle it.",
   "sources": [
-    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)"
+    "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
+    "[R4-S1] FamilySearch published tree, Edwin Pringle (LW3P-FD4), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LW3P-FD4",
+    "[R4-S2] FamilySearch published tree, Edward Pringle (G3WB-MYL) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3WB-MYL"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +22,30 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: confirmed in the 1860 household; possible identity with Edward Pringle (1843-1917) of Retreat, buried Scott Cemetery."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0158.json."
     }
+  ],
+  "residences": [
+    {
+      "date": "1860",
+      "place": "Plymouth, in James Pringle's household (age 18)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LW3P-FD4"
+    }
+  ],
+  "openQuestions": [
+    "Is Edward Pringle (1843-1917, buried Scott Cemetery, Huntington Twp) the same man as Edwin? Check the 1917 PA death index or certificate."
   ]
 }

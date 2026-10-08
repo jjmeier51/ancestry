@@ -1,0 +1,189 @@
+{
+  "id": "I282608053685",
+  "name": "Andrew G. Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Andrew Prindle (1870 census)"
+    ],
+    "occupation": "Laborer (1860, 1870, 1880)",
+    "residences": [
+      {
+        "date": "1860-08-07",
+        "place": "Plymouth (Twp), Luzerne Co., PA; dwelling 879, next door to his parents James and Elizabeth Pringle (dwelling 878)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1870-07-29",
+        "place": "Plymouth Twp, Luzerne Co., PA (post office Kingston), dwelling 422",
+        "note": "Owned real estate worth $500",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1860 census",
+        "date": "1860-08-07",
+        "place": "Plymouth, Luzerne Co., PA (stamped p.737)",
+        "description": "Dwelling/family 879: Andrew Pringle 24, laborer, b. Penna; Catharine 23; Ellen 2. Dwelling/family 878 (immediately before): James Pringle 61, farmer, real estate $1,200, personal $300, b. Penna; Elizabeth 57; Edwin 18; Mary Williams 7.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "1870 census",
+        "date": "1870-07-29",
+        "place": "Plymouth Twp, Luzerne Co., PA, P.O. Kingston, stamped p.496, Ass't Marshal Robeson Boyd",
+        "description": "Dwelling 422/family 424, indexed as 'Prindle': Andrew 36, laborer, real estate $500; Catharine 34, keeping house; John 8; Samuel 7; Adison 5; Orange 3; Ellen Jane 12 (at school); Julian [Julia Ann?] 4/12, female, born within the year; James 71. All b. Pennsylvania.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Two census sheets attached to Andrew's FamilySearch profile close the gap between the 14-year-old of 1850 and the married man of 1880. On 7 August 1860 Andrew Pringle, 24, laborer, was living in Plymouth with Catharine, 23, and daughter Ellen, 2, in the dwelling immediately after that of James Pringle, 61, farmer, and Elizabeth, 57, with Edwin, 18 - the same James, Elizabeth and Edwin of the 1850 household (S1). This places Andrew, as an adult with Catherine Scott, next door to his parents, which is the documentary step an SAR/DAR application needs between the 1850 household and the 1880 family. On 29 July 1870 (indexed as 'Prindle') Andrew, 36, laborer, owned $500 in real estate; the household was Catharine 34, Ellen Jane 12, John 8, Samuel 7, Adison 5, Orange 3, an infant girl 'Julian' aged 4/12 (probably Julia Ann, named for Catherine's mother Julia Ann Scott) and James, 71 - evidently Andrew's widowed or separated father (S2).\n\nThe infant Julia(n) explains Catherine's later counts: she reported 7 children born and 5 living in 1900, when she was listed as divorced (S3), and 11 born/5 living as a widow in 1910 (S4). Ellen Jane, John, Samuel, Addison, Orange, Julia and Stella make seven; the two 'Ellen' and two 'Stella' profiles on FamilySearch are probably duplicates rather than extra children. Catherine's 1910 entry as 'widowed' supports Andrew's death before April 1910, consistent with the tree's 1900; in June 1900 she called herself divorced, which does not tell us whether he was then alive.",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "ABT 1836",
+      "foundValue": "c.1836 (1860 age 24) / c.1834 (1870 age 36)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "1850 (14), 1860 (24) and 1880 (44) all give c.1836; the 1870 age 36 is the outlier. Keep c.1836."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "I282608053719",
+      "evidence": "1860: Andrew's household enumerated immediately after James Pringle's; 1870: James, 71, living in Andrew's household; 1850: Andrew 14 in James's household.",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "1850, 1860, 1870 and 1880 censuses now form a continuous chain: son in James's household (1850), married to Catharine next door to James (1860), James living with him (1870), and the 1880 household including Addison. Only a death record is missing."
+  },
+  "openQuestionsResolved": [
+    {
+      "question": "1860 census (Plymouth or Kingston) showing Andrew with Catherine and first children - ties the 1850 boy to the married man directly (top SAR step).",
+      "answer": "Found: 1860 Plymouth, 7 Aug 1860, dwelling 879 Andrew 24, Catharine 23, Ellen 2, next door to James 61 & Elizabeth 57 & Edwin 18 (dwelling 878). The 1870 census also has James, 71, in Andrew's household.",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Who was the infant 'Julian' (4/12, female) in 1870 - presumably a daughter Julia Ann who died young (the 7th child)?",
+    "Who was Mary Williams, 7, in James Pringle's 1860 household (a grandchild?)",
+    "Death: Catherine was 'D' (divorced) in June 1900 and 'Wd' in April 1910, so Andrew died c.1900-1910; look for him in the 1900 census (possibly a boarder elsewhere in Luzerne) and in Wilkes-Barre papers."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1860 US census, Plymouth, Luzerne Co., PA, enumerated 7 Aug 1860, stamped page 737, dwellings 878-879 (image attached to FamilySearch tree KG4S-XMF; index ark 1:1:MXTZ-JK1)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Andrew 24, Catharine 23, Ellen 2 next door to James 61, Elizabeth 57, Edwin 18"
+    },
+    {
+      "ref": "S2",
+      "citation": "1870 US census, Plymouth Twp, Luzerne Co., PA, P.O. Kingston, enumerated 29 Jul 1870 by Robeson Boyd, stamped page 496, dwelling 422/family 424 (image attached to FamilySearch tree KG4S-XMF; index ark 1:1:MZPY-B4W)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Andrew 36 laborer $500, Catharine, children incl. Adison 5, infant Julian, James 71"
+    },
+    {
+      "ref": "S3",
+      "citation": "1900 US census, Plymouth Twp, ED 133, sheet 10B, 7 Jun 1900 (Catherine Pringle, mother, D, 7 children/5 living, in Orange Pringle's household)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MWR/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Catherine divorced by 1900; 7 children born"
+    },
+    {
+      "ref": "S4",
+      "citation": "1910 US census, Larksville Borough, Luzerne Co., sheet 11A, 21 Apr 1910 (Katherine, mother, 71, Wd, 11 born/5 living, in Orange Pringle's household)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHCS-RCM/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Catherine widowed by 1910"
+    },
+    {
+      "ref": "S5",
+      "citation": "FamilySearch published tree, Andrew Pringle 1836-1900 (KG4S-XMF)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-XMF",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "links to S1, S2 and the 1850 census"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1860 census, Plymouth: Andrew & Catharine Pringle next to James & Elizabeth",
+      "date": "1860-08-07",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-XMF",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA M653)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282608053685/1860-census-plymouth-pringle.jpg",
+      "people": [
+        "I282608053685",
+        "I282608053698",
+        "I282608053719",
+        "I282608053741",
+        "H0158"
+      ],
+      "suggestedFile": "media/I282608053685/1860-census-plymouth-pringle.jpg",
+      "note": "US federal census schedule, US government record: public domain."
+    },
+    {
+      "type": "record",
+      "title": "1870 census, Plymouth Twp (P.O. Kingston): Andrew 'Prindle' household with James, 71",
+      "date": "1870-07-29",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-XMF",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/2/image.jpg",
+      "repository": "FamilySearch (NARA M593)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282608053685/1870-census-plymouth-twp-prindle.jpg",
+      "people": [
+        "I282608053685",
+        "I282608053698",
+        "I282608053719",
+        "I282608053666",
+        "H0159",
+        "H0160",
+        "H0161",
+        "H0162"
+      ],
+      "suggestedFile": "media/I282608053685/1870-census-plymouth-twp-prindle.jpg",
+      "note": "US federal census schedule, US government record: public domain."
+    }
+  ],
+  "searchedNoResult": [
+    "Chronicling America (loc.gov JSON) 'Andrew Pringle' Plymouth 1880-1905: no usable results",
+    "Andrew's death record: none attached on FamilySearch; PA death index begins 1906 and he is not identified there"
+  ],
+  "researchLogEntry": "Round 4: found 1860 (next door to James & Elizabeth) and 1870 (James, 71, in household) census images on FamilySearch, completing the 1850-1880 census chain; Andrew died between 1900 and 1910."
+}

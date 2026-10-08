@@ -1,0 +1,46 @@
+{
+  "id": "H0185",
+  "name": "Charity Lamoreux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Christening",
+        "date": "27 Mar 1760",
+        "place": "Philipstown (FamilySearch, NY Births and Christenings index 'Charity Lamoreau')",
+        "description": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Marriage",
+        "date": "22 Feb 1774",
+        "place": "Newburgh, Orange Co., NY (FamilySearch)",
+        "description": "To her first cousin Thomas Davenport",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L1HR-MGW"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch attaches a New York christening index entry for 'Charity Lamoreau', baptized 27 Mar 1760 at Philipstown (born 26 Jan 1759), and gives her death date as 4 Oct 1848. Her 1820 census entry is as Charity Davenport (S1). The baptism confirms the Philipstown connection of Jean's family.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Charity Lamoreux (L1HR-MGW), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L1HR-MGW",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch has a Philipstown christening of 27 Mar 1760 and d. 4 Oct 1848."
+}

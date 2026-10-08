@@ -10,7 +10,8 @@
   "sources": [
     "1870 census Mahoning Twp.",
     "FamilySearch tree",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] FamilySearch Family Tree (published), Mary Jane Gaffney (b. 1835), PID 994Z-275; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/994Z-275"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -21,6 +22,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS shows a PA death certificate (1906+) indexed under Mary Gaffney - lead."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0004.json."
     }
+  ],
+  "bio": "FamilySearch attaches two Ancestry index entries to her profile: a 1900 census entry for \"Mary Mcguire\" and a \"Pennsylvania, Death Certificates, 1906-1970\" entry under her maiden name, \"Mary Gaffney\" ([R4-S1]). The second implies she died in Pennsylvania in 1906 or later, outliving her husband Edward (d. 4 Apr 1907) or dying close to him. The certificate would name her parents and Irish birthplace.",
+  "openQuestions": [
+    "Find Mary (Gaffney) McGuire's PA death certificate (Ancestry PA Death Certificates 1906-1970; FS shows an index link) and her death year; search PA death indexes under McGuire, Mary, Plymouth/Larksville after 1906."
   ]
 }

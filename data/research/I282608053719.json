@@ -14,11 +14,26 @@
   ],
   "tags": [],
   "summary": "John's 4th-great-grandfather; Plymouth farmer, son of Samuel and Martha (Lamoreaux) Pringle, who married into the Palatine German Croup family.",
-  "bio": "James Pringle was born about 1799 in Pennsylvania (1850 census: 51, farmer, real estate $500, b. PA); the tree shows 1798-?, and a FamilySearch profile's '1799-1909' death is impossible (probably a merge). He was a son of Samuel Pringle and Martha Lamoreaux (Harvey Book pp.370-371, via his son Noah). He married Elizabeth Croup, daughter of Frederick Croup and Mary Young of Hunlock's Creek/Nanticoke. In 1850 the household in Plymouth Twp (dwelling 944/family 964, 14 Sep 1850) was James 51, Elizabeth 48, Alby 27, Noah 16, Andrew 14, Leva Ann 11 and Edwin 9; neighbours were Jenkins Jones (36, miner, Wales; dwelling 943) and Thomas Gould (39, farmer, $2,500; dwelling 945), with his probable sister-in-law the widow Hulda Pringle at dwelling 942. FamilySearch gives a second wife, Mary Steele (d. 15 Jul 1876), and burial in Scott Cemetery, Huntington Mills. He is not the runaway apprentice 'James Pringle', about 14, advertised by Isaac Smith of Exeter Twp on 9 Apr 1836, nor his uncle James Pringle who married Phebe Lamoreux in 1785.",
+  "bio": "James Pringle was born about 1799 in Pennsylvania (1850 census: 51, farmer, real estate $500, b. PA); the tree shows 1798-?, and a FamilySearch profile's '1799-1909' death is impossible (probably a merge). He was a son of Samuel Pringle and Martha Lamoreaux (Harvey Book pp.370-371, via his son Noah). He married Elizabeth Croup, daughter of Frederick Croup and Mary Young of Hunlock's Creek/Nanticoke. In 1850 the household in Plymouth Twp (dwelling 944/family 964, 14 Sep 1850) was James 51, Elizabeth 48, Alby 27, Noah 16, Andrew 14, Leva Ann 11 and Edwin 9; neighbours were Jenkins Jones (36, miner, Wales; dwelling 943) and Thomas Gould (39, farmer, $2,500; dwelling 945), with his probable sister-in-law the widow Hulda Pringle at dwelling 942. FamilySearch gives a second wife, Mary Steele (d. 15 Jul 1876), and burial in Scott Cemetery, Huntington Mills. He is not the runaway apprentice 'James Pringle', about 14, advertised by Isaac Smith of Exeter Twp on 9 Apr 1836, nor his uncle James Pringle who married Phebe Lamoreux in 1785.\n\nJames was still farming in Plymouth in August 1860, aged 61, with real estate valued at $1,200 (more than double the $500 of 1850); his wife Elizabeth (57) and youngest son Edwin (18) were at home, together with a seven-year-old, Mary Williams, perhaps a grandchild or a bound girl, and his son Andrew had set up house next door ([R4-S1]). By 29 July 1870 James, 71, was living in Andrew's household and Elizabeth was no longer listed, so she had probably died between 1860 and 1870 ([R4-S2]). James therefore died after July 1870, not in 1909 as the FamilySearch profile says.\n\nThe FamilySearch profile (KP7T-1HK) is a merge of two different men. It attaches the 1867 Toronto marriage of Thomas Murray Pringle, aged 28, born in Scotland, son of 'James & Mary Pringle' ([R4-S3]), and gives this James children born at Ruthven, Angus, Scotland, in 1834 and 1839. That Scottish James and his wife Mary are evidently the source of the 'second wife Mary' on the profile, which has been identified with Mary Steele (1808-1876). But FamilySearch's own Mary Steele profile shows her as the wife of John Linskill (d. 1865), mother of six Linskill children born in Lehman Twp 1833-48, living as 'Mary Linchkill' in 1860, and buried as Mary Steele Linskill at Huntsville, Jackson Twp ([R4-S4]). No record of a marriage between Johnny's James and Mary (Steele) Linskill was found; the 'second marriage' should be treated as an error unless a record turns up. (Mary Steele was a daughter of Peter Steele and Charity Lamoreaux, so she was James's first cousin, which may also have helped the confusion.)",
   "residences": [
     {
       "date": "1850",
       "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1860-08-07",
+      "place": "Plymouth, Luzerne Co., PA, dwelling 878",
+      "note": "Farmer, real estate $1,200, personal $300; with Elizabeth 57, Edwin 18 and Mary Williams 7; son Andrew's family next door [R4-S1]"
+    },
+    {
+      "date": "1870-07-29",
+      "place": "Plymouth Twp (P.O. Kingston), Luzerne Co., PA",
+      "note": "Aged 71, living in the household of son Andrew 'Prindle'; no wife in household [R4-S2]"
+    },
+    {
+      "date": "1840",
+      "place": "Plymouth Twp, Luzerne Co.",
+      "note": "'James Pringle': man 30-40, woman 30-40, boys under 5, 5-10 and 15-20, girls under 5, two 10-15 and one 15-20; next door to Saml Pringle (Jr.) and near Benjn Pringle [R4-S_1840]"
     }
   ],
   "facts": [
@@ -40,12 +55,18 @@
     "Harvey Book pp.370-371: https://archive.org/details/harveybookgiving00harv",
     "FamilySearch tree KP7T-1HK: https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
     "Uploaded deep-dive report",
-    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "[R4-S1] 1860 US census, Plymouth, Luzerne Co., PA, 7 Aug 1860, p.737, dwelling 878 (FamilySearch index ark 1:1:MXTZ-JKT) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/0/image.jpg",
+    "[R4-S2] 1870 US census, Plymouth Twp (P.O. Kingston), Luzerne Co., 29 Jul 1870, p.496, dwelling 422/family 424 (index ark 1:1:MZPY-B4X) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KP7T-1HK/images/i/0/image.jpg",
+    "[R4-S3] Ontario, County Marriage Registers, vol. 67 (Toronto 1866-1869), return no. 261 (St Andrew's Church, Rev. John Barclay), marriage 13 Aug 1867 of Thomas Murray Pringle, 28, of Toronto, b. Scotland, son of James & Mary Pringle (index ark 1:1:Q2YM-8DR6) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KP7T-1HK/images/i/2/image.jpg",
+    "[R4-S4] FamilySearch published tree, Mary Steele (KTZK-6S6), with attached 1860 census ('Mary Linchkill') and Find a Grave index 'Mary Steele Linskill' (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KTZK-6S6",
+    "[R4-S5] FamilySearch published tree, James Pringle 1799-1909 (KP7T-1HK) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
+    "[R4-S_1840] 1840 US census, Plymouth Twp, Luzerne Co., PA (enumerator Chester Tuttle) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KL4L-R8P/images/i/0/image.jpg"
   ],
   "openQuestions": [
-    "Death date and place (FS '1909' impossible).",
-    "Confirm second marriage to Mary Steele.",
-    "Full list of children (Lina Ann identity)."
+    "Full list of children (Lina Ann identity).",
+    "Elizabeth (Croup) Pringle is absent from the 1870 household: did she die 1860-70, or was she living elsewhere?",
+    "Look for James in the 1880 census and mortality schedule (1879-80) and for burial at Scott Cemetery, Huntington Mills (FamilySearch claim, unsourced)."
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -60,6 +81,78 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 1798; research: ABT 1799."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Confirm second marriage to Mary Steele. → Not confirmed and probably false: the FamilySearch profile merges a Scottish James Pringle (wife Mary; son Thomas Murray Pringle b. Scotland, m. Toronto 1867), and Mary Steele was the widow of John Linskill, buried under that name."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Death date and place (FS '1909' impossible). → Partly: alive at 71 on 29 Jul 1870 in son Andrew's household in Plymouth Twp; death after that date (not found)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: PAGenWeb Luzerne Shupp Cemetery transcription (Larksville): no Pringle; PAGenWeb Huntington Twp cemetery pages: no Scott Cemetery transcription online; Web search 'Scott Cemetery' 'Huntington Mills' Pringle: no relevant result"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1860 and 1870 censuses show James farming next to son Andrew (1860) and living with him at 71 (1870); FamilySearch 'second wife Mary Steele' traced to a merge with a Scottish James & Mary Pringle of Toronto."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608053719.json."
+    }
+  ],
+  "events": [
+    {
+      "title": "1860 census",
+      "date": "1860-08-07",
+      "place": "Plymouth, Luzerne Co., PA (p.737)",
+      "description": "James Pringle 61, farmer, $1,200/$300, b. Penna; Elizabeth 57; Edwin 18; Mary Williams 7. [R4-S1]"
+    },
+    {
+      "title": "1870 census",
+      "date": "1870-07-29",
+      "place": "Plymouth Twp, Luzerne Co., PA (p.496)",
+      "description": "James, 71, b. Pa., last-listed member of the household of Andrew Prindle, 36. [R4-S2]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "spouse (second marriage)",
+      "site": "Mary Steele (d. 15 Jul 1876), per FamilySearch",
+      "found": "Mary Steele was Mrs John Linskill (widowed 1865), buried as Linskill; the 'Mary' wife on James's profile comes from a Scottish James & Mary Pringle of Toronto",
+      "assessment": "Probably a FamilySearch merge error. Recommend not adding Mary Steele as James's wife."
+    },
+    {
+      "field": "death.date",
+      "site": "unknown (FS '1909')",
+      "found": "alive 29 Jul 1870 (age 71)",
+      "assessment": "Died after July 1870; 1909 impossible."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/I282608053719/1860-census-plymouth-pringle.jpg",
+      "type": "record",
+      "title": "1860 census, Plymouth: James & Elizabeth Pringle with son Andrew next door",
+      "date": "1860-08-07",
+      "source": "FamilySearch (NARA M653), public_domain",
+      "note": "Same file as saved under Andrew G. Pringle.",
+      "people": [
+        "I282608053741",
+        "I282608053685"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-XMF"
+    },
+    {
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
+      "type": "link",
+      "title": "Toronto marriage register 1867 (Thomas Murray Pringle) - evidence of FamilySearch merge",
+      "date": "1867-08-13",
+      "source": "FamilySearch / Archives of Ontario, unknown",
+      "note": "Canadian provincial record; rights unclear, not downloaded. (not downloaded: rights unknown)",
+      "people": []
     }
   ]
 }

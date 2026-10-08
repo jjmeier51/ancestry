@@ -1,0 +1,22 @@
+{
+  "id": "M0070",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0012 (probable); child of H0054 (probable)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree, Henry James \"Harry\" Meier (G7CS-G54), published-tree JSON: b. 16 Aug 1923 Wilkes-Barre; military service 27 Apr 1942 Washington DC; d. 2 Jul 1943 Scorrano, Lecce, Italy; burial Zachary Taylor National Cemetery; sources 1940 census (KQ7H-M59), WWII Army Enlistment Records (KMFG-KB8), Find a Grave index (QVVQ-H8JB) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-G54",
+    "[R4-S2] Interment.net, Zachary Taylor National Cemetery burial list, surnames McH–Mi (transcribed from VA Nationwide Gravesite Locator): 'Meier, Harry J, d. 07/02/1943, S/SGT US ARMY AC WWII, Group Burial, Plot: I 62-63, bur. 02/15/1950' (derivative) https://interment.net/data/us/ky/jefferson/zachnat/zachary_mchmi.htm",
+    "[R4-S3] PAGenWeb Luzerne, Wilkes-Barre Record Almanac 1946 casualty list M–Z: \"Meier, Harry, Wilkes-Barre, missing.\" (secondary) https://pagenweb.org/~luzerne/military/1946casmz.htm"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-101 → M0070; research/imported/round4/new_people.json."
+    }
+  ]
+}

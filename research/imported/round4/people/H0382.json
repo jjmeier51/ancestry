@@ -1,0 +1,39 @@
+{
+ "id": "H0382",
+ "name": "Mario Procaccino",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "5 Sep 1912",
+   "place": "Bisaccia, Avellino",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "20 Dec 1995",
+   "place": "Bronx, New York",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ },
+ "bioAdditions": "Born 5 September 1912 at Bisaccia (Avellino); New York City Comptroller 1966-69; died 20 December 1995 in the Bronx (S1). He is a town-mate notable only; no kinship found.",
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "possible",
+  "justification": "Notable; no kinship."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "English Wikipedia, \"Mario Procaccino\"",
+   "url": "https://en.wikipedia.org/wiki/Mario_Procaccino",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Born 5 Sep 1912 Bisaccia; died 20 Dec 1995 Bronx; NYC Comptroller 1966-1969"
+  }
+ ],
+ "researchLogEntry": "Round 4: added death 20 Dec 1995 (Bronx) from Wikipedia."
+}

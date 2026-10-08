@@ -1,0 +1,20 @@
+{
+  "id": "M0066",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of I282608065145 (probable); child of M0065 (probable)."
+  },
+  "tags": [],
+  "summary": "Son of Adam Smith (son of Bull Smith)",
+  "bio": "Son of Adam Smith (son of Bull Smith). Grandfather of the Culper spymaster Abraham Woodhull through his daughter Margaret, and of Abraham's wife Mary Smith through his daughter Anna (Mrs Obadiah Smith). 2nd cousin 9 times removed of John.",
+  "sources": [
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), pp. 46-48; App. pp. 476-478 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-611 → M0066; research/imported/round4/new_people.json."
+    }
+  ]
+}

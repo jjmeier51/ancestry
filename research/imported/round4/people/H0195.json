@@ -1,0 +1,159 @@
+{
+  "id": "H0195",
+  "name": "Silas W. Lamoreux",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1843-03-08",
+      "place": "Lenox, Madison Co., New York",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1909-08-05",
+      "place": "Beaver Dam, Dodge Co., Wisconsin",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "aka": [
+      "Silas Wright Lamoreux",
+      "Silas W. Lamoreaux"
+    ],
+    "occupation": "Lawyer, county judge, iron manufacturer, banker",
+    "residences": [
+      {
+        "date": "1852",
+        "place": "Plover, Wisconsin",
+        "note": "came with parents aged 9",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1853",
+        "place": "Mayville, Wisconsin",
+        "note": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "date": "1897-1909",
+        "place": "Beaver Dam, Wisconsin",
+        "note": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Wisconsin State Assembly",
+        "date": "1872",
+        "place": "Dodge Co. 5th district",
+        "description": "Democrat; his brother Oliver sat in the same session for Portage Co.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Dodge County judge",
+        "date": "1877-1893",
+        "place": "Dodge Co., WI",
+        "description": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Commissioner of the General Land Office",
+        "date": "1893-1897",
+        "place": "Washington, D.C.",
+        "description": "Appointed by President Cleveland.",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "military": [
+      {
+        "note": "Enlisted 1864 in the reorganized 5th Wisconsin Volunteer Infantry; with the Army of the Potomac at Hatcher's Run, Fort Fisher (as printed) and before Petersburg; in charge of the distributing office at City Point, Va.; discharged 2 Jul 1865.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Silas Wright Lamoreux was born at Lenox, Madison Co., NY, on 8 Mar 1843 and came with his parents to Plover, Wisconsin, in 1852, joining his older brother Oliver; the family moved to Mayville a year later. He read law at Plover, was admitted at 21, served in the 5th Wisconsin Infantry in 1864-65, and returned to practise at Mayville. He sat in the Assembly in 1872, was Dodge County judge from 1877, and was Commissioner of the General Land Office under Cleveland (1893-97). At Beaver Dam he controlled the Beaver Dam Malleable Iron Works (750 employees) and was president of the German National Bank. He died at home on 5 Aug 1909 after long illness (blood poisoning, with diabetes); his funeral was held under Masonic auspices (S1, S2, S3).\n\nThe 1919 Lamoureux Record places his family (Madison Co., NY, to Wisconsin in 1852) among the descendants of one of the Orange County Lamoreux families (John or Peter), but gives no generations (S4). Neither obituary seen names his parents.",
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "possible",
+    "justification": "Biography is well documented, but his descent from the Orange Co. Lamoreux family (and so his kinship to John Meier) is asserted without any traced generations."
+  },
+  "openQuestionsNew": [
+    "Names of his parents (Madison Co., NY, to Plover, WI, 1852); 1850 census of Lenox, Madison Co. would give them."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Silas W. Lamoreux'",
+      "url": "https://en.wikipedia.org/wiki/Silas_W._Lamoreux",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "career, brother Oliver, iron works, bank, death"
+    },
+    {
+      "ref": "S2",
+      "citation": "Watertown Leader (Watertown, Wis.), 13 Aug 1909, p.7, 'Judge Lamoreux Is Dead at Beaver Dam' (Chronicling America)",
+      "url": "https://www.loc.gov/resource/sn85040722/1909-08-13/ed-1/?sp=7",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "birth date/place, move to Wisconsin, Civil War service, offices, death"
+    },
+    {
+      "ref": "S3",
+      "citation": "Watertown Leader, 6 Aug 1909, p.4, 'Prominent Man Called' (Chronicling America)",
+      "url": "https://www.loc.gov/resource/sn85040722/1909-08-06/ed-1/?sp=4",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "death notice"
+    },
+    {
+      "ref": "S4",
+      "citation": "A. J. Lamoureux, The Lamoureux Record no. 1 (1919)",
+      "url": "https://archive.org/details/andrlamoureuxh00lamouoft",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Wisconsin family descended from an Orange Co. family"
+    }
+  ],
+  "media": [
+    {
+      "type": "newspaper",
+      "title": "Obituary of Judge S. W. Lamoreux, Watertown Leader",
+      "date": "1909-08-13",
+      "pageUrl": "https://www.loc.gov/resource/sn85040722/1909-08-13/ed-1/?sp=7",
+      "directUrl": "",
+      "repository": "Library of Congress, Chronicling America",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0195"
+      ],
+      "suggestedFile": "media/H0195/watertown-leader-1909-08-13-obituary.jpg",
+      "note": "Published 1909; not downloaded (text captured)."
+    }
+  ],
+  "searchedNoResult": [
+    "Chronicling America 1909 'Lamoreux Beaver Dam': obituaries do not name parents"
+  ],
+  "researchLogEntry": "Round 4: added full biography and Civil War service from Wikipedia and his 1909 Watertown Leader obituary; parentage still untraced.",
+  "researchedAt": "2026-10-08"
+}

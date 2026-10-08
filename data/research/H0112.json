@@ -10,7 +10,8 @@
   "bio": "Only son of Thomas F. Heffernan and Louise Easen, born 1902; second-generation Sunday Independent publisher.",
   "sources": [
     "Harvey & Smith vol. VI: https://archive.org/details/historyofwilkesb06harv",
-    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "[R4-S1] FamilySearch Family Tree (published), Thomas Easen Heffernan (1904-1970), PID LYJ5-N7W; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LYJ5-N7W"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,55 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS gives 1904-1970 (vs site 1902)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0112.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1902",
+      "found": "1904-08-24",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth.date",
+      "site": "1902",
+      "found": "24 Aug 1904 (FS; WWII draft card attached)",
+      "assessment": "The draft card is a primary source for birth date; prefer 1904."
+    }
+  ],
+  "birth": {
+    "date": "1902",
+    "place": "Wilkes-Barre, Pa."
+  },
+  "death": {
+    "date": "1970-05-05",
+    "place": "Lehman Twp, Luzerne Co., Pa."
+  },
+  "burial": {
+    "place": "Fern Knoll Burial Park, Dallas, Pa."
+  },
+  "aka": [
+    "Thomas Easen Heffernan"
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1928-08-22",
+      "place": "Luzerne Co., Pa.",
+      "description": "[R4-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "WWII draft registration 16 Feb 1942, Kingston [R4-S1]"
     }
   ]
 }

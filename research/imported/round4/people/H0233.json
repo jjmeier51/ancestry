@@ -1,0 +1,26 @@
+{
+  "id": "H0233",
+  "name": "William Salmon",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Southold town records (Liber A, printed vol. 1 pp. 169-170) recite that William Salmon married Katherine, widow of Mathew Sinderland, and 'after the decease of the said Katherine married with Sarah Hortton', and that he died intestate, his estate falling to Sarah and his children by both wives (S1). Sarah then married John Conklin Jr. (S1, S2).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 169-170 (Liber A: recital that William Salmon, after the death of his wife Katherine, widow of Mathew Sinderland, 'married with Sarah Hortton' and died intestate; John Conckelyne Jr. 'tooke to wife the said Sarah Salmon')",
+      "url": "https://archive.org/details/southoldtownreco0000jwic",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "William Salmon's two marriages and intestacy"
+    },
+    {
+      "ref": "S2",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 2 (1884), c. p. 152, editor's note: 2d John Conklin 'married Sarah, widow of Wm Salmon, in 1657'",
+      "url": "https://archive.org/details/southoldtownreco02sout",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Sarah, widow of Wm Salmon, m. John Conklin 1657"
+    }
+  ],
+  "researchLogEntry": "Round 4: Southold Town Records vol. 1 confirms his marriage to Sarah Hortton."
+}

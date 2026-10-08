@@ -1,0 +1,43 @@
+{
+  "id": "H0494",
+  "name": "Deborah Topping",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1759",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "Dec 1743",
+        "place": "Brookhaven, NY",
+        "description": "Second wife of Rev. Abner Reeve; called 'Deborah Topping, or Tapping, of Brookhaven'.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Mother of Tapping Reeve, born at Fire Place, Brookhaven, in 1744 (S1). Her parentage remains unknown; Howell's Topping genealogy does not include a Brookhaven Deborah.",
+  "openQuestionsNew": [
+    "Who were Deborah Topping's parents? A Brookhaven Topping family c.1717 is not in Howell (Southampton). Check Brookhaven town records and Charles E. Topping's Topping Genealogy (1980)."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "F. B. Dexter, Biographical Sketches of the Graduates of Yale College, vol. 1 (1885) (archive.org full text), p. 434",
+      "url": "https://archive.org/details/biogsketchgrad01dextuoft",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Abner Reeve m. Dec 1743 Deborah Topping or Tapping of Brookhaven; she d. 1759; son Tapping b. 1744"
+    }
+  ],
+  "searchedNoResult": [
+    "Howell 1887 Topping genealogy pp. 395-396 (no Deborah of Brookhaven)"
+  ],
+  "researchLogEntry": "Round 4: marriage Dec 1743 and death 1759 from Dexter; parentage still unknown.",
+  "researchedAt": "2026-10-08"
+}

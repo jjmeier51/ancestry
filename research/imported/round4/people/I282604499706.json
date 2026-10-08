@@ -1,0 +1,30 @@
+{
+ "id": "I282604499706",
+ "name": "Patrick McIver",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "The 1880 census of his presumed daughter Margaret (Mrs. Edward F. Jones) at Plymouth Township gives her father's birthplace as Ireland and her mother's as England (S1), consistent with an Irish-born Patrick McIver living in England. Margaret's son Joseph's 1914 marriage docket writes her maiden name as \"Kiver\" (S2). No record naming Patrick himself was found.",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Edward F. Jones 40, miner, b. Wales (parents Wales); Margret 35, wife, b. England (father b. Ireland, mother b. England); Ann C. 15, dau., b. England; Rose 13, dau., b. England; Mary 10, dau., servant, b. England; William J. 9/12, son, born Sept., b. Penna. Next household (fam. 134): Evan W. Jones 60, laborer, and Martha 52, both b. Wales.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch: Margaret McIver profile L85M-P2R has no parents attached",
+  "No record found naming Patrick McIver"
+ ],
+ "researchLogEntry": "Round 4: 1880 census supports an Irish-born father for Margaret McIver; Patrick himself still unsourced."
+}

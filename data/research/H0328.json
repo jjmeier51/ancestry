@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "Sheriff of London and Benjamin Franklin's agent; not related (Sayre branch removed).",
-  "bio": "Descends from Thomas Sayre through Francis, John and John. Died 1818 'at the residence of his son in Brandon, Virginia' (Richmond Enquirer, 10 Dec 1818); son Samuel W. Sayre married Jane Grymes and Virginia Bassett. Francis B. Sayre likewise not kin.",
+  "bio": "Descends from Thomas Sayre through Francis, John and John. Died 1818 'at the residence of his son in Brandon, Virginia' (Richmond Enquirer, 10 Dec 1818); son Samuel W. Sayre married Jane Grymes and Virginia Bassett. Francis B. Sayre likewise not kin.\n\nNot kin (Sayre branch non-ancestral). A Commons public-domain portrait exists (from Banta 1901) if the site wants it for the 'not related' note.",
   "sources": [
     "Banks (1901)"
   ],
@@ -20,6 +20,25 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: not kin; PD portrait catalogued only."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0328.json."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Stephen_sayre.png",
+      "type": "link",
+      "title": "Stephen Sayre, sheriff of London (from Banta, Sayre Family)",
+      "date": "1901",
+      "source": "Wikimedia Commons, public_domain",
+      "note": "Public domain, but not downloaded because he is not related. (not downloaded: rights public_domain)",
+      "people": []
     }
   ]
 }

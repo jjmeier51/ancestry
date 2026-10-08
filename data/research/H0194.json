@@ -7,9 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "Possible distant Lamoreaux cousin (speculative).",
-  "bio": "Judson LaMoure (1839-1918), North Dakota state senator; LaMoure County, ND, is named for him. The 1919 book says the ND LaMoures descend from James (b. 1731); exact line not traced.",
+  "bio": "Judson LaMoure (1839-1918), North Dakota state senator; LaMoure County, ND, is named for him. The 1919 book says the ND LaMoures descend from James (b. 1731); exact line not traced.\n\nJudson LaMoure was born 27 Mar 1839 at Frelighsburg, Lower Canada, the youngest of five children of John Edward LaMoure (1795-1869) and Lois Louisa Perry (1805-1881); his eldest brother Edward Byron LaMoure was killed in an Indian raid at Elk Point, Dakota Territory, on 9 Aug 1865. He came to Davenport, Iowa, in 1859, tried the Pike's Peak gold rush in 1860, and from 1862 was at Elk Point. He moved to Pembina County in 1870, kept a store at Neche, and sat in the territorial and then state legislature until 1913. He married Minnie Ella Nelson on 3 Dec 1874 (six children, four surviving), and died at Stuart, Florida, on 16 Mar 1918 ([R4-S1]).\n\nThe 1919 Lamoureux Record only says the author 'thinks' the North Dakota LaMoures descend from Jacques/James Lamoureux (b. 1731, of Rensselaerville and Westerlo, Albany Co.), and that some of James's grandchildren adopted the spelling LaMoure ([R4-S2]). Judson's Quebec birth is a caution: the same publication notes separate French-Canadian Lamoureux families (from Boucherville, 1660s) in Quebec, including at Bedford, near Frelighsburg ([R4-S2]). Frelighsburg was also settled by Loyalists and New Englanders, so either origin is possible.",
   "sources": [
-    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "[R4-S1] Wikipedia, 'Judson LaMoure' (secondary) https://en.wikipedia.org/wiki/Judson_LaMoure",
+    "[R4-S2] A. J. Lamoureux, The Lamoureux Record no. 1 (1919) (secondary) https://archive.org/details/andrlamoureuxh00lamouoft"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +22,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WikiTree API LaMoure-1..3: unrelated profiles"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: added birth (Frelighsburg, Quebec, 1839), parents, career and death from Wikipedia; noted that the 1919 descent claim is tentative."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0194.json."
     }
   ],
   "media": [
@@ -39,5 +53,34 @@
       "note": "Judson LaMoure (March 27, 1839 – March 16, 1918) was one of the first men to serve in the North Dakota state legislature; he served in the State Senate as a Republican. The state towns of Jud, Judson, and LaMoure along with LaMoure County were named after him.",
       "url": "https://en.wikipedia.org/wiki/Judson_LaMoure"
     }
+  ],
+  "birth": {
+    "date": "1839-03-27",
+    "place": "Frelighsburg, Lower Canada (Quebec)"
+  },
+  "death": {
+    "date": "1918-03-16",
+    "place": "Stuart, Florida"
+  },
+  "occupation": "Merchant (Neche, Pembina Co.); Indian sub-agent; legislator",
+  "events": [
+    {
+      "title": "Sub-agent to the Brule Sioux",
+      "date": "1865",
+      "place": "Elk Point, Dakota Territory",
+      "description": "Settled at Elk Point 1862 in the transport business with H. D. Booge & Co.; appointed sub-agent 1865. [R4-S1]"
+    },
+    {
+      "title": "Dakota territorial legislature and North Dakota State Senate",
+      "date": "1872-1913",
+      "place": "Dakota Territory / North Dakota",
+      "description": "Territorial Assembly from 1872, Council 1876, Territorial House 1880, State Senate 1889 until retiring in 1913; LaMoure County and the towns of LaMoure, Jud and Judson named for him. [R4-S1]"
+    }
+  ],
+  "funFacts": [
+    "In 1873 he led a rescue party into a blizzard to find laundresses and children left behind by Custer's 7th Cavalry (per Wikipedia)."
+  ],
+  "openQuestions": [
+    "Parentage of John Edward LaMoure (1795-1869): is he a grandson of James Lamoureux (1731-1821) of Westerlo, or of a Quebec Lamoureux family?"
   ]
 }

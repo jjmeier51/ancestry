@@ -1,0 +1,65 @@
+{
+  "id": "H0087",
+  "name": "Jeanne Masse",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Godmother to her niece",
+        "date": "28 Sep 1718",
+        "place": "French Church, New York",
+        "description": "'Jeane Masse' (signing by mark) was godmother to Ester, daughter of Daniel and Ester Masse, with Pierre Morgat",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Baptism of son Daniel",
+        "date": "29 May 1720",
+        "place": "French Church, New York",
+        "description": "Mother 'Jeane la moureux'",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Baptism of son Andre",
+        "date": "17 Jan 1722",
+        "place": "French Church, New York",
+        "description": "Mother 'Jeane son Epouze'; godmother Ester Masse",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The French Church registers now place her in her own family before her marriage. On 28 Sep 1718 'Jeane Masse', who signed with a mark, was godmother to Ester, daughter of her brother Daniel Masse and his wife Ester Fourret (S1; see NEW-301). That was nine months before her marriage to Daniel Lamoureux, which the Davenport genealogy dates to 28 Jun 1719. In 1722 an Ester Masse was godmother to Jeanne's son Andre. Together these entries connect Jeanne Lamoureux to the Masse family through the parish register, not only through the private family record quoted in 1919. No marriage entry for her is in the register.",
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "NEW-301",
+      "evidence": "Both children of Pierre Masse and Elisabet Mercereau (baptisms 1689, 1696); she sponsored his daughter in 1718",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Her 1696 baptism, the 1718 sponsorship as Jeanne Masse and the Masse godmother of 1722 together identify the wife of Daniel Lamoureux."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Huguenot Soc. Collections vol.1, 1886), pp.49, 147-148, 155-156, 164",
+      "url": "https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "sponsorships and children's baptisms"
+    }
+  ],
+  "researchLogEntry": "Round 4: found her as godmother 'Jeane Masse' to her brother Daniel's child in Sept 1718 and the Masse godmother at her son Andre's 1722 baptism."
+}

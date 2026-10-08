@@ -10,13 +10,15 @@
     "Mollie Petriello",
     "Mollie Genett",
     "Mollie C Petriello",
-    "Carmela Giannetta"
+    "Carmela Giannetta",
+    "Molly Genet",
+    "Mollie Petranello (1940 census)"
   ],
   "tags": [
     "foundling"
   ],
   "summary": "John's maternal great-grandmother, wife of James Petriello; daughter of Bisaccia immigrants Frank Giannetta and the foundling Angelica Ferrantino.",
-  "bio": "The Ancestry tree showed only 'Mollie Petriello 1911-' as James's wife; Round 1 initially wondered if Mollie = Mary Cognetti and then corrected that (Mollie b. 1911 is James's wife and John T.'s mother; maiden name unknown). Round 2 solved her identity: Carmela 'Mollie' Gianetta, b. 13 Jul 1910 Dunmore, d. 7 Feb 2000 Scranton (FS tree GQ4M-KCR, 6 sources incl. 1950 census 'Mollie Petriello' and SSDI 'Mollie C Petriello', the C = Carmela). The tree's 1911 should be 1910. On the 1931 marriage license (No. 1107, sworn 20 Jun 1931) she is 'Mollie Genett', 20, housework, born Dunmore, living at 133 Sand St; father Frank, a blacksmith born in Italy, living in Dunmore; mother Angeli(c)a, maiden name Ferrandino, born in Italy. Her mother 'Angelina Genett' consented because she was a minor. Married at Dunmore in July 1931 (FS: 12 Jul 1931) by Rev. Michael DeLarno. 133 Sand St was also her father's address on his 1920 Declaration of Intention. Her siblings were Savino (1897-1964), Mariano Martin (1899-1941), Maria (1902), Antonio (1907-1998), Giuseppe (1912-1971), Rosa (1914) and Charles J. (1916-1975).",
+  "bio": "The Ancestry tree showed only 'Mollie Petriello 1911-' as James's wife; Round 1 initially wondered if Mollie = Mary Cognetti and then corrected that (Mollie b. 1911 is James's wife and John T.'s mother; maiden name unknown). Round 2 solved her identity: Carmela 'Mollie' Gianetta, b. 13 Jul 1910 Dunmore, d. 7 Feb 2000 Scranton (FS tree GQ4M-KCR, 6 sources incl. 1950 census 'Mollie Petriello' and SSDI 'Mollie C Petriello', the C = Carmela). The tree's 1911 should be 1910. On the 1931 marriage license (No. 1107, sworn 20 Jun 1931) she is 'Mollie Genett', 20, housework, born Dunmore, living at 133 Sand St; father Frank, a blacksmith born in Italy, living in Dunmore; mother Angeli(c)a, maiden name Ferrandino, born in Italy. Her mother 'Angelina Genett' consented because she was a minor. Married at Dunmore in July 1931 (FS: 12 Jul 1931) by Rev. Michael DeLarno. 133 Sand St was also her father's address on his 1920 Declaration of Intention. Her siblings were Savino (1897-1964), Mariano Martin (1899-1941), Maria (1902), Antonio (1907-1998), Giuseppe (1912-1971), Rosa (1914) and Charles J. (1916-1975).\n\nIn January 1920 'Molly', aged 9, was living with her parents Frank and Angelina 'Genet' at 133 Sand Street in Dunmore's 5th Ward, the only daughter then at home among five brothers ([R4-S3]). Her parents had married about 1896 in Bisaccia, and her four older siblings were born in Italy. She was the first of the children born in Dunmore, in July 1910, three months after the April 1910 census listed the family at no. 134 ([R4-S4]). After her 1931 marriage she lived with James at 1028 Bunker Hill Street in Scranton, where the 1940 census records her schooling as 5th grade ([R4-S1]). By 1950 they were back on Sand Street at no. 128, a few doors from her widowed mother at no. 133 and next door to her sister Mary Pichiarello. Mollie was then working part-time as a sewing-machine operator in a lingerie factory, one of the garment shops that employed many Dunmore Italian women ([R4-S2]).",
   "residences": [
     {
       "date": "1931",
@@ -25,12 +27,36 @@
     {
       "date": "1950",
       "place": "Dunmore, Lackawanna County, Pennsylvania, USA"
+    },
+    {
+      "date": "1910-04-21",
+      "place": "Sand Street, Dunmore, Pennsylvania, USA",
+      "note": "Not yet born; her parents and four Italian-born siblings were at no. 134 Sand St. [R4-S4]"
+    },
+    {
+      "date": "1920-01-10",
+      "place": "133 Sand Street, Dunmore Ward 5, Lackawanna County, Pennsylvania, USA",
+      "note": "'Molly', 9, daughter, born Pennsylvania, attending school. [R4-S3]"
+    },
+    {
+      "date": "1940-04-20",
+      "place": "1028 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
+      "note": "Wife, 28, 5th grade education. [R4-S1]"
+    },
+    {
+      "date": "1950-04-21",
+      "place": "128 Sand Street, Dunmore, Pennsylvania, USA",
+      "note": "Wife, 39; sewing-machine operator, lingerie factory, 8 hours that week. [R4-S2]"
     }
   ],
   "facts": [
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "Mollie Petriello 1911-Deceased"
+    },
+    {
+      "label": "Occupation (round 4)",
+      "value": "Housewife; sewing-machine operator in a lingerie factory (1950)"
     }
   ],
   "sources": [
@@ -38,13 +64,18 @@
     "FamilySearch tree GQ4M-KCR: https://ancestors.familysearch.org/en/GQ4M-KCR",
     "SSDI entry JRHQ-NYH ('Mollie C Petriello'): https://familysearch.org/ark:/61903/1:1:JRHQ-NYH",
     "1950 US census ('Mollie Petriello')",
-    "Round 2 report section 3e; notes/round2/italian_gaps.md section 1"
+    "Round 2 report section 3e; notes/round2/italian_gaps.md section 1",
+    "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+    "[R4-S2] 1950 US census, Dunmore borough, Lackawanna Co., PA, ED 35-115, sheet 10 (21 Apr 1950), Sand Street: James Petriello household (no. 128) and Joseph Pichiarello household next door. Image attached to FamilySearch tree GQWR-TY6 (index ark 1:1:6X1Q-9M51). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/0/image.jpg",
+    "[R4-S3] 1920 US census, Dunmore borough Ward 5, ED 48, sheet 8B (10 Jan 1920), 133 Sand Street: Frank 'Genet' (51, head, owned with mortgage, immigrated 190-, alien, laborer R.R. shops), Angelina (46, imm. 1909, alien), Sam (21), Marion (20), Anthony (12, imm. 1909), Molly (9, b. PA), Joseph (8), and a son aged 4. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:MFTM-GCK). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg",
+    "[R4-S4] 1910 US census, Dunmore borough, Lackawanna Co., PA, ED 29 (reading uncertain), sheet 9B (21 Apr 1910), Sand Street no. 134: Francesco 'Janet' (41, married 14 years, alien, laborer for contractor), Angelico (30?, 4 children born, 4 living), Sam (12?), Marianna (son, 11), Marie (8), Tony (3), all born Italy. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:MGZ8-YF8). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg"
   ],
   "mediaKnown": [
     "1931 marriage license image"
   ],
   "openQuestions": [
-    "Obituary (Feb 2000) not yet read"
+    "Obituary (Feb 2000) not yet read",
+    "Obituary (Feb 2000, Scranton Times-Tribune) still not found online; GenealogyBank/Newspapers.com would have it."
   ],
   "occupation": "Housework (1931)",
   "handoff": {
@@ -56,6 +87,46 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch: 'Mollie Petriello' / 'Carmela Petriello' obituary 2000 Dunmore/Scranton (no hits)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read the 1920 census (133 Sand St, 'Molly' 9), the 1940 census (1028 Bunker Hill St) and the 1950 census (128 Sand St, lingerie-factory sewing-machine operator); I282695504011 is a duplicate of her."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0332.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "name",
+      "site": "Carmela Gianetta (also a separate roster entry I282695504011 'Mollie Petriello', b. abt 1911)",
+      "found": "Same woman: the 1940 and 1950 censuses show only one wife 'Mollie' (28 and 39), and the 1940 draft card names 'Mrs. Mollie Petriello'",
+      "assessment": "I282695504011 is a duplicate of H0332 and should be merged into it."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0332/1920-census-133-sand-st.jpg",
+      "type": "record",
+      "title": "1920 census, 133 Sand St, Dunmore (Frank Genet household)",
+      "date": "1920-01-10",
+      "source": "FamilySearch (published tree attachment), public_domain",
+      "note": "US federal census / Selective Service record: a US government work, so public domain.",
+      "people": [
+        "H0333",
+        "H0334",
+        "H0367",
+        "H0368",
+        "H0370",
+        "H0371",
+        "H0373"
+      ],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg"
     }
   ]
 }

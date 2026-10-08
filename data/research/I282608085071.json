@@ -1,8 +1,8 @@
 {
   "id": "I282608085071",
   "link": {
-    "confidence": "probable",
-    "note": "FS tree."
+    "confidence": "confirmed",
+    "note": "FS tree. Round 4 (probable → confirmed): Her own licence gives her name, birth date and birthplace."
   },
   "given": "Sophia Gertrude",
   "surname": "Meier",
@@ -11,14 +11,16 @@
     "place": "Pennsylvania, USA"
   },
   "death": {
-    "date": "1909",
-    "place": "Easton, Northampton County, Pennsylvania, USA"
+    "date": "1909-04-03",
+    "place": "Easton, Northampton County, Pennsylvania"
   },
   "tags": [],
   "summary": "John's 3rd great-aunt.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Northampton County Marriage License No. 10968: George Thomas Duffin × Sophia Gertrude Meier, 3 Jun 1903, Easton (FamilySearch index 1:1:KHN6-RNV) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XH5/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch Family Tree, Sophia Gertrude Meier (G7GQ-XH5) and George T Duffin (G9X8-NL4), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G7GQ-XH5"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -37,6 +39,50 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Meier-1052 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Her own licence gives her name, birth date and birthplace."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read her 1903 Easton marriage licence (b. 12 Nov 1880 Hazleton). Husband George Duffin later married her niece."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085071.json."
+    }
+  ],
+  "aka": [
+    "Sophia Gertrude Duffin"
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1903-06-03",
+      "place": "Easton, Northampton County, Pennsylvania",
+      "description": "Married George Thomas Duffin (b. 1 Jun 1880 Easton; clerk; of 243 Canal St, Easton), by E. M. Stapleton. Northampton Co. licence No. 10968, sworn 3 Jun 1903. She gave her birth as Hazleton, Luzerne Co., 12 Nov 1880, residing at Easton, at home. [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G7GQ-XH5"
+    }
+  ],
+  "bio": "Sophia's own marriage licence confirms her birth on 12 Nov 1880 at Hazleton ([R4-S1]). She was living at Easton when she married the clerk George Thomas Duffin there on 3 Jun 1903. She died at Easton on 3 Apr 1909, aged 28 ([R4-S2]). A family twist: in 1917 the widower George T. Duffin married Agatha Mary Rose, daughter of Sophia's sister Mary (Meier) Rose. His second wife was therefore his first wife's niece ([R4-S2]).",
+  "media": [
+    {
+      "file": "media/I282608085071/marriage-licence-1903-duffin-meier.jpg",
+      "type": "record",
+      "title": "Northampton County marriage licence No. 10968: Duffin and Meier, 1903",
+      "date": "1903-06-03",
+      "source": "Northampton County Orphans' Court (via FamilySearch), public_domain",
+      "note": "",
+      "people": [
+        "H0390"
+      ],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XH5/images/i/1/image.jpg"
     }
   ]
 }

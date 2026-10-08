@@ -1,0 +1,25 @@
+{
+  "id": "H0225",
+  "name": "Elnathan Topping",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Weygant (1897) names this Elnathan Topping Jr. as father of Jerusha, wife of James Smith, and as son of Capt. Elnathan (b. 1640) (S1). This is a second independent printed source for the identification first made from his 1751 will.",
+  "openQuestionsResolved": [],
+  "openQuestionsNew": [
+    "Wife Mary's surname remains unknown; check Howell 1887 and Southampton town records."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Elnathan Topping Jr. father of Jerusha Smith"
+    }
+  ],
+  "searchedNoResult": [
+    "NY will abstracts: only the known 1751 will (Liber 18) found"
+  ],
+  "researchLogEntry": "Round 4: Weygant 1897 corroborates him as Jerusha's father; wife's surname still unknown."
+}

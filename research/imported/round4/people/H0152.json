@@ -1,0 +1,81 @@
+{
+  "id": "H0152",
+  "name": "Ransom Pringle",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1829-04",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1880-04",
+      "place": "Hunlock Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Children",
+        "date": "1861-1864",
+        "place": "Luzerne Co., PA",
+        "description": "Ida A. (b. 1861); Henry A. (b. 9 Jun 1864, Beach Haven; d. 1940).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch tree KL4L-RDD calls him George Ransom Pringle, born April 1829 at Plymouth to Samuel D. Pringle and Hulda Ives. He married Mary C. Stookey (1842-1898), and their children were Ida A. (b. 1861) and Henry A. (b. Beach Haven 9 Jun 1864, d. 1940). He was in Plymouth Twp. in 1870 and died in Hunlock Twp. in April 1880 (S1). The tree attaches an entry in the 1880 PA mortality schedule, which counts deaths in the census year ending 31 May 1880. That is a contemporary record of his death and fits Munsell's 'leading merchant' at Hunlock Creek.",
+  "conflicts": [
+    {
+      "field": "burial",
+      "siteValue": "",
+      "foundValue": "FS: 'Charles Evans Cemetery, Reading, Berks Co.'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Burial at Reading is unlikely for a man who died in Hunlock Twp. The Find a Grave index entry may belong to another George R. Pringle. Unverified."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0150",
+      "evidence": "1850 census in Hulda's household; FS",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "parent",
+      "personId": "H0151",
+      "evidence": "same",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "1850 census and an FS tree with an 1880 mortality schedule entry."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, George Ransom Pringle KL4L-RDD",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KL4L-RDD",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "full name, birth Apr 1829, wife Mary C. Stookey, children, death Apr 1880 Hunlock Twp. (1880 mortality schedule attached), burial claim"
+    }
+  ],
+  "researchLogEntry": "Round 4: FS KL4L-RDD gives full name George Ransom, wife Mary C. Stookey, children Ida and Henry A., death Apr 1880 Hunlock (mortality schedule).",
+  "researchedAt": "2026-10-08"
+}

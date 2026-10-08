@@ -1,0 +1,34 @@
+{
+ "id": "I282824815979",
+ "name": "Pietro Antonio Maletta",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "An 'Antonius Maletta' was buried at San Mango on 22 November 1702 (S1). He is a candidate for Pietro Antonio; the tree has 24 November 1702.",
+ "conflicts": [
+  {
+   "field": "death.date",
+   "siteValue": "24 Nov 1702",
+   "foundValue": "22 Nov 1702 (Antonius Maletta, candidate)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Probably the same man; check image."
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "possible",
+  "justification": "Candidate only."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1687-1713 (Book 3), image 154, p. 267, no. 6; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1687-1713'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 22 Nov 1702: Antonius Maletta (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: candidate burial 22 Nov 1702 (tree 24 Nov)."
+}

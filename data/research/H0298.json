@@ -8,7 +8,8 @@
   "tags": [],
   "summary": "Co-founder of ChemTreat who restored Sherwood Forest; W&M's history department is named for him; John's 7th cousin 4x removed.",
   "sources": [
-    "Wikipedia, https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler"
+    "Wikipedia, https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler",
+    "[R4-S1] Wikipedia, 'Harrison Ruffin Tyler' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -19,6 +20,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: exact dates from Wikipedia; no free image found. Deceased (2025), not living."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0298.json."
     }
   ],
   "media": [
@@ -38,5 +47,15 @@
       "note": "Harrison Ruffin Tyler (November 9, 1928 – May 25, 2025) was an American businessman, preservationist, and archivist. Tyler was the last living grandchild of the tenth U.S. president, John Tyler (1790–1862).",
       "url": "https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler"
     }
+  ],
+  "birth": {
+    "date": "1928-11-09"
+  },
+  "death": {
+    "date": "2025-05-25"
+  },
+  "bio": "Last living grandchild of President John Tyler; the span from the president's birth to his death was 235 years ([R4-S1]). 7th cousin 4 times removed. No public-domain or freely licensed photograph was found on Commons (his Wikipedia article has no lead image).",
+  "funFacts": [
+    "A grandson of a president born in 1790 lived until 2025: 235 years across three generations."
   ]
 }

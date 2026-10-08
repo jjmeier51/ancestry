@@ -12,7 +12,7 @@
     "military"
   ],
   "summary": "Union rear admiral, Farragut's second-in-command at New Orleans 1862; John's 4th cousin 7x removed via Bull Smith.",
-  "bio": "Path: Bull Smith → Richard 2d → Richard 3rd (b. 1696) → Phebe Smith, m. (Capt.) Nathaniel Platt in 1776 → Phebe Platt, m. Judge William Bailey of Plattsburgh → Theodorus. Would have become 3C7R had Temperance been Ebenezer's daughter (ruled out). Same pages show Richard 3rd's daughter Sarah married Rev. Naphtali Daggett, later president of Yale (p. 471; in-law). F. K. Smith pp. 119–122 also list Charity Smith m. John Adams, Gloriana m. Joseph Bryant, Isaac Smith b. 30 Oct 1745 m. Margaret Field/Theal, and 'Shell Dick'.",
+  "bio": "Path: Bull Smith → Richard 2d → Richard 3rd (b. 1696) → Phebe Smith, m. (Capt.) Nathaniel Platt in 1776 → Phebe Platt, m. Judge William Bailey of Plattsburgh → Theodorus. Would have become 3C7R had Temperance been Ebenezer's daughter (ruled out). Same pages show Richard 3rd's daughter Sarah married Rev. Naphtali Daggett, later president of Yale (p. 471; in-law). F. K. Smith pp. 119–122 also list Charity Smith m. John Adams, Gloriana m. Joseph Bryant, Isaac Smith b. 30 Oct 1745 m. Margaret Field/Theal, and 'Shell Dick'.\n\nPelletreau's Bailey page ([R4-S1]) gives his line: Bull Smith -> Richard 2d -> Richard 3d (b. 16 Apr 1696) -> Phebe (b. 19 Aug 1743, m. 10 Nov 1776 Nathaniel Platt, a founder of Plattsburgh) -> Phebe (m. Judge William Bailey of Plattsburgh) -> Theodorus: 4th cousin 7 times removed. His wife Sarah Ann Platt was also a cousin, closer through Job Smith (Job 1st -> Job 2d -> Anna -> Richard 4th -> Dorothy (m. Isaac S. Platt) -> Sarah Ann: 4C6R), so their children descend from Bull Smith by several lines, as Pelletreau's five descent tables show.",
   "military": [
     {
       "branch": "US Navy",
@@ -24,7 +24,8 @@
   "sources": [
     "Pelletreau (1898) App. pp. 471–472",
     "F. K. Smith (1967) pp. 119–122 (screenshots in John's Drive)",
-    "Uploaded deep-dive report"
+    "Uploaded deep-dive report",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 471-473 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -35,6 +36,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: path and wife's (closer) descent from Pelletreau; two PD images downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0300.json."
     }
   ],
   "media": [
@@ -69,7 +78,32 @@
       "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Commodore_Theodorus_Bailey_-_NARA_-_528661.jpg",
       "note": "Mathew Benjamin Brady",
       "file": "media/H0300/theodorus-bailey-officer-portrait.jpg"
+    },
+    {
+      "file": "media/H0300/theodorus-bailey-brady-nara.jpg",
+      "type": "photo",
+      "title": "Commodore Theodorus Bailey, Mathew Brady studio",
+      "date": "c. 1860-1865",
+      "source": "U.S. National Archives (NARA 528661) via Wikimedia Commons, public_domain",
+      "note": "Public domain (US government / Brady). 1280px derivative.",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:Commodore_Theodorus_Bailey_-_NARA_-_528661.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Admiral_Theodorus_Bailey.jpg",
+      "type": "link",
+      "title": "Admiral Theodorus Bailey (Portrait Monthly of the New York Illustrated News)",
+      "date": "Feb 1864",
+      "source": "Wikimedia Commons (from archive.org portraitmonthlyo00newy), public_domain",
+      "note": "Public domain (published 1864); Commons credit line misprints the year as 1894. (not downloaded: rights public_domain)",
+      "people": []
     }
   ],
-  "photo": "media/H0300/theodorus-bailey-officer-portrait.jpg"
+  "photo": "media/H0300/theodorus-bailey-officer-portrait.jpg",
+  "birth": {
+    "date": "1805-04-12"
+  },
+  "death": {
+    "date": "1877-02-10"
+  }
 }

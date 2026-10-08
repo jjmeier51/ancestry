@@ -1,0 +1,49 @@
+{
+ "id": "H0336",
+ "name": "Angelamaria Fede",
+ "status": "researched",
+ "bioAdditions": "Angelamaria's FamilySearch profile (LCXQ-84D) carries three indexed Avellino records, including the 1867 marriage (6J4L-ZFYB) and a record grouped with Savino (89S6-17N2). It names her parents as Bartolomeo Fede and Nunzianna Roberto (married 10 Jul 1835) (S1). The child profiles give her children as Francesco (1869), Lucia (1872), Antonio (1874–1903), Lucia (1877–1878), Maria Giuseppa (1880), Nunzianda (c.1885–1888) and Bartolomeo (1889). If her c.1849 birth is right, her last child was born when she was about 40 (S1, S2).",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "NEW-701",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-702",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile LCXQ-84D (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LCXQ-84D",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents; attached indexed records"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile 2SZL-LPB (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-LPB",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children of Savino and Angelamaria (child profiles)"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS tree lists seven children and her mother's name as Nunzianna Roberto.",
+ "researchedAt": "2026-10-08"
+}

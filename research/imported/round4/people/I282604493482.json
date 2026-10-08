@@ -1,0 +1,73 @@
+{
+ "id": "I282604493482",
+ "name": "Francis J. McGuire",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "facts": [
+   {
+    "label": "FamilySearch baptism index",
+    "value": "\"Francis McGuire\", Pennsylvania Births and Christenings 1709-1950, ark 1:1:HFJC-RKN2 (attached to GZQT-YKQ; record page not openable here)"
+   }
+  ]
+ },
+ "bioAdditions": "His younger brother William Bernard McGuire's 1927 Luzerne marriage application names their parents as James McGuire, born at Danville, Pa., and Anna Jones, born in England, both dead by Nov 1927 (S1). FamilySearch lists Frank's siblings as Edward Joseph (1885-1948), Mary (1887-1950), James Joseph (1889-1957), Joseph (1894-1910), Marguerite (1895-1961), Vincent Joseph (1901-1987), Theresa A. (1904-1998), William Bernard (1906-1975), Anna C. (1909-1964) and Joseph (1913-1963) (S2; derivative).",
+ "relationships": [
+  {
+   "type": "sibling",
+   "personId": "I282604680657",
+   "evidence": "1927 license of William Bernard McGuire names the same parents, James McGuire and Anna Jones",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "openQuestionsNew": [
+  "FamilySearch attaches a \"Pennsylvania Births and Christenings\" index entry (HFJC-RKN2) for Francis McGuire: likely a St. Vincent de Paul, Plymouth baptism that would give sponsors; record page blocked here."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "William Bernard McGuire, laborer, 19 Oak St, Wilkes-Barre, b. Larksville, 21; father James (dec'd, b. Danville, Pa.), mother Anna Jones (dec'd, b. England). Bride b. Plymouth, 21, of 88 Lyndwood Ave, Hanover Twp; father James Prout (carpenter, b. Larksville), mother Bertha Dunn (b. Avondale).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), James McGuire (1861-1927), PID GZQN-SCM; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Children list of James McGuire & Anna C. Jones",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GZQN-SCM"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1927 Luzerne marriage application no. 17091 (William B. McGuire), naming parents James (b. Danville) and Anna Jones",
+   "date": "1927-11-25",
+   "pageUrl": "https://familysearch.org/ark:/61903/1:1:KHXY-TFM",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg",
+   "repository": "Luzerne County Orphans' Court via FamilySearch",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/I282604680657/1927-luzerne-marriage-application-17091.jpg",
+   "people": [
+    "I282604680657",
+    "I282604493482",
+    "I282604494274",
+    "I282604494275"
+   ],
+   "suggestedFile": "media/I282604680657/1927-luzerne-marriage-application-17091.jpg",
+   "note": "Pre-1931 county government record; treated as public domain."
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch record page for baptism HFJC-RKN2 (blocked/redirect)"
+ ],
+ "researchLogEntry": "Round 4: brother William B.'s 1927 license confirms parents James (b. Danville) & Anna Jones; FS sibling dates collected."
+}

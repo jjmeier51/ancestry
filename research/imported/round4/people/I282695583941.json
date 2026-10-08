@@ -1,0 +1,65 @@
+{
+  "id": "I282695583941",
+  "name": "Anna Maria Doll",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Maria Young"
+    ],
+    "death": {
+      "date": "29 Jun 1813 (FamilySearch, unsourced)",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Will (indexed on FamilySearch)",
+        "date": "c.1813",
+        "place": "Northampton County, PA",
+        "description": "'last will of Maria Young', Northampton Co. Will Book 4, p.458 (FamilySearch image ark 3:1:3QS7-89SM-WSJF; not viewed - login required).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Anna Maria Doll's birth as 16 May 1751 in Plainfield Township and her death as 29 June 1813, as the widow of Johannes Jung (d. before 1787) and mother of ten Young children, the eldest being Maria (b. Jan 1776), wife of Frederick Grub/Croup (S1). Her will as 'Maria Young' is cited from Northampton County Will Book 4, p.458 (S1) - not yet read, but potentially the document that proves both her own Doll parentage (if it names Doll kin or property) and Mary Croup's descent from her. FamilySearch places her among the children of Johann Caspar Doll and Anna Margaretha Dietz, with siblings George (1744-83), Hannah (1746-73), Casper Dull (1748-1829), Sarah Margaretha (1748-79), Abraham (1752), Elizabeth Margaret (1754-88) and Anna Catharina (1757-99) (S1). Note that this makes Capt. Casper Dull (1748-1829) her brother, whereas WikiTree's research note (round 2) calls him Casper Doll's nephew; the tree's 'Captain' issue therefore needs re-checking.",
+  "conflicts": [
+    {
+      "field": "relationship of Capt. Casper Dull (1748-1829)",
+      "siteValue": "nephew of Johann Casper Doll (WikiTree Doll-527 note, round 2)",
+      "foundValue": "son of Johann Caspar Doll and brother of Anna Maria (FamilySearch LCFM-34B / 29WQ-BD3)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved: both are compiled trees. If he was a son, Johnny's 7th-great-grand-uncle; either way not Johnny's direct ancestor, and the 'Captain' still belongs to the younger Casper."
+    },
+    {
+      "field": "death.date",
+      "siteValue": "1813 (tree)",
+      "foundValue": "29 Jun 1813 (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Agrees in year; day from FS."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Anna Maria Doll (LCFM-34B), with parents Capt. Johann Caspar Doll (M7ZN-ZBL) and Anna Margaretha Dietz (M3JK-PMV); source 'last will of Maria Young, Northampton Co PA, Will Book 4, p458'",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LCFM-34B",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, death, spouse, children, parents, siblings"
+    }
+  ],
+  "openQuestionsNew": [
+    "Read Maria Young's will (Northampton Will Book 4 p.458).",
+    "Is Capt. Casper Dull (1748-1829) Anna Maria's brother (FamilySearch) or cousin (WikiTree)?"
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives d. 29 Jun 1813 and cites her will as Maria Young (Northampton Will Book 4 p.458); FS makes Capt. Casper Dull her brother (conflicts with WikiTree 'nephew')."
+}

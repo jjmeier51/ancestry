@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 10th-great-grandfather (via Rachel Browne), of Southold.",
-  "bio": "His 'Brough under Stainmore, Westmorland' origin and a Curtis of Nazeing link appear on WikiTree and are speculative.",
+  "bio": "His 'Brough under Stainmore, Westmorland' origin and a Curtis of Nazeing link appear on WikiTree and are speculative.\n\nSouthold town records (Liber A, printed vol. 1 pp. 169-170) recite that William Salmon married Katherine, widow of Mathew Sinderland, and 'after the decease of the said Katherine married with Sarah Hortton', and that he died intestate, his estate falling to Sarah and his children by both wives ([R4-S1]). Sarah then married John Conklin Jr. ([R4-S1], [R4-S2]).",
   "sources": [
     "WikiTree Tuthill-530 getAncestors",
-    "notes/round3/english_french_origins.md §2i"
+    "notes/round3/english_french_origins.md §2i",
+    "[R4-S1] J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 169-170 (Liber A: recital that William Salmon, after the death of his wife Katherine, widow of Mathew Sinderland, 'married with Sarah Hortton' and died intestate; John Conckelyne Jr. 'tooke to wife the said Sarah Salmon') (primary) https://archive.org/details/southoldtownreco0000jwic",
+    "[R4-S2] J. Wickham Case, ed., Southold Town Records, vol. 2 (1884), c. p. 152, editor's note: 2d John Conklin 'married Sarah, widow of Wm Salmon, in 1657' (secondary) https://archive.org/details/southoldtownreco02sout"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -21,6 +23,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Southold Town Records vol. 1 confirms his marriage to Sarah Hortton."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0233.json."
     }
   ],
   "media": [

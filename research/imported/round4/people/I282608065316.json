@@ -1,0 +1,21 @@
+{
+  "id": "I282608065316",
+  "name": "Sarah Hammond",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Pelletreau prints the 1688 deeds that Sarah Smith joined as party ('by and with the consent of Sarah his wife'), acknowledged with her husband on 17 Sept 1688 (S1). Her maiden name and Lavenham baptism were not re-examined this round.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Sarah joins and acknowledges the 1688 deeds to son Job"
+    }
+  ],
+  "searchedNoResult": [
+    "Lavenham register for 'Marie' 1623: no online image found this round"
+  ],
+  "researchLogEntry": "Round 4: only the 1688 deed acknowledgments added; Lavenham baptism still unread."
+}

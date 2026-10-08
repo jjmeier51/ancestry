@@ -1,0 +1,56 @@
+{
+  "id": "H0074",
+  "name": "Johann Nickel Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "burial": {
+      "place": "Jettenbach",
+      "cemetery": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GYMH-XPG"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch makes Johann Nickel a son of Johann Peter Grub's first wife, Gretha (Margretha) Catharina, who died before Peter's second marriage on 19 Oct 1694, and not of the second wife, Elisabetha Catharina Jung (S1, S2). The register shows Peter's wife was Gretha Catharina in 1684 and Margretha Catharina in 1687 (see H0078). Nickel's own baptism has not been found; the site has him born about 1694 from his 1707 confirmation. Who his mother was depends on whether he was born before or after October 1694. If after, he would be the Jung wife's first child. FamilySearch gives his burial date as 7 Feb 1763 and attaches a Lutheran burial entry ('Nicolaus Gruben'), whose image came back empty (S1).",
+  "conflicts": [
+    {
+      "field": "mother",
+      "siteValue": "Gretha Catharina Jung (H0078)",
+      "foundValue": "Gretha/Margretha Catharina, first wife, surname unknown, d. before Oct 1694 (FamilySearch); the Jung wife was Elisabetha Catharina, m. 19 Oct 1694",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Needs Nickel's baptism (Reichenbach Lutheran register, c.1693-95). See H0078."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Johann Nickel Grub (GYMH-XPG): parents Johann Peter Grub (K6C3-ZC4) and Gretha Catharina (PSFH-GPD)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GYMH-XPG",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "parentage claim, burial"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Johann Peter Grub (K6C3-ZC4): two wives, children by each",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K6C3-ZC4",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "two marriages"
+    }
+  ],
+  "openQuestionsNew": [
+    "His baptism c.1693-95 in the Reichenbach Lutheran register (Jettenbach entries) decides whether his mother was the first wife Gretha Catharina or Elisabetha Catharina Jung."
+  ],
+  "researchLogEntry": "Round 4: FamilySearch makes him the son of Peter Grub's first wife Gretha Catharina (d. before Oct 1694), not of the Jung wife; conflict recorded."
+}

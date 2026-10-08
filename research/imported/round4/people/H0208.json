@@ -1,0 +1,84 @@
+{
+  "id": "H0208",
+  "name": "William Croop",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "c.1805",
+      "place": "Newport Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1889",
+      "place": "Hunlock Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Lumberman and farmer; owned 250 acres and a sawmill",
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "",
+        "place": "Union (now Hunlock) Twp.",
+        "description": "Married Mary Sorber, born in Northampton Co. Munsell calls their son Hiram 'a grandson of both John Croop and Philip Sorber', which makes Mary a daughter of Philip Sorber, the son of Jacob who settled further up Hunlock's Creek.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Bradsby says William, son of John Croop, was born in Newport Twp. and began his working life in Union (now Hunlock) Twp. There he married Mary Sorber, a native of Northampton Co. He was an extensive lumberman and farmer, owned 250 acres and a sawmill he had bought, held several township offices, and died in 1889 aged 84. Of his seven children, six were living in 1893, and Hiram (b. 15 Jul 1832) was the eldest. Andrew (b. 5 Aug 1843) was another (S1). Bradsby names three sons who served in the Civil War: Alvin, Andrew and Simon.",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0207",
+      "evidence": "Bradsby p.812",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0209",
+      "evidence": "Bradsby p.812",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "child",
+      "personId": "H0210",
+      "evidence": "Bradsby p.813 ('a brother to Hiram')",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsNew": [
+    "If his mother was Elizabeth Sorber (Plumb) and his wife Mary Sorber was a daughter of Philip Sorber (son of Jacob, son of Abraham?), then William married a first cousin once removed. Needs probate or church records."
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Bradsby biography of his son."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "H. C. Bradsby, History of Luzerne County (1893), pp.584 and 812-813 (Hiram and Andrew Croop biographies)",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth Newport Twp.; wife Mary Sorber; 250 acres and sawmill; township offices; died 1889 aged 84; seven children, Hiram eldest"
+    }
+  ],
+  "researchLogEntry": "Round 4: Bradsby gives his birthplace Newport Twp., wife Mary Sorber, 250 acres, death 1889 aged 84, seven children.",
+  "researchedAt": "2026-10-08"
+}

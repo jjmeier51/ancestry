@@ -1,0 +1,20 @@
+{
+  "id": "M0040",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0003 (probable)."
+  },
+  "tags": [],
+  "summary": "Youngest child in the 1870 Danville household (age 3); FamilySearch says he died before 1880.",
+  "bio": "Youngest child in the 1870 Danville household (age 3); FamilySearch says he died before 1880.",
+  "sources": [
+    "[R4-S1] 1870 census; FS G3FR-R9Z (primary) https://www.familysearch.org/service/tree/tree-data/published/persons/G3FR-R9Z"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-204 → M0040; research/imported/round4/new_people.json."
+    }
+  ]
+}

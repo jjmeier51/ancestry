@@ -10,10 +10,11 @@
   ],
   "tags": [],
   "summary": "John's 2nd-great-grand-aunt; Sister Mary Antonia, IHM, a Catholic school teacher.",
-  "bio": "Mary Heffernan (7 Jan 1879 - 4 Feb 1955) became Sister Mary Antonia of the Sisters of the Immaculate Heart of Mary (IHM) and taught in Catholic schools in New York and Pennsylvania.",
+  "bio": "Mary Heffernan (7 Jan 1879 - 4 Feb 1955) became Sister Mary Antonia of the Sisters of the Immaculate Heart of Mary (IHM) and taught in Catholic schools in New York and Pennsylvania.\n\nFamilySearch records her burial in St. Catherine Cemetery, Moscow, Lackawanna County ([R4-S1]), the cemetery used by the IHM Sisters' Marywood/Scranton community (context).",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
-    "Find a Grave 49215308: https://www.findagrave.com/memorial/49215308/sr-mary-antonia-heffernan"
+    "Find a Grave 49215308: https://www.findagrave.com/memorial/49215308/sr-mary-antonia-heffernan",
+    "[R4-S1] FamilySearch Family Tree (published), Mary \"Sr. Antonia\" Heffernan (1879-1955), PID LTDC-CG1; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LTDC-CG1"
   ],
   "occupation": "Religious sister and teacher",
   "handoff": {
@@ -29,6 +30,23 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Deeter-575 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: burial place found on FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0115.json."
+    }
+  ],
+  "burial": {
+    "place": "St. Catherine Cemetery, Moscow, Lackawanna Co., Pa."
+  },
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LTDC-CG1"
     }
   ]
 }

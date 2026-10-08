@@ -22,7 +22,7 @@
   ],
   "tags": [],
   "summary": "John's great-grandfather (father of grandmother Kathryn); a Plymouth-born bookkeeper who married Elizabeth McAvoy in 1923 and died in Wilkes-Barre in 1958.",
-  "bio": "Frank J. McGuire was born 21 Sep 1898 in Plymouth, Luzerne Co. (FamilySearch GZQT-YKQ), son of James McGuire, laborer, and Anna C. Jones (born England). In 1910 his family (Francis aged 11) lived in Larksville — the same small town as Addison Pringle's family (Florence aged 6), 18 years before their children married. On 19 Jun 1923 he took out Luzerne marriage licence No. 635: Frank J. McGuire, bookkeeper, 220 South St, Plymouth, 24, born Penna.; father James (laborer, Plymouth, born Penna.); mother Anna Jones (born England). The bride was Elizabeth M. McAvoy, clerk, 214 Vine St, Plymouth, 25, born Penna.; father William R. (deceased, born N.Y.); mother Kathryn Murphy (Plymouth, born Penna.). They married 20 Jun 1923, by Rev. P. J. Colligan, Plymouth. His daughters (FS) were Jane Clair (1924), probably twins Elizabeth 'Betsy' and Ann 'Nancy' (Mar 1928), and Kathryn (22 Aug 1930). He died 15 Sep 1958 in Wilkes-Barre aged 59 (PA death index 1958: 'MCGUIRE FRANK J, 59, WLKS BRE, co. 40, 09-15-58, file 83855'). His widow remarried (Harold Arnold). Do not merge with the Frank McGuire whose wife 'Bea Ginley (Mrs. Frank)' died 26 Apr 1938 at Forty Fort.",
+  "bio": "Frank J. McGuire was born 21 Sep 1898 in Plymouth, Luzerne Co. (FamilySearch GZQT-YKQ), son of James McGuire, laborer, and Anna C. Jones (born England). In 1910 his family (Francis aged 11) lived in Larksville — the same small town as Addison Pringle's family (Florence aged 6), 18 years before their children married. On 19 Jun 1923 he took out Luzerne marriage licence No. 635: Frank J. McGuire, bookkeeper, 220 South St, Plymouth, 24, born Penna.; father James (laborer, Plymouth, born Penna.); mother Anna Jones (born England). The bride was Elizabeth M. McAvoy, clerk, 214 Vine St, Plymouth, 25, born Penna.; father William R. (deceased, born N.Y.); mother Kathryn Murphy (Plymouth, born Penna.). They married 20 Jun 1923, by Rev. P. J. Colligan, Plymouth. His daughters (FS) were Jane Clair (1924), probably twins Elizabeth 'Betsy' and Ann 'Nancy' (Mar 1928), and Kathryn (22 Aug 1930). He died 15 Sep 1958 in Wilkes-Barre aged 59 (PA death index 1958: 'MCGUIRE FRANK J, 59, WLKS BRE, co. 40, 09-15-58, file 83855'). His widow remarried (Harold Arnold). Do not merge with the Frank McGuire whose wife 'Bea Ginley (Mrs. Frank)' died 26 Apr 1938 at Forty Fort.\n\nHis younger brother William Bernard McGuire's 1927 Luzerne marriage application names their parents as James McGuire, born at Danville, Pa., and Anna Jones, born in England, both dead by Nov 1927 ([R4-S1]). FamilySearch lists Frank's siblings as Edward Joseph (1885-1948), Mary (1887-1950), James Joseph (1889-1957), Joseph (1894-1910), Marguerite (1895-1961), Vincent Joseph (1901-1987), Theresa A. (1904-1998), William Bernard (1906-1975), Anna C. (1909-1964) and Joseph (1913-1963) ([R4-S2]; derivative).",
   "residences": [
     {
       "date": "1910",
@@ -43,11 +43,14 @@
     "FamilySearch tree GZQT-YKQ https://www.familysearch.org/service/tree/tree-data/published/persons/GZQT-YKQ",
     "Ancestry index snippet (Kathryn Meier record: father 'Frances' McGuire)",
     "Genealogy Trails 1938 deaths M–P http://genealogytrails.com/penn/luzerne/1938_deaths/m_n_o_p.html (Bea Ginley McGuire — not a match)",
-    "notes/round3/irish_pa.md; notes/meier_mcguire.md; notes/round2/meier_gaps.md"
+    "notes/round3/irish_pa.md; notes/meier_mcguire.md; notes/round2/meier_gaps.md",
+    "[R4-S1] Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg",
+    "[R4-S2] FamilySearch Family Tree (published), James McGuire (1861-1927), PID GZQN-SCM; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GZQN-SCM"
   ],
   "openQuestions": [
     "PA death certificate 1958 #83855.",
-    "1930/1940 census residence (Wilkes-Barre?)."
+    "1930/1940 census residence (Wilkes-Barre?).",
+    "FamilySearch attaches a \"Pennsylvania Births and Christenings\" index entry (HFJC-RKN2) for Francis McGuire: likely a St. Vincent de Paul, Plymouth baptism that would give sponsors; record page blocked here."
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -62,6 +65,40 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Frank McGuire\"; research uses \"Francis J. McGuire\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch record page for baptism HFJC-RKN2 (blocked/redirect)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: brother William B.'s 1927 license confirms parents James (b. Danville) & Anna Jones; FS sibling dates collected."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604493482.json."
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch baptism index",
+      "value": "\"Francis McGuire\", Pennsylvania Births and Christenings 1709-1950, ark 1:1:HFJC-RKN2 (attached to GZQT-YKQ; record page not openable here)"
+    }
+  ],
+  "media": [
+    {
+      "file": "media/I282604493482/1927-luzerne-marriage-application-17091.jpg",
+      "type": "record",
+      "title": "1927 Luzerne marriage application no. 17091 (William B. McGuire), naming parents James (b. Danville) and Anna Jones",
+      "date": "1927-11-25",
+      "source": "Luzerne County Orphans' Court via FamilySearch, public_domain",
+      "note": "Pre-1931 county government record; treated as public domain.",
+      "people": [
+        "I282604680657",
+        "I282604494274",
+        "I282604494275"
+      ],
+      "url": "https://familysearch.org/ark:/61903/1:1:KHXY-TFM"
     }
   ]
 }

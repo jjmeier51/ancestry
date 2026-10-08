@@ -12,7 +12,7 @@
   },
   "death": {
     "date": "1931-04-04",
-    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    "place": "Plymouth, Luzerne Co., Pa."
   },
   "aka": [
     "Kathryn Murphy (1923 licence)",
@@ -21,11 +21,14 @@
   ],
   "tags": [],
   "summary": "John's 2nd great-grandmother; widowed in 1899 with ten children, remarried John H. Jones.",
-  "bio": "Catherine A. Murphy was born 27 Apr 1860 in Plymouth and died there 4 Apr 1931; buried Larksville (FS K6NQ-ZX8). Widowed by William R. McAvoy's death in 1899, she married (2) John H. Jones; her daughter Elizabeth lived in his household in 1920. The 1923 licence calls her 'Kathryn Murphy, Plymouth, b. Penna'.",
+  "bio": "Catherine A. Murphy was born 27 Apr 1860 in Plymouth and died there 4 Apr 1931; buried Larksville (FS K6NQ-ZX8). Widowed by William R. McAvoy's death in 1899, she married (2) John H. Jones; her daughter Elizabeth lived in his household in 1920. The 1923 licence calls her 'Kathryn Murphy, Plymouth, b. Penna'.\n\nShe died as Catherine Jones (her second husband's name): the 1931 index lists CATHERINE JONES, Plymouth, county 40, 4 Apr 1931, file 43660 ([R4-S1]). In 1870 she was \"Catherine,\" 9, in Martin and Alice Murphy's household in Plymouth Township ([R4-S2]). Her daughter Agnes's 1914 marriage docket gives Catharine's birthplace as Schuylkill County ([R4-S3]).",
   "sources": [
     "FamilySearch tree K6NQ-ZX8",
     "1923 Luzerne licence No. 635",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] Pennsylvania Department of Health death certificate index, 1931 (PA State Archives RG-11), PDF p.28: \"CATHERINE JONES  PLYMOUTH  J 520  40  4 4 31  43660\" (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1931/D-31%20I-J.pdf",
+    "[R4-S2] 1870 U.S. census, Plymouth Township, Luzerne Co., Pa., p.66, enumerated 29 Jul 1870 by Roberson Boyd, P.O. Kingston, dwelling 444, family 446 (image via FamilySearch, attached to G7FL-HGY) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7FL-HGY/images/i/2/image.jpg",
+    "[R4-S3] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -40,6 +43,28 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Catherine Ann Murphy\"; research uses \"Catherine A. Murphy\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1931 PA death index (as Catherine Jones) file 43660; 1914 docket gives Schuylkill Co. birthplace (conflict)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604498567.json."
+    }
+  ],
+  "facts": [
+    {
+      "label": "PA death certificate file no.",
+      "value": "1931 #43660 (Catherine Jones, Plymouth, 4-4-31)"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.place",
+      "site": "Plymouth, Luzerne Co. (27 Apr 1860)",
+      "found": "Schuylkill Co., Pa. (daughter Agnes's 1914 marriage docket); \"Penna.\" (daughter Elizabeth's 1923 licence)",
+      "assessment": "The Murphys had a child born in Schuylkill Co. in 1857 and were in Plymouth by 1860 (round 3). A Schuylkill birth for Catherine is possible if the move came in 1860-61. Her 1931 death certificate (#43660) should state her birthplace and parents."
     }
   ]
 }

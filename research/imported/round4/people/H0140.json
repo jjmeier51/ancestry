@@ -1,0 +1,52 @@
+{
+ "id": "H0140",
+ "name": "Thomas Joseph Dailey",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1884-03-05",
+   "place": "Avondale, Plymouth Twp, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1934-05-07",
+   "place": "Plymouth, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1917-11-27",
+    "place": "Luzerne Co., Pa.",
+    "description": "Married Agnes M. Law (1894-1975)",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "military": [
+   {
+    "note": "WWI draft registration, Luzerne Co. Local Board 6",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Thomas Joseph Dailey (1884-1934), PID LNR3-316; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, marriage, WWI draft card, death",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LNR3-316"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS dates 1884-1934, m. Agnes M. Law 1917."
+}

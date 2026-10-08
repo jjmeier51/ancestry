@@ -1,0 +1,47 @@
+{
+  "id": "I282824815780",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Baptism, marriage and burial indexed with consistent parents."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815806, proven): Baptism and burial"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815812, proven): Baptism and burial"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824815770, proven): Marriage"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 21 Aug 1801, marriage 1818, burial 29 Mar 1864."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815780.json."
+    }
+  ],
+  "birth": {
+    "place": "San Mango d'Aquino",
+    "date": "1801-08-21"
+  },
+  "death": {
+    "place": "San Mango d'Aquino",
+    "date": "1864-03-29"
+  },
+  "bio": "Carmela was baptized on 21 August 1801, daughter of Alessio Moraca and Saveria Sacco. Her entry survives only in a copy made after the original pages fell out of the register in 1821 ([R4-S1]). She married Luigi Colosimo on 29 January 1818 ([R4-S2]) and was buried on 29 March 1864 ([R4-S3]).",
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): Baptism, marriage and burial indexed with consistent parents."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 244, p. 482, no. 27; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 11, p. 16, no. 1; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S3] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 96, p. 181, no. 28; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
+  ]
+}

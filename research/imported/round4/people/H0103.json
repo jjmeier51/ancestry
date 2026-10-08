@@ -1,0 +1,103 @@
+{
+ "id": "H0103",
+ "name": "Hannah Turner",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "7 Sep 1738 (FamilySearch, unproven identification)",
+   "place": "New London, Connecticut",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "19 Jul 1838 (FamilySearch, unproven)",
+   "place": "burial given as Stonington, CT",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage to James Prindle",
+    "date": "22 Jan 1759",
+    "place": "Newtown, Fairfield Co., Connecticut",
+    "description": "Bride written 'Anar Turner' in the Newtown church register; FamilySearch has the date as 2 Jan 1759",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The Newtown church register records the marriage of James Prindle and 'Anar Turner' on 22 Jan 1759 (S1, image already held under James Prindle). FamilySearch identifies her as Hannah Turner, daughter of Samuel Turner (1713-1794) and Rebeckah Cheesebrough, born at New London on 7 Sep 1738, and says she died on 19 Jul 1838 aged 99 and was buried at Stonington (S2). That identification is doubtful: the same FamilySearch family also has a sister 'Anna Turner' born in 1740, and 'Anar' is a closer spelling of Anna/Anner than of Hannah. Her attached birth records are indexed under both 'Anner Turner' and 'Hannah Turner'. The death and burial carry no source, and a widow of a Newtown man buried in Stonington at 99 needs proof. FamilySearch also gives her children born in 1754 and 1757, before the 1759 marriage, so those two (James 'Pringle' 1754-1828 and David 1757) cannot be hers unless the marriage date is wrong. The other children are Benjamin (1764), Samuel (c.1767, our Samuel Pringle) and Hannah (1773).",
+ "conflicts": [
+  {
+   "field": "identity/birth",
+   "siteValue": "no dates; name Hannah (aka Anar) Turner",
+   "foundValue": "FS: Hannah Turner b. 7 Sep 1738 New London; same FS family has sister Anna Turner b. 1740",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "The register spelling 'Anar' fits Anna/Anner better than Hannah; the FS identification is unproven."
+  },
+  {
+   "field": "marriage.date",
+   "siteValue": "22 Jan 1759",
+   "foundValue": "2 Jan 1759 (FS)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "The register image reads 22 Jan; keep the site value."
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "possible",
+  "recommended": "possible",
+  "justification": "Marriage to James Prindle is primary-sourced; parentage and the link of Samuel Pringle of Plymouth to this couple are still unproven."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Newtown, Conn., church register, marriage of James Prindle and Anar Turner, 22 Jan 1759 (FS Connecticut Church Records ark 1:1:QGR1-ZV95)",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L8MP-W4X/images/i/2/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "marriage"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch published tree, Hannah Turner (L8MP-W4C): parents Samuel Turner & Rebeckah Cheesebrough; b. 7 Sep 1738 New London; d. 19 Jul 1838; children; citing CT Births and Christenings (arks 1:1:F7W9-MG9 'Anner Turner', 1:1:F7WM-5FQ)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L8MP-W4C",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "identification, dates, children"
+  },
+  {
+   "ref": "S3",
+   "citation": "Prindle, Franklin C., The Prindle Genealogy (1906), p.41: James b. 5 Aug 1736, m. Newtown 22 Jan 1759 Anar Turner, d. Newtown 9 Nov 1800",
+   "url": "https://archive.org/stream/prindlegenealogy00prin/prindlegenealogy00prin_djvu.txt",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "marriage"
+  }
+ ],
+ "openQuestionsNew": [
+  "Was 'Anar' Hannah (b. 1738) or Anna/Anner (b. 1740) Turner? Check the New London/Stonington birth entries and any Newtown probate of James Prindle (1800) naming his widow."
+ ],
+ "researchLogEntry": "Round 4: FamilySearch identifies her as Hannah Turner b. 1738 New London, dau. of Samuel Turner & Rebeckah Cheesebrough; identification doubtful (sister Anna b. 1740; 'Anar' spelling); children b. 1754/1757 predate marriage.",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282608055448",
+   "evidence": "FS lists Samuel Pringle (1767-1847) as her son; no document links the Plymouth Samuel to this couple",
+   "sourceRefs": [
+    "S2"
+   ],
+   "strength": "candidate"
+  }
+ ]
+}

@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 9th-great-grandfather; Huguenot refugee in New York by 1689, probably from Moëze, Saintonge.",
-  "bio": "Pierre Masse was in New York with his wife Elisabet Mercereau by spring 1689. Children baptized at the French Church: Daniel, 5 May [1689] (godfather Daniel Mercereau; godmother Marie Pare, wife of Ezéchiel Grazilier); Pierre, 25 Jun 1693 (godparents Jean La Tourette and Marie Suzanne Doucinet); Jeanne, b. 22 May, bapt. 5 Jul 1696. He witnessed all three Mersereau weddings of July-Aug 1693. An Elie Masse who signed beside him in 1693 was probably a brother (speculative). D. K. Martin (2008, pp.40-44) and WikiTree Masse-21 place his origin at Moëze, Saintonge (probable); he fled with the Mersereaus. His marriage date '29 Apr 1681' is not seen in a primary source (speculative). WikiTree's 'Daniel Masse of Moëze (1616-1675)' as his father is unsourced (speculative). Several later Masse families in the NY French register (e.g. Daniel Masse & Ester Fourret, 1700s) are not shown to be related.",
+  "bio": "Pierre Masse was in New York with his wife Elisabet Mercereau by spring 1689. Children baptized at the French Church: Daniel, 5 May [1689] (godfather Daniel Mercereau; godmother Marie Pare, wife of Ezéchiel Grazilier); Pierre, 25 Jun 1693 (godparents Jean La Tourette and Marie Suzanne Doucinet); Jeanne, b. 22 May, bapt. 5 Jul 1696. He witnessed all three Mersereau weddings of July-Aug 1693. An Elie Masse who signed beside him in 1693 was probably a brother (speculative). D. K. Martin (2008, pp.40-44) and WikiTree Masse-21 place his origin at Moëze, Saintonge (probable); he fled with the Mersereaus. His marriage date '29 Apr 1681' is not seen in a primary source (speculative). WikiTree's 'Daniel Masse of Moëze (1616-1675)' as his father is unsourced (speculative). Several later Masse families in the NY French register (e.g. Daniel Masse & Ester Fourret, 1700s) are not shown to be related.\n\nThe French Church registers follow Pierre's son Daniel (b. 29 Apr 1689; NEW-301) into adulthood. Daniel married Ester Fourret and had sons Pierre (1712) and Jean (1716) and a daughter Ester (1718) baptized there. Daniel's sister Jeanne, Pierre's daughter and John's ancestor, was godmother to the 1718 child, and an Ester Masse was godmother to Jeanne's son Andre Lamoureux in 1722 ([R4-S1]). These sponsorships tie Jeanne Masse, wife of Daniel Lamoureux, to Pierre's family through the church register, not only through the private Lamoureux family record. Pierre himself was a godfather in the 1690s, to Marie Suzanne Doucinet's child and to another child in 1695 ([R4-S1]). No burial for him appears in the register, which has few burials for these years.",
   "residences": [
     {
       "date": "1689",
@@ -18,7 +18,8 @@
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
     "WikiTree Masse-21: https://www.wikitree.com/wiki/Masse-21",
-    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "[R4-S1] Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), pp.4, 29, 42-43, 49, 126-127, 137-138, 147-148, 164 (derivative) https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt"
   ],
   "openQuestions": [
     "Moëze/Brouage/Hiers Protestant registers for his baptism and the 1681 marriage."
@@ -32,6 +33,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified son Daniel Masse's family (NEW-301) and the Masse sponsorships (1718, 1722) linking Jeanne Masse Lamoureux to this family."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0092.json."
     }
   ]
 }

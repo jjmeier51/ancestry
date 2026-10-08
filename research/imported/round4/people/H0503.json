@@ -1,0 +1,49 @@
+{
+ "id": "H0503",
+ "name": "Nicola Castellano",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Nicholas Castellano"
+  ],
+  "birth": {
+   "date": "ABT 1898",
+   "place": "Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "occupation": "Car repairer, railroad company (1940)",
+  "residences": [
+   {
+    "date": "1940-04-16",
+    "place": "1003 Bunker Hill Street, Scranton Ward 10, PA",
+    "note": "Head, 42, born Italy, naturalized, owned home ($1,700); car repairer for a railroad company; wife Josephine 35; Vito, Carmella, Marie.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "In 1940 Nicholas Castellano, 42, born in Italy and naturalized, owned 1003 Bunker Hill Street and worked as a railroad car repairer (S1). He had died before his wife Josephine, who died in Phoenix in 1995 and was not survived by a husband (S2). FamilySearch gives him 1898–1982.",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 DiBiasi and Castellano households on Bunker Hill St"
+  },
+  {
+   "ref": "S2",
+   "citation": "Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Josephine Castellano, 91, of Phoenix, homemaker, died 28 Nov 1995, born Scranton; survivors daughters Carmella Valvano and Marie Liburdi, son Vito, brothers Nick, Jim and Rocco Petrillo"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1940 census at 1003 Bunker Hill St (railroad car repairer).",
+ "researchedAt": "2026-10-08"
+}

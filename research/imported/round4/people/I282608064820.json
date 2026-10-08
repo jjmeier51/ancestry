@@ -1,0 +1,146 @@
+{
+  "id": "I282608064820",
+  "name": "Henry J. Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1950-12-20",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "aka": [
+      "Harry J. Meier (PA death index 1950)"
+    ],
+    "residences": [
+      {
+        "date": "1950-04-08",
+        "place": "16 Barney Street, Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+        "note": "1950 census: head, 83, born Germany, naturalized, with wife Anna (82) and daughter Mary (51)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1950 census",
+        "date": "1950-04-08",
+        "place": "16 Barney Street, Wilkes-Barre, Luzerne County, PA",
+        "description": "Meier, Henry J., head, 83, married, born Germany, naturalized 'yes'; Anna, wife, 82; Mary, daughter, 51, saleswoman in a retail clothing store.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Death",
+        "date": "1950-12-20",
+        "place": "Wilkes-Barre, Luzerne County, PA",
+        "description": "PA death index 1950 (Soundex M600): HARRY J MEIER, WLKS BRE, county 40, died 12/20/50, file 104173.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Henry J. Meier did not die in 1940. The 1950 census, taken on 8 Apr 1950, lists him at house 16 [Barney Street], Wilkes-Barre, as 'Meier, Henry J.', head, 83, married, born Germany, naturalized. With him were his wife Anna, 82, and their unmarried daughter Mary, 51, a saleswoman in a retail clothing store (S1). Age 83 fits his birth of 15 Nov 1866 exactly. The Pennsylvania death index for 1950 has 'HARRY J MEIER', Wilkes-Barre, county 40, died 20 Dec 1950, certificate file 104173 (S2). 'Harry' was the usual nickname for Henry; his son Henry James Jr. appears as 'Harry J.' in the 1920 and 1940 censuses and in the 1957 death index. That son died in 1957, and the other local Harry J. Meier (b. c.1904 New York, of Bear Creek Twp.) was not of Wilkes-Barre. The FamilySearch tree's 'December 1940' (from the Find a Grave index) is almost certainly a one-digit error for December 1950. That explains why earlier rounds found nothing in the 1939–41 indexes. He died aged 84, ten months before his wife Anna (d. 6 Oct 1951), and is buried at St. Mary's Cemetery, Hanover Township (FS tree / Find a Grave index, as before).",
+  "funFacts": [
+    "He was still listed with his family at 16 Barney Street at 83, after more than 50 years as an iron moulder.",
+    "His son Fred's 1917 draft card names Fred's employer as the Vulcan Iron Works, Wilkes-Barre, where Fred was a moulder. Henry's 1920 and 1940 census entries say only 'moulder, iron works', so it is a reasonable guess, not proven, that father and son worked at the same foundry."
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "siteValue": "1940-12",
+      "foundValue": "1950-12-20",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "The 1950 census proves he was alive on 8 Apr 1950, so the 1940 date is wrong. The 20 Dec 1950 Wilkes-Barre index entry for 'Harry J Meier' matches the tree's month (December) and his town. Strong probable; the certificate (file 104173) would confirm age and parents."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Link stays confirmed. Death date should change to 20 Dec 1950 (probable, index + 1950 census), replacing Dec 1940."
+  },
+  "openQuestionsResolved": [
+    {
+      "question": "Death conflict: tree '1940'; FS tree Dec 1940; not in PA death index 1939–41",
+      "answer": "He was alive in the 1950 census (aged 83) and is very probably the 'Harry J Meier' who died in Wilkes-Barre on 20 Dec 1950 (PA death index, file 104173). '1940' is a typo for 1950.",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "openQuestionsNew": [
+    "Order PA death certificate 1950 file no. 104173 (Harry J. Meier, Wilkes-Barre, 20 Dec 1950) from the PA State Archives. It would confirm age 84 and name Friedrich Mayer/Meier and Maria Anna Birkenmaier as parents, giving a second US document for the Munzingen origin.",
+    "Wilkes-Barre Times Leader / Evening News / Record obituary, c. 21–23 Dec 1950.",
+    "Correct the FamilySearch tree LTHM-1XV death date (Dec 1940 → 20 Dec 1950)."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1950 U.S. census, Wilkes-Barre, Luzerne Co., PA, ED written '80-106' (probably 40-106), sheet 15, 8 Apr 1950, enumerator Alice E. Mulligan, lines 28–30, house 16 [Barney St] (FamilySearch source image on Mary C. Meier, LTHM-BQ6; index ark 1:1:6XB1-LZM7)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-BQ6/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Alive Apr 1950, age 83, born Germany, naturalized, at 16 Barney St with Anna and Mary"
+    },
+    {
+      "ref": "S2",
+      "citation": "Pennsylvania Death Index 1950, M(000)–O(662), PDF p.167 (printed page 1285): HARRY J MEIER, WLKS BRE, M 600, county 40, 12 20 50, file 104173",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1950/D-50%20M(000)-O(662).pdf",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Death 20 Dec 1950, Wilkes-Barre"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1950 census: Henry J. Meier, 83, with Anna and Mary at 16 Barney St, Wilkes-Barre",
+      "date": "1950-04-08",
+      "pageUrl": "https://familysearch.org/ark:/61903/1:1:6XB1-LZM7",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LTHM-BQ6/images/i/0/image.jpg",
+      "repository": "U.S. National Archives (1950 census) via FamilySearch",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282608064820/census-1950-wilkes-barre-16-barney.jpg",
+      "people": [
+        "I282608064820",
+        "H0014"
+      ],
+      "suggestedFile": "media/I282608064820/census-1950-wilkes-barre-16-barney.jpg",
+      "note": "US federal census schedule, a US government record, so public domain. Lines 28–30."
+    },
+    {
+      "type": "record",
+      "title": "PA death index 1950: Harry J. Meier, Wilkes-Barre, 20 Dec 1950",
+      "date": "1950",
+      "pageUrl": "https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/vital-records/death-records",
+      "directUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1950/D-50%20M(000)-O(662).pdf",
+      "repository": "Pennsylvania State Archives",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "I282608064820"
+      ],
+      "suggestedFile": "media/I282608064820/pa-death-index-1950-p1285.jpg",
+      "note": "PDF page 167, printed page 1285."
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch: Find a Grave Henry J. Meier 1866–1940 St. Mary's Hanover Twp (no match surfaced; findagrave blocked)",
+    "FS GenealogyBank obituary image on son Harry's profile (HTTP 403)"
+  ],
+  "researchLogEntry": "Round 4: 1950 census shows Henry alive at 83 at 16 Barney St; PA death index 1950 has Harry J. Meier, Wilkes-Barre, d. 20 Dec 1950 (file 104173). The tree's Dec 1940 is a typo for Dec 1950."
+}

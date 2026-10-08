@@ -11,7 +11,7 @@
   ],
   "tags": [],
   "summary": "John's 8th-great-grandfather; Bristol-born son of Huguenot refugees, a New York cordwainer who kept his family record in French.",
-  "bio": "Daniel Lamoureux was born at Bristol on 29 Nov 1695 and baptized 1 Dec 1695 at the Bristol French Church: 'Daniel f. de André Lamoureux, maistre de nauire, cy-devant de Meche en Xaintonge, pillotte, et de Suzanne LaTour s. f.'; godparents Daniel Reynaud, serge-weaver, and Mme Liaude Badeau 'de Saint George en Xaintonge'. He became a cordwainer and freeman of New York City and married Jeanne Masse (her maiden name comes from his own family record, held privately in 1919; the 29 May 1720 baptism of son Daniel names parents 'daniel et Jeane la moureux'). He kept the family record in French, writing 'Pitter' and then 'Pierre' above it for his son Peter (1726). He left the New York French Church after its quarrel of 1723-25 and moved to New Rochelle, then Bedford, then Philipse Precinct near Davenport's Corners; his sons were born at New York, New Rochelle, Bedford and Philipstown between 1720 and 1739. His sons Daniel and Joshua were Loyalists who went to New Brunswick. The family tradition of 'three brothers who came direct from France in 1770-72' is false (disproved in 1919).",
+  "bio": "Daniel Lamoureux was born at Bristol on 29 Nov 1695 and baptized 1 Dec 1695 at the Bristol French Church: 'Daniel f. de André Lamoureux, maistre de nauire, cy-devant de Meche en Xaintonge, pillotte, et de Suzanne LaTour s. f.'; godparents Daniel Reynaud, serge-weaver, and Mme Liaude Badeau 'de Saint George en Xaintonge'. He became a cordwainer and freeman of New York City and married Jeanne Masse (her maiden name comes from his own family record, held privately in 1919; the 29 May 1720 baptism of son Daniel names parents 'daniel et Jeane la moureux'). He kept the family record in French, writing 'Pitter' and then 'Pierre' above it for his son Peter (1726). He left the New York French Church after its quarrel of 1723-25 and moved to New Rochelle, then Bedford, then Philipse Precinct near Davenport's Corners; his sons were born at New York, New Rochelle, Bedford and Philipstown between 1720 and 1739. His sons Daniel and Joshua were Loyalists who went to New Brunswick. The family tradition of 'three brothers who came direct from France in 1770-72' is false (disproved in 1919).\n\nThe printed registers of the French Church of New York contain two baptisms of Daniel's children, and he signed both entries himself ([R4-S1]). Andre was born 10 Jan and baptized 17 Jan 1722, and his godmother was Ester Masse. A Masse godparent supports the family record's statement that Daniel's wife Jeanne was a Masse; Pierre Masse's daughter Jeanne was baptized at the same church in 1696. Daniel, born 18 May, was baptized on 29 May 1720, with godparents Daniel la Moureux and Susanne la Moureux. The register has no marriage for Daniel and Jeanne, and no baptism for their son Jean (b. 31 Dec 1723) or for the later children, who the Davenport genealogy says were born at New Rochelle and Philipstown. The 28 Jun 1719 marriage date in that genealogy (and on FamilySearch) is therefore not from this register ([R4-S1], [R4-S2]).",
   "residences": [
     {
       "date": "1695",
@@ -29,10 +29,13 @@
   "sources": [
     "Lart, Registers of the French Churches of Bristol, Stonehouse and Plymouth (Huguenot Soc. London vol. 20) p.9: https://archive.org/details/registersoffrenc20hugu/page/n40/mode/1up",
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu",
-    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "[R4-S1] Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), pp.155-156, 164 and index (derivative) https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+    "[R4-S2] Giles, Thomas Davenport, Pioneer, and His Descendants, Section X p.355 (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt"
   ],
   "openQuestions": [
-    "Marriage record Daniel Lamoureux x Jeanne Masse (c.1719)."
+    "Marriage record Daniel Lamoureux x Jeanne Masse (c.1719).",
+    "The marriage of 28 Jun 1719 is not in the French Church register. Try the NYC Dutch Church marriages, the NY marriage licences (Names of Persons for whom Marriage Licenses were Issued, 1860) and the New Rochelle French Church records."
   ],
   "occupation": "Cordwainer; freeman of New York City",
   "handoff": {
@@ -44,6 +47,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: French Church register transcripts give the baptisms of sons Daniel (1720) and Andre (1722, godmother Ester Masse); no marriage there."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0086.json."
+    }
+  ],
+  "events": [
+    {
+      "title": "Baptism of son Andre",
+      "date": "1722-01-17",
+      "place": "French Church, New York",
+      "description": "'andre la Moureux ... fils de Daniel la Moureux et de Jeane son Epouze'; godparents Isaac Quantin and Ester Masse; the father signs 'Daniel Lamoureux' [R4-S1]"
+    },
+    {
+      "title": "Baptism of son Daniel",
+      "date": "1720-05-29",
+      "place": "French Church, New York",
+      "description": "Baptized by Moulinars; parents 'daniel et Jeane la moureux'; godparents Daniel la Moureux and Susanne la Moureux; father signs [R4-S1]"
     }
   ]
 }

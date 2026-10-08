@@ -9,6 +9,32 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives d. 1 Dec 1707 Jettenbach; she descends to John through daughter Maria Sara Jung (Lampert)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0413.json."
     }
+  ],
+  "birth": {
+    "date": "ABT 1637"
+  },
+  "death": {
+    "date": "1707-12-01",
+    "place": "Jettenbach"
+  },
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GZW7-6HN"
+    }
+  ],
+  "bio": "FamilySearch gives Paul Jung's wife Maria Barbara a death date of 1 Dec 1707 at Jettenbach and a birth of about 1637, probably worked back from an age at burial, and cites a Lutheran burial entry ('Maria Junge') and baptism entries ([R4-S1]). FamilySearch's list of the couple's children includes Maria Sara Jung (c.1678-before 1721), the mother of Elisabetha Margaretha Lampert. So even if Gretha Catharina is not a Jung (see H0078), Maria Barbara is still John's ancestor through the Lampert line ([R4-S1], [R4-S2]).",
+  "sources": [
+    "[R4-S1] FamilySearch published tree, Maria Barbara (GZW7-6HN) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GZW7-6HN",
+    "[R4-S2] FamilySearch published tree, Paul Jung (G9S1-G4X), children list (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G9S1-G4X"
   ]
 }

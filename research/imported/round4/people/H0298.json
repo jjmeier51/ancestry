@@ -1,0 +1,35 @@
+{
+  "id": "H0298",
+  "name": "Harrison Ruffin Tyler",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "9 Nov 1928",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "25 May 2025",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Last living grandchild of President John Tyler; the span from the president's birth to his death was 235 years (S1). 7th cousin 4 times removed. No public-domain or freely licensed photograph was found on Commons (his Wikipedia article has no lead image).",
+  "funFacts": [
+    "A grandson of a president born in 1790 lived until 2025: 235 years across three generations."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Harrison Ruffin Tyler' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Harrison_Ruffin_Tyler",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; last living grandchild; 235-year span"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates from Wikipedia; no free image found. Deceased (2025), not living.",
+  "researchedAt": "2026-10-08"
+}

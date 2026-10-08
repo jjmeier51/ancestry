@@ -1,0 +1,51 @@
+{
+  "id": "H0175",
+  "name": "Temperance Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "25 Mar 1778",
+      "place": "Monroe, Orange Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "29 Jul 1855",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1797",
+        "place": "Pennsylvania",
+        "description": "To Matthias Clausen Van Loon II (1778-1860); FS cites HSP marriage record",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "K2XZ-HJD"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Temperance's dates as 25 Mar 1778 to 29 Jul 1855 and her marriage to Matthias C. Van Loon in 1797, citing Historical Society of Pennsylvania baptism and marriage cards. She is in his household in 1850 (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Temperance Lamoreaux (K2XZ-HJD), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K2XZ-HJD",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 25 Mar 1778-29 Jul 1855, m. 1797."
+}

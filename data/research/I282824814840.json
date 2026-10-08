@@ -20,7 +20,7 @@
   ],
   "tags": [],
   "summary": "John's maternal 3rd great-grandfather; contadino of Guardia Lombardi, father of John Petriello.",
-  "bio": "Tree: Pietro Petrillo/Petriello + Grazia Di Marino (b. 1837). Son's 1869 birth act: Pietro Petriello fu Angelo, 33, contadino (so born c.1836). Death act: died 29 Mar 1901, Guardia (Via Piazza), aged 64 (so born c.1837), contadino, born in Guardia; son of the late Angelo and the late Lucia Marra; 'marito di Di Marino Grazia'; Morti 1901 act 28; the declarant was Francesco De Biasi, 72 (showing the families were close). Round 2 had this as probable from the FS tree (sourced to Avellino civil registers, FS records 6PG6-674L and 6PG6-674V). The FS tree also gives him an impossible wife 'Grazia Sasso, 1796-1848' - ignore. His sister Gaetana Petriello married Giuseppantonio Lucadamo in 1855. The marriage of Pietro and Grazia was not found: Guardia marriage indexes for 1855-61, 1863, 1865 (part) and 1866-68 were checked; 1862 and 1864 registers are not on Antenati. Grazia was born c.1845, so the marriage was probably c.1863-68 (1862, 1864 or a missed page of 1865).",
+  "bio": "Tree: Pietro Petrillo/Petriello + Grazia Di Marino (b. 1837). Son's 1869 birth act: Pietro Petriello fu Angelo, 33, contadino (so born c.1836). Death act: died 29 Mar 1901, Guardia (Via Piazza), aged 64 (so born c.1837), contadino, born in Guardia; son of the late Angelo and the late Lucia Marra; 'marito di Di Marino Grazia'; Morti 1901 act 28; the declarant was Francesco De Biasi, 72 (showing the families were close). Round 2 had this as probable from the FS tree (sourced to Avellino civil registers, FS records 6PG6-674L and 6PG6-674V). The FS tree also gives him an impossible wife 'Grazia Sasso, 1796-1848' - ignore. His sister Gaetana Petriello married Giuseppantonio Lucadamo in 1855. The marriage of Pietro and Grazia was not found: Guardia marriage indexes for 1855-61, 1863, 1865 (part) and 1866-68 were checked; 1862 and 1864 registers are not on Antenati. Grazia was born c.1845, so the marriage was probably c.1863-68 (1862, 1864 or a missed page of 1865).\n\nThree FamilySearch-indexed Avellino civil records are attached to Pietro's tree profile ([R4-S1]). The first (ark 1:1:6PG6-674L) indexes Pietro together with Grazia di Marino (6PG6-674V) and her parents Gaetano di Marino (6PG6-674K) and Caterina di Leo (6PG6-6742), all under one record. That pattern is typical of a marriage act, so it is very likely the Petriello–Di Marino marriage that Round 3 could not find in the Antenati indexes. The second (6PJX-KPGJ, with Angelo Petriello, Lucia Marra and Grazia) is his 1901 death act, already read. The third is the 16 Dec 1885 birth of daughter Filomena at Carife (QPR6-CHPY), which places Pietro and Grazia in neighbouring Carife in 1885. The images are blocked from here, so the record date of 6PG6-674L is unknown.",
   "residences": [
     {
       "date": "1901",
@@ -38,14 +38,18 @@
     "Antenati, Guardia Lombardi, Nati 1869, act 110: https://antenati.cultura.gov.it/ark:/12657/an_ua524165/5vaJMry",
     "FamilySearch tree GQWR-RPT https://ancestors.familysearch.org/en/GQWR-RPT and G44P-XYT https://ancestors.familysearch.org/en/G44P-XYT",
     "Avellino civil records index 6PG6-674L https://familysearch.org/ark:/61903/1:1:6PG6-674L and 6PG6-674V https://familysearch.org/ark:/61903/1:1:6PG6-674V",
-    "notes/round2/italian_gaps.md 4; notes/round3/italian_origins.md 1"
+    "notes/round2/italian_gaps.md 4; notes/round3/italian_origins.md 1",
+    "[R4-S1] FamilySearch Family Tree published profile GQWR-RPT (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQWR-RPT",
+    "[R4-S2] FamilySearch Family Tree published profile G44P-XYT (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G44P-XYT"
   ],
   "mediaKnown": [
     "1901 death act image (Antenati)"
   ],
   "openQuestions": [
     "Marriage to Grazia Di Marino (Guardia 1862/1864 registers on FS microfilm; rest of 1865)",
-    "Birth act c.1836-37 (Guardia Nati)"
+    "Birth act c.1836-37 (Guardia Nati)",
+    "Open FamilySearch record 1:1:6PG6-674L (Avellino Stato Civile) while logged in: it is probably Pietro and Grazia's marriage act (c.1862-68) and will give its date, comune and act number.",
+    "Why was daughter Filomena born at Carife in 1885? Temporary residence, or Grazia's home parish?"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -60,6 +64,18 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Pietro Petrillo\"; research uses \"Pietro Petriello\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch Italian civil-record images (ancestors.familysearch.org published-source image URLs) return 403; Antenati returns 403; WebSearch 'Pietro Petriello' 'Grazia di Marino' Guardia Lombardi: no hits"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS indexes a record (6PG6-674L) naming Pietro, Grazia and both of her parents, very likely their marriage; images blocked."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824814840.json."
     }
   ]
 }

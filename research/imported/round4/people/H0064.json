@@ -1,0 +1,70 @@
+{
+ "id": "H0064",
+ "name": "Agnes M. McAvoy",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1884-02-04",
+   "place": "Plymouth, Pa.",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "1958-11-23",
+   "place": "Wilkes-Barre, Pa.",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "burial": {
+   "place": "Larksville, Pa.",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1914-12-29",
+    "place": "Plymouth, Pa.",
+    "description": "Married Joseph S. Jones by Rev. P. J. Colligan; Luzerne docket no. 71238 (licence 26 Dec 1914). Agnes, 30, at home, b./res. Plymouth.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "L85M-PH3"
+   }
+  ]
+ },
+ "bioAdditions": "Her 1914 marriage docket names her parents William (deceased, born New York) and Catharine Murphy (living in Plymouth, born Schuylkill Co.) (S1). Children (FS): Edward (1916-1995), Joseph (b. 1918) and Kathryn Ann (1919-1995, m. Henry P. Derwin) (S2).",
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "confirmed",
+  "justification": "Marriage docket names parents William McAvoy and Catharine Murphy."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q)",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Joseph S. Jones, 33, headman, b./res. Plymouth; father Edward (dec'd, b. Wales), mother Margaret, maiden name written \"Kiver\" (dec'd, birthplace \"Don't know\"). Agnes M. McAvoy, 30, b./res. Plymouth; father William (dec'd, b. New York), mother Catharine Murphy, living Plymouth, b. Schuylkill Co., Pa.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), Agnes McAvoy (1884-1958), PID L85M-PH3; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Dates, children, Find a Grave index",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L85M-PH3"
+  }
+ ],
+ "researchLogEntry": "Round 4: read 1914 marriage docket 71238; FS dates 1884-1958."
+}

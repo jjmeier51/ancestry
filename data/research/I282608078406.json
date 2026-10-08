@@ -1,19 +1,21 @@
 {
   "id": "I282608078406",
   "link": {
-    "confidence": "unverified",
-    "note": "Census 'Leva Ann' is real; her identity as Lina Ann Harrison (1839-1910) is tree-only."
+    "confidence": "probable",
+    "note": "Census 'Leva Ann' is real; her identity as Lina Ann Harrison (1839-1910) is tree-only. Round 4 (unverified → probable): 1910 index entry matches the tree's death date, county and the 1850 given name; the certificate would confirm her parents."
   },
   "aka": [
     "Leva Ann Pringle",
-    "Lina Ann Harrison"
+    "Lina Ann Harrison",
+    "Liva A. Harrison"
   ],
   "tags": [],
   "summary": "Probably John's 3rd-great-grand-aunt; shown in the tree as 'Lina Ann Harrison 1839-1910'.",
-  "bio": "The 1850 census lists 'Leva Ann', 11, in James Pringle's household. The tree shows Andrew's sibling card 'Lina Ann Harrison 1839-1910'. No online source names a Pringle-Harrison marriage in Luzerne (Bradsby, Harvey, Luzerne wills index and web search all negative). The Harrison married name and 1910 death are tree-only (unverified).",
+  "bio": "The 1850 census lists 'Leva Ann', 11, in James Pringle's household. The tree shows Andrew's sibling card 'Lina Ann Harrison 1839-1910'. No online source names a Pringle-Harrison marriage in Luzerne (Bradsby, Harvey, Luzerne wills index and web search all negative). The Harrison married name and 1910 death are tree-only (unverified).\n\nThe Pennsylvania death index for 1910 has 'Harrison, Liva A.; 58862; Luzerne Co.; June 8' ([R4-S1]). The date matches the 8 Jun 1910 death on the tree card. The given name 'Liva' matches the 'Leva Ann', aged 11, in James Pringle's household in 1850, better than the tree's 'Lina'. This is the first independent record of her married name and death. The index gives only 'Luzerne Co.', meaning outside the cities, which fits the tree's Huntington Twp. Certificate 58862 should name her parents and so confirm that she was James and Elizabeth's daughter.",
   "sources": [
     "1850 US census, Plymouth Twp, Luzerne Co., PA, enumerated 14 Sep 1850 by A. Atherton, Ass't Marshal, page 140/141 (stamp 71), NARA M432; dwelling 944 / family 964 (James Pringle household); FamilySearch record attached to tree person Andrew Pringle 1836-1900, FamilySearch ID KG4S-XMF (screenshot IMG_7813)",
-    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "[R4-S1] Pennsylvania Death Indices, 1910, H-I-J, PDF p.49: 'Harrison, Liva A.; 58862; Luzerne Co.; June 8' (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1910/D-10%20H-I-J.pdf"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -24,6 +26,33 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: 1910 index entry matches the tree's death date, county and the 1850 given name; the certificate would confirm her parents."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found 'Harrison, Liva A.', d. 8 Jun 1910, Luzerne Co., certificate 58862, in the PA death index; it matches the tree date and the 1850 'Leva Ann'."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608078406.json."
     }
+  ],
+  "death": {
+    "date": "1910-06-08",
+    "place": "Luzerne Co., Pennsylvania (state death certificate no. 58862)"
+  },
+  "conflicts": [
+    {
+      "field": "name",
+      "site": "Lina Ann",
+      "found": "Liva A. (1910 index); Leva Ann (1850 census)",
+      "assessment": "Probably Livia/Lavina Ann; 'Lina' may be a misreading."
+    }
+  ],
+  "openQuestions": [
+    "Her husband: a Harrison of Huntington or Plymouth Twp (Harrisons were in Plymouth Twp in 1840); look for her in the 1860-1900 censuses as Livia/Lavina Harrison."
   ]
 }

@@ -1,0 +1,107 @@
+{
+  "id": "H0150",
+  "name": "Samuel Pringle Jr.",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1840",
+        "place": "Plymouth Twp, Luzerne Co.",
+        "note": "'Saml Pringle': man and woman each 30-40, 2 boys 10-15, a boy under 5, 3 girls 5-10, one girl 15-20 and one under 5; next door to James Pringle, two doors from Joseph Ives",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1830",
+        "place": "Plymouth (FamilySearch-attached census)",
+        "note": "",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "death": {
+      "date": "25 Mar 1847 (FamilySearch, disputed)",
+      "place": "Plymouth Twp",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KL4L-R8P"
+      }
+    ]
+  },
+  "bioAdditions": "Round 4 found him on a record. The 1840 census of Plymouth Twp has a 'Saml Pringle' household headed by a man aged 30-40 with a wife aged 30-40 and nine children (S1). It sits next door to James Pringle and two doors from Joseph Ives. The elder Samuel would have been in his seventies, so this is the younger man, and the Ives neighbour fits his wife Hulda Ives. FamilySearch has him as 'Samuel David Pringle', born 1794, married to Hulda Ives (1804-1886) in 1824 at Plymouth, and attaches the 1830 and 1840 censuses (S2). The 1840 age bracket points to a birth in 1800-1810, not 1794. FamilySearch gives him the same death date, 25 Mar 1847, as his father Samuel Sr., which suggests one profile has copied the other. He is buried at Shawnee Cemetery according to FamilySearch.",
+  "conflicts": [
+    {
+      "field": "death.date",
+      "siteValue": "(none)",
+      "foundValue": "25 Mar 1847 on both his and his father's FamilySearch profiles",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Only one of them can be right, or neither; needs a burial or probate record."
+    },
+    {
+      "field": "birth.date",
+      "siteValue": "(none)",
+      "foundValue": "1794 (FS) vs. 1800-1810 (1840 census age bracket)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "The census bracket is the primary evidence."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "A Samuel Pringle of the right generation heads an 1840 Plymouth household beside James Pringle and Joseph Ives; FamilySearch links him to Hulda Ives."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1840 US census, Plymouth Twp, Luzerne Co., PA (enumerator Chester Tuttle), 'Saml Pringle' (FS index 'Saml Pringle', US Census 1840)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KL4L-R8P/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "1840 household"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Samuel David Pringle (KL4L-R8P)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KL4L-R8P",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "marriage to Hulda Ives 1824; death claim"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1840 census, Plymouth Twp: Benjn, Saml and James Pringle, Joseph Ives",
+      "date": "1840",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/KL4L-R8P",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KL4L-R8P/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA M704)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/H0150/1840-census-plymouth-twp-saml-pringle.jpg",
+      "people": [
+        "H0150",
+        "H0146",
+        "I282608053719",
+        "I282608053741"
+      ],
+      "suggestedFile": "media/H0150/1840-census-plymouth-twp-saml-pringle.jpg",
+      "note": "US federal census, public domain"
+    }
+  ],
+  "researchLogEntry": "Round 4: the 1840 Plymouth census shows a Saml Pringle aged 30-40 beside James Pringle and Joseph Ives; FamilySearch has him m. 1824 Hulda Ives and gives a death date (25 Mar 1847) identical to his father's."
+}

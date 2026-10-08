@@ -1,0 +1,36 @@
+{
+  "id": "H0219",
+  "name": "Elizabeth Scott",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "31 Mar 1917",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Elizabeth Millheim"
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L1KQ-SRM"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Elizabeth's married name as Millheim (Milheine, Millhime), wife of Jacob Millheim (1830-1908). It shows her in the 1870 and 1880 censuses with children born from 1859 and gives her death as 31 Mar 1917; her Find a Grave entry is indexed as 'Elizabeth Scott Millheim' (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Elizabeth Scott (L1KQ-SRM), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L1KQ-SRM",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. Jacob Millheim and d. 31 Mar 1917."
+}

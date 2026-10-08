@@ -5,22 +5,26 @@
     "note": "In 1870 and 1880 census images (Frederick 8, Baden; Fred 18, coal-mine laborer); further details FS tree."
   },
   "birth": {
-    "date": "1862-11-11",
-    "place": "Baden, Germany"
+    "date": "1862-01-11",
+    "place": "Munzingen, Amt Freiburg, Baden"
   },
   "death": {
-    "date": "1915",
-    "place": "Hazleton, Luzerne County, Pennsylvania, USA"
+    "date": "1915-03-15",
+    "place": "Hazleton, Luzerne County, Pennsylvania"
   },
   "occupation": "Coal-mine laborer (1880)",
   "tags": [],
   "summary": "John's 3rd great-uncle; eldest brother of Henry J. Meier.",
-  "bio": "Born 11 Nov 1862 in Germany (three weeks after his parents' wedding); coal-mine laborer at 18; married Anna Wenner 1886; died 1915 Hazleton. Could be the 'Fred. Meier' Democratic conferee of 1893.",
+  "bio": "Born 11 Nov 1862 in Germany (three weeks after his parents' wedding); coal-mine laborer at 18; married Anna Wenner 1886; died 1915 Hazleton. Could be the 'Fred. Meier' Democratic conferee of 1893.\n\nFrederick was born at Munzingen on 11 Jan 1862, nine months before his parents married. The baptism entry records his father's formal acknowledgement ([R4-S1]). He himself gave the same date, '11 January 1862', on his 1886 marriage docket ([R4-S2]). The tree's 11 Nov 1862 is a misreading and cannot be right, since his parents married in October 1862 and his sister Frances was born in March 1863.\n\nThe tree has only '1915' for his death. The 1915 state death index has no Frederick Meier, but it does list 'Meires, Fred; file 23949; Hazleton; died Mar. 15' ([R4-S3]). The 1910 census had indexed his wife as 'Annie E Mesirs', a similar garble, so this is very probably him: a man named Fred, in the right town and the right year. It is still an index entry and needs the certificate to confirm. Independent support comes from the Feb 1918 marriage docket of his daughter Agnes, a 27-year-old clerk, to Patrick Sweeney. It gives her father as 'Fred, dec'd, born Germany' and her mother as Anna Wenner of Hazleton ([R4-S4]), so he was dead before 1918.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
     "1870 census Hazleton East Ward p.42 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/0/image.jpg",
     "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432); index 'Register zu 1862' (image 439) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+    "[R4-S2] Luzerne County Orphans' Court Marriage License Docket No. 714: Fred Meir × Annie Wenner, sworn 28 Apr 1886, married 12 May 1886 Hazleton by E. W. Fitzmaurice (FamilySearch index 1:1:Q281-QXBL) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/1/image.jpg",
+    "[R4-S3] Pennsylvania Death Index 1915, M–N–O, PDF p.157: 'Meires, Fred; 23949; Hazleton; Mar. 15' (secondary) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1915/D-15%20M-N-O.pdf",
+    "[R4-S4] Luzerne County Marriage License Docket No. 81595: Patrick Sweeney × Agnes Meier, licence Jan 1918, married 4 Feb 1918 Hazleton by Rev. John E. Walsh (FamilySearch index 1:1:KHFL-5LL) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/2/image.jpg"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -31,6 +35,91 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: birth 11 Jan 1862 (register and 1886 docket); probable death 15 Mar 1915 Hazleton ('Meires, Fred', PA index file 23949); dead before 1918 per daughter Agnes's docket."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085066.json."
+    }
+  ],
+  "aka": [
+    "Friedrich Mayer (birth)",
+    "Friedrich Birkenmaier (born illegitimate)",
+    "Fred Meir (1886)",
+    "Fred Meires (1915 death index, probable)",
+    "Frederick Meyer (1870 census)"
+  ],
+  "events": [
+    {
+      "title": "Birth and acknowledgement",
+      "date": "1862-01-11",
+      "place": "Munzingen",
+      "description": "Born 9:30 a.m. and baptized 13 Jan 1862 as the illegitimate son of Maria Anna Birkenmaier. The single mason Friedrich Mayer declared himself the father and asked that the child bear his name. Godparents were Joseph Wenz, shoemaker, and Sophie Mayer, single, in service at Freiburg. His parents married on 20 Oct 1862. [R4-S1]"
+    },
+    {
+      "title": "Marriage",
+      "date": "1886-05-12",
+      "place": "Hazleton",
+      "description": "Married Annie Wenner. Licence No. 714 was sworn 28 Apr 1886, and they were married by E. W. Fitzmaurice. He gave his birth as 11 January 1862. [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G7GQ-XGX"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth",
+      "site": "",
+      "found": "",
+      "assessment": ""
+    }
+  ],
+  "openQuestions": [
+    "Order PA death certificate 1915 file 23949 (indexed 'Meires, Fred', Hazleton, 15 Mar 1915) to confirm it is him and to get his burial place."
+  ],
+  "media": [
+    {
+      "file": "media/I282608085066/birth-1862-munzingen-l10-1591-img431.jpg",
+      "type": "record",
+      "title": "Munzingen birth register 1862 No. 2 (left half): Friedrich, son of Maria Anna Birkenmaier",
+      "date": "1862-01-13",
+      "source": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591, public_domain",
+      "note": "",
+      "people": [
+        "I282608064885",
+        "I282608064896"
+      ],
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431"
+    },
+    {
+      "file": "media/I282608085066/birth-1862-munzingen-l10-1591-img432.jpg",
+      "type": "record",
+      "title": "Munzingen birth register 1862 No. 2 (continuation): acknowledgement by Friedrich Mayer",
+      "date": "1862-01-13",
+      "source": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591, public_domain",
+      "note": "",
+      "people": [
+        "I282608064885"
+      ],
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-432"
+    },
+    {
+      "file": "media/I282608085066/marriage-docket-1886-meir-wenner.jpg",
+      "type": "record",
+      "title": "Luzerne County marriage docket No. 714: Fred Meir and Annie Wenner, 1886",
+      "date": "1886-05-12",
+      "source": "Luzerne County Orphans' Court (via FamilySearch), public_domain",
+      "note": "",
+      "people": [
+        "H0385"
+      ],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XGX/images/i/1/image.jpg"
     }
   ]
 }

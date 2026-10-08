@@ -1,0 +1,68 @@
+{
+  "id": "H0073",
+  "name": "Charity Davenport",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Named in father's will",
+        "date": "1746",
+        "place": "Philipstown, Dutchess (now Putnam) Co., NY",
+        "description": "Thomas Davenport's will (dated 10 Oct 1746, 20 Geo. II; proved 1760) leaves the residue to 'my Children, Oliver, Charity, Phebe, Robert, Hannah, Stephen, and Abigail Davenport', to be paid 'as they come to age' (boys at 21, girls at 18), with his wife Elizabeth keeping goods 'for bringing up my Children'.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Deed of gift from her father",
+        "date": "29 Jul 1752 (book also says 26 Jul)",
+        "place": "Goshen precinct, Orange Co., NY",
+        "description": "Land deeded to 'Charity Lamoree, wife of John Lamoree', adjoining her brother Oliver Davenport",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The text of her father's will, printed in the Davenport genealogy, settles her mother. The will names the first family (Thomas, William, and the children of his daughters Sarah Mandeville, Mary Henion and Elizabeth Nelson) separately from 'my Children, Oliver, Charity, Phebe, Robert, Hannah, Stephen, and Abigail Davenport'. Those seven were still to be brought up by his wife Elizabeth and paid their shares as they came of age (S1). Charity was therefore a daughter of the second wife, Elizabeth. The will also shows she was an unmarried minor (under 18) when it was made in 1746. She was 'Charity Lamoree, wife of John Lamoree' by the July 1752 deed, so she married between 1746 and 1752. That conflicts with the book's own statement that she married in 1745 and that her son Thomas was born in 1745 (S1). The second wife's maiden name Leggett is only 'believed' in the book: she is supposed to be a sister of Sarah, Martha and Alice Leggett of Fordham, and the first wife is also only 'believed' to be Sarah Leggett (S1).",
+  "conflicts": [
+    {
+      "field": "marriage.date",
+      "siteValue": "(site/Davenport genealogy: married 1745)",
+      "foundValue": "Between 1746 and July 1752",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "The 1746 will treats Charity as an unmarried minor named Davenport, so a 1745 marriage, and a 1745 birth for son Thomas, look too early. Unless the will was older than its stated date, Thomas was probably born c.1747-1752."
+    }
+  ],
+  "openQuestionsResolved": [
+    {
+      "question": "Her mother: first wife or Elizabeth (Leggett?).",
+      "answer": "The second wife, Elizabeth. The 1746 will lists Charity among the seven younger children being brought up by his wife Elizabeth, apart from the first family. Elizabeth's maiden name Leggett is still only believed.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Her father's will and the 1752 deed fix her parentage and marriage; her link to Thomas Lamoreaux rests on family histories and lineage-society files."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles, Thomas Davenport, Pioneer, and His Descendants: will of Thomas Davenport (1746, proved 1760), transcribed pp. xxxiv-xxxv; list of children by both wives; Section X pp.354-357",
+      "url": "https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "parentage (second wife), minority in 1746, 1752 deed"
+    }
+  ],
+  "openQuestionsNew": [
+    "Find the original 1746 will (NY probate abstracts, Fernow/NYHS Abstracts of Wills) to confirm its date, since it determines whether Thomas Lamoreaux could have been born in 1745."
+  ],
+  "researchLogEntry": "Round 4: father's 1746 will (transcribed) shows Charity was a minor daughter of the second wife Elizabeth, unmarried in 1746; this puts her marriage at 1746-52 and questions Thomas's 1745 birth."
+}

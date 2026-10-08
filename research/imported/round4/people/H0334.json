@@ -1,0 +1,141 @@
+{
+ "id": "H0334",
+ "name": "Angelica Ferrantino",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Angelica Genett",
+   "Angelina Genet",
+   "Angelica Ferandina (1933 license)"
+  ],
+  "residences": [
+   {
+    "date": "1910-04-21",
+    "place": "134 Sand Street, Dunmore, Pennsylvania, USA",
+    "note": "Wife, mother of 4 children, all living; immigration 190- (digit unclear).",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1920-01-10",
+    "place": "133 Sand Street, Dunmore Ward 5, Pennsylvania, USA",
+    "note": "Wife, 46, immigrated 1909, alien.",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1940-04-05",
+    "place": "133 Sand Street, Dunmore Ward 5, Pennsylvania, USA",
+    "note": "Head, 64, widowed, owned house valued $1,000; sons Anthony and Charles J. at home.",
+    "sourceRefs": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1950-04-22",
+    "place": "133 Sand Street, Dunmore, Pennsylvania, USA",
+    "note": "Mother, 75, widowed, born Italy, naturalized; living with son Anthony Genett and his wife Pearl.",
+    "sourceRefs": [
+     "S4"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Naturalized",
+    "date": "by 1950",
+    "description": "1950 census marks her as a naturalized citizen; she was still an alien in 1920. Her naturalization record has not been found.",
+    "sourceRefs": [
+     "S4",
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Angelica arrived in 1909, according to the 1920 census, with the children born in Italy; son Anthony's arrival is also recorded as 1909 (S2). She had four children, all living, by April 1910, and three more were born in Dunmore (S1, S2). After Frank's death in April 1934 she headed the household at 133 Sand Street, which she owned. In 1940 her sons Anthony and Charles J. lived with her, along with Charles's wife Jeanette and baby granddaughter Angela (S3). Her daughter Mollie's family moved to 128 Sand Street nearby by 1950. The 1950 census, taken on 22 April 1950, shows her aged 75, widowed and naturalized, living with son Anthony and his wife Pearl at no. 133 (S4). This gives a lower bound for her death, which FamilySearch places in 1950. Her ages run from 23 at her 1896 marriage and 46 in 1920 to 64 in 1940 and 75 in 1950, consistent with birth c.1873–1875.",
+ "openQuestionsNew": [
+  "Death date in 1950 (after 22 April): find in the PA death index for 1950 (the 1950 G volume file name could not be located) or the Scranton Times obituary.",
+  "Naturalization (between 1920 and 1950): US District Court, Scranton, or as a derivative of Frank's 1923 citizenship."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1910 US census, Dunmore borough, Lackawanna Co., PA, ED 29 (reading uncertain), sheet 9B (21 Apr 1910), Sand Street no. 134: Francesco 'Janet' (41, married 14 years, alien, laborer for contractor), Angelico (30?, 4 children born, 4 living), Sam (12?), Marianna (son, 11), Marie (8), Tony (3), all born Italy. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:MGZ8-YF8).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Married c.1896 (14 years in 1910); four children born Italy, all living; Carmela not yet born"
+  },
+  {
+   "ref": "S2",
+   "citation": "1920 US census, Dunmore borough Ward 5, ED 48, sheet 8B (10 Jan 1920), 133 Sand Street: Frank 'Genet' (51, head, owned with mortgage, immigrated 190-, alien, laborer R.R. shops), Angelina (46, imm. 1909, alien), Sam (21), Marion (20), Anthony (12, imm. 1909), Molly (9, b. PA), Joseph (8), and a son aged 4. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:MFTM-GCK).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1920 Giannetta household; Frank worked in railroad shops; Rosa (b. 1914) not in household"
+  },
+  {
+   "ref": "S3",
+   "citation": "1940 US census, Dunmore borough Ward 5, ED 35-66, sheet 4A (5 Apr 1940), 133 Sand Street: Angelica Genett (head, 64, widowed, b. Italy, owned house worth $1,000), sons Anthony (31) and Charles J. (24, trackman, steam railroad), daughter-in-law Jeanette (21), granddaughter Angela (1). Image attached to FamilySearch tree GQPJ-C82 (index ark 1:1:KQDW-7K6).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-C82/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Angelica widowed by 1940; household at 133 Sand St"
+  },
+  {
+   "ref": "S4",
+   "citation": "1950 US census, Dunmore borough, ED 35-115, sheet 16 (22 Apr 1950), 133 Sand Street: Anthony Genett (42, b. Italy, railroad car repairman), wife Pearl, mother Angelica Genett (75, widowed, b. Italy, naturalized). Image attached to FamilySearch tree LCPG-FC6 (index ark 1:1:6X13-H245).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-FC6/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Angelica alive Apr 1950, widowed, living with son Anthony at 133 Sand St"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1940 census, 133 Sand St, Dunmore (Angelica Genett household)",
+   "date": "1940-04-05",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-C82/images/i/0/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-C82/images/i/0/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0334/1940-census-133-sand-st.jpg",
+   "people": [
+    "H0334",
+    "H0370",
+    "H0373"
+   ],
+   "suggestedFile": "media/H0334/1940-census-133-sand-st.jpg",
+   "note": "US federal census record: a US government work, so public domain."
+  },
+  {
+   "type": "record",
+   "title": "1950 census, 133 Sand St, Dunmore (Anthony Genett household with mother Angelica)",
+   "date": "1950-04-22",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-FC6/images/i/0/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-FC6/images/i/0/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0334/1950-census-133-sand-st.jpg",
+   "people": [
+    "H0334",
+    "H0370"
+   ],
+   "suggestedFile": "media/H0334/1950-census-133-sand-st.jpg",
+   "note": "US federal census record: a US government work, so public domain."
+  }
+ ],
+ "searchedNoResult": [
+  "PA death index 1950: no PDF located for the G surname split (tried G, F-G, E-G, P-R etc.)",
+  "Immigration manifest 1909: Ellis Island database login required"
+ ],
+ "researchLogEntry": "Round 4: read the 1910, 1920, 1940 and 1950 censuses (arrived 1909; widowed head at 133 Sand St 1940; alive 22 Apr 1950, naturalized).",
+ "researchedAt": "2026-10-08"
+}

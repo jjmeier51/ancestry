@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 2nd-great-grand-uncle; associate editor of the Sunday Independent.",
-  "bio": "John Vincent Heffernan (9 Jul 1886 - 1 Mar 1958), associate editor of the Sunday Independent; married Edith Corrine Graham in New York City in 1914; died at Alexandria, Virginia.",
+  "bio": "John Vincent Heffernan (9 Jul 1886 - 1 Mar 1958), associate editor of the Sunday Independent; married Edith Corrine Graham in New York City in 1914; died at Alexandria, Virginia.\n\nFamilySearch gives the marriage as 4 May 1914 in Manhattan and his wife as Edith Corrine Grammes (1896-1938), daughter of Cyrus Randolph Gramm(es) and Martha L. Robinson; she died at Wilkes-Barre on 6 Nov 1938 and is buried at Fairview Cemetery, Danville. Their daughter was Mary Louise Heffernan (1921-2011) ([R4-S1], [R4-S2]).",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
-    "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up"
+    "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
+    "[R4-S1] FamilySearch Family Tree (published), John Vincent Heffernan (1886-1958), PID LB2V-KQF; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LB2V-KQF",
+    "[R4-S2] FamilySearch Family Tree (published), Edith Corrine Grammes (1896-1938), PID GM37-PDH; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GM37-PDH"
   ],
   "occupation": "Newspaper editor",
   "handoff": {
@@ -22,6 +24,54 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: wife was Edith Corrine Grammes (not Graham), d. 1938; daughter Mary Louise."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0118.json."
+    }
+  ],
+  "residences": [
+    {
+      "date": "1930",
+      "place": "Kingston, Pa.",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1914-05-04",
+      "place": "Manhattan, New York City",
+      "description": "Married Edith Corrine Grammes (NYC marriage index as \"Edith C. Graham\") [R4-S1] [R4-S2]"
+    }
+  ],
+  "military": [
+    {
+      "note": "WWII draft registration 1942, Kingston, Pa. [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LB2V-KQF"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "spouse surname",
+      "site": "Edith Corrine Graham",
+      "found": "Grammes (Find a Grave index; parents Gramm/Grammes); \"Graham\" in the NYC marriage index",
+      "assessment": "Grammes looks correct; \"Graham\" is probably an index anglicisation."
+    },
+    {
+      "field": "death.place",
+      "site": "Alexandria, Virginia",
+      "found": "Fairfax, Virginia (FS)",
+      "assessment": "Neighbouring jurisdictions; unresolved."
     }
   ]
 }

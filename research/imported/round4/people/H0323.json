@@ -1,0 +1,59 @@
+{
+  "id": "H0323",
+  "name": "Samuel Dennis Warren",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "13 Sep 1817",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "11 May 1888",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Hammond (S1): Samuel Warren (V, b. Watertown 18 Mar 1704, m. 1728 Tabitha Stone) -> Joseph (b. Grafton 22 Apr 1745, d. 1808, m. Lois Lyons) -> John (b. Grafton 28 Nov 1767, d. 17 Jun 1828, m. 2nd 1804 Susanna Groat) -> 'Samuel Dennis Warren, the founder of the well known firm of S. D. Warren & Co., of Boston'. With Samuel Warren (V) descending from William Hammond through Lt. John Hammond and the Hastings line, S. D. Warren is a 6th cousin 6 times removed. His sister Anna Groat Warren's son George Warren Hammond helped compile the Hammond genealogy.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Frederick S. Hammond, History and Genealogies of the Hammond Families in America, vol. 1 (1902) (archive.org full text), pp. 90-91",
+      "url": "https://archive.org/details/historygenealogi0001fred",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Warren generations to S. D. Warren"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'S. D. Warren' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/S._D._Warren",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; paper mill"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Samuel Dennis Warren, by William Notman",
+      "date": "c. 1875",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Samuel_Dennis_Warren_by_William_Notman,_c1875.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Samuel_Dennis_Warren_by_William_Notman%2C_c1875.jpg",
+      "repository": "Harvard Art Museums via Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0323/sd-warren-notman-c1875.jpg",
+      "people": [
+        "H0323"
+      ],
+      "suggestedFile": "media/H0323/sd-warren-notman-c1875.jpg",
+      "note": "Public domain (c.1875 photograph)."
+    }
+  ],
+  "researchLogEntry": "Round 4: Warren generations from Hammond 1902; PD Notman photograph downloaded.",
+  "researchedAt": "2026-10-08"
+}

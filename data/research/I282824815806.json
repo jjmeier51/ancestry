@@ -1,0 +1,45 @@
+{
+  "id": "I282824815806",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815622, proven): Baptism names father Michaele Moraca"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815627, proven): Baptism names mother Anna Maria Putero"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824815812, proven): Marriage 1792"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Death 2 Sep 1805: parish burials 1768-1810 are not in the index"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 19 Sep 1772 shows he is son of Michele Moraca and Anna Maria Puteri (new link, pedigree collapse); marriage 1792."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815806.json."
+    }
+  ],
+  "bio": "Alessio was baptized on 19 September 1772, son of Michele Moraca and Anna Maria Putero ([R4-S1]). This makes him the brother of Agata Moraca, Fortunato Ferlaino's mother. The site shows no parents for him; they are already in the tree as I282824815622 and I282824815627. He married Saveria Sacco on 24 September 1792 ([R4-S2]).",
+  "funFacts": [
+    "Alessio and his sister Agata are both John's ancestors, so Michele Moraca and Anna Maria Puteri appear twice in his pedigree."
+  ],
+  "link": {
+    "confidence": "probable",
+    "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 41, p. 77, no. 25; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 66, p. 125, no. 6; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t"
+  ]
+}

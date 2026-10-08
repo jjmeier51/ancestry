@@ -1,0 +1,29 @@
+{
+  "id": "H0157",
+  "name": "Alby Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "The 1840 census of Plymouth Twp shows a boy aged 15-20 in James Pringle's household, which fits Alby, who was 27 in 1850 (born about 1823) (S2). If he was James's son, James would have been about 24 at his birth; the 1840 household (a man and a woman each 30-40) does not rule that out. FamilySearch has no profile for Alby among James's children (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, James Pringle (KP7T-1HK), children list",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "negative: no Alby"
+    },
+    {
+      "ref": "S2",
+      "citation": "1840 US census, Plymouth Twp, Luzerne Co. (enumerator Chester Tuttle), James Pringle household",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KL4L-R8P/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "1840 household"
+    }
+  ],
+  "searchedNoResult": [
+    "FamilySearch children of KP7T-1HK: no Alby"
+  ],
+  "researchLogEntry": "Round 4: a boy of 15-20 in James's 1840 household fits Alby; no FamilySearch profile."
+}

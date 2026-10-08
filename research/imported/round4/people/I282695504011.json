@@ -1,0 +1,42 @@
+{
+ "id": "I282695504011",
+ "name": "Mollie Petriello",
+ "status": "researched",
+ "conflicts": [
+  {
+   "field": "identity",
+   "siteValue": "Separate person 'Mollie Petriello', b. abt 1911",
+   "foundValue": "Same person as Carmela 'Mollie' Gianetta (H0332), b. 13 Jul 1910",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Duplicate. Merge into H0332."
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "possible",
+  "justification": "Duplicate entry; retire after merging into H0332."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  },
+  {
+   "ref": "S2",
+   "citation": "WWII draft registration card (first registration, 16 Oct 1940), James Petriello, serial 853, order 815, Local Board No. 7, Scranton; registered 16 Oct 1940. Image attached to FamilySearch tree GQWR-TY6 (FS index 'Mollie Petriello', PA WWII Draft Registration Cards, ark 1:1:Q2SV-6J3V).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-TY6/images/i/2/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "James b. 6 Dec 1910 Scranton; 1028 Bunker Hill St; wife Mrs. Mollie Petriello; employer Penn Anthracite Coal Co., Nay Aug Ave; 5 ft 3, 148 lb, brown eyes, brown hair, dark complexion"
+  }
+ ],
+ "researchLogEntry": "Round 4: duplicate of Carmela 'Mollie' Gianetta (H0332); James had one wife Mollie in 1940 and 1950.",
+ "researchedAt": "2026-10-08"
+}

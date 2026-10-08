@@ -1,0 +1,122 @@
+{
+  "id": "H0077",
+  "name": "Johann Peter Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Baptism of daughter Anna Catharina",
+        "date": "15/25 Aug 1684",
+        "place": "Jettenbach (Reichenbach Lutheran parish)",
+        "description": "'Peter Grub und seine Hausfrau Gretha Catharina'",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Baptism of daughter Margretha Catharina",
+        "date": "1687",
+        "place": "Jettenbach",
+        "description": "'Peter Grub und dessen Hausfrau Margretha Catharina'",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Second marriage",
+        "date": "19 Oct 1694",
+        "place": "Glan-Münchweiler",
+        "description": "To Elisabetha Catharina Jung (c.1674-1734), per FamilySearch",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "K6C3-ZC4"
+      }
+    ]
+  },
+  "bioAdditions": "Johann Peter Grub married twice. The Reichenbach register shows him with a wife Gretha Catharina at the baptism of his daughter Anna Catharina in Aug 1684, and with Margretha Catharina at a daughter's baptism in 1687 (S1, S2). FamilySearch gives that first wife's death as before Oct 1694 and has her children born from 1679 to 1694, ending with Johann Nickel. On 19 Oct 1694 at Glan-Münchweiler he married Elisabetha Catharina Jung (c.1674-1734), daughter of Paul Jung, and had at least eight more children (S3). The 1694 marriage is the date the site gives for him, but the site attaches it to a single wife, 'Gretha Catharina Jung', which merges the two women (see H0078).",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "one wife, Gretha Catharina Jung (m. 1694, d. 1734)",
+      "foundValue": "(1) Gretha/Margretha Catharina, in the 1684 and 1687 baptisms, d. before Oct 1694; (2) Elisabetha Catharina Jung, m. 19 Oct 1694, d. 28 Mar 1734",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "assessment": "The register proves a wife before 1694, so the site has merged two wives."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Reichenbach Lutheran register, baptisms 1684 p.7: Anna Catharina, daughter of Peter Grub and Gretha Catharina of Jettenbach (image attached to FamilySearch PSFH-GPD)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "first wife 1684"
+    },
+    {
+      "ref": "S2",
+      "citation": "Reichenbach Lutheran register, baptisms 1687 p.10: Margretha Catharina, daughter of Peter Grub and Margretha Catharina of Jettenbach",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "first wife 1687"
+    },
+    {
+      "ref": "S3",
+      "citation": "FamilySearch published tree, Johann Peter Grub (K6C3-ZC4) and Elisabetha Catharina Jung (MCWX-YDH)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/K6C3-ZC4",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "second marriage 1694; children"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Reichenbach Lutheran baptisms 1684 (Anna Catharina Grub)",
+      "date": "1684-08",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/PSFH-GPD",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/1/image.jpg",
+      "repository": "FamilySearch",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0077",
+        "H0078"
+      ],
+      "suggestedFile": "media/H0077/reichenbach-baptism-1684-grub.jpg",
+      "note": "Church-book image; viewed only"
+    },
+    {
+      "type": "record",
+      "title": "Reichenbach Lutheran baptisms 1686-87 (Margretha Catharina Grub)",
+      "date": "1687",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/PSFH-GPD",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/0/image.jpg",
+      "repository": "FamilySearch",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0077",
+        "H0078"
+      ],
+      "suggestedFile": "media/H0077/reichenbach-baptism-1687-grub.jpg",
+      "note": "Church-book image; viewed only"
+    }
+  ],
+  "researchLogEntry": "Round 4: register entries of 1684 and 1687 show a first wife Gretha/Margretha Catharina; the 1694 marriage was to Elisabetha Catharina Jung, a second wife."
+}

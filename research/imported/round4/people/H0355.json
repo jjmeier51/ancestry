@@ -1,0 +1,76 @@
+{
+ "id": "H0355",
+ "name": "Josephine Petrillo",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Josephine Castellano"
+  ],
+  "residences": [
+   {
+    "date": "1940-04-16",
+    "place": "1003 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
+    "note": "Wife (35) of Nicholas Castellano, railroad car repairer; children Vito 15, Carmella 14, Marie 11.",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1995",
+    "place": "Phoenix, Arizona, USA",
+    "note": "At death",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Josephine Castellano died in Phoenix on 28 November 1995, aged 91. Her obituary in The Arizona Republic says she was born in Scranton and was a homemaker. She was survived by daughters Carmella Valvano and Marie Liburdi, son Vito, brothers Nick, Jim and Rocco Petrillo, nine grandchildren and 15 great-grandchildren. Visitation was at Whitney and Murphy Arcadia Funeral Chapel, with Mass at St. Theresa Catholic Church, Phoenix (S1). In 1940 she and her husband Nicholas Castellano, a railroad car repairer, lived at 1003 Bunker Hill Street, a few doors from her parents' old home, with Vito, Carmella and Marie (S2). She is probably the 'Joseph, 5' of the 1910 census (see H0354) (S3).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Josephine Castellano, 91, of Phoenix, homemaker, died 28 Nov 1995, born Scranton; survivors daughters Carmella Valvano and Marie Liburdi, son Vito, brothers Nick, Jim and Rocco Petrillo"
+  },
+  {
+   "ref": "S2",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 DiBiasi and Castellano households on Bunker Hill St"
+  },
+  {
+   "ref": "S3",
+   "citation": "1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1910 Petriello household; Katie is female, 13"
+  }
+ ],
+ "media": [
+  {
+   "type": "newspaper",
+   "title": "Obituary of Josephine Castellano, The Arizona Republic, 29 Nov 1995",
+   "date": "1995-11-29",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg",
+   "repository": "FamilySearch (Arizona, Gila, Payson, Obituaries)",
+   "rights": "copyrighted",
+   "downloadable": false,
+   "downloaded": false,
+   "people": [
+    "H0355",
+    "H0503"
+   ],
+   "suggestedFile": "media/H0355/obituary-1995.jpg",
+   "note": "Newspaper obituary, copyrighted; not downloaded."
+  }
+ ],
+ "researchLogEntry": "Round 4: read her Nov 1995 Arizona Republic obituary (survivors incl. brothers Nick, Jim, Rocco) and the 1940 census (1003 Bunker Hill St).",
+ "researchedAt": "2026-10-08"
+}

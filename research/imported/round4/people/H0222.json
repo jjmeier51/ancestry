@@ -1,0 +1,50 @@
+{
+  "id": "H0222",
+  "name": "Anna Jane Scott",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Annie J. Gregory"
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "21 Mar 1872",
+        "place": "Wilkes-Barre",
+        "description": "To Truman Monroe Gregory (1846-1904)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1860",
+        "place": "Plymouth (with widowed mother)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "L7G2-G2T"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Anna Jane's marriage to Truman Monroe Gregory at Wilkes-Barre on 21 Mar 1872, the 1880 census with her as 'Annie J Gregory', and her dates as 22 Aug 1845 to 25 Oct 1909 (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Anna Jane Scott (L7G2-G2T), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L7G2-G2T",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. 21 Mar 1872 Truman M. Gregory."
+}

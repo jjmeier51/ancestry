@@ -23,7 +23,8 @@
     }
   ],
   "sources": [
-    "Harvey & Smith vol. VI p.~475: https://archive.org/details/historyofwilkesb06harv"
+    "Harvey & Smith vol. VI p.~475: https://archive.org/details/historyofwilkesb06harv",
+    "[R4-S1] FamilySearch Family Tree (published), Joseph V Connole (b. 1890), PID GC1H-264; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GC1H-264"
   ],
   "occupation": "Physician (EENT)",
   "handoff": {
@@ -35,6 +36,47 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS residences and 1936 passenger list."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0138.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1889",
+      "found": "1890",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth.date",
+      "site": "1889",
+      "found": "1890 (FS)",
+      "assessment": "Minor."
+    }
+  ],
+  "birth": {
+    "date": "1889",
+    "place": "Plymouth, Pa."
+  },
+  "residences": [
+    {
+      "date": "1940",
+      "place": "Ward 4, Wilkes-Barre",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Passenger arrival",
+      "date": "1936",
+      "place": "New York",
+      "description": "Passenger/crew list entry, New York, 1936 (FS index; image attached) [R4-S1]"
     }
   ]
 }

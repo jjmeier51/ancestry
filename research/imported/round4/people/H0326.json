@@ -1,0 +1,47 @@
+{
+  "id": "H0326",
+  "name": "Henry Wells",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Dr. Henry Wells of Montague"
+    ]
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0495",
+      "evidence": "Hayes ch. VI-VII: Obadiah Wells, second son of Henry I (b. 1690, third son of William II); ch. VII 'Henry of Montague, son of Obadiah'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Hayes (S1) gives his full line: William Wells I of Southold -> William II (b. 1660, m. 1681 Elizabeth Tuthill, daughter of John Tuthill 1635) -> Henry I (b. 7 Feb 1690) -> Obadiah (b. Nov 1716, d. Montague 27 May 1800) -> Dr. Henry. That puts him 4 generations below William Wells and 4 below John Tuthill (both 12 above John): 3rd cousin 8 times removed, twice over. One of the founders of Brattleboro's church society, he later moved to Montague, Mass. Hayes stresses that neither he nor his father was a Tory despite their New York loyalties in the Vermont dispute.",
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "probable",
+    "justification": "Every generation from William Wells is given in Hayes 1878 (a detailed compiled genealogy using wills and town records); also descends from John Tuthill (1635) via Elizabeth Tuthill."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), pp. 33, 38, ch. VI-VII",
+      "url": "https://archive.org/details/williamwellsofso00byuhaye",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Chapters III-VII: William II m. Elizabeth Tuthill; Henry I; Obadiah second son of Henry I; Henry of Montague son of Obadiah; Mary Wells great-aunt of Dr. Henry"
+    },
+    {
+      "ref": "S2",
+      "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 7",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Elizabeth Tuthill b. 19 Apr 1661 m. 1 Jun 1681 William Wells (b. 5 May 1660); son Henry Wells"
+    }
+  ],
+  "researchLogEntry": "Round 4: Hayes chapters VI-VII document the line William I -> William II -> Henry -> Obadiah -> Dr. Henry; 3C8R via Wells and via Tuthill.",
+  "researchedAt": "2026-10-08"
+}

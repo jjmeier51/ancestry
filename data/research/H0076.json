@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 7th-great-grandfather; of Kollweiler, Kusel district.",
-  "bio": "Jacob Christmann of Kollweiler (Kusel) was dead by his daughter Maria Elisabetha's marriage to Andreas Grub on 19 Sep 1752.",
+  "bio": "Jacob Christmann of Kollweiler (Kusel) was dead by his daughter Maria Elisabetha's marriage to Andreas Grub on 19 Sep 1752.\n\nThe Reichenbach baptism of his daughter Maria Elisabetha (9 Aug 1729, baptized 14 Aug) names her parents as Jacob and Anna Margaretha Christmann of Kollweiler (recorded in Round 4 under H0072). That confirms him as her father and gives his wife's first name. He was dead by her marriage on 19 Sep 1752.",
   "residences": [
     {
       "date": "1729",
@@ -15,7 +15,8 @@
     }
   ],
   "sources": [
-    "WikiTree Christmann-662: https://www.wikitree.com/wiki/Christmann-662"
+    "WikiTree Christmann-662: https://www.wikitree.com/wiki/Christmann-662",
+    "[R4-S1] Reichenbach Lutheran register, baptisms 1729 p.115 (image attached to FamilySearch 99JD-KQH; see people/H0072.json) (primary) https://www.familysearch.org/service/tree/tree-data/published/persons/99JD-KQH"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -26,6 +27,21 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0072, proven): 1729 Reichenbach baptism of Maria Elisabetha names parents Jacob and Anna Margaretha Christmann of Kollweiler"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: his daughter's 1729 baptism (read under H0072) proves paternity and names his wife Anna Margaretha."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0076.json."
     }
+  ],
+  "openQuestions": [
+    "His wife Anna Margaretha (surname unknown) is not in the tree."
   ]
 }

@@ -1,0 +1,54 @@
+{
+ "id": "I282824815359",
+ "name": "Carmine Gabriele Fiorillo",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "This Carmine is known only through his sons' death records. Domenico (b. c.1775 at Cannovali, Aiello Calabro, d. 1849) and Francesco (b. c.1789, d. 1853) are both called sons of the late Carmine Gabriele Fiorillo and of a Giacinta ('Cintia'), whose surname is variously given as Feraculo, Iera and Marrello (S1, S2). Carmine's wife, missing from the tree, was therefore Giacinta. The tree's death date of 22 November 1797 and his parentage (Domenico G. Fiorillo and Cecilia Fata) presumably come from Aiello Calabro registers, which are not indexed here.",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "I282824815347",
+   "evidence": "Son's death records name him",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "NEW-810",
+   "evidence": "Sons' death records name wife Giacinta (surname uncertain)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "probable"
+  }
+ ],
+ "openQuestionsNew": [
+  "Wife Giacinta: surname Feraco/Iera/Marrello? Check Aiello Calabro (Cannovali) parish records for Domenico's baptism c.1775."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino, stato civile, Civil deaths 1849, image 1557, act 22; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+   "url": "https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Son Domenico (d. 1849, 74, born Cannovali) son of the late Carmine Fiorillo and the late Cintia \"Feraculo\" (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 32, p. 58, no. 23 and image 61, p. 117, no. 11; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Sons Dominicus (d. 1849) and Franciscus (d. 1853, 64) Gabriele Fiorillo, sons of the late Carmelus G. Fiorillo; mothers indexed Hyacinthia Iera and Hyacinthia Marrello (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "searchedNoResult": [
+  "San Mango baptism and marriage indexes 1767-1808: no Fiorillo or Gabriele entries (family not yet in San Mango)"
+ ],
+ "researchLogEntry": "Round 4: identified wife Giacinta from sons' 1849/1853 death records; family was from Cannovali (Aiello)."
+}

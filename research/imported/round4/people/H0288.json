@@ -1,0 +1,54 @@
+{
+  "id": "H0288",
+  "name": "Selah Brewster Strong",
+  "status": "researched",
+  "bioAdditions": "Path: John Thompson -> Samuel -> Susannah Strong -> Selah Strong (1737) -> Thomas S. Strong -> Selah B., 5 generations: 4th cousin 7 times removed (Thompson S1 for the first three generations; the last two as in earlier rounds).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Thompson-Strong generations"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Selah Brewster Strong (National Cyclopedia of American Biography, vol. XI, p. 404)",
+      "date": "1901",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Selah_Brewster_Strong.png",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Selah_Brewster_Strong.png",
+      "repository": "Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0288/selah-brewster-strong-1901.png",
+      "people": [
+        "H0288"
+      ],
+      "suggestedFile": "media/H0288/selah-brewster-strong-1901.png",
+      "note": "Commons licence: Public domain (published 1901)."
+    },
+    {
+      "type": "portrait",
+      "title": "Mrs. Selah Brewster Strong (Cornelia Udall), by William Sidney Mount",
+      "date": "",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mrs._Selah_Brewster_Strong_(Cornelia_Udall)-William_Sidney_Mount-FARL15543.jpg",
+      "directUrl": "",
+      "repository": "Wikimedia Commons",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0288"
+      ],
+      "suggestedFile": "media/H0288/mrs-selah-b-strong-mount.jpg",
+      "note": "Found in Commons search; licence not checked. Wife is an in-law."
+    }
+  ],
+  "researchLogEntry": "Round 4: PD 1901 portrait downloaded; Mount portrait of his wife noted.",
+  "researchedAt": "2026-10-08"
+}

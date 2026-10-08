@@ -22,7 +22,7 @@
   ],
   "tags": [],
   "summary": "John's 7th-great-grandfather per the tree (if the Doll link holds); Palatine immigrant of 1739 to Plainfield Township - NOT a Revolutionary captain, despite the tree.",
-  "bio": "Johann Casper Doll was baptized 1 Feb 1722 at Ulmet, Kusel district, son of Christoffel Doll (1671-1739) and Anna Sara Schuch (WikiTree Doll-527, FamilySearch N5BL-88G); his gravestone gives 2 Feb 1724 and the tree 1724-1793. WikiTree's API in Oct 2026 gave his birthplace as 'Oberland, Canton, Switzerland' (unsupported; Ulmet treated as probable). Round 3 corrected his arrival: 'Casper Doll, age 18' was on the ship Samuel (Hugh Percy), qualified at Philadelphia 27 Aug 1739 (Strassburger List 69 A; signature 'Caspar (X) Doll'), with Stoffel Doll 40, Philip Doll 27, 'Christ. Shook, 48' (Schuch) and Simon Drum - a group from Ulmet; the Samuel of 30 Aug 1737 (List 44), cited earlier, has no Casper. He married Anna Margaretha Dietz; a daughter Anna Catharine was baptized in 1757 at Tohickon Reformed Church, Bucks Co., to 'Casper Doll and Margaret [Dietz]'. He died 4 Feb 1793 and is buried at Plainfield Cemetery, Plainfield Twp (Wind Gap), Northampton Co. (Find a Grave 19353732). The tree calls him 'Johann C Doll Captain' with a 'FLAG OF THE AMERICAN REVOLUTION' profile image, but 'he is NOT known to have held the rank as captain. On his gravesite, there was erected in 1934 a monument or cenotaph to his nephew Casper Dull who served as a captain in the Revolutionary War'; that nephew, Capt. Casper Dull (1748-1829), is buried at McVeytown, Mifflin Co. His Find a Grave memorial merges the two. He was about 52 in 1776. No SAR patriot record for him was found (search not exhaustive); DAR unchecked.",
+  "bio": "Johann Casper Doll was baptized 1 Feb 1722 at Ulmet, Kusel district, son of Christoffel Doll (1671-1739) and Anna Sara Schuch (WikiTree Doll-527, FamilySearch N5BL-88G); his gravestone gives 2 Feb 1724 and the tree 1724-1793. WikiTree's API in Oct 2026 gave his birthplace as 'Oberland, Canton, Switzerland' (unsupported; Ulmet treated as probable). Round 3 corrected his arrival: 'Casper Doll, age 18' was on the ship Samuel (Hugh Percy), qualified at Philadelphia 27 Aug 1739 (Strassburger List 69 A; signature 'Caspar (X) Doll'), with Stoffel Doll 40, Philip Doll 27, 'Christ. Shook, 48' (Schuch) and Simon Drum - a group from Ulmet; the Samuel of 30 Aug 1737 (List 44), cited earlier, has no Casper. He married Anna Margaretha Dietz; a daughter Anna Catharine was baptized in 1757 at Tohickon Reformed Church, Bucks Co., to 'Casper Doll and Margaret [Dietz]'. He died 4 Feb 1793 and is buried at Plainfield Cemetery, Plainfield Twp (Wind Gap), Northampton Co. (Find a Grave 19353732). The tree calls him 'Johann C Doll Captain' with a 'FLAG OF THE AMERICAN REVOLUTION' profile image, but 'he is NOT known to have held the rank as captain. On his gravesite, there was erected in 1934 a monument or cenotaph to his nephew Casper Dull who served as a captain in the Revolutionary War'; that nephew, Capt. Casper Dull (1748-1829), is buried at McVeytown, Mifflin Co. His Find a Grave memorial merges the two. He was about 52 in 1776. No SAR patriot record for him was found (search not exhaustive); DAR unchecked.\n\nRound 4 read the image of the Ulmet Lutheran baptism register (1722, p.245) that FamilySearch attaches to his profile. Johann Caspar, child of Christoffel Doll and Anna Sara, was baptized on 1 Feb 1722 ([R4-S1]). One godparent appears to be a Schuch, which fits his mother's maiden name, Schuch. Another is the wife of Christian Drum of Ulmet, and a Simon Drum sailed with the Dolls on the Samuel in 1739. The register therefore confirms the Ulmet baptism and his parents' names, and it outweighs the 2 Feb 1724 date on his gravestone. FamilySearch (M7ZN-ZBL) labels him 'Capt.' and attaches a Historical Society of Pennsylvania burial card for 'Capt Casper Doll or Dull'; that card belongs to the nephew, Capt. Casper Dull (1748-1829), as the existing bio already explains. The burial-card image downloaded as 0 bytes. The village in the 1722 entry is Erzweiler: the 1704 Ulmet marriage of his parents calls his father 'Hans Peter Dollen Sohn zu Erzweiler' (see H0080).",
   "residences": [
     {
       "date": "1722",
@@ -43,6 +43,12 @@
       "date": "1739-08-27",
       "place": "Philadelphia, Pennsylvania, USA",
       "description": "Ship Samuel, Hugh Percy master, age 18 (Strassburger List 69 A/C)."
+    },
+    {
+      "title": "Baptism",
+      "date": "1722-02-01",
+      "place": "Ulmet Lutheran parish, Kusel district (family of Erzweiler)",
+      "description": "Register p.245: parents 'Christoffel Doll und Anna Sara zu Erzweiler' (village read with help of the 1704 marriage entry); child 'Johann Caspar ist getaufft worden d. 1 Febr. 1722'. Godparents include a Peter Schuch (?), Johann Caspar Simon and Anna Elisabetha, wife of Christian Drum of Ulmet. [R4-S1]"
     }
   ],
   "facts": [
@@ -61,6 +67,10 @@
     {
       "label": "FamilySearch",
       "value": "N5BL-88G"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "M7ZN-ZBL"
     }
   ],
   "sources": [
@@ -71,7 +81,9 @@
     "Find a Grave 21956570 (Capt. Casper Dull): https://www.findagrave.com/memorial/21956570",
     "WikiTree Dietz-563: https://www.wikitree.com/wiki/Dietz-563",
     "SAR P-149071 and P-150954 (other Doll/Dull patriots): https://sarpatriots.sar.org/patriot/display/149071 ; https://sarpatriots.sar.org/patriot/display/150954",
-    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "[R4-S1] Ulmet (Kusel), Evangelical Lutheran parish register, baptisms 1722 p.245, Johann Caspar son of Christoffel Doll and Anna Sara (FS Germany Lutheran Baptisms, Marriages and Burials ark 1:1:QPKP-8X34) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/M7ZN-ZBL/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch published tree, Capt. Johann Caspar Doll (M7ZN-ZBL) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M7ZN-ZBL"
   ],
   "mediaKnown": [
     "Tree profile: 'FLAG OF THE AMERICAN REVOLUTION' image (belongs to nephew's cenotaph story; remove)"
@@ -97,6 +109,14 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 2 February 1724; research: 1722-02-01."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: viewed the Ulmet 1722 register image: baptism 1 Feb 1722, parents Christoffel Doll and Anna Sara; godparents include Schuch (?) and Drum."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695584117.json."
     }
   ],
   "media": [
@@ -107,6 +127,26 @@
       "source": "WikiTree",
       "note": "Johann Casper Doll, 1724-02-02 – 1793-02-04",
       "url": "https://www.wikitree.com/wiki/Doll-527"
+    },
+    {
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/M7ZN-ZBL",
+      "type": "link",
+      "title": "Ulmet Lutheran baptism register 1722 p.245: Johann Caspar Doll",
+      "date": "1722-02-01",
+      "source": "FamilySearch (Ulmet Lutheran parish register), unknown",
+      "note": "FamilySearch church-book image; rights unknown; viewed only (not downloaded: rights unknown)",
+      "people": [
+        "H0080",
+        "H0081"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1722-02-01 (gravestone gives 2 Feb 1724)",
+      "found": "baptized 1 Feb 1722 (Ulmet register)",
+      "assessment": "The register supports the site's 1722 date; the 1724 gravestone date is later and wrong."
     }
   ]
 }

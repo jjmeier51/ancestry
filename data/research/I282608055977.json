@@ -25,7 +25,7 @@
     "politician"
   ],
   "summary": "John's 10th-great-grandfather; Southold founder, lawyer, first High Sheriff of Yorkshire (Long Island) and member of Gov. Nicolls's council.",
-  "bio": "Tombstone gives age 63 at death on 13 Nov 1671 (so born c.1608); tradition 'a native of Norwich, born 1608'. Hayes says he 'is said to have come from England June 19, 1635' with John Baylis; a 'William Wells, 17' on the Truelove in 1635 does not fit his age or legal training; a Richard Wells on the Globe 'for Virginia' 1635 is a different man (settled Salisbury, Mass.). At Southampton, 15 Mar 1643, 'William Wells, Gent., was censured for some unreverent speeches' to Daniel Howe. Southold's leading founder after Rev. John Youngs; its lawyer; council member; first High Sheriff of Yorkshire (the colonial county of Long Island, Staten Island and Westchester), 1664; sat on Gov. Nicolls's five-member council in 1664; justice of the peace; helped draft the Duke's Laws. Married (1) about 1650 Bridget, widow of Henry Tuthill, becoming guardian of her Tuthill children; (2) about 1654 Mary (surname unknown), mother of Mehitable (b. 1666). His will of 13 Nov 1671 left everything to 'my well beloved wife Mary Wells'. His tombstone in the old Southold burying ground was described by Pelletreau as possibly 'the oldest tombstone in Suffolk county'. TREE: parents 'Rev. William Wells to the Queen of Denmark' (1566–1620) and 'ANNE ELIZABETH Hunt Kimball ^ Welles, of St Albans, Immigrant' (1568–1646) — the prebendary's son William (bapt. 10 Feb 1604/5) became vicar of North Elmham and died in England in 1680, so this is disproven (Round 3); the mother is unsupported. Society of Colonial Wars: qualifies easily (council member, JP, sheriff) — the best colonial route, which also bypasses the James/Joshua confusion. Cousins via Wells: Anna Symmes Harrison (5C6R), Benjamin Harrison (7C4R).",
+  "bio": "Tombstone gives age 63 at death on 13 Nov 1671 (so born c.1608); tradition 'a native of Norwich, born 1608'. Hayes says he 'is said to have come from England June 19, 1635' with John Baylis; a 'William Wells, 17' on the Truelove in 1635 does not fit his age or legal training; a Richard Wells on the Globe 'for Virginia' 1635 is a different man (settled Salisbury, Mass.). At Southampton, 15 Mar 1643, 'William Wells, Gent., was censured for some unreverent speeches' to Daniel Howe. Southold's leading founder after Rev. John Youngs; its lawyer; council member; first High Sheriff of Yorkshire (the colonial county of Long Island, Staten Island and Westchester), 1664; sat on Gov. Nicolls's five-member council in 1664; justice of the peace; helped draft the Duke's Laws. Married (1) about 1650 Bridget, widow of Henry Tuthill, becoming guardian of her Tuthill children; (2) about 1654 Mary (surname unknown), mother of Mehitable (b. 1666). His will of 13 Nov 1671 left everything to 'my well beloved wife Mary Wells'. His tombstone in the old Southold burying ground was described by Pelletreau as possibly 'the oldest tombstone in Suffolk county'. TREE: parents 'Rev. William Wells to the Queen of Denmark' (1566–1620) and 'ANNE ELIZABETH Hunt Kimball ^ Welles, of St Albans, Immigrant' (1568–1646) — the prebendary's son William (bapt. 10 Feb 1604/5) became vicar of North Elmham and died in England in 1680, so this is disproven (Round 3); the mother is unsupported. Society of Colonial Wars: qualifies easily (council member, JP, sheriff) — the best colonial route, which also bypasses the James/Joshua confusion. Cousins via Wells: Anna Symmes Harrison (5C6R), Benjamin Harrison (7C4R).\n\nThe Southold town records print the 26 Dec 1678 deed of gift (recorded 3 Apr 1679) by which 'Mary Mapes ... the relect of William Wells ... lately desceased, and now wife to Thomas Mapes Junr' passed property she had received from Wells by deed of gift to 'my son in law John Yongs ... and to Mary Yongs his wife my daughter' ([R4-S1]). Round 3 described this as Mary's will; it is a deed of gift. A 1677 entry also records meadow 'had of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread' ([R4-S1]).",
   "notable": "First High Sheriff of Yorkshire (Long Island), 1664; Gov. Nicolls's council; helped draft the Duke's Laws.",
   "funFacts": [
     "Censured in 1643 for 'unreverent speeches'.",
@@ -78,7 +78,8 @@
     "Brooklyn Historical, https://longisland.brooklynhistory.org/stories/the-governors-letters-for-1665-66-67",
     "McCurdy p16172",
     "William Wells of Southold (1986), https://archive.org/details/williamwellsofso00well (unread, borrow-only)",
-    "Ohio SCW eligibility https://colonialwarsoh.org/membereligib.php; NSDCW https://www.nsdcw.org/eligibility-1"
+    "Ohio SCW eligibility https://colonialwarsoh.org/membereligib.php; NSDCW https://www.nsdcw.org/eligibility-1",
+    "[R4-S1] J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 302-303: deed of gift 26 Dec 1678 (recorded 3 Apr 1679) by 'Mary Mapes of Southold ... the relect of William Wells of ye sd Town ... lately desceased, and now wife to Thomas Mapes Junr', who had received all Wells's lands and goods by his deed of gift, to 'my son in law John Yongs, in right of his wife and to Mary Yongs his wife my daughter' (witnesses Thomas Mapes, William Wells); also an entry (Liber page 141, 1677) of meadow had 'of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread' (primary) https://archive.org/details/southoldtownreco0000jwic"
   ],
   "mediaKnown": [
     "Tombstone in old Southold burying ground (described, no image in files)",
@@ -110,6 +111,26 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"William Wells, First Sheriff of New Yorkshire\"; research uses \"William Wells\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: English origin: no new evidence (Hayes 1878 already known)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read the 1678 Mary Mapes deed of gift in Southold Town Records vol. 1, pp. 302-303."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608055977.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "widow's 1678 document",
+      "site": "Round 3: 'Mary's own will of 26 Dec 1678'",
+      "found": "Deed of gift dated 26 Dec 1678, recorded 3 Apr 1679 (Southold Town Records 1:302-303)",
+      "assessment": "Correct the description to 'deed of gift'."
     }
   ]
 }

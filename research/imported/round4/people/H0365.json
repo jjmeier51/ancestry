@@ -1,0 +1,48 @@
+{
+ "id": "H0365",
+ "name": "Maria di Marino",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "ABT 1835",
+   "place": "Guardia Lombardi",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1914-12-29",
+   "place": "Guardia Lombardi, Avellino, Campania, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ },
+ "bioAdditions": "A FamilySearch tree profile for Maria Di Marino (9CF8-2TL) names her parents as Gaetano Di Marino and Caterina di Leo. It gives her birth as c.1835 and her death as 29 Dec 1914 in Guardia Lombardi, citing a 1914 Guardia death act on Antenati (an_ua524129/La8qX6B, not opened here because Antenati is blocked) and an Avellino record index (S1). The profile names her husband 'Nicola di Paola', whereas Round 3 read the 1857 marriage index as 'Nicola di Pietro'. It also attaches, oddly, a New York City marriage index. Her death act would settle the husband's surname.",
+ "conflicts": [
+  {
+   "field": "spouse surname",
+   "siteValue": "Nicola di Pietro (1857 marriage index, Round 3)",
+   "foundValue": "Nicola di Paola (FS tree 9CF8-2TL)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Unresolved; check the 1914 death act (Antenati an_ua524129/La8qX6B)."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile 9CF8-2TL (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9CF8-2TL",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth c.1835; death 29 Dec 1914 Guardia; parents Gaetano Di Marino and Caterina di Leo; spouse Nicola di Paola"
+  }
+ ],
+ "searchedNoResult": [
+  "Antenati death act an_ua524129/La8qX6B: not loaded (Antenati 403)"
+ ],
+ "researchLogEntry": "Round 4: FS tree gives death 29 Dec 1914 Guardia and husband 'Nicola di Paola' (conflict with di Pietro).",
+ "researchedAt": "2026-10-08"
+}

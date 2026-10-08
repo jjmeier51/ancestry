@@ -1,0 +1,24 @@
+{
+  "id": "I282695486912",
+  "name": "Elizabeth Irwia Harrison",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Elizabeth Ramsey Irwin Harrison"
+    ]
+  },
+  "conflicts": [
+    {
+      "field": "name",
+      "siteValue": "Elizabeth Irwia Harrison",
+      "foundValue": "Elizabeth (Irwin) Harrison",
+      "sourceRefs": [],
+      "assessment": "'Irwia' is a transcription error for Irwin (mother of President Benjamin Harrison, second wife of John Scott Harrison). Not a blood relative of John."
+    }
+  ],
+  "searchedNoResult": [
+    "Wikipedia: no article 'Elizabeth Irwin Harrison' (checked via API)"
+  ],
+  "researchLogEntry": "Round 4: name corrected to Irwin; in-law only.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "H0165",
+  "name": "Benjamin Prindle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1839 (FamilySearch, no source)",
+      "place": "",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "military": [
+      {
+        "note": "Benjamin Prindle and David Prindle are listed together under Orange County Militia, First Regiment (land bounty rights) in New York in the Revolution (1898), p.253. The same page lists a John Lamoreux, Isaac Lamore and Nicolas Lamarux.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "In 'New York in the Revolution', Benjamin and David Prindle appear on the same page as the Lamoreux men under the First Regiment of Orange County militia (land bounty rights) (S1). In 1790 a David Prindle was living at New Cornwall, Orange Co., a few households from John Lomereaux and Oliver Davenport (see Jean Lamoreaux). So this Prindle family lived among the Lamoreaux family in Orange County, which explains how Samuel Pringle came to marry Martha Lamoreaux. FamilySearch gives Benjamin (b. 1764 in Connecticut, d. 1839) to James Prindle and Hannah (Anar) Turner of Newtown, alongside David (1757) and Samuel (1767), but attaches no sources to Benjamin (S2).",
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "possible",
+    "justification": "Orange Co. militia service is documented; descent from James and Anar Prindle is FamilySearch only."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Roberts (ed.), New York in the Revolution as Colony and State (1898), p.253, Orange County Militia (Land Bounty Rights), First Regiment",
+      "url": "https://archive.org/stream/newyorkinrevolut00robe/newyorkinrevolut00robe_djvu.txt",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "militia service; association with Lamoreux"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Benjamin Pringle (L8MP-W4V)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L8MP-W4V",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "parents, dates (unsourced)"
+    }
+  ],
+  "researchLogEntry": "Round 4: listed with David Prindle and the Lamoreux men in the 1st Orange Co. regiment; FamilySearch has 1764-1839, unsourced."
+}

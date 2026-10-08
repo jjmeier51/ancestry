@@ -1,0 +1,27 @@
+{
+  "id": "H0328",
+  "name": "Stephen Sayre",
+  "status": "researched",
+  "bioAdditions": "Not kin (Sayre branch non-ancestral). A Commons public-domain portrait exists (from Banta 1901) if the site wants it for the 'not related' note.",
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Stephen Sayre, sheriff of London (from Banta, Sayre Family)",
+      "date": "1901",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Stephen_sayre.png",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Stephen_sayre.png",
+      "repository": "Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0328"
+      ],
+      "suggestedFile": "media/H0328/stephen-sayre-banta-1901.png",
+      "note": "Public domain, but not downloaded because he is not related."
+    }
+  ],
+  "researchLogEntry": "Round 4: not kin; PD portrait catalogued only.",
+  "researchedAt": "2026-10-08"
+}

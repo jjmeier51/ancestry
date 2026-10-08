@@ -1,14 +1,50 @@
 {
   "id": "H0490",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Two compiled genealogies (Akerly, Horton) agree on parentage, marriage and dates."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Two compiled genealogies (Akerly, Horton) agree on parentage, marriage and dates."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282695489371, proven): (mother Bethia Wells) Horton Genealogy: Capt. Jonathan Horton m. c.1672 Bethia Wells, dau. of William Wells; child no. 7 'Jonathan, born 23d December, 1683, married Mary Tuthill'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates and Wells parentage (1C10R) from Akerly and the Horton Genealogy."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0490.json."
     }
+  ],
+  "birth": {
+    "date": "1683-12-23",
+    "place": "Southold, NY"
+  },
+  "death": {
+    "date": "1768-04-02"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1705-11-27",
+      "place": "Southold",
+      "description": "Married Mary Tuthill (b. 1687, d. 1780), daughter of John Tuthill Jr & Mehitable Wells; six children Mary, Eliphaz, Mehitable, Azariah, Lazarus, Ambrose (b. 1708-20). [R4-S1]"
+    }
+  ],
+  "bio": "Son of Capt. Jonathan Horton (first captain of Suffolk County's first cavalry company) and Bethia, daughter of William Wells ([R4-S2]). So he is himself John's blood cousin: William Wells -> Bethia -> Jonathan, 1st cousin 10 times removed (and 1C11R via Barnabas Horton if the Rachel Browne line holds). His wife Mary Tuthill is John's 9th-great-grandaunt.",
+  "sources": [
+    "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 8 (secondary) https://archive.org/details/tuthillfamilyoft00aker",
+    "[R4-S2] George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), pp. 11-12 (secondary) https://archive.org/details/hortongenealogyo00hort"
   ]
 }

@@ -1,0 +1,94 @@
+{
+  "id": "I282695486911",
+  "name": "Anna Symmes Harrison",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "25 Jul 1775",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "25 Feb 1864",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Each connecting generation is now sourced from Akerly's Tuthill genealogy (S1) and Hayes's Wells genealogy (S3): John Tuthill (1635-1717, 12 generations above John) -> Henry Tuthill 'the Justice' (b. 1 May 1665, d. 4 Jan 1750; m. Bethia Horton, daughter of Capt. Jonathan Horton and Bethia, daughter of William Wells) -> Henry (b. 1690, d. 1 Sep 1775) -> Henry (b. before Dec 1715, d. 17 Sep 1793; m. 16 Mar 1738 Phoebe Horton) -> Anna Tuthill (m. John Cleves Symmes) -> Anna. Akerly states outright: 'Henry's grand-da., Anna Symmes, m. President Wm. Henry Harrison, and was the grandmother of President Benjamin Harrison.' Result: 4th cousin 7 times removed via Tuthill and 5th cousin 6 times removed via William Wells, both confirmed generation by generation in compiled sources. A third, conditional route: both Bethia Horton and Phoebe Horton descend from Barnabas Horton, whom Round 3 places 13 generations above John through Rachel Browne (probable); that would add 5C7R twice. Wikipedia (S2) notes she was the only First Lady never to visit the capital during her husband's presidency.",
+  "conflicts": [
+    {
+      "field": "duplicate",
+      "siteValue": "Also recorded as I282695486703 'Anna Tuthill Symmes' (b. 26 Jul 1775)",
+      "foundValue": "Same person; Wikipedia gives 25 Jul 1775",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Merge the two records."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Path from John Tuthill (1635) and from William Wells is now fully sourced; the remaining dependency is the James -> John Tuthill (c.1730) link in John's own line (Round 2-3)."
+  },
+  "funFacts": [
+    "Both First Ladies of the 1840 'Tippecanoe and Tyler Too' ticket are John's cousins: Anna through the Tuthills and Wellses, Julia Gardiner Tyler through Bull Smith."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 7-10",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Henry (1665) m. Bethia Horton (Capt. Jonathan, Barnabas); Henry (1690); Henry m. 1738 Phoebe Horton; 'Henry's grand-da., Anna Symmes, m. President Wm. Henry Harrison'"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Anna Harrison' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Anna_Harrison",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; First Lady facts"
+    },
+    {
+      "ref": "S3",
+      "citation": "Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), pp. 27-28, 33",
+      "url": "https://archive.org/details/williamwellsofso00byuhaye",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Bethia Wells (b. c.1655) eldest daughter of William Wells m. Capt. Jonathan Horton"
+    },
+    {
+      "ref": "S4",
+      "citation": "George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), pp. 11-12",
+      "url": "https://archive.org/details/hortongenealogyo00hort",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Capt. Jonathan Horton m. c.1672 Bethia Wells; daughter Bethia; Tuthill family record"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Anna Tuthill Symmes Harrison, oil on board, artist unknown",
+      "date": "c. 1820",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Anna_Tuthill_Symmes_Harrison.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Anna_Tuthill_Symmes_Harrison.jpg",
+      "repository": "Wikimedia Commons (credit: White House Historical Association first-lady portraits)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/I282695486911/anna-symmes-harrison-portrait-c1820.jpg",
+      "people": [
+        "I282695486911"
+      ],
+      "suggestedFile": "media/I282695486911/anna-symmes-harrison-portrait-c1820.jpg",
+      "note": "Commons licence: Public domain (c.1820 painting)."
+    }
+  ],
+  "researchLogEntry": "Round 4: every generation from John Tuthill (1635) and William Wells to Anna sourced in Akerly/Hayes/Horton; PD portrait downloaded; duplicate record flagged.",
+  "researchedAt": "2026-10-08"
+}

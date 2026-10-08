@@ -1,0 +1,72 @@
+{
+  "id": "H0187",
+  "name": "Stephen Davenport",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1800-08-14",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1882-08-22",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1822-05-05",
+        "place": "",
+        "description": "Married Elizabeth Tubbs (b. 5 May 1802, d. 24 Mar 1862); eight children.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Giles & Franklin say Stephen, youngest child of Thomas and Charity (Lamoreux) Davenport, was born on 14 Aug 1800 and died on 22 Aug 1882. On 5 May 1822 he married Elizabeth Tubbs (5 May 1802 - 24 Mar 1862). Their children were Hanford (d. 1865, m. Fanny Larned), Thomas M. (b. 1829, m. Diana Good), William (b. 1827, m. 1855 Adaline Harrison), Earl, Samuel, and Charity Adelaide (b. Town Line, Pa., 16/18 Feb 1839, d. Hicks Ferry 9 Sep 1930, m. Charles Good) (S1).",
+  "conflicts": [
+    {
+      "field": "spouse (internal to Giles & Franklin)",
+      "siteValue": "",
+      "foundValue": "Giles & Franklin also give 'William [Pringle], married Elizabeth Tubbs' for a son of John and Phoebe Pringle",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Probably a slip in Giles & Franklin. Stephen's wife Elizabeth Tubbs has full dates; William Pringle's wife needs checking."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0186",
+      "evidence": "G&F p.322",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Exact dates and marriage from the family genealogy."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.322-323",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth, death, marriage to Elizabeth Tubbs, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: Giles & Franklin give b. 14 Aug 1800, d. 22 Aug 1882, m. 5 May 1822 Elizabeth Tubbs, eight children.",
+  "researchedAt": "2026-10-08"
+}

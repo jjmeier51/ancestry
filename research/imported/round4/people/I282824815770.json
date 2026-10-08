@@ -1,0 +1,97 @@
+{
+ "id": "I282824815770",
+ "name": "Luigi Colosimo",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "25 Dec 1795 (baptism)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "14 Apr 1864 (burial)",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S3"
+   ]
+  },
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "29 Jan 1818",
+    "place": "San Mango d'Aquino",
+    "description": "Married Carmela Moraca",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Luigi (Aloysius) was baptized on Christmas Day 1795, son of Giovanni Colosimo and Teresa Cicco (S1). He married Carmela Moraca, daughter of the late Alessio, on 29 January 1818 (S2). He was buried on 14 April 1864, a fortnight after his wife (S3).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815788",
+   "evidence": "Baptism and burial",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815800",
+   "evidence": "Baptism",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815780",
+   "evidence": "Marriage and burial",
+   "sourceRefs": [
+    "S2",
+    "S3"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "confirmed",
+  "justification": "Baptism, marriage and burial indexed; son Raffaele's records name him."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 207, p. 407, no. 73; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Aloysius Colosimo bapt. 25 Dec 1795, father Joannes Colosimo, mother Teresia Cicco (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1811-1845 (Book 20), image 11, p. 16, no. 1; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 29 Jan 1818, Luigi Colosimo and Carmina Moraca, daughter of the late Alessio (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 97, p. 182, no. 35; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 14 Apr 1864: Aloysius Colosimo, 74, son of the late Joannes, husband of Carmela Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 25 Dec 1795, marriage 29 Jan 1818, burial 14 Apr 1864."
+}

@@ -10,9 +10,12 @@
   ],
   "tags": [],
   "summary": "John's 2nd-great-grand-aunt.",
-  "bio": "Anna P. Heffernan (29 Jul 1876 - 12 Oct 1960) married at Pueblo, Colorado, on 26 Nov 1901 Felix John Murphy (1874-1955), a banker at First National; one daughter, Florence (b. 1902).",
+  "bio": "Anna P. Heffernan (29 Jul 1876 - 12 Oct 1960) married at Pueblo, Colorado, on 26 Nov 1901 Felix John Murphy (1874-1955), a banker at First National; one daughter, Florence (b. 1902).\n\nIn 1900 \"Annie,\" 23, was a tailoress in her parents' Plymouth home ([R4-S9]). FamilySearch names her daughter Mary Florence Murphy (1902-1951), who married James F. Poland; that Luzerne marriage record names her mother as Anna Heffernan ([R4-S1]). FS gives Felix Murphy's birth as 1876 and death 22 Apr 1955; his parents were John Felix Murphy (1851-1890) and Mary Kelly ([R4-S2]).",
   "sources": [
-    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "[R4-S1] FamilySearch Family Tree (published), Anna Heffernan (1876-1960), PID LTDC-8T2; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LTDC-8T2",
+    "[R4-S2] FamilySearch Family Tree (published), Felix Murphy (1876-1955), PID GKXZ-X3Z; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GKXZ-X3Z",
+    "[R4-S9] 1900 U.S. census, Plymouth Borough Ward 3, ED 120, sheet 1A (Andrew Hefferman household) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LB2N-F9R/images/i/0/image.jpg"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -23,6 +26,32 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: daughter Florence m. James F. Poland; 1900 occupation tailoress."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0114.json."
+    }
+  ],
+  "burial": {
+    "place": "St. Mary's Cemetery, Hanover Twp, Pa."
+  },
+  "occupation": "Tailoress (1900)",
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LTDC-8T2"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "spouse birth year (Felix John Murphy)",
+      "site": "1874",
+      "found": "1876 (FamilySearch GKXZ-X3Z)",
+      "assessment": "Minor; unresolved."
     }
   ]
 }

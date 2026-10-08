@@ -1,14 +1,66 @@
 {
   "id": "H0390",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): His own marriage licence."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: His own marriage licence."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: his 1903 marriage licence; his 1917 remarriage to his late wife's niece Agatha Mary Rose."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0390.json."
     }
+  ],
+  "birth": {
+    "date": "1880-06-01",
+    "place": "Easton, Northampton Co., PA"
+  },
+  "death": {
+    "date": "1966-08-04",
+    "place": "Easton, PA"
+  },
+  "burial": {
+    "place": "Gethsemane Cemetery, Easton, PA"
+  },
+  "aka": [
+    "George Thomas Duffin"
+  ],
+  "occupation": "clerk (1903)",
+  "events": [
+    {
+      "title": "First marriage",
+      "date": "1903-06-03",
+      "place": "Easton",
+      "description": "Married Sophia Gertrude Meier (Northampton licence No. 10968). He was living at 243 Canal St. [R4-S1]"
+    },
+    {
+      "title": "Second marriage",
+      "date": "1917-01-15",
+      "place": "Luzerne Co., PA",
+      "description": "Married Agatha Mary Rose (1891–1966), daughter of Henry Rose and Mary Meier, and so a niece of his late first wife. [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G9X8-NL4"
+    }
+  ],
+  "bio": "George Thomas Duffin, a clerk born at Easton on 1 Jun 1880, married Sophia Gertrude Meier there on 3 Jun 1903 ([R4-S1]). After her death in 1909 he married, on 15 Jan 1917 in Luzerne County, Agatha Mary Rose, daughter of Sophia's sister Mary (Meier) Rose. He lived in Williams Township, Northampton Co., in 1930–42, died at Easton on 4 Aug 1966, and was buried in Gethsemane Cemetery ([R4-S2]).",
+  "sources": [
+    "[R4-S1] Northampton County Marriage License No. 10968: George Thomas Duffin × Sophia Gertrude Meier, 3 Jun 1903 (FamilySearch index 1:1:KHN6-RNJ) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-XH5/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch Family Tree, George T Duffin (G9X8-NL4), published-tree JSON, with 1942 draft card (1:1:VQFJ-HCY) (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G9X8-NL4"
   ]
 }

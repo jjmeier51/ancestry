@@ -1,0 +1,106 @@
+{
+  "id": "H0295",
+  "name": "David Gardiner",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "2 May 1784 (Gardiner) / 29 May 1784 (Wikipedia)",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ]
+    },
+    "death": {
+      "date": "28 Feb 1844",
+      "place": "USS Princeton, Potomac River near Mount Vernon",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ]
+    },
+    "events": [
+      {
+        "title": "Education and career",
+        "date": "1804-1828",
+        "place": "New York; East Hampton",
+        "description": "Yale 1804; studied law with Sylvanus Miller; NY State Senator 1824-28; wrote 'Chronicles of East Hampton' (c.1840).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Marriage",
+        "date": "1816",
+        "place": "New York",
+        "description": "Married Juliana McLachlan, daughter of the brewer Michael McLachlan (from Jamaica; brewery near Chatham Square).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1784",
+      "foundValue": "2 May 1784 (Gardiner 1890) vs 29 May 1784 (Wikipedia)",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "assessment": "Unresolved; Gardiner is the family genealogy."
+    }
+  ],
+  "bioAdditions": "4th cousin 7 times removed (Bull Smith -> Richard 2d -> Nathaniel -> Mary -> Capt. Abraham -> David). Killed by the bursting of the 'Peacemaker' gun aboard USS Princeton on 28 Feb 1844, one of seven killed. His widow's will was contested and rejected by the Court of Appeals, 'a celebrated Will case' (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), pp. 118-121, 131-132, 148-149",
+      "url": "https://archive.org/details/liongardinerhisd00gard",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Col. Abraham Gardiner m. 12 Jun 1745 Mary dau. of Nathaniel & Phoebe (Howell) Smith, 'a descendant of Major Richard Smith of Smithtown, called \"Bull Smith\"'; Capt. Abraham b. 25 Jan 1763 m. 31 May 1781 Phoebe Dayton d. 12 Oct 1796; David b. 2 May 1784; Juliana m. John Tyler"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465, 467-470",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Nathaniel Smith (son of Richard 2d, b. 30 Jan 1698) m. Phebe Howell; daughter Mary b. 3 Oct 1725 m. Col. Abraham Gardiner; Capt. Abraham m. Phebe Dayton; Hon. David; Julia wife of President John Tyler"
+    },
+    {
+      "ref": "S3",
+      "citation": "Wikipedia, 'David Gardiner (politician)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/David_Gardiner_(politician)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; State Senate; Princeton explosion"
+    }
+  ],
+  "media": [
+    {
+      "type": "newspaper",
+      "title": "'Awful explosion of the Peace-maker on board the U.S. Steam Frigate Princeton', N. Currier lithograph",
+      "date": "1844",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Explosion_aboard_USS_Princeton.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Explosion_aboard_USS_Princeton.jpg",
+      "repository": "Library of Congress (LC-USZC2-3201) via Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0295/uss-princeton-explosion-currier-1844.jpg",
+      "people": [
+        "H0295",
+        "H0294"
+      ],
+      "suggestedFile": "media/H0295/uss-princeton-explosion-currier-1844.jpg",
+      "note": "Public domain (1844 print). No portrait of David Gardiner found on Commons."
+    }
+  ],
+  "searchedNoResult": [
+    "Commons search 'David Gardiner 1784' (no portrait)"
+  ],
+  "researchLogEntry": "Round 4: career and death from Gardiner 1890; PD Currier print of the Princeton explosion downloaded.",
+  "researchedAt": "2026-10-08"
+}

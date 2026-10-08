@@ -1,0 +1,55 @@
+{
+ "id": "H0061",
+ "name": "Jane Clair McGuire",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "events": [
+   {
+    "title": "Marriage",
+    "date": "1949-08-03",
+    "place": "Luzerne Co., Pa.",
+    "description": "Married Elvin Roger Nagle (1925-1974); Luzerne County marriage record (\"Jane Claire McGuire\") attached on FS",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1950-04-11",
+    "place": "Wilkes-Barre, Pa.",
+    "note": "1950 census as Jane Nagle",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "burial": {
+   "place": "Altoona, Blair Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Jane Claire McGuire Nagle"
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "G3PC-RT7"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Jane Clair McGuire (1924-2005), PID G3PC-RT7; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 3 Aug 1949, 1950 census, Find a Grave index",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3PC-RT7"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS marriage 1949 to Elvin Roger Nagle; 1950 census W-B."
+}

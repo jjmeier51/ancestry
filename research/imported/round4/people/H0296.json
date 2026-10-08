@@ -1,0 +1,59 @@
+{
+  "id": "H0296",
+  "name": "David Gardiner Tyler",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "12 Jul 1846",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "5 Sep 1927",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "6th cousin 5 times removed (son of Julia Gardiner Tyler, S2). Born in New York; Confederate soldier; studied in Germany and Virginia; Virginia State Senator, U.S. Representative (Va. 2nd district) and circuit judge (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'David Gardiner Tyler' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/David_Gardiner_Tyler",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates, career"
+    },
+    {
+      "ref": "S2",
+      "citation": "Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149",
+      "url": "https://archive.org/details/liongardinerhisd00gard",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Children of Juliana and John Tyler: 1. David-G."
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "David Gardiner Tyler",
+      "date": "contemporary",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:DavidGardinerTyler.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/DavidGardinerTyler.jpg",
+      "repository": "Wikimedia Commons (from Harvard VIA)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0296/david-gardiner-tyler-portrait.jpg",
+      "people": [
+        "H0296"
+      ],
+      "suggestedFile": "media/H0296/david-gardiner-tyler-portrait.jpg",
+      "note": "Commons licence: Public domain; date and photographer not recorded on Commons."
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates; PD portrait downloaded.",
+  "researchedAt": "2026-10-08"
+}

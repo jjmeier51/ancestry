@@ -1,0 +1,26 @@
+{
+ "people": 873,
+ "byTier": {
+  "1": 352,
+  "2": 191,
+  "3": 330
+ },
+ "status": {
+  "nothing_new": 323,
+  "researched": 524,
+  "living_detected": 26
+ },
+ "newSources": 1066,
+ "media": 129,
+ "downloaded": 93,
+ "newPeople": 42,
+ "stories": 30,
+ "leads": 78,
+ "remaining": {
+  "1": 0,
+  "2": 0,
+  "3": 0
+ },
+ "badFiles": [],
+ "unknownIds": []
+}

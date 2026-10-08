@@ -1,0 +1,36 @@
+{
+  "id": "H0305",
+  "name": "Lawrence Grant White",
+  "status": "researched",
+  "bioAdditions": "Son of Stanford White and Bessie Springs Smith: 6th cousin 4 times removed via Job Smith (one generation below Bessie), closer than the 7C4R on the site.",
+  "conflicts": [
+    {
+      "field": "relationship",
+      "siteValue": "7C4R",
+      "foundValue": "6C4R via Job Smith",
+      "sourceRefs": [],
+      "assessment": "See H0302."
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Lawrence Grant White, photographed by Francis R. Appleton in Italy",
+      "date": "1922 (Commons date; caption says WWI)",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lawrence_Grant_White.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lawrence_Grant_White.jpg",
+      "repository": "Wikimedia Commons (Commons source given as a Find a Grave image URL)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0305/lawrence-grant-white-1922.jpg",
+      "people": [
+        "H0305"
+      ],
+      "suggestedFile": "media/H0305/lawrence-grant-white-1922.jpg",
+      "note": "Commons marks it Public domain, but its source is a Find a Grave upload and the date/caption disagree; re-check before publishing."
+    }
+  ],
+  "researchLogEntry": "Round 4: relationship revised to 6C4R; Commons photo downloaded with a rights caveat.",
+  "researchedAt": "2026-10-08"
+}

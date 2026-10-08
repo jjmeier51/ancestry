@@ -1,0 +1,74 @@
+{
+  "id": "H0294",
+  "name": "Julia Gardiner Tyler",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "4 May 1820",
+      "sourceRefs": [
+        "S3"
+      ]
+    },
+    "death": {
+      "date": "10 Jul 1889",
+      "place": "Richmond, Virginia",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ]
+    }
+  },
+  "bioAdditions": "Each generation now sourced in two independent compiled works (Gardiner 1890, S1; Pelletreau 1898, S2): Bull Smith -> Richard 2d -> Nathaniel Smith (b. 30 Jan 1698, d. 30 Mar 1765, patentee of Moriches) -> Mary (b. 3 Oct 1725, m. 12 Jun 1745 Col. Abraham Gardiner) -> Capt. Abraham Gardiner (1763-1796, m. Phoebe Dayton) -> Sen. David Gardiner (1784-1844) -> Julia: 5th cousin 6 times removed. Gardiner (S1) lists her children with President Tyler as David G., John A., Julia, Lachlan, Lyon G., Robert Fitzwalter and Pearl.",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Collateral path confirmed in two published genealogies; only John's own Temperance Smith link keeps it below confirmed."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), pp. 118-121, 131-132, 148-149",
+      "url": "https://archive.org/details/liongardinerhisd00gard",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Col. Abraham Gardiner m. 12 Jun 1745 Mary dau. of Nathaniel & Phoebe (Howell) Smith, 'a descendant of Major Richard Smith of Smithtown, called \"Bull Smith\"'; Capt. Abraham b. 25 Jan 1763 m. 31 May 1781 Phoebe Dayton d. 12 Oct 1796; David b. 2 May 1784; Juliana m. John Tyler"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465, 467-470",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Nathaniel Smith (son of Richard 2d, b. 30 Jan 1698) m. Phebe Howell; daughter Mary b. 3 Oct 1725 m. Col. Abraham Gardiner; Capt. Abraham m. Phebe Dayton; Hon. David; Julia wife of President John Tyler"
+    },
+    {
+      "ref": "S3",
+      "citation": "Wikipedia, 'Julia Gardiner Tyler' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; secret marriage 26 Jun 1844"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Julia Gardiner Tyler, by Francesco Anelli",
+      "date": "c. 1846-1848",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Julia_Tyler.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Julia_Tyler.jpg",
+      "repository": "Wikimedia Commons (original at the White House)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0294/julia-gardiner-tyler-anelli-c1846.jpg",
+      "people": [
+        "H0294"
+      ],
+      "suggestedFile": "media/H0294/julia-gardiner-tyler-anelli-c1846.jpg",
+      "note": "Commons licence: Public domain (c.1846-48 painting). 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: path verified in Gardiner 1890 and Pelletreau 1898; PD Anelli portrait downloaded.",
+  "researchedAt": "2026-10-08"
+}

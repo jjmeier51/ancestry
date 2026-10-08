@@ -1,0 +1,88 @@
+{
+  "id": "H0213",
+  "name": "Harry Ward Croop",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1884-09-16",
+      "place": "Hunlock Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Physician (Kingston, PA)",
+    "residences": [
+      {
+        "date": "c.1928",
+        "place": "275 Rutter Ave., Kingston, Luzerne Co., PA",
+        "note": "residence named in 1929 county history (deceased-era address)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "military": [
+      {
+        "note": "Enlisted on U.S. entry into World War I; about 2.5 years in the Medical Corps of the U.S. Navy, left the service in Oct 1919 as a lieutenant.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Education",
+        "date": "1908-1917",
+        "place": "",
+        "description": "Lehman Twp. High School (1908) and Pleasant Hill Academy; taught school 7 years; Wyoming Seminary 2 years; M.D., Jefferson Medical College, 1917.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Marriage",
+        "date": "1918",
+        "place": "",
+        "description": "Married Elizabeth M. McCloskey of Philadelphia, daughter of William and Theresa (Walsh) McCloskey of Wilmington, Del.; four children b. 1919-1926.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Harvey & Smith's history (vol. V, 1929) has a sketch of Dr. Harry Ward Croop. He was born 16 Sep 1884 in Hunlock Township, son of Benjamin F. Croop (b. Hunlock Twp. 1856/58), owner and manager of the Croop's Glen amusement park at Hunlock's Creek, and Alvaretta Jane Eves (b. Columbia Co. 1858/59). He taught school for seven years, graduated from Jefferson Medical College in 1917, and served two and a half years as a Navy medical officer in World War I. After an internship at Wilkes-Barre General Hospital he practised at Kingston, stayed on the General Hospital staff, and was a Mason (Keystone Consistory, Irem Temple), Elk, Legionnaire and member of the Church of Christ, Kingston (S1).\n\nThe same volume's sketch of his brother Stanley Carson Croop (b. 9 Mar 1897) says their father turned a hotel business into Croop's Glen, a picnic and amusement resort with pony rides and novelties, and that Stanley served 18 months on Submarine Chaser No. 62 in 1918-19 and was postmaster and storekeeper at Hunlock Creek from 1924 (S1). Hiram Croop's surviving children in 1893 were Martha, Joseph H. and Fredrick W. (Bradsby p.812), so Benjamin F. was not Hiram's son. Harry Ward's exact descent from the pioneer John or Frederick Croop is still not traced.",
+  "relationships": [],
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "possible",
+    "justification": "Parents now known (Benjamin F. Croop and Alvaretta Jane Eves), but Benjamin's link to the Hunlock Croop pioneers is untraced."
+  },
+  "openQuestionsNew": [
+    "Parentage of Benjamin F. Croop (b. Hunlock Creek 15 May 1858 per Stanley's sketch; 1856 per Harry's) - which son of the Hunlock Croops?",
+    "Death date of Dr. Croop (PA death index, 1930s-1970s, not checked without a year).",
+    "A Harry W. Croop Jr., Wesleyan 1942, WWII Army, died 12 Dec 2014 aged 94, fits the son b. Nov 1920, but the notice names no parents (candidate only)."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Harvey & Smith, A History of Wilkes-Barre, vol. V (1929), sketches of Harry Ward Croop, M.D. (p.286) and Stanley Carson Croop (p.505-506)",
+      "url": "https://archive.org/details/historyofwilkesb05harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth, parents, education, WWI service, marriage, children, Croop's Glen"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wesleyan University class notes, 'Harry W. Croop Jr. '42'",
+      "url": "https://classnotes.blogs.wesleyan.edu/2015/05/21/harry-w-croop-jr-42/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "candidate son: d. 12 Dec 2014 aged 94"
+    }
+  ],
+  "searchedNoResult": [
+    "Web search for Dr. Harry W. Croop obituary: none found"
+  ],
+  "researchLogEntry": "Round 4: from Harvey & Smith vol. V added birth date, parents (Benjamin F. Croop of Croop's Glen and Alvaretta Eves), Jefferson Medical College 1917, WWI Navy service, marriage.",
+  "researchedAt": "2026-10-08"
+}

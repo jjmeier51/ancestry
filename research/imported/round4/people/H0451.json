@@ -1,0 +1,58 @@
+{
+  "id": "H0451",
+  "name": "Marie Chadaine",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "",
+      "place": "'yers' (probably Hiers[-Brouage]), Saintonge, France",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Marie Chadeayne",
+      "Marie Chadene"
+    ],
+    "events": [
+      {
+        "title": "Marriage to Josué Mercereau",
+        "date": "1693-07-16",
+        "place": "French Church, New York",
+        "description": "By Pierre Peiret after banns on three Sundays; Josué 'de Moise en Saintonge', Marie 'de yers en Saintonge'. Signers include Jean Chadeayne, Henri Chadeayne, Josué Mercereau, Marie Chadeyne, Jean La Tourette, Elie Boudinot, Pierre Masse.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Marie Chadaine (Chadeayne) married Josué Mercereau at the French Church of New York on 16 Jul 1693, the same day as Jean La Tourette and Marie Mercereau. She is described as 'de yers en Saintonge', probably Hiers near Brouage, and he as of Moëze in Saintonge. Jean and Henri Chadeayne, presumably her kinsmen, signed as witnesses (S1). She had appeared earlier as a godmother in the same church (index: Marie, s., p.13). Two children were baptized there: Marie (b. 16 May 1695, bapt. 19 May 1695, sponsors Jean Chadene and Elizabeth Mercereau) and Josué (b. 15 May 1696, bapt. 5 Jul 1696, sponsors Daniel Mercereau and Marie Boucherie) (S1). That Josué (b. 1696) is the Joshua Mercereau (1696) whose son Joshua (1728-1804) ran the Mersereau spy ring for Washington.",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0197",
+      "evidence": "French Church of NY marriage, 16 Jul 1693",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "Marriage and baptisms in the contemporary register (published)."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Collections of the Huguenot Society of America, vol. I (1886): registers of the French Church (Eglise Françoise à la Nouvelle York), transcribed",
+      "url": "https://archive.org/details/collectionsofhug01hugu",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "marriage 16 Jul 1693 (p.30), origin, baptisms of Marie 1695 and Josué 1696 (p.49)"
+    }
+  ],
+  "researchLogEntry": "Round 4: found her 16 Jul 1693 marriage to Josué Mercereau (she of 'yers', Saintonge) and the baptisms of Marie (1695) and Josué (1696) in the French Church of NY registers.",
+  "researchedAt": "2026-10-08"
+}

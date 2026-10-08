@@ -6,15 +6,18 @@
   },
   "sex": "F",
   "aka": [
-    "Estella Pringle"
+    "Estella Pringle",
+    "Stella M. Sipple"
   ],
   "tags": [],
   "summary": "John's 3rd-great-grand-aunt.",
-  "bio": "Stella/Estella, 5 in 1880. FamilySearch has Stella (1874-1893) and Stella M. (1876-1920) - duplicate or re-used name; Bradsby lists 'Estella' living in 1893.",
+  "bio": "Stella/Estella, 5 in 1880. FamilySearch has Stella (1874-1893) and Stella M. (1876-1920) - duplicate or re-used name; Bradsby lists 'Estella' living in 1893.\n\nThe FamilySearch profile with records is Stella M. Pringle: born 11 Jun 1876 at Larksville, in Andrew's household in 1880, married Conrad Sipple in Luzerne Co. on 24 Dec 1895 (county marriage record attached), living in Larksville until her death there on 17 Mar 1920, and buried at Cedar Crest Cemetery, Trucksville ([R4-S1]). The other FamilySearch 'Stella' (1874-1893) has no sources and is probably a duplicate. A 'Stella' who died in 1893 would also conflict with Bradsby's 1893 list, which names Estella as living ([R4-S2]).",
   "sources": [
     "1880 US census, Plymouth Twp (E. Dist., 3d Div.), Luzerne Co., ED 145, p.4, enumerated 4 Jun 1880: https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHHH-W68/images/i/0/image.jpg ; record https://familysearch.org/ark:/61903/1:1:MWNZ-S9X",
     "Bradsby 1893, Catherine Scott sketch (p.~1327), PAGenWeb transcription: https://pagenweb.org/~luzerne/bios/sabios.htm",
-    "FamilySearch"
+    "FamilySearch",
+    "[R4-S1] FamilySearch published tree, Stella M Pringle (GZ3J-TRG), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GZ3J-TRG",
+    "[R4-S2] FamilySearch published tree, Stella Pringle 1874-1893 (9KXX-M4Q), no sources (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-M4Q"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -25,6 +28,47 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Stella M. (1876-1920) m. 1895 Conrad Sipple is the documented profile; the 1874-1893 Stella looks like a duplicate."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0163.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "BET 1874 AND 1876",
+      "found": "1876-06-11",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "birth": {
+    "date": "BET 1874 AND 1876",
+    "place": "Larksville"
+  },
+  "death": {
+    "date": "1920-03-17",
+    "place": "Larksville"
+  },
+  "burial": {
+    "place": "Cedar Crest Cemetery, Trucksville"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1895-12-24",
+      "place": "Luzerne Co.",
+      "description": "To Conrad Sipple (1870-1936), county marriage record [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GZ3J-TRG"
     }
   ]
 }

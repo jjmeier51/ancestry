@@ -1,0 +1,53 @@
+{
+ "id": "I282824814875",
+ "name": "Giovanni Pasquale Dibiasi",
+ "status": "researched",
+ "bioAdditions": "The FamilySearch tree attaches four children to Giovanni Pasquale and Rosa Siconolfi: Domenico Antonio (1856), Maria Antonia (1870), Joseph (b. 18 Apr 1891) and Vincenzo 'James' (b. 2 Mar 1894). It cites no sources for him (S1). The two youngest cannot be theirs, because Rosa would have been 52–55. The April 1940 census shows Joseph DiBiasi (47, born Italy) and James DiBiasi (45, born Italy) as neighbours at 1015 Bunker Hill Street (S2). Three doors from the Petriello house, at 1022, lived a widowed Vincenzo DiBiasi, aged 74 (born c.1866), with his son Michael (S3). That Vincenzo is a more plausible father for Joseph and James, and possibly a younger son of Giovanni Pasquale himself, which would make him Maria Antonia's brother.",
+ "conflicts": [
+  {
+   "field": "children",
+   "siteValue": "(site lists Domenico Antonio and Maria Antonia)",
+   "foundValue": "FamilySearch tree adds Joseph (1891-1958) and Vincenzo/James (1894-1965)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Reject the FS additions: Rosa Siconolfi (b. c.1839) could not bear children in 1891/1894. Joseph married Grace Petrillo, Giovanni's own granddaughter."
+  }
+ ],
+ "openQuestionsNew": [
+  "Was Vincenzo DiBiasi (b. c.1866, widower at 1022 Bunker Hill St in 1940) a son of Giovanni Pasquale and Rosa? His PA death certificate would name his parents."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile G4YR-BXY (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G4YR-BXY",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Tree children list; birth c.1829 at Lucera (unsourced)"
+  },
+  {
+   "ref": "S2",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 DiBiasi and Castellano households on Bunker Hill St"
+  },
+  {
+   "ref": "S3",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  }
+ ],
+ "searchedNoResult": [
+  "Antenati Guardia Lombardi registers: blocked (403)",
+  "FamilySearch G4YR-BXY has zero attached sources"
+ ],
+ "researchLogEntry": "Round 4: the FS tree's extra children Joseph (1891) and James (1894) are impossible for Rosa; the 1940 census places them on Bunker Hill St, with a widower Vincenzo DiBiasi (b. c.1866) as a better father candidate.",
+ "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "H0086",
+  "name": "Daniel Lamoureux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Baptism of son Andre",
+        "date": "17 Jan 1722 (born 10 Jan)",
+        "place": "French Church, New York",
+        "description": "'andre la Moureux ... fils de Daniel la Moureux et de Jeane son Epouze'; godparents Isaac Quantin and Ester Masse; the father signs 'Daniel Lamoureux'",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Baptism of son Daniel",
+        "date": "29 May 1720 (born 18 May)",
+        "place": "French Church, New York",
+        "description": "Baptized by Moulinars; parents 'daniel et Jeane la moureux'; godparents Daniel la Moureux and Susanne la Moureux; father signs",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The printed registers of the French Church of New York contain two baptisms of Daniel's children, and he signed both entries himself (S1). Andre was born 10 Jan and baptized 17 Jan 1722, and his godmother was Ester Masse. A Masse godparent supports the family record's statement that Daniel's wife Jeanne was a Masse; Pierre Masse's daughter Jeanne was baptized at the same church in 1696. Daniel, born 18 May, was baptized on 29 May 1720, with godparents Daniel la Moureux and Susanne la Moureux. The register has no marriage for Daniel and Jeanne, and no baptism for their son Jean (b. 31 Dec 1723) or for the later children, who the Davenport genealogy says were born at New Rochelle and Philipstown. The 28 Jun 1719 marriage date in that genealogy (and on FamilySearch) is therefore not from this register (S1, S2).",
+  "openQuestionsNew": [
+    "The marriage of 28 Jun 1719 is not in the French Church register. Try the NYC Dutch Church marriages, the NY marriage licences (Names of Persons for whom Marriage Licenses were Issued, 1860) and the New Rochelle French Church records."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Supported by the Bristol baptism and the NY French Church baptisms of his sons."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), pp.155-156, 164 and index",
+      "url": "https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "baptisms of Daniel 1720 and Andre 1722; no marriage entry"
+    },
+    {
+      "ref": "S2",
+      "citation": "Giles, Thomas Davenport, Pioneer, and His Descendants, Section X p.355",
+      "url": "https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "marriage 28 Jun 1719 (claim); list of nine children"
+    }
+  ],
+  "researchLogEntry": "Round 4: French Church register transcripts give the baptisms of sons Daniel (1720) and Andre (1722, godmother Ester Masse); no marriage there."
+}

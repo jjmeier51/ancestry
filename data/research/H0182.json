@@ -7,11 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 5th-great-grand-uncle.",
-  "bio": "Daniel (1796-1838) married Martha Lum/Linn.",
+  "bio": "Daniel (1796-1838) married Martha Lum/Linn.\n\nFamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father ([R4-S1]). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead.",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
-    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44"
+    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
+    "[R4-S1] FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -22,6 +23,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives b. 28 Nov 1796, wife Maria Allen (not Martha Lum/Linn), and a son in Iowa."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0182.json."
     }
   ],
   "media": [
@@ -32,6 +41,32 @@
       "source": "WikiTree",
       "note": "Daniel Lamoreaux, 1796-11-28 – 1838-00-00",
       "url": "https://www.wikitree.com/wiki/Lamoreaux-118"
+    }
+  ],
+  "birth": {
+    "date": "1796-11-28",
+    "place": "Luzerne Co."
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "ABT 1821",
+      "place": "Luzerne Co.",
+      "description": "To Maria Allen (1804-1863), per FamilySearch [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LT7X-155"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "spouse",
+      "site": "Martha Lum/Linn",
+      "found": "Maria Allen (FamilySearch)",
+      "assessment": "Unresolved; possibly two marriages."
     }
   ]
 }

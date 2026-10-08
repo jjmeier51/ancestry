@@ -9,6 +9,42 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1940 census at 1015 Bunker Hill St (owner, Grace the grocer); the FS parentage is impossible."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0501.json."
     }
+  ],
+  "birth": {
+    "date": "1891-04-18",
+    "place": "Italy"
+  },
+  "death": {
+    "date": "1958-05-31",
+    "place": "Scranton, Lackawanna County, PA"
+  },
+  "residences": [
+    {
+      "date": "1940-04-16",
+      "place": "1015 Bunker Hill Street, Scranton Ward 10, PA",
+      "note": "Head, 47, born Italy, naturalized, owned home valued $850; not working; wife Grace runs a general grocery store. [R4-S1]"
+    }
+  ],
+  "bio": "In 1940 Joseph DiBiasi, 47, an Italian-born naturalized citizen, owned the house at 1015 Bunker Hill Street, where his wife Grace (Petrillo) kept a general grocery. James DiBiasi, 45, born in Italy, owned the other half of the same house number ([R4-S1]). The FamilySearch tree gives Joseph's dates as 18 Apr 1891 – 31 May 1958. It makes him a son of Giovanni Pasquale DiBiasi and Rosa Siconolfi, which is impossible on Rosa's age; that would also make Grace his niece ([R4-S2]). His real parents are unknown. A widowed Vincenzo DiBiasi (b. c.1866) at 1022 Bunker Hill Street in 1940 is a candidate father. Grace's 1943 repatriation shows Joseph was still an alien when they married, before Sept 1922.",
+  "conflicts": [
+    {
+      "field": "parents",
+      "site": "(none)",
+      "found": "FS: Giovanni Pasquale DiBiasi + Rosa Siconolfi",
+      "assessment": "Reject; Rosa b. c.1839."
+    }
+  ],
+  "sources": [
+    "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch Family Tree published profile GQ4M-G2V (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQ4M-G2V"
   ]
 }

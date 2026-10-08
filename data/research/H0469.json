@@ -9,6 +9,29 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: marriage and death dates from Thompson."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0469.json."
     }
+  ],
+  "death": {
+    "date": "1707-06-12"
+  },
+  "events": [
+    {
+      "title": "Marriage to Hannah Brewster",
+      "date": "1703-01-16",
+      "place": "Brookhaven, NY",
+      "description": "[R4-S1]"
+    }
+  ],
+  "bio": "Married Hannah Brewster 16 Jan 1703; died 12 Jun 1707 (Thompson vol. 3 p. 296).",
+  "sources": [
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296 (secondary) https://archive.org/details/historyoflongisl003thom"
   ]
 }

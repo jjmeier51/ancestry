@@ -19,7 +19,8 @@
   "sources": [
     "McCurdy p14551",
     "Uploaded deep-dive report corrections table",
-    "My Maine Heritage ps409_270"
+    "My Maine Heritage ps409_270",
+    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11) (secondary) https://archive.org/details/tuthillfamilyoft00aker"
   ],
   "mediaKnown": [
     "Tree gravestone photo"
@@ -33,6 +34,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0265, probable): Akerly no. 9"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: shown to be the wife of Joshua, not James, Tuthill."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695486799.json."
     }
   ],
   "media": [
@@ -43,6 +56,21 @@
       "source": "WikiTree",
       "note": "Hannah Reeve, 1699-07-03 – 1764-03-08",
       "url": "https://www.wikitree.com/wiki/Reeve-571"
+    }
+  ],
+  "bio": "Akerly (1898): Hannah, daughter of Maj. James Reeve of Mattituck, was the wife of Joshua Tuthill (b. 1690, d. 2 June 1782) of Cutchogue. She died 8 Mar 1764, aged 64 ([R4-S1]). She was not the wife of James Tuthill, as the tree has it.",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "site": "Tree: wife of James M. Tuthill",
+      "found": "Wife of Joshua Tuthill of Cutchogue",
+      "assessment": "Tree error; reattach to Joshua (H0265)."
+    },
+    {
+      "field": "death.date",
+      "site": "18 Mar 1764",
+      "found": "8 Mch. 1764, ae. 64",
+      "assessment": "Akerly says 8 March; check the gravestone."
     }
   ]
 }

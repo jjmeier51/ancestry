@@ -1,15 +1,16 @@
 {
   "id": "H0376",
   "link": {
-    "confidence": "unverified",
-    "note": "Same surname, neighbouring town; kinship unproven. Not a documented relative."
+    "confidence": "possible",
+    "note": "Same surname, neighbouring town; kinship unproven. Not a documented relative. Round 4 (unverified → possible): Notable is real; kinship to John unproven."
   },
   "sex": "M",
   "tags": [],
   "summary": "Judge murdered by the 'Ndrangheta; same-surname figure from the comune next to San Mango d'Aquino, no proven kinship.",
-  "bio": "Born in Conflenti, next to San Mango d'Aquino. Investigating judge and later appeals-court president; murdered by the 'Ndrangheta in Lamezia Terme in 1975; commemorated by President Mattarella. Ferlaino is a small Savuto-valley surname, so a distant link is plausible but unproven.",
+  "bio": "Born in Conflenti, next to San Mango d'Aquino. Investigating judge and later appeals-court president; murdered by the 'Ndrangheta in Lamezia Terme in 1975; commemorated by President Mattarella. Ferlaino is a small Savuto-valley surname, so a distant link is plausible but unproven.\n\nItalian Wikipedia gives his birth as 23 July 1914 at Conflenti ([R4-S1]). He was a magistrate and was shot dead on 3 July 1975 near his home in Nicastro (Lamezia Terme). He was the paternal uncle of Corrado Ferlaino, the SSC Napoli owner (living; not researched). No genealogical link to John's San Mango Ferlainos was found.",
   "sources": [
-    "Italiani.it: https://en.italiani.it/mattarella-remembers-the-judge-francesco-ferlaino-killed-in-1975/"
+    "Italiani.it: https://en.italiani.it/mattarella-remembers-the-judge-francesco-ferlaino-killed-in-1975/",
+    "[R4-S1] Italian Wikipedia, \"Francesco Ferlaino\" (secondary) https://it.wikipedia.org/wiki/Francesco_Ferlaino"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -20,6 +21,26 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → possible: Notable is real; kinship to John unproven."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Wikipedia confirms birth 23 Jul 1914 Conflenti and murder 3 Jul 1975; uncle of Corrado Ferlaino. No link to John's line."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0376.json."
     }
-  ]
+  ],
+  "birth": {
+    "date": "1914-07-23",
+    "place": "Conflenti"
+  },
+  "death": {
+    "date": "1975-07-03",
+    "place": "Lamezia Terme (Nicastro)"
+  }
 }

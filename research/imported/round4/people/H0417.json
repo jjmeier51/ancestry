@@ -1,0 +1,32 @@
+{
+  "id": "H0417",
+  "name": "Elsa",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1597 (FamilySearch, no source)",
+      "place": "Oberbrombach",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "FamilySearch has Hans Grub's wife Elsa dying at Oberbrombach in 1597, unsourced (S1). The same tree makes Christmann's wife an 'Elssa' born on 11 Apr 1597, which suggests the two Elsas have been confused.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "Unsourced."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Elsa (GCNN-VTB)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GCNN-VTB",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "claim only"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives d. 1597, no source."
+}

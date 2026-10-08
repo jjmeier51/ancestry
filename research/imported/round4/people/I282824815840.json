@@ -1,0 +1,54 @@
+{
+ "id": "I282824815840",
+ "name": "ANTONIO (ANTONIUS) SACCO",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Antonio married Anna Villella on 7 May 1746; the index notes that the groom came from Pittarella (S1), a hamlet of Pedivigliano in the Savuto valley. A San Mango baptism of an Antonio Sacco on 26 January 1729 exists, but it names his parents as Gioacchino Sacco and Mattea Pagliuso, not the tree's Carmine Sacco (S2). Because the groom was from Pittarella, that baptism may belong to a different Antonio.",
+ "conflicts": [
+  {
+   "field": "father",
+   "siteValue": "Carmine Sacco",
+   "foundValue": "San Mango 1729 baptism of an Antonius Sacco names Joachim Sacco and Matthea Pagliuso; the groom of 1746 was from Pittarella",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Unresolved: either the tree's Carmine comes from Pittarella records, or the 1729 San Mango baptism is his and the father is Gioacchino."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "I282824815863",
+   "evidence": "Marriage 1746",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "possible",
+  "justification": "Marriage confirmed; birth and parentage conflict."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1713-1747 (Book 16), image 59, p. 58, no. 5; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 7 May 1746, Antonio Sacco and Anna Villella (daughter of Antonio and Maria [Maletta]); note \"Groom is from Pittarella\" (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 67, p. 61, no. 3; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Antonius Sacco bapt. 26 Jan 1729, father Joachim Sacco, mother Matthea Pagliuso (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: marriage 7 May 1746 (groom from Pittarella); 1729 baptism names a different father (Gioacchino), conflict flagged."
+}

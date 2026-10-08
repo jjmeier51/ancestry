@@ -1,0 +1,61 @@
+{
+  "id": "H0446",
+  "name": "Samuel Ackley",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1792-06-14",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1824-08-14",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage to Keturah Lamoreux",
+        "date": "1815-06-18",
+        "place": "",
+        "description": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The Harvey Book's Nesbitt genealogy gives Samuel Ackley's dates as born 14 Jun 1792, died 14 Aug 1824, and says he married Keturah Lamoreux (b. 18 Feb 1791, d. 9 Dec 1842), daughter of Thomas and Keturah (Tuttle) Lamoreux, on 18 Jun 1815 (S1). He died at 32, leaving at least two children. Alba A. Ackley (b. 10 Oct 1818) married Hannah Nesbitt at Plymouth on 29 Jan 1846, moved to La Porte, Indiana, and died there on 4 Dec 1885. Jane Ackley (b. Plymouth 18 Sep 1823) married James Madison Nesbitt on 23 Sep 1841 (S1).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0180",
+      "evidence": "Harvey Book pp.360, 362",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Exact dates and marriage from the Harvey Book, consistent with Giles & Franklin."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Harvey, The Harvey Book (1899), Nesbitt genealogy entries (36) James Madison Nesbitt and (40) Hannah Nesbitt, pp.360-363",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "birth, death, marriage, children Alba A. and Jane"
+    }
+  ],
+  "researchLogEntry": "Round 4: added birth 14 Jun 1792, death 14 Aug 1824, marriage 18 Jun 1815 and children Alba A. and Jane from the Harvey Book.",
+  "researchedAt": "2026-10-08"
+}

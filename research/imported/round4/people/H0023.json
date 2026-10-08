@@ -1,0 +1,48 @@
+{
+  "id": "H0023",
+  "name": "Sophie Mayer",
+  "status": "researched",
+  "updates": {
+    "occupation": "domestic servant at Freiburg (1862)",
+    "residences": [
+      {
+        "date": "1862-01",
+        "place": "Freiburg im Breisgau",
+        "note": "'Ledig, im Dienst zu Freiburg' (single, in service at Freiburg).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Godmother to her nephew Friedrich",
+        "date": "1862-01-13",
+        "place": "Munzingen",
+        "description": "Godmother at the baptism of Friedrich, son of Maria Anna Birkenmaier, whom her brother Friedrich Mayer acknowledged.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "In January 1862 Sophie, then 30, was unmarried and in domestic service at Freiburg. She came home to Munzingen to be godmother to her brother Friedrich's first child, born before the parents' marriage (S1).",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "Named as Friedrich's sister in a primary register."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Godparents of Friedrich Mayer jun.: Joseph Wenz, shoemaker, and Sophie Mayer, single, in service at Freiburg"
+    }
+  ],
+  "media": [],
+  "researchLogEntry": "Round 4: in service at Freiburg in 1862; godmother to her nephew Friedrich.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "I282824815627",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child I282824815806, proven): Alessio Moraca bapt. 1772"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 19 Apr 1745 (parents Domenico Putero and Lucrezia Monaco)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815627.json."
+    }
+  ],
+  "bio": "Anna Maria was baptized on 19 April 1745, daughter of Domenico Putero and Lucrezia Monaco ([R4-S1]). Her parents are new to the tree.",
+  "link": {
+    "confidence": "probable",
+    "note": "Round 4 (unverified → probable): Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 128, p. 174, no. 19; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
+  ]
+}

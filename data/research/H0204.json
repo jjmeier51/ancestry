@@ -7,9 +7,10 @@
   "sex": "F",
   "tags": [],
   "summary": "John's 5th-great-grand-aunt.",
-  "bio": "Elizabeth (Grub) Michael (1761 - after 1826), m. Peter Michael.",
+  "bio": "Elizabeth (Grub) Michael (1761 - after 1826), m. Peter Michael.\n\nFamilySearch gives Maria Elizabeth's baptism as 5 Jul 1761 at the Tohickon Reformed Church, Bucks Co. (born 5 Jun), citing Historical Society of Pennsylvania baptism cards. That is the same congregation where Casper Doll's daughter was baptized in 1757. It gives her marriage to Peter Michael in 1783, with children in Forks Twp from 1784 ([R4-S1]).",
   "sources": [
-    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4"
+    "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
+    "[R4-S1] FamilySearch published tree, Elizabeth Grub (LCV6-18T), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LCV6-18T"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +21,32 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives bapt. 5 Jul 1761 Tohickon and m. 1783 Peter Michael."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0204.json."
+    }
+  ],
+  "birth": {
+    "date": "1761-06-05",
+    "place": "Tohickon Reformed Church, Bucks Co."
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1783",
+      "place": "",
+      "description": "To Peter Michael (1760-1831) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LCV6-18T"
     }
   ]
 }

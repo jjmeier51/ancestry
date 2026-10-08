@@ -1,0 +1,44 @@
+{
+  "id": "H0217",
+  "name": "Anna Catharine Doll",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1799 (FamilySearch)",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1775",
+        "place": "Northampton Co.",
+        "description": "To Capt. Lewis Stecher Sr. (1743-1821)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LH6M-WWW"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Anna Catharina's birth date as 1 Jan 1757 (baptized 22 Feb 1757 at Tohickon), her marriage in 1775 to Capt. Lewis Stecher Sr. (1743-1821), with children in Plainfield and Forks Twps from 1776, and her death in 1799. Find a Grave indexes her as 'Anna Catharine Doll Stacher' (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Anna Catharine Doll (LH6M-WWW), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LH6M-WWW",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. 1 Jan 1757, m. 1775 Capt. Lewis Stecher, d. 1799."
+}

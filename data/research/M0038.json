@@ -1,0 +1,21 @@
+{
+  "id": "M0038",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: sibling of I282604494274 (probable); child of H0003 (probable)."
+  },
+  "tags": [],
+  "summary": "Daughter of Edward McGuire and Mary Jane Gaffney",
+  "bio": "Daughter of Edward McGuire and Mary Jane Gaffney. Married Murdock \"Murt\" Dunn (b. 24 Dec 1862) at Plymouth, Pa., on 27 Dec [1886/87] (Luzerne licence 1790). The family emigrated to the Vancouver Island coalfield: in the 1901 Canadian census they were at South Wellington, Nanaimo, B.C. Murdock died in 1901; Cecilia remarried Samuel Wilson at Ladysmith in 1908 and died there in 1918. Children (FS): Thomas (1888-1937), Mary (1890-1935), Edward (1892-1909), Ellen (1894-1969), John Thomas (1897-1955), Murty Vincent (1902-1982). John's 3rd-great-grand-aunt.",
+  "sources": [
+    "[R4-S1] FamilySearch tree G3FP-1G7, Cecilia Marcella McGuire (1864-1918) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3FP-1G7",
+    "[R4-S2] Luzerne Co. Marriage License Docket no. 1790 (Denn-McGuire) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3FP-1G7/images/i/2/image.jpg"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-202 → M0038; research/imported/round4/new_people.json."
+    }
+  ]
+}

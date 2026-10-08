@@ -9,14 +9,15 @@
     "notable"
   ],
   "summary": "John's 4th-great-grand-uncle; coal operator, first president of Kingston borough council (1857), and the likely namesake of Pringle Borough.",
-  "bio": "Thomas Pringle (2 Nov 1791 - 22 May 1861), eldest son of Samuel and Martha, married Elizabeth Harvey. He mined coal in partnership with his brothers-in-law, is listed among the valley's coal operators around 1843 (Pearce p.380), and in 1837 moved to a large Kingston farm whose lane later became Pringle Street. A county history says Pringle Borough 'takes its name from that of a prominent family of that vicinity' and notes that Thomas Pringle was the first president of Kingston's borough council in 1857; Wikipedia says the borough honours Thomas Pringle. Neither source says which Thomas; another Thomas Pringle, born 1821, also lived in the area.",
+  "bio": "Thomas Pringle (2 Nov 1791 - 22 May 1861), eldest son of Samuel and Martha, married Elizabeth Harvey. He mined coal in partnership with his brothers-in-law, is listed among the valley's coal operators around 1843 (Pearce p.380), and in 1837 moved to a large Kingston farm whose lane later became Pringle Street. A county history says Pringle Borough 'takes its name from that of a prominent family of that vicinity' and notes that Thomas Pringle was the first president of Kingston's borough council in 1857; Wikipedia says the borough honours Thomas Pringle. Neither source says which Thomas; another Thomas Pringle, born 1821, also lived in the area.\n\nFamilySearch gives Thomas a birthplace of Monroe, Orange Co., NY, which fits the Lamoreaux and Prindle presence there around 1790. It places him at Kingston in the 1850 and 1860 censuses (as 'Thos Pringdle' in 1860) and his burial in Forty Fort Cemetery ([R4-S1]). It also gives a marriage to Elizabeth Harvey at Voluntown, Connecticut, on 5 Sep 1813. That place is unexpected and should be checked, since the Harveys were Plymouth people.",
   "notable": "Likely namesake of Pringle Borough, PA",
   "sources": [
     "Harvey Book pp.134-136: https://archive.org/details/harveybookgiving00harv",
     "Harvey & Smith vol. V p.165: https://archive.org/details/historyofwilkesb05harv",
     "Wikipedia, Pringle, Pennsylvania: https://en.wikipedia.org/wiki/Pringle,_Pennsylvania",
     "Pearce, Annals of Luzerne p.380: https://archive.org/details/annalsofluzernec01pear",
-    "Bradsby (Thomas Pringle b. 1821): https://pagenweb.org/~luzerne/bios/wibios.htm"
+    "Bradsby (Thomas Pringle b. 1821): https://pagenweb.org/~luzerne/bios/wibios.htm",
+    "[R4-S1] FamilySearch published tree, Thomas Pringle (KCDC-9LX), with 1850 and 1860 census images and Find a Grave index (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KCDC-9LX"
   ],
   "occupation": "Coal operator; farmer",
   "handoff": {
@@ -28,6 +29,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch adds a Monroe, NY birthplace, Kingston residence in 1850-60 and burial at Forty Fort; the Voluntown CT marriage place is doubtful."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0141.json."
     }
   ],
   "media": [
@@ -38,6 +47,39 @@
       "source": "WikiTree",
       "note": "Thomas Pringle, 1791-11-02 – 1861-05-22",
       "url": "https://www.wikitree.com/wiki/Pringle-2378"
+    }
+  ],
+  "birth": {
+    "date": "1791-11-02",
+    "place": "Monroe, Orange Co., NY (FamilySearch)"
+  },
+  "burial": {
+    "place": "Forty Fort Cemetery, Forty Fort, Luzerne Co., PA"
+  },
+  "residences": [
+    {
+      "date": "1850",
+      "place": "Kingston, Luzerne Co.",
+      "note": "[R4-S1]"
+    },
+    {
+      "date": "1860",
+      "place": "Kingston Borough ('Thos Pringdle')",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1813-09-05",
+      "place": "Voluntown, New London Co., CT (FamilySearch; doubtful)",
+      "description": "To Elizabeth Harvey (1790-1868) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "KCDC-9LX"
     }
   ]
 }

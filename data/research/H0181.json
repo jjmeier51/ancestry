@@ -7,11 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 5th-great-grand-uncle.",
-  "bio": "Joshua (1793-1839) married Martha Ives, possibly kin of Huldah Ives Pringle (speculative).",
+  "bio": "Joshua (1793-1839) married Martha Ives, possibly kin of Huldah Ives Pringle (speculative).\n\nFamilySearch gives Joshua B. Lamoreaux a birth date of 30 Aug 1793 and his marriage to Martha Ives on 12 Dec 1813, with children born in Lehman and Jackson Twps from 1815. It gives his death as 1838, against 1839 on the site, and attaches his probate file ([R4-S1]).",
   "sources": [
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
-    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44"
+    "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
+    "[R4-S1] FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -22,6 +23,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives m. 12 Dec 1813 Martha Ives and d. 1838 (site 1839)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0181.json."
     }
   ],
   "media": [
@@ -32,6 +41,32 @@
       "source": "WikiTree",
       "note": "Joshua Lamoreaux, 1793-08-30 – 1839-00-00",
       "url": "https://www.wikitree.com/wiki/Lamoreaux-20"
+    }
+  ],
+  "birth": {
+    "date": "1793-08-30",
+    "place": "Monroe, Orange Co., NY (FamilySearch)"
+  },
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "1839",
+      "found": "1838",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1813-12-12",
+      "place": "",
+      "description": "To Martha Ives (b. 1798) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "M6FQ-CKJ"
     }
   ]
 }

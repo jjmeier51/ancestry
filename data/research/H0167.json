@@ -2,12 +2,12 @@
   "id": "H0167",
   "link": {
     "confidence": "probable",
-    "note": ""
+    "note": "Round 4 (probable → probable): Marriage from the minister's journal; settlement and child from two secondary works."
   },
   "sex": "M",
   "tags": [],
   "summary": "Probably John's 5th-great-grand-uncle (Samuel's brother) and also uncle by marriage of Martha Lamoreaux.",
-  "bio": "James Pringle, Samuel's brother ('brothers, presumably natives of Connecticut', Harvey Book), married Phebe Lamoreux, sister of Ensign Thomas, in 1785. Not John's ancestor James (b. c.1799).",
+  "bio": "James Pringle, Samuel's brother ('brothers, presumably natives of Connecticut', Harvey Book), married Phebe Lamoreux, sister of Ensign Thomas, in 1785. Not John's ancestor James (b. c.1799).\n\nRev. Silas Constant married 'James Prendle and Phebe Lamoreux' at Smith's Clove on 19 May 1785 ([R4-S1]). Giles & Franklin say Phebe (1765-1856) was a daughter of John and Charity (Davenport) Lamoreux, lived with her sister Charity in Plymouth, Pa., and later with the Mekeels. They list three children: Charity (b. 31 Jan 1800, d. 1899, m. Oliver McKeel/Mekeel), Hannah, and Phebe, whose daughters were Elmira and Martha (Mrs. Clinton Brown) ([R4-S2]). Harvey says James settled about 1797-98 in the part of Plymouth that became Jackson Twp., and that he was the father of Charity Mekeel (H0145) ([R4-S3]). On p.135 Harvey calls Samuel and James Pringle brothers, 'presumably natives of Connecticut', who lived in Orange Co., N.Y., for several years before 1790.",
   "facts": [
     {
       "label": "Disambiguation",
@@ -16,7 +16,10 @@
   ],
   "sources": [
     "Harvey Book pp.134-135",
-    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-359"
+    "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-359",
+    "[R4-S1] The Journal of the Reverend Silas Constant (ed. E. W. Roebling, 1903), journal entries and Appendix marriage list (primary) https://archive.org/details/cu31924028826894",
+    "[R4-S2] Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.359-360 (secondary) https://archive.org/details/thomasdavenportp00gile",
+    "[R4-S3] Harvey, The Harvey Book (1899), pp.135 and 1020 (secondary) https://archive.org/details/harveybookgiving00harv"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -27,6 +30,48 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → probable: Marriage from the minister's journal; settlement and child from two secondary works."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0191, proven): Constant's journal"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0145, probable): Harvey p.1020; Giles & Franklin p.359"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Constant gives the marriage as 19 May 1785. Giles & Franklin and Harvey give children Charity (H0145), Hannah and Phebe, and the Jackson Twp. settlement c.1797-98."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0167.json."
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1785-05-19",
+      "place": "Smith's Clove, Orange Co., NY",
+      "description": "Constant's journal, 19 May 1785: 'Rode to Smith Clove; married James Prendle and Phebe Lamoreux.' Giles & Franklin give 9 May 1785. [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Settled in Jackson Twp.",
+      "date": "ABT 1797-1798",
+      "place": "part of Plymouth Twp. now Jackson Twp., Luzerne Co., PA",
+      "description": "Harvey Book p.1020. [R4-S3]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "marriage.date",
+      "site": "1785",
+      "found": "19 May 1785 (Constant) vs 9 May 1785 (Giles & Franklin)",
+      "assessment": "Prefer the officiating minister's journal: 19 May."
     }
   ]
 }

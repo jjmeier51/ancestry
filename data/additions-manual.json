@@ -301,6 +301,397 @@
       "given": "",
       "surname": "Borgman",
       "sex": "M"
+    },
+    {
+      "id": "M0037",
+      "given": "Mary",
+      "surname": "McGuire",
+      "sex": "F",
+      "aka": [
+        "Mrs. Michael E. Riley"
+      ],
+      "birth": {
+        "date": "1858-11-03",
+        "place": "Bloomsburg area, Pa. (FS)"
+      },
+      "death": {
+        "date": "1942-06-04",
+        "place": "Plymouth, Luzerne Co., Pa."
+      },
+      "burial": {
+        "place": "St. Vincent's Cemetery, Larksville, Pa."
+      }
+    },
+    {
+      "id": "M0038",
+      "given": "Cecilia Marcella",
+      "surname": "McGuire",
+      "sex": "F",
+      "aka": [
+        "Mrs. Murdock Dunn, later Mrs. Samuel Wilson"
+      ],
+      "birth": {
+        "date": "1864-11-11",
+        "place": "Pennsylvania (licence: Plymouth)"
+      },
+      "death": {
+        "date": "1918-08-10",
+        "place": "Ladysmith, British Columbia, Canada"
+      }
+    },
+    {
+      "id": "M0039",
+      "given": "Edward",
+      "surname": "McGuire",
+      "sex": "M",
+      "aka": [
+        "Jr."
+      ],
+      "birth": {
+        "date": "ABT 1856",
+        "place": "Pennsylvania"
+      }
+    },
+    {
+      "id": "M0040",
+      "given": "Timothy",
+      "surname": "McGuire",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1865",
+        "place": "Pennsylvania"
+      },
+      "death": {
+        "date": "BEF 1880",
+        "place": "Luzerne Co., Pa. (FS)"
+      }
+    },
+    {
+      "id": "M0041",
+      "given": "Maria Giuseppa 'Josephine'",
+      "surname": "Giannetta",
+      "sex": "F",
+      "aka": [
+        "Ragazzo"
+      ]
+    },
+    {
+      "id": "M0042",
+      "given": "Antonio",
+      "surname": "Giannetta",
+      "sex": "M"
+    },
+    {
+      "id": "M0043",
+      "given": "Savino",
+      "surname": "Giannetta",
+      "sex": "M",
+      "aka": [
+        "the elder"
+      ]
+    },
+    {
+      "id": "M0044",
+      "given": "Giuseppa",
+      "surname": "Sena",
+      "sex": "F"
+    },
+    {
+      "id": "M0045",
+      "given": "Nicola",
+      "surname": "Macchia",
+      "sex": "M"
+    },
+    {
+      "id": "M0046",
+      "given": "Grazia Maria",
+      "surname": "Gallicchio",
+      "sex": "F"
+    },
+    {
+      "id": "M0047",
+      "given": "Giuseppe",
+      "surname": "Fede",
+      "sex": "M"
+    },
+    {
+      "id": "M0048",
+      "given": "Angela Maria",
+      "surname": "Loffa",
+      "sex": "F"
+    },
+    {
+      "id": "M0049",
+      "given": "Pasquale di",
+      "surname": "Roberto",
+      "sex": "M"
+    },
+    {
+      "id": "M0050",
+      "given": "Antonia",
+      "surname": "Sena",
+      "sex": "F"
+    },
+    {
+      "id": "M0051",
+      "given": "Leopoldo",
+      "surname": "Ferlaino",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 4 Feb 1870",
+        "place": "San Mango d'Aquino"
+      },
+      "death": {
+        "date": "1870-07-12",
+        "place": "San Mango d'Aquino"
+      }
+    },
+    {
+      "id": "M0052",
+      "given": "Filomena",
+      "surname": "Fiorillo",
+      "sex": "F",
+      "birth": {
+        "date": "1874",
+        "place": "San Mango d'Aquino"
+      }
+    },
+    {
+      "id": "M0053",
+      "given": "Carmelo",
+      "surname": "Fiorillo",
+      "sex": "M",
+      "birth": {
+        "date": "1873",
+        "place": "San Mango d'Aquino"
+      }
+    },
+    {
+      "id": "M0054",
+      "given": "Gaetano",
+      "surname": "Fiorillo",
+      "sex": "M",
+      "birth": {
+        "date": "1886",
+        "place": "San Mango d'Aquino"
+      }
+    },
+    {
+      "id": "M0055",
+      "given": "Cintia Gabriele",
+      "surname": "Fiorillo",
+      "sex": "F",
+      "aka": [
+        "Giacinta"
+      ],
+      "birth": {
+        "date": "ABT 1813",
+        "place": "Aiello Calabro, Cosenza"
+      }
+    },
+    {
+      "id": "M0056",
+      "given": "Antonia",
+      "surname": "Fiorillo",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1815",
+        "place": "Aiello Calabro, Cosenza"
+      }
+    },
+    {
+      "id": "M0057",
+      "given": "Maria",
+      "surname": "Mollame",
+      "sex": "F"
+    },
+    {
+      "id": "M0058",
+      "given": "Andrea",
+      "surname": "Colosimo",
+      "sex": "M"
+    },
+    {
+      "id": "M0059",
+      "given": "Giuseppe Antonio",
+      "surname": "Ferlaino",
+      "sex": "M"
+    },
+    {
+      "id": "M0060",
+      "given": "Giacinta",
+      "surname": "",
+      "sex": "F",
+      "aka": [
+        "Cintia",
+        "Feraco/Iera/Marrello?"
+      ]
+    },
+    {
+      "id": "M0061",
+      "given": "Fenice",
+      "surname": "Rizulo",
+      "sex": "F",
+      "aka": [
+        "Ripolo"
+      ]
+    },
+    {
+      "id": "M0062",
+      "given": "Isaac",
+      "surname": "Blydenburgh",
+      "sex": "M",
+      "birth": {
+        "date": "1775"
+      },
+      "death": {
+        "date": "1858"
+      }
+    },
+    {
+      "id": "M0063",
+      "given": "Henry",
+      "surname": "Tuthill",
+      "sex": "M",
+      "birth": {
+        "date": "BEF Dec 1715"
+      },
+      "death": {
+        "date": "1793-09-17"
+      }
+    },
+    {
+      "id": "M0064",
+      "given": "Henry",
+      "surname": "Tuthill",
+      "sex": "M",
+      "birth": {
+        "date": "1690"
+      },
+      "death": {
+        "date": "1775-09-01"
+      }
+    },
+    {
+      "id": "M0065",
+      "given": "Margaret Smith",
+      "surname": "Woodhull",
+      "sex": "F",
+      "birth": {
+        "date": "1714"
+      },
+      "death": {
+        "date": "1803"
+      }
+    },
+    {
+      "id": "M0066",
+      "given": "Edmund",
+      "surname": "Smith",
+      "sex": "M",
+      "death": {
+        "date": "1734/35"
+      }
+    },
+    {
+      "id": "M0067",
+      "given": "Richard",
+      "surname": "Smith",
+      "sex": "M",
+      "death": {
+        "date": "1811"
+      }
+    },
+    {
+      "id": "M0068",
+      "given": "Henry",
+      "surname": "Wells",
+      "sex": "M",
+      "birth": {
+        "date": "1690-02-07"
+      }
+    },
+    {
+      "id": "M0069",
+      "given": "Deliverance",
+      "surname": "King",
+      "sex": "F"
+    },
+    {
+      "id": "M0070",
+      "given": "Henry James \"Harry\"",
+      "surname": "Meier",
+      "sex": "M"
+    },
+    {
+      "id": "M0071",
+      "given": "Gerald Francis",
+      "surname": "Meier",
+      "sex": "M"
+    },
+    {
+      "id": "M0072",
+      "given": "Fred A.",
+      "surname": "Meier",
+      "sex": "M"
+    },
+    {
+      "id": "M0073",
+      "given": "Christina",
+      "surname": "Mayer",
+      "sex": "F"
+    },
+    {
+      "id": "M0074",
+      "given": "Bethia",
+      "surname": "Roberts",
+      "sex": "F",
+      "aka": [
+        "Pringle"
+      ],
+      "birth": {
+        "date": "ABT 21 Sep 1822",
+        "place": "Pennsylvania"
+      },
+      "death": {
+        "date": "1897-12-30",
+        "place": "Verona, Faribault Co., Minnesota"
+      }
+    },
+    {
+      "id": "M0075",
+      "given": "Daniel",
+      "surname": "Masse",
+      "sex": "M",
+      "birth": {
+        "date": "1689-04-29",
+        "place": "New York (French Church)"
+      }
+    },
+    {
+      "id": "M0076",
+      "given": "Maria Sara",
+      "surname": "Jung",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1678",
+        "place": "Jettenbach"
+      },
+      "death": {
+        "date": "BEF 1721"
+      }
+    },
+    {
+      "id": "M0077",
+      "given": "Hans Peter",
+      "surname": "Doll",
+      "sex": "M"
+    },
+    {
+      "id": "M0078",
+      "given": "Johann Peter",
+      "surname": "Schuch",
+      "sex": "M"
     }
   ],
   "families": [
@@ -384,9 +775,224 @@
       "wife": "M0018",
       "status": "divorced",
       "children": []
+    },
+    {
+      "id": "MF0010",
+      "children": [
+        "H0341"
+      ],
+      "husband": "M0043",
+      "wife": "M0044"
+    },
+    {
+      "id": "MF0011",
+      "children": [
+        "H0342"
+      ],
+      "husband": "M0045",
+      "wife": "M0046"
+    },
+    {
+      "id": "MF0012",
+      "children": [
+        "H0343"
+      ],
+      "husband": "M0047",
+      "wife": "M0048"
+    },
+    {
+      "id": "MF0013",
+      "children": [
+        "H0344"
+      ],
+      "husband": "M0049",
+      "wife": "M0050"
+    },
+    {
+      "id": "MF0014",
+      "children": [
+        "I282824816503"
+      ],
+      "husband": "M0058"
+    },
+    {
+      "id": "MF0015",
+      "children": [
+        "I282824816515"
+      ],
+      "husband": "M0059"
+    },
+    {
+      "id": "MF0016",
+      "children": [
+        "I282695486653"
+      ],
+      "husband": "M0063"
+    },
+    {
+      "id": "MF0017",
+      "children": [
+        "M0063"
+      ],
+      "husband": "M0064"
+    },
+    {
+      "id": "MF0018",
+      "children": [
+        "H0289"
+      ],
+      "wife": "M0065"
+    },
+    {
+      "id": "MF0019",
+      "children": [
+        "M0065"
+      ],
+      "husband": "M0066"
+    },
+    {
+      "id": "MF0020",
+      "children": [
+        "H0517"
+      ],
+      "husband": "M0067"
+    },
+    {
+      "id": "MF0021",
+      "children": [
+        "H0495"
+      ],
+      "husband": "M0068"
+    },
+    {
+      "id": "MF0022",
+      "children": [
+        "H0080"
+      ],
+      "husband": "M0077"
+    },
+    {
+      "id": "MF0023",
+      "children": [
+        "H0081"
+      ],
+      "husband": "M0078"
     }
   ],
-  "familyUpdates": [],
+  "familyUpdates": [
+    {
+      "id": "F144",
+      "wife": "M0057"
+    },
+    {
+      "id": "F159",
+      "wife": "M0060"
+    },
+    {
+      "id": "F171",
+      "wife": "M0061"
+    },
+    {
+      "id": "F153",
+      "wife": "M0069"
+    },
+    {
+      "id": "HF0044",
+      "wife": "M0076"
+    },
+    {
+      "id": "HF0005",
+      "addChildren": [
+        "M0037",
+        "M0038",
+        "M0039",
+        "M0040"
+      ]
+    },
+    {
+      "id": "HF0182",
+      "addChildren": [
+        "M0041",
+        "M0042"
+      ]
+    },
+    {
+      "id": "F101",
+      "addChildren": [
+        "M0051"
+      ]
+    },
+    {
+      "id": "F90",
+      "addChildren": [
+        "M0052",
+        "M0053",
+        "M0054"
+      ]
+    },
+    {
+      "id": "HF0176",
+      "addChildren": [
+        "M0064"
+      ]
+    },
+    {
+      "id": "F80",
+      "addChildren": [
+        "M0066"
+      ]
+    },
+    {
+      "id": "HF0149",
+      "addChildren": [
+        "M0067"
+      ]
+    },
+    {
+      "id": "HF0030",
+      "addChildren": [
+        "M0070",
+        "M0071",
+        "M0072"
+      ]
+    },
+    {
+      "id": "HF0015",
+      "addChildren": [
+        "M0073"
+      ]
+    },
+    {
+      "id": "HF0079",
+      "addChildren": [
+        "M0074"
+      ]
+    },
+    {
+      "id": "HF0053",
+      "addChildren": [
+        "M0075"
+      ]
+    },
+    {
+      "id": "HF0046",
+      "addChildren": [
+        "M0076"
+      ]
+    },
+    {
+      "id": "HF0188",
+      "addChildren": [
+        "M0055",
+        "M0056"
+      ]
+    },
+    {
+      "id": "F81",
+      "husband": "H0265",
+      "note": "Round 4: Akerly 1898 says Hannah, daughter of Maj. James Reeve (d. 1764), was the wife of Joshua Tuthill; the GEDCOM attached her to his brother James, whose wife was Rachel Browne."
+    }
+  ],
   "setParents": [
     {
       "child": "M0001",
@@ -453,6 +1059,33 @@
       "father": "I282604492974",
       "mother": "I282604493056",
       "reason": "Owner's statement, 8 Oct 2026: sibling of his father Thomas F. Meier Sr."
+    }
+  ],
+  "merges": [
+    {
+      "from": "H0017",
+      "into": "I282608085064",
+      "reason": "Round 4: 'Clarissa' (1870 census) and 'Fressa' (1880) are Theresa Meier, born 10 Sep 1868 per her marriage record; H0017 was a duplicate."
+    },
+    {
+      "from": "I282695503686",
+      "into": "I282695503581",
+      "reason": "Round 4: Helen Ferlaino was baptized Maria Filomena at San Mango d'Aquino on 9 Oct 1894; 'Filomena Ferlaino' was the same wife of Frank Cognetti."
+    },
+    {
+      "from": "I282695504011",
+      "into": "H0332",
+      "reason": "Round 4: the 1940 and 1950 censuses show James Petriello with one wife, Mollie (Carmela Gianetta); the GEDCOM's 'Mollie Petriello' duplicated her."
+    },
+    {
+      "from": "I282697102069",
+      "into": "H0337",
+      "reason": "Round 4: Mariantonia and Mariangela Cannatello are the same wife of Nicola Cognetta; birth year still unresolved (1816/1818/c.1823)."
+    },
+    {
+      "from": "I282695486703",
+      "into": "I282695486911",
+      "reason": "Round 4: Anna Tuthill Symmes, daughter of John Cleves Symmes, is First Lady Anna Symmes Harrison; the tree held her twice."
     }
   ]
 }

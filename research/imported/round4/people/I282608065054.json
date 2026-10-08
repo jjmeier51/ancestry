@@ -1,0 +1,147 @@
+{
+  "id": "I282608065054",
+  "name": "Frederick Croup",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Frederick Crapp (1820 census index)",
+      "Fredk Croup (1840 census)"
+    ],
+    "residences": [
+      {
+        "date": "1820",
+        "place": "Plymouth Twp, Luzerne Co., PA",
+        "note": "Indexed 'Crapp, Frederick'; same page as Leonard, Benjamin and Joseph Devens and the Davenports",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1840",
+        "place": "Plymouth Twp, Luzerne Co., PA",
+        "note": "Near the Sorbers, Coverts and Harrisons",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1820 census",
+        "date": "1820",
+        "place": "Plymouth, Luzerne Co., PA (p.410)",
+        "description": "Frederick Crapp [Croup]: males 2 under 10, 2 aged 16-25, 1 aged 45+; females 1 under 10, 2 aged 10-15, 1 aged 16-25, 1 aged 45+ (column reading approximate).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "1840 census",
+        "date": "1840",
+        "place": "Plymouth Township, Luzerne Co., PA",
+        "description": "Fred'k Croup: 1 male 20-29, 1 male 70-79; 1 female 20-29, 1 female 60-69 - Frederick (b. c.1767) and Mary (b. c.1776) with a younger couple.",
+        "sourceRefs": [
+          "S2"
+        ]
+      },
+      {
+        "title": "Will",
+        "date": "1841",
+        "place": "Luzerne County, PA",
+        "description": "Indexed: 'Croup, Frederick, Plymouth Twp., 1841, Will Book B, p.80'. FamilySearch gives death 'before 10 April 1841', presumably the probate date.",
+        "sourceRefs": [
+          "S3",
+          "S4"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Frederick appears in the 1820 census of Plymouth as 'Frederick Crapp' (an indexing of Croup), with a large family including two young men, two girls aged 10-15 and a young woman (S1); Elizabeth (b. c.1802) and her sisters fit those columns. In 1840 'Fred'k Croup' was still in Plymouth Township, a man in his seventies with a wife in her sixties and a younger couple, probably a married child, living with them (S2). His will is in the county index as 'Croup, Frederick, Plymouth Twp., 1841', recorded in Will Book B at page 80 (S3); the FamilySearch tree dates his death to before 10 April 1841 (S4). The will itself has not been transcribed online; it should name his children, including Elizabeth Pringle and Susan Shupp.",
+  "openQuestionsResolved": [
+    {
+      "question": "Luzerne Orphans' Court and wills for Frederick Croup (d. 1841) - should name all children incl. Elizabeth Pringle.",
+      "answer": "The will exists: Luzerne Will Book B p.80 (Plymouth Twp., 1841). Text not online; it is in the FamilySearch Luzerne will-book images (login needed) or at the Register of Wills.",
+      "sourceRefs": [
+        "S3"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1820 US census, Plymouth, Luzerne Co., PA, p.410, 'Crapp Frederick' (FS index ark 1:1:XHL5-4RQ)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9JB3-46Q/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "1820 household"
+    },
+    {
+      "ref": "S2",
+      "citation": "1840 US census, Plymouth Township, Luzerne Co., PA, 'Fred'k Croup' (FS index ark 1:1:XHTV-61X)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9JB3-46Q/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "1840 household; ages 70-79 and 60-69"
+    },
+    {
+      "ref": "S3",
+      "citation": "Luzerne County Wills Index (PAGenWeb), C part 2: 'Croup, Frederick, Plymouth Twp., 1841, Book B, p.80'",
+      "url": "https://pagenweb.org/~luzerne/wills/cwills2.htm",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "will location"
+    },
+    {
+      "ref": "S4",
+      "citation": "FamilySearch published tree, Friedrich Grub (9JB3-46Q)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9JB3-46Q",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "death before 10 Apr 1841; also cites Gottlieb Hib's will (Northampton Will Book 6 pp.18-19)"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1840 census, Plymouth Twp: Fred'k Croup household",
+      "date": "1840",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/9JB3-46Q",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9JB3-46Q/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA M704)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282608065054/1840-census-plymouth-twp-fredk-croup.jpg",
+      "people": [
+        "I282608065054",
+        "I282695534711"
+      ],
+      "suggestedFile": "media/I282608065054/1840-census-plymouth-twp-fredk-croup.jpg",
+      "note": "US federal census: public domain."
+    },
+    {
+      "type": "record",
+      "title": "1820 census, Plymouth: Frederick 'Crapp' and Devens households",
+      "date": "1820",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/9JB3-46Q",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9JB3-46Q/images/i/2/image.jpg",
+      "repository": "FamilySearch (NARA M33)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282608065054/1820-census-plymouth-frederick-crapp.jpg",
+      "people": [
+        "I282608065054",
+        "I282608053741",
+        "I282824886193"
+      ],
+      "suggestedFile": "media/I282608065054/1820-census-plymouth-frederick-crapp.jpg",
+      "note": "US federal census: public domain. Leonard, Benjamin and Joseph Devens on the same page."
+    }
+  ],
+  "searchedNoResult": [
+    "Web search 'Frederick Croup' will 1841: no transcription online"
+  ],
+  "researchLogEntry": "Round 4: found him in the 1820 ('Crapp') and 1840 Plymouth censuses and located his will in the index (1841, Will Book B p.80)."
+}

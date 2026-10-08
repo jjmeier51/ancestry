@@ -1,0 +1,29 @@
+{
+  "id": "H0162",
+  "name": "Samuel Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "9KXX-M49"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch has Samuel only in Andrew's 1870 and 1880 households (born 1862-63) (S1). No later record was found, and Bradsby's 1893 list of Andrew's living children should be checked for his name.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Samuel Pringle (9KXX-M49), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-M49",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "1870 and 1880 households"
+    }
+  ],
+  "searchedNoResult": [
+    "FamilySearch: no marriage, death or later census for Samuel (b. c.1862)"
+  ],
+  "researchLogEntry": "Round 4: no record after 1880."
+}

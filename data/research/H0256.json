@@ -10,7 +10,7 @@
   ],
   "tags": [],
   "summary": "Disproven father of William Wells; a Norwich prebendary and chaplain to Queen Anne of Denmark.",
-  "bio": "Norwich prebendary and 'Chaplain to the Queen (Anne of Denmark)', wife of James I; died 26 May 1620. His will names wife Elizabeth and sons John and William. The tree's title 'to the Queen of Denmark' garbles this. The baptism also conflicted with the tree's 1608 birth for William Wells.",
+  "bio": "Norwich prebendary and 'Chaplain to the Queen (Anne of Denmark)', wife of James I; died 26 May 1620. His will names wife Elizabeth and sons John and William. The tree's title 'to the Queen of Denmark' garbles this. The baptism also conflicted with the tree's 1608 birth for William Wells.\n\nHayes ([R4-S1]) gives the tradition and also hedges it: the Southold founder's parentage is accepted 'if his parentage is correctly given in Ch. I', and Hayes notes the tombstone age (63) conflicts with the Norwich baptism (which would make him 66). Round 3 already showed the prebendary's son William became vicar of North Elmham. No new evidence changes the verdict: disproven as an ancestor.",
   "facts": [
     {
       "label": "Tree shows",
@@ -21,7 +21,8 @@
     "Hayes (1878) pp. 9–15, 28n",
     "Clergy of the Church of England Database person 12847",
     "WikiTree Wells-639",
-    "Round 1 correction 3c; Round 3 status change 14"
+    "Round 1 correction 3c; Round 3 status change 14",
+    "[R4-S1] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), pp. 27-28 (secondary) https://archive.org/details/williamwellsofso00byuhaye"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -32,6 +33,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: re-read Hayes; verdict unchanged (disproven father of William Wells)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0256.json."
     }
   ]
 }

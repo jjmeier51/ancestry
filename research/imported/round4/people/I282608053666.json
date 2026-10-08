@@ -1,0 +1,123 @@
+{
+  "id": "I282608053666",
+  "name": "Addison F. Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "Dec 1867",
+      "place": "Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Carpenter (1900, 1926)",
+    "residences": [
+      {
+        "date": "1900-06-07",
+        "place": "Plymouth Township (Third Election District, East Division), Luzerne Co., PA, dwelling 180",
+        "note": "Owned his house, mortgaged; next door to his brother Orange and his divorced mother Catherine (dwelling 179) and probably his sister Ella (Pringle) Randall (dwelling 178)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1900 census",
+        "date": "1900-06-07",
+        "place": "Plymouth Twp, Luzerne Co., PA, ED 133, sheet 10B, lines 88-92",
+        "description": "Pringle, Addison, head, white male, b. Dec 1867, 32, married 7 years, b. Pa. (both parents b. Pa.), carpenter, owns home with mortgage; Catherine, wife, b. Aug 1869, 30, 3 children/3 living, father b. Ireland; Genevieve, dau., b. May 1893; Joseph, son, b. Mar 1895; Mary, dau., b. Mar 1898.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "1870 census",
+        "date": "1870-07-29",
+        "place": "Plymouth Twp (P.O. Kingston), Luzerne Co., PA",
+        "description": "'Adison', 5, in household of Andrew 'Prindle' (36) and Catharine (34), with grandfather James (71).",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The 1900 census, taken on 7 June 1900 in the East Division of Plymouth Township, gives Addison's birth as December 1867, matching the FamilySearch tree and supporting 1867 over the 1868 in his obituary (S1). He was a carpenter, married seven years, and owned his house subject to a mortgage. The family group around him is striking: in the next dwelling lived his brother Orange Pringle (b. June 1870, a coal-breaker laborer) with their mother Catherine, recorded as 'Mother', divorced, born in May 1835 or 1838 (the last digit is unclear), mother of seven children of whom five were living; and one dwelling further on lived Ella Randal, a widow born August 1860, with her children Fred and Gertrude, very probably Addison's sister Ellen (Pringle) Randall (S1). Three of Andrew G. Pringle's children and his former wife were thus living side by side in 1900.",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "2 Dec 1868 preferred (obituary)",
+      "foundValue": "Dec 1867 (1900 census, self/household-reported)",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "assessment": "Ages conflict across records: 1870 census age 5 (c.1865) and 1880 age 15 (c.1865) vs 1900 Dec 1867 vs obituary 2 Dec 1868. December is consistent; the year is 1865-68. The 1870/1880 ages were given while he was a child in his parents' household and may be more reliable than later self-reports; the 1943 death certificate is needed."
+    }
+  ],
+  "openQuestionsResolved": [
+    {
+      "question": "Why Bradsby (1893) omitted him from his mother's living children.",
+      "answer": "Not resolved directly, but the 1900 census shows he lived next door to his mother, so estrangement is unlikely; the omission is probably an error in the family-supplied sketch. In 1900 she reported 7 children born, 5 living, which matches Bradsby's 'five living' only if one of Bradsby's five was counted differently - Addison was certainly living.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1900 US census, Plymouth Township, Luzerne Co., PA, Supervisor's Dist. 6, ED 133, sheet 10B, enumerated 7 Jun 1900 by Samuel F. L. Snyder, dwellings 178-180 (image attached to FamilySearch tree person 9KXX-MWR, Genevieve Pringle)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MWR/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Addison b. Dec 1867, carpenter, married 7 yrs; neighbours Orange and mother Catherine (divorced, 7/5 children); Ella Randal"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch record index, Geniveve Pringle in household of Addison Pringle, United States Census 1900",
+      "url": "https://familysearch.org/ark:/61903/1:1:M3Q7-4TL",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "index of S1 (ark page itself returns 401; seen as link on tree 9KXX-MWR)"
+    },
+    {
+      "ref": "S3",
+      "citation": "1870 US census, Plymouth Twp (P.O. Kingston), Luzerne Co., 29 Jul 1870, p.496, dwelling 422 ('Adison', 5, in household of Andrew Prindle)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-XMF/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Addison age 5 in 1870"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1900 census, Plymouth Twp, ED 133 sheet 10B: Addison, Orange and Catherine Pringle households",
+      "date": "1900-06-07",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MWR",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MWR/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA T623)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282608053666/1900-census-plymouth-twp-ed133-sh10b.jpg",
+      "people": [
+        "I282608053666",
+        "I282608053698",
+        "H0159",
+        "H0161"
+      ],
+      "suggestedFile": "media/I282608053666/1900-census-plymouth-twp-ed133-sh10b.jpg",
+      "note": "US federal census schedule (US government record, pre-1931): public domain."
+    }
+  ],
+  "openQuestionsNew": [
+    "FamilySearch tree for Addison attaches a 'New York City Marriage Records' entry (ark 1:1:24Q4-32K); it is the NYC marriage of his daughter Genevieve (Leacacos), not his own."
+  ],
+  "searchedNoResult": [
+    "1943 PA death certificate #82141: not online free (Ancestry PA Death Certificates collection is paywalled)"
+  ],
+  "researchLogEntry": "Round 4: read the 1900 Plymouth Twp census (ED 133 sh.10B): Addison b. Dec 1867, carpenter, living next to brother Orange, divorced mother Catherine and sister Ella Randall."
+}

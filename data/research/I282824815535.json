@@ -1,0 +1,59 @@
+{
+  "id": "I282824815535",
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Baptism, marriage and civil death all consistent; son Fortunato's records name him."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815608, proven): Baptism and death name father Bruno"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815604, proven): Baptism and death name mother Francesca Moraca"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse I282824815541, proven): Marriage index"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 9 Dec 1778, marriage 1801, civil death 22 Jun 1835; brother Vincenzo links the two lines (pedigree collapse)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815535.json."
+    }
+  ],
+  "birth": {
+    "date": "1778-12-09",
+    "place": "San Mango d'Aquino"
+  },
+  "death": {
+    "date": "1835-06-22",
+    "place": "San Mango d'Aquino"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1801-10-20",
+      "place": "San Mango d'Aquino",
+      "description": "Married Agata Moraca [R4-S2]"
+    }
+  ],
+  "bio": "Nicola Maria was baptized on 9 December 1778, son of Bruno Ferlaino and Francesca Moraca ([R4-S1]). He married Agata Moraca, daughter of Michele, in 1801-02; the index lists the marriage on both 20 October 1801 and 12 June 1802 ([R4-S2]). He died on 22 June 1835 and was buried the next day ([R4-S3], [R4-S4]). His younger brother Vincenzo (b. 1781) was the father of Giuseppina Ferlaino (Carmine Fiorillo's wife). John's Ferlaino and Fiorillo lines therefore both descend from Bruno Ferlaino and Francesca Moraca.",
+  "funFacts": [
+    "Pedigree collapse: Nicola (Leopoldo's grandfather) and his brother Vincenzo (Giuseppina Fiorillo's great-grandfather) were both sons of Bruno Ferlaino and Francesca Moraca, so Helen's parents were second cousins once removed."
+  ],
+  "link": {
+    "confidence": "confirmed",
+    "note": "Round 4 (unverified → confirmed): Baptism, marriage and civil death all consistent; son Fortunato's records name him."
+  },
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 84, p. 163, no. 57; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1801-1811 (Book 19), image 4, p. 2, no. 3 (20 Oct 1801) and image 9, p. 12, no. 20 (12 Jun 1802); volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1801-1811'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S3] San Mango d'Aquino, stato civile, Civil deaths 1835, image 1078, act 15, 22 Jun 1835; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
+    "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1811-1845 (Book 27), image 84, p. 58, no. 16; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1811-1845'. (derivative) https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "H0141",
+  "name": "Thomas Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "2 Nov 1791",
+      "place": "Monroe, Orange Co., NY (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Forty Fort, Luzerne Co., PA",
+      "cemetery": "Forty Fort Cemetery",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1850",
+        "place": "Kingston, Luzerne Co.",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1860",
+        "place": "Kingston Borough ('Thos Pringdle')",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "5 Sep 1813 (FamilySearch)",
+        "place": "Voluntown, New London Co., CT (FamilySearch; doubtful)",
+        "description": "To Elizabeth Harvey (1790-1868)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KCDC-9LX"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Thomas a birthplace of Monroe, Orange Co., NY, which fits the Lamoreaux and Prindle presence there around 1790. It places him at Kingston in the 1850 and 1860 censuses (as 'Thos Pringdle' in 1860) and his burial in Forty Fort Cemetery (S1). It also gives a marriage to Elizabeth Harvey at Voluntown, Connecticut, on 5 Sep 1813. That place is unexpected and should be checked, since the Harveys were Plymouth people.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Thomas Pringle (KCDC-9LX), with 1850 and 1860 census images and Find a Grave index",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KCDC-9LX",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birthplace, residences, burial, marriage claim"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch adds a Monroe, NY birthplace, Kingston residence in 1850-60 and burial at Forty Fort; the Voluntown CT marriage place is doubtful."
+}

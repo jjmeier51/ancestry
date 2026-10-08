@@ -17,14 +17,18 @@
   ],
   "tags": [],
   "summary": "John's 2nd great-grandfather; New York-born, died at Plymouth in 1899 leaving ten children.",
-  "bio": "William Richard McAvoy was born about 1857 in New York (county unknown) and died 4 Nov 1899 in Plymouth (FS K6NQ-ZXZ). He was father of 10 children including Mary (1879), Agnes (1884), William Jr. (1886), Katherine F. (1888), Josephine (1891), Gertrude (1893), Anna K. (1895), Elizabeth (8 Dec 1897) and Claire (1899). The 1923 licence of his daughter Elizabeth calls him 'William R., deceased, b. N.Y.'. FS names his parents as Peter McAvoy and Mary Doran (no sources).",
+  "bio": "William Richard McAvoy was born about 1857 in New York (county unknown) and died 4 Nov 1899 in Plymouth (FS K6NQ-ZXZ). He was father of 10 children including Mary (1879), Agnes (1884), William Jr. (1886), Katherine F. (1888), Josephine (1891), Gertrude (1893), Anna K. (1895), Elizabeth (8 Dec 1897) and Claire (1899). The 1923 licence of his daughter Elizabeth calls him 'William R., deceased, b. N.Y.'. FS names his parents as Peter McAvoy and Mary Doran (no sources).\n\nA second, independent licence confirms his New York birth: daughter Agnes M. McAvoy's 1914 Luzerne docket gives her father William as deceased and born in \"New York\" ([R4-S1]), matching Elizabeth's 1923 licence. FamilySearch attaches a Social Security NUMIDENT entry for William Richard McAvoy (almost certainly William Jr., 1886-1942) in which the father's name appears as \"William R McAvoy\"; the SS-5 application behind it would give the son's birth date and both parents' names ([R4-S2]).",
   "sources": [
     "FamilySearch tree K6NQ-ZXZ",
     "1923 Luzerne licence No. 635",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch Family Tree (published), William Richard McAvoy (1857-1899), PID K6NQ-ZXZ; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K6NQ-ZXZ"
   ],
   "openQuestions": [
-    "Where in New York was he born; were Peter McAvoy & Mary Doran his parents?"
+    "Where in New York was he born; were Peter McAvoy & Mary Doran his parents?",
+    "NUMIDENT/SS-5 for William Richard McAvoy Jr. (1886-1942) would name the parents and may give William Sr.'s full name.",
+    "1899 death in Plymouth predates state registration: look for a Luzerne County Register of Deaths entry (1893-1906) and a St. Vincent de Paul, Plymouth burial; obituary in the Wilkes-Barre Record / Times, 5-7 Nov 1899."
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -39,6 +43,32 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: ABT 1856; research: ABT 1857."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Chronicling America (loc.gov) \"McAvoy\" + Plymouth, Nov 1899 and 1890-1900: no obituary found (Scranton Tribune hits all other McAvoys)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: second licence (1914) confirms NY birth; flagged impossible dates for tree parents Peter McAvoy/Mary Doran."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604498554.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.place",
+      "site": "New York, USA",
+      "found": "FamilySearch tree says Pennsylvania",
+      "assessment": "Two licences (1914, 1923) given by different daughters both say New York; keep New York. The FS \"Pennsylvania\" is unsourced."
+    },
+    {
+      "field": "parents (Peter McAvoy b. abt 1845)",
+      "site": "Father Peter McAvoy, b. abt 1845",
+      "found": "William was born c.1857",
+      "assessment": "A father born c.1845 could not have a son in 1857. The Peter McAvoy/Mary Doran parentage is unsourced on FamilySearch and its dates are impossible; treat as unverified, possibly a wrong family."
     }
   ]
 }

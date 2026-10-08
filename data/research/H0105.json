@@ -7,10 +7,11 @@
   "sex": "M",
   "tags": [],
   "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-uncle of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1895, listed in the 1910 census (Plymouth/Larksville) household. He married in New York City in 1915. No further research done.",
+  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1895, listed in the 1910 census (Plymouth/Larksville) household. He married in New York City in 1915. No further research done.\n\nFamilySearch gives him a birth date of 24 Mar 1895 at Plymouth and a death date of 30 Jan 1961. It records a WWI draft registration at Wilkes-Barre and service ending on 30 Apr 1919, and his marriage on 10 Oct 1921 in Blackford Co., Indiana, to Maria Verena Alles (1895-1980). In 1940 he was in the household of Mary Alles ([R4-S1]). The site says he married in New York City in 1915, but FamilySearch has that NYC marriage for his sister Genevieve.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
-    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11"
+    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
+    "[R4-S1] FamilySearch published tree, Joseph Vincent Pringle (LHHH-8Y6), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LHHH-8Y6"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,60 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 24 Mar 1895-30 Jan 1961, WWI draft and service, and m. 1921 Maria Verena Alles in Indiana."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0105.json."
+    }
+  ],
+  "birth": {
+    "date": "1895-03-24",
+    "place": "Plymouth, Luzerne Co., PA"
+  },
+  "death": {
+    "date": "1961-01-30"
+  },
+  "residences": [
+    {
+      "date": "1920-1921",
+      "place": "Wilkes-Barre",
+      "note": "[R4-S1]"
+    },
+    {
+      "date": "1940",
+      "place": "in household of Mary Alles (1940 census)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1921-10-10",
+      "place": "Blackford Co., Indiana",
+      "description": "To Maria Verena Alles (1895-1980), per FamilySearch [R4-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "FamilySearch lists a WWI draft registration (Wilkes-Barre, 1917-18) and military service ending 30 Apr 1919 (St. Louis, Missouri) - probably a discharge or transport record; not seen. [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LHHH-8Y6"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "marriage",
+      "site": "married in New York City in 1915",
+      "found": "m. 10 Oct 1921, Blackford Co., Indiana, Maria Verena Alles; the 1915 NYC marriage is Genevieve's",
+      "assessment": "The site note probably belongs to Genevieve (H0104)."
     }
   ]
 }

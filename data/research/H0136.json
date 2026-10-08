@@ -7,10 +7,13 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 4th-great-grand-uncle (brother of Mary Connole Heffernan).",
-  "bio": "John Francis Connole was born at Elmira, NY, on 9 Mar 1853 and died 14 Mar 1923. He was 'educated in the public schools of Luzerne county' and briefly managed his father's Plymouth restaurant after 1878. On 19 Dec 1878 he married Mary E. Keating, daughter of Mrs. Mary (Russell) Keating (b. Co. Clare 1840), a widow who ran a hotel in Larksville from 1867, owned it and the next-door block, and whom Bradsby called 'a shrewd business woman'; the Russells had stopped at Wellsburg, NY (near Elmira) before Plymouth (1855) - the same Elmira-to-Plymouth route. His obituary names his mother 'Mary (Dwyer)' and stepmother 'Ann (Boner) Connole'. Father of Dr. Joseph V. Connole.",
+  "bio": "John Francis Connole was born at Elmira, NY, on 9 Mar 1853 and died 14 Mar 1923. He was 'educated in the public schools of Luzerne county' and briefly managed his father's Plymouth restaurant after 1878. On 19 Dec 1878 he married Mary E. Keating, daughter of Mrs. Mary (Russell) Keating (b. Co. Clare 1840), a widow who ran a hotel in Larksville from 1867, owned it and the next-door block, and whom Bradsby called 'a shrewd business woman'; the Russells had stopped at Wellsburg, NY (near Elmira) before Plymouth (1855) - the same Elmira-to-Plymouth route. His obituary names his mother 'Mary (Dwyer)' and stepmother 'Ann (Boner) Connole'. Father of Dr. Joseph V. Connole.\n\nFamilySearch lists his children with Mary Elizabeth Keating (b. Larksville Mar 1862, d. Plymouth 14 Jun 1914): Mary Celestine (1879-1950), Thomas L. (1882-1905), Dr. John Francis Jr. (1882-1945), Alethea B. (1884-1958), Dr. Joseph V. (b. 1890) and Annie (b. 1897) ([R4-S1], [R4-S2]).",
   "sources": [
     "Bradsby 1893, John F. Connole sketch p.~795 and Keating sketch p.~1049-1050: https://archive.org/details/historyofluzerne00brad",
-    "Find a Grave 183145812: https://www.findagrave.com/memorial/183145812/john_francis-connole"
+    "Find a Grave 183145812: https://www.findagrave.com/memorial/183145812/john_francis-connole",
+    "[R4-S1] FamilySearch Family Tree (published), John Francis Connole (1853-1923), PID GC1H-TDV; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GC1H-TDV",
+    "[R4-S2] FamilySearch Family Tree (published), Mary Elizabeth Keating (1862-1914), PID GC1C-MH9; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GC1C-MH9",
+    "[R4-S3] U.S. WWI draft registration card, John Francis Connole, Local Board Div. 6, Plymouth, 12 Sep 1918 (image via FamilySearch, attached to GC1C-W4J) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GC1C-W4J/images/i/2/image.jpg"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +24,43 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0138, probable): FS child Joseph V Connole b. 1890 Plymouth"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0139, probable): Dr. John Francis Connole Jr., b. 25 Nov 1882 (WWI card: physician, Plymouth); site's \"John P.\" appears to be him"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: children listed from FS; identified Dr. John F. Connole Jr. as the surgeon \"John P.\""
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0136.json."
+    }
+  ],
+  "burial": {
+    "place": "Hanover Twp, Luzerne Co., Pa. (FS)"
+  },
+  "residences": [
+    {
+      "date": "1880",
+      "place": "Avondale, Plymouth Twp",
+      "note": "[R4-S1]"
+    },
+    {
+      "date": "1910",
+      "place": "Plymouth Ward 4",
+      "note": "[R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GC1H-TDV"
     }
   ]
 }

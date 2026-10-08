@@ -9,6 +9,26 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: identified as Betsy McGuire's husband (b. 1927), not Elizabeth McAvoy's."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0383.json."
     }
+  ],
+  "conflicts": [
+    {
+      "field": "spouse",
+      "site": "Second husband of Elizabeth M. McAvoy (b. 1897)",
+      "found": "Harold (Edward) Arnold, b. 1927 Pa., son of Harold George Arnold (1904-1959) and Martha Bowden (1908-1982); Wilkes-Barre 1930-1950; d. 1997 Altoona; husband of Elizabeth \"Betsy\" McGuire (b. 1928), Elizabeth McAvoy's daughter",
+      "assessment": "Almost certainly Elizabeth McAvoy's son-in-law, not her husband. Recommend moving him to Betsy (H0062, presumed living/skip list, so not researched)."
+    }
+  ],
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Harold Arnold (1927-1997), PID GP7C-XR4; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4",
+    "[R4-S2] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB"
   ]
 }

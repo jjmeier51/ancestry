@@ -7,11 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Signer of the Declaration of Independence; John's 3rd cousin 8x removed via Bull Smith (formerly also 4C8R via Brewster — affected by the probable Brewster disproof).",
-  "bio": "His sister Ruth married Gen. Nathaniel Woodhull. A 'Charles A. Floyd' gave $1 to the Hauppauge church in 1816 — very likely the Smithtown-born congressman, but no source connects him to the Mastic Floyds.",
+  "bio": "His sister Ruth married Gen. Nathaniel Woodhull. A 'Charles A. Floyd' gave $1 to the Hauppauge church in 1816 — very likely the Smithtown-born congressman, but no source connects him to the Mastic Floyds.\n\nPath verified in Pelletreau ([R4-S1]): Bull Smith -> Jonathan (eldest son, m. Sarah Brewster) -> Jonathan 2d (b. 9 Nov 1676, m. Elizabeth Platt) -> Tabitha (b. 18 Feb 1704, d. 17 Jan 1755, m. Nicoll Floyd, d. 8 Mar 1755 aged 50) -> William, signer of the Declaration: 3rd cousin 8 times removed. Pelletreau lists his siblings Ruth (Mrs Gen. Nathaniel Woodhull), Tabitha (Mrs Daniel Smith), Nicoll, Charles, Charity (Mrs Ezra L'Hommedieu), Mary (Mrs Edmund Smith), Catherine (Mrs Gen. Thomas Thomas) and Anna (Mrs Hugh Smith).",
   "sources": [
     "Uploaded deep-dive report",
     "Wood (1920) pp. 52–54",
-    "Wikipedia: Charles A. Floyd"
+    "Wikipedia: Charles A. Floyd",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 464-465, 486 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -22,6 +23,30 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Pelletreau confirms each generation (3C8R); PD Earl portrait downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0286.json."
+    }
+  ],
+  "birth": {
+    "date": "1734-12-17"
+  },
+  "photo": "media/H0286/william-floyd-earl-1792.jpg",
+  "media": [
+    {
+      "file": "media/H0286/william-floyd-earl-1792.jpg",
+      "type": "photo",
+      "title": "William Floyd, by Ralph Earl",
+      "date": "1792",
+      "source": "Wikimedia Commons (source cited: Long Island History Journal, Stony Brook), public_domain",
+      "note": "Commons licence: Public domain (1792 painting).",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:William_floyd.jpg"
     }
   ]
 }

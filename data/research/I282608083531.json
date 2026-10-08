@@ -16,7 +16,7 @@
   ],
   "tags": [],
   "summary": "John's 11th-great-grandmother, wife of Capt. Thomas Topping.",
-  "bio": "Probably baptized at Langley Marish (a chapelry of Wraysbury), Bucks., c. Jul 1611. Her father Ambrose bought the manor of Remingham and Cow in Wraysbury in 1611 and sold it for £500 in 1613. Tree gives 1610–1665; Thomas Topping married three times, so whether she was Elnathan's mother rests on dates.",
+  "bio": "Probably baptized at Langley Marish (a chapelry of Wraysbury), Bucks., c. Jul 1611. Her father Ambrose bought the manor of Remingham and Cow in Wraysbury in 1611 and sold it for £500 in 1613. Tree gives 1610–1665; Thomas Topping married three times, so whether she was Elnathan's mother rests on dates.\n\nSavage records that Thomas Topping joined the Milford church with his wife Emma in 1640 and had Elnathan baptized on 2 Aug 1640. Thomas's next marriage contract is dated 20 Oct 1666 ([R4-S1]). So Emma was the mother of Capt. Elnathan ([R4-S1]).",
   "facts": [
     {
       "label": "Tree shows",
@@ -26,11 +26,11 @@
   "sources": [
     "Gyll (1862) pp. 58, 63",
     "Bucks Bishop's Transcripts",
-    "WikiTree Aldridge-218, https://www.wikitree.com/wiki/Aldridge-218"
+    "WikiTree Aldridge-218, https://www.wikitree.com/wiki/Aldridge-218",
+    "[R4-S1] James Savage, A Genealogical Dictionary of the First Settlers of New England, vol. 4 (1862), p. 255, entry TAPPAN/TOPPING, Thomas of Milford (secondary) https://archive.org/details/genealogicaldic04savarich",
+    "[R4-S2] WikiTree Topping-121 (Thomas Topping), biography read via api.wikitree.com: Dunstable marriage 16 Nov 1628 (Dunstable parish register, Beds. CRO 1951); seven children; second marriage contract 20 Oct 1666 with Mary, widow of John Mapham and Timothy Baldwin; third wife Lydia, widow of John Wilford (derivative) https://www.wikitree.com/wiki/Topping-121"
   ],
-  "openQuestions": [
-    "Was she the mother of Elnathan (b. 1640), given Thomas's three marriages?"
-  ],
+  "openQuestions": [],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
     "heading": "Generation 13 (11th-great-grandparents)",
@@ -48,6 +48,18 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 16 November 1610; research: ABT 1611."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Was she the mother of Elnathan (b. 1640), given Thomas's three marriages? → Yes. Thomas and wife Emma joined the Milford church in 1640, the year Elnathan was baptized (2 Aug 1640); his second marriage was in 1666."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Savage shows Emma was Elnathan's mother."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608083531.json."
     }
   ],
   "media": [

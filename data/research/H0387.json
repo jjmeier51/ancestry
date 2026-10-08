@@ -1,14 +1,45 @@
 {
   "id": "H0387",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → probable): Spouse link is consistent across the FamilySearch family and attached records."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → probable: Spouse link is consistent across the FamilySearch family and attached records."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: brief pass; details from the FamilySearch tree and its attached records."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0387.json."
     }
+  ],
+  "birth": {
+    "date": "1861",
+    "place": "Essen, Germany"
+  },
+  "death": {
+    "date": "1927-05-19",
+    "place": "Hazleton, Luzerne Co., PA"
+  },
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G7LC-5MN"
+    }
+  ],
+  "bio": "Husband of Mary Meier. FamilySearch: born 1861 at Essen, Germany; immigrated 1881/82; married at Hazleton in 1885; died at Hazleton on 19 May 1927 ([R4-S1]). Their daughter Josephine's 1920 Luzerne marriage docket (No. 91450) names her parents as Henry Rose and Mary (née Meyers), both born in Germany ([R4-S2]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree, Henry Rose (G7LC-5MN), published-tree JSON (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G7LC-5MN",
+    "[R4-S2] Luzerne County Marriage License Docket No. 91450: Charles P. Preso × Josephine Flynn, 1920 (FamilySearch index 1:1:KHFG-G71) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GRCN-TFK/images/i/1/image.jpg"
   ]
 }

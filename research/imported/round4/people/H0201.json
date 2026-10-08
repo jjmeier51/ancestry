@@ -1,0 +1,44 @@
+{
+  "id": "H0201",
+  "name": "John Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1800",
+        "place": "Northampton Co. ('John Grub')",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1810",
+        "place": "('John Croop')",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "9JB3-48L"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives John two wives, Anna Margaretha Schuch (1769-1809) and Sally Ripple, with children from 1790. It has him in the 1800 census as John Grub and in 1810 as John Croop, and attaches the will of his brother-in-law Gottlieb Hipp (Will Book 6 pp.18-19), which presumably names him (S1). A Schuch wife is a link back to the Ulmet Schuch family of the Dolls.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, John Grub (9JB3-48L), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9JB3-48L",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives wives Anna Margaretha Schuch and Sally Ripple and the 1800 and 1810 censuses."
+}

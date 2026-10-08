@@ -10,7 +10,7 @@
   ],
   "tags": [],
   "summary": "John's 9th-great-grandfather; son of Bull Smith, with a home lot at Nissequogue.",
-  "bio": "Lived with his brothers at Nissequogue, where the home lots ran Jonathan's, then Richard's, then 'the home lot of Job Smith' (Pelletreau Intro. pp. xii–xiii). His father's 1688 deed gave him 50 acres 'at the northeast branch, adjoining to the land in the occupation of Daniel Smith' (pp. 58–59); the Northeast Branch forms the north edge of Hauppauge Neck. His Nissequogue homestead descended to Job Smith 3d, 'and his son Woodhull Smith sold it' (pp. 330–331) — possibly the 'Woodhull Smith' who subscribed to the 1806 Hauppauge Methodist church fund (unproven). Children include James, Job 2d and Aaron (father of Abner Smith, 1734–1782). Through Job 2d's children Anna (wife of Ebenezer Smith) and Epenetus, Job's great-granddaughters became mistresses of the Hauppauge Smith estate, making Judge Joshua Smith and Sen. Joshua B. Smith John's 3C7R. Caveat: the Job-line cousin paths assume Elizabeth Thompson mothered both Job 2d and James. TREE vs PDF: tree shows James's father as 'Justice, A Smith' 1649–1726 (Smithtown 350th logo image); the uploaded PDF gives 'Job Smith + Elizabeth Thompson c. 1647–c. 1719 — 9th great-grandfather'. A 1649 birth matches Bull Smith's son Adam (b. 1649, named in William Hammond's will), so the tree likely attached the wrong son.",
+  "bio": "Lived with his brothers at Nissequogue, where the home lots ran Jonathan's, then Richard's, then 'the home lot of Job Smith' (Pelletreau Intro. pp. xii–xiii). His father's 1688 deed gave him 50 acres 'at the northeast branch, adjoining to the land in the occupation of Daniel Smith' (pp. 58–59); the Northeast Branch forms the north edge of Hauppauge Neck. His Nissequogue homestead descended to Job Smith 3d, 'and his son Woodhull Smith sold it' (pp. 330–331) — possibly the 'Woodhull Smith' who subscribed to the 1806 Hauppauge Methodist church fund (unproven). Children include James, Job 2d and Aaron (father of Abner Smith, 1734–1782). Through Job 2d's children Anna (wife of Ebenezer Smith) and Epenetus, Job's great-granddaughters became mistresses of the Hauppauge Smith estate, making Judge Joshua Smith and Sen. Joshua B. Smith John's 3C7R. Caveat: the Job-line cousin paths assume Elizabeth Thompson mothered both Job 2d and James. TREE vs PDF: tree shows James's father as 'Justice, A Smith' 1649–1726 (Smithtown 350th logo image); the uploaded PDF gives 'Job Smith + Elizabeth Thompson c. 1647–c. 1719 — 9th great-grandfather'. A 1649 birth matches Bull Smith's son Adam (b. 1649, named in William Hammond's will), so the tree likely attached the wrong son.\n\nPelletreau prints the 30 Aug 1688 deeds by which Richard 'Bull' Smith and his wife Sarah settled land on Job and on Job's sons Job, Richard, Joseph and Timothy ([R4-S2]). These are near-primary proof of Job's parentage and of the eldest sons' order. The Appendix (pp. 478-479) gives the full list of Job's children: Job 2d (b. 9 Mar 1679), 'Saint' Richard, Timothy, Aaron, James, Joseph and Elizabeth (said to be the second wife of Rev. Daniel Taylor). His wife is Elizabeth, daughter of John Thompson of Setauket ([R4-S1]). Pelletreau puts Job's death 'about 1719' in the Appendix and 'before 1720' in the Introduction ([R4-S1], [R4-S3]). Weygant (1897) gives the same seven children ([R4-S4]).",
   "residences": [
     {
       "date": "1688",
@@ -36,11 +36,13 @@
     "F. K. Smith (1967) via jrm Needham",
     "Richard_Bull_Smith_Lineage.pdf",
     "Uploaded Hauppauge report",
-    "Round 1 correction 3f"
+    "Round 1 correction 3f",
+    "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S3] Pelletreau, Records of the Town of Smithtown (1898), Introduction: 'Daniel probably died before 1715; Richard died in 1719; Adam is said to have died in 1720; Job died before 1720' (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S4] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
   ],
-  "openQuestions": [
-    "Exact birth/death dates; whether Elizabeth Thompson was mother of all his children."
-  ],
+  "openQuestions": [],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
     "heading": "Generation 11 (9th-great-grandparents)",
@@ -50,6 +52,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Exact birth/death dates; whether Elizabeth Thompson was mother of all his children. → No exact dates found: d. about 1719 / before 1720 (Pelletreau). Eldest son Job 2d b. 9 Mar 1679. All seven children are attributed to Job & Elizabeth (Thompson) by Pelletreau and Weygant. No second wife is mentioned."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1688 deeds and Pelletreau's children list added; dates remain approximate (d. c.1719)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0224.json."
     }
   ],
   "media": [
@@ -60,6 +74,14 @@
       "source": "WikiTree",
       "note": "Job Smith, 1647-00-00 – 1719-00-00",
       "url": "https://www.wikitree.com/wiki/Smith-18006"
+    }
+  ],
+  "events": [
+    {
+      "title": "Deeds from his father",
+      "date": "1688-08-30",
+      "place": "Smithtown",
+      "description": "Richard Smith Sr. and wife Sarah gave Job 20 acres on the North Neck for life, remainder to Job's four sons Job, Richard, Joseph and Timothy, and 180 acres at Stony Brook Neck to grandsons Job and Richard; acknowledged 17 Sept 1688 before Wait Winthrop [R4-S2]"
     }
   ]
 }

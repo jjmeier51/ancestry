@@ -1,0 +1,100 @@
+{
+ "id": "H0341",
+ "name": "Francesco Giannetta",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1812-03-06",
+   "place": "Bisaccia, Avellino, Campania, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1848-02-16",
+   "place": "Bisaccia, Avellino, Campania, Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Francesco Maria Giannetta"
+  ],
+  "events": [
+   {
+    "title": "Marriage to Lucia Macchia",
+    "date": "1836-06-27",
+    "place": "Bisaccia",
+    "description": "Per FS tree.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "The FamilySearch tree gives Francesco Maria Giannetta's birth as 6 Mar 1812 in Bisaccia, his marriage to Lucia Macchia as 27 June 1836, and his death as 16 Feb 1848, aged 35, when his son Savino was six. That fits the 1867 marriage act's description of Savino as son of 'the late Francesco' (S1). The tree names his parents as Savino Giannetta (c.1786–1853) and Giuseppa Sena (1790–1822) (S2, S3). After Giuseppa's death, the elder Savino married in 1823 the widow Grazia Maria Gallicchio, Lucia Macchia's mother (S2, S4). If the tree is right, Francesco married his own stepsister. The tree also lists his children Savino (1838–1841) and Savino (1842).",
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "NEW-703",
+   "evidence": "FS tree (citing Bisaccia civil registers)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "parent",
+   "personId": "NEW-704",
+   "evidence": "FS tree",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "funFacts": [
+  "If the FamilySearch tree is right, Francesco married his stepsister: his widowed father Savino had married Lucia Macchia's widowed mother Grazia Maria Gallicchio in 1823, thirteen years before Francesco and Lucia wed."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree published profile 2SZL-48S (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-48S",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth 6 Mar 1812, marriage 27 Jun 1836, death 16 Feb 1848; cites Bisaccia stato civile and FS film ark 3:1:3Q9M-CSQJ-XFBM"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile 2SZL-WWJ (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WWJ",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Savino Giannetta c.1786-1853; marriages to Giuseppa Sena (record dated 1810) and Grazia Maria Gallicchio (30 Jan 1823)"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch Family Tree published profile 2SZL-WF4 (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WF4",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Giuseppa Sena 1790-1822, daughter of Pasquale Sena and Apollonia Procaccino"
+  },
+  {
+   "ref": "S4",
+   "citation": "FamilySearch Family Tree published profile LH71-GCQ (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LH71-GCQ",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Grazia Maria Gallicchio c.1785-1855, widow of Nicola Macchia; m. Savino Giannetta 30 Jan 1823"
+  }
+ ],
+ "searchedNoResult": [
+  "FamilySearch Italian civil-record images return 403; Antenati returns 403"
+ ],
+ "researchLogEntry": "Round 4: FS tree gives his dates (6 Mar 1812 - 16 Feb 1848), his 1836 marriage, and a further generation (Savino Giannetta + Giuseppa Sena).",
+ "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "H0312",
+  "name": "Adam Lawrence",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1780",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Seventh child of William Lawrence Jr. and Deborah Smith; member of the State Legislature and High Sheriff of Queens; died 1780, leaving Deborah (Mrs S. Van Wyck), Sarah (Mrs James Hewlett), Catharine (Mrs Platt), Dr. Daniel, Stephen, Joseph, Clark and George (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), p. 27",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Adam Lawrence's offices, death, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: death year and children from Lawrence 1858.",
+  "researchedAt": "2026-10-08"
+}

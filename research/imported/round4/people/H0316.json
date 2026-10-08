@@ -1,0 +1,58 @@
+{
+  "id": "H0316",
+  "name": "Jonathan Thompson",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "7 Dec 1773",
+      "place": "Sagtikos Manor",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "30 Dec 1846",
+      "place": "New York City",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "4 Jul 1796",
+        "place": "",
+        "description": "Married Elizabeth, daughter of James Havens of Shelter Island.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "3rd cousin 8 times removed via John Thompson and 4th cousin 7 times removed via Bull Smith through his mother Mary Gardiner (Bull -> Richard 2d -> Nathaniel -> Mary Smith -> Mary Gardiner -> Jonathan) (S1). Children: David, George W., Jonathan, Dr. Abraham Gardiner, Mary (wife of Samuel Buel Gardiner, 10th Lord of Gardiner's Island) and Elizabeth.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 470",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Jonathan Thompson dates, marriage, children"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Jonathan Thompson (collector)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Thompson_(collector)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates"
+    }
+  ],
+  "searchedNoResult": [
+    "Commons search 'Jonathan Thompson collector' (no portrait)"
+  ],
+  "researchLogEntry": "Round 4: dates, marriage and both routes verified in Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

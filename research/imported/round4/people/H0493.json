@@ -1,0 +1,75 @@
+{
+  "id": "H0493",
+  "name": "Abner Reeve",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Rev. Abner Reeve"
+    ],
+    "birth": {
+      "date": "21 Feb 1707/8",
+      "place": "Southold, NY",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "6 May 1798",
+      "place": "Brattleboro, Vermont",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "burial": {
+      "place": "Brattleboro, Vermont",
+      "cemetery": "Old Burial Ground on the hill above the Wells homestead (West Brattleboro)",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "occupation": "Presbyterian / Congregational minister (Yale 1731)",
+    "events": [
+      {
+        "title": "Marriages",
+        "date": "1732; Dec 1743; 1761",
+        "place": "Southold; Brookhaven; Southampton",
+        "description": "(1) 16 Oct 1732 Mary (d. 6 May 1741 aged 33); (2) Dec 1743 Deborah Topping or Tapping of Brookhaven (d. 1759); (3) 1761 Phebe Foster of Southampton (d. 26 May 1790 aged 66).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Ministry",
+        "date": "1735-1794",
+        "place": "Nissequogue (Smithtown); Moriches; Blooming Grove; Brattleboro",
+        "description": "Licensed 1735; withdrew c.1748 for intemperance; restored and ordained at Moriches 6 Nov 1755; dismissed 1763; led emigrants to Blooming Grove, Orange Co.; pastor at Brattleboro c.1767/70-1794.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Dexter (S1) makes him a son of Thomas and Bethia (Horton) Reeve of Southold. His candid biography includes two removals for drink, a recovery through Rev. William Throop, and a late, sober pastorate at Brattleboro, where Hayes (S2) says he was remembered as 'a fine-looking man, well built, large and portly'. In 1763 he led 'a company of emigrants' from Moriches to Blooming Grove, Orange County, the same move that may have carried John's Tuthill and Smith ancestors to the Clove (Round 2). His stepmother was Mary Wells, granddaughter of William Wells.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "F. B. Dexter, Biographical Sketches of the Graduates of Yale College, vol. 1 (1885) (archive.org full text), pp. 434-435",
+      "url": "https://archive.org/details/biogsketchgrad01dextuoft",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Abner Reeve biography: parents, marriages, ministry, intemperance, death"
+    },
+    {
+      "ref": "S2",
+      "citation": "Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), c. pp. 94-95 (note to ch. VII)",
+      "url": "https://archive.org/details/williamwellsofso00byuhaye",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Footnote on Rev. Abner Reeve: eldest son of Thomas Reeve by first wife Bethia Horton; Thomas m. 2nd 1719 Mary Wells; grave at Brattleboro; description"
+    }
+  ],
+  "researchLogEntry": "Round 4: full biography from Dexter and Hayes; parents Thomas Reeve & Bethia Horton.",
+  "researchedAt": "2026-10-08"
+}

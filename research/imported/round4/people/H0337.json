@@ -1,0 +1,22 @@
+{
+ "id": "H0337",
+ "name": "Mariangela Cannatello",
+ "researchedAt": "2026-10-08",
+ "status": "nothing_new",
+ "conflicts": [
+  {
+   "field": "duplicate",
+   "siteValue": "Separate profile I282697102069 Mariantonia Cannatello (b. 4 Dec 1816)",
+   "foundValue": "Same wife of Nicola Cognetta",
+   "sourceRefs": [],
+   "assessment": "Merge I282697102069 into H0337; birth year still unresolved (1816/1818/c.1823)."
+  }
+ ],
+ "searchedNoResult": [
+  "Antenati (antenati.cultura.gov.it): blocked for this run (per brief); not retried",
+  "FamilySearch record search / Italian civil images: blocked (401/403 per brief)",
+  "San Mango d'Aquino indexes (ItalianParishRecords.org): not applicable (Dasà is in Vibo Valentia, ~60 km south)",
+  "ItalianParishRecords.org: no Dasà parish page found in the Vibo Valentia list"
+ ],
+ "researchLogEntry": "Round 4: nothing new. Confirms she is the same woman as the tree's 'Mariantonia Cannatello' (I282697102069), per the round-3 reading of Giovanni's 1855 birth act ('Donna Mariangela Cannatello')."
+}

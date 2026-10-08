@@ -1,0 +1,57 @@
+{
+  "id": "H0299",
+  "name": "John Tyler",
+  "status": "researched",
+  "bioAdditions": "Tenth U.S. President; second husband of John's cousin Julia Gardiner (married 26 Jun 1844 per Wikipedia; Gardiner 1890 gives 20 June 1844). In-law only.",
+  "conflicts": [
+    {
+      "field": "marriage date",
+      "siteValue": "",
+      "foundValue": "20 June 1844 (Gardiner 1890 p. 149) vs 26 June 1844 (Wikipedia, Julia Gardiner Tyler)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Wikipedia's 26 June 1844 is the commonly cited date; Gardiner's '20' may be a misprint."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149",
+      "url": "https://archive.org/details/liongardinerhisd00gard",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Juliana m. 20 June 1844 John Tyler; children listed"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Julia Gardiner Tyler' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Married 26 June 1844"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "John Tyler, by G. P. A. Healy",
+      "date": "1842",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tyler,_John,_by_Healy_(1842,_NPG_2019_13)_(cropped).jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tyler%2C_John%2C_by_Healy_%281842%2C_NPG_2019_13%29_%28cropped%29.jpg",
+      "repository": "Wikimedia Commons; National Portrait Gallery NPG.2019.13",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0299/john-tyler-healy-1842.jpg",
+      "people": [
+        "H0299"
+      ],
+      "suggestedFile": "media/H0299/john-tyler-healy-1842.jpg",
+      "note": "Commons licence: Public domain. 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: marriage-date discrepancy noted; PD Healy portrait.",
+  "researchedAt": "2026-10-08"
+}

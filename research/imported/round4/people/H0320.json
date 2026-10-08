@@ -1,0 +1,59 @@
+{
+  "id": "H0320",
+  "name": "Theodore Ledyard Cuyler",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "10 Jan 1822",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "26 Feb 1909",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Akerly (S2) independently names Azariah Horton as 'ancestor of the Rev. Theodore L. Cuyler, of Brooklyn', confirming the link already drawn from Cuyler's own Recollections. 5th cousin 5 times removed.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Theodore L. Cuyler' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Theodore_L._Cuyler",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates"
+    },
+    {
+      "ref": "S2",
+      "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 8",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Azariah Horton ancestor of Rev. Theodore L. Cuyler"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Theodore L. Cuyler (frontispiece, Recollections of a Long Life)",
+      "date": "1902",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Theodore_L._Cuyler.JPG",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Theodore_L._Cuyler.JPG",
+      "repository": "Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0320/theodore-cuyler-1902.jpg",
+      "people": [
+        "H0320"
+      ],
+      "suggestedFile": "media/H0320/theodore-cuyler-1902.jpg",
+      "note": "Public domain (published 1902)."
+    }
+  ],
+  "researchLogEntry": "Round 4: dates; Akerly corroborates the Horton descent; PD 1902 portrait downloaded.",
+  "researchedAt": "2026-10-08"
+}

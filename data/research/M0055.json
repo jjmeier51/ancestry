@@ -1,0 +1,20 @@
+{
+  "id": "M0055",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: sibling of I282824815339 (proven)."
+  },
+  "tags": [],
+  "summary": "Sister of Carmine G",
+  "bio": "Sister of Carmine G. Fiorillo; married Nicola Vecchio at San Mango, civil act 1 of 7 Feb 1839.",
+  "sources": [
+    "[R4-S1] San Mango d'Aquino, stato civile, Civil marriages 1839, image 146, act 1, 7 Feb 1839; volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org). (derivative) https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-805 → M0055; research/imported/round4/new_people.json."
+    }
+  ]
+}

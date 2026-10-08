@@ -1,0 +1,20 @@
+{
+  "id": "M0071",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: child of H0012 (probable)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree, Gerald Francis Meier (G7CS-435), published-tree JSON; sources 1930 census (XH7C-9LH), Pennsylvania County Marriages (KHF6-VSL), SSDI (JP8T-PMN) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-435"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-102 → M0071; research/imported/round4/new_people.json."
+    }
+  ]
+}

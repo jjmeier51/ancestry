@@ -1,0 +1,40 @@
+{
+  "id": "H0290",
+  "name": "Caleb Brewster",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "12 Sep 1747",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "13 Feb 1827",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Continental Army officer and Culper Ring courier across Long Island Sound (S1). With the Brewster ancestry probably disproven (Round 3), no blood route to John is known.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "Kinship only via the probably-disproven Brewster ancestry."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Caleb Brewster' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Caleb_Brewster",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates and Culper role"
+    }
+  ],
+  "searchedNoResult": [
+    "Wikimedia Commons file search 'Caleb Brewster' (no portrait)"
+  ],
+  "researchLogEntry": "Round 4: dates from Wikipedia; no portrait on Commons; kinship remains unsupported.",
+  "researchedAt": "2026-10-08"
+}

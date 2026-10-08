@@ -1,0 +1,55 @@
+{
+  "id": "I282608065145",
+  "name": "Justice, Adam Smith",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Pelletreau prints Adam Smith's will of 12 June 1704, which leaves 'all estate to his only son Edmund Smith' (not probated) (S1). The Introduction says 'Adam is said to have died in 1720' (S2), against the tree's 2 July 1726. Adam therefore cannot be the father of James Smith of Moriches, and the tree's pairing of Adam with Elizabeth Thompson is wrong: she was Job's wife (S3).",
+  "conflicts": [
+    {
+      "field": "children/spouse",
+      "siteValue": "Tree: father of James Smith; husband of Elizabeth Thompson",
+      "foundValue": "Only son Edmund (1704 will); Elizabeth Thompson was wife of Job Smith",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "assessment": "Remove Adam as James's father and Elizabeth's husband."
+    },
+    {
+      "field": "death.date",
+      "siteValue": "2 Jul 1726",
+      "foundValue": "'said to have died in 1720'",
+      "sourceRefs": [
+        "S2"
+      ],
+      "assessment": "Tradition only; unresolved."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), p. 46, 'Will of Adam Smith (Son of Richard the Patentee)': will dated 12 June 1704, witnessed Wm. Jayne Jr. and Wm. Helme, not probated, among the papers of the late Nathaniel Smith of Sherewog",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "only son Edmund"
+    },
+    {
+      "ref": "S2",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), Introduction: 'Daniel probably died before 1715; Richard died in 1719; Adam is said to have died in 1720; Job died before 1720'",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Adam said to have died 1720"
+    },
+    {
+      "ref": "S3",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Job Smith m. Elizabeth Thompson"
+    }
+  ],
+  "researchLogEntry": "Round 4: Adam's 1704 will (only son Edmund) disproves the tree's link to James Smith."
+}

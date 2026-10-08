@@ -9,6 +9,39 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1940 census; FS dates 1914-2004."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0505.json."
     }
+  ],
+  "birth": {
+    "date": "1914",
+    "place": "Old Forge, Lackawanna County, PA"
+  },
+  "death": {
+    "date": "2004",
+    "place": "Sun City West, Maricopa County, Arizona"
+  },
+  "residences": [
+    {
+      "date": "1935",
+      "place": "Taylor, Lackawanna County, PA",
+      "note": "Residence five years before the 1940 census [R4-S1]"
+    },
+    {
+      "date": "1940-04-20",
+      "place": "1028 Bunker Hill Street, Scranton, PA",
+      "note": "Wife, 26, of Nicholas 'Petranello' [R4-S1]"
+    }
+  ],
+  "bio": "In 1940 Genevieve, 26, lived with her husband Nicholas at 1028 Bunker Hill Street; in 1935 she had been living in Taylor ([R4-S1]). FamilySearch gives her life as 1914 (Old Forge) – 2004 (Sun City West, Arizona), with a GenealogyBank obituary index entry ([R4-S2]).",
+  "sources": [
+    "[R4-S1] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG. (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch Family Tree published profile GQ49-HXG (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQ49-HXG"
   ]
 }

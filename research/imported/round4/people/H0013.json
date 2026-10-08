@@ -1,0 +1,129 @@
+{
+  "id": "H0013",
+  "name": "Henry James Meier Jr.",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1957-01-29",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "place": "Hanover Township, Luzerne County, Pennsylvania",
+      "cemetery": "St. Mary's Cemetery",
+      "sourceRefs": [
+        "S3"
+      ]
+    },
+    "aka": [
+      "Harry J. Meier",
+      "Harry J. Meyer (1940)"
+    ],
+    "occupation": "moulder (1917)",
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1917-06-13",
+        "place": "Luzerne County, Pennsylvania",
+        "description": "Married Mary M. Proudlove, 22, of Forty Fort, daughter of Oliver Proudlove (blacksmith, born England) and Anna [Lane?] (born New Jersey). Luzerne docket No. 79542. He was 22, a moulder, of Wilkes-Barre. His parents are given as Henry J. (moulder) and Anna Higgins.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1930–1940",
+        "place": "8 Barney St, Wilkes-Barre",
+        "note": "",
+        "sourceRefs": [
+          "S3"
+        ]
+      },
+      {
+        "date": "1957",
+        "place": "19 Barney St, Wilkes-Barre",
+        "note": "",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LVCM-ZBQ"
+      },
+      {
+        "label": "PA death file",
+        "value": "1957 no. 5614"
+      }
+    ]
+  },
+  "bioAdditions": "The 1957 Pennsylvania death index lists 'MEIER HARRY J, 62, WLKS BRE, county 40, died 01/29/57, file 5614' (S1). This confirms the FamilySearch date of 29 Jan 1957. The tree had only the year. FamilySearch also gives burial at St Mary's Cemetery, Hanover Twp, on 1 Feb 1957 (S3). His marriage docket (No. 79542, June 1917) shows him as a 22-year-old moulder like his father. He married Mary M. Proudlove of Forty Fort, whose father was an English-born blacksmith (S2). On this docket his father's birthplace is written 'Penna', which contradicts the German birth recorded elsewhere. Their children were Robert J. (1918–98), Marjorie (1920–2010, Mrs. Harold Stitzer), Harry J. Jr. (1924–95) and Regina (1926–2012, Mrs. Francis Gimber) (S3).",
+  "conflicts": [
+    {
+      "field": "father's birthplace",
+      "tree": "Germany",
+      "found": "Penna (1917 docket)",
+      "note": "Probably an error by the clerk. Madeline's 1936 licence says Germany."
+    }
+  ],
+  "openQuestionsNew": [
+    "Order PA death certificate 1957 file 5614."
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "The state death index matches his name, age, town and date."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Pennsylvania Death Index 1957, MCD–MY, PDF p.40: MEIER HARRY J, 62, WLKS BRE, 40, 01/29/57, file 5614",
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1957/D-57%20MCD-MY.pdf",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Death 29 Jan 1957 Wilkes-Barre, aged 62"
+    },
+    {
+      "ref": "S2",
+      "citation": "Luzerne County Marriage License Docket No. 79542: Henry J. Meier Jr. × Mary M. Proudlove, licence June 1917, married 13 June 1917 (FamilySearch index 1:1:KHFL-99Z)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LVCM-ZBQ/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Marriage; parents of both"
+    },
+    {
+      "ref": "S3",
+      "citation": "FamilySearch Family Tree, Henry James Meier Jr (LVCM-ZBQ), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LVCM-ZBQ",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Burial 1 Feb 1957 St Mary's; residences; children"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Luzerne County marriage docket No. 79542: Henry J. Meier Jr. and Mary M. Proudlove, 1917",
+      "date": "1917-06-13",
+      "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LVCM-ZBQ/images/i/2/image.jpg",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LVCM-ZBQ/images/i/2/image.jpg",
+      "repository": "Luzerne County Orphans' Court (via FamilySearch)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0013/marriage-docket-1917-meier-proudlove.jpg",
+      "people": [
+        "H0013"
+      ],
+      "suggestedFile": "media/H0013/marriage-docket-1917-meier-proudlove.jpg",
+      "note": "A pre-1931 county government record."
+    }
+  ],
+  "researchLogEntry": "Round 4: PA death index 1957 file 5614 (d. 29 Jan 1957); read his 1917 marriage docket.",
+  "researchedAt": "2026-10-08"
+}

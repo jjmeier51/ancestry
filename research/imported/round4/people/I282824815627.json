@@ -1,0 +1,34 @@
+{
+ "id": "I282824815627",
+ "name": "Anna Maria Puteri",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Anna Maria was baptized on 19 April 1745, daughter of Domenico Putero and Lucrezia Monaco (S1). Her parents are new to the tree.",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "I282824815806",
+   "evidence": "Alessio Moraca bapt. 1772",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 128, p. 174, no. 19; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Anna Maria Putero bapt. 19 Apr 1745, father Domenico Putero, mother Lucretia Monaco (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 19 Apr 1745 (parents Domenico Putero and Lucrezia Monaco)."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "I282695583872",
+  "name": "JAMES RICHARD \"Captain\" REEVES",
+  "status": "researched",
+  "bioAdditions": "Akerly (S1) records that Joshua Tuthill of Cutchogue (b. 1690, son of John Tuthill Jr & Mehitable Wells) married Hannah, 'da. of Major James Reeve of Mattituck', who died 8 Mar 1764 aged 64. This is the tree's 'Captain James Reeves' (father of Hannah, I282695486799). He is therefore the father-in-law of John's 9th-great-granduncle Joshua Tuthill, an in-law and not an ancestor, consistent with the earlier correction that Hannah married Joshua, not James.",
+  "updates": {
+    "aka": [
+      "Major James Reeve of Mattituck"
+    ]
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 9",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joshua Tuthill m. Hannah dau. of Major James Reeve of Mattituck; she d. 8 Mar 1764 ae 64"
+    }
+  ],
+  "researchLogEntry": "Round 4: Akerly calls him Major James Reeve of Mattituck, father-in-law of Joshua Tuthill; in-law only.",
+  "researchedAt": "2026-10-08"
+}

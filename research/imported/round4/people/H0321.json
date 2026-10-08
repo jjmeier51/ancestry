@@ -1,0 +1,70 @@
+{
+  "id": "H0321",
+  "name": "Henry Tuthill",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1 May 1665",
+      "place": "Southold, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "4 Jan 1750",
+      "place": "Southold, NY",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "occupation": "Justice of the Peace; landowner in Southold and Brookhaven"
+  },
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0491",
+      "evidence": "Akerly; family record in Horton Genealogy",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "child",
+      "personId": "NEW-608",
+      "evidence": "Akerly: issue incl. Henry b. 1690",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Son of John Tuthill (1635-1717) and Deliverance King, so a brother of John's 10th-great-grandfather John Tuthill Jr (John's 10th-great-granduncle, not a cousin). Akerly (S1) cites his will (N.Y. Liber 17, p. 118) and lists children Henry (1690), Jonathan (1695-1741, m. Susannah L'Hommedieu, granddaughter of Thomas Brinley, auditor to Charles I), Nathaniel (drowned 1727), Barnabas and Bethia (m. Samuel Landon). A family record (S2) says he died 4 Jan 1750 aged 84.",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Akerly with will citation; replaces the McCurdy web pages as source."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 7-9",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Henry Tuthill no. 5: dates, wife, will, children"
+    },
+    {
+      "ref": "S2",
+      "citation": "George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), family record",
+      "url": "https://archive.org/details/hortongenealogyo00hort",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Tuthill family record: Henry d. 4 Jan 1750 aged 84"
+    }
+  ],
+  "researchLogEntry": "Round 4: dates, will and children from Akerly; family record death date.",
+  "researchedAt": "2026-10-08"
+}

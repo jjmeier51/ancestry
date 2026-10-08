@@ -17,7 +17,8 @@
   ],
   "sources": [
     "Banks (1901)",
-    "Round 1 correction 3a"
+    "Round 1 correction 3a",
+    "[R4-S1] T. M. Banta, Sayre Family (1901) (archive.org full text), p. 30 (secondary) https://archive.org/details/sayrefamilylinea00bant"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -32,6 +33,18 @@
     {
       "date": "2026-10-08",
       "note": "Handoff gives parents Daniel Sayre (b. unknown), Hannah Foster (b. unknown) but the link is only \"unverified\", so the tree was not changed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0253, proven): Named in Daniel Sayre's will"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Banta confirms Hannah as daughter of Daniel Sayre; children Josiah and John only."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608083460.json."
     }
   ],
   "media": [
@@ -43,5 +56,14 @@
       "note": "Hannah Sayre, 1668-00-00 – 1741-08-02",
       "url": "https://www.wikitree.com/wiki/Sayre-440"
     }
-  ]
+  ],
+  "events": [
+    {
+      "title": "Legatee in father's will",
+      "date": "1707-08-21",
+      "place": "Southampton, NY",
+      "description": "Named in Daniel Sayre's will as 'Hannah Topping the wife of Mr Josiah Topping'. [R4-S1]"
+    }
+  ],
+  "bio": "Her father Daniel Sayre's will of 1707 (Banta, [R4-S1]) names her as wife of Josiah Topping; Banta lists only two children, Josiah and John (b. 1706). Not an ancestor of John and, the Sayre line being non-ancestral, not a blood relative."
 }

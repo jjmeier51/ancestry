@@ -9,7 +9,8 @@
   "summary": "Step-great-great-grandfather: second husband of Catherine A. Murphy McAvoy.",
   "sources": [
     "FamilySearch K6NQ-ZX8",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] FamilySearch Family Tree (published), John H Jones (b. 1879), PID G7QQ-PP2; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7QQ-PP2"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -20,6 +21,40 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS gives b. c.1879, Plymouth 1910-1930."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0066.json."
     }
-  ]
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "b. unknown",
+      "found": "ABT 1879",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "birth": {
+    "date": "b. unknown",
+    "place": "Pennsylvania"
+  },
+  "residences": [
+    {
+      "date": "1910-1930",
+      "place": "Plymouth Ward 1, Luzerne Co., Pa.",
+      "note": "1910, 1920 and 1930 census (FS); in 1920 his household included Catherine (Murphy) and stepdaughter Elizabeth McAvoy [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G7QQ-PP2"
+    }
+  ],
+  "bio": "FamilySearch places John H. Jones, born about 1879 in Pennsylvania, in Plymouth Ward 1 in 1910, 1920 and 1930, as husband of the widowed Catherine A. (Murphy) McAvoy ([R4-S1]). He was roughly 19 years younger than his wife. No record ties him to Edward F. Jones's family."
 }

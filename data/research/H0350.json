@@ -1,8 +1,8 @@
 {
   "id": "H0350",
   "link": {
-    "confidence": "probable",
-    "note": "1910 census (age 13) and Geni list; death before 1935 per FS."
+    "confidence": "possible",
+    "note": "1910 census (age 13) and Geni list; death before 1935 per FS. Round 4 (probable → possible): As a separate person Katie is probably a duplicate of Grace; keep only as an alias pending John's review."
   },
   "sex": "F",
   "aka": [
@@ -10,15 +10,16 @@
   ],
   "tags": [],
   "summary": "John's great-grandaunt.",
-  "bio": "Katie, 13, in the 1910 census at 1030 Ash St. Geni lists 'Katie \"Chas\"'; Round 2 says 'Chas' is a census misreading (Chas = Charles in 1920). Died before 1935.",
+  "bio": "Katie, 13, in the 1910 census at 1030 Ash St. Geni lists 'Katie \"Chas\"'; Round 2 says 'Chas' is a census misreading (Chas = Charles in 1920). Died before 1935.\n\nThe 1910 census lists 'Katie', a daughter aged 13, born in Pennsylvania ([R4-S1]). Marie is recorded as mother of 6 children, all 6 living, and exactly six children are listed: Katie, Peter, Frank, Joseph, Tony and Charlie. Grace Petrillo, born 5 Jan 1897, would have been 13 in April 1910, yet she does not appear unless she is 'Katie'. Grace's 1943 repatriation card confirms she was US-born on that date ([R4-S2]). Katie and Grace are therefore very probably the same girl ('Katie' perhaps a mishearing of 'Gracie'). In the 1920 census the 23-year-old at no. 1028 is recorded as 'Chas', son, male, a coal-mine laborer ([R4-S3]). That entry is unexplained, since Charles Thomas was only 13. It may be a garbled entry for the same child, or a separate son not otherwise recorded.",
   "sources": [
     "1910 census image GQWT-LP5",
     "Geni Giovanni Petriello profile",
-    "notes/round2/italian_gaps.md 4"
+    "notes/round2/italian_gaps.md 4",
+    "[R4-S1] 1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+    "[R4-S2] US District Court, Middle District of PA, naturalization index card (Form N-35), Grace DiBiasi, 1015 Bunker Hill St, Scranton; born Jan 5, 1897, country of birth U.S.A.; 'Rep.' (repatriation) June 29, 1943, vol. 1, certificate 250. Image attached to FamilySearch tree GQWT-QQ8 (index ark 1:1:6KPY-79MP). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ8/images/i/1/image.jpg",
+    "[R4-S3] 1920 US census, Scranton (part of 10th Ward), ED 142, sheet 13A (enumerated 9 Jan 1920), no. 1028 [Bunker Hill St]: John 'Patrello' (50, owned free, immigrated 1892, naturalized 1900, merchant, grocery store) and Mary (43), sons Peter (22), Frank (20), 'Chas' (23, male, coal-mine laborer), Ralph (14), Anthony (15), James (12), Michael (8), Rocco (7?) and daughter Carrie. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:M6YQ-5JP). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/0/image.jpg"
   ],
-  "openQuestions": [
-    "Files list Katie (c.1897) and Grace (b. 5 Jan 1897) separately; whether they overlap was not examined"
-  ],
+  "openQuestions": [],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
     "heading": "Katie Petrillo (b. 1897)",
@@ -28,6 +29,30 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → possible: As a separate person Katie is probably a duplicate of Grace; keep only as an alias pending John's review."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Files list Katie (c.1897) and Grace (b. 5 Jan 1897) separately; whether they overlap was not examined → Examined: the 1910 census has 6 children born / 6 living and lists Katie (F, 13) with no Grace. Grace (b. Jan 1897, US-born) must be Katie. Probable."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: the 1910 census child count shows Katie (13) is very probably Grace (b. 5 Jan 1897); the 1920 'Chas' (male, 23) is unexplained."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0350.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "Katie (c.1897 – before 1935) as a separate child from Grace (b. 5 Jan 1897)",
+      "found": "Only six children existed in 1910 and Grace is not otherwise listed",
+      "assessment": "Probable duplicate: merge Katie into Grace (H0351). The 'before 1935' death has no source."
     }
   ]
 }

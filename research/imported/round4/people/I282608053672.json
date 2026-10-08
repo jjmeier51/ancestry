@@ -1,0 +1,37 @@
+{
+ "id": "I282608053672",
+ "name": "Catherine E. Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "LHHH-W5T"
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch (LHHH-W5T) gives her birth as 2 Aug 1870 at Plymouth, citing seven attached records (S1); the 1880 census lists her as \"Catheren Heferon\" in her father's household.",
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "BET 1869 AND 1870 (Dwyer: c. Aug 1869)",
+   "foundValue": "2 Aug 1870 (FamilySearch tree)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "The day and month (August) agree with Dwyer; the year differs by one. Her parents married 1 Sep 1868, so either is possible. Her 1947 death certificate (#35591) should give the date."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Catherine E Heffernan (1870-1947), PID LHHH-W5T; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth 2 Aug 1870 Plymouth; burial St. Mary's, Hanover Twp",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHHH-W5T"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS gives exact birth 2 Aug 1870 (vs Dwyer c.1869); no other new record."
+}

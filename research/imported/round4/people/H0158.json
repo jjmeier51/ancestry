@@ -1,0 +1,47 @@
+{
+  "id": "H0158",
+  "name": "Edwin Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1860",
+        "place": "Plymouth, in James Pringle's household (age 18)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LW3P-FD4"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch confirms Edwin (b. about 1841) in James Pringle's household in 1850 and 1860 (S1). It also has a separate profile for an Edward Pringle (b. 11 Aug 1843, d. 16 Dec 1917 at Retreat, Luzerne Co.), who married Amanda Dodson, lived in Plymouth in 1870 and 1880, and is buried in the Scott Cemetery, Huntington Twp, which was the Scott family's burial ground (S2). That profile carries an 1850 census entry too. 'Edwin' and 'Edward' may be one man; the burial among the Scotts fits a son of this family. The 1917 Pennsylvania death certificate would settle it.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Edwin Pringle (LW3P-FD4), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LW3P-FD4",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "1850 and 1860 households"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Edward Pringle (G3WB-MYL)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3WB-MYL",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "possible identity: Edward 1843-1917"
+    }
+  ],
+  "openQuestionsNew": [
+    "Is Edward Pringle (1843-1917, buried Scott Cemetery, Huntington Twp) the same man as Edwin? Check the 1917 PA death index or certificate."
+  ],
+  "researchLogEntry": "Round 4: confirmed in the 1860 household; possible identity with Edward Pringle (1843-1917) of Retreat, buried Scott Cemetery."
+}

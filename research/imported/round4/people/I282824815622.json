@@ -1,0 +1,34 @@
+{
+ "id": "I282824815622",
+ "name": "Michaele Moraca",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Michele was baptized on 2 June 1748, son of Luca Moraca and Lucrezia Frajacouo (S1). His parents are new to the tree. His children Agata (1777) and Alessio (1772) are both John's ancestors.",
+ "relationships": [
+  {
+   "type": "child",
+   "personId": "I282824815806",
+   "evidence": "Alessio bapt. 1772 (father Michaele, mother Anna Maria Putero)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1747-1767 (Book 5), image 7, p. 8, no. 14; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1747-1767'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Michael Moraca bapt. 2 Jun 1748, father Luca Moraca, mother Lucretia Frajacouo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: baptism 2 Jun 1748 (parents Luca Moraca and Lucrezia Frajacouo)."
+}

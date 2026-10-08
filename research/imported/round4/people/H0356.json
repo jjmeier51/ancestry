@@ -1,0 +1,75 @@
+{
+ "id": "H0356",
+ "name": "Charles Thomas Petrillo",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Charles Petriello"
+  ],
+  "events": [
+   {
+    "title": "Marriage to Elsie Jaworski",
+    "date": "1934-09",
+    "place": "Scranton, PA",
+    "description": "License No. 1856 sworn 27 Aug 1934: Charles Petriello, 26, labor, b. Scranton, 1028 Bunker Hill St; Elsie Jaworski, 21, waitress, b. Scranton, 416 Christ Ct, daughter of the late Alexander and of Victoria (b. Poland). Married by Rev. Andrew Lychowicz, Scranton, Sept 1934 (day partly legible).",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "residences": [
+   {
+    "date": "1940-04-20",
+    "place": "1028 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
+    "note": "Head, 33, laborer, outside work at mines; wife Elsie 26.",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "Charles married Elsie Jaworski, a 21-year-old Polish-American waitress, in September 1934. On the license he gave his birthplace as Scranton, not Pittston (S1). In 1940 the couple rented one of the units at 1028 Bunker Hill Street beside his brothers James and Nicholas; he was a laborer doing outside work at the mines (S2).",
+ "conflicts": [
+  {
+   "field": "birth.place",
+   "siteValue": "Pittston, Luzerne County",
+   "foundValue": "Scranton (1934 marriage license)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Unresolved; the license is self-reported. Pittston comes from the FS tree."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "(not in tree) Elsie Jaworski, b. c.1913 Scranton",
+   "evidence": "1934 marriage license; 1940 census",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Lackawanna Co. Orphans' Court, marriage license application No. 1856 (1934): Charles Petriello (26, labor, b. Scranton, 1028 Bunker Hill St; father John, mother Mary, maiden name 'Bibisi' [DiBiasi], father occupation 'Mdse', both parents b. Italy, residing Scranton) and Elsie Jaworski (21, waitress, b. Scranton, 416 Christ Ct; father Alexander, deceased; mother Victoria, b. Poland); sworn 27 Aug 1934; married Sept 1934 at Scranton by Rev. Andrew Lychowicz. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:VF78-5KW).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/2/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Charles Thomas Petriello marriage; John and Maria Antonia both alive Aug 1934"
+  },
+  {
+   "ref": "S2",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  }
+ ],
+ "researchLogEntry": "Round 4: found his 1934 marriage to Elsie Jaworski (license 1856) and the 1940 census at 1028 Bunker Hill St.",
+ "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I282608083447",
+  "name": "Josiah Topping",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Capt. Josiah Topping"
+    ],
+    "events": [
+      {
+        "title": "Named in father-in-law's will",
+        "date": "21 Aug 1707",
+        "place": "Southampton, NY",
+        "description": "Daniel Sayre's will names 'Hannah Topping the wife of Mr Josiah Topping' and makes 'my son-in-law Josiah Toppin' co-seller of two slaves.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "I282608083460",
+      "evidence": "Daniel Sayre's 1707 will; Banta lists Hannah's husband as Capt. Josiah Topping (1663-1726) with children Josiah and John (b. 1706).",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "I282608083494",
+      "evidence": "Tree only. Howell's Topping genealogy lists a John (b. 1646), son of Capt. Thomas, but gives him no children.",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "candidate"
+    }
+  ],
+  "bioAdditions": "Banta's Sayre Family (S1) calls him Capt. Josiah Topping, born 1663, died 1726, husband of Hannah Sayre, with sons Josiah and John (b. 1706); there is no daughter Jerusha, confirming the earlier removal of this couple from John's direct line. Howell (S2) lists Capt. Thomas Topping's children as Elnathan (1640), James, John (1646), Thomas, Mary and Martha, but does not assign Josiah to any of them. If he was a son of John Topping and grandson of Capt. Thomas, he would still be a collateral blood cousin (1C11R), but that link is unproven.",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "possible",
+    "justification": "Identity and marriage are documented (Sayre will); parentage is not, so his collateral kinship stays possible."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "T. M. Banta, Sayre Family (1901) (archive.org full text), p. 30",
+      "url": "https://archive.org/details/sayrefamilylinea00bant",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Daniel Sayre will 1707; Hannah m. Capt. Josiah Topping b. 1663 d. 1726; children Josiah, John b. 1706"
+    },
+    {
+      "ref": "S2",
+      "citation": "George R. Howell, Early History of Southampton, L.I. (1887) (archive.org full text), pp. 395-396",
+      "url": "https://archive.org/details/earlyhistoryofso00howe",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Children of Capt. Thomas Topping; no Josiah"
+    }
+  ],
+  "researchLogEntry": "Round 4: Banta 1901 gives Capt. Josiah Topping 1663-1726 with sons Josiah and John only; parentage still unproven.",
+  "researchedAt": "2026-10-08"
+}

@@ -9,6 +9,41 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Pelletreau's Platt lineage gives dates and both marriages; distinguished from his son the Plattsburgh founder."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0474.json."
     }
+  ],
+  "birth": {
+    "date": "1704"
+  },
+  "death": {
+    "date": "1778"
+  },
+  "events": [
+    {
+      "title": "Marriages",
+      "date": "1730",
+      "place": "Huntington, NY",
+      "description": "Married (1) Hannah Saxton in Huntington, 1730; (2) Anna, daughter of Job Smith 2d and widow of Ebenezer Smith. Large tracts laid out to him 1736; homestead at Sunk Meadow, Smithtown. [R4-S1]"
+    }
+  ],
+  "bio": "Pelletreau's Platt lineage ([R4-S1]): son of Jonas Platt (b. 1684, drowned at Amboy 1731), grandson of Capt. Epenetus Platt of Huntington. Children by Hannah Saxton: Jonas, Zephaniah, Nathaniel, Charles, Hannah, Elizabeth; by Anna Smith: Jeremiah, Daniel, Sarah and Dorothea. He is an in-law (stepfather of Anna's Smith children). Important: he is NOT the Plattsburgh founder Zephaniah Platt (1735-1807); that man is his son by Hannah Saxton.",
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "(risk) Zephaniah Platt",
+      "found": "Zephaniah Platt (1704-1778), father of the Plattsburgh founder Zephaniah Platt (1735-1807)",
+      "assessment": "Do not attach the Wikipedia/Commons material for the Plattsburgh founder to this person."
+    }
+  ],
+  "sources": [
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 473 ('Platt Lineage') (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "[R4-S2] Wikipedia, 'Zephaniah Platt' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Zephaniah_Platt"
   ]
 }

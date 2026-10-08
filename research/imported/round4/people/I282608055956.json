@@ -1,0 +1,63 @@
+{
+  "id": "I282608055956",
+  "name": "John Tuthill",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "First marriage",
+        "date": "",
+        "place": "Southold",
+        "description": "Married Deliverance King, daughter of William and Dorothy (Hayne?) King, bapt. Salem, Mass., 1641; she died at Southold 25 Jan 168[3/4?], aged 49",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Second marriage",
+        "date": "1690-05-28",
+        "place": "Southold",
+        "description": "Married Sarah, probably widow of Thomas Young and daughter of John Frost; she died 8 Nov 1727",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "death": {
+      "date": "1717-10-12",
+      "place": "Southold, Suffolk Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "birth": {
+      "date": "1635-07-16",
+      "place": "England?",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Akerly (1898) gives John's birth as 16 July 1635 ('in England?') and his death at Southold on 12 Oct 1717 (S1). He married first Deliverance King, daughter of William and Dorothy (Hayne?) King, baptized at Salem 1641 ('1641:31:8'), who died at Southold aged 49. He married second, on 28 May 1690, Sarah, probably the widow of Thomas Young and daughter of John Frost, who died 8 Nov 1727. His children's births were recorded in his Bible and in Liber E of the Southold town records. The children were John (b. 14 Feb 1658), Elizabeth (1661, m. William Wells Jr.), Henry (1665), Hannah (1667, m. Joshua Wells), Abigail (1670), Dorothy (1674), Deliverance (1677), Daniel (1679), Nathaniel (1683, d. Antigua 1705), and by the second wife Mary (d. young) (S1). He and his sister Elizabeth were wards of their stepfather William Wells.",
+  "openQuestionsResolved": [
+    {
+      "question": "Name of his wife (King?) and his birthplace.",
+      "answer": "Wife (1) Deliverance King, dau. of William & Dorothy King of Salem, bapt. 1641; (2) Sarah (Frost) Young, m. 28 May 1690. Birthplace: Akerly gives b. 16 July 1635 'in England?'. Not resolved beyond that.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11)",
+      "url": "https://archive.org/details/tuthillfamilyoft00aker",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "John no. 3: dates, two marriages, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: Akerly gives his wives (Deliverance King; Sarah Frost Young, m. 1690) and exact birth and death dates."
+}

@@ -1,28 +1,31 @@
 {
   "id": "I282824815192",
   "link": {
-    "confidence": "probable",
-    "note": "Tree dates and parents; the 1920 census widow 'Josephine Farino', 45, at the Ferlaino house 1306 Diamond Ave fits her. No record naming 'Giuseppina Fiorillo' found; parents are tree-only."
+    "confidence": "confirmed",
+    "note": "Tree dates and parents; the 1920 census widow 'Josephine Farino', 45, at the Ferlaino house 1306 Diamond Ave fits her. No record naming 'Giuseppina Fiorillo' found; parents are tree-only. Round 4 (probable → confirmed): Baptism (read) names her parents; her daughter's baptism names her; the US census and the 1943 index (\"Josephine Farino\") fit."
   },
   "birth": {
-    "date": "1871",
+    "date": "ABT 10-11 Jan 1871",
     "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy"
   },
   "death": {
-    "date": "1943",
-    "place": "Scranton, Lackawanna, Pennsylvania, USA"
+    "date": "1943-06-04",
+    "place": "Scranton, Lackawanna County, Pennsylvania"
   },
   "occupation": "Householder; kept boarders",
   "aka": [
     "Josephine Farino",
     "Josephine Ferlaino",
-    "Giuseppina Ferlaino"
+    "Giuseppina Ferlaino",
+    "Josephina Gabriele Fiorillo (baptism)",
+    "Josepha Fiorillo",
+    "Josephine Farino (US)"
   ],
   "tags": [
     "immigrant"
   ],
   "summary": "John's maternal 2nd great-grandmother; widowed head of the Ferlaino boarding house for San Mango newcomers at 1306 Diamond Avenue, Scranton.",
-  "bio": "Tree: Giuseppina Fiorillo (1871-1943), daughter of Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926), wife of Leopoldo Ferlaino. 1920 census (Scranton Ward 2, ED 105, sheet 2A, 1306 Diamond Avenue): Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; with daughter Helen (25), son Frank (17), daughter 'Rofella' (15), son-in-law Frank Cognetti, three grandsons and boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. The census age points to birth c.1874-75 rather than the tree's 1871. A forum post says 1306 Diamond Ave was the home of the Ferlaino family who took in boarders from San Mango d'Aquino in the 1910s-20s. Arrived with Helen in 1900 (1920 census) or 1901 (1930 census). No San Mango cemetery entry for her, consistent with death in Scranton.",
+  "bio": "Tree: Giuseppina Fiorillo (1871-1943), daughter of Domenico Fiorillo (1840-1927) + Saveria Colosimo (1848-1926), wife of Leopoldo Ferlaino. 1920 census (Scranton Ward 2, ED 105, sheet 2A, 1306 Diamond Avenue): Josephine 'Farino', head, 45, widowed, owns house free of mortgage, born Italy, immigrated 1900, alien; with daughter Helen (25), son Frank (17), daughter 'Rofella' (15), son-in-law Frank Cognetti, three grandsons and boarders Anthony 'Bifano' (Epifano) and Angelo Bonacci. The census age points to birth c.1874-75 rather than the tree's 1871. A forum post says 1306 Diamond Ave was the home of the Ferlaino family who took in boarders from San Mango d'Aquino in the 1910s-20s. Arrived with Helen in 1900 (1920 census) or 1901 (1930 census). No San Mango cemetery entry for her, consistent with death in Scranton.\n\nGiuseppina was baptized at San Mango d'Aquino on 11 January 1871 as Josephina, daughter of Domenico Gabriele Fiorillo and Saveria Colosimo; the godfather was Felice Sacco. I read the entry on the register photograph ([R4-S1], [R4-S2]). 'Gabriele Fiorillo' was the family's double surname at the time. Her parents had married in the parish on 1 April 1870, so she was their first child ([R4-S4]). The baptism confirms the tree's 1871 birth year. Her 1920 census age (45) understated it by about four years. The 1943 Pennsylvania death index lists 'Josephine Farino', Scranton, county 35 (Lackawanna), died 4 June 1943, certificate file 54686 ([R4-S3]). This uses the same 'Farino' spelling as the 1920 census of her household at 1306 Diamond Avenue, so it is very probably her. No 'Ferlaino' entry exists in the same year's index (soundex F645 checked). Her siblings, from the parish index, were Carmelo (1873), Filomena (1874), Carolina (1877), Carmine (1880), Antonio (1884) and Gaetano (1886) ([R4-S5]).",
   "residences": [
     {
       "date": "1920",
@@ -41,21 +44,29 @@
     {
       "label": "Tree display (IMG_7830-7840)",
       "value": "Giuseppina Fiorillo 1871-1943 (shown as 'Potential' hint in one view)"
+    },
+    {
+      "label": "PA death index",
+      "value": "Josephine Farino, 1943, file 54686"
     }
   ],
   "sources": [
     "1920 US census MFBR-YF8: https://familysearch.org/ark:/61903/1:1:MFBR-YF8 ; image https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/0/image.jpg",
     "ItalianGenealogy.com forum topic 26645: https://www.italiangenealogy.com/forum/topic/26645",
     "Ancestry tree transcription",
-    "notes/round2/italian_gaps.md 2"
+    "notes/round2/italian_gaps.md 2",
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 (Book 11), image 136, p. 262, no. 2; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S2] San Mango d'Aquino parish, Battesimi 1857-1875 (Book 11), photograph 'Book 11 Image (136).jpg', left page, first entry (read by me): '...die vero undecima Januarii... ex coniugibus Dominico Gabriele Fiorillo et Xaveria Colosimo natam, cui nomen Josephina impositum est. Patrinus fuit Felix Sacco'. (primary) https://drive.usercontent.google.com/download?id=1OyGTYnocq7pK3ntmM8YKNFqjGeur0ba_&export=download&confirm=t",
+    "[R4-S3] Pennsylvania State Archives, death-certificate index 1943, E-G volume, PDF p. 132 (soundex F650): JOSEPHINE FARINO, SCRANTON, county 35, 6 4 43, file 54686. (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1943/D-43%20E-G.pdf",
+    "[R4-S4] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1856-1884 (Book 22), image 71, p. 139, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1856-1884'. (derivative) https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "[R4-S5] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 / 1876-1887 (), Carmelus 1873 (img 150 no. 17), Philomena 1874 (img 159 no. 56), Carolina 1877 (img 10 no. 11), Carmine 1880 (img 34 no. 49), Antonio 1884 (img 56 no. 12), Gaetano 1886 (img 75 no. 66); volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875 / 1876-1887'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "[R4-S6] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
   ],
   "mediaKnown": [
     "1920 census image"
   ],
   "openQuestions": [
-    "Her 1943 PA death certificate (names parents; would prove Ferlaino/Fiorillo)",
-    "Birth act (San Mango 1866-1910 registers)",
-    "Exact birth year 1871 vs c.1874-75"
+    "View PA death certificate 1943 no. 54686 (Josephine Farino) to confirm parents Domenico Fiorillo and Saveria Colosimo."
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -106,12 +117,81 @@
       "people": [
         "I282697102554"
       ]
+    },
+    {
+      "url": "https://drive.google.com/embeddedfolderview?id=1GDZrKBPMktUWjT1Vp7yNH4jUHhcWJTsP",
+      "type": "link",
+      "title": "Baptism of Giuseppina (Josephina) Fiorillo, San Mango d'Aquino, 11 Jan 1871",
+      "date": "1871-01-11",
+      "source": "San Tommaso d'Aquino parish, San Mango d'Aquino (volunteer photographs), unknown",
+      "note": "Left page, first entry. (not downloaded: rights unknown)",
+      "people": [
+        "I282824815323",
+        "I282824815333"
+      ]
+    },
+    {
+      "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1943/D-43%20E-G.pdf",
+      "type": "link",
+      "title": "PA death index 1943: Josephine Farino, Scranton",
+      "date": "1943",
+      "source": "Pennsylvania State Archives, unknown",
+      "note": "PDF page 132, soundex F650. (not downloaded: rights unknown)",
+      "people": []
     }
   ],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Baptism (read) names her parents; her daughter's baptism names her; the US census and the 1943 index (\"Josephine Farino\") fit."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Exact birth year 1871 vs c.1874-75 → Baptized 11 Jan 1871."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Birth act (San Mango 1866-1910 registers) → Church baptism found (Book 11, image 136); civil act unread."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Her 1943 PA death certificate (names parents; would prove Ferlaino/Fiorillo) → Index entry: Josephine Farino, Scranton, d. 4 Jun 1943, file 54686. Certificate not yet viewed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815323, proven): Baptism names father Dominicus Gabriele Fiorillo"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282824815333, proven): Baptism names mother Xaveria Colosimo"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child I282695503581, proven): 1894 baptism of Maria Philumena names mother Josepha Fiorillo"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: PA death index 1943 soundex F645 (Ferlaino): no entry; PA death index 1943 F640 Fiorillo: only Magdalena Fiorillo, Bridgeport (unrelated)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: baptism 11 Jan 1871 read (parents Domenico Gabriele Fiorillo and Saveria Colosimo); PA death index 1943 \"Josephine Farino\" Scranton 4 Jun, file 54686."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824815192.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1871 (tree); c.1874-75 (1920 census age)",
+      "found": "baptized 11 Jan 1871",
+      "assessment": "Baptism confirms 1871."
     }
   ]
 }

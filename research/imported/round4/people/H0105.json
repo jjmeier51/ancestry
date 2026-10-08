@@ -1,0 +1,88 @@
+{
+  "id": "H0105",
+  "name": "Joseph Vincent Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "24 Mar 1895",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "30 Jan 1961",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "10 Oct 1921",
+        "place": "Blackford Co., Indiana",
+        "description": "To Maria Verena Alles (1895-1980), per FamilySearch",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "military": [
+      {
+        "note": "FamilySearch lists a WWI draft registration (Wilkes-Barre, 1917-18) and military service ending 30 Apr 1919 (St. Louis, Missouri) - probably a discharge or transport record; not seen.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1920-1921",
+        "place": "Wilkes-Barre",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1940",
+        "place": "in household of Mary Alles (1940 census)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LHHH-8Y6"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives him a birth date of 24 Mar 1895 at Plymouth and a death date of 30 Jan 1961. It records a WWI draft registration at Wilkes-Barre and service ending on 30 Apr 1919, and his marriage on 10 Oct 1921 in Blackford Co., Indiana, to Maria Verena Alles (1895-1980). In 1940 he was in the household of Mary Alles (S1). The site says he married in New York City in 1915, but FamilySearch has that NYC marriage for his sister Genevieve.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Joseph Vincent Pringle (LHHH-8Y6), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHHH-8Y6",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, residences"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 24 Mar 1895-30 Jan 1961, WWI draft and service, and m. 1921 Maria Verena Alles in Indiana.",
+  "conflicts": [
+    {
+      "field": "marriage",
+      "siteValue": "married in New York City in 1915",
+      "foundValue": "m. 10 Oct 1921, Blackford Co., Indiana, Maria Verena Alles; the 1915 NYC marriage is Genevieve's",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "The site note probably belongs to Genevieve (H0104)."
+    }
+  ]
+}

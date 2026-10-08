@@ -1,0 +1,45 @@
+{
+ "id": "H0422",
+ "name": "George J. Wagner",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1876-01-27",
+   "place": "California",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1927",
+   "place": "California (California Death Index)",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "George Julius Wagner"
+  ],
+  "military": [
+   {
+    "note": "WWI draft registration, Alameda Co., Calif.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "George Julius Wagner, b. California 27 Jan 1876, son of Theodore F. C. Wagner and Ida Sandow; registered to vote in Alameda in 1897; died 1927 (California Death Index) (S1).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), George Julius Wagner (1876-1927), PID G6DD-FJ2; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, parents, draft, death index",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G6DD-FJ2"
+  }
+ ],
+ "researchLogEntry": "Round 4: identity and dates from FS."
+}

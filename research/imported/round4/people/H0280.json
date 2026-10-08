@@ -1,0 +1,43 @@
+{
+  "id": "H0280",
+  "name": "Caleb Smith II",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "22 Sep 1762",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "5 Dec 1831",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1795",
+        "place": "",
+        "description": "Married Elizabeth, daughter of Aaron Smith 2d; children Sarah (Mrs Maj. Ebenezer Smith), Martha (Mrs Thomas Mills), Elizabeth (Mrs Richard Blydenburgh), Caleb 3.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "His wife Elizabeth, daughter of Aaron Smith 2d, was presumably a granddaughter of Aaron Smith (son of Job 1st), which would make his children John's cousins through Job Smith as well; Aaron 2d's parentage was not checked.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 477",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Caleb 2d dates, marriage, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates and marriage to Elizabeth dau. of Aaron Smith 2d from Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

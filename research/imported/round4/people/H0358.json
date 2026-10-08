@@ -1,0 +1,38 @@
+{
+ "id": "H0358",
+ "name": "Nicholas Michael Petriello",
+ "status": "researched",
+ "updates": {
+  "residences": [
+   {
+    "date": "1940-04-20",
+    "place": "1028 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
+    "note": "'Nicholas Petranello', head, 29, laborer; wife Genevieve 26 (in Taylor in 1935); daughter Grace, under 1 year old.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "bioAdditions": "In April 1940 Nicholas, his wife Genevieve and their baby daughter Grace rented a unit in the family house at 1028 Bunker Hill Street (S1). As 'Nick Petrillo' he was a surviving brother of Josephine Castellano in November 1995 (S2).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (enumerated 20 Apr 1940), Bunker Hill Street nos. 1020-1028: households of James 'Petranello' (28), Nicholas 'Petranello' (29), Charles 'Petranello' (33), DiBiasi (1022) and Genello (1020). Image attached to FamilySearch tree GQWR-122 / GQ49-HXG.",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 residence and households of James, Nicholas and Charles Petriello at 1028 Bunker Hill St"
+  },
+  {
+   "ref": "S2",
+   "citation": "Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Josephine Castellano, 91, of Phoenix, homemaker, died 28 Nov 1995, born Scranton; survivors daughters Carmella Valvano and Marie Liburdi, son Vito, brothers Nick, Jim and Rocco Petrillo"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1940 census at 1028 Bunker Hill St with wife and daughter Grace; survivor in 1995.",
+ "researchedAt": "2026-10-08"
+}

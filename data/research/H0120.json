@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 2nd-great-grand-uncle; advertising manager of the Sunday Independent.",
-  "bio": "George Paul Heffernan (20 May 1893 - 17 Dec 1953), advertising manager of the Sunday Independent; married Claire P. Lydon in 1927.",
+  "bio": "George Paul Heffernan (20 May 1893 - 17 Dec 1953), advertising manager of the Sunday Independent; married Claire P. Lydon in 1927.\n\nFamilySearch gives the marriage date as 18 Apr 1927 and two sons, George Paul (1928-2015) and Andrew Humphrey (1929-1998), both deceased ([R4-S1]). A baptism index entry \"Geo. Heffron\" (Pennsylvania Births and Christenings) is attached.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
-    "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up"
+    "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
+    "[R4-S1] FamilySearch Family Tree (published), George P Heffernan (1894-1953), PID LB2V-8WY; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LB2V-8WY",
+    "[R4-S2] FamilySearch Family Tree (published), Claire Patricia Lydon (b. 1903), PID LB2V-DTH; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LB2V-DTH"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +23,46 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: marriage date, sons and burial from FS; birth year 1893 vs 1894."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0120.json."
+    }
+  ],
+  "burial": {
+    "place": "St. Mary's Cemetery, Hanover Twp, Pa."
+  },
+  "residences": [
+    {
+      "date": "1930",
+      "place": "Kingston, Pa.",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1927-04-18",
+      "place": "Luzerne Co., Pa.",
+      "description": "Married Claire Patricia Lydon (b. 1903, dau. of Patrick J. Lydon & Clara Kimmett); an NYC marriage index entry is also attached [R4-S1] [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LB2V-8WY"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1893-05-20",
+      "found": "20 May 1894 (FamilySearch)",
+      "assessment": "Same day and month; year differs. The baptism index entry would settle it; keep 1893 (Dwyer) pending."
     }
   ]
 }

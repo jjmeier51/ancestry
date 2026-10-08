@@ -21,6 +21,32 @@
       "url": "https://www.wikitree.com/wiki/Gooch-198"
     }
   ],
-  "sources": [],
-  "researchLog": []
+  "sources": [
+    "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 3-4 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Akerly 1898 full text: 'Gooch' occurs only in Henry Tuthill's will abstract (John Gooch); no William or Peter Gooch"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Akerly's abstract of Henry Tuthill's 1618 will names John (not William) Gooch as father-in-law; the William/Peter 'Ilketshall' Gooch chain is unsupported."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608083391.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "relationship (Gooch line)",
+      "site": "Tree chain Peter 'Ilketshall' Gooch -> William Gooch (1523-1605) -> 'Wyllyam' Gooch (1559-1636) as the Tuthill in-laws",
+      "found": "Henry Tuthill of Tharston's will (20 Mar 1618, proved 20 Apr 1619) names his wife's father as JOHN Gooch and her mother as Margaret Rau(e); Akerly prints the wife only as 'Alice (Gooch?)'.",
+      "assessment": "The documented father-in-law is John Gooch, not William. Nothing ties the tree's 'Peter Ilketshall Gooch' (1490-1558) to Alice Gooch. 'Ilketshall' is a Suffolk place name (the Ilketshall parishes near Bungay) used as a middle name, a typical sign of a merged online tree. Treat as unsupported."
+    }
+  ],
+  "openQuestions": [
+    "Is there any record linking a William Gooch of Ilketshall/Wissett to John Gooch of Long Stratton, father of Alice Gooch (bapt. Long Stratton 11 Aug 1583 per WikiTree)?"
+  ]
 }

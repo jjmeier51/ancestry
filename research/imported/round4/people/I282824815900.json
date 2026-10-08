@@ -1,0 +1,37 @@
+{
+ "id": "I282824815900",
+ "name": "Ferrante (Ferdinando) Maletta",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "bioAdditions": "Ferdinando married Isabella Moraca on 5 June 1695 (S1). Their daughter Anna Maria was born in 1692, before the indexed marriage date. The index date or the child's identification should be checked on the image. A daughter Francesca Giovanna died as a child in December 1702.",
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "I282824815921",
+   "evidence": "Marriage",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "unverified",
+  "recommended": "probable",
+  "justification": "Tree data match an indexed San Mango parish entry (derivative index of a primary register; image online but not read by me)."
+ },
+ "openQuestionsNew": [
+  "Marriage indexed 5 Jun 1695, but daughter Anna Maria baptized May 1692 as their child; check Book 3 marriage img 193."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1686-1713 (Book 3), image 193, p. 310, no. 2; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1686-1713'.",
+   "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Marriage 5 Jun 1695, Ferdinando Maletta and Isabella Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: marriage 5 Jun 1695 indexed (child Anna Maria born 1692: date inconsistency to check)."
+}

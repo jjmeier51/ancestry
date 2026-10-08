@@ -7,10 +7,12 @@
   "sex": "M",
   "tags": [],
   "summary": "Famous Brooklyn preacher (Lafayette Avenue Presbyterian) and author; John's 5th cousin 5x removed.",
-  "bio": "Path: Mary Tuthill → Azariah Horton → Mary Horton Morrell → Charles Horton Morrell → Louisa Frances Morrell → Theodore. His mother's 'paternal great-grandfather was the Rev. Azariah Horton'.",
+  "bio": "Path: Mary Tuthill → Azariah Horton → Mary Horton Morrell → Charles Horton Morrell → Louisa Frances Morrell → Theodore. His mother's 'paternal great-grandfather was the Rev. Azariah Horton'.\n\nAkerly ([R4-S2]) independently names Azariah Horton as 'ancestor of the Rev. Theodore L. Cuyler, of Brooklyn', confirming the link already drawn from Cuyler's own Recollections. 5th cousin 5 times removed.",
   "sources": [
     "Cuyler, Recollections of a Long Life, https://www.gutenberg.org/ebooks/12549",
-    "Wikipedia, https://en.wikipedia.org/wiki/Theodore_L._Cuyler"
+    "Wikipedia, https://en.wikipedia.org/wiki/Theodore_L._Cuyler",
+    "[R4-S1] Wikipedia, 'Theodore L. Cuyler' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Theodore_L._Cuyler",
+    "[R4-S2] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), p. 8 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -21,6 +23,33 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates; Akerly corroborates the Horton descent; PD 1902 portrait downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0320.json."
+    }
+  ],
+  "birth": {
+    "date": "1822-01-10"
+  },
+  "death": {
+    "date": "1909-02-26"
+  },
+  "photo": "media/H0320/theodore-cuyler-1902.jpg",
+  "media": [
+    {
+      "file": "media/H0320/theodore-cuyler-1902.jpg",
+      "type": "photo",
+      "title": "Theodore L. Cuyler (frontispiece, Recollections of a Long Life)",
+      "date": "1902",
+      "source": "Wikimedia Commons, public_domain",
+      "note": "Public domain (published 1902).",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:Theodore_L._Cuyler.JPG"
     }
   ]
 }

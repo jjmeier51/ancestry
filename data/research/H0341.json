@@ -7,10 +7,14 @@
   "sex": "M",
   "tags": [],
   "summary": "John's maternal 4th great-grandfather; earliest known Giannetta ancestor, of Bisaccia.",
-  "bio": "New generation found in Round 3. Dead by 20 Jul 1867 when his son Savino married (Bisaccia Matrimoni 1867 act 17). Wife Lucia Macchia(?) (reading uncertain). His grandson Frank was named Francesco after him.",
+  "bio": "New generation found in Round 3. Dead by 20 Jul 1867 when his son Savino married (Bisaccia Matrimoni 1867 act 17). Wife Lucia Macchia(?) (reading uncertain). His grandson Frank was named Francesco after him.\n\nThe FamilySearch tree gives Francesco Maria Giannetta's birth as 6 Mar 1812 in Bisaccia, his marriage to Lucia Macchia as 27 June 1836, and his death as 16 Feb 1848, aged 35, when his son Savino was six. That fits the 1867 marriage act's description of Savino as son of 'the late Francesco' ([R4-S1]). The tree names his parents as Savino Giannetta (c.1786–1853) and Giuseppa Sena (1790–1822) ([R4-S2], [R4-S3]). After Giuseppa's death, the elder Savino married in 1823 the widow Grazia Maria Gallicchio, Lucia Macchia's mother ([R4-S2], [R4-S4]). If the tree is right, Francesco married his own stepsister. The tree also lists his children Savino (1838–1841) and Savino (1842).",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
-    "notes/round3/italian_origins.md 3"
+    "notes/round3/italian_origins.md 3",
+    "[R4-S1] FamilySearch Family Tree published profile 2SZL-48S (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-48S",
+    "[R4-S2] FamilySearch Family Tree published profile 2SZL-WWJ (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WWJ",
+    "[R4-S3] FamilySearch Family Tree published profile 2SZL-WF4 (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WF4",
+    "[R4-S4] FamilySearch Family Tree published profile LH71-GCQ (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LH71-GCQ"
   ],
   "openQuestions": [
     "Death act (Bisaccia, before 1867)"
@@ -24,6 +28,44 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch Italian civil-record images return 403; Antenati returns 403"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree gives his dates (6 Mar 1812 - 16 Feb 1848), his 1836 marriage, and a further generation (Savino Giannetta + Giuseppa Sena)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0341.json."
     }
+  ],
+  "birth": {
+    "date": "1812-03-06",
+    "place": "Bisaccia, Avellino, Campania, Italy"
+  },
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "BEF 1867-07-20",
+      "found": "1848-02-16",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "aka": [
+    "Francesco Maria Giannetta"
+  ],
+  "events": [
+    {
+      "title": "Marriage to Lucia Macchia",
+      "date": "1836-06-27",
+      "place": "Bisaccia",
+      "description": "Per FS tree. [R4-S1]"
+    }
+  ],
+  "funFacts": [
+    "If the FamilySearch tree is right, Francesco married his stepsister: his widowed father Savino had married Lucia Macchia's widowed mother Grazia Maria Gallicchio in 1823, thirteen years before Francesco and Lucia wed."
   ]
 }

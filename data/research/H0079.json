@@ -7,7 +7,7 @@
   "sex": "M",
   "tags": [],
   "summary": "John's 8th-great-grandfather; blacksmith of Jettenbach.",
-  "bio": "Abraham Lampert was the smith (Schmied) of Jettenbach, father of Elisabetha Margaretha (b. 1702).",
+  "bio": "Abraham Lampert was the smith (Schmied) of Jettenbach, father of Elisabetha Margaretha (b. 1702).\n\nHis daughter's baptism on 17 Dec 1702 names him as 'Abraham Lamperti' of Jettenbach, with his wife Maria Sara ([R4-S1]). FamilySearch gives him a birth of about 1676 at Otterberg, a marriage at Glan-Münchweiler on 6 Oct 1699 to Maria Sara Jung (widow of Johann Philipp Wirth), and his death at Jettenbach on 18 Jun 1711. It names four children: Maria Elisabeta (1700-1706), Elisabetha Margaretha (1702), Maria Catharina Barbara (1706-1767) and Johann Peter (1708-1713). It also names his parents as Jacob Lampert and Margaretha ([R4-S2]). An Otterberg origin would fit the Walloon/Reformed settlement there, but it is unsourced.",
   "residences": [
     {
       "date": "1702",
@@ -15,7 +15,9 @@
     }
   ],
   "sources": [
-    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193192332: https://gedbas.genealogy.net/person/show/1193192332"
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193192332: https://gedbas.genealogy.net/person/show/1193192332",
+    "[R4-S1] Reichenbach Lutheran register, baptisms 1702 p.42 (Elisabetha Margretha Lampert) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L58R-7JQ/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch published tree, Abraham Lampert (MCWN-NPP) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/MCWN-NPP"
   ],
   "occupation": "Smith (Schmied)",
   "handoff": {
@@ -27,6 +29,39 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: the 1702 baptism names him and his wife Maria Sara; FamilySearch gives c.1676 Otterberg, m. 6 Oct 1699, d. 18 Jun 1711."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0079.json."
+    }
+  ],
+  "birth": {
+    "date": "ABT 1676",
+    "place": "Otterberg (FamilySearch)"
+  },
+  "death": {
+    "date": "1711-06-18",
+    "place": "Jettenbach"
+  },
+  "burial": {
+    "place": "Jettenbach (FamilySearch gives 28 Jun 1711)"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1699-10-06",
+      "place": "Glan-Münchweiler",
+      "description": "To Maria Sara Jung, widow of Johann Philipp Wirth (FamilySearch) [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "MCWN-NPP"
     }
   ]
 }

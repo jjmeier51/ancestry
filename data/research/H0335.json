@@ -7,19 +7,22 @@
   "sex": "M",
   "tags": [],
   "summary": "John's maternal 3rd great-grandfather; a pecoraio (shepherd) of Bisaccia, father of Frank Giannetta.",
-  "bio": "FS tree: Savino Giannetta, b. 1842 (Round 2 tree additions give 12 Jan 1842). Marriage, Bisaccia, 20 Jul 1867, Matrimoni 1867 act 17: Savino, 24 (born c.1843), pecoraio (shepherd), son of the late Francesco Giannetta and Lucia Macchia(?); bride Angelamaria Fede, 18. He was still living at his son Frank's marriage on 1 Aug 1896. The Giannettas and Fedes were shepherds, typical of upland grazing Bisaccia.",
+  "bio": "FS tree: Savino Giannetta, b. 1842 (Round 2 tree additions give 12 Jan 1842). Marriage, Bisaccia, 20 Jul 1867, Matrimoni 1867 act 17: Savino, 24 (born c.1843), pecoraio (shepherd), son of the late Francesco Giannetta and Lucia Macchia(?); bride Angelamaria Fede, 18. He was still living at his son Frank's marriage on 1 Aug 1896. The Giannettas and Fedes were shepherds, typical of upland grazing Bisaccia.\n\nAccording to the FamilySearch tree, Savino (b. 12 Jan 1842, Bisaccia) was named after an elder brother Savino (1838–1841) who died in infancy, and after his grandfather Savino Giannetta (c.1786–1853) ([R4-S1], [R4-S2]). The tree lists these children of Savino and Angelamaria Fede: Francesco 'Frank' (2 May 1869), Lucia (14 Apr 1872), Antonio (14 Feb 1874 – 3 Nov 1903), Lucia (19 Feb 1877 – 17 Aug 1878), Maria Giuseppa 'Josephine' (11 Mar 1880; later Mrs. Michele Ragazzo of Hartford, CT), Nunzianda (c.1885 – 10 Mar 1888) and Bartolomeo (5–25 Jul 1889) ([R4-S1]). The repeated names and early deaths reflect the high infant mortality in Bisaccia. The 1896 marriage act (Round 3) shows Savino still living then. His death date is not in the tree.",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/wQPnvWn ; https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
     "Antenati, Bisaccia, Matrimoni 1896, act 18: https://antenati.cultura.gov.it/ark:/12657/an_ua445513/5glz731",
     "FamilySearch tree LCPG-XKM (parent of)",
-    "notes/round2/italian_gaps.md 1; notes/round3/italian_origins.md 3"
+    "notes/round2/italian_gaps.md 1; notes/round3/italian_origins.md 3",
+    "[R4-S1] FamilySearch Family Tree published profile 2SZL-LPB (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-LPB",
+    "[R4-S2] FamilySearch Family Tree published profile 2SZL-WWJ (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WWJ"
   ],
   "mediaKnown": [
     "1867 marriage act image"
   ],
   "openQuestions": [
     "Birth act 1842/43 (Bisaccia Nati)",
-    "Death date"
+    "Death date",
+    "Savino's death (after Aug 1896), Bisaccia civil death registers (1896-1910) at FamilySearch/AS Avellino."
   ],
   "occupation": "Pecoraio (shepherd)",
   "handoff": {
@@ -31,6 +34,28 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0341, proven): 1867 marriage act (Round 3) and FS tree"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch Italian civil-record images (ancestors.familysearch.org published-source image URLs) return 403; Antenati returns 403"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree supplies seven children of Savino and Angelamaria Fede (Frank's siblings), incl. Josephine Ragazzo of Hartford, CT."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0335.json."
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "2SZL-LPB"
     }
   ]
 }

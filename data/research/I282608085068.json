@@ -1,23 +1,26 @@
 {
   "id": "I282608085068",
   "link": {
-    "confidence": "probable",
-    "note": "FS tree."
+    "confidence": "confirmed",
+    "note": "FS tree. Round 4 (probable → confirmed): Two draft cards in his own hand give the same birth date and birthplace (Hazleton) as the tree."
   },
   "birth": {
     "date": "1883-04-09",
     "place": "Hazleton, Luzerne County, Pennsylvania, USA"
   },
   "death": {
-    "date": "1966",
-    "place": "Maple Shade, Burlington County, New Jersey, USA"
+    "date": "1966-10-02",
+    "place": "Maple Shade Township, Burlington County, New Jersey"
   },
   "sex": "M",
   "tags": [],
   "summary": "John's 3rd great-uncle; youngest child of Friedrich and Maria.",
   "sources": [
     "FamilySearch tree G921-25N (Friedrich Mayer family)",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] U.S. WWI Draft Registration Card, John Joseph Meier, Allentown, Lehigh Co., PA, serial 3577, order 3127 (FamilySearch index 1:1:49LS-SNPZ) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-JPJ/images/i/2/image.jpg",
+    "[R4-S2] U.S. WWII Draft Registration Card (Fourth Registration), John Joseph Meier, serial U 2009, registered 27 Apr 1942, Local Board No. 2, Clarion Co., Sligo, PA (FamilySearch index 1:1:VQN9-FDH) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-JPJ/images/i/0/image.jpg",
+    "[R4-S3] FamilySearch Family Tree, John Joseph Meier (G7GQ-JPJ), published-tree JSON, citing SSDI (1:1:JRH6-YYF) (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G7GQ-JPJ"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -28,6 +31,72 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Two draft cards in his own hand give the same birth date and birthplace (Hazleton) as the tree."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read both draft cards. 1918: merchant in Allentown, with Mary Meier. 1942: Hazleton, registered at Sligo, Clarion Co."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608085068.json."
+    }
+  ],
+  "occupation": "merchant (1918)",
+  "residences": [
+    {
+      "date": "1918",
+      "place": "519 Turner St, Allentown, Lehigh Co., PA",
+      "note": "Merchant, self-employed at 1013 Hamilton St, Allentown. Nearest relative Mary Meier, same address. [R4-S1]"
+    },
+    {
+      "date": "1942-04-27",
+      "place": "350 Kiefer Ave, Hazleton, PA",
+      "note": "Unemployed. Contact: Mrs. John Brill, same address. Registered before Local Board No. 2, Clarion County (Sligo, PA). [R4-S2]"
+    }
+  ],
+  "military": [
+    {
+      "note": "WWI draft registration 1918, Allentown: serial 3577, order 3127; native born; merchant. [R4-S1]"
+    },
+    {
+      "note": "WWII 'old man's draft' registration, 27 Apr 1942: serial U 2009; 5'9\", 150 lb; two scars on back of head. [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G7GQ-JPJ"
+    }
+  ],
+  "bio": "Both of John Joseph's draft cards confirm his birth on 9 April 1883 at Hazleton. In 1918 he was a 35-year-old merchant with his own business at 1013 Hamilton Street, Allentown. He lived at 519 Turner Street, and his nearest relative was Mary Meier at the same address, probably his wife ([R4-S1]). By April 1942 he was 59, unemployed, and gave his home as 350 Kiefer Avenue, Hazleton. The person who would always know his address was 'Mrs. John Brill' at that house. Oddly, the card was stamped by Local Board No. 2 of Clarion County at Sligo, PA, so he was probably working or staying in western Pennsylvania when he registered ([R4-S2]). The registrar noted two scars on the back of his head. FamilySearch has his death on 2 Oct 1966 at Maple Shade, NJ (SSDI) and burial at Hazleton ([R4-S3]).",
+  "openQuestions": [
+    "Who was Mary Meier of 519 Turner St, Allentown (1918): a wife? A 1920 Allentown census search for John J. and Mary Meier is needed.",
+    "Who was Mrs. John Brill of 350 Kiefer Ave, Hazleton (1942)? Possibly a niece."
+  ],
+  "media": [
+    {
+      "file": "media/I282608085068/wwi-draft-card-1918.jpg",
+      "type": "record",
+      "title": "WWI draft card, John Joseph Meier, Allentown, 1918",
+      "date": "1918",
+      "source": "NARA (via FamilySearch), public_domain",
+      "note": "A U.S. federal record.",
+      "people": [],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-JPJ/images/i/2/image.jpg"
+    },
+    {
+      "file": "media/I282608085068/wwii-draft-card-1942.jpg",
+      "type": "record",
+      "title": "WWII draft card, John Joseph Meier, 1942",
+      "date": "1942-04-27",
+      "source": "NARA (via FamilySearch), public_domain",
+      "note": "A U.S. federal record.",
+      "people": [],
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7GQ-JPJ/images/i/0/image.jpg"
     }
   ]
 }

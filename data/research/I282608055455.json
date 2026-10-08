@@ -33,11 +33,14 @@
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "WikiTree Lamoreaux-426: https://www.wikitree.com/wiki/Lamoreaux-426",
     "SAR Patriot P-232580 (Thomas Lamoreaux): https://sarpatriots.sar.org/patriot/display/232580",
-    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "[R4-S1] 1800 US census, Plymouth Township, Luzerne Co., p.341, 'Samuel Prindle' household (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G99D-9DZ/images/i/0/image.jpg"
   ],
   "openQuestions": [
     "Birth (c.1770-72) and death dates and burial (Shupp's Cemetery?).",
-    "For SAR: documents for each generation from Martha to John."
+    "For SAR: documents for each generation from Martha to John.",
+    "She is probably the wife of 'Samuel Prindle' (female aged 26-44) in the 1800 Plymouth Twp census (see Samuel Pringle), consistent with a birth c.1770-74 rather than the FamilySearch 1776.",
+    "Look for her as a widow in the 1850 Plymouth/Kingston census (Samuel d. 1847) to fix her birth year and test the FS death date 27 Aug 1859, which duplicates her sister Elizabeth Ransom's."
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -52,6 +55,18 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 18 Oct 1776; research: ABT 1771."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch KGC5-XY3 attached images (HSP marriage records x2, Benjamin Pringle 1853 burial record): all return 0-byte files; Full text of Bradsby, Munsell, Harvey Book, Pearce, Wright, Giles & Franklin: no death or burial date for Martha"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: no death/burial record found; FS-attached marriage images are not viewable; 1800 census household noted."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608055455.json."
     }
   ]
 }

@@ -1,16 +1,18 @@
 {
   "id": "H0189",
   "link": {
-    "confidence": "confirmed",
-    "note": ""
+    "confidence": "probable",
+    "note": "Round 4 (confirmed → probable): Family genealogy matched by the 1850 and 1860 censuses (names and ages of the children)."
   },
   "sex": "F",
   "tags": [],
   "summary": "John's 1st cousin 7x removed; wife of John Pringle.",
-  "bio": "Phoebe Davenport (1799 - after 1873) married John Pringle; nine children (see John Pringle). Will: Plymouth, 1867, vol. D p.344.",
+  "bio": "Phoebe Davenport (1799 - after 1873) married John Pringle; nine children (see John Pringle). Will: Plymouth, 1867, vol. D p.344.\n\nGiles & Franklin give Phoebe's birth as 4 May 1799, daughter of Thomas and Charity (Lamoreux) Davenport, and say she married John Pringle (H0155). Their nine children: Thomas (b. 1821), Dennison (b. 1830), Clara (m. Sam Shaffer; d. aged 94), Charity (b. 1832; m. 1855 Andrew Worthington), William, Betsy (d. unmarried), Lydia, Martha (m. ___ Weaver) and Stephen ([R4-S1]). The censuses agree. In 1850 she was 52, in John's household with Thomas, Clarissa, Elizabeth, Lydia, William, Denison, Charity and Martha. In 1860 she was a 62-year-old widow keeping house with the unmarried Elizabeth (Betsy) and Lydia ([R4-S2]). Her will was proved in 1867.",
   "sources": [
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.321-322",
-    "Bradsby pp.1483-84"
+    "Bradsby pp.1483-84",
+    "[R4-S1] Giles & Franklin, Thomas Davenport ... and his Descendants (1962), p.321 (secondary) https://archive.org/details/thomasdavenportp00gile",
+    "[R4-S2] FamilySearch published tree, Phebe Davenport KP7J-PJ2, with attached 1850 and 1860 U.S. census images (primary) https://www.familysearch.org/service/tree/tree-data/published/persons/KP7J-PJ2"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +23,63 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence confirmed → probable: Family genealogy matched by the 1850 and 1860 censuses (names and ages of the children)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0186, probable): G&F p.321"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0155, proven): G&F; 1850 census"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Giles & Franklin give b. 4 May 1799 and nine children, matched by the 1850/1860 censuses (1860 image downloaded). FS wrongly makes her Samuel Pringle's daughter."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0189.json."
+    }
+  ],
+  "birth": {
+    "date": "1799-05-04"
+  },
+  "events": [
+    {
+      "title": "1850 census",
+      "date": "1850-09-18",
+      "place": "Plymouth Twp., Luzerne Co., PA",
+      "description": "Phebe Pringle, 52, real estate $150, in John Pringle's household with eight children. [R4-S2]"
+    },
+    {
+      "title": "1860 census",
+      "date": "1860",
+      "place": "Plymouth (P.O. Muhlenburg), Luzerne Co., PA",
+      "description": "Phebe Pringle, 62, head, with Elizabeth 36 and Lydia 34. [R4-S2]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "parents (FamilySearch)",
+      "site": "Thomas Davenport and Charity Lamoreux",
+      "found": "FS KP7J-PJ2 attaches 'Phebe Davenport' as a child of Samuel Pringle and Martha Lamoreaux",
+      "assessment": "FS is wrong. She was Samuel's daughter-in-law (wife of his probable son John), not his daughter. Her maiden name Davenport and Giles & Franklin both show this."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0189/1860-census-plymouth-phebe-pringle.jpg",
+      "type": "record",
+      "title": "1860 census, Plymouth, Phebe Pringle household",
+      "date": "1860",
+      "source": "FamilySearch (NARA M653), public_domain",
+      "note": "U.S. federal census schedule.",
+      "people": [],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7J-PJ2"
     }
   ]
 }

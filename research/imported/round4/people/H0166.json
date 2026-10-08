@@ -1,0 +1,70 @@
+{
+  "id": "H0166",
+  "name": "David Pringle",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1783-09-03",
+        "place": "Smith's Clove (Monroe), Orange Co., NY",
+        "description": "Rev. Silas Constant's journal, 3 Sep 1783: after a day at Mr. Davenport's, 'in the afternoon married David Prindle and Susanna Lamoreux'. His marriage list gives the same date.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The officiating minister's own journal spells the name Prindle and dates the marriage 3 Sep 1783. Giles & Franklin give 22 July 1783, which in Constant's list is the date of the preceding couple, Francis Gale and Elizabeth Lewis. So 22 July is a misreading, and 3 Sep is the correct date (S1, S2). The journal's editor thought David was 'probably of the Waterbury [Conn.] family of that name' (S1). Giles & Franklin say he is also given as 'Pringle-Miller', and list three daughters: Elizabeth (m. Miles Davenport), Minerva (m. ___ Underwood) and Frances (m. Freeman Polk) (S2).",
+  "conflicts": [
+    {
+      "field": "marriage.date",
+      "siteValue": "1783",
+      "foundValue": "3 Sep 1783 (Constant) vs 22 Jul 1783 (Giles & Franklin)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Prefer the minister's journal: 3 Sep 1783."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0442",
+      "evidence": "Constant's journal, 3 Sep 1783",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "openQuestionsNew": [
+    "Was 'Prindle' a separate Connecticut family (Waterbury/New Milford Prindles) from Samuel and James 'Pringle'? Harvey says the Pringle name was often pronounced and written Prindle, and that both Pringles and Prindles were among the 1703 New Milford purchasers."
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Marriage proven by the officiating minister's journal; birth year 1757 still tree-only."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "The Journal of the Reverend Silas Constant (ed. E. W. Roebling, 1903), journal entries and Appendix marriage list",
+      "url": "https://archive.org/details/cu31924028826894",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "marriage 3 Sep 1783 to Susanna Lamoreux; editor's note on the Waterbury Prindles"
+    },
+    {
+      "ref": "S2",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.359-360",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "'Pringle-Miller' alias; three daughters"
+    }
+  ],
+  "researchLogEntry": "Round 4: Constant's journal gives the marriage as 3 Sep 1783 (David Prindle). Giles & Franklin's 22 Jul is the previous entry's date.",
+  "researchedAt": "2026-10-08"
+}

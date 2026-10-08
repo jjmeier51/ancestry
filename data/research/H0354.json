@@ -1,16 +1,19 @@
 {
   "id": "H0354",
   "link": {
-    "confidence": "probable",
-    "note": "FS tree; 1910 census (age 5)."
+    "confidence": "possible",
+    "note": "FS tree; 1910 census (age 5). Round 4 (probable → possible): Single ambiguous census line; contradicted by the 1995 obituary sibling list."
   },
   "sex": "M",
   "tags": [],
   "summary": "John's great-granduncle.",
-  "bio": "b. 9 Feb 1904; Joseph, 5, in 1910; d. 14 Aug 1996, Bronx, NY. Note Josephine's FS birth date 21 Jul 1904 is only five months later - one date is likely wrong.",
+  "bio": "b. 9 Feb 1904; Joseph, 5, in 1910; d. 14 Aug 1996, Bronx, NY. Note Josephine's FS birth date 21 Jul 1904 is only five months later - one date is likely wrong.\n\nJoseph's existence as a separate child is doubtful. The only record is the 1910 census, which lists 'Joseph', son, aged 5 ([R4-S1]). Josephine (b. 21 Jul 1904) does not appear in that census, although the six children listed match Marie's six living children. In January 1920 neither a Joseph nor a Josephine is in the household ([R4-S2]). When Josephine Castellano died in November 1995, her obituary named her surviving brothers as Nick, Jim and Rocco Petrillo ([R4-S3]). A brother Joseph who lived until August 1996, as the FamilySearch tree says (Bronx, NY), would have been listed. The 1910 'Joseph' is therefore probably Josephine entered with the wrong name and sex. The Bronx death probably belongs to an unrelated Joseph Petrillo, a very common name in New York.",
   "sources": [
     "FS tree (notes/round2/italian_gaps.md 4)",
-    "1910 census"
+    "1910 census",
+    "[R4-S1] 1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+    "[R4-S2] 1920 US census, Scranton (part of 10th Ward), ED 142, sheet 13A (enumerated 9 Jan 1920), no. 1028 [Bunker Hill St]: John 'Patrello' (50, owned free, immigrated 1892, naturalized 1900, merchant, grocery store) and Mary (43), sons Peter (22), Frank (20), 'Chas' (23, male, coal-mine laborer), Ralph (14), Anthony (15), James (12), Michael (8), Rocco (7?) and daughter Carrie. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:M6YQ-5JP). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/0/image.jpg",
+    "[R4-S3] Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P). (secondary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21,6 +24,26 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → possible: Single ambiguous census line; contradicted by the 1995 obituary sibling list."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: probably a phantom: the 1910 'Joseph, 5' is likely Josephine, and he is absent from Josephine's 1995 obituary although FS says he died in 1996."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0354.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "existence/death",
+      "site": "Joseph Petrillo, 9 Feb 1904 - 14 Aug 1996, Bronx",
+      "found": "Not named among surviving brothers in his sister Josephine's Nov 1995 obituary; 1910 'Joseph, 5' fits Josephine (b. Jul 1904), who is otherwise missing",
+      "assessment": "Probably a phantom built from the 1910 entry plus an unrelated Bronx death record. Recommend demoting."
     }
   ]
 }

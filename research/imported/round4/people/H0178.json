@@ -1,0 +1,51 @@
+{
+  "id": "H0178",
+  "name": "John Lamoreaux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "21 Nov 1780",
+      "place": "Monroe Twp, Orange Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "13 Aug 1853 (FamilySearch; burial given as 1852)",
+      "place": "Jackson Twp, Luzerne Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KP7J-XC7"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives John a birth date of 21 Nov 1780 at Monroe and a death date of 13 Aug 1853 in Jackson Twp, but a burial in 1852; the site has his death in 1852. It cites a Historical Society of Pennsylvania death card and his father's probate file (S1). FamilySearch names Martha Ives as his wife, but she was Joshua's wife (see H0181), so that looks like a cross-attachment.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, John Lamoreaux (KP7J-XC7), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KP7J-XC7",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. 21 Nov 1780; death 1853 vs 1852 burial conflict; wife Martha Ives misattached.",
+  "conflicts": [
+    {
+      "field": "death.date",
+      "siteValue": "1852",
+      "foundValue": "13 Aug 1853 (FS death) / 1852 (FS burial)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved."
+    }
+  ]
+}

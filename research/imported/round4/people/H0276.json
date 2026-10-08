@@ -1,0 +1,26 @@
+{
+  "id": "H0276",
+  "name": "Ebenezer Smith",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "20 Feb 1712",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "His birth is in the verbatim family record of Richard Smith 2d's children printed by Pelletreau (S1): 'Ebenezer Smith Sun of Richard Smith was borne ye twentieth Day of February about 2 o'clock in the afternoone In the yeare of our Lord 1712.' Children with Anna (daughter of Job 2d): Richard 4th, Phineas (lost at sea), Temperance (Mrs Jonas Platt), Hannah (Mrs Joshua Smith 1st) and Anna (Mrs Rev. William Dodge). Through Richard 4th he is the great-grandfather of Judge J. Lawrence Smith.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Richard 2d family record; Ebenezer's children"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact birth (20 Feb 1712) from the printed family record; children listed.",
+  "researchedAt": "2026-10-08"
+}

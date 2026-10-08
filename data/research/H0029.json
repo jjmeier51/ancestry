@@ -7,15 +7,20 @@
   "sex": "M",
   "aka": [
     "Gabriel Bergenmyer (1880 census)",
-    "Gabriel Birkenmayer"
+    "Gabriel Birkenmayer",
+    "Gabriel Birkmaier",
+    "G. Birkmeyer",
+    "Gabriel E. Berkmaier"
   ],
   "tags": [],
   "summary": "John's 4th great-uncle; brother of Maria Anna; lived with the Meiers in Hazleton in 1880.",
-  "bio": "In the 1880 census he was 'Bergenmyer, Gabriel, 29, brother-in-law, gardener', sick with 'fever & ague' (a malaria-type fever) on census day, in Friedrich Myer's household — the record that confirms Maria's maiden name. He later moved to Sandusky, Ohio, where brother Joseph lived, and died there 2 Dec 1896.",
+  "bio": "In the 1880 census he was 'Bergenmyer, Gabriel, 29, brother-in-law, gardener', sick with 'fever & ague' (a malaria-type fever) on census day, in Friedrich Myer's household — the record that confirms Maria's maiden name. He later moved to Sandusky, Ohio, where brother Joseph lived, and died there 2 Dec 1896.\n\nAfter his 1880 stay with his sister's family in Hazleton, Gabriel settled in Sandusky, Ohio. There he married Caroline C. Kratz, an Ohio-born woman from Venice in Erie County, and had at least four children ([R4-S2]). The death certificate of his eldest son Frank Birkmaier names Gabriel as a native of Baden, Germany. Frank was a single machinist of 223 Shelby St who died at Providence Hospital, Sandusky, on 4 Apr 1930, aged 45. His mother is named on the certificate as Caroline Kratz of Venice, Ohio, and he was buried at St Mary's Cemetery on 7 Apr 1930 ([R4-S1]). FamilySearch gives Gabriel's own burial at St Mary's, Sandusky, in Dec 1896. It also attaches an Ohio county birth entry (G. Birkmeyer as a father) and his daughter Rhea's Michigan marriage to Charles W. Prentice ([R4-S2]).",
   "sources": [
     "1880 census Hazleton ED 137 p.13 https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G921-25N/images/i/0/image.jpg",
     "FamilySearch G921-2R4",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Ohio Department of Health, Certificate of Death, Frank Birkmaier, d. 4 Apr 1930, Providence Hospital, Sandusky, Erie Co. (registered no. 179; FamilySearch 'Ohio, Deaths, 1908–1953' index 1:1:X6X3-SGT) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7PN-9WQ/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch Family Tree, Gabriel E Birkenmeier (G7PN-9WQ), published-tree JSON, citing Ohio County Births (1:1:VN75-4KR) and Michigan Marriages (1:1:N3R6-JVG) (tertiary) https://www.familysearch.org/service/tree/tree-data/published/persons/G7PN-9WQ"
   ],
   "occupation": "Gardener (1880)",
   "handoff": {
@@ -27,6 +32,35 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read his son Frank's 1930 Ohio death certificate (father Gabriel b. Baden; mother Caroline Kratz). FS gives the wife and four children."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0029.json."
     }
+  ],
+  "burial": {
+    "place": "St. Mary's Cemetery, Sandusky, Erie County, Ohio"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "",
+      "place": "Sandusky, Ohio",
+      "description": "Married Caroline C. Kratz (1856–1930), born at Venice, Erie Co., Ohio. Children: Frank Joseph (3 Dec 1884 – 4 Apr 1930), Agnes (1886–1904), Leonard (1889–1958), Rhea T. (1893–1977; married Chas. W. Prentice in Michigan). [R4-S1] [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G7PN-9WQ"
+    }
+  ],
+  "openQuestions": [
+    "Sandusky Register obituary, Dec 1896, which may name his brother Joseph and his Hazleton sister.",
+    "Erie County, Ohio probate death register 1896."
   ]
 }

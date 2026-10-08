@@ -1,0 +1,55 @@
+{
+ "id": "H0423",
+ "name": "Edith Corrine Graham",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "aka": [
+   "Edith Corrine Grammes"
+  ],
+  "birth": {
+   "date": "1896",
+   "place": "Pennsylvania",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1938-11-06",
+   "place": "Wilkes-Barre, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "burial": {
+   "cemetery": "Fairview Cemetery",
+   "place": "Danville, Montour Co., Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ },
+ "bioAdditions": "FamilySearch: Edith Corrine Grammes, daughter of Cyrus Randolph Gramm (1829-1902) and Martha L. Robinson; married John V. Heffernan in Manhattan 4 May 1914 (NYC index as \"Edith C. Graham\"); died Wilkes-Barre 6 Nov 1938; buried Fairview Cemetery, Danville (S1).",
+ "conflicts": [
+  {
+   "field": "surname",
+   "siteValue": "Graham",
+   "foundValue": "Grammes",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Grammes appears correct."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Edith Corrine Grammes (1896-1938), PID GM37-PDH; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Parents, marriage, death, burial",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GM37-PDH"
+  }
+ ],
+ "researchLogEntry": "Round 4: maiden name Grammes, death 1938."
+}

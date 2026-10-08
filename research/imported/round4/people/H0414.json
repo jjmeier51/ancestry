@@ -1,0 +1,34 @@
+{
+  "id": "H0414",
+  "name": "Margaretha",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "FamilySearch does not have a Margaretha as wife of Christmann Grub: it names his wife (mother of Veltes 1615 and Caspar 1616) as 'Elssa', born 11 Apr 1597, with no source beyond a marriage index entry (S1). The site's Margaretha is therefore unsupported by the tree that the site's Grub line otherwise follows; her name needs the Niederbrombach baptism of Caspar (26 May 1616), which should name the mother.",
+  "conflicts": [
+    {
+      "field": "name",
+      "siteValue": "Margaretha",
+      "foundValue": "Elssa (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "unverified",
+    "justification": "Name conflicts with the only tree found; no record seen."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Elssa (G9MF-6ML), wife of Christmann Grub",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G9MF-6ML",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "alternative name"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch names Christmann's wife Elssa, not Margaretha; conflict recorded."
+}

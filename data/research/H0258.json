@@ -11,14 +11,15 @@
   ],
   "tags": [],
   "summary": "Formerly shown as John's 10th-great-grandmother (wife of John Thompson); probably disproven — she married Samuel Thompson instead. Not a Mayflower Brewster.",
-  "bio": "Round 1 (correction 3e) had made her a daughter of Francis Brewster of New Haven and sister of Rev. Nathaniel (per F. K. Smith via jrm); Round 3 makes her Nathaniel's daughter married to Samuel Thompson. The deep-dive report (Behling) had flagged one register giving Hannah's husbands as Muncey and Samuel Thompson. Her marriage to Samuel Thompson makes Samuel's descendants (Selah Strong etc.) double Thompson–Brewster descendants.",
+  "bio": "Round 1 (correction 3e) had made her a daughter of Francis Brewster of New Haven and sister of Rev. Nathaniel (per F. K. Smith via jrm); Round 3 makes her Nathaniel's daughter married to Samuel Thompson. The deep-dive report (Behling) had flagged one register giving Hannah's husbands as Muncey and Samuel Thompson. Her marriage to Samuel Thompson makes Samuel's descendants (Selah Strong etc.) double Thompson–Brewster descendants.\n\nB. F. Thompson's family account ([R4-S1]) gives her dates (b. 19 May 1679, d. 7 Nov 1755), her first marriage to John Muncy (16 Jan 1703; he d. 12 Jun 1707) and her second to Samuel Thompson (6 Nov 1709), and says she and Samuel are buried at the south-east corner of the Setauket Presbyterian Church. She was the mother of Susannah Thompson Strong and grandmother of Selah Strong. Not John's ancestor.",
   "sources": [
     "Jacobus, TAG 12:199–204, 13:221, via WikiTree Thompson-213",
     "Champlin, NYGBR 46:4–9 (1915)",
     "Thompson, History of Long Island (1918) vol. 2 p. 310; vol. 3 p. 295",
     "WikiTree Starr-3, https://www.wikitree.com/wiki/Starr-3",
     "Behling, https://homepages.rootsweb.com/~sam/brewster.html",
-    "jrm Needham I2523"
+    "jrm Needham I2523",
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296 (secondary) https://archive.org/details/historyoflongisl003thom"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -29,6 +30,49 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0469, proven): Thompson 1918"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0470, proven): Thompson 1918"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0291, probable): Thompson: daughter of Rev. Nathaniel Brewster; her mother a daughter of Roger Ludlow"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: dates, marriages and burial from Thompson vol. 3 p. 296."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0258.json."
+    }
+  ],
+  "birth": {
+    "date": "1679-05-19"
+  },
+  "death": {
+    "date": "1755-11-07"
+  },
+  "burial": {
+    "place": "Setauket Presbyterian churchyard (SE corner), Setauket, NY"
+  },
+  "events": [
+    {
+      "title": "Marriage to John Muncy",
+      "date": "1703-01-16",
+      "place": "Brookhaven, NY",
+      "description": "John Muncy died 12 Jun 1707. [R4-S1]"
+    },
+    {
+      "title": "Marriage to Samuel Thompson",
+      "date": "1709-11-06",
+      "place": "Setauket",
+      "description": "Her first cousin ('cousin-german') per Thompson. [R4-S1]"
     }
   ]
 }

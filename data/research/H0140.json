@@ -12,7 +12,8 @@
   "summary": "John's 1st cousin 4x removed (son of Nora Connole); Dr. Thomas J. Dailey, Plymouth eye, ear, nose and throat specialist.",
   "bio": "Born 1884, son of William Dailey and Nora Connole; Penn Medicine 1909; eye, ear, nose and throat specialist in Plymouth.",
   "sources": [
-    "Harvey & Smith vol. VI p.~422: https://archive.org/details/historyofwilkesb06harv"
+    "Harvey & Smith vol. VI p.~422: https://archive.org/details/historyofwilkesb06harv",
+    "[R4-S1] FamilySearch Family Tree (published), Thomas Joseph Dailey (1884-1934), PID LNR3-316; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LNR3-316"
   ],
   "occupation": "Physician (EENT)",
   "handoff": {
@@ -24,6 +25,35 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS dates 1884-1934, m. Agnes M. Law 1917."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0140.json."
+    }
+  ],
+  "birth": {
+    "date": "1884-03-05",
+    "place": "Avondale, Plymouth Twp, Pa."
+  },
+  "death": {
+    "date": "1934-05-07",
+    "place": "Plymouth, Pa."
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1917-11-27",
+      "place": "Luzerne Co., Pa.",
+      "description": "Married Agnes M. Law (1894-1975) [R4-S1]"
+    }
+  ],
+  "military": [
+    {
+      "note": "WWI draft registration, Luzerne Co. Local Board 6 [R4-S1]"
     }
   ]
 }

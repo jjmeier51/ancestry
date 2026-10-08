@@ -1,0 +1,79 @@
+{
+  "id": "I282695584129",
+  "name": "Anna Margaretha Dietz",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "15 Feb 1724 (FamilySearch; no record seen)",
+      "place": "Rieschweiler, Zweibrücken (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "23 Apr 1790",
+      "place": "Plainfield Twp, Northampton Co., PA",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "burial": {
+      "place": "Plainfield Twp, Northampton Co., PA",
+      "cemetery": "Plainfield Cemetery",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "M3JK-PMV"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch makes her a daughter of Joh. Adam Dietz Sr. (1696-1769) and Anna Catharine Abel (1704-1753), born at Rieschweiler, Zweibrücken, on 15 Feb 1724, and has both parents dying in the Wind Gap and Plainfield area of Northampton Co. (S1). That would put her parents in the same community as the Dolls, which is plausible. The birth record is not attached to her profile, though, and the same FamilySearch family has two daughters born in 1724 (Anna Elisabetha and Anna Margaretha) and a second Anna Margaretha in 1733. Treat the parentage as a candidate only. Her death date of 23 Apr 1790 comes from a Pennsylvania cemetery-record entry for 'Margareth Dietz Doll' (its image downloaded empty) and agrees with WikiTree (S1, S2). WikiTree's birthplace 'Zweibrücken' and its stray '29 Oct 1777 Edenkoben' line have no supporting source (S2).",
+  "conflicts": [
+    {
+      "field": "birth.place",
+      "siteValue": "Eschweiler, Zweibrücken",
+      "foundValue": "Rieschweiler, Zweibrücken (FS); 'Zweibrücken' (WikiTree)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "All unsourced; leave open until a parish record is found."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Marriage to Casper Doll is shown by the 1757 Tohickon baptism; her origin and parents remain unproven."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Anna Margaretha Dietz (M3JK-PMV), parents Joh. Adam Dietz Sr. (LR1T-J5J) and Anna Catharine Abel; citing Find a Grave index (1:1:QVL2-JSV2) and Pennsylvania Cemetery Records (1:1:8TS6-5QZM)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/M3JK-PMV",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, death, parents (claims)"
+    },
+    {
+      "ref": "S2",
+      "citation": "WikiTree, Dietz-563 (API profile)",
+      "url": "https://api.wikitree.com/api.php?action=getProfile&key=Dietz-563&fields=Name,FirstName,LastNameAtBirth,BirthDate,BirthLocation,DeathDate,DeathLocation,Father,Mother,Bio&bioFormat=text",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "b. 15 Feb 1724, d. 23 Apr 1790; no parents"
+    }
+  ],
+  "searchedNoResult": [
+    "FamilySearch attached cemetery-record image (sources/M3JK-PMV/images/i/2): 0 bytes"
+  ],
+  "openQuestionsNew": [
+    "Rieschweiler (Zweibrücken) Reformed baptisms 1724: is there an Anna Margaretha daughter of Joh. Adam Dietz? (FS index ark 1:1:NP7C-RLQ covers Adam's own baptism.)"
+  ],
+  "researchLogEntry": "Round 4: FamilySearch offers parents Joh. Adam Dietz Sr. and Anna Catharine Abel, with a birth at Rieschweiler on 15 Feb 1724; unsourced, so a candidate only; death 23 Apr 1790 agrees."
+}

@@ -11,10 +11,11 @@
   ],
   "tags": [],
   "summary": "John's 8th-great-grandmother; New York-born daughter of Huguenot refugees Pierre Masse and Elizabeth Mersereau.",
-  "bio": "Born 22 May 1696 and baptized 5 Jul 1696 at the French Church of New York. Wife of Daniel Lamoureux (maiden name from Daniel's private family record, quoted 1919; their son Daniel's 1720 baptism names 'Jeane'). Added as a new ancestor in Round 2.",
+  "bio": "Born 22 May 1696 and baptized 5 Jul 1696 at the French Church of New York. Wife of Daniel Lamoureux (maiden name from Daniel's private family record, quoted 1919; their son Daniel's 1720 baptism names 'Jeane'). Added as a new ancestor in Round 2.\n\nThe French Church registers now place her in her own family before her marriage. On 28 Sep 1718 'Jeane Masse', who signed with a mark, was godmother to Ester, daughter of her brother Daniel Masse and his wife Ester Fourret ([R4-S1]; see NEW-301). That was nine months before her marriage to Daniel Lamoureux, which the Davenport genealogy dates to 28 Jun 1719. In 1722 an Ester Masse was godmother to Jeanne's son Andre. Together these entries connect Jeanne Lamoureux to the Masse family through the parish register, not only through the private family record quoted in 1919. No marriage entry for her is in the register.",
   "sources": [
     "Registers of the French Church of New York, Collections of the Huguenot Society of America vol. 1 (1886): https://archive.org/details/collectionsofhug01hugu",
-    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "[R4-S1] Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Huguenot Soc. Collections vol.1, 1886), pp.49, 147-148, 155-156, 164 (derivative) https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -25,6 +26,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found her as godmother 'Jeane Masse' to her brother Daniel's child in Sept 1718 and the Masse godmother at her son Andre's 1722 baptism."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0087.json."
     }
   ],
   "media": [
@@ -35,6 +44,26 @@
       "source": "WikiTree",
       "note": "Jeanne Marguerite Masse, 1696-05-22 – 1739-01-09",
       "url": "https://www.wikitree.com/wiki/Masse-726"
+    }
+  ],
+  "events": [
+    {
+      "title": "Godmother to her niece",
+      "date": "1718-09-28",
+      "place": "French Church, New York",
+      "description": "'Jeane Masse' (signing by mark) was godmother to Ester, daughter of Daniel and Ester Masse, with Pierre Morgat [R4-S1]"
+    },
+    {
+      "title": "Baptism of son Daniel",
+      "date": "1720-05-29",
+      "place": "French Church, New York",
+      "description": "Mother 'Jeane la moureux' [R4-S1]"
+    },
+    {
+      "title": "Baptism of son Andre",
+      "date": "1722-01-17",
+      "place": "French Church, New York",
+      "description": "Mother 'Jeane son Epouze'; godmother Ester Masse [R4-S1]"
     }
   ]
 }

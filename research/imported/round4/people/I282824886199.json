@@ -1,0 +1,78 @@
+{
+  "id": "I282824886199",
+  "name": "George Watson",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "1820 census",
+        "date": "1820",
+        "place": "Dallas Twp, Luzerne Co., PA (p.305)",
+        "description": "'Watson George' heads a large household of about 11 (3 boys under 10, 1 boy 10-15, 2 young men 16-25, and several females, the column readings uncertain), the last entry for the township.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The 1820 census attached to George Watson's FamilySearch profile shows a George Watson heading a large family in Dallas Township (S1). The columns are too faint to say confidently whether a girl of about 11 (Julia Ann, b. c.1809) was present. The FamilySearch children assigned to him include Jairus Harrison Watson (b. Plymouth 1812, d. New Albany, Bradford Co., 1893), who married Rebecca Van Loon, and Sabina Partington, a widow in Plymouth Twp in 1850 born in Pennsylvania c.1802 (S2). Against this identification: no county history mentions a George Watson in Huntington, Dallas or Plymouth, while an Amariah (Amaziah) Watson was a Plymouth taxable in 1796 and settled 'just below the Scott house' on Huntington Creek (Bradsby 1893; see Julia Ann Watson). George's role as Julia's father therefore remains a candidate only, with Amariah Watson an alternative.",
+  "relationships": [
+    {
+      "type": "child",
+      "personId": "I282824799075",
+      "evidence": "FamilySearch tree only; merged with a Rhode Island Waterman family",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "candidate"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "possible",
+    "justification": "Only an unsourced, partly merged FamilySearch tree links him to Julia Ann; a competing Watson (Amariah) lived beside the Scotts in Huntington Twp."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1820 US census, Dallas Twp, Luzerne Co., PA, p.305, 'Watson George' (FS index ark 1:1:XHL5-W6G)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MHL/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "George Watson household in Dallas 1820"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree: George Watson (9KXX-MHL), Jairus Harrison Watson (2WCM-BTH), Sabrina Watson (9KXX-MHJ)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MHL",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "claimed children"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1820 census, Dallas Twp: George Watson household",
+      "date": "1820",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/9KXX-MHL",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MHL/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA M33)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282824886199/1820-census-dallas-george-watson.jpg",
+      "people": [
+        "I282824886199"
+      ],
+      "suggestedFile": "media/I282824886199/1820-census-dallas-george-watson.jpg",
+      "note": "US federal census: public domain."
+    }
+  ],
+  "searchedNoResult": [
+    "Bradsby 1893, Munsell 1880, Pearce, Wright, Harvey Book full text: no George Watson in Huntington/Dallas/Plymouth",
+    "Luzerne wills index: no George Watson will (c.1830)"
+  ],
+  "researchLogEntry": "Round 4: viewed the 1820 Dallas census entry; no county-history or will evidence for George; Amariah Watson identified as competing candidate father of Julia Ann."
+}

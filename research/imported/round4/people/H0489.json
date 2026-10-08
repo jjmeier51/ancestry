@@ -1,0 +1,26 @@
+{
+  "id": "H0489",
+  "name": "Sarah Diodati Gardiner",
+  "status": "researched",
+  "bioAdditions": "Daughter of John Lyon Gardiner, 7th Lord of the Manor of Gardiner's Island; wife of David Thompson (S1). She descends from the main Gardiner's Island line, not from Col. Abraham Gardiner and Mary Smith, so no Bull Smith descent is shown: an in-law. Her daughter Sarah G. Thompson married her cousin Col. David Lion Gardiner, Julia Tyler's brother (S1, S2).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 469-470",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "David Thompson m. Sarah Diodati dau. of John Lyon Gardiner 7th Lord; daughter Sarah G. m. Col. David Lion Gardiner"
+    },
+    {
+      "ref": "S2",
+      "citation": "Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149",
+      "url": "https://archive.org/details/liongardinerhisd00gard",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "David-Lyon Gardiner m. Sarah dau. of David Thompson"
+    }
+  ],
+  "researchLogEntry": "Round 4: parentage from Pelletreau; in-law (no Bull Smith descent).",
+  "researchedAt": "2026-10-08"
+}

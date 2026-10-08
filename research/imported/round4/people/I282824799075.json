@@ -1,0 +1,122 @@
+{
+  "id": "I282824799075",
+  "name": "Julia Ann Watson",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1860-07-12",
+        "place": "Plymouth Twp, Luzerne Co., PA",
+        "note": "Widow, 50, 'domestic', with daughter Ann 15",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "1860 census",
+        "date": "1860-07-12",
+        "place": "Plymouth Twp, Luzerne Co., PA (stamped p.751)",
+        "description": "Julia A. Scot, 50, domestic, personal estate c.$200, b. Penna; Ann, 15.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Widowed in 1856, Julia Ann was living in Plymouth Township in July 1860, aged 50, working as a domestic, with her youngest daughter Ann (S1). Her daughter Catherine told the 1910 census that both her parents were born in Connecticut (S2), which agrees with Bradsby (1893) but not with the 1850 and 1860 censuses (Pennsylvania).\n\nOn her parentage, the FamilySearch tree's George Watson (b. Mansfield, Notts., 1778; Huntington Twp 1810, Dallas 1820, d. 1830) is mixed up with a Rhode Island family, as round 3 found (S3). The tree's other children for George include Jairus Harrison Watson (b. Plymouth 1812, d. New Albany, Bradford Co., 1893), who married a Rebecca Van Loon, and Sabina (Watson) Partington, a widow living in Plymouth Twp in 1850-80 and born in Pennsylvania about 1802 (S3, S4). A second candidate emerges from the county histories: Amariah (or Amaziah) Watson was a Plymouth taxable in 1796, alongside Michael Scott, Samuel Pringle and the Lamoreuxs (S5); he had married the widow of Noah Buck, a Connecticut settler killed in the 1778 battle (S6); and the Huntington Township history says that 'Amaziah Watson settled just below the Scott house, on the Huntington creek road' (S6) - the 'old Scott house' built by Obadiah Scott on Huntington Creek (S6). That puts a Watson family next to a Scott family in Huntington Twp, where the Pringles were later buried in the Scott Cemetery at Huntington Mills. Neither man is yet proven as Julia's father.",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "I282824886199",
+      "evidence": "FamilySearch tree only (merged profile). Alternative candidate: Amariah Watson of Plymouth (1796) and Huntington Twp.",
+      "sourceRefs": [
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "strength": "candidate"
+    }
+  ],
+  "openQuestionsNew": [
+    "Was Julia Ann a daughter of Amariah/Amaziah Watson (Plymouth 1796; Huntington Twp, next to the Scott house) rather than of George Watson? Check the 1800-1820 Plymouth/Huntington censuses for Amariah Watson's household and any Luzerne deed or Orphans' Court record naming his children.",
+    "1910 census says her birthplace was Connecticut - check Connecticut (Barbour) records for a Julia Ann Watson b. c.1809."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "1860 US census, Plymouth Twp, Luzerne Co., 12 Jul 1860, stamped p.751, dwelling 987 (FS index ark 1:1:MXTZ-29S)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-GMT/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "widow Julia A. Scot, 50, with Ann 15"
+    },
+    {
+      "ref": "S2",
+      "citation": "1910 US census, Larksville Borough, sheet 11A, 21 Apr 1910 (Katherine Pringle: father and mother b. Connecticut)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LHCS-RCM/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Connecticut birthplace"
+    },
+    {
+      "ref": "S3",
+      "citation": "FamilySearch published tree: Julia Ann Watson (KG4S-GMT), George Watson (9KXX-MHL), Jairus Harrison Watson (2WCM-BTH), Sabrina Watson (9KXX-MHJ)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-GMT",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "claimed parents and siblings"
+    },
+    {
+      "ref": "S4",
+      "citation": "1850 US census, Plymouth Twp, Luzerne Co., 10 Sep 1850, p.152, dwelling 1027: Sabina Partington 48, b. Pennsylvania, with Lavina, Wm and Lorenzo (FS index ark 1:1:M4HY-PQ2)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9KXX-MHJ/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Sabina (Watson?) Partington b. Pa. c.1802, in Plymouth Twp"
+    },
+    {
+      "ref": "S5",
+      "citation": "Pearce, Annals of Luzerne County (1866), list of Plymouth taxables in 1796; also H. B. Wright, Historical Sketches of Plymouth (1873) p.70",
+      "url": "https://archive.org/details/annalsofluzernec01pear",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Amariah Watson and Michael Scott, Plymouth taxables 1796"
+    },
+    {
+      "ref": "S6",
+      "citation": "Bradsby, History of Luzerne County (1893), Huntington Township and Wilkes-Barre chapters (same text in Munsell 1880): 'Amaziah Watson settled just below the Scott house, on the Huntington creek road'; Obadiah Scott built the 'old Scott house'; widow of Noah Buck 'intermarried with Amariah Watson'",
+      "url": "https://archive.org/details/historyofluzerne00brad",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Watson-Scott proximity in Huntington Twp; Amariah Watson's marriage"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "1860 census, Plymouth Twp: widow Julia A. Scot and daughter Ann",
+      "date": "1860-07-12",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/KG4S-GMT",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KG4S-GMT/images/i/0/image.jpg",
+      "repository": "FamilySearch (NARA M653)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "research_output/media/I282824799075/1860-census-plymouth-julia-scott.jpg",
+      "people": [
+        "I282824799075",
+        "H0222"
+      ],
+      "suggestedFile": "media/I282824799075/1860-census-plymouth-julia-scott.jpg",
+      "note": "US federal census: public domain."
+    }
+  ],
+  "searchedNoResult": [
+    "Full text of Bradsby 1893, Munsell 1880, Harvey Book, Pearce, Wright: no 'George Watson' of Huntington/Dallas mentioned",
+    "Luzerne wills index: no George or Amariah Watson will (Watson wills only from 1874 on)"
+  ],
+  "researchLogEntry": "Round 4: found her as a widow in Plymouth Twp in 1860 and identified Amariah Watson (Plymouth 1796; settled beside the Scott house in Huntington Twp) as an alternative candidate father to the FS George Watson."
+}

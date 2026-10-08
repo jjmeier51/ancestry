@@ -15,11 +15,12 @@
     "immigrant"
   ],
   "summary": "John's 11th-great-grandmother; widow of Henry Tuthill who married William Wells.",
-  "bio": "Sailed with Henry in 1637 ('Henry Tuthill and wife'). After his death she married William Wells about 1650, who became guardian of her Tuthill children; her grandson John Tuthill Jr. later married Wells's daughter Mehitable (by Wells's second wife).",
+  "bio": "Sailed with Henry in 1637 ('Henry Tuthill and wife'). After his death she married William Wells about 1650, who became guardian of her Tuthill children; her grandson John Tuthill Jr. later married Wells's daughter Mehitable (by Wells's second wife).\n\nAkerly says Henry Tuthill married Bridget in England. She came to America with him, survived him, and married second William Wells, Gent., of Southold; her children John and Elizabeth Tuthill were Wells's wards ([R4-S1]). Savage (via Akerly) says Henry and Bridget both died before 1650.",
   "sources": [
     "WikiTree Wells-639",
     "McCurdy p16172",
-    "Banks, Planters of the Commonwealth p. 183"
+    "Banks, Planters of the Commonwealth p. 183",
+    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898), pp. 6-9 (nos. 2-11) (secondary) https://archive.org/details/tuthillfamilyoft00aker"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -34,6 +35,14 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Bridget Elizabeth Burton Tuttle Wells\"; research uses \"Bridget\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Akerly restated; no maiden name found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695478210.json."
     }
   ]
 }

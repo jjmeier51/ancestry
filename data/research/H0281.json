@@ -30,6 +30,29 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Smith-272403 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: HABS photograph of the house downloaded (PD)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0281.json."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/H0281/joshua-b-smith-house-habs.jpg",
+      "type": "photo",
+      "title": "Joshua Brewster Smith House, Hauppauge (HABS NY,52-HAUP,1-1)",
+      "date": "1930s (HABS)",
+      "source": "Wikimedia Commons (Library of Congress HABS, https://www.loc.gov/pictures/item/ny0780.photos.123509p), public_domain",
+      "note": "US government work (HABS). Saved as 1280px JPEG derivative of the TIFF.",
+      "people": [
+        "H0274",
+        "H0279"
+      ],
+      "url": "https://commons.wikimedia.org/wiki/File:Joshua_Brewster_Smith_House,_Hauppauge,_Suffolk_County,_NY_HABS_NY,52-HAUP,1-1.tif"
     }
   ]
 }

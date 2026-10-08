@@ -1,0 +1,30 @@
+{
+  "id": "H0496",
+  "name": "Mary Conkling",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "Aug 1736",
+        "place": "East Hampton, NY",
+        "description": "First wife of Obadiah Wells.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), ch. VI",
+      "url": "https://archive.org/details/williamwellsofso00byuhaye",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Obadiah m. Aug 1736 at East Hampton his first wife Mary Conkling"
+    }
+  ],
+  "researchLogEntry": "Round 4: marriage Aug 1736 at East Hampton (Hayes).",
+  "researchedAt": "2026-10-08"
+}

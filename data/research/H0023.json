@@ -1,15 +1,16 @@
 {
   "id": "H0023",
   "link": {
-    "confidence": "probable",
-    "note": "FamilySearch tree children of Heinrich Mayer & Julianna Senn; not checked in originals."
+    "confidence": "confirmed",
+    "note": "FamilySearch tree children of Heinrich Mayer & Julianna Senn; not checked in originals. Round 4 (probable → confirmed): Named as Friedrich's sister in a primary register."
   },
   "sex": "F",
   "tags": [],
   "summary": "John's 4th great-aunt; sibling of Friedrich Mayer.",
   "sources": [
     "FamilySearch tree G7PF-7J6 / G921-25N",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-431"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -20,6 +21,35 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Named as Friedrich's sister in a primary register."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: in service at Freiburg in 1862; godmother to her nephew Friedrich."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0023.json."
     }
-  ]
+  ],
+  "occupation": "domestic servant at Freiburg (1862)",
+  "residences": [
+    {
+      "date": "1862-01",
+      "place": "Freiburg im Breisgau",
+      "note": "'Ledig, im Dienst zu Freiburg' (single, in service at Freiburg). [R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Godmother to her nephew Friedrich",
+      "date": "1862-01-13",
+      "place": "Munzingen",
+      "description": "Godmother at the baptism of Friedrich, son of Maria Anna Birkenmaier, whom her brother Friedrich Mayer acknowledged. [R4-S1]"
+    }
+  ],
+  "bio": "In January 1862 Sophie, then 30, was unmarried and in domestic service at Freiburg. She came home to Munzingen to be godmother to her brother Friedrich's first child, born before the parents' marriage ([R4-S1])."
 }

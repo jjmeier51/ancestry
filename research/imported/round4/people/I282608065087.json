@@ -1,0 +1,126 @@
+{
+  "id": "I282608065087",
+  "name": "James Smith",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Petition for 2,000 acres (candidate)",
+        "date": "1721-09-29",
+        "place": "Province of New York",
+        "description": "Petition of 'James Smith' for 2,000 acres of vacant land; survey 14 Dec 1722 of 2,000 acres in Ulster Co. (part of the vacated Capt. John Evans grant, adjoining Thomas Noxen and Patrick MacKnight). Weygant (1897) attributes this to James Smith of Moriches. Identity not proven.",
+        "sourceRefs": [
+          "S3",
+          "S2"
+        ]
+      },
+      {
+        "title": "Marriage",
+        "date": "c.1720",
+        "place": "",
+        "description": "Married Jerusha, daughter of Elnathan Topping Jr. (Weygant); eldest son Matthew b. 3 Sept 1721 (Pelletreau)",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Pelletreau (1898) lists James among Job Smith's children (Job 2d, 'Saint' Richard, Timothy, Aaron, James, Joseph, Elizabeth). He says James 'settled in Moriches' and married Jerusha Topping, and that their eldest child Matthew was born 3 Sept 1721 (S1). The 1688 family deed names only four sons of Job (Job, Richard, Joseph, Timothy), which fits James being born in or after 1688 (S4). Weygant's Family Record (1897) independently dates the marriage 'about the year 1720' and calls Jerusha a daughter of Elnathan Topping Jr. (S2). Weygant also credits James with a 1722 patent for 2,000 acres of the annulled Capt. John Evans grant in Ulster (now Orange) County, which the family apparently never settled. The Calendar of Land Papers confirms a 1721 petition and a 1722 survey for 'James Smith' (S3), but nothing in the calendar entry ties that James Smith to Moriches. Treat it as a candidate. If correct, it shows the family's interest in the Highlands a generation before Austin, Francis and Temperance moved to Woodbury Clove.\n\nThe tree names James's father as 'Justice Adam Smith (1649-1726)'. Pelletreau prints Adam Smith's will of 12 June 1704, which leaves all his estate to 'his only son Edmund Smith' (S5). Adam therefore had no son James, and the tree's link is wrong: James was the son of Job Smith & Elizabeth Thompson.",
+  "conflicts": [
+    {
+      "field": "father",
+      "siteValue": "Tree: 'Justice, Adam Smith' (1649-1726)",
+      "foundValue": "Job Smith (Pelletreau App. p. 478; Weygant p. 144); Adam Smith's 1704 will names an only son, Edmund",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "assessment": "Adam is disproven as James's father. Use Job Smith."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0224",
+      "evidence": "Listed as son of Job Smith by Pelletreau and Weygant; Adam (the tree's alternative) had an only son, Edmund",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "spouse",
+      "personId": "I282608065103",
+      "evidence": "Pelletreau and Weygant",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsNew": [
+    "Is the 1721/22 Evans-patent 'James Smith' the Moriches man? Check the original Land Papers (NY State Archives, vol. 60/63) for a residence.",
+    "WikiTree says '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey'. Find the deed, which conflicts with his supposed 1740 death."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "James son of Job; settled Moriches; m. Jerusha Topping; children incl. Matthew b. 1721 and Temperance"
+    },
+    {
+      "ref": "S2",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "marriage c.1720 to Jerusha dau. of Elnathan Topping Jr.; 1722 Evans-grant patent; nine children"
+    },
+    {
+      "ref": "S3",
+      "citation": "Calendar of N.Y. Colonial Manuscripts, Indorsed Land Papers, 1643-1803 (Albany, 1864), p. 152 (29 Sept 1721, petition of James Smith for 2,000 acres of vacant land) and p. 166 (14 Dec 1722, survey of 2,000 acres in Ulster Co., part of the lands formerly granted to Capt. John Evans, adjoining Thomas Noxen and Patrick MacKnight, surveyed for James Smith by Cadwallader Colden)",
+      "url": "https://archive.org/details/calendarofnycolo00newy",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "1721 petition and 1722 survey for a James Smith (candidate)"
+    },
+    {
+      "ref": "S4",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Job's four sons in 1688 do not include James"
+    },
+    {
+      "ref": "S5",
+      "citation": "Pelletreau, Records of the Town of Smithtown (1898), p. 46, 'Will of Adam Smith (Son of Richard the Patentee)': will dated 12 June 1704, witnessed Wm. Jayne Jr. and Wm. Helme, not probated, among the papers of the late Nathaniel Smith of Sherewog",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Adam Smith's estate to his only son Edmund"
+    },
+    {
+      "ref": "S6",
+      "citation": "WikiTree Smith-105759 (James Smith, b. 1688), biography read via api.wikitree.com: '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey' (no citation given)",
+      "url": "https://www.wikitree.com/wiki/Smith-105759",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "1740 land purchase in St. George's Manor (unsourced)"
+    }
+  ],
+  "searchedNoResult": [
+    "NY will abstracts 1730-1784: no will of James Smith of Moriches/Brookhaven",
+    "Wills of the Smith Families of New York and Long Island (1898): no James of Moriches will"
+  ],
+  "researchLogEntry": "Round 4: Adam Smith's 1704 will (only son Edmund) disproves the tree's 'Justice Adam Smith' as father; Weygant 1897 and the 1864 Land Papers calendar add a candidate 1721-22 Ulster patent."
+}

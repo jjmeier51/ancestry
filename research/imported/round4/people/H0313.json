@@ -1,0 +1,59 @@
+{
+  "id": "H0313",
+  "name": "Daniel Lawrence Braine",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "18 May 1829",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "30 Jan 1898",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "bioAdditions": "Line in Lawrence 1858 (S1): Deborah Smith & William Lawrence Jr. -> Daniel (d. 1757, m. Mary Redwood) -> Abraham (m. Mary Smith) -> Elizabeth (m. Capt. Daniel H. Braine) -> Abraham L. Braine (b. 1782, m. 1811 Agnes Dean Hamilton) -> Daniel Lawrence Braine, 'now lieutenant in the United States Navy', married 1855 Mary E. Fulton: 5th cousin 6 times removed.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 25-26",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Braine line from Daniel Lawrence"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Daniel L. Braine' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Daniel_L._Braine",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; admiral"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "Rear Admiral Daniel Lawrence Braine (Cyclopedic Review of Current History, vol. 1, p. 289)",
+      "date": "1892",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Daniel_Lawrence_Braine.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Daniel_Lawrence_Braine.jpg",
+      "repository": "Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0313/daniel-lawrence-braine-1892.jpg",
+      "people": [
+        "H0313"
+      ],
+      "suggestedFile": "media/H0313/daniel-lawrence-braine-1892.jpg",
+      "note": "Public domain (published 1892)."
+    }
+  ],
+  "researchLogEntry": "Round 4: each generation from Lawrence 1858; exact dates; PD 1892 portrait downloaded.",
+  "researchedAt": "2026-10-08"
+}

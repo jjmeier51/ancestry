@@ -11,8 +11,8 @@
     "place": "New York City, New York, USA"
   },
   "death": {
-    "date": "1809-11-28",
-    "place": "Monroe, Orange County, New York, USA"
+    "date": "24 Jul 1809; year 1809 agreed",
+    "place": "Monroe (Cheesecocks), Orange Co., NY"
   },
   "aka": [
     "John Lamoreaux",
@@ -25,7 +25,7 @@
     "patriot"
   ],
   "summary": "John's 7th-great-grandfather; Huguenot-descended New Yorker and DAR-recognized Revolutionary patriot (private, prisoner of war) of Monroe, Orange County.",
-  "bio": "Jean (John) Lamoreaux was born in New York City in 1723, son of Daniel Lamoureux and Jeanne Masse and grandson of the Huguenot immigrant André Lamoureux; the tree shows 'Jean (John) Lomereaux 1723-1809'. He married Charity Davenport, daughter of Capt. Thomas Davenport, who in 1752 deeded Goshen-precinct land to 'Charity Lamoree, wife of John Lamoree', next to her brother Oliver Davenport. The 1919 Lamoureux Record remembers his wife as 'Charity Danforth' - not a conflict, since 'Danforth's' was the local rendering of 'Davenport's'. He is DAR ancestor A068227 (private; signed the Articles of Association; prisoner of war). His son John was captured at Fort Montgomery in Oct 1777. He died at Monroe on 28 Nov 1809; his 1809 Orange Co. will has not been seen. Descendants spread to Pennsylvania, Utah and Arizona.",
+  "bio": "Jean (John) Lamoreaux was born in New York City in 1723, son of Daniel Lamoureux and Jeanne Masse and grandson of the Huguenot immigrant André Lamoureux; the tree shows 'Jean (John) Lomereaux 1723-1809'. He married Charity Davenport, daughter of Capt. Thomas Davenport, who in 1752 deeded Goshen-precinct land to 'Charity Lamoree, wife of John Lamoree', next to her brother Oliver Davenport. The 1919 Lamoureux Record remembers his wife as 'Charity Danforth' - not a conflict, since 'Danforth's' was the local rendering of 'Davenport's'. He is DAR ancestor A068227 (private; signed the Articles of Association; prisoner of war). His son John was captured at Fort Montgomery in Oct 1777. He died at Monroe on 28 Nov 1809; his 1809 Orange Co. will has not been seen. Descendants spread to Pennsylvania, Utah and Arizona.\n\nIn the 1790 census Jean appears as 'John Lomereaux' at New Cornwall, Orange Co. ([R4-S1]). His household held four men aged 16 or over, three women or girls and three enslaved people, so this branch of the family were slaveholders. Two lines above him is Peter Lomereaux, presumably his brother Pierre, who the Davenport genealogy says lived in Cornwall. Further down the same page are Oliver Davenport, his wife Charity's brother, and a David Prindle. FamilySearch's tree of James and Anar Prindle of Newtown includes a son David, born 1757, so the Prindle family may have reached Orange County a generation before Samuel Pringle married into the Lamoreaux family ([R4-S1], [R4-S2]). The Davenport genealogy gives his birth as 31 Dec 1723 in New York City and says he lived in 'Cheesecocks (Monroe)' and died there in 1809 ([R4-S3]). The site's death date of 28 Nov 1809 may belong to his brother: the same book gives exactly 28 Nov 1809 as the death date at Yorktown, Westchester Co., of his brother Andre (b. 1722). FamilySearch has 24 Jul 1809 instead, without a visible source ([R4-S2]). FamilySearch also places his burial at Seneca Union Cemetery, Valois, Schuyler Co., NY, which is unlikely for a man who died at Monroe and is unsourced.",
   "residences": [
     {
       "date": "1752",
@@ -34,6 +34,16 @@
     {
       "date": "1809",
       "place": "Monroe, Orange County, New York, USA"
+    },
+    {
+      "date": "1790",
+      "place": "New Cornwall, Orange Co., NY",
+      "note": "'John Lomereaux': 4 free white males 16+, no boys, 3 females, 3 enslaved people. Neighbours include Peter Lomereaux (two households above), Oliver Davenport (his wife's brother) and a David Prindle. [R4-S1]"
+    },
+    {
+      "date": "1800",
+      "place": "Cheesecocks, Orange Co., NY (FamilySearch residence event)",
+      "note": "[R4-S2]"
     }
   ],
   "military": [
@@ -48,6 +58,10 @@
     {
       "label": "Tree shows",
       "value": "Jean (John) Lomereaux 1723-1809 (father of Thomas)"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "L1D9-JYR"
     }
   ],
   "sources": [
@@ -57,10 +71,16 @@
     "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
     "Schenectady History, Lamoreaux family: https://www.schenectadyhistory.org/families/hmgfm/lamoreaux.html",
     "My Maine Heritage: https://sites.rootsweb.com/~megen/reunion/ps409/ps409_195.html",
-    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "[R4-S1] 1790 US census, New Cornwall, Orange Co., NY, p.382, John Lomereaux (NARA M637; FS ark 1:1:XHKP-TS6) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L1D9-JYR/images/i/0/image.jpg",
+    "[R4-S2] FamilySearch published tree, Jean - John Lamoreaux (L1D9-JYR) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L1D9-JYR",
+    "[R4-S3] Giles, Thomas Davenport, Pioneer, and His Descendants, Section X pp.354-358 (Lamoreux family) (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+    "[R4-S4] Evans (ed.), Baptisms from 1639 to 1730 in the Reformed Dutch Church, New York (1901), vol. 2 and index (derivative) https://archive.org/stream/baptismsfrom163922evan/baptismsfrom163922evan_djvu.txt",
+    "[R4-S5] Wittmeyer (ed.), Registers of the Births, Marriages and Deaths of the Église Françoise à la Nouvelle York 1688-1804, Collections of the Huguenot Society of America vol.1 (1886), index s.v. Lamoureux (derivative) https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt"
   ],
   "openQuestions": [
-    "Orange Co. Surrogate: will of John Lamoreux of Monroe (d. 28 Nov 1809) to confirm Thomas as his son."
+    "Orange Co. Surrogate: will of John Lamoreux of Monroe (d. 28 Nov 1809) to confirm Thomas as his son.",
+    "Who was the David Prindle at New Cornwall in 1790 (2 men 16+, 3 boys, 3 females)? Possibly David b. 1757, son of James and Anar Prindle, a possible brother of Samuel Pringle."
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -75,6 +95,18 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Jean (John) Lomereaux\"; research uses \"Jean Lamoreaux\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Reformed Dutch Church NYC baptisms 1639-1730 (archive.org full text): no Lamoreux baptisms; French Church of New York registers 1688-1804 (Huguenot Soc. Collections vol.1, archive.org full text and index): no baptism of Jean/John Lamoureux c.1723-24; his brothers Daniel (29 May 1720) and Andre (17 Jan 1722) are there. The FS baptism of 12 Jan 1724 'New York City' is therefore not from this register."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found the 1790 New Cornwall census (John Lomereaux with 3 enslaved people, beside Oliver Davenport and a David Prindle); the 28 Nov 1809 death date probably belongs to brother Andre."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695583838.json."
     }
   ],
   "media": [
@@ -85,6 +117,34 @@
       "source": "WikiTree",
       "note": "Jean Lamoreaux, 1723-12-31 – 1809-11-28",
       "url": "https://www.wikitree.com/wiki/Lamoreaux-35"
+    },
+    {
+      "file": "media/I282695583838/1790-census-new-cornwall-john-lomereaux.jpg",
+      "type": "record",
+      "title": "1790 census, New Cornwall, Orange Co., NY, p.382: John and Peter Lomereaux, Oliver Davenport, David Prindle",
+      "date": "1790",
+      "source": "FamilySearch (NARA M637), public_domain",
+      "note": "US federal census, government record, public domain",
+      "people": [
+        "H0073"
+      ],
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L1D9-JYR"
+    }
+  ],
+  "events": [
+    {
+      "title": "Baptism",
+      "date": "1724-01-12",
+      "place": "New York City (French Church, per tree)",
+      "description": "Birth date 31 Dec 1723 per the Davenport genealogy; baptism date per FamilySearch, no image seen. Not in the Reformed Dutch Church baptisms of NYC to 1730 (the index has no Lamoreux father). [R4-S2] [R4-S3] [R4-S4]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "1809-11-28",
+      "found": "24 Jul 1809 (FamilySearch)",
+      "assessment": "The Davenport genealogy gives 28 Nov 1809 for brother Andre at Yorktown and only '1809' for Jean, so the site date may have been borrowed from Andre. Neither date is proven; the will or probate would settle it."
     }
   ]
 }

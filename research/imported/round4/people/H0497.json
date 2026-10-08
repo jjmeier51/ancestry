@@ -1,0 +1,29 @@
+{
+  "id": "H0497",
+  "name": "Catherine Blydenburgh",
+  "status": "researched",
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "H0283",
+      "evidence": "Pelletreau: issue of Joseph Blydenburgh 2d and wife (Saxton) includes Joseph 3 (1732-1833) and 'Catharine, married James Smith'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "bioAdditions": "Daughter of Joseph Blydenburgh 2d (son of the second wife of Joseph 1st), sister of Joseph Blydenburgh (1732-1833) (S1). Not a Bull Smith descendant.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 485-486",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Blydenburgh sketch: issue of Joseph 2d"
+    }
+  ],
+  "researchLogEntry": "Round 4: parentage from Pelletreau's Blydenburgh sketch; not kin.",
+  "researchedAt": "2026-10-08"
+}

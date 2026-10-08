@@ -7,9 +7,10 @@
   "sex": "F",
   "tags": [],
   "summary": "John's 9th-great-grandmother; of Fockenberg-Limbach.",
-  "bio": "Of Fockenberg-Limbach (Kusel), daughter of Conrad Birgert; married Caspar Grub 1642. Her father Conrad Birgert is John's 10th-great-grandfather (speculative).",
+  "bio": "Of Fockenberg-Limbach (Kusel), daughter of Conrad Birgert; married Caspar Grub 1642. Her father Conrad Birgert is John's 10th-great-grandfather (speculative).\n\nFamilySearch (as 'Elisabetha Birkhert') gives her birth in 1618 at Fockenberg-Limbach and her death at Berschweiler on 13 Sep 1685, and names her parents as Conradt Birgert and Anna Eva Jacob ([R4-S1]). Her marriage to Caspar Grub on 9 Jan 1642 is indexed in 'Germany Marriages' with Conradt Birkhert as her father. Her attached records include her appearance as the mother 'Elisabetha Grub' in the baptism of a son Johann ([R4-S1]). None of these was read in Round 4.",
   "sources": [
-    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191858"
+    "GEDBAS file 53093 ('Helf-Maier', compiled by Karl-Hans Helf; Jettenbach Grubs; Lutheran parish; sources not displayed), person 1193191858",
+    "[R4-S1] FamilySearch published tree, Elisabetha Birkhert (KLK9-FD7), citing Germany Marriages 1558-1929 and Lutheran baptism entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KLK9-FD7"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +21,35 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0415, probable): 1642 marriage index names her father Conradt Birkhert (per FamilySearch)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch adds birth c.1618, death 13 Sep 1685 Berschweiler, and her mother's name, Anna Eva Jacob."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0084.json."
+    }
+  ],
+  "birth": {
+    "date": "1618",
+    "place": "Fockenberg-Limbach"
+  },
+  "death": {
+    "date": "1685-09-13",
+    "place": "Berschweiler"
+  },
+  "aka": [
+    "Elisabetha Birkhert"
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "KLK9-FD7"
     }
   ]
 }

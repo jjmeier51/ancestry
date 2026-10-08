@@ -7,10 +7,12 @@
   "sex": "F",
   "tags": [],
   "summary": "John's maternal 4th great-grandmother, of Bisaccia.",
-  "bio": "Mother of Angelamaria Fede per Bisaccia Matrimoni 1867 act 17. Given name read as 'Luigia(?)'.",
+  "bio": "Mother of Angelamaria Fede per Bisaccia Matrimoni 1867 act 17. Given name read as 'Luigia(?)'.\n\nThe FamilySearch tree calls Angelamaria Fede's mother 'Nunzianna Roberto'. It gives her birth as about 1814 in Bisaccia, her marriage to Bartolomeo Fede as 10 Jul 1835, and her parents as Pasquale di Roberto and Antonia Sena (both b. 1777) ([R4-S1]). Round 3 read the given name in the 1867 act only tentatively as 'Luigia(?)'. One fact supports Nunzianna: Angelamaria named a daughter born c.1885 'Nunzianda', following the southern-Italian custom of naming daughters after grandmothers ([R4-S2]).",
   "sources": [
     "Antenati, Bisaccia, Matrimoni 1867, act 17: https://antenati.cultura.gov.it/ark:/12657/an_ua445486/0Apd713",
-    "notes/round3/italian_origins.md 3"
+    "notes/round3/italian_origins.md 3",
+    "[R4-S1] FamilySearch Family Tree published profile LY5M-RSK (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LY5M-RSK",
+    "[R4-S2] FamilySearch Family Tree published profile L13V-186 (user-contributed; read via published-tree JSON) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L13V-186"
   ],
   "openQuestions": [
     "Confirm given name reading"
@@ -24,6 +26,41 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch Italian civil-record images return 403; Antenati returns 403"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS tree names her Nunzianna (not Luigia), b. c.1814, m. 1835; a granddaughter named Nunzianda supports it."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0344.json."
+    }
+  ],
+  "birth": {
+    "date": "ABT 1814",
+    "place": "Bisaccia, Avellino, Campania, Italy"
+  },
+  "aka": [
+    "Nunzianna Roberto (FamilySearch tree)"
+  ],
+  "events": [
+    {
+      "title": "Marriage to Bartolomeo Fede",
+      "date": "1835-07-10",
+      "place": "Bisaccia",
+      "description": "Per FS tree. [R4-S1]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "given name",
+      "site": "Luigia (Round 3 reading, marked uncertain)",
+      "found": "Nunzianna (FS tree LY5M-RSK)",
+      "assessment": "Probably Nunzianna/Annunziata: the FS name has its own sources and the granddaughter Nunzianda (c.1885-1888) carries the name. Re-read the 1867 act before changing."
     }
   ]
 }

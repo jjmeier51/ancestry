@@ -10,7 +10,8 @@
   "bio": "Of Southold. Given by WikiTree as father of Rachel Browne. 'My brother Joseph Brown' in John Tuthill III's 1740 will is probably his son. Round 3 lists the new ancestry as 'Browne/King, Salmon and Horton'.",
   "sources": [
     "WikiTree Tuthill-530 (getAncestors)",
-    "notes/round3/english_french_origins.md §2i"
+    "notes/round3/english_french_origins.md §2i",
+    "[R4-S1] The Salmon Records: a private register of marriages and deaths of the residents of the town of Southold, 1696-1811 (NYG&B, 1918), full text searched (primary) https://archive.org/details/salmonrecordspri00salm"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -21,6 +22,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Salmon Record death entry (1704) conflicts with the 1710 date."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0227.json."
     }
   ],
   "media": [
@@ -31,6 +40,14 @@
       "source": "WikiTree",
       "note": "Jonathan Browne, 1653-00-00 – 1710-08-19",
       "url": "https://www.wikitree.com/wiki/Browne-1123"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "1710",
+      "found": "Salmon Record: 'Jonathan Brown died' 18 Sept, within the 1704 run of entries",
+      "assessment": "Possibly a different Jonathan Brown; unresolved."
     }
   ]
 }

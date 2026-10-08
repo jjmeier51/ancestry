@@ -1,0 +1,115 @@
+{
+  "id": "I282608055492",
+  "name": "John Tuthill",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1775",
+        "place": "Cornwall Precinct, Orange Co., NY",
+        "note": "A 'John Tuthill' signed the 1775 Articles of Association in Cornwall Precinct. This is either this man (if he outlived Alva Tuttle's c.1770 death) or his son John (b. 1753)",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage (compiled date)",
+        "date": "1752-11-23",
+        "place": "Smithtown, Suffolk Co., NY",
+        "description": "Date as given by Alva Tuttle (1968) and repeated by Long Island Surnames and the Ancestry 'NYC Compiled Marriage Index' (p. 283) cited on WikiTree. No original record was found; no license in the pre-1784 NY license list",
+        "sourceRefs": [
+          "S4",
+          "S5"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Two new pieces bear on John's life. First, a 'John Tuthill' signed the 1775 Articles of Association in Cornwall Precinct, on the same list as 'James Tuttle' and Thomas Lamoureux (S3). Either John was still alive in 1775, which would undercut Alva Tuttle's c.1770 death and partly vindicate the tree's later death date, or the signer was his son John (b. 1753). Second, the Brookhaven town records show the family's Long Island base. James Tuthill, John's probable father, held the westernmost 15-acre lot in Fireplace Neck by 1737 (S2). That is a few miles from Moriches, where Temperance Smith's father James Smith lived, so the two families were close neighbours.\n\nThe printed pre-1784 New York marriage-license list has no Tuthill-Smith entry (S4), and the NY will abstracts to 1784 hold no will or administration for him (S6). The 23 Nov 1752 Smithtown marriage date therefore still rests on Alva Tuttle alone. It is repeated without sources by Long Island Surnames (S5) and in an Ancestry compiled index cited on WikiTree.",
+  "conflicts": [
+    {
+      "field": "death.date",
+      "siteValue": "ABT 1770 (tree: 1802)",
+      "foundValue": "A John Tuthill signed in Cornwall Precinct in 1775",
+      "sourceRefs": [
+        "S3"
+      ],
+      "assessment": "Not decisive, because son John (b. 1753) was of age by 1775. Keep c.1770 as Alva's estimate, but note that 1775 is possible."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "I282608055692",
+      "evidence": "Unchanged: rests on Alva Tuttle p. 311 ('s Jas 1692'). New context: James Tuthill owned land in Fireplace Neck, Brookhaven, 1721-1750, and a 'James Tuttle junr.' appears there c.1738/9, consistent with Alva's son James b. 1717.",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsResolved": [],
+  "openQuestionsNew": [
+    "Is the 1775 Cornwall signer John Tuthill the father or son John (b. 1753)?",
+    "Ancestry 'New York City, Compiled Marriage Index, 1600s-1800s' p. 283: what printed source does it cite for the 1752 Smithtown marriage?"
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Temperance listed among the children of James Smith of Moriches"
+    },
+    {
+      "ref": "S2",
+      "citation": "Records of the Town of Brookhaven, Suffolk County, N.Y. (printed 1880; volume covering the 1720s-1750s), p. 113 (1 May 1721 land laid out to James Tuthill on the other half of Dayton's Right, 22 1/2 acres east of his Chestnut Pound land, plus 9 1/2 acres on John Roe's right, adjoining his former 50 lot), pp. 139-140 (10 June 1737 highway across the north ends of the 15-acre lots in Fireplace Neck, laid out at the request of owners incl. 'Jeames Tuttel', beginning at the westernmost 15-acre lot 'now belonging to Jeames Tuttel'), p. 143 ('James Tuttle, junr.' among signers, c. 1738/9), pp. 147-148 (award of arbitrators Isaac Browne, William Smith, James Tuthill and Richard Woodhull, sealed 5 Oct 1741), p. 166 (c. 1750 road between Thomas Rose's and James Tuthill's land in Fireplace Neck)",
+      "url": "https://archive.org/details/cu31924064122769",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "James Tuthill's Brookhaven lands, 1721-1750; 'James Tuttle junr.' c.1738/9"
+    },
+    {
+      "ref": "S3",
+      "citation": "Ruttenber & Clark, History of Orange County (1881), Articles of Association 1775, Cornwall Precinct signers (c. pp. 68-69)",
+      "url": "https://archive.org/details/historyoforangec00rut",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "'John Tuthill' and 'James Tuttle' among the 1775 Cornwall Precinct signers"
+    },
+    {
+      "ref": "S4",
+      "citation": "Names of Persons for Whom Marriage Licenses Were Issued by the Secretary of the Province of New York, Previous to 1784 (Albany, 1860), full text searched",
+      "url": "https://archive.org/details/namesofpersonsfo00newy",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "negative: no Tuthill-Smith license"
+    },
+    {
+      "ref": "S5",
+      "citation": "Long Island Surnames (King tree), John Tuthill, person I06526 (no sources cited; last modified 20 May 2019)",
+      "url": "https://longislandsurnames.com/getperson.php?personID=I06526&tree=King",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "repeats birth c.1730 Brookhaven, death c.1770 Woodbury Clove and marriage 23 Nov 1752 Smithtown, unsourced"
+    },
+    {
+      "ref": "S6",
+      "citation": "Abstracts of Wills on File in the Surrogate's Office, City of New York (Collections of the New-York Historical Society, 1893-1908), full text of the volumes covering 1730-1784 searched (archive.org items abstractswillso01kellgoog, 02kellgoog, 04kellgoog, 05kellgoog, 00kellgoog/abstractsofwills34newy [1766-76], 06kellgoog [1771-76], 07kellgoog, abstractswillso00/01/03/04courgoog)",
+      "url": "https://archive.org/details/abstractswillso06kellgoog",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "negative: no will or administration"
+    }
+  ],
+  "searchedNoResult": [
+    "NY marriage licenses before 1784 (1860 printed list, full text): no Tuthill/Tuttle-Smith license; no Lamoreaux-Tuthill license",
+    "Abstracts of Wills, NY Surrogate (NYHS Collections), all volumes 1730-1784 on archive.org, full text: no will or administration for John Tuthill of Cornwall/Woodbury Clove, James Tuthill (d. c.1772) or Temperance Tuthill; no will of James Smith of Moriches",
+    "FamilySearch published tree: no PID found via web search",
+    "Smithtown First Presbyterian Church marriages of 1751-53 (Rev. Napthali Daggett): no published transcription found"
+  ],
+  "researchLogEntry": "Round 4: Brookhaven town records place James Tuthill in Fireplace Neck near Moriches; found a John Tuthill among the 1775 Cornwall signers; marriage licenses and will abstracts negative."
+}

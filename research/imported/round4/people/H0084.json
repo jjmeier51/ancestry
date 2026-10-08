@@ -1,0 +1,54 @@
+{
+  "id": "H0084",
+  "name": "Elisabetha Birgert",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1618 (FamilySearch)",
+      "place": "Fockenberg-Limbach",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "13 Sep 1685 (FamilySearch)",
+      "place": "Berschweiler",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Elisabetha Birkhert"
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KLK9-FD7"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch (as 'Elisabetha Birkhert') gives her birth in 1618 at Fockenberg-Limbach and her death at Berschweiler on 13 Sep 1685, and names her parents as Conradt Birgert and Anna Eva Jacob (S1). Her marriage to Caspar Grub on 9 Jan 1642 is indexed in 'Germany Marriages' with Conradt Birkhert as her father. Her attached records include her appearance as the mother 'Elisabetha Grub' in the baptism of a son Johann (S1). None of these was read in Round 4.",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0415",
+      "evidence": "1642 marriage index names her father Conradt Birkhert (per FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Elisabetha Birkhert (KLK9-FD7), citing Germany Marriages 1558-1929 and Lutheran baptism entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KLK9-FD7",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, parents"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch adds birth c.1618, death 13 Sep 1685 Berschweiler, and her mother's name, Anna Eva Jacob."
+}

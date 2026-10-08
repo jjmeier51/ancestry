@@ -1,0 +1,61 @@
+{
+  "id": "H0179",
+  "name": "Thomas Lamoreaux Jr.",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "19 Aug 1787",
+      "place": "Monroe, Orange Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "17 Jul 1830",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1807",
+        "place": "Sunbury, Northumberland Co., PA (FamilySearch)",
+        "description": "To Mary Boston (1791-1882)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1830",
+        "place": "Luzerne Co. (census 'Thomas Lamoreux')",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LHPN-LRK"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Thomas Jr. the dates 19 Aug 1787 to 17 Jul 1830 and has him marrying Mary Boston (1791-1882) at Sunbury in 1807. His children were born in Plymouth and Jackson Twps between 1814 and 1822. He appears in the 1830 census, and his father's probate file is attached (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Thomas Lamoreaux Jr. (LHPN-LRK), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHPN-LRK",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 19 Aug 1787-17 Jul 1830 and m. 1807 Mary Boston."
+}

@@ -1,0 +1,148 @@
+{
+ "id": "I282824815347",
+ "name": "Domenico Fiorillo",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "c. 1775 (age 74 in 1849)",
+   "place": "Cannovali, Aiello Calabro, Cosenza",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "6 Jun 1849",
+   "place": "San Mango d'Aquino",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  "aka": [
+   "Domenico Gabriele Fiorillo"
+  ]
+ },
+ "bioAdditions": "Domenico died at San Mango on 6 June 1849 and was buried the next day. His age was given as 74, so he was born about 1775, and his birthplace as Cannovali, a hamlet of Aiello Calabro (S1, S2). This makes him about ten years older than the tree's 1785. Both death records name his father as the late Carmine (Gabriele) Fiorillo. His mother's given name is Giacinta ('Cintia') in both, but her surname is uncertain: 'Feraculo' in the civil act, Iera in the parish index (S1, S2). A probable brother, Francesco Gabriele Fiorillo (d. 1853), is recorded as son of Carmine and Giacinta Marrello (S5). His wife Maria Marrello died in 1846 (S3). The family's absence from San Mango's 1674-1804 stati delle anime is explained: the Fiorillos were Aiello people who moved down the Savuto valley in the early 1800s.",
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "1785",
+   "foundValue": "c.1775 (age 74 at death)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Ages at death are approximate; the two independent records agree on 74."
+  },
+  {
+   "field": "death.date",
+   "siteValue": "BEF 1860-11-17",
+   "foundValue": "6 Jun 1849",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Adopt 6 Jun 1849."
+  },
+  {
+   "field": "mother",
+   "siteValue": "(blank)",
+   "foundValue": "Giacinta (Cintia); surname Feraculo (civil) / Iera (parish) / Marrello (brother's record)",
+   "sourceRefs": [
+    "S1",
+    "S2",
+    "S5"
+   ],
+   "assessment": "Given name Giacinta is solid; surname unresolved."
+  },
+  {
+   "field": "spouses",
+   "siteValue": "Maria Morrello and Vittoria Marrelli",
+   "foundValue": "Maria Marrello only",
+   "sourceRefs": [
+    "S3",
+    "S4"
+   ],
+   "assessment": "Vittoria belongs to Francesco G. Fiorillo; remove from Domenico."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282824815359",
+   "evidence": "Death records name father Carmine (Gabriele) Fiorillo",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "spouse",
+   "personId": "I282824815353",
+   "evidence": "Her 1846 burial names husband Dominicus Gabriele Fiorillo",
+   "sourceRefs": [
+    "S3"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "I282824815339",
+   "evidence": "1840 marriage",
+   "sourceRefs": [
+    "S4"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "confirmed",
+  "recommended": "confirmed",
+  "justification": "Death records add birth c.1775 at Cannovali and death 6 Jun 1849."
+ },
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino, stato civile, Civil deaths 1849, image 1557, act 22, 6 Jun 1849; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+   "url": "https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death of Domenico Fiorillo, 74 (b. c.1775), bracciale, born Cannovali, son of the late Carmine Fiorillo and the late Cintia \"Feraculo\" (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 32, p. 58, no. 23; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 7 Jun 1849: Dominicus Gabriele Fiorillo, 74, son of the late Carmelus Gabriele Fiorillo and the late Hyacinthia Iera (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 5, p. 4, no. 13; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 20 Mar 1846: Maria Marrello, 60, daughter of the late Vincentius Marrello and Hyacinthia Gabriele Fiorillo, wife of Dominicus Gabriele Fiorillo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S4",
+   "citation": "San Mango d'Aquino, stato civile, Civil marriages 1840, image 172, act 3; volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+   "url": "https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Son Carmine's marriage 1840 names parents Domenico Fiorillo and Maria Marrelli (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S5",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 61, p. 117, no. 11; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+   "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Burial 2 Mar 1853: Franciscus Gabriele Fiorillo, 64, son of the late Carmelus G. Fiorillo and the late Hyacinthia Marrello, husband of Antonia Marrello (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  }
+ ],
+ "researchLogEntry": "Round 4: civil death 6 Jun 1849 (act 22) and parish burial: age 74, born Cannovali, son of Carmine and Giacinta."
+}

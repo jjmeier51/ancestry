@@ -1,0 +1,61 @@
+{
+  "id": "H0470",
+  "name": "Samuel Thompson",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "4 Mar 1668",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "14 Jul 1749",
+      "place": "Setauket, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Farmer",
+    "burial": {
+      "place": "Setauket, NY",
+      "cemetery": "Setauket Presbyterian Church (south-east corner; part of tombstone survived in 1918)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "6 Nov 1709",
+        "place": "",
+        "description": "Married Hannah (Brewster), widow of John Muncy, daughter of Rev. Nathaniel Brewster.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Will",
+        "date": "3 Apr 1745",
+        "place": "",
+        "description": "Son Jonathan and two sons-in-law executors; silver tankard to grandson and namesake Samuel (father of the historian B. F. Thompson).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Youngest son of John Thompson of Setauket (John's 11th-great-grandfather), so a brother of John's 10th-great-grandmother Elizabeth (Thompson) Smith. Thompson's family account (S1) gives his dates, marriage and will, and lists his children Jonathan, Isaac (lost at sea c.1735), Susannah (m. Thomas Strong), Mary (m. Daniel Smith), Deborah (m. Arthur Smith, then William Miller), Ruth (m. Thomas Telford) and Sarah. His silver tankard went to the grandson who fathered Long Island's historian.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), pp. 296-297",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Samuel Thompson's dates, marriage, will, burial, children"
+    }
+  ],
+  "researchLogEntry": "Round 4: dates, will and children from Thompson vol. 3.",
+  "researchedAt": "2026-10-08"
+}

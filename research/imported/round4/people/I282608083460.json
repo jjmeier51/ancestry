@@ -1,0 +1,42 @@
+{
+  "id": "I282608083460",
+  "name": "Hannah Sayre",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Legatee in father's will",
+        "date": "21 Aug 1707 (proved 13 Apr 1708)",
+        "place": "Southampton, NY",
+        "description": "Named in Daniel Sayre's will as 'Hannah Topping the wife of Mr Josiah Topping'.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0253",
+      "evidence": "Named in Daniel Sayre's will",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "Her father Daniel Sayre's will of 1707 (Banta, S1) names her as wife of Josiah Topping; Banta lists only two children, Josiah and John (b. 1706). Not an ancestor of John and, the Sayre line being non-ancestral, not a blood relative.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "T. M. Banta, Sayre Family (1901) (archive.org full text), p. 30",
+      "url": "https://archive.org/details/sayrefamilylinea00bant",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Daniel Sayre will naming Hannah Topping; her children"
+    }
+  ],
+  "researchLogEntry": "Round 4: Banta confirms Hannah as daughter of Daniel Sayre; children Josiah and John only.",
+  "researchedAt": "2026-10-08"
+}

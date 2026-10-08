@@ -1,0 +1,189 @@
+{
+ "id": "I282695503581",
+ "name": "Helen Ferlaino",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "8 Oct 1894",
+   "place": "San Mango d'Aquino, Catanzaro, Calabria, Italy",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "14 Mar 1965",
+   "place": "South Abington Township, Lackawanna County, Pennsylvania (residence Scranton)",
+   "sourceRefs": [
+    "S3"
+   ]
+  },
+  "aka": [
+   "Maria Filomena Ferlaino (baptismal name)",
+   "Maria Philumena Ferlaino",
+   "Philomena Cognetti (FamilySearch)",
+   "Helen Farino"
+  ],
+  "events": [
+   {
+    "title": "Baptism",
+    "date": "9 Oct 1894",
+    "place": "Parish of San Tommaso d'Aquino, San Mango d'Aquino",
+    "description": "Baptized the day after her birth as Maria Philumena, daughter of Leopoldo Ferlaino and Josepha (Giuseppina) Fiorillo; godmother Saveria Sacco.",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "PA death index",
+    "value": "1965, file 027518, age 69"
+   }
+  ]
+ },
+ "bioAdditions": "Helen was baptized in the parish of San Tommaso d'Aquino at San Mango d'Aquino on 9 October 1894, the day after her birth, as Maria Philumena (Filomena), daughter of Leopoldo Ferlaino and Josepha Fiorillo. The godmother was Saveria Sacco (S1). I read the register entry myself on the volunteer-photographed page (S2). She is the only child of this couple anywhere in the San Mango baptism registers. Her 1894 birth matches her age in the 1920 census (25) and her emigration with her mother in 1900. 'Helen' was evidently the name she used in America. The 'Filomena Ferlaino' whom the site and FamilySearch list as Frank Cognetti's other wife is almost certainly the same woman. The Pennsylvania death-certificate index records Helen Cognetti, aged 69, dying in South Abington Township, Lackawanna County, on 14 March 1965 (certificate file 027518; residence code 35001 = Scranton) (S3). An age of 69 fits a birth in late 1894 or 1895. The baptism resolves the Ferlaino-versus-Farina question: Helen was born a Ferlaino, and 'Farino/Farina' is the US clerks' spelling.",
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "BET 1894 AND 1896",
+   "foundValue": "8 Oct 1894 (baptism 9 Oct 1894)",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "assessment": "Baptism is a primary record; adopt 8 Oct 1894."
+  },
+  {
+   "field": "name / duplicate person",
+   "siteValue": "Separate person Filomena Ferlaino (I282695503686), also wife of Frank Cognetti",
+   "foundValue": "Helen = Maria Filomena Ferlaino",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Probable: only one daughter of Leopoldo and Giuseppina was baptized in San Mango, in 1894. Merge, keeping Helen as the display name."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "parent",
+   "personId": "I282697102554",
+   "evidence": "Baptism names father Leopoldo Ferlaino",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "parent",
+   "personId": "I282824815192",
+   "evidence": "Baptism names mother Josepha Fiorillo",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "confirmed",
+  "justification": "Baptism names Leopoldo Ferlaino and Giuseppina Fiorillo; the birth date fits the US census; the widowed mother Josephine headed the household in 1920; US clerks wrote Farino. Taken together, the link to John is documented. Only her death certificate or marriage license would add a US record naming Ferlaino outright."
+ },
+ "openQuestionsResolved": [
+  {
+   "question": "Birth act in San Mango d'Aquino 1866-1910 registers (not on Antenati; FamilySearch 1866-1910 collection)",
+   "answer": "Church baptism found instead: Maria Philumena Ferlaino, b. 8 Oct 1894, bapt. 9 Oct 1894 (Book 13, image 65, no. 61). The civil act (Nati 1894) is still unread.",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "question": "Death date (FS shows 'Deceased', no date)",
+   "answer": "14 Mar 1965, South Abington Twp., Lackawanna Co., PA, age 69, certificate file 027518 (PA death index).",
+   "sourceRefs": [
+    "S3"
+   ]
+  },
+  {
+   "question": "Helen's PA death certificate (names parents) - would confirm Ferlaino",
+   "answer": "Index entry found (1965, file 027518). The certificate falls inside Ancestry's Pennsylvania Death Certificates 1906-1970 collection; not yet viewed.",
+   "sourceRefs": [
+    "S3"
+   ]
+  }
+ ],
+ "openQuestionsNew": [
+  "Order or view PA death certificate 1965 file 027518 (Ancestry \"Pennsylvania, U.S., Death Certificates, 1906-1970\").",
+  "San Mango civil birth act, Nati 1894 (FamilySearch \"Italia, Catanzaro, Stato Civile\" 1866-1910)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1888-1901 (Book 13), image 65, p. 125, no. 61; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1888-1901'.",
+   "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Maria Philomena Ferlaino b. 8 Oct 1894, bapt. 9 Oct 1894; parents Leopoldus Ferlaino and Josepha Fiorillo; sponsor Xaveria Sacco (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+  },
+  {
+   "ref": "S2",
+   "citation": "San Mango d'Aquino, San Tommaso d'Aquino parish, Battesimi 1888-1901 (Book 13), photograph 'Book 13 (65).jpg', p. 195 (MS), entry 61, M[ari]a Philumena Ferlaino; read by me (Latin): 'baptizavi infantem pridie natam ex Leopoldo Ferlaino et Josepha Fiorillo, cui nomen M[ari]a Philumena impositum est'.",
+   "url": "https://drive.usercontent.google.com/download?id=1H3Xnxq1LsAd42jJhZ83sPsAnGduoRqx8&export=download&confirm=t",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Baptism of Helen as Maria Philumena, parents Leopoldo Ferlaino and Josepha Fiorillo"
+  },
+  {
+   "ref": "S3",
+   "citation": "Pennsylvania State Archives, death-certificate index, 1965, C-D volume, PDF p. 92: COGNETTI HELEN, 69, S ABTN T, county 35, 03/14/65, file 027518, res. 35001.",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Death 14 Mar 1965"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "Baptism of Maria Philumena (Helen) Ferlaino, San Mango d'Aquino, 9 Oct 1894",
+   "date": "1894-10-09",
+   "pageUrl": "https://drive.google.com/embeddedfolderview?id=1sy_guK45siVzApsnsfDTPxbdGgOhK_WY",
+   "directUrl": "https://drive.usercontent.google.com/download?id=1H3Xnxq1LsAd42jJhZ83sPsAnGduoRqx8&export=download&confirm=t",
+   "repository": "Parish of San Tommaso d'Aquino, San Mango d'Aquino; photographs shared via ItalianParishRecords.org (Google Drive)",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "localPath": "",
+   "people": [
+    "I282695503581",
+    "I282697102554",
+    "I282824815192"
+   ],
+   "suggestedFile": "media/I282695503581/baptism-1894-san-mango.jpg",
+   "note": "Image is upside-down; entry 61 on the left-hand page. Volunteer photograph of a church register; reuse terms not stated."
+  },
+  {
+   "type": "document",
+   "title": "PA death index 1965: Helen Cognetti",
+   "date": "1965",
+   "pageUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+   "directUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1965/D-65%20C-D.pdf",
+   "repository": "Pennsylvania State Archives",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "localPath": "",
+   "people": [
+    "I282695503581"
+   ],
+   "suggestedFile": "media/I282695503581/pa-death-index-1965.pdf",
+   "note": "PDF page 92 (C-D volume)."
+  }
+ ],
+ "researchLogEntry": "Round 4: found baptism (Maria Filomena Ferlaino, 8 Oct 1894, San Mango) naming Leopoldo and Giuseppina, and PA death index 14 Mar 1965; recommend confirmed and merge with duplicate Filomena."
+}

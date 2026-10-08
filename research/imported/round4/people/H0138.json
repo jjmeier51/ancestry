@@ -1,0 +1,57 @@
+{
+ "id": "H0138",
+ "name": "Joseph Vincent Connole",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1890",
+   "place": "Plymouth, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "residences": [
+   {
+    "date": "1940",
+    "place": "Ward 4, Wilkes-Barre",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Passenger arrival",
+    "date": "1936",
+    "place": "New York",
+    "description": "Passenger/crew list entry, New York, 1936 (FS index; image attached)",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "conflicts": [
+  {
+   "field": "birth.date",
+   "siteValue": "1889",
+   "foundValue": "1890 (FS)",
+   "sourceRefs": [
+    "S1"
+   ],
+   "assessment": "Minor."
+  }
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Joseph V Connole (b. 1890), PID GC1H-264; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Census 1900-1940; 1936 NY passenger list",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GC1H-264"
+  }
+ ],
+ "researchLogEntry": "Round 4: FS residences and 1936 passenger list."
+}

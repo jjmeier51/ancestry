@@ -22,6 +22,8 @@
     "S154": "Record-index note about a naturalization entry.",
     "S155": "Research confirmation note (an obituary).",
     "S156": "Research note on name collisions in search results.",
-    "S158": "Correction note on a son who was not in the family."
+    "S158": "Correction note on a son who was not in the family.",
+    "S176": "research correction, not a family story",
+    "S186": "evidence discussion, not a family story"
   }
 }

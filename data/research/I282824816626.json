@@ -11,11 +11,33 @@
   "residences": [],
   "military": [],
   "notable": "",
-  "sources": [],
+  "sources": [
+    "[R4-S1] 1880 U.S. census, Plymouth Township, Luzerne Co., Pa., Sup. Dist. 5, ED 144, p.21 (stamped 363A), enumerated 11 Jun 1880 by M. C. Russell, dwelling 99, family 133 (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/0/image.jpg"
+  ],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Jones-42657 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch L85M-P2Q (Edward F Jones): no parents attached"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: flagged impossible generation gap with son Edward F. Jones (b. c.1840)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282824816626.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1826 (Catherine Williams) / 16 Jun 1828 (Richard John Jones)",
+      "found": "Their supposed son Edward F. Jones was 40 in the 1880 census (b. c.1840, Wales)",
+      "assessment": "Parents born 1826/1828 would have been 12-14 at Edward's birth; a Richard John Jones who died in Llanfair, Montgomeryshire in 1903 is unlikely to be the father of a Pennsylvania miner. This Welsh couple looks like a mis-matched Ancestry hint for a very common name. Recommend treating as unverified/doubtful. A lead: the household next door in 1880 was Evan W. Jones, 60, and Martha, 52, both Welsh-born, who are of the right age to be Edward's parents or kin (unproven)."
     }
   ]
 }

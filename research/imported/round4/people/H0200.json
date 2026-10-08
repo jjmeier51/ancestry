@@ -1,0 +1,61 @@
+{
+  "id": "H0200",
+  "name": "Philip Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "9 Jan 1753 (bapt. 14 Jan 1753)",
+      "place": "Jettenbach",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "before 7 Apr 1812",
+      "place": "Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "residences": [
+      {
+        "date": "1810",
+        "place": "Luzerne Co. ('Phillip Croop', 1810 census)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1779",
+        "place": "",
+        "description": "To Maria Elisabeth Eweritz (b. 1759), per FamilySearch",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KNC5-16R"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Philip's baptism as 14 Jan 1753 at Jettenbach (born 9 Jan, citing the German baptism index), so he was born in the Palatinate a year before the family emigrated. It records his marriage in 1779 to Maria Elisabeth Eweritz, finds him as 'Phillip Croop' in Luzerne Co. in the 1810 census, and gives his death as before 7 Apr 1812 in Luzerne (S1). Like his brother Frederick, he moved to the Wyoming Valley.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Philip Grub (KNC5-16R), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KNC5-16R",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives bapt. 14 Jan 1753 Jettenbach, m. 1779, 1810 census in Luzerne, d. before 7 Apr 1812."
+}

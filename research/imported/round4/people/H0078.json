@@ -1,0 +1,78 @@
+{
+  "id": "H0078",
+  "name": "Gretha Catharina Jung",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Mother at baptisms",
+        "date": "Aug 1684; 1687",
+        "place": "Jettenbach (Reichenbach Lutheran parish)",
+        "description": "Named as Peter Grub's wife 'Gretha Catharina' (1684) and 'Margretha Catharina' (1687)",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The site's 'Gretha Catharina Jung' merges two women. Johann Peter Grub's first wife was Gretha (Margretha) Catharina, named in the Reichenbach baptisms of their daughters in 1684 and 1687 (S1, S2). FamilySearch gives her surname as unknown and her death as before Oct 1694 (S3). On 19 Oct 1694 Peter married Elisabetha Catharina Jung (c.1674-1734), daughter of Paul Jung and Maria Barbara of Jettenbach. It is she who died on 28 Mar 1734, the death date the site gives this person (S4). If Johann Nickel Grub (c.1694) was born before October 1694, as FamilySearch has it, John descends from the first wife, whose surname is unknown, and not from the Jungs through this line. The Jungs remain John's ancestors either way, through Maria Sara Jung, mother of Elisabetha Margaretha Lampert (see H0075 and H0082).",
+  "conflicts": [
+    {
+      "field": "identity",
+      "siteValue": "Gretha Catharina Jung, d. 28 Mar 1734, daughter of Paul Jung",
+      "foundValue": "Two wives: Gretha/Margretha Catharina (surname unknown, d. before Oct 1694) and Elisabetha Catharina Jung (m. 19 Oct 1694, d. 28 Mar 1734)",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "assessment": "Split into two people. Which one was Nickel's mother depends on his baptism date; FamilySearch says the first wife."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "possible",
+    "justification": "As a single person she is a merge; John's ancestress is probably the first wife, whose surname is unknown."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Reichenbach Lutheran register, baptisms 1684 p.7 (Anna Catharina Grub)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/1/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "wife Gretha Catharina in 1684"
+    },
+    {
+      "ref": "S2",
+      "citation": "Reichenbach Lutheran register, baptisms 1687 p.10 (Margretha Catharina Grub)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PSFH-GPD/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "wife Margretha Catharina in 1687"
+    },
+    {
+      "ref": "S3",
+      "citation": "FamilySearch published tree, Gretha Catharina (PSFH-GPD), d. before Oct 1694",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PSFH-GPD",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "first wife, children to 1694"
+    },
+    {
+      "ref": "S4",
+      "citation": "FamilySearch published tree, Elisabetha Catharina Jung (MCWX-YDH): m. 19 Oct 1694, d. 28 Mar 1734, parents Paul Jung and Maria Barbara",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/MCWX-YDH",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "second wife"
+    }
+  ],
+  "openQuestionsNew": [
+    "Split this record: first wife Gretha/Margretha Catharina (surname unknown) versus Elisabetha Catharina Jung. Nickel's baptism decides which was John's ancestress."
+  ],
+  "researchLogEntry": "Round 4: register entries of 1684/1687 and FamilySearch show she is a merge of Peter Grub's first wife (d. before 1694) and second wife Elisabetha Catharina Jung (d. 1734)."
+}

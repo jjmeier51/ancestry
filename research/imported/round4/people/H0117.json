@@ -1,0 +1,64 @@
+{
+ "id": "H0117",
+ "name": "Josephine R. Heffernan",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "burial": {
+   "cemetery": "Chapel of the Chimes Columbarium and Mausoleum",
+   "place": "Oakland, Alameda Co., Calif.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "residences": [
+   {
+    "date": "1920",
+    "place": "Piedmont, Calif.",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1930",
+    "place": "Berkeley, Calif.",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1950",
+    "place": "Oakland, Calif.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "G3Q2-PCB"
+   }
+  ]
+ },
+ "bioAdditions": "FamilySearch identifies her husband as George Julius Wagner (b. California 27 Jan 1876, d. 1927; WWI draft registration in Alameda Co.), and two daughters, Josephine Eugenia (1909-1976) and Mary Georgia (1911-2008). She was widowed at about 43 and lived another 57 years, in Piedmont, Berkeley and Oakland (S1, S2).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Josephine R Hefferman (1883-1984), PID G3Q2-PCB; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Residences, burial, daughters",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3Q2-PCB"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree (published), George Julius Wagner (1876-1927), PID G6DD-FJ2; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, draft card, California death index",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G6DD-FJ2"
+  }
+ ],
+ "researchLogEntry": "Round 4: husband George Julius Wagner (1876-1927), daughters and California residences from FS."
+}

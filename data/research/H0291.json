@@ -10,13 +10,14 @@
   ],
   "tags": [],
   "summary": "Harvard's first class (1642); Brookhaven's first minister; not an ancestor, and his kinship now hinges on the Brewster question.",
-  "bio": "Graduated in Harvard's first class (1642). At Walberswick, Suffolk in 1649; minister of Alby and Thwaite, Norfolk; Cromwell sent him to Ireland in 1655 with Henry Cromwell. Brookhaven's first minister. Sources disagree whether he was born in America or Bristol. His father-in-law Roger Ludlow 'removed to Virginia in 1654' (actually visited his brother George there, then went to Ireland) — in-law only. Cannot qualify John for the Colonial Clergy society (collateral).",
+  "bio": "Graduated in Harvard's first class (1642). At Walberswick, Suffolk in 1649; minister of Alby and Thwaite, Norfolk; Cromwell sent him to Ireland in 1655 with Henry Cromwell. Brookhaven's first minister. Sources disagree whether he was born in America or Bristol. His father-in-law Roger Ludlow 'removed to Virginia in 1654' (actually visited his brother George there, then went to Ireland) — in-law only. Cannot qualify John for the Colonial Clergy society (collateral).\n\nThompson ([R4-S1]) states that Rev. Nathaniel Brewster's wife was a daughter of Roger Ludlow, deputy-governor of Massachusetts and framer of Connecticut's code, and that their daughter Hannah married John Muncy and then Samuel Thompson.",
   "sources": [
     "We're History, https://werehistory.org/harvard-1642-americas-first-commencement/",
     "Champlin (1915)",
     "Thompson vol. 3",
     "Wikipedia: Roger Ludlow",
-    "Miner Descent, https://minerdescent.com/2011/01/16/societies"
+    "Miner Descent, https://minerdescent.com/2011/01/16/societies",
+    "[R4-S1] B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296 (secondary) https://archive.org/details/historyoflongisl003thom"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -27,6 +28,22 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0258, probable): Thompson 1918"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Wikipedia 'Nathaniel Brewster' (no article)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Ludlow marriage noted from Thompson; kinship unchanged."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0291.json."
     }
   ]
 }

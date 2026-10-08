@@ -9,7 +9,8 @@
   "summary": "John's great-aunt; sister of grandmother Kathryn.",
   "sources": [
     "FamilySearch G3PC-RT7",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] FamilySearch Family Tree (published), Jane Clair McGuire (1924-2005), PID G3PC-RT7; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PC-RT7"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -20,6 +21,41 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FS marriage 1949 to Elvin Roger Nagle; 1950 census W-B."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0061.json."
+    }
+  ],
+  "burial": {
+    "place": "Altoona, Blair Co., Pa."
+  },
+  "aka": [
+    "Jane Claire McGuire Nagle"
+  ],
+  "residences": [
+    {
+      "date": "1950-04-11",
+      "place": "Wilkes-Barre, Pa.",
+      "note": "1950 census as Jane Nagle [R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1949-08-03",
+      "place": "Luzerne Co., Pa.",
+      "description": "Married Elvin Roger Nagle (1925-1974); Luzerne County marriage record (\"Jane Claire McGuire\") attached on FS [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "G3PC-RT7"
     }
   ]
 }

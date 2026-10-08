@@ -26,7 +26,7 @@
     "notable"
   ],
   "summary": "John's 11th-great-grandfather; Wethersfield deputy, Connecticut charter patentee and Southampton magistrate.",
-  "bio": "Baptized 'Thomas Toppyn' at Totternhoe, Bedfordshire, 19 Mar 1608/9, son of John. Married Emma Aldridge at Dunstable 16 Nov 1628; eldest son Thomas baptized at Totternhoe 25 Oct 1629. A Wraysbury, Bucks., court roll of 12 Apr 1636 names him one of two overseers reporting that 'all was well with the water courses' (Wraysbury parish contains Magna Carta Island). At Wethersfield, Conn., by 1639 and its deputy to the CT General Court in 1639; Milford 1639/40; then Southampton. 'Topping's Purchase': Indian deeds of 1662 and 1666, paid with 20 fathoms of wampum. Named in King Charles II's 1662 charter for Connecticut — Savage: 'one of the company to whom King Charles granted his letters patent for the Colony of Connecticut' (Conn. Hist. Soc. Coll. 3:306). Married three times. In 1686 deeded his Southampton lands to sons Elnathan and James. Died at Branford, Dec 1687 (1687/8), 'many years a magistrate'. Howell's 1887 'refugee from religious persecution' is family tradition only. Society of Colonial Wars: captain, magistrate, deputy — qualifying, but route depends on Temperance's parentage. Round 1 moved him from 10th to 11th great-grandfather (13 generations). TREE: 'Captain T I Topping 1608–1687 + Emma C Aldridge… 1610–1665 (ship image)', shown as father of John Topping (1636–1686) — that line (John → Josiah → Jerusha) is removed.",
+  "bio": "Baptized 'Thomas Toppyn' at Totternhoe, Bedfordshire, 19 Mar 1608/9, son of John. Married Emma Aldridge at Dunstable 16 Nov 1628; eldest son Thomas baptized at Totternhoe 25 Oct 1629. A Wraysbury, Bucks., court roll of 12 Apr 1636 names him one of two overseers reporting that 'all was well with the water courses' (Wraysbury parish contains Magna Carta Island). At Wethersfield, Conn., by 1639 and its deputy to the CT General Court in 1639; Milford 1639/40; then Southampton. 'Topping's Purchase': Indian deeds of 1662 and 1666, paid with 20 fathoms of wampum. Named in King Charles II's 1662 charter for Connecticut — Savage: 'one of the company to whom King Charles granted his letters patent for the Colony of Connecticut' (Conn. Hist. Soc. Coll. 3:306). Married three times. In 1686 deeded his Southampton lands to sons Elnathan and James. Died at Branford, Dec 1687 (1687/8), 'many years a magistrate'. Howell's 1887 'refugee from religious persecution' is family tradition only. Society of Colonial Wars: captain, magistrate, deputy — qualifying, but route depends on Temperance's parentage. Round 1 moved him from 10th to 11th great-grandfather (13 generations). TREE: 'Captain T I Topping 1608–1687 + Emma C Aldridge… 1610–1665 (ship image)', shown as father of John Topping (1636–1686) — that line (John → Josiah → Jerusha) is removed.\n\nSavage (vol. 4, p. 255) records that Thomas Topping of Milford joined the Milford church 'with his w. Emma in 1640' and 'had Elnathan, bapt. 2 Aug. of that yr. and James, 12 Feb. 1643' ([R4-S1]). That fixes Capt. Elnathan's baptism, 2 Aug 1640. Savage also notes the 20 Oct 1666 marriage contract with Mary, widow of Timothy Baldwin, the third wife Lydia (widow of John Wilford) by June 1678, and the 5 Oct 1686 Branford deed of his Southampton lands to sons Elnathan and James ([R4-S1], [R4-S2]).",
   "notable": "Patentee in the 1662 Connecticut charter.",
   "residences": [
     {
@@ -86,7 +86,9 @@
     "Gyll, History of Wraysbury, Ankerwycke Priory and Magna Charta Island (1862)",
     "Howell (1887) pp. 395–397",
     "Savage; Conn. Hist. Soc. Coll. 3:306",
-    "jrm Needham I2547, https://jrm.phys.ksu.edu/genealogy/needham/d0005/I2547.html"
+    "jrm Needham I2547, https://jrm.phys.ksu.edu/genealogy/needham/d0005/I2547.html",
+    "[R4-S1] James Savage, A Genealogical Dictionary of the First Settlers of New England, vol. 4 (1862), p. 255, entry TAPPAN/TOPPING, Thomas of Milford (secondary) https://archive.org/details/genealogicaldic04savarich",
+    "[R4-S2] WikiTree Topping-121 (Thomas Topping), biography read via api.wikitree.com: Dunstable marriage 16 Nov 1628 (Dunstable parish register, Beds. CRO 1951); seven children; second marriage contract 20 Oct 1666 with Mary, widow of John Mapham and Timothy Baldwin; third wife Lydia, widow of John Wilford (derivative) https://www.wikitree.com/wiki/Topping-121"
   ],
   "mediaKnown": [
     "Tree card with ship image"
@@ -111,6 +113,18 @@
     {
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 19 Mar 1608; research: 1609-03-19."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Totternhoe register image for the 1608/9 baptism: none found online"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Savage confirms Elnathan bapt. Milford 2 Aug 1640 as son of Thomas and Emma; Totternhoe image not found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608083519.json."
     }
   ],
   "media": [

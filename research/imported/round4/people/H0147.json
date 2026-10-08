@@ -1,0 +1,119 @@
+{
+  "id": "H0147",
+  "name": "Caleb Pringle",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1839-06",
+      "place": "Luzerne Co., PA",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    },
+    "death": {
+      "date": "1919-04-22",
+      "place": "Rolla, Phelps Co., MO (burial Rolla Cemetery)",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "burial": {
+      "place": "Rolla Cemetery, Rolla Twp., Phelps Co., MO",
+      "sourceRefs": [
+        "S2"
+      ]
+    },
+    "events": [
+      {
+        "title": "Civil War service",
+        "date": "1861-11-04 to 1864-11-05",
+        "place": "Co. G, 52nd PA Infantry",
+        "description": "Iowa GAR card: 'Pringle, Caleb A', born 1839 Penn; Prvt., Co. G, 52 Pa. Inf.; enlisted 4 Nov 1861, discharged 5 Nov 1864 at expiration of term. Card sources: Schee, 'Biog. data old soldiers O'Brien co. 1909', 'Formerly resided at Sanborn', and Bates.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Residences",
+        "date": "1860-1910",
+        "place": "Salem Twp., Luzerne Co., PA (1860, 1870); Rockford Twp., Floyd Co., IA (1880); Clay Co., IA (1885); Sanborn, O'Brien Co., IA; Rolla, Phelps Co., MO (1900, 1910)",
+        "description": "From the FamilySearch tree's census-based residence events (1885 Iowa census attached) and the GAR card.",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "An Iowa GAR membership card names a 'Caleb A' Pringle, born 1839 in Pennsylvania, who was a private in Co. G, 52nd PA Infantry, enlisted 4 Nov 1861 and discharged 5 Nov 1864 at the end of his term. The card also says he 'formerly resided at Sanborn' in O'Brien Co. (S1). The FamilySearch tree for Caleb Atherton Pringle, son of Benjamin Pringle and Charity Gould, attaches this card. It places him in Salem Twp., Luzerne Co., in 1860 and again in 1870, then in Floyd Co., Iowa (1880), Clay Co., Iowa (1885) and Rolla, Missouri (1900, 1910). He died on 22 Apr 1919 and is buried in Rolla Cemetery (S2). The middle initial A, the 1839 Pennsylvania birth and the 52nd PA service match on both, so the soldier and the cousin are the same man.",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0146",
+      "evidence": "FS KZGR-Z9K parents Benjamin Pringle and Charity Gould; Giles & Franklin",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "parent",
+      "personId": "H0435",
+      "evidence": "same",
+      "sourceRefs": [
+        "S2"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Iowa GAR membership card, Caleb A. Pringle (Co. G, 52nd PA Inf.)",
+      "date": "",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/KZGR-Z9K",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KZGR-Z9K/images/i/1/image.jpg",
+      "repository": "FamilySearch (Iowa GAR Membership Records 1861-1949)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0147/iowa-gar-card-caleb-a-pringle.jpg",
+      "people": [
+        "H0147"
+      ],
+      "suggestedFile": "media/H0147/iowa-gar-card-caleb-a-pringle.jpg",
+      "note": "Iowa state government index card (WPA-era compilation)."
+    }
+  ],
+  "openQuestionsNew": [
+    "The FS tree shows a pension event dated 1907-1933. His Civil War pension file (Caleb A. Pringle, Co. G, 52nd PA) would name his wife and children and confirm his parents' county.",
+    "Wife and children unknown; look in the 1880/1900 censuses."
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "confirmed",
+    "justification": "The GAR card ties Caleb A. Pringle (b. 1839 PA) to Co. G, 52nd PA, and the FS tree ties Caleb Atherton (b. 1839, Salem Twp. 1860/1870) to Benjamin and Charity. Name, birth year, state and unit all agree."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Iowa, Grand Army of the Republic Membership Records, 1861-1949: card for Caleb A. Pringle (FamilySearch record Q23N-3HG9; image via published tree)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KZGR-Z9K/images/i/1/image.jpg",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth 1839 Penn; Pvt. Co. G 52nd PA Inf.; enlistment and discharge dates; Sanborn residence"
+    },
+    {
+      "citation": "FamilySearch published tree, Caleb Atherton Pringle KZGR-Z9K",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/Caleb Atherton Pringle KZGR-Z9K",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "middle name, birth Jun 1839, residences 1860-1910, death 22 Apr 1919, burial Rolla Cemetery; attached sources: 1885 Iowa census, Iowa GAR card, Find a Grave index",
+      "ref": "S2"
+    }
+  ],
+  "researchLogEntry": "Round 4: Iowa GAR card for Caleb A. Pringle (Co. G, 52nd PA) and FS KZGR-Z9K (Caleb Atherton, d. 22 Apr 1919 Rolla, MO) confirm the soldier is Benjamin's son. Card image downloaded.",
+  "researchedAt": "2026-10-08"
+}

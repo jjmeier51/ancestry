@@ -1,0 +1,49 @@
+{
+  "id": "H0009",
+  "name": "William F. Meier Jr.",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "",
+        "place": "",
+        "description": "Wife: Nancy Anne (Stahl) Meier (1930 – 13 May 2009, of Clermont, Florida). She had earlier been married to a Jack Stahl, so Stahl may be a married name.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GF3P-DRK"
+      }
+    ]
+  },
+  "bioAdditions": "The FamilySearch tree links William Jr. (d. 29 Feb 2004) to a wife, Nancy Anne Stahl Meier. She died on 13 May 2009 at Clermont, Florida (S1). The tree also cites a NUMIDENT entry for him and an obituary from the 'United States, Obituary Records, 2014–2023' collection, but both source images returned HTTP 404 from the public endpoint, so neither was read.",
+  "openQuestionsNew": [
+    "Read William F. Meier Jr.'s obituary (FamilySearch 1:1:XMZ3-FPDF) and Nancy Stahl Meier's (1:1:QK2P-7S8D, 1:1:XMK2-9SZ5) in a signed-in session. They should give his place of death and burial."
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "No change."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch Family Tree, William F. Meier Jr. (GF3P-DRK) and Nancy Stahl (GV6C-8WZ), published-tree JSON",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GF3P-DRK",
+      "class": "tertiary",
+      "accessed": "2026-10-08",
+      "supports": "Spouse; her death 13 May 2009 at Clermont, FL"
+    }
+  ],
+  "media": [],
+  "searchedNoResult": [
+    "FamilySearch source images for the obituary (GF3P-DRK i/1): HTTP 404"
+  ],
+  "researchLogEntry": "Round 4: FamilySearch names his wife, Nancy Anne Stahl Meier (d. 2009, Clermont FL). The obituary images could not be loaded.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "H0286",
+  "name": "William Floyd",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "17 Dec 1734",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Path verified in Pelletreau (S1): Bull Smith -> Jonathan (eldest son, m. Sarah Brewster) -> Jonathan 2d (b. 9 Nov 1676, m. Elizabeth Platt) -> Tabitha (b. 18 Feb 1704, d. 17 Jan 1755, m. Nicoll Floyd, d. 8 Mar 1755 aged 50) -> William, signer of the Declaration: 3rd cousin 8 times removed. Pelletreau lists his siblings Ruth (Mrs Gen. Nathaniel Woodhull), Tabitha (Mrs Daniel Smith), Nicoll, Charles, Charity (Mrs Ezra L'Hommedieu), Mary (Mrs Edmund Smith), Catherine (Mrs Gen. Thomas Thomas) and Anna (Mrs Hugh Smith).",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Each generation in Pelletreau; Brewster route dropped (Round 3)."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 464-465, 486",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Jonathan Smith line; Floyd family list"
+    }
+  ],
+  "media": [
+    {
+      "type": "portrait",
+      "title": "William Floyd, by Ralph Earl",
+      "date": "1792",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:William_floyd.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/William_floyd.jpg",
+      "repository": "Wikimedia Commons (source cited: Long Island History Journal, Stony Brook)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0286/william-floyd-earl-1792.jpg",
+      "people": [
+        "H0286"
+      ],
+      "suggestedFile": "media/H0286/william-floyd-earl-1792.jpg",
+      "note": "Commons licence: Public domain (1792 painting)."
+    }
+  ],
+  "researchLogEntry": "Round 4: Pelletreau confirms each generation (3C8R); PD Earl portrait downloaded.",
+  "researchedAt": "2026-10-08"
+}

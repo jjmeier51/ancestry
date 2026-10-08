@@ -1,0 +1,32 @@
+{
+  "id": "H0291",
+  "name": "Nathaniel Brewster",
+  "status": "researched",
+  "bioAdditions": "Thompson (S1) states that Rev. Nathaniel Brewster's wife was a daughter of Roger Ludlow, deputy-governor of Massachusetts and framer of Connecticut's code, and that their daughter Hannah married John Muncy and then Samuel Thompson.",
+  "relationships": [
+    {
+      "type": "child",
+      "personId": "H0258",
+      "evidence": "Thompson 1918",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Rev. Nathaniel Brewster's wife a daughter of Roger Ludlow; daughter Hannah"
+    }
+  ],
+  "searchedNoResult": [
+    "Wikipedia 'Nathaniel Brewster' (no article)"
+  ],
+  "researchLogEntry": "Round 4: Ludlow marriage noted from Thompson; kinship unchanged.",
+  "researchedAt": "2026-10-08"
+}

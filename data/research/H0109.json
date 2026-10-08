@@ -7,10 +7,11 @@
   "sex": "F",
   "tags": [],
   "summary": "Sibling of John's great-grandmother Florence Pringle (great-grand-aunt of John).",
-  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1912, listed in the 1910 census (Plymouth/Larksville) household. No further research done.",
+  "bio": "Child of Addison F. Pringle and Catherine E. Heffernan, born about 1912, listed in the 1910 census (Plymouth/Larksville) household. No further research done.\n\nFamilySearch gives Katherine (Catherine) a birth year of 1911 and records her marriage in Luzerne Co. on 20 Jun 1936 to Daniel F. Toole (1911-1996). It places her in Wilkes-Barre in 1950 and gives 1969 as her death year ([R4-S1]). Since she was born in 1911, she was presumably the youngest child, not 'about 1912'. A WWII draft card for 'Catherine Toole' is attached, which probably means she was named as the contact on her husband's card.",
   "sources": [
     "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
-    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11"
+    "research/notes/round2/irish_pa_gaps.md A4 and tree additions item 11",
+    "[R4-S1] FamilySearch published tree, Catherine Pringle (GQ6X-VZG), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GQ6X-VZG"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -21,6 +22,54 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives 1911-1969 and m. 1936 Daniel F. Toole."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0109.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1912",
+      "found": "1911",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "birth": {
+    "date": "1912",
+    "place": "Pennsylvania"
+  },
+  "death": {
+    "date": "1969"
+  },
+  "aka": [
+    "Katherine Pringle",
+    "Catherine Toole"
+  ],
+  "residences": [
+    {
+      "date": "1950",
+      "place": "Wilkes-Barre",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1936-06-20",
+      "place": "Luzerne Co., PA",
+      "description": "To Daniel F. Toole (1911-1996) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "GQ6X-VZG"
     }
   ]
 }

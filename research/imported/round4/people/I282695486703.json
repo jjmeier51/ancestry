@@ -1,0 +1,28 @@
+{
+  "id": "I282695486703",
+  "name": "Anna Tuthill Symmes",
+  "status": "researched",
+  "conflicts": [
+    {
+      "field": "identity",
+      "siteValue": "Separate record 'Anna Tuthill Symmes' (b. 26 Jul 1775, d. 25 Feb 1864)",
+      "foundValue": "Same person as I282695486911 'Anna Symmes Harrison' (First Lady; Wikipedia: b. 25 Jul 1775, d. 25 Feb 1864)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Duplicate record; merge into I282695486911. Also note: this record's parents are swapped (Anna Tuthill shown as father, John Cleves Symmes as mother). Birth day differs by one (26 vs 25 Jul 1775)."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Anna Harrison' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Anna_Harrison",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Birth 25 Jul 1775, death 25 Feb 1864; first lady"
+    }
+  ],
+  "researchLogEntry": "Round 4: identified as a duplicate of Anna Symmes Harrison (I282695486911); parent roles swapped.",
+  "researchedAt": "2026-10-08"
+}

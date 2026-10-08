@@ -1,0 +1,44 @@
+{
+ "id": "H0419",
+ "name": "Louise Easen",
+ "researchedAt": "2026-10-08",
+ "status": "researched",
+ "updates": {
+  "birth": {
+   "date": "1878-08-04",
+   "place": "England",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1960-06-16",
+   "place": "Philadelphia, Pa.",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "burial": {
+   "place": "Dallas, Luzerne Co., Pa. (Fern Knoll)",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Louisa Essen (marriage index)",
+   "Louise E. Heffernan"
+  ]
+ },
+ "bioAdditions": "Louise Easen was born in England on 4 Aug 1878 to Thomas Easen (1848-1932) and Mary Barnes (1850-1921) and came to America as an infant (1879/80). She married Thomas F. Heffernan on 20 Jun 1900 (Luzerne marriage index as \"Louisa Essen\"), was living in Wilkes-Barre in 1950, and died in Philadelphia on 16 Jun 1960 (S1).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "FamilySearch Family Tree (published), Louise Easen (1878-1960), PID LWT9-2LD; user-contributed tree with attached record index entries",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Birth, parents, immigration, marriage, death, burial",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LWT9-2LD"
+  }
+ ],
+ "researchLogEntry": "Round 4: parents, birth and death from FS."
+}

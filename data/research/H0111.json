@@ -10,7 +10,7 @@
     "politician"
   ],
   "summary": "John's 2nd-great-grand-uncle (brother of Catherine E. Heffernan Pringle); Wilkes-Barre postmaster under Theodore Roosevelt and Taft and owner of the Sunday Independent.",
-  "bio": "Thomas F. Heffernan (10 Mar 1871 - 28 Feb 1951) taught three years in the Plymouth schools, then worked 13 years at the Wilkes-Barre Record. He was assistant county treasurer in 1901 and postmaster of Wilkes-Barre 1907-16 (8 years 11 months), appointed by Theodore Roosevelt in 1907 and reappointed by Taft in 1911. With John A. Hourigan he turned the Morning News into the Evening News (1909). In 1913 he bought the Sunday Independent from John J. Maloney and incorporated it in 1915 with his brothers John V. and George P.; net circulation was 18,777 per issue in 1926 and about 22,000 by 1929, as 'the only Sunday journal' in the valley. Republican; trustee of Mercy Hospital; director of the Wilkes-Barre Deposit & Savings Bank. He married Louise Easen (b. England) at Mauch Chunk in 1900; one son, Thomas E. (b. 1902). Buried Fern Knoll Cemetery, Dallas. The family still ran the Sunday Independent in the 1960s-70s, including through the 1972 and 1978-79 Wilkes-Barre newspaper strikes. The paper's 1913-1958 run is digitized by the Osterhout Free Library on POWER Library. Dwyer credits a portrait of him to Prominent Men, Wilkes-Barre (1906).",
+  "bio": "Thomas F. Heffernan (10 Mar 1871 - 28 Feb 1951) taught three years in the Plymouth schools, then worked 13 years at the Wilkes-Barre Record. He was assistant county treasurer in 1901 and postmaster of Wilkes-Barre 1907-16 (8 years 11 months), appointed by Theodore Roosevelt in 1907 and reappointed by Taft in 1911. With John A. Hourigan he turned the Morning News into the Evening News (1909). In 1913 he bought the Sunday Independent from John J. Maloney and incorporated it in 1915 with his brothers John V. and George P.; net circulation was 18,777 per issue in 1926 and about 22,000 by 1929, as 'the only Sunday journal' in the valley. Republican; trustee of Mercy Hospital; director of the Wilkes-Barre Deposit & Savings Bank. He married Louise Easen (b. England) at Mauch Chunk in 1900; one son, Thomas E. (b. 1902). Buried Fern Knoll Cemetery, Dallas. The family still ran the Sunday Independent in the 1960s-70s, including through the 1972 and 1978-79 Wilkes-Barre newspaper strikes. The paper's 1913-1958 run is digitized by the Osterhout Free Library on POWER Library. Dwyer credits a portrait of him to Prominent Men, Wilkes-Barre (1906).\n\nA 1906 portrait of Thomas F. Heffernan appears as no. 1114 in Prominent Men of Wilkes-Barre and Vicinity ([R4-S2]). Its caption-key adds facts not in the earlier sketches: educated at Wyoming Seminary, married Louise Easen on 20 June 1900, chairman of the Luzerne County Republican Committee during the 1903, 1904 and 1905 campaigns, and president of the Press Club of Wilkes-Barre. That was the year before Roosevelt made him postmaster. The state death index lists him on 28 Feb 1951, Wilkes-Barre, file 14086 ([R4-S1]). FamilySearch gives 27 Feb 1951 and burial at Fern Knoll, Dallas Twp ([R4-S3]).",
   "notable": "Postmaster of Wilkes-Barre 1907-16; owner of the Sunday Independent from 1913",
   "sources": [
     "Harvey & Smith, A History of Wilkes-Barre, vol. VI p.460: https://archive.org/details/historyofwilkesb06harv/page/460/mode/1up",
@@ -18,7 +18,10 @@
     "Harvey & Smith vol. IV postmaster list: https://archive.org/details/historyofwilkesb04harv",
     "Editor & Publisher 23 Jan 1960: https://archive.org/details/sim_editor-publisher_1960-01-23_93_4 ; E&P 1972: https://archive.org/details/sim_editor-publisher_1972-08-05_105_32",
     "POWER Library: https://powerlibrary.org/?p=173",
-    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh"
+    "Michael Dwyer, Heffernans of Slieveardagh (Welsh Hill Press, 2020), Branch 4 (and Branch 3), working from the Killenaule and Gortnahoe Catholic parish registers: https://archive.org/details/heffernans-of-slieveardagh",
+    "[R4-S1] Pennsylvania Department of Health death certificate index, 1951 (PA State Archives RG-11), PDF p.20: \"THOMAS F HEFFERNAN  WLKS BRE H 165  40  02 28 51  14086\" (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1951/D-51%20H-J.pdf",
+    "[R4-S2] Prominent Men: Scranton and Vicinity, Wilkes-Barre and Vicinity... (1906), portrait no. 1114, p.280, and biographical key (secondary) https://archive.org/details/prominentmenscra00stod",
+    "[R4-S3] FamilySearch Family Tree (published), Thomas Francis Heffernan (1871-1951), PID LYYR-YNQ; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LYYR-YNQ"
   ],
   "mediaKnown": [
     "Portrait in Prominent Men, Wilkes-Barre (1906)"
@@ -33,6 +36,64 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1906 portrait and bio key found (Prominent Men no. 1114; downloaded); 1951 death index file 14086."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0111.json."
+    }
+  ],
+  "death": {
+    "date": "1951-02-28",
+    "place": "Wilkes-Barre, Pa."
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1900-06-20",
+      "description": "Married Louise Easen (b. England 4 Aug 1878, d. Philadelphia 16 Jun 1960, dau. of Thomas Easen & Mary Barnes) [R4-S2] [R4-S3]"
+    },
+    {
+      "title": "Chairman, Luzerne County Republican Committee",
+      "date": "1903-1905",
+      "description": "Chaired the county Republican committee in the campaigns of 1903, 1904 and 1905; president of the Press Club of Wilkes-Barre [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "PA death certificate file no.",
+      "value": "1951 #14086 (THOMAS F HEFFERNAN, WLKS BRE, 02-28-51)"
+    },
+    {
+      "label": "FamilySearch ID",
+      "value": "LYYR-YNQ"
+    }
+  ],
+  "funFacts": [
+    "He ran the county Republican campaigns in 1903-05 and headed the Press Club of Wilkes-Barre before becoming postmaster."
+  ],
+  "conflicts": [
+    {
+      "field": "death.date",
+      "site": "1951-02-28",
+      "found": "27 Feb 1951 (FamilySearch)",
+      "assessment": "The official index says 28 Feb; keep 28 Feb."
+    }
+  ],
+  "photo": "media/H0111/prominent-men-1906-portrait-1114.jpg",
+  "media": [
+    {
+      "file": "media/H0111/prominent-men-1906-portrait-1114.jpg",
+      "type": "photo",
+      "title": "Thos. F. Heffernan, portrait no. 1114, Prominent Men of Wilkes-Barre (1906)",
+      "date": "1906",
+      "source": "Internet Archive (book scan), public_domain",
+      "note": "US book published 1906; IA marks NOT_IN_COPYRIGHT. Cropped from the full page (also saved as media/H0111/prominent-men-1906-p280-page.jpg).",
+      "people": [],
+      "url": "https://archive.org/details/prominentmenscra00stod/page/n299/mode/1up"
     }
   ]
 }

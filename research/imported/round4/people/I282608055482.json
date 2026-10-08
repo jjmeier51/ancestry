@@ -1,0 +1,74 @@
+{
+  "id": "I282608055482",
+  "name": "Keturah Tuttle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "1775",
+        "place": "Cornwall Precinct, Orange Co., NY",
+        "note": "Her husband Thomas Lamoureux and probable brothers James Tuttle and John Tuthill all signed the 1775 Articles of Association in Cornwall Precinct",
+        "sourceRefs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "No record found this round names Keturah's parents directly, so her parentage stays probable. New circumstantial support: the 1775 Cornwall Precinct association list carries both 'James Tuttle' and 'John Tuthill' as well as her husband Thomas Lamoureux (S3). On Alva Tuttle's reconstruction these are her twin brothers James and John (b. 1753). Her mother Temperance Smith's place in the family of James Smith & Jerusha Topping is now backed by two independent printed authorities: Pelletreau (1898) and C. H. Weygant's Family Record (1897), which names James and Jerusha's daughters Eunice, Keturah, Temperance and Jerusha and puts Capt. Austin and Capt. Francis Smith, their sons, at Woodbury Clove 'some twenty years or more' before the Revolution (S1, S2). Keturah was evidently named for her aunt Keturah Smith.\n\nThe printed list of pre-1784 New York marriage licenses has no Lamoreaux-Tuthill (or Tuthill-Smith) entry, so these marriages were probably by banns (S4).",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "I282608055634",
+      "evidence": "Temperance appears among the daughters of James Smith & Jerusha Topping in two independent compiled sources (Pelletreau 1898; Weygant 1897). Keturah's own children bear the names Temperance and Keturah, and her husband served under Temperance's brother Capt. Francis Smith.",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsNew": [
+    "Is there a Cornwall/Monroe church record (e.g. Bethlehem Presbyterian) of Keturah's marriage to Thomas Lamoreaux, c. 1772?"
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Temperance and Keturah among the children of James Smith & Jerusha Topping"
+    },
+    {
+      "ref": "S2",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Jerusha daughter of Elnathan Topping Jr.; children of James & Jerusha incl. Keturah and Temperance; Austin and Francis Smith at Woodbury Clove before the Revolution"
+    },
+    {
+      "ref": "S3",
+      "citation": "Ruttenber & Clark, History of Orange County (1881), Articles of Association 1775, Cornwall Precinct signers (c. pp. 68-69)",
+      "url": "https://archive.org/details/historyoforangec00rut",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "James Tuttle, John Tuthill and Thomas Lamoureux all signed in Cornwall Precinct, 1775"
+    },
+    {
+      "ref": "S4",
+      "citation": "Names of Persons for Whom Marriage Licenses Were Issued by the Secretary of the Province of New York, Previous to 1784 (Albany, 1860), full text searched",
+      "url": "https://archive.org/details/namesofpersonsfo00newy",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "negative: no Lamoreaux or Tuthill marriage license"
+    }
+  ],
+  "searchedNoResult": [
+    "NY marriage licenses before 1784 (1860 printed list, full text): no Tuthill/Tuttle-Smith license; no Lamoreaux-Tuthill license",
+    "Abstracts of Wills, NY Surrogate (NYHS Collections), all volumes 1730-1784 on archive.org, full text: no will or administration for John Tuthill of Cornwall/Woodbury Clove, James Tuthill (d. c.1772) or Temperance Tuthill; no will of James Smith of Moriches",
+    "Find a Grave 269816651: not re-fetched (site blocked in earlier rounds)"
+  ],
+  "researchLogEntry": "Round 4: added Weygant 1897 as a second independent source for the Smith-Topping family and found 1775 Cornwall association signers James Tuttle and John Tuthill; marriage licenses and NY will abstracts negative."
+}

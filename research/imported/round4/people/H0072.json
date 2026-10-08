@@ -1,0 +1,78 @@
+{
+  "id": "H0072",
+  "name": "Maria Elisabetha Christmann",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "9 Aug 1729 (bapt. 14 Aug 1729, 9th Sunday after Trinity)",
+      "place": "Kollweiler (Reichenbach Lutheran parish)",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Her baptism is now read in the original Reichenbach Lutheran register (page 115, 1729): under 9 August, Jacob Christmann of Kollweiler and his wife Anna Margaretha had a daughter born, baptized on the 14th (9th Sunday after Trinity), and named Maria Elisabetha; the godparents included a Conrad ... of Nanzweiler and a Maria Elisabetha (S1). This confirms the 9 August 1729 birth and gives her mother's first name, Anna Margaretha. FamilySearch calls the mother 'Anna Margarethe Raab' and gives the parents' marriage as 24 Nov 1722 at Kollweiler (S2); the surname Raab is not in the baptism entry and is unverified.",
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0076",
+      "evidence": "Baptism names father Jacob Christmann of Kollweiler",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "openQuestionsNew": [
+    "Mother Anna Margaretha's maiden name (FamilySearch: Raab) - check the Reichenbach marriage register for 24 Nov 1722."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Evangelisch-lutherische Kirche Reichenbach (Pfalz), Kirchenbuch, Geborne und Getauffte 1729, p.115, entry of 9 Aug 1729 (FamilySearch 'Deutschland, ausgewählte evangelische Kirchenbücher', index ark 1:1:X78Z-2H2L, image attached to tree 99JD-KQH)",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/99JD-KQH/images/i/2/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "birth 9 Aug, bapt. 14 Aug 1729; parents Jacob and Anna Margaretha Christmann of Kollweiler"
+    },
+    {
+      "ref": "S2",
+      "citation": "FamilySearch published tree, Maria Elisabetha Christmann (99JD-KQH)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/99JD-KQH",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "mother 'Anna Margarethe Raab'; second marriage c.1795; d. 19 Jan 1815; Easton Cemetery"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Reichenbach Lutheran baptisms 1729 p.115: Maria Elisabetha Christmann",
+      "date": "1729-08-14",
+      "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/99JD-KQH",
+      "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/99JD-KQH/images/i/2/image.jpg",
+      "repository": "FamilySearch (German Lutheran church book)",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0072",
+        "H0076"
+      ],
+      "suggestedFile": "",
+      "note": "Church-book image; rights unclear, not downloaded."
+    }
+  ],
+  "researchLogEntry": "Round 4: read her 1729 Reichenbach baptism (b. 9 Aug, bapt. 14 Aug; parents Jacob and Anna Margaretha Christmann of Kollweiler).",
+  "openQuestionsResolved": [
+    {
+      "question": "Kollweiler baptism image.",
+      "answer": "Read: Reichenbach Lutheran register 1729 p.115, born 9 Aug, baptized 14 Aug 1729, daughter of Jacob Christmann of Kollweiler and Anna Margaretha.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ]
+}

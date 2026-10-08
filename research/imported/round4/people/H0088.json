@@ -1,0 +1,67 @@
+{
+  "id": "H0088",
+  "name": "Thomas Davenport",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Will",
+        "date": "10 Oct 1746",
+        "place": "Philipse's Precinct, Dutchess Co., NY",
+        "description": "'Sick and weak in body.' Leaves £30 to wife Elizabeth; £5 to son Thomas (already provided for); £60 to son William; £10 each to the children of daughters Sarah Mandeville, Mary (by Jacobus Henion) and Elizabeth Nelson; residue to minor children Oliver, Charity, Phebe, Robert, Hannah, Stephen and Abigail, boys taking double shares; a Negro is among the goods left to his wife for bringing up the children. Executors: wife Elizabeth, son Thomas and John Nellson. Witnesses: Joseph Geecocks (Jaycox) and Hannah Sobee (Seeley?).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Highway commissioner",
+        "date": "1745-1749",
+        "place": "South Precinct, Dutchess Co.",
+        "description": "Named a commissioner to lay out highways in 1745 and served through 1749, 'designated in the record as Captain Thomas Davenport'; first among Dutchess freeholders in 1740.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "death": {
+      "date": "30 Dec 1759",
+      "place": "Philipstown, Dutchess (now Putnam) Co., NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "The full text of his will, dated 10 Oct 1746 while he was 'sick and weak in body', is printed in the Davenport genealogy (S1). He recovered and lived until at least 25 Aug 1759, when, according to the family Bible, he presented that Bible to his grandson Thomas (born 11 Apr 1750). The will divides his family in two. The first family is sons Thomas and William, plus the children of his married daughters Sarah Mandeville, Mary Henion and Elizabeth Nelson. The second family is seven minor children, Oliver, Charity, Phebe, Robert, Hannah, Stephen and Abigail, left in the care of his wife Elizabeth. He owned at least one enslaved person, left to his wife for bringing up the children (S1). The book gives his rank of captain only from the highway-commissioner record of 1745-49, so 'Captain' may be a courtesy or militia title. No militia commission was found, which matters for any Society of Colonial Wars claim. The genealogy gives his death date as 30 Dec 1759 (S1).",
+  "openQuestionsResolved": [
+    {
+      "question": "Which wife was Charity's mother.",
+      "answer": "The second wife, Elizabeth. The 1746 will groups Charity with the seven minor children she was bringing up.",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "The will links him to Charity (and so to Jean Lamoreaux), but it is known only through the printed transcript; the Lamoreaux-to-Pringle links are still secondary."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Giles, Thomas Davenport, Pioneer, and His Descendants: will of Thomas Davenport dated 10 Oct 1746 (transcribed), highway commissioner 1745-49, family Bible",
+      "url": "https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "will, children, office, alive 1759"
+    }
+  ],
+  "openQuestionsNew": [
+    "Society of Colonial Wars: find a militia commission (NY colonial muster rolls, e.g. NYHS Collections 1891/1896, 'Muster Rolls of New York Provincial Troops') for Capt. Thomas Davenport of Dutchess; the highway record alone may not qualify."
+  ],
+  "researchLogEntry": "Round 4: read the transcript of his 10 Oct 1746 will (two families; seven minors with wife Elizabeth; an enslaved person) and the 1745-49 highway-commissioner record behind 'Captain'.",
+  "searchedNoResult": [
+    "Muster Rolls of New York Provincial Troops 1755-1764 (NYHS Collections 1891, archive.org musterrollsofnew24newy full text): no Davenport entries; these rolls start after his commissioner years anyway"
+  ]
+}

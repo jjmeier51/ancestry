@@ -23,6 +23,18 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Morgan-33181 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch L85M-PG2: no events, no sources; NYC death 28 Aug 1884: free NYC historical vital records index not reachable from here (JS app); not verified"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: unsourced; the tree's NYC death 28 Aug 1884 should be checked in the NYC Municipal Archives death index (certificate would give age, birthplace, parents)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695504587.json."
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "H0488",
+  "name": "William Lawrence Jr.",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1680",
+        "place": "",
+        "description": "Married Deborah, daughter of Richard Smith, patentee of Smithtown, 'the youngest sister of Elizabeth' (his stepmother).",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Son of William Lawrence of Flushing by his first wife (S1). Lawrence 1858 lists among his and Deborah's children Obediah (d. 1732), Daniel (d. 1757, m. Mary Redwood of Antigua and Newport), Samuel (of Black Stump), Joshua (d. abroad) and Adam (legislator and High Sheriff of Queens, d. 1780). His stepmother Elizabeth was his wife's sister. In-law (his children are John's cousins through Deborah).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Thomas Lawrence, Historical Genealogy of the Lawrence Family (1858) (archive.org full text), pp. 24-27, 34",
+      "url": "https://archive.org/details/historicalgeneal00lawr",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "William Jr. m. 1680 Deborah Smith; their children Obediah, Daniel, Samuel, Joshua, Adam"
+    }
+  ],
+  "researchLogEntry": "Round 4: marriage and children from Lawrence 1858; in-law.",
+  "researchedAt": "2026-10-08"
+}

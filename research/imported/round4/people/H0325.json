@@ -1,0 +1,38 @@
+{
+  "id": "H0325",
+  "name": "Selah Tuthill",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "26 Oct 1771",
+      "place": "Blooming Grove, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "7 Sep 1821",
+      "place": "Goshen, NY",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Elected to the 17th Congress in April 1821 but died before taking his seat; Assembly member for Ulster (1804-05) and Orange (1820) (S1). His parents are still not documented; no Tuthill genealogy consulted names them (Akerly 1898 has no Selah).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'Selah Tuthill' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Selah_Tuthill",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates, offices"
+    }
+  ],
+  "searchedNoResult": [
+    "Akerly 1898 full text: no Selah Tuthill",
+    "Web search 'Selah Tuthill 1771 Blooming Grove parents Daniel Tuthill Anna Strong' (no source naming Selah as their son)"
+  ],
+  "researchLogEntry": "Round 4: dates from Wikipedia; parentage still unproven (speculative).",
+  "researchedAt": "2026-10-08"
+}

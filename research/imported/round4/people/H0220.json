@@ -1,0 +1,47 @@
+{
+  "id": "H0220",
+  "name": "Hannah Scott",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "17 Feb 1910",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "aka": [
+      "Hannah S. Jones"
+    ],
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1856",
+        "place": "Pennsylvania",
+        "description": "To John S. Jones (1834-1904)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G7LQ-QMP"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Hannah's marriage to John S. Jones (1834-1904) in 1856 and her death on 17 Feb 1910. It has a child born in Wales in 1861, so the couple apparently spent time in Wales (S1). A Social Security file for her son Frank Sylvester Jones names his mother as Hanna Scott.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Hannah Scott (G7LQ-QMP), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7LQ-QMP",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. 1856 John S. Jones (a child born in Wales 1861) and d. 17 Feb 1910."
+}

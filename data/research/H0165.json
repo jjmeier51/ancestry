@@ -10,7 +10,7 @@
     "patriot"
   ],
   "summary": "Probably John's 5th-great-grand-uncle (brother of Samuel Pringle); Revolutionary militia private, Orange County.",
-  "bio": "The Prindle Genealogy lists Benjamin Prindle and David Prindle as privates, 1st Regt., Orange Co. Militia (land bounty rights). Round 2 suggested Benjamin as Samuel's father (Samuel named his son Benjamin); Round 3 downgraded this - FamilySearch lists Benjamin (1764) as a son of James Prindle, i.e. Samuel's brother.",
+  "bio": "The Prindle Genealogy lists Benjamin Prindle and David Prindle as privates, 1st Regt., Orange Co. Militia (land bounty rights). Round 2 suggested Benjamin as Samuel's father (Samuel named his son Benjamin); Round 3 downgraded this - FamilySearch lists Benjamin (1764) as a son of James Prindle, i.e. Samuel's brother.\n\nIn 'New York in the Revolution', Benjamin and David Prindle appear on the same page as the Lamoreux men under the First Regiment of Orange County militia (land bounty rights) ([R4-S1]). In 1790 a David Prindle was living at New Cornwall, Orange Co., a few households from John Lomereaux and Oliver Davenport (see Jean Lamoreaux). So this Prindle family lived among the Lamoreaux family in Orange County, which explains how Samuel Pringle came to marry Martha Lamoreaux. FamilySearch gives Benjamin (b. 1764 in Connecticut, d. 1839) to James Prindle and Hannah (Anar) Turner of Newtown, alongside David (1757) and Samuel (1767), but attaches no sources to Benjamin ([R4-S2]).",
   "military": [
     {
       "branch": "Orange County, New York militia",
@@ -18,11 +18,16 @@
       "rank": "Private",
       "unit": "1st Regiment, Orange County Militia",
       "note": "Land bounty rights"
+    },
+    {
+      "note": "Benjamin Prindle and David Prindle are listed together under Orange County Militia, First Regiment (land bounty rights) in New York in the Revolution (1898), p.253. The same page lists a John Lamoreux, Isaac Lamore and Nicolas Lamarux. [R4-S1]"
     }
   ],
   "sources": [
     "The Prindle Genealogy (1906) appendix p.280: https://archive.org/details/prindlegenealogy00prin",
-    "FamilySearch G99D-9DZ / L8MP-W4X"
+    "FamilySearch G99D-9DZ / L8MP-W4X",
+    "[R4-S1] Roberts (ed.), New York in the Revolution as Colony and State (1898), p.253, Orange County Militia (Land Bounty Rights), First Regiment (derivative) https://archive.org/stream/newyorkinrevolut00robe/newyorkinrevolut00robe_djvu.txt",
+    "[R4-S2] FamilySearch published tree, Benjamin Pringle (L8MP-W4V) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L8MP-W4V"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -33,6 +38,17 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: listed with David Prindle and the Lamoreux men in the 1st Orange Co. regiment; FamilySearch has 1764-1839, unsourced."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0165.json."
     }
-  ]
+  ],
+  "death": {
+    "date": "1839"
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "id": "H0469",
+  "name": "John Muncy",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "12 Jun 1707",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage to Hannah Brewster",
+        "date": "16 Jan 1703",
+        "place": "Brookhaven, NY",
+        "description": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Married Hannah Brewster 16 Jan 1703; died 12 Jun 1707 (Thompson vol. 3 p. 296).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Muncy marriage and death dates"
+    }
+  ],
+  "researchLogEntry": "Round 4: marriage and death dates from Thompson.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "H0517",
+  "name": "Richard Smith",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Richard Smith 5th",
+      "Richard Smith, Esq., of Nissequogue"
+    ],
+    "birth": {
+      "date": "1770",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1831",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "NEW-605",
+      "evidence": "Pelletreau: 'Richard Smith, 4th, died in 1811. He married Sarah, daughter of Edmund Smith, 2d. Their children were: 1. Richard, 5th, known as \"Richard Smith, Esq.\" He was born 1770 and died 1831. He married Eliza W., daughter of Henry Nicoll'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "spouse",
+      "personId": "H0483",
+      "evidence": "same",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "This record is the key to a closer cousinship for the J. Lawrence Smith family. Pelletreau (S1) makes him the son of Richard Smith 4th (d. 1811), whose parents were Ebenezer Smith (son of Richard 2d) and Anna, daughter of Job Smith 2d, son of Job Smith 1st, John's own 10th-great-grandfather. Path via Job: Job 1st -> Job 2d -> Anna -> Richard 4th -> Richard 5th, 4 generations below John's 10th-great-grandparents: 3rd cousin 7 times removed (and 3C8R via Bull Smith -> Richard 2d -> Ebenezer). His mother Sarah was a daughter of Edmund Smith 2d and Charity, another daughter of Job 2d, so he descends from Job 2d twice. Children with Eliza W. Nicoll: Hon. Edward Henry, Judge John Lawrence, Sarah (Mrs I. B. Fenno), Ann Eliza (Mrs Elliott Robins), Marcia (Mrs Crutchett) and Charlotte E. (Mrs David Harries).",
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Every generation stated in Pelletreau 1898 (Ebenezer & Anna, Richard 4th & Sarah, Richard 5th)."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466",
+      "url": "https://archive.org/details/recordstownsmit00pellgoog",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Richard 4th's children: Richard 5th b. 1770 d. 1831 m. Eliza W. Nicoll; their children; Ebenezer m. Anna dau. of Job 2d"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 475-476",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Edmund Smith 2d m. 1st Charity dau. of Job Smith 2d; daughter Sarah wife of Richard Smith 4th"
+    }
+  ],
+  "researchLogEntry": "Round 4: Pelletreau p. 466 (Google scan) identifies him as Richard 5th, son of Richard 4th and grandson of Ebenezer & Anna (Job 2d's daughter): 3C7R via Job Smith.",
+  "researchedAt": "2026-10-08"
+}

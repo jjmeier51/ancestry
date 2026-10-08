@@ -14,7 +14,7 @@
     "patriot"
   ],
   "summary": "John's 5th-great-grand-uncle; Revolutionary militia private (collateral - cannot be used for SAR/DAR).",
-  "bio": "Philip Grub/Croop (1753-1812) was born in Jettenbach, the eldest son of Andreas. He was a private in the 5th Company (Easton), 5th Battalion, Northampton County Militia, 1777-1780 (Pa. Archives 5th ser. vol. VIII p.120). He lived in Chestnuthill Twp in 1790 and 1800, signed the Newport Twp (Luzerne) survey agreement in 1805 as 'Philip Croup', and died in Newport in 1812; his will names 'my dear brother Frederick Grupe' co-executor (Luzerne Will Book A p.128).",
+  "bio": "Philip Grub/Croop (1753-1812) was born in Jettenbach, the eldest son of Andreas. He was a private in the 5th Company (Easton), 5th Battalion, Northampton County Militia, 1777-1780 (Pa. Archives 5th ser. vol. VIII p.120). He lived in Chestnuthill Twp in 1790 and 1800, signed the Newport Twp (Luzerne) survey agreement in 1805 as 'Philip Croup', and died in Newport in 1812; his will names 'my dear brother Frederick Grupe' co-executor (Luzerne Will Book A p.128).\n\nFamilySearch gives Philip's baptism as 14 Jan 1753 at Jettenbach (born 9 Jan, citing the German baptism index), so he was born in the Palatinate a year before the family emigrated. It records his marriage in 1779 to Maria Elisabeth Eweritz, finds him as 'Phillip Croop' in Luzerne Co. in the 1810 census, and gives his death as before 7 Apr 1812 in Luzerne ([R4-S1]). Like his brother Frederick, he moved to the Wyoming Valley.",
   "military": [
     {
       "branch": "Northampton County Militia",
@@ -27,7 +27,8 @@
   "sources": [
     "WikiTree Croup-9: https://www.wikitree.com/wiki/Croup-9",
     "Pa. Archives 5th ser. vol. VIII p.120",
-    "Bradsby pp.613-614: https://archive.org/details/historyofluzerne00brad"
+    "Bradsby pp.613-614: https://archive.org/details/historyofluzerne00brad",
+    "[R4-S1] FamilySearch published tree, Philip Grub (KNC5-16R), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KNC5-16R"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -38,6 +39,43 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives bapt. 14 Jan 1753 Jettenbach, m. 1779, 1810 census in Luzerne, d. before 7 Apr 1812."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0200.json."
+    }
+  ],
+  "birth": {
+    "date": "1753-01-09",
+    "place": "Jettenbach"
+  },
+  "death": {
+    "date": "BEF 7 Apr 1812",
+    "place": "Luzerne Co., PA"
+  },
+  "residences": [
+    {
+      "date": "1810",
+      "place": "Luzerne Co. ('Phillip Croop', 1810 census)",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1779",
+      "place": "",
+      "description": "To Maria Elisabeth Eweritz (b. 1759), per FamilySearch [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "KNC5-16R"
     }
   ]
 }

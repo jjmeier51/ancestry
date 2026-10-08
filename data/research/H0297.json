@@ -8,7 +8,8 @@
   "tags": [],
   "summary": "17th president of the College of William & Mary; John's 6th cousin 5x removed.",
   "sources": [
-    "Wikipedia, https://en.wikipedia.org/wiki/Lyon_Gardiner_Tyler"
+    "Wikipedia, https://en.wikipedia.org/wiki/Lyon_Gardiner_Tyler",
+    "[R4-S1] Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149 (secondary) https://archive.org/details/liongardinerhisd00gard"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -19,6 +20,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: PD 1915 photograph downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0297.json."
     }
   ],
   "media": [
@@ -45,7 +54,18 @@
       "source": "Wikimedia Commons, Public domain; https://commons.wikimedia.org/wiki/File:Lyon_Gardiner_Tylor.jpg",
       "note": "Unknown authorUnknown author",
       "file": "media/H0297/lyon-gardiner-tyler-portrait.jpg"
+    },
+    {
+      "file": "media/H0297/lyon-gardiner-tyler-1915.png",
+      "type": "photo",
+      "title": "Lyon Gardiner Tyler in academic dress (frontispiece, Encyclopedia of Virginia Biography vol. IV)",
+      "date": "1915",
+      "source": "Wikimedia Commons, public_domain",
+      "note": "Public domain (published 1915). 1280px derivative.",
+      "people": [],
+      "url": "https://commons.wikimedia.org/wiki/File:Lyon_Gardiner_Tyler_in_academic_dress.png"
     }
   ],
-  "photo": "media/H0297/lyon-gardiner-tyler-portrait.jpg"
+  "photo": "media/H0297/lyon-gardiner-tyler-portrait.jpg",
+  "bio": "6th cousin 5 times removed; listed as son 'Lyon-G.' of Juliana and President Tyler ([R4-S1])."
 }

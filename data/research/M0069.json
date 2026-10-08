@@ -1,0 +1,20 @@
+{
+  "id": "M0069",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282608055956 (probable); child of I282608055916 (probable)."
+  },
+  "tags": [],
+  "summary": "",
+  "bio": "",
+  "sources": [
+    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston ... and Southold (1898), pp. 6-7, John Tuthill no. 3 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-501 → M0069; research/imported/round4/new_people.json."
+    }
+  ]
+}

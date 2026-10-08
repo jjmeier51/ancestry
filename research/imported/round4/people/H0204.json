@@ -1,0 +1,44 @@
+{
+  "id": "H0204",
+  "name": "Elizabeth Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "5 Jun 1761 (bapt. 5 Jul 1761)",
+      "place": "Tohickon Reformed Church, Bucks Co.",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1783",
+        "place": "",
+        "description": "To Peter Michael (1760-1831)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LCV6-18T"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch gives Maria Elizabeth's baptism as 5 Jul 1761 at the Tohickon Reformed Church, Bucks Co. (born 5 Jun), citing Historical Society of Pennsylvania baptism cards. That is the same congregation where Casper Doll's daughter was baptized in 1757. It gives her marriage to Peter Michael in 1783, with children in Forks Twp from 1784 (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Elizabeth Grub (LCV6-18T), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LCV6-18T",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives bapt. 5 Jul 1761 Tohickon and m. 1783 Peter Michael."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "I282608056003",
+  "name": "Mary YOUNGS",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "The Southold town records print the deed of gift of 26 Dec 1678 by 'Mary Mapes of Southold ... the relect of William Wells ... and now wife to Thomas Mapes Junr' to her son-in-law John Yongs and 'Mary Yongs his wife my daughter' (S1). This is the wife of William Wells (the tree's 'Mary Youngs'). The record shows her second husband was Thomas Mapes Jr. and that her daughter, not she, married a Youngs. A 1677 entry mentions her son William Wells being taught a trade (S1). Her maiden name is unknown. The tree's 'daughter of Rev. John Youngs' is not supported: Youngs 1907 lists no such daughter (S2).",
+  "conflicts": [
+    {
+      "field": "surname / father",
+      "siteValue": "Mary 'Maria' Youngs, daughter of Rev. John Youngs",
+      "foundValue": "Mary (maiden name unknown), widow of William Wells, later wife of Thomas Mapes Jr.; her daughter Mary married John Youngs",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Rename her 'Mary (Unknown) Wells Mapes' and detach Rev. John Youngs."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0461",
+      "evidence": "1678 deed: 'now wife to Thomas Mapes Junr'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Her identity as William Wells's widow and Mehitable's mother stands. Only the Youngs maiden name and parentage should be dropped."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "J. Wickham Case, ed., Southold Town Records, vol. 1 (1882), pp. 302-303: deed of gift 26 Dec 1678 (recorded 3 Apr 1679) by 'Mary Mapes of Southold ... the relect of William Wells of ye sd Town ... lately desceased, and now wife to Thomas Mapes Junr', who had received all Wells's lands and goods by his deed of gift, to 'my son in law John Yongs, in right of his wife and to Mary Yongs his wife my daughter' (witnesses Thomas Mapes, William Wells); also an entry (Liber page 141, 1677) of meadow had 'of Mary Mapes formerly ye wife of Mr William Wells, in part of pay for teaching her son William his tread'",
+      "url": "https://archive.org/details/southoldtownreco0000jwic",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Mary Mapes, relict of William Wells, wife of Thomas Mapes Jr., 1678"
+    },
+    {
+      "ref": "S2",
+      "citation": "Selah Youngs Jr., Youngs Family: Vicar Christopher Yonges, his ancestors in England and his descendants in America (1907), pp. 38-41 (First and Second Generations)",
+      "url": "https://archive.org/details/youngsfamilyvica00youn",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Rev. John Youngs's children: no Mary who married Wells"
+    }
+  ],
+  "researchLogEntry": "Round 4: the 1678 Mapes deed proves her 2nd husband Thomas Mapes Jr. and that 'Youngs' was her daughter's married name."
+}

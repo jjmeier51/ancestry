@@ -1,0 +1,37 @@
+{
+  "id": "H0484",
+  "name": "Stanford White",
+  "status": "researched",
+  "bioAdditions": "Architect, husband of John's cousin Bessie Springs Smith; in-law. Wikipedia's J. Lawrence Smith article notes that his brother-in-law James Clinch Smith witnessed White's murder (1906) (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wikipedia, 'J. Lawrence Smith (New York politician)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(New_York_politician)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Bessie m. Stanford White; James Clinch Smith witnessed White's murder"
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Stanford White, photograph by George Cox",
+      "date": "c. 1892",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Stanford_White_by_George_Cox_ca._1892.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stanford_White_by_George_Cox_ca._1892.jpg",
+      "repository": "Wikimedia Commons (Smithsonian Institution; restored by Adam Cuerden)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0484/stanford-white-cox-c1892.jpg",
+      "people": [
+        "H0484"
+      ],
+      "suggestedFile": "media/H0484/stanford-white-cox-c1892.jpg",
+      "note": "Commons licence: Public domain."
+    }
+  ],
+  "researchLogEntry": "Round 4: PD Cox photograph catalogued; in-law.",
+  "researchedAt": "2026-10-08"
+}

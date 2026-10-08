@@ -1,19 +1,21 @@
 {
   "id": "H0081",
   "link": {
-    "confidence": "probable",
-    "note": "WikiTree Doll-527."
+    "confidence": "confirmed",
+    "note": "WikiTree Doll-527. Round 4 (probable → confirmed): Her marriage and son Caspar's baptism are read in the Ulmet register."
   },
   "sex": "F",
   "tags": [
     "immigrant"
   ],
   "summary": "John's 8th-great-grandmother (if the Doll link holds); of the Schuch family of Ulmet.",
-  "bio": "Mother of Johann Casper Doll. Her Schuch kin apparently sailed with Casper in 1739: 'Christ. Shook, 48' on the Samuel list; a Johann Christian Jacob Schuch b. 4 May 1690 at Ulmet, d. 1768 Springfield Twp, Bucks Co. (GEDBAS 1402009472, from an Ancestry tree).",
+  "bio": "Mother of Johann Casper Doll. Her Schuch kin apparently sailed with Casper in 1739: 'Christ. Shook, 48' on the Samuel list; a Johann Christian Jacob Schuch b. 4 May 1690 at Ulmet, d. 1768 Springfield Twp, Bucks Co. (GEDBAS 1402009472, from an Ancestry tree).\n\nHer marriage entry of 2 Mar 1704 at Ulmet calls her Sara, daughter of Joh. Peter Schuch ([R4-S1]). FamilySearch calls her Sara Margaretha Schuch, born at Rathsweiler on 11 Jan 1686 (baptized 28 Mar), daughter of Hans Peter Schuch (1661-1747) and Anna Maria Käppel ([R4-S2]). It also has her emigrating: she died at Tohickon, Bucks Co., Pennsylvania, on 3 Apr 1760 and was buried at Bedminster. The source for that is a Historical Society of Pennsylvania burial card for 'Sarah Doll', whose image came back empty ([R4-S2]). If correct, she came over with her son Caspar's group in 1739, and women were not listed on those ships. She would then have lived near the Tohickon Reformed congregation, where Caspar's daughter Anna Catharina was baptized in 1757. The site's 'Anna Sara' should probably be 'Sara (Margaretha)'.",
   "sources": [
     "WikiTree Doll-527 (Johann Casper Doll; FamilySearch N5BL-88G): https://www.wikitree.com/wiki/Doll-527",
     "GEDBAS 1402009472: https://gedbas.genealogy.net/person/show/1402009472",
-    "Strassburger & Hinke, Pennsylvania German Pioneers vol. 1: https://archive.org/details/pennsylvaniagerm42stra List 69 A"
+    "Strassburger & Hinke, Pennsylvania German Pioneers vol. 1: https://archive.org/details/pennsylvaniagerm42stra List 69 A",
+    "[R4-S1] Ulmet Lutheran register, marriages 1704 p.459 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KLVK-Z6R/images/i/1/image.jpg",
+    "[R4-S2] FamilySearch published tree, Sara Margaretha Schuch (9X1W-N7P), citing Germany Births and Baptisms and HSP Deaths and Burials ('Sarah Doll') (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/9X1W-N7P"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -24,6 +26,58 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Her marriage and son Caspar's baptism are read in the Ulmet register."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: the 1704 marriage names her father Joh. Peter Schuch; FamilySearch has her b. 1686 Rathsweiler and d. 1760 at Tohickon, Bucks Co. (she emigrated)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0081.json."
     }
+  ],
+  "birth": {
+    "date": "1686-01-11",
+    "place": "Rathsweiler, Ulmet parish"
+  },
+  "death": {
+    "date": "1760-04-03",
+    "place": "Tohickon, Bucks Co., Pennsylvania"
+  },
+  "burial": {
+    "place": "Bedminster, Bucks Co., PA (FamilySearch, 4 Apr 1760)"
+  },
+  "aka": [
+    "Sara Margaretha Schuch",
+    "Sarah Doll"
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1704-03-02",
+      "place": "Ulmet",
+      "description": "Married Johann Christoffel Doll; she is 'Sara, Joh. Peter Schuchen Tochter' [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "9X1W-N7P"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "name",
+      "site": "Anna Sara",
+      "found": "Sara (1704 marriage; 1722 baptism 'Anna Sara'); Sara Margaretha (FamilySearch)",
+      "assessment": "Both forms occur; keep Sara as the core name."
+    }
+  ],
+  "openQuestions": [
+    "Confirm her death in 1760 at Tohickon (HSP burial card 'Sarah Doll'; Tohickon Reformed or Bedminster burial records)."
   ]
 }

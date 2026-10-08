@@ -1,0 +1,121 @@
+{
+  "id": "H0151",
+  "name": "Huldah Ives",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "1886-12-29",
+      "place": "Plymouth Twp., Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "burial": {
+      "date": "1887-01-03",
+      "place": "Shawnee Cemetery, Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage to Samuel Pringle Jr.",
+        "date": "1824",
+        "place": "Plymouth, Luzerne Co., PA",
+        "description": "Per the FS tree (no record cited).",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Census residences",
+        "date": "1850-1880",
+        "place": "Plymouth, Luzerne Co., PA",
+        "description": "The FS tree attaches the 1850, 1870 and 1880 censuses for Hulda/Huldah Pringle in Plymouth.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch tree LH7R-KFK gives Hulda's parents as Josiah Ives Jr. (1770-1849, d. Michigan) and Lucy Williams (1768-1850), married in Plymouth on 26 Mar 1791. That fits the 'Lucy Ives, 87' in her 1850 household. The tree lists her siblings as Orin Almond, Martha, Lucinda, Henry B., Joseph, Josiah, Richard J. and Almon Church Ives. It also says she married Samuel D. Pringle (H0150) in 1824, that he died on 25 Mar 1847, and that she died in Plymouth Twp. on 29 Dec 1886 and was buried in Shawnee Cemetery on 3 Jan 1887. Her will was proved in 1887. Children in the tree: Mary Ann (b. Jan 1826, d. 1907), Orange (H0153), George Ransom (H0152), Elmira (b. 1831), Keturah (H0154), Hannah Jane (1836-1895), Lucinda (1841-1903) and Sarah (b. 1 Aug 1843, d. 1917) (S1). The Philip Minchart, 26, a carpenter living in her house in 1850, is almost certainly the Philip Manhart (1823-1910) whom her daughter Keturah married as her second husband in 1883.",
+  "conflicts": [
+    {
+      "field": "birth.place",
+      "siteValue": "New York (1850 census)",
+      "foundValue": "Plymouth Twp., Luzerne Co., PA (FS tree)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "The 1850 census, a primary source, says New York; the FS tree gives no source for Plymouth. Keep New York."
+    },
+    {
+      "field": "spouse death date",
+      "siteValue": "",
+      "foundValue": "FS gives 25 Mar 1847 for both Samuel D. Pringle (husband) and Samuel Pringle Sr. (G99D-9DZ, his father)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "An identical death date for father and son suggests one date has been copied onto the other. Unresolved."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0150",
+      "evidence": "1850 census widow household; FS tree",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0152",
+      "evidence": "1850 census; FS",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0153",
+      "evidence": "1850 census; FS",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "child",
+      "personId": "H0154",
+      "evidence": "1850 census; FS",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsNew": [
+    "Josiah Ives Jr. and Lucy Williams as parents: tree only. Lucy Ives, 87, in her 1850 household supports the mother.",
+    "Joshua Lamoreaux married a Martha Ives; FS lists a sister Martha Ives b. 1798, which supports the Ives-Lamoreaux link (Martha Lamoreaux was Samuel Sr.'s wife)."
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "1850 census plus an FS tree with 1870/1880 censuses and a death and burial date matching her 1887 will."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Hulda Ives LH7R-KFK",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LH7R-KFK",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "parents, siblings, marriage 1824, children, death 29 Dec 1886, burial Shawnee Cemetery 3 Jan 1887; attached 1850/1870/1880 censuses"
+    }
+  ],
+  "researchLogEntry": "Round 4: FS LH7R-KFK gives parents Josiah Ives Jr. and Lucy Williams, d. 29 Dec 1886, burial Shawnee Cemetery, eight children. Philip Minchart in her 1850 household = later son-in-law Philip Manhart.",
+  "researchedAt": "2026-10-08"
+}

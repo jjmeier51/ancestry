@@ -1,0 +1,1942 @@
+[
+ {
+  "id": "NEW-201",
+  "name": "Mary McGuire (Mrs. Michael E. Riley)",
+  "sex": "F",
+  "birth": {
+   "date": "1858-11-03",
+   "place": "Bloomsburg area, Pa. (FS)"
+  },
+  "death": {
+   "date": "1942-06-04",
+   "place": "Plymouth, Luzerne Co., Pa."
+  },
+  "burial": {
+   "cemetery": "St. Vincent's Cemetery",
+   "place": "Larksville, Pa."
+  },
+  "bio": "Daughter of Edward McGuire and Mary Jane Gaffney; age 12 in the 1870 Danville household. Married Michael E. Riley (1850-1892) and was widowed young; children Celia (1882-1938), Edward A. (1884-1907), James Aloysius (1885-1939), Johanna Gertrude (1886-1957), Mary A. (1888-1950, m. Daniel F. Burns) and Eugene Francis (1890-1918). Lived in Plymouth 1880-1940. Sister of James McGuire (I282604494274), so John's 3rd-great-grand-aunt.",
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "I282604494274",
+    "evidence": "Same parents on FS; both in 1870 household",
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "H0003",
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch tree L1RT-FT3, Mary McGuire (1858-1942)",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates, spouse, children; attached 1900 census, Find a Grave index, daughter's marriage record naming her as Mary McGuire",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L1RT-FT3"
+   },
+   {
+    "ref": "S2",
+    "citation": "1870 census, Mahoning Twp, Montour Co.",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Mary 12 in Edward McGuire household",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg"
+   }
+  ]
+ },
+ {
+  "id": "NEW-202",
+  "name": "Cecilia Marcella McGuire (Mrs. Murdock Dunn, later Mrs. Samuel Wilson)",
+  "sex": "F",
+  "aka": [
+   "Scylia McGuire",
+   "Celia Dunn",
+   "\"Mesilla\" (1870 census)"
+  ],
+  "birth": {
+   "date": "1864-11-11",
+   "place": "Pennsylvania (licence: Plymouth)"
+  },
+  "death": {
+   "date": "1918-08-10",
+   "place": "Ladysmith, British Columbia, Canada"
+  },
+  "bio": "Daughter of Edward McGuire and Mary Jane Gaffney. Married Murdock \"Murt\" Dunn (b. 24 Dec 1862) at Plymouth, Pa., on 27 Dec [1886/87] (Luzerne licence 1790). The family emigrated to the Vancouver Island coalfield: in the 1901 Canadian census they were at South Wellington, Nanaimo, B.C. Murdock died in 1901; Cecilia remarried Samuel Wilson at Ladysmith in 1908 and died there in 1918. Children (FS): Thomas (1888-1937), Mary (1890-1935), Edward (1892-1909), Ellen (1894-1969), John Thomas (1897-1955), Murty Vincent (1902-1982). John's 3rd-great-grand-aunt.",
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "I282604494274",
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "H0003",
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch tree G3FP-1G7, Cecilia Marcella McGuire (1864-1918)",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Attached 1901 Canada census (Celia Dunn), BC birth registration of a child, PA marriage",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3FP-1G7"
+   },
+   {
+    "ref": "S2",
+    "citation": "Luzerne Co. Marriage License Docket no. 1790 (Denn-McGuire)",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Marriage at Plymouth, 27 Dec",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G3FP-1G7/images/i/2/image.jpg"
+   }
+  ]
+ },
+ {
+  "id": "NEW-203",
+  "name": "Edward McGuire (Jr.)",
+  "sex": "M",
+  "birth": {
+   "date": "abt 1856",
+   "place": "Pennsylvania"
+  },
+  "bio": "Eldest known son of Edward McGuire and Mary Jane Gaffney; 14 in the 1870 Danville census; FS attaches an 1880 census index entry (Ancestry). Later life unknown.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0003",
+    "strength": "probable"
+   },
+   {
+    "type": "sibling",
+    "personId": "I282604494274",
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "1870 census, Mahoning Twp, Montour Co.; FS GZQN-941",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Edward 14 in household",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GZQN-941"
+   }
+  ]
+ },
+ {
+  "id": "NEW-204",
+  "name": "Timothy McGuire",
+  "sex": "M",
+  "birth": {
+   "date": "abt 1865",
+   "place": "Pennsylvania"
+  },
+  "death": {
+   "date": "bef. 1880",
+   "place": "Luzerne Co., Pa. (FS)"
+  },
+  "bio": "Youngest child in the 1870 Danville household (age 3); FamilySearch says he died before 1880.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0003",
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "1870 census; FS G3FR-R9Z",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Timothy 3 in household",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3FR-R9Z"
+   }
+  ]
+ },
+ {
+  "id": "NEW-701",
+  "name": "Maria Giuseppa 'Josephine' Giannetta (Ragazzo)",
+  "sex": "F",
+  "status": "deceased (b. 1880)",
+  "updates": {
+   "birth": {
+    "date": "1880-03-11",
+    "place": "Bisaccia, Avellino, Campania, Italy",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "events": [
+    {
+     "title": "Marriage",
+     "date": "1902-11-24",
+     "place": "Bisaccia",
+     "description": "Married Michele Arcangelo Ragazzo (b. 3 Apr 1879 Trevico, d. 1960).",
+     "sourceRefs": [
+      "S1",
+      "S2"
+     ]
+    }
+   ],
+   "residences": [
+    {
+     "date": "1910-1920",
+     "place": "Hartford, Connecticut, USA",
+     "note": "Per FS tree (1910, 1920 census attachments)",
+     "sourceRefs": [
+      "S1"
+     ]
+    },
+    {
+     "date": "1930-1950",
+     "place": "Windsor, Hartford Co., Connecticut, USA",
+     "note": "Per FS tree",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ]
+  },
+  "bioAdditions": "According to the FamilySearch tree, Josephine was a younger sister of Frank Giannetta. She married Michele Arcangelo Ragazzo of Trevico in Bisaccia in 1902, and the couple emigrated in 1905–07 to Hartford, Connecticut, where they raised about nine children (Rosina, Carmine 'Charles', Pasqualina 'Nellie', Mary, Samuel August, Violet, Florence, Yolanda, Virginia). The tree attaches an Avellino civil birth index entry ('Maria Giuseppa Giannella') and a GenealogyBank obituary for 'Maria Josephine Gianetti Ragazzo'. Neither image could be opened here, so the sibling link is a candidate only.",
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "H0333",
+    "evidence": "FS tree names parents Savino Giannetta and Angelamaria Fede (same as Frank's); Bisaccia birth.",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   },
+   {
+    "type": "child",
+    "personId": "H0335",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile GCPQ-BCG, Maria Guiseppina \"Josephine\" Gianella (1880-), with attached 1920 census, GenealogyBank obituary index and Avellino Stato Civile index (ark 1:1:QPRY-TT5Q)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GCPQ-BCG",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Birth, parents, marriage, Hartford residence"
+   },
+   {
+    "ref": "S2",
+    "citation": "FamilySearch Family Tree published profile GCP7-7T8, Michele Archangelo Ragazzo (1879-1960)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GCP7-7T8",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Husband, Trevico birth, Hartford/Windsor residence"
+   }
+  ]
+ },
+ {
+  "id": "NEW-702",
+  "name": "Antonio Giannetta",
+  "sex": "M",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1874-02-14",
+    "place": "Bisaccia, Avellino, Campania, Italy",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1903-11-03",
+    "place": "Bisaccia, Avellino, Campania, Italy",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "events": [
+    {
+     "title": "Marriage",
+     "date": "1897-07-08",
+     "place": "Bisaccia",
+     "description": "Married Orsola Ottobrino (b. c.1872).",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ]
+  },
+  "bioAdditions": "According to the FamilySearch tree, Antonio was a younger brother of Frank Giannetta. He married Orsola Ottobrino in 1897 and died in Bisaccia aged 29 in November 1903, seven months after Frank sailed for New York. Frank's son Antonio (b. 1907) may have been named after him. The tree cites the Sant'Angelo dei Lombardi tribunale civil registers; the images are not viewable here.",
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "H0333",
+    "evidence": "FS tree, parents Savino Giannetta and Angelamaria Fede",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile LCPG-XPR, Antonio Giannetta (1874-1903), citing Italy, Avellino, Sant'Angelo dei Lombardi, Civil Registration (Tribunale), 1866-1910",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LCPG-XPR",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Birth, marriage, death"
+   }
+  ]
+ },
+ {
+  "id": "NEW-703",
+  "name": "Savino Giannetta (the elder)",
+  "sex": "M",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "ABT 1786",
+    "place": "Bisaccia, Avellino, Italy",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1853-05-19",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Father of Francesco Maria Giannetta (H0341) by Giuseppa Sena (marriage record dated 1810). As a widower he married Grazia Maria Gallicchio, widow of Nicola Macchia, on 30 Jan 1823, so his son later married his stepdaughter Lucia Macchia. Son of Bartolomeo Giannetta and Angela Donatiello (FS).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0341",
+    "evidence": "FS tree: parent of Francesco Maria Giannetta",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile 2SZL-WWJ (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WWJ",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-704",
+  "name": "Giuseppa Sena",
+  "sex": "F",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1790",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1822-08-06",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "First wife of Savino Giannetta (NEW-703) and mother of Francesco Maria Giannetta. Daughter of Pasquale Sena and Apollonia Procaccino (FS).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0341",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile 2SZL-WF4 (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/2SZL-WF4",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-705",
+  "name": "Nicola Macchia",
+  "sex": "M",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "ABT 1782",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1817-12-16",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Father of Lucia Macchia (H0342). Son of Giuseppe Macchia and Rosa Picolella (FS).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0342",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile LH71-GCJ (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LH71-GCJ",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-706",
+  "name": "Grazia Maria Gallicchio",
+  "sex": "F",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "ABT 1785",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1855",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Mother of Lucia Macchia (H0342); widow of Nicola Macchia; married Savino Giannetta the elder 30 Jan 1823. Daughter of Andrea Gallicchio and Rosa Coviello (FS).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0342",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile LH71-GCQ (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LH71-GCQ",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-707",
+  "name": "Giuseppe Fede",
+  "sex": "M",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "ABT 1758",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1829-01-12",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Father of Bartolomeo Fede (H0343). Son of Bartolomeo Fede and Rosa Ricciardi (FS). Profile has no attached sources.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0343",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile LHFF-9SK (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHFF-9SK",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-708",
+  "name": "Angela Maria Loffa",
+  "sex": "F",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1780",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "after 1835",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Mother of Bartolomeo Fede (H0343) (FS; no attached sources).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0343",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile LHFF-9W4 (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHFF-9W4",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-709",
+  "name": "Pasquale di Roberto",
+  "sex": "M",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1777",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Father of Nunzianna (site: Luigia) Roberto (H0344). FS source: Bisaccia marriage of Michele Roberto and Teresa Fratianni, 1840.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0344",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile LHBB-SN5 (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHBB-SN5",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-710",
+  "name": "Antonia Sena",
+  "sex": "F",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1777",
+    "place": "Bisaccia",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Mother of Nunzianna (site: Luigia) Roberto (H0344).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0344",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "candidate"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree published profile LHBB-SV7 (user-contributed; read via published-tree JSON)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHBB-SV7",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates and relationships (user tree; Italian record images not viewable)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-801",
+  "name": "Leopoldo Ferlaino",
+  "birth": {
+   "date": "bapt. 4 Feb 1870",
+   "place": "San Mango d'Aquino"
+  },
+  "death": {
+   "date": "12 Jul 1870 (burial, age 5 months)",
+   "place": "San Mango d'Aquino"
+  },
+  "bio": "Elder brother of John's ancestor Leopoldo; died in infancy. His name was given to the next son, born 1871.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 (Book 11), image 128, p. 247, no. 10; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875'.",
+    "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Leopoldus Ferlaino bapt. 4 Feb 1870, father Fortunatus, mother Rosa Moraca, godfather Leopoldus Moraca (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   },
+   {
+    "ref": "S2",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1857-1877 (Book 29), image 129, p. 248, no. 19; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1877'.",
+    "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Burial 12 Jul 1870, Leopoldus Ferlaino, 5 months, father Fortunatus (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282824815295",
+    "evidence": "Baptism names parents Fortunatus Ferlaino and Rosa Moraca",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-802",
+  "name": "Filomena Fiorillo",
+  "birth": {
+   "date": "1874 (baptism)",
+   "place": "San Mango d'Aquino"
+  },
+  "bio": "Sister of Giuseppina Fiorillo (John's ancestor).",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 (Book 11), image 159, no. 56; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875'.",
+    "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Philomena Fiorillo bapt. 1874, child of Dominicus Fiorillo and Xaveria Colosimo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282824815323",
+    "evidence": "Baptism",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-803",
+  "name": "Carmelo Fiorillo",
+  "birth": {
+   "date": "1873 (baptism)",
+   "place": "San Mango d'Aquino"
+  },
+  "bio": "Brother of Giuseppina Fiorillo.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1857-1875 (Book 11), image 150, no. 17; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1857-1875'.",
+    "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Carmelus Fiorillo bapt. 1873, child of Dominicus Fiorillo and Xaveria Colosimo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282824815323",
+    "evidence": "Baptism",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-804",
+  "name": "Gaetano Fiorillo",
+  "birth": {
+   "date": "1886 (baptism)",
+   "place": "San Mango d'Aquino"
+  },
+  "bio": "Brother of Giuseppina Fiorillo; married Maria Mendicino (daughter of Tommaso and Raffaela Ianni) at San Mango on 13 May 1909.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1876-1887 (Book 12), image 75, no. 66; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1876-1887'.",
+    "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Cajetanus Fiorillo bapt. 1886, child of Dominicus Fiorillo and Xaveria Colosimo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   },
+   {
+    "ref": "S2",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1885-1920 (Book 23), image 89, p. 169, no. 11; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1885-1920'.",
+    "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Marriage 13 May 1909, Cajetanus Fiorillo (parents Dominicus and Xaveria Colosimo) and Maria Mendicino (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282824815323",
+    "evidence": "Baptism and marriage name parents",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-805",
+  "name": "Cintia (Giacinta) Gabriele Fiorillo",
+  "birth": {
+   "date": "c. 1813 (age 26 in 1839)",
+   "place": "Aiello Calabro, Cosenza"
+  },
+  "bio": "Sister of Carmine G. Fiorillo; married Nicola Vecchio at San Mango, civil act 1 of 7 Feb 1839.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino, stato civile, Civil marriages 1839, image 146, act 1, 7 Feb 1839; volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+    "url": "https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Cintia Gabriele Fiorillo, 26, born Aiello Calabro, daughter of Domenico Gabriele Fiorillo and Maria Marrelli, marries Nicola Vecchio (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "I282824815339",
+    "evidence": "Same parents",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-806",
+  "name": "Antonia Fiorillo",
+  "birth": {
+   "date": "c. 1815 (age 29 in 1844)",
+   "place": "Aiello Calabro, Cosenza"
+  },
+  "bio": "Sister of Carmine G. Fiorillo; married Luigi Feraco, civil act 13 of 29 Dec 1844.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino, stato civile, Civil marriages 1844, image 275, act 13, 29 Dec 1844; volunteer index 'Civil Marriages 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+    "url": "https://drive.usercontent.google.com/download?id=1Hz45CAr4uYzOGx03ENCfBGXeE0OOxk7E&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Antonia Fiorillo, 29, born Aiello Calabro, daughter of Domenico Fiorillo and Maria Marrello, marries Luigi Feraco (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "I282824815339",
+    "evidence": "Same parents",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-807",
+  "name": "Maria Mollame",
+  "bio": "Wife of Agostino Orlando (m. 6 May 1782), daughter of Domenico Mollame; mother of Francesca Orlando (b. 1794). Direct ancestor.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1767-1801 (Book 18), image 43, p. 80, no. 7; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1801'.",
+    "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Marriage 6 May 1782, Augustinus Orlando and Maria Mollame, daughter of Domenico (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   },
+   {
+    "ref": "S2",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 197, p. 391, no. 43; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'.",
+    "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Francisca Maria Orlando bapt. 22 Oct 1794, mother Maria Mollame (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "I282824815579",
+    "evidence": "Marriage",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "parent",
+    "personId": "I282824815569",
+    "evidence": "Baptism names mother",
+    "sourceRefs": [
+     "S2"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-808",
+  "name": "Andrea Colosimo",
+  "bio": "Father of Maria Colosimo (d. 1845), wife of Vincenzo Ferlaino; his wife was Carmela Cicco. Direct ancestor.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino, stato civile, Civil deaths 1845, image 1401, act 5, 23 Jan 1845; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+    "url": "https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Maria Colosimo, daughter of the late Andrea Colosimo and the late Carmela Cicco (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   },
+   {
+    "ref": "S2",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Matrimoni 1801-1811 (Book 19), image 25, p. 46, no. 2; volunteer index 'Indici Matrimoni - San Mango D'Aquino - Chiese di San Tommaso D'Aquino 1670-1925.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1801-1811'.",
+    "url": "https://drive.usercontent.google.com/download?id=1cavagnXUI71j6ckzvvgzpUDR9V4_IPtZ&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Marriage 1809, bride Maria Colosimo daughter of Andrea (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "I282824816503",
+    "evidence": "Daughter's death and marriage records",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-809",
+  "name": "Giuseppe Antonio Ferlaino",
+  "bio": "Father (with Rosa Gallo) of Francesca Angelina Ferlaino, bapt. 25 Feb 1797, identified as the later Agostina/Faustina Ferlaino. Probable direct ancestor.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 214, p. 418, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'.",
+    "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Francisca Angelina Ferlaino bapt. 25 Feb 1797, father Josepho Antonio Ferlaino, mother Rosa Gallo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "I282824816515",
+    "evidence": "Baptism on tree date; name Angelina vs Agostina",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ]
+ },
+ {
+  "id": "NEW-810",
+  "name": "Giacinta (Cintia) [Feraco/Iera/Marrello?]",
+  "bio": "Wife of Carmine Gabriele Fiorillo (d. 1797) and mother of Domenico (c.1775-1849) and Francesco (c.1789-1853) Gabriele Fiorillo; surname varies by record.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino, stato civile, Civil deaths 1849, image 1557, act 22; volunteer index 'Civil Deaths 1810-1814, 1823, 1824, 1826-1860.xlsx (San Mango d'Aquino stato civile index)' (ItalianParishRecords.org).",
+    "url": "https://drive.usercontent.google.com/download?id=1O4xLXqgybeEFudGH-bzOTlz_PsoDrIuI&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Domenico Fiorillo, son of the late Carmine and the late Cintia \"Feraculo\" (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   },
+   {
+    "ref": "S2",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Morti 1846-1856 (Book 28), image 32, p. 58, no. 23; image 61, p. 117, no. 11; volunteer index 'Indici Morti - San Mango D'Aquino - Chiese di San Tommaso 1653-1713, 1747-1767, 1811-1942.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1846-1856'.",
+    "url": "https://drive.usercontent.google.com/download?id=1F6ip9rPQAEIDX2A0DqQMas6-VLAv9D6k&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Sons Dominicus (mother Hyacinthia Iera) and Franciscus (mother Hyacinthia Marrello) (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "I282824815359",
+    "evidence": "Sons' death records",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "parent",
+    "personId": "I282824815347",
+    "evidence": "Death records",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-811",
+  "name": "Fenice Rizulo (Ripolo)",
+  "bio": "Wife of Giovanni Antonio Colosimo; mother of Candida (1715), Matteo Nunziato (1718) and Giovanna Santa (1721). Direct ancestor.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1713-1747 (Book 4), image 13, p. 8, no. 1; image 26, p. 20, no. 9; image 37, p. 31, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1713-1747'.",
+    "url": "https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Children of Joanne Antonio Colosimo and Fenice Rizulo/Ripolo (Index entry; the register image is on the same site's Google Drive, linked from https://www.italianparishrecords.org/search-by-region/calabria/catanzaro/san-mango-daquino.)"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "I282824815672",
+    "evidence": "Children's baptisms",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "parent",
+    "personId": "I282824815661",
+    "evidence": "Baptism",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ]
+ },
+ {
+  "id": "NEW-601",
+  "name": "Isaac Blydenburgh",
+  "sex": "M",
+  "birth": {
+   "date": "1775",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1858",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bio": "Miller of Smithtown, a 1798 partner in the Blydenburgh mill. Pelletreau's Blydenburgh genealogy traces him from Joseph Blydenburgh 1st and Deborah Smith (daughter of Jonathan, eldest son of Bull Smith) through Richard Blydenburgh 1st (1694-1772) and Benjamin. Path from Bull Smith: Jonathan -> Deborah -> Richard 1st -> Benjamin -> Isaac, 5 generations: 4th cousin 7 times removed. (Joseph 1st's later children by his second wife 'Collosia', including Joseph 1732-1833, are not Smith descendants.)",
+  "relationships": [
+   {
+    "type": "cousin",
+    "personId": "I282608065309",
+    "evidence": "Descendant of Bull Smith via Jonathan Smith and Deborah (Smith) Blydenburgh; 4C7R to John",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 483-486",
+    "url": "https://archive.org/details/recordsoftownofs00smitrich",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Blydenburgh genealogy: Joseph 1st m. Deborah dau. of Jonathan Smith; Richard 1st (1694-1772); Benjamin; Isaac"
+   }
+  ]
+ },
+ {
+  "id": "NEW-603",
+  "name": "Henry Tuthill",
+  "sex": "M",
+  "birth": {
+   "date": "before Dec 1715",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "17 Sep 1793",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bio": "Son of Henry Tuthill (b. 1690) and grandson of Justice Henry Tuthill (1665-1750). Married 16 Mar 1738 Phoebe Horton (a descendant of Barnabas Horton through three Calebs). Father of Anna Tuthill, wife of Judge John Cleves Symmes and mother of First Lady Anna Symmes Harrison. Akerly says outright that Henry's granddaughter Anna Symmes married President W. H. Harrison.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "NEW-608",
+    "evidence": "Akerly",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "I282695486653",
+    "evidence": "Akerly: Anna Tuthill m. John Cleves Symmes",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 8-10",
+    "url": "https://archive.org/details/tuthillfamilyoft00aker",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Henry Tuthill m. 16 Mar 1738 Phoebe Horton; daughter Anna m. John Cleves Symmes"
+   }
+  ]
+ },
+ {
+  "id": "NEW-608",
+  "name": "Henry Tuthill",
+  "sex": "M",
+  "birth": {
+   "date": "1690",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1 Sep 1775",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bio": "Eldest son of Justice Henry Tuthill (1665-1750) and Bethia Horton (granddaughter of William Wells and of Barnabas Horton). Grandfather of Anna Tuthill Symmes, so great-grandfather of First Lady Anna Symmes Harrison. His father was a brother of John's ancestor John Tuthill Jr, so he is a 1st cousin 10 times removed of John.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "H0321",
+    "evidence": "Akerly: issue of Henry incl. Henry b. 1690",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "parent",
+    "personId": "H0491",
+    "evidence": "Akerly",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "child",
+    "personId": "NEW-603",
+    "evidence": "Akerly",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 8-9",
+    "url": "https://archive.org/details/tuthillfamilyoft00aker",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Henry Tuthill b. 1690 d. 1 Sep 1775, son of Henry & Bethia (Horton)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-604",
+  "name": "Margaret Smith Woodhull",
+  "sex": "F",
+  "birth": {
+   "date": "1714",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1803",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bio": "Daughter of Edmund Smith 1st (son of Adam, son of Bull Smith). Married in 1738 Richard Woodhull IV (1712-1788) of Setauket; mother of Abraham Woodhull, chief of the Culper Ring ('Samuel Culper Sr.'). Her granddaughter-in-law Mary Smith (Abraham's wife) was the daughter of Obadiah Smith and Anna, Edmund 1st's daughter by his second wife, so Abraham married his half-first cousin.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "NEW-611",
+    "evidence": "Woodhull Genealogy; Pelletreau",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "H0289",
+    "evidence": "Woodhull Genealogy entry 44 (Abraham, son of Richard & Margaret Smith)",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Mary Gould Woodhull & Francis Bowes Stevens, Woodhull Genealogy: The Woodhull Family in England and America (1904) (archive.org full text), pp. 69-70 (entry 44)",
+    "url": "https://archive.org/details/woodhullgenealog1904wood",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Richard Woodhull IV m. 1738 Margaret dau. of Edmund Smith; son Abraham"
+   },
+   {
+    "ref": "S2",
+    "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), pp. 46-48; App. pp. 476-478",
+    "url": "https://archive.org/details/recordsoftownofs00smitrich",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Edmund Smith 1st and descendants"
+   }
+  ]
+ },
+ {
+  "id": "NEW-611",
+  "name": "Edmund Smith 1st",
+  "sex": "M",
+  "death": {
+   "date": "1734/35 (will 1734, proved 1735)",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bio": "Son of Adam Smith (son of Bull Smith). Grandfather of the Culper spymaster Abraham Woodhull through his daughter Margaret, and of Abraham's wife Mary Smith through his daughter Anna (Mrs Obadiah Smith). 2nd cousin 9 times removed of John.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "I282608065145",
+    "evidence": "Pelletreau",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "NEW-604",
+    "evidence": "Woodhull Genealogy",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), pp. 46-48; App. pp. 476-478",
+    "url": "https://archive.org/details/recordsoftownofs00smitrich",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Edmund Smith son of Adam; will 1734 proved 1735; daughters Margaret (Woodhull) and Anna (Mrs Obadiah Smith)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-605",
+  "name": "Richard Smith 4th",
+  "sex": "M",
+  "death": {
+   "date": "1811",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bio": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d. Married Sarah, daughter of Edmund Smith 2d and Charity (daughter of Job 2d). Father of Richard Smith 5th (1770-1831) and so grandfather of Judge J. Lawrence Smith. He is the link that puts the J. Lawrence Smith family (James Clinch Smith, Bessie Smith White) on Job Smith's line: 3rd cousin 7 times removed of John via Job 1st.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "H0276",
+    "evidence": "Pelletreau",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "parent",
+    "personId": "H0277",
+    "evidence": "Pelletreau",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "child",
+    "personId": "H0517",
+    "evidence": "Pelletreau",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466",
+    "url": "https://archive.org/details/recordstownsmit00pellgoog",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Ebenezer's children incl. Richard 4th; Richard 4th m. Sarah dau. of Edmund 2d; son Richard 5th"
+   }
+  ]
+ },
+ {
+  "id": "NEW-607",
+  "name": "Henry Wells I",
+  "sex": "M",
+  "birth": {
+   "date": "7 Feb 1690",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bio": "Son of William Wells II and Elizabeth Tuthill (so a grandson of both William Wells and John Tuthill 1635). Father of Obadiah Wells (1716-1800) and grandfather of Dr. Henry Wells. 1st cousin 10 times removed of John by both routes.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0495",
+    "evidence": "Hayes ch. VI",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), ch. VI-VII",
+    "url": "https://archive.org/details/williamwellsofso00byuhaye",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "William Wells II m. Elizabeth Tuthill; son Henry b. 7 Feb 1690; Henry's son Obadiah"
+   }
+  ]
+ },
+ {
+  "id": "NEW-501",
+  "name": "Deliverance King",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+   "birth": {
+    "date": "bapt. 1641",
+    "place": "Salem, Massachusetts",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "25 Jan 168[?], aged 49",
+    "place": "Southold, Suffolk Co., NY",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Deliverance King, daughter of William and Dorothy (Hayne?) King, was baptized at Salem, Mass. ('1641:31:8') and was the first wife of John Tuthill (1635-1717) of Southold. She died at Southold aged 49 (the year is garbled in the OCR, but she died before John's second marriage on 28 May 1690). Akerly lists John Tuthill Jr. (b. 14 Feb 1658) among the children by this first wife. That makes her John Meier's direct ancestor, the mother of John Tuthill Jr., and she is missing from the tree (S1). Her father is probably the William Kinge of Salem (d. 1650) shown on WikiTree as Kinge-44.",
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "I282608055956",
+    "evidence": "Akerly no. 3: John m. 1st Deliverance, dau. of William and Dorothy Kinge",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "I282608055916",
+    "evidence": "Akerly lists John b. 14 Feb 1658 first among the 'issue, by 1st wife'",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "L. D. Akerly, The Tuthill Family of Tharston ... and Southold (1898), pp. 6-7, John Tuthill no. 3",
+    "url": "https://archive.org/details/tuthillfamilyoft00aker",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Deliverance King, first wife of John Tuthill (1635-1717), mother of his children incl. John Jr. b. 1658"
+   }
+  ]
+ },
+ {
+  "id": "NEW-101",
+  "name": "Henry James \"Harry\" Meier",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1923-08-16",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1943-07-02",
+    "place": "Italy (FS tree: Scorrano, Lecce, Puglia)",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   },
+   "burial": {
+    "place": "Louisville, Jefferson County, Kentucky, USA",
+    "cemetery": "Zachary Taylor National Cemetery, group burial, plot I 62-63, buried 15 Feb 1950",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   "military": [
+    {
+     "note": "Staff Sergeant, U.S. Army Air Corps/Air Forces, WWII. Enlisted 27 Apr 1942 at Washington, DC (FS tree, from WWII Army enlistment records KMFG-KB8). Died 2 Jul 1943; group burial at Zachary Taylor National Cemetery, 15 Feb 1950. The 1946 Wilkes-Barre Record Almanac lists a 'Harry Meier' of Wilkes-Barre as missing.",
+     "sourceRefs": [
+      "S1",
+      "S2",
+      "S3"
+     ]
+    }
+   ]
+  },
+  "bioAdditions": "Harry Meier was the youngest son of Fred Aloysius Meier Sr. and Anna Mather, and a grandson of Henry J. Meier. He was a first cousin of John's grandfather James C. Meier. Born in Wilkes-Barre on 16 Aug 1923, he was with his father in the 1940 census (indexed 'Harry Meiers') and enlisted in Washington, DC, on 27 Apr 1942 (S1). He was a staff sergeant in the Army Air Forces. He died on 2 Jul 1943 in southern Italy; the FS tree gives Scorrano, Lecce. That was about a week before the Allied landings in Sicily, when U.S. heavy bombers were raiding airfields in Apulia, and the rank and 'group burial' suggest a bomber crewman lost with his aircraft. He was among the WWII dead brought home after the war and buried with his crew, as a group, at Zachary Taylor National Cemetery, Louisville, on 15 Feb 1950 (S2). He is very probably the 'Harry Meier, Wilkes-Barre, missing' of the 1946 Wilkes-Barre Record Almanac casualty list (S3), which earlier rounds could not place.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0012",
+    "evidence": "FS tree G7CS-G54 lists parents Fred Aloysius Meier Sr. (L6H5-86K) and Anna Mather (LRT7-WHC); 1940 census",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "H0054",
+    "evidence": "FS tree",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree, Henry James \"Harry\" Meier (G7CS-G54), published-tree JSON: b. 16 Aug 1923 Wilkes-Barre; military service 27 Apr 1942 Washington DC; d. 2 Jul 1943 Scorrano, Lecce, Italy; burial Zachary Taylor National Cemetery; sources 1940 census (KQ7H-M59), WWII Army Enlistment Records (KMFG-KB8), Find a Grave index (QVVQ-H8JB)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-G54",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Birth, parents, enlistment, death, burial"
+   },
+   {
+    "ref": "S2",
+    "citation": "Interment.net, Zachary Taylor National Cemetery burial list, surnames McH–Mi (transcribed from VA Nationwide Gravesite Locator): 'Meier, Harry J, d. 07/02/1943, S/SGT US ARMY AC WWII, Group Burial, Plot: I 62-63, bur. 02/15/1950'",
+    "url": "https://interment.net/data/us/ky/jefferson/zachnat/zachary_mchmi.htm",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Rank, branch, death date, group burial 1950"
+   },
+   {
+    "ref": "S3",
+    "citation": "PAGenWeb Luzerne, Wilkes-Barre Record Almanac 1946 casualty list M–Z: \"Meier, Harry, Wilkes-Barre, missing.\"",
+    "url": "https://pagenweb.org/~luzerne/military/1946casmz.htm",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Listed as missing; re-loaded and verified 2026-10-08"
+   }
+  ]
+ },
+ {
+  "id": "NEW-102",
+  "name": "Gerald Francis Meier",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1921-03-11",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "1994-05-04",
+    "place": "Levittown, Bristol Township, Bucks County, Pennsylvania, USA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "events": [
+    {
+     "title": "Marriage to Mary Ruth Hashagen",
+     "date": "1947-04-16",
+     "place": "Luzerne County, PA",
+     "description": "FS tree citing Pennsylvania County Marriages (KHF6-VSL).",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ]
+  },
+  "bioAdditions": "Gerald was the third child of Fred Aloysius Meier Sr. and Anna Mather, and a first cousin of James C. Meier. He was in his father's household in 1930, married Mary Ruth Hashagen (1927–2003) on 16 Apr 1947, and died at Levittown, Bristol Township, on 4 May 1994. Their son Frederick Aloysius Meier (1957–2012) carried his grandfather's name (S1). His family is the source of the Levittown 'Mary R. Meier' (2003) and 'Fred Meier' (2012) obituary leads on James's page.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0012",
+    "evidence": "FS tree G7CS-435; 1930 census in Fred Meier's household",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree, Gerald Francis Meier (G7CS-435), published-tree JSON; sources 1930 census (XH7C-9LH), Pennsylvania County Marriages (KHF6-VSL), SSDI (JP8T-PMN)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-435",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Birth, marriage, death, family"
+   }
+  ]
+ },
+ {
+  "id": "NEW-103",
+  "name": "Fred A. Meier Jr.",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1918-12-27",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "2000-01-03",
+    "place": "Sarasota, Sarasota County, Florida, USA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "burial": {
+    "place": "Siesta Key, Sarasota County, Florida, USA",
+    "cemetery": "Siesta Key Chapel Memorial Garden",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "residences": [
+    {
+     "date": "1950-04-14",
+     "place": "Scranton, Lackawanna County, PA",
+     "note": "1950 census per FS tree",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ]
+  },
+  "bioAdditions": "The second child of Fred Aloysius Meier Sr. and Anna Mather. He married Margaret 'Peggy' Powell (1921–1973) on 18 Jun 1941, lived in Scranton in 1949–50, remarried in Florida in 1978 to Joyce Louise Wahlbrink, and died at Sarasota on 3 Jan 2000 (S1). Some of his children are probably living and were not researched.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0012",
+    "evidence": "FS tree L6HP-1ZK",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "FamilySearch Family Tree, Fred A. Meier Jr. (L6HP-1ZK), published-tree JSON; sources 1950 census (6X1Q-BF47), Florida Marriages (23CP-XDF), Find a Grave index (ZRBY-7M6Z)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/L6HP-1ZK",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Dates, marriages, residence, burial"
+   }
+  ]
+ },
+ {
+  "id": "NEW-104",
+  "name": "Christina Mayer",
+  "status": "deceased_no_death_record",
+  "updates": {
+   "birth": {
+    "date": "1864-05",
+    "place": "Munzingen, Amt Freiburg, Baden",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Christina was born at Munzingen in May 1864. She was baptized as the illegitimate daughter of the single day labourer Paulina (Pauline) Mayer, who was herself the legitimate daughter of the citizen and master mason Heinrich Mayer and Juliana Senn. Her godparents were her uncle Friedrich Mayer, mason (John's 3rd great-grandfather, who emigrated to Hazleton in 1868), and her aunt Maria Anna Mayer, wife of the shoemaker Joseph Wenz (S1). That makes her a first cousin of Henry J. Meier. Her later life is unknown. The entry is No. 9 in the 1864 birth register, dated 16 May 1864; the exact day of birth in the text was read as the 15th, but that reading is uncertain.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0027",
+    "evidence": "Munzingen Geburtsbuch 1864 No. 9 names Paulina Mayer as mother",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "confirmed"
+   },
+   {
+    "type": "niece",
+    "personId": "I282608064885",
+    "evidence": "Friedrich Mayer is godfather; same parents Heinrich Mayer and Juliana Senn",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "confirmed"
+   },
+   {
+    "type": "grandchild",
+    "personId": "I282608085304",
+    "evidence": "Mother described as daughter of Heinrich Mayer and Juliana Senn",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "confirmed"
+   }
+  ],
+  "confidence": "confirmed",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9, pp. 522–523 (image 471); index 'Register zum Taufbuch 1864' (image 477)",
+    "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-471",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Birth, mother, grandparents, godparents"
+   }
+  ],
+  "media": [
+   {
+    "type": "record",
+    "title": "Munzingen birth register 1864 No. 9: Christina Mayer",
+    "pageUrl": "http://www.landesarchiv-bw.de/plink/?f=5-480947-471",
+    "rights": "public_domain",
+    "downloaded": true,
+    "localPath": "media/H0027/birth-1864-munzingen-L10-1591-img471.jpg"
+   }
+  ]
+ },
+ {
+  "id": "NEW-401",
+  "name": "Bethia (Pringle) Roberts",
+  "sex": "F",
+  "birth": {
+   "date": "c. 21 Sep 1822 (computed from age at death)",
+   "place": "Pennsylvania",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "death": {
+   "date": "1897-12-30",
+   "place": "Verona, Faribault Co., Minnesota",
+   "cause": "Bright's disease of the kidneys",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Bethie Roberts"
+  ],
+  "bio": "Eldest child of Benjamin Pringle and Charity Gould of Plymouth, Luzerne Co.; married Caleb Roberts in 1852 and moved to Iowa (children Esther, Alfred, Helen per Giles & Franklin). Died a widow at Verona, Faribault Co., Minnesota, 30 Dec 1897, aged 75y 3m 9d; the register names her parents as Benj. and Charity Pringle, both born Pennsylvania.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "H0146",
+    "evidence": "death register names father Benj. Pringle",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "parent",
+    "personId": "H0435",
+    "evidence": "death register names mother Charity Pringle",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "relationToJohn": "1st cousin 5x removed (granddaughter of Samuel & Martha Pringle)",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Faribault Co., Minn., Register of Deaths, Town of Verona, 1897, p.173",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L4WX-HKC/images/i/1/image.jpg",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "death, age, parents"
+   },
+   {
+    "ref": "S2",
+    "citation": "Giles & Franklin (1962), p.281",
+    "url": "https://archive.org/details/thomasdavenportp00gile",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "marriage to Caleb Roberts 1852, Iowa, children"
+   }
+  ],
+  "facts": [
+   {
+    "label": "FamilySearch ID",
+    "value": "K2XY-V32"
+   }
+  ]
+ },
+ {
+  "id": "NEW-301",
+  "name": "Daniel Masse",
+  "sex": "M",
+  "birth": {
+   "date": "29 Apr 1689 (baptized May 1689)",
+   "place": "New York (French Church)",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "bioAdditions": "Daniel Masse was born on 29 Apr 1689 and baptized in May 1689 at the French Church of New York. His parents were Pierre Masse and Elisabet Mercereau, and his godparents were Daniel Mercereau and Marie Paré, wife of Ezéchiel Grazilier (S1). He was Jeanne Masse's elder brother. A Daniel Masse, almost certainly the same man since no other appears in the register, married Ester Fourret (also written Forrai). They had baptized there Pierre (b. 10 Dec 1712, bapt. 25 Dec 1712), Jean (b. 25 Apr 1716, bapt. 6 May 1716) and Ester (b. 21 Sep 1718, bapt. 28 Sep 1718); Ester's godmother was 'Jeane Masse', unmarried nine months before she married Daniel Lamoureux (S1). An Ester Masse, probably his wife, was godmother to Andre Lamoureux, son of Jeanne and Daniel, in Jan 1722 (S1).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0092",
+    "evidence": "1689 baptism names parents Pierre Masse and Elisabet Mercereau",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "child",
+    "personId": "H0093",
+    "evidence": "same baptism",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "sibling",
+    "personId": "H0087",
+    "evidence": "same parents (Jeanne bapt. 1696); Jeanne was godmother to his daughter in 1718",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), pp.4, 126-127, 137-138, 147-148, 164",
+    "url": "https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "baptism 1689; children 1712-1718; sponsors"
+   }
+  ],
+  "researchLogEntry": "Round 4: new collateral relative from the French Church registers."
+ },
+ {
+  "id": "NEW-302",
+  "name": "Maria Sara Jung",
+  "sex": "F",
+  "birth": {
+   "date": "c. 1678 (FamilySearch)",
+   "place": "Jettenbach",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "death": {
+   "date": "before 1721 (FamilySearch)",
+   "place": "",
+   "sourceRefs": [
+    "S2"
+   ]
+  },
+  "bioAdditions": "Mother of John's ancestress Elisabetha Margaretha Lampert. The baptism of 17 Dec 1702 names the child's parents as Abraham Lamperti of Jettenbach and Maria Sara his wife (S1). FamilySearch identifies her as Maria Sara Jung, daughter of Paul Jung and Maria Barbara of Jettenbach, born about 1678. It says she first married Johann Philipp Wirth on 14 Apr 1693, having a son Johann Philipp (1696-1720), and then married Abraham Lampert at Glan-Münchweiler on 6 Oct 1699 (S2).",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "H0075",
+    "evidence": "1702 baptism names mother Maria Sara",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "spouse",
+    "personId": "H0079",
+    "evidence": "1702 baptism",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "child",
+    "personId": "H0082",
+    "evidence": "FamilySearch tree with attached baptism entries",
+    "sourceRefs": [
+     "S2"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "H0413",
+    "evidence": "FamilySearch tree",
+    "sourceRefs": [
+     "S2"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Reichenbach Lutheran register, baptisms 1702 p.42 (Elisabetha Margretha Lampert)",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L58R-7JQ/images/i/0/image.jpg",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "mother of Elisabetha Margaretha"
+   },
+   {
+    "ref": "S2",
+    "citation": "FamilySearch published tree, Maria Sara Jung (MCWN-N5Z)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/MCWN-N5Z",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "surname, parents, marriages"
+   }
+  ],
+  "researchLogEntry": "Round 4: missing direct ancestress added (mother of Elisabetha Margaretha Lampert)."
+ },
+ {
+  "id": "NEW-303",
+  "name": "Hans Peter Doll",
+  "sex": "M",
+  "bioAdditions": "Of Erzweiler, Ulmet parish; father of Johann Christoffel Doll, whose marriage on 2 Mar 1704 calls him 'Hans Peter Dollen Sohn zu Erzweiler' (S1). FamilySearch calls him Johannes Peter Doll (1647-1717), husband of Gertraud Fick (S2).",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "H0080",
+    "evidence": "1704 Ulmet marriage",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Ulmet Lutheran register, marriages 1704 p.459",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KLVK-Z6R/images/i/1/image.jpg",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "paternity"
+   },
+   {
+    "ref": "S2",
+    "citation": "FamilySearch published tree, Johann Christoffel Doll (KLVK-Z6R), parents LVBV-3HL and LCW2-XLD",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KLVK-Z6R",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "dates and wife (claim)"
+   }
+  ],
+  "researchLogEntry": "Round 4: new direct ancestor (father of Christoffel Doll)."
+ },
+ {
+  "id": "NEW-304",
+  "name": "Johann Peter Schuch",
+  "sex": "M",
+  "bioAdditions": "Father of Sara Schuch, who married Johann Christoffel Doll at Ulmet on 2 Mar 1704 ('Sara, Joh. Peter Schuchen Tochter') (S1). FamilySearch calls him Hans Peter Schuch (1661-1747) of Rathsweiler, husband of Anna Maria Käppel (S2).",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "H0081",
+    "evidence": "1704 Ulmet marriage",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Ulmet Lutheran register, marriages 1704 p.459",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/KLVK-Z6R/images/i/1/image.jpg",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "paternity"
+   },
+   {
+    "ref": "S2",
+    "citation": "FamilySearch published tree, Sara Margaretha Schuch (9X1W-N7P), parents LCP5-G33 and MMD4-Y2T",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/9X1W-N7P",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "dates and wife (claim)"
+   }
+  ],
+  "researchLogEntry": "Round 4: new direct ancestor (father of Sara Schuch)."
+ }
+]

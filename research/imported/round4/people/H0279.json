@@ -1,0 +1,45 @@
+{
+  "id": "H0279",
+  "name": "Joshua Smith II",
+  "status": "researched",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "siteValue": "1763",
+      "foundValue": "1764 (Pelletreau) vs 27 Jul 1763 (Wikipedia)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Prefer Wikipedia's exact 27 Jul 1763; Pelletreau gives only the year."
+    }
+  ],
+  "updates": {
+    "death": {
+      "date": "12 Apr 1845",
+      "sourceRefs": [
+        "S2"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. p. 477",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Joshua Smith 2d b. 1764 d. 1845; wives Mary Blydenburgh, Ruth Smith, Deborah dau. of Epenetus"
+    },
+    {
+      "ref": "S2",
+      "citation": "Wikipedia, 'Joshua Smith (New York politician)' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Joshua_Smith_(New_York_politician)",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "b. 27 Jul 1763, d. 12 Apr 1845"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact death date (Wikipedia); birth-year conflict noted.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "H0092",
+  "name": "Pierre Masse",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "The French Church registers follow Pierre's son Daniel (b. 29 Apr 1689; NEW-301) into adulthood. Daniel married Ester Fourret and had sons Pierre (1712) and Jean (1716) and a daughter Ester (1718) baptized there. Daniel's sister Jeanne, Pierre's daughter and John's ancestor, was godmother to the 1718 child, and an Ester Masse was godmother to Jeanne's son Andre Lamoureux in 1722 (S1). These sponsorships tie Jeanne Masse, wife of Daniel Lamoureux, to Pierre's family through the church register, not only through the private Lamoureux family record. Pierre himself was a godfather in the 1690s, to Marie Suzanne Doucinet's child and to another child in 1695 (S1). No burial for him appears in the register, which has few burials for these years.",
+  "relationships": [
+    {
+      "type": "child",
+      "personId": "NEW-301",
+      "evidence": "1689 baptism of Daniel, son of Pierre Masse and Elisabet Mercereau",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "The register sponsorships now add support to Jeanne's descent from him."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), pp.4, 29, 42-43, 49, 126-127, 137-138, 147-148, 164",
+      "url": "https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "son Daniel's family; Masse sponsorships linking Jeanne"
+    }
+  ],
+  "researchLogEntry": "Round 4: identified son Daniel Masse's family (NEW-301) and the Masse sponsorships (1718, 1722) linking Jeanne Masse Lamoureux to this family."
+}

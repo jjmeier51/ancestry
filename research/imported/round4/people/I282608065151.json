@@ -1,0 +1,26 @@
+{
+  "id": "I282608065151",
+  "name": "Elizabeth Thompson",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Pelletreau's Appendix states that Job Smith 'married Elizabeth, daughter of John Thompson, Esq., of Setauket' and lists her seven children (S1). Weygant (1897) repeats this but adds the now-disproven Mayflower Brewster mother and Rev. William Thompson grandfather (S2).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org)",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Elizabeth dau. of John Thompson of Setauket, wife of Job Smith"
+    },
+    {
+      "ref": "S2",
+      "citation": "C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V",
+      "url": "https://archive.org/details/familyrecor00weyg",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "repeats the disproven Brewster/Rev. William Thompson ancestry"
+    }
+  ],
+  "researchLogEntry": "Round 4: Pelletreau Appendix restates her parentage; Weygant repeats the disproven Brewster claim."
+}

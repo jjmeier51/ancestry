@@ -7,11 +7,13 @@
   "sex": "F",
   "tags": [],
   "summary": "John's 4th great-aunt; eldest sister of Friedrich Mayer.",
-  "bio": "Born 3 Jul 1821 in house No. 68 (tree says 7 Jul, probably the baptism). Godparents: the local citizens and masons Anton Mayer and Joseph Mayer (possible kin of Heinrich) and a single woman Anna [Rothenbacher?]. Married Joseph Wenz (b. 1828) at Munzingen 26 Feb 1857; children Mary Ann (1861) and Heinrich Wenz (1863–1943). Died 2 Apr 1872. A Joseph [Wenz?] witnessed Friedrich's 1862 marriage.",
+  "bio": "Born 3 Jul 1821 in house No. 68 (tree says 7 Jul, probably the baptism). Godparents: the local citizens and masons Anton Mayer and Joseph Mayer (possible kin of Heinrich) and a single woman Anna [Rothenbacher?]. Married Joseph Wenz (b. 1828) at Munzingen 26 Feb 1857; children Mary Ann (1861) and Heinrich Wenz (1863–1943). Died 2 Apr 1872. A Joseph [Wenz?] witnessed Friedrich's 1862 marriage.\n\nMaria Anna and her husband Joseph Wenz stood by her brother Friedrich's young family. Joseph Wenz, shoemaker, was godfather to Friedrich's first son in Jan 1862 ([R4-S2]). In May 1864 'M. Anna Mayer, wife of Joseph Wenz, citizen and shoemaker' was godmother, alongside Friedrich himself, to the illegitimate daughter of her youngest sister Paulina ([R4-S1]).",
   "sources": [
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), births 1821 http://www.landesarchiv-bw.de/plink/?f=5-480946-220",
     "FamilySearch index https://familysearch.org/ark:/61903/1:1:QP3C-SCW4 ; https://familysearch.org/ark:/61903/1:1:QP3C-SCW6",
-    "notes/round3/meier_line.md"
+    "notes/round3/meier_line.md",
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1864 No. 9, p. 522 (image 471); index 'Register zum Taufbuch 1864' (image 477) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-471",
+    "[R4-S2] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-431"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -26,6 +28,28 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Mayer-5297 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found her (and her husband Joseph Wenz) as godparents in the 1862 and 1864 Munzingen birth registers."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0019.json."
+    }
+  ],
+  "events": [
+    {
+      "title": "Godmother to her niece Christina Mayer",
+      "date": "1864-05",
+      "place": "Munzingen",
+      "description": "'M. Anna Mayer, wife of Joseph Wenz, citizen and shoemaker of here' stood godmother with her brother Friedrich. [R4-S1]"
+    },
+    {
+      "title": "Husband godfather to Friedrich Meier",
+      "date": "1862-01-13",
+      "place": "Munzingen",
+      "description": "Her husband Joseph Wenz, shoemaker, was godfather to her nephew Friedrich (later Frederick Meier of Hazleton). [R4-S2]"
     }
   ]
 }

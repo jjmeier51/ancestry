@@ -2,14 +2,18 @@
   "id": "H0173",
   "link": {
     "confidence": "probable",
-    "note": ""
+    "note": "Round 4 (probable → probable): Three county and family histories agree on his offices; marriage from Giles & Franklin."
   },
   "sex": "M",
   "tags": [],
   "summary": "Husband of John's 5th-great-grand-aunt Hannah Lamoreaux; Luzerne County sheriff from 1816.",
-  "bio": "Luzerne County sheriff from 1816; militia captain, War of 1812 era.",
+  "bio": "Luzerne County sheriff from 1816; militia captain, War of 1812 era.\n\nWright (1873) says the Van Loons were three Dutch brothers, Abraham ('Brom'), Mathias and Nicholas, who came from Esopus in 1794. Stephen was Brom's eldest son. He was captain of the Plymouth militia in 1814, a noted Democratic politician during the War of 1812, and was rewarded with election as High Sheriff in 1816. He 'discharged the duties of the office faithfully' and died in February 1840 or 1841 ([R4-S1]). Harvey adds that he beat Arnold Colt in October 1816 and that his company belonged to the 45th Regiment ([R4-S2]). Giles & Franklin list Hannah, daughter of Ensign Thomas Lamoreux, as his wife ([R4-S4]). His son Samuel (H0174) was sheriff from 1859.",
   "sources": [
-    "Harvey Book p.357: https://archive.org/details/harveybookgiving00harv"
+    "Harvey Book p.357: https://archive.org/details/harveybookgiving00harv",
+    "[R4-S1] H. B. Wright, Historical Sketches of Plymouth (1873), pp.387-389 ('Van Loons') and p.255 (secondary) https://archive.org/details/historicalsketch00wrig_2",
+    "[R4-S2] Harvey, The Harvey Book (1899), pp.356-357 (children of Robert and Phebe (Nesbitt) Davenport) (secondary) https://archive.org/details/harveybookgiving00harv",
+    "[R4-S3] H. C. Bradsby, History of Luzerne County (1893), p.230 list of sheriffs (secondary) https://archive.org/details/historyofluzerne00brad",
+    "[R4-S4] Giles & Franklin, Thomas Davenport ... and his Descendants (1962), pp.273 and 358 (secondary) https://archive.org/details/thomasdavenportp00gile"
   ],
   "occupation": "Sheriff of Luzerne County",
   "handoff": {
@@ -21,6 +25,58 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → probable: Three county and family histories agree on his offices; marriage from Giles & Franklin."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0172, probable): Giles & Franklin p.358: Hannah Lamoreux 'married Stephen Van Loon'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (child H0174, proven): Wright p.388; Harvey p.357"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Wright gives Brom's eldest son, sheriff 1816, d. Feb 1840/41. Harvey gives the 45th Regt and the defeat of Arnold Colt. Giles & Franklin give his wife Hannah Lamoreux. Parentage conflict noted."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0173.json."
+    }
+  ],
+  "death": {
+    "date": "1840-02 or 1841-02",
+    "place": "Plymouth, Luzerne Co., PA"
+  },
+  "facts": [
+    {
+      "label": "Occupation (round 4)",
+      "value": "Farmer; Luzerne County sheriff 1816-1819; militia captain"
+    }
+  ],
+  "events": [
+    {
+      "title": "Militia captain",
+      "date": "1814",
+      "place": "Plymouth",
+      "description": "Captain of the Plymouth company, 45th Regt PA Militia (Col. Isaac Bowman). He mustered the men drafted from his company into U.S. service in the War of 1812. [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Elected High Sheriff of Luzerne County",
+      "date": "1816-10",
+      "place": "Wilkes-Barre, PA",
+      "description": "As the Democratic candidate he defeated Arnold Colt (Federal Republican). Succeeded by Isaac Bowman in 1819. [R4-S1] [R4-S2] [R4-S3]"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "parentage",
+      "site": "",
+      "found": "Wright: eldest son of Abraham 'Brom' Van Loon. Giles & Franklin list only three children (Rebecca 1799, Hannah 1806, Katherine 1809) for Abram Van Loon and Elizabeth Davenport (b. Dec 1774).",
+      "assessment": "A man who was sheriff in 1816 was probably born before 1795, so Stephen was either a child of an earlier wife of Brom or of a different Abraham. Elizabeth Davenport is unlikely to be his mother."
     }
   ]
 }

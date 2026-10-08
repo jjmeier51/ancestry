@@ -1,14 +1,51 @@
 {
   "id": "H0453",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named only as a relative in another person's handoff record; not researched. Round 4 (unverified → confirmed): Marriage and children's baptisms in the contemporary church register (published transcription)."
   },
   "tags": [],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence unverified → confirmed: Marriage and children's baptisms in the contemporary church register (published transcription)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse H0199, proven): French Church of NY marriage register, 16 Jul 1693"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: found his 16 Jul 1693 marriage to Marie Mercereau and four children's baptisms in the published French Church of New York registers."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0453.json."
     }
+  ],
+  "birth": {
+    "place": "Osse, Béarn, France"
+  },
+  "events": [
+    {
+      "title": "Marriage to Marie Mercereau",
+      "date": "1693-07-16",
+      "place": "French Church, New York",
+      "description": "Sunday 16 Jul 1693, by minister Pierre Peiret after banns on three Sundays; he 'd'Osse en Béarn', she of Moëze in Saintonge. Witnesses signing: Pierre Masse, J. Mercereau, Josué Mercereau, Marie Mercereau, Elie Boudinot. [R4-S1]"
+    },
+    {
+      "title": "Godfather at Pierre Masse's baptism",
+      "date": "1693-06-25",
+      "place": "French Church, New York",
+      "description": "Sponsor, with Marie Susanne Doucinet, for Pierre, son of Pierre Masse and Elisabet Mercereau (John Meier's ancestors' family). [R4-S1]"
+    }
+  ],
+  "bio": "The French Church of New York records the marriage on Sunday 16 Jul 1693 of Jean la Tourette, 'of Osse in Béarn', and Marie Mercereau, 'of Moise [Moëze] in Saintonge', by the minister Pierre Peiret, after banns on three successive Sundays. Pierre Masse, J. Mercereau, Josué Mercereau, Marie Mercereau and Elie Boudinot signed as witnesses ([R4-S1]). On the same day Josué Mercereau married Marie Chadaine, with Jean La Tourette among the witnesses. Three weeks earlier, on 25 Jun 1693, Jean had stood godfather to Pierre, son of Pierre Masse and Elisabet Mercereau ([R4-S1]).\n\nThe register gives four children: Marie (b. 23 Sep 1693, bapt. 6 Dec 1693), Jean (b. 6 Oct 1695, bapt. 20 Oct 1695, godmother Elizabet Mercereau), Pierre (b. 22 Nov 1697, bapt. 28 Nov 1697; the clerk wrote the father as 'Pierre Latourette', but Jean La Tourette signed) and David (b. 28 Dec 1699, bapt. 7 Jan 1700, sponsors Marie du Bois and Jean Chevalier) ([R4-S1]).",
+  "sources": [
+    "[R4-S1] Collections of the Huguenot Society of America, vol. I (1886): registers of the French Church (Eglise Françoise à la Nouvelle York), transcribed (primary) https://archive.org/details/collectionsofhug01hugu"
   ]
 }

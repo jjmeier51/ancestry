@@ -1,0 +1,26 @@
+{
+  "id": "H0271",
+  "name": "Daniel Smith 2d",
+  "status": "researched",
+  "updates": {
+    "death": {
+      "date": "13 Jan 1763",
+      "sourceRefs": [
+        "S1"
+      ]
+    }
+  },
+  "bioAdditions": "Pelletreau (S1): born 1691, died 13 Jan 1763; children by Hannah Brewster: Daniel (1720-95), Obadiah (1722-94), Caleb (1724-1800), Ruth (b. 1726, m. Job Smith 2d), Deborah (b. 1729, 2nd wife of Epenetus Smith 1st), Joshua (b. 1732), Mary (b. 1735, m. Judge William Smith; mother of Senator John Smith) and Micah (b. 1739). His second wife was Tabitha Floyd, sister of the signer William Floyd; after his death she married Daniel Reeve and died 27 May 1812 aged 78. Through his son Obadiah he was grandfather of Mary Smith, wife of the Culper spymaster Abraham Woodhull.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476-477",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Descendants of Daniel Smith 2d"
+    }
+  ],
+  "researchLogEntry": "Round 4: death date, full child list and second marriage (Tabitha Floyd) from Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

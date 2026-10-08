@@ -1,8 +1,8 @@
 {
   "id": "I282604494274",
   "link": {
-    "confidence": "probable",
-    "note": "Named as Frank's father (laborer, Plymouth, b. Penna.) on the 1923 licence (confirmed name); dates and parentage from FS tree GZQN-SCM with a 1927 PA death certificate attached; identity with the 1870 Danville household's 'James 9' probable."
+    "confidence": "confirmed",
+    "note": "Named as Frank's father (laborer, Plymouth, b. Penna.) on the 1923 licence (confirmed name); dates and parentage from FS tree GZQN-SCM with a 1927 PA death certificate attached; identity with the 1870 Danville household's 'James 9' probable. Round 4 (probable → confirmed): Named as father of Frank J. (1923 license) and of William B. (1927 license); death indexed 1927 file 54803 with matching date/place."
   },
   "birth": {
     "date": "1861-01-12",
@@ -10,12 +10,12 @@
   },
   "death": {
     "date": "1927-05-23",
-    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    "place": "Wilkes-Barre, Luzerne Co., Pa."
   },
   "occupation": "Laborer",
   "tags": [],
   "summary": "John's 2nd great-grandfather; a laborer born near Bloomsburg/Danville who moved to the Plymouth–Larksville coal towns.",
-  "bio": "James McGuire was born 12 Jan 1861 at Bloomsburg, Columbia Co. (FS GZQN-SCM). In 1870 he was 'James 9' in the household of Edward McGuire, furnace helper, in Mahoning Twp., Montour Co. (P.O. Danville). He moved to the Plymouth/Larksville coal towns by the 1880s; laborer; Plymouth 1900; Larksville 1910–20. He married Anna C. Jones (b. England 1865). They had 11+ children including Edward J. (1885), Mary, James J., Marguerite, Francis J. (1898), Vincent, Theresa, William B., Anna C. and Joseph. He died 23 May 1927 in Wilkes-Barre (PA death certificate attached to the FS profile).",
+  "bio": "James McGuire was born 12 Jan 1861 at Bloomsburg, Columbia Co. (FS GZQN-SCM). In 1870 he was 'James 9' in the household of Edward McGuire, furnace helper, in Mahoning Twp., Montour Co. (P.O. Danville). He moved to the Plymouth/Larksville coal towns by the 1880s; laborer; Plymouth 1900; Larksville 1910–20. He married Anna C. Jones (b. England 1865). They had 11+ children including Edward J. (1885), Mary, James J., Marguerite, Francis J. (1898), Vincent, Theresa, William B., Anna C. and Joseph. He died 23 May 1927 in Wilkes-Barre (PA death certificate attached to the FS profile).\n\nThe 1927 Pennsylvania death-certificate index lists \"McGuire, James; 54803; W-Barre; May 23\" ([R4-S1]), matching the FamilySearch death date. Six months later his son William Bernard's marriage application described James as dead and born at Danville, Pa. ([R4-S2]). Danville is the post office of Mahoning Township, Montour County, where Edward McGuire's household, including a son James aged 9, was enumerated in 1870 ([R4-S3]). That ties Kathryn's grandfather to the Danville furnace family by a record independent of the FamilySearch tree.",
   "residences": [
     {
       "date": "1870",
@@ -34,13 +34,20 @@
     {
       "label": "Children (FS)",
       "value": "Edward J. (1885), Mary, James J., Marguerite, Francis J. (1898), Vincent, Theresa, William B., Anna C., Joseph (11+)."
+    },
+    {
+      "label": "PA death certificate file no.",
+      "value": "1927 #54803 (James McGuire, Wilkes-Barre, 23 May)"
     }
   ],
   "sources": [
     "FamilySearch tree GZQN-SCM (PA death certificate 1927 attached)",
     "1923 Luzerne licence No. 635",
     "1870 census Mahoning Twp https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] Pennsylvania Department of Health death certificate index, 1927 (PA State Archives RG-11), PDF p.113: \"McGuire, James; --54803; W-Barre; May 23.\" (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1927/D-27%20M-N-O.pdf",
+    "[R4-S2] Luzerne Co. marriage license application no. 17091, William Bernard McGuire & Mary Marguerite Prout, sworn 25 Nov 1927, married 26 Nov 1927 by Rev. D. W. McCarthy, Wilkes-Barre (image via FamilySearch, attached to GZQN-SCM) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQN-SCM/images/i/2/image.jpg",
+    "[R4-S3] 1870 U.S. census, Mahoning Twp, Montour Co., Pa. (P.O. Danville), Edward McGuire household (image via FamilySearch, attached to 994Z-27X) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/994Z-27X/images/i/0/image.jpg"
   ],
   "openQuestions": [
     "His 1927 PA death certificate should name Edward McGuire and Mary Gaffney."
@@ -58,6 +65,34 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile McGuire-4412 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Named as father of Frank J. (1923 license) and of William B. (1927 license); death indexed 1927 file 54803 with matching date/place."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent H0003, probable): Son's 1927 license gives James's birthplace as Danville, home of the 1870 Edward McGuire household that included a James aged 9; FS links them"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1927 PA death index file 54803 found; son's 1927 license gives birthplace Danville, linking him to the 1870 Montour Co. household."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604494274.json."
+    }
+  ],
+  "aka": [
+    "Jas. McGuin (1900 census)",
+    "Jas Mcguine (Ancestry PA death cert. index)"
+  ],
+  "conflicts": [
+    {
+      "field": "birth.place",
+      "site": "Bloomsburg, Columbia County",
+      "found": "Danville, Pa. (son's 1927 marriage application)",
+      "assessment": "Danville (Montour Co.) and Bloomsburg (Columbia Co.) are about 10 miles apart; the family was at Danville in 1870 and the elder sister Mary is given as born at Bloomsburg in the FS tree. Keep Bloomsburg as tree value but record Danville; the 1927 death certificate (#54803) should settle it."
     }
   ]
 }

@@ -9,6 +9,27 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: given name Robert and dates 1925-1979 from FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0410.json."
     }
+  ],
+  "birth": {
+    "date": "1925"
+  },
+  "death": {
+    "date": "1979"
+  },
+  "aka": [
+    "Robert Holland"
+  ],
+  "bio": "FamilySearch names Ann \"Nancy\" McGuire's husband as Robert Holland (1925-1979) ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Ann Nancy McGuire (1928-2007), spouse Robert Holland 1925-1979, PID G3PC-FFK; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PC-FFK"
   ]
 }

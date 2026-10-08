@@ -1,0 +1,40 @@
+{
+  "id": "H0191",
+  "name": "Phebe Lamoreux",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "31 Jan 1765",
+      "place": "Cornwall, Orange Co. (FamilySearch)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "5 Apr 1856 (FamilySearch)",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "GQ6F-4XV"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch's 'Phebe Hart Lamoreaux' (31 Jan 1765 - 5 Apr 1856) is the wife of a James Pringle (1754-1828) (S1). FamilySearch also makes that James Pringle a son of James and Anar Prindle of Newtown, born before their 1759 marriage. Her only source is a Geni/MyHeritage tree. The children's birthplaces (Pennsylvania 1786 and 1790, Orange Co. 1796, New York 1797, Connecticut 1799) suggest the family moved between Plymouth and the Hudson Valley.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Phebe Lamoreux (GQ6F-4XV), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GQ6F-4XV",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives 1765-1856 and husband James Pringle (1754-1828); sourced only to Geni."
+}

@@ -18,7 +18,9 @@
     }
   ],
   "sources": [
-    "Wikipedia, https://en.wikipedia.org/wiki/David_Gardiner_Tyler"
+    "Wikipedia, https://en.wikipedia.org/wiki/David_Gardiner_Tyler",
+    "[R4-S1] Wikipedia, 'David Gardiner Tyler' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/David_Gardiner_Tyler",
+    "[R4-S2] Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149 (secondary) https://archive.org/details/liongardinerhisd00gard"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -29,6 +31,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: exact dates; PD portrait downloaded."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0296.json."
     }
   ],
   "media": [
@@ -57,5 +67,12 @@
       "file": "media/H0296/david-gardiner-tyler-portrait.jpg"
     }
   ],
-  "photo": "media/H0296/david-gardiner-tyler-portrait.jpg"
+  "photo": "media/H0296/david-gardiner-tyler-portrait.jpg",
+  "birth": {
+    "date": "1846-07-12"
+  },
+  "death": {
+    "date": "1927-09-05"
+  },
+  "bio": "6th cousin 5 times removed (son of Julia Gardiner Tyler, [R4-S2]). Born in New York; Confederate soldier; studied in Germany and Virginia; Virginia State Senator, U.S. Representative (Va. 2nd district) and circuit judge ([R4-S1])."
 }

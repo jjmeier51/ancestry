@@ -9,6 +9,25 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: marriage Aug 1736 at East Hampton (Hayes)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0496.json."
     }
+  ],
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "Aug 1736",
+      "place": "East Hampton, NY",
+      "description": "First wife of Obadiah Wells. [R4-S1]"
+    }
+  ],
+  "sources": [
+    "[R4-S1] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), ch. VI (secondary) https://archive.org/details/williamwellsofso00byuhaye"
   ]
 }

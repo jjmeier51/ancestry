@@ -5,15 +5,17 @@
     "note": "Harvey Book p.354 names 'Frederick and Mary (Young) Croup' as Susan's parents; WikiTree calls her Maria Jung. Her own parents are unproven."
   },
   "death": {
-    "date": "1841"
+    "date": "1841",
+    "place": "Pennsylvania"
   },
   "aka": [
     "Maria Jung",
-    "Mary Croup"
+    "Mary Croup",
+    "Maria Young"
   ],
   "tags": [],
   "summary": "John's 5th-great-grandmother; wife of Frederick Croup.",
-  "bio": "Mary (Maria Jung) Young married Frederick Croup/Grub; Harvey's Shupp genealogy calls Susan Croup Shupp 'daughter of Frederick and Mary (Young) Croup', independently confirming the couple shown in John's tree. She is said to have died in 1841 (tree '-1841'); no record found. Her parents per the tree are John Young Sr. and Anna Maria Doll, a link with no online record.",
+  "bio": "Mary (Maria Jung) Young married Frederick Croup/Grub; Harvey's Shupp genealogy calls Susan Croup Shupp 'daughter of Frederick and Mary (Young) Croup', independently confirming the couple shown in John's tree. She is said to have died in 1841 (tree '-1841'); no record found. Her parents per the tree are John Young Sr. and Anna Maria Doll, a link with no online record.\n\nThe FamilySearch tree gives Maria (Young) Croup a birth in January 1776 and a death on 3 September 1842, and makes her the eldest child of Johannes Jung of Easton (d. before 12 September 1787) and Anna Maria Doll (1751-1813). Its only attached source is 'last will of Maria Young, Northampton Co PA, Will Book 4, p.458' ([R4-S1]) - evidently the 1813 will of her widowed mother, which would be the first document to tie Mary Croup to the Young-Doll family. The tree lists her siblings as Sara (1777), Johannes (1781-1813), Susannah (1783), Peter (1784-1854), Catherine, Elizabeth, Henry, Jacob and Margaretha Young ([R4-S1]). In 1840 a woman in her sixties was living with Frederick Croup in Plymouth Township, matching her ([R4-S2]).",
   "facts": [
     {
       "label": "Tree shows",
@@ -23,10 +25,13 @@
   "sources": [
     "Harvey Book p.354: https://archive.org/details/harveybookgiving00harv",
     "WikiTree Grub-4 (Johann Andreas Grub; research notes, will, deeds, child table): https://www.wikitree.com/wiki/Grub-4",
-    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)"
+    "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
+    "[R4-S1] FamilySearch published tree, Maria Young (2ZSS-MKT), with parents Johannes Jung (LC7F-6LH) and Anna Maria Doll (LCFM-34B); source 'last will of Maria Young, Northampton Co PA, Will Book 4, p458' (ark 3:1:3QS7-89SM-WSJF, not opened - login required) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/2ZSS-MKT",
+    "[R4-S2] 1840 US census, Plymouth Township, Luzerne Co., 'Fred'k Croup' (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/9JB3-46Q/images/i/0/image.jpg"
   ],
   "openQuestions": [
-    "Her baptism c.1770s in the Plainfield/Forks/Easton Lutheran or Reformed registers (Ancestry coll. 2451)."
+    "Her baptism c.1770s in the Plainfield/Forks/Easton Lutheran or Reformed registers (Ancestry coll. 2451).",
+    "Read 'last will of Maria Young', Northampton Co. Will Book 4 p.458 (FamilySearch image ark 3:1:3QS7-89SM-WSJF, login needed): does it name a daughter Mary/Maria wife of Frederick Grub/Croup?"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -37,6 +42,50 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Church records of the Williams Twp. Congregation (archive.org full text): no Jung/Young baptism matching Maria c.1776; archive.org search for Northampton Co. will abstracts: only 1727-1779 public-records abstracts (too early)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives Mary b. Jan 1776, d. 3 Sep 1842, father Johannes Jung d. by 1787, and cites her mother Maria Young's will (Northampton Will Book 4 p.458) - a key unread document."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282695534711.json."
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "Bet 1770 and 1780",
+      "found": "Jan 1776",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "death.date",
+      "site": "1841",
+      "found": "1842-09-03",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "father's dates",
+      "site": "John Young Sr. 1751-1813",
+      "found": "Johannes Jung, b. c.1745, d. before 12 Sep 1787 (FamilySearch)",
+      "assessment": "FS dates suggest the tree has given John Young his widow's death year (1813). Unverified; the will of Maria Young (Northampton Will Book 4 p.458) would settle it."
+    }
+  ],
+  "birth": {
+    "date": "Bet 1770 and 1780",
+    "place": "Pennsylvania"
+  },
+  "events": [
+    {
+      "title": "1840 census",
+      "date": "1840",
+      "place": "Plymouth Twp, Luzerne Co., PA",
+      "description": "Female aged 60-69 in the household of Fred'k Croup (male 70-79), consistent with birth c.1771-80. [R4-S2]"
     }
   ]
 }

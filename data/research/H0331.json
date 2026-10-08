@@ -7,9 +7,10 @@
   "sex": "M",
   "tags": [],
   "summary": "A different Hauppauge James Smith (d. 1837 aged 95), from Lake Ronkonkoma; not related as far as known.",
-  "bio": "Came from Lake Ronkonkoma with brother Alexander, bought land from Joseph Blydenburgh, married Catherine Blydenburgh; family legend traced them to men who came from England to build Trinity Church; line ran to Moses R. Smith and Judge Wilmot M. Smith. Zephaniah and Jonathan Smith belonged to 'another family of Smiths'.",
+  "bio": "Came from Lake Ronkonkoma with brother Alexander, bought land from Joseph Blydenburgh, married Catherine Blydenburgh; family legend traced them to men who came from England to build Trinity Church; line ran to Moses R. Smith and Judge Wilmot M. Smith. Zephaniah and Jonathan Smith belonged to 'another family of Smiths'.\n\nPelletreau's Blydenburgh sketch lists 'Catharine, married James Smith' among the children of Joseph Blydenburgh 2d (and so a sister of Joseph Blydenburgh, 1732-1833), matching this Hauppauge James Smith's wife Catherine. Not a Bull Smith, and Catherine is not a Bull Smith descendant either (second-wife Blydenburgh line).",
   "sources": [
-    "Wood (1920) pp. 35–37, 42"
+    "Wood (1920) pp. 35–37, 42",
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 485-486 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -20,6 +21,14 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: wife Catherine identified as daughter of Joseph Blydenburgh 2d, sister of Joseph (1732-1833); not related."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0331.json."
     }
   ]
 }

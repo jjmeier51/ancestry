@@ -9,6 +9,50 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch dates him 1721-1805 and their marriage to about 1795; his will is at Will Book 4 p.219; he is in the same Williams Twp communicant list as Andreas Grub."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0412.json."
     }
+  ],
+  "birth": {
+    "date": "1721",
+    "place": "Palatinate"
+  },
+  "death": {
+    "date": "1805-07-19",
+    "place": "Easton, Northampton Co., PA"
+  },
+  "events": [
+    {
+      "title": "Will",
+      "date": "1803-03-03",
+      "place": "Northampton Co., PA",
+      "description": "Recorded in Northampton Co. Will Book 4 p.219 (FamilySearch citation; not read) [R4-S1]"
+    },
+    {
+      "title": "Communicant, Williams Township congregation",
+      "date": "1770s",
+      "place": "Williams Twp, Northampton Co.",
+      "description": "'Christoph Buttenbender' appears in the same communicant list as 'Andreas Grub, w. Maria Elisabeth' [R4-S2]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LZRB-7YT"
+    }
+  ],
+  "bio": "FamilySearch makes Christopher Bittenbender (1721-1805) of Williams Twp and Easton the second husband of Maria Elisabetha (Christmann) Grub. He emigrated in 1744 and first married at New Hanover in 1749. His first wife died on 7 May 1792, and he married the widow Grub, who had lost Andreas in Aug 1792, in about 1795 ([R4-S1]). He and the Grubs belonged to the same congregation: 'Christoph Buttenbender' and 'Andreas Grub, w. Maria Elisabeth' both appear in its communicant list ([R4-S2]). He died at Easton on 19 Jul 1805. His will of 3 Mar 1803 is in Northampton Will Book 4 p.219 and would show whether he provided for Maria Elisabetha ([R4-S1]).",
+  "openQuestions": [
+    "Northampton Will Book 4 p.219 (1803/1805): does it name his wife Elizabeth (widow Grub)?"
+  ],
+  "sources": [
+    "[R4-S1] FamilySearch published tree, Christopher Bittenbender (LZRB-7YT), citing Find a Grave index and 'Northampton Co PA, Will Book 4, p219' (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LZRB-7YT",
+    "[R4-S2] Church Records of the Williams Township Congregation, Northampton Co. (Pennsylvania-German Society, 1909), communicant list (derivative) https://archive.org/stream/churchrecordsofw00will/churchrecordsofw00will_djvu.txt"
   ]
 }

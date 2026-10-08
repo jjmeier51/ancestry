@@ -1,0 +1,109 @@
+{
+  "id": "H0142",
+  "name": "Alexander J. Pringle",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1824-09-03",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "1881-08-12",
+      "place": "Kingston, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "occupation": "Schoolteacher (Kingston; Wilkes-Barre public schools c.1853-1862), merchant, estate trustee, bank secretary",
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "1858-10-21",
+        "place": "Kingston, Luzerne Co., PA",
+        "description": "Married Mary Price (b. Pittston 4 Oct 1833), daughter of George Price (b. England 1804, d. Kingston 2 Nov 1859) and Clarissa Cooper.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Trustee of Wyoming Seminary",
+        "date": "1860-1881",
+        "place": "Kingston, PA",
+        "description": "On the Board of Trustees from 1860 and its Treasurer from 1872 until his death. Also trustee and treasurer of the Forty Fort Cemetery Association and of the Kingston M.E. Church; directed the building of the new church in 1872-73.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Helped organize the Wilkes-Barre Deposit and Savings Bank",
+        "date": "1871",
+        "place": "Wilkes-Barre, PA",
+        "description": "A director and its Secretary from the beginning.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Stroke in church",
+        "date": "1881-07-24",
+        "place": "Kingston M.E. Church",
+        "description": "Had an attack of paralysis at Sunday service; a second attack a week later; died 12 Aug 1881.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Alexander Jameson Pringle was the youngest son of Thomas Pringle (d. Kingston 22 May 1861) and Elizabeth Harvey (d. Kingston 26 May 1868). He was born in Plymouth on 3 Sep 1824 and moved with the family to Kingston in 1837. He worked on his father's farm until he was past 21, then studied at Wyoming Seminary. He taught school in Kingston, and from about 1853 to 1862 he ran the principal public school in Wilkes-Barre. After 1862 he was a merchant and acted as executor, administrator or trustee of several large estates. He was a trustee of Wyoming Seminary from 1860 and its treasurer from 1872, led the Kingston M.E. choir, and helped found the Wilkes-Barre Deposit and Savings Bank in 1871, serving as its secretary. He married Mary Price at Kingston on 21 Oct 1858. Their only child was Nelson George Pringle (H0143). He had a stroke in church on 24 Jul 1881 and died on 12 Aug 1881 (S1). His siblings were Sarah (Mrs. Elias Culver), Rosanna Harvey, Martha (d. infant), Samuel (twin of Martha; life director of Wyoming Seminary), Millicent, and the twins George Lane (H0144) and Caroline.",
+  "conflicts": [],
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "H0141",
+      "evidence": "Harvey Book p.137: child viii of Thomas and Elizabeth (Harvey) Pringle",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "H0434",
+      "evidence": "same",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "child",
+      "personId": "H0143",
+      "evidence": "Harvey Book p.138: 'only child Nelson George Pringle'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "newPeopleRefs": [],
+  "confidenceRecommendation": {
+    "current": "confirmed",
+    "recommended": "confirmed",
+    "justification": "Detailed family-compiled biography."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Harvey, The Harvey Book (1899), pp.136-138, children of Thomas and Elizabeth (Harvey) Pringle",
+      "url": "https://archive.org/details/harveybookgiving00harv",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "full dates, parents, career, marriage to Mary Price, only child, death"
+    }
+  ],
+  "researchLogEntry": "Round 4: Harvey Book pp.137-138 gives b. Plymouth 3 Sep 1824, d. 12 Aug 1881, marriage 21 Oct 1858 to Mary Price, teaching, bank and seminary roles.",
+  "researchedAt": "2026-10-08"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "H0273",
+  "name": "Caleb Smith I",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "25 Jun 1724",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "23 Oct 1800",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "3 Mar 1755",
+        "place": "",
+        "description": "Married Martha, daughter of William Henry Smith of the 'Tangier' family; children Paul Theodore, Caleb 2d, Martha.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "Pelletreau (S1) describes him as 'a sturdy patriot' who refused the oath of allegiance to the King during the British occupation, though many kinsmen signed it.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 476-477, 491",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Caleb Smith dates, marriage, children; refusal of the oath"
+    }
+  ],
+  "researchLogEntry": "Round 4: exact dates, marriage and patriot anecdote from Pelletreau.",
+  "researchedAt": "2026-10-08"
+}

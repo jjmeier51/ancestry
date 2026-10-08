@@ -1,0 +1,72 @@
+{
+  "id": "H0205",
+  "name": "Johann Peter Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "29 Feb 1724 (bapt. 5 Mar 1724)",
+      "place": "Jettenbach (Reichenbach parish)",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "24 Aug 1802",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "2 Jan 1749",
+        "place": "Offenbach am Glan",
+        "description": "To Maria Amalia Grill (1726-1759); children born at Offenbach 1750 and 1752; second wife Magdalena c.1759",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1800",
+        "place": "('Peter Krub', 1800 census)",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "KNZ7-5V6"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch places Johann Peter in Johann Nickel Grub's family, which supports his being Andreas's brother. It gives his birth at Jettenbach on 29 Feb 1724 (baptized at Reichenbach on 5 Mar 1724) and his marriage at Offenbach am Glan on 2 Jan 1749 to Maria Amalia Grill, with children born at Offenbach in 1750 and 1752, just before the 1753 Windsor voyage. It also gives a second wife, Magdalena, about 1759, the 1800 census as 'Peter Krub', and his death on 24 Aug 1802 (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Johann Peter Grub (KNZ7-5V6), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/KNZ7-5V6",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, census"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch puts him in Nickel Grub's family (b. 29 Feb 1724) and gives m. 1749 Offenbach am Glan and d. 24 Aug 1802.",
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "I282608078175",
+      "evidence": "FamilySearch lists both as children of Johann Nickel Grub (GYMH-XPG); German baptism index cited",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ]
+}

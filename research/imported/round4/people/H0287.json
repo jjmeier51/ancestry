@@ -1,0 +1,51 @@
+{
+  "id": "H0287",
+  "name": "Selah Strong",
+  "status": "researched",
+  "bioAdditions": "Path verified (Thompson S1): John Thompson -> Samuel (1668-1749) -> Susannah (1712-88, m. 1734 Thomas Strong) -> Selah: 2nd cousin 9 times removed. A 1792 engraving by Cornelius Tiebout shows 'the seat of the Hon. Selah Strong, Esqr., St. George's Manor' (S2).",
+  "confidenceRecommendation": {
+    "current": "probable",
+    "recommended": "probable",
+    "justification": "Thompson route sourced; Bull Smith/Topping/Brewster routes from earlier rounds are not supported by anything found (his wife Anna was of the Tangier Smiths)."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 296",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Samuel Thompson's daughter Susannah m. Thomas Strong; son Selah"
+    },
+    {
+      "ref": "S2",
+      "citation": "Library of Congress Prints & Photographs, 'A view of the seat of the Hon. Selah Strong, Esqr., St. George's Manor', Tiebout sculp., 1792 (LCCN 2004671562), via Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:A_view_of_the_seat_of_the_Hon._Selah_Strong,_Esqr.,_St._George%27s_Manor,_Sussex_County,_Long_Island_-_(%3F)_del._;_Tiebout_sculp._LCCN2004671562.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Contemporary engraving of his home"
+    }
+  ],
+  "media": [
+    {
+      "type": "map",
+      "title": "A view of the seat of the Hon. Selah Strong, St. George's Manor, Long Island (etching, Tiebout)",
+      "date": "1792",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_the_seat_of_the_Hon._Selah_Strong,_Esqr.,_St._George%27s_Manor,_Sussex_County,_Long_Island_-_(%3F)_del._;_Tiebout_sculp._LCCN2004671562.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/A_view_of_the_seat_of_the_Hon._Selah_Strong%2C_Esqr.%2C_St._George%27s_Manor%2C_Sussex_County%2C_Long_Island_-_%28%3F%29_del._%3B_Tiebout_sculp._LCCN2004671562.jpg",
+      "repository": "Library of Congress (LCCN 2004671562) via Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0287/selah-strong-seat-tiebout-1792.jpg",
+      "people": [
+        "H0287",
+        "H0480"
+      ],
+      "suggestedFile": "media/H0287/selah-strong-seat-tiebout-1792.jpg",
+      "note": "Public domain (1792 print; LOC). Type is a view/print of his house."
+    }
+  ],
+  "researchLogEntry": "Round 4: Thompson route re-verified; 1792 LOC engraving of his seat downloaded.",
+  "researchedAt": "2026-10-08"
+}

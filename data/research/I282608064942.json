@@ -19,7 +19,7 @@
   ],
   "tags": [],
   "summary": "John's 4th great-grandmother; daughter of the Kageneck seigneurial gamekeeper Joseph Heizler; the tree's 'Maria A. Heitzler' — right year, wrong first name.",
-  "bio": "(Maria) Agatha Heizler was born 26 Jun 1813 at Munzingen, daughter of the late Joseph Heizler, 'herrschaftlicher Jäger' (seigneurial gamekeeper), and M. Anna Federer of Munzingen. She married Servatius Birkenmayer on 17 Oct 1836 and bore at least seven children 1837–1852. She was widowed on 19 Apr 1853 ('Ehemann der Agatha Heizler') and lost her son Heinrich weeks later; the 1853 child's death calls her 'Agatha geb. Heizler'. Her brother Friedrich Heitzler (b. 1809) was the gravedigger at her husband's burial. Her death is not found; the Ancestry tree gives 1867 (as 'Maria A Heitzler 1813–1867'). Earlier candidates for the tree's 'Maria Anna Heitzler 1813' — (A) Maria Anna b. 8 Apr 1813 Unteribental, daughter of the Ibental teacher Joseph Heitzler (1765–1828) and Maria Pfister, who married J. G. Gremmelspacher 1855; and (C) the Wehrlehof family of Joseph Heitzler × Maria Rombach — are ruled out. The Dreisamtal 'Agatha Heitzler c.1810', daughter of Andreas Heitzler and Agatha Schlegel, who had children in Stegen 1834–39, is a different woman (probably a first cousin). Her name repeats Jakob Heitzler's daughter Agathe (b. 1771), supporting the probable descent from the Ibental gamekeepers.",
+  "bio": "(Maria) Agatha Heizler was born 26 Jun 1813 at Munzingen, daughter of the late Joseph Heizler, 'herrschaftlicher Jäger' (seigneurial gamekeeper), and M. Anna Federer of Munzingen. She married Servatius Birkenmayer on 17 Oct 1836 and bore at least seven children 1837–1852. She was widowed on 19 Apr 1853 ('Ehemann der Agatha Heizler') and lost her son Heinrich weeks later; the 1853 child's death calls her 'Agatha geb. Heizler'. Her brother Friedrich Heitzler (b. 1809) was the gravedigger at her husband's burial. Her death is not found; the Ancestry tree gives 1867 (as 'Maria A Heitzler 1813–1867'). Earlier candidates for the tree's 'Maria Anna Heitzler 1813' — (A) Maria Anna b. 8 Apr 1813 Unteribental, daughter of the Ibental teacher Joseph Heitzler (1765–1828) and Maria Pfister, who married J. G. Gremmelspacher 1855; and (C) the Wehrlehof family of Joseph Heitzler × Maria Rombach — are ruled out. The Dreisamtal 'Agatha Heitzler c.1810', daughter of Andreas Heitzler and Agatha Schlegel, who had children in Stegen 1834–39, is a different woman (probably a first cousin). Her name repeats Jakob Heitzler's daughter Agathe (b. 1771), supporting the probable descent from the Ibental gamekeepers.\n\nThe tree's death date is now confirmed from the register. The Munzingen death book for 1867 (No. 13) records that on 3 Aug 1867, at three in the morning, 'Agatha Birkenmaier geb. Heitzler' died at Munzingen, having received the last sacraments. She was buried on 5 August. She was 54 years, 1 month and 8 days old, which counts back exactly to her birth on 26 Jun 1813. The entry calls her the widow of the late citizen and joiner Servaz Birkenmaier, so she had not remarried in the 14 years since 1853. The witnesses were Johann Georg Birkenmaier, gravedigger, and a farmer [Franz Lang?], both citizens. The priest signed on 5 Aug 1867 ([R4-S1]). Her name is indexed as 'Birkenmaier Agatha, p. 446' in the 1867 death register index ([R4-S1]).",
   "facts": [
     {
       "label": "Tree says",
@@ -34,12 +34,10 @@
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), marriages 1836 http://www.landesarchiv-bw.de/plink/?f=5-480946-464",
     "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1590 (Munzingen, Catholic parish, civil-register duplicates/Standesbücher 1810–1839; 549 images; record id 5-480946), births 1837 http://www.landesarchiv-bw.de/plink/?f=5-480946-483 ; Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, Catholic parish, Standesbücher 1840–1870; 631 images; record id 5-480947), births 1842 http://www.landesarchiv-bw.de/plink/?f=5-480947-62 ; deaths 1853 Nos. 8–9 http://www.landesarchiv-bw.de/plink/?f=5-480947-286",
     "GEDBAS 1262189414 (different Agatha Heitzler c.1810) https://gedbas.genealogy.net/person/show/1262189414",
-    "notes/round3/german_origins.md; notes/round2/black_forest.md; deep-dive report"
+    "notes/round3/german_origins.md; notes/round2/black_forest.md; deep-dive report",
+    "[R4-S1] Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath., Standesbücher 1840–1870), Todtenbuch 1867 No. 13, p. 446 (image 572); index 'Register pro 1867' (image 574) (primary) http://www.landesarchiv-bw.de/plink/?f=5-480947-572"
   ],
-  "openQuestions": [
-    "Death date/place (tree 1867) — L 10 Nr. 1591 deaths to 1870.",
-    "Did she remarry after 1853?"
-  ],
+  "openQuestions": [],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
     "heading": "Direct ancestors",
@@ -53,6 +51,43 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Maria Agatha Heitzler\"; research uses \"Agatha Heizler\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Death date/place (tree 1867) — L 10 Nr. 1591 deaths to 1870. → Confirmed: died 3 Aug 1867 at Munzingen, buried 5 Aug, aged 54 y 1 m 8 d (Todtenbuch 1867 No. 13)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Did she remarry after 1853? → No. In 1867 she died as the widow of Servaz Birkenmaier."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: read her 3 Aug 1867 death entry in the Munzingen register (No. 13); she died a widow aged 54 y 1 m 8 d."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608064942.json."
+    }
+  ],
+  "death": {
+    "date": "1867-08-03",
+    "place": "Munzingen, Amt Freiburg, Baden"
+  },
+  "burial": {
+    "place": "Munzingen (Catholic parish), Munzingen, Amt Freiburg, Baden"
+  },
+  "media": [
+    {
+      "file": "media/I282608064942/death-1867-munzingen-l10-1591-img572.jpg",
+      "type": "record",
+      "title": "Munzingen death register 1867 No. 13: Agatha Birkenmaier née Heitzler",
+      "date": "1867-08-05",
+      "source": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591, public_domain",
+      "note": "Left page, entry No. 13. The viewer marks the image with the Public Domain Mark 1.0.",
+      "people": [
+        "I282608064919"
+      ],
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-572"
     }
   ]
 }

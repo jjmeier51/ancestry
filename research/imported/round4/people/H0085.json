@@ -1,0 +1,51 @@
+{
+  "id": "H0085",
+  "name": "Christmann Grub",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1576 or 1596 (FamilySearch)",
+      "place": "Oberbrombach",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "c. 1633",
+      "place": "Oberbrombach",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G9MF-GY6"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch has Christmann Grub of Oberbrombach, born in 1576 or 1596, died about 1633 (which confirms that the site's 'about 1933' is a typo for 1633) (S1). It names his parents as Hans Grub (b. 1560) and Elsa (d. 1597), his wife as 'Elssa' (born 11 Apr 1597), and his children as Veltes (1615) and Caspar (1616). The 1642 marriage index entry of Caspar Grueb and Elisabetha Birkhert names Christmann Grub as Caspar's father (S1). FamilySearch's naming of both Hans's wife and Christmann's wife as Elsa/Elssa, one dying in 1597 and the other born in 1597, looks like a muddle.",
+  "conflicts": [
+    {
+      "field": "spouse",
+      "siteValue": "Margaretha (H0414)",
+      "foundValue": "Elssa (FamilySearch G9MF-6ML)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "Unresolved; needs the Niederbrombach baptisms of 1615-16."
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Christmann Grub (G9MF-GY6), citing Germany Marriages index (Caspar Grueb x Elisabetha Birkhert, father Christmann Grub)",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G9MF-GY6",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, family"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives c.1576/96-c.1633, son Veltes (1615), and wife 'Elssa' (not Margaretha), a conflict."
+}

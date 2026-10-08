@@ -1,0 +1,105 @@
+{
+  "id": "H0442",
+  "name": "Susannah Lamoreux",
+  "status": "researched",
+  "updates": {
+    "events": [
+      {
+        "title": "Marriage to David Prindle",
+        "date": "1783-09-03",
+        "place": "Smith's Clove (Monroe), Orange Co., NY",
+        "description": "Married in the afternoon by Rev. Silas Constant, who had spent the previous day at 'Mr. Davenport's'.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "The journal of the Rev. Silas Constant, published in 1903, records that on 3 Sep 1783, after a day at 'Mr. Davenport's' in Smith's Clove, he 'married David Prindle and Susanna Lamoreux'. His marriage list for 1783 gives the same couple and date (S1). The editor's note identifies Susanna as a daughter of John Lamoreux Sr. of Smith's Clove, named in his will. That will (dated 31 Dec 1808 in one note, 1801 in another) names children Jane, Elizabeth, Charity, Martha, Phebe, Susanna, Hannah, Thomas, John, Robert, Joshua B. and Isaac. The editor also suggests David Prindle was 'probably of the Waterbury family of that name' (S1).\n\nGiles & Franklin give her children as Elizabeth (m. Miles Davenport), Minerva (m. ___ Underwood) and Frances (m. Freeman Polk), and note that David was also called 'Pringle-Miller' (S2). Constant also married her sister Phebe to James Prendle on 19 May 1785 (S1).",
+  "conflicts": [
+    {
+      "field": "marriage.date",
+      "siteValue": "1783 (Giles & Franklin: 22 Jul 1783)",
+      "foundValue": "3 Sep 1783",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Constant's own journal entry and list give 3 Sep 1783. '22 July' is the date of the preceding entry in his list (Francis Gale and Elizabeth Lewis), so Giles & Franklin misread it."
+    },
+    {
+      "field": "husband's name",
+      "siteValue": "David Pringle",
+      "foundValue": "The Lamoureux Record (1919) says Susanna married 'James Prindle' on 22 Jul 1783",
+      "sourceRefs": [
+        "S1",
+        "S3"
+      ],
+      "assessment": "The 1919 statement is a misreading; Constant's journal plainly says David Prindle, and James Prendle married Phebe in 1785."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "H0166",
+      "evidence": "Constant's journal and marriage list, 3 Sep 1783",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "probable",
+    "justification": "Marriage recorded by the officiating minister in his contemporaneous journal; parentage from the editor's reading of John Lamoreux's Orange Co. will."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "The Journal of the Reverend Silas Constant, pastor of the Presbyterian Church at Yorktown, NY (ed. Emily W. Roebling, 1903), entry 3 Sep 1783 (p.9) with note 75; marriage list, Appendix; entry 19 May 1785",
+      "url": "https://archive.org/details/cu31924028826894",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "marriage date and parties; parentage note; John Lamoreux's will children"
+    },
+    {
+      "ref": "S2",
+      "citation": "Giles & Franklin, Thomas Davenport ... and his Descendants (1962), p.359",
+      "url": "https://archive.org/details/thomasdavenportp00gile",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "children; 'Pringle-Miller'"
+    },
+    {
+      "ref": "S3",
+      "citation": "A. J. Lamoureux, The Lamoureux Record no. 1 (1919)",
+      "url": "https://archive.org/details/andrlamoureuxh00lamouoft",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "conflicting 'James Prindle' statement"
+    }
+  ],
+  "media": [
+    {
+      "type": "book",
+      "title": "Constant's journal, 3 Sep 1783: marriage of David Prindle and Susanna Lamoreux",
+      "date": "1903",
+      "pageUrl": "https://archive.org/details/cu31924028826894",
+      "directUrl": "",
+      "repository": "Internet Archive (Cornell University Library)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "H0442",
+        "H0166"
+      ],
+      "suggestedFile": "media/H0442/constant-journal-1783-prindle-lamoreux.jpg",
+      "note": "Published 1903 (US, PD); page image not downloaded."
+    }
+  ],
+  "researchLogEntry": "Round 4: found the marriage (3 Sep 1783, by Rev. Silas Constant at Smith's Clove) in Constant's published journal; corrects the Giles & Franklin date and the 1919 'James Prindle' error.",
+  "researchedAt": "2026-10-08"
+}

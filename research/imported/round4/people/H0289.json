@@ -1,0 +1,154 @@
+{
+  "id": "H0289",
+  "name": "Abraham Woodhull",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "7 Oct 1750",
+      "place": "Setauket, NY",
+      "sourceRefs": [
+        "S1",
+        "S4"
+      ]
+    },
+    "death": {
+      "date": "23 Jan 1826",
+      "sourceRefs": [
+        "S1",
+        "S4"
+      ]
+    },
+    "aka": [
+      "Samuel Culper",
+      "Samuel Culper Sr.",
+      "Judge Abraham Woodhull"
+    ],
+    "events": [
+      {
+        "title": "Marriage (1)",
+        "date": "25 Nov 1781 (Pelletreau) / 1784 (Woodhull Genealogy)",
+        "place": "",
+        "description": "Married Mary Smith (b. 16 Mar 1759/1760, d. 9 Jul 1806), daughter of Obadiah Smith and Anna, daughter of Edmund Smith 1st.",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      },
+      {
+        "title": "Marriage (2)",
+        "date": "5 Oct 1824",
+        "place": "",
+        "description": "Married Lydia, daughter of James Terry; no children.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "parent",
+      "personId": "NEW-604",
+      "evidence": "Woodhull Genealogy no. 44: 'third son and fifth child of the Hon. Richard Woodhull (IV.), and Margaret Smith'",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "bioAdditions": "His kinship to John no longer depends on the Topping route. The Woodhull Genealogy (S1) makes him the son of Richard Woodhull IV (1712-1788) and Margaret Smith (1714-1803), 'daughter of Edmund Smith of the \"Bull Smith\" family, and Susannah Floyd'. Pelletreau (S2) and Thompson (S3) both give Edmund Smith 1st as the only son of Adam Smith, son of the patentee, and list Margaret (wife of Richard Woodhull) among Edmund's children; Edmund's 1734 will names daughters Anne and Margaret. Path: Bull Smith -> Adam -> Edmund 1st -> Margaret -> Abraham, 4 generations below John's 11th-great-grandparents Bull Smith & Sarah Hammond: 3rd cousin 8 times removed. His wife Mary Smith was herself a Bull Smith descendant through both parents (Obadiah, son of Daniel 2d; Anna, daughter of Edmund 1st by his second wife Mary), so Abraham married his half-first cousin.\n\nThe Topping route is now doubtful: the Woodhull Genealogy says his great-grandmother Temperance, wife of Richard Woodhull II, was a daughter of Rev. Jonah Fordham, while Southampton records record Richard's 1684 marriage to 'Temperance Topping'. Howell's Topping genealogy gives Capt. Thomas Topping no daughter Temperance. The likeliest reading is that she was Temperance Fordham, widow of a Topping, which would leave the Woodhulls with no Topping blood.",
+  "conflicts": [
+    {
+      "field": "relationship route",
+      "siteValue": "4C8R via Capt. Thomas Topping (through Richard Woodhull II's wife Temperance Topping)",
+      "foundValue": "3C8R via Bull Smith (Adam -> Edmund -> Margaret); Temperance was a Fordham per Woodhull Genealogy and Howell",
+      "sourceRefs": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "assessment": "Replace the Topping route with the Bull Smith route; the Topping link is unproven and probably wrong."
+    },
+    {
+      "field": "marriage date",
+      "siteValue": "",
+      "foundValue": "25 Nov 1781 (Pelletreau) vs 1784 (Woodhull Genealogy)",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "assessment": "Prefer Pelletreau's exact date pending a record; first child b. 30 Sep 1785."
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "possible",
+    "recommended": "probable",
+    "justification": "Each generation Bull -> Adam -> Edmund -> Margaret -> Abraham is stated in two independent compiled sources (Woodhull 1904, Pelletreau 1898, plus Thompson 1918); depends only on the Temperance Smith -> James Smith -> Job link like every Smith cousin."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Mary Gould Woodhull & Francis Bowes Stevens, Woodhull Genealogy: The Woodhull Family in England and America (1904) (archive.org full text), pp. 69-70 and entry no. 44",
+      "url": "https://archive.org/details/woodhullgenealog1904wood",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Abraham no. 44: parents Richard IV & Margaret Smith; marriages; Richard IV m. Margaret dau. of Edmund Smith & Susannah Floyd"
+    },
+    {
+      "ref": "S2",
+      "citation": "W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), pp. 46-48 and App. pp. 476-478",
+      "url": "https://archive.org/details/recordsoftownofs00smitrich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Adam Smith's only son Edmund; Edmund's children incl. Margaret wife of Richard Woodhull and Anna wife of Obadiah Smith; Mary b. 16 Mar 1759 m. Abraham Woodhull 25 Nov 1781; Edmund's 1734 will"
+    },
+    {
+      "ref": "S3",
+      "citation": "B. F. Thompson, History of Long Island, 3rd ed. (1918), vol. 3 (archive.org full text), p. 377",
+      "url": "https://archive.org/details/historyoflongisl003thom",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Edmund (son of Adam) m. Susannah Floyd; issue incl. Margaret m. Richard Woodhull, issue incl. Abraham (judge); 2nd wife Mary, issue incl. Ann m. Obadiah Smith"
+    },
+    {
+      "ref": "S4",
+      "citation": "Wikipedia, 'Abraham Woodhull' (intro via MediaWiki API)",
+      "url": "https://en.wikipedia.org/wiki/Abraham_Woodhull",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dates; Culper alias"
+    },
+    {
+      "ref": "S5",
+      "citation": "George R. Howell, Early History of Southampton, L.I. (1887) (archive.org full text), pp. 198-199, 395",
+      "url": "https://archive.org/details/earlyhistoryofso00howe",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Marriage 20 Nov 1684 'Richard Woodhull of Brookhaven m Temperance Topping'; Jonah Fordham's daughter Temperance married the second Richard Woodhull; Capt. Thomas Topping's children (no Temperance)"
+    }
+  ],
+  "media": [
+    {
+      "type": "document",
+      "title": "Culper Ring code book page (Benjamin Tallmadge)",
+      "date": "late 1770s",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Culper_Ring_code.jpg",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Culper_Ring_code.jpg",
+      "repository": "Wikimedia Commons (source: Mount Vernon / Library of Congress)",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0289/culper-ring-code-book-page.jpg",
+      "people": [
+        "H0289"
+      ],
+      "suggestedFile": "media/H0289/culper-ring-code-book-page.jpg",
+      "note": "Commons licence: Public domain. No authentic portrait of Woodhull is known on Commons. Saved as 1280px derivative."
+    }
+  ],
+  "funFacts": [
+    "George Washington suggested his alias 'Samuel Culper', a play on Culpeper County, Virginia."
+  ],
+  "researchLogEntry": "Round 4: Woodhull Genealogy + Pelletreau + Thompson give a clean Bull Smith route (3C8R) via his mother Margaret Smith; the Topping route is doubtful (Temperance Fordham).",
+  "researchedAt": "2026-10-08"
+}

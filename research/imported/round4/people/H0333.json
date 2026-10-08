@@ -1,0 +1,209 @@
+{
+ "id": "H0333",
+ "name": "Frank Giannetta",
+ "status": "researched",
+ "updates": {
+  "death": {
+   "date": "1934-04-14",
+   "place": "Dunmore, Lackawanna County, Pennsylvania, USA",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Francesco Janet (1910 census)",
+   "Frank Genet (1920 census)",
+   "Francesco Giannett (PA death index 1934)",
+   "Frank Genett"
+  ],
+  "occupation": "Laborer for a contractor (1910); laborer in railroad shops (1920); blacksmith (1931)",
+  "residences": [
+   {
+    "date": "1910-04-21",
+    "place": "134 Sand Street, Dunmore, Lackawanna County, Pennsylvania, USA",
+    "note": "Head, 41, married 14 years, alien, laborer (contractor); wife Angelico and four Italian-born children; two boarders.",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1920-01-10",
+    "place": "133 Sand Street, Dunmore Ward 5, Lackawanna County, Pennsylvania, USA",
+    "note": "Head, 51, owned house with mortgage, alien, laborer in R.R. shops.",
+    "sourceRefs": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1933-05-27",
+    "place": "133 Sand Street, Dunmore, Pennsylvania, USA",
+    "note": "Residence of father Frank Genett on son Joseph's marriage license.",
+    "sourceRefs": [
+     "S4"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "PA death certificate file no.",
+    "value": "36353 (1934)"
+   }
+  ]
+ },
+ "bioAdditions": "The 1910 census confirms the 1896 Bisaccia marriage: Francesco 'Janet', 41, said he had been married 14 years. He was then a contractor's laborer at 134 Sand Street, Dunmore, still an alien, living with his wife, the four children born in Italy (Sam, Marianna/Mariano, Marie and Tony) and two Italian boarders (S2). By January 1920 he owned the house at 133 Sand Street (with a mortgage) and worked as a laborer in the railroad shops. His sons Sam and Marion worked at a coal breaker, and the household had grown to seven children at home (S3). In May 1933 he was still living at 133 Sand Street when son Joseph married at St. Rocco's, the Guardiese church in Dunmore (S4). He died eleven months later. The state death index lists 'Francesco Giannett' of Dunmore, died 14 April 1934, file number 36353 (S1). By 1940 his widow was head of the household (S5).",
+ "openQuestionsResolved": [
+  {
+   "question": "PA death certificate 1934",
+   "answer": "Located in the state index: 'Francesco Giannett', Dunmore, died 14 Apr 1934, file no. 36353. The certificate itself is not yet seen; order it from the PA State Archives or view it on Ancestry's PA death certificates.",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "type": "sibling",
+   "personId": "NEW-701",
+   "evidence": "FamilySearch tree makes Maria Giuseppa 'Josephine' Giannetta (b. 11 Mar 1880 Bisaccia; m. Michele Arcangelo Ragazzo, Bisaccia 24 Nov 1902; Hartford CT from c.1906) a daughter of Savino Giannetta and Angelamaria Fede, citing an Avellino civil-registration index entry. Record images not viewable here.",
+   "sourceRefs": [
+    "S6"
+   ],
+   "strength": "candidate"
+  },
+  {
+   "type": "sibling",
+   "personId": "NEW-702",
+   "evidence": "FamilySearch tree: Antonio Giannetta, b. 14 Feb 1874 Bisaccia, m. Orsola Ottobrino 8 Jul 1897, d. 3 Nov 1903 Bisaccia, son of Savino and Angelamaria Fede (Sant'Angelo dei Lombardi tribunale register citations; images not viewable).",
+   "sourceRefs": [
+    "S7"
+   ],
+   "strength": "candidate"
+  }
+ ],
+ "openQuestionsNew": [
+  "Siblings per the FamilySearch tree, not yet verified: Lucia (b. 14 Apr 1872), Antonio (1874-1903), Lucia (1877-1878), Maria Giuseppa 'Josephine' Ragazzo (b. 1880, Hartford CT), Nunzianda (c.1885-1888), Bartolomeo (Jul 1889, died at 20 days)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Pennsylvania Death Index 1934, F-G volume, Soundex G530 (index p. 714): 'Francesco Giannett', Dunmore, county 35, died 4/14/34, state file no. 36353. PA State Archives RG-11.",
+   "url": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1934/D-34%20F-G.pdf",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Frank Giannetta death 14 Apr 1934 Dunmore; certificate file 36353"
+  },
+  {
+   "ref": "S2",
+   "citation": "1910 US census, Dunmore borough, Lackawanna Co., PA, ED 29 (reading uncertain), sheet 9B (21 Apr 1910), Sand Street no. 134: Francesco 'Janet' (41, married 14 years, alien, laborer for contractor), Angelico (30?, 4 children born, 4 living), Sam (12?), Marianna (son, 11), Marie (8), Tony (3), all born Italy. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:MGZ8-YF8).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Married c.1896 (14 years in 1910); four children born Italy, all living; Carmela not yet born"
+  },
+  {
+   "ref": "S3",
+   "citation": "1920 US census, Dunmore borough Ward 5, ED 48, sheet 8B (10 Jan 1920), 133 Sand Street: Frank 'Genet' (51, head, owned with mortgage, immigrated 190-, alien, laborer R.R. shops), Angelina (46, imm. 1909, alien), Sam (21), Marion (20), Anthony (12, imm. 1909), Molly (9, b. PA), Joseph (8), and a son aged 4. Image attached to FamilySearch tree GLBZ-Z91 (index ark 1:1:MFTM-GCK).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GLBZ-Z91/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1920 Giannetta household; Frank worked in railroad shops; Rosa (b. 1914) not in household"
+  },
+  {
+   "ref": "S4",
+   "citation": "Lackawanna Co. Orphans' Court, marriage license application No. 753 (1933): Joseph Genett (20, laborer, b. Dunmore, 133 Sand St; father Frank Genett, mother Angelica, maiden name 'Ferandina') and Vinchinza Gellette (20, silk hand, 135 Sand St; father Gaetano, deceased; mother Angeline Savino); sworn 27 May 1933; married 17 Jun 1933 at St. Rocco's Catholic Church, Dunmore, by Rev. Michele De Larno. Image attached to FamilySearch tree LCPG-XKM (index ark 1:1:VF7Z-FLR).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Giuseppe/Joseph Giannetta marriage; Frank alive May 1933; mother maiden name Ferandina"
+  },
+  {
+   "ref": "S5",
+   "citation": "1940 US census, Dunmore borough Ward 5, ED 35-66, sheet 4A (5 Apr 1940), 133 Sand Street: Angelica Genett (head, 64, widowed, b. Italy, owned house worth $1,000), sons Anthony (31) and Charles J. (24, trackman, steam railroad), daughter-in-law Jeanette (21), granddaughter Angela (1). Image attached to FamilySearch tree GQPJ-C82 (index ark 1:1:KQDW-7K6).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQPJ-C82/images/i/0/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "Angelica widowed by 1940; household at 133 Sand St"
+  },
+  {
+   "ref": "S6",
+   "citation": "FamilySearch Family Tree published profile GCPQ-BCG (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GCPQ-BCG",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Maria Giuseppa Giannetta Ragazzo, b. 1880 Bisaccia, daughter of Savino and Angelamaria Fede"
+  },
+  {
+   "ref": "S7",
+   "citation": "FamilySearch Family Tree published profile LCPG-XPR (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LCPG-XPR",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Antonio Giannetta 1874-1903, son of Savino and Angelamaria Fede"
+  }
+ ],
+ "media": [
+  {
+   "type": "record",
+   "title": "1910 census, Sand St, Dunmore (Francesco Janet household)",
+   "date": "1910-04-21",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/0/image.jpg",
+   "repository": "FamilySearch (published tree attachment)",
+   "rights": "public_domain",
+   "downloadable": true,
+   "downloaded": true,
+   "localPath": "media/H0333/1910-census-sand-st.jpg",
+   "people": [
+    "H0333",
+    "H0334",
+    "H0367",
+    "H0368",
+    "H0369",
+    "H0370"
+   ],
+   "suggestedFile": "media/H0333/1910-census-sand-st.jpg",
+   "note": "US federal census record: a US government work, so public domain."
+  },
+  {
+   "type": "record",
+   "title": "PA death index 1934, entry for Francesco Giannett (file 36353)",
+   "date": "1934",
+   "pageUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1934/D-34%20F-G.pdf",
+   "directUrl": "https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1934/D-34%20F-G.pdf",
+   "repository": "Pennsylvania State Archives",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "people": [
+    "H0333"
+   ],
+   "suggestedFile": "media/H0333/pa-death-index-1934.pdf",
+   "note": "State index; reuse status not stated, not downloaded. Entry on index page 714 (PDF page 148)."
+  },
+  {
+   "type": "record",
+   "title": "Marriage license No. 753 (1933), Joseph Genett and Vinchinza Gellette, naming Frank and Angelica (Ferandina) Genett",
+   "date": "1933-05-27",
+   "pageUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/1/image.jpg",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/LCPG-XKM/images/i/1/image.jpg",
+   "repository": "FamilySearch (Lackawanna Co. Orphans' Court)",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "people": [
+    "H0333",
+    "H0334",
+    "H0371"
+   ],
+   "suggestedFile": "media/H0371/marriage-license-1933.jpg",
+   "note": "County record after 1930; rights unknown, not downloaded."
+  }
+ ],
+ "searchedNoResult": [
+  "SS Italia April 1903 manifest: Ellis Island database requires login (not accessed)",
+  "Antenati Bisaccia Nati 1869: blocked (403)",
+  "FamilySearch Italian civil-record images attached to Bisaccia profiles: 403"
+ ],
+ "researchLogEntry": "Round 4: found his death in the 1934 PA death index (14 Apr 1934, file 36353) and read the 1910 census (married 14 years), the 1920 census (railroad shops, owned 133 Sand St) and son Joseph's 1933 license; the FS tree supplies six siblings.",
+ "researchedAt": "2026-10-08"
+}

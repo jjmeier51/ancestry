@@ -1,0 +1,36 @@
+{
+  "id": "I282608083531",
+  "name": "Emma Aldridge",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Savage records that Thomas Topping joined the Milford church with his wife Emma in 1640 and had Elnathan baptized on 2 Aug 1640. Thomas's next marriage contract is dated 20 Oct 1666 (S1). So Emma was the mother of Capt. Elnathan (S1).",
+  "openQuestionsResolved": [
+    {
+      "question": "Was she the mother of Elnathan (b. 1640), given Thomas's three marriages?",
+      "answer": "Yes. Thomas and wife Emma joined the Milford church in 1640, the year Elnathan was baptized (2 Aug 1640); his second marriage was in 1666.",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "James Savage, A Genealogical Dictionary of the First Settlers of New England, vol. 4 (1862), p. 255, entry TAPPAN/TOPPING, Thomas of Milford",
+      "url": "https://archive.org/details/genealogicaldic04savarich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Emma, wife of Thomas, at Milford 1640; Elnathan bapt. 2 Aug 1640"
+    },
+    {
+      "ref": "S2",
+      "citation": "WikiTree Topping-121 (Thomas Topping), biography read via api.wikitree.com: Dunstable marriage 16 Nov 1628 (Dunstable parish register, Beds. CRO 1951); seven children; second marriage contract 20 Oct 1666 with Mary, widow of John Mapham and Timothy Baldwin; third wife Lydia, widow of John Wilford",
+      "url": "https://www.wikitree.com/wiki/Topping-121",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "second marriage contract 20 Oct 1666; Emma d. by then"
+    }
+  ],
+  "researchLogEntry": "Round 4: Savage shows Emma was Elnathan's mother."
+}

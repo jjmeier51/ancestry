@@ -10,7 +10,7 @@
   ],
   "tags": [],
   "summary": "John's 9th-great-grandfather (newly identified in Round 1), father of Jerusha Topping.",
-  "bio": "Son of Capt. Elnathan Topping of Sagg. Born 20 Aug 1664, died Sept 1751. Will of 'Elnathan Topping of Southampton', dated 15 Sep 1751, proved 30 Sep 1751 (NY Wills IV, Liber 18, pp. 391–2), gives 5s each to 'my daughters, Phebe, Mary, and Jerusha'. Howell lists his children by will as Elnathan, Job, Silas, Luther, Zephaniah, Mary, Phebe and Jerusha. His insertion pushes Capt. Thomas Topping one generation further back (13 up) and adds one 'removed' to every Topping-route cousin.",
+  "bio": "Son of Capt. Elnathan Topping of Sagg. Born 20 Aug 1664, died Sept 1751. Will of 'Elnathan Topping of Southampton', dated 15 Sep 1751, proved 30 Sep 1751 (NY Wills IV, Liber 18, pp. 391–2), gives 5s each to 'my daughters, Phebe, Mary, and Jerusha'. Howell lists his children by will as Elnathan, Job, Silas, Luther, Zephaniah, Mary, Phebe and Jerusha. His insertion pushes Capt. Thomas Topping one generation further back (13 up) and adds one 'removed' to every Topping-route cousin.\n\nWeygant (1897) names this Elnathan Topping Jr. as father of Jerusha, wife of James Smith, and as son of Capt. Elnathan (b. 1640) ([R4-S1]). This is a second independent printed source for the identification first made from his 1751 will.",
   "residences": [
     {
       "date": "1751",
@@ -21,10 +21,12 @@
     "Howell (1887) pp. 395–396",
     "NY Wills vol. IV Liber 18 pp. 391–2",
     "F. K. Smith (1967) via jrm Needham I2549",
-    "Round 1 correction 3a"
+    "Round 1 correction 3a",
+    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
   ],
   "openQuestions": [
-    "Wife Mary's surname."
+    "Wife Mary's surname.",
+    "Wife Mary's surname remains unknown; check Howell 1887 and Southampton town records."
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -35,6 +37,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: NY will abstracts: only the known 1751 will (Liber 18) found"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: Weygant 1897 corroborates him as Jerusha's father; wife's surname still unknown."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0225.json."
     }
   ],
   "media": [

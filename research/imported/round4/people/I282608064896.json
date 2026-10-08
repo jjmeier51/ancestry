@@ -1,0 +1,60 @@
+{
+  "id": "I282608064896",
+  "name": "Maria Anna Birkenmayer",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "occupation": "Day labourer (ledige Taglöhnerin) at Munzingen, 1862",
+    "events": [
+      {
+        "title": "Birth of first child, Friedrich",
+        "date": "1862-01-11",
+        "place": "Munzingen, Amt Freiburg, Baden",
+        "description": "Born out of wedlock nine months before her marriage. The father, the single mason Friedrich Mayer, acknowledged him at the baptism on 13 Jan 1862.",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "title": "Death of her mother Agatha (Heitzler) Birkenmaier",
+        "date": "1867-08-03",
+        "place": "Munzingen",
+        "description": "Mother died a widow aged 54. About a year later the family emigrated.",
+        "sourceRefs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "In January 1862 Maria Anna was 'the single day labourer Maria Anna Birkenmaier', legitimate daughter of the late citizen and joiner Servatius Birkenmaier and Agatha Heitzler. On 11 Jan 1862 she gave birth at Munzingen to a son, Friedrich, and at his baptism on 13 January the mason Friedrich Mayer acknowledged him (S1). She and Friedrich married on 20 Oct 1862. This first son is the 'Frederick, 8, Baden' of the 1870 Hazleton census. Her widowed mother Agatha died at Munzingen on 3 Aug 1867, aged 54 (S2). That was probably the last family tie keeping her there, and the Meiers left for America in about 1868.",
+  "relationships": [
+    {
+      "type": "child",
+      "personId": "I282608085066",
+      "evidence": "1862 Munzingen birth entry names her as mother of Friedrich, b. 11 Jan 1862",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Geburtsbuch 1862 No. 2, pp. 489–490 (images 431–432)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-431",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Mother of Friedrich b. 11 Jan 1862; her occupation and parents"
+    },
+    {
+      "ref": "S2",
+      "citation": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, L 10 Nr. 1591 (Munzingen, kath.), Todtenbuch 1867 No. 13, p. 446 (image 572)",
+      "url": "http://www.landesarchiv-bw.de/plink/?f=5-480947-572",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Mother Agatha's death 3 Aug 1867"
+    }
+  ],
+  "researchLogEntry": "Round 4: Munzingen 1862 register shows her as an unmarried day labourer who bore son Friedrich on 11 Jan 1862 (father acknowledged); her mother's 1867 death confirmed from the register."
+}

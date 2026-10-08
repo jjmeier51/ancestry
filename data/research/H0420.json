@@ -9,6 +9,33 @@
     {
       "date": "2026-10-08",
       "note": "Stub created from a handoff reference."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: parents and death date from FS."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0420.json."
     }
+  ],
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "1874",
+      "found": "1876",
+      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    }
+  ],
+  "birth": {
+    "date": "1874",
+    "place": "Pennsylvania"
+  },
+  "death": {
+    "date": "1955-04-22"
+  },
+  "bio": "FamilySearch: Felix J. Murphy, b. 1876 Pennsylvania, son of John Felix Murphy (1851-1890) and Mary Kelly (1850-1907); 1920 and 1940 census entries; d. 22 Apr 1955 ([R4-S1]).",
+  "sources": [
+    "[R4-S1] FamilySearch Family Tree (published), Felix Murphy (1876-1955), PID GKXZ-X3Z; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GKXZ-X3Z"
   ]
 }

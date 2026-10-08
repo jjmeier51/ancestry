@@ -1,0 +1,69 @@
+{
+  "id": "H0108",
+  "name": "Helen Pringle",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1905-1906",
+      "place": "Plymouth, Luzerne Co., PA",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "death": {
+      "date": "13 Apr 1992",
+      "place": "",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "events": [
+      {
+        "title": "Marriage",
+        "date": "16 Sep 1931",
+        "place": "Wilkes-Barre",
+        "description": "To William J. Toole (1905-1976)",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1931",
+        "place": "28 Huston Street, Wilkes-Barre",
+        "note": "Same address as her sister Florence in 1926",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "1940",
+        "place": "331 Franklin Street, Marion, Ohio",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "LHC3-KMF"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch records Helen R. Pringle's marriage at Wilkes-Barre on 16 Sep 1931 to William J. Toole (1905-1976). At the time she lived at 28 Huston Street, the address her sister Florence gave at her own 1926 marriage. FamilySearch places the Tooles at Marion, Ohio, in 1940 and gives Helen's death date as 13 Apr 1992 (S1). Her younger sister Katherine married a Daniel F. Toole.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Helen Pringle (LHC3-KMF), with attached index entries",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/LHC3-KMF",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "dates, marriage, residences"
+    }
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives m. 1931 William J. Toole, Marion, Ohio in 1940, and d. 13 Apr 1992."
+}

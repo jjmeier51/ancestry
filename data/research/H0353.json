@@ -10,13 +10,16 @@
   ],
   "tags": [],
   "summary": "John's great-granduncle; coal-breaker laborer in 1920.",
-  "bio": "Frank, 10 in 1910 (b. c.1900 PA); laborer at a coal breaker in 1920. Geni lists Frank W. b. Jul 1895 PA, which Round 1 used to date the family's arrival; census age suggests c.1900.",
+  "bio": "Frank, 10 in 1910 (b. c.1900 PA); laborer at a coal breaker in 1920. Geni lists Frank W. b. Jul 1895 PA, which Round 1 used to date the family's arrival; census age suggests c.1900.\n\nFrank is 10 in the April 1910 census and 20 in January 1920, both consistent with birth c.1899–1900, not 1895 ([R4-S1], [R4-S2]). He is not among the brothers (Nick, Jim, Rocco) who survived his sister Josephine in November 1995, so he had died by then ([R4-S3]). No later record was found.",
   "sources": [
     "1910 and 1920 census images",
-    "Geni Giovanni Petriello profile"
+    "Geni Giovanni Petriello profile",
+    "[R4-S1] 1910 US census, Scranton Ward 10, ED 88, sheet 22A (enumerated 29 Apr 1910), 1030 Ash Street: John 'Petrillo' (35, immigrated 1880, naturalized, grocery store, own account), Marie (40, 6 children born, 6 living), Katie (daughter, F, 13), Peter (12), Frank (10), Joseph (5), Tony (3), Charlie (1). Image attached to FamilySearch tree GQWT-LP5 (index ark 1:1:MGZX-T5W). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-LP5/images/i/1/image.jpg",
+    "[R4-S2] 1920 US census, Scranton (part of 10th Ward), ED 142, sheet 13A (enumerated 9 Jan 1920), no. 1028 [Bunker Hill St]: John 'Patrello' (50, owned free, immigrated 1892, naturalized 1900, merchant, grocery store) and Mary (43), sons Peter (22), Frank (20), 'Chas' (23, male, coal-mine laborer), Ralph (14), Anthony (15), James (12), Michael (8), Rocco (7?) and daughter Carrie. Image attached to FamilySearch tree GQWT-4Z7 (index ark 1:1:M6YQ-5JP). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-4Z7/images/i/0/image.jpg",
+    "[R4-S3] Obituary, Josephine Castellano, The Arizona Republic (Phoenix), 29 Nov 1995 (clipping image attached to FamilySearch tree GQWT-QQ6, collection 'Arizona, Gila, Payson, Obituaries', ark 1:1:Q2WQ-L25P). (secondary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWT-QQ6/images/i/2/image.jpg"
   ],
   "openQuestions": [
-    "Birth 1895 (Geni) vs c.1900 (census); WWI draft card"
+    "WWI draft registration (12 Sep 1918) for a Frank Petrillo/Patrello b. c.1899-1900, Scranton: not attached to FS."
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -27,6 +30,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Resolved: Birth 1895 (Geni) vs c.1900 (census) → Both censuses (10 in Apr 1910; 20 in Jan 1920) point to c.1899-1900. Geni's 'Frank W., b. Jul 1895' is unsupported."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: censuses fix birth c.1899-1900; not a survivor in 1995."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0353.json."
     }
   ]
 }

@@ -11,7 +11,7 @@
   ],
   "tags": [],
   "summary": "John's 9th-great-grandfather; Huguenot shipmaster and pilot of the Gironde from Meschers, Saintonge, who fled to Bristol in 1689 and reached New York by 1700.",
-  "bio": "André Lamoureux was, per the Reformed Church of Cozes (the Protestant parish about 8 km inland from Meschers), born 3 Nov and baptized 25 Nov 1663, son of Daniel Lamoureux and Marie Touchay (Garner pp.1, 48; probable identification). He was a 'maistre de nauire... cy-devant de Meche en Xaintonge, pillotte' - a shipmaster and licensed pilot of the dangerous Gironde mouth at Meschers-sur-Gironde. Not from La Rochelle (no record ties him there; the confusion probably comes from the Mersereau in-law Suzanne Doucinet 'de la ville de la Rochelle'). He fled with his family to Bristol in 1689: Judith was baptized there 16 Dec 1689; Jacques, who came from France with them, was buried 19 Mar 1690; a Daniel born 1693 died young; Daniel (John's ancestor) was born 29 Nov 1695. He received denization on 22 Jun 1694 (Shaw p.235; the reports call it naturalization by Act of Parliament). He was in New York by 15 May 1700, and the 1703 census lists 'Andrew Lamarue' in the West Ward. On 4 May 1706 Lord Cornbury ordered 'Andrew L'Amoureux, captain of a merchantman' released from impressment into the Royal Navy.",
+  "bio": "André Lamoureux was, per the Reformed Church of Cozes (the Protestant parish about 8 km inland from Meschers), born 3 Nov and baptized 25 Nov 1663, son of Daniel Lamoureux and Marie Touchay (Garner pp.1, 48; probable identification). He was a 'maistre de nauire... cy-devant de Meche en Xaintonge, pillotte' - a shipmaster and licensed pilot of the dangerous Gironde mouth at Meschers-sur-Gironde. Not from La Rochelle (no record ties him there; the confusion probably comes from the Mersereau in-law Suzanne Doucinet 'de la ville de la Rochelle'). He fled with his family to Bristol in 1689: Judith was baptized there 16 Dec 1689; Jacques, who came from France with them, was buried 19 Mar 1690; a Daniel born 1693 died young; Daniel (John's ancestor) was born 29 Nov 1695. He received denization on 22 Jun 1694 (Shaw p.235; the reports call it naturalization by Act of Parliament). He was in New York by 15 May 1700, and the 1703 census lists 'Andrew Lamarue' in the West Ward. On 4 May 1706 Lord Cornbury ordered 'Andrew L'Amoureux, captain of a merchantman' released from impressment into the Royal Navy.\n\nThe printed registers of the French Church of New York record André once in person: on 13 Jan 1703 he signed as 'Andre Lamourau' at the wedding of Daniel Bueau and Ester Gaillard ([R4-S1]). A Suzanne de la Tour, probably his wife, who kept her maiden name in the French manner, was a godmother there in May 1700 ([R4-S1]). The Protestant registers of Cozes, where his 1663 baptism is said to be, are online through the Charente-Maritime archives' Archinoe viewer ('Registres protestants', Cozes listed). Round 4 could not read them because the viewer needs an interactive browser ([R4-S2]). His death is still unknown. The Davenport genealogy notes that he disappears from the records after Cornbury's 1706 order, and that Suzanne was last seen in 1720.",
   "residences": [
     {
       "date": "1663",
@@ -46,6 +46,12 @@
       "date": "1706-05-04",
       "place": "New York",
       "description": "Gov. Lord Cornbury ordered 'Andrew L'Amoureux, captain of a merchantman' released from the Royal Navy."
+    },
+    {
+      "title": "Witness to a marriage",
+      "date": "1703-01-13",
+      "place": "French Church, New York",
+      "description": "Signed 'Andre Lamourau' as a witness at the marriage of Daniel Bueau (Beau) and Ester Gaillard [R4-S1]"
     }
   ],
   "sources": [
@@ -53,11 +59,14 @@
     "Shaw, Letters of Denization p.235: https://archive.org/details/lettersofdenizat01shaw/page/235/mode/1up",
     "Kenn True Garner, The French Reformed Church, Cozes, Saintonge: Baptisms 1655-1668 (FamilySearch Books); FHL film 1868505 item 5",
     "WikiTree Lamoreaux-49: https://www.wikitree.com/wiki/Lamoreaux-49 ; Lamoreaux-112: https://www.wikitree.com/wiki/Lamoreaux-112",
-    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft"
+    "A. J. Lamoureux, André Lamoureux, the Huguenot Emigrant, and Family (The Lamoureux Record no. 1, 1919): https://archive.org/details/andrlamoureuxh00lamouoft",
+    "[R4-S1] Wittmeyer (ed.), Registers of the Église Françoise à la Nouvelle York 1688-1804 (Collections of the Huguenot Society of America vol.1, 1886), p.92 (marriage 13 Jan 1703) and p.72 area (baptism May 1700, godmother Susanne de la tour) (derivative) https://archive.org/stream/collectionsofhug01hugu/collectionsofhug01hugu_djvu.txt",
+    "[R4-S2] Archives départementales de la Charente-Maritime, Répertoire des registres protestants (Archinoe), entry list incl. Cozes (derivative) https://archinoe.com/console/ir_ead_visu.php?eadid=FRAD017_serie_I&ir=37170"
   ],
   "openQuestions": [
     "Cozes Protestant registers (Charente-Maritime archives online) to confirm baptism and parents.",
-    "Death date and place."
+    "Death date and place.",
+    "Cozes Protestant register (AD17, Archinoe 'Registres protestants' series I) needs reading in an interactive browser for the 3/25 Nov 1663 baptism."
   ],
   "occupation": "Shipmaster (maistre de navire) and Gironde pilot; captain of a merchantman",
   "handoff": {
@@ -69,6 +78,18 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: French Church NY registers 1688-1804: no burial of André Lamoureux"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: French Church register shows him signing as a marriage witness on 13 Jan 1703; the Cozes Protestant registers are online at AD17 but were not readable without a browser."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0090.json."
     }
   ]
 }

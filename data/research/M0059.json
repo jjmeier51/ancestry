@@ -1,0 +1,20 @@
+{
+  "id": "M0059",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of I282824816515 (probable)."
+  },
+  "tags": [],
+  "summary": "Father (with Rosa Gallo) of Francesca Angelina Ferlaino, bapt",
+  "bio": "Father (with Rosa Gallo) of Francesca Angelina Ferlaino, bapt. 25 Feb 1797, identified as the later Agostina/Faustina Ferlaino. Probable direct ancestor.",
+  "sources": [
+    "[R4-S1] San Mango d'Aquino (CZ), parish of San Tommaso d'Aquino, Battesimi 1767-1808 (Book 6), image 214, p. 418, no. 9; volunteer index 'Indici Battesimi - San Mango D'Aquino Church.xlsx' (ItalianParishRecords.org, San Mango d'Aquino page; indexers incl. D. Lupia and J. Bifano/Epifano), sheet '1767-1808'. (derivative) https://drive.usercontent.google.com/download?id=1FgMEPbDpBobCA2jiVWp0Boz9VZPci5uz&export=download&confirm=t"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported): new relative NEW-809 → M0059; research/imported/round4/new_people.json."
+    }
+  ]
+}

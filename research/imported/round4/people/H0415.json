@@ -1,0 +1,36 @@
+{
+  "id": "H0415",
+  "name": "Conrad Birgert",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "birth": {
+      "date": "1588 (FamilySearch)",
+      "place": "Fockenberg-Limbach",
+      "sourceRefs": [
+        "S1"
+      ]
+    },
+    "facts": [
+      {
+        "label": "FamilySearch ID",
+        "value": "G93H-K6H"
+      }
+    ]
+  },
+  "bioAdditions": "FamilySearch has 'Conradt Birgert', born in 1588 at Fockenberg-Limbach, married to Anna Eva Jacob (b. 1593), and father of Elisabetha (1618-1685) (S1). It carries the line back to Hans Konrad Birckhert (1535-1605) and Barbara Ibelheupt, without sources visible for that generation. His name appears in the indexed 1642 marriage of his daughter to Caspar Grub ('Conradt Birkhert') and in a Lutheran baptism entry (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "FamilySearch published tree, Conradt Birgert (G93H-K6H), citing Germany Marriages index (entry for Caspar Grueb) and a Lutheran baptism entry",
+      "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G93H-K6H",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "birth, wife, parents (claims)"
+    }
+  ],
+  "openQuestionsNew": [
+    "FamilySearch names his wife (Anna Eva Jacob) and parents (Hans Konrad Birckhert and Barbara Ibelheupt); all need records."
+  ],
+  "researchLogEntry": "Round 4: FamilySearch gives b. 1588 Fockenberg-Limbach, wife Anna Eva Jacob, and parents (unsourced)."
+}

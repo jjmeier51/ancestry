@@ -1,0 +1,45 @@
+{
+ "id": "H0512",
+ "name": "Victoria DiPietro",
+ "status": "researched",
+ "updates": {
+  "residences": [
+   {
+    "date": "1940-04-16",
+    "place": "1009 Bunker Hill Street, Scranton Ward 10, Pennsylvania, USA",
+    "note": "Mother, 78, widowed, born Italy, alien; living with son John DiBiasi, his wife Effie and sons Dominic, Vito, Nicholas, Victor.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "birth": {
+   "date": "ABT 1862",
+   "place": "Italy",
+   "sourceRefs": [
+    "S1"
+   ]
+  }
+ },
+ "bioAdditions": "In April 1940 Victoria, 78 and widowed, still an alien, lived with her son John DiBiasi's family at 1009 Bunker Hill Street (S1). The FamilySearch tree also attaches a 1930 census entry ('Victoria Piazzi') (S2).",
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-63, sheet 15A (enumerated 16 Apr 1940), Bunker Hill Street nos. 1003-1015: households of James DiBiasi (1015, 45, b. Italy), Joseph DiBiasi (1015, 47, b. Italy) and wife Grace (43, b. PA, merchant, general grocery store), Mary Magnotta, John DiBiasi (1009, with widowed mother Victoria, 78), Michael DiBiasi, and Nicholas Castellano (1003, with wife Josephine and children Vito, Carmella, Marie). Image attached to FamilySearch tree G812-H28 (index ark 1:1:KQ62-PKD).",
+   "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G812-H28/images/i/1/image.jpg",
+   "class": "primary",
+   "accessed": "2026-10-08",
+   "supports": "1940 DiBiasi and Castellano households on Bunker Hill St"
+  },
+  {
+   "ref": "S2",
+   "citation": "FamilySearch Family Tree published profile G812-H28 (user-contributed; read via published-tree JSON)",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G812-H28",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "1930 and 1940 census attachments"
+  }
+ ],
+ "researchLogEntry": "Round 4: 1940 census, widow aged 78 with son John at 1009 Bunker Hill St.",
+ "researchedAt": "2026-10-08"
+}

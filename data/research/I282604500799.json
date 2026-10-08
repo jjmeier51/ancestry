@@ -14,7 +14,7 @@
   },
   "tags": [],
   "summary": "John's 3rd great-grandfather; Irish-born, in Schuylkill County by 1857 and Plymouth by 1860.",
-  "bio": "Martin Murphy, born c.1835 in Ireland, had a child born in Schuylkill Co. in Feb 1857, was in Plymouth by 1860, and in Plymouth Twp. in 1870 and 1880. He died 8 May 1885.",
+  "bio": "Martin Murphy, born c.1835 in Ireland, had a child born in Schuylkill Co. in Feb 1857, was in Plymouth by 1860, and in Plymouth Twp. in 1870 and 1880. He died 8 May 1885.\n\nIn the 1870 census Martin Murphy was a miner in Plymouth Township, owning real estate worth $1,100 and personal property worth $200 ([R4-S1]). With him were Alice (35) and seven children: Mary 13, Patrick 12, Catherine 9, James 7, John 4, and one-month-old twins Martin and Thomas.",
   "residences": [
     {
       "date": "1857",
@@ -31,11 +31,17 @@
     {
       "date": "1880",
       "place": "Plymouth Township, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1870-07-29",
+      "place": "Plymouth Township, Luzerne Co., Pa. (P.O. Kingston)",
+      "note": "Owned real estate worth $1,100 [R4-S1]"
     }
   ],
   "sources": [
     "FamilySearch G7FL-HGY, L85M-PP2",
-    "notes/round3/irish_pa.md"
+    "notes/round3/irish_pa.md",
+    "[R4-S1] 1870 U.S. census, Plymouth Township, Luzerne Co., Pa., p.66, enumerated 29 Jul 1870 by Roberson Boyd, P.O. Kingston, dwelling 444, family 446 (image via FamilySearch, attached to G7FL-HGY) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7FL-HGY/images/i/2/image.jpg"
   ],
   "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -50,6 +56,38 @@
     {
       "date": "2026-10-08",
       "note": "WikiTree profile Murphy-22277 rejected on review (dates or places do not fit); its links and images removed."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: 1870 census read (miner, property $1,100, age 50, twins born 1870)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282604500799.json."
+    }
+  ],
+  "occupation": "Miner (1870)",
+  "conflicts": [
+    {
+      "field": "birth.date",
+      "site": "ABT 1835",
+      "found": "age 50 in 1870 (b. c.1820)",
+      "assessment": "The 1870 age points to c.1820; FS's 1835 probably comes from 1880. Record both; his 1885 death/burial record would help."
+    }
+  ],
+  "media": [
+    {
+      "file": "media/I282604500799/1870-census-plymouth-twp-martin-murphy.jpg",
+      "type": "record",
+      "title": "1870 census, Plymouth Twp p.66: Martin Murphy household",
+      "date": "1870-07-29",
+      "source": "NARA via FamilySearch, public_domain",
+      "note": "US federal census; public domain.",
+      "people": [
+        "I282604500824",
+        "I282604498567"
+      ],
+      "url": "https://familysearch.org/ark:/61903/1:1:MZPY-311"
     }
   ]
 }

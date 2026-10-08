@@ -84,6 +84,12 @@
       "date": "1963-07-04",
       "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
       "description": "William F. Meier died (PA death index file 071200)."
+    },
+    {
+      "title": "Social program application (FamilySearch tree event)",
+      "date": "1971-03",
+      "place": "",
+      "description": "FamilySearch tree LHHT-GQ4 carries an undocumented 'SocialProgramApplication' event dated March 1971 (no source attached); if correct it shows she was alive in 1971, consistent with the tree's 1980 death. [R4-S1]"
     }
   ],
   "facts": [
@@ -110,7 +116,8 @@
     "Genealogy Trails 1933 deaths M-N (Florence Irene Meier notice): http://genealogytrails.com/penn/luzerne/1933_deaths/1933_m_n.html",
     "Dwyer 2020 (1910 Plymouth census list of Catherine Heffernan Pringle's children)",
     "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
-    "research/notes/round3/irish_pa.md; research/notes/round3/meier_line.md; research/notes/round2/meier_gaps.md; research/notes/meier_mcguire.md"
+    "research/notes/round3/irish_pa.md; research/notes/round3/meier_line.md; research/notes/round2/meier_gaps.md; research/notes/meier_mcguire.md",
+    "[R4-S1] FamilySearch published tree, Florence Louise Pringle (LHHT-GQ4), events list (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LHHT-GQ4"
   ],
   "mediaKnown": [
     "1926 marriage-licence image (FamilySearch)",
@@ -120,7 +127,8 @@
     "Exact birth date (1903 vs 1904) - her PA birth record or 1980 death record/SSDI.",
     "1980 death place and burial.",
     "Was 'Florence Irene Meier' (funeral notice 11 Oct 1933) her infant daughter?",
-    "Residence after 1963 (Agnes flood 1972 context)."
+    "Residence after 1963 (Agnes flood 1972 context).",
+    "FamilySearch shows a March 1971 'SocialProgramApplication' event (likely from SS Numident/claims index); the Social Security Applications and Claims Index on Ancestry would give her exact birth date and parents' names."
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -135,6 +143,18 @@
     {
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Florence L Pringle\"; research uses \"Florence Louise Pringle\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: FamilySearch tree LHHT-GQ4 and husband LTHM-B3G: no death date, burial or 1980 record attached; Web search: 'Florence Meier' / 'Florence L. Meier' Wilkes-Barre 1980 obituary (no match)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: re-checked FamilySearch tree for Florence and William F. Meier; no 1980 death/burial record; only an undocumented March 1971 social-program event."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/I282608053249.json."
     }
   ]
 }

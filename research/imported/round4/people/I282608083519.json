@@ -1,0 +1,29 @@
+{
+  "id": "I282608083519",
+  "name": "Thomas Topping",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "bioAdditions": "Savage (vol. 4, p. 255) records that Thomas Topping of Milford joined the Milford church 'with his w. Emma in 1640' and 'had Elnathan, bapt. 2 Aug. of that yr. and James, 12 Feb. 1643' (S1). That fixes Capt. Elnathan's baptism, 2 Aug 1640. Savage also notes the 20 Oct 1666 marriage contract with Mary, widow of Timothy Baldwin, the third wife Lydia (widow of John Wilford) by June 1678, and the 5 Oct 1686 Branford deed of his Southampton lands to sons Elnathan and James (S1, S2).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "James Savage, A Genealogical Dictionary of the First Settlers of New England, vol. 4 (1862), p. 255, entry TAPPAN/TOPPING, Thomas of Milford",
+      "url": "https://archive.org/details/genealogicaldic04savarich",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "joined Milford church with wife Emma 1640; Elnathan bapt. 2 Aug 1640; later marriages; 1686 deed"
+    },
+    {
+      "ref": "S2",
+      "citation": "WikiTree Topping-121 (Thomas Topping), biography read via api.wikitree.com: Dunstable marriage 16 Nov 1628 (Dunstable parish register, Beds. CRO 1951); seven children; second marriage contract 20 Oct 1666 with Mary, widow of John Mapham and Timothy Baldwin; third wife Lydia, widow of John Wilford",
+      "url": "https://www.wikitree.com/wiki/Topping-121",
+      "class": "derivative",
+      "accessed": "2026-10-08",
+      "supports": "Dunstable marriage 1628; marriage contract 1666"
+    }
+  ],
+  "searchedNoResult": [
+    "Totternhoe register image for the 1608/9 baptism: none found online"
+  ],
+  "researchLogEntry": "Round 4: Savage confirms Elnathan bapt. Milford 2 Aug 1640 as son of Thomas and Emma; Totternhoe image not found."
+}

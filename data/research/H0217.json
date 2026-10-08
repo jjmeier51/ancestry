@@ -7,9 +7,10 @@
   "sex": "F",
   "tags": [],
   "summary": "Daughter of Johann Casper Doll.",
-  "bio": "Baptized 1757 at Tohickon Reformed Church, Bucks Co., to 'Casper Doll and Margaret [Dietz]'.",
+  "bio": "Baptized 1757 at Tohickon Reformed Church, Bucks Co., to 'Casper Doll and Margaret [Dietz]'.\n\nFamilySearch gives Anna Catharina's birth date as 1 Jan 1757 (baptized 22 Feb 1757 at Tohickon), her marriage in 1775 to Capt. Lewis Stecher Sr. (1743-1821), with children in Plainfield and Forks Twps from 1776, and her death in 1799. Find a Grave indexes her as 'Anna Catharine Doll Stacher' ([R4-S1]).",
   "sources": [
-    "WikiTree Dietz-563: https://www.wikitree.com/wiki/Dietz-563"
+    "WikiTree Dietz-563: https://www.wikitree.com/wiki/Dietz-563",
+    "[R4-S1] FamilySearch published tree, Anna Catharine Doll (LH6M-WWW), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LH6M-WWW"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -20,6 +21,31 @@
     {
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4: FamilySearch gives b. 1 Jan 1757, m. 1775 Capt. Lewis Stecher, d. 1799."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0217.json."
+    }
+  ],
+  "death": {
+    "date": "1799"
+  },
+  "events": [
+    {
+      "title": "Marriage",
+      "date": "1775",
+      "place": "Northampton Co.",
+      "description": "To Capt. Lewis Stecher Sr. (1743-1821) [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "FamilySearch ID",
+      "value": "LH6M-WWW"
     }
   ]
 }

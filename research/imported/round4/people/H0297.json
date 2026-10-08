@@ -1,0 +1,37 @@
+{
+  "id": "H0297",
+  "name": "Lyon Gardiner Tyler",
+  "status": "researched",
+  "bioAdditions": "6th cousin 5 times removed; listed as son 'Lyon-G.' of Juliana and President Tyler (S1).",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Curtiss C. Gardiner, Lion Gardiner and his Descendants (1890) (archive.org full text), p. 149",
+      "url": "https://archive.org/details/liongardinerhisd00gard",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Children of Juliana and John Tyler incl. Lyon-G."
+    }
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "title": "Lyon Gardiner Tyler in academic dress (frontispiece, Encyclopedia of Virginia Biography vol. IV)",
+      "date": "1915",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lyon_Gardiner_Tyler_in_academic_dress.png",
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lyon_Gardiner_Tyler_in_academic_dress.png",
+      "repository": "Wikimedia Commons",
+      "rights": "public_domain",
+      "downloadable": true,
+      "downloaded": true,
+      "localPath": "media/H0297/lyon-gardiner-tyler-1915.png",
+      "people": [
+        "H0297"
+      ],
+      "suggestedFile": "media/H0297/lyon-gardiner-tyler-1915.png",
+      "note": "Public domain (published 1915). 1280px derivative."
+    }
+  ],
+  "researchLogEntry": "Round 4: PD 1915 photograph downloaded.",
+  "researchedAt": "2026-10-08"
+}
