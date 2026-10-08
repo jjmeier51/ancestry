@@ -111,5 +111,31 @@
       "date": "2026-10-08",
       "note": "Name in the Ancestry tree: \"Andrew (Andreas) Grub\"; research uses \"Johann Andreas Grub\"."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Grub-4",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Johann Andreas Grub, 1727-12-12 – 1792-08-06",
+      "url": "https://www.wikitree.com/wiki/Grub-4"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Grub-4)",
+      "note": "",
+      "url": "https://findagrave.com/memorial/261051335"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Grub-4)",
+      "note": "",
+      "url": "https://findagrave.com/memorial/28284890#view-photo=189433136"
+    }
   ]
 }

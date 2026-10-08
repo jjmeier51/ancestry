@@ -24,5 +24,31 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Grub-123",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Maria Magdalena Grub, 1759-05-06 – 1801-12-27",
+      "url": "https://www.wikitree.com/wiki/Grub-123"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Grub-123)",
+      "note": "",
+      "url": "https://findagrave.com/memorial/31524104"
+    },
+    {
+      "type": "link",
+      "title": "Find a Grave memorial",
+      "date": "",
+      "source": "Find a Grave (cited on WikiTree Grub-123)",
+      "note": "",
+      "url": "https://findagrave.com/memorial/31524104#view-photo=140730543"
+    }
   ]
 }

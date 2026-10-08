@@ -116,5 +116,23 @@
       "date": "2026-10-08",
       "note": "Death in the Ancestry tree: Feb 1802; research: ABT 1770."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Tuthill-364",
+      "date": "",
+      "source": "WikiTree",
+      "note": "John Tuthill, 1730-00-00 – 1770-00-00",
+      "url": "https://www.wikitree.com/wiki/Tuthill-364"
+    },
+    {
+      "type": "document",
+      "title": "Marriage Record for John and Temperance (Smith) Tuthill (WikiTree)",
+      "date": "1752-11-23",
+      "source": "WikiTree, profile Tuthill-364; https://www.wikitree.com/photo/jpg/Smith-275736",
+      "note": "",
+      "file": "media/I282608055492/i282608055492-smith-275736.jpg"
+    }
   ]
 }

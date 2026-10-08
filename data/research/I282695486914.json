@@ -22,5 +22,31 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Harrison-912",
+      "date": "",
+      "source": "WikiTree",
+      "note": "William Henry Harrison, 1773-02-09 – 1841-04-04",
+      "url": "https://www.wikitree.com/wiki/Harrison-912"
+    },
+    {
+      "type": "photo",
+      "title": "William Harrison 9th President (WikiTree)",
+      "date": "",
+      "source": "WikiTree, profile Harrison-912; https://www.wikitree.com/photo/jpg/Harrison-1107",
+      "note": "",
+      "file": "media/I282695486914/i282695486914-harrison-1107.jpg"
+    },
+    {
+      "type": "photo",
+      "title": "General William Henry Harrison Accomplishments (Lithograph) (WikiTree)",
+      "date": "1840",
+      "source": "WikiTree, profile Harrison-912; https://www.wikitree.com/photo/jpg/Harrison-912",
+      "note": "",
+      "file": "media/I282695486914/i282695486914-harrison-912.jpg"
+    }
   ]
 }

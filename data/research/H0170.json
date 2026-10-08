@@ -39,5 +39,23 @@
       "date": "2026-10-08",
       "note": "Imported from the project handoff (research rounds 1–3, Oct 2026)."
     }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Ransom-699",
+      "date": "",
+      "source": "WikiTree",
+      "note": "George Palmer Ransom, 1762-01-03 – 1850-09-04",
+      "url": "https://www.wikitree.com/wiki/Ransom-699"
+    },
+    {
+      "type": "photo",
+      "title": "Col George Palmer Ransom  (WikiTree)",
+      "date": "",
+      "source": "WikiTree, profile Ransom-699; https://www.wikitree.com/photo/jpg/Ransom-699",
+      "note": "",
+      "file": "media/H0170/h0170-ransom-699.jpg"
+    }
   ]
 }

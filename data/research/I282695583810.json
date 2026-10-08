@@ -127,5 +127,24 @@
       "date": "2026-10-08",
       "note": "Birth in the Ancestry tree: 1746; research: ABT 1745."
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "WikiTree profile Lamoreaux-21",
+      "date": "",
+      "source": "WikiTree",
+      "note": "Thomas Lamoreaux, 1746-00-00 – 1829-10-05",
+      "url": "https://www.wikitree.com/wiki/Lamoreaux-21"
+    },
+    {
+      "type": "photo",
+      "title": "Thomas Lamoreaux Memorial (WikiTree)",
+      "date": "2017-07-31",
+      "source": "WikiTree, profile Lamoreaux-21; https://www.wikitree.com/photo/jpg/Lamoreaux-21",
+      "note": "",
+      "file": "media/I282695583810/i282695583810-lamoreaux-21.jpg"
+    }
+  ],
+  "photo": "media/I282695583810/i282695583810-lamoreaux-21.jpg"
 }
