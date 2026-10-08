@@ -27,6 +27,7 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
 | `data/additions.json` | People and families the research added beyond the GEDCOM, plus parent corrections (`setParents`) for GEDCOM people. **Generated** by `scripts/import_handoff.py`; later research additions can be appended by hand (ids `H####`, families `HF####`). | script + Claude |
 | `data/additions-manual.json` | Hand-maintained additions in the same shape as `additions.json` (people `M####`, `setParents`, families `MF####`). Applied by `build.py` after the generated file. Use this for people added after the handoff (e.g. the owner's brothers). | Claude + owner |
 | `data/story-exclusions.json` | Story ids hidden from the site because they are research notes or corrections, not family stories (their text stays in `data/stories.json` and `research/story-notes.md`). | Claude |
+| `data/places.json` | Geocoded coordinates for every place string in the data (Nominatim). **Generated** by `scripts/geocode_places.py`; run it after adding people or places (polite: 1 request/s, cached, failures cached as null). | script only |
 | `data/handoff_ids.json` | Stable id map for people created from the handoff. Never edit. | script only |
 | `research/imported/` | The owner's uploaded research reports and the 1.3 MB project handoff (Oct 2026). Read-only sources. | owner uploads |
 | `research/lines.md`, `sources.md`, `open-questions.md`, `owner-preferences.md` | Reference copies of the handoff's lineage narrative, sources consulted, open questions and the owner's stated preferences. Start research here. | script; Claude appends |
@@ -44,7 +45,7 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
 
 ## Key facts (Oct 2026 state)
 
-- Owner: John Joseph "Johnny" Meier, b. 16 Jun 1992 Alexandria City Hospital, lives in Ashburn VA, id `I282604492552`. Parents Thomas F. Meier (b. 1959) and Sharon M. Petriello (b. 1960). Brothers Thomas Francis "Tommy" Meier Jr. (`M0001`, b. 30 Jul 1990) and Matthew "Matt" Meier (`M0002`, b. 22 Jan 1998), both in Ashburn VA. The owner supplied these details on 8 Oct 2026 and approved showing them. Owner is engaged to Shannon McCarthy (`M0019`); Tommy Jr. is married to Laura (`M0020`), son Luca (`M0021`). Thomas Sr.'s siblings (`M0012`–`M0018`): Kathy, Danny, Jamie, Susie, Nancy, Jack, Terry, all Levittown, years estimated. Maternal grandfather John T. Petriello Sr. died 1 Mar 2025; grandmother Mary Cognetti Petriello living; uncles John Jr. (d. 2024) and Paul.
+- Owner: John Joseph "Johnny" Meier, b. 16 Jun 1992 Alexandria City Hospital, lives in Ashburn VA, id `I282604492552`. Parents Thomas F. Meier (b. 1959) and Sharon M. Petriello (b. 1960). Brothers Thomas Francis "Tommy" Meier Jr. (`M0001`, b. 30 Jul 1990) and Matthew "Matt" Meier (`M0002`, b. 22 Jan 1998), both in Ashburn VA. The owner supplied these details on 8 Oct 2026 and approved showing them. Owner is engaged to Shannon McCarthy (`M0019`); Tommy Jr. is married to Laura (`M0020`), son Luca (`M0021`). Thomas Sr.'s siblings (`M0012`–`M0018`): Kathy, Danny (b. 1953/54, the coach and principal; wife Annie, four children `M0022`–`M0026`), Jamie, Susie, Nancy, Jack, Terry, all raised in Levittown; other years estimated. James C. Meier never remarried. Maternal grandfather John T. Petriello Sr. died 1 Mar 2025; grandmother Mary Cognetti Petriello living; uncles John Jr. (d. 2024) and Paul.
 - A family in `additions-manual.json` may carry `"status": "engaged"` (or `"partner"`); the site labels the couple accordingly.
 - Meier line (confirmed to Munzingen, Baden): James C. (1928–2008) → William F. (c.1904–1963) → Henry J. (1866–1940) → Friedrich Mayer (1835–1913) → Heinrich Mayer (c.1796) → Michael Mayer, carpenter. Spelling went Mayer → Meyer/Myer → Meier (first on the 1892 marriage docket).
 - Only proven Revolutionary patriot: Ensign Thomas Lamoreaux (SAR P-232580). Bull Smith of Smithtown is a 10th-great-grandfather (`I282608065309`).
@@ -64,7 +65,7 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
    - links to online records → `attach_media.py <id> --url ... --type link`
    - narrative → `data/stories.json` or `research/people/<id>.md`
    - a dated entry in `research/LOG.md`
-4. `python3 scripts/build.py` (validates and regenerates `data/family.js`).
+4. `python3 scripts/geocode_places.py` if any new place names were added, then `python3 scripts/build.py` (validates and regenerates `data/family.js`).
    - New person found by research: add to `data/additions.json` → `people` (next free `H####` id) and a family in `families` (or a `setParents` entry for a GEDCOM person whose parents were wrong, with `reason`), then write `data/research/<id>.json`.
    - **Do not re-run `scripts/import_handoff.py`** unless the handoff file itself changes: it regenerates the research files of every handoff person (it keeps `media`, `photo` and researchLog entries dated after 2026-10-08, but overwrites other fields).
 5. Commit with a descriptive message and push. Vercel deploys automatically.
@@ -141,7 +142,8 @@ details, for example) and is never overwritten by `import_handoff.py`.
   `#/timeline[/<id>]`, `#/stories[/<id>]`, `#/media`), sheet, search, lightbox
 - `js/views/tree.js` — hourglass/ancestor/descendant layout, pan, pinch, inertia
 - `js/views/profile.js` — person page sections
-- `scripts/` — `import_gedcom.py`, `build.py`, `attach_media.py`, `import_handoff.py` (one-off merge of the project handoff), `attach_drive_screenshots.py` (one-off)
+- Maps: `A.placeLink(place)` in `js/app.js` makes any place tappable; `A.showMap` opens a Leaflet sheet (cdnjs, OpenStreetMap tiles, dark CSS filter) using `data/places.json` coordinates.
+- `scripts/` — `import_gedcom.py`, `build.py`, `attach_media.py`, `geocode_places.py`, `import_handoff.py` (one-off merge of the project handoff), `attach_drive_screenshots.py` (one-off)
 
 Test locally: `python3 -m http.server 8000` then open http://localhost:8000.
 Run `python3 scripts/build.py --check` before committing.

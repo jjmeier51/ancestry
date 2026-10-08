@@ -148,7 +148,9 @@ def main():
                 p["birth"] = dict(b, date=m.group())
                 p["birthDateReduced"] = True
 
+    places = load("data/places.json", {})
     data = dict(site)
+    data["places"] = {k: {"lat": v["lat"], "lon": v["lon"], "label": v.get("label", ""), "precision": v.get("precision", "exact")} for k, v in places.items() if v}
     data["sample"] = bool(tree.get("sample"))
     # drop families that end up with nobody in them
     families = [f for f in families if (f.get("husband") or f.get("wife") or f.get("children"))]

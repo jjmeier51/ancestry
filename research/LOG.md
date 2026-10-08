@@ -4,6 +4,38 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Danny Meier researched; maps feature
+
+- **Daniel F. "Danny" Meier (`M0013`)**, the owner's uncle: nose guard for Lou
+  Holtz at NC State 1972–75; head coach Orange HS (Hillsborough NC, 1-9 to
+  21-9 in three seasons); first head coach of West Potomac HS 1985–91 (68-16,
+  Virginia AAA champions 1989 and 1990, VHSL Coach of the Year both years,
+  All-Met Coach of the Year 1985); Chantilly HS 1992–96 (47-12, AAA Div. 6
+  champions 1996, 13-1). Resigned July 1997 for administration: counsellor
+  and assistant principal at Herndon, principal Rocky Run MS 2001–03,
+  principal Robinson Secondary 2003–Apr 2013 (retired after 29 years with
+  FCPS and became Robinson's head football coach), then interim principal
+  at Woodson, Madison, Herndon, Whitman MS, Oakton, McLean. West Potomac
+  Athletic Hall of Fame 2019. Wife Annie; children Mike (c.1989, Army),
+  Timmy (c.1991) and Joe (c.1993, West Point cadets in 2013), Mary (c.1995);
+  Fairfax Station VA (2013). Birth year revised from the owner's 1956 to
+  1953/54 (ages in the 1985, 1997 and 2013 articles). Sources: Washington
+  Post 1985/1997/2013, Connection Newspapers 2013, Patch 2013, The Highlander
+  2018, West Potomac HOF 2019. Family added as `M0022`–`M0026`, `MF0005`.
+- Owner states James C. Meier never remarried (open question closed).
+- The other six siblings (Kathy, Jamie, Susie, Nancy, Jack, Terry): nothing
+  found on free sources with the surname and Levittown; they need married
+  names, towns or professions from the owner to search effectively.
+- A 2012 Washington Examiner item about a Fairfax land-investment lawsuit
+  names Fairfax school administrators Daniel and Thomas Meier. Deliberately
+  not recorded on the site or in research files (unverified allegations about
+  living people); the owner was told in chat.
+- **Site:** every place is now tappable and opens a map sheet (Leaflet from
+  cdnjs, OpenStreetMap tiles with a dark filter, no API key). Coordinates are
+  pre-resolved by `scripts/geocode_places.py` (Nominatim, 1 request/s) into
+  `data/places.json` and shipped in the bundle; unknown places fall back to a
+  live Nominatim lookup. Run the geocoder after adding places.
+
 ## 2026-10-08 — Owner's father's siblings, fiancée, nephew
 
 - Owner listed his father's seven siblings with estimated birth years

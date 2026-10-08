@@ -199,7 +199,7 @@
         avatar(p, 'lg'),
         el('div', { class: 'ps-text' }, [
           el('h2', { text: F.fullName(p) }),
-          el('div', { class: 'ps-meta', text: [F.lifespan(p), p.birth && p.birth.place ? p.birth.place.split(',')[0] : ''].filter(Boolean).join(' · ') }),
+          el('div', { class: 'ps-meta' }, [F.lifespan(p), p.birth && p.birth.place ? ' · ' : '', p.birth && p.birth.place ? placeLink(p.birth.place, p.birth.place.split(',')[0]) : null]),
           el('div', { class: 'ps-badges' }, [confBadge(p, true)].concat(F.tags(p).slice(0, 3).map(t => el('span', { class: 'tag', html: icon(tagIcon(t)) + esc(tagLabel(t)) }))))
         ])
       ]),
@@ -284,6 +284,56 @@
     return { destroy() { if (observer) observer.disconnect(); } };
   }
 
+  /* ---------- Places & maps ---------- */
+  const PLACES = F.raw.places || {};
+  let leafletReady = null;
+  function loadLeaflet() {
+    if (leafletReady) return leafletReady;
+    leafletReady = new Promise((resolve, reject) => {
+      const css = el('link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css' });
+      document.head.appendChild(css);
+      const s = el('script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js' });
+      s.onload = () => resolve(window.L); s.onerror = () => reject(new Error('Leaflet failed to load'));
+      document.head.appendChild(s);
+    });
+    return leafletReady;
+  }
+  async function geocode(place) {
+    if (PLACES[place]) return PLACES[place];
+    const parts = place.replace(/\([^)]*\)/g, ' ').split(',').map(s => s.trim()).filter(Boolean);
+    for (let i = 0; i < Math.max(1, parts.length - 1); i++) {
+      const q = parts.slice(i).join(', ');
+      try {
+        const r = await fetch('https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&q=' + encodeURIComponent(q), { headers: { 'Accept': 'application/json' } });
+        const hits = await r.json();
+        if (hits && hits.length) { const h = hits[0]; const v = { lat: +h.lat, lon: +h.lon, label: h.display_name, precision: i ? 'approximate' : 'exact' }; PLACES[place] = v; return v; }
+      } catch (e) { break; }
+    }
+    return null;
+  }
+  function placeLink(place, text) {
+    if (!place) return null;
+    return el('a', { class: 'place-link', href: '#', title: 'Show on map', onclick: e => { e.preventDefault(); e.stopPropagation(); showMap(place); } }, [text || place, iconEl('pin', 'pin')]);
+  }
+  async function showMap(place) {
+    const mapEl = el('div', { class: 'map' });
+    const status = el('p', { class: 'muted small map-status', text: 'Finding ' + place + '…' });
+    const links = el('div', { class: 'map-links' });
+    const sheet = showSheet(el('div', { class: 'map-sheet' }, [el('h2', { html: icon('pin') + esc(place) }), mapEl, status, links]), { cls: 'map-host' });
+    let geo = null, L = null;
+    try { [geo, L] = await Promise.all([geocode(place), loadLeaflet()]); } catch (e) { status.textContent = 'The map could not be loaded.'; return; }
+    if (!geo) { status.textContent = 'This place could not be located automatically.'; links.appendChild(el('a', { class: 'btn small', href: 'https://www.google.com/maps/search/' + encodeURIComponent(place), target: '_blank', rel: 'noopener', text: 'Search in Google Maps' })); return; }
+    if (!document.body.contains(mapEl)) return;
+    const zoom = geo.precision === 'approximate' ? 6 : /\b(USA|United States|Canada|Australia)\b/.test(place) && place.split(',').length <= 2 ? 5 : 9;
+    const map = L.map(mapEl, { zoomControl: true, attributionControl: true, scrollWheelZoom: false }).setView([geo.lat, geo.lon], zoom);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
+    L.circleMarker([geo.lat, geo.lon], { radius: 8, color: '#67e8f9', fillColor: '#4f8cff', fillOpacity: .9, weight: 2 }).addTo(map);
+    status.textContent = (geo.precision === 'approximate' ? 'Approximate location: ' : '') + (geo.label || place);
+    links.appendChild(el('a', { class: 'btn small', href: 'https://maps.apple.com/?ll=' + geo.lat + ',' + geo.lon + '&q=' + encodeURIComponent(place), target: '_blank', rel: 'noopener', html: icon('external') + 'Apple Maps' }));
+    links.appendChild(el('a', { class: 'btn small', href: 'https://www.google.com/maps/search/?api=1&query=' + geo.lat + ',' + geo.lon, target: '_blank', rel: 'noopener', html: icon('external') + 'Google Maps' }));
+    setTimeout(() => map.invalidateSize(), 300);
+  }
+
   function toast(msg) {
     const t = el('div', { class: 'toast', text: msg });
     document.body.appendChild(t);
@@ -316,7 +366,7 @@
     }
   }
 
-  window.App = { esc, el, md, renderIncremental, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, TABS };
+  window.App = { esc, el, md, renderIncremental, placeLink, showMap, icon, iconEl, avatar, confBadge, personRow, tagIcon, tagLabel, views, navigate, back, route, parseHash, showSheet, hideSheet, personSheet, openSearch, lightbox, toast, TABS };
 
   views['404'] = { title: () => 'Not found', render(c) { c.appendChild(el('div', { class: 'wrap empty' }, [el('h1', { text: 'Page not found' }), el('a', { class: 'btn primary', href: '#/', text: 'Back to the tree' })])); } };
 

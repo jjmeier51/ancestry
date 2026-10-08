@@ -2,27 +2,218 @@
   "id": "M0013",
   "link": {
     "confidence": "confirmed",
-    "note": "Sibling of the owner's father, per the owner (8 Oct 2026). Birth year is the owner's estimate."
+    "note": "Brother of the owner's father (owner's statement); his coaching career is documented in the Washington Post and Fairfax County papers."
   },
-  "tags": [],
+  "tags": [
+    "athlete",
+    "notable",
+    "coach"
+  ],
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Added from the owner's list of his father's siblings (estimated birth year 1956, known as Danny)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Researched from newspapers: NC State under Lou Holtz 1972–75; Orange HS; West Potomac 1985–91 (state titles 1989, 1990); Chantilly 1992–96 (title 1996); FCPS administrator from 1997, Robinson principal 2003–13, retired 1 Apr 2013, interim principal posts since. Wife Annie; children Mike, Timmy, Joe, Mary; Fairfax Station. Birth year revised to 1953/54 from ages given in 1985, 1997 and 2013 articles."
     }
   ],
-  "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of the owner.",
+  "summary": "Nose guard for Lou Holtz at NC State, then one of Virginia's most successful high-school football coaches, with state titles at West Potomac (1989, 1990) and Chantilly (1996), before 16 years as a Fairfax County principal.",
   "sources": [
-    "Owner's statement, 8 Oct 2026"
+    "Owner's statement, 8 Oct 2026",
+    "Washington Post, 15 Aug 1985, \"Football Practice Opens With Five New Coaches\": https://www.washingtonpost.com/archive/local/1985/08/15/football-practice-opens-with-five-new-coaches/05b4f8f7-5f1e-48e6-baec-b7a6ef29220b/",
+    "Washington Post, 11 Jul 1997, \"Chantilly's Meier Resigns as School's Football Coach\": https://www.washingtonpost.com/archive/sports/1997/07/11/chantillys-meier-resigns-as-schools-football-coach/d8987f7e-f4c8-42a6-8b3b-6aefc16befae/",
+    "Washington Post, 28 Aug 1997, \"For High School Football Coaches, It's Time Out\": https://www.washingtonpost.com/archive/local/1997/08/28/for-high-school-football-coaches-its-time-out/0e4577d7-c096-4275-b07e-87a416b370cb/",
+    "Washington Post, 12 Apr 2013, \"Retired Robinson principal Dan Meier takes over as Rams' interim football coach\": https://www.washingtonpost.com/sports/highschools/retired-robinson-principal-dan-meier-takes-over-as-rams-interim-football-coach/2013/04/12/90af1d24-a3c9-11e2-82bc-511538ae90a4_story.html",
+    "Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\": https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "Connection Newspapers, 3 Jul 2013, \"New Leader at Robinson's Helm\": https://www.connectionnewspapers.com/news/2013/jul/03/new-leader-robinsons-helm/",
+    "Patch, 2013, acting principal of Robinson Secondary: https://patch.com/virginia/annandale/former-annandale-high-school-principal-named-acting-p1c8ec79414",
+    "The Highlander (McLean HS), 17 May 2018, \"Daniel Meier brings expertise to McLean\": https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/",
+    "West Potomac Athletic Hall of Fame, 2019 inductees: https://www.supportwestpotomac.com/2019-inductees.html",
+    "NOVA Legends Podcast, \"West Potomac and Chantilly Football Coach Danny Meier\": https://www.youtube.com/watch?v=WvdSYyTd6aw",
+    "Robinson Secondary School history (principals list, Daniel F. Meier): https://robinsonss.fcps.edu/about/history"
   ],
   "residences": [
     {
-      "date": "",
-      "place": "Levittown, Bucks County, Pennsylvania, USA",
-      "note": "Family home"
+      "date": "1950s–1972",
+      "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+      "date": "1972–1975",
+      "place": "Raleigh, North Carolina, USA",
+      "note": "NC State"
+    },
+    {
+      "date": "c.1982–1985",
+      "place": "Hillsborough, North Carolina, USA",
+      "note": "Orange High School"
+    },
+    {
+      "date": "1985–",
+      "place": "Fairfax County, Virginia, USA"
+    },
+    {
+      "date": "2013",
+      "place": "Fairfax Station, Virginia, USA"
     }
   ],
   "openQuestions": [
-    "Exact birth date, marriage(s) and children; whether living. James C. Meier's 2008 obituary would confirm the list and married names."
+    "Exact birth date (sources give ages implying birth between July 1953 and June 1954; the owner estimated 1956).",
+    "Annie's maiden name and marriage date; the children's full names and birth dates."
+  ],
+  "given": "Daniel F.",
+  "surname": "Meier",
+  "nickname": "Danny",
+  "aka": [
+    "Dan Meier",
+    "Danny Meier",
+    "Daniel Meier"
+  ],
+  "sex": "M",
+  "birth": {
+    "date": "BET 1953 AND 1954",
+    "place": "Pennsylvania, USA"
+  },
+  "occupation": "High-school football coach (three Virginia state championships); Fairfax County Public Schools principal",
+  "bio": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019.",
+  "notable": "Three Virginia AAA state football championships as a head coach (West Potomac 1989 and 1990, Chantilly 1996), two VHSL Coach of the Year awards, All-Met Coach of the Year 1985, West Potomac Athletic Hall of Fame 2019; principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years.",
+  "funFacts": [
+    "Played for Lou Holtz, who later won a national title at Notre Dame.",
+    "His West Potomac motto, \"The Tradition starts NOW\", is still used by the school's Hall of Fame.",
+    "Came back from retirement to coach Robinson's football team two weeks after his last day as its principal.",
+    "Three of his children went into the Army, two through West Point."
+  ],
+  "events": [
+    {
+      "title": "Played nose guard for NC State under Lou Holtz",
+      "date": "1972",
+      "place": "Raleigh, North Carolina, USA"
+    },
+    {
+      "title": "Head coach, Orange High School",
+      "date": "ABT 1982",
+      "place": "Hillsborough, North Carolina, USA",
+      "description": "Took a 1-9 team to 21-9 over three seasons."
+    },
+    {
+      "title": "First head coach of West Potomac High School",
+      "date": "1985",
+      "place": "Alexandria, Virginia, USA",
+      "description": "68-16 in seven seasons; state champions 1989 and 1990."
+    },
+    {
+      "title": "Virginia AAA state champions, West Potomac",
+      "date": "1989"
+    },
+    {
+      "title": "Virginia AAA state champions, West Potomac",
+      "date": "1990"
+    },
+    {
+      "title": "Head coach, Chantilly High School",
+      "date": "1992",
+      "place": "Chantilly, Virginia, USA",
+      "description": "47-12 in five seasons."
+    },
+    {
+      "title": "Virginia AAA Division 6 state champions, Chantilly",
+      "date": "1996",
+      "description": "13-1, co-No. 1 in the Washington area."
+    },
+    {
+      "title": "Resigned from coaching to enter school administration",
+      "date": "1997-07"
+    },
+    {
+      "title": "Principal, Rocky Run Middle School",
+      "date": "2001",
+      "place": "Chantilly, Virginia, USA"
+    },
+    {
+      "title": "Principal, Robinson Secondary School",
+      "date": "2003",
+      "place": "Fairfax, Virginia, USA"
+    },
+    {
+      "title": "Retired from Fairfax County Public Schools; named Robinson head football coach",
+      "date": "2013-04-01"
+    },
+    {
+      "title": "Inducted into the West Potomac Athletic Hall of Fame",
+      "date": "2019"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Married",
+      "value": "Annie Meier."
+    },
+    {
+      "label": "Children",
+      "value": "Mike (c.1989), Timmy (c.1991), Joe (c.1993) and Mary (c.1995)."
+    },
+    {
+      "label": "Education",
+      "value": "North Carolina State University (football, 1972–75)."
+    }
+  ],
+  "media": [
+    {
+      "type": "link",
+      "title": "Washington Post, 15 Aug 1985: first head coach of West Potomac",
+      "date": "1985-08-15",
+      "source": "Press",
+      "note": "",
+      "url": "https://www.washingtonpost.com/archive/local/1985/08/15/football-practice-opens-with-five-new-coaches/05b4f8f7-5f1e-48e6-baec-b7a6ef29220b/"
+    },
+    {
+      "type": "link",
+      "title": "Washington Post, 11 Jul 1997: Chantilly's Meier resigns as football coach",
+      "date": "1997-07-11",
+      "source": "Press",
+      "note": "",
+      "url": "https://www.washingtonpost.com/archive/sports/1997/07/11/chantillys-meier-resigns-as-schools-football-coach/d8987f7e-f4c8-42a6-8b3b-6aefc16befae/"
+    },
+    {
+      "type": "link",
+      "title": "Washington Post, 12 Apr 2013: retired Robinson principal takes over as football coach",
+      "date": "2013-04-12",
+      "source": "Press",
+      "note": "",
+      "url": "https://www.washingtonpost.com/sports/highschools/retired-robinson-principal-dan-meier-takes-over-as-rams-interim-football-coach/2013/04/12/90af1d24-a3c9-11e2-82bc-511538ae90a4_story.html"
+    },
+    {
+      "type": "link",
+      "title": "Fairfax Station Connection, 26 Jun 2013: Meier reflects on his decade at Robinson",
+      "date": "2013-06-26",
+      "source": "Press",
+      "note": "",
+      "url": "https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+    },
+    {
+      "type": "link",
+      "title": "West Potomac Athletic Hall of Fame, inaugural class 2019",
+      "date": "2019",
+      "source": "Press",
+      "note": "",
+      "url": "https://www.supportwestpotomac.com/2019-inductees.html"
+    },
+    {
+      "type": "link",
+      "title": "NOVA Legends Podcast: Coach Danny Meier",
+      "date": "2024",
+      "source": "Press",
+      "note": "",
+      "url": "https://www.youtube.com/watch?v=WvdSYyTd6aw"
+    },
+    {
+      "type": "link",
+      "title": "The Highlander (McLean HS), 17 May 2018: Daniel Meier brings expertise to McLean",
+      "date": "2018-05-17",
+      "source": "Press",
+      "note": "",
+      "url": "https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/"
+    }
   ]
 }
