@@ -4531,6 +4531,42 @@ window.FAMILY_DATA = {
    "lon": -76.05381,
    "label": "Town of Vestal, Broome County, New York, United States",
    "precision": "exact"
+  },
+  "College Park, Maryland, USA": {
+   "lat": 38.98067,
+   "lon": -76.93692,
+   "label": "College Park, Prince George's County, Maryland, United States",
+   "precision": "exact"
+  },
+  "Doylestown, Bucks County, Pennsylvania, USA": {
+   "lat": 40.34517,
+   "lon": -75.12639,
+   "label": "Bucks County, Pennsylvania, United States",
+   "precision": "approximate"
+  },
+  "East Lansing, Michigan, USA": {
+   "lat": 42.73203,
+   "lon": -84.47217,
+   "label": "East Lansing, Ingham County, Michigan, United States",
+   "precision": "exact"
+  },
+  "Warminster, Bucks County, Pennsylvania, USA": {
+   "lat": 40.20678,
+   "lon": -75.09962,
+   "label": "Warminster Township, Bucks County, Pennsylvania, 18974, United States",
+   "precision": "exact"
+  },
+  "Worcester, Massachusetts, USA": {
+   "lat": 42.26256,
+   "lon": -71.80189,
+   "label": "Worcester, Worcester County, Massachusetts, United States",
+   "precision": "exact"
+  },
+  "Yardley, Bucks County, Pennsylvania, USA": {
+   "lat": 40.24251,
+   "lon": -74.83897,
+   "label": "Yardley, Bucks County, Pennsylvania, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -5576,7 +5612,7 @@ window.FAMILY_DATA = {
     "military"
    ],
    "summary": "John's paternal grandfather, raised at 55 Cedar Street in Wilkes-Barre and husband of Kathryn McGuire, who died in Levittown, Pennsylvania, in 2008.",
-   "bio": "James C. Meier was born in Pennsylvania on 13 July 1928, the son of William F. Meier and Florence L. Pringle. He grew up at 55 Cedar Street in Wilkes-Barre, where the family was living in 1930 and still in 1950; by then his father was a supervisor at a coal company, and the household included his elder brother William F. Jr. (1927-2004) and younger sister Barbara Ann (1935-2021), later Barbara Ann Smith. A funeral notice of October 1933 for an infant Florence Irene Meier may record another sister. He was of the right age for the Korean War draft, but no military service is known.\n\nHe married Kathryn F. McGuire, born 22 August 1930, and they had eight children: Kathryn, Daniel, James, Thomas Francis (John's father, born 1959), Susan, Nancy, John and Theresa. Kathryn died in September 1970, in Levittown, Pennsylvania, and James never remarried.\n\nJames died on 13 August 2008 in Levittown, Bucks County, Pennsylvania, and was buried at Bensalem. His move to Levittown, the Pennsylvania town rather than the Levittown on Long Island, was the family's first recorded step outside Luzerne County, but he was not the first of the Wilkes-Barre Meiers in lower Bucks County: his uncle Fred Aloysius Meier Sr. died in Bristol Township in March 1966, and Fred's son Gerald Francis Meier, born in Wilkes-Barre on 11 March 1921, died in Levittown in 1994, leaving a widow, Mary Ruth Hashagen (1927-2003), and a son, Frederick Aloysius Meier (1957-2012). A branch of the family was therefore already in the area by the 1960s, which may explain his own move there.\n\nThe family name had been spelled Mayer in the Munzingen registers of Baden and Meyer or Myer in the first American censuses; the spelling Meier first appears in the record of his grandfather Henry J. Meier's marriage in 1892, written by the clerk, and was used consistently from 1910 onward.",
+   "bio": "James C. Meier was born in Pennsylvania on 13 July 1928, the son of William F. Meier and Florence L. Pringle. He grew up at 55 Cedar Street in Wilkes-Barre, where the family was living in 1930 and still in 1950; by then his father was a supervisor at a coal company, and the household included his elder brother William F. Jr. (1927-2004) and younger sister Barbara Ann (1935-2021), later Barbara Ann Smith. A funeral notice of October 1933 for an infant Florence Irene Meier may record another sister. He was of the right age for the Korean War draft, but no military service is known.\n\nHe married Kathryn F. McGuire, born 22 August 1930, and they had eight children: Kathryn, Daniel, James, Thomas Francis (John's father, born 1959), Susan, Nancy, John and Theresa. Kathryn died of breast cancer in September 1970, in Levittown, Pennsylvania, when the children were between about seven and fifteen, and James raised them alone and never remarried.\n\nJames died on 13 August 2008 in Levittown, Bucks County, Pennsylvania, and was buried at Bensalem. His move to Levittown, the Pennsylvania town rather than the Levittown on Long Island, was the family's first recorded step outside Luzerne County, but he was not the first of the Wilkes-Barre Meiers in lower Bucks County: his uncle Fred Aloysius Meier Sr. died in Bristol Township in March 1966, and Fred's son Gerald Francis Meier, born in Wilkes-Barre on 11 March 1921, died in Levittown in 1994, leaving a widow, Mary Ruth Hashagen (1927-2003), and a son, Frederick Aloysius Meier (1957-2012). A branch of the family was therefore already in the area by the 1960s, which may explain his own move there.\n\nThe family name had been spelled Mayer in the Munzingen registers of Baden and Meyer or Myer in the first American censuses; the spelling Meier first appears in the record of his grandfather Henry J. Meier's marriage in 1892, written by the clerk, and was used consistently from 1910 onward.",
    "military": [
     {
      "note": "No service found. Korean War draft age (registered 1946–48). VA Gravesite Locator, BIRLS and Veterans Legacy Memorial blocked/negative; no Luzerne Korea-era listing found."
@@ -5601,7 +5637,7 @@ window.FAMILY_DATA = {
     },
     {
      "label": "Children",
-     "value": "Kathryn (c.1955), Daniel (c.1956), James (c.1958), Thomas Francis (1959), Susan (c.1960), Nancy (c.1961), John (c.1962), Theresa (c.1963)."
+     "value": "Kathryn \"Kathy\" (c.1955, m. Richard McGinley; Doylestown area), Daniel (c.1953/54), James \"Jamie\" (c.1958), Thomas Francis (1959), Susan \"Susie\" (c.1960), Nancy (c.1961, m. Tony Russo; Doylestown), John \"Jack\" (c.1962), Theresa \"Terry\" (c.1963, m. a Borgman, divorced; Yardley). Exact birth dates not in any public record found; years estimated."
     },
     {
      "label": "Marriage",
@@ -5616,7 +5652,8 @@ window.FAMILY_DATA = {
     "FamilySearch tree G3PC-LJL (Katherine Kay McGuire, spouse 'Meier', d. 1970 Levittown) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PC-LJL",
     "notes/meier_mcguire.md; notes/round2/meier_gaps.md; notes/round3/meier_line.md; Round 1–3 reports",
     "[R4-S1] FamilySearch Family Tree, Gerald Francis Meier (G7CS-435), published-tree JSON: b. 11 Mar 1921 Wilkes-Barre, d. 4 May 1994 Levittown, Bristol Twp., Bucks Co.; spouse Mary Ruth Hashagen 1927–2003 (G7LY-Y75); child Frederick Aloysius Meier 1957–2012 (G7L1-MWM); sources include 1930 census and 1947 Luzerne marriage (KHF6-VSL) and SSDI (JP8T-PMN) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G7CS-435",
-    "[R4-S2] Pennsylvania Death Index 1966, M–N–O, PDF p.151 (printed page 1629): MEIER FREDERICK A, age 73, BRSTL T, county 09 (Bucks), died 03/06/66, file 022971, res 09001 (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1966/D-66%20M-N-O.pdf"
+    "[R4-S2] Pennsylvania Death Index 1966, M–N–O, PDF p.151 (printed page 1629): MEIER FREDERICK A, age 73, BRSTL T, county 09 (Bucks), died 03/06/66, file 022971, res 09001 (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1966/D-66%20M-N-O.pdf",
+    "John Meier, family information, 8 Oct 2026"
    ],
    "mediaKnown": [
     "Ancestry tree profile photo: yearbook page",
@@ -5675,6 +5712,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John (8 Oct 2026): Kathryn died of breast cancer; towns and spouses of Kathy, Nancy and Terry. The children's exact birth dates are not in public records online (only data-broker sites, which are not used); his 2008 Courier Times obituary would list the children and remains the key lead."
     }
    ],
    "researchNotes": "James C. Meier was born 13 Jul 1928 in Pennsylvania (Ancestry birth/Social-Security-type index snippet: 'James C Meier, born 13 July 1928, father William F Meier, mother Florence L Pringle'; a second snippet adds 'Pennsylvania … father Wm F Meier, mother Florence L Pringle'). The age '1 9/12' in the 1930 census (14 Apr 1930) and 21 in the 1950 census (7 Apr 1950) fit this date. In the 1930 census (Wilkes-Barre Ward 15, ED 40-261, sheet 23B, 55 Cedar Street) he is 'James, son, 1 9/12' in the household of Wm F. Meier (26) and Florence (25) with elder brother William (about 3). In the 1950 census (Wilkes-Barre ED 40-102, sheet 2, house 55) he is 'James C., son, 21, single' with father William F. (45, supervisor at a coal company), mother Florence (45), brother William Jr. (23) and sister Barbara Ann (14). He married Kathryn F. McGuire (b. 22 Aug 1930), who died Sep 1970 (FamilySearch tree G3PC-LJL says in Levittown, PA). He died 13 Aug 2008 in Levittown, Bucks County, Pennsylvania (Ancestry index snippet, several queries) — Levittown, Pennsylvania, not Levittown on Long Island; this is the first record of the family outside Luzerne County. No obituary, military record or 1940 census entry has been found. He was the right age for the Korean War draft (registered 1946–48), but no service record was found. The FamilySearch profile GF3P-853 calls him 'James E Meier, b. 1929' with no spouse; the 1950 census it cites reads 'James C', so 'E/1929' is a tree error.\n\nThe three Levittown obituary leads in James's open questions belong to a cousin's family, not his own. FamilySearch tree profiles of the descendants of Fred Aloysius Meier Sr. (James's uncle) place Fred's son Gerald Francis Meier (b. 11 Mar 1921 Wilkes-Barre) at death on 4 May 1994 in Levittown, Bristol Township, Bucks Co. ([R4-S1]). Gerald's wife was Mary Ruth Hashagen (1927–2003) and his son was Frederick Aloysius Meier (1957–2012) ([R4-S1]). These fit the Courier Times obituaries of 'Mary R. Meier' (26 Nov 2003) and 'Fred Meier' (15 Jul 2012), Levittown, so they are James's first cousin's widow and son, not his wife or children. Fred Aloysius Meier Sr. himself died in Bristol Township in March 1966 ([R4-S2]). So a branch of the Wilkes-Barre Meiers was in lower Bucks County by the 1960s, which may explain James's own move to Levittown."
@@ -5745,7 +5786,7 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "John's paternal grandmother, daughter of Frank J. McGuire and Elizabeth McAvoy of Plymouth and Wilkes-Barre, who died aged 40 in 1970, probably at Levittown.",
-   "bio": "Kathryn F. McGuire was born in Wilkes-Barre, Luzerne County, Pennsylvania, on 22 August 1930, the daughter of Francis (Frank) J. McGuire and Elizabeth McAvoy. Her parents had married at Plymouth in 1923; in 1910 her father's family and the Pringles, her future husband's mother's family, had both been living in Larksville. Records differ on her middle name, giving it as F. or as Kay. Her sisters were Jane Clair (1924–2005), who married Elvin R. Nagle, and probably the twins Elizabeth 'Betsy' and Ann 'Nancy', born in March 1928; Nancy married a Holland and died in 2007.\n\nKathryn married James C. Meier and was John's paternal grandmother. She died young, in September 1970 at the age of 40, probably at Levittown in Bucks County, Pennsylvania, where her husband also died in 2008.",
+   "bio": "Kathryn F. McGuire was born in Wilkes-Barre, Luzerne County, Pennsylvania, on 22 August 1930, the daughter of Francis (Frank) J. McGuire and Elizabeth McAvoy. Her parents had married at Plymouth in 1923; in 1910 her father's family and the Pringles, her future husband's mother's family, had both been living in Larksville. Records differ on her middle name, giving it as F. or as Kay. Her sisters were Jane Clair (1924–2005), who married Elvin R. Nagle, and probably the twins Elizabeth 'Betsy' and Ann 'Nancy', born in March 1928; Nancy married a Holland and died in 2007.\n\nKathryn married James C. Meier and was John's paternal grandmother. She died young, of breast cancer, in September 1970 at the age of 40, probably at Levittown in Bucks County, Pennsylvania, leaving eight children between about seven and fifteen; her husband never remarried and died there in 2008.",
    "facts": [
     {
      "label": "Middle initial / name",
@@ -5758,6 +5799,10 @@ window.FAMILY_DATA = {
     {
      "label": "Siblings",
      "value": "Jane Clair McGuire (1924–2005, m. Elvin R. Nagle); Elizabeth 'Betsy' (Mar 1928); Ann 'Nancy' (Mar 1928, m. Holland, d. 2007) — FamilySearch G3PC-RT7, G3PC-FFK; probable."
+    },
+    {
+     "label": "Cause of death",
+     "value": "Breast cancer (family information)"
     }
    ],
    "sources": [
@@ -5765,7 +5810,8 @@ window.FAMILY_DATA = {
     "FamilySearch tree G3PC-LJL https://www.familysearch.org/service/tree/tree-data/published/persons/G3PC-LJL",
     "FamilySearch tree G3PC-RT7, G3PC-FFK (sisters)",
     "Reclaim the Records, NYS Death Index 1970 CSV https://archive.org/download/reclaim-the-records-new-york-state-death-index-1880-1971/Reclaim_The_Records_-_New_York_State_Death_Index_-_1970.csv (negative; item page https://archive.org/details/reclaim-the-records-new-york-state-death-index-1880-1971)",
-    "notes/meier_mcguire.md; notes/round2/meier_gaps.md; notes/round3/irish_pa.md; Round 1 report correction 3j; Round 3 report table 4"
+    "notes/meier_mcguire.md; notes/round2/meier_gaps.md; notes/round3/irish_pa.md; Round 1 report correction 3j; Round 3 report table 4",
+    "John Meier, family information, 8 Oct 2026"
    ],
    "mediaKnown": [
     "Ancestry tree profile photo: group/class photo"
@@ -5809,6 +5855,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: she died of breast cancer in 1970."
     }
    ],
    "researchNotes": "Kathryn F. McGuire was born 22 Aug 1930 (Ancestry index snippet, typical of the SSDI or SS Applications and Claims index: 'Kathryn Meier, born 22 Aug 1930, died Sep 1970; father \"Frances\" [Francis] McGuire; mother Elizabeth McAvoy-McGuire'). The FamilySearch tree profile G3PC-LJL ('Katherine Kay McGuire') gives born about 1931 in Wilkes-Barre, died 1970 in Levittown, Pa., spouse 'Meier', daughter of Francis Joseph McGuire and Elizabeth McAvoy; it is unsourced, but its Levittown + Meier detail is independent of the Ancestry index and matches James C. Meier's 2008 death place. She married James C. Meier (date and place not found). She died in Sep 1970 aged 40. She is NOT in the New York State Death Index (outside NYC) for 1969–71 under Meier, Meyer, Maier or Myers with any Kathryn/Katherine/Catherine variant, so she very probably did not die on Long Island; NYC deaths remain unchecked. Pennsylvania certificates from 1967 on are not online. Her sisters (FamilySearch) were Jane Clair (1924–2005, m. Elvin R. Nagle) and probably twins Elizabeth 'Betsy' and Ann 'Nancy' (Mar 1928; Nancy m. Holland, d. 2007). Her parents married at Plymouth in 1923; in 1910 her father's family and her future husband's mother's family (the Pringles) were both in Larksville."
@@ -67704,17 +67754,25 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0012.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John (8 Oct 2026): lives near Doylestown; husband Richard 'Rick' McGinley; children Ryan, Daniel and Kate. Searched Doylestown/Bucks County news and obituaries for Kathy or Richard McGinley with these leads: nothing public found (people-search sites not used). Birth date still estimated."
     }
    ],
-   "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Rick McGinley.",
+   "summary": "Known as Kathy; the eldest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Richard 'Rick' McGinley; three children; lives near Doylestown.",
    "sources": [
     "John Meier, family information, 8 Oct 2026"
    ],
    "residences": [
     {
-     "date": "",
-     "place": "Levittown, Bucks County, Pennsylvania, USA",
-     "note": "Family home"
+     "date": "1950s–1970s",
+     "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+     "date": "2020s",
+     "place": "Doylestown, Bucks County, Pennsylvania, USA",
+     "note": "near Doylestown"
     }
    ],
    "openQuestions": [
@@ -67723,10 +67781,15 @@ window.FAMILY_DATA = {
    "facts": [
     {
      "label": "Married",
-     "value": "Rick McGinley"
+     "value": "Richard 'Rick' McGinley"
+    },
+    {
+     "label": "Children",
+     "value": "Ryan, Daniel (Danny) and Kate McGinley"
     }
    ],
    "manual": true,
+   "bio": "Kathryn 'Kathy' Meier, the eldest of the eight Meier children, grew up in Levittown, Pennsylvania. She married Richard 'Rick' McGinley, and they have three children, Ryan, Daniel and Kate. The family lives near Doylestown in Bucks County.",
    "birthDateReduced": true
   },
   {
@@ -67777,6 +67840,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Named as 'uncle Dan Meier, played football at North Carolina State' in nephew Anthony Russo's Temple and Michigan State bios."
     }
    ],
    "summary": "NC State lineman under Lou Holtz, three-time Virginia state champion coach at West Potomac and Chantilly, and longtime Fairfax County principal; John's uncle.",
@@ -67800,7 +67867,8 @@ window.FAMILY_DATA = {
     "[R4-S5] Rebecca Woodhouse, \"Getting to know Mr. Meier\", The Oakton Outlook (Oakton HS student paper), 30 Apr 2017 (secondary) https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
     "[R4-S6] West Potomac High School (FCPS), \"Where Legends Live On\" Athletic Hall of Fame page (secondary) https://westpotomachs.fcps.edu/node/9426",
     "[R4-S7] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
-    "[R4-S8] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583"
+    "[R4-S8] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027"
    ],
    "residences": [
     {
@@ -68388,6 +68456,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Fourth pass (8 Oct 2026): John gave leads for Kathy, Nancy and Terry but none for this sibling; Doylestown/Yardley/Bucks County searches with the family's known surnames found nothing. Birth date still estimated."
     }
    ],
    "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; aunt of John Meier.",
@@ -68422,7 +68494,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Sibling of John's father, per John Meier (8 Oct 2026). Birth year is John's estimate."
+    "note": "John's aunt, sister of his father Thomas. Her son Anthony's Temple and Michigan State bios name her and Tony as his parents and Dan Meier as his uncle, which ties the Russos to the Meier siblings in a public record."
    },
    "tags": [],
    "researchLog": [
@@ -68449,17 +68521,26 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: Nancy and Tony live in Doylestown; son Anthony Jr. played QB at Archbishop Wood, Temple and Michigan State. Temple/MSU bios confirm parents' names and uncle Dan Meier. Birth date still only estimated (c.1961); not in any public record found."
     }
    ],
-   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Tony Russo; four children.",
+   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Doylestown with her husband Tony Russo; mother of four, including the Temple quarterback Anthony Russo Jr.; John's aunt.",
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027",
+    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282"
    ],
    "residences": [
     {
-     "date": "",
-     "place": "Levittown, Bucks County, Pennsylvania, USA",
-     "note": "Family home"
+     "date": "1960s–1970s",
+     "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+     "date": "1990s–",
+     "place": "Doylestown, Bucks County, Pennsylvania, USA"
     }
    ],
    "openQuestions": [
@@ -68473,10 +68554,15 @@ window.FAMILY_DATA = {
     },
     {
      "label": "Children",
-     "value": "Anthony, Chelsea, Gianna and Emily Russo"
+     "value": "Anthony Jr. (b. 1997, quarterback), Chelsea, Gianna and Emily Russo"
+    },
+    {
+     "label": "Siblings",
+     "value": "Kathy (McGinley), Danny, Jamie, Tommy, Susie, Jack and Terry Meier"
     }
    ],
    "manual": true,
+   "bio": "Nancy Meier grew up in Levittown, Pennsylvania, one of the eight children of James C. and Kathryn (McGuire) Meier and a younger sister of John's father, Tommy. She married Anthony 'Tony' Russo and they live in Doylestown, Bucks County, where they raised four children: Anthony Jr., Chelsea, Gianna and Emily.\n\nThe family's football line ran on through her son. Anthony Russo Jr., born in Doylestown in 1997, quarterbacked Archbishop Wood to Catholic League and state titles, set passing records at Temple University from 2018 to 2020, finished his college career at Michigan State and played professionally in 2023. His college bios name Nancy and Tony as his parents and note that his uncle Dan Meier played football at North Carolina State.",
    "birthDateReduced": true
   },
   {
@@ -68515,6 +68601,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Fourth pass (8 Oct 2026): John gave leads for Kathy, Nancy and Terry but none for this sibling; Doylestown/Yardley/Bucks County searches with the family's known surnames found nothing. Birth date still estimated."
     }
    ],
    "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania; uncle of John Meier.",
@@ -68578,17 +68668,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John (8 Oct 2026): lives in Yardley; divorced; children Kaysie, Rylie and Bobby. One name check on the distinctive 'Kaysie Borgman' found nothing public; Borgman searches for Yardley/Bucks County found nothing. Birth date still estimated."
     }
    ],
-   "summary": "Known as Terry (Theresa or Teresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt.",
+   "summary": "Known as Terry (Theresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Yardley, Pennsylvania; divorced, with three children; John's aunt.",
    "sources": [
     "John Meier, family information, 8 Oct 2026"
    ],
    "residences": [
     {
-     "date": "",
-     "place": "Levittown, Bucks County, Pennsylvania, USA",
-     "note": "Family home"
+     "date": "1960s–1980s",
+     "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+     "date": "2020s",
+     "place": "Yardley, Bucks County, Pennsylvania, USA"
     }
    ],
    "openQuestions": [
@@ -68599,9 +68696,14 @@ window.FAMILY_DATA = {
     {
      "label": "Married",
      "value": "A Borgman; the marriage ended in divorce."
+    },
+    {
+     "label": "Children",
+     "value": "Kaysie, Rylie and Bobby Borgman"
     }
    ],
    "manual": true,
+   "bio": "Theresa 'Terry' Meier, the youngest of the eight Meier children, grew up in Levittown, Pennsylvania. She married a Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in Yardley, Bucks County.",
    "birthDateReduced": true
   },
   {
@@ -69208,16 +69310,20 @@ window.FAMILY_DATA = {
   },
   {
    "id": "M0027",
-   "given": "Rick",
+   "given": "Richard",
    "surname": "McGinley",
    "sex": "M",
+   "nickname": "Rick",
+   "aka": [
+    "Rick McGinley"
+   ],
    "source": "research",
    "link": {
     "confidence": "confirmed",
     "note": "Married to John's aunt Kathy, per John Meier."
    },
    "tags": [],
-   "summary": "Husband of Kathy (Meier) McGinley; uncle by marriage of John Meier.",
+   "summary": "Richard 'Rick' McGinley, husband of Kathy (Meier) McGinley; of the Doylestown area; uncle by marriage of John Meier.",
    "manual": true,
    "sources": [
     "John Meier, family information, 8 Oct 2026"
@@ -69246,6 +69352,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: first name Richard, lives near Doylestown with Kathy; three children. No public record found."
+    }
+   ],
+   "bio": "Richard 'Rick' McGinley married Kathy Meier, the eldest sister of John's father. They have three children, Ryan, Daniel and Kate, and live near Doylestown, Pennsylvania.",
+   "residences": [
+    {
+     "date": "2020s",
+     "place": "Doylestown, Bucks County, Pennsylvania, USA",
+     "note": "near Doylestown"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Children",
+     "value": "Ryan, Daniel and Kate McGinley"
     }
    ]
   },
@@ -69387,16 +69511,19 @@ window.FAMILY_DATA = {
    "aka": [
     "Tony Russo"
    ],
+   "nickname": "Tony",
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Married to John's aunt Nancy, per John Meier."
+    "note": "Husband of John's aunt Nancy Meier; named as Anthony Russo's father in Temple's and Michigan State's bios."
    },
    "tags": [],
-   "summary": "Husband of Nancy (Meier) Russo, known as Tony; uncle by marriage of John Meier.",
+   "summary": "Husband of Nancy (Meier) Russo, known as Tony; of Doylestown, Pennsylvania; father of the quarterback Anthony Russo Jr.; uncle by marriage of John Meier.",
    "manual": true,
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027",
+    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282"
    ],
    "researchLog": [
     {
@@ -69422,25 +69549,56 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: lives in Doylestown. Named in his son's Temple and MSU bios."
     }
    ],
-   "nickname": "Tony"
+   "bio": "Anthony 'Tony' Russo married Nancy Meier, a sister of John's father, and they live in Doylestown, Bucks County, Pennsylvania, where they raised four children. Their son Anthony Jr. became a record-setting quarterback at Archbishop Wood and Temple University, and Tony is named as his father in his college bios.",
+   "residences": [
+    {
+     "date": "1990s–",
+     "place": "Doylestown, Bucks County, Pennsylvania, USA"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Children",
+     "value": "Anthony Jr., Chelsea, Gianna and Emily Russo"
+    }
+   ]
   },
   {
    "id": "M0032",
    "given": "Anthony",
    "surname": "Russo",
    "sex": "M",
+   "suffix": "Jr.",
+   "birth": {
+    "date": "1997",
+    "place": "Doylestown, Bucks County, Pennsylvania, USA"
+   },
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of John's aunt Nancy, per John Meier."
+    "note": "John's first cousin: son of Nancy (Meier) and Tony Russo per John, and Temple's and Michigan State's official bios name his parents and his uncle Dan Meier."
    },
-   "tags": [],
-   "summary": "Son of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
+   "tags": [
+    "athlete"
+   ],
+   "summary": "John's first cousin: record-setting Temple quarterback (2016–20) from Archbishop Wood who finished at Michigan State and played professionally in 2023.",
    "manual": true,
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027",
+    "Michigan State University Athletics, football roster bio of Anthony Russo (2021): son of Tony and Nancy Russo; born in Doylestown; uncle Dan Meier played at North Carolina State: https://msuspartans.com/sports/football/roster/anthony-russo/11282",
+    "Wikipedia, \"Anthony Russo (American football)\": https://en.wikipedia.org/wiki/Anthony_Russo_(American_football)",
+    "6abc Philadelphia, 17 Jan 2016, \"Archbishop Wood QB chooses Temple Owls amid top offers\": https://6abc.com/archbishop-wood-catholic-high-school-anthony-russo-temple-university-rutgers/1189107/",
+    "EasternPAFootball.com, 16 Jan 2016, Anthony Russo commits to Temple (2015 season: 134 of 200, 2,452 yards, 35 TD; 11-1): https://www.easternpafootball.com/?p=30467",
+    "Philadelphia Inquirer, 5 Aug 2019, \"Anthony Russo ready to face the microscope as Temple's starting QB\": https://www.inquirer.com/sports/anthony-russo-temple-football-archbishop-wood-american-athletic-conference-20190805.html",
+    "Philadelphia Inquirer, 3 Dec 2020, \"Temple University quarterback Anthony Russo enters college football transfer portal\": https://www.inquirer.com/college-sports/temple/temple-anthony-russo-transfer-portal-20201203.html",
+    "Bucks County Courier Times via Yahoo Sports, 22 Nov 2022, \"Archbishop Wood graduate Anthony Russo set to play professional football in XFL\": https://sports.yahoo.com/archbishop-wood-graduate-anthony-russo-230036048.html"
    ],
    "researchLog": [
     {
@@ -69462,27 +69620,166 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0032.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John identified him as the Archbishop Wood/Temple/Michigan State quarterback. Temple and MSU bios name his parents Nancy and Tony Russo, sisters Chelsea (26), Emily (23) and Gina (18) in 2020, and uncle Dan Meier (NC State): public confirmation of the Russo–Meier link. Career from Wikipedia and the bios; birth date 6 Dec 1997 from Wikipedia."
     }
    ],
    "openQuestions": [
     "Son of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
-   ]
+   ],
+   "bio": "Anthony Russo Jr. was born in Doylestown, Pennsylvania, on 6 December 1997, the son of Tony and Nancy (Meier) Russo, and grew up with three sisters, Chelsea, Emily and Gianna. He is John's first cousin, and the football ran in the family: his uncles Danny, Tommy and Jamie Meier all coached high-school football in Virginia, and his college bios note that his uncle Dan Meier played at North Carolina State.\n\nAt Archbishop Wood Catholic High School in Warminster he was a three-year starting quarterback for coach Steve Devlin, winning Catholic League titles and state championships. As a senior in 2015 he completed 134 of 200 passes for 2,452 yards and a Catholic League record 35 touchdowns as the Vikings went 11-1; he was first-team all-state, Catholic League MVP, the Maxwell Award's Tri-State High School Player of the Year and an Elite 11 finalist, and 247Sports ranked him the nation's No. 21 pro-style quarterback. He had committed early to Rutgers, but in January 2016, a day after LSU's Les Miles visited, he chose to stay home and signed with Temple.\n\nHe redshirted in 2016 and made his first appearance in 2017 as the holder against UCF. In 2018 he took over as Temple's starter, winning his first start 35-14 at Maryland, and the Owls went 7-3 in his starts; he threw for 2,563 yards and 14 touchdowns. In 2019 he started all 13 games of an 8-5 season, passed for 2,861 yards and 21 touchdowns, became the first Temple quarterback with two 400-yard games and set the school's single-season record with 246 completions, earning a Davey O'Brien Great 8 national quarterback-of-the-week award. His 2020 season was cut to three starts by injury and the pandemic, but he threw four touchdown passes in each of the first two games and set Temple's single-game records for attempts and completions (41) at Memphis. He finished with 31 games, 26 starts, a 16-10 record, 6,292 passing yards and 44 touchdowns, third on the school's all-time lists, and took his degree in advertising in the spring of 2020.\n\nIn January 2021 he transferred to Michigan State as a graduate student, where he played two games behind Payton Thorne. Undrafted in 2022, he worked out at the Carolina Panthers' rookie camp, was drafted by the XFL's San Antonio Brahmas in November 2022 and released before the season, then signed with the Massachusetts Pirates of the Indoor Football League in April 2023, took over as starter and led the team through an unbeaten home season, earning third-team All-IFL honours. He retired from playing after that season.",
+   "facts": [
+    {
+     "label": "Position",
+     "value": "Quarterback, 6 ft 4 in, 235 lb"
+    },
+    {
+     "label": "Education",
+     "value": "Archbishop Wood Catholic High School, Warminster (2016); Temple University, BA advertising 2020; graduate study at Michigan State 2021"
+    },
+    {
+     "label": "Honours",
+     "value": "First-team all-state, Catholic League MVP and Maxwell Award Tri-State Player of the Year 2015; Elite 11 finalist; Temple single-season completions record (246, 2019) and single-game attempts and completions records (2020); Davey O'Brien Great 8 (2019); third-team All-IFL 2023"
+    },
+    {
+     "label": "Parents",
+     "value": "Tony and Nancy (Meier) Russo"
+    },
+    {
+     "label": "Sisters",
+     "value": "Chelsea, Emily and Gianna Russo"
+    }
+   ],
+   "events": [
+    {
+     "title": "Catholic League record 35 touchdown passes",
+     "date": "2015",
+     "place": "Warminster, Bucks County, Pennsylvania, USA",
+     "description": "Senior season at Archbishop Wood: 134 of 200 for 2,452 yards; team 11-1."
+    },
+    {
+     "title": "Committed to Temple",
+     "date": "2016-01-16",
+     "place": "Philadelphia, Pennsylvania, USA",
+     "description": "Chose Temple over Rutgers and late interest from LSU."
+    },
+    {
+     "title": "First college start",
+     "date": "2018",
+     "place": "College Park, Maryland, USA",
+     "description": "Won 35-14 at Maryland after replacing the injured Frank Nutile; Temple went 7-3 in his starts."
+    },
+    {
+     "title": "Temple single-season completions record",
+     "date": "2019",
+     "place": "Philadelphia, Pennsylvania, USA",
+     "description": "246 completions, 2,861 yards and 21 touchdowns; first Temple quarterback with two 400-yard passing games."
+    },
+    {
+     "title": "Graduate transfer to Michigan State",
+     "date": "2021-01",
+     "place": "East Lansing, Michigan, USA",
+     "description": "Two appearances behind Payton Thorne."
+    },
+    {
+     "title": "Third-team All-IFL, Massachusetts Pirates",
+     "date": "2023",
+     "place": "Worcester, Massachusetts, USA",
+     "description": "Signed in April 2023 after an XFL stint with the San Antonio Brahmas; led an unbeaten home season."
+    }
+   ],
+   "residences": [
+    {
+     "date": "1997–2016",
+     "place": "Doylestown, Bucks County, Pennsylvania, USA"
+    },
+    {
+     "date": "2016–2020",
+     "place": "Philadelphia, Pennsylvania, USA",
+     "note": "Temple University"
+    },
+    {
+     "date": "2021",
+     "place": "East Lansing, Michigan, USA",
+     "note": "Michigan State University"
+    }
+   ],
+   "media": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Anthony_Russo_(American_football)",
+     "type": "link",
+     "title": "Wikipedia: Anthony Russo (American football)",
+     "date": "",
+     "source": "Wikipedia",
+     "note": "",
+     "people": []
+    },
+    {
+     "url": "https://owlsports.com/sports/football/roster/anthony-russo/14027",
+     "type": "link",
+     "title": "Temple Owls roster bio: Anthony Russo, QB No. 15",
+     "date": "2020",
+     "source": "Temple University Athletics",
+     "note": "",
+     "people": [
+      "M0016",
+      "M0031"
+     ]
+    },
+    {
+     "url": "https://msuspartans.com/sports/football/roster/anthony-russo/11282",
+     "type": "link",
+     "title": "Michigan State roster bio: Anthony Russo, QB",
+     "date": "2021",
+     "source": "Michigan State University Athletics",
+     "note": "",
+     "people": [
+      "M0013"
+     ]
+    },
+    {
+     "url": "https://6abc.com/archbishop-wood-catholic-high-school-anthony-russo-temple-university-rutgers/1189107/",
+     "type": "link",
+     "title": "6abc: Archbishop Wood QB chooses Temple Owls amid top offers",
+     "date": "2016-01-17",
+     "source": "6abc Philadelphia",
+     "note": "",
+     "people": []
+    },
+    {
+     "url": "https://sports.yahoo.com/archbishop-wood-graduate-anthony-russo-230036048.html",
+     "type": "link",
+     "title": "Courier Times: Archbishop Wood graduate Anthony Russo set to play professional football in XFL",
+     "date": "2022-11-22",
+     "source": "Bucks County Courier Times via Yahoo Sports",
+     "note": "",
+     "people": []
+    }
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "M0033",
    "given": "Chelsea",
    "surname": "Russo",
    "sex": "F",
+   "birth": {
+    "date": "1994",
+    "place": "Pennsylvania, USA"
+   },
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of John's aunt Nancy, per John Meier."
+    "note": "Daughter of Nancy (Meier) and Tony Russo per John; named as a sister in Anthony Russo's Temple bio (2020)."
    },
    "tags": [],
-   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
+   "summary": "Daughter of Nancy (Meier) and Tony Russo of Doylestown, born about 1994; John's first cousin and a sister of the quarterback Anthony Russo Jr.",
    "manual": true,
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027"
    ],
    "researchLog": [
     {
@@ -69504,27 +69801,40 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0033.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Named with her age in Anthony Russo's 2020 Temple bio (Chelsea 26, Emily 23, Gina 18); birth year estimated from it. Not researched further (name and relationship only)."
     }
    ],
    "openQuestions": [
     "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "M0034",
    "given": "Gianna",
    "surname": "Russo",
    "sex": "F",
+   "birth": {
+    "date": "2002",
+    "place": "Pennsylvania, USA"
+   },
+   "aka": [
+    "Gina Russo"
+   ],
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of John's aunt Nancy, per John Meier."
+    "note": "Daughter of Nancy (Meier) and Tony Russo per John; named as a sister in Anthony Russo's Temple bio (2020)."
    },
    "tags": [],
-   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
+   "summary": "Daughter of Nancy (Meier) and Tony Russo of Doylestown, born about 2002, known as Gina in her brother's college bio; John's first cousin and a sister of the quarterback Anthony Russo Jr.",
    "manual": true,
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027"
    ],
    "researchLog": [
     {
@@ -69546,27 +69856,37 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0034.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Named with her age in Anthony Russo's 2020 Temple bio (Chelsea 26, Emily 23, Gina 18); birth year estimated from it. Not researched further (name and relationship only)."
     }
    ],
    "openQuestions": [
     "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "M0035",
    "given": "Emily",
    "surname": "Russo",
    "sex": "F",
+   "birth": {
+    "date": "1997",
+    "place": "Pennsylvania, USA"
+   },
    "source": "research",
    "link": {
     "confidence": "confirmed",
-    "note": "Child of John's aunt Nancy, per John Meier."
+    "note": "Daughter of Nancy (Meier) and Tony Russo per John; named as a sister in Anthony Russo's Temple bio (2020)."
    },
    "tags": [],
-   "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
+   "summary": "Daughter of Nancy (Meier) and Tony Russo of Doylestown, born about 1997; John's first cousin and a sister of the quarterback Anthony Russo Jr.",
    "manual": true,
    "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027"
    ],
    "researchLog": [
     {
@@ -69588,11 +69908,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0035.json."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "Named with her age in Anthony Russo's 2020 Temple bio (Chelsea 26, Emily 23, Gina 18); birth year estimated from it. Not researched further (name and relationship only)."
     }
    ],
    "openQuestions": [
     "Daughter of Tony and Nancy (Meier) Russo. A birth year is needed to know whether this is an adult who can be researched, or a minor."
-   ]
+   ],
+   "birthDateReduced": true
   },
   {
    "id": "M0036",
@@ -69634,6 +69959,16 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+     "date": "2026-10-08",
+     "note": "John: three children with Terry (Kaysie, Rylie, Bobby). First name still unknown."
+    }
+   ],
+   "facts": [
+    {
+     "label": "Children",
+     "value": "Kaysie, Rylie and Bobby Borgman"
     }
    ]
   },
@@ -71823,6 +72158,144 @@ window.FAMILY_DATA = {
      "note": "About text updated with the round-6 Cognetti research, written as narrative."
     }
    ]
+  },
+  {
+   "id": "M0107",
+   "given": "Ryan",
+   "surname": "McGinley",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "John Meier, family information, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from John's list of his cousins; name and relationship only."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of Kathy (Meier) and Richard 'Rick' McGinley, per John (8 Oct 2026)."
+   },
+   "summary": "Ryan McGinley, son of Kathy (Meier) and Richard 'Rick' McGinley; John's first cousin."
+  },
+  {
+   "id": "M0108",
+   "given": "Daniel",
+   "surname": "McGinley",
+   "sex": "M",
+   "nickname": "Danny",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "John Meier, family information, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from John's list of his cousins; name and relationship only."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of Kathy (Meier) and Richard 'Rick' McGinley, per John (8 Oct 2026)."
+   },
+   "summary": "Daniel McGinley, son of Kathy (Meier) and Richard 'Rick' McGinley; John's first cousin."
+  },
+  {
+   "id": "M0109",
+   "given": "Kate",
+   "surname": "McGinley",
+   "sex": "F",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "John Meier, family information, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from John's list of his cousins; name and relationship only."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of Kathy (Meier) and Richard 'Rick' McGinley, per John (8 Oct 2026)."
+   },
+   "summary": "Kate McGinley, daughter of Kathy (Meier) and Richard 'Rick' McGinley; John's first cousin."
+  },
+  {
+   "id": "M0110",
+   "given": "Kaysie",
+   "surname": "Borgman",
+   "sex": "F",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "John Meier, family information, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from John's list of his cousins; name and relationship only."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of Terry (Meier) Borgman, per John (8 Oct 2026)."
+   },
+   "summary": "Kaysie Borgman, daughter of Terry (Meier) Borgman; John's first cousin."
+  },
+  {
+   "id": "M0111",
+   "given": "Rylie",
+   "surname": "Borgman",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "John Meier, family information, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from John's list of his cousins; name and relationship only."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Child of Terry (Meier) Borgman, per John (8 Oct 2026)."
+   },
+   "summary": "Rylie Borgman, child of Terry (Meier) Borgman; John's first cousin."
+  },
+  {
+   "id": "M0112",
+   "given": "Bobby",
+   "surname": "Borgman",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "John Meier, family information, 8 Oct 2026"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-08",
+     "note": "Added from John's list of his cousins; name and relationship only."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of Terry (Meier) Borgman, per John (8 Oct 2026)."
+   },
+   "summary": "Bobby Borgman, son of Terry (Meier) Borgman; John's first cousin."
   }
  ],
  "families": [
@@ -75157,7 +75630,11 @@ window.FAMILY_DATA = {
    "id": "MF0006",
    "husband": "M0027",
    "wife": "M0012",
-   "children": []
+   "children": [
+    "M0107",
+    "M0108",
+    "M0109"
+   ]
   },
   {
    "id": "MF0007",
@@ -75184,7 +75661,11 @@ window.FAMILY_DATA = {
    "husband": "M0036",
    "wife": "M0018",
    "status": "divorced",
-   "children": []
+   "children": [
+    "M0110",
+    "M0111",
+    "M0112"
+   ]
   },
   {
    "id": "MF0010",
@@ -75398,7 +75879,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 341,
-  "research": 617
+  "research": 623
  },
  "stories": [
   {

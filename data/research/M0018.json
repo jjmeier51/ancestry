@@ -29,17 +29,24 @@
     {
       "date": "2026-10-08",
       "note": "Third pass (8 Oct 2026) at John's request. Searched: web for James C. Meier's Aug 2008 obituary (Legacy.com index page needs an id and returns an error; Courier Times/phillyburbs block crawlers; Patch and Dignity Memorial Levittown lists have no Meier); Legacy.com surname listings; obituaries of Borgman, Russo and McGinley families in Bucks County that might name a Meier in-law; the 1990 Washington Post 'coaching brothers' article, the 2013 Robinson profile, the 2019 West Potomac Hall of Fame page, the 2023 DC Touchdown Club Circle of Legends notice and the NOVA Legends podcast page for Danny (none names the siblings); the East Stroudsburg lettermen list (only Tom and Jamie); Neshaminy football archives. Nothing found. No people-search sites used. The 2008 obituary (Bucks County Courier Times, on Newspapers.com/GenealogyBank) remains the one source that would give married names, towns and professions; John can also supply them directly."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "John (8 Oct 2026): lives in Yardley; divorced; children Kaysie, Rylie and Bobby. One name check on the distinctive 'Kaysie Borgman' found nothing public; Borgman searches for Yardley/Bucks County found nothing. Birth date still estimated."
     }
   ],
-  "summary": "Known as Terry (Theresa or Teresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt.",
+  "summary": "Known as Terry (Theresa); the youngest of the eight children of James C. and Kathryn (McGuire) Meier of Levittown; lives in Yardley, Pennsylvania; divorced, with three children; John's aunt.",
   "sources": [
     "John Meier, family information, 8 Oct 2026"
   ],
   "residences": [
     {
-      "date": "",
-      "place": "Levittown, Bucks County, Pennsylvania, USA",
-      "note": "Family home"
+      "date": "1960s–1980s",
+      "place": "Levittown, Bucks County, Pennsylvania, USA"
+    },
+    {
+      "date": "2020s",
+      "place": "Yardley, Bucks County, Pennsylvania, USA"
     }
   ],
   "openQuestions": [
@@ -51,7 +58,12 @@
     {
       "label": "Married",
       "value": "A Borgman; the marriage ended in divorce."
+    },
+    {
+      "label": "Children",
+      "value": "Kaysie, Rylie and Bobby Borgman"
     }
   ],
-  "manual": true
+  "manual": true,
+  "bio": "Theresa 'Terry' Meier, the youngest of the eight Meier children, grew up in Levittown, Pennsylvania. She married a Borgman and has three children, Kaysie, Rylie and Bobby; the marriage ended in divorce. She lives in Yardley, Bucks County."
 }

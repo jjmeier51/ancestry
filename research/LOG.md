@@ -4,6 +4,28 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-08 — Kathy, Nancy and Terry Meier: John's leads; Anthony Russo Jr.
+
+- John supplied: Kathy m. Richard "Rick" McGinley, near Doylestown, children
+  Ryan, Daniel, Kate (`M0107`–`M0109`); Nancy and Tony Russo in Doylestown,
+  son Anthony Jr. the Archbishop Wood/Temple/Michigan State QB; Terry
+  (Theresa) in Yardley, divorced, children Kaysie, Rylie, Bobby Borgman
+  (`M0110`–`M0112`); Kathryn McGuire Meier died of breast cancer in 1970.
+- Public confirmation of the Russo–Meier link: Temple's 2020 roster bio of
+  Anthony Russo names parents Nancy and Tony Russo, sisters Chelsea (26),
+  Emily (23) and Gina (18), and "uncle Dan Meier, played football at North
+  Carolina State"; MSU's 2021 bio repeats parents and uncle. Wikipedia gives
+  his birth 6 Dec 1997, Doylestown. Full athletic bio written for `M0032`
+  (Catholic League record 35 TD 2015; Temple 2016–20, school completions
+  records; MSU 2021; XFL/IFL 2023, third-team All-IFL). Sisters' birth
+  years estimated from the bio ages.
+- Still nothing public for Kathy/Rick McGinley or Terry Borgman (Doylestown,
+  Yardley and Bucks County searches with the new surnames; one name check on
+  "Kaysie Borgman"); nothing for Susan and Jack. Exact birth dates of the
+  eight siblings are not in public records online; only data-broker sites
+  carry them and those are not used. Lead unchanged: James C. Meier's Aug
+  2008 Courier Times obituary (Newspapers.com/GenealogyBank).
+
 ## 2026-10-08 — Susan, Nancy, Jack and Terry Meier (third pass); Research status moved; date-parser bug
 
 - John asked for more on his father's siblings Susan, Nancy, Jack and Terry

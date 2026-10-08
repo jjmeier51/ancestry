@@ -241,9 +241,13 @@
     },
     {
       "id": "M0027",
-      "given": "Rick",
+      "given": "Richard",
       "surname": "McGinley",
-      "sex": "M"
+      "sex": "M",
+      "nickname": "Rick",
+      "aka": [
+        "Rick McGinley"
+      ]
     },
     {
       "id": "M0028",
@@ -270,31 +274,52 @@
       "sex": "M",
       "aka": [
         "Tony Russo"
-      ]
+      ],
+      "nickname": "Tony"
     },
     {
       "id": "M0032",
       "given": "Anthony",
       "surname": "Russo",
-      "sex": "M"
+      "sex": "M",
+      "suffix": "Jr.",
+      "birth": {
+        "date": "1997-12-06",
+        "place": "Doylestown, Bucks County, Pennsylvania, USA"
+      }
     },
     {
       "id": "M0033",
       "given": "Chelsea",
       "surname": "Russo",
-      "sex": "F"
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1994",
+        "place": "Pennsylvania, USA"
+      }
     },
     {
       "id": "M0034",
       "given": "Gianna",
       "surname": "Russo",
-      "sex": "F"
+      "sex": "F",
+      "birth": {
+        "date": "ABT 2002",
+        "place": "Pennsylvania, USA"
+      },
+      "aka": [
+        "Gina Russo"
+      ]
     },
     {
       "id": "M0035",
       "given": "Emily",
       "surname": "Russo",
-      "sex": "F"
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1997",
+        "place": "Pennsylvania, USA"
+      }
     },
     {
       "id": "M0036",
@@ -927,6 +952,42 @@
       "death": {
         "date": "BEF 2023"
       }
+    },
+    {
+      "id": "M0107",
+      "given": "Ryan",
+      "surname": "McGinley",
+      "sex": "M"
+    },
+    {
+      "id": "M0108",
+      "given": "Daniel",
+      "surname": "McGinley",
+      "sex": "M",
+      "nickname": "Danny"
+    },
+    {
+      "id": "M0109",
+      "given": "Kate",
+      "surname": "McGinley",
+      "sex": "F"
+    },
+    {
+      "id": "M0110",
+      "given": "Kaysie",
+      "surname": "Borgman",
+      "sex": "F"
+    },
+    {
+      "id": "M0111",
+      "given": "Rylie",
+      "surname": "Borgman"
+    },
+    {
+      "id": "M0112",
+      "given": "Bobby",
+      "surname": "Borgman",
+      "sex": "M"
     }
   ],
   "families": [
@@ -982,7 +1043,11 @@
       "id": "MF0006",
       "husband": "M0027",
       "wife": "M0012",
-      "children": []
+      "children": [
+        "M0107",
+        "M0108",
+        "M0109"
+      ]
     },
     {
       "id": "MF0007",
@@ -1009,7 +1074,11 @@
       "husband": "M0036",
       "wife": "M0018",
       "status": "divorced",
-      "children": []
+      "children": [
+        "M0110",
+        "M0111",
+        "M0112"
+      ]
     },
     {
       "id": "MF0010",

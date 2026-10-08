@@ -2,13 +2,14 @@
   "id": "M0034",
   "link": {
     "confidence": "confirmed",
-    "note": "Child of John's aunt Nancy, per John Meier."
+    "note": "Daughter of Nancy (Meier) and Tony Russo per John; named as a sister in Anthony Russo's Temple bio (2020)."
   },
   "tags": [],
-  "summary": "Daughter of Tony and Nancy (Meier) Russo; first cousin of John Meier.",
+  "summary": "Daughter of Nancy (Meier) and Tony Russo of Doylestown, born about 2002, known as Gina in her brother's college bio; John's first cousin and a sister of the quarterback Anthony Russo Jr.",
   "manual": true,
   "sources": [
-    "John Meier, family information, 8 Oct 2026"
+    "John Meier, family information, 8 Oct 2026",
+    "Temple University Athletics, football roster bio of Anthony Russo (2020): born in Doylestown, Pa.; parents Nancy and Tony Russo; sisters Chelsea (26), Emily (23) and Gina (18); uncle Dan Meier played football at North Carolina State; advertising degree spring 2020: https://owlsports.com/sports/football/roster/anthony-russo/14027"
   ],
   "researchLog": [
     {
@@ -30,6 +31,10 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round5 imported) from research/imported/round4/people/M0034.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Named with her age in Anthony Russo's 2020 Temple bio (Chelsea 26, Emily 23, Gina 18); birth year estimated from it. Not researched further (name and relationship only)."
     }
   ],
   "openQuestions": [
