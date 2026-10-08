@@ -1,0 +1,48 @@
+{
+  "id": "I282695503584",
+  "name": "John Cognetti",
+  "researchedAt": "2026-10-08",
+  "status": "deceased_detected",
+  "updates": {
+    "aka": ["John F. Cognetti"],
+    "birth": { "date": "about 1926-1927", "place": "Pennsylvania (Scranton)", "sourceRefs": ["S1", "S2"] },
+    "death": { "date": "2013-11-08", "place": "Green Tree, Allegheny County, Pennsylvania", "sourceRefs": ["S1"] },
+    "occupation": "Confectionery broker; partner in Kramer-Cognetti Sales for 35 years",
+    "residences": [
+      { "date": "1940", "place": "Scranton, Pennsylvania", "note": "Age 12, at school, in his parents' household", "sourceRefs": ["S2"] },
+      { "date": "2013", "place": "Green Tree, Allegheny County, Pennsylvania", "note": "Residence at death", "sourceRefs": ["S1"] }
+    ],
+    "events": [
+      { "title": "Funeral", "date": "2013-11-16", "place": "SS. Simon & Jude Church, Green Tree (Pittsburgh), PA", "description": "Visitation on 15 Nov 2013 at the William Slater II Funeral Service; Mass of Christian Burial on 16 Nov 2013.", "sourceRefs": ["S1"] }
+    ],
+    "military": [ { "note": "Served in the US Navy; the obituary gives no dates (probably the WWII era, given his birth c.1926-27)", "sourceRefs": ["S1"] } ],
+    "career": [ { "role": "Partner", "organization": "Kramer-Cognetti Sales, confectionery brokers (Pittsburgh area)", "years": "35 years", "detail": "Same candy-brokerage trade as his brother Joseph F. (D.C. Sales Co., Scranton)", "sourceRefs": ["S1"] } ]
+  },
+  "bioAdditions": "John F. Cognetti, age 87, of Green Tree (a Pittsburgh suburb), died on Friday, 8 Nov 2013 (S1). His obituary settles his identity: it names him the brother of Leo Cognetti and Mary Petriello and of the late Ralph, Joseph, Angeline Butchko, Anthony and Sal Cognetti, which is exactly the family of Frank and Helen Cognetti. He was the widower of Evelyn Cognetti. He was survived by sons Dean J. (Deborah), John J. (Sandra) and David (Ann) Cognetti and by grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti. For 35 years he was a partner in Kramer-Cognetti Sales, confectionery brokers, the same candy-brokerage business that made his brother Joseph F. Cognetti a Candy Hall of Fame member. He also served in the US Navy. Visitation was at the William Slater II Funeral Service and the Mass of Christian Burial at SS. Simon & Jude Church, Green Tree, on 16 Nov 2013 (S1). In the 1940 census he was 12 and at school in the family home on Philo Street, Scranton (S2). His death fits the 2016 Thanksgiving article's statement that only Leo and Mary survived.",
+  "funFacts": ["Like his brother Joe and his nephew Tony, John made his career in the candy trade: 35 years as a confectionery broker in Pittsburgh."],
+  "conflicts": [
+    { "field": "birth.date", "siteValue": "1928", "foundValue": "c.1926 (age 87 at death in Nov 2013); 1927 per FamilySearch tree; age 12 in Apr 1940 implies 1927-28", "sourceRefs": ["S1", "S2", "S3"], "assessment": "The year is probably 1926-27. The exact date should come from SSDI or his Navy record." }
+  ],
+  "relationships": [
+    { "type": "spouse", "personId": "NEW-1401", "evidence": "Obituary: 'beloved husband of the late Evelyn Cognetti'", "sourceRefs": ["S1"], "strength": "proven" },
+    { "type": "child", "personId": "NEW-1402", "evidence": "Obituary names son Dean J. (Deborah)", "sourceRefs": ["S1"], "strength": "proven" },
+    { "type": "child", "personId": "NEW-1403", "evidence": "Obituary names son John J. (Sandra)", "sourceRefs": ["S1"], "strength": "proven" },
+    { "type": "child", "personId": "NEW-1404", "evidence": "Obituary names son David (Ann)", "sourceRefs": ["S1"], "strength": "proven" }
+  ],
+  "confidenceRecommendation": { "current": "confirmed", "recommended": "confirmed", "justification": "His own obituary names all of his siblings." },
+  "openQuestionsNew": ["Evelyn Cognetti's maiden name and dates; John's Navy service dates; place of burial (the obituary page shows a cemetery section, but its text was not readable)."],
+  "sources": [
+    { "ref": "S1", "citation": "Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service; also published in the Pittsburgh Post-Gazette on 10 Nov 2013 (Legacy pid 167940321, blocked)", "url": "https://www.slaterfuneral.com/obituaries/john-cognetti", "class": "secondary", "accessed": "2026-10-08", "supports": "Death, age, residence, wife, sons, grandchildren, siblings, career, Navy service, services" },
+    { "ref": "S2", "citation": "1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 71 (John, son, 12)", "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg", "class": "primary", "accessed": "2026-10-08", "supports": "Age 12 in 1940, at school, in Frank and Helen's household" },
+    { "ref": "S3", "citation": "FamilySearch tree GBQH-MN9, John Cognetti 1927- (attached 1930, 1940 and 1950 census indexes: XH3R-XBB, KQZZ-JK4, 6X1W-37KW)", "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GBQH-MN9", "class": "derivative", "accessed": "2026-10-08", "supports": "Birth year 1927 in the FS tree; the FS profile has no death date" }
+  ],
+  "media": [
+    { "type": "link", "title": "Obituary of John F. Cognetti, 2013 (Slater Funeral Home)", "date": "2013-11", "pageUrl": "https://www.slaterfuneral.com/obituaries/john-cognetti", "directUrl": "", "repository": "William Slater II Funeral Service", "rights": "copyrighted", "downloadable": false, "downloaded": false, "localPath": "", "people": ["I282695503584"], "suggestedFile": "media/I282695503584/obituary-2013.html", "note": "No portrait photo found on the page." }
+  ],
+  "searchedNoResult": [
+    "Legacy.com Post-Gazette notice pid=167940321: blocked (403)",
+    "Wayback availability API: 429 rate limited; CDX: blocked by egress policy",
+    "WebSearch \"Kramer-Cognetti\" Sales: no other web record of the firm"
+  ],
+  "researchLogEntry": "Round 5: found John F. Cognetti's obituary (d. 8 Nov 2013, Green Tree, PA, age 87; Navy; confectionery broker), which names wife Evelyn, three sons and all of his siblings. Deceased, not living."
+}

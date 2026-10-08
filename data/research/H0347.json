@@ -1,19 +1,21 @@
 {
   "id": "H0347",
   "link": {
-    "confidence": "probable",
-    "note": "Identification of the Candy Hall of Fame inductee with Ralph's son Anthony (b. 14 Dec 1949) is probable; probably living, not researched further."
+    "confidence": "confirmed",
+    "note": "Identification of the Candy Hall of Fame inductee with Ralph's son Anthony (b. 14 Dec 1949) is probable; probably living, not researched further. Round 4 (probable → confirmed): Exact birth-date match to Ralph's son plus the 'uncle's firm' statement. An obituary naming him (for example Marguerite Cognetti's 2014 notice) would add a third confirmation."
   },
   "sex": "M",
   "tags": [
     "notable"
   ],
-  "summary": "Scranton-born confectionery executive inducted into the Candy Hall of Fame in 1996; probably John's first cousin twice removed.",
-  "bio": "Anthony Paul Cognetti was born in Scranton in 1949. He spent about 23 years with D.C. Sales Co., the firm of Joseph F. Cognetti, and became its president in 1982; in 1996 he was inducted into the Candy Hall of Fame. He is probably the son of Ralph A. Cognetti, which would make him a nephew of Joseph F. Cognetti and of Mary Cognetti Petriello, and John's first cousin twice removed.",
+  "summary": "Tony Cognetti, Scranton-born confectionery executive inducted into the Candy Hall of Fame in 1996; a nephew of John's grandmother Mary Cognetti Petriello.",
+  "bio": "Anthony Paul \"Tony\" Cognetti was born in Scranton, Pennsylvania, in 1949, the youngest of the three sons of Ralph A. Cognetti and Marguerite Forgione; his brothers were Frank, born in 1942, and Peter, born in 1948, and his mother lived to 101, dying in 2014. Through his father he is a nephew of Joseph F. Cognetti and of John's grandmother Mary Cognetti Petriello, and so a first cousin of John's mother, Sharon.\n\nHe attended Central High School in Scranton and took a BA at Penn State in 1971. He then joined his uncle Joseph's firm, D.C. Sales Co., a confectionery and food brokerage, as an account executive. After a short spell outside the industry in the mid-1970s he returned as a partner in 1977 and became president in 1982; in all he spent 23 of his 25 years in the trade at D.C. Sales. In 1994 he merged the firm into M.W. Houck, Inc. and became vice-president of its confectionery division. He was the National Candy Wholesalers Association's Candy Ambassador in 1988, won the New York Candy Club's Presidential Award in 1990 and served as that club's president, and in 1996 he was inducted into the Candy Hall of Fame, joining his uncle Joseph. He and his wife Sheri raised nine children.",
   "notable": "Candy Hall of Fame 1996",
   "sources": [
     "Candy Hall of Fame: https://candyhalloffame.org/inductee/anthony-paul-cognetti",
-    "FS tree L6CN-7HV"
+    "FS tree L6CN-7HV",
+    "[R4-S1] Candy Hall of Fame, inductee profile 'Anthony Paul Cognetti' (Class of 1996) (secondary) https://candyhalloffame.org/inductee/anthony-paul-cognetti",
+    "[R4-S2] FamilySearch tree L6CN-7HV, Ralph A. Cognetti 1913-2009 (spouse Marguerite Forgione 1913-2014, m. 1 Jun 1940; children Frank 1942, Peter 1948, Anthony b. Dec 1949, GBQH-59S) (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L6CN-7HV"
   ],
   "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -28,7 +30,99 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Confidence probable → confirmed: Exact birth-date match to Ralph's son plus the 'uncle's firm' statement. An obituary naming him (for example Marguerite Cognetti's 2014 notice) would add a third confirmation."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282695503685, proven): Exact birth date in the Candy Hall of Fame profile equals that of Ralph A. Cognetti's son Anthony in the FS tree, and the HOF profile says D.C. Sales was his uncle's firm (Joseph F., Ralph's brother)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (spouse , probable): Wife Sheri (surname not given); nine children"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch \"Ralph A. Cognetti\" obituary 2009 Scranton: none online (only people-search pages, not used); WebSearch Marguerite Cognetti obituary 2014 Forgione: not found (an Amelia Amori 2012 obituary names sister Marguerite Cognetti of Scranton); WebSearch \"Tony Cognetti\" candy / Houck / D.C. Sales: only Candy HOF pages; WebSearch \"Sheri Cognetti\": only data-aggregator pages (ZoomInfo/RocketReach), not used; WebSearch Anthony/Tony Cognetti with Westfield / Scotch Plains / Fanwood NJ: only people-search sites (not used); Legacy.com obituaries of Joseph F. (2009) and Anthony R. (2008): blocked 403"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: parentage of Tony Cognetti (Candy HOF 1996) confirmed as Ralph A. and Marguerite (Forgione) Cognetti by exact birth-date match and the 'uncle's firm' statement; logged his career and awards (NCWA Candy Ambassador 1988, NY Candy Club award 1990)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/H0347.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "researchNotes": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living."
+  "researchNotes": "Candy Hall of Fame 1996: born 1949 in Scranton, worked about 23 years at D.C. Sales Co. (Joseph F. Cognetti's firm), president in 1982. Round 2 matched him to Ralph A. Cognetti's son Anthony (b. 14 Dec 1949, FS L6CN-7HV), making him nephew of Joseph and of Mary Cognetti Petriello. Probably living.\n\nround5: The Candy Hall of Fame profile ([R4-S1]) gives Tony Cognetti's exact birth date, in Scranton in December 1949. It matches, day for day, Anthony, the youngest son of Ralph A. and Marguerite (Forgione) Cognetti in the FamilySearch tree ([R4-S2]). The profile also says he spent 23 years at 'his uncle's firm, D.C. Sales Co.', the brokerage where Joseph F. Cognetti, Ralph's brother, was partner from 1956 and later chairman. Two independent identifiers therefore agree (exact birth date with parents, and the uncle's firm), and his parentage can be treated as confirmed. Ralph and Marguerite's children in the FS tree are Frank (b. 1942), Peter (b. 1948) and Anthony (b. 1949); Marguerite died on 30 May 2014 aged 101 ([R4-S2]).\n\nTony attended Central High School in Scranton and earned a BA from Penn State in 1971. He started at D.C. Sales as an account executive, briefly left the industry in the mid-1970s, returned as a partner in 1977 and became president in 1982. In 1994 he merged the firm into M.W. Houck, Inc. and became vice-president of its confectionery division. He was NCWA Candy Ambassador (1988), won the New York Candy Club's Presidential Award (1990), served as that club's president, and was inducted into the Candy Hall of Fame in 1996, joining his uncle Joseph. The profile says he and his wife Sheri raised nine children ([R4-S1]). He is John Meier's first cousin twice removed (a first cousin of Sharon's mother's generation: Tony is a nephew of Mary Cognetti Petriello).",
+  "aka": [
+    "Tony Cognetti"
+  ],
+  "events": [
+    {
+      "title": "Education: Central High School, Scranton",
+      "date": "",
+      "place": "",
+      "description": "As stated in his Candy Hall of Fame profile [R4-S1]"
+    },
+    {
+      "title": "Education: Pennsylvania State University",
+      "date": "1971",
+      "place": "",
+      "description": "BA [R4-S1]"
+    },
+    {
+      "title": "Account executive, then partner (1977), then president (1982), D.C. Sales Co. (confectionery and food brokerage; 'his uncle's firm', i.e. Joseph F. Cognetti's)",
+      "date": "c.1971-1994, with a short break in the mid-1970s",
+      "place": "",
+      "description": "23 of his 25 industry years were at D.C. Sales. [R4-S1]"
+    },
+    {
+      "title": "Vice-president, confectionery division, M.W. Houck, Inc.",
+      "date": "1994-",
+      "place": "",
+      "description": "He merged D.C. Sales' operations into M.W. Houck in 1994. [R4-S1]"
+    },
+    {
+      "title": "Candy Hall of Fame inductee",
+      "date": "1996",
+      "place": "",
+      "description": "[R4-S1]"
+    },
+    {
+      "title": "National Candy Wholesalers Association 'Candy Ambassador'",
+      "date": "1988",
+      "place": "",
+      "description": "[R4-S1]"
+    },
+    {
+      "title": "New York Candy Club Presidential Award",
+      "date": "1990",
+      "place": "",
+      "description": "He also served as president of the New York Candy Club. [R4-S1]"
+    }
+  ],
+  "funFacts": [
+    "Three Cognettis of this family worked in the candy trade: Joseph F. (D.C. Sales, Candy Hall of Fame), his nephew Tony (president of D.C. Sales, Candy Hall of Fame 1996), and his brother John F. (Kramer-Cognetti Sales, Pittsburgh)."
+  ],
+  "openQuestions": [
+    "Marguerite (Forgione) Cognetti's 2014 obituary (Scranton) should name her sons Frank, Peter and Anthony with their wives; not found online (Legacy blocked)."
+  ],
+  "media": [
+    {
+      "url": "https://candyhalloffame.org/inductee/anthony-paul-cognetti",
+      "type": "link",
+      "title": "Tony Cognetti, Candy Hall of Fame portrait",
+      "date": "",
+      "source": "Candy Hall of Fame, copyrighted",
+      "note": "Image URL taken from the profile page; not downloaded (copyright). (not downloaded: rights copyrighted)",
+      "people": []
+    }
+  ]
 }

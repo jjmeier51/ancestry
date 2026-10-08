@@ -1,0 +1,93 @@
+{
+  "id": "M0005",
+  "name": "Joanne Petriello",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "residences": [
+      {
+        "date": "c.1996-2021",
+        "place": "Mendham, NJ",
+        "note": "with her husband (his obituary: 25 years in Mendham)",
+        "sourceRefs": [
+          "S1"
+        ]
+      },
+      {
+        "date": "2021-2024",
+        "place": "Princeton area (Skillman), NJ",
+        "note": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Marriage to John T. Petriello Jr.",
+        "date": "c.1985-86 ('of 38 years' in Feb 2024)",
+        "place": "",
+        "description": "",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "John T. Petriello Jr.'s obituary calls her his 'loving wife Joanne Petriello of 38 years' and says the couple lived in Mendham, NJ for 25 years before moving to Princeton in 2021 (Skillman at his death) (S1). The obituary also lists three sisters-in-law with their husbands: Barbara Plotnick (Rick), Elizabeth Gallaher (Michael) and Lisa Sinacori (Greg) (S1). John Jr.'s only siblings were Sharon and Paul, so these three women are almost certainly Joanne's sisters. Her maiden name was not found. His father's 2025 obituary names her as 'daughter in law Joanne Petriello' (S2).",
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "NEW-1305",
+      "evidence": "sister-in-law Barbara Plotnick (Rick) of John Jr.",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "sibling",
+      "personId": "NEW-1306",
+      "evidence": "sister-in-law Elizabeth Gallaher (Michael)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    },
+    {
+      "type": "sibling",
+      "personId": "NEW-1307",
+      "evidence": "sister-in-law Lisa Sinacori (Greg)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "openQuestionsNew": [
+    "Joanne's maiden name: a parent's obituary naming 'Joanne Petriello (John)', Barbara Plotnick, Elizabeth Gallaher and Lisa Sinacori would give it."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News.",
+      "url": "https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Wife of 38 years; Mendham and Princeton residence; sisters-in-law"
+    },
+    {
+      "ref": "S2",
+      "citation": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181).",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Daughter-in-law Joanne, 2025"
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch 'Joanne Petriello' (exact): only data-broker listings (not used) and unrelated Joanne Petrillos",
+    "WebSearch obituary 'Sinacori' 'Gallaher' 'Plotnick' (+/- Petriello): no parent obituary found"
+  ],
+  "researchLogEntry": "Round 5: married c.1985-86; Mendham c.1996-2021, then Princeton; three probable sisters found in her husband's obituary; maiden name still unknown."
+}

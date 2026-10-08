@@ -1,0 +1,890 @@
+[
+ {
+  "id": "NEW-1401",
+  "name": "Evelyn Cognetti",
+  "living": false,
+  "updates": {
+   "death": {
+    "date": "before 2013-11-08",
+    "place": "",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  },
+  "bioAdditions": "Wife of John F. Cognetti (I282695503584) of Green Tree, PA; predeceased him (died before Nov 2013). Maiden name unknown.",
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "I282695503584",
+    "evidence": "'beloved husband of the late Evelyn Cognetti'",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service",
+    "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names wife (the late Evelyn) and sons Dean J. (Deborah), John J. (Sandra), David (Ann); grandchildren Gregory, Matthew, Daniel, Dominique, Anthony"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1402",
+  "name": "Dean J. Cognetti",
+  "living": true,
+  "note": "Living, name and relationship only (spouse Deborah per obituary)",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282695503584",
+    "evidence": "Son named in father's 2013 obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service",
+    "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names wife (the late Evelyn) and sons Dean J. (Deborah), John J. (Sandra), David (Ann); grandchildren Gregory, Matthew, Daniel, Dominique, Anthony"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1403",
+  "name": "John J. Cognetti",
+  "living": true,
+  "note": "Living, name and relationship only (spouse Sandra per obituary)",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282695503584",
+    "evidence": "Son named in father's 2013 obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service",
+    "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names wife (the late Evelyn) and sons Dean J. (Deborah), John J. (Sandra), David (Ann); grandchildren Gregory, Matthew, Daniel, Dominique, Anthony"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1404",
+  "name": "David Cognetti",
+  "living": true,
+  "note": "Living, name and relationship only (spouse Ann per obituary). Father's obituary also names grandchildren Gregory, Matthew, Daniel, Dominique and Anthony Cognetti (not split by parent; ages unknown, so not researched).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282695503584",
+    "evidence": "Son named in father's 2013 obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service",
+    "url": "https://www.slaterfuneral.com/obituaries/john-cognetti",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names wife (the late Evelyn) and sons Dean J. (Deborah), John J. (Sandra), David (Ann); grandchildren Gregory, Matthew, Daniel, Dominique, Anthony"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1405",
+  "name": "Lawrence Rocco Ruth",
+  "living": false,
+  "updates": {
+   "birth": {
+    "date": "1905",
+    "place": "Scranton, PA",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   },
+   "death": {
+    "date": "1968-06",
+    "place": "",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   "occupation": "Painter (1950)"
+  },
+  "bioAdditions": "Father of Mary Carol Ruth (H0500), wife of Anthony R. Cognetti. Born in Scranton; lived on N. Lincoln Ave, Scranton, in 1950.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0500",
+    "evidence": "Named as bride's father on 1950 license",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Lackawanna Co. marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Bride's parents Lawrence Ruth (painter, b. Scranton) and Loretta Barrett (b. Scranton)"
+   },
+   {
+    "ref": "S2",
+    "citation": "FamilySearch tree PW29-VF6 (Mary Carol Ruth), parent entries P9SY-K4B and P9SB-F9V",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Lawrence Rocco Ruth 1905-1968; Mary Loretta Barrett 1909-1985"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1406",
+  "name": "Mary Loretta (Barrett) Ruth",
+  "living": false,
+  "updates": {
+   "birth": {
+    "date": "1909",
+    "place": "Scranton, PA",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   },
+   "death": {
+    "date": "1985-06-28",
+    "place": "",
+    "sourceRefs": [
+     "S2"
+    ]
+   }
+  },
+  "bioAdditions": "Mother of Mary Carol Ruth (H0500); maiden name Barrett per 1950 license.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0500",
+    "evidence": "Named as bride's mother on 1950 license",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Lackawanna Co. marriage license no. 687 (1950), Anthony R. Cognetti and Mary C. Ruth",
+    "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/PW29-VF6/images/i/1/image.jpg",
+    "class": "primary",
+    "accessed": "2026-10-08",
+    "supports": "Bride's parents Lawrence Ruth (painter, b. Scranton) and Loretta Barrett (b. Scranton)"
+   },
+   {
+    "ref": "S2",
+    "citation": "FamilySearch tree PW29-VF6 (Mary Carol Ruth), parent entries P9SY-K4B and P9SB-F9V",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Lawrence Rocco Ruth 1905-1968; Mary Loretta Barrett 1909-1985"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1407",
+  "name": "Laurence T. Cognetti",
+  "living": true,
+  "note": "Presumed living; name and relationship only. Probably the 'Larry Cognetti, now of Darien, Georgia' quoted in the 2016 Thanksgiving story and the son 'Lawrence' in Anthony R.'s 2008 obituary (both identifications unproven).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "I282695503583",
+    "evidence": "FS index names Mary Carol Ruth in his marriage entry (H5JW-HN3Z), so he is presumably her son by Anthony R. Cognetti",
+    "sourceRefs": [
+     "S3"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "H0500",
+    "evidence": "as above",
+    "sourceRefs": [
+     "S3"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S3",
+    "citation": "FamilySearch 'Pennsylvania, Marriages, 1709-1940' index H5JW-HN3Z, listed on PW29-VF6",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/PW29-VF6",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "Laurence T. Cognetti marriage entry naming Mary Carol Ruth"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1408",
+  "name": "Ryan Cognetti",
+  "living": true,
+  "note": "Living adult; public facts only: owner/general manager of Caravia Fresh Foods, Clarks Summit (opened 2004); husband of Scranton Mayor Paige Cognetti (H0378), married 17 Oct 2017; two minor daughters (not recorded). Probably John Meier's second cousin.",
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "H0378",
+    "evidence": "Happenings 2020; Wikipedia",
+    "sourceRefs": [
+     "S3"
+    ],
+    "strength": "proven"
+   },
+   {
+    "type": "child",
+    "personId": "NEW-1409",
+    "evidence": "Caravia 'About': 'Joe and his son, Ryan'",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Caravia Fresh Foods 'About' page",
+    "url": "https://caraviafreshfoods.com/about",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "'Joe and his son, Ryan'; store named for Joseph's grandmother Michelena Caravia of San Mango"
+   },
+   {
+    "ref": "S2",
+    "citation": "Abington Journal, 8 Aug 2018, Caravia Fresh Foods article",
+    "url": "https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Joseph Cognetti owned Joseph Notarianni Produce to 1999; grandson of Michelena Caravia; Ryan general manager"
+   },
+   {
+    "ref": "S3",
+    "citation": "Happenings Magazine, 31 Mar 2020",
+    "url": "https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Ryan Cognetti, owner of Caravia, married Paige 17 Oct 2017"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1409",
+  "name": "Joseph 'Joe' Cognetti (of Notarianni Produce and Caravia)",
+  "living": true,
+  "note": "Presumed living adult. Owned Joseph Notarianni Produce, Scranton (founded by his Notarianni great-grandfather c.1925), sold 1998/1999; co-founded Caravia Fresh Foods, Clarks Summit, 2004, named for his grandmother Michelena Caravia of San Mango d'Aquino. Very probably a son of Salvatore D. Cognetti (I282695503586) and Elizabeth Notarianni (H0499), daughter of Joseph and Michelene Notarianni, so a first cousin of Sharon (Petriello) Meier.",
+  "relationships": [
+   {
+    "type": "parent",
+    "personId": "I282695503586",
+    "evidence": "His grandmother Michelena Caravia = Michelene Notarianni, mother of Elizabeth Notarianni Cognetti, widow of Sal D. Cognetti Sr.; he owned the Notarianni family produce firm",
+    "sourceRefs": [
+     "S1",
+     "S2",
+     "S4"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "parent",
+    "personId": "H0499",
+    "evidence": "as above",
+    "sourceRefs": [
+     "S1",
+     "S2",
+     "S4"
+    ],
+    "strength": "probable"
+   },
+   {
+    "type": "child",
+    "personId": "NEW-1408",
+    "evidence": "'Joe and his son, Ryan'",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Caravia Fresh Foods 'About' page",
+    "url": "https://caraviafreshfoods.com/about",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "'Joe and his son, Ryan'; store named for Joseph's grandmother Michelena Caravia of San Mango"
+   },
+   {
+    "ref": "S2",
+    "citation": "Abington Journal, 8 Aug 2018, Caravia Fresh Foods article",
+    "url": "https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Joseph Cognetti owned Joseph Notarianni Produce to 1999; grandson of Michelena Caravia; Ryan general manager"
+   },
+   {
+    "ref": "S4",
+    "citation": "Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only)",
+    "url": "https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Daughter of Joseph and Michelene Notarianni; widow of Sal D. Cognetti Sr."
+   },
+   {
+    "ref": "S5",
+    "citation": "Happenings Magazine, 18 Jun 2014, Caravia article",
+    "url": "https://www.happeningsmagazinepa.com/2014/06/18/gourmet-market-fresh-menu-caravia-fresh-foods/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Joe Cognetti sold his produce business in 1998, opened Caravia 12 Jun 2004 with cousin Marianne Cognetti"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1410",
+  "name": "Michelena (Caravia) Notarianni",
+  "living": false,
+  "aka": [
+   "Michelene Notarianni"
+  ],
+  "bioAdditions": "From San Mango d'Aquino, Calabria (the same village as Helen Ferlaino). Wife of Joseph Notarianni, Scranton produce dealer; mother of Elizabeth (Notarianni) Cognetti, wife of Sal D. Cognetti. Grandmother for whom Caravia Fresh Foods is named.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0499",
+    "evidence": "Elizabeth's 1994 obituary (search summary): daughter of Joseph and Michelene Notarianni; Caravia page: Joseph Cognetti's grandmother Michelena Caravia of San Mango",
+    "sourceRefs": [
+     "S1",
+     "S4"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Caravia Fresh Foods 'About' page",
+    "url": "https://caraviafreshfoods.com/about",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "'Joe and his son, Ryan'; store named for Joseph's grandmother Michelena Caravia of San Mango"
+   },
+   {
+    "ref": "S4",
+    "citation": "Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only)",
+    "url": "https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Daughter of Joseph and Michelene Notarianni; widow of Sal D. Cognetti Sr."
+   }
+  ]
+ },
+ {
+  "id": "NEW-1411",
+  "name": "Joseph Notarianni",
+  "living": false,
+  "bioAdditions": "Scranton produce dealer, founder (c.1925) of Joseph Notarianni Produce; husband of Michelena Caravia; father of Elizabeth (Notarianni) Cognetti.",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0499",
+    "evidence": "Elizabeth's 1994 obituary (search summary) names parents Joseph and Michelene Notarianni",
+    "sourceRefs": [
+     "S4"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S2",
+    "citation": "Abington Journal, 8 Aug 2018, Caravia Fresh Foods article",
+    "url": "https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Joseph Cognetti owned Joseph Notarianni Produce to 1999; grandson of Michelena Caravia; Ryan general manager"
+   },
+   {
+    "ref": "S4",
+    "citation": "Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618; blocked, search summary only)",
+    "url": "https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Daughter of Joseph and Michelene Notarianni; widow of Sal D. Cognetti Sr."
+   }
+  ]
+ },
+ {
+  "id": "NEW-1201",
+  "name": "Harold Edward Arnold",
+  "living": false,
+  "updates": {
+   "birth": {
+    "date": "6 Jul 1927",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania",
+    "sourceRefs": [
+     "S2"
+    ]
+   },
+   "death": {
+    "date": "27 May 1997",
+    "place": "Altoona, Blair County, Pennsylvania",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   },
+   "aka": [
+    "Harold E. Arnold"
+   ],
+   "events": [
+    {
+     "title": "Marriage to Elizabeth A. 'Betsy' McGuire",
+     "date": "13 Sep 1952",
+     "place": "Wilkes-Barre",
+     "description": "",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ],
+   "facts": [
+    {
+     "label": "FamilySearch ID",
+     "value": "GP6V-LL1 (duplicate GP7C-XR4 wrongly attached to Elizabeth McAvoy)"
+    },
+    {
+     "label": "Parents (FS tree)",
+     "value": "Harold George Arnold (1904-1959) and Martha Bowden (1908-1982)"
+    }
+   ]
+  },
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "H0062",
+    "evidence": "Wife's obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "note": "Husband of John's great-aunt Betsy. The site wrongly records a 'Harold Arnold' as second husband of Elizabeth (McAvoy) McGuire; this is that man.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016",
+    "url": "https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names husband and children"
+   },
+   {
+    "ref": "S2",
+    "citation": "FamilySearch Family Tree (published), Harold Edward Arnold, PID GP6V-LL1 (WWII draft registration and NUMIDENT attached)",
+    "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1",
+    "class": "derivative",
+    "accessed": "2026-10-08",
+    "supports": "b. 6 Jul 1927 Wilkes-Barre; d. May 1997 Altoona; parents Harold George Arnold and Martha Bowden"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1202",
+  "name": "Edward T. Arnold",
+  "living": true,
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0062",
+    "evidence": "Named as surviving son 'Edward T. (Sandra L.) of Altoona' in his mother's 2016 obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "note": "Living; name, relationship and source only. Wife Sandra L. named in the obituary.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016",
+    "url": "https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names husband and children"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1203",
+  "name": "Ann E. Closson (née Arnold)",
+  "living": true,
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0062",
+    "evidence": "Named as surviving daughter 'Ann E. Closson ... of Bellwood' in her mother's 2016 obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "note": "Living; name, relationship and source only.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016",
+    "url": "https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names husband and children"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1204",
+  "name": "Jane M. Schreckengost (née Arnold)",
+  "living": true,
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "H0062",
+    "evidence": "Named as surviving daughter 'Jane M. (Joseph) Schreckengost ... of Bellwood' in her mother's 2016 obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "proven"
+   }
+  ],
+  "note": "Living; name, relationship and source only. Husband Joseph named in the obituary.",
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Altoona Mirror, obituary of Elizabeth A. 'Betsy' Arnold, 10 Nov 2016",
+    "url": "https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Names husband and children"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1301",
+  "name": "Anthony \"Zitzer\" Genello",
+  "status": "deceased",
+  "updates": {
+   "birth": {
+    "date": "1926-06-11",
+    "place": "Scranton (Bunker Hill section), PA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "death": {
+    "date": "2024-02-26",
+    "place": "Wilkes-Barre General Hospital, Wilkes-Barre, PA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "burial": {
+    "cemetery": "St. Mary of Mount Carmel Cemetery",
+    "place": "Dunmore, PA",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   "occupation": "Builder; co-founder (1956) of East Scranton Lumber Company",
+   "military": [
+    {
+     "note": "WWII, 75th Infantry Division, European Theater, two campaigns; Combat Infantry Badge, Bronze Star",
+     "sourceRefs": [
+      "S1"
+     ]
+    }
+   ]
+  },
+  "bioAdditions": "The son of Louis and Mary Caprio Genello, he grew up in Scranton's Bunker Hill section and graduated from Scranton Technical High School before entering the service. With his brother Vito (Gianello) he founded East Scranton Lumber Co. in 1956 and built custom homes for more than 50 years, living in a house he built himself. His siblings Vito Gianello and Mary DePietro died before him. His wife of 68 years was Ann Marie, and their children are Dr. Louis (Susan), Marisa and David (Kathleen) (S1).",
+  "relationships": [
+   {
+    "type": "spouse",
+    "personId": "M0003",
+    "evidence": "'survived by his loving wife of 68 years, Ann Marie'; she is 'sister Ann Marie Genello' in John T. Petriello Sr.'s obituary; Louis and Susan Genello sent sympathy at Sr.'s death",
+    "sourceRefs": [
+     "S1",
+     "S2",
+     "S3"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472).",
+    "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Life, family, military service"
+   },
+   {
+    "ref": "S2",
+    "citation": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181).",
+    "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Ann Marie Genello = Sr.'s sister"
+   },
+   {
+    "ref": "S3",
+    "citation": "Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025.",
+    "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Louis and Susan Genello sympathy"
+   }
+  ],
+  "media": [
+   {
+    "type": "portrait",
+    "title": "Anthony \"Zitzer\" Genello, obituary portrait",
+    "date": "2024",
+    "pageUrl": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "directUrl": "https://d1q40j6jx1d8h6.cloudfront.net/Obituaries/30890472/Thumbnail_6.jpg",
+    "repository": "Solfanelli-Fiorillo Funeral Home (Tribute Center Online)",
+    "rights": "copyrighted",
+    "downloadable": false,
+    "downloaded": false,
+    "localPath": "",
+    "people": [
+     "NEW-1301"
+    ],
+    "suggestedFile": "",
+    "note": "copyrighted; not downloaded"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1302",
+  "name": "Louis Genello",
+  "status": "living",
+  "note": "Dr. Louis Genello (wife Susan), Dunmore; son of Anthony and Ann Marie Genello. Public listing: dentist at Hazzouri Dental, Scranton, per a University of Scranton health-services referral directory (name + 'Dr.' + Scranton match; probable).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "M0003",
+    "evidence": "son 'Dr. Louis and wife, Susan, Dunmore' in his father's obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472).",
+    "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Son Dr. Louis (Susan), Dunmore"
+   },
+   {
+    "ref": "S2",
+    "citation": "University of Scranton Student Health Services referral directory (undated PDF): dental listing 'Hazzouri Dental, Dr. Louis Genello'.",
+    "url": "https://matrix.scranton.edu/studentlife/studentaffairs/health-services/docs/referral-directory.pdf",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Dr. Louis Genello, Hazzouri Dental, Scranton"
+   },
+   {
+    "ref": "S3",
+    "citation": "Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025.",
+    "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Louis and Susan Genello & family sympathy at John T. Petriello Sr.'s death"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1303",
+  "name": "Marisa Genello",
+  "status": "living",
+  "note": "Daughter of Anthony and Ann Marie Genello, of Scranton (father's 2024 obituary).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "M0003",
+    "evidence": "'daughter, Marisa Genello, Scranton'",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472).",
+    "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Daughter Marisa Genello"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1304",
+  "name": "David Genello",
+  "status": "living",
+  "note": "Son of Anthony and Ann Marie Genello; wife Kathleen; of Fleetville, PA; children Brianna, Bryce and Bradyn (names only) (father's 2024 obituary).",
+  "relationships": [
+   {
+    "type": "child",
+    "personId": "M0003",
+    "evidence": "'son, David and wife, Kathleen, Fleetville'",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472).",
+    "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Son David (Kathleen)"
+   }
+  ]
+ },
+ {
+  "id": "NEW-1305",
+  "name": "Barbara Plotnick",
+  "status": "living",
+  "note": "Sister-in-law (husband Rick) of John T. Petriello Jr.; probably Joanne Petriello's sister.",
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "M0005",
+    "evidence": "'sisters-in-laws Barbara Plotnick (Rick)...' in John Jr.'s obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News.",
+    "url": "https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Sister-in-law of John Jr."
+   }
+  ]
+ },
+ {
+  "id": "NEW-1306",
+  "name": "Elizabeth Gallaher",
+  "status": "living",
+  "note": "Sister-in-law (husband Michael) of John T. Petriello Jr.; probably Joanne's sister.",
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "M0005",
+    "evidence": "John Jr.'s obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News.",
+    "url": "https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Sister-in-law of John Jr."
+   }
+  ]
+ },
+ {
+  "id": "NEW-1307",
+  "name": "Lisa Sinacori",
+  "status": "living",
+  "note": "Sister-in-law (husband Greg) of John T. Petriello Jr.; probably Joanne's sister.",
+  "relationships": [
+   {
+    "type": "sibling",
+    "personId": "M0005",
+    "evidence": "John Jr.'s obituary",
+    "sourceRefs": [
+     "S1"
+    ],
+    "strength": "probable"
+   }
+  ],
+  "sources": [
+   {
+    "ref": "S1",
+    "citation": "Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News.",
+    "url": "https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "class": "secondary",
+    "accessed": "2026-10-08",
+    "supports": "Sister-in-law of John Jr."
+   }
+  ]
+ }
+]

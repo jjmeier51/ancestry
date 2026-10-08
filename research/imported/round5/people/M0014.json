@@ -1,0 +1,33 @@
+{
+  "id": "M0014",
+  "name": "James Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {},
+  "bioAdditions": "An April 2013 neighbourhood guide to Alexandria, written for military families, singled out Waynewood Elementary's principal, \"Mr. Meier\", as one of the school's crossing guards who knew students and parents by name and was always out around the school (S1). This is the same crossing-guard habit later cited when he was named Citizen of the Year in 2018.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "\"5 Amazing DC Suburbs: Alexandria Neighborhoods\", Military Town Advisor blog, 8 Apr 2013",
+      "url": "https://www.militarytownadvisor.com/blog/2013/4/8/58/5-amazing-dc-suburbs-alexandria-neighborhoods/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "\"Waynewood's principal is Mr. Meier, he is also one of the crossing guards.\""
+    }
+  ],
+  "onlinePresence": [
+    {
+      "kind": "other",
+      "title": "Military Town Advisor: Alexandria neighborhoods (2013)",
+      "url": "https://www.militarytownadvisor.com/blog/2013/4/8/58/5-amazing-dc-suburbs-alexandria-neighborhoods/",
+      "accessed": "2026-10-08",
+      "note": "Mentions principal Mr. Meier as a crossing guard"
+    }
+  ],
+  "searchedNoResult": [
+    "East Stroudsburg University Athletics Hall of Fame: no Jamie or Tom Meier (only Terri Meierhofer)",
+    "\"Jamie Meier\" coach/Waynewood/Chantilly 2018-2026: nothing new",
+    "Waynewood PTA minutes April 2016 (waynewoodelem.ch2v.com PDF): HTTP 503, not loaded"
+  ],
+  "researchLogEntry": "Round 5: one minor new mention (2013 Military Town Advisor: principal and crossing guard); ESU Hall of Fame negative."
+}

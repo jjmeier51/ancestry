@@ -1,0 +1,21 @@
+{
+  "id": "M0007",
+  "name": "John Petriello",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "researchLogEntry": "Round 5: no identifiable public footprint (common name; same-name men elsewhere ruled out).",
+  "searchedNoResult": [
+    "WebSearch 'John Petriello' + Mendham/Princeton/Merrill Lynch/lacrosse/college: only a SUNY Morrisville lacrosse player from Carmel NY, son of Colleen and John Petriello, so NOT this man (https://morrisvillemustangs.com/sports/mens-lacrosse/roster/john-petriello/1800, accessed 2026-10-08)",
+    "WebSearch 'Samantha Petriello': a Boston preschool/YMCA staffer of that name exists, but nothing ties her to John (name-only, not attached)"
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181).",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "'John (Samantha) Petriello', grandson, 2025"
+    }
+  ]
+}

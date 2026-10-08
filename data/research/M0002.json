@@ -9,7 +9,7 @@
     "Matt Meier"
   ],
   "tags": [],
-  "summary": "Johnny's younger brother; a living person, so not researched further.",
+  "summary": "John's younger brother Matt: two-time captain and All-State linebacker at Broad Run High School, then a four-year linebacker at Frostburg State University.",
   "residences": [
     {
       "date": "",
@@ -19,7 +19,11 @@
   ],
   "sources": [
     "John Meier, family information, 8 Oct 2026",
-    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary of John T. Petriello Sr., 2025: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Frostburg State University Athletics, 2019 Football Roster, 'Matt Meier' bio (secondary) https://frostburgsports.com/sports/football/roster/matt-meier/8984",
+    "[R4-S2] MaxPreps, Matt Meier's Broad Run High School career home (class of 2016) (secondary) https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/matt-meier/?careerid=esa86uo274uqa",
+    "[R4-S3] WRIC, 'VHSL Announces 2015 Group 5A All-State Football Teams', 11 Jan 2016 (read via text proxy; direct load 403) (secondary) https://www.wric.com/news/vhsl-announces-2015-group-5a-all-state-football-teams/",
+    "[R4-S4] Washington Post, 'Camp Countdown: Broad Run works to return to elite status despite tough road ahead', Aug 2015 (secondary) https://www.washingtonpost.com/news/recruiting-insider/wp/2015/08/11/camp-countdown-broad-run-football-works-to-return-to-elite-status/"
   ],
   "researchLog": [
     {
@@ -29,6 +33,107 @@
     {
       "date": "2026-10-08",
       "note": "Named (\"Mathew\") as a grandson in John T. Petriello Sr.'s 2025 obituary."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent I282604492836, proven): Frostburg State bio: 'Son of Thomas and Sharon Meier'"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WUSA9 'Broad Run: The ultimate road warriors' (2015; quotes 'Senior linebacker Matt Meier' per search snippet): 403, not loaded; Loudoun Times-Mirror All-Loudoun 2015 list: not found online; Frostburg State commencement / dean's list pages: no Matthew Meier found; Post-college career (teacher/coach in Loudoun/Fairfax): nothing found; Lacrosse rosters (Broad Run): no Matt Meier"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: found his Broad Run (2013-15, 2nd-team 5A all-state LB) and Frostburg State (LB 2016-19) football careers; the Frostburg bio names his parents Thomas and Sharon Meier."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0002.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
-  ]
+  ],
+  "events": [
+    {
+      "title": "Named key returning player for Broad Run",
+      "date": "2015-08",
+      "place": "Ashburn, Virginia",
+      "description": "Washington Post 'Camp Countdown' preview lists LB Matt Meier, Sr. as a key returning player, quotes him twice on the schedule and the team's goal of a state championship, and says the defence would be 'led by Meier'. [R4-S4]"
+    },
+    {
+      "title": "Frostburg State college football career",
+      "date": "2016-2019",
+      "place": "Frostburg, Maryland",
+      "description": "2016: 8 games, 13 tackles, 7 tackles in the ECAC Bowl win over St. John Fisher. 2017: all 13 games, 11 starts, 35 tackles, a forced fumble. 2018: 9 games, 17 tackles, 3 TFL, a sack; 7 tackles, 2 TFL and a sack in two NCAA Division II playoff games. 2019 (senior): 7 tackles incl. a TFL in a win over Kentucky Wesleyan. [R4-S1]"
+    },
+    {
+      "title": "Education: Broad Run High School, Ashburn, Virginia",
+      "date": "class of 2016 (varsity football 2013-2015)",
+      "place": "",
+      "description": "Varsity linebacker/long snapper/offensive line, jersey 19 then 51; three varsity letters, two-time team captain, 330 career tackles; Ron E. Pyles Leadership Award. [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Education: Frostburg State University, Frostburg, Maryland",
+      "date": "2016-2019 (football)",
+      "place": "",
+      "description": "Linebacker, No. 51, 6-0/220; majoring in health and physical education (2019 roster bio). Graduation not confirmed. [R4-S1]"
+    },
+    {
+      "title": "VHSL Group 5A Defensive Second-Team All-State, linebacker",
+      "date": "2015 season",
+      "place": "",
+      "description": "'Linebacker, Matt Meier, Broad Run, Sr.' [R4-S3]"
+    },
+    {
+      "title": "First Team All-Region, First Team All-Conference, All-Loudoun linebacker (senior); Second Team All-Region, First Team All-Conference and team defensive MVP (junior)",
+      "date": "2014-2015",
+      "place": "",
+      "description": "As listed in his Frostburg State bio. [R4-S1]"
+    }
+  ],
+  "researchNotes": "round5: Matt Meier followed his brothers onto the Broad Run High School football team in Ashburn, where he played varsity for three seasons (2013-2015) as a linebacker and long snapper ([R4-S2]). He was a two-time captain and made 330 career tackles. As a senior in 2015 the Washington Post named him one of the Spartans' key returning players and quoted him on the team's state-title hopes ([R4-S4]). That season he was chosen Second-Team All-State in Virginia's Group 5A as a linebacker, as well as All-Region, All-Conference and All-Loudoun ([R4-S1], [R4-S3]).\n\nHe then played four seasons (2016-2019) as a linebacker, No. 51, for Frostburg State University in Maryland. He started 11 games as a sophomore and played in two NCAA Division II playoff games in 2018. His college roster bio names him as the 'son of Thomas and Sharon Meier' and says he was majoring in health and physical education ([R4-S1]).",
+  "funFacts": [
+    "He wore No. 51 at Broad Run and Frostburg, the same number his brother Johnny wore at Broad Run in 2008-09."
+  ],
+  "media": [
+    {
+      "url": "https://frostburgsports.com/sports/football/roster/matt-meier/8984",
+      "type": "link",
+      "title": "Matt Meier, Frostburg State football roster headshot",
+      "date": "2018",
+      "source": "Frostburg State University Athletics, copyrighted",
+      "note": "Three roster images (51_Matt_Meier_1_/2_/3_.jpg) referenced on the page; directUrl derived from the page's image-proxy URL. (not downloaded: rights copyrighted)",
+      "people": []
+    },
+    {
+      "url": "https://www.maxpreps.com/va/ashburn/broad-run-spartans/athletes/matt-meier/?careerid=esa86uo274uqa",
+      "type": "link",
+      "title": "Broad Run football photo galleries 2014-2015 including Matt Meier (MaxPreps)",
+      "date": "2014-2015",
+      "source": "MaxPreps, copyrighted",
+      "note": "Profile page lists tagged gallery images from 2014 and 2015 games. (not downloaded: rights copyrighted)",
+      "people": []
+    },
+    {
+      "url": "https://www.washingtonpost.com/news/recruiting-insider/wp/2015/08/11/camp-countdown-broad-run-football-works-to-return-to-elite-status/",
+      "type": "link",
+      "title": "Camp Countdown: Broad Run works to return to elite status despite tough road ahead",
+      "date": "2015-08-16",
+      "source": "Washington Post (Recruiting Insider), 2015-08-16",
+      "note": "Season preview; Matt Meier is a key returning senior linebacker and is quoted twice.",
+      "people": []
+    },
+    {
+      "url": "https://www.wric.com/news/vhsl-announces-2015-group-5a-all-state-football-teams/",
+      "type": "link",
+      "title": "VHSL Announces 2015 Group 5A All-State Football Teams",
+      "date": "2016-01-11",
+      "source": "WRIC (Richmond), 2016-01-11",
+      "note": "Second-team defense: Linebacker, Matt Meier, Broad Run, Sr.",
+      "people": []
+    }
+  ],
+  "bio": "Matthew \"Matt\" Meier was born in 1998 at Inova Loudoun Hospital in Ashburn, Virginia, the youngest of the three sons of Thomas F. and Sharon (Petriello) Meier and John's younger brother. He followed his brothers onto the Broad Run High School football team in Ashburn, where he played varsity for three seasons, from 2013 to 2015, as a linebacker and long snapper, wearing No. 19 and then No. 51. He was a two-time team captain, made 330 career tackles and received the school's Ron E. Pyles Leadership Award. As a junior he was second-team All-Region, first-team All-Conference and the team's defensive MVP, and in August 2015 the Washington Post named him one of the Spartans' key returning players, quoting him on the team's hopes of a state title and saying the defence would be led by him. That senior season he was chosen second-team All-State in Virginia's Group 5A as a linebacker, as well as first-team All-Region, first-team All-Conference and All-Loudoun. He graduated with the class of 2016.\n\nHe then played four seasons, from 2016 to 2019, as a linebacker, No. 51, for Frostburg State University in Maryland, majoring in health and physical education. As a freshman he played eight games and made seven tackles in the ECAC Bowl win over St. John Fisher; as a sophomore in 2017 he played all 13 games, started 11 and made 35 tackles with a forced fumble; and in 2018 he had 17 tackles, three for loss, and a sack in nine games, adding seven tackles, two for loss and a sack in two NCAA Division II playoff games. His college roster bio names him as the son of Thomas and Sharon Meier."
 }

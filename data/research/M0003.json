@@ -13,10 +13,92 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Ann Marie Genello' Scranton: no page in her own name; WebSearch Genello + Petriello obituary Scranton/Dunmore: none; WebSearch Genello obituary 2025/2026 'Ann Marie': no death notice found (Ann Marie Gennell, 1939-2019, Massachusetts, is a different woman); WebSearch 'Genello' 'East Scranton Lumber': no further pages; Legacy.com search: Cloudflare-blocked"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: identified as Ann Marie (Petriello) Genello, widow of Anthony 'Zitzer' Genello (1926-2024), married c.1955-56, three children; merge with I282695504009 recommended."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0003.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded only from family obituaries.",
+  "summary": "Ann Marie Petriello Genello, born 1933, sister of John's grandfather John T. Petriello Sr. and widow of the Scranton builder Anthony \"Zitzer\" Genello.",
   "sources": [
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
-  ]
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S2] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "[R4-S3] Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S4] 1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122). (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+    "[R4-S5] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894"
+  ],
+  "birth": {
+    "date": "ABT 1933-34",
+    "place": "Pennsylvania (Scranton)"
+  },
+  "events": [
+    {
+      "title": "Marriage to Anthony \"Zitzer\" Genello",
+      "date": "ABT 1955-56",
+      "place": "probably Scranton/Dunmore",
+      "description": "Wife of Anthony Genello (1926-2024) of the Bunker Hill section, co-founder of East Scranton Lumber Co. [R4-S2]"
+    },
+    {
+      "title": "Widowed",
+      "date": "2024-02-26",
+      "place": "Wilkes-Barre General Hospital (his death)",
+      "description": "Survives her husband [R4-S2]"
+    },
+    {
+      "title": "Named as surviving sister of John T. Petriello Sr.",
+      "date": "Mar 2025",
+      "place": "Scranton",
+      "description": "'his sister Ann Marie Genello' [R4-S1]"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Husband",
+      "value": "Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), WWII veteran (75th Infantry Division, Bronze Star), builder"
+    },
+    {
+      "label": "Children (per husband's obituary)",
+      "value": "Dr. Louis Genello (wife Susan), Marisa Genello, David Genello (wife Kathleen)"
+    }
+  ],
+  "researchNotes": "round5: Ann Marie Petriello was the second child and only daughter of James Petriello and Carmela 'Mollie' Gianetta: in April 1940 she was 6 and living with her parents and brother John (7) at 1028 Bunker Hill Street, Scranton ([R4-S4]). Her brother John T. Petriello Sr.'s 2025 obituary names her as 'his sister Ann Marie Genello' ([R4-S1]). She is the 'Ann Marie' who was the 'loving wife of 68 years' of Anthony 'Zitzer' Genello, who died on 26 February 2024 aged 97 ([R4-S2]). He too grew up in Scranton's Bunker Hill section, the son of Louis and Mary Caprio Genello. He was a Scranton Tech graduate and a World War II veteran of the 75th Infantry Division (two campaigns, Combat Infantry Badge, Bronze Star). In 1956, with his brother Vito, he founded East Scranton Lumber Company, which built custom homes in the Scranton area for more than 50 years. The marriage dates to about 1955-56. Their children are Dr. Louis Genello (wife Susan, Dunmore), Marisa Genello (Scranton) and David Genello (wife Kathleen, Fleetville). They have six grandchildren and a great-grandson ([R4-S2]).\n\nThe link between the two obituaries is confirmed by the tribute wall of John T. Petriello Sr.'s obituary: among the few sympathy entries is one from 'Louis and Susan Genello & family', that is, Ann Marie's son and daughter-in-law ([R4-S3]). Both obituaries were handled by the same funeral home, Solfanelli-Fiorillo in Scranton ([R4-S1], [R4-S2]). No obituary for Ann Marie herself was found up to October 2026, so she is presumed living (about 92).",
+  "conflicts": [
+    {
+      "field": "identity",
+      "site": "Two entries: I282695504009 'Ann Marie Petriello' (b. 1934, child of I282695504010 + I282695504011) and M0003 'Ann Marie Genello' (child of I282695504010 + H0332)",
+      "found": "One woman: Ann Marie Petriello, b. c.1933-34, married name Genello",
+      "assessment": "MERGE RECOMMENDATION (strong): I282695504009 = M0003. Same parents (I282695504011 is a round-4 duplicate of H0332), same given name and the right age. Sr.'s obituary names her as his only sister, with the married name Genello. Her husband's obituary gives a 68-year marriage, so born before about 1937, which fits b. 1934. Her son Louis Genello and his wife Susan sent sympathy at Sr.'s death. Merged record: Ann Marie (Petriello) Genello, b. 1934 PA, spouse Anthony 'Zitzer' Genello (NEW-1301)."
+    },
+    {
+      "field": "relationship",
+      "site": "John T. Petriello Jr.'s 2024 obituary names a surviving 'cousin Ann Marie'",
+      "found": "Ann Marie Genello was John Jr.'s aunt, not his cousin",
+      "assessment": "Unresolved. The obituary may use 'cousin' loosely for his aunt, or it may mean a different Ann Marie (a cousin on the Cognetti side). Do not attach the 'cousin Ann Marie' line to M0003 as proof."
+    }
+  ],
+  "media": [
+    {
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+      "type": "link",
+      "title": "Anthony \"Zitzer\" Genello, obituary portrait",
+      "date": "2024",
+      "source": "Solfanelli-Fiorillo Funeral Home (Tribute Center Online), copyrighted",
+      "note": "Ann Marie's husband; the obituary also has a media album (1 album, not opened). Not downloaded. (not downloaded: rights copyrighted)",
+      "people": []
+    }
+  ],
+  "bio": "Ann Marie Petriello was born in Scranton, Pennsylvania, in 1933, the second child and only daughter of James Petriello and Carmela \"Mollie\" Gianetta, and a sister of John's grandfather John T. Petriello Sr., which makes her John's great-aunt. In 1940 she was living with her parents and her brother John in the family home on Bunker Hill Street in Scranton; her younger brother Jim was born later.\n\nAbout 1955 or 1956 she married Anthony \"Zitzer\" Genello, a fellow native of the Bunker Hill section and the son of Louis and Mary Caprio Genello. A Scranton Tech graduate and Second World War veteran of the 75th Infantry Division, decorated with the Combat Infantry Badge and the Bronze Star, he founded the East Scranton Lumber Company with his brother Vito in 1956 and built custom homes around Scranton for more than 50 years. They were married for 68 years, until his death on 26 February 2024 at the age of 97. Their children are Dr. Louis Genello, who lives in Dunmore with his wife Susan, Marisa Genello of Scranton and David Genello of Fleetville, whose wife is Kathleen; they have six grandchildren and a great-grandson. Ann Marie was named among the survivors of her brother John when he died in March 2025."
 }

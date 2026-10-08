@@ -1,0 +1,25 @@
+{
+  "id": "M0079",
+  "link": {
+    "confidence": "probable",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282695503584 (proven)."
+  },
+  "tags": [],
+  "summary": "Evelyn Cognetti, wife of John F. Cognetti of Green Tree, Pennsylvania, a brother of John's grandmother; she died before her husband.",
+  "bio": "Evelyn Cognetti was the wife of John F. Cognetti of Green Tree, Pennsylvania, a brother of John's grandmother Mary Cognetti Petriello. They had three sons, Dean J., John J. and David. She died before her husband, who was a widower when he died in November 2013.",
+  "sources": [
+    "[R4-S1] Obituary of John F. Cognetti (d. 8 Nov 2013, Green Tree, PA), William Slater II Funeral Service (secondary) https://www.slaterfuneral.com/obituaries/john-cognetti"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported): new relative NEW-1401 → M0079; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+  ],
+  "researchNotes": "round5: Wife of John F. Cognetti (I282695503584) of Green Tree, PA; predeceased him (died before Nov 2013). Maiden name unknown."
+}

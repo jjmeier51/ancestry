@@ -1,0 +1,84 @@
+{
+  "id": "M0026",
+  "name": "Mary Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "awards": [
+      {
+        "title": "Virginia All-State Chorus",
+        "date": "2012",
+        "detail": "One of three Robinson students selected (with Austin Chang and Amy Jones); the chorus performed on 28 Apr 2012 at E.C. Glass High School, Lynchburg.",
+        "sourceRefs": [
+          "S1"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Robinson Secondary School",
+        "years": "graduated 2013",
+        "detail": "Choral singer; Virginia All-State Chorus 2012.",
+        "sourceRefs": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ]
+  },
+  "bioAdditions": "At Robinson Mary sang in the school's choral programme. In November 2011 she was quoted in a preview of the Robinson Singers' Major Works Concert, saying the long rehearsals made her feel \"really accomplished\" (S2). In February 2012 Patch reported that she was one of three Robinson students chosen for the Virginia All-State Chorus (S1), when her father was Robinson's principal. Her brother Tim's 2011 West Point bio names her as his sister (S4). No released recordings or professional performances under the name Mary Meier were found.",
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "M0024",
+      "evidence": "\"brother Joe, sister Mary\"",
+      "sourceRefs": [
+        "S4"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Rachel Hatzipanagos, \"Robinson Students Selected for All-State Chorus\", Fairfax Station Patch, 27 Feb 2012",
+      "url": "https://patch.com/virginia/fairfaxstation/robinson-students-selected-for-all-state-chorus",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Mary Meier selected for Virginia All-State Chorus"
+    },
+    {
+      "ref": "S2",
+      "citation": "Patricia Mandes, \"Major Works Concert Presented by Robinson Secondary Singers\", Fairfax Station Patch (community post), 4 Nov 2011",
+      "url": "https://patch.com/virginia/fairfaxstation/major-works-concert-presented-by-robinson-secondary-singers",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Mary Meier, Robinson singer, quoted"
+    },
+    {
+      "ref": "S3",
+      "citation": "Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details)",
+      "url": "https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Wife Annie; Mike, 24, a West Point grad and Army 2nd Lt at Fort Sill; Timmy, 22, and Joe, 20, cadets at West Point; Mary, 18, Robinson graduate planning a music career"
+    },
+    {
+      "ref": "S4",
+      "citation": "Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Tim Meier, Army sprint football 2009-11; bio says \"Son of Dan and Ann Meier ... father was a defensive lineman at North Carolina State ... older brother Mike ... brother Joe, sister Mary\""
+    }
+  ],
+  "openQuestionsNew": [
+    "Music career after 2013 not found; she may perform under a married or stage name. The Spotify/SoundCloud \"Mary Meyer\" and Nashville \"Mair\" (Mary Meyer, from Missouri) are different people."
+  ],
+  "searchedNoResult": [
+    "\"Mary Meier\" singer/songwriter/vocalist/soprano; Spotify, Bandcamp, SoundCloud: no matching artist",
+    "\"Mary Meier\" university music programmes, Virginia: nothing"
+  ],
+  "researchLogEntry": "Round 5: Robinson choral singer; Virginia All-State Chorus 2012 (Patch); no music releases found."
+}

@@ -21,9 +21,25 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: Virginia Sports Hall of Fame / VHSL / VHSCA halls of fame: no Meier found in search results; Chantilly HS athletic hall of fame: no list found; Conwell-Egan Sports Hall of Fame page (conwell-egan.org) and Ted Silary Bishop Egan football history (tedsilary.com): no Meier; Agromeck yearbooks 1972-76 (ocr.lib.ncsu.edu): the OCR is too poor to search, and \"Meier\" gave no hits; Orange HS (Hillsborough, NC) coaching history: nothing found; Washington Post archive stories 1986-1996: blocked (403); search snippets only; LinkedIn (HTTP 999) and X @PrincipalMeier (402): blocked; d.lib.ncsu.edu photo catalogue: blocked (401/bot challenge); DVIDS: one \"Dan Meier\" 2015 video belongs to the Corps of Engineers Transatlantic Afghanistan District, a different person; not attached"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: NC State 1974-76 football rosters and outlooks (Levittown, Pa.; MG/tackle; lettered 1973-75); interim principal at Herndon (2016) and Oakton (2017), and history teacher, from Connection and Oakton Outlook; West Point bios name parents \"Dan and Ann Meier\"."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0013.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "NC State nose guard under Lou Holtz, then a three-time Virginia state champion high-school football coach at West Potomac and Chantilly, and later a Fairfax County principal.",
+  "summary": "NC State lineman under Lou Holtz, three-time Virginia state champion coach at West Potomac and Chantilly, and longtime Fairfax County principal; John's uncle.",
   "sources": [
     "John Meier, family information, 8 Oct 2026",
     "Washington Post, 15 Aug 1985, \"Football Practice Opens With Five New Coaches\": https://www.washingtonpost.com/archive/local/1985/08/15/football-practice-opens-with-five-new-coaches/05b4f8f7-5f1e-48e6-baec-b7a6ef29220b/",
@@ -36,7 +52,15 @@
     "The Highlander (McLean HS), 17 May 2018, \"Daniel Meier brings expertise to McLean\": https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/",
     "West Potomac Athletic Hall of Fame, 2019 inductees: https://www.supportwestpotomac.com/2019-inductees.html",
     "NOVA Legends Podcast, \"West Potomac and Chantilly Football Coach Danny Meier\": https://www.youtube.com/watch?v=WvdSYyTd6aw",
-    "Robinson Secondary School history (principals list, Daniel F. Meier): https://robinsonss.fcps.edu/about/history"
+    "Robinson Secondary School history (principals list, Daniel F. Meier): https://robinsonss.fcps.edu/about/history",
+    "[R4-S1] NC State University Sports Information, 1974 football outlook and roster (University Archives UA 015.010.008, box 135; OCR PDF) (primary) https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+    "[R4-S2] NC State University Sports Information, 1975 Wolfpack roster (UA 015.010.008, box 136; OCR PDF) (primary) https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf",
+    "[R4-S3] NC State University Sports Information, 1976 football outlook (UA 015.010.008, box 139; OCR PDF) (primary) https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf",
+    "[R4-S4] Ryan Dunn, \"Transition At Herndon High\", Connection Newspapers, 23 Sep 2016 (secondary) https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+    "[R4-S5] Rebecca Woodhouse, \"Getting to know Mr. Meier\", The Oakton Outlook (Oakton HS student paper), 30 Apr 2017 (secondary) https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+    "[R4-S6] West Potomac High School (FCPS), \"Where Legends Live On\" Athletic Hall of Fame page (secondary) https://westpotomachs.fcps.edu/node/9426",
+    "[R4-S7] Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+    "[R4-S8] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583"
   ],
   "residences": [
     {
@@ -60,11 +84,19 @@
     {
       "date": "2013",
       "place": "Fairfax Station, Virginia, USA"
+    },
+    {
+      "date": "1974-75",
+      "place": "Levittown, Pennsylvania",
+      "note": "Hometown on NC State football rosters [R4-S1] [R4-S2]"
     }
   ],
   "openQuestions": [
     "Exact birth date (sources give ages implying birth between July 1953 and June 1954; John estimated 1956).",
-    "Annie's maiden name and marriage date; the children's full names and birth dates."
+    "Annie's maiden name and marriage date; the children's full names and birth dates.",
+    "Four Washington Post archive stories found by search but not loadable (403): 17 Dec 1989 \"West Potomac's trickery brings state title, 17-14\"; 1 Sep 1989 \"For West Potomac, pride is growing\"; 5 Sep 1986 \"West Potomac will be no surprise\"; 8 Dec 1996 \"No. 1 Chantilly 14, GW-Danville 7\". See leads.",
+    "NC State University Libraries' photograph collection (UA023) has individual portraits of 1973-75 players; a portrait of Dan Meier may exist but d.lib.ncsu.edu was blocked (bot challenge, HTTP 401).",
+    "High school in Levittown not identified. No Meier appears in Ted Silary's Bishop Egan football history or the Conwell-Egan Sports Hall of Fame list."
   ],
   "given": "Daniel F.",
   "surname": "Meier",
@@ -80,13 +112,14 @@
     "place": "Pennsylvania, USA"
   },
   "occupation": "High-school football coach (three Virginia state championships); Fairfax County Public Schools principal",
-  "bio": "Danny Meier was born in Pennsylvania in 1953 and grew up in Levittown. He played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State from 1972 to 1975. His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto, \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16, with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards in both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn 1997 he left coaching for school administration, serving as guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School from 2001 to 2003 and then principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years from 2003 to 2013. There the Fairfax Federation of Teachers rated him a top principal five times, and in 2012 U.S. News ranked the school among the top 100 in America. He retired from Fairfax County Public Schools in 2013 after 29 years and immediately returned to Robinson as head football coach; since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others. He was inducted into the inaugural class of the West Potomac Athletic Hall of Fame in 2019.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary.",
+  "bio": "Danny Meier was born in Pennsylvania in 1953 and grew up in Levittown, one of the eight children of James C. and Kathryn (McGuire) Meier and an older brother of John's father, Tommy. He played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State from 1972 to 1975, lettering in 1973, 1974 and 1975; the Wolfpack's 1974 roster listed him as a 234-pound middle guard from Levittown, and the 1976 preview counted \"tackle Dan Meier\" among the chief losses from the 1975 team. His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto, \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16, with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards in both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he left coaching for school administration. Over the following years he was a history teacher, guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School from 2001 to 2003 and then principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years from 2003 to 2013. There the Fairfax Federation of Teachers rated him a top principal five times, and in 2012 U.S. News ranked the school among the top 100 in America. He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal: he led Herndon High, where he had once been director of counselling, in the autumn of 2016 and Oakton High in the spring of 2017, and has also stood in at Woodson, Madison, Whitman Middle and McLean, among others. In 2017 he told Oakton's student paper that he had been a football coach for 17 years, a history teacher, guidance counsellor, director of student services, assistant principal and principal. He was inducted into the inaugural class of the West Potomac Athletic Hall of Fame in 2019.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. His sons' West Point athletic biographies describe them as the sons of Dan and Ann Meier and note that their father played football as a defensive lineman at North Carolina State.",
   "notable": "Three Virginia AAA state football championships as a head coach (West Potomac 1989 and 1990, Chantilly 1996), two VHSL Coach of the Year awards, All-Met Coach of the Year 1985, West Potomac Athletic Hall of Fame 2019; principal of Robinson Secondary School, one of the largest schools in Virginia, for ten years.",
   "funFacts": [
     "Played for Lou Holtz, who later won a national title at Notre Dame.",
     "His West Potomac motto, \"The Tradition starts NOW\", is still used by the school's Hall of Fame.",
     "Came back from retirement to coach Robinson's football team two weeks after his last day as its principal.",
-    "Three of his children went into the Army, two through West Point."
+    "Three of his children went into the Army, two through West Point.",
+    "His sons Mike and Tim later shared the Army sprint football backfield; in 2010 Mike led Army in rushing (48.8 yards a game) with Tim second (48.5)."
   ],
   "events": [
     {
@@ -146,6 +179,36 @@
     {
       "title": "Inducted into the West Potomac Athletic Hall of Fame",
       "date": "2019"
+    },
+    {
+      "title": "Education: North Carolina State University",
+      "date": "1972-75 (varsity letters 1973, 1974, 1975, inferred from letter asterisks)",
+      "place": "",
+      "description": "Listed as \"*Dan Meier, MG, 234 lb, Levittown, Pa.\" on the 1974 Wolfpack roster (one letter already won) and \"**Dan Meier, Levittown, Pa.\" on the 1975 roster (two letters won); the 1976 outlook lists \"tackle Dan Meier\" among the chief losses from the 1975 team. [R4-S1] [R4-S2] [R4-S3]"
+    },
+    {
+      "title": "History teacher; guidance counselor; director of student services; assistant principal, Fairfax County Public Schools",
+      "date": "various",
+      "place": "",
+      "description": "Career summary he gave the Oakton student paper in 2017, which adds history teacher to the roles already on the site. [R4-S5]"
+    },
+    {
+      "title": "Interim principal, Herndon High School, Fairfax County",
+      "date": "2016 (autumn)",
+      "place": "",
+      "description": "Took over after principal Dr. William Bates left in July 2016; the paper notes he was earlier Herndon's director of counseling. [R4-S4]"
+    },
+    {
+      "title": "Interim principal, Oakton High School, Fairfax County",
+      "date": "2017 (spring)",
+      "place": "",
+      "description": "Filled in after Dr. Banbury moved to the FCPS Region 1 office; he said he had also stood in at Herndon, Woodson, Madison and four or five middle schools. [R4-S5]"
+    },
+    {
+      "title": "West Potomac Athletic Hall of Fame, inaugural class",
+      "date": "2019",
+      "place": "",
+      "description": "The school's own Hall of Fame page lists \"Danny Meier – 1985 to 1992\" under the 2019 inductees (the site already cites the booster-club page). [R4-S6]"
     }
   ],
   "facts": [
@@ -160,6 +223,10 @@
     {
       "label": "Education",
       "value": "North Carolina State University (football, 1972–75)."
+    },
+    {
+      "label": "NC State roster listing",
+      "value": "1974: MG, 234 lb, Levittown, Pa.; 1975 roster: Levittown, Pa. (two letters won)"
     }
   ],
   "media": [
@@ -218,7 +285,61 @@
       "source": "Press",
       "note": "",
       "url": "https://thehighlandernews.com/13973/features/daniel-meier-brings-expertise-to-mclean/"
+    },
+    {
+      "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+      "type": "link",
+      "title": "NC State 1974 football roster: \"*Dan Meier, MG, 234, Levittown, Pa.\"",
+      "date": "1974",
+      "source": "NC State University Libraries, Special Collections (University Archives, Sports Information), unknown",
+      "note": "1974 university publication; copyright status unclear, so not downloaded. (not downloaded: rights unknown)",
+      "people": []
+    },
+    {
+      "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf",
+      "type": "link",
+      "title": "NC State 1975 Wolfpack roster: \"**Dan Meier, Levittown, Pa.\"",
+      "date": "1975",
+      "source": "NC State University Libraries, Special Collections, unknown",
+      "note": " (not downloaded: rights unknown)",
+      "people": []
+    },
+    {
+      "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf",
+      "type": "link",
+      "title": "NC State 1976 outlook: tackle Dan Meier among chief losses",
+      "date": "1976",
+      "source": "NC State University Libraries, Special Collections, unknown",
+      "note": " (not downloaded: rights unknown)",
+      "people": []
+    },
+    {
+      "url": "https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+      "type": "link",
+      "title": "Dan Meier, interim principal of Herndon High School, 2016",
+      "date": "2016-09-23",
+      "source": "Connection Newspapers, copyrighted",
+      "note": "Photo by Ryan Dunn. (not downloaded: rights copyrighted)",
+      "people": []
+    },
+    {
+      "url": "https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+      "type": "link",
+      "title": "\"Getting to know Mr. Meier\": Oakton Outlook photo, 2017",
+      "date": "2017-04-30",
+      "source": "The Oakton Outlook, copyrighted",
+      "note": "No photographer credit given. (not downloaded: rights copyrighted)",
+      "people": []
+    },
+    {
+      "url": "https://westpotomachs.fcps.edu/node/9426",
+      "type": "link",
+      "title": "West Potomac HS Athletic Hall of Fame list (FCPS)",
+      "date": "",
+      "source": "",
+      "note": "2019 class",
+      "people": []
     }
   ],
-  "researchNotes": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019."
+  "researchNotes": "Danny Meier played nose guard and defensive tackle for Coach Lou Holtz at North Carolina State (1972–75). His first head-coaching job was at Orange High School in Hillsborough, North Carolina, where he took over a 1-9 team and went 21-9 over the next three seasons.\n\nIn 1985, aged 31, he became the first head football coach of West Potomac High School in Fairfax County, Virginia, formed by the merger of Groveton and Fort Hunt. He coined the programme's motto \"The Tradition starts NOW\", was All-Met Coach of the Year in his first season, and in seven years went 68-16 with Virginia AAA state championships in 1989 and 1990 and VHSL AAA Coach of the Year awards both years. He moved to Chantilly High School in 1992 and went 47-12 in five seasons; his 1996 Chargers went 13-1, won the Virginia AAA Division 6 championship and were co-No. 1 in the Washington area.\n\nIn July 1997 he resigned from coaching to become a school administrator: guidance counsellor and director of student services at West Potomac and Herndon, assistant principal at Herndon High, principal of Rocky Run Middle School (2001–03) and then principal of Robinson Secondary School for ten years (2003–13), where the Fairfax Federation of Teachers rated him a top principal five times and U.S. News ranked the school among the top 100 in America (2012). He retired from Fairfax County Public Schools on 1 April 2013 after 29 years and immediately returned to Robinson as head football coach. Since then the county has repeatedly called him back as interim principal, at Woodson, Madison, Herndon, Whitman Middle, Oakton and McLean among others.\n\nHe and his wife Annie, a secretary in the superintendent's office, live in Fairfax Station, Virginia. They have four children: Mike, an Army officer; Timmy and Joe, both West Point cadets in 2013; and Mary. He was inducted into the West Potomac Athletic Hall of Fame's inaugural class in 2019.\n\nround5: North Carolina State's football programmes from the Lou Holtz years confirm Danny's college career and tie him to Levittown. The 1974 roster lists \"*Dan Meier\", middle guard, 234 lb, of Levittown, Pa., where the asterisk marks one varsity letter already won. The 1975 roster lists \"**Dan Meier, Levittown, Pa.\" with two letters. The 1976 outlook names \"tackle Dan Meier\" among the chief losses from the 1975 team ([R4-S1], [R4-S2], [R4-S3]). He therefore lettered in 1973, 1974 and 1975, playing middle guard and tackle.\n\nAfter retiring as Robinson principal he kept stepping in as a stand-in principal. He was interim principal of Herndon High in autumn 2016, where he had once been director of counselling ([R4-S4]), and of Oakton High in spring 2017. There he told the student paper that he had been a football coach for 17 years, a history teacher, guidance counsellor, director of student services, assistant principal and principal of Rocky Run and Robinson, and that he had filled in at Herndon, Woodson, Madison and four or five middle schools ([R4-S5]). His sons' West Point athletic biographies call their parents \"Dan and Ann Meier\" and note that their father played football, as a defensive lineman, at North Carolina State ([R4-S7], [R4-S8])."
 }

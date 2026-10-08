@@ -1,0 +1,80 @@
+{
+  "id": "I282695504092",
+  "name": "James Jr.",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Jim Petriello",
+      "James Petriello"
+    ],
+    "facts": [
+      {
+        "label": "Spouse (per brother's obituary)",
+        "value": "MaryEllen"
+      }
+    ]
+  },
+  "bioAdditions": "The tree's 'James (Living)', child of James Petriello and Mollie, is the 'brother Jim Petriello and wife MaryEllen' who survived John T. Petriello Sr. in March 2025 (S1). The obituary also confirms that Sr. was 'the son of the late James and Mollie Petriello' (S1). Jim does not appear in the April 1940 household, which held only John (7) and Ann Marie (6) (S2), so he was born later, after 1940 (round 4 found that the 1950 census shows the same two children).",
+  "conflicts": [
+    {
+      "field": "identity",
+      "siteValue": "Two entries: I282695504092 'James Jr.' (child of I282695504010 + I282695504011 'Mollie Petriello') and M0004 'James Petriello' / Jim (child of I282695504010 + H0332 Carmela 'Mollie' Gianetta)",
+      "foundValue": "One man: John T. Petriello Sr.'s only surviving brother, 'Jim Petriello and wife MaryEllen' (S1)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "assessment": "MERGE RECOMMENDATION: I282695504092 and M0004 are the same person. Round 4 already showed that I282695504011 'Mollie Petriello' is a duplicate of H0332 Carmela 'Mollie' Gianetta, so both James entries have the same parents. Keep M0004 (it holds the obituary link) or keep I282695504092 (it holds the tree citation), add the aka 'Jim', spouse MaryEllen, and the parent pair I282695504010 + H0332."
+    }
+  ],
+  "relationships": [
+    {
+      "type": "sibling",
+      "personId": "I282695503435",
+      "evidence": "'brother Jim Petriello and wife MaryEllen' in John T. Petriello Sr.'s obituary",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "proven"
+    },
+    {
+      "type": "parent",
+      "personId": "H0332",
+      "evidence": "Mother is Mollie Petriello = Carmela Gianetta (H0332); I282695504011 is her duplicate (round 4)",
+      "sourceRefs": [
+        "S1"
+      ],
+      "strength": "probable"
+    }
+  ],
+  "confidenceRecommendation": {
+    "current": "unverified",
+    "recommended": "confirmed",
+    "justification": "His brother's 2025 obituary names him as a surviving brother; merge with M0004."
+  },
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181).",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Brother Jim and wife MaryEllen survive John T. Petriello Sr., 2025; parents James and Mollie"
+    },
+    {
+      "ref": "S2",
+      "citation": "1940 US census, Scranton Ward 10, Lackawanna Co., PA, ED 71-64, sheet 4B (20 Apr 1940), 1028 Bunker Hill Street: James 'Petranello' 28, Mollie 28, John 7, Ann Marie 6 (image attached to FamilySearch tree GQWR-122).",
+      "url": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GQWR-122/images/i/0/image.jpg",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "Jim not yet born in April 1940"
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch 'Jim Petriello' (exact): only MLB analyst Mike Petriello (unrelated)",
+    "WebSearch 'MaryEllen Petriello' / 'Mary Ellen Petriello' / 'James Petriello' + Scranton/Dunmore: no match (results were other Petriello families: Joseph A., Sandra A., David A.)",
+    "WebSearch 'Petriello' obituary + '(Jim)'/'husband James': other families only (CT, NJ, NY)",
+    "Newspapers.com Times-Tribune 23 Dec 1998 index entry (father's obituary) is paywalled; it would list Jim and his town"
+  ],
+  "researchLogEntry": "Round 5: 2025 obituary text shows the tree's 'James (Living)' is Jim Petriello (wife MaryEllen); merge with M0004 recommended."
+}

@@ -9,10 +9,49 @@
     {
       "date": "2026-10-08",
       "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: \"Mary Meier\" singer/songwriter/vocalist/soprano; Spotify, Bandcamp, SoundCloud: no matching artist; \"Mary Meier\" university music programmes, Virginia: nothing"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: Robinson choral singer; Virginia All-State Chorus 2012 (Patch); no music releases found."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0026.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A 2013 Robinson graduate planning a music career.",
+  "summary": "Mary Meier, daughter of Danny and Annie Meier and John's first cousin: a Virginia All-State Chorus singer and 2013 Robinson graduate who planned a career in music.",
   "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
-  ]
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Rachel Hatzipanagos, \"Robinson Students Selected for All-State Chorus\", Fairfax Station Patch, 27 Feb 2012 (secondary) https://patch.com/virginia/fairfaxstation/robinson-students-selected-for-all-state-chorus",
+    "[R4-S2] Patricia Mandes, \"Major Works Concert Presented by Robinson Secondary Singers\", Fairfax Station Patch (community post), 4 Nov 2011 (secondary) https://patch.com/virginia/fairfaxstation/major-works-concert-presented-by-robinson-secondary-singers",
+    "[R4-S3] Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details) (secondary) https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S4] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583"
+  ],
+  "events": [
+    {
+      "title": "Education: Robinson Secondary School",
+      "date": "graduated 2013",
+      "place": "",
+      "description": "Choral singer; Virginia All-State Chorus 2012. [R4-S1] [R4-S2] [R4-S3]"
+    },
+    {
+      "title": "Virginia All-State Chorus",
+      "date": "2012",
+      "place": "",
+      "description": "One of three Robinson students selected (with Austin Chang and Amy Jones); the chorus performed on 28 Apr 2012 at E.C. Glass High School, Lynchburg. [R4-S1]"
+    }
+  ],
+  "researchNotes": "round5: At Robinson Mary sang in the school's choral programme. In November 2011 she was quoted in a preview of the Robinson Singers' Major Works Concert, saying the long rehearsals made her feel \"really accomplished\" ([R4-S2]). In February 2012 Patch reported that she was one of three Robinson students chosen for the Virginia All-State Chorus ([R4-S1]), when her father was Robinson's principal. Her brother Tim's 2011 West Point bio names her as his sister ([R4-S4]). No released recordings or professional performances under the name Mary Meier were found.",
+  "openQuestions": [
+    "Music career after 2013 not found; she may perform under a married or stage name. The Spotify/SoundCloud \"Mary Meyer\" and Nashville \"Mair\" (Mary Meyer, from Missouri) are different people."
+  ],
+  "bio": "Mary Meier was born in 1995, the youngest child and only daughter of Danny and Annie Meier, and John's first cousin. At Robinson Secondary School, where her father was principal, she sang in the choral programme; in November 2011 she told a preview of the Robinson Singers' Major Works Concert that the long rehearsals made her feel \"really accomplished\", and in 2012 she was one of three Robinson students chosen for the Virginia All-State Chorus, which performed that April at E.C. Glass High School in Lynchburg. She graduated from Robinson in 2013 planning a career in music."
 }

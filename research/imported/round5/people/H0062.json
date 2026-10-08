@@ -1,0 +1,283 @@
+{
+ "id": "H0062",
+ "name": "Elizabeth McGuire",
+ "researchedAt": "2026-10-08",
+ "status": "deceased_detected",
+ "updates": {
+  "birth": {
+   "date": "8 Mar 1928",
+   "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ]
+  },
+  "death": {
+   "date": "8 Nov 2016",
+   "place": "UPMC Altoona, Altoona, Blair County, Pennsylvania, USA",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "burial": {
+   "place": "Altoona, Blair County, Pennsylvania",
+   "cemetery": "Calvary Cemetery (committal)",
+   "sourceRefs": [
+    "S1"
+   ]
+  },
+  "aka": [
+   "Elizabeth A. Arnold",
+   "Betsy Arnold",
+   "Elizabeth A. 'Betsy' Arnold"
+  ],
+  "residences": [
+   {
+    "date": "2007-2016",
+    "place": "Altoona, Blair County, Pennsylvania",
+    "note": "Named as of Altoona in her twin's 2007 obituary and in her own 2016 obituary",
+    "sourceRefs": [
+     "S1",
+     "S2"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Marriage to Harold E. Arnold",
+    "date": "13 Sep 1952",
+    "place": "Wilkes-Barre, Pennsylvania",
+    "description": "Husband died 27 May 1997.",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "title": "High-school graduation",
+    "date": "1945",
+    "place": "Elmer L. Meyers High School, Wilkes-Barre",
+    "description": "",
+    "sourceRefs": [
+     "S1"
+    ]
+   },
+   {
+    "title": "Funeral",
+    "date": "12 Nov 2016",
+    "place": "St. Joseph Catholic Church, Bellwood, PA",
+    "description": "Viewing and vigil 11 Nov 2016 at The Stevens Mortuary, Altoona; funeral Mass 12 Nov at St. Joseph's, Bellwood (Fr. Alan Thomas); committal Calvary Cemetery, Altoona.",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "education": [
+   {
+    "school": "Elmer L. Meyers High School, Wilkes-Barre",
+    "years": "graduated 1945",
+    "detail": "",
+    "sourceRefs": [
+     "S1"
+    ]
+   }
+  ],
+  "facts": [
+   {
+    "label": "Middle initial",
+    "value": "A."
+   },
+   {
+    "label": "Twin",
+    "value": "Identical twin of Ann 'Nancy' (McGuire) Holland (H0063)"
+   },
+   {
+    "label": "Church",
+    "value": "St. Joseph Catholic Church, Bellwood, PA"
+   },
+   {
+    "label": "FamilySearch ID",
+    "value": "G3PZ-QVB"
+   }
+  ]
+ },
+ "bioAdditions": "Elizabeth A. 'Betsy' McGuire was born in Wilkes-Barre on 8 March 1928, the identical twin of Ann 'Nancy' McGuire, daughters of Francis McGuire and Elizabeth McAvoy (S1, S2). She graduated from Elmer L. Meyers High School in 1945 and on 13 September 1952 married Harold E. Arnold in Wilkes-Barre (S1). The couple settled in the Altoona area; Harold died on 27 May 1997 (S1, S4). Her widowed mother also died in Altoona in 1984, probably while living near Betsy.\n\nBetsy died at UPMC Altoona on Tuesday 8 November 2016, aged 88, a member of St. Joseph Catholic Church in Bellwood. She was survived by a son and two daughters, six grandchildren and three great-grandchildren, and predeceased by her sisters Jane Nagle, her twin Nancy Holland and 'Kay Meier' (John's grandmother Kathryn). She was buried from St. Joseph's, Bellwood, with committal at Calvary Cemetery, Altoona (S1). She is therefore NOT living; the site's 'presumed_living' status should change.",
+ "funFacts": [
+  "She and her sister Nancy were identical twins (S2), confirming the site's 'possibly twin of Ann' note."
+ ],
+ "conflicts": [
+  {
+   "field": "death.date",
+   "siteValue": "(none; presumed living)",
+   "foundValue": "8 Nov 2016, Altoona",
+   "sourceRefs": [
+    "S1",
+    "S3"
+   ],
+   "assessment": "Obituary is decisive. FamilySearch's 'november 8 1916' is a typo for 2016."
+  },
+  {
+   "field": "spouse of Elizabeth (McAvoy) McGuire (I282604493938)",
+   "siteValue": "Site says the widow Elizabeth (McAvoy) McGuire remarried Harold Arnold",
+   "foundValue": "Harold E. Arnold (b. 6 Jul 1927) married the DAUGHTER Betsy on 13 Sep 1952",
+   "sourceRefs": [
+    "S1",
+    "S4",
+    "S5"
+   ],
+   "assessment": "The 'remarried Harold Arnold' statement on I282604493938 and I282604493482 comes from a FamilySearch duplicate profile (GP7C-XR4) wrongly attached to the mother. Harold was 30 years her junior and is named as Betsy's husband in Betsy's obituary. Recommend removing the remarriage from the mother's record."
+  }
+ ],
+ "relationships": [
+  {
+   "type": "spouse",
+   "personId": "NEW-1201",
+   "evidence": "Obituary: married Harold E. Arnold 13 Sep 1952, Wilkes-Barre",
+   "sourceRefs": [
+    "S1",
+    "S4"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-1202",
+   "evidence": "Obituary survivor: son Edward T. (Sandra L.) of Altoona",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-1203",
+   "evidence": "Obituary survivor: daughter Ann E. Closson of Bellwood",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "child",
+   "personId": "NEW-1204",
+   "evidence": "Obituary survivor: daughter Jane M. (Joseph) Schreckengost of Bellwood",
+   "sourceRefs": [
+    "S1"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "sibling",
+   "personId": "H0063",
+   "evidence": "Each named in the other's obituary; identical twins",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  },
+  {
+   "type": "sibling",
+   "personId": "I282604493056",
+   "evidence": "'Kay Meier' named as predeceased sister",
+   "sourceRefs": [
+    "S1",
+    "S2"
+   ],
+   "strength": "proven"
+  }
+ ],
+ "confidenceRecommendation": {
+  "current": "probable",
+  "recommended": "confirmed",
+  "justification": "Her own obituary names her parents (Francis McGuire & Elizabeth McAvoy), birthplace Wilkes-Barre and sisters Jane Nagle, Nancy Holland and Kay Meier."
+ },
+ "openQuestionsNew": [
+  "Married surname is Arnold; obituary gives middle initial A. (the site has no middle name).",
+  "Grandchildren and great-grandchildren are named in the obituary but not recorded here (some are probably minors)."
+ ],
+ "sources": [
+  {
+   "ref": "S1",
+   "citation": "Altoona Mirror, obituary 'Elizabeth A. ‘Betsy’ Arnold, March 8, 1928 - Nov. 8, 2016', published 10 Nov 2016",
+   "url": "https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Death 8 Nov 2016 at UPMC Altoona aged 88; born Wilkes-Barre to Francis McGuire and Elizabeth McAvoy; married Harold E. Arnold 13 Sep 1952 in Wilkes-Barre (d. 27 May 1997); children; sisters Jane Nagle, twin Nancy Holland and Kay Meier predeceased; 1945 graduate of Elmer L. Meyers HS; St. Joseph Catholic Church, Bellwood; committal Calvary Cemetery, Altoona; arrangements The Stevens Mortuary."
+  },
+  {
+   "ref": "S2",
+   "citation": "Times Leader (Wilkes-Barre) via Legacy.com, obituary of Nancy McGuire Holland, 2007 (page itself returns HTTP 403 here; text seen only as search-engine extract)",
+   "url": "https://www.legacy.com/us/obituaries/timesleader/name/nancy-holland-obituary?id=25517366",
+   "class": "secondary",
+   "accessed": "2026-10-08",
+   "supports": "Survivors in April 2007 included 'sister and her identical twin, Betsy Arnold, Altoona'; predeceased by sisters Jane Nagle and Kathryn Meier. (Blocked page; extract only.)"
+  },
+  {
+   "ref": "S3",
+   "citation": "FamilySearch Family Tree (published), Elizabeth Betsy McGuire, PID G3PZ-QVB (unpublished profile seen as relative in G3PC-FFK/KGQH-JNV JSON); user-contributed, no sources attached",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "b. 8 Mar 1928 Wilkes-Barre; death entered as 'november 8 1916, Altoona, pa' (year typo for 2016); spouse Harold Edward Arnold (1927-1997, PID GP6V-LL1)."
+  },
+  {
+   "ref": "S4",
+   "citation": "FamilySearch Family Tree (published), Harold Edward Arnold (6 Jul 1927 - May 1997), PID GP6V-LL1, with WWII draft registration and NUMIDENT attached",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Harold Edward Arnold b. 6 Jul 1927 Wilkes-Barre, d. May 1997 Altoona; parents Harold George Arnold (1904-1959) and Martha Bowden (1908-1982); spouse Elizabeth Betsy McGuire."
+  },
+  {
+   "ref": "S5",
+   "citation": "FamilySearch Family Tree (published), Elizabeth McAvoy (1897-1984), PID KGQH-JNV, and duplicate Harold Arnold profile GP7C-XR4",
+   "url": "https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4",
+   "class": "derivative",
+   "accessed": "2026-10-08",
+   "supports": "Tree error: duplicate profile GP7C-XR4 of the same Harold E. Arnold (b. 1927, same parents) is attached as second husband of the MOTHER, Elizabeth (McAvoy) McGuire, instead of the daughter Betsy."
+  }
+ ],
+ "media": [
+  {
+   "type": "newspaper",
+   "title": "Obituary of Elizabeth A. 'Betsy' Arnold, Altoona Mirror, 10 Nov 2016",
+   "date": "2016-11-10",
+   "pageUrl": "https://www.altoonamirror.com/obituaries/2016/11/elizabeth-a-betsy-arnold/",
+   "directUrl": "",
+   "repository": "Altoona Mirror",
+   "rights": "copyrighted",
+   "downloadable": false,
+   "downloaded": false,
+   "localPath": "",
+   "people": [
+    "H0062"
+   ],
+   "suggestedFile": "media/H0062/arnold-obituary-2016.html",
+   "note": "Text only, no photo seen on the page."
+  },
+  {
+   "type": "record",
+   "title": "WWII draft registration card of Harold Edward Arnold (husband)",
+   "date": "c.1945",
+   "pageUrl": "https://www.familysearch.org/service/tree/tree-data/published/persons/GP6V-LL1",
+   "directUrl": "https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GP6V-LL1/images/i/0/image.jpg",
+   "repository": "FamilySearch",
+   "rights": "unknown",
+   "downloadable": false,
+   "downloaded": false,
+   "localPath": "",
+   "people": [
+    "H0062",
+    "NEW-1201"
+   ],
+   "suggestedFile": "media/H0062/harold-arnold-draft-card.jpg",
+   "note": "Image loads (3019x1812). A US government record, but from after 1931, so rights are set to unknown per the brief and it was not downloaded."
+  }
+ ],
+ "searchedNoResult": [
+  "WebSearch: 'Betsy Arnold' Altoona Calvary Cemetery (Find a Grave memorial not surfaced; Find a Grave blocked)",
+  "Stevens Mortuary site obituary not surfaced by search",
+  "Legacy.com Nancy Holland obituary: HTTP 403 (curl and WebFetch); Wayback has no snapshot"
+ ],
+ "researchLogEntry": "Round 5: found her 2016 Altoona Mirror obituary as Elizabeth A. 'Betsy' Arnold (d. 8 Nov 2016), which confirms the twin and the parents and shows that the 'Harold Arnold' remarriage belongs to Betsy, not her mother."
+}

@@ -9,10 +9,87 @@
     {
       "date": "2026-10-08",
       "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent M0013, proven): Tim Meier's bio (son of Dan and Ann Meier) names \"brother Joe\"; Joe's own roster gives the same hometown and school"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: \"Capt./1st Lt./2nd Lt. Joseph Meier\" Army: only a Navy CAPT Joseph Meier (different man); DVIDS: blocked"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: middle name Francis; USMA Class of 2016, Field Artillery (Military Times list); Army sprint football DE 2013."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0025.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
+  "summary": "Joe Meier, son of Danny and Annie Meier and John's first cousin: Army sprint football defensive end and West Point Class of 2016, commissioned into the Field Artillery.",
   "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
-  ]
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Army West Point Athletics, Sprint Football roster 2013, \"Joseph Meier\" (#51, DE, Sophomore, hometown Fairfax Station, Va., Robinson Secondary School) (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/joseph-meier/3491",
+    "[R4-S2] Military Times, \"U.S. Military Academy Class of 2016: Name, Hometown, Branch\" (PDF, 20 pp.) (secondary) https://ec.militarytimes.com/static/pdfs/USMAgrads.pdf",
+    "[R4-S3] Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details) (secondary) https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+  ],
+  "aka": [
+    "Joseph Francis Meier",
+    "Joe Meier"
+  ],
+  "military": [
+    {
+      "note": "Graduated with the USMA Class of 2016 and branched Field Artillery (\"Meier, Joseph Francis — Fairfax Station, VA — Field Artillery\"). [R4-S2]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Education: Robinson Secondary School",
+      "date": "graduated c.2012",
+      "place": "",
+      "description": "[R4-S1]"
+    },
+    {
+      "title": "Education: United States Military Academy, West Point",
+      "date": "class of 2016",
+      "place": "",
+      "description": "Army sprint football (No. 51, defensive end, sophomore in 2013). [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "Second Lieutenant, Field Artillery (on commissioning), US Army",
+      "date": "2016",
+      "place": "",
+      "description": "[R4-S2]"
+    }
+  ],
+  "researchNotes": "round5: Joe followed his brothers to West Point and onto the sprint football team. He was No. 51, a defensive end, as a sophomore in 2013, listed from Fairfax Station, Va., and Robinson Secondary School ([R4-S1]). The Military Times list of the U.S. Military Academy Class of 2016 includes \"Meier, Joseph Francis\" of Fairfax Station, VA, branched Field Artillery ([R4-S2]). This gives his middle name, Francis, and confirms the Fairfax Station hometown already in the 2013 Connection profile ([R4-S3]).",
+  "openQuestions": [
+    "Assignments after 2016 (Field Artillery units, rank) not found; DVIDS search blocked."
+  ],
+  "media": [
+    {
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/joseph-meier/3491",
+      "type": "link",
+      "title": "Joseph Meier, Army sprint football roster headshot (2013)",
+      "date": "2013",
+      "source": "Army West Point Athletics, copyrighted",
+      "note": "Athletic-association photo; not a federal work. (not downloaded: rights copyrighted)",
+      "people": []
+    },
+    {
+      "url": "https://ec.militarytimes.com/static/pdfs/USMAgrads.pdf",
+      "type": "link",
+      "title": "USMA Class of 2016 list: Meier, Joseph Francis, Fairfax Station, VA, Field Artillery",
+      "date": "2016-05",
+      "source": "Military Times, copyrighted",
+      "note": "Entry on PDF page 12 (verified). (not downloaded: rights copyrighted)",
+      "people": []
+    }
+  ],
+  "bio": "Joseph Francis \"Joe\" Meier was born in 1993, a son of Danny and Annie Meier of Fairfax Station, Virginia, and John's first cousin. After Robinson Secondary School he followed his brothers Mike and Tim to West Point and onto the Army sprint football team, playing defensive end and wearing No. 51 as a sophomore in 2013. He graduated with the United States Military Academy Class of 2016 and was commissioned into the Field Artillery."
 }

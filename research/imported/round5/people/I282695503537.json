@@ -1,0 +1,30 @@
+{
+  "id": "I282695503537",
+  "name": "Mary Cognetti",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "updates": {
+    "residences": [
+      { "date": "2025", "place": "Scranton area (Lackawanna County), Pennsylvania", "note": "Survived husband John T. Petriello Sr. (d. 1 Mar 2025); family parish Holy Rosary, funeral at St. Gregory, Clarks Green. Town not stated for her explicitly.", "sourceRefs": ["S1"] }
+    ]
+  },
+  "bioAdditions": "No death record or obituary for Mary (Cognetti) Petriello was found as of 8 Oct 2026: searches of the web, the Scranton Times-Tribune / Legacy indexes (via search engines), Echovita and the Solfanelli-Fiorillo funeral-home site turned up nothing after her husband's March 2025 obituary, which names her as surviving spouse 'Mary Cognetti Petriello' (S1). She is therefore still presumed living. The Nov 2016 newspaper story on the 50th Cognetti family Thanksgiving (S2, already on the site) carried a staff photograph of Mary Petriello (83) and her brother Leo Cognetti (87) looking over the 186-name Cognetti family tree compiled by their niece Maria Cognetti (daughter of Joseph F. and Domenica Cognetti); the photo is copyrighted and was not downloaded.",
+  "sources": [
+    { "ref": "S1", "citation": "Obituary of John T. Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home", "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181", "class": "secondary", "accessed": "2026-10-08", "supports": "Mary Cognetti Petriello living as surviving spouse in March 2025 (already known to the site)" },
+    { "ref": "S2", "citation": "'Family celebrates 50 years of Thanksgiving gatherings' (Times-Tribune story, Nov 2016, reprinted by Hinerfeld Commercial)", "url": "https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/", "class": "secondary", "accessed": "2026-10-08", "supports": "Photo caption: Leo Cognetti and Mary Petriello looking over the family tree; photographer Jason Farmer (staff)" }
+  ],
+  "media": [
+    { "type": "photo", "title": "Mary Petriello and her brother Leo Cognetti looking over the Cognetti family tree at the 50th family Thanksgiving, Genetti Manor, Dickson City", "date": "2016-11", "pageUrl": "https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/", "directUrl": "", "repository": "Scranton Times-Tribune (reprint on hinerfeldcommercial.com)", "rights": "copyrighted", "downloadable": false, "downloaded": false, "localPath": "", "people": ["I282695503537", "H0346"], "suggestedFile": "media/I282695503537/2016-thanksgiving-with-leo.jpg", "note": "Staff photo by Jason Farmer. Direct image URL could not be read (site returned Mod_Security 406 to curl; page text read via WebFetch)." }
+  ],
+  "searchedNoResult": [
+    "WebSearch: 'Mary Petriello obituary Scranton Cognetti' (no 2025-2026 death notice)",
+    "WebSearch: \"Mary C. Petriello\" / \"Mary Cognetti Petriello\" obituary 2025/2026 (no match)",
+    "WebSearch: \"Petriello\" obituary Scranton 2026 (none)",
+    "WebSearch: \"Mary Petriello\" Scranton / Clarks Summit / Dunmore (no Mary match)",
+    "WebSearch: Cognetti obituary Scranton Petriello (only Leo S. 2019)",
+    "Legacy.com search pages: blocked (403 Cloudflare)",
+    "Solfanelli-Fiorillo obituary listing search: blocked (403)",
+    "Echovita name search petriello: no Mary Petriello listing"
+  ],
+  "researchLogEntry": "Round 5: no death found for Mary (Cognetti) Petriello after her husband's March 2025 obituary; still presumed living; logged the 2016 Thanksgiving news photo of her with brother Leo."
+}

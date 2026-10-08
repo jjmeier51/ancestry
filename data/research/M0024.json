@@ -9,10 +9,96 @@
     {
       "date": "2026-10-08",
       "note": "Added from the 2013 Connection profile of Danny Meier (ages given there)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 relationship evidence (parent M0013, proven): \"Son of Dan and Ann Meier ... father was a defensive lineman at North Carolina State\""
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: \"Capt./1st Lt. Timothy/Tim Meier\" Army: no match (results were a Jesuit Army chaplain and unrelated people); westpoint.edu story on the 2012 CSFL title: no Meier named; goarmywestpoint 2012-15 sprint rosters: blocked (403) or page content not rendered"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: Army West Point sprint football QB/RB 2009-11 (All-CSFL 2009, 2010, HM 2011); bio names parents Dan and Ann and siblings Mike, Joe, Mary; class year conflicts with the June 2013 \"cadet\" description."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0024.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded from a 2013 newspaper profile of Danny Meier. A West Point cadet in 2013.",
+  "summary": "Tim Meier, son of Danny and Annie Meier and John's first cousin: starting quarterback of Army's sprint football team at West Point and twice All-CSFL second team.",
   "sources": [
-    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
-  ]
+    "Fairfax Station Connection, 26 Jun 2013: https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/",
+    "[R4-S1] Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio (secondary) https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+    "[R4-S2] Fairfax Station Connection, 26 Jun 2013, \"Meier Reflects on His Decade at Robinson\" (already on site; re-read for family details) (secondary) https://www.fairfaxstationconnection.com/news/2013/jun/26/meier-reflects-his-decade-robinson/"
+  ],
+  "aka": [
+    "Tim Meier",
+    "Timmy Meier"
+  ],
+  "events": [
+    {
+      "title": "Education: Robinson Secondary School, Fairfax, Va.",
+      "date": "graduated c.2009",
+      "place": "",
+      "description": "Four-time letterwinner and three-year starter in football; National Honor Society; highlight was upsetting Chantilly in the playoffs as a junior. [R4-S1]"
+    },
+    {
+      "title": "Education: United States Military Academy, West Point",
+      "date": "from 2009 (freshman 2009; listed as Junior on the 2011 roster)",
+      "place": "",
+      "description": "Army sprint football 2009-11 (and probably 2012). [R4-S1] [R4-S2]"
+    },
+    {
+      "title": "All-CSFL second team",
+      "date": "2009",
+      "place": "",
+      "description": "Starting quarterback as a plebe: 118 passing and 63 rushing yards a game, 10 TD passes. [R4-S1]"
+    },
+    {
+      "title": "All-CSFL second team",
+      "date": "2010",
+      "place": "",
+      "description": "307 yards and 3 TD passing at RPI; 142 yards and 3 TD rushing in the CSFL title-game win at Navy. [R4-S1]"
+    },
+    {
+      "title": "All-CSFL honorable mention",
+      "date": "2011",
+      "place": "",
+      "description": "Used at running back, quarterback, punter and kick returner. [R4-S1]"
+    }
+  ],
+  "researchNotes": "round5: Tim was the Army sprint football team's starting quarterback from his first season in 2009, when he was All-CSFL second team and threw 10 touchdown passes. In 2010 he repeated as second-team All-CSFL. He opened that season with 307 passing yards and three touchdowns at RPI, then ran for a career-high 142 yards and three touchdowns in the league-title win at Navy, finishing just behind his older brother Mike in rushing average. In 2011 (No. 4, listed as a junior, hometown Fairfax, Va.) he played running back, quarterback, punter and kick returner and earned honourable mention. His bio names his parents Dan and Ann Meier and his siblings Mike, Joe and Mary, and says his father was a defensive lineman at NC State. At Robinson he was a four-time letterwinner, three-year starter and National Honor Society member. He listed Brett Favre as his favourite athlete and skydiving and rollercoasters among his pastimes ([R4-S1]).",
+  "funFacts": [
+    "In the 2010 sprint-football title game at Navy he ran for 142 yards and three touchdowns.",
+    "Lists skydiving and rollercoasters among his hobbies."
+  ],
+  "conflicts": [
+    {
+      "field": "education.usmaClass",
+      "site": "West Point cadet in June 2013 (Connection, 26 Jun 2013)",
+      "found": "Freshman season 2009 and \"Junior\" on the 2011 roster imply the class of 2013, which graduated in May 2013",
+      "assessment": "Unresolved. Either the June 2013 article was out of date or he graduated later than his athletic class. A USMA class list for 2013 or 2014 would settle it."
+    }
+  ],
+  "openQuestions": [
+    "USMA graduation year, branch and later career not found (no class list for 2013/2014 located)."
+  ],
+  "media": [
+    {
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+      "type": "link",
+      "title": "Tim Meier, Army sprint football roster headshot (2011)",
+      "date": "2011",
+      "source": "Army West Point Athletics (goarmywestpoint.com), copyrighted",
+      "note": "Athletic-association photo; not a federal work. (not downloaded: rights copyrighted)",
+      "people": []
+    }
+  ],
+  "bio": "Timothy \"Tim\" Meier, known in the family as Timmy, was born in 1991, a son of Danny and Annie Meier of Fairfax, Virginia, and John's first cousin. At Robinson Secondary School he was a four-time letterwinner and three-year starter in football and a member of the National Honor Society; the highlight of his school career was an upset of Chantilly in the playoffs as a junior.\n\nHe entered West Point in 2009 and was the Army sprint football team's starting quarterback from his first season, when he averaged 118 passing and 63 rushing yards a game, threw 10 touchdown passes and was named second-team All-CSFL. He repeated as second-team All-CSFL in 2010, opening the season with 307 passing yards and three touchdowns at RPI and then running for a career-high 142 yards and three touchdowns in the league-title win at Navy, finishing just behind his older brother Mike in rushing average. In 2011, wearing No. 4, he played running back, quarterback, punter and kick returner and earned honourable mention. His team biography named his parents Dan and Ann Meier and his siblings Mike, Joe and Mary, noted that his father had been a defensive lineman at NC State, and recorded that his favourite athlete was Brett Favre and that he enjoyed skydiving and rollercoasters. He was still a West Point cadet in 2013."
 }

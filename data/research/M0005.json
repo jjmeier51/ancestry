@@ -13,11 +13,54 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'Joanne Petriello' (exact): only data-broker listings (not used) and unrelated Joanne Petrillos; WebSearch obituary 'Sinacori' 'Gallaher' 'Plotnick' (+/- Petriello): no parent obituary found"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: married c.1985-86; Mendham c.1996-2021, then Princeton; three probable sisters found in her husband's obituary; maiden name still unknown."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0005.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "summary": "A living relative; recorded only from family obituaries.",
+  "summary": "Joanne Petriello, widow of John's uncle John T. Petriello Jr.; the couple lived in Mendham, New Jersey, for 25 years before moving to the Princeton area in 2021.",
   "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
-  ]
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News. (secondary) https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+    "[R4-S2] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+  ],
+  "residences": [
+    {
+      "date": "c.1996-2021",
+      "place": "Mendham, NJ",
+      "note": "with her husband (his obituary: 25 years in Mendham) [R4-S1]"
+    },
+    {
+      "date": "2021-2024",
+      "place": "Princeton area (Skillman), NJ",
+      "note": "[R4-S1]"
+    }
+  ],
+  "events": [
+    {
+      "title": "Marriage to John T. Petriello Jr.",
+      "date": "ABT 1985-86",
+      "place": "",
+      "description": "[R4-S1]"
+    }
+  ],
+  "researchNotes": "round5: John T. Petriello Jr.'s obituary calls her his 'loving wife Joanne Petriello of 38 years' and says the couple lived in Mendham, NJ for 25 years before moving to Princeton in 2021 (Skillman at his death) ([R4-S1]). The obituary also lists three sisters-in-law with their husbands: Barbara Plotnick (Rick), Elizabeth Gallaher (Michael) and Lisa Sinacori (Greg) ([R4-S1]). John Jr.'s only siblings were Sharon and Paul, so these three women are almost certainly Joanne's sisters. Her maiden name was not found. His father's 2025 obituary names her as 'daughter in law Joanne Petriello' ([R4-S2]).",
+  "openQuestions": [
+    "Joanne's maiden name: a parent's obituary naming 'Joanne Petriello (John)', Barbara Plotnick, Elizabeth Gallaher and Lisa Sinacori would give it."
+  ],
+  "bio": "Joanne Petriello is the widow of John T. Petriello Jr., John's uncle, whom she married about 1985 or 1986; his obituary called her his loving wife of 38 years. The couple lived in Mendham, New Jersey, for 25 years before moving to the Princeton area in 2021, and were living at Skillman when he died in February 2024. The obituary also named Barbara Plotnick, Elizabeth Gallaher and Lisa Sinacori, with their husbands Rick, Michael and Greg, as his sisters-in-law; since John Jr.'s only siblings were Sharon and Paul, the three are almost certainly Joanne's sisters. Her father-in-law, John T. Petriello Sr., named her as his daughter-in-law when he died in 2025."
 }

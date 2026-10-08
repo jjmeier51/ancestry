@@ -1,0 +1,50 @@
+{
+  "id": "M0022",
+  "name": "Annie Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Ann Meier"
+    ]
+  },
+  "bioAdditions": "Her sons' Army West Point sprint-football biographies (2011) each describe them as the \"Son of Dan and Ann Meier\", so she also appears as Ann (S1, S2).",
+  "relationships": [
+    {
+      "type": "spouse",
+      "personId": "M0013",
+      "evidence": "\"Son of Dan and Ann Meier ... father played football at North Carolina State\"",
+      "sourceRefs": [
+        "S1",
+        "S2"
+      ],
+      "strength": "proven"
+    }
+  ],
+  "openQuestionsNew": [
+    "Maiden name and marriage date still unknown. A search-result title shows a LinkedIn profile \"Annie Meier – Executive Administrative Assistant at Fairfax County Public Schools\" (Fairfax Station), consistent with the 2013 article, but LinkedIn is blocked (HTTP 999) and it was not loaded."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Michael Meier, Army sprint football 2010-11; bio says \"Son of Dan and Ann Meier ... father played football at North Carolina State ... brother Tim also on Army sprint football team\""
+    },
+    {
+      "ref": "S2",
+      "citation": "Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Tim Meier, Army sprint football 2009-11; bio says \"Son of Dan and Ann Meier ... father was a defensive lineman at North Carolina State ... older brother Mike ... brother Joe, sister Mary\""
+    }
+  ],
+  "searchedNoResult": [
+    "\"Annie Meier\" / \"Ann Meier\" Fairfax County Public Schools: only the LinkedIn search title (not loaded)",
+    "No wedding announcement found"
+  ],
+  "researchLogEntry": "Round 5: named as \"Ann\" in her sons' West Point athletics bios; maiden name not found."
+}

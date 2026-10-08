@@ -13,11 +13,24 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): identified as a living person; not researched further."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: WebSearch 'John Petriello' + Mendham/Princeton/Merrill Lynch/lacrosse/college: only a SUNY Morrisville lacrosse player from Carmel NY, son of Colleen and John Petriello, so NOT this man (https://morrisvillemustangs.com/sports/mens-lacrosse/roster/john-petriello/1800, accessed 2026-10-08); WebSearch 'Samantha Petriello': a Boston preschool/YMCA staffer of that name exists, but nothing ties her to John (name-only, not attached)"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: no identifiable public footprint (common name; same-name men elsewhere ruled out)."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0007.json."
     }
   ],
   "summary": "A living relative; recorded only from family obituaries.",
   "sources": [
     "Obituary: https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
-    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+    "Obituary: https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S1] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
   ]
 }

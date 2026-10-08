@@ -1,0 +1,302 @@
+{
+  "id": "M0013",
+  "name": "Daniel F. Meier",
+  "researchedAt": "2026-10-08",
+  "status": "researched",
+  "updates": {
+    "aka": [
+      "Dan Meier",
+      "Danny Meier"
+    ],
+    "education": [
+      {
+        "school": "North Carolina State University",
+        "years": "1972-75 (varsity letters 1973, 1974, 1975, inferred from letter asterisks)",
+        "detail": "Listed as \"*Dan Meier, MG, 234 lb, Levittown, Pa.\" on the 1974 Wolfpack roster (one letter already won) and \"**Dan Meier, Levittown, Pa.\" on the 1975 roster (two letters won); the 1976 outlook lists \"tackle Dan Meier\" among the chief losses from the 1975 team.",
+        "sourceRefs": [
+          "S1",
+          "S2",
+          "S3"
+        ]
+      }
+    ],
+    "career": [
+      {
+        "role": "History teacher; guidance counselor; director of student services; assistant principal",
+        "organization": "Fairfax County Public Schools",
+        "years": "various",
+        "detail": "Career summary he gave the Oakton student paper in 2017, which adds history teacher to the roles already on the site.",
+        "sourceRefs": [
+          "S5"
+        ]
+      },
+      {
+        "role": "Interim principal",
+        "organization": "Herndon High School, Fairfax County",
+        "years": "2016 (autumn)",
+        "detail": "Took over after principal Dr. William Bates left in July 2016; the paper notes he was earlier Herndon's director of counseling.",
+        "sourceRefs": [
+          "S4"
+        ]
+      },
+      {
+        "role": "Interim principal",
+        "organization": "Oakton High School, Fairfax County",
+        "years": "2017 (spring)",
+        "detail": "Filled in after Dr. Banbury moved to the FCPS Region 1 office; he said he had also stood in at Herndon, Woodson, Madison and four or five middle schools.",
+        "sourceRefs": [
+          "S5"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "West Potomac Athletic Hall of Fame, inaugural class",
+        "date": "2019",
+        "detail": "The school's own Hall of Fame page lists \"Danny Meier – 1985 to 1992\" under the 2019 inductees (the site already cites the booster-club page).",
+        "sourceRefs": [
+          "S6"
+        ]
+      }
+    ],
+    "residences": [
+      {
+        "date": "1974-75",
+        "place": "Levittown, Pennsylvania",
+        "note": "Hometown on NC State football rosters",
+        "sourceRefs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "NC State roster listing",
+        "value": "1974: MG, 234 lb, Levittown, Pa.; 1975 roster: Levittown, Pa. (two letters won)"
+      }
+    ]
+  },
+  "bioAdditions": "North Carolina State's football programmes from the Lou Holtz years confirm Danny's college career and tie him to Levittown. The 1974 roster lists \"*Dan Meier\", middle guard, 234 lb, of Levittown, Pa., where the asterisk marks one varsity letter already won. The 1975 roster lists \"**Dan Meier, Levittown, Pa.\" with two letters. The 1976 outlook names \"tackle Dan Meier\" among the chief losses from the 1975 team (S1, S2, S3). He therefore lettered in 1973, 1974 and 1975, playing middle guard and tackle.\n\nAfter retiring as Robinson principal he kept stepping in as a stand-in principal. He was interim principal of Herndon High in autumn 2016, where he had once been director of counselling (S4), and of Oakton High in spring 2017. There he told the student paper that he had been a football coach for 17 years, a history teacher, guidance counsellor, director of student services, assistant principal and principal of Rocky Run and Robinson, and that he had filled in at Herndon, Woodson, Madison and four or five middle schools (S5). His sons' West Point athletic biographies call their parents \"Dan and Ann Meier\" and note that their father played football, as a defensive lineman, at North Carolina State (S7, S8).",
+  "funFacts": [
+    "His sons Mike and Tim later shared the Army sprint football backfield; in 2010 Mike led Army in rushing (48.8 yards a game) with Tim second (48.5)."
+  ],
+  "openQuestionsNew": [
+    "Four Washington Post archive stories found by search but not loadable (403): 17 Dec 1989 \"West Potomac's trickery brings state title, 17-14\"; 1 Sep 1989 \"For West Potomac, pride is growing\"; 5 Sep 1986 \"West Potomac will be no surprise\"; 8 Dec 1996 \"No. 1 Chantilly 14, GW-Danville 7\". See leads.",
+    "NC State University Libraries' photograph collection (UA023) has individual portraits of 1973-75 players; a portrait of Dan Meier may exist but d.lib.ncsu.edu was blocked (bot challenge, HTTP 401).",
+    "High school in Levittown not identified. No Meier appears in Ted Silary's Bishop Egan football history or the Conwell-Egan Sports Hall of Fame list."
+  ],
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "NC State University Sports Information, 1974 football outlook and roster (University Archives UA 015.010.008, box 135; OCR PDF)",
+      "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "\"*Dan Meier MG 234 Levittown, Pa.\" (* = letters won)"
+    },
+    {
+      "ref": "S2",
+      "citation": "NC State University Sports Information, 1975 Wolfpack roster (UA 015.010.008, box 136; OCR PDF)",
+      "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "\"**Dan Meier ... Levittown, Pa.\" (two letters won)"
+    },
+    {
+      "ref": "S3",
+      "citation": "NC State University Sports Information, 1976 football outlook (UA 015.010.008, box 139; OCR PDF)",
+      "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf",
+      "class": "primary",
+      "accessed": "2026-10-08",
+      "supports": "\"Chief losses include middle guard Tom Higgins, linebacker Greg Walker, defensive back Eddie Poole and tackle Dan Meier.\""
+    },
+    {
+      "ref": "S4",
+      "citation": "Ryan Dunn, \"Transition At Herndon High\", Connection Newspapers, 23 Sep 2016",
+      "url": "https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Dan Meier interim principal of Herndon High; former Herndon director of counseling; nine years Robinson principal"
+    },
+    {
+      "ref": "S5",
+      "citation": "Rebecca Woodhouse, \"Getting to know Mr. Meier\", The Oakton Outlook (Oakton HS student paper), 30 Apr 2017",
+      "url": "https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Interim principal of Oakton; 17 years a football coach; history teacher, counselor, director of student services, AP, Rocky Run and Robinson principal; interim at Herndon, Woodson, Madison and middle schools"
+    },
+    {
+      "ref": "S6",
+      "citation": "West Potomac High School (FCPS), \"Where Legends Live On\" Athletic Hall of Fame page",
+      "url": "https://westpotomachs.fcps.edu/node/9426",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "2019 inductees: \"Danny Meier – 1985 to 1992\""
+    },
+    {
+      "ref": "S7",
+      "citation": "Army West Point Athletics, Sprint Football roster 2011, \"Michael Meier\" (#5, Senior, hometown Fairfax, Va., Robinson Secondary), player bio",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/michael-meier/3584",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Michael Meier, Army sprint football 2010-11; bio says \"Son of Dan and Ann Meier ... father played football at North Carolina State ... brother Tim also on Army sprint football team\""
+    },
+    {
+      "ref": "S8",
+      "citation": "Army West Point Athletics, Sprint Football roster 2011, \"Tim Meier\" (#4, Junior, hometown Fairfax, Va., Robinson Secondary), player bio",
+      "url": "https://goarmywestpoint.com/sports/sprint-football/roster/tim-meier/3583",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "Tim Meier, Army sprint football 2009-11; bio says \"Son of Dan and Ann Meier ... father was a defensive lineman at North Carolina State ... older brother Mike ... brother Joe, sister Mary\""
+    }
+  ],
+  "media": [
+    {
+      "type": "document",
+      "title": "NC State 1974 football roster: \"*Dan Meier, MG, 234, Levittown, Pa.\"",
+      "date": "1974",
+      "pageUrl": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+      "directUrl": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+      "repository": "NC State University Libraries, Special Collections (University Archives, Sports Information)",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "M0013"
+      ],
+      "suggestedFile": "media/M0013/ncsu-1974-roster.pdf",
+      "note": "1974 university publication; copyright status unclear, so not downloaded."
+    },
+    {
+      "type": "document",
+      "title": "NC State 1975 Wolfpack roster: \"**Dan Meier, Levittown, Pa.\"",
+      "date": "1975",
+      "pageUrl": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf",
+      "directUrl": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0136-006-001/ua015_010-008-bx0136-006-001.pdf",
+      "repository": "NC State University Libraries, Special Collections",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "M0013"
+      ],
+      "suggestedFile": "media/M0013/ncsu-1975-roster.pdf",
+      "note": ""
+    },
+    {
+      "type": "document",
+      "title": "NC State 1976 outlook: tackle Dan Meier among chief losses",
+      "date": "1976",
+      "pageUrl": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf",
+      "directUrl": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0139-005-002/ua015_010-008-bx0139-005-002.pdf",
+      "repository": "NC State University Libraries, Special Collections",
+      "rights": "unknown",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "M0013"
+      ],
+      "suggestedFile": "media/M0013/ncsu-1976-outlook.pdf",
+      "note": ""
+    },
+    {
+      "type": "photo",
+      "title": "Dan Meier, interim principal of Herndon High School, 2016",
+      "date": "2016-09-23",
+      "pageUrl": "https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+      "directUrl": "",
+      "repository": "Connection Newspapers",
+      "rights": "copyrighted",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "M0013"
+      ],
+      "suggestedFile": "media/M0013/herndon-2016.jpg",
+      "note": "Photo by Ryan Dunn."
+    },
+    {
+      "type": "photo",
+      "title": "\"Getting to know Mr. Meier\": Oakton Outlook photo, 2017",
+      "date": "2017-04-30",
+      "pageUrl": "https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+      "directUrl": "",
+      "repository": "The Oakton Outlook",
+      "rights": "copyrighted",
+      "downloadable": false,
+      "downloaded": false,
+      "localPath": "",
+      "people": [
+        "M0013"
+      ],
+      "suggestedFile": "media/M0013/oakton-2017.jpg",
+      "note": "No photographer credit given."
+    }
+  ],
+  "onlinePresence": [
+    {
+      "kind": "news",
+      "title": "Transition At Herndon High (Connection, 2016)",
+      "url": "https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+      "accessed": "2026-10-08",
+      "note": "Interim principal"
+    },
+    {
+      "kind": "news",
+      "title": "Getting to know Mr. Meier (Oakton Outlook, 2017)",
+      "url": "https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+      "accessed": "2026-10-08",
+      "note": "Student-paper profile"
+    },
+    {
+      "kind": "official_profile",
+      "title": "West Potomac HS Athletic Hall of Fame list (FCPS)",
+      "url": "https://westpotomachs.fcps.edu/node/9426",
+      "accessed": "2026-10-08",
+      "note": "2019 class"
+    },
+    {
+      "kind": "sports_stats",
+      "title": "NC State 1974 / 1975 rosters (NCSU Libraries OCR)",
+      "url": "https://ocr.lib.ncsu.edu/ocr/ua/ua015_010-008-bx0135-001-001/ua015_010-008-bx0135-001-001.pdf",
+      "accessed": "2026-10-08",
+      "note": "See also 1975 and 1976 PDFs"
+    }
+  ],
+  "newsArticles": [
+    {
+      "title": "Transition At Herndon High",
+      "publication": "Connection Newspapers",
+      "date": "2016-09-23",
+      "url": "https://www.connectionnewspapers.com/news/2016/sep/23/transition-herndon-high/",
+      "summary": "Dan Meier named interim principal of Herndon High after Dr. William Bates left; notes his earlier Herndon counseling post and nine years at Robinson.",
+      "accessed": "2026-10-08"
+    },
+    {
+      "title": "Getting to know Mr. Meier",
+      "publication": "The Oakton Outlook",
+      "date": "2017-04-30",
+      "url": "https://oaktonoutlook.com/6434/uncategorized/getting-to-know-mr-meier/",
+      "summary": "Profile of the interim principal: his career roles and why he keeps coming back to schools.",
+      "accessed": "2026-10-08"
+    }
+  ],
+  "searchedNoResult": [
+    "Virginia Sports Hall of Fame / VHSL / VHSCA halls of fame: no Meier found in search results",
+    "Chantilly HS athletic hall of fame: no list found",
+    "Conwell-Egan Sports Hall of Fame page (conwell-egan.org) and Ted Silary Bishop Egan football history (tedsilary.com): no Meier",
+    "Agromeck yearbooks 1972-76 (ocr.lib.ncsu.edu): the OCR is too poor to search, and \"Meier\" gave no hits",
+    "Orange HS (Hillsborough, NC) coaching history: nothing found",
+    "Washington Post archive stories 1986-1996: blocked (403); search snippets only",
+    "LinkedIn (HTTP 999) and X @PrincipalMeier (402): blocked",
+    "d.lib.ncsu.edu photo catalogue: blocked (401/bot challenge)",
+    "DVIDS: one \"Dan Meier\" 2015 video belongs to the Corps of Engineers Transatlantic Afghanistan District, a different person; not attached"
+  ],
+  "researchLogEntry": "Round 5: NC State 1974-76 football rosters and outlooks (Levittown, Pa.; MG/tackle; lettered 1973-75); interim principal at Herndon (2016) and Oakton (2017), and history teacher, from Connection and Oakton Outlook; West Point bios name parents \"Dan and Ann Meier\"."
+}

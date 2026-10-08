@@ -1,0 +1,27 @@
+{
+  "id": "M0093",
+  "link": {
+    "confidence": "possible",
+    "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of M0003 (probable)."
+  },
+  "tags": [],
+  "summary": "Anthony \"Zitzer\" Genello (1926–2024), Scranton builder and Second World War veteran, husband of Ann Marie Petriello, the sister of John's grandfather.",
+  "bio": "Anthony \"Zitzer\" Genello was born on 11 June 1926, the son of Louis and Mary (Caprio) Genello, and grew up in the Bunker Hill section of Scranton, Pennsylvania. He graduated from Scranton Technical High School and entered the service, fighting in the Second World War with the 75th Infantry Division through two campaigns and earning the Combat Infantry Badge and the Bronze Star. In 1956 he and his brother Vito founded the East Scranton Lumber Company, which built custom homes in the Scranton area for more than 50 years; he lived in a house he had built himself.\n\nAbout 1955 or 1956 he married Ann Marie Petriello, a sister of John's grandfather John T. Petriello Sr., who like him had grown up on Bunker Hill. They were married for 68 years and had three children, Dr. Louis Genello and his wife Susan, Marisa Genello, and David Genello and his wife Kathleen, as well as six grandchildren and a great-grandson. His brother Vito, who used the spelling Gianello, and his sister Mary DePietro died before him. He died on 26 February 2024 at Wilkes-Barre General Hospital, aged 97.",
+  "sources": [
+    "[R4-S1] Obituary of Anthony \"Zitzer\" Genello (11 Jun 1926 - 26 Feb 2024), Solfanelli-Fiorillo Funeral Home, Scranton, published 27 Feb 2024 (full text read from the funeral home's obituary feed, obituaryId=30890472). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/Anthony-Zitzer-Genello?obId=30890472",
+    "[R4-S2] Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181). (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+    "[R4-S3] Tribute wall of John T. Petriello Sr.'s obituary (Solfanelli-Fiorillo; read from the public comments feed, ClientApi/Comments/Obituary?obituaryId=38160181): a sympathy/flower entry signed 'Louis and Susan Genello & family', 5 Mar 2025. (secondary) https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181"
+  ],
+  "manual": true,
+  "researchLog": [
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported): new relative NEW-1301 → M0093; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    }
+  ],
+  "researchNotes": "round5: The son of Louis and Mary Caprio Genello, he grew up in Scranton's Bunker Hill section and graduated from Scranton Technical High School before entering the service. With his brother Vito (Gianello) he founded East Scranton Lumber Co. in 1956 and built custom homes for more than 50 years, living in a house he built himself. His siblings Vito Gianello and Mary DePietro died before him. His wife of 68 years was Ann Marie, and their children are Dr. Louis (Susan), Marisa and David (Kathleen) (S1).\noccupation: \"Builder; co-founder (1956) of East Scranton Lumber Company\""
+}

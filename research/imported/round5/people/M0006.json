@@ -1,0 +1,37 @@
+{
+  "id": "M0006",
+  "name": "Marissa Westlake",
+  "researchedAt": "2026-10-08",
+  "status": "nothing_new",
+  "researchLogEntry": "Round 5: no public footprint found beyond the 2024/2025 obituaries.",
+  "updates": {
+    "aka": [
+      "Marisa (Zach) Westlake"
+    ]
+  },
+  "bioAdditions": "Spelled 'Marisa (Zach) Westlake' in her grandfather's 2025 obituary and 'Marissa Westlake (Zachary)' in her father's 2024 obituary (S1, S2). Her children William, Alexander (Alex) and Olivia are great-grandchildren of John T. Petriello Sr.; minors, so names only.",
+  "sources": [
+    {
+      "ref": "S1",
+      "citation": "Obituary of John T. (Johnny) Petriello Sr. (19 May 1932 - 1 Mar 2025), Solfanelli-Fiorillo Funeral Home, Scranton, published 2 Mar 2025. The page renders the text by script; the full text was read from the funeral home's public obituary feed (api.secure.tributecenteronline.com ClientApi/Obituaries/GetObituaryInfo?obituaryId=38160181).",
+      "url": "https://www.solfanellifiorillofuneralhome.com/obituaries/John-T-Petriello-Sr?obId=38160181",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "'Marisa (Zach) Westlake'"
+    },
+    {
+      "ref": "S2",
+      "citation": "Obituary of John T. Petriello Jr. (29 Dec 1958 - 29 Feb 2024), Mather-Hodge Funeral Home, Princeton NJ (full text read from the funeral home's obituary feed, obituaryId=30915894); same text in Montgomery News.",
+      "url": "https://www.matherhodge.com/obituaries/John-T-Petriello-Jr?obId=30915894",
+      "class": "secondary",
+      "accessed": "2026-10-08",
+      "supports": "'daughter Marissa Westlake (Zachary)'; grandchildren William, Alexander and Olivia Westlake"
+    }
+  ],
+  "searchedNoResult": [
+    "WebSearch 'Marissa Petriello'/'Marisa Petriello' + Mendham/Westlake: data-broker listings only (not used)",
+    "WebSearch 'Marissa Westlake'/'Marisa Westlake' New Jersey: no match",
+    "WebSearch Petriello + Westlake wedding/engagement + Zachary: no announcement found",
+    "WebSearch Petriello + West Morris Mendham sports: none"
+  ]
+}

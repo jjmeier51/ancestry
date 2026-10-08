@@ -13,6 +13,18 @@
     {
       "date": "2026-10-08",
       "note": "John: married to Anthony 'Tony' Russo; children Anthony, Chelsea, Gianna and Emily. No public record found by web search."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 searched without result: James C. Meier 2008 Levittown obituary: not found (WebSearch several phrasings; Legacy.com returns 403; Courier Times 2008 archive is on Newspapers.com/GenealogyBank, paywalled); Kathryn (McGuire) Meier 1970 obituary: not online; Obituaries of Kathryn's sisters read for the Meier children's married names: Betsy Arnold (2016, Altoona Mirror) names none; Nancy Holland (2007, Times Leader) says only '20 nieces and nephews' (Legacy page 403, extract only); Jane Nagle (2005) not found online; Barbara Ann (Meier) Smith 2021 obituary (Mount Laurel NJ): only 'many loving nieces, nephews'; WebSearch 'Nancy Russo' + 'Tony Russo' + children's names; + Levittown / Bucks County / Fairless Hills: only unrelated Russos (psychologist Nancy Felipe Russo, NJ/Pittsburgh/CT obituaries); Data-broker hits ignored per privacy rule"
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 5: no public source tying Nancy (Meier) Russo to any record; the name is too common without a town."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "Round 4 (round5 imported) from research/imported/round4/people/M0016.json."
     }
   ],
   "summary": "One of the eight children of James C. and Kathryn (McGuire) Meier of Levittown, Pennsylvania, and John's aunt. Married to Tony Russo; four children.",
@@ -27,7 +39,8 @@
     }
   ],
   "openQuestions": [
-    "Exact birth date; where the Russos live; professions."
+    "Exact birth date; where the Russos live; professions.",
+    "Town of residence unknown; Russo is too common to identify without a town."
   ],
   "facts": [
     {
