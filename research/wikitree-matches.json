@@ -3890,5 +3890,269 @@
   "findagrave": [],
   "photos": 0,
   "attached": "2026-10-08"
+ },
+ "H0280": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "total": 1
+ },
+ "H0281": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Smith-272403",
+  "wt_id": 34173393,
+  "wt_name": "Joshua J. Smith",
+  "wt_birth": "1800-12-12",
+  "wt_death": "1858-11-02",
+  "birth_place": "Greenville County, South Carolina, USA",
+  "death_place": "Greenville County, South Carolina, USA",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/Smith-272403",
+  "findagrave": [],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0282": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "total": 3
+ },
+ "H0283": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Blydenburgh-6",
+  "wt_id": 3220087,
+  "wt_name": "Joseph Blydenburgh",
+  "wt_birth": "1732-01-30",
+  "wt_death": "1833-01-30",
+  "birth_place": "Smithtown, Suffolk County, Province of New York",
+  "death_place": "Smithtown, Suffolk County, New York, USA",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/Blydenburgh-6",
+  "findagrave": [
+   "https://www.findagrave.com/memorial/6032999/joseph-blydenburgh"
+  ],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0284": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "total": 1
+ },
+ "H0287": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Strong-2463",
+  "wt_id": 10491379,
+  "wt_name": "Selah Strong",
+  "wt_birth": "1737-12-25",
+  "wt_death": "1815-07-04",
+  "birth_place": "Long Island, Suffolk Co, New York",
+  "death_place": "Suffolk, New York, United States",
+  "photo": "Strong-2463-1.jpg",
+  "url": "https://www.wikitree.com/wiki/Strong-2463",
+  "findagrave": [],
+  "photos": 4,
+  "attached": "2026-10-08"
+ },
+ "H0288": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Strong-2465",
+  "wt_id": 10491425,
+  "wt_name": "Selah Brewster Strong",
+  "wt_birth": "1792-05-01",
+  "wt_death": "1872-11-29",
+  "birth_place": "Brookhaven, Suffolk, New York, United States",
+  "death_place": "Setauket, Brookhaven, Suffolk, New York, United States",
+  "photo": "Strong-2465.png",
+  "url": "https://www.wikitree.com/wiki/Strong-2465",
+  "findagrave": [],
+  "photos": 3,
+  "attached": "2026-10-08"
+ },
+ "H0292": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Brewster-4752",
+  "wt_id": 37029225,
+  "wt_name": "Samuel Pelatiah Brewster",
+  "wt_birth": "1718-07-18",
+  "wt_death": "1802-02-10",
+  "birth_place": "Setauket, Suffolk, New York Colony",
+  "death_place": "New Windsor, Orange, New York, United States",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/Brewster-4752",
+  "findagrave": [
+   "https://www.findagrave.com/memorial/6056379/samuel-brewster:"
+  ],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0294": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Gardiner-131",
+  "wt_id": 764439,
+  "wt_name": "Julia Gardiner",
+  "wt_birth": "1820-05-04",
+  "wt_death": "1889-07-10",
+  "birth_place": "Gardiner's Island, New York",
+  "death_place": "Richmond, Virginia",
+  "photo": "Gardiner-131.jpg",
+  "url": "https://www.wikitree.com/wiki/Gardiner-131",
+  "findagrave": [],
+  "photos": 1,
+  "attached": "2026-10-08"
+ },
+ "H0295": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Gardiner-1156",
+  "wt_id": 8524651,
+  "wt_name": "David Gardiner",
+  "wt_birth": "1784-05-29",
+  "wt_death": "1844-02-28",
+  "birth_place": "East Hampton, Suffolk County, New York, USA",
+  "death_place": "Aboard USS Princeton near Fort Washington, Prince George's County, Maryland, USA",
+  "photo": "Gardiner-1156.jpg",
+  "url": "https://www.wikitree.com/wiki/Gardiner-1156",
+  "findagrave": [
+   "https://www.findagrave.com/memorial/6685073/david-gardiner:"
+  ],
+  "photos": 1,
+  "attached": "2026-10-08"
+ },
+ "H0296": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Tyler-1044",
+  "wt_id": 4687081,
+  "wt_name": "David Gardiner Tyler",
+  "wt_birth": "1846-07-12",
+  "wt_death": "1927-09-05",
+  "birth_place": "East Hampton, Suffolk, New York, United States",
+  "death_place": "Charles City County, Virginia",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/Tyler-1044",
+  "findagrave": [],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0297": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Tyler-149",
+  "wt_id": 764437,
+  "wt_name": "Lyon Gardiner Tyler",
+  "wt_birth": "1853-08-24",
+  "wt_death": "1935-02-12",
+  "birth_place": "Sherwood Forest, Charles City County, Virginia, United States",
+  "death_place": "Charles City County, Virginia, United States",
+  "photo": "Tyler-149.jpg",
+  "url": "https://www.wikitree.com/wiki/Tyler-149",
+  "findagrave": [],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0298": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Tyler-1051",
+  "wt_id": 4706432,
+  "wt_name": "Harrison Ruffin Tyler",
+  "wt_birth": "1928-11-09",
+  "wt_death": "2025-05-25",
+  "birth_place": "Richmond, Virginia, United States",
+  "death_place": "Richmond, Virginia, United States",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/Tyler-1051",
+  "findagrave": [],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0300": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Bailey-33403",
+  "wt_id": 33030010,
+  "wt_name": "Theodorus Bailey",
+  "wt_birth": "1805-04-12",
+  "wt_death": "1877-02-10",
+  "birth_place": "Plattsburgh, Clinton, New York, United States",
+  "death_place": "Washington, District of Columbia, United States",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/Bailey-33403",
+  "findagrave": [
+   "https://www.findagrave.com/memorial/37192968/theodorus-bailey"
+  ],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0301": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Smith-8959",
+  "wt_id": 1179290,
+  "wt_name": "John Smith",
+  "wt_birth": "1752-01-31",
+  "wt_death": "1816-03-12",
+  "birth_place": "Virginia",
+  "death_place": "Bedford, Tennessee, United States",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/Smith-8959",
+  "findagrave": [],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0302": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "total": 80
+ },
+ "H0303": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "total": 261
+ },
+ "H0305": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "White-70660",
+  "wt_id": 33262374,
+  "wt_name": "Lawrence Grant White",
+  "wt_birth": "1887-09-26",
+  "wt_death": "1956-09-08",
+  "birth_place": "Manhattan, New York, New York, United States",
+  "death_place": "Saint James, Smithtown, Suffolk, New York, United States",
+  "photo": null,
+  "url": "https://www.wikitree.com/wiki/White-70660",
+  "findagrave": [],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0307": {
+  "status": "matched",
+  "checked": "2026-10-08",
+  "key": "Lawrence-18038",
+  "wt_id": 34166639,
+  "wt_name": "Cornelius Van Wyck Lawrence",
+  "wt_birth": "1791-02-28",
+  "wt_death": "1861-02-20",
+  "birth_place": "Flushing, Queens County, New York, United States",
+  "death_place": "Flushing, Queens County, New York, United States",
+  "photo": "Lawrence-18038.jpg",
+  "url": "https://www.wikitree.com/wiki/Lawrence-18038",
+  "findagrave": [
+   "https://www.findagrave.com/memorial/28359464/cornelius_van_wyck-lawrence:"
+  ],
+  "photos": 0,
+  "attached": "2026-10-08"
+ },
+ "H0308": {
+  "status": "none",
+  "checked": "2026-10-08",
+  "total": 1
  }
 }

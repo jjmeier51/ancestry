@@ -127,14 +127,20 @@ def score(p, m):
         return None
     if ft and mf and mf == ft:
         s += 1
-    # with a single comparable year we also need a place in common (town, county or state)
+    # places must agree: whenever both sides name any place, they need a word in common
+    # (town, county, state or country); with a single comparable year this is required and
+    # the first name must match exactly.
+    stop = {"county", "united", "states", "usa", "township", "city", "colony", "kingdom", "house", "near"}
+    tree_words = set()
+    for k in ("birth", "death", "burial"):
+        for w in re.split(r"[,\s()]+", ((p.get(k) or {}).get("place") or "")):
+            if len(w) > 3 and w.lower() not in stop:
+                tree_words.add(w.lower())
+    wt_words = set(w.lower() for w in re.split(r"[,\s()]+", (m.get("BirthLocation") or "") + " " + (m.get("DeathLocation") or ""))
+                   if len(w) > 3 and w.lower() not in stop)
+    if tree_words and wt_words and not (tree_words & wt_words):
+        return None
     if compared < 2:
-        tree_words = set()
-        for k in ("birth", "death", "burial"):
-            for w in re.split(r"[,\s]+", ((p.get(k) or {}).get("place") or "")):
-                if len(w) > 3 and w.lower() not in ("county", "united", "states", "usa", "township", "city"):
-                    tree_words.add(w.lower())
-        wt_words = set(w.lower() for w in re.split(r"[,\s]+", (m.get("BirthLocation") or "") + " " + (m.get("DeathLocation") or "")) if len(w) > 3)
         if not (tree_words & wt_words):
             return None
         if not (ft and mf and mf == ft):
