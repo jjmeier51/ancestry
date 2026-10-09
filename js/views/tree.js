@@ -21,15 +21,22 @@
           nodes = nodes.concat(subs[0].nodes);
           ext = ext.concat(subs[0].ext);
         } else if (subs.length === 2) {
+          /* The two parents sit side by side as a couple, centred under their
+           * child. Only the generations above them spread apart, and only as
+           * far as their own fans need, so the chart stays narrow near the
+           * root and widens towards the top. */
           const [L, R] = subs;
-          let shift = 0;
-          for (let d = 0; d < Math.min(L.ext.length, R.ext.length); d++) shift = Math.max(shift, L.ext[d].max - R.ext[d].min + HG);
-          const c = shift / 2; // node sits midway between the two parents
-          L.nodes.forEach(n => { n.x -= c; }); R.nodes.forEach(n => { n.x += shift - c; });
+          const couple = NW + CG;                       // centre-to-centre distance of the pair
+          let need = 0;                                 // separation the ancestors above the pair require
+          for (let d = 1; d < Math.min(L.ext.length, R.ext.length); d++) need = Math.max(need, L.ext[d].max - R.ext[d].min + HG);
+          const extra = Math.max(0, need - couple) / 2; // how far each parent's own fan slides outward
+          L.nodes.forEach(n => { n.x -= couple / 2 + (n === L.node ? 0 : extra); });
+          R.nodes.forEach(n => { n.x += couple / 2 + (n === R.node ? 0 : extra); });
           nodes = nodes.concat(L.nodes, R.nodes);
           for (let d = 0; d < Math.max(L.ext.length, R.ext.length); d++) {
-            const a = L.ext[d], b = R.ext[d];
-            ext.push({ min: Math.min(a ? a.min - c : Infinity, b ? b.min + shift - c : Infinity), max: Math.max(a ? a.max - c : -Infinity, b ? b.max + shift - c : -Infinity) });
+            const a = L.ext[d], b = R.ext[d], off = d ? extra : 0;
+            ext.push({ min: Math.min(a ? a.min - couple / 2 - off : Infinity, b ? b.min + couple / 2 + off : Infinity),
+                       max: Math.max(a ? a.max - couple / 2 - off : -Infinity, b ? b.max + couple / 2 + off : -Infinity) });
           }
         }
       } else if (par.length) node.more.up = true;
@@ -183,7 +190,7 @@
           const path = document.createElementNS(ns, 'path');
           let d = '';
           if (l.type === 'parent') {
-            const x1 = l.from.x, y1 = l.from.y - NH / 2, x2 = l.to.x, y2 = l.to.y + NH / 2, my = (y1 + y2) / 2;
+            const x1 = l.from.x, y1 = l.from.y - NH / 2, x2 = l.to.x, y2 = l.to.y + NH / 2, my = y1 - VG / 2;
             d = `M${x1},${y1} V${my} H${x2} V${y2}`;
           } else if (l.type === 'marriage') {
             d = `M${l.from.x + NW / 2},${l.from.y} H${l.to.x - NW / 2}`;
