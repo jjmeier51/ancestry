@@ -211,6 +211,11 @@ def main():
         json.dump(data, fh, ensure_ascii=False, indent=1)
         fh.write(";\n")
     print("Wrote data/family.js: %d people, %d families, %d research files, %d stories shown (%d excluded)" % (len(people), len(families), research_count, len(data["stories"]), len(stories) - len(data["stories"])))
+    try:  # link-preview cards and pages (images/og, p/, s/); skipped if Pillow is missing
+        import build_share
+        build_share.main()
+    except Exception as e:  # noqa
+        print("build_share failed: %s" % e, file=sys.stderr)
 
 
 if __name__ == "__main__":

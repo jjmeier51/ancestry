@@ -50,7 +50,13 @@
             el('div', { class: 'hero-actions' }, [
               el('a', { class: 'btn primary', href: `#/tree/${encodeURIComponent(p.id)}`, html: icon('tree') + 'View tree' }),
               el('a', { class: 'btn', href: `#/timeline/${encodeURIComponent(p.id)}`, html: icon('clock') + 'Timeline' }),
-              navigator.share ? el('button', { class: 'btn', html: icon('share') + 'Share', onclick: () => navigator.share({ title: F.fullName(p), url: location.href }).catch(() => {}) }) : null
+              el('button', { class: 'btn', html: icon('share') + 'Share', onclick: () => {
+                /* share the preview page, which carries the person's name, dates and card for Messages etc. */
+                const url = `${location.origin}/p/${encodeURIComponent(p.id)}`;
+                if (navigator.share) navigator.share({ title: F.fullName(p), text: p.summary || '', url }).catch(() => {});
+                else if (navigator.clipboard) navigator.clipboard.writeText(url).then(() => A.toast('Link copied'), () => prompt('Copy this link', url));
+                else prompt('Copy this link', url);
+              } })
             ])
           ])
         ])
