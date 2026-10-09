@@ -1435,6 +1435,14 @@
       "addChildren": [
         "M0097"
       ]
+    },
+    {
+      "id": "F58",
+      "marriage": {
+        "date": "1988-10-08",
+        "place": "Scranton, Lackawanna County, Pennsylvania, USA"
+      },
+      "reason": "John (8 Oct 2026): his parents married on 8 October 1988 in Scranton; the Ancestry export had 8 Oct 1989, 'This City'."
     }
   ],
   "setParents": [
