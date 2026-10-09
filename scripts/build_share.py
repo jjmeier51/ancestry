@@ -135,9 +135,7 @@ def person_card(p, site, out):
             por, mask = circle_portrait(photo, size); im.paste(por, (cx, cy), mask); drew = True
         except Exception: drew = False
     if not drew:
-        g = Image.new("RGB", (size, size), (79, 140, 255))
-        gd = ImageDraw.Draw(g)
-        for y in range(size): gd.line((0, y, size, y), fill=(79 + (103 - 79) * y // size, 140 + (232 - 140) * y // size, 255 - (255 - 249) * y // size))
+        g = Image.new("RGB", (size, size), (79, 140, 255))  # flat brand blue: smooth gradients band after palette compression
         mask = Image.new("L", (size * 4, size * 4), 0); ImageDraw.Draw(mask).ellipse((0, 0, size * 4 - 1, size * 4 - 1), fill=255); mask = mask.resize((size, size), Image.LANCZOS)
         im.paste(g, (cx, cy), mask)
         ini = initials(p); fi = f("Inter-Bold.otf", 110)
@@ -219,7 +217,7 @@ def main(force=False):
         inputs = {k2: p.get(k2) for k2 in ("given", "surname", "prefix", "suffix", "birth", "death", "occupation", "summary", "photo")}
         photo = p.get("photo")
         if photo and os.path.exists(photo): inputs["photo_mtime"] = int(os.path.getmtime(photo))
-        inputs["v"] = 2
+        inputs["v"] = 3
         k = key(inputs); fresh[pid] = k; keep.add(pid + ".png")
         out = f"images/og/{pid}.png"
         if manifest.get(pid) != k or not os.path.exists(out):
