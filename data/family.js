@@ -78012,5 +78012,5 @@ window.FAMILY_DATA = {
    "source": "Marriage license no. 817 (1940) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg; Marriage license no. 1716 (1943) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg"
   }
  ],
- "generated": "2026-10-08"
+ "generated": "2026-10-09"
 };

@@ -4,6 +4,18 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-09 — Link previews for Messages
+
+- John asked for better previews when the site is shared in iOS Messages.
+  The site is hash-routed, so every #/person link previewed as the bare
+  homepage. Added: Open Graph/Twitter tags on index.html with a branded
+  1200×630 card; `scripts/build_share.py` (run by `build.py`) draws a card
+  per person (portrait or initials, name, lifespan, one-line summary) and
+  writes `p/<id>.html` preview pages that carry the tags and forward to the
+  app; stories get `s/<id>.html` with the site card. The profile Share
+  button now shares `meiertree.com/p/<id>` (system share sheet, or copies
+  the link). 966 cards, ~23 MB, committed; only changed cards are redrawn.
+
 ## 2026-10-09 — Tree layout: couples together
 
 - John: the tree was still too wide and people too far apart. Cause: the

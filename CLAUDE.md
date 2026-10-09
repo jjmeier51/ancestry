@@ -35,6 +35,7 @@ The owner is J.J. Meier (jjmeier51@gmail.com); their person id is in
 | `research/imported/` | The owner's uploaded research reports and the 1.3 MB project handoff (Oct 2026). Read-only sources. | owner uploads |
 | `research/lines.md`, `sources.md`, `open-questions.md`, `owner-preferences.md` | Reference copies of the handoff's lineage narrative, sources consulted, open questions and the owner's stated preferences. Start research here. | script; Claude appends |
 | `data/family.js` | **Generated** bundle the site loads. Never hand-edit. | `scripts/build.py` |
+| `images/og/*.png`, `p/<id>.html`, `s/<id>.html` | **Generated** link-preview cards (1200×630) and per-person/per-story preview pages with Open Graph tags; `build.py` calls `scripts/build_share.py` (only changed cards are redrawn; `--force` redraws all). Share links are `https://meiertree.com/p/<id>`; the profile Share button uses them. | script only |
 
 ## Owner preferences (from the handoff, keep following them)
 
@@ -149,7 +150,7 @@ details, for example) and is never overwritten by `import_handoff.py`.
 - `js/views/profile.js` — person page sections
 - View as: `data/site.json` → `viewAs` (ids offered) and `viewAsLabels`; `F.setViewer(id)` in `js/data.js` makes `rootPerson()`/`owner()` return the viewer (tree root, relationship sentences); `A.chooseViewer()` in `js/app.js` shows the chooser (first visit, or the "Viewing as" chip in the tree HUD); choice kept in localStorage `viewAs` for one hour.
 - Maps: `A.placeLink(place)` in `js/app.js` makes any place tappable; `A.showMap` opens a Leaflet sheet (cdnjs, OpenStreetMap tiles, dark CSS filter) using `data/places.json` coordinates.
-- `scripts/` — `import_gedcom.py`, `build.py`, `attach_media.py`, `geocode_places.py`, `import_handoff.py` (one-off merge of the project handoff), `attach_drive_screenshots.py` (one-off)
+- `scripts/` — `import_gedcom.py`, `build.py`, `build_share.py` (link-preview cards and pages; Pillow + the Inter fonts in /usr/share/fonts/opentype/inter), `attach_media.py`, `geocode_places.py`, `import_handoff.py` (one-off merge of the project handoff), `attach_drive_screenshots.py` (one-off)
 - Media hunting: `scripts/find_wikitree.py --attach` matches deceased people to WikiTree profiles (public API, 1 req/s) and attaches the profile link, Find a Grave links quoted in the profile and up to four images (report `research/wikitree-matches.json`; re-run to pick up new people, `retry` entries are redone). `scripts/find_wikipedia_media.py --tagged --attach` does the same against Wikipedia/Wikidata/Commons for people with a `notable`/public-role tag (report `research/wikipedia-matches.json`). `scripts/audit_wikitree.py` re-checks every match against the current rules (`--dry` to preview, `--keep`/`--reject` for manual overrides) and removes the attachments of rejected ones. Wikimedia throttles this environment's shared IP hard (HTTP 429 after almost every call), so that pass is slow; WikiTree is not throttled. The 104 Ancestry photos referenced in the GEDCOM (`ancestryMedia`) cannot be downloaded without login: the owner must export them from Ancestry or share them via Drive.
 
 Test locally: `python3 -m http.server 8000` then open http://localhost:8000.
