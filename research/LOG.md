@@ -4,6 +4,20 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-09 — Thomas and Sharon's wedding; round-6 zip re-sent
+
+- John re-sent the Cognetti research package ("_2" zip and SUMMARY_3.md):
+  byte-for-byte the round-6 package merged on 8 Oct (same new_people.json,
+  people files, stories, media). Nothing new to import.
+- John: his parents married on 8 Oct 1988 in Scranton. The Ancestry export
+  had 8 Oct 1989, "This City"; corrected with a `familyUpdates` entry on
+  `F58`, a Married event and fact on both profiles, a conflict note, and a
+  short story (`S201`, "A Scranton wedding"). Searched for the announcement:
+  nothing on the open web; Newspapers.com (Scranton Times / Times-Tribune,
+  1988) answers with a bot check from this environment. Lead for John: the
+  Times-Tribune wedding and marriage-licence columns of Oct–Nov 1988, and
+  the engagement notice earlier in 1988, on Newspapers.com.
+
 ## 2026-10-09 — Link previews for Messages
 
 - John asked for better previews when the site is shared in iOS Messages.

@@ -4914,7 +4914,7 @@ window.FAMILY_DATA = {
     "coach"
    ],
    "summary": "John's father, known as Tommy: East Stroudsburg quarterback, head football coach at George Mason and Herndon High for 17 seasons, later assistant principal at Langley High School.",
-   "bio": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College, now East Stroudsburg University, for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns himself, tying the team lead with 42 points, ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District, and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff; the Washington Post noted in 1990 how rare it was for three brothers to be Fairfax County head coaches at the same time. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to the eventual state champion, Annandale. Leaner years followed, including a 3-7 season in 2002, but in those years he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night in 2003; that team started 4-0, finished 7-4 and ended a six-year regional playoff drought. The 2004 Hornets opened with five straight wins, among them a 30-24 double-overtime victory over Hayfield and a 45-7 homecoming rout of Lee. Alongside the head-coaching job he taught in Herndon's physical education department and, from at least 2001 until 2007, served as the school's assistant director of student activities, the deputy to the athletic director. He coached Herndon through the 2006 season, when the team went 6-4, seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. He is one of the winningest coaches in Virginia high-school history with over 100 career wins.\n\nIn the autumn of 2007 he moved into administration as an assistant principal at Langley High School in McLean, one of Virginia's top public schools. He served first as the tenth-grade administrator and by 2010 as the twelfth-grade administrator, supervising career and technical education, foreign languages, the performing arts and the library and running the cafeteria and graduation; he also coordinated the committee that planned the school's major renovation and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.",
+   "bio": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College, now East Stroudsburg University, for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns himself, tying the team lead with 42 points, ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student; they were married in Scranton on 8 October 1988.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District, and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff; the Washington Post noted in 1990 how rare it was for three brothers to be Fairfax County head coaches at the same time. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to the eventual state champion, Annandale. Leaner years followed, including a 3-7 season in 2002, but in those years he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night in 2003; that team started 4-0, finished 7-4 and ended a six-year regional playoff drought. The 2004 Hornets opened with five straight wins, among them a 30-24 double-overtime victory over Hayfield and a 45-7 homecoming rout of Lee. Alongside the head-coaching job he taught in Herndon's physical education department and, from at least 2001 until 2007, served as the school's assistant director of student activities, the deputy to the athletic director. He coached Herndon through the 2006 season, when the team went 6-4, seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. He is one of the winningest coaches in Virginia high-school history with over 100 career wins.\n\nIn the autumn of 2007 he moved into administration as an assistant principal at Langley High School in McLean, one of Virginia's top public schools. He served first as the tenth-grade administrator and by 2010 as the twelfth-grade administrator, supervising career and technical education, foreign languages, the performing arts and the library and running the cafeteria and graduation; he also coordinated the committee that planned the school's major renovation and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.",
    "sources": [
     "John Meier, family information, 8 Oct 2026",
     "John's Ancestry tree screenshots",
@@ -5007,6 +5007,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "ESU 2018 media guide (text extracted): 1980 passing 45-71, 521 yds, 3 TD; 1980 scoring 7 TD / 42 pts; two rushing TDs vs Bloomsburg 1980; long pass plays 58 (from Barry Kennedy at Central Conn.) and 55 (from Guy Braccia vs Cheyney). Lettermen list has only Tom (1978-80) and Jamie (1977-80) Meier: Jack did not letter at ESU."
+    },
+    {
+     "date": "2026-10-09",
+     "note": "John: married 8 Oct 1988 in Scranton (the Ancestry export said 8 Oct 1989, 'This City'; corrected via familyUpdates F58). Searched for the wedding or engagement announcement: web search finds nothing; Newspapers.com (Scranton Times / Times-Tribune 1988) is behind a bot check here. Lead: Times-Tribune wedding and marriage-licence columns, Oct–Nov 1988."
     }
    ],
    "nickname": "Tommy",
@@ -5024,12 +5028,12 @@ window.FAMILY_DATA = {
      "value": "Teacher, head football coach (George Mason HS, Herndon HS 1990–2006; over 100 career wins) and assistant principal (Langley HS); retired 2014"
     },
     {
-     "label": "Married",
-     "value": "Sharon M. Petriello, whom he met at East Stroudsburg"
-    },
-    {
      "label": "Children",
      "value": "Thomas Jr. (Tommy), John (Johnny) and Matthew (Matt)"
+    },
+    {
+     "label": "Married",
+     "value": "Sharon M. Petriello, 8 October 1988, Scranton, Pennsylvania"
     }
    ],
    "openQuestions": [
@@ -5145,6 +5149,12 @@ window.FAMILY_DATA = {
      "date": "1978–1980",
      "place": "East Stroudsburg, Monroe County, Pennsylvania, USA",
      "description": "The record book's list of long pass plays credits him with a 58-yard catch from Barry Kennedy at Central Connecticut and a 55-yard catch from Guy Braccia against Cheyney."
+    },
+    {
+     "title": "Married",
+     "date": "1988-10-08",
+     "place": "Scranton, Lackawanna County, Pennsylvania, USA",
+     "description": "Thomas F. Meier and Sharon M. Petriello were married in Scranton, her home town, on 8 October 1988, ten years after they met as students at East Stroudsburg."
     }
    ],
    "manual": true,
@@ -5364,7 +5374,15 @@ window.FAMILY_DATA = {
     }
    ],
    "researchNotes": "Thomas Francis \"Tommy\" Meier Sr. was born in 1959 and grew up in Levittown, Bucks County, Pennsylvania, the fourth of the eight children of James C. and Kathryn (McGuire) Meier. Like his older brothers Danny and Jamie he made football his life.\n\nHe played at East Stroudsburg State College (now East Stroudsburg University) for coach Denny Douds, lettering in 1978, 1979 and 1980 alongside his brother Jamie, a split end. In 1980 he completed 45 of 71 passes for 521 yards and three touchdowns, scored seven touchdowns (42 points, tying the team lead), ran for two scores against Bloomsburg, and caught 58- and 55-yard touchdown passes against Central Connecticut and Cheyney that are still listed in the Warriors' record book. At East Stroudsburg he met his future wife, Sharon Petriello of Scranton, a fellow student.\n\nAfter college he moved to Northern Virginia and taught and coached in the schools. He was head football coach at George Mason High School in Falls Church, the Northern Region's only Group A school, and in 1990 took over the Herndon High School Hornets, succeeding Dennis Baughan. His first Herndon team won the Great Falls District (the school lists football district titles in 1985 and 1990), and his first two seasons included family duels with brother Danny's West Potomac powerhouse, which won 49-6 in 1990 and 28-14 in 1991 while Jamie coached on Danny's staff. From 1991 to 1993 Herndon went 22-8 with offensive tackle Jon Carman, later an All-America at Georgia Tech and a Buffalo Bill; the 1993 Hornets were ranked seventh in the region, beat No. 10 Robinson 6-0 in overtime, finished 8-2 and lost in the regional playoffs to eventual state champion Annandale. A decade later he coached Brandon Guyer, later a major-league outfielder, who ran for more than 1,000 yards in 2002 and 2003 and set the school single-game record with seven touchdowns on homecoming night 2003; that 7-4 team ended a six-year regional playoff drought. He coached Herndon through the 2006 season (6-4, 3-3 in the Concorde District), seventeen seasons in all, and was succeeded by Joe Sheaffer in 2007. The family counts him among the winningest coaches in Virginia high-school history; a season-by-season record has not yet been compiled.\n\nHe then moved into administration at Langley High School in McLean, one of Virginia's top public schools, where as assistant principal he coordinated the committee planning the school's $100-million-class renovation (2011–14 coverage in the student paper) and ran the Langley Leap senior internship programme. He retired from Fairfax County Public Schools in 2014. He and Sharon raised three sons, Tommy Jr., Johnny and Matt, and live in Ashburn, Virginia.\n\nround5: Archived Herndon High School web pages show that, besides coaching, Tommy Meier held an administrative post there: from at least December 2001 until mid-2007 he was the school's Assistant Director of Student Activities, the deputy to the athletic director ([R4-S1], [R4-S2], [R4-S3]). The school's football pages name him as varsity head coach in 2002, 2003 and 2004 and preserve those seasons' scores: a 3-7 year in 2002, a 4-0 start in 2003 (Brandon Guyer's senior season), and in 2004 a five-game opening winning streak that included a 30-24 double-overtime win over Hayfield and a 45-7 homecoming rout of Lee ([R4-S5], [R4-S6], [R4-S7]).\n\nIn the fall of 2007, after his last Herndon season, he joined the administration at Langley High School in McLean as an assistant principal ([R4-S8]). Langley's pages show him as the 10th-grade administrator in 2007 and the 12th-grade administrator by 2010, supervising Career and Technical Education, Foreign Language, Performing Arts and the library, and running the cafeteria and graduation ([R4-S9], [R4-S11]). He appears in Langley staff photos posted in 2012 and for 2013-14 ([R4-S12]), and is absent from the 2015 administration list, consistent with the family's statement that he retired in 2014. Herndon's 2004 faculty list places 'Meier, Thomas F.' in the physical education department ([R4-S13]).",
-   "occupation": "Public-school educator: head football coach and assistant director of student activities, Herndon High School; assistant principal, Langley High School (Fairfax County Public Schools)"
+   "occupation": "Public-school educator: head football coach and assistant director of student activities, Herndon High School; assistant principal, Langley High School (Fairfax County Public Schools)",
+   "conflicts": [
+    {
+     "field": "marriage date",
+     "site": "8 Oct 1989, 'This City' (Ancestry export)",
+     "found": "8 Oct 1988, Scranton (John, 8 Oct 2026)",
+     "assessment": "John's date is used; the export's year was off by one and its place was a placeholder. A Scranton Times wedding announcement of October or November 1988 would settle it on paper."
+    }
+   ]
   },
   {
    "id": "I282604492910",
@@ -5407,15 +5425,11 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "John's mother; grew up in Scranton, Pennsylvania, studied at East Stroudsburg University, where she met her husband Tom Meier, and lives in Ashburn, Virginia.",
-   "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They married and raised three sons, Tommy, Johnny and Matt, all of whom played football at Broad Run High School in Ashburn; Tommy went on to play baseball at UVa-Wise and Matt football at Frostburg State, whose roster bio names him as the son of Thomas and Sharon Meier. She and Tom live in Ashburn, Virginia.",
+   "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They were married in Scranton on 8 October 1988 and raised three sons, Tommy, Johnny and Matt, all of whom played football at Broad Run High School in Ashburn; Tommy went on to play baseball at UVa-Wise and Matt football at Frostburg State, whose roster bio names him as the son of Thomas and Sharon Meier. She and Tom live in Ashburn, Virginia.",
    "facts": [
     {
      "label": "Siblings",
      "value": "John T. Petriello Jr. (1958–2024) and Paul Petriello."
-    },
-    {
-     "label": "Married",
-     "value": "Thomas F. \"Tommy\" Meier Sr."
     },
     {
      "label": "Children",
@@ -5424,6 +5438,10 @@ window.FAMILY_DATA = {
     {
      "label": "Education",
      "value": "East Stroudsburg University, Pennsylvania, where she met Tom Meier."
+    },
+    {
+     "label": "Married",
+     "value": "Thomas F. \"Tommy\" Meier Sr., 8 October 1988, Scranton, Pennsylvania"
     }
    ],
    "sources": [
@@ -5480,10 +5498,30 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-09",
+     "note": "John: married 8 Oct 1988 in Scranton (the Ancestry export said 8 Oct 1989, 'This City'; corrected via familyUpdates F58). Searched for the wedding or engagement announcement: nothing on the open web; Newspapers.com (Scranton Times / Times-Tribune 1988) is behind a bot check here. Lead: Times-Tribune wedding and marriage-licence columns, Oct–Nov 1988."
     }
    ],
    "manual": true,
-   "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.\n\nround5: No public profile of Sharon herself was found. One new public source names her: Frostburg State University's 2019 football roster bio of her son Matt calls him the 'son of Thomas and Sharon Meier' ([R4-S1]). Her three sons' public athletic careers, at Broad Run High School, UVa-Wise and Frostburg State, are recorded on their own pages."
+   "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.\n\nround5: No public profile of Sharon herself was found. One new public source names her: Frostburg State University's 2019 football roster bio of her son Matt calls him the 'son of Thomas and Sharon Meier' ([R4-S1]). Her three sons' public athletic careers, at Broad Run High School, UVa-Wise and Frostburg State, are recorded on their own pages.",
+   "events": [
+    {
+     "title": "Married",
+     "date": "1988-10-08",
+     "place": "Scranton, Lackawanna County, Pennsylvania, USA",
+     "description": "Thomas F. Meier and Sharon M. Petriello were married in Scranton, her home town, on 8 October 1988, ten years after they met as students at East Stroudsburg."
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "marriage date",
+     "site": "8 Oct 1989, 'This City' (Ancestry export)",
+     "found": "8 Oct 1988, Scranton (John, 8 Oct 2026)",
+     "assessment": "John's date is used; the export's year was off by one and its place was a placeholder. A Scranton Times wedding announcement of October or November 1988 would settle it on paper."
+    }
+   ]
   },
   {
    "id": "I282604492974",
@@ -72962,8 +73000,8 @@ window.FAMILY_DATA = {
    "husband": "I282604492836",
    "wife": "I282604492910",
    "marriage": {
-    "date": "8 Oct 1989",
-    "place": "This City"
+    "date": "1988-10-08",
+    "place": "Scranton, Lackawanna County, Pennsylvania, USA"
    },
    "children": [
     "I282604492552",
@@ -78010,6 +78048,19 @@ window.FAMILY_DATA = {
    ],
    "body": "Two of the Cognetti brothers were married by the same priest. On 1 June 1940 Ralph, a salesman, married Marguerite Forgione, a 26-year-old seamstress and daughter of a Farr Street shoemaker. On 16 October 1943 Sal, home as a soldier, married Elizabeth Notarianni, a stenographer of Providence Road. Both certificates were returned by the Rev. Luigino of 1402 Short Avenue, Scranton, presumably the priest of the family's Italian parish.",
    "source": "Marriage license no. 817 (1940) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg; Marriage license no. 1716 (1943) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg"
+  },
+  {
+   "id": "S201",
+   "title": "A Scranton wedding",
+   "date": "8 Oct 1988",
+   "people": [
+    "I282604492836",
+    "I282604492910",
+    "I282604492552",
+    "M0001",
+    "M0002"
+   ],
+   "body": "Tommy Meier of Levittown and Sharon Petriello of Scranton met as students at East Stroudsburg State College, where he was the Warriors' quarterback and she was a fellow undergraduate at the end of the 1970s. On 8 October 1988 they were married in Scranton, Sharon's home town, where her parents John and Mary Petriello had raised their three children and where the Petriellos worshipped at St. Anthony's and Holy Rosary.\n\nBy then Tommy was coaching high-school football in Northern Virginia, and the couple made their home there. Their three sons, Tommy Jr., Johnny and Matt, all grew up in Ashburn and all played football at Broad Run High School. The family marks the anniversary every 8 October."
   }
  ],
  "generated": "2026-10-09"
