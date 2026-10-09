@@ -5425,15 +5425,11 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "John's mother; grew up in Scranton, Pennsylvania, studied at East Stroudsburg University, where she met her husband Tom Meier, and lives in Ashburn, Virginia.",
-   "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They married and raised three sons, Tommy, Johnny and Matt, all of whom played football at Broad Run High School in Ashburn; Tommy went on to play baseball at UVa-Wise and Matt football at Frostburg State, whose roster bio names him as the son of Thomas and Sharon Meier. She and Tom live in Ashburn, Virginia.",
+   "bio": "Sharon M. Petriello was born in 1960 in Scranton, Pennsylvania, the daughter of John T. Petriello and Mary Cognetti, and grew up there with her brothers John T. Petriello Jr., who died in 2024, and Paul. She studied at East Stroudsburg University, where she met her future husband, Tom Meier. They were married in Scranton on 8 October 1988 and raised three sons, Tommy, Johnny and Matt, all of whom played football at Broad Run High School in Ashburn; Tommy went on to play baseball at UVa-Wise and Matt football at Frostburg State, whose roster bio names him as the son of Thomas and Sharon Meier. She and Tom live in Ashburn, Virginia.",
    "facts": [
     {
      "label": "Siblings",
      "value": "John T. Petriello Jr. (1958–2024) and Paul Petriello."
-    },
-    {
-     "label": "Married",
-     "value": "Thomas F. \"Tommy\" Meier Sr."
     },
     {
      "label": "Children",
@@ -5442,6 +5438,10 @@ window.FAMILY_DATA = {
     {
      "label": "Education",
      "value": "East Stroudsburg University, Pennsylvania, where she met Tom Meier."
+    },
+    {
+     "label": "Married",
+     "value": "Thomas F. \"Tommy\" Meier Sr., 8 October 1988, Scranton, Pennsylvania"
     }
    ],
    "sources": [
@@ -5498,10 +5498,30 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-09",
+     "note": "John: married 8 Oct 1988 in Scranton (the Ancestry export said 8 Oct 1989, 'This City'; corrected via familyUpdates F58). Searched for the wedding or engagement announcement: nothing on the open web; Newspapers.com (Scranton Times / Times-Tribune 1988) is behind a bot check here. Lead: Times-Tribune wedding and marriage-licence columns, Oct–Nov 1988."
     }
    ],
    "manual": true,
-   "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.\n\nround5: No public profile of Sharon herself was found. One new public source names her: Frostburg State University's 2019 football roster bio of her son Matt calls him the 'son of Thomas and Sharon Meier' ([R4-S1]). Her three sons' public athletic careers, at Broad Run High School, UVa-Wise and Frostburg State, are recorded on their own pages."
+   "researchNotes": "Sharon M. Petriello, born 1960, is John's mother and is shown in the tree as 'Sharon M Petriello 1960–Living'. Her parents are John T. Petriello (b. 1933) and Mary Cognetti (b. 1933). Her elder brother John T. Petriello Jr. died on 29 Feb 2024, and his obituary lists her as 'Sharon Meier (Thomas)'. She married Thomas F. Meier. Nothing else about her was researched.\n\nround5: No public profile of Sharon herself was found. One new public source names her: Frostburg State University's 2019 football roster bio of her son Matt calls him the 'son of Thomas and Sharon Meier' ([R4-S1]). Her three sons' public athletic careers, at Broad Run High School, UVa-Wise and Frostburg State, are recorded on their own pages.",
+   "events": [
+    {
+     "title": "Married",
+     "date": "1988-10-08",
+     "place": "Scranton, Lackawanna County, Pennsylvania, USA",
+     "description": "Thomas F. Meier and Sharon M. Petriello were married in Scranton, her home town, on 8 October 1988, ten years after they met as students at East Stroudsburg."
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "marriage date",
+     "site": "8 Oct 1989, 'This City' (Ancestry export)",
+     "found": "8 Oct 1988, Scranton (John, 8 Oct 2026)",
+     "assessment": "John's date is used; the export's year was off by one and its place was a placeholder. A Scranton Times wedding announcement of October or November 1988 would settle it on paper."
+    }
+   ]
   },
   {
    "id": "I282604492974",
@@ -78028,6 +78048,19 @@ window.FAMILY_DATA = {
    ],
    "body": "Two of the Cognetti brothers were married by the same priest. On 1 June 1940 Ralph, a salesman, married Marguerite Forgione, a 26-year-old seamstress and daughter of a Farr Street shoemaker. On 16 October 1943 Sal, home as a soldier, married Elizabeth Notarianni, a stenographer of Providence Road. Both certificates were returned by the Rev. Luigino of 1402 Short Avenue, Scranton, presumably the priest of the family's Italian parish.",
    "source": "Marriage license no. 817 (1940) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L6CN-7HV/images/i/1/image.jpg; Marriage license no. 1716 (1943) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg"
+  },
+  {
+   "id": "S201",
+   "title": "A Scranton wedding",
+   "date": "8 Oct 1988",
+   "people": [
+    "I282604492836",
+    "I282604492910",
+    "I282604492552",
+    "M0001",
+    "M0002"
+   ],
+   "body": "Tommy Meier of Levittown and Sharon Petriello of Scranton met as students at East Stroudsburg State College, where he was the Warriors' quarterback and she was a fellow undergraduate at the end of the 1970s. On 8 October 1988 they were married in Scranton, Sharon's home town, where her parents John and Mary Petriello had raised their three children and where the Petriellos worshipped at St. Anthony's and Holy Rosary.\n\nBy then Tommy was coaching high-school football in Northern Virginia, and the couple made their home there. Their three sons, Tommy Jr., Johnny and Matt, all grew up in Ashburn and all played football at Broad Run High School. The family marks the anniversary every 8 October."
   }
  ],
  "generated": "2026-10-09"
