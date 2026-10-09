@@ -4,6 +4,16 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-09 — Tree layout: couples together
+
+- John: the tree was still too wide and people too far apart. Cause: the
+  pedigree centred each parent over their own full ancestor fan, so with
+  four generations shown the root's parents sat eight boxes apart.
+  `layoutAncestors` now keeps every couple adjacent under their child and
+  slides only the rows above outward where their fans need it. Thomas Sr.
+  and Sharon went from 845 px apart to 106 px on a 1280-px screen; chart
+  width from ~2900 to ~1690 px at the default zoom; no overlaps.
+
 ## 2026-10-08 — The eight Meier siblings: full names, birth months and towns
 
 - John shared screenshots of a background-report summary (Instant

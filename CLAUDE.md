@@ -145,7 +145,7 @@ details, for example) and is never overwritten by `import_handoff.py`.
 - `js/data.js` — data access, dates, relationship calculator
 - `js/app.js` — router (`#/`, `#/tree/<id>`, `#/person/<id>`, `#/people`,
   `#/timeline[/<id>]`, `#/stories[/<id>]`, `#/media`), sheet, search, lightbox
-- `js/views/tree.js` — hourglass/ancestor/descendant layout, pan, pinch, inertia
+- `js/views/tree.js` — hourglass/ancestor/descendant layout, pan, pinch, inertia. Pedigree rule (Oct 2026): a couple always sits side by side under their child; only the generations above slide outward, and only as far as their own fans need (`layoutAncestors`), so the chart is narrow near the root and fans out at the top.
 - `js/views/profile.js` — person page sections
 - View as: `data/site.json` → `viewAs` (ids offered) and `viewAsLabels`; `F.setViewer(id)` in `js/data.js` makes `rootPerson()`/`owner()` return the viewer (tree root, relationship sentences); `A.chooseViewer()` in `js/app.js` shows the chooser (first visit, or the "Viewing as" chip in the tree HUD); choice kept in localStorage `viewAs` for one hour.
 - Maps: `A.placeLink(place)` in `js/app.js` makes any place tappable; `A.showMap` opens a Leaflet sheet (cdnjs, OpenStreetMap tiles, dark CSS filter) using `data/places.json` coordinates.
