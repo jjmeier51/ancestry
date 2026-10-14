@@ -1006,6 +1006,198 @@
       "given": "",
       "surname": "Baldassarre",
       "sex": "M"
+    },
+    {
+      "id": "M0114",
+      "given": "Mary V.",
+      "surname": "McAvoy",
+      "sex": "F",
+      "birth": {
+        "date": "1879-08-22",
+        "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1944-09-12",
+        "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+      },
+      "aka": [
+        "Mary Harris"
+      ]
+    },
+    {
+      "id": "M0115",
+      "given": "William Richard",
+      "surname": "McAvoy",
+      "suffix": "Jr.",
+      "sex": "M",
+      "birth": {
+        "date": "1889-11-11",
+        "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1942-12-21",
+        "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0116",
+      "given": "Katherine Frances",
+      "surname": "McAvoy",
+      "sex": "F",
+      "nickname": "Katie",
+      "birth": {
+        "date": "1888-04-07",
+        "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1933-09-18",
+        "place": "Jamestown, Chautauqua County, New York, USA"
+      },
+      "aka": [
+        "Kathryn Wagner",
+        "Catherine McAvoy"
+      ]
+    },
+    {
+      "id": "M0117",
+      "given": "Josephine Regina",
+      "surname": "McAvoy",
+      "sex": "F",
+      "birth": {
+        "date": "1891-06-09",
+        "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1943-04-06",
+        "place": "Woodbury, Gloucester County, New Jersey, USA"
+      },
+      "aka": [
+        "Josephine Hughes"
+      ]
+    },
+    {
+      "id": "M0118",
+      "given": "Gertrude Calista",
+      "surname": "McAvoy",
+      "sex": "F",
+      "birth": {
+        "date": "1893-02",
+        "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1971-11-25",
+        "place": "Camden, Camden County, New Jersey, USA"
+      },
+      "aka": [
+        "Gertrude C. Ackerman"
+      ]
+    },
+    {
+      "id": "M0119",
+      "given": "Anna K.",
+      "surname": "McAvoy",
+      "sex": "F",
+      "birth": {
+        "date": "1895-01-09",
+        "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1964-08-05",
+        "place": "Syracuse, Onondaga County, New York, USA"
+      },
+      "aka": [
+        "Hannah McAvoy",
+        "Ann Snyder"
+      ]
+    },
+    {
+      "id": "M0120",
+      "given": "Claire",
+      "surname": "McAvoy",
+      "sex": "F",
+      "birth": {
+        "date": "1899-09-06",
+        "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1975-11",
+        "place": "Shavertown, Kingston Township, Luzerne County, Pennsylvania, USA"
+      },
+      "aka": [
+        "Clair McAvoy",
+        "Clara McAvoy",
+        "Claire Greener"
+      ]
+    },
+    {
+      "id": "M0121",
+      "given": "Alfred J.",
+      "surname": "Harris",
+      "sex": "M",
+      "birth": {
+        "date": "1879-02-19",
+        "place": "Wales"
+      }
+    },
+    {
+      "id": "M0122",
+      "given": "Victor Roy",
+      "surname": "Wagner",
+      "sex": "M",
+      "birth": {
+        "date": "1888"
+      },
+      "death": {
+        "date": "1952"
+      }
+    },
+    {
+      "id": "M0123",
+      "given": "Joseph R.",
+      "surname": "Hughes",
+      "sex": "M"
+    },
+    {
+      "id": "M0124",
+      "given": "William Henry",
+      "surname": "Ackerman",
+      "sex": "M"
+    },
+    {
+      "id": "M0125",
+      "given": "Fred Delbert",
+      "surname": "Snyder",
+      "sex": "M",
+      "birth": {
+        "date": "1895-06-14"
+      },
+      "death": {
+        "date": "1979-02-26"
+      }
+    },
+    {
+      "id": "M0126",
+      "given": "Harry A.",
+      "surname": "Greener",
+      "sex": "M",
+      "aka": [
+        "Henry Anthony Greener"
+      ]
+    },
+    {
+      "id": "M0127",
+      "given": "Leonorah",
+      "surname": "Lockard",
+      "sex": "F",
+      "birth": {
+        "date": "1897"
+      },
+      "death": {
+        "date": "1966"
+      },
+      "aka": [
+        "Leonorah Remmell Lockard"
+      ]
     }
   ],
   "families": [
@@ -1298,6 +1490,64 @@
       "husband": "M0113",
       "wife": "M0015",
       "children": []
+    },
+    {
+      "id": "MF0039",
+      "husband": "M0121",
+      "wife": "M0114",
+      "marriage": {
+        "date": "1901-04-02",
+        "place": "Luzerne County, Pennsylvania, USA"
+      },
+      "children": []
+    },
+    {
+      "id": "MF0040",
+      "husband": "M0122",
+      "wife": "M0116",
+      "marriage": {
+        "date": "1910-11-29",
+        "place": "Luzerne County, Pennsylvania, USA"
+      },
+      "children": []
+    },
+    {
+      "id": "MF0041",
+      "husband": "M0123",
+      "wife": "M0117",
+      "children": []
+    },
+    {
+      "id": "MF0042",
+      "husband": "M0124",
+      "wife": "M0118",
+      "marriage": {
+        "date": "1913-06-24",
+        "place": "Luzerne County, Pennsylvania, USA"
+      },
+      "children": []
+    },
+    {
+      "id": "MF0043",
+      "husband": "M0125",
+      "wife": "M0119",
+      "children": []
+    },
+    {
+      "id": "MF0044",
+      "husband": "M0126",
+      "wife": "M0120",
+      "marriage": {
+        "date": "1933",
+        "place": "Philadelphia, Pennsylvania, USA"
+      },
+      "children": []
+    },
+    {
+      "id": "MF0045",
+      "husband": "M0115",
+      "wife": "M0127",
+      "children": []
     }
   ],
   "familyUpdates": [
@@ -1443,6 +1693,19 @@
         "place": "Scranton, Lackawanna County, Pennsylvania, USA"
       },
       "reason": "John (8 Oct 2026): his parents married on 8 October 1988 in Scranton; the Ancestry export had 8 Oct 1989, 'This City'."
+    },
+    {
+      "id": "F28",
+      "addChildren": [
+        "M0114",
+        "M0116",
+        "M0115",
+        "M0117",
+        "M0118",
+        "M0119",
+        "M0120"
+      ],
+      "reason": "The 1900 and 1910 censuses list all nine surviving children of William R. McAvoy and Catherine Murphy in her household."
     }
   ],
   "setParents": [

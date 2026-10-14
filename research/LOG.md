@@ -4,6 +4,29 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-10-14 — Elizabeth McAvoy's siblings: twelve born, nine lived
+
+- John believed Elizabeth McAvoy McGuire was one of six children. The record
+  says otherwise. Census images attached to the family's FamilySearch
+  profiles (readable without login via the published-tree image endpoint)
+  were downloaded and read: 1880 (Catherine, 19, with baby Mary in Martin
+  Murphy's household, husband absent); 1900 (Katie McAvoy, widow,
+  restaurant keeper, Main St, Plymouth Ward 4: 12 children born, 9 living,
+  all nine named with birth months); 1910 (Catherine Jones, m. 7 years,
+  12 born / 9 living, all nine McAvoy step-children at 214 Vine St with
+  occupations); 1920 (Elizabeth, 23, dry-goods clerk); 1930 (Katharine, 69,
+  with Mary and Claire). Also Mary's 1901 docket (Alfred J. Harris),
+  William Jr.'s 1942 draft card, the 1914 Jones–McAvoy docket and the 1933
+  Philadelphia index (Greener–McAvoy). The 1910 FamilySearch index page
+  rendered through r.jina.ai; the 1900 one did not.
+- Added the seven missing siblings `M0114`–`M0120` with spouses
+  `M0121`–`M0127` (families `MF0039`–`MF0045`; `F28` children extended);
+  rewrote Elizabeth's and Catherine's pages ("mother of ten" → twelve born,
+  nine living); removed the old error that Elizabeth married Harold Arnold
+  (he was Betsy's husband); story `S202`. Open: the three children who died
+  young (St. Vincent de Paul baptisms/burials); William Jr.'s birth year
+  (1889 censuses vs 1891 draft card vs 1886 tree).
+
 ## 2026-10-09 — Thomas and Sharon's wedding; round-6 zip re-sent
 
 - John re-sent the Cognetti research package ("_2" zip and SUMMARY_3.md):

@@ -5450,5 +5450,40 @@
   "label": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, 18942, United States",
   "matched": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, USA",
   "precision": "exact"
+ },
+ "Camden, Camden County, New Jersey, USA": {
+  "lat": 39.94409,
+  "lon": -75.11919,
+  "label": "Camden, Camden County, New Jersey, United States",
+  "matched": "Camden, Camden County, New Jersey, USA",
+  "precision": "exact"
+ },
+ "Jamestown, Chautauqua County, New York, USA": {
+  "lat": 42.09652,
+  "lon": -79.23803,
+  "label": "Jamestown, Chautauqua County, New York, United States",
+  "matched": "Jamestown, Chautauqua County, New York, USA",
+  "precision": "exact"
+ },
+ "Shavertown, Kingston Township, Luzerne County, Pennsylvania, USA": {
+  "lat": 41.3198,
+  "lon": -75.93798,
+  "label": "Shavertown, Kingston Township, Luzerne County, Pennsylvania, 18708, United States",
+  "matched": "Shavertown, Kingston Township, Luzerne County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Syracuse, Onondaga County, New York, USA": {
+  "lat": 43.04812,
+  "lon": -76.14742,
+  "label": "City of Syracuse, Onondaga County, New York, United States",
+  "matched": "Syracuse, Onondaga County, New York, USA",
+  "precision": "exact"
+ },
+ "Woodbury, Gloucester County, New Jersey, USA": {
+  "lat": 39.83817,
+  "lon": -75.15268,
+  "label": "Woodbury, Gloucester County, New Jersey, United States",
+  "matched": "Woodbury, Gloucester County, New Jersey, USA",
+  "precision": "exact"
  }
 }
