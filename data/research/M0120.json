@@ -1,0 +1,47 @@
+{
+  "id": "M0120",
+  "manual": true,
+  "tags": [],
+  "sources": [
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "1930 U.S. census, Plymouth Borough, First Ward, Luzerne Co., Pa., ED 40-180, sheet 11A, 214 Vine Street, enumerated 8 April 1930: John H. Jones 51, head, renting at $30; Katharine 69, wife, parents born Irish Free State; a step-daughter aged 51, widowed (Mary, surname read as Weinroberts); Claire McAvoy, step-daughter, 30, single (image attached to FamilySearch G7QQ-PP2)",
+    "Philadelphia Orphans' Court Marriage License Index 1917–1938, p. 243: \"Greener Harry A (McAvoy) 1933 M 630506\" (image attached to FamilySearch K6NQ-ZXC; index ark:/61903/1:1:ZWM1-P8N2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-10-14",
+      "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+  ],
+  "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of William R. McAvoy and Catherine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+  },
+  "summary": "The youngest McAvoy child (1899–1975), born ten months before her father died, who married Harry Greener in Philadelphia in 1933; sister of Elizabeth McAvoy McGuire and John's great-great-aunt.",
+  "bio": "Claire McAvoy was born at Plymouth, Luzerne County, Pennsylvania, on 6 September 1899, the last of the twelve children of William Richard McAvoy and Catherine Murphy, and was not yet two months old when her father died. She grew up in her mother's household on Main Street and then Vine Street, was still at home and single in 1930, aged thirty, and in 1933 married Harry A. Greener in Philadelphia. Their son Henry Anthony Greener was born in 1935. The family lived in Kingston Township, and she died at Shavertown in November 1975, aged seventy-six; she was buried at St. Nicholas Cemetery.",
+  "residences": [
+    {
+      "date": "1899–1930",
+      "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "1940–1975",
+      "place": "Shavertown, Kingston Township, Luzerne County, Pennsylvania, USA"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Philadelphia marriage licence index 1917–1938: Greener, Harry A. (McAvoy), 1933",
+      "date": "1933",
+      "source": "Philadelphia Orphans' Court index via FamilySearch (attached to K6NQ-ZXC)",
+      "note": "",
+      "file": "media/M0120/1933-philadelphia-marriage-index-greener-mcavoy.jpg",
+      "people": [
+        "M0126"
+      ]
+    }
+  ]
+}

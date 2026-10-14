@@ -4585,6 +4585,36 @@ window.FAMILY_DATA = {
    "lon": -75.16101,
    "label": "Ottsville, Tinicum Township, Bucks County, Pennsylvania, 18942, United States",
    "precision": "exact"
+  },
+  "Camden, Camden County, New Jersey, USA": {
+   "lat": 39.94409,
+   "lon": -75.11919,
+   "label": "Camden, Camden County, New Jersey, United States",
+   "precision": "exact"
+  },
+  "Jamestown, Chautauqua County, New York, USA": {
+   "lat": 42.09652,
+   "lon": -79.23803,
+   "label": "Jamestown, Chautauqua County, New York, United States",
+   "precision": "exact"
+  },
+  "Shavertown, Kingston Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.3198,
+   "lon": -75.93798,
+   "label": "Shavertown, Kingston Township, Luzerne County, Pennsylvania, 18708, United States",
+   "precision": "exact"
+  },
+  "Syracuse, Onondaga County, New York, USA": {
+   "lat": 43.04812,
+   "lon": -76.14742,
+   "label": "City of Syracuse, Onondaga County, New York, United States",
+   "precision": "exact"
+  },
+  "Woodbury, Gloucester County, New Jersey, USA": {
+   "lat": 39.83817,
+   "lon": -75.15268,
+   "label": "Woodbury, Gloucester County, New Jersey, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -6294,8 +6324,8 @@ window.FAMILY_DATA = {
     "Elizabeth Arnold"
    ],
    "tags": [],
-   "summary": "Plymouth clerk who lost her New York-born father in infancy and married Frank J. McGuire in 1923; John's great-grandmother.",
-   "bio": "Elizabeth M. McAvoy was born on 8 December 1897 at Plymouth in Luzerne County, Pennsylvania, one of the ten children of William Richard McAvoy, who had been born in New York about 1857, and Catherine A. Murphy. Her father died at Plymouth on 4 November 1899, when she was not yet two, and her widowed mother later married John H. Jones, in whose household Elizabeth was living in 1920. Her brothers and sisters were Mary (1879–1944), Agnes (1884–1958), William Richard Jr. (1886–1942), Katherine Frances (1888–1933), Josephine Regina (1891–1943), Gertrude Calista (1893–1971), Anna K. (1895–1964) and Claire (1899–1975).\n\nBy 1923 she was working as a clerk and living on Vine Street in Plymouth. On 20 June 1923, aged twenty-five, she married Frank J. McGuire at Plymouth, the Rev. P. J. Colligan officiating. The families were already linked: her sister Agnes had married Joseph S. Jones, a brother of Frank's mother Anna C. Jones, so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth wed. She is John's great-grandmother, the mother of his grandmother Kathryn.\n\nAfter Frank's death in 1958 she married Harold Arnold. She died at Altoona on 5 May 1984 and was buried in Hanover Township, Luzerne County.",
+   "summary": "Plymouth dry-goods clerk, the eleventh of the twelve children of William R. McAvoy and Catherine Murphy, who married Frank J. McGuire in 1923; John's great-grandmother.",
+   "bio": "Elizabeth M. McAvoy was born on 8 December 1897 at Plymouth in Luzerne County, Pennsylvania, the eleventh of the twelve children of William Richard McAvoy, who had been born in New York about 1857, and Catherine A. Murphy. Three of the twelve died young, and nine lived to grow up. Her father died at Plymouth on 4 November 1899, when she was not yet two, leaving her mother a widow with nine children from twenty years old down to the baby, Claire.\n\nIn June 1900 her mother, Katie McAvoy, was keeping a restaurant on Main Street in Plymouth's Fourth Ward, with the eldest daughter Mary working as a milliner and the five middle children at school. About 1903 Catherine married John H. Jones, a coal miner nearly twenty years younger than herself, and the family moved to 214 Vine Street. In April 1910 that house held the stepfather, Catherine and all nine McAvoy children, together with Mary's small son William Harris and Catherine's cousin Michael Murphy, a carpenter. Mary was a milliner on her own account, Agnes and Katherine were nurses, William a machinist at the automobile works, Josephine a telephone operator and Gertrude a squib maker at the squib factory, while Anna, Elizabeth and Claire were still at school.\n\nBy 1920 Elizabeth, twenty-three, was a clerk in a dry-goods store, still living on Vine Street with her mother, stepfather and nephew. On 20 June 1923, aged twenty-five, she married Frank J. McGuire at Plymouth, the Rev. P. J. Colligan officiating. The families were already linked: her sister Agnes had married Joseph S. Jones, a brother of Frank's mother Anna C. Jones, so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth wed. She is John's great-grandmother, the mother of his grandmother Kathryn.\n\nHer brothers and sisters were Mary (1879–1944), who married Alfred J. Harris; Agnes (1884–1958), who married Joseph S. Jones; Katherine Frances (1888–1933), who married Victor Roy Wagner and died at Jamestown, New York; William Richard Jr. (1889–1942), the machinist and later a travelling salesman; Josephine Regina (1891–1943), who married Joseph R. Hughes and died at Woodbury, New Jersey; Gertrude Calista (1893–1971), who married William Henry Ackerman and raised seven children at Camden; Anna K. (1895–1964), who married Fred Delbert Snyder and died at Syracuse; and Claire (1899–1975), who married Harry Greener in Philadelphia.\n\nFrank died in Wilkes-Barre in 1958. Elizabeth later lived near her daughter Betsy at Altoona, where she died on 5 May 1984, and she was buried in Hanover Township, Luzerne County.",
    "sources": [
     "Luzerne marriage licence No. 635 (1923) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GZQT-YKQ/images/i/2/image.jpg ; https://familysearch.org/ark:/61903/1:1:KHF5-V74",
     "FamilySearch tree KGQH-JNV",
@@ -6304,12 +6334,17 @@ window.FAMILY_DATA = {
     "[R4-S1] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg",
     "[R4-S2] FamilySearch Family Tree (published), William Richard McAvoy (1857-1899), PID K6NQ-ZXZ; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K6NQ-ZXZ",
     "[R4-S3] FamilySearch Family Tree (published), Harold Arnold (1927-1997), PID GP7C-XR4; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GP7C-XR4",
-    "[R4-S4] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB"
+    "[R4-S4] FamilySearch Family Tree (published), Elizabeth Betsy McGuire (b. 1928), PID G3PZ-QVB; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/G3PZ-QVB",
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "1920 U.S. census, Plymouth Borough, Luzerne Co., Pa., ED 174, sheet 2B, 214 Vine Street, dwelling 29/family 38: John H. Jones 40, miner, born Wales; Catherine 56; Elizabeth McAvoy, step-daughter, 23, clerk, dry-goods store; William Harris, grandson, 15 (image attached to FamilySearch K6NQ-ZX8; index ark:/61903/1:1:M61Y-LNG)",
+    "1930 U.S. census, Plymouth Borough, First Ward, Luzerne Co., Pa., ED 40-180, sheet 11A, 214 Vine Street, enumerated 8 April 1930: John H. Jones 51, head, renting at $30; Katharine 69, wife, parents born Irish Free State; a step-daughter aged 51, widowed (Mary, surname read as Weinroberts); Claire McAvoy, step-daughter, 30, single (image attached to FamilySearch G7QQ-PP2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
    ],
    "openQuestions": [
     "Burial cemetery in Hanover Twp.",
-    "Date of second marriage to Harold Arnold.",
-    "FamilySearch index \"Pennsylvania Births and Christenings\" entry for Lizzie McAvoy (ark 1:1:HFVW-G2MM) should give her baptism date, church and sponsors."
+    "FamilySearch index \"Pennsylvania Births and Christenings\" entry for Lizzie McAvoy (ark 1:1:HFVW-G2MM) should give her baptism date, church and sponsors.",
+    "The names of the three McAvoy children who died young (born between 1880 and 1899; St. Vincent de Paul, Plymouth, baptisms and burials)."
    ],
    "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -6336,17 +6371,38 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
-    }
-   ],
-   "conflicts": [
+    },
     {
-     "field": "spouses (second husband Harold Arnold, H0383)",
-     "site": "Elizabeth McAvoy m. (2) Harold Arnold",
-     "found": "FamilySearch shows Harold (Edward) Arnold, b. 1927, d. 1997 Altoona, son of Harold George Arnold & Martha Bowden, as husband of her DAUGHTER Elizabeth \"Betsy\" McGuire (b. 8 Mar 1928); a duplicate profile also attaches him to the mother.",
-     "assessment": "A man born in 1927 is almost certainly the son-in-law, not the second husband of a woman born in 1897. Her death in Altoona (1984), where Harold Arnold also died (1997), fits her living with Betsy and Harold. Recommend detaching H0383 as Elizabeth McAvoy's spouse and treating him as Betsy's husband (Betsy is on the presumed-living skip list, so no further research was done)."
+     "date": "2026-10-14",
+     "note": "John asked whether she was one of six children. The 1900 census (Katie McAvoy, widow, restaurant, Main Street: 12 children born, 9 living, all nine named) and the 1910 census (Catherine Jones, 12 born, 9 living, all nine McAvoy step-children at 214 Vine St) show twelve born and nine surviving, not six. Census images read from the family's FamilySearch attachments and attached here. Also removed the old error that she married Harold Arnold: he was her son-in-law (Betsy's husband)."
     }
    ],
-   "researchNotes": "Elizabeth M. McAvoy was born 8 Dec 1897 in Plymouth (FS KGQH-JNV), one of ten children of William Richard McAvoy (b. c.1857 New York, d. 4 Nov 1899 Plymouth) and Catherine A. Murphy. Her father died when she was about two; her widowed mother married John H. Jones, and in 1920 Elizabeth lived 'in household of John H Jones'. On 19 Jun 1923 (licence No. 635) she was a clerk, of 214 Vine St, Plymouth, aged 25, born Penna., father William R. (deceased, born N.Y.), mother Kathryn Murphy (Plymouth, born Penna.); she married Frank J. McGuire on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). Her sister Agnes M. McAvoy married Joseph S. Jones, a brother of Frank's mother Anna C. Jones — so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth married. After Frank's death in 1958 she married (2) Harold Arnold. She died 5 May 1984 in Altoona and was buried in Hanover Township (FS).\n\nHer sister Agnes M. McAvoy's 1914 marriage docket again gives their father William as born in New York and dead, and their mother Catharine (Murphy) as living in Plymouth ([R4-S1]). FamilySearch shows Elizabeth's siblings Mary (1879-1944), Agnes (1884-1958), William Richard Jr. (1886-1942), Katherine Frances (1888-1933), Josephine Regina (1891-1943), Gertrude Calista (1893-1971), Anna K. (1895-1964) and Claire (1899-1975) ([R4-S2]). A \"Lizzie McAvoy\" entry in the FamilySearch index \"Pennsylvania Births and Christenings\" is attached to her profile (probably her Plymouth baptism), but the record page could not be opened."
+   "conflicts": [],
+   "researchNotes": "Elizabeth M. McAvoy was born 8 Dec 1897 in Plymouth (FS KGQH-JNV), one of ten children of William Richard McAvoy (b. c.1857 New York, d. 4 Nov 1899 Plymouth) and Catherine A. Murphy. Her father died when she was about two; her widowed mother married John H. Jones, and in 1920 Elizabeth lived 'in household of John H Jones'. On 19 Jun 1923 (licence No. 635) she was a clerk, of 214 Vine St, Plymouth, aged 25, born Penna., father William R. (deceased, born N.Y.), mother Kathryn Murphy (Plymouth, born Penna.); she married Frank J. McGuire on 20 Jun 1923 (Rev. P. J. Colligan, Plymouth). Her sister Agnes M. McAvoy married Joseph S. Jones, a brother of Frank's mother Anna C. Jones — so the McGuire, Jones and McAvoy families were tied together twice before Frank and Elizabeth married. After Frank's death in 1958 she married (2) Harold Arnold. She died 5 May 1984 in Altoona and was buried in Hanover Township (FS).\n\nHer sister Agnes M. McAvoy's 1914 marriage docket again gives their father William as born in New York and dead, and their mother Catharine (Murphy) as living in Plymouth ([R4-S1]). FamilySearch shows Elizabeth's siblings Mary (1879-1944), Agnes (1884-1958), William Richard Jr. (1886-1942), Katherine Frances (1888-1933), Josephine Regina (1891-1943), Gertrude Calista (1893-1971), Anna K. (1895-1964) and Claire (1899-1975) ([R4-S2]). A \"Lizzie McAvoy\" entry in the FamilySearch index \"Pennsylvania Births and Christenings\" is attached to her profile (probably her Plymouth baptism), but the record page could not be opened.",
+   "facts": [
+    {
+     "label": "Siblings",
+     "value": "Twelve children born to her parents, nine living in 1900 and 1910: Mary (1879–1944, m. Alfred J. Harris), Agnes (1884–1958, m. Joseph S. Jones), Katherine Frances (1888–1933, m. Victor Roy Wagner), William Richard Jr. (1889–1942), Josephine Regina (1891–1943, m. Joseph R. Hughes), Gertrude Calista (1893–1971, m. William H. Ackerman), Anna K. (1895–1964, m. Fred D. Snyder), Elizabeth herself, Claire (1899–1975, m. Harry Greener). Three died young, names not yet found."
+    },
+    {
+     "label": "Occupation",
+     "value": "Clerk in a dry-goods store (1920); clerk (1923)"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "1920 census: Elizabeth McAvoy, 23, dry-goods clerk, with her mother and stepfather, 214 Vine Street",
+     "date": "1920-01",
+     "source": "NARA T625 via FamilySearch (attached to K6NQ-ZX8)",
+     "note": "",
+     "file": "media/I282604493938/1920-census-plymouth-jones-mcavoy.jpg",
+     "people": [
+      "I282604498567",
+      "H0066"
+     ]
+    }
+   ]
   },
   {
    "id": "I282604494274",
@@ -6972,7 +7028,10 @@ window.FAMILY_DATA = {
     "1923 Luzerne licence No. 635",
     "notes/round3/irish_pa.md",
     "[R4-S1] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg",
-    "[R4-S2] FamilySearch Family Tree (published), William Richard McAvoy (1857-1899), PID K6NQ-ZXZ; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K6NQ-ZXZ"
+    "[R4-S2] FamilySearch Family Tree (published), William Richard McAvoy (1857-1899), PID K6NQ-ZXZ; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/K6NQ-ZXZ",
+    "1880 U.S. census, Plymouth Township (East District, 3rd Division), Luzerne Co., Pa., ED 145, p. 9, dwelling 80, enumerated 7–8 June 1880: Martin Murphy, 55, miner, with Mary 24, James 16, John 14, Thomas 10, Katherine McAvoy 19 and Mary McAvoy 7 months (father born New York) (image attached to FamilySearch G7Q7-HBZ)",
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
    ],
    "openQuestions": [
     "Where in New York was he born; were Peter McAvoy & Mary Doran his parents?",
@@ -7008,6 +7067,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-14",
+     "note": "1880 census: his wife and infant daughter were in Martin Murphy's household in Plymouth Township while he was not enumerated there. 1900 census (after his death): nine surviving children named, all with father born New York."
     }
    ],
    "conflicts": [
@@ -7024,7 +7087,13 @@ window.FAMILY_DATA = {
      "assessment": "A father born c.1845 could not have a son in 1857. The Peter McAvoy/Mary Doran parentage is unsourced on FamilySearch and its dates are impossible; treat as unverified, possibly a wrong family."
     }
    ],
-   "researchNotes": "William Richard McAvoy was born about 1857 in New York (county unknown) and died 4 Nov 1899 in Plymouth (FS K6NQ-ZXZ). He was father of 10 children including Mary (1879), Agnes (1884), William Jr. (1886), Katherine F. (1888), Josephine (1891), Gertrude (1893), Anna K. (1895), Elizabeth (8 Dec 1897) and Claire (1899). The 1923 licence of his daughter Elizabeth calls him 'William R., deceased, b. N.Y.'. FS names his parents as Peter McAvoy and Mary Doran (no sources).\n\nA second, independent licence confirms his New York birth: daughter Agnes M. McAvoy's 1914 Luzerne docket gives her father William as deceased and born in \"New York\" ([R4-S1]), matching Elizabeth's 1923 licence. FamilySearch attaches a Social Security NUMIDENT entry for William Richard McAvoy (almost certainly William Jr., 1886-1942) in which the father's name appears as \"William R McAvoy\"; the SS-5 application behind it would give the son's birth date and both parents' names ([R4-S2])."
+   "researchNotes": "William Richard McAvoy was born about 1857 in New York (county unknown) and died 4 Nov 1899 in Plymouth (FS K6NQ-ZXZ). He was father of 10 children including Mary (1879), Agnes (1884), William Jr. (1886), Katherine F. (1888), Josephine (1891), Gertrude (1893), Anna K. (1895), Elizabeth (8 Dec 1897) and Claire (1899). The 1923 licence of his daughter Elizabeth calls him 'William R., deceased, b. N.Y.'. FS names his parents as Peter McAvoy and Mary Doran (no sources).\n\nA second, independent licence confirms his New York birth: daughter Agnes M. McAvoy's 1914 Luzerne docket gives her father William as deceased and born in \"New York\" ([R4-S1]), matching Elizabeth's 1923 licence. FamilySearch attaches a Social Security NUMIDENT entry for William Richard McAvoy (almost certainly William Jr., 1886-1942) in which the father's name appears as \"William R McAvoy\"; the SS-5 application behind it would give the son's birth date and both parents' names ([R4-S2]).",
+   "facts": [
+    {
+     "label": "Children",
+     "value": "Twelve born to him and Catherine Murphy, nine living in 1900: Mary, Agnes, Katherine, William Jr., Josephine, Gertrude, Anna, Elizabeth, Claire."
+    }
+   ]
   },
   {
    "id": "I282604498567",
@@ -7049,15 +7118,21 @@ window.FAMILY_DATA = {
     "Catherine Jones"
    ],
    "tags": [],
-   "summary": "Plymouth-born mother of ten, widowed by William R. McAvoy in 1899 and later the wife of John H. Jones (1860–1931); John's 2nd-great-grandmother.",
-   "bio": "Catherine A. Murphy was born on 27 April 1860 in Plymouth, Luzerne County, Pennsylvania, though one daughter's marriage record later gave her birthplace as Schuylkill County. In 1870 she was a girl of nine in the Plymouth Township household of Martin and Alice Murphy. She married William R. McAvoy, and when he died in 1899 she was left a widow with ten children. She then married John H. Jones, and her daughter Elizabeth was living in his household in 1920; at the marriage of another daughter in 1923 she was recorded as Kathryn Murphy of Plymouth. She died as Catherine Jones at Plymouth on 4 April 1931 and was buried at Larksville. She is John's 2nd-great-grandmother.",
+   "summary": "Plymouth-born mother of twelve, nine of whom lived, widowed by William R. McAvoy in 1899; kept a restaurant on Main Street and later married the miner John H. Jones; John's 2nd-great-grandmother.",
+   "bio": "Catherine A. Murphy was born on 27 April 1860 in Plymouth, Luzerne County, Pennsylvania, though one daughter's marriage record later gave her birthplace as Schuylkill County. In 1870 she was a girl of nine in the Plymouth Township household of Martin and Alice Murphy, Irish-born parents, and in June 1880, aged nineteen and already married to William R. McAvoy, she was back in her father's house with her seven-month-old daughter Mary; her husband was not at home when the census taker called.\n\nShe bore twelve children between 1879 and 1899, of whom nine lived: Mary, Agnes, Katherine, William, Josephine, Gertrude, Anna, Elizabeth and Claire. William died in November 1899, two months after the last was born, and in June 1900 the widow, recorded as Katie McAvoy, was keeping a restaurant on Main Street in Plymouth's Fourth Ward with all nine children at home. About 1903 she married John H. Jones, a coal miner some twenty years her junior, and by 1910 the family was at 214 Vine Street, where the grown children worked as nurses, a milliner, a machinist, a telephone operator and a squib maker. She was still there in 1920 and 1930, by then in her seventieth year, with her daughters Mary and Claire. At the marriage of her daughter Elizabeth in 1923 she was recorded as Kathryn Murphy of Plymouth. She died as Catherine Jones at Plymouth on 4 April 1931 and was buried at Larksville. She is John's 2nd-great-grandmother.",
    "sources": [
     "FamilySearch tree K6NQ-ZX8",
     "1923 Luzerne licence No. 635",
     "notes/round3/irish_pa.md",
     "[R4-S1] Pennsylvania Department of Health death certificate index, 1931 (PA State Archives RG-11), PDF p.28: \"CATHERINE JONES  PLYMOUTH  J 520  40  4 4 31  43660\" (derivative) https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1931/D-31%20I-J.pdf",
     "[R4-S2] 1870 U.S. census, Plymouth Township, Luzerne Co., Pa., p.66, enumerated 29 Jul 1870 by Roberson Boyd, P.O. Kingston, dwelling 444, family 446 (image via FamilySearch, attached to G7FL-HGY) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G7FL-HGY/images/i/2/image.jpg",
-    "[R4-S3] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg"
+    "[R4-S3] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg",
+    "1880 U.S. census, Plymouth Township (East District, 3rd Division), Luzerne Co., Pa., ED 145, p. 9, dwelling 80, enumerated 7–8 June 1880: Martin Murphy, 55, miner, with Mary 24, James 16, John 14, Thomas 10, Katherine McAvoy 19 and Mary McAvoy 7 months (father born New York) (image attached to FamilySearch G7Q7-HBZ)",
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "1920 U.S. census, Plymouth Borough, Luzerne Co., Pa., ED 174, sheet 2B, 214 Vine Street, dwelling 29/family 38: John H. Jones 40, miner, born Wales; Catherine 56; Elizabeth McAvoy, step-daughter, 23, clerk, dry-goods store; William Harris, grandson, 15 (image attached to FamilySearch K6NQ-ZX8; index ark:/61903/1:1:M61Y-LNG)",
+    "1930 U.S. census, Plymouth Borough, First Ward, Luzerne Co., Pa., ED 40-180, sheet 11A, 214 Vine Street, enumerated 8 April 1930: John H. Jones 51, head, renting at $30; Katharine 69, wife, parents born Irish Free State; a step-daughter aged 51, widowed (Mary, surname read as Weinroberts); Claire McAvoy, step-daughter, 30, single (image attached to FamilySearch G7QQ-PP2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
    ],
    "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -7084,12 +7159,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-14",
+     "note": "Census images 1880–1930 read and attached: 12 children born, 9 living (1900, 1910); restaurant keeper on Main Street in 1900; married John H. Jones c.1903 (7 years in 1910); 1880 with baby Mary in Martin Murphy's household, husband absent. 'Mother of ten' corrected to twelve born, nine living."
     }
    ],
    "facts": [
     {
      "label": "PA death certificate file no.",
      "value": "1931 #43660 (Catherine Jones, Plymouth, 4-4-31)"
+    },
+    {
+     "label": "Children",
+     "value": "Twelve born, nine living (1900 and 1910 censuses): Mary (1879), Agnes (1884), Katherine (1888), William Jr. (1889), Josephine (1891), Gertrude (1893), Anna (1895), Elizabeth (1897), Claire (1899); three died young, unnamed so far."
+    },
+    {
+     "label": "Occupation",
+     "value": "Restaurant keeper, Main Street, Plymouth (1900)"
     }
    ],
    "conflicts": [
@@ -7100,7 +7187,89 @@ window.FAMILY_DATA = {
      "assessment": "The Murphys had a child born in Schuylkill Co. in 1857 and were in Plymouth by 1860 (round 3). A Schuylkill birth for Catherine is possible if the move came in 1860-61. Her 1931 death certificate (#43660) should state her birthplace and parents."
     }
    ],
-   "researchNotes": "Catherine A. Murphy was born 27 Apr 1860 in Plymouth and died there 4 Apr 1931; buried Larksville (FS K6NQ-ZX8). Widowed by William R. McAvoy's death in 1899, she married (2) John H. Jones; her daughter Elizabeth lived in his household in 1920. The 1923 licence calls her 'Kathryn Murphy, Plymouth, b. Penna'.\n\nShe died as Catherine Jones (her second husband's name): the 1931 index lists CATHERINE JONES, Plymouth, county 40, 4 Apr 1931, file 43660 ([R4-S1]). In 1870 she was \"Catherine,\" 9, in Martin and Alice Murphy's household in Plymouth Township ([R4-S2]). Her daughter Agnes's 1914 marriage docket gives Catharine's birthplace as Schuylkill County ([R4-S3])."
+   "researchNotes": "Catherine A. Murphy was born 27 Apr 1860 in Plymouth and died there 4 Apr 1931; buried Larksville (FS K6NQ-ZX8). Widowed by William R. McAvoy's death in 1899, she married (2) John H. Jones; her daughter Elizabeth lived in his household in 1920. The 1923 licence calls her 'Kathryn Murphy, Plymouth, b. Penna'.\n\nShe died as Catherine Jones (her second husband's name): the 1931 index lists CATHERINE JONES, Plymouth, county 40, 4 Apr 1931, file 43660 ([R4-S1]). In 1870 she was \"Catherine,\" 9, in Martin and Alice Murphy's household in Plymouth Township ([R4-S2]). Her daughter Agnes's 1914 marriage docket gives Catharine's birthplace as Schuylkill County ([R4-S3]).",
+   "residences": [
+    {
+     "date": "1870–1880",
+     "place": "Plymouth Township, Luzerne County, Pennsylvania, USA",
+     "note": "her parents' household"
+    },
+    {
+     "date": "1900",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA",
+     "note": "Main Street, Fourth Ward; restaurant"
+    },
+    {
+     "date": "1910–1931",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA",
+     "note": "214 Vine Street"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "1880 census: Katherine McAvoy, 19, and baby Mary in Martin Murphy's household, Plymouth Township",
+     "date": "1880-06-08",
+     "source": "NARA T9 via FamilySearch (attached to G7Q7-HBZ)",
+     "note": "",
+     "file": "media/I282604498567/1880-census-plymouth-twp-murphy-mcavoy.jpg",
+     "people": [
+      "M0114"
+     ]
+    },
+    {
+     "type": "record",
+     "title": "1900 census: Katie McAvoy, widow, restaurant keeper, Main Street, Plymouth: 12 children born, 9 living",
+     "date": "1900-06-11",
+     "source": "NARA T623 via FamilySearch (attached to G7QQ-RD3)",
+     "note": "",
+     "file": "media/I282604498567/1900-census-plymouth-ward4-mcavoy.jpg",
+     "people": [
+      "M0114",
+      "H0064",
+      "M0116",
+      "M0115",
+      "M0117",
+      "M0118",
+      "M0119",
+      "I282604493938",
+      "M0120"
+     ]
+    },
+    {
+     "type": "record",
+     "title": "1910 census: John H. and Catherine Jones with the nine McAvoy children, 214 Vine Street, Plymouth",
+     "date": "1910-04-22",
+     "source": "NARA T624 via FamilySearch (attached to G7Q7-HBZ)",
+     "note": "",
+     "file": "media/I282604498567/1910-census-plymouth-ward1-jones-mcavoy.jpg",
+     "people": [
+      "M0114",
+      "H0064",
+      "M0116",
+      "M0115",
+      "M0117",
+      "M0118",
+      "M0119",
+      "I282604493938",
+      "M0120",
+      "H0066"
+     ]
+    },
+    {
+     "type": "record",
+     "title": "1930 census: John H. and Katharine Jones, 69, with daughters Mary and Claire, 214 Vine Street",
+     "date": "1930-04-08",
+     "source": "NARA T626 via FamilySearch (attached to G7QQ-PP2)",
+     "note": "",
+     "file": "media/I282604498567/1930-census-plymouth-jones-mcavoy.jpg",
+     "people": [
+      "H0066",
+      "M0114",
+      "M0120"
+     ]
+    }
+   ]
   },
   {
    "id": "I282604499706",
@@ -36698,7 +36867,10 @@ window.FAMILY_DATA = {
     "FamilySearch (K6NQ-ZXZ family)",
     "notes/round3/irish_pa.md",
     "[R4-S1] Luzerne Co. Marriage License Docket no. 71238, Joseph S. Jones & Agnes M. McAvoy, license 26 Dec 1914, married 29 Dec 1914 by Rev. P. J. Colligan, Plymouth (image via FamilySearch, attached to L85M-P2Q) (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/L85M-P2Q/images/i/1/image.jpg",
-    "[R4-S2] FamilySearch Family Tree (published), Agnes McAvoy (1884-1958), PID L85M-PH3; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L85M-PH3"
+    "[R4-S2] FamilySearch Family Tree (published), Agnes McAvoy (1884-1958), PID L85M-PH3; user-contributed tree with attached record index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/L85M-PH3",
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "WWII draft registration card, Luzerne Co. Local Board No. 4, Plymouth, serial U 611, 24 Apr 1942: William Richard McAvoy, 28 Simpson St, Wilkes-Barre, born Plymouth 11 Nov 1891 (age 50), employer J. P. Gordon, Columbus, Ohio, \"traveling in Penna. and New Jersey\"; contact Agnes Jones (sister), 224 Gould St, Plymouth; 5 ft 11 in, 180 lb, blue eyes, gray hair (image attached to FamilySearch L271-9BR; index ark:/61903/1:1:VQNM-K2S)"
    ],
    "handoff": {
     "section": "3.2 Meier, McGuire and German lines",
@@ -36725,6 +36897,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-10-14",
+     "note": "1910 census: a nurse, aged 25, at home on Vine Street; 1942: her brother William named her, of 224 Gould St, Plymouth, as his contact."
     }
    ],
    "death": {
@@ -36746,10 +36922,27 @@ window.FAMILY_DATA = {
     {
      "label": "FamilySearch ID",
      "value": "L85M-PH3"
+    },
+    {
+     "label": "Occupation",
+     "value": "Nurse at a hospital (1910)"
     }
    ],
    "bio": "Agnes M. McAvoy was born on 4 February 1884 at Plymouth, Pa., the daughter of William McAvoy, a native of New York, and Catharine Murphy, who was born in Schuylkill County. She was a sister of Elizabeth McAvoy. On 29 December 1914, at Plymouth, she married Joseph S. Jones, a brother of Anna C. Jones McGuire; by then her father had died and her mother was still living in Plymouth.\n\nAgnes and Joseph had three children: Edward (1916–1995), Joseph (born 1918) and Kathryn Ann (1919–1995), who married Henry P. Derwin. Agnes died at Wilkes-Barre on 23 November 1958 and was buried at Larksville, Pa.",
-   "researchNotes": "Her 1914 marriage docket names her parents William (deceased, born New York) and Catharine Murphy (living in Plymouth, born Schuylkill Co.) ([R4-S1]). Children (FS): Edward (1916-1995), Joseph (b. 1918) and Kathryn Ann (1919-1995, m. Henry P. Derwin) ([R4-S2])."
+   "researchNotes": "Her 1914 marriage docket names her parents William (deceased, born New York) and Catharine Murphy (living in Plymouth, born Schuylkill Co.) ([R4-S1]). Children (FS): Edward (1916-1995), Joseph (b. 1918) and Kathryn Ann (1919-1995, m. Henry P. Derwin) ([R4-S2]).",
+   "media": [
+    {
+     "type": "record",
+     "title": "Luzerne County marriage licence docket no. 71238: Joseph S. Jones and Agnes M. McAvoy, December 1914",
+     "date": "1914-12-29",
+     "source": "Luzerne County Orphans' Court via FamilySearch (attached to L85M-PH3)",
+     "note": "",
+     "file": "media/H0064/1914-marriage-docket-jones-mcavoy.jpg",
+     "people": [
+      "H0065"
+     ]
+    }
+   ]
   },
   {
    "id": "H0065",
@@ -72450,6 +72643,588 @@ window.FAMILY_DATA = {
     "note": "Husband of Susan Meier, inferred from her current surname Baldassarre; first name not yet known."
    },
    "summary": "Husband of Susan (Meier) Baldassarre; first name not yet recorded; uncle by marriage of John Meier."
+  },
+  {
+   "id": "M0114",
+   "given": "Mary V.",
+   "surname": "McAvoy",
+   "sex": "F",
+   "birth": {
+    "date": "1879-08-22",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1944-09-12",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+   },
+   "aka": [
+    "Mary Harris"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "1880 U.S. census, Plymouth Township (East District, 3rd Division), Luzerne Co., Pa., ED 145, p. 9, dwelling 80, enumerated 7–8 June 1880: Martin Murphy, 55, miner, with Mary 24, James 16, John 14, Thomas 10, Katherine McAvoy 19 and Mary McAvoy 7 months (father born New York) (image attached to FamilySearch G7Q7-HBZ)",
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "1930 U.S. census, Plymouth Borough, First Ward, Luzerne Co., Pa., ED 40-180, sheet 11A, 214 Vine Street, enumerated 8 April 1930: John H. Jones 51, head, renting at $30; Katharine 69, wife, parents born Irish Free State; a step-daughter aged 51, widowed (Mary, surname read as Weinroberts); Claire McAvoy, step-daughter, 30, single (image attached to FamilySearch G7QQ-PP2)",
+    "Luzerne County Marriage License Docket no. 32706: Alfred J. Harris, born in Wales 19 Feb 1879, laborer, of Plymouth, and Mary McAvoy, born Plymouth 22 Aug 1879; license issued 2 Apr 1901; \"No return filed\" (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:VF98-Y32)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of William R. McAvoy and Catherine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+   },
+   "summary": "Eldest of the McAvoy children of Plymouth (1879–1944), a milliner who married Alfred J. Harris in 1901; sister of Elizabeth McAvoy McGuire and John's great-great-aunt.",
+   "bio": "Mary McAvoy was born at Plymouth, Luzerne County, Pennsylvania, on 22 August 1879, the first of the twelve children of William Richard McAvoy and Catherine Murphy. In June 1880, seven months old, she was living with her mother in her grandfather Martin Murphy's household in Plymouth Township. By 1900 she was a milliner, the only wage-earner besides her widowed mother, who kept a restaurant on Main Street. In April 1901 she took out a licence to marry Alfred J. Harris, a Welsh-born labourer of Plymouth; their son William Harris, born about 1905, grew up in his grandmother's household on Vine Street, where Mary, still a milliner working on her own account, was living in 1910 as the mother of two children, one living. In 1930, widowed and recorded under a later surname, she was still at home on Vine Street. She died at Wilkes-Barre on 12 September 1944.",
+   "residences": [
+    {
+     "date": "1879–1930s",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "Luzerne County marriage licence docket no. 32706: Alfred J. Harris and Mary McAvoy, 2 April 1901",
+     "date": "1901-04-02",
+     "source": "Luzerne County Orphans' Court via FamilySearch (attached to G7Q7-HBZ)",
+     "note": "",
+     "file": "media/M0114/1901-marriage-docket-harris-mcavoy.jpg",
+     "people": [
+      "M0121"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M0115",
+   "given": "William Richard",
+   "surname": "McAvoy",
+   "suffix": "Jr.",
+   "sex": "M",
+   "birth": {
+    "date": "1889-11-11",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1942-12-21",
+    "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "WWII draft registration card, Luzerne Co. Local Board No. 4, Plymouth, serial U 611, 24 Apr 1942: William Richard McAvoy, 28 Simpson St, Wilkes-Barre, born Plymouth 11 Nov 1891 (age 50), employer J. P. Gordon, Columbus, Ohio, \"traveling in Penna. and New Jersey\"; contact Agnes Jones (sister), 224 Gould St, Plymouth; 5 ft 11 in, 180 lb, blue eyes, gray hair (image attached to FamilySearch L271-9BR; index ark:/61903/1:1:VQNM-K2S)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Son of William R. McAvoy and Cathimine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+   },
+   "summary": "The only surviving son of William R. McAvoy and Catherine Murphy of Plymouth (1889–1942): machinist, later a travelling salesman; John's great-great-uncle.",
+   "bio": "William Richard McAvoy Jr. was born at Plymouth, Luzerne County, Pennsylvania, in November 1889, the one boy among the nine McAvoy children who lived; his father died when he was ten. In 1910, aged twenty, he was a machinist at the automobile works, living with his mother and stepfather on Vine Street. He married Leonorah Remmell Lockard (1897–1966) and had daughters Elizabeth Kathryn (1917–1991) and Charlotte (1924–2001). When he registered for the draft in April 1942 he was living on Simpson Street in Wilkes-Barre and travelling Pennsylvania and New Jersey as a salesman for a Columbus, Ohio, firm, naming his sister Agnes Jones of Plymouth as the person who would always know his address; he stood five feet eleven, with blue eyes and hair already gray. He died at Wilkes-Barre on 21 December 1942 and was buried at Forty Fort.",
+   "residences": [
+    {
+     "date": "1889–1930s",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+     "date": "1942",
+     "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "WWII draft registration card of William Richard McAvoy, 24 April 1942",
+     "date": "1942-04-24",
+     "source": "NARA via FamilySearch (attached to L271-9BR)",
+     "note": "",
+     "file": "media/M0115/1942-draft-card-william-r-mcavoy.jpg",
+     "people": [
+      "H0064"
+     ]
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "birth date",
+     "site": "11 Nov 1889 (1900 census: Nov 1889, aged 10; 1910 census: aged 20)",
+     "found": "11 Nov 1891 on his own 1942 draft card (aged 50); FamilySearch tree says 1886",
+     "assessment": "The two censuses nearest his birth agree on 1889; the draft card is two years off and the tree date is a guess. Kept at 11 Nov 1889."
+    }
+   ]
+  },
+  {
+   "id": "M0116",
+   "given": "Katherine Frances",
+   "surname": "McAvoy",
+   "sex": "F",
+   "nickname": "Katie",
+   "birth": {
+    "date": "1888-04-07",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1933-09-18",
+    "place": "Jamestown, Chautauqua County, New York, USA"
+   },
+   "aka": [
+    "Kathryn Wagner",
+    "Catherine McAvoy"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of William R. McAvoy and Catherine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+   },
+   "summary": "Plymouth nurse (1888–1933) who married Victor Roy Wagner in 1910 and died at Jamestown, New York; sister of Elizabeth McAvoy McGuire and John's great-great-aunt.",
+   "bio": "Katherine Frances McAvoy, called Katie, was born at Plymouth, Luzerne County, Pennsylvania, on 7 April 1888, a daughter of William Richard McAvoy and Catherine Murphy. In 1910, aged twenty-three, she was a nurse, living with her mother and stepfather on Vine Street. On 29 November 1910 she married Victor Roy Wagner (1888–1952); their son Victor Roy Jr. was born at East Liverpool, Ohio, in 1921. By 1930 the family was living at Jamestown in Chautauqua County, New York, where she died on 18 September 1933, aged forty-five.",
+   "residences": [
+    {
+     "date": "1888–1910",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+     "date": "1930",
+     "place": "Jamestown, Chautauqua County, New York, USA"
+    }
+   ]
+  },
+  {
+   "id": "M0117",
+   "given": "Josephine Regina",
+   "surname": "McAvoy",
+   "sex": "F",
+   "birth": {
+    "date": "1891-06-09",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1943-04-06",
+    "place": "Woodbury, Gloucester County, New Jersey, USA"
+   },
+   "aka": [
+    "Josephine Hughes"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of William R. McAvoy and Catherine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+   },
+   "summary": "Plymouth telephone operator (1891–1943) who married Joseph R. Hughes and died at Woodbury, New Jersey; sister of Elizabeth McAvoy McGuire and John's great-great-aunt.",
+   "bio": "Josephine Regina McAvoy was born at Plymouth, Luzerne County, Pennsylvania, on 9 June 1891, a daughter of William Richard McAvoy and Catherine Murphy. She was eight when her father died. In 1910, aged eighteen, she was a telephone operator, living with her mother and stepfather on Vine Street. She married Joseph R. Hughes and died at Woodbury, Gloucester County, New Jersey, on 6 April 1943, aged fifty-one.",
+   "residences": [
+    {
+     "date": "1891–1910s",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+     "date": "1943",
+     "place": "Woodbury, Gloucester County, New Jersey, USA"
+    }
+   ]
+  },
+  {
+   "id": "M0118",
+   "given": "Gertrude Calista",
+   "surname": "McAvoy",
+   "sex": "F",
+   "birth": {
+    "date": "1893-02",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1971-11-25",
+    "place": "Camden, Camden County, New Jersey, USA"
+   },
+   "aka": [
+    "Gertrude C. Ackerman"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of William R. McAvoy and Catherine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+   },
+   "summary": "Plymouth squib maker (1893–1971) who married William Henry Ackerman in 1913 and raised seven children at Camden, New Jersey; sister of Elizabeth McAvoy McGuire and John's great-great-aunt.",
+   "bio": "Gertrude Calista McAvoy was born at Plymouth, Luzerne County, Pennsylvania, in February 1893, a daughter of William Richard McAvoy and Catherine Murphy. In 1910, aged seventeen, she was making squibs, the fuses used in the coal mines, at the squib factory, and living with her mother and stepfather on Vine Street. On 24 June 1913 she married William Henry Ackerman. The couple settled at Camden, New Jersey, where they were living from 1920 onward and raised seven children: William Henry Jr., Kathleen, Clair, Frederick, Jane, Gertrude and Ann. She died at Camden on 25 November 1971, aged seventy-eight.",
+   "residences": [
+    {
+     "date": "1893–1913",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+     "date": "1920–1971",
+     "place": "Camden, Camden County, New Jersey, USA"
+    }
+   ]
+  },
+  {
+   "id": "M0119",
+   "given": "Anna K.",
+   "surname": "McAvoy",
+   "sex": "F",
+   "birth": {
+    "date": "1895-01-09",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1964-08-05",
+    "place": "Syracuse, Onondaga County, New York, USA"
+   },
+   "aka": [
+    "Hannah McAvoy",
+    "Ann Snyder"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of William R. McAvoy and Catherine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+   },
+   "summary": "Youngest but two of the McAvoy daughters of Plymouth (1895–1964), who married Fred Delbert Snyder and died at Syracuse, New York; sister of Elizabeth McAvoy McGuire and John's great-great-aunt.",
+   "bio": "Anna K. McAvoy, baptized Hannah, was born at Plymouth, Luzerne County, Pennsylvania, on 9 January 1895, a daughter of William Richard McAvoy and Catherine Murphy. She was four when her father died and was still at school in 1910, living with her mother and stepfather on Vine Street. She married Fred Delbert Snyder (1895–1979); their son Frederick was born at Camden, New Jersey, in 1919 and a daughter Joan in New York in 1926. The family lived at Camden and Oaklyn, New Jersey, in the 1920s and at Syracuse, New York, from the 1930s. She died on 5 August 1964 and was buried at DeWitt, near Syracuse.",
+   "residences": [
+    {
+     "date": "1895–1910s",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+     "date": "1920–1930",
+     "place": "Camden, Camden County, New Jersey, USA"
+    },
+    {
+     "date": "1940–1964",
+     "place": "Syracuse, Onondaga County, New York, USA"
+    }
+   ]
+  },
+  {
+   "id": "M0120",
+   "given": "Claire",
+   "surname": "McAvoy",
+   "sex": "F",
+   "birth": {
+    "date": "1899-09-06",
+    "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1975-11",
+    "place": "Shavertown, Kingston Township, Luzerne County, Pennsylvania, USA"
+   },
+   "aka": [
+    "Clair McAvoy",
+    "Clara McAvoy",
+    "Claire Greener"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "1900 U.S. census, Plymouth Borough, Fourth Ward, Luzerne Co., Pa., ED 121, sheet 7A, Main Street, dwelling 120/family 127, enumerated 11 June 1900: Katie McAvoy, head, b. Sept 1860, widowed, mother of 12 children, 9 living, restaurant; children Mary (Aug 1879), Agnes (Feb 1884), William (Nov 1889), Katie (Apr 1888), Josephine (June 1891), Gertrude (Feb 1893), Anna (Jan 1895), Elizabeth (Dec 1897), Clair (Sept 1899), all with father born New York (image attached to FamilySearch G7QQ-RD3; index ark:/61903/1:1:M3QQ-NB8)",
+    "1910 U.S. census, Plymouth Borough, Ward 1, Luzerne Co., Pa., ED 102, sheet 11A, 214 Vine Street, dwelling 190/family 193, enumerated 22 April 1910: John H. Jones, head, miner; Catherine, wife, 49, second marriage, married 7 years, 12 children born, 9 living; step-children Mary McAvoy 29 (milliner, mother of 2, 1 living), Agnes 25 (nurse, hospital), Catherine 23 (nurse), William 20 (machinist, automobile works), Josephine 18 (telephone operator), Gertrude 17 (squib maker), Anna 15, Elizabeth 12, Clara 10; grandson William Harris 5; cousin Michael E. Murphy 56, carpenter (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:MG4P-ZK2)",
+    "1930 U.S. census, Plymouth Borough, First Ward, Luzerne Co., Pa., ED 40-180, sheet 11A, 214 Vine Street, enumerated 8 April 1930: John H. Jones 51, head, renting at $30; Katharine 69, wife, parents born Irish Free State; a step-daughter aged 51, widowed (Mary, surname read as Weinroberts); Claire McAvoy, step-daughter, 30, single (image attached to FamilySearch G7QQ-PP2)",
+    "Philadelphia Orphans' Court Marriage License Index 1917–1938, p. 243: \"Greener Harry A (McAvoy) 1933 M 630506\" (image attached to FamilySearch K6NQ-ZXC; index ark:/61903/1:1:ZWM1-P8N2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 from the 1900 and 1910 census images attached to the family's FamilySearch profiles (Catherine McAvoy: 12 children born, 9 living), with dates and later lives from the FamilySearch tree and its attached index entries."
+    }
+   ],
+   "link": {
+    "confidence": "confirmed",
+    "note": "Daughter of William R. McAvoy and Catherine Murphy, sister of John's great-grandmother Elizabeth: named with her in her mother's household in the 1900 and 1910 censuses."
+   },
+   "summary": "The youngest McAvoy child (1899–1975), born ten months before her father died, who married Harry Greener in Philadelphia in 1933; sister of Elizabeth McAvoy McGuire and John's great-great-aunt.",
+   "bio": "Claire McAvoy was born at Plymouth, Luzerne County, Pennsylvania, on 6 September 1899, the last of the twelve children of William Richard McAvoy and Catherine Murphy, and was not yet two months old when her father died. She grew up in her mother's household on Main Street and then Vine Street, was still at home and single in 1930, aged thirty, and in 1933 married Harry A. Greener in Philadelphia. Their son Henry Anthony Greener was born in 1935. The family lived in Kingston Township, and she died at Shavertown in November 1975, aged seventy-six; she was buried at St. Nicholas Cemetery.",
+   "residences": [
+    {
+     "date": "1899–1930",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA"
+    },
+    {
+     "date": "1940–1975",
+     "place": "Shavertown, Kingston Township, Luzerne County, Pennsylvania, USA"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "Philadelphia marriage licence index 1917–1938: Greener, Harry A. (McAvoy), 1933",
+     "date": "1933",
+     "source": "Philadelphia Orphans' Court index via FamilySearch (attached to K6NQ-ZXC)",
+     "note": "",
+     "file": "media/M0120/1933-philadelphia-marriage-index-greener-mcavoy.jpg",
+     "people": [
+      "M0126"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M0121",
+   "given": "Alfred J.",
+   "surname": "Harris",
+   "sex": "M",
+   "birth": {
+    "date": "1879-02-19",
+    "place": "Wales"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Luzerne County Marriage License Docket no. 32706: Alfred J. Harris, born in Wales 19 Feb 1879, laborer, of Plymouth, and Mary McAvoy, born Plymouth 22 Aug 1879; license issued 2 Apr 1901; \"No return filed\" (image attached to FamilySearch G7Q7-HBZ; index ark:/61903/1:1:VF98-Y32)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 with the McAvoy siblings."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Spouse of a McAvoy sibling per the FamilySearch tree and its attached records; related to John by marriage only."
+   },
+   "summary": "Welsh-born Plymouth labourer who married Mary McAvoy in 1901; John's great-great-uncle by marriage.",
+   "bio": "Alfred J. Harris was born in Wales on 19 February 1879 and was a labourer at Plymouth, Pennsylvania, when he took out a licence to marry Mary McAvoy on 2 April 1901; the docket records that no return of the marriage was filed. Their son William Harris, born about 1905, was raised in his grandmother's household."
+  },
+  {
+   "id": "M0122",
+   "given": "Victor Roy",
+   "surname": "Wagner",
+   "sex": "M",
+   "birth": {
+    "date": "1888"
+   },
+   "death": {
+    "date": "1952"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 with the McAvoy siblings."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Spouse of a McAvoy sibling per the FamilySearch tree and its attached records; related to John by marriage only."
+   },
+   "summary": "Husband of Katherine Frances McAvoy (married 1910), with whom he lived at Jamestown, New York; John's great-great-uncle by marriage.",
+   "bio": "Victor Roy Wagner (1888–1952) married Katherine Frances McAvoy of Plymouth on 29 November 1910. Their son Victor Roy Jr. was born at East Liverpool, Ohio, in 1921, and the family was living at Jamestown, New York, by 1930."
+  },
+  {
+   "id": "M0123",
+   "given": "Joseph R.",
+   "surname": "Hughes",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 with the McAvoy siblings."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Spouse of a McAvoy sibling per the FamilySearch tree and its attached records; related to John by marriage only."
+   },
+   "summary": "Husband of Josephine Regina McAvoy; John's great-great-uncle by marriage.",
+   "bio": "Joseph R. Hughes married Josephine Regina McAvoy of Plymouth; she died at Woodbury, New Jersey, in 1943."
+  },
+  {
+   "id": "M0124",
+   "given": "William Henry",
+   "surname": "Ackerman",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 with the McAvoy siblings."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Spouse of a McAvoy sibling per the FamilySearch tree and its attached records; related to John by marriage only."
+   },
+   "summary": "Husband of Gertrude Calista McAvoy (married 1913) and father of seven at Camden, New Jersey; John's great-great-uncle by marriage.",
+   "bio": "William Henry Ackerman married Gertrude Calista McAvoy of Plymouth on 24 June 1913. They lived at Camden, New Jersey, from the 1920s and had seven children."
+  },
+  {
+   "id": "M0125",
+   "given": "Fred Delbert",
+   "surname": "Snyder",
+   "sex": "M",
+   "birth": {
+    "date": "1895-06-14"
+   },
+   "death": {
+    "date": "1979-02-26"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 with the McAvoy siblings."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Spouse of a McAvoy sibling per the FamilySearch tree and its attached records; related to John by marriage only."
+   },
+   "summary": "Husband of Anna K. McAvoy; the couple lived at Camden, New Jersey, and Syracuse, New York; John's great-great-uncle by marriage.",
+   "bio": "Fred Delbert Snyder was born on 14 June 1895 and married Anna K. McAvoy of Plymouth. They lived at Camden and Oaklyn, New Jersey, in the 1920s and at Syracuse, New York, from the 1930s. He died on 26 February 1979."
+  },
+  {
+   "id": "M0126",
+   "given": "Harry A.",
+   "surname": "Greener",
+   "sex": "M",
+   "aka": [
+    "Henry Anthony Greener"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Philadelphia Orphans' Court Marriage License Index 1917–1938, p. 243: \"Greener Harry A (McAvoy) 1933 M 630506\" (image attached to FamilySearch K6NQ-ZXC; index ark:/61903/1:1:ZWM1-P8N2)",
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 with the McAvoy siblings."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Spouse of a McAvoy sibling per the FamilySearch tree and its attached records; related to John by marriage only."
+   },
+   "summary": "Husband of Claire McAvoy, married in Philadelphia in 1933; John's great-great-uncle by marriage.",
+   "bio": "Harry A. Greener, recorded in the family as Henry Anthony Greener, married Claire McAvoy in Philadelphia in 1933. They lived in Kingston Township, Luzerne County, and their son Henry Anthony was born in 1935."
+  },
+  {
+   "id": "M0127",
+   "given": "Leonorah",
+   "surname": "Lockard",
+   "sex": "F",
+   "birth": {
+    "date": "1897"
+   },
+   "death": {
+    "date": "1966"
+   },
+   "aka": [
+    "Leonorah Remmell Lockard"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "FamilySearch Family Tree (published), William Richard McAvoy (c.1857–1899), PID K6NQ-ZXZ, and Catherine A. Murphey (1860–1931), PID K6NQ-ZX8, with the nine children G7Q7-HBZ, L85M-PH3, L271-9BR, G63B-CD2, G7QQ-RD3, LRGT-CBC, 96X3-DQ7, KGQH-JNV, K6NQ-ZXC (user-contributed; attached record index entries)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-10-14",
+     "note": "Added 14 Oct 2026 with the McAvoy siblings."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Spouse of a McAvoy sibling per the FamilySearch tree and its attached records; related to John by marriage only."
+   },
+   "summary": "Wife of William Richard McAvoy Jr. and mother of his two daughters; John's great-great-aunt by marriage.",
+   "bio": "Leonorah Remmell Lockard (1897–1966) married William Richard McAvoy Jr. of Plymouth. Their daughters were Elizabeth Kathryn (1917–1991) and Charlotte (1924–2001)."
   }
  ],
  "families": [
@@ -72719,7 +73494,14 @@ window.FAMILY_DATA = {
    "wife": "I282604498567",
    "children": [
     "I282604493938",
-    "H0064"
+    "H0064",
+    "M0114",
+    "M0116",
+    "M0115",
+    "M0117",
+    "M0118",
+    "M0119",
+    "M0120"
    ]
   },
   {
@@ -76023,14 +76805,72 @@ window.FAMILY_DATA = {
    "children": []
   },
   {
-   "id": "CF0419",
+   "id": "MF0039",
+   "husband": "M0121",
+   "wife": "M0114",
+   "marriage": {
+    "date": "1901-04-02",
+    "place": "Luzerne County, Pennsylvania, USA"
+   },
+   "children": []
+  },
+  {
+   "id": "MF0040",
+   "husband": "M0122",
+   "wife": "M0116",
+   "marriage": {
+    "date": "1910-11-29",
+    "place": "Luzerne County, Pennsylvania, USA"
+   },
+   "children": []
+  },
+  {
+   "id": "MF0041",
+   "husband": "M0123",
+   "wife": "M0117",
+   "children": []
+  },
+  {
+   "id": "MF0042",
+   "husband": "M0124",
+   "wife": "M0118",
+   "marriage": {
+    "date": "1913-06-24",
+    "place": "Luzerne County, Pennsylvania, USA"
+   },
+   "children": []
+  },
+  {
+   "id": "MF0043",
+   "husband": "M0125",
+   "wife": "M0119",
+   "children": []
+  },
+  {
+   "id": "MF0044",
+   "husband": "M0126",
+   "wife": "M0120",
+   "marriage": {
+    "date": "1933",
+    "place": "Philadelphia, Pennsylvania, USA"
+   },
+   "children": []
+  },
+  {
+   "id": "MF0045",
+   "husband": "M0115",
+   "wife": "M0127",
+   "children": []
+  },
+  {
+   "id": "CF0426",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0420",
+   "id": "CF0427",
    "children": [
     "I282608085305"
    ],
@@ -76039,7 +76879,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 341,
-  "research": 624
+  "research": 638
  },
  "stories": [
   {
@@ -78061,7 +78901,27 @@ window.FAMILY_DATA = {
     "M0002"
    ],
    "body": "Tommy Meier of Levittown and Sharon Petriello of Scranton met as students at East Stroudsburg State College, where he was the Warriors' quarterback and she was a fellow undergraduate at the end of the 1970s. On 8 October 1988 they were married in Scranton, Sharon's home town, where her parents John and Mary Petriello had raised their three children and where the Petriellos worshipped at St. Anthony's and Holy Rosary.\n\nBy then Tommy was coaching high-school football in Northern Virginia, and the couple made their home there. Their three sons, Tommy Jr., Johnny and Matt, all grew up in Ashburn and all played football at Broad Run High School. The family marks the anniversary every 8 October."
+  },
+  {
+   "id": "S202",
+   "title": "Katie McAvoy and her nine",
+   "date": "1900–1910",
+   "people": [
+    "I282604498567",
+    "I282604498554",
+    "I282604493938",
+    "H0064",
+    "M0114",
+    "M0115",
+    "M0116",
+    "M0117",
+    "M0118",
+    "M0119",
+    "M0120",
+    "H0066"
+   ],
+   "body": "When William McAvoy died at Plymouth in November 1899 he left his wife Catherine, a Plymouth girl of thirty-nine known to everyone as Katie, with nine children: Mary, twenty, Agnes, Katie, William, Josephine, Gertrude, Anna, Elizabeth, who was not yet two, and Claire, born only eight weeks before. Twelve children had been born to the couple in twenty years; three had died small.\n\nKatie did not go under. When the census taker came down Main Street in June 1900 he found her at the head of her own household, keeping a restaurant, with Mary earning as a milliner and the five middle children at school. About 1903 she married again, to John H. Jones, a Welsh-born coal miner some twenty years younger than herself, and the whole family moved to 214 Vine Street. By 1910 the house was full of working daughters: Mary made hats on her own account, Agnes and Katie were nurses, Josephine worked the switchboard at the telephone company and Gertrude made squibs, the fuses that fired the shots in the mines, while William was a machinist at the automobile works. Also at the table were Mary's little boy William Harris and Katie's cousin Michael Murphy, a carpenter.\n\nThe daughters scattered as they married: Katherine to Ohio and Jamestown, New York; Gertrude and Anna to Camden, New Jersey; Anna on to Syracuse. Agnes and Elizabeth stayed close to home, and Elizabeth, the dry-goods clerk, married Frank McGuire in 1923 and became John's great-grandmother. Katie Jones lived on at Vine Street until her death in 1931, and was buried at Larksville."
   }
  ],
- "generated": "2026-10-09"
+ "generated": "2026-10-14"
 };
