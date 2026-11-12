@@ -1095,3 +1095,30 @@ Most likely explanation (Round 2, probable): the pre-1800 pedigree belongs to an
 - **Marrelli:** Vittoria Marrelli/Morelli — confirmed name only.
 
 ---
+
+
+---
+
+## Notable relatives (research of November 2026)
+
+From the report "Living notable relatives of Johnny Meier" (11 Nov 2026). Only public figures are named; private living people in between are described by role.
+
+| Person | Why notable | Relationship to John | Through | Confidence |
+|---|---|---|---|---|
+| Maria P. Cognetti (`M0128`) | Harrisburg family lawyer; AAML national president 2013–14 | 1C1R (mother's first cousin) | Joseph F. Cognetti → Frank & Helen Cognetti | Probable (strong) |
+| Ralph A. Cognetti (`M0129`) | Town Justice, Pompey NY; Syracuse attorney | 1C1R | Joseph F. Cognetti | Probable (strong) |
+| Sal Cognetti Jr. (`M0130`) | Scranton defense lawyer; AUSA 1974–79; PA Court of Judicial Discipline | 1C1R | Sal D. Cognetti Sr. | Probable (indirect) |
+| Tony Cognetti (`H0347`) | Candy Hall of Fame 1996 | 1C1R | Ralph A. Cognetti (1913–2009) | Kinship confirmed; alive not confirmed |
+| Paige Cognetti (`H0378`) | Mayor of Scranton; won PA-8 on 3 Nov 2026 | In-law (wife of probable 2nd cousin Ryan) | Sal D. → Joe → Ryan | Probable (strong) |
+| Samuel G. White (`M0135`) | Architect (PBDW), FAIA, National Academician; Stanford White author | 8C3R | Bull Smith → … → Bessie Springs Smith & Stanford White | Probable on his side; ~70% on John's |
+| Christian White (`M0133`) | Painter and printmaker, son of sculptor Robert White | 8C3R | same | Probable; alive needs fresher proof |
+| James Taylor, Gov. Bill Weld, Matt Damon, Paget Brewster, Mike Dunston | Singer, governor, actors, reporter | 11C1R–12C1R | William Hammond of Watertown | Possible (famouskin charts) |
+| Jane & Bridget Fonda, Gov. Bob Taft, Kate Upton, Judith Hoag, Elizabeth Banks | Actors, governor | 11C2R–13C1R | Thomas Hammond & Rose Tripp | Speculative |
+
+Historical cousins found: **Gov. John S. Fine** (1893–1978, `M0145`), 5C2R, probable, through Andreas Grub → Philip Croup → Elizabeth Croop Belles → Peter Belles → Rebecca Belles (m. William H. Croop) → Margaret Croop (m. Jacob W. Fine) (PHMC; WikiTree Croop-4, Belles-38). **George Templeton Strong** (1820–75), the diarist, 4C7R through the Strongs (path in the working notes, not yet added as a person). **Anna Symmes Harrison** confirmed 4C7R through the Tuthills (Akerly 1898).
+
+Every Long Island cousin depends on Keturah Tuttle being the daughter of John Tuthill and Temperance Smith (no record says so outright; about 70%). Bull Smith's own link was lowered from confirmed to probable for that reason.
+
+Corrections: John Thompson of Setauket's wife was Mary, not Hannah Brewster (Jacobus, TAG); William Floyd is a cousin only through Bull Smith, not through Thompson; Chester Ransom is 1C6R, not 1C7R; David Crosby's claimed William Floyd descent is unproven (he died 2023). Not kin: Corrado Ferlaino (Conflenti family), novelist Paolo Cognetti, bandleader James C. Petrillo. No living public figure found on the Pringle, Croup, Heffernan, Lamoreaux, Tuthill, Thompson, Petriello or German lines; Harrison Ruffin Tyler (d. 2025) left no public descendants.
+
+Records that would firm these up: Elizabeth Notarianni Cognetti's 1994 Times-Tribune obituary (Sal Jr., Ryan); Joseph F. Cognetti's 2009 obituary (Maria, Ralph); Pelletreau's appendix or F. K. Smith (1967) for Ebenezer → Richard (1735) → Richard (1770); the 1902 Hammond genealogy generation by generation; any record naming Keturah Tuttle's parents.

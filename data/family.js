@@ -4615,6 +4615,54 @@ window.FAMILY_DATA = {
    "lon": -75.15268,
    "label": "Woodbury, Gloucester County, New Jersey, United States",
    "precision": "exact"
+  },
+  "Alden, Newport Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.18203,
+   "lon": -76.01242,
+   "label": "Alden, Newport Township, Luzerne County, Pennsylvania, 18634, United States",
+   "precision": "exact"
+  },
+  "Hamilton Township, Northampton County, Pennsylvania, USA": {
+   "lat": 40.64333,
+   "lon": -75.32608,
+   "label": "Hamilton Street, Prospect Heights, Middletown, Bethlehem Township, Northampton County, Pennsylvania, 18016, United States",
+   "precision": "exact"
+  },
+  "Harrisburg, Pennsylvania, USA": {
+   "lat": 40.26631,
+   "lon": -76.88611,
+   "label": "Harrisburg, Dauphin County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Loyalville, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.33619,
+   "lon": -76.09909,
+   "label": "Loyalville, Lake Township, Luzerne County, Pennsylvania, 18618, United States",
+   "precision": "exact"
+  },
+  "Newport Center, Newport Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.18925,
+   "lon": -76.02548,
+   "label": "Newport Center, Newport Township, Luzerne County, Pennsylvania, 18634, United States",
+   "precision": "exact"
+  },
+  "Oak Lawn Cemetery, Nanticoke, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.20527,
+   "lon": -76.00494,
+   "label": "Nanticoke, Luzerne County, Pennsylvania, 18634, United States",
+   "precision": "approximate"
+  },
+  "St. James, Suffolk County, New York, USA": {
+   "lat": 40.8827,
+   "lon": -73.14808,
+   "label": "Saint James, Town of Smithtown, Suffolk County, New York, 11780, United States",
+   "precision": "exact"
+  },
+  "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.17342,
+   "lon": -76.03548,
+   "label": "Wanamie, Newport Township, Luzerne County, Pennsylvania, 18611, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -9714,7 +9762,8 @@ window.FAMILY_DATA = {
    ],
    "openQuestions": [
     "Primary proof of her parents (colonial group): Orange Co. records, Alva Tuttle's sources.",
-    "Is there a Cornwall/Monroe church record (e.g. Bethlehem Presbyterian) of Keturah's marriage to Thomas Lamoreaux, c. 1772?"
+    "Is there a Cornwall/Monroe church record (e.g. Bethlehem Presbyterian) of Keturah's marriage to Thomas Lamoreaux, c. 1772?",
+    "Any record naming Keturah Tuttle as the daughter of John Tuthill and Temperance Smith. Every Long Island line, Bull Smith and the presidential cousins included, depends on it."
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -13641,8 +13690,8 @@ window.FAMILY_DATA = {
     "place": "Smithtown, Suffolk County, New York, USA"
    },
    "link": {
-    "confidence": "confirmed",
-    "note": "Founder of Smithtown, well documented (Pelletreau 1898; F. K. Smith 1967); Job's descent from him is stated by the PDF, Pelletreau and F. K. Smith. Round 1 labelled him confirmed. As John's ancestor he still depends on the probable Temperance→James link. His English origin and parents are unknown."
+    "confidence": "probable",
+    "note": "His own family (Job Smith → James Smith → Temperance Smith) is well documented, but John's descent from him depends on Keturah Tuttle being the daughter of John Tuthill and Temperance Smith, which no record states outright. The November 2026 research puts that step at about 70 percent, so the link is probable, not confirmed."
    },
    "occupation": "Patentee and founder of Smithtown",
    "aka": [
@@ -13736,7 +13785,8 @@ window.FAMILY_DATA = {
     "Quaker History 3–4:58–59",
     "Gardiner, Lion Gardiner and his Descendants (1890) p. 119, https://archive.org/details/liongardinerhisd00gard",
     "Richard_Bull_Smith_Lineage.pdf",
-    "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich"
+    "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
    ],
    "mediaKnown": [
     "Tree card 'Maj R B Sm(y)ith 1613–1692'"
@@ -13978,6 +14028,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Confidence confirmed → probable: the descent rests on Keturah Tuttle's parentage (probable), so no ancestor above it can be confirmed. Every Long Island cousin depends on that same step."
     }
    ],
    "researchNotes": "Origin unknown. Pelletreau (1898, Intro. p. vii): 'Of his previous history we know absolutely nothing… He is said, by some historians, to have come from a certain village in Yorkshire, but the evidence is not sufficient.' F. K. Smith (1967, pp. 15–20): 'It now appears most probable that he was the Richard Smith who sailed from England 2 Oct. 1635, aged 22 years, in the ship John of London, bound for St. Christophers'; from his 'court hand' script, 'in all probability he was brought up in London'; probably unmarried before emigrating (speculative). WikiTree Smith-1208: parents unknown; 'Myreshaw, Bradford, Yorkshire' only as 'Unsourced information'; Y-DNA haplogroup R-b1, cluster NE50 of the SmithConnections project, no English match. Gloucestershire origin is disproven (belongs to Richard Smith of Cocumscussoc/Wickford, RI, earlier of Taunton, who 'left a fair possession in Gloucestershire'; both men died 1691/2, encouraging the merge). Bedfordshire origin: no source; probably cross-wired with Capt. Thomas Topping of Totternhoe. In April 1640 'Mr. Smith' petitioned to be released from his published intention to marry Sarah Hammond; Rev. George Phillips (and William Paine) wrote to Gov. Winthrop on 24 Apr 1640 about 'Smith & my brother Hammond dauter'; he lost and the marriage went ahead. His first home lot at Southampton (1640/1643) was 'at the south end of the village… on the west side of the main street'. F. K. Smith accepts he went back to England in 1654 and returned in 1656 aboard the Speedwell with the first Quaker missionaries to New England (not marked 'Q' on the list); Southampton later banished him (probable that the two Richards are the same; debated). Smithtown: Lion Gardiner received the land for helping recover Sachem Wyandanch's kidnapped daughter, sold it to Smith in 1663; a 1665 patent confirmed Smith's claim. The story that he won Smithtown by riding a bull around it is a myth per local historians. His 1688 deed gave Job 50 acres at the northeast branch. Children: Jonathan (eldest; daughter Deborah m. Joseph Blydenburgh), Richard 2d, Job, Daniel, Adam (b. 1649), Elizabeth (m. William Lawrence, Gov. Philip Carteret, Col. Richard Townley), Deborah (m. Maj. William Lawrence Jr.). TREE: 'Maj R B Sm(y)ith 1613–1692', parents 'Sir Samuel Smith 1575–1618 + Rebecca Buswell 1593–1667' — unsupported, removed (Round 1 correction 3d). His wife was formerly given as 'Sarah Folger of Boston' (Pelletreau) — corrected to Sarah Hammond (NYGBR 121).\n\nPelletreau's 1688 deeds (pp. 56-58, 71) show Richard Smith Sr. 'Gent.' with wife Sarah, acknowledged before Wait Winthrop ([R4-S1]); already in the tree in substance."
@@ -17875,7 +17929,8 @@ window.FAMILY_DATA = {
     "[R4-S1] Lucy D. Akerly, The Tuthill Family of Tharston, Norfolk Co., England, and Southold, Suffolk Co., New York (1898) (archive.org full text), pp. 7-10 (secondary) https://archive.org/details/tuthillfamilyoft00aker",
     "[R4-S2] Wikipedia, 'Anna Harrison' (intro via MediaWiki API) (secondary) https://en.wikipedia.org/wiki/Anna_Harrison",
     "[R4-S3] Charles W. Hayes, William Wells of Southold and his Descendants (1878) (archive.org full text), pp. 27-28, 33 (secondary) https://archive.org/details/williamwellsofso00byuhaye",
-    "[R4-S4] George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), pp. 11-12 (secondary) https://archive.org/details/hortongenealogyo00hort"
+    "[R4-S4] George F. Horton, Horton Genealogy, or Chronicles of the Descendants of Barnabas Horton (1876) (archive.org full text), pp. 11-12 (secondary) https://archive.org/details/hortongenealogyo00hort",
+    "Akerly, The Tuthill Family of Tuthill (1898): https://archive.org/details/tuthillfamilyoft00aker"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -17898,6 +17953,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Akerly (1898) confirms her Tuthill descent; 4th cousin 7 times removed through the Tuthills (on John's side subject to Keturah Tuttle's parentage)."
     }
    ],
    "media": [
@@ -21678,7 +21737,7 @@ window.FAMILY_DATA = {
     "notable"
    ],
    "summary": "WWII Army Air Corps veteran, chairman of D.C. Sales Co., Candy Hall of Fame member and founder of the Cognetti family Thanksgiving; John's great-uncle.",
-   "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940, when he was a 22-year-old salesman living at home on Philo Street with two years of high school behind him; he had started out as a lumber salesman in 1937. During the Second World War he served in the US Army Air Corps from 1942 to 1946, and in 1946 he married Domenica, known to the family as Aunt Min; they were married 63 years.\n\nHe made his career in the food and confectionery trade, entering the brokerage business in 1956 as a partner in D.C. Sales Co. and later becoming its chairman. His standing in the industry brought him the Lou Spector Award in 1961, the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he and Domenica started the Cognetti family Thanksgiving in a back room of Brutico's restaurant in Old Forge, a gathering that continued long after them: the 50th, in 2016, drew 151 relatives. The couple retired to Glenmaura in Moosic. Domenica died in the spring of 2009, and Joe died two months later, on 25 May 2009, in hospice care at Community Medical Center in Scranton. He is John's great-uncle.",
+   "bio": "Joseph F. Cognetti, known as Joe, was born in Scranton, Pennsylvania, in 1919. As a baby he was living in his Ferlaino grandparents' household in 1920, and he was still in Scranton in 1935 and 1940, when he was a 22-year-old salesman living at home on Philo Street with two years of high school behind him; he had started out as a lumber salesman in 1937. During the Second World War he served in the US Army Air Corps from 1942 to 1946, and in 1946 he married Domenica, known to the family as Aunt Min; they were married 63 years.\n\nHe made his career in the food and confectionery trade, entering the brokerage business in 1956 as a partner in D.C. Sales Co. and later becoming its chairman. His standing in the industry brought him the Lou Spector Award in 1961, the J. Roger Ozman Medal and election to the Candy Hall of Fame in 1975, induction into the American Wholesale Marketers Association Hall of Fame in 1993, and 'more than 50 Broker of the Year awards'.\n\nIn 1966 he and Domenica started the Cognetti family Thanksgiving in a back room of Brutico's restaurant in Old Forge, a gathering that continued long after them: the 50th, in 2016, drew 151 relatives. The couple retired to Glenmaura in Moosic. Domenica died in the spring of 2009, and Joe died two months later, on 25 May 2009, in hospice care at Community Medical Center in Scranton. He is John's great-uncle.\n\nJoe and Domenica raised two children, Maria and Ralph, who both became lawyers: Maria a nationally known family lawyer in Harrisburg and president of the American Academy of Matrimonial Lawyers, Ralph an attorney and town justice in central New York.",
    "notable": "Candy Hall of Fame 1975; AWMA Hall of Fame 1993",
    "funFacts": [
     "Founded the 50-year Cognetti family Thanksgiving tradition (151 relatives in 2016)"
@@ -21706,6 +21765,10 @@ window.FAMILY_DATA = {
     {
      "label": "FamilySearch ID",
      "value": "GBQH-LWX"
+    },
+    {
+     "label": "Children",
+     "value": "Maria P. Cognetti (family lawyer, AAML president 2013–14) and Ralph A. Cognetti (attorney and Town Justice of Pompey, N.Y.)"
     }
    ],
    "sources": [
@@ -21715,7 +21778,9 @@ window.FAMILY_DATA = {
     "ABMC WWII Registry: https://wwiiregistry.abmc.gov/honoree-search-results/page/34576",
     "[R6-S1] 1940 US census, Scranton Ward 2, E.D. 71-15, sheet 13B, line 68 (Joseph, son, 22, Frank Cognetti household, 612 Philo St; supplementary-question line); FS index KQZZ-JKQ, image attached to GBQH-TGM / GBQH-LWX (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GBQH-TGM/images/i/0/image.jpg",
     "[R6-S2] Obituary of Joseph F. Cognetti, The Times-Tribune (Scranton), 28 May 2009, via Legacy.com (id 23435864); page blocked (403), content known only from search-engine summaries (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
-    "[R6-S3] 'Family celebrates 50 years of Thanksgiving gatherings', The Times-Tribune (Scranton), Nov 2016, reprinted by Hinerfeld Commercial (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
+    "[R6-S3] 'Family celebrates 50 years of Thanksgiving gatherings', The Times-Tribune (Scranton), Nov 2016, reprinted by Hinerfeld Commercial (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+    "Candy Hall of Fame, Joseph F. Cognetti (inducted 1975): \"Together, the couple raised two children, Maria and Ralph\": https://candyhalloffame.org/inductee/joseph-f-cognetti/",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -21766,6 +21831,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text updated with the round-6 Cognetti research, written as narrative."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Candy Hall of Fame entry names their two children, Maria and Ralph; added as M0128/M0129."
     }
    ],
    "researchNotes": "Tree: Joseph 1918 - correct year is 1919 (obituary and Hall of Fame). Served in the US Army Air Corps 1942-46. Partner and later chairman of D.C. Sales Co., a food and confectionery brokerage. Candy Hall of Fame (1975); American Wholesale Marketers Association Hall of Fame (1993); J. Roger Ozman Medal (1975); 'more than 50 Broker of the Year awards'. Started the Cognetti family Thanksgiving in 1966; the 50th in 2016 drew 151 relatives. ABMC WWII Registry entry for Joseph Cognetti (Army Air Force) of Scranton was placed by 'Mr. & Mrs. Joseph F. Cognetti'. Grandson 'Joseph' in the 1920 Ferlaino household.\n\nRound 6: In 1940 Joe was 22, living at home on Philo Street and working as a salesman; he had finished two years of high school ([R6-S1]). His obituary, known so far only from search summaries, says he began as a lumber salesman in 1937, served in the Army Air Corps, and in 1946 married Domenica, his wife of 63 years. He entered the food and confectionery brokerage business in 1956 as a partner in D.C. Sales Co., received the CBA's Lou Spector Award in 1961, and with Domenica retired to Glenmaura in Moosic ([R6-S2]). The couple started the family Thanksgiving in 1966 in a back room of Brutico's restaurant in Old Forge; Domenica, 'Aunt Min' to the family, died two months before Joe in 2009 ([R6-S2], [R6-S3]).",
@@ -21867,6 +21936,10 @@ window.FAMILY_DATA = {
     {
      "label": "Education (1940 census)",
      "value": "1st year of high school"
+    },
+    {
+     "label": "Children",
+     "value": "Joe Cognetti and very probably Sal Cognetti Jr.; three sons in all"
     }
    ],
    "sources": [
@@ -42566,7 +42639,8 @@ window.FAMILY_DATA = {
     "Wikipedia, Pringle, Pennsylvania: https://en.wikipedia.org/wiki/Pringle,_Pennsylvania",
     "Pearce, Annals of Luzerne p.380: https://archive.org/details/annalsofluzernec01pear",
     "Bradsby (Thomas Pringle b. 1821): https://pagenweb.org/~luzerne/bios/wibios.htm",
-    "[R4-S1] FamilySearch published tree, Thomas Pringle (KCDC-9LX), with 1850 and 1860 census images and Find a Grave index (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KCDC-9LX"
+    "[R4-S1] FamilySearch published tree, Thomas Pringle (KCDC-9LX), with 1850 and 1860 census images and Find a Grave index (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KCDC-9LX",
+    "WikiTree Pringle-2378, Thomas Pringle (1791–1861): https://www.wikitree.com/wiki/Pringle-2378"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -44961,8 +45035,8 @@ window.FAMILY_DATA = {
     "note": "Round 4 (confirmed → probable): Two county histories name him as George P. Ransom's son."
    },
    "tags": [],
-   "summary": "Sawmill owner on Harvey's Creek in Jackson Township, Luzerne County, and son of George P. Ransom and Elizabeth Lamoreaux; John's 1st cousin 7 times removed.",
-   "bio": "Chester Ransom (1808–1893) was a son of George P. Ransom and Elizabeth Lamoreaux, which makes him John's 1st cousin 7 times removed. His father's sawmill of 1815 on Harvey's Creek in Jackson Township, Luzerne County, Pennsylvania, eventually wore out, and in 1840 Chester built a new one. The mill had a fall of eighteen feet. In 1890 a Mr. Frisbie bought 'the old mill property of Chester Ransom', renovated it and added a cider mill.",
+   "summary": "Sawmill owner on Harvey's Creek in Jackson Township, Luzerne County, and son of George P. Ransom and Elizabeth Lamoreaux; John's 1st cousin 6 times removed.",
+   "bio": "Chester Ransom (1808–1893) was a son of George P. Ransom and Elizabeth Lamoreaux, which makes him John's 1st cousin 6 times removed. His father's sawmill of 1815 on Harvey's Creek in Jackson Township, Luzerne County, Pennsylvania, eventually wore out, and in 1840 Chester built a new one. The mill had a fall of eighteen feet. In 1890 a Mr. Frisbie bought 'the old mill property of Chester Ransom', renovated it and added a cider mill.",
    "sources": [
     "research/notes/round2/colonial_cousins.md 2f",
     "[R4-S1] H. C. Bradsby, History of Luzerne County (1893), p.589 and Frisbie biography (Jackson Twp.) (secondary) https://archive.org/details/historyofluzerne00brad",
@@ -44997,6 +45071,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Corrected 1C7R → 1C6R: his mother Elizabeth Lamoreaux was a sister of Martha, so he was a first cousin of James Pringle, John's 4th-great-grandfather (six generations up)."
     }
    ],
    "occupation": "Sawmill owner, Jackson Twp.",
@@ -47231,7 +47309,7 @@ window.FAMILY_DATA = {
     "patriot"
    ],
    "summary": "Palatine-born Revolutionary militia private (1753–1812) who settled in Newport Township in the Wyoming Valley; John's 5th-great-grand-uncle.",
-   "bio": "Philip Grub, whose name became Croop or Croup in Pennsylvania, was born on 9 January 1753 at Jettenbach in the Palatinate and baptized there on 14 January, the eldest son of Andreas Grub. He was a year old when the family emigrated to America. During the Revolution he served as a private in the 5th Company (Easton) of the 5th Battalion of the Northampton County Militia from 1777 to 1780. In 1779 he married Maria Elisabeth Eweritz.\n\nHe lived in Chestnuthill Twp in 1790 and 1800, and then, like his brother Frederick, moved to the Wyoming Valley: in 1805 he signed the Newport Twp survey agreement in Luzerne County as Philip Croup, and the 1810 census lists him in Luzerne Co. as Phillip Croop. He died in Newport before 7 April 1812, and his will named \"my dear brother Frederick Grupe\" as co-executor. He is John's 5th-great-grand-uncle; because he is a collateral relative rather than a direct ancestor, his service does not qualify John for the Revolutionary lineage societies.",
+   "bio": "Philip Grub, whose name became Croop or Croup in Pennsylvania, was born on 9 January 1753 at Jettenbach in the Palatinate and baptized there on 14 January, the eldest son of Andreas Grub. He was a year old when the family emigrated to America. During the Revolution he served as a private in the 5th Company (Easton) of the 5th Battalion of the Northampton County Militia from 1777 to 1780. In 1779 he married Maria Elisabeth Eweritz.\n\nHe lived in Chestnuthill Twp in 1790 and 1800, and then, like his brother Frederick, moved to the Wyoming Valley: in 1805 he signed the Newport Twp survey agreement in Luzerne County as Philip Croup, and the 1810 census lists him in Luzerne Co. as Phillip Croop. He died in Newport before 7 April 1812, and his will named \"my dear brother Frederick Grupe\" as co-executor. He is John's 5th-great-grand-uncle; because he is a collateral relative rather than a direct ancestor, his service does not qualify John for the Revolutionary lineage societies.\n\nHis daughter Elizabeth married John Adam Belles and stayed in Newport Township; her great-grandson, born at Alden in the same township in 1893, was John S. Fine, governor of Pennsylvania from 1951 to 1955.",
    "military": [
     {
      "branch": "Northampton County Militia",
@@ -47245,7 +47323,9 @@ window.FAMILY_DATA = {
     "WikiTree Croup-9: https://www.wikitree.com/wiki/Croup-9",
     "Pa. Archives 5th ser. vol. VIII p.120",
     "Bradsby pp.613-614: https://archive.org/details/historyofluzerne00brad",
-    "[R4-S1] FamilySearch published tree, Philip Grub (KNC5-16R), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KNC5-16R"
+    "[R4-S1] FamilySearch published tree, Philip Grub (KNC5-16R), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KNC5-16R",
+    "WikiTree Croop-4, Elizabeth (Croop) Belles (1787–1873), daughter of Philip Croup, wife of John Adam Belles: https://www.wikitree.com/wiki/Croop-4",
+    "Pennsylvania Historical and Museum Commission, \"Governor John Sydney Fine\": born 10 Apr 1893 at Alden, Newport Township; son of Jacob W. Fine and Margaret Croop Fine; Luzerne County judge 1927–47, Superior Court 1947–50, governor 1951–55; buried Oak Lawn Cemetery, Nanticoke: https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -47289,6 +47369,10 @@ window.FAMILY_DATA = {
     {
      "label": "FamilySearch ID",
      "value": "KNC5-16R"
+    },
+    {
+     "label": "Notable descendant",
+     "value": "Gov. John S. Fine (1893–1978), through his daughter Elizabeth (Croop) Belles"
     }
    ],
    "researchNotes": "Philip Grub/Croop (1753-1812) was born in Jettenbach, the eldest son of Andreas. He was a private in the 5th Company (Easton), 5th Battalion, Northampton County Militia, 1777-1780 (Pa. Archives 5th ser. vol. VIII p.120). He lived in Chestnuthill Twp in 1790 and 1800, signed the Newport Twp (Luzerne) survey agreement in 1805 as 'Philip Croup', and died in Newport in 1812; his will names 'my dear brother Frederick Grupe' co-executor (Luzerne Will Book A p.128).\n\nFamilySearch gives Philip's baptism as 14 Jan 1753 at Jettenbach (born 9 Jan, citing the German baptism index), so he was born in the Palatinate a year before the family emigrated. It records his marriage in 1779 to Maria Elisabeth Eweritz, finds him as 'Phillip Croop' in Luzerne Co. in the 1810 census, and gives his death as before 7 Apr 1812 in Luzerne ([R4-S1]). Like his brother Frederick, he moved to the Wyoming Valley."
@@ -49393,7 +49477,8 @@ window.FAMILY_DATA = {
     "Jacobus, TAG 12:199–204, 13:221 (via WikiTree Thompson-213)",
     "jrm Needham I2523",
     "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
-    "[R4-S2] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
+    "[R4-S2] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
+    "Donald Lines Jacobus, The American Genealogist (TAG): John Thompson of Setauket's wife was Mary; Hannah Brewster belongs to a different John Thompson"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -49416,6 +49501,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Jacobus (TAG) cited for the Mary / Hannah Brewster correction already shown under \"Disproven\"."
     }
    ],
    "researchNotes": "A smith (whitesmith, gunsmith, blacksmith). At Stamford, Conn., in 1667 (sold his tools to pay debts); Oyster Bay 1668–73; Setauket by 1673; Brookhaven selectman 1686; last record a deed of 1691; died intestate. His five-acre home lot lay 'south of and adjoining the public green' at Setauket. Thompson's History of Long Island calls him 'the first Long Island ancestor of the compiler' (B. F. Thompson) and says he married Hannah Brewster on 12 June 1663 and was son of Rev. William Thompson of Braintree (link only 'traditionary', 'not very satisfactorily ascertained'). Champlin (NYGBR 46:4–9, 1915) showed Rev. William of Braintree had no son John and the Mayflower Brewster version false; Jacobus calls the tree-style dates 3 Jun 1609 / 14 Oct 1688 bogus and shows his only recorded wife was Mary (deeds 1680, 1685). Son Samuel married his cousin Hannah Brewster (daughter of Rev. Nathaniel, widow of John Muncy) and is buried at the southeast corner of Setauket Presbyterian Church. Thompson cousins: Selah Strong (2C9R), Rep. Selah B. Strong (4C7R), Judge Isaac Thompson (2C9R), Benjamin F. Thompson (3C8R), Jonathan Thompson (3C8R), David Thompson (4C7R).\n\nPelletreau calls him 'John Thompson, Esq., of Setauket', father of Elizabeth, wife of Job Smith ([R4-S1]). Weygant (1897) repeats the disproven Rev. William Thompson/Brewster story ([R4-S2])."
@@ -49756,7 +49845,9 @@ window.FAMILY_DATA = {
     "Middlesex Probate 7167",
     "Winthrop Papers 4:230–2",
     "jrm Needham I2516",
-    "notes/round3/english_french_origins.md §2c"
+    "notes/round3/english_french_origins.md §2c",
+    "famouskin.com, William Hammond of Watertown famous-kin charts (user-compiled; only the first generation of each was checked against the 1902 Hammond genealogy): https://famouskin.com/famous-kin-menu.php?name=13121+william+hammond",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -49783,9 +49874,14 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Famous-kin charts recorded as possible only (Nov 2026 research)."
     }
    ],
-   "researchNotes": "Lavenham register: '1575, Oct. 30, William, son of Thomas Hamond'. Married Elizabeth Paine at Lavenham 9 Jun 1605; children William (1607), Anne (1609), John (1611), Anna (1616), Thomas (1618) and John (1626) baptized there (plus probably 'Marie' 1623 = Sarah). His father died when William was 14 and his mother remarried within five months. He had stood surety for his son William's debts in England. Sailed in the 1630s; his wife followed on the Francis in April 1634 with three children. At Scituate before 1636; freeman of Watertown 1636; one of Watertown's largest landowners (331 acres; estate £457). In 1661 the houses of 'old Warren and Goodman Hammond' were ordered searched for Quakers (the John Warren who emigrated with them, a Hall Street, Melford neighbour). Rev. George Phillips called him 'my brother Hammond'. Will dated July 1662, proved 16 Dec 1672 (Middlesex Probate 7167): 'To Adam Smith, son of daughter, Sarah, if he behave obediently to my wife after my decease, one mare colt and £20 … To daughter, Sarah Smith, £5'; it penalized grandson Thomas if he contested. Hammond-line cousins: Col. John F. Farnsworth (6C6R), S. D. Warren (6C6R), Samuel D. Warren II, Edward Perry Warren, Henry Clarke Warren, Fiske and Cornelia Warren (7C5R)."
+   "researchNotes": "Lavenham register: '1575, Oct. 30, William, son of Thomas Hamond'. Married Elizabeth Paine at Lavenham 9 Jun 1605; children William (1607), Anne (1609), John (1611), Anna (1616), Thomas (1618) and John (1626) baptized there (plus probably 'Marie' 1623 = Sarah). His father died when William was 14 and his mother remarried within five months. He had stood surety for his son William's debts in England. Sailed in the 1630s; his wife followed on the Francis in April 1634 with three children. At Scituate before 1636; freeman of Watertown 1636; one of Watertown's largest landowners (331 acres; estate £457). In 1661 the houses of 'old Warren and Goodman Hammond' were ordered searched for Quakers (the John Warren who emigrated with them, a Hall Street, Melford neighbour). Rev. George Phillips called him 'my brother Hammond'. Will dated July 1662, proved 16 Dec 1672 (Middlesex Probate 7167): 'To Adam Smith, son of daughter, Sarah, if he behave obediently to my wife after my decease, one mare colt and £20 … To daughter, Sarah Smith, £5'; it penalized grandson Thomas if he contested. Hammond-line cousins: Col. John F. Farnsworth (6C6R), S. D. Warren (6C6R), Samuel D. Warren II, Edward Perry Warren, Henry Clarke Warren, Fiske and Cornelia Warren (7C5R).",
+   "notable": "Published famous-kin charts trace several well-known Americans to William Hammond of Watertown through his children, which would make them distant cousins of John if Bull Smith's wife Sarah was William's daughter: singer James Taylor (11th cousin once removed, through John Hammond and the Hastings–Warren line), Governor Bill Weld of Massachusetts (11th cousin once removed, through Anne Hammond and Timothy Hawkins), actors Matt Damon (12th cousin, through Elizabeth Hammond and Samuel House) and Paget Brewster (12th cousin, through a Thomas Hammond and Hannah Cross), and the Charlotte television reporter Mike Dunston. Only the first generation of each chart has been checked; treat them as possible."
   },
   {
    "id": "H0236",
@@ -49945,7 +50041,9 @@ window.FAMILY_DATA = {
    "bio": "Thomas Hammond, also written Hamond, lived at Lavenham in Suffolk. He married Rose Trippe there on 14 May 1573. He died on 24 November 1589, leaving a will made that year which Rose's brother William Trippe witnessed. His son William was fourteen years old at his death.",
    "sources": [
     "Hammond (1902)",
-    "notes/round3/english_french_origins.md §2c"
+    "notes/round3/english_french_origins.md §2c",
+    "famouskin.com, William Hammond of Watertown famous-kin charts (user-compiled; only the first generation of each was checked against the 1902 Hammond genealogy): https://famouskin.com/famous-kin-menu.php?name=13121+william+hammond",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -49984,7 +50082,8 @@ window.FAMILY_DATA = {
      "url": "https://www.wikitree.com/wiki/Hammond-99"
     }
    ],
-   "researchNotes": "Married Rose Trippe at Lavenham 14 May 1573 (her brother William Trippe witnessed his will). Died 24 Nov 1589; will 1589. Son William was 14 at his death."
+   "researchNotes": "Married Rose Trippe at Lavenham 14 May 1573 (her brother William Trippe witnessed his will). Died 24 Nov 1589; will 1589. Son William was 14 at his death.",
+   "notable": "Through his children, including William Hammond of Watertown and a daughter who married into the Livermore family, famous-kin charts also reach Jane and Bridget Fonda, Governor Bob Taft of Ohio, Kate Upton, Judith Hoag and Elizabeth Banks. These charts are unchecked and speculative."
   },
   {
    "id": "H0239",
@@ -54296,7 +54395,9 @@ window.FAMILY_DATA = {
    "summary": "Architect, partner at McKim, Mead & White and president of the National Academy of Design; John's 7th cousin 4 times removed.",
    "bio": "Lawrence Grant White (1887–1956) was an architect, a partner in the firm of McKim, Mead & White and president of the National Academy of Design. He was the son of the architect Stanford White and Bessie Springs Smith, of the Smithtown Smiths.\n\nThrough his mother he is John's 7th cousin four times removed, and by a shorter line through Job Smith he can also be reckoned a 6th cousin four times removed. His cousin Lawrence Smith Butler, son of Cornelia Smith Butler and likewise an architect, stands in the same relationship to John. J. Lawrence Smith's daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet, figures in Gilded Age society, are John's 6th cousins five times removed.",
    "sources": [
-    "Wikipedia, https://en.wikipedia.org/wiki/Lawrence_Grant_White"
+    "Wikipedia, https://en.wikipedia.org/wiki/Lawrence_Grant_White",
+    "Wikipedia, \"Robert White (sculptor)\": Robert Winthrop White, b. 19 Sep 1921 St. James, N.Y., third of eight children of Lawrence Grant White and Laura Astor Chanler; m. Claire Nicolas Aug 1947; d. 21 Sep 2002 Smithtown, N.Y.; sons Sebastian and Christian: https://en.wikipedia.org/wiki/Robert_White_(sculptor)",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -54366,7 +54467,11 @@ window.FAMILY_DATA = {
      "assessment": "See H0302."
     }
    ],
-   "researchNotes": "His cousin Lawrence Smith Butler (son of Cornelia Smith Butler), an architect, is also 7C4R. J. Lawrence Smith's other daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet (Gilded Age society figures) are 6C5R.\n\nSon of Stanford White and Bessie Springs Smith: 6th cousin 4 times removed via Job Smith (one generation below Bessie), closer than the 7C4R on the site."
+   "researchNotes": "His cousin Lawrence Smith Butler (son of Cornelia Smith Butler), an architect, is also 7C4R. J. Lawrence Smith's other daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet (Gilded Age society figures) are 6C5R.\n\nSon of Stanford White and Bessie Springs Smith: 6th cousin 4 times removed via Job Smith (one generation below Bessie), closer than the 7C4R on the site.",
+   "funFacts": [
+    "His son Robert became a sculptor and his grandsons include the architect Samuel G. White, who wrote the standard books on Stanford White, and the painter Christian White.",
+    "His granddaughter Suzannah Lessard told the family's story in The Architect of Desire (1996); she died in January 2026."
+   ]
   },
   {
    "id": "H0306",
@@ -59774,9 +59879,12 @@ window.FAMILY_DATA = {
     "confidence": "probable",
     "note": "Living; married into a Scranton Cognetti family (husband Ryan); whether it descends from Frank and Helen was deliberately not researched. Round 4 (unverified → probable): Her marriage to Ryan Cognetti is proven. Ryan's descent from Frank and Helen through Joe and Sal D. Cognetti rests on three public business profiles plus the summary of Elizabeth Notarianni Cognetti's 1994 obituary, and is probable. Elizabeth's obituary text (her son Joseph) or a wedding announcement naming Ryan's parents would confirm it."
    },
-   "tags": [],
-   "summary": "Mayor of Scranton since 2020 and Democratic nominee for Congress in 2026; wife of Ryan Cognetti, John's second cousin.",
-   "bio": "Paige Gebhardt Cognetti was born in Eugene, Oregon, in 1980 and grew up in Beaverton, Oregon. She studied English literature at the University of Oregon's Clark Honors College, graduating summa cum laude, and later took an MBA at Harvard Business School. She taught English in Japan on the JET Programme, worked as an investment advisor in New York, raised money for Rep. Chris Carney's 2006 campaign and the 2008 Clinton and Obama presidential campaigns, and served in the Obama administration as senior advisor to the Under Secretary for International Affairs at the US Treasury.\n\nIn Scranton she served on the school board in 2017 and 2018 and as special assistant to Pennsylvania Auditor General Eugene DePasquale. In November 2019 she won a special election for mayor as an independent, and on 6 January 2020 she was sworn in as Scranton's 36th mayor and the first woman to hold the office, with her husband Ryan looking on. She was re-elected as a Democrat in November 2021 with more than 72 per cent of the vote and again on 4 November 2025 with about 57 per cent in a three-way race. In 2024 she was appointed to the US Trade Representative's Advisory Committee for Trade Policy and Negotiations, and in May 2026 she won the Democratic nomination unopposed for Pennsylvania's 8th congressional district, to face Rep. Rob Bresnahan in the November 2026 general election.\n\nShe married Ryan Cognetti on 17 October 2017; they had met years earlier when she stopped at his shop, Caravia Fresh Foods in Clarks Summit, just before closing and he made her a sandwich. The couple have two daughters. Ryan is a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti and his wife Elizabeth Notarianni, which makes him John's second cousin and Paige the wife of John's second cousin. The link rests on strong evidence, though no single document states it: Ryan's father, Joe Cognetti, ran Joseph Notarianni Produce, a Scranton firm founded by his great-grandfather about 1925, until 1999, and in 2004 opened Caravia with Ryan and his own first cousins Peter and Marianne Cognetti, naming the store for Joe's grandmother Michelena Caravia of San Mango d'Aquino, Calabria, the same village as Helen Ferlaino. Michelena was the mother of Elizabeth Notarianni, Sal D. Cognetti's wife. Paige herself said in 2019 that her husband's family had been in the area for many generations. Scranton was also home to a separate, unrelated Cognetti family whose origins lay in Nicastro.",
+   "tags": [
+    "notable",
+    "politician"
+   ],
+   "summary": "Mayor of Scranton since 2020, elected to Congress for Pennsylvania's 8th district on 3 November 2026; wife of Ryan Cognetti, John's second cousin.",
+   "bio": "Paige Gebhardt Cognetti was born in Eugene, Oregon, in 1980 and grew up in Beaverton, Oregon. She studied English literature at the University of Oregon's Clark Honors College, graduating summa cum laude, and later took an MBA at Harvard Business School. She taught English in Japan on the JET Programme, worked as an investment advisor in New York, raised money for Rep. Chris Carney's 2006 campaign and the 2008 Clinton and Obama presidential campaigns, and served in the Obama administration as senior advisor to the Under Secretary for International Affairs at the US Treasury.\n\nIn Scranton she served on the school board in 2017 and 2018 and as special assistant to Pennsylvania Auditor General Eugene DePasquale. In November 2019 she won a special election for mayor as an independent, and on 6 January 2020 she was sworn in as Scranton's 36th mayor and the first woman to hold the office, with her husband Ryan looking on. She was re-elected as a Democrat in November 2021 with more than 72 per cent of the vote and again on 4 November 2025 with about 57 per cent in a three-way race. In 2024 she was appointed to the US Trade Representative's Advisory Committee for Trade Policy and Negotiations, and in May 2026 she won the Democratic nomination unopposed for Pennsylvania's 8th congressional district, to face Rep. Rob Bresnahan in the November 2026 general election.\n\nShe married Ryan Cognetti on 17 October 2017; they had met years earlier when she stopped at his shop, Caravia Fresh Foods in Clarks Summit, just before closing and he made her a sandwich. The couple have two daughters. Ryan is a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti and his wife Elizabeth Notarianni, which makes him John's second cousin and Paige the wife of John's second cousin. The link rests on strong evidence, though no single document states it: Ryan's father, Joe Cognetti, ran Joseph Notarianni Produce, a Scranton firm founded by his great-grandfather about 1925, until 1999, and in 2004 opened Caravia with Ryan and his own first cousins Peter and Marianne Cognetti, naming the store for Joe's grandmother Michelena Caravia of San Mango d'Aquino, Calabria, the same village as Helen Ferlaino. Michelena was the mother of Elizabeth Notarianni, Sal D. Cognetti's wife. Paige herself said in 2019 that her husband's family had been in the area for many generations. Scranton was also home to a separate, unrelated Cognetti family whose origins lay in Nicastro.\n\nOn 3 November 2026 she won Pennsylvania's 8th congressional district, which takes in Lackawanna, Pike and Wayne counties and part of Luzerne, defeating the first-term Republican Rob Bresnahan with about 55 percent of the vote, and she takes her seat in the House in January 2027.",
    "sources": [
     "Wikipedia: https://en.wikipedia.org/wiki/Paige_Cognetti",
     "[R4-S1] Wikipedia, 'Paige Cognetti' (secondary) https://en.wikipedia.org/wiki/Paige_Cognetti",
@@ -59788,7 +59896,9 @@ window.FAMILY_DATA = {
     "[R4-S7] Caravia Fresh Foods, 'Learn More About Caravia' (secondary) https://caraviafreshfoods.com/about",
     "[R4-S8] Charles Erickson, 'Prepared meals are most popular at Caravia Fresh Foods in Clarks Summit', Abington Journal, 8 Aug 2018 (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
     "[R4-S9] Happenings Magazine, 'Gourmet Market. Fresh Menu. Caravia Fresh Foods.' (18 Jun 2014) (secondary) https://www.happeningsmagazinepa.com/2014/06/18/gourmet-market-fresh-menu-caravia-fresh-foods/",
-    "[R4-S10] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/"
+    "[R4-S10] Times-Tribune obituary of Elizabeth Notarianni Cognetti, 21 Sep 1994 (Newspapers.com clipping 111353618) (secondary) https://www.newspapers.com/article/the-times-tribune-obituary-for-elizabeth/111353618/",
+    "Pennsylvania Capital-Star / States Newsroom, 3 Nov 2026, \"Democrat flips NEPA congressional seat\" (Paige Cognetti defeats Rep. Rob Bresnahan; AP call at 10:41 p.m. with 55.2%): https://www.newsfromthestates.com/article/democrat-flips-nepa-congressional-seat-key-pick-battle-control-us-house",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
    ],
    "handoff": {
     "section": "3.5 Italian lines (Petriello, Gianetta, Cognetti, Ferlaino, Fiorillo, Colosimo)",
@@ -59831,6 +59941,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Won PA-8 on 3 Nov 2026 (States Newsroom / AP)."
     }
    ],
    "researchNotes": "Mayor of Scranton from 2020; husband Ryan Cognetti. Note that Scranton also had an unrelated Nicastro-origin Cognetti family.\n\nround5: Kinship solved, on strong but not yet single-document evidence: Paige's husband Ryan Cognetti is a great-grandson of Frank and Helen (Ferlaino) Cognetti through their son Sal D. Cognetti. That makes Ryan John Meier's second cousin, and Paige John's second cousin's wife. The chain is:\n(1) Happenings Magazine (2020) identifies Paige's husband as Ryan Cognetti, owner of Caravia Fresh Foods in Clarks Summit; they married on 17 Oct 2017 ([R4-S3]). The Times-Tribune/AP photo of her 6 Jan 2020 swearing-in shows 'her husband, Ryan Cognetti' looking on ([R4-S6]).\n(2) Caravia's own 'About' page says the family opened the store in 2004 after Joe Cognetti sold his wholesale produce business: 'Joe and his son, Ryan, and cousins Peter and Marianne'. The store is named for 'Joseph's grandmother, Michelena Caravia, from San Mango, Calabria' ([R4-S7]).\n(3) The Abington Journal (2018) says Joseph Cognetti owned Joseph Notarianni Produce until 1999, a Scranton firm founded by his great-grandfather nearly 75 years earlier. Ryan, the general manager, then 39, owned a third of the store; Joseph's first cousins Peter and Marianne Cognetti owned another third ([R4-S8]).\n(4) The 1994 Times-Tribune obituary of Elizabeth Notarianni Cognetti (Newspapers.com clipping; page blocked, content known only from a search summary) calls her the daughter of Joseph and Michelene Notarianni and widow of Sal D. Cognetti Sr. (d. 1990). Sal is Frank and Helen's son Salvatore, who married Elizabeth Notarianni in 1943 (site record H0499).\nSo Joe Cognetti's grandmother Michelena (Caravia) Notarianni is Elizabeth's mother, which makes Joe a son of Sal and Elizabeth. Joe's 'first cousins' Peter and Marianne fit a son of Ralph or of Anthony R. (both had a son Peter) and his wife. Fittingly, the Caravia name brings another San Mango d'Aquino family into the tree, the same village as Helen Ferlaino. Paige herself said in 2019 that her husband's family had been in the area 'for many, many generations'. The couple have two young daughters (minors, not researched).\n\nPublic career: born in 1980 in Oregon and raised in Beaverton, Paige Gebhardt studied at the University of Oregon's Clark Honors College (BA summa cum laude) and Harvard Business School (MBA). She taught English in Japan (JET), worked as an investment advisor in New York, raised money for Rep. Chris Carney (2006) and the 2008 Clinton and Obama campaigns, and was a senior Treasury advisor under Obama. In Scranton she served on the school board (2017-18) and as special assistant to Auditor General DePasquale. She then won the November 2019 special mayoral election as an independent, becoming Scranton's first female mayor on 6 Jan 2020. She was re-elected in 2021 and again on 4 Nov 2025. In May 2026 she won the Democratic nomination unopposed for Pennsylvania's 8th congressional district against Rep. Rob Bresnahan; the general election is in November 2026.",
@@ -59940,6 +60054,12 @@ window.FAMILY_DATA = {
      "date": "2024 (Biden appointee)",
      "place": "",
      "description": "[R4-S1]"
+    },
+    {
+     "title": "Elected to Congress, Pennsylvania 8th district",
+     "date": "2026-11-03",
+     "place": "Scranton, Lackawanna County, Pennsylvania, USA",
+     "description": "Defeated Rep. Rob Bresnahan; the AP called the race at 10:41 p.m. with 55.2 percent."
     }
    ],
    "funFacts": [
@@ -66244,13 +66364,18 @@ window.FAMILY_DATA = {
     {
      "label": "FamilySearch ID",
      "value": "GJ6T-768"
+    },
+    {
+     "label": "Children",
+     "value": "Three sons (per a summary of her 1994 obituary), among them Joe Cognetti and very probably Sal Cognetti Jr."
     }
    ],
    "researchNotes": "Round 6: Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, a daughter of Joseph Notarianni (1880-1940) and Michelina Carabia (1889-1953), both born in Italy ([R6-S1], [R6-S2]). She was working as a stenographer and living at 1219 Providence Road when she married Sal Cognetti, then a soldier, on 16 October 1943; her father had died three years earlier ([R6-S1]). She outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery ([R6-S2]).",
    "sources": [
     "[R6-S1] Lackawanna County Orphans' Court, marriage license application no. 1716 (1943), Sal. Cognetti and Elizabeth Notarianni, p. 216; FS index VF7J-VGD (bride), image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
     "[R6-S2] FamilySearch tree GJ6T-768, Elizabeth Mary Notarianni 1914-1994 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJ6T-768",
-    "[R6-S3] 1930 US census, Scranton, 'Elizabeth Notarianna' in her parents' household; FS index XH3R-8DM, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/0/image.jpg"
+    "[R6-S3] 1930 US census, Scranton, 'Elizabeth Notarianna' in her parents' household; FS index XH3R-8DM, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/0/image.jpg",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
    ],
    "media": [
     {
@@ -66268,7 +66393,10 @@ window.FAMILY_DATA = {
     }
    ],
    "summary": "Scranton stenographer, daughter of the produce dealer Joseph Notarianni, who married Sal Cognetti in 1943; wife of John's great-uncle.",
-   "bio": "Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, the daughter of Joseph Notarianni, a produce dealer, and Michelina Caravia, both born in Italy; her mother came from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino. She was working as a stenographer and living on Providence Road when she married Sal Cognetti, then a soldier home on leave, on 16 October 1943; her father had died three years earlier. The same priest had married Sal's brother Ralph in 1940.\n\nShe outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery."
+   "bio": "Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, the daughter of Joseph Notarianni, a produce dealer, and Michelina Caravia, both born in Italy; her mother came from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino. She was working as a stenographer and living on Providence Road when she married Sal Cognetti, then a soldier home on leave, on 16 October 1943; her father had died three years earlier. The same priest had married Sal's brother Ralph in 1940.\n\nShe outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery.",
+   "openQuestions": [
+    "Her 1994 Times-Tribune obituary (Newspapers.com clipping 111353618) would name her three sons and settle Sal Cognetti Jr. and Ryan Cognetti's descent."
+   ]
   },
   {
    "id": "H0500",
@@ -71253,7 +71381,8 @@ window.FAMILY_DATA = {
    "summary": "Son of Ebenezer Smith and grandfather of Judge J. Lawrence Smith; John's 3rd cousin 7 times removed.",
    "bio": "Richard Smith was the son of Ebenezer Smith and Anna, a daughter of Job Smith 2d. He married Sarah, daughter of Edmund Smith 2d and Charity, who was herself a daughter of Job Smith 2d. He died in 1811. His son Richard Smith 5th (1770–1831) was the father of Judge J. Lawrence Smith, so Richard is the ancestor through whom the judge's family, including James Clinch Smith and Bessie Smith White, descends from Job Smith. Through Job Smith 1st he is John's 3rd cousin 7 times removed.",
    "sources": [
-    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog"
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog",
+    "Smithtown Matters, 11 Oct 2013, \"News of Long Ago: Judge John Lawrence Smith, Part I\": https://www.smithtownmatters.com/article-archive-chronological/2013/10/11/news-of-long-ago-judge-john-lawrence-smith-part-i.html"
    ],
    "manual": true,
    "researchLog": [
@@ -71266,7 +71395,10 @@ window.FAMILY_DATA = {
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "researchNotes": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d. Married Sarah, daughter of Edmund Smith 2d and Charity (daughter of Job 2d). Father of Richard Smith 5th (1770-1831) and so grandfather of Judge J. Lawrence Smith. He is the link that puts the J. Lawrence Smith family (James Clinch Smith, Bessie Smith White) on Job Smith's line: 3rd cousin 7 times removed of John via Job 1st."
+   "researchNotes": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d. Married Sarah, daughter of Edmund Smith 2d and Charity (daughter of Job 2d). Father of Richard Smith 5th (1770-1831) and so grandfather of Judge J. Lawrence Smith. He is the link that puts the J. Lawrence Smith family (James Clinch Smith, Bessie Smith White) on Job Smith's line: 3rd cousin 7 times removed of John via Job 1st.",
+   "openQuestions": [
+    "The link Ebenezer Smith → Richard Smith (b. 1735) → Richard Smith (1770–1830, m. Eliza Nicoll) rests on an online tree and a Smithtown Matters article (11 Oct 2013); Pelletreau's appendix or F. K. Smith (1967) would confirm it, and with it the descent of Judge J. Lawrence Smith, the Whites and the Clinch Smiths."
+   ]
   },
   {
    "id": "M0068",
@@ -71815,7 +71947,8 @@ window.FAMILY_DATA = {
    "sources": [
     "[R4-S1] Caravia Fresh Foods 'About' page (secondary) https://caraviafreshfoods.com/about",
     "[R4-S2] Abington Journal, 8 Aug 2018, Caravia Fresh Foods article (secondary) https://www.theabingtonjournal.com/top-stories/36359/prepared-meals-are-most-popular-at-caravia-fresh-foods-in-clarks-summit",
-    "[R4-S3] Happenings Magazine, 31 Mar 2020 (secondary) https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/"
+    "[R4-S3] Happenings Magazine, 31 Mar 2020 (secondary) https://www.happeningsmagazinepa.com/2020/03/31/scrantons-mayor-looks-to-the-future-as-she-works-to-change-how-scranton-does-business/",
+    "Caravia Fresh Foods, About page (\"Joe and his son, Ryan\"; named for Joe's grandmother Michelena Caravia of San Mango): https://caraviafreshfoods.com/about"
    ],
    "manual": true,
    "researchLog": [
@@ -72283,7 +72416,8 @@ window.FAMILY_DATA = {
    "bio": "Domenica Cognetti, called Aunt Min by the family, married Joseph F. Cognetti in 1946, after his Army Air Corps service. In 1966 the couple started the Cognetti family Thanksgiving in a back room of Brutico's restaurant in Old Forge, a gathering that grew to 151 relatives by its fiftieth year. They retired to Glenmaura in Moosic and died two months apart in 2009, after 63 years of marriage. Her maiden name is not yet known.",
    "sources": [
     "[R6-S1] Joseph F. Cognetti obituary, Times-Tribune 28 May 2009 (Legacy id 23435864; blocked; search summary only) (secondary) https://www.legacy.com/us/obituaries/thetimes-tribune/name/joseph-cognetti-obituary?id=23435864",
-    "[R6-S2] 'Family celebrates 50 years of Thanksgiving gatherings', Times-Tribune, Nov 2016 (Hinerfeld reprint) (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/"
+    "[R6-S2] 'Family celebrates 50 years of Thanksgiving gatherings', Times-Tribune, Nov 2016 (Hinerfeld reprint) (secondary) https://hinerfeldcommercial.com/2016/11/30/family-celebrates-50-years-of-thanksgiving-gatherings/",
+    "Candy Hall of Fame, Joseph F. Cognetti (inducted 1975): \"Together, the couple raised two children, Maria and Ralph\": https://candyhalloffame.org/inductee/joseph-f-cognetti/"
    ],
    "manual": true,
    "researchLog": [
@@ -73225,6 +73359,689 @@ window.FAMILY_DATA = {
    },
    "summary": "Wife of William Richard McAvoy Jr. and mother of his two daughters; John's great-great-aunt by marriage.",
    "bio": "Leonorah Remmell Lockard (1897–1966) married William Richard McAvoy Jr. of Plymouth. Their daughters were Elizabeth Kathryn (1917–1991) and Charlotte (1924–2001)."
+  },
+  {
+   "id": "M0128",
+   "given": "Maria P.",
+   "surname": "Cognetti",
+   "sex": "F",
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "notable"
+   ],
+   "sources": [
+    "Candy Hall of Fame, Joseph F. Cognetti (inducted 1975): \"Together, the couple raised two children, Maria and Ralph\": https://candyhalloffame.org/inductee/joseph-f-cognetti/",
+    "Cognetti Law Group, Harrisburg, firm biography of Maria P. Cognetti (born in Manhattan; law school 1978; past president of the AAML; father \"left school in the eighth grade\" and built a company; brother \"a lawyer and judge in New York\"): https://www.cognettilaw.com/our-firm/maria-p-cognetti-esq-/",
+    "American Academy of Matrimonial Lawyers, national president 2013–14: https://aaml.org/?p=3683",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Child of John's great-uncle Joseph F. Cognetti and Domenica: the Candy Hall of Fame names their two children as Maria and Ralph, and her firm biography and his court listing fit. No single document yet names both parents and child together, so the link is probable (strong)."
+   },
+   "summary": "Harrisburg family lawyer and national president of the American Academy of Matrimonial Lawyers in 2013–14; daughter of Joseph F. Cognetti and John's mother's first cousin.",
+   "bio": "Maria P. Cognetti is a daughter of Joseph F. Cognetti, the Scranton confectionery broker and Candy Hall of Fame member, and his wife Domenica, and so a first cousin of John's mother, Sharon. She was born in Manhattan. Her firm biography recalls a father who left school after the eighth grade and built a successful company, and a brother who became a lawyer and judge in New York.\n\nShe finished law school in 1978, began practising in Pittsburgh, and went on to found the Cognetti Law Group in Harrisburg, a family-law firm she leads as managing partner. A Fellow of the American Academy of Matrimonial Lawyers, she served as its national president in 2013–14 and received its Fellow of the Year award in 2011, the same year the Pennsylvania Bar Association gave her a Special Achievement Award for her work on the state's Child Custody Act.",
+   "facts": [
+    {
+     "label": "Profession",
+     "value": "Family lawyer; founder and managing partner, Cognetti Law Group, Harrisburg"
+    },
+    {
+     "label": "Honours",
+     "value": "AAML national president 2013–14; AAML Fellow of the Year 2011; Pennsylvania Bar Association Special Achievement Award 2011"
+    }
+   ],
+   "media": [
+    {
+     "url": "https://www.cognettilaw.com/our-firm/maria-p-cognetti-esq-/",
+     "type": "link",
+     "title": "Cognetti Law Group: Maria P. Cognetti",
+     "date": "",
+     "source": "Cognetti Law Group",
+     "note": "",
+     "people": []
+    }
+   ]
+  },
+  {
+   "id": "M0129",
+   "given": "Ralph A.",
+   "surname": "Cognetti",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "notable"
+   ],
+   "sources": [
+    "Candy Hall of Fame, Joseph F. Cognetti (inducted 1975): \"Together, the couple raised two children, Maria and Ralph\": https://candyhalloffame.org/inductee/joseph-f-cognetti/",
+    "Town of Pompey, NY, Justice Court (Hon. Ralph Cognetti, Town Justice): https://www.townofpompey.org/justice-court",
+    "Martindale-Hubbell, Ralph A. Cognetti, attorney: https://www.martindale.com/attorney/ralph-a-cognetti-560275/",
+    "Cognetti Law Group, Harrisburg, firm biography of Maria P. Cognetti (born in Manhattan; law school 1978; past president of the AAML; father \"left school in the eighth grade\" and built a company; brother \"a lawyer and judge in New York\"): https://www.cognettilaw.com/our-firm/maria-p-cognetti-esq-/",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Child of John's great-uncle Joseph F. Cognetti and Domenica: the Candy Hall of Fame names their two children as Maria and Ralph, and her firm biography and his court listing fit. No single document yet names both parents and child together, so the link is probable (strong)."
+   },
+   "summary": "Syracuse-area attorney and elected Town Justice of Pompey, New York; son of Joseph F. Cognetti and John's mother's first cousin.",
+   "bio": "Ralph A. Cognetti is a son of Joseph F. Cognetti and Domenica, and so a first cousin of John's mother, Sharon. He became a lawyer in upstate New York, practising in the Syracuse area, and was elected Town Justice of Pompey in Onondaga County, where he presides over the town court. His sister Maria's biography describes him as a lawyer and judge in New York.",
+   "facts": [
+    {
+     "label": "Profession",
+     "value": "Attorney; Town Justice, Pompey, New York"
+    }
+   ]
+  },
+  {
+   "id": "M0130",
+   "given": "Salvatore",
+   "surname": "Cognetti",
+   "suffix": "Jr.",
+   "nickname": "Sal",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "notable"
+   ],
+   "sources": [
+    "Best Lawyers, Sal Cognetti Jr., Cognetti & Cimini, Scranton (white-collar criminal defense; Georgetown J.D. 1973): https://www.bestlawyers.com/lawyers/sal-cognetti-jr/133949",
+    "Pennsylvania Court of Judicial Discipline, current and historical list of judges: https://www.pacourts.us/courts/court-of-judicial-discipline/current-and-historical-list-of-judges",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Probable son of John's great-uncle Sal D. Cognetti Sr. and Elizabeth Notarianni: her obituary names her husband as Sal D. Cognetti Sr. and three sons, and his age fits. No loaded document names his parents; Elizabeth's 1994 obituary would settle it."
+   },
+   "summary": "Scranton trial lawyer, former federal prosecutor and judge of Pennsylvania's Court of Judicial Discipline; probably a son of Sal D. Cognetti Sr. and John's mother's first cousin.",
+   "bio": "Sal Cognetti Jr. is very probably a son of Sal D. Cognetti Sr. and Elizabeth Notarianni of Scranton, and so a first cousin of John's mother, Sharon, and a brother of Joe Cognetti. He took his law degree at Georgetown in 1973, served as an Assistant United States Attorney from 1974 to 1979, and became one of Scranton's best-known defense lawyers, a partner in Cognetti & Cimini specialising in white-collar criminal defense. He has also sat as a judge of Pennsylvania's Court of Judicial Discipline.",
+   "facts": [
+    {
+     "label": "Profession",
+     "value": "Attorney, Cognetti & Cimini, Scranton; Assistant U.S. Attorney 1974–79; judge, Pennsylvania Court of Judicial Discipline"
+    },
+    {
+     "label": "Education",
+     "value": "Georgetown University, J.D. 1973"
+    }
+   ]
+  },
+  {
+   "id": "M0131",
+   "given": "Robert Winthrop",
+   "surname": "White",
+   "sex": "M",
+   "birth": {
+    "date": "1921-09-19",
+    "place": "St. James, Suffolk County, New York, USA"
+   },
+   "death": {
+    "date": "2002-09-21",
+    "place": "Smithtown, Suffolk County, New York, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "artist"
+   ],
+   "sources": [
+    "Wikipedia, \"Robert White (sculptor)\": Robert Winthrop White, b. 19 Sep 1921 St. James, N.Y., third of eight children of Lawrence Grant White and Laura Astor Chanler; m. Claire Nicolas Aug 1947; d. 21 Sep 2002 Smithtown, N.Y.; sons Sebastian and Christian: https://en.wikipedia.org/wiki/Robert_White_(sculptor)",
+    "TBR News Media, 26 Jun 2015, \"Gallery North presents Christian White: Fifty Years of Art\" (great-grandson of Stanford White, son of sculptor Robert White and poet Claire Nicolas White): https://tbrnewsmedia.com/?p=5898",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from Bull Smith through the Smiths of Smithtown, Judge J. Lawrence Smith, Bessie Springs Smith and Stanford White. Two weak links: on his side, Ebenezer Smith → Richard (1735) → Richard (1770) rests on an online tree and a local-history article; on John's side, Bull Smith descent depends on Keturah Tuttle's parentage (about 70%)."
+   },
+   "summary": "Long Island sculptor and teacher (1921–2002), grandson of Stanford White; John's 7th cousin 3 times removed.",
+   "bio": "Robert Winthrop White was born at St. James, Long Island, on 19 September 1921, the third of eight children of the architect Lawrence Grant White and Laura Astor Chanler, and a grandson of Stanford White and Bessie Springs Smith. He became a sculptor and teacher and lived for most of his life at St. James, near his grandfather's estate, Box Hill. In August 1947 he married Claire Nicolas, the Dutch-born poet; their sons included the painter Christian White. He died at Smithtown on 21 September 2002, aged eighty-one."
+  },
+  {
+   "id": "M0132",
+   "given": "Claire",
+   "surname": "Nicolas",
+   "sex": "F",
+   "aka": [
+    "Claire Nicolas White"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "author"
+   ],
+   "sources": [
+    "Wikipedia, \"Robert White (sculptor)\": Robert Winthrop White, b. 19 Sep 1921 St. James, N.Y., third of eight children of Lawrence Grant White and Laura Astor Chanler; m. Claire Nicolas Aug 1947; d. 21 Sep 2002 Smithtown, N.Y.; sons Sebastian and Christian: https://en.wikipedia.org/wiki/Robert_White_(sculptor)",
+    "TBR News Media, 26 Jun 2015, \"Gallery North presents Christian White: Fifty Years of Art\" (great-grandson of Stanford White, son of sculptor Robert White and poet Claire Nicolas White): https://tbrnewsmedia.com/?p=5898",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Wife of Robert White, a grandson of Stanford White; related to John by marriage only."
+   },
+   "summary": "Poet Claire Nicolas White, daughter of the Dutch artist Joep Nicolas and wife of the sculptor Robert White.",
+   "bio": "Claire Nicolas White, a poet, was the daughter of the Dutch artist Joep Nicolas. In August 1947 she married the sculptor Robert White, a grandson of Stanford White, and they made their home at St. James on Long Island; the painter Christian White is their son."
+  },
+  {
+   "id": "M0133",
+   "given": "Christian",
+   "surname": "White",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "artist"
+   ],
+   "sources": [
+    "TBR News Media, 26 Jun 2015, \"Gallery North presents Christian White: Fifty Years of Art\" (great-grandson of Stanford White, son of sculptor Robert White and poet Claire Nicolas White): https://tbrnewsmedia.com/?p=5898",
+    "Wikipedia, \"Robert White (sculptor)\": Robert Winthrop White, b. 19 Sep 1921 St. James, N.Y., third of eight children of Lawrence Grant White and Laura Astor Chanler; m. Claire Nicolas Aug 1947; d. 21 Sep 2002 Smithtown, N.Y.; sons Sebastian and Christian: https://en.wikipedia.org/wiki/Robert_White_(sculptor)",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from Bull Smith through the Smiths of Smithtown, Judge J. Lawrence Smith, Bessie Springs Smith and Stanford White. Two weak links: on his side, Ebenezer Smith → Richard (1735) → Richard (1770) rests on an online tree and a local-history article; on John's side, Bull Smith descent depends on Keturah Tuttle's parentage (about 70%). Alive as of 2020; a fresher record would confirm."
+   },
+   "summary": "Painter and printmaker of Long Island, a master of trompe l'oeil and great-grandson of Stanford White; John's 8th cousin 3 times removed.",
+   "bio": "Christian White is a painter and printmaker known for trompe l'oeil, landscapes and figure painting, and the son of the sculptor Robert White and the poet Claire Nicolas White. Through his father he is a great-grandson of the architect Stanford White and of Bessie Springs Smith, a Bull Smith descendant, which makes him John's eighth cousin three times removed. He learned a sculptor's skills assisting his father, and in 2015 Gallery North in Setauket marked his career with the retrospective Christian White: Fifty Years of Art."
+  },
+  {
+   "id": "M0134",
+   "given": "",
+   "surname": "White",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Wikipedia, \"Robert White (sculptor)\": Robert Winthrop White, b. 19 Sep 1921 St. James, N.Y., third of eight children of Lawrence Grant White and Laura Astor Chanler; m. Claire Nicolas Aug 1947; d. 21 Sep 2002 Smithtown, N.Y.; sons Sebastian and Christian: https://en.wikipedia.org/wiki/Robert_White_(sculptor)",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "A son of Lawrence Grant White; which son is the father of Samuel G. White is not yet sourced."
+   },
+   "summary": "A son of the architect Lawrence Grant White and father of the architect Samuel G. White; his name is not yet established.",
+   "bio": "One of the sons of the architect Lawrence Grant White and Laura Astor Chanler was the father of the architect Samuel G. White. Which of the brothers it was has not yet been established; it does not change Samuel's degree of kinship to John."
+  },
+  {
+   "id": "M0135",
+   "given": "Samuel G.",
+   "surname": "White",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "artist",
+    "notable"
+   ],
+   "sources": [
+    "PBDW Architects, Samuel G. White, FAIA, founding partner; National Academician; author of The Houses of McKim, Mead & White, McKim, Mead & White: The Masterworks and Stanford White: Architect: https://www.pbdw.com/samuel-white",
+    "National Academy of Design, Samuel G. White: https://nationalacademy.emuseum.com/people/1818/samuel-g-white",
+    "Preservation Long Island, \"An Evening with Samuel G. White: The Architect as Client, Stanford White at Box Hill\", 18 Oct 2025: https://preservationlongisland.org/an-evening-with-samuel-g-whitethe-architect-as-client-stanford-white-at-box-hilloctober-18-2025/",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from Bull Smith through the Smiths of Smithtown, Judge J. Lawrence Smith, Bessie Springs Smith and Stanford White. Two weak links: on his side, Ebenezer Smith → Richard (1735) → Richard (1770) rests on an online tree and a local-history article; on John's side, Bull Smith descent depends on Keturah Tuttle's parentage (about 70%). Which son of Lawrence Grant White is his father is not yet sourced."
+   },
+   "summary": "Architect, founding partner of PBDW Architects, National Academician and author of the standard books on Stanford White, his great-grandfather; John's 8th cousin 3 times removed.",
+   "bio": "Samuel G. White is a great-grandson of Stanford White and Bessie Springs Smith through their son Lawrence Grant White, which makes him John's eighth cousin three times removed through Bull Smith. An architect since 1974, he is a founding partner of PBDW Architects in New York, a Fellow of the American Institute of Architects and a National Academician, and taught fine arts at New York University from 2000 to 2012. He has written the standard books on his great-grandfather's firm, among them The Houses of McKim, Mead & White, McKim, Mead & White: The Masterworks and Stanford White: Architect, and in October 2025 he lectured for Preservation Long Island on Stanford White at Box Hill, the family estate at St. James.",
+   "media": [
+    {
+     "url": "https://www.pbdw.com/samuel-white",
+     "type": "link",
+     "title": "PBDW Architects: Samuel G. White, FAIA",
+     "date": "",
+     "source": "PBDW Architects",
+     "note": "",
+     "people": []
+    }
+   ]
+  },
+  {
+   "id": "M0136",
+   "given": "Laura Astor",
+   "surname": "Chanler",
+   "sex": "F",
+   "aka": [
+    "Laura Chanler White"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Wikipedia, \"Robert White (sculptor)\": Robert Winthrop White, b. 19 Sep 1921 St. James, N.Y., third of eight children of Lawrence Grant White and Laura Astor Chanler; m. Claire Nicolas Aug 1947; d. 21 Sep 2002 Smithtown, N.Y.; sons Sebastian and Christian: https://en.wikipedia.org/wiki/Robert_White_(sculptor)",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Wife of Lawrence Grant White; related to John by marriage only."
+   },
+   "summary": "Laura Astor Chanler, wife of the architect Lawrence Grant White and mother of eight, among them the sculptor Robert White.",
+   "bio": "Laura Astor Chanler married the architect Lawrence Grant White, son of Stanford White and Bessie Springs Smith. They had eight children, the third of whom was the sculptor Robert Winthrop White, born at St. James in 1921."
+  },
+  {
+   "id": "M0137",
+   "given": "Elizabeth",
+   "surname": "Croop",
+   "sex": "F",
+   "birth": {
+    "date": "1787-06-10",
+    "place": "Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1873-06-10",
+    "place": "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "aka": [
+    "Elizabeth Belles",
+    "Elizabeth Croup"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "WikiTree Croop-4, Elizabeth (Croop) Belles (1787–1873), daughter of Philip Croup, wife of John Adam Belles: https://www.wikitree.com/wiki/Croop-4",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Daughter of Philip Croup of Newport Township (1787–1873), wife of John Adam Belles and great-great-grandmother of Gov. John S. Fine; John's 1st cousin 6 times removed.",
+   "bio": "Elizabeth Croop was born in Pennsylvania on 10 June 1787, a daughter of Philip Croup, the Palatine-born Revolutionary militiaman who settled in Newport Township in the Wyoming Valley. She married John Adam Belles of Hamilton Township, Northampton County, and they raised their children at Wanamie in Newport Township, among them Peter, Mary, Philip and Joseph. She died at Wanamie on 10 June 1873, her eighty-sixth birthday. Her great-grandson John S. Fine became governor of Pennsylvania."
+  },
+  {
+   "id": "M0138",
+   "given": "John Adam",
+   "surname": "Belles",
+   "sex": "M",
+   "birth": {
+    "date": "1790-11-12",
+    "place": "Hamilton Township, Northampton County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1843-09-22",
+    "place": "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "WikiTree Croop-4, Elizabeth (Croop) Belles (1787–1873), daughter of Philip Croup, wife of John Adam Belles: https://www.wikitree.com/wiki/Croop-4",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Of Hamilton Township, Northampton County, and Wanamie, Newport Township (1790–1843); husband of Elizabeth Croop.",
+   "bio": "John Adam Belles was born in Hamilton Township, Northampton County, Pennsylvania, on 12 November 1790. He married Elizabeth Croop, daughter of Philip Croup of Newport Township, and settled at Wanamie, where he died on 22 September 1843."
+  },
+  {
+   "id": "M0139",
+   "given": "Peter",
+   "surname": "Belles",
+   "sex": "M",
+   "birth": {
+    "date": "1812-10-12",
+    "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1892-08-31",
+    "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "WikiTree Belles-38, Peter Belles (1812–1892) of Newport Township, son of John Adam Belles and Elizabeth Croop, husband of Esther Thomas, father of Rebecca Belles (1835–1884): https://www.wikitree.com/wiki/Belles-38",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Newport Township farmer (1812–1892), son of John Adam Belles and Elizabeth Croop; great-grandfather of Gov. John S. Fine.",
+   "bio": "Peter Belles was born in Newport Township, Luzerne County, on 12 October 1812, the son of John Adam Belles and Elizabeth Croop. He married Esther Thomas, also of Newport Township, and their children included Rebecca, Benjamin B. and Amanda. He died in Newport Township on 31 August 1892."
+  },
+  {
+   "id": "M0140",
+   "given": "Esther",
+   "surname": "Thomas",
+   "sex": "F",
+   "birth": {
+    "date": "1814-06-05",
+    "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1880-03-21",
+    "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "WikiTree Belles-38, Peter Belles (1812–1892) of Newport Township, son of John Adam Belles and Elizabeth Croop, husband of Esther Thomas, father of Rebecca Belles (1835–1884): https://www.wikitree.com/wiki/Belles-38",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Married into the family descending from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Wife of Peter Belles of Newport Township (1814–1880).",
+   "bio": "Esther Thomas was born in Newport Township, Luzerne County, on 5 June 1814 and married Peter Belles. She died in Newport Township on 21 March 1880."
+  },
+  {
+   "id": "M0141",
+   "given": "Rebecca",
+   "surname": "Belles",
+   "sex": "F",
+   "birth": {
+    "date": "1835",
+    "place": "Newport Center, Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1884",
+    "place": "Newport Center, Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "WikiTree Belles-38, Peter Belles (1812–1892) of Newport Township, son of John Adam Belles and Elizabeth Croop, husband of Esther Thomas, father of Rebecca Belles (1835–1884): https://www.wikitree.com/wiki/Belles-38",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Daughter of Peter Belles of Newport Center (1835–1884), wife of William H. Croop and grandmother of Gov. John S. Fine.",
+   "bio": "Rebecca Belles was born at Newport Center in Newport Township in 1835, a daughter of Peter Belles and Esther Thomas. She married William H. Croop; their daughter Margaret became the mother of Governor John S. Fine. Rebecca died at Newport Center in 1884."
+  },
+  {
+   "id": "M0142",
+   "given": "William H.",
+   "surname": "Croop",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "WikiTree Belles-38, Peter Belles (1812–1892) of Newport Township, son of John Adam Belles and Elizabeth Croop, husband of Esther Thomas, father of Rebecca Belles (1835–1884): https://www.wikitree.com/wiki/Belles-38",
+    "Pennsylvania Historical and Museum Commission, \"Governor John Sydney Fine\": born 10 Apr 1893 at Alden, Newport Township; son of Jacob W. Fine and Margaret Croop Fine; Luzerne County judge 1927–47, Superior Court 1947–50, governor 1951–55; buried Oak Lawn Cemetery, Nanticoke: https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Married into the family descending from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Husband of Rebecca Belles and grandfather of Gov. John S. Fine.",
+   "bio": "William H. Croop married Rebecca Belles of Newport Center, a great-granddaughter of Philip Croup. Their daughter Margaret married Jacob W. Fine and was the mother of Governor John S. Fine. Whether William descends from one of the other Croop families of the Wyoming Valley has not been worked out."
+  },
+  {
+   "id": "M0143",
+   "given": "Margaret",
+   "surname": "Croop",
+   "sex": "F",
+   "aka": [
+    "Margaret Croop Fine"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Pennsylvania Historical and Museum Commission, \"Governor John Sydney Fine\": born 10 Apr 1893 at Alden, Newport Township; son of Jacob W. Fine and Margaret Croop Fine; Luzerne County judge 1927–47, Superior Court 1947–50, governor 1951–55; buried Oak Lawn Cemetery, Nanticoke: https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+    "WikiTree Belles-38, Peter Belles (1812–1892) of Newport Township, son of John Adam Belles and Elizabeth Croop, husband of Esther Thomas, father of Rebecca Belles (1835–1884): https://www.wikitree.com/wiki/Belles-38",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Mother of Gov. John S. Fine, daughter of William H. Croop and Rebecca Belles.",
+   "bio": "Margaret Croop was a daughter of William H. Croop and Rebecca Belles of Newport Township. She married Jacob W. Fine, a coal miner, and in 1893 gave birth to their son John Sydney Fine in a mine-patch house at Alden; the family later moved to Nanticoke."
+  },
+  {
+   "id": "M0144",
+   "given": "Jacob W.",
+   "surname": "Fine",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Pennsylvania Historical and Museum Commission, \"Governor John Sydney Fine\": born 10 Apr 1893 at Alden, Newport Township; son of Jacob W. Fine and Margaret Croop Fine; Luzerne County judge 1927–47, Superior Court 1947–50, governor 1951–55; buried Oak Lawn Cemetery, Nanticoke: https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Married into the family descending from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Coal miner of Alden and Nanticoke, father of Gov. John S. Fine.",
+   "bio": "Jacob W. Fine was a coal miner in Newport Township, Luzerne County. With his wife Margaret Croop he lived in a mine-patch house at Alden, where their son John Sydney Fine was born in 1893, and the family later moved to Nanticoke."
+  },
+  {
+   "id": "M0145",
+   "given": "John Sydney",
+   "surname": "Fine",
+   "sex": "M",
+   "birth": {
+    "date": "1893-04-10",
+    "place": "Alden, Newport Township, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1978-05-21"
+   },
+   "burial": {
+    "place": "Oak Lawn Cemetery, Nanticoke, Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [
+    "notable",
+    "politician"
+   ],
+   "sources": [
+    "Pennsylvania Historical and Museum Commission, \"Governor John Sydney Fine\": born 10 Apr 1893 at Alden, Newport Township; son of Jacob W. Fine and Margaret Croop Fine; Luzerne County judge 1927–47, Superior Court 1947–50, governor 1951–55; buried Oak Lawn Cemetery, Nanticoke: https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+    "WikiTree Belles-38, Peter Belles (1812–1892) of Newport Township, son of John Adam Belles and Elizabeth Croop, husband of Esther Thomas, father of Rebecca Belles (1835–1884): https://www.wikitree.com/wiki/Belles-38",
+    "WikiTree Croop-4, Elizabeth (Croop) Belles (1787–1873), daughter of Philip Croup, wife of John Adam Belles: https://www.wikitree.com/wiki/Croop-4",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Descends from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+   },
+   "summary": "Governor of Pennsylvania 1951–55, born in a mine patch at Alden in Newport Township; Luzerne County judge and Superior Court judge; John's 5th cousin 2 times removed.",
+   "bio": "John Sydney Fine was born on 10 April 1893 in a mine-patch house at Alden, Newport Township, Luzerne County, the son of Jacob W. Fine, a coal miner, and Margaret Croop. Through his mother he descended from Philip Croup, the Palatine settler of Newport Township and a brother of John's ancestor Frederick Croup, which makes him John's fifth cousin twice removed. The family moved to Nanticoke, where he went to high school, and he took his law degree at Dickinson in 1914, joined the Luzerne County bar in 1915 and studied at Trinity College, Dublin, in 1919 while stationed in Ireland.\n\nHe rose through Luzerne County Republican politics, serving as county chairman in 1922–23, and in 1927 Governor Gifford Pinchot appointed him to the Court of Common Pleas, where voters kept him for twenty years. Governor James Duff named him to the Superior Court in 1947, and in 1950 he left the bench to run for governor. He served from January 1951 to January 1955. He married Helene Pennebecker Morgan in 1939; she died in April 1951, three months into his term, leaving two sons. In later years he farmed at Loyalville in Luzerne County. He died on 21 May 1978 and was buried in Oak Lawn Cemetery, Nanticoke.",
+   "notable": "Governor of Pennsylvania, 1951–1955; judge of the Luzerne County Court of Common Pleas 1927–47 and of the Pennsylvania Superior Court 1947–50.",
+   "events": [
+    {
+     "title": "Judge, Luzerne County Court of Common Pleas",
+     "date": "1927-01-03",
+     "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+     "description": "Appointed by Gov. Gifford Pinchot; elected 1927 and re-elected 1939."
+    },
+    {
+     "title": "Judge, Pennsylvania Superior Court",
+     "date": "1947-07-15",
+     "place": "Pennsylvania, USA",
+     "description": "Appointed by Gov. James Duff; elected that November."
+    },
+    {
+     "title": "Governor of Pennsylvania",
+     "date": "1951-01-16",
+     "place": "Harrisburg, Pennsylvania, USA",
+     "description": "Served until 18 January 1955."
+    }
+   ],
+   "residences": [
+    {
+     "date": "1893",
+     "place": "Alden, Newport Township, Luzerne County, Pennsylvania, USA",
+     "note": "born in a mine-patch house"
+    },
+    {
+     "date": "1900s–1950",
+     "place": "Nanticoke, Luzerne County, Pennsylvania, USA"
+    },
+    {
+     "date": "after 1955",
+     "place": "Loyalville, Luzerne County, Pennsylvania, USA",
+     "note": "farm"
+    }
+   ],
+   "media": [
+    {
+     "url": "https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+     "type": "link",
+     "title": "PHMC: Governor John Sydney Fine",
+     "date": "",
+     "source": "Pennsylvania Historical and Museum Commission",
+     "note": "",
+     "people": []
+    }
+   ]
+  },
+  {
+   "id": "M0146",
+   "given": "Helene Pennebecker",
+   "surname": "Morgan",
+   "sex": "F",
+   "death": {
+    "date": "1951-04-23"
+   },
+   "aka": [
+    "Helene Fine"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Pennsylvania Historical and Museum Commission, \"Governor John Sydney Fine\": born 10 Apr 1893 at Alden, Newport Township; son of Jacob W. Fine and Margaret Croop Fine; Luzerne County judge 1927–47, Superior Court 1947–50, governor 1951–55; buried Oak Lawn Cemetery, Nanticoke: https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the November 2026 notable-relatives research."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Wife of Gov. John S. Fine; related to John by marriage only."
+   },
+   "summary": "Wife of Gov. John S. Fine, who died three months into his term (d. 1951).",
+   "bio": "Helene Pennebecker Morgan married John S. Fine, then a Luzerne County judge, on 5 December 1939. They had two sons. She died on 23 April 1951 after surgery, three months after her husband became governor of Pennsylvania."
   }
  ],
  "families": [
@@ -75732,7 +76549,8 @@ window.FAMILY_DATA = {
   {
    "id": "HF0108",
    "children": [
-    "H0207"
+    "H0207",
+    "M0137"
    ],
    "husband": "H0200"
   },
@@ -76392,7 +77210,8 @@ window.FAMILY_DATA = {
   {
    "id": "HF0190",
    "children": [
-    "M0087"
+    "M0087",
+    "M0130"
    ],
    "husband": "I282695503586",
    "wife": "H0499",
@@ -76772,7 +77591,10 @@ window.FAMILY_DATA = {
   },
   {
    "id": "MF0032",
-   "children": [],
+   "children": [
+    "M0128",
+    "M0129"
+   ],
    "wife": "M0099",
    "husband": "I282695503585"
   },
@@ -76863,14 +77685,82 @@ window.FAMILY_DATA = {
    "children": []
   },
   {
-   "id": "CF0426",
+   "id": "MF0046",
+   "husband": "H0305",
+   "wife": "M0136",
+   "children": [
+    "M0131",
+    "M0134"
+   ]
+  },
+  {
+   "id": "MF0047",
+   "husband": "M0131",
+   "wife": "M0132",
+   "marriage": {
+    "date": "1947-08"
+   },
+   "children": [
+    "M0133"
+   ]
+  },
+  {
+   "id": "MF0048",
+   "husband": "M0134",
+   "children": [
+    "M0135"
+   ]
+  },
+  {
+   "id": "MF0049",
+   "husband": "M0138",
+   "wife": "M0137",
+   "children": [
+    "M0139"
+   ]
+  },
+  {
+   "id": "MF0050",
+   "husband": "M0139",
+   "wife": "M0140",
+   "children": [
+    "M0141"
+   ]
+  },
+  {
+   "id": "MF0051",
+   "husband": "M0142",
+   "wife": "M0141",
+   "children": [
+    "M0143"
+   ]
+  },
+  {
+   "id": "MF0052",
+   "husband": "M0144",
+   "wife": "M0143",
+   "children": [
+    "M0145"
+   ]
+  },
+  {
+   "id": "MF0053",
+   "husband": "M0145",
+   "wife": "M0146",
+   "marriage": {
+    "date": "1939-12-05"
+   },
+   "children": []
+  },
+  {
+   "id": "CF0434",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0427",
+   "id": "CF0435",
    "children": [
     "I282608085305"
    ],
@@ -76879,7 +77769,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 341,
-  "research": 638
+  "research": 657
  },
  "stories": [
   {
@@ -78921,7 +79811,22 @@ window.FAMILY_DATA = {
     "H0066"
    ],
    "body": "When William McAvoy died at Plymouth in November 1899 he left his wife Catherine, a Plymouth girl of thirty-nine known to everyone as Katie, with nine children: Mary, twenty, Agnes, Katie, William, Josephine, Gertrude, Anna, Elizabeth, who was not yet two, and Claire, born only eight weeks before. Twelve children had been born to the couple in twenty years; three had died small.\n\nKatie did not go under. When the census taker came down Main Street in June 1900 he found her at the head of her own household, keeping a restaurant, with Mary earning as a milliner and the five middle children at school. About 1903 she married again, to John H. Jones, a Welsh-born coal miner some twenty years younger than herself, and the whole family moved to 214 Vine Street. By 1910 the house was full of working daughters: Mary made hats on her own account, Agnes and Katie were nurses, Josephine worked the switchboard at the telephone company and Gertrude made squibs, the fuses that fired the shots in the mines, while William was a machinist at the automobile works. Also at the table were Mary's little boy William Harris and Katie's cousin Michael Murphy, a carpenter.\n\nThe daughters scattered as they married: Katherine to Ohio and Jamestown, New York; Gertrude and Anna to Camden, New Jersey; Anna on to Syracuse. Agnes and Elizabeth stayed close to home, and Elizabeth, the dry-goods clerk, married Frank McGuire in 1923 and became John's great-grandmother. Katie Jones lived on at Vine Street until her death in 1931, and was buried at Larksville."
+  },
+  {
+   "id": "S203",
+   "title": "The governor from Alden",
+   "date": "1787–1978",
+   "people": [
+    "H0200",
+    "M0137",
+    "M0139",
+    "M0141",
+    "M0143",
+    "M0145",
+    "I282608078175"
+   ],
+   "body": "Philip Croup came to America from Jettenbach in the Palatinate as a one-year-old on his father's emigrant ship in 1754, served as a private in the Northampton County militia during the Revolution, and about 1805 moved north to Newport Township in the Wyoming Valley, following his younger brother Frederick, John's ancestor, who had settled on the Susquehanna flats nearby. Philip's daughter Elizabeth, born in 1787, married John Adam Belles from Northampton County and raised her family at Wanamie, in the heart of the township.\n\nThe Belleses stayed. Elizabeth's son Peter farmed in Newport Township all his life; his daughter Rebecca was born and died at Newport Center; and Rebecca's daughter Margaret Croop married Jacob Fine, a coal miner. By then the farms were giving way to collieries, and in April 1893 Margaret's son John Sydney Fine was born in a company mine-patch house at Alden, a short walk from Wanamie, where his great-great-grandmother had lived.\n\nThe miner's son went to high school in Nanticoke, took a law degree at Dickinson, studied at Trinity College, Dublin, while serving in Ireland after the First World War, and came home to Luzerne County politics. He sat on the county bench for twenty years and on the state Superior Court for three, and in January 1951 he was sworn in as governor of Pennsylvania. When he died in 1978 he was buried at Nanticoke, a few miles from Alden, among the descendants of the Palatine settlers who had cleared Newport Township a century and a half before."
   }
  ],
- "generated": "2026-10-14"
+ "generated": "2026-11-12"
 };
