@@ -1198,6 +1198,199 @@
       "aka": [
         "Leonorah Remmell Lockard"
       ]
+    },
+    {
+      "id": "M0128",
+      "given": "Maria P.",
+      "surname": "Cognetti",
+      "sex": "F"
+    },
+    {
+      "id": "M0129",
+      "given": "Ralph A.",
+      "surname": "Cognetti",
+      "sex": "M"
+    },
+    {
+      "id": "M0130",
+      "given": "Salvatore",
+      "surname": "Cognetti",
+      "suffix": "Jr.",
+      "nickname": "Sal",
+      "sex": "M"
+    },
+    {
+      "id": "M0131",
+      "given": "Robert Winthrop",
+      "surname": "White",
+      "sex": "M",
+      "birth": {
+        "date": "1921-09-19",
+        "place": "St. James, Suffolk County, New York, USA"
+      },
+      "death": {
+        "date": "2002-09-21",
+        "place": "Smithtown, Suffolk County, New York, USA"
+      }
+    },
+    {
+      "id": "M0132",
+      "given": "Claire",
+      "surname": "Nicolas",
+      "sex": "F",
+      "aka": [
+        "Claire Nicolas White"
+      ]
+    },
+    {
+      "id": "M0133",
+      "given": "Christian",
+      "surname": "White",
+      "sex": "M"
+    },
+    {
+      "id": "M0134",
+      "given": "",
+      "surname": "White",
+      "sex": "M"
+    },
+    {
+      "id": "M0135",
+      "given": "Samuel G.",
+      "surname": "White",
+      "sex": "M"
+    },
+    {
+      "id": "M0136",
+      "given": "Laura Astor",
+      "surname": "Chanler",
+      "sex": "F",
+      "aka": [
+        "Laura Chanler White"
+      ]
+    },
+    {
+      "id": "M0137",
+      "given": "Elizabeth",
+      "surname": "Croop",
+      "sex": "F",
+      "birth": {
+        "date": "1787-06-10",
+        "place": "Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1873-06-10",
+        "place": "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA"
+      },
+      "aka": [
+        "Elizabeth Belles",
+        "Elizabeth Croup"
+      ]
+    },
+    {
+      "id": "M0138",
+      "given": "John Adam",
+      "surname": "Belles",
+      "sex": "M",
+      "birth": {
+        "date": "1790-11-12",
+        "place": "Hamilton Township, Northampton County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1843-09-22",
+        "place": "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0139",
+      "given": "Peter",
+      "surname": "Belles",
+      "sex": "M",
+      "birth": {
+        "date": "1812-10-12",
+        "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1892-08-31",
+        "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0140",
+      "given": "Esther",
+      "surname": "Thomas",
+      "sex": "F",
+      "birth": {
+        "date": "1814-06-05",
+        "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1880-03-21",
+        "place": "Newport Township, Luzerne County, Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0141",
+      "given": "Rebecca",
+      "surname": "Belles",
+      "sex": "F",
+      "birth": {
+        "date": "1835",
+        "place": "Newport Center, Newport Township, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1884",
+        "place": "Newport Center, Newport Township, Luzerne County, Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0142",
+      "given": "William H.",
+      "surname": "Croop",
+      "sex": "M"
+    },
+    {
+      "id": "M0143",
+      "given": "Margaret",
+      "surname": "Croop",
+      "sex": "F",
+      "aka": [
+        "Margaret Croop Fine"
+      ]
+    },
+    {
+      "id": "M0144",
+      "given": "Jacob W.",
+      "surname": "Fine",
+      "sex": "M"
+    },
+    {
+      "id": "M0145",
+      "given": "John Sydney",
+      "surname": "Fine",
+      "sex": "M",
+      "birth": {
+        "date": "1893-04-10",
+        "place": "Alden, Newport Township, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1978-05-21"
+      },
+      "burial": {
+        "place": "Oak Lawn Cemetery, Nanticoke, Luzerne County, Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0146",
+      "given": "Helene Pennebecker",
+      "surname": "Morgan",
+      "sex": "F",
+      "death": {
+        "date": "1951-04-23"
+      },
+      "aka": [
+        "Helene Fine"
+      ]
     }
   ],
   "families": [
@@ -1459,7 +1652,10 @@
     },
     {
       "id": "MF0032",
-      "children": [],
+      "children": [
+        "M0128",
+        "M0129"
+      ],
       "wife": "M0099",
       "husband": "I282695503585"
     },
@@ -1547,6 +1743,74 @@
       "id": "MF0045",
       "husband": "M0115",
       "wife": "M0127",
+      "children": []
+    },
+    {
+      "id": "MF0046",
+      "husband": "H0305",
+      "wife": "M0136",
+      "children": [
+        "M0131",
+        "M0134"
+      ]
+    },
+    {
+      "id": "MF0047",
+      "husband": "M0131",
+      "wife": "M0132",
+      "marriage": {
+        "date": "1947-08"
+      },
+      "children": [
+        "M0133"
+      ]
+    },
+    {
+      "id": "MF0048",
+      "husband": "M0134",
+      "children": [
+        "M0135"
+      ]
+    },
+    {
+      "id": "MF0049",
+      "husband": "M0138",
+      "wife": "M0137",
+      "children": [
+        "M0139"
+      ]
+    },
+    {
+      "id": "MF0050",
+      "husband": "M0139",
+      "wife": "M0140",
+      "children": [
+        "M0141"
+      ]
+    },
+    {
+      "id": "MF0051",
+      "husband": "M0142",
+      "wife": "M0141",
+      "children": [
+        "M0143"
+      ]
+    },
+    {
+      "id": "MF0052",
+      "husband": "M0144",
+      "wife": "M0143",
+      "children": [
+        "M0145"
+      ]
+    },
+    {
+      "id": "MF0053",
+      "husband": "M0145",
+      "wife": "M0146",
+      "marriage": {
+        "date": "1939-12-05"
+      },
       "children": []
     }
   ],
@@ -1672,7 +1936,8 @@
     {
       "id": "HF0190",
       "addChildren": [
-        "M0087"
+        "M0087",
+        "M0130"
       ]
     },
     {
@@ -1706,6 +1971,13 @@
         "M0120"
       ],
       "reason": "The 1900 and 1910 censuses list all nine surviving children of William R. McAvoy and Catherine Murphy in her household."
+    },
+    {
+      "id": "HF0108",
+      "addChildren": [
+        "M0137"
+      ],
+      "reason": "Elizabeth (Croop) Belles, daughter of Philip Croup, per WikiTree Croop-4; ancestor of Gov. John S. Fine."
     }
   ],
   "setParents": [

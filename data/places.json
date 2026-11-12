@@ -5485,5 +5485,61 @@
   "label": "Woodbury, Gloucester County, New Jersey, United States",
   "matched": "Woodbury, Gloucester County, New Jersey, USA",
   "precision": "exact"
+ },
+ "Alden, Newport Township, Luzerne County, Pennsylvania, USA": {
+  "lat": 41.18203,
+  "lon": -76.01242,
+  "label": "Alden, Newport Township, Luzerne County, Pennsylvania, 18634, United States",
+  "matched": "Alden, Newport Township, Luzerne County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Hamilton Township, Northampton County, Pennsylvania, USA": {
+  "lat": 40.64333,
+  "lon": -75.32608,
+  "label": "Hamilton Street, Prospect Heights, Middletown, Bethlehem Township, Northampton County, Pennsylvania, 18016, United States",
+  "matched": "Hamilton Township, Northampton County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Harrisburg, Pennsylvania, USA": {
+  "lat": 40.26631,
+  "lon": -76.88611,
+  "label": "Harrisburg, Dauphin County, Pennsylvania, United States",
+  "matched": "Harrisburg, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Loyalville, Luzerne County, Pennsylvania, USA": {
+  "lat": 41.33619,
+  "lon": -76.09909,
+  "label": "Loyalville, Lake Township, Luzerne County, Pennsylvania, 18618, United States",
+  "matched": "Loyalville, Luzerne County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Newport Center, Newport Township, Luzerne County, Pennsylvania, USA": {
+  "lat": 41.18925,
+  "lon": -76.02548,
+  "label": "Newport Center, Newport Township, Luzerne County, Pennsylvania, 18634, United States",
+  "matched": "Newport Center, Newport Township, Luzerne County, Pennsylvania, USA",
+  "precision": "exact"
+ },
+ "Oak Lawn Cemetery, Nanticoke, Luzerne County, Pennsylvania, USA": {
+  "lat": 41.20527,
+  "lon": -76.00494,
+  "label": "Nanticoke, Luzerne County, Pennsylvania, 18634, United States",
+  "matched": "Nanticoke, Luzerne County, Pennsylvania, USA",
+  "precision": "approximate"
+ },
+ "St. James, Suffolk County, New York, USA": {
+  "lat": 40.8827,
+  "lon": -73.14808,
+  "label": "Saint James, Town of Smithtown, Suffolk County, New York, 11780, United States",
+  "matched": "St. James, Suffolk County, New York, USA",
+  "precision": "exact"
+ },
+ "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA": {
+  "lat": 41.17342,
+  "lon": -76.03548,
+  "label": "Wanamie, Newport Township, Luzerne County, Pennsylvania, 18611, United States",
+  "matched": "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA",
+  "precision": "exact"
  }
 }

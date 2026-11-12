@@ -1,0 +1,74 @@
+{
+  "id": "M0145",
+  "manual": true,
+  "tags": [
+    "notable",
+    "politician"
+  ],
+  "sources": [
+    "Pennsylvania Historical and Museum Commission, \"Governor John Sydney Fine\": born 10 Apr 1893 at Alden, Newport Township; son of Jacob W. Fine and Margaret Croop Fine; Luzerne County judge 1927–47, Superior Court 1947–50, governor 1951–55; buried Oak Lawn Cemetery, Nanticoke: https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+    "WikiTree Belles-38, Peter Belles (1812–1892) of Newport Township, son of John Adam Belles and Elizabeth Croop, husband of Esther Thomas, father of Rebecca Belles (1835–1884): https://www.wikitree.com/wiki/Belles-38",
+    "WikiTree Croop-4, Elizabeth (Croop) Belles (1787–1873), daughter of Philip Croup, wife of John Adam Belles: https://www.wikitree.com/wiki/Croop-4",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-11-12",
+      "note": "Added from the November 2026 notable-relatives research."
+    }
+  ],
+  "link": {
+    "confidence": "probable",
+    "note": "Descends from John's 6th-great-grandparents Johann Andreas Grub and Maria Elisabetha Christmann through their son Philip Croup; the middle generations come from WikiTree and the governor's parents from the PHMC biography."
+  },
+  "summary": "Governor of Pennsylvania 1951–55, born in a mine patch at Alden in Newport Township; Luzerne County judge and Superior Court judge; John's 5th cousin 2 times removed.",
+  "bio": "John Sydney Fine was born on 10 April 1893 in a mine-patch house at Alden, Newport Township, Luzerne County, the son of Jacob W. Fine, a coal miner, and Margaret Croop. Through his mother he descended from Philip Croup, the Palatine settler of Newport Township and a brother of John's ancestor Frederick Croup, which makes him John's fifth cousin twice removed. The family moved to Nanticoke, where he went to high school, and he took his law degree at Dickinson in 1914, joined the Luzerne County bar in 1915 and studied at Trinity College, Dublin, in 1919 while stationed in Ireland.\n\nHe rose through Luzerne County Republican politics, serving as county chairman in 1922–23, and in 1927 Governor Gifford Pinchot appointed him to the Court of Common Pleas, where voters kept him for twenty years. Governor James Duff named him to the Superior Court in 1947, and in 1950 he left the bench to run for governor. He served from January 1951 to January 1955. He married Helene Pennebecker Morgan in 1939; she died in April 1951, three months into his term, leaving two sons. In later years he farmed at Loyalville in Luzerne County. He died on 21 May 1978 and was buried in Oak Lawn Cemetery, Nanticoke.",
+  "notable": "Governor of Pennsylvania, 1951–1955; judge of the Luzerne County Court of Common Pleas 1927–47 and of the Pennsylvania Superior Court 1947–50.",
+  "events": [
+    {
+      "title": "Judge, Luzerne County Court of Common Pleas",
+      "date": "1927-01-03",
+      "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+      "description": "Appointed by Gov. Gifford Pinchot; elected 1927 and re-elected 1939."
+    },
+    {
+      "title": "Judge, Pennsylvania Superior Court",
+      "date": "1947-07-15",
+      "place": "Pennsylvania, USA",
+      "description": "Appointed by Gov. James Duff; elected that November."
+    },
+    {
+      "title": "Governor of Pennsylvania",
+      "date": "1951-01-16",
+      "place": "Harrisburg, Pennsylvania, USA",
+      "description": "Served until 18 January 1955."
+    }
+  ],
+  "residences": [
+    {
+      "date": "1893",
+      "place": "Alden, Newport Township, Luzerne County, Pennsylvania, USA",
+      "note": "born in a mine-patch house"
+    },
+    {
+      "date": "1900s–1950",
+      "place": "Nanticoke, Luzerne County, Pennsylvania, USA"
+    },
+    {
+      "date": "after 1955",
+      "place": "Loyalville, Luzerne County, Pennsylvania, USA",
+      "note": "farm"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://www.phmc.state.pa.us/portal/communities/governors/1951-2015/john-fine.html",
+      "type": "link",
+      "title": "PHMC: Governor John Sydney Fine",
+      "date": "",
+      "source": "Pennsylvania Historical and Museum Commission",
+      "note": "",
+      "people": []
+    }
+  ]
+}

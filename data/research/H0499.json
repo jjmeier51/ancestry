@@ -88,13 +88,18 @@
     {
       "label": "FamilySearch ID",
       "value": "GJ6T-768"
+    },
+    {
+      "label": "Children",
+      "value": "Three sons (per a summary of her 1994 obituary), among them Joe Cognetti and very probably Sal Cognetti Jr."
     }
   ],
   "researchNotes": "Round 6: Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, a daughter of Joseph Notarianni (1880-1940) and Michelina Carabia (1889-1953), both born in Italy ([R6-S1], [R6-S2]). She was working as a stenographer and living at 1219 Providence Road when she married Sal Cognetti, then a soldier, on 16 October 1943; her father had died three years earlier ([R6-S1]). She outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery ([R6-S2]).",
   "sources": [
     "[R6-S1] Lackawanna County Orphans' Court, marriage license application no. 1716 (1943), Sal. Cognetti and Elizabeth Notarianni, p. 216; FS index VF7J-VGD (bride), image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/1/image.jpg",
     "[R6-S2] FamilySearch tree GJ6T-768, Elizabeth Mary Notarianni 1914-1994 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/GJ6T-768",
-    "[R6-S3] 1930 US census, Scranton, 'Elizabeth Notarianna' in her parents' household; FS index XH3R-8DM, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/0/image.jpg"
+    "[R6-S3] 1930 US census, Scranton, 'Elizabeth Notarianna' in her parents' household; FS index XH3R-8DM, image attached to FS tree GJ6T-768 (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/GJ6T-768/images/i/0/image.jpg",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
   ],
   "media": [
     {
@@ -112,5 +117,8 @@
     }
   ],
   "summary": "Scranton stenographer, daughter of the produce dealer Joseph Notarianni, who married Sal Cognetti in 1943; wife of John's great-uncle.",
-  "bio": "Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, the daughter of Joseph Notarianni, a produce dealer, and Michelina Caravia, both born in Italy; her mother came from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino. She was working as a stenographer and living on Providence Road when she married Sal Cognetti, then a soldier home on leave, on 16 October 1943; her father had died three years earlier. The same priest had married Sal's brother Ralph in 1940.\n\nShe outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery."
+  "bio": "Elizabeth Mary Notarianni was born in Scranton on 24 September 1914, the daughter of Joseph Notarianni, a produce dealer, and Michelina Caravia, both born in Italy; her mother came from San Mango d'Aquino, the same Calabrian village as Helen Ferlaino. She was working as a stenographer and living on Providence Road when she married Sal Cognetti, then a soldier home on leave, on 16 October 1943; her father had died three years earlier. The same priest had married Sal's brother Ralph in 1940.\n\nShe outlived Sal by four years, dying in Scranton on 20 September 1994, and was buried in Cathedral Cemetery.",
+  "openQuestions": [
+    "Her 1994 Times-Tribune obituary (Newspapers.com clipping 111353618) would name her three sons and settle Sal Cognetti Jr. and Ryan Cognetti's descent."
+  ]
 }

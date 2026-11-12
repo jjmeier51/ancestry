@@ -1,0 +1,34 @@
+{
+  "id": "M0130",
+  "manual": true,
+  "tags": [
+    "notable"
+  ],
+  "sources": [
+    "Best Lawyers, Sal Cognetti Jr., Cognetti & Cimini, Scranton (white-collar criminal defense; Georgetown J.D. 1973): https://www.bestlawyers.com/lawyers/sal-cognetti-jr/133949",
+    "Pennsylvania Court of Judicial Discipline, current and historical list of judges: https://www.pacourts.us/courts/court-of-judicial-discipline/current-and-historical-list-of-judges",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-11-12",
+      "note": "Added from the November 2026 notable-relatives research."
+    }
+  ],
+  "link": {
+    "confidence": "probable",
+    "note": "Probable son of John's great-uncle Sal D. Cognetti Sr. and Elizabeth Notarianni: her obituary names her husband as Sal D. Cognetti Sr. and three sons, and his age fits. No loaded document names his parents; Elizabeth's 1994 obituary would settle it."
+  },
+  "summary": "Scranton trial lawyer, former federal prosecutor and judge of Pennsylvania's Court of Judicial Discipline; probably a son of Sal D. Cognetti Sr. and John's mother's first cousin.",
+  "bio": "Sal Cognetti Jr. is very probably a son of Sal D. Cognetti Sr. and Elizabeth Notarianni of Scranton, and so a first cousin of John's mother, Sharon, and a brother of Joe Cognetti. He took his law degree at Georgetown in 1973, served as an Assistant United States Attorney from 1974 to 1979, and became one of Scranton's best-known defense lawyers, a partner in Cognetti & Cimini specialising in white-collar criminal defense. He has also sat as a judge of Pennsylvania's Court of Judicial Discipline.",
+  "facts": [
+    {
+      "label": "Profession",
+      "value": "Attorney, Cognetti & Cimini, Scranton; Assistant U.S. Attorney 1974–79; judge, Pennsylvania Court of Judicial Discipline"
+    },
+    {
+      "label": "Education",
+      "value": "Georgetown University, J.D. 1973"
+    }
+  ]
+}

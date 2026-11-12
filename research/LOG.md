@@ -4,6 +4,34 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-11-12 — Notable relatives research merged
+
+- Source: John's Claude Docs report "Living notable relatives of Johnny
+  Meier" (11 Nov 2026), read through the Docs connector. Its working notes
+  (`research/notes/living_notables_2026-11/`) were not in this repository.
+  Key public pages re-checked: PHMC (Gov. Fine), Candy Hall of Fame (Joseph
+  F. Cognetti's children), Cognetti Law Group, Town of Pompey, Best Lawyers,
+  PBDW, TBR News (Christian White), States Newsroom (PA-8), Wikipedia
+  (Robert White), WikiTree API (Croop-4, Belles-38, Pringle-2378).
+- Added 19 people `M0128`–`M0146`: Maria P. and Ralph A. Cognetti (children
+  of Joseph F., `MF0032`); Sal Cognetti Jr. (son of Sal D., `HF0190`, via
+  familyUpdates); the White line below Lawrence Grant White (Laura Astor
+  Chanler, sculptor Robert Winthrop White 1921–2002 and poet Claire Nicolas,
+  painter Christian White, architect Samuel G. White under an unnamed son,
+  `MF0046`–`MF0048`); Gov. John S. Fine's descent from Philip Croup
+  (`HF0108` + `MF0049`–`MF0053`). Story `S203` "The governor from Alden".
+- Updated: Paige Cognetti (won PA-8, 3 Nov 2026); Joseph F. Cognetti
+  (children); Elizabeth Notarianni (three sons); Lawrence Grant White (fun
+  facts: Samuel, Christian, Suzannah Lessard d. Jan 2026); William Hammond
+  and Thomas Hammond (`notable`: famous-kin chart cousins, possible /
+  speculative only, not added as people); Philip Croup (notable
+  descendant); Richard Smith (1735) open question on the Ebenezer link.
+- Bull Smith's confidence lowered confirmed → probable: the whole Long
+  Island descent rests on Keturah Tuttle's parentage (probable, ~70%).
+- Corrections: Chester Ransom 1C7R → 1C6R; Jacobus (TAG) cited for John
+  Thompson's wife Mary (already marked Disproven); Akerly 1898 added to Anna
+  Symmes Harrison. Reference summary appended to `research/lines.md`.
+
 ## 2026-10-14 — Elizabeth McAvoy's siblings: twelve born, nine lived
 
 - John believed Elizabeth McAvoy McGuire was one of six children. The record

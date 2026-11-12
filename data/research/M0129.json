@@ -1,0 +1,32 @@
+{
+  "id": "M0129",
+  "manual": true,
+  "tags": [
+    "notable"
+  ],
+  "sources": [
+    "Candy Hall of Fame, Joseph F. Cognetti (inducted 1975): \"Together, the couple raised two children, Maria and Ralph\": https://candyhalloffame.org/inductee/joseph-f-cognetti/",
+    "Town of Pompey, NY, Justice Court (Hon. Ralph Cognetti, Town Justice): https://www.townofpompey.org/justice-court",
+    "Martindale-Hubbell, Ralph A. Cognetti, attorney: https://www.martindale.com/attorney/ralph-a-cognetti-560275/",
+    "Cognetti Law Group, Harrisburg, firm biography of Maria P. Cognetti (born in Manhattan; law school 1978; past president of the AAML; father \"left school in the eighth grade\" and built a company; brother \"a lawyer and judge in New York\"): https://www.cognettilaw.com/our-firm/maria-p-cognetti-esq-/",
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-11-12",
+      "note": "Added from the November 2026 notable-relatives research."
+    }
+  ],
+  "link": {
+    "confidence": "probable",
+    "note": "Child of John's great-uncle Joseph F. Cognetti and Domenica: the Candy Hall of Fame names their two children as Maria and Ralph, and her firm biography and his court listing fit. No single document yet names both parents and child together, so the link is probable (strong)."
+  },
+  "summary": "Syracuse-area attorney and elected Town Justice of Pompey, New York; son of Joseph F. Cognetti and John's mother's first cousin.",
+  "bio": "Ralph A. Cognetti is a son of Joseph F. Cognetti and Domenica, and so a first cousin of John's mother, Sharon. He became a lawyer in upstate New York, practising in the Syracuse area, and was elected Town Justice of Pompey in Onondaga County, where he presides over the town court. His sister Maria's biography describes him as a lawyer and judge in New York.",
+  "facts": [
+    {
+      "label": "Profession",
+      "value": "Attorney; Town Justice, Pompey, New York"
+    }
+  ]
+}
