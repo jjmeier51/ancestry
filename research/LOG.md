@@ -4,6 +4,29 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-11-12 — Alva Tuttle (1968) pages read
+
+- John sent page images of Alva M. Tuttle, Tuttle-Tuthill Lines in America
+  (1968): List of Contributing Compilers, pp. 307, 311, 312, 356. These were
+  the top record in the Bull Smith report's "what would settle it" list.
+- Result: Alva's source for Keturah's parents (p. 356), for John Tuthill
+  c.1730's family (p. 311) and for son John 1753 (p. 312) is the code LTV =
+  Lotta (Tuthill) Vail, a contributing compiler b. 7 Sep 1880. No primary
+  record is cited, so Keturah's parentage (and Bull Smith) stays probable;
+  next best: Orange County deeds 1755–1810 or a John Tuthill administration.
+- New from p. 356: Keturah living in Luzerne Co. 1816; thirteen children,
+  including Jane m. Absalom Case (added `M0150`/`M0151`, `MF0055`) and
+  Thomas Jr.'s wife Mary Boston (`M0152`, `MF0056`). Conflicts noted:
+  Joshua b. 1799 m. "Betty" Ives (site 1793, Martha Ives); Daniel's wife
+  Martha Linn (site Lum); Martha b. c.1775 (site c.1770–72).
+- From p. 312: Keturah's brother John (1753–c.1806), will 27 Sep 1803
+  Wantage NJ, proved 19 May 1806; m. (1) Anna Bull, (2) 1788 Fanny Brewster
+  dau. of Francis & Mary (Strong) Brewster (`M0153`–`M0155`).
+- From p. 311: other Orange County John Tuthills (c.1722–1794 Minisink;
+  1735–1787 Goshen), so Benjamin Tuthill's 1795 "brother John" is ambiguous.
+  p. 307 has nothing on the line. Pages 311, 312, 356 and the compilers'
+  list attached as media.
+
 ## 2026-11-12 — Bull Smith chain and celebrity links (second round)
 
 - Sources: John's doc "Bull Smith and Matt Damon: how far the records go"

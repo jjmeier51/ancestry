@@ -31,6 +31,10 @@
     {
       "label": "Find a Grave",
       "value": "269816651"
+    },
+    {
+      "label": "Children (Alva Tuttle 1968)",
+      "value": "Thirteen: Martha, Elizabeth, James, Daniel, John, Charity, Hannah, Thomas, Amelia, Keturah, Jane, Temperance and Joshua"
     }
   ],
   "sources": [
@@ -49,13 +53,15 @@
     "[R4-S4] Names of Persons for Whom Marriage Licenses Were Issued by the Secretary of the Province of New York, Previous to 1784 (Albany, 1860), full text searched (derivative) https://archive.org/details/namesofpersonsfo00newy",
     "History of DeKalb County, Indiana (1885) and The Lamoureux Record (1919), both giving her maiden name as Tuttle/Tuthill",
     "Ruttenber & Clark, History of Orange County (1881): Lamoreaux and Prindle families neighbours at Smith's Clove: https://archive.org/details/historyoforangec00rut",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
   ],
   "openQuestions": [
     "Primary proof of her parents (colonial group): Orange Co. records, Alva Tuttle's sources.",
     "Is there a Cornwall/Monroe church record (e.g. Bethlehem Presbyterian) of Keturah's marriage to Thomas Lamoreaux, c. 1772?",
     "Any record naming Keturah Tuttle as the daughter of John Tuthill and Temperance Smith. Every Long Island line, Bull Smith and the presidential cousins included, depends on it.",
-    "Alva Tuttle, Tuttle-Tuthill Lines (1968), pp. 311–312 and 356, free on FamilySearch Books (item 481721) with a login, to see what source he used for Keturah's parents."
+    "Alva Tuttle's source for her parents turns out to be a family contributor, Lotta (Tuthill) Vail (born 1880), not a record. The proof still has to come from an Orange County deed (Thomas Lamoreaux and Keturah his wife selling Tuthill land, 1755–1810) or an administration of John Tuthill's estate."
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -78,6 +84,30 @@
       "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
       "note": "",
       "file": "media/I282608055482/ancestry-screenshot-img-7794.jpg"
+    },
+    {
+      "type": "record",
+      "title": "Alva Tuttle, Tuttle-Tuthill Lines (1968), p. 356: Keturah Tuthill, her parents and thirteen children",
+      "date": "1968",
+      "source": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), via FamilySearch Books; supplied by John",
+      "note": "",
+      "file": "media/I282608055482/alva-tuttle-1968-p356-keturah-tuthill.jpg",
+      "people": [
+        "I282608055492",
+        "I282608055634",
+        "I282695583810"
+      ]
+    },
+    {
+      "type": "record",
+      "title": "Alva Tuttle (1968), List of Contributing Compilers: LTV = Lotta (Tuthill) Vail",
+      "date": "1968",
+      "source": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), via FamilySearch Books; supplied by John",
+      "note": "",
+      "file": "media/I282608055482/alva-tuttle-1968-contributing-compilers.jpg",
+      "people": [
+        "I282608055492"
+      ]
     }
   ],
   "researchLog": [
@@ -112,6 +142,10 @@
     {
       "date": "2026-11-12",
       "note": "12 Nov 2026 report: maiden name confirmed in compiled histories (1885, 1919); parentage probable (75–80%); Lamoreaux and Prindle families were neighbours at Smith's Clove (Ruttenber & Clark 1881)."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "Alva Tuttle pp. 311–312, 356 read from page images John supplied. His source for Keturah's parents is 'LTV' = Lotta (Tuthill) Vail, a contributing compiler (b. 1880), not a primary record: the link stays probable. New: living in Luzerne Co. in 1816; a thirteenth child, Jane (m. Absalom Case), added as M0150."
     }
   ],
   "residences": [
@@ -121,5 +155,5 @@
       "note": "Her husband Thomas Lamoureux and probable brothers James Tuttle and John Tuthill all signed the 1775 Articles of Association in Cornwall Precinct [R4-S3]"
     }
   ],
-  "researchNotes": "Keturah Tuttle was born in Dec 1755 at Woodbury Clove, Orange Co., NY (SAR application ACN 58344 gives 1755 at 'Woodbury Clove', matching Alva Tuttle). She was probably a daughter of John Tuthill (c.1730-c.1770) and Temperance Smith (Alva Tuttle, Tuttle-Tuthill Lines, 1968, p.311: children twins James & John 1753, twins Ezekiel & William c.1754, Keturah ~1755, Samuel and Daniel); her children's names James, Temperance and Keturah follow that family. Her uncles Capt. Francis Smith and Capt. Austin Smith commanded the Woodbury Clove and Upper Clove militia companies in 1775-76, with her husband as ensign. She married Thomas Lamoreaux and moved with him to Plymouth (1790) and Jackson Twp. His will left her 'my best horse saddle & bridle' and $100. She died 10 Mar 1833 (obituary, Republican Farmer, Wilkes-Barre, 13 Mar 1833; WikiTree Tuthill-530; Find a Grave 269816651, Lamoreaux Family Burying Ground, Jackson Twp). The tree's death of 1842 (tree shows 1755-1842) is her daughter Keturah's (Harvey Book p.360). (Her Tuttle/Smith ancestors are covered in the colonial section.)\n\nNo record found this round names Keturah's parents directly, so her parentage stays probable. New circumstantial support: the 1775 Cornwall Precinct association list carries both 'James Tuttle' and 'John Tuthill' as well as her husband Thomas Lamoureux ([R4-S3]). On Alva Tuttle's reconstruction these are her twin brothers James and John (b. 1753). Her mother Temperance Smith's place in the family of James Smith & Jerusha Topping is now backed by two independent printed authorities: Pelletreau (1898) and C. H. Weygant's Family Record (1897), which names James and Jerusha's daughters Eunice, Keturah, Temperance and Jerusha and puts Capt. Austin and Capt. Francis Smith, their sons, at Woodbury Clove 'some twenty years or more' before the Revolution ([R4-S1], [R4-S2]). Keturah was evidently named for her aunt Keturah Smith.\n\nThe printed list of pre-1784 New York marriage licenses has no Lamoreaux-Tuthill (or Tuthill-Smith) entry, so these marriages were probably by banns ([R4-S4])."
+  "researchNotes": "Keturah Tuttle was born in Dec 1755 at Woodbury Clove, Orange Co., NY (SAR application ACN 58344 gives 1755 at 'Woodbury Clove', matching Alva Tuttle). She was probably a daughter of John Tuthill (c.1730-c.1770) and Temperance Smith (Alva Tuttle, Tuttle-Tuthill Lines, 1968, p.311: children twins James & John 1753, twins Ezekiel & William c.1754, Keturah ~1755, Samuel and Daniel); her children's names James, Temperance and Keturah follow that family. Her uncles Capt. Francis Smith and Capt. Austin Smith commanded the Woodbury Clove and Upper Clove militia companies in 1775-76, with her husband as ensign. She married Thomas Lamoreaux and moved with him to Plymouth (1790) and Jackson Twp. His will left her 'my best horse saddle & bridle' and $100. She died 10 Mar 1833 (obituary, Republican Farmer, Wilkes-Barre, 13 Mar 1833; WikiTree Tuthill-530; Find a Grave 269816651, Lamoreaux Family Burying Ground, Jackson Twp). The tree's death of 1842 (tree shows 1755-1842) is her daughter Keturah's (Harvey Book p.360). (Her Tuttle/Smith ancestors are covered in the colonial section.)\n\nNo record found this round names Keturah's parents directly, so her parentage stays probable. New circumstantial support: the 1775 Cornwall Precinct association list carries both 'James Tuttle' and 'John Tuthill' as well as her husband Thomas Lamoureux ([R4-S3]). On Alva Tuttle's reconstruction these are her twin brothers James and John (b. 1753). Her mother Temperance Smith's place in the family of James Smith & Jerusha Topping is now backed by two independent printed authorities: Pelletreau (1898) and C. H. Weygant's Family Record (1897), which names James and Jerusha's daughters Eunice, Keturah, Temperance and Jerusha and puts Capt. Austin and Capt. Francis Smith, their sons, at Woodbury Clove 'some twenty years or more' before the Revolution ([R4-S1], [R4-S2]). Keturah was evidently named for her aunt Keturah Smith.\n\nThe printed list of pre-1784 New York marriage licenses has no Lamoreaux-Tuthill (or Tuthill-Smith) entry, so these marriages were probably by banns ([R4-S4]).\n\nAlva Tuttle (1968), p. 356: 'KETURAH TUTHILL c1755 Orange Co,NY da John c1730 & Temp SMITH; liv 1816 Luzerne Co,Pa; m Orange Co,NY Thos d 1829 Luzerne Co,Pa s John & Charity (DAVENPORT) LAMOREAUX  LTV', followed by thirteen children: Martha c1775 m Saml Pringle; Eliz 30 Sep 1776 m Geo Palmer Ransom; Jas m Sarah Hunter, 10 ch; Danl m Martha Linn; John 21 Nov 1780, unm; Charity m Peter Steele; Hannah m Stpn Van Loon; Thos 19 Aug 1787 m Mary Boston; Amelia m Fletcher Case; Keturah 18 Feb 1791 m Saml Ackley; Jane m Absalom Case; Temp m Matthias Van Loon; Josh 30 Aug 1799 m Betty Ives. The source code LTV is Lotta (Tuthill) Vail, a contributing compiler born 7 Sep 1880 (List of Contributing Compilers): Alva credits her, not a primary record, for the whole Tuthill–Smith–Lamoreaux family."
 }

@@ -12,7 +12,8 @@
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
-    "[R4-S1] FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155"
+    "[R4-S1] FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -71,6 +72,12 @@
       "site": "Martha Lum/Linn",
       "found": "Maria Allen (FamilySearch)",
       "assessment": "Unresolved; possibly two marriages."
+    },
+    {
+      "field": "wife's surname",
+      "site": "Martha Lum",
+      "found": "Alva Tuttle (1968) p. 356: \"Danl m Martha LINN\"",
+      "assessment": "Probably one woman with the surname read two ways; a marriage or census record would settle the spelling."
     }
   ],
   "researchNotes": "Daniel (1796-1838) married Martha Lum/Linn.\n\nFamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father ([R4-S1]). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead."

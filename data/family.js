@@ -4675,6 +4675,18 @@ window.FAMILY_DATA = {
    "lon": -70.89567,
    "label": "Salem, Essex County, Massachusetts, 01970, United States",
    "precision": "exact"
+  },
+  "Minisink, Orange County, New York, USA": {
+   "lat": 41.33417,
+   "lon": -74.54583,
+   "label": "Town of Minisink, Orange County, New York, United States",
+   "precision": "exact"
+  },
+  "Wantage, Sussex County, New Jersey, USA": {
+   "lat": 41.23774,
+   "lon": -74.61477,
+   "label": "Wantage, Sussex County, New Jersey, 07461, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -9678,7 +9690,8 @@ window.FAMILY_DATA = {
     "WikiTree Lamoreaux-426: https://www.wikitree.com/wiki/Lamoreaux-426",
     "SAR Patriot P-232580 (Thomas Lamoreaux): https://sarpatriots.sar.org/patriot/display/232580",
     "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
-    "[R4-S1] 1800 US census, Plymouth Township, Luzerne Co., p.341, 'Samuel Prindle' household (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G99D-9DZ/images/i/0/image.jpg"
+    "[R4-S1] 1800 US census, Plymouth Township, Luzerne Co., p.341, 'Samuel Prindle' household (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G99D-9DZ/images/i/0/image.jpg",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
    ],
    "openQuestions": [
     "Birth (c.1770-72) and death dates and burial (Shupp's Cemetery?).",
@@ -9717,7 +9730,15 @@ window.FAMILY_DATA = {
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
    ],
-   "researchNotes": "Martha was the eldest daughter (born BET 1770 AND 1772) of Thomas and Keturah (Tuttle) Lamoreaux and married Samuel Pringle in 1790 (Harvey Book pp.134-135). She was therefore born about 1770-72. The tree's birth of 1776 ('1776-Deceased') and WikiTree's 18 Oct 1776, only 18 days after her sister Elizabeth's 30 Sep 1776, plus WikiTree's death date of 27 Aug 1859 (also Elizabeth's), look copied from Elizabeth; her real death date is unverified. Her father's will names 'Martha Pringle'. The SAR's record for Thomas lists Martha among his children, but all three approved applications (1995, 2014, 2017) go through his sons James or Thomas; John's application would open a new line through Martha."
+   "researchNotes": "Martha was the eldest daughter (born BET 1770 AND 1772) of Thomas and Keturah (Tuttle) Lamoreaux and married Samuel Pringle in 1790 (Harvey Book pp.134-135). She was therefore born about 1770-72. The tree's birth of 1776 ('1776-Deceased') and WikiTree's 18 Oct 1776, only 18 days after her sister Elizabeth's 30 Sep 1776, plus WikiTree's death date of 27 Aug 1859 (also Elizabeth's), look copied from Elizabeth; her real death date is unverified. Her father's will names 'Martha Pringle'. The SAR's record for Thomas lists Martha among his children, but all three approved applications (1995, 2014, 2017) go through his sons James or Thomas; John's application would open a new line through Martha.",
+   "conflicts": [
+    {
+     "field": "birth date",
+     "site": "About 1770–72 (eldest daughter; married 1790)",
+     "found": "Alva Tuttle (1968) p. 356: \"Martha c1775\"",
+     "assessment": "Alva's c.1775 is a round estimate; a bride of 1790 born in 1775 would have been fifteen, so the site keeps about 1770–72."
+    }
+   ]
   },
   {
    "id": "I282608055482",
@@ -9755,6 +9776,10 @@ window.FAMILY_DATA = {
     {
      "label": "Find a Grave",
      "value": "269816651"
+    },
+    {
+     "label": "Children (Alva Tuttle 1968)",
+     "value": "Thirteen: Martha, Elizabeth, James, Daniel, John, Charity, Hannah, Thomas, Amelia, Keturah, Jane, Temperance and Joshua"
     }
    ],
    "sources": [
@@ -9773,13 +9798,15 @@ window.FAMILY_DATA = {
     "[R4-S4] Names of Persons for Whom Marriage Licenses Were Issued by the Secretary of the Province of New York, Previous to 1784 (Albany, 1860), full text searched (derivative) https://archive.org/details/namesofpersonsfo00newy",
     "History of DeKalb County, Indiana (1885) and The Lamoureux Record (1919), both giving her maiden name as Tuttle/Tuthill",
     "Ruttenber & Clark, History of Orange County (1881): Lamoreaux and Prindle families neighbours at Smith's Clove: https://archive.org/details/historyoforangec00rut",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
    ],
    "openQuestions": [
     "Primary proof of her parents (colonial group): Orange Co. records, Alva Tuttle's sources.",
     "Is there a Cornwall/Monroe church record (e.g. Bethlehem Presbyterian) of Keturah's marriage to Thomas Lamoreaux, c. 1772?",
     "Any record naming Keturah Tuttle as the daughter of John Tuthill and Temperance Smith. Every Long Island line, Bull Smith and the presidential cousins included, depends on it.",
-    "Alva Tuttle, Tuttle-Tuthill Lines (1968), pp. 311–312 and 356, free on FamilySearch Books (item 481721) with a login, to see what source he used for Keturah's parents."
+    "Alva Tuttle's source for her parents turns out to be a family contributor, Lotta (Tuthill) Vail (born 1880), not a record. The proof still has to come from an Orange County deed (Thomas Lamoreaux and Keturah his wife selling Tuthill land, 1755–1810) or an administration of John Tuthill's estate."
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -9802,6 +9829,30 @@ window.FAMILY_DATA = {
      "source": "John's Ancestry app screenshot (Google Drive folder, Oct 2026)",
      "note": "",
      "file": "media/I282608055482/ancestry-screenshot-img-7794.jpg"
+    },
+    {
+     "type": "record",
+     "title": "Alva Tuttle, Tuttle-Tuthill Lines (1968), p. 356: Keturah Tuthill, her parents and thirteen children",
+     "date": "1968",
+     "source": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), via FamilySearch Books; supplied by John",
+     "note": "",
+     "file": "media/I282608055482/alva-tuttle-1968-p356-keturah-tuthill.jpg",
+     "people": [
+      "I282608055492",
+      "I282608055634",
+      "I282695583810"
+     ]
+    },
+    {
+     "type": "record",
+     "title": "Alva Tuttle (1968), List of Contributing Compilers: LTV = Lotta (Tuthill) Vail",
+     "date": "1968",
+     "source": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), via FamilySearch Books; supplied by John",
+     "note": "",
+     "file": "media/I282608055482/alva-tuttle-1968-contributing-compilers.jpg",
+     "people": [
+      "I282608055492"
+     ]
     }
    ],
    "researchLog": [
@@ -9836,6 +9887,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "12 Nov 2026 report: maiden name confirmed in compiled histories (1885, 1919); parentage probable (75–80%); Lamoreaux and Prindle families were neighbours at Smith's Clove (Ruttenber & Clark 1881)."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Alva Tuttle pp. 311–312, 356 read from page images John supplied. His source for Keturah's parents is 'LTV' = Lotta (Tuthill) Vail, a contributing compiler (b. 1880), not a primary record: the link stays probable. New: living in Luzerne Co. in 1816; a thirteenth child, Jane (m. Absalom Case), added as M0150."
     }
    ],
    "residences": [
@@ -9845,7 +9900,7 @@ window.FAMILY_DATA = {
      "note": "Her husband Thomas Lamoureux and probable brothers James Tuttle and John Tuthill all signed the 1775 Articles of Association in Cornwall Precinct [R4-S3]"
     }
    ],
-   "researchNotes": "Keturah Tuttle was born in Dec 1755 at Woodbury Clove, Orange Co., NY (SAR application ACN 58344 gives 1755 at 'Woodbury Clove', matching Alva Tuttle). She was probably a daughter of John Tuthill (c.1730-c.1770) and Temperance Smith (Alva Tuttle, Tuttle-Tuthill Lines, 1968, p.311: children twins James & John 1753, twins Ezekiel & William c.1754, Keturah ~1755, Samuel and Daniel); her children's names James, Temperance and Keturah follow that family. Her uncles Capt. Francis Smith and Capt. Austin Smith commanded the Woodbury Clove and Upper Clove militia companies in 1775-76, with her husband as ensign. She married Thomas Lamoreaux and moved with him to Plymouth (1790) and Jackson Twp. His will left her 'my best horse saddle & bridle' and $100. She died 10 Mar 1833 (obituary, Republican Farmer, Wilkes-Barre, 13 Mar 1833; WikiTree Tuthill-530; Find a Grave 269816651, Lamoreaux Family Burying Ground, Jackson Twp). The tree's death of 1842 (tree shows 1755-1842) is her daughter Keturah's (Harvey Book p.360). (Her Tuttle/Smith ancestors are covered in the colonial section.)\n\nNo record found this round names Keturah's parents directly, so her parentage stays probable. New circumstantial support: the 1775 Cornwall Precinct association list carries both 'James Tuttle' and 'John Tuthill' as well as her husband Thomas Lamoureux ([R4-S3]). On Alva Tuttle's reconstruction these are her twin brothers James and John (b. 1753). Her mother Temperance Smith's place in the family of James Smith & Jerusha Topping is now backed by two independent printed authorities: Pelletreau (1898) and C. H. Weygant's Family Record (1897), which names James and Jerusha's daughters Eunice, Keturah, Temperance and Jerusha and puts Capt. Austin and Capt. Francis Smith, their sons, at Woodbury Clove 'some twenty years or more' before the Revolution ([R4-S1], [R4-S2]). Keturah was evidently named for her aunt Keturah Smith.\n\nThe printed list of pre-1784 New York marriage licenses has no Lamoreaux-Tuthill (or Tuthill-Smith) entry, so these marriages were probably by banns ([R4-S4])."
+   "researchNotes": "Keturah Tuttle was born in Dec 1755 at Woodbury Clove, Orange Co., NY (SAR application ACN 58344 gives 1755 at 'Woodbury Clove', matching Alva Tuttle). She was probably a daughter of John Tuthill (c.1730-c.1770) and Temperance Smith (Alva Tuttle, Tuttle-Tuthill Lines, 1968, p.311: children twins James & John 1753, twins Ezekiel & William c.1754, Keturah ~1755, Samuel and Daniel); her children's names James, Temperance and Keturah follow that family. Her uncles Capt. Francis Smith and Capt. Austin Smith commanded the Woodbury Clove and Upper Clove militia companies in 1775-76, with her husband as ensign. She married Thomas Lamoreaux and moved with him to Plymouth (1790) and Jackson Twp. His will left her 'my best horse saddle & bridle' and $100. She died 10 Mar 1833 (obituary, Republican Farmer, Wilkes-Barre, 13 Mar 1833; WikiTree Tuthill-530; Find a Grave 269816651, Lamoreaux Family Burying Ground, Jackson Twp). The tree's death of 1842 (tree shows 1755-1842) is her daughter Keturah's (Harvey Book p.360). (Her Tuttle/Smith ancestors are covered in the colonial section.)\n\nNo record found this round names Keturah's parents directly, so her parentage stays probable. New circumstantial support: the 1775 Cornwall Precinct association list carries both 'James Tuttle' and 'John Tuthill' as well as her husband Thomas Lamoureux ([R4-S3]). On Alva Tuttle's reconstruction these are her twin brothers James and John (b. 1753). Her mother Temperance Smith's place in the family of James Smith & Jerusha Topping is now backed by two independent printed authorities: Pelletreau (1898) and C. H. Weygant's Family Record (1897), which names James and Jerusha's daughters Eunice, Keturah, Temperance and Jerusha and puts Capt. Austin and Capt. Francis Smith, their sons, at Woodbury Clove 'some twenty years or more' before the Revolution ([R4-S1], [R4-S2]). Keturah was evidently named for her aunt Keturah Smith.\n\nThe printed list of pre-1784 New York marriage licenses has no Lamoreaux-Tuthill (or Tuthill-Smith) entry, so these marriages were probably by banns ([R4-S4]).\n\nAlva Tuttle (1968), p. 356: 'KETURAH TUTHILL c1755 Orange Co,NY da John c1730 & Temp SMITH; liv 1816 Luzerne Co,Pa; m Orange Co,NY Thos d 1829 Luzerne Co,Pa s John & Charity (DAVENPORT) LAMOREAUX  LTV', followed by thirteen children: Martha c1775 m Saml Pringle; Eliz 30 Sep 1776 m Geo Palmer Ransom; Jas m Sarah Hunter, 10 ch; Danl m Martha Linn; John 21 Nov 1780, unm; Charity m Peter Steele; Hannah m Stpn Van Loon; Thos 19 Aug 1787 m Mary Boston; Amelia m Fletcher Case; Keturah 18 Feb 1791 m Saml Ackley; Jane m Absalom Case; Temp m Matthias Van Loon; Josh 30 Aug 1799 m Betty Ives. The source code LTV is Lotta (Tuthill) Vail, a contributing compiler born 7 Sep 1880 (List of Contributing Compilers): Alva credits her, not a primary record, for the whole Tuthill–Smith–Lamoreaux family."
   },
   {
    "id": "I282608055492",
@@ -9964,7 +10019,9 @@ window.FAMILY_DATA = {
     "[R4-S6] Abstracts of Wills on File in the Surrogate's Office, City of New York (Collections of the New-York Historical Society, 1893-1908), full text of the volumes covering 1730-1784 searched (archive.org items abstractswillso01kellgoog, 02kellgoog, 04kellgoog, 05kellgoog, 00kellgoog/abstractsofwills34newy [1766-76], 06kellgoog [1771-76], 07kellgoog, abstractswillso00/01/03/04courgoog) (derivative) https://archive.org/details/abstractswillso06kellgoog",
     "Will of Benjamin Tuthill of New Cornwall, Orange Co., N.Y., Will Liber D p. 67, dated 7 Jan 1795, proved 2 Dec 1807, naming his living \"Brother – John Tuthill\" (abstract in Early Orange County Wills, 1991: https://archive.org/details/earlyorangecount0012vari)",
     "Ruttenber & Clark, History of Orange County (1881): Lamoreaux and Prindle families neighbours at Smith's Clove: https://archive.org/details/historyoforangec00rut",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
    ],
    "mediaKnown": [
     "Ancestry tree profile card 'Capt J Tuttle 1727–1802' (IMG_7792–7799)"
@@ -10022,6 +10079,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Benjamin Tuthill's will (Orange Co. Liber D p. 67, 1795/1807) names a living brother John Tuthill; no John Tuthill will in the Orange County index; the adjutant John Tuthill (son of Daniel & Mehitable Budd) ruled out; the OCGS Tuthill file covers an unrelated Southold line."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Alva Tuttle p. 311 entry read from the page image (source LTV, Lotta Tuthill Vail). The same page shows several other John Tuthills in Orange County, so the 1795 'brother John' of Benjamin Tuthill is ambiguous. Son John (1753) added as M0153."
     }
    ],
    "media": [
@@ -10040,6 +10101,18 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Tuthill-364; https://www.wikitree.com/photo/jpg/Smith-275736",
      "note": "",
      "file": "media/I282608055492/i282608055492-smith-275736.jpg"
+    },
+    {
+     "type": "record",
+     "title": "Alva Tuttle (1968), p. 311: John Tuthill (c.1730) and Temperance Smith and their children",
+     "date": "1968",
+     "source": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), via FamilySearch Books; supplied by John",
+     "note": "",
+     "file": "media/I282608055492/alva-tuttle-1968-p311-john-tuthill-c1730.jpg",
+     "people": [
+      "I282608055634",
+      "I282608055482"
+     ]
     }
    ],
    "conflicts": [
@@ -10047,7 +10120,7 @@ window.FAMILY_DATA = {
      "field": "death.date",
      "site": "ABT 1770 (Alva Tuttle, 1968)",
      "found": "A John Tuthill signed in Cornwall Precinct in 1775, and Benjamin Tuthill of New Cornwall named a living \"Brother – John Tuthill\" in his will of 7 Jan 1795",
-     "assessment": "If Benjamin's brother is this John, he was alive in 1795 and the c.1770 death date is wrong. No will for any John Tuthill appears in the Orange County index, so he probably died intestate; an administration after 1795 at Goshen would settle it."
+     "assessment": "If Benjamin's brother is this John, he was alive in 1795 and the c.1770 death date is wrong. No will for any John Tuthill appears in the Orange County index, so he probably died intestate; an administration after 1795 at Goshen would settle it. Alva's own p. 311 lists other John Tuthills of Orange County, among them John (c.1722–1794, son of Nathaniel) of Minisink and John (1735–1787, son of Jonathan) of Goshen, so Benjamin's brother cannot be identified with this John without more evidence."
     }
    ],
    "researchNotes": "Alva M. Tuttle's 1968 compilation (p. 311, quoted on WikiTree Tuthill-364 and Smith-141655) reads: 'JOHN TUTHILL ~1730 Brookhaven, LI s Jas 1692; d ~1770 Woodbury Clove, Orange, NY; m 23Nov1752 Smithtown, LI Temp d ~1780 da Jas & Jerusha (TOPPING) SMITH.' Children: twins James & John (1753), twins Ezekiel & William (c.1754), Keturah (~1755), Samuel and Daniel. His father James Tuthill (b. ~1692 Oysterponds) moved from Brookhaven to Ulster/Orange between 1742 and 1748. The Woodbury Clove militia company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith 1st lt. and (1776) Thos. Lammoreux ensign; the Upper Clove company had been commanded by Capt. Austin Smith; Austin, Francis and Jeremiah are exactly the sons of James Smith & Jerusha Topping, i.e. Temperance's brothers. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle' (probably John's son James, b. 1753). The 'Capt.' title: S. W. Eager, Outline History of Orange County (1846), pp. 527–529, lists 'Capt. J. Tuthill' among Cornwall precinct officers, records that in 1769 the justices cancelled the indenture of apprentice James Simmons 'by the ill-treatment of his master, John Tuthill', and names a 'Capt. Tuthill' on a 1788 committee (too late for a John who died c.1770; possibly son John b. 1753). Ruttenber also lists 'Clove Co.—1775—Jonathan Tuthill, captain.' The deep-dive report found 'no evidence of the title'. The Hauppauge report found no trace of John or Temperance in Smithtown records and noted that the 23 Nov 1752 Smithtown wedding came from an unsourced online tree (My Maine Heritage); Round 2 then found it in Alva Tuttle (1968). If Temperance was raised in Moriches, the couple most plausibly lived in Brookhaven before moving to Orange County; a possible migration vehicle is Rev. Abner Reeve's 1763 removal 'with a company of emigrants' from Moriches to Blooming Grove (possible). The tree had merged him with a James M. Tuthill & Hannah S. Reeve parentage (wrong: that couple is Joshua Tuthill & Hannah Reeve).\n\nTwo new pieces bear on John's life. First, a 'John Tuthill' signed the 1775 Articles of Association in Cornwall Precinct, on the same list as 'James Tuttle' and Thomas Lamoureux ([R4-S3]). Either John was still alive in 1775, which would undercut Alva Tuttle's c.1770 death and partly vindicate the tree's later death date, or the signer was his son John (b. 1753). Second, the Brookhaven town records show the family's Long Island base. James Tuthill, John's probable father, held the westernmost 15-acre lot in Fireplace Neck by 1737 ([R4-S2]). That is a few miles from Moriches, where Temperance Smith's father James Smith lived, so the two families were close neighbours.\n\nThe printed pre-1784 New York marriage-license list has no Tuthill-Smith entry ([R4-S4]), and the NY will abstracts to 1784 hold no will or administration for him ([R4-S6]). The 23 Nov 1752 Smithtown marriage date therefore still rests on Alva Tuttle alone. It is repeated without sources by Long Island Surnames ([R4-S5]) and in an Ancestry compiled index cited on WikiTree."
@@ -13734,7 +13807,7 @@ window.FAMILY_DATA = {
    },
    "link": {
     "confidence": "probable",
-    "note": "Probable, about 70–75%. The records step by step: John back to Thomas and Keturah Lamoreaux, confirmed by censuses, marriage records and Thomas's will (about 97%); Keturah's maiden name Tuttle, confirmed in compiled histories of 1885 and 1919; Keturah as daughter of John Tuthill and Temperance Smith, probable (75–80%, Alva Tuttle 1968, the 1752 Smithtown marriage, naming pattern, birthplace); Temperance as daughter of James Smith and Jerusha Topping, probable (80%, five compilers 1843–1967); James as son of Job Smith, confirmed by the Smithtown land divisions of 1736 and 1761; Job as son of Bull Smith and Sarah, confirmed by the 1688 deed, the 1691/2 will and a 1697 deed. Nothing found contradicts the descent."
+    "note": "Probable, about 70–75%. The records step by step: John back to Thomas and Keturah Lamoreaux, confirmed by censuses, marriage records and Thomas's will (about 97%); Keturah's maiden name Tuttle, confirmed in compiled histories of 1885 and 1919; Keturah as daughter of John Tuthill and Temperance Smith, probable (75–80%, Alva Tuttle 1968, the 1752 Smithtown marriage, naming pattern, birthplace); Temperance as daughter of James Smith and Jerusha Topping, probable (80%, five compilers 1843–1967); James as son of Job Smith, confirmed by the Smithtown land divisions of 1736 and 1761; Job as son of Bull Smith and Sarah, confirmed by the 1688 deed, the 1691/2 will and a 1697 deed. Nothing found contradicts the descent. The one printed statement of Keturah's parentage, Alva Tuttle's 1968 book, takes it from a family contributor, Lotta (Tuthill) Vail, rather than a record."
    },
    "occupation": "Patentee and founder of Smithtown",
    "aka": [
@@ -14080,6 +14153,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Chain re-examined generation by generation (12 Nov 2026 report): overall about 70–75%, no contrary evidence."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Alva Tuttle's source for Keturah's parents read: LTV (Lotta Tuthill Vail), a family compiler. The link stays probable; the decisive records are Orange County deeds or an estate administration."
     }
    ],
    "researchNotes": "Origin unknown. Pelletreau (1898, Intro. p. vii): 'Of his previous history we know absolutely nothing… He is said, by some historians, to have come from a certain village in Yorkshire, but the evidence is not sufficient.' F. K. Smith (1967, pp. 15–20): 'It now appears most probable that he was the Richard Smith who sailed from England 2 Oct. 1635, aged 22 years, in the ship John of London, bound for St. Christophers'; from his 'court hand' script, 'in all probability he was brought up in London'; probably unmarried before emigrating (speculative). WikiTree Smith-1208: parents unknown; 'Myreshaw, Bradford, Yorkshire' only as 'Unsourced information'; Y-DNA haplogroup R-b1, cluster NE50 of the SmithConnections project, no English match. Gloucestershire origin is disproven (belongs to Richard Smith of Cocumscussoc/Wickford, RI, earlier of Taunton, who 'left a fair possession in Gloucestershire'; both men died 1691/2, encouraging the merge). Bedfordshire origin: no source; probably cross-wired with Capt. Thomas Topping of Totternhoe. In April 1640 'Mr. Smith' petitioned to be released from his published intention to marry Sarah Hammond; Rev. George Phillips (and William Paine) wrote to Gov. Winthrop on 24 Apr 1640 about 'Smith & my brother Hammond dauter'; he lost and the marriage went ahead. His first home lot at Southampton (1640/1643) was 'at the south end of the village… on the west side of the main street'. F. K. Smith accepts he went back to England in 1654 and returned in 1656 aboard the Speedwell with the first Quaker missionaries to New England (not marked 'Q' on the list); Southampton later banished him (probable that the two Richards are the same; debated). Smithtown: Lion Gardiner received the land for helping recover Sachem Wyandanch's kidnapped daughter, sold it to Smith in 1663; a 1665 patent confirmed Smith's claim. The story that he won Smithtown by riding a bull around it is a myth per local historians. His 1688 deed gave Job 50 acres at the northeast branch. Children: Jonathan (eldest; daughter Deborah m. Joseph Blydenburgh), Richard 2d, Job, Daniel, Adam (b. 1649), Elizabeth (m. William Lawrence, Gov. Philip Carteret, Col. Richard Townley), Deborah (m. Maj. William Lawrence Jr.). TREE: 'Maj R B Sm(y)ith 1613–1692', parents 'Sir Samuel Smith 1575–1618 + Rebecca Buswell 1593–1667' — unsupported, removed (Round 1 correction 3d). His wife was formerly given as 'Sarah Folger of Boston' (Pelletreau) — corrected to Sarah Hammond (NYGBR 121).\n\nPelletreau's 1688 deeds (pp. 56-58, 71) show Richard Smith Sr. 'Gent.' with wife Sarah, acknowledged before Wait Winthrop ([R4-S1]); already in the tree in substance."
@@ -23437,7 +23514,8 @@ window.FAMILY_DATA = {
     "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
     "[R4-S1] SAR Patriot Research System, Patriot P-232580, Thomas LAMOREUX/LAMOREAUX (patriot detail, member applications, grave detail, user biography) (derivative) https://sarpatriots.sar.org/patriot/display/232580",
     "[R4-S2] New York in the Revolution as Colony and State (Albany, 1898), p.253, Orange County Militia (Land Bounty Rights), First Regiment, enlisted men (secondary) https://archive.org/details/newyorkinrevolut00robe",
-    "[R4-S_DAV46] Giles, Thomas Davenport, Pioneer, and His Descendants: transcript of Thomas Davenport's will dated 1746 naming minor children incl. Charity Davenport (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt"
+    "[R4-S_DAV46] Giles, Thomas Davenport, Pioneer, and His Descendants: transcript of Thomas Davenport's will dated 1746 naming minor children incl. Charity Davenport (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
+    "Alva Tuttle (1968) p. 356 names Thomas Lamoreaux's parents as John and Charity (Davenport) Lamoreaux (source LTV, Lotta Tuthill Vail)"
    ],
    "mediaKnown": [
     "Tree profile: gravestone photo"
@@ -45694,7 +45772,8 @@ window.FAMILY_DATA = {
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
     "Find a Grave 42344464",
-    "[R4-S1] FamilySearch published tree, Thomas Lamoreaux Jr. (LHPN-LRK), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LHPN-LRK"
+    "[R4-S1] FamilySearch published tree, Thomas Lamoreaux Jr. (LHPN-LRK), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LHPN-LRK",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -45717,6 +45796,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Wife Mary Boston added from Alva Tuttle (1968) p. 356."
     }
    ],
    "media": [
@@ -45862,7 +45945,8 @@ window.FAMILY_DATA = {
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
-    "[R4-S1] FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ"
+    "[R4-S1] FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -45903,6 +45987,12 @@ window.FAMILY_DATA = {
      "site": "1839",
      "found": "1838",
      "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+     "field": "birth date and wife",
+     "site": "Born 30 Aug 1793; married Martha Ives in 1813",
+     "found": "Alva Tuttle (1968) p. 356: \"Josh 30Aug1799 m Betty IVES\"",
+     "assessment": "Same day and month, different year. A marriage in December 1813 fits a birth in 1793 far better than 1799, and Alva's 1799 is probably a slip; 'Betty' and 'Martha' (Patty) may be the same Ives wife. Kept as recorded."
     }
    ],
    "events": [
@@ -45945,7 +46035,8 @@ window.FAMILY_DATA = {
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
-    "[R4-S1] FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155"
+    "[R4-S1] FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -46000,6 +46091,12 @@ window.FAMILY_DATA = {
      "site": "Martha Lum/Linn",
      "found": "Maria Allen (FamilySearch)",
      "assessment": "Unresolved; possibly two marriages."
+    },
+    {
+     "field": "wife's surname",
+     "site": "Martha Lum",
+     "found": "Alva Tuttle (1968) p. 356: \"Danl m Martha LINN\"",
+     "assessment": "Probably one woman with the surname read two ways; a marriage or census record would settle the spelling."
     }
    ],
    "researchNotes": "Daniel (1796-1838) married Martha Lum/Linn.\n\nFamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father ([R4-S1]). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead."
@@ -74154,7 +74251,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "possible",
-    "note": "Named a living 'Brother – John Tuthill' in his 1795 will; if that John is Keturah Tuttle's father, Benjamin was her uncle and a son of James Tuthill and Rachel Browne. Possible."
+    "note": "Named a living 'Brother – John Tuthill' in his 1795 will; if that John is Keturah Tuttle's father, Benjamin was her uncle and a son of James Tuthill and Rachel Browne. Possible. Alva Tuttle's 1968 compilation lists several John Tuthills in Orange County at the time, so which John was Benjamin's brother is uncertain."
    },
    "summary": "Benjamin Tuthill of New Cornwall, Orange County (will 1795, proved 1807), probably a brother of John Tuthill of Woodbury Clove and so a brother of John's 7th-great-grandfather.",
    "bio": "Benjamin Tuthill lived at New Cornwall in Orange County, New York, in the highland district around Woodbury Clove where the Tuthill and Smith families settled in the mid-1700s. He made his will on 7 January 1795, naming among others his living \"Brother – John Tuthill\", and it was proved on 2 December 1807, so he died between those dates. If his brother John was the husband of Temperance Smith, Benjamin was an uncle of Keturah Tuttle Lamoreaux and a son of James Tuthill and Rachel Browne."
@@ -74211,6 +74308,172 @@ window.FAMILY_DATA = {
    },
    "summary": "Dorothy, wife of William King of Salem and mother of Deliverance King Tuthill; John's 11th-great-grandmother.",
    "bio": "Dorothy was the wife of William King, who settled at Salem, Massachusetts, after crossing on the Marygould in 1635. Her maiden name is not known. Their daughter Deliverance married John Tuthill of Southold."
+  },
+  {
+   "id": "M0150",
+   "given": "Jane",
+   "surname": "Lamoreaux",
+   "sex": "F",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from Alva Tuttle (1968) p. 356."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Listed among the thirteen children of Thomas Lamoreaux and Keturah Tuthill in Alva Tuttle (1968), source Lotta (Tuthill) Vail; not yet seen in a primary record."
+   },
+   "summary": "Jane Lamoreaux, daughter of Ensign Thomas Lamoreaux and Keturah Tuttle, wife of Absalom Case; a sister of John's 5th-great-grandmother Martha Pringle.",
+   "bio": "Jane Lamoreaux was one of the thirteen children of Ensign Thomas Lamoreaux and Keturah Tuttle, who moved from Orange County, New York, to Plymouth in Luzerne County, Pennsylvania, in 1790. She married Absalom Case; her sister Amelia married Fletcher Case, so two Lamoreaux sisters married into the same Case family of the Wyoming Valley."
+  },
+  {
+   "id": "M0151",
+   "given": "Absalom",
+   "surname": "Case",
+   "sex": "M",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+   ],
+   "researchLog": [],
+   "link": {
+    "confidence": "probable",
+    "note": "Husband of Jane Lamoreaux per Alva Tuttle (1968); related by marriage only."
+   },
+   "summary": "Absalom Case, husband of Jane Lamoreaux.",
+   "bio": "Absalom Case married Jane Lamoreaux, a daughter of Ensign Thomas Lamoreaux and Keturah Tuttle of Plymouth and Jackson Township, Luzerne County; her sister Amelia married Fletcher Case."
+  },
+  {
+   "id": "M0152",
+   "given": "Mary",
+   "surname": "Boston",
+   "sex": "F",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+   ],
+   "researchLog": [],
+   "link": {
+    "confidence": "probable",
+    "note": "Wife of Thomas Lamoreaux Jr. per Alva Tuttle (1968); related by marriage only."
+   },
+   "summary": "Mary Boston, wife of Thomas Lamoreaux Jr. (1787–1830).",
+   "bio": "Mary Boston married Thomas Lamoreaux Jr., born at Monroe, New York, in 1787, a son of Ensign Thomas Lamoreaux and Keturah Tuttle."
+  },
+  {
+   "id": "M0153",
+   "given": "John",
+   "surname": "Tuthill",
+   "sex": "M",
+   "birth": {
+    "date": "1753",
+    "place": "Orange County, New York, USA"
+   },
+   "death": {
+    "date": "BET 1803 AND 1806",
+    "place": "Wantage, Sussex County, New Jersey, USA"
+   },
+   "aka": [
+    "John Tuttle"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from Alva Tuttle (1968) p. 312."
+    }
+   ],
+   "link": {
+    "confidence": "probable",
+    "note": "Son of John Tuthill and Temperance Smith and twin of James, per Alva Tuttle (1968), whose source is the family contributor Lotta (Tuthill) Vail; brother of John's 6th-great-grandmother Keturah."
+   },
+   "summary": "Keturah Tuttle's brother John (1753–c.1806), twin of James, who farmed at Minisink and died at Wantage, New Jersey; a brother of John's 6th-great-grandmother.",
+   "bio": "John Tuthill was born in Orange County, New York, in 1753, a twin with his brother James, the eldest children of John Tuthill and Temperance Smith and older brothers of Keturah, who married Thomas Lamoreaux. He married first, at Goshen, Anna Bull, daughter of John and Hannah (Holly) Bull, who died about 1786; on 6 March 1788 he married Fanny Brewster, daughter of Francis and Mary (Strong) Brewster. He had at least eight children, among them Anna, born in 1775, Hannah, Julia, Elizabeth, Samuel and a son named Smith after his mother's family. In 1800 he was living at Minisink in Orange County. He made his will at Wantage in Sussex County, New Jersey, on 27 September 1803, naming his wife Fanny and his children, and it was proved on 19 May 1806.",
+   "residences": [
+    {
+     "date": "1800",
+     "place": "Minisink, Orange County, New York, USA"
+    },
+    {
+     "date": "1803",
+     "place": "Wantage, Sussex County, New Jersey, USA"
+    }
+   ],
+   "media": [
+    {
+     "type": "record",
+     "title": "Alva Tuttle (1968), p. 312: John Tuthill (1753), will of 1803 at Wantage, N.J.",
+     "date": "1968",
+     "source": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), via FamilySearch Books; supplied by John",
+     "note": "",
+     "file": "media/M0153/alva-tuttle-1968-p312-john-tuthill-1753.jpg",
+     "people": [
+      "I282608055492"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M0154",
+   "given": "Anna",
+   "surname": "Bull",
+   "sex": "F",
+   "birth": {
+    "date": "ABT 1756"
+   },
+   "death": {
+    "date": "ABT 1786"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+   ],
+   "researchLog": [],
+   "link": {
+    "confidence": "probable",
+    "note": "Wife of Keturah Tuttle's brother John per Alva Tuttle (1968); related by marriage only."
+   },
+   "summary": "Anna Bull of Goshen (c.1756–c.1786), first wife of John Tuthill (1753), daughter of John and Hannah (Holly) Bull.",
+   "bio": "Anna Bull, born about 1756, was a daughter of John and Hannah (Holly) Bull and married John Tuthill, Keturah Tuttle's brother, at Goshen, Orange County. She died about 1786."
+  },
+  {
+   "id": "M0155",
+   "given": "Fanny",
+   "surname": "Brewster",
+   "sex": "F",
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+   ],
+   "researchLog": [],
+   "link": {
+    "confidence": "probable",
+    "note": "Wife of Keturah Tuttle's brother John per Alva Tuttle (1968); related by marriage only."
+   },
+   "summary": "Fanny Brewster, second wife of John Tuthill (1753), daughter of Francis and Mary (Strong) Brewster.",
+   "bio": "Fanny Brewster, daughter of Francis and Mary (Strong) Brewster, married John Tuthill, Keturah Tuttle's brother, on 6 March 1788 as his second wife. She was named in his will of 1803."
   }
  ],
  "families": [
@@ -74414,7 +74677,8 @@ window.FAMILY_DATA = {
     "H0181",
     "H0182",
     "H0183",
-    "H0184"
+    "H0184",
+    "M0150"
    ]
   },
   {
@@ -74447,7 +74711,8 @@ window.FAMILY_DATA = {
    "wife": "I282608055634",
    "children": [
     "I282608055482",
-    "H0261"
+    "H0261",
+    "M0153"
    ],
    "marriage": {
     "date": "1752-11-23",
@@ -77931,14 +78196,44 @@ window.FAMILY_DATA = {
    ]
   },
   {
-   "id": "CF0435",
+   "id": "MF0055",
+   "husband": "M0151",
+   "wife": "M0150",
+   "children": []
+  },
+  {
+   "id": "MF0056",
+   "husband": "H0179",
+   "wife": "M0152",
+   "children": []
+  },
+  {
+   "id": "MF0057",
+   "husband": "M0153",
+   "wife": "M0154",
+   "marriage": {
+    "place": "Goshen, Orange County, New York, USA"
+   },
+   "children": []
+  },
+  {
+   "id": "MF0058",
+   "husband": "M0153",
+   "wife": "M0155",
+   "marriage": {
+    "date": "1788-03-06"
+   },
+   "children": []
+  },
+  {
+   "id": "CF0439",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0436",
+   "id": "CF0440",
    "children": [
     "I282608085305"
    ],
@@ -77947,7 +78242,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 341,
-  "research": 660
+  "research": 666
  },
  "stories": [
   {

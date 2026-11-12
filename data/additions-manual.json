@@ -1420,6 +1420,59 @@
       "aka": [
         "Dorothy King"
       ]
+    },
+    {
+      "id": "M0150",
+      "given": "Jane",
+      "surname": "Lamoreaux",
+      "sex": "F"
+    },
+    {
+      "id": "M0151",
+      "given": "Absalom",
+      "surname": "Case",
+      "sex": "M"
+    },
+    {
+      "id": "M0152",
+      "given": "Mary",
+      "surname": "Boston",
+      "sex": "F"
+    },
+    {
+      "id": "M0153",
+      "given": "John",
+      "surname": "Tuthill",
+      "sex": "M",
+      "birth": {
+        "date": "1753",
+        "place": "Orange County, New York, USA"
+      },
+      "death": {
+        "date": "BET 1803 AND 1806",
+        "place": "Wantage, Sussex County, New Jersey, USA"
+      },
+      "aka": [
+        "John Tuttle"
+      ]
+    },
+    {
+      "id": "M0154",
+      "given": "Anna",
+      "surname": "Bull",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1756"
+      },
+      "death": {
+        "date": "ABT 1786"
+      }
+    },
+    {
+      "id": "M0155",
+      "given": "Fanny",
+      "surname": "Brewster",
+      "sex": "F"
     }
   ],
   "families": [
@@ -1849,6 +1902,36 @@
       "children": [
         "M0069"
       ]
+    },
+    {
+      "id": "MF0055",
+      "husband": "M0151",
+      "wife": "M0150",
+      "children": []
+    },
+    {
+      "id": "MF0056",
+      "husband": "H0179",
+      "wife": "M0152",
+      "children": []
+    },
+    {
+      "id": "MF0057",
+      "husband": "M0153",
+      "wife": "M0154",
+      "marriage": {
+        "place": "Goshen, Orange County, New York, USA"
+      },
+      "children": []
+    },
+    {
+      "id": "MF0058",
+      "husband": "M0153",
+      "wife": "M0155",
+      "marriage": {
+        "date": "1788-03-06"
+      },
+      "children": []
     }
   ],
   "familyUpdates": [
@@ -2021,6 +2104,20 @@
       "reason": "Benjamin Tuthill of New Cornwall named a living \"Brother – John Tuthill\" in his will of 1795; possibly a son of James Tuthill and Rachel Browne.",
       "addChildren": [
         "M0147"
+      ]
+    },
+    {
+      "id": "F21",
+      "reason": "Alva Tuttle (1968) p. 356 lists thirteen children of Thomas Lamoreaux and Keturah Tuthill, including Jane, wife of Absalom Case.",
+      "addChildren": [
+        "M0150"
+      ]
+    },
+    {
+      "id": "F25",
+      "reason": "Alva Tuttle (1968) pp. 311–312: twins James and John born 1753 to John Tuthill and Temperance Smith.",
+      "addChildren": [
+        "M0153"
       ]
     }
   ],
