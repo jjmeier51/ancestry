@@ -1391,6 +1391,35 @@
       "aka": [
         "Helene Fine"
       ]
+    },
+    {
+      "id": "M0147",
+      "given": "Benjamin",
+      "surname": "Tuthill",
+      "sex": "M",
+      "death": {
+        "date": "BET 1795 AND 1807",
+        "place": "New Cornwall, Orange County, New York, USA"
+      }
+    },
+    {
+      "id": "M0148",
+      "given": "William",
+      "surname": "King",
+      "sex": "M",
+      "death": {
+        "date": "BEF 1651",
+        "place": "Salem, Essex County, Massachusetts, USA"
+      }
+    },
+    {
+      "id": "M0149",
+      "given": "Dorothy",
+      "surname": "",
+      "sex": "F",
+      "aka": [
+        "Dorothy King"
+      ]
     }
   ],
   "families": [
@@ -1812,6 +1841,14 @@
         "date": "1939-12-05"
       },
       "children": []
+    },
+    {
+      "id": "MF0054",
+      "husband": "M0148",
+      "wife": "M0149",
+      "children": [
+        "M0069"
+      ]
     }
   ],
   "familyUpdates": [
@@ -1978,6 +2015,13 @@
         "M0137"
       ],
       "reason": "Elizabeth (Croop) Belles, daughter of Philip Croup, per WikiTree Croop-4; ancestor of Gov. John S. Fine."
+    },
+    {
+      "id": "HF0112",
+      "reason": "Benjamin Tuthill of New Cornwall named a living \"Brother – John Tuthill\" in his will of 1795; possibly a son of James Tuthill and Rachel Browne.",
+      "addChildren": [
+        "M0147"
+      ]
     }
   ],
   "setParents": [

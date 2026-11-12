@@ -4663,6 +4663,18 @@ window.FAMILY_DATA = {
    "lon": -76.03548,
    "label": "Wanamie, Newport Township, Luzerne County, Pennsylvania, 18611, United States",
    "precision": "exact"
+  },
+  "New Cornwall, Orange County, New York, USA": {
+   "lat": 41.44994,
+   "lon": -74.02842,
+   "label": "New York Military Academy, Main Street, Town of Cornwall, Orange County, New York, 12518, United States",
+   "precision": "exact"
+  },
+  "Salem, Essex County, Massachusetts, USA": {
+   "lat": 42.52144,
+   "lon": -70.89567,
+   "label": "Salem, Essex County, Massachusetts, 01970, United States",
+   "precision": "exact"
   }
  },
  "sample": false,
@@ -9758,12 +9770,16 @@ window.FAMILY_DATA = {
     "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
     "[R4-S3] Ruttenber & Clark, History of Orange County (1881), Articles of Association 1775, Cornwall Precinct signers (c. pp. 68-69) (derivative) https://archive.org/details/historyoforangec00rut",
-    "[R4-S4] Names of Persons for Whom Marriage Licenses Were Issued by the Secretary of the Province of New York, Previous to 1784 (Albany, 1860), full text searched (derivative) https://archive.org/details/namesofpersonsfo00newy"
+    "[R4-S4] Names of Persons for Whom Marriage Licenses Were Issued by the Secretary of the Province of New York, Previous to 1784 (Albany, 1860), full text searched (derivative) https://archive.org/details/namesofpersonsfo00newy",
+    "History of DeKalb County, Indiana (1885) and The Lamoureux Record (1919), both giving her maiden name as Tuttle/Tuthill",
+    "Ruttenber & Clark, History of Orange County (1881): Lamoreaux and Prindle families neighbours at Smith's Clove: https://archive.org/details/historyoforangec00rut",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "openQuestions": [
     "Primary proof of her parents (colonial group): Orange Co. records, Alva Tuttle's sources.",
     "Is there a Cornwall/Monroe church record (e.g. Bethlehem Presbyterian) of Keturah's marriage to Thomas Lamoreaux, c. 1772?",
-    "Any record naming Keturah Tuttle as the daughter of John Tuthill and Temperance Smith. Every Long Island line, Bull Smith and the presidential cousins included, depends on it."
+    "Any record naming Keturah Tuttle as the daughter of John Tuthill and Temperance Smith. Every Long Island line, Bull Smith and the presidential cousins included, depends on it.",
+    "Alva Tuttle, Tuttle-Tuthill Lines (1968), pp. 311–312 and 356, free on FamilySearch Books (item 481721) with a login, to see what source he used for Keturah's parents."
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -9816,6 +9832,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "12 Nov 2026 report: maiden name confirmed in compiled histories (1885, 1919); parentage probable (75–80%); Lamoreaux and Prindle families were neighbours at Smith's Clove (Ruttenber & Clark 1881)."
     }
    ],
    "residences": [
@@ -9864,7 +9884,7 @@ window.FAMILY_DATA = {
     "military"
    ],
    "summary": "Brookhaven-born Tuthill who married Temperance Smith and settled at Woodbury Clove in the Orange County highlands; John's 7th-great-grandfather and father of Keturah.",
-   "bio": "John Tuthill, also written Tuttle, was born about 1730 at Brookhaven, Suffolk County, New York, a son of James Tuthill, who was born about 1692 at Oysterponds and held the westernmost fifteen-acre lot in Fireplace Neck by 1737. Fireplace Neck lies a few miles from Moriches, where James Smith, the father of John's future wife, lived, so the two families were near neighbours on Long Island. Between 1742 and 1748 James Tuthill moved his family to the Ulster and Orange county region. An older version of the family record gave John's parents as James M. Tuthill and Hannah S. Reeve, but Hannah Reeve was the wife of Joshua Tuthill, not of James.\n\nFamily compilations record that John married Temperance Smith, daughter of James and Jerusha (Topping) Smith, at Smithtown on 23 November 1752, a date that rests on a single twentieth-century compilation. Their children were the twins James and John, born in 1753; the twins Ezekiel and William, born about 1754; Keturah, born about 1755, who married into the Lamoreaux family and is John's ancestor; and Samuel and Daniel. If Temperance was raised at Moriches, the couple most plausibly lived at Brookhaven before moving to Orange County, perhaps among the company of emigrants whom the Rev. Abner Reeve led from Moriches to Blooming Grove in 1763.\n\nAt Woodbury Clove in Cornwall Precinct he is remembered as \"Capt. John Tuthill\". An 1846 history lists a Capt. J. Tuthill among the Cornwall precinct officers, but the title is unproven, and a Capt. Tuthill who sat on a committee in 1788 was too late to be this John and may have been his son. He appears in the county records in 1769, when the justices cancelled the indenture of the apprentice James Simmons \"by the ill-treatment of his master, John Tuthill\". The family's kin filled the local militia: the Woodbury Clove company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith as first lieutenant and Thomas Lamoreux as ensign, and the Upper Clove company by Capt. Austin Smith; Austin, Francis and Jeremiah Smith were Temperance's brothers.\n\nHe is said to have died at Woodbury Clove about 1770, though some records put his death as late as 1802. A John Tuthill signed the 1775 Articles of Association in Cornwall Precinct alongside James Tuttle and Thomas Lamoureux; either John was still alive then, or the signer was his son John, born in 1753.",
+   "bio": "John Tuthill, also written Tuttle, was born about 1730 at Brookhaven, Suffolk County, New York, a son of James Tuthill, who was born about 1692 at Oysterponds and held the westernmost fifteen-acre lot in Fireplace Neck by 1737. Fireplace Neck lies a few miles from Moriches, where James Smith, the father of John's future wife, lived, so the two families were near neighbours on Long Island. Between 1742 and 1748 James Tuthill moved his family to the Ulster and Orange county region. An older version of the family record gave John's parents as James M. Tuthill and Hannah S. Reeve, but Hannah Reeve was the wife of Joshua Tuthill, not of James.\n\nFamily compilations record that John married Temperance Smith, daughter of James and Jerusha (Topping) Smith, at Smithtown on 23 November 1752, a date that rests on a single twentieth-century compilation. Their children were the twins James and John, born in 1753; the twins Ezekiel and William, born about 1754; Keturah, born about 1755, who married into the Lamoreaux family and is John's ancestor; and Samuel and Daniel. If Temperance was raised at Moriches, the couple most plausibly lived at Brookhaven before moving to Orange County, perhaps among the company of emigrants whom the Rev. Abner Reeve led from Moriches to Blooming Grove in 1763.\n\nAt Woodbury Clove in Cornwall Precinct he is remembered as \"Capt. John Tuthill\". An 1846 history lists a Capt. J. Tuthill among the Cornwall precinct officers, but the title is unproven, and a Capt. Tuthill who sat on a committee in 1788 was too late to be this John and may have been his son. He appears in the county records in 1769, when the justices cancelled the indenture of the apprentice James Simmons \"by the ill-treatment of his master, John Tuthill\". The family's kin filled the local militia: the Woodbury Clove company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith as first lieutenant and Thomas Lamoreux as ensign, and the Upper Clove company by Capt. Austin Smith; Austin, Francis and Jeremiah Smith were Temperance's brothers.\n\nHe is said to have died at Woodbury Clove about 1770, though some records put his death as late as 1802. A John Tuthill signed the 1775 Articles of Association in Cornwall Precinct alongside James Tuttle and Thomas Lamoureux; either John was still alive then, or the signer was his son John, born in 1753.\n\nA brother, Benjamin Tuthill of New Cornwall, made his will in January 1795 and named his \"Brother – John Tuthill\" as living, which suggests that John lived on in the Woodbury Clove district well after the date of about 1770 usually given for his death. He left no will of his own in Orange County. He is not the Revolutionary adjutant John Tuthill, who was a son of Daniel Tuthill and Mehitable Budd.",
    "residences": [
     {
      "date": "ABT 1730",
@@ -9941,7 +9961,10 @@ window.FAMILY_DATA = {
     "[R4-S3] Ruttenber & Clark, History of Orange County (1881), Articles of Association 1775, Cornwall Precinct signers (c. pp. 68-69) (derivative) https://archive.org/details/historyoforangec00rut",
     "[R4-S4] Names of Persons for Whom Marriage Licenses Were Issued by the Secretary of the Province of New York, Previous to 1784 (Albany, 1860), full text searched (derivative) https://archive.org/details/namesofpersonsfo00newy",
     "[R4-S5] Long Island Surnames (King tree), John Tuthill, person I06526 (no sources cited; last modified 20 May 2019) (derivative) https://longislandsurnames.com/getperson.php?personID=I06526&tree=King",
-    "[R4-S6] Abstracts of Wills on File in the Surrogate's Office, City of New York (Collections of the New-York Historical Society, 1893-1908), full text of the volumes covering 1730-1784 searched (archive.org items abstractswillso01kellgoog, 02kellgoog, 04kellgoog, 05kellgoog, 00kellgoog/abstractsofwills34newy [1766-76], 06kellgoog [1771-76], 07kellgoog, abstractswillso00/01/03/04courgoog) (derivative) https://archive.org/details/abstractswillso06kellgoog"
+    "[R4-S6] Abstracts of Wills on File in the Surrogate's Office, City of New York (Collections of the New-York Historical Society, 1893-1908), full text of the volumes covering 1730-1784 searched (archive.org items abstractswillso01kellgoog, 02kellgoog, 04kellgoog, 05kellgoog, 00kellgoog/abstractsofwills34newy [1766-76], 06kellgoog [1771-76], 07kellgoog, abstractswillso00/01/03/04courgoog) (derivative) https://archive.org/details/abstractswillso06kellgoog",
+    "Will of Benjamin Tuthill of New Cornwall, Orange Co., N.Y., Will Liber D p. 67, dated 7 Jan 1795, proved 2 Dec 1807, naming his living \"Brother – John Tuthill\" (abstract in Early Orange County Wills, 1991: https://archive.org/details/earlyorangecount0012vari)",
+    "Ruttenber & Clark, History of Orange County (1881): Lamoreaux and Prindle families neighbours at Smith's Clove: https://archive.org/details/historyoforangec00rut",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "mediaKnown": [
     "Ancestry tree profile card 'Capt J Tuttle 1727–1802' (IMG_7792–7799)"
@@ -9951,7 +9974,8 @@ window.FAMILY_DATA = {
     "Was he really a captain? Eager's 'Capt. J. Tuthill' could be him or son John (b. 1753).",
     "Birth year: tree 1727 vs Alva Tuttle ~1730; death: tree 1802 vs Alva ~1770.",
     "Is the 1775 Cornwall signer John Tuthill the father or son John (b. 1753)?",
-    "Ancestry 'New York City, Compiled Marriage Index, 1600s-1800s' p. 283: what printed source does it cite for the 1752 Smithtown marriage?"
+    "Ancestry 'New York City, Compiled Marriage Index, 1600s-1800s' p. 283: what printed source does it cite for the 1752 Smithtown marriage?",
+    "An Orange County administration for John Tuthill after 1795 (Surrogate's Court, Goshen), or a deed by \"Thomas Lamoreaux and Keturah his wife\" selling Tuthill land (Orange County deeds 1755–1810, free on FamilySearch with a login)."
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -9994,6 +10018,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Benjamin Tuthill's will (Orange Co. Liber D p. 67, 1795/1807) names a living brother John Tuthill; no John Tuthill will in the Orange County index; the adjutant John Tuthill (son of Daniel & Mehitable Budd) ruled out; the OCGS Tuthill file covers an unrelated Southold line."
     }
    ],
    "media": [
@@ -10017,9 +10045,9 @@ window.FAMILY_DATA = {
    "conflicts": [
     {
      "field": "death.date",
-     "site": "ABT 1770 (tree: 1802)",
-     "found": "A John Tuthill signed in Cornwall Precinct in 1775",
-     "assessment": "Not decisive, because son John (b. 1753) was of age by 1775. Keep c.1770 as Alva's estimate, but note that 1775 is possible."
+     "site": "ABT 1770 (Alva Tuttle, 1968)",
+     "found": "A John Tuthill signed in Cornwall Precinct in 1775, and Benjamin Tuthill of New Cornwall named a living \"Brother – John Tuthill\" in his will of 7 Jan 1795",
+     "assessment": "If Benjamin's brother is this John, he was alive in 1795 and the c.1770 death date is wrong. No will for any John Tuthill appears in the Orange County index, so he probably died intestate; an administration after 1795 at Goshen would settle it."
     }
    ],
    "researchNotes": "Alva M. Tuttle's 1968 compilation (p. 311, quoted on WikiTree Tuthill-364 and Smith-141655) reads: 'JOHN TUTHILL ~1730 Brookhaven, LI s Jas 1692; d ~1770 Woodbury Clove, Orange, NY; m 23Nov1752 Smithtown, LI Temp d ~1780 da Jas & Jerusha (TOPPING) SMITH.' Children: twins James & John (1753), twins Ezekiel & William (c.1754), Keturah (~1755), Samuel and Daniel. His father James Tuthill (b. ~1692 Oysterponds) moved from Brookhaven to Ulster/Orange between 1742 and 1748. The Woodbury Clove militia company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith 1st lt. and (1776) Thos. Lammoreux ensign; the Upper Clove company had been commanded by Capt. Austin Smith; Austin, Francis and Jeremiah are exactly the sons of James Smith & Jerusha Topping, i.e. Temperance's brothers. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle' (probably John's son James, b. 1753). The 'Capt.' title: S. W. Eager, Outline History of Orange County (1846), pp. 527–529, lists 'Capt. J. Tuthill' among Cornwall precinct officers, records that in 1769 the justices cancelled the indenture of apprentice James Simmons 'by the ill-treatment of his master, John Tuthill', and names a 'Capt. Tuthill' on a 1788 committee (too late for a John who died c.1770; possibly son John b. 1753). Ruttenber also lists 'Clove Co.—1775—Jonathan Tuthill, captain.' The deep-dive report found 'no evidence of the title'. The Hauppauge report found no trace of John or Temperance in Smithtown records and noted that the 23 Nov 1752 Smithtown wedding came from an unsourced online tree (My Maine Heritage); Round 2 then found it in Alva Tuttle (1968). If Temperance was raised in Moriches, the couple most plausibly lived in Brookhaven before moving to Orange County; a possible migration vehicle is Rev. Abner Reeve's 1763 removal 'with a company of emigrants' from Moriches to Blooming Grove (possible). The tree had merged him with a James M. Tuthill & Hannah S. Reeve parentage (wrong: that couple is Joshua Tuthill & Hannah Reeve).\n\nTwo new pieces bear on John's life. First, a 'John Tuthill' signed the 1775 Articles of Association in Cornwall Precinct, on the same list as 'James Tuttle' and Thomas Lamoureux ([R4-S3]). Either John was still alive in 1775, which would undercut Alva Tuttle's c.1770 death and partly vindicate the tree's later death date, or the signer was his son John (b. 1753). Second, the Brookhaven town records show the family's Long Island base. James Tuthill, John's probable father, held the westernmost 15-acre lot in Fireplace Neck by 1737 ([R4-S2]). That is a few miles from Moriches, where Temperance Smith's father James Smith lived, so the two families were close neighbours.\n\nThe printed pre-1784 New York marriage-license list has no Tuthill-Smith entry ([R4-S4]), and the NY will abstracts to 1784 hold no will or administration for him ([R4-S6]). The 23 Nov 1752 Smithtown marriage date therefore still rests on Alva Tuttle alone. It is repeated without sources by Long Island Surnames ([R4-S5]) and in an Ancestry compiled index cited on WikiTree."
@@ -10076,6 +10104,10 @@ window.FAMILY_DATA = {
     {
      "label": "Birth estimate (Hauppauge/deep-dive reports)",
      "value": "about 1732–35"
+    },
+    {
+     "label": "Family ties",
+     "value": "Her brother Austin Smith married a sister of her husband John Tuthill; her sister Keturah Smith is the namesake of her daughter Keturah."
     }
    ],
    "sources": [
@@ -10088,7 +10120,8 @@ window.FAMILY_DATA = {
     "Round 2 report §3d; Round 3 report §4 (unchanged probable); notes/round3/english_french_origins.md status change 8",
     "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
-    "[R4-S3] WikiTree Smith-141655 (Temperance Smith), biography read via api.wikitree.com: quotes Alva Tuttle p. 311; Charles E. Topping, Topping Genealogy (1980) p. 392 / Vail Family notes (NYG&B) giving Josiah & Hannah (Sayre) Topping; and Genealogies of the State of New York vol. 2 giving Jerusha as daughter of 'Jonathan (2) and Mary Topping' (derivative) https://www.wikitree.com/wiki/Smith-141655"
+    "[R4-S3] WikiTree Smith-141655 (Temperance Smith), biography read via api.wikitree.com: quotes Alva Tuttle p. 311; Charles E. Topping, Topping Genealogy (1980) p. 392 / Vail Family notes (NYG&B) giving Josiah & Hannah (Sayre) Topping; and Genealogies of the State of New York vol. 2 giving Jerusha as daughter of 'Jonathan (2) and Mary Topping' (derivative) https://www.wikitree.com/wiki/Smith-141655",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "mediaKnown": [
     "Ancestry tree card '* T SMITH 1735–1780'"
@@ -10138,6 +10171,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Parentage rated probable (about 80%): five compilers 1843–1967; brother Austin married John Tuthill's sister."
     }
    ],
    "conflicts": [
@@ -13305,7 +13342,9 @@ window.FAMILY_DATA = {
     "[R4-S3] Calendar of N.Y. Colonial Manuscripts, Indorsed Land Papers, 1643-1803 (Albany, 1864), p. 152 (29 Sept 1721, petition of James Smith for 2,000 acres of vacant land) and p. 166 (14 Dec 1722, survey of 2,000 acres in Ulster Co., part of the lands formerly granted to Capt. John Evans, adjoining Thomas Noxen and Patrick MacKnight, surveyed for James Smith by Cadwallader Colden) (derivative) https://archive.org/details/calendarofnycolo00newy",
     "[R4-S4] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S5] Pelletreau, Records of the Town of Smithtown (1898), p. 46, 'Will of Adam Smith (Son of Richard the Patentee)': will dated 12 June 1704, witnessed Wm. Jayne Jr. and Wm. Helme, not probated, among the papers of the late Nathaniel Smith of Sherewog (derivative) https://archive.org/details/recordsoftownofs00smitrich",
-    "[R4-S6] WikiTree Smith-105759 (James Smith, b. 1688), biography read via api.wikitree.com: '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey' (no citation given) (derivative) https://www.wikitree.com/wiki/Smith-105759"
+    "[R4-S6] WikiTree Smith-105759 (James Smith, b. 1688), biography read via api.wikitree.com: '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey' (no citation given) (derivative) https://www.wikitree.com/wiki/Smith-105759",
+    "Smithtown land divisions of 1736 and 1761 naming James as son of Job Smith (cited in the 12 Nov 2026 report)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "mediaKnown": [
     "Tree card 'James F Smith 1688–1740'"
@@ -13352,6 +13391,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Parent link James ← Job Smith rated confirmed from the 1736 and 1761 land divisions (about 97%)."
     }
    ],
    "events": [
@@ -13691,7 +13734,7 @@ window.FAMILY_DATA = {
    },
    "link": {
     "confidence": "probable",
-    "note": "His own family (Job Smith → James Smith → Temperance Smith) is well documented, but John's descent from him depends on Keturah Tuttle being the daughter of John Tuthill and Temperance Smith, which no record states outright. The November 2026 research puts that step at about 70 percent, so the link is probable, not confirmed."
+    "note": "Probable, about 70–75%. The records step by step: John back to Thomas and Keturah Lamoreaux, confirmed by censuses, marriage records and Thomas's will (about 97%); Keturah's maiden name Tuttle, confirmed in compiled histories of 1885 and 1919; Keturah as daughter of John Tuthill and Temperance Smith, probable (75–80%, Alva Tuttle 1968, the 1752 Smithtown marriage, naming pattern, birthplace); Temperance as daughter of James Smith and Jerusha Topping, probable (80%, five compilers 1843–1967); James as son of Job Smith, confirmed by the Smithtown land divisions of 1736 and 1761; Job as son of Bull Smith and Sarah, confirmed by the 1688 deed, the 1691/2 will and a 1697 deed. Nothing found contradicts the descent."
    },
    "occupation": "Patentee and founder of Smithtown",
    "aka": [
@@ -13786,7 +13829,8 @@ window.FAMILY_DATA = {
     "Gardiner, Lion Gardiner and his Descendants (1890) p. 119, https://archive.org/details/liongardinerhisd00gard",
     "Richard_Bull_Smith_Lineage.pdf",
     "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
-    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "mediaKnown": [
     "Tree card 'Maj R B Sm(y)ith 1613–1692'"
@@ -14032,6 +14076,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Confidence confirmed → probable: the descent rests on Keturah Tuttle's parentage (probable), so no ancestor above it can be confirmed. Every Long Island cousin depends on that same step."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Chain re-examined generation by generation (12 Nov 2026 report): overall about 70–75%, no contrary evidence."
     }
    ],
    "researchNotes": "Origin unknown. Pelletreau (1898, Intro. p. vii): 'Of his previous history we know absolutely nothing… He is said, by some historians, to have come from a certain village in Yorkshire, but the evidence is not sufficient.' F. K. Smith (1967, pp. 15–20): 'It now appears most probable that he was the Richard Smith who sailed from England 2 Oct. 1635, aged 22 years, in the ship John of London, bound for St. Christophers'; from his 'court hand' script, 'in all probability he was brought up in London'; probably unmarried before emigrating (speculative). WikiTree Smith-1208: parents unknown; 'Myreshaw, Bradford, Yorkshire' only as 'Unsourced information'; Y-DNA haplogroup R-b1, cluster NE50 of the SmithConnections project, no English match. Gloucestershire origin is disproven (belongs to Richard Smith of Cocumscussoc/Wickford, RI, earlier of Taunton, who 'left a fair possession in Gloucestershire'; both men died 1691/2, encouraging the merge). Bedfordshire origin: no source; probably cross-wired with Capt. Thomas Topping of Totternhoe. In April 1640 'Mr. Smith' petitioned to be released from his published intention to marry Sarah Hammond; Rev. George Phillips (and William Paine) wrote to Gov. Winthrop on 24 Apr 1640 about 'Smith & my brother Hammond dauter'; he lost and the marriage went ahead. His first home lot at Southampton (1640/1643) was 'at the south end of the village… on the west side of the main street'. F. K. Smith accepts he went back to England in 1654 and returned in 1656 aboard the Speedwell with the first Quaker missionaries to New England (not marked 'Q' on the list); Southampton later banished him (probable that the two Richards are the same; debated). Smithtown: Lion Gardiner received the land for helping recover Sachem Wyandanch's kidnapped daughter, sold it to Smith in 1663; a 1665 patent confirmed Smith's claim. The story that he won Smithtown by riding a bull around it is a myth per local historians. His 1688 deed gave Job 50 acres at the northeast branch. Children: Jonathan (eldest; daughter Deborah m. Joseph Blydenburgh), Richard 2d, Job, Daniel, Adam (b. 1649), Elizabeth (m. William Lawrence, Gov. Philip Carteret, Col. Richard Townley), Deborah (m. Maj. William Lawrence Jr.). TREE: 'Maj R B Sm(y)ith 1613–1692', parents 'Sir Samuel Smith 1575–1618 + Rebecca Buswell 1593–1667' — unsupported, removed (Round 1 correction 3d). His wife was formerly given as 'Sarah Folger of Boston' (Pelletreau) — corrected to Sarah Hammond (NYGBR 121).\n\nPelletreau's 1688 deeds (pp. 56-58, 71) show Richard Smith Sr. 'Gent.' with wife Sarah, acknowledged before Wait Winthrop ([R4-S1]); already in the tree in substance."
@@ -14058,7 +14106,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "probable",
-    "note": "Identified as Bull Smith's wife by Edward Smith (NYGBR 121): William Hammond's 1662 will names 'daughter Sarah Smith with her son Adam'; 1640 Phillips–Winthrop letter. 'Probable, strong.'"
+    "note": "Probable, strong (about 85–90%): her father's 1662 will names 'daughter Sarah Smith' and 'Adam Smith, son of daughter, Sarah', and the 1640 Winthrop letters describe 'Mr. Smith' contracted to 'my brother Hammond's daughter' at Watertown. No record names her husband as Richard; on John's side the whole line also rests on Keturah Tuttle's parentage."
    },
    "aka": [
     "Sarah Smith",
@@ -14070,7 +14118,7 @@ window.FAMILY_DATA = {
     "immigrant"
    ],
    "summary": "Wife of Bull Smith, who sailed from Ipswich to New England in 1634 at the age of ten; John's 10th-great-grandmother.",
-   "bio": "Sarah Hammond was born about 1623 at Lavenham in Suffolk, a daughter of William Hammond. She was probably the 'Marie, daughter of William Hamond' whose baptism the Lavenham register records on 21 October, under a year that reads 1628 but is probably a misprint for 1623; the identification of Marie with Sarah is speculative. In April 1634, aged ten, she sailed from Ipswich on the Francis with her mother, 47, her sister Elizabeth, 15, and her brother John, 7, to join her father in New England.\n\nIn 1640 she married Richard 'Bull' Smith, despite his attempt to withdraw from the match. Pelletreau's history of 1898 called her 'Sarah Folger, of Boston, according to all accounts', but that identification has been superseded. In 1688 she joined her husband as a party to deeds made 'by and with the consent of Sarah his wife', acknowledging them with him on 17 September 1688.\n\nHer will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss', the gun known as 'Old Crib', which family tradition says the Patentee's father had carried in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left Mr. George Phillips a cow and made her son Richard give up debts he 'pretends' were owed to him. She died at Smithtown in 1708.",
+   "bio": "Sarah Hammond was born about 1623 at Lavenham in Suffolk, a daughter of William Hammond. She was probably the 'Marie, daughter of William Hamond' whose baptism the Lavenham register records on 21 October, under a year that reads 1628 but is probably a misprint for 1623; the identification of Marie with Sarah is speculative. In April 1634, aged ten, she sailed from Ipswich on the Francis with her mother, 47, her sister Elizabeth, 15, and her brother John, 7, to join her father in New England.\n\nHer engagement in 1640 left a mark in the governor's own papers. That April the Watertown minister, the Rev. George Phillips, and her uncle William Paine both wrote to Governor John Winthrop about a quarrel between \"Mr. Smith\" and \"my brother Hammond's daughter\". Smith and the young woman had promised to marry, the promise had been \"publikely sett vpon our meeting house\", and Smith was now trying to back out; he was \"in the Bay\" only for the moment, a man from outside Massachusetts. Before Winthrop and the Treasurer he admitted that he and her father had agreed on her marriage portion. Sarah was sixteen and her sisters were already married, so the \"yong mayd\" can only have been her, and the match went ahead: she became the wife of Richard Smith, later the patentee of Smithtown, known as Bull Smith. When her father made his will in 1662 he remembered \"daughter Sarah Smith\" and \"Adam Smith, son of daughter, Sarah\", and Bull Smith and Sarah had a son Adam, born in 1649; no other Adam Smith is known in New England before 1692. Pelletreau's history of 1898 called her \"Sarah Folger, of Boston, according to all accounts\", a tradition with no record behind it, and the 1902 Hammond genealogy's statement that she \"separated\" from her husband misread the 1640 dispute over the engagement as a failed marriage. In 1688 she joined her husband as a party to deeds made 'by and with the consent of Sarah his wife', acknowledging them with him on 17 September 1688.\n\nHer will of 1707/8 left 'my son Richard's eldest sonne my blunderbuss', the gun known as 'Old Crib', which family tradition says the Patentee's father had carried in Cromwell's wars; in 1898 it was held by the heirs of Judge J. Lawrence Smith. The will also left a cow to Mr. George Phillips, the minister at Setauket, who bore the name of the Watertown pastor of her girlhood, and made her son Richard give up debts he 'pretends' were owed to him. She died at Smithtown in 1708.",
    "funFacts": [
     "Owned the blunderbuss 'Old Crib', a family heirloom still held by descendants in 1898."
    ],
@@ -14086,10 +14134,17 @@ window.FAMILY_DATA = {
     "Pelletreau (1898) pp. 37–38",
     "WikiTree Hammond-356",
     "Round 1 correction 3d",
-    "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich"
+    "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
+    "Winthrop Papers vol. 4, William Paine to John Winthrop, 21 Apr 1640 (trouble \"betwixt on Smith and my brother Hammond dauter\"): https://masshist.org/publications/winthrop/index.php/view/PWF04d211",
+    "Winthrop Papers vol. 4, Rev. George Phillips to John Winthrop, 24 Apr 1640, with Winthrop's note that Smith \"confessed before me and the Treasurer that her father and he did agree vpon portion\": https://masshist.org/publications/winthrop/index.php/view/PWF04d212",
+    "F. S. Hammond, History and Genealogies of the Hammond Families (1902), pp. 57, 67, incl. William Hammond's 1662 will (\"Adam Smith, son of daughter, Sarah\"; \"daughter Sarah Smith\"): https://archive.org/details/historygenealogi0001fred",
+    "Savage, Genealogical Dictionary of the First Settlers of New England, vol. 4 (no Adam Smith in New England before 1692): https://archive.org/details/genealogicaldic04savarich",
+    "New York Genealogical and Biographical Record 121 (1990): 19–22, article identifying Bull Smith's wife as Sarah Hammond (summary: https://jrm.phys.ksu.edu/genealogy/needham/d0003/I2516.html)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "openQuestions": [
-    "Lavenham register 21 Oct 1623 ('Marie'): read directly."
+    "Lavenham register 21 Oct 1623 ('Marie'): read directly.",
+    "A record naming Sarah Smith's husband as Richard: William Hammond's probate file (Middlesex Probate 7167) may hold a receipt by him; see also Great Migration Begins 2:850–853 and NYGBR 121 (1990): 19–22."
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -14120,6 +14175,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Winthrop Papers letters of 21 and 24 Apr 1640 (William Paine; Rev. George Phillips) found: the contested engagement of 'Mr. Smith' and Hammond's daughter, promise posted on the meeting house, portion agreed with her father. Savage: no Adam Smith in New England before 1692. Corrects the 1902 'separated' reading. Still missing: a record naming her husband as Richard."
     }
    ],
    "media": [
@@ -49131,7 +49190,9 @@ window.FAMILY_DATA = {
     "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S3] Pelletreau, Records of the Town of Smithtown (1898), Introduction: 'Daniel probably died before 1715; Richard died in 1719; Adam is said to have died in 1720; Job died before 1720' (secondary) https://archive.org/details/recordsoftownofs00smitrich",
-    "[R4-S4] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
+    "[R4-S4] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
+    "Bull Smith's 1688 deed, will of 1691/2 and a 1697 deed naming Job as his son (cited in the 12 Nov 2026 report)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "openQuestions": [],
    "handoff": {
@@ -49159,6 +49220,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Parent link Job ← Bull Smith rated confirmed from primary records (about 99%)."
     }
    ],
    "media": [
@@ -49811,7 +49876,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "probable",
-    "note": "Baptism and marriage confirmed in the Lavenham register (Hammond 1902); father of Sarah Smith by his will (Middlesex Probate 7167). Newly identified in Round 1; probable as John's ancestor (depends on Sarah = Bull Smith's wife, which most authorities accept, and on Temperance's parentage)."
+    "note": "Baptism and marriage confirmed in the Lavenham register (Hammond 1902); father of Sarah Smith by his will (Middlesex Probate 7167). Newly identified in Round 1; probable as John's ancestor (depends on Sarah = Bull Smith's wife, which most authorities accept, and on Temperance's parentage). His own parentage is confirmed (about 97%): his Lavenham baptism of 1575, his father's 1589 will and his 1647 power of attorney naming his mother Rose."
    },
    "aka": [
     "William Hamond",
@@ -49847,7 +49912,13 @@ window.FAMILY_DATA = {
     "jrm Needham I2516",
     "notes/round3/english_french_origins.md §2c",
     "famouskin.com, William Hammond of Watertown famous-kin charts (user-compiled; only the first generation of each was checked against the 1902 Hammond genealogy): https://famouskin.com/famous-kin-menu.php?name=13121+william+hammond",
-    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)",
+    "NEHGR 30:28, William Hammond's 1647 power of attorney naming his mother Rose: https://archive.org/details/newenglandhistor3018unse",
+    "F. S. Hammond, History and Genealogies of the Hammond Families (1902), pp. 57, 67, incl. William Hammond's 1662 will (\"Adam Smith, son of daughter, Sarah\"; \"daughter Sarah Smith\"): https://archive.org/details/historygenealogi0001fred",
+    "R. D. Owen, Descendants of John Owen of Windsor (1941): Isaac Owen m. Rebecca Tilden 20 Jul 1738; Abel Owen; \"Lucy Demmon, the wife of Jason Demmon\" of Grafton, N.Y.: https://archive.org/details/descendantsofjoh00owen",
+    "Deane, History of Scituate (1831); Mann Memorial (1884); Damon Family of Wayland (1997); Gary Boyd Roberts; Pierce, History of Grafton (1879); Revolutionary War pension file W3957 (Jason and Lucy Damon)",
+    "Research report \"Living notable relatives of Johnny Meier\", revised 12 Nov 2026 (five celebrity links checked in depth)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -49878,10 +49949,14 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Famous-kin charts recorded as possible only (Nov 2026 research)."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Celebrity links checked in depth (12 Nov 2026): Damon 12C ~55–60%, Taylor 11C1R ~50%; Weld and Brewster unchecked. Parentage confirmed via NEHGR 30:28."
     }
    ],
    "researchNotes": "Lavenham register: '1575, Oct. 30, William, son of Thomas Hamond'. Married Elizabeth Paine at Lavenham 9 Jun 1605; children William (1607), Anne (1609), John (1611), Anna (1616), Thomas (1618) and John (1626) baptized there (plus probably 'Marie' 1623 = Sarah). His father died when William was 14 and his mother remarried within five months. He had stood surety for his son William's debts in England. Sailed in the 1630s; his wife followed on the Francis in April 1634 with three children. At Scituate before 1636; freeman of Watertown 1636; one of Watertown's largest landowners (331 acres; estate £457). In 1661 the houses of 'old Warren and Goodman Hammond' were ordered searched for Quakers (the John Warren who emigrated with them, a Hall Street, Melford neighbour). Rev. George Phillips called him 'my brother Hammond'. Will dated July 1662, proved 16 Dec 1672 (Middlesex Probate 7167): 'To Adam Smith, son of daughter, Sarah, if he behave obediently to my wife after my decease, one mare colt and £20 … To daughter, Sarah Smith, £5'; it penalized grandson Thomas if he contested. Hammond-line cousins: Col. John F. Farnsworth (6C6R), S. D. Warren (6C6R), Samuel D. Warren II, Edward Perry Warren, Henry Clarke Warren, Fiske and Cornelia Warren (7C5R).",
-   "notable": "Published famous-kin charts trace several well-known Americans to William Hammond of Watertown through his children, which would make them distant cousins of John if Bull Smith's wife Sarah was William's daughter: singer James Taylor (11th cousin once removed, through John Hammond and the Hastings–Warren line), Governor Bill Weld of Massachusetts (11th cousin once removed, through Anne Hammond and Timothy Hawkins), actors Matt Damon (12th cousin, through Elizabeth Hammond and Samuel House) and Paget Brewster (12th cousin, through a Thomas Hammond and Hannah Cross), and the Charlotte television reporter Mike Dunston. Only the first generation of each chart has been checked; treat them as possible."
+   "notable": "Four famous cousins have been traced to William Hammond of Watertown, and their own lines hold up on the records; on John's side each passes through Bull Smith's wife Sarah and through Keturah Tuttle's parentage, so none is better than about even. Actor Matt Damon is a 12th cousin, about 55–60 percent overall: Elizabeth Hammond married Samuel House; their daughter Elizabeth married John Sutton in 1661; Elizabeth Sutton married Richard Man; Rebecca Mann married Isaac Tilden in 1716; Rebecca Tilden married Isaac Owen in 1738; their son Abel Owen's daughter Lucy married Jason Damon of Grafton, New York, a Revolutionary pensioner; and the Damons descend to Kent Damon and Matt. William's will names \"the four children of my daughter Elizabeth House deceased\". Singer James Taylor is an 11th cousin once removed, about 50 percent: Lt. John Hammond and Abigail Salter, the Hastings and Warren families of Watertown and Grafton, then Arabelle Warren, Etta Denison, Henry H. Woodard and Gertrude Woodard, James Taylor's mother. Its weakest step is William Warren as son of Isaac Warren. Governor Bill Weld and actor Paget Brewster appear on published charts but have not been checked beyond them."
   },
   {
    "id": "H0236",
@@ -50043,7 +50118,9 @@ window.FAMILY_DATA = {
     "Hammond (1902)",
     "notes/round3/english_french_origins.md §2c",
     "famouskin.com, William Hammond of Watertown famous-kin charts (user-compiled; only the first generation of each was checked against the 1902 Hammond genealogy): https://famouskin.com/famous-kin-menu.php?name=13121+william+hammond",
-    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)",
+    "R. C. Anderson, NEHGR 150:433–35: Rose Trippe Hammond's 1633 will proves John Livermore of Watertown a son of Daniel Livermore and Elizabeth Hammond",
+    "Research report \"Living notable relatives of Johnny Meier\", revised 12 Nov 2026 (five celebrity links checked in depth)"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -50070,6 +50147,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Fonda (11C2R ~46%) and Upton (13C ~44%) checked in depth, 12 Nov 2026."
     }
    ],
    "media": [
@@ -50083,7 +50164,7 @@ window.FAMILY_DATA = {
     }
    ],
    "researchNotes": "Married Rose Trippe at Lavenham 14 May 1573 (her brother William Trippe witnessed his will). Died 24 Nov 1589; will 1589. Son William was 14 at his death.",
-   "notable": "Through his children, including William Hammond of Watertown and a daughter who married into the Livermore family, famous-kin charts also reach Jane and Bridget Fonda, Governor Bob Taft of Ohio, Kate Upton, Judith Hoag and Elizabeth Banks. These charts are unchecked and speculative."
+   "notable": "Through his daughter Elizabeth, who married Daniel Livermore, Thomas Hammond and Rose Trippe are ancestors of two famous cousins; R. C. Anderson proved John Livermore of Watertown their grandson from Rose Trippe's will of 1633. Actor Jane Fonda is an 11th cousin twice removed, about 46 percent overall, through John Livermore, the Coolidge, Fiske and Janes or Jaynes families, and Henry Fonda's mother Herberta Jaynes. Model and actor Kate Upton is a 13th cousin, about 44 percent, through John Livermore's descendants, the Frost, Goodrich and Vial families and her father Jeff Upton; she was born in 1992, the same year as John. Both depend on John's descent from Bull Smith and his wife Sarah Hammond. Charts also list Governor Bob Taft, Judith Hoag and Elizabeth Banks, unchecked."
   },
   {
    "id": "H0239",
@@ -71443,16 +71524,22 @@ window.FAMILY_DATA = {
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282608055956 (probable); child of I282608055916 (probable)."
    },
    "tags": [],
-   "summary": "",
-   "bio": "",
+   "summary": "Deliverance King, fifth daughter of William King of Salem and first wife of John Tuthill of Southold (married 1657/8); John's 10th-great-grandmother.",
+   "bio": "Deliverance King was the fifth daughter of William King and his wife Dorothy, who came to Salem, Massachusetts, in 1635; her father's estate settlement of 1650/51 names her as \"Deliverance, his fifth daughter\". In 1657/8 she married John Tuthill of Southold on Long Island, and she was the mother of his son John, born in February 1658. Her sister Katherine married John Swazey, and through Katherine the senator Rand Paul is John's distant cousin.",
    "sources": [
-    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston ... and Southold (1898), pp. 6-7, John Tuthill no. 3 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
+    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston ... and Southold (1898), pp. 6-7, John Tuthill no. 3 (secondary) https://archive.org/details/tuthillfamilyoft00aker",
+    "Akerly, NYGBR 33:72–73 (1902): William King of Salem's 1650/51 estate settlement names \"Katherine, wife of John Swaysy\" and \"Deliverance, his fifth daughter\"",
+    "Research report \"Living notable relatives of Johnny Meier\", revised 12 Nov 2026 (five celebrity links checked in depth)"
    ],
    "manual": true,
    "researchLog": [
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported): new relative NEW-501 → M0069; research/imported/round4/new_people.json."
+    },
+    {
+     "date": "2026-11-12",
+     "note": "Parents William King and Dorothy added from Akerly (NYGBR 33:72–73)."
     }
    ]
   },
@@ -74042,6 +74129,88 @@ window.FAMILY_DATA = {
    },
    "summary": "Wife of Gov. John S. Fine, who died three months into his term (d. 1951).",
    "bio": "Helene Pennebecker Morgan married John S. Fine, then a Luzerne County judge, on 5 December 1939. They had two sons. She died on 23 April 1951 after surgery, three months after her husband became governor of Pennsylvania."
+  },
+  {
+   "id": "M0147",
+   "given": "Benjamin",
+   "surname": "Tuthill",
+   "sex": "M",
+   "death": {
+    "date": "BET 1795 AND 1807",
+    "place": "New Cornwall, Orange County, New York, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Will of Benjamin Tuthill of New Cornwall, Orange Co., N.Y., Will Liber D p. 67, dated 7 Jan 1795, proved 2 Dec 1807, naming his living \"Brother – John Tuthill\" (abstract in Early Orange County Wills, 1991: https://archive.org/details/earlyorangecount0012vari)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the 12 Nov 2026 report."
+    }
+   ],
+   "link": {
+    "confidence": "possible",
+    "note": "Named a living 'Brother – John Tuthill' in his 1795 will; if that John is Keturah Tuttle's father, Benjamin was her uncle and a son of James Tuthill and Rachel Browne. Possible."
+   },
+   "summary": "Benjamin Tuthill of New Cornwall, Orange County (will 1795, proved 1807), probably a brother of John Tuthill of Woodbury Clove and so a brother of John's 7th-great-grandfather.",
+   "bio": "Benjamin Tuthill lived at New Cornwall in Orange County, New York, in the highland district around Woodbury Clove where the Tuthill and Smith families settled in the mid-1700s. He made his will on 7 January 1795, naming among others his living \"Brother – John Tuthill\", and it was proved on 2 December 1807, so he died between those dates. If his brother John was the husband of Temperance Smith, Benjamin was an uncle of Keturah Tuttle Lamoreaux and a son of James Tuthill and Rachel Browne."
+  },
+  {
+   "id": "M0148",
+   "given": "William",
+   "surname": "King",
+   "sex": "M",
+   "death": {
+    "date": "BEF 1651",
+    "place": "Salem, Essex County, Massachusetts, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Akerly, NYGBR 33:72–73 (1902): William King of Salem's 1650/51 estate settlement names \"Katherine, wife of John Swaysy\" and \"Deliverance, his fifth daughter\"",
+    "Chambers (1895), pp. 519–20; the Parshall genealogy (1903); History of Trumbull and Mahoning Counties (1882): the Swazey–Parshall–Rose line to Rand Paul",
+    "Research report \"Living notable relatives of Johnny Meier\", revised 12 Nov 2026 (five celebrity links checked in depth)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-12",
+     "note": "Added from the revised notable-relatives report (12 Nov 2026)."
+    }
+   ],
+   "link": {
+    "confidence": "possible",
+    "note": "Father of Deliverance King, John Tuthill's first wife, per his 1650/51 estate settlement (Akerly, NYGBR 33). John's descent through her also passes through Keturah Tuttle's parentage."
+   },
+   "summary": "William King of Salem, Massachusetts, a 1635 passenger on the Marygould, father of Deliverance King Tuthill; John's 11th-great-grandfather and the shared ancestor with Senator Rand Paul.",
+   "bio": "William King came to New England in 1635 on the Marygould and settled at Salem, Massachusetts, with his wife Dorothy. The settlement of his estate in 1650/51 names his daughters, among them \"Katherine, wife of John Swaysy\" and \"Deliverance, his fifth daughter\". Deliverance married John Tuthill of Southold on Long Island in 1657/8, and through her and her descendants down to Keturah Tuttle Lamoreaux, William King is John's 11th-great-grandfather. A second line from the Kings reaches John through Hannah King and the Browne family.",
+   "notable": "Through his daughter Katherine King and John Swazey, William King is an ancestor of U.S. Senator Rand Paul of Kentucky, which makes Rand Paul John's 12th cousin once removed. The senator's line runs through the Swazey, Parshall, Rose, Howard, Duncan, Creed and Wells families to his mother Carol Wells, wife of Ron Paul. It is the only famous-cousin link that does not pass through Bull Smith, though it still depends on Keturah Tuttle's parentage on John's side; overall about 55–60 percent."
+  },
+  {
+   "id": "M0149",
+   "given": "Dorothy",
+   "surname": "",
+   "sex": "F",
+   "aka": [
+    "Dorothy King"
+   ],
+   "source": "research",
+   "manual": true,
+   "tags": [],
+   "sources": [
+    "Akerly, NYGBR 33:72–73 (1902): William King of Salem's 1650/51 estate settlement names \"Katherine, wife of John Swaysy\" and \"Deliverance, his fifth daughter\""
+   ],
+   "researchLog": [],
+   "link": {
+    "confidence": "possible",
+    "note": "Wife of William King of Salem and mother of Deliverance King; maiden name unknown."
+   },
+   "summary": "Dorothy, wife of William King of Salem and mother of Deliverance King Tuthill; John's 11th-great-grandmother.",
+   "bio": "Dorothy was the wife of William King, who settled at Salem, Massachusetts, after crossing on the Marygould in 1635. Her maiden name is not known. Their daughter Deliverance married John Tuthill of Southold."
   }
  ],
  "families": [
@@ -76580,6 +76749,7 @@ window.FAMILY_DATA = {
    "children": [
     "H0266",
     "H0267",
+    "M0147",
     "I282608055492"
    ],
    "husband": "I282608055692",
@@ -77753,14 +77923,22 @@ window.FAMILY_DATA = {
    "children": []
   },
   {
-   "id": "CF0434",
+   "id": "MF0054",
+   "husband": "M0148",
+   "wife": "M0149",
+   "children": [
+    "M0069"
+   ]
+  },
+  {
+   "id": "CF0435",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0435",
+   "id": "CF0436",
    "children": [
     "I282608085305"
    ],
@@ -77769,7 +77947,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 341,
-  "research": 657
+  "research": 660
  },
  "stories": [
   {
@@ -79826,6 +80004,18 @@ window.FAMILY_DATA = {
     "I282608078175"
    ],
    "body": "Philip Croup came to America from Jettenbach in the Palatinate as a one-year-old on his father's emigrant ship in 1754, served as a private in the Northampton County militia during the Revolution, and about 1805 moved north to Newport Township in the Wyoming Valley, following his younger brother Frederick, John's ancestor, who had settled on the Susquehanna flats nearby. Philip's daughter Elizabeth, born in 1787, married John Adam Belles from Northampton County and raised her family at Wanamie, in the heart of the township.\n\nThe Belleses stayed. Elizabeth's son Peter farmed in Newport Township all his life; his daughter Rebecca was born and died at Newport Center; and Rebecca's daughter Margaret Croop married Jacob Fine, a coal miner. By then the farms were giving way to collieries, and in April 1893 Margaret's son John Sydney Fine was born in a company mine-patch house at Alden, a short walk from Wanamie, where his great-great-grandmother had lived.\n\nThe miner's son went to high school in Nanticoke, took a law degree at Dickinson, studied at Trinity College, Dublin, while serving in Ireland after the First World War, and came home to Luzerne County politics. He sat on the county bench for twenty years and on the state Superior Court for three, and in January 1951 he was sworn in as governor of Pennsylvania. When he died in 1978 he was buried at Nanticoke, a few miles from Alden, among the descendants of the Palatine settlers who had cleared Newport Township a century and a half before."
+  },
+  {
+   "id": "S204",
+   "title": "A promise on the meeting-house door",
+   "date": "Apr 1640",
+   "people": [
+    "I282608065316",
+    "I282608065309",
+    "H0235",
+    "H0236"
+   ],
+   "body": "In the spring of 1640 Sarah Hammond of Watertown was sixteen. Six years earlier she had crossed from Ipswich on the Francis with her mother and her brother John to join her father William, a Lavenham clothier's son who had become one of the town's largest landholders. Her older sisters were already married, and that winter a suitor came to the Hammond house: a Mr. Smith, a man of some standing who lived outside the Bay Colony.\n\nThe two promised to marry, and the promise was \"publikely sett vpon our meeting house\", posted on the meeting-house door for the town to read, as the custom was. Then Mr. Smith tried to back out. In late April 1640 two letters went to Governor John Winthrop about the trouble: one from Watertown's minister, the Rev. George Phillips, and one from Sarah's uncle William Paine, who called it a quarrel \"betwixt on Smith and my brother Hammond dauter\". Brought before the governor and the colony's treasurer, Smith admitted that \"her father and he did agree vpon portion\", the sum Hammond would settle on the bride.\n\nThe marriage went ahead. The Mr. Smith of the letters was almost certainly Richard Smith, one of the first settlers of Southampton on Long Island, who would go on to found Smithtown and be remembered as Bull Smith. When William Hammond made his will in 1662 he left bequests to \"daughter Sarah Smith\" and to \"Adam Smith, son of daughter, Sarah\". Sarah outlived her husband by sixteen years and died at Smithtown in 1708, leaving her grandson the family blunderbuss and a cow to the minister of Setauket, another Mr. George Phillips."
   }
  ],
  "generated": "2026-11-12"

@@ -40,7 +40,9 @@
     "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S3] Pelletreau, Records of the Town of Smithtown (1898), Introduction: 'Daniel probably died before 1715; Richard died in 1719; Adam is said to have died in 1720; Job died before 1720' (secondary) https://archive.org/details/recordsoftownofs00smitrich",
-    "[R4-S4] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
+    "[R4-S4] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
+    "Bull Smith's 1688 deed, will of 1691/2 and a 1697 deed naming Job as his son (cited in the 12 Nov 2026 report)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
   ],
   "openQuestions": [],
   "handoff": {
@@ -68,6 +70,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "Parent link Job ← Bull Smith rated confirmed from primary records (about 99%)."
     }
   ],
   "media": [

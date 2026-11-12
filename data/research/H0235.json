@@ -2,7 +2,7 @@
   "id": "H0235",
   "link": {
     "confidence": "probable",
-    "note": "Baptism and marriage confirmed in the Lavenham register (Hammond 1902); father of Sarah Smith by his will (Middlesex Probate 7167). Newly identified in Round 1; probable as John's ancestor (depends on Sarah = Bull Smith's wife, which most authorities accept, and on Temperance's parentage)."
+    "note": "Baptism and marriage confirmed in the Lavenham register (Hammond 1902); father of Sarah Smith by his will (Middlesex Probate 7167). Newly identified in Round 1; probable as John's ancestor (depends on Sarah = Bull Smith's wife, which most authorities accept, and on Temperance's parentage). His own parentage is confirmed (about 97%): his Lavenham baptism of 1575, his father's 1589 will and his 1647 power of attorney naming his mother Rose."
   },
   "sex": "M",
   "aka": [
@@ -39,7 +39,13 @@
     "jrm Needham I2516",
     "notes/round3/english_french_origins.md §2c",
     "famouskin.com, William Hammond of Watertown famous-kin charts (user-compiled; only the first generation of each was checked against the 1902 Hammond genealogy): https://famouskin.com/famous-kin-menu.php?name=13121+william+hammond",
-    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)",
+    "NEHGR 30:28, William Hammond's 1647 power of attorney naming his mother Rose: https://archive.org/details/newenglandhistor3018unse",
+    "F. S. Hammond, History and Genealogies of the Hammond Families (1902), pp. 57, 67, incl. William Hammond's 1662 will (\"Adam Smith, son of daughter, Sarah\"; \"daughter Sarah Smith\"): https://archive.org/details/historygenealogi0001fred",
+    "R. D. Owen, Descendants of John Owen of Windsor (1941): Isaac Owen m. Rebecca Tilden 20 Jul 1738; Abel Owen; \"Lucy Demmon, the wife of Jason Demmon\" of Grafton, N.Y.: https://archive.org/details/descendantsofjoh00owen",
+    "Deane, History of Scituate (1831); Mann Memorial (1884); Damon Family of Wayland (1997); Gary Boyd Roberts; Pierce, History of Grafton (1879); Revolutionary War pension file W3957 (Jason and Lucy Damon)",
+    "Research report \"Living notable relatives of Johnny Meier\", revised 12 Nov 2026 (five celebrity links checked in depth)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -70,8 +76,12 @@
     {
       "date": "2026-11-12",
       "note": "Famous-kin charts recorded as possible only (Nov 2026 research)."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "Celebrity links checked in depth (12 Nov 2026): Damon 12C ~55–60%, Taylor 11C1R ~50%; Weld and Brewster unchecked. Parentage confirmed via NEHGR 30:28."
     }
   ],
   "researchNotes": "Lavenham register: '1575, Oct. 30, William, son of Thomas Hamond'. Married Elizabeth Paine at Lavenham 9 Jun 1605; children William (1607), Anne (1609), John (1611), Anna (1616), Thomas (1618) and John (1626) baptized there (plus probably 'Marie' 1623 = Sarah). His father died when William was 14 and his mother remarried within five months. He had stood surety for his son William's debts in England. Sailed in the 1630s; his wife followed on the Francis in April 1634 with three children. At Scituate before 1636; freeman of Watertown 1636; one of Watertown's largest landowners (331 acres; estate £457). In 1661 the houses of 'old Warren and Goodman Hammond' were ordered searched for Quakers (the John Warren who emigrated with them, a Hall Street, Melford neighbour). Rev. George Phillips called him 'my brother Hammond'. Will dated July 1662, proved 16 Dec 1672 (Middlesex Probate 7167): 'To Adam Smith, son of daughter, Sarah, if he behave obediently to my wife after my decease, one mare colt and £20 … To daughter, Sarah Smith, £5'; it penalized grandson Thomas if he contested. Hammond-line cousins: Col. John F. Farnsworth (6C6R), S. D. Warren (6C6R), Samuel D. Warren II, Edward Perry Warren, Henry Clarke Warren, Fiske and Cornelia Warren (7C5R).",
-  "notable": "Published famous-kin charts trace several well-known Americans to William Hammond of Watertown through his children, which would make them distant cousins of John if Bull Smith's wife Sarah was William's daughter: singer James Taylor (11th cousin once removed, through John Hammond and the Hastings–Warren line), Governor Bill Weld of Massachusetts (11th cousin once removed, through Anne Hammond and Timothy Hawkins), actors Matt Damon (12th cousin, through Elizabeth Hammond and Samuel House) and Paget Brewster (12th cousin, through a Thomas Hammond and Hannah Cross), and the Charlotte television reporter Mike Dunston. Only the first generation of each chart has been checked; treat them as possible."
+  "notable": "Four famous cousins have been traced to William Hammond of Watertown, and their own lines hold up on the records; on John's side each passes through Bull Smith's wife Sarah and through Keturah Tuttle's parentage, so none is better than about even. Actor Matt Damon is a 12th cousin, about 55–60 percent overall: Elizabeth Hammond married Samuel House; their daughter Elizabeth married John Sutton in 1661; Elizabeth Sutton married Richard Man; Rebecca Mann married Isaac Tilden in 1716; Rebecca Tilden married Isaac Owen in 1738; their son Abel Owen's daughter Lucy married Jason Damon of Grafton, New York, a Revolutionary pensioner; and the Damons descend to Kent Damon and Matt. William's will names \"the four children of my daughter Elizabeth House deceased\". Singer James Taylor is an 11th cousin once removed, about 50 percent: Lt. John Hammond and Abigail Salter, the Hastings and Warren families of Watertown and Grafton, then Arabelle Warren, Etta Denison, Henry H. Woodard and Gertrude Woodard, James Taylor's mother. Its weakest step is William Warren as son of Isaac Warren. Governor Bill Weld and actor Paget Brewster appear on published charts but have not been checked beyond them."
 }
