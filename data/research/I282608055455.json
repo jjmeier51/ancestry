@@ -34,7 +34,8 @@
     "WikiTree Lamoreaux-426: https://www.wikitree.com/wiki/Lamoreaux-426",
     "SAR Patriot P-232580 (Thomas Lamoreaux): https://sarpatriots.sar.org/patriot/display/232580",
     "Johnny Meier's Ancestry tree (screenshots IMG_7791-7840 in John's Google Drive), transcribed in research/tree_transcription.md and Ancestry tree screenshots (section 2.2.2)",
-    "[R4-S1] 1800 US census, Plymouth Township, Luzerne Co., p.341, 'Samuel Prindle' household (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G99D-9DZ/images/i/0/image.jpg"
+    "[R4-S1] 1800 US census, Plymouth Township, Luzerne Co., p.341, 'Samuel Prindle' household (primary) https://ancestors.familysearch.org/service/tree/tree-data/published/sources/G99D-9DZ/images/i/0/image.jpg",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
   ],
   "openQuestions": [
     "Birth (c.1770-72) and death dates and burial (Shupp's Cemetery?).",
@@ -73,5 +74,13 @@
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
     }
   ],
-  "researchNotes": "Martha was the eldest daughter (born BET 1770 AND 1772) of Thomas and Keturah (Tuttle) Lamoreaux and married Samuel Pringle in 1790 (Harvey Book pp.134-135). She was therefore born about 1770-72. The tree's birth of 1776 ('1776-Deceased') and WikiTree's 18 Oct 1776, only 18 days after her sister Elizabeth's 30 Sep 1776, plus WikiTree's death date of 27 Aug 1859 (also Elizabeth's), look copied from Elizabeth; her real death date is unverified. Her father's will names 'Martha Pringle'. The SAR's record for Thomas lists Martha among his children, but all three approved applications (1995, 2014, 2017) go through his sons James or Thomas; John's application would open a new line through Martha."
+  "researchNotes": "Martha was the eldest daughter (born BET 1770 AND 1772) of Thomas and Keturah (Tuttle) Lamoreaux and married Samuel Pringle in 1790 (Harvey Book pp.134-135). She was therefore born about 1770-72. The tree's birth of 1776 ('1776-Deceased') and WikiTree's 18 Oct 1776, only 18 days after her sister Elizabeth's 30 Sep 1776, plus WikiTree's death date of 27 Aug 1859 (also Elizabeth's), look copied from Elizabeth; her real death date is unverified. Her father's will names 'Martha Pringle'. The SAR's record for Thomas lists Martha among his children, but all three approved applications (1995, 2014, 2017) go through his sons James or Thomas; John's application would open a new line through Martha.",
+  "conflicts": [
+    {
+      "field": "birth date",
+      "site": "About 1770–72 (eldest daughter; married 1790)",
+      "found": "Alva Tuttle (1968) p. 356: \"Martha c1775\"",
+      "assessment": "Alva's c.1775 is a round estimate; a bride of 1790 born in 1775 would have been fifteen, so the site keeps about 1770–72."
+    }
+  ]
 }

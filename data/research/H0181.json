@@ -12,7 +12,8 @@
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
-    "[R4-S1] FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ"
+    "[R4-S1] FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ",
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -57,6 +58,12 @@
       "site": "1839",
       "found": "1838",
       "assessment": "Round 4 found a different date; the tree value is kept until a certificate settles it."
+    },
+    {
+      "field": "birth date and wife",
+      "site": "Born 30 Aug 1793; married Martha Ives in 1813",
+      "found": "Alva Tuttle (1968) p. 356: \"Josh 30Aug1799 m Betty IVES\"",
+      "assessment": "Same day and month, different year. A marriage in December 1813 fits a birth in 1793 far better than 1799, and Alva's 1799 is probably a slip; 'Betty' and 'Martha' (Patty) may be the same Ives wife. Kept as recorded."
     }
   ],
   "events": [

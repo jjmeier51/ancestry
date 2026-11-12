@@ -5555,5 +5555,19 @@
   "label": "Salem, Essex County, Massachusetts, 01970, United States",
   "matched": "Salem, Essex County, Massachusetts, USA",
   "precision": "exact"
+ },
+ "Minisink, Orange County, New York, USA": {
+  "lat": 41.33417,
+  "lon": -74.54583,
+  "label": "Town of Minisink, Orange County, New York, United States",
+  "matched": "Minisink, Orange County, New York, USA",
+  "precision": "exact"
+ },
+ "Wantage, Sussex County, New Jersey, USA": {
+  "lat": 41.23774,
+  "lon": -74.61477,
+  "label": "Wantage, Sussex County, New Jersey, 07461, United States",
+  "matched": "Wantage, Sussex County, New Jersey, USA",
+  "precision": "exact"
  }
 }

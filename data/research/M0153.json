@@ -1,0 +1,44 @@
+{
+  "id": "M0153",
+  "manual": true,
+  "tags": [],
+  "sources": [
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-11-12",
+      "note": "Added from Alva Tuttle (1968) p. 312."
+    }
+  ],
+  "link": {
+    "confidence": "probable",
+    "note": "Son of John Tuthill and Temperance Smith and twin of James, per Alva Tuttle (1968), whose source is the family contributor Lotta (Tuthill) Vail; brother of John's 6th-great-grandmother Keturah."
+  },
+  "summary": "Keturah Tuttle's brother John (1753–c.1806), twin of James, who farmed at Minisink and died at Wantage, New Jersey; a brother of John's 6th-great-grandmother.",
+  "bio": "John Tuthill was born in Orange County, New York, in 1753, a twin with his brother James, the eldest children of John Tuthill and Temperance Smith and older brothers of Keturah, who married Thomas Lamoreaux. He married first, at Goshen, Anna Bull, daughter of John and Hannah (Holly) Bull, who died about 1786; on 6 March 1788 he married Fanny Brewster, daughter of Francis and Mary (Strong) Brewster. He had at least eight children, among them Anna, born in 1775, Hannah, Julia, Elizabeth, Samuel and a son named Smith after his mother's family. In 1800 he was living at Minisink in Orange County. He made his will at Wantage in Sussex County, New Jersey, on 27 September 1803, naming his wife Fanny and his children, and it was proved on 19 May 1806.",
+  "residences": [
+    {
+      "date": "1800",
+      "place": "Minisink, Orange County, New York, USA"
+    },
+    {
+      "date": "1803",
+      "place": "Wantage, Sussex County, New Jersey, USA"
+    }
+  ],
+  "media": [
+    {
+      "type": "record",
+      "title": "Alva Tuttle (1968), p. 312: John Tuthill (1753), will of 1803 at Wantage, N.J.",
+      "date": "1968",
+      "source": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), via FamilySearch Books; supplied by John",
+      "note": "",
+      "file": "media/M0153/alva-tuttle-1968-p312-john-tuthill-1753.jpg",
+      "people": [
+        "I282608055492"
+      ]
+    }
+  ]
+}
