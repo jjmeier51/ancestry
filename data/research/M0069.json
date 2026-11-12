@@ -5,16 +5,22 @@
     "note": "Added by round-4 research (2026-10-08) from records; relationship: spouse of I282608055956 (probable); child of I282608055916 (probable)."
   },
   "tags": [],
-  "summary": "",
-  "bio": "",
+  "summary": "Deliverance King, fifth daughter of William King of Salem and first wife of John Tuthill of Southold (married 1657/8); John's 10th-great-grandmother.",
+  "bio": "Deliverance King was the fifth daughter of William King and his wife Dorothy, who came to Salem, Massachusetts, in 1635; her father's estate settlement of 1650/51 names her as \"Deliverance, his fifth daughter\". In 1657/8 she married John Tuthill of Southold on Long Island, and she was the mother of his son John, born in February 1658. Her sister Katherine married John Swazey, and through Katherine the senator Rand Paul is John's distant cousin.",
   "sources": [
-    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston ... and Southold (1898), pp. 6-7, John Tuthill no. 3 (secondary) https://archive.org/details/tuthillfamilyoft00aker"
+    "[R4-S1] L. D. Akerly, The Tuthill Family of Tharston ... and Southold (1898), pp. 6-7, John Tuthill no. 3 (secondary) https://archive.org/details/tuthillfamilyoft00aker",
+    "Akerly, NYGBR 33:72–73 (1902): William King of Salem's 1650/51 estate settlement names \"Katherine, wife of John Swaysy\" and \"Deliverance, his fifth daughter\"",
+    "Research report \"Living notable relatives of Johnny Meier\", revised 12 Nov 2026 (five celebrity links checked in depth)"
   ],
   "manual": true,
   "researchLog": [
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported): new relative NEW-501 → M0069; research/imported/round4/new_people.json."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "Parents William King and Dorothy added from Akerly (NYGBR 33:72–73)."
     }
   ]
 }

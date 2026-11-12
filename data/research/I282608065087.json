@@ -57,7 +57,9 @@
     "[R4-S3] Calendar of N.Y. Colonial Manuscripts, Indorsed Land Papers, 1643-1803 (Albany, 1864), p. 152 (29 Sept 1721, petition of James Smith for 2,000 acres of vacant land) and p. 166 (14 Dec 1722, survey of 2,000 acres in Ulster Co., part of the lands formerly granted to Capt. John Evans, adjoining Thomas Noxen and Patrick MacKnight, surveyed for James Smith by Cadwallader Colden) (derivative) https://archive.org/details/calendarofnycolo00newy",
     "[R4-S4] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S5] Pelletreau, Records of the Town of Smithtown (1898), p. 46, 'Will of Adam Smith (Son of Richard the Patentee)': will dated 12 June 1704, witnessed Wm. Jayne Jr. and Wm. Helme, not probated, among the papers of the late Nathaniel Smith of Sherewog (derivative) https://archive.org/details/recordsoftownofs00smitrich",
-    "[R4-S6] WikiTree Smith-105759 (James Smith, b. 1688), biography read via api.wikitree.com: '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey' (no citation given) (derivative) https://www.wikitree.com/wiki/Smith-105759"
+    "[R4-S6] WikiTree Smith-105759 (James Smith, b. 1688), biography read via api.wikitree.com: '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey' (no citation given) (derivative) https://www.wikitree.com/wiki/Smith-105759",
+    "Smithtown land divisions of 1736 and 1761 naming James as son of Job Smith (cited in the 12 Nov 2026 report)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
   ],
   "mediaKnown": [
     "Tree card 'James F Smith 1688–1740'"
@@ -104,6 +106,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "Parent link James ← Job Smith rated confirmed from the 1736 and 1761 land divisions (about 97%)."
     }
   ],
   "events": [

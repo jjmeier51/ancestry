@@ -4,6 +4,27 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-11-12 — Bull Smith chain and celebrity links (second round)
+
+- Sources: John's doc "Bull Smith and Matt Damon: how far the records go"
+  (12 Nov 2026) and the revised notable-relatives doc (rev 17: five celebrity
+  links checked in depth, Rand Paul added).
+- Sarah Hammond: 1640 Winthrop Papers letters (PWF04d211 William Paine,
+  PWF04d212 Rev. George Phillips) on the contested engagement of "Mr. Smith"
+  and Hammond's daughter, written into her bio; story `S204` "A promise on
+  the meeting-house door"; link note 85–90%.
+- Bull Smith: link note now gives the record for each step (overall 70–75%,
+  nothing contrary). Job and James Smith sources added.
+- John Tuthill: Benjamin Tuthill's 1795 will (Liber D p. 67) names a living
+  brother John, so the c.1770 death may be wrong (conflict updated); no John
+  Tuthill will in the index; adjutant John Tuthill ruled out. Benjamin added
+  as `M0147` (possible, via `HF0112`).
+- Rand Paul 12C1R through William King and Dorothy of Salem, parents of
+  Deliverance King (`M0148`/`M0149`, `MF0054`; Akerly NYGBR 33:72–73).
+- Celebrity paths and percentages on William Hammond (Damon, Taylor) and
+  Thomas Hammond (Fonda, Upton) `notable` text; still not added as people.
+  Table appended to `research/lines.md`.
+
 ## 2026-11-12 — Notable relatives research merged
 
 - Source: John's Claude Docs report "Living notable relatives of Johnny

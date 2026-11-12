@@ -5541,5 +5541,19 @@
   "label": "Wanamie, Newport Township, Luzerne County, Pennsylvania, 18611, United States",
   "matched": "Wanamie, Newport Township, Luzerne County, Pennsylvania, USA",
   "precision": "exact"
+ },
+ "New Cornwall, Orange County, New York, USA": {
+  "lat": 41.44994,
+  "lon": -74.02842,
+  "label": "New York Military Academy, Main Street, Town of Cornwall, Orange County, New York, 12518, United States",
+  "matched": "New Cornwall, Orange County, New York, USA",
+  "precision": "exact"
+ },
+ "Salem, Essex County, Massachusetts, USA": {
+  "lat": 42.52144,
+  "lon": -70.89567,
+  "label": "Salem, Essex County, Massachusetts, 01970, United States",
+  "matched": "Salem, Essex County, Massachusetts, USA",
+  "precision": "exact"
  }
 }

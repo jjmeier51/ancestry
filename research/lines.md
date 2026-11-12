@@ -1122,3 +1122,16 @@ Every Long Island cousin depends on Keturah Tuttle being the daughter of John Tu
 Corrections: John Thompson of Setauket's wife was Mary, not Hannah Brewster (Jacobus, TAG); William Floyd is a cousin only through Bull Smith, not through Thompson; Chester Ransom is 1C6R, not 1C7R; David Crosby's claimed William Floyd descent is unproven (he died 2023). Not kin: Corrado Ferlaino (Conflenti family), novelist Paolo Cognetti, bandleader James C. Petrillo. No living public figure found on the Pringle, Croup, Heffernan, Lamoreaux, Tuthill, Thompson, Petriello or German lines; Harrison Ruffin Tyler (d. 2025) left no public descendants.
 
 Records that would firm these up: Elizabeth Notarianni Cognetti's 1994 Times-Tribune obituary (Sal Jr., Ryan); Joseph F. Cognetti's 2009 obituary (Maria, Ralph); Pelletreau's appendix or F. K. Smith (1967) for Ebenezer → Richard (1735) → Richard (1770); the 1902 Hammond genealogy generation by generation; any record naming Keturah Tuttle's parents.
+
+
+### Update, 12 November 2026: celebrity links checked, Bull Smith chain re-examined
+
+| Celebrity | Relationship | Shared ancestor | Celebrity's side | Overall | Weakest link |
+|---|---|---|---|---|---|
+| Sen. Rand Paul | 12C1R | William King & Dorothy of Salem (`M0148`/`M0149`) | Probable | ~55–60% | Keturah as John Tuthill & Temperance Smith's daughter |
+| Matt Damon | 12C | William Hammond of Watertown | Probable, near confirmed (~93%) | ~55–60% | Rebecca Tilden → Isaac Owen → Abel Owen |
+| James Taylor | 11C1R | William Hammond | Probable | ~50% | William Warren (b. c.1818) as son of Isaac Warren |
+| Jane Fonda | 11C2R | Thomas Hammond & Rose Trippe | Probable | ~46% | Henry Clinton → Henry Silas Jaynes |
+| Kate Upton | 13C | Thomas Hammond & Rose Trippe | Probable | ~44% | The Vial generations |
+
+Bill Weld and Paget Brewster: still unchecked beyond the charts. Rand Paul is the only one not through Bull Smith (via Deliverance King, John Tuthill's first wife). Bull Smith chain: John → Keturah confirmed (~97%); Keturah ← John Tuthill & Temperance probable (75–80%); Temperance ← James & Jerusha probable (80%); James ← Job confirmed (land divisions 1736, 1761); Job ← Bull & Sarah confirmed (1688 deed, 1691/2 will, 1697 deed); Sarah ← William Hammond probable, strong (85–90%; 1662 will; 1640 Winthrop letters). Overall Bull Smith ~70–75%. William Hammond's own parentage confirmed (NEHGR 30:28). Benjamin Tuthill's 1795 will names a living brother John Tuthill. Records that would settle it: Alva Tuttle 1968 pp. 311–312, 356 (FamilySearch Books 481721); Orange County deeds 1755–1810; a John Tuthill administration after 1795; Middlesex Probate 7167; NYGBR 121 (1990): 19–22. Correction carried: William Hammond's wife was Elizabeth Paine, not Penn (the site already had Paine).

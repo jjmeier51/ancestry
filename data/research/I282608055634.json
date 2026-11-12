@@ -49,6 +49,10 @@
     {
       "label": "Birth estimate (Hauppauge/deep-dive reports)",
       "value": "about 1732–35"
+    },
+    {
+      "label": "Family ties",
+      "value": "Her brother Austin Smith married a sister of her husband John Tuthill; her sister Keturah Smith is the namesake of her daughter Keturah."
     }
   ],
   "sources": [
@@ -61,7 +65,8 @@
     "Round 2 report §3d; Round 3 report §4 (unchanged probable); notes/round3/english_french_origins.md status change 8",
     "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
-    "[R4-S3] WikiTree Smith-141655 (Temperance Smith), biography read via api.wikitree.com: quotes Alva Tuttle p. 311; Charles E. Topping, Topping Genealogy (1980) p. 392 / Vail Family notes (NYG&B) giving Josiah & Hannah (Sayre) Topping; and Genealogies of the State of New York vol. 2 giving Jerusha as daughter of 'Jonathan (2) and Mary Topping' (derivative) https://www.wikitree.com/wiki/Smith-141655"
+    "[R4-S3] WikiTree Smith-141655 (Temperance Smith), biography read via api.wikitree.com: quotes Alva Tuttle p. 311; Charles E. Topping, Topping Genealogy (1980) p. 392 / Vail Family notes (NYG&B) giving Josiah & Hannah (Sayre) Topping; and Genealogies of the State of New York vol. 2 giving Jerusha as daughter of 'Jonathan (2) and Mary Topping' (derivative) https://www.wikitree.com/wiki/Smith-141655",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
   ],
   "mediaKnown": [
     "Ancestry tree card '* T SMITH 1735–1780'"
@@ -111,6 +116,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "Parentage rated probable (about 80%): five compilers 1843–1967; brother Austin married John Tuthill's sister."
     }
   ],
   "conflicts": [
