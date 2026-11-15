@@ -2,7 +2,7 @@
   "id": "H0263",
   "link": {
     "confidence": "probable",
-    "note": "Pelletreau App. p. 479; Ruttenber 1881."
+    "note": "Pelletreau App. p. 479; Thompson 1843; Weygant 1897; F. K. Smith 1967 (marriage to Mehitable Tuthill, Nova Scotia); Ruttenber 1881."
   },
   "sex": "M",
   "aka": [
@@ -12,7 +12,7 @@
     "military"
   ],
   "summary": "Brother of Temperance Smith and John's 7th-great-grand-uncle; captain of the Woodbury Clove militia company in Orange County, New York.",
-  "bio": "Austin Smith was a brother of Temperance Smith, which makes him John's 7th-great-grand-uncle. He was a public man of Woodbury Clove in Orange County, New York. In 1765 he and John Earl served as overseers of roads for the Clove, in 1771 he was captain of the Woodbury Clove military company, and in 1775 he was fence-viewer and assessor. The Upper Clove company was afterwards described as the one 'formerly commanded by Capt. Austin Smith'. His wife may have been Mehitable Tuthill, though that has not been verified.",
+  "bio": "Austin Smith was a brother of Temperance Smith, which makes him John's 7th-great-grand-uncle. He was a public man of Woodbury Clove in Orange County, New York. In 1765 he and John Earl served as overseers of roads for the Clove, in 1771 he was captain of the Woodbury Clove military company, and in 1775 he was fence-viewer and assessor. The Upper Clove company was afterwards described as the one 'formerly commanded by Capt. Austin Smith'. He married Mehitable Tuthill, a daughter of James Tuthill and sister of John Tuthill, the husband of his sister Temperance. He signed the Articles of Association in Cornwall Precinct in 1775, but he later sided with the Crown: he died a Loyalist in 1798, and at least two of his sons went with him to Annapolis County, Nova Scotia.",
   "military": [
     {
       "branch": "Orange County, NY militia",
@@ -23,7 +23,12 @@
   "sources": [
     "Ruttenber & Clark (1881)",
     "Pelletreau (1898) App. p. 479",
-    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
+    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), pp. ~91–92 and 151–152: \"102. Austin, m. Mehitable Tuthill … 107. Temperance, supposed to have m. John Tuthill, brother of above Mehitable\"; Mehitable is \"daughter of James and ___ Tuthill\" of Fireplace, who \"in 1748 removed with his family to Orange County\" (archive.org full-text snippets; book borrow-only): https://archive.org/details/familyofrichards00smit",
+    "B. F. Thompson, History of Long Island, 2nd ed. (1843), vol. 2, App. p. 453: \"James, son of Job 1st, married Jerusha Topping, issue, Matthew, Ezekiel, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jerusha\": https://archive.org/details/historyoflongisl02thom",
+    "C. H. Weygant, The Family Record (1897), pp. 144–145: James & Jerusha (Topping) Smith's nine children incl. 8. Temperance; Capt. Francis and Capt. Austin Smith 'residents of Woodbury Clove some twenty years or more prior to the commencement of the revolution': https://archive.org/details/familyrecord112weyg",
+    "Ruttenber & Clark, History of Orange County (1881), pp. 68–69: 1775 Cornwall Precinct signers incl. Austin Smith, John Tuthill, Thomas Lamoureux and James Tuttle: https://archive.org/details/historyoforangec00rut",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -46,7 +51,21 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Wife Mehitable Tuthill (sister of John Tuthill) and Loyalist end in Nova Scotia added from F. K. Smith (1967)."
     }
   ],
-  "researchNotes": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.\n\nWeygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company ([R4-S1]). WikiTree gives his wife as Mehitable Tuthill (unverified)."
+  "researchNotes": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.\n\nWeygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company ([R4-S1]). WikiTree gives his wife as Mehitable Tuthill (unverified).\n\nF. K. Smith (1967) no. 102: 'Austin, m. Mehitable Tuthill, settled in the southeastern part of Orange County, N.Y., about twenty [years before the Revolution]'; 'at least two sons were with him, in Annapolis County' [Nova Scotia]; Mehitable 'daughter of James and ___ Tuthill'. The Home-Nest Chronicles descendant chart gives 'Austin Smith (Loyalist) 1728–1798 + Mehitable Tuthill 1728–'. The death place in Nova Scotia is inferred from F. K. Smith and the Loyalist label; no death record seen. His Loyalist claim (UK National Archives AO 12/13; Library and Archives Canada; Ancestry 'UK, American Loyalist Claims') is unread and may name his Woodbury Clove in-laws. He signed the 1775 Cornwall Articles of Association (Ruttenber & Clark pp. 68–69).",
+  "birth": {
+    "date": "1728"
+  },
+  "death": {
+    "date": "1798",
+    "place": "Annapolis County, Nova Scotia, Canada"
+  },
+  "funFacts": [
+    "He signed the patriot Articles of Association in 1775 while his brother Francis led the Woodbury Clove militia, yet Austin ended his days a Loyalist in Nova Scotia."
+  ]
 }

@@ -1110,8 +1110,8 @@ From the report "Living notable relatives of Johnny Meier" (11 Nov 2026). Only p
 | Sal Cognetti Jr. (`M0130`) | Scranton defense lawyer; AUSA 1974–79; PA Court of Judicial Discipline | 1C1R | Sal D. Cognetti Sr. | Probable (indirect) |
 | Tony Cognetti (`H0347`) | Candy Hall of Fame 1996 | 1C1R | Ralph A. Cognetti (1913–2009) | Kinship confirmed; alive not confirmed |
 | Paige Cognetti (`H0378`) | Mayor of Scranton; won PA-8 on 3 Nov 2026 | In-law (wife of probable 2nd cousin Ryan) | Sal D. → Joe → Ryan | Probable (strong) |
-| Samuel G. White (`M0135`) | Architect (PBDW), FAIA, National Academician; Stanford White author | 8C3R | Bull Smith → … → Bessie Springs Smith & Stanford White | Probable on his side; ~70% on John's |
-| Christian White (`M0133`) | Painter and printmaker, son of sculptor Robert White | 8C3R | same | Probable; alive needs fresher proof |
+| Samuel G. White (`M0135`) | Architect (PBDW), FAIA, National Academician; Stanford White author | 8C2R | Job Smith → Job 2d → Anna → … → Bessie Springs Smith & Stanford White | Probable on his side; ~70% on John's |
+| Christian White (`M0133`) | Painter and printmaker, son of sculptor Robert White | 8C2R | same | Probable; alive needs fresher proof |
 | James Taylor, Gov. Bill Weld, Matt Damon, Paget Brewster, Mike Dunston | Singer, governor, actors, reporter | 11C1R–12C1R | William Hammond of Watertown | Possible (famouskin charts) |
 | Jane & Bridget Fonda, Gov. Bob Taft, Kate Upton, Judith Hoag, Elizabeth Banks | Actors, governor | 11C2R–13C1R | Thomas Hammond & Rose Tripp | Speculative |
 
@@ -1138,3 +1138,23 @@ Bill Weld and Paget Brewster: still unchecked beyond the charts. Rand Paul is th
 
 
 **Alva Tuttle (1968) read, 12 Nov 2026.** His source for Keturah's parents is "LTV", the family contributor Lotta (Tuthill) Vail (b. 1880), not a record; Keturah's parentage stays probable. Page 356 adds a thirteenth Lamoreaux child, Jane (m. Absalom Case), and records Keturah living in Luzerne County in 1816.
+
+## The Bull Smith chain, link by link (November 2026)
+
+| Link | Status | Rough % | Key evidence |
+| --- | --- | --- | --- |
+| John → Thomas Lamoreaux & Keturah | Confirmed | ~97% | Censuses, Thomas's will, 1812 Luzerne deed (Keturah signs by mark) |
+| Keturah's maiden name Tuttle/Tuthill | Confirmed | | DeKalb Co. history (1885) p. 882; Lamoureux Record (1919); three DAR sheets (m. Orange Co. c.1770) |
+| Keturah ← John Tuthill & Temperance Smith | Probable | ~80% | Alva Tuttle (1968) p. 356, source Lotta (Tuthill) Vail; born Woodbury Clove 1755; naming pattern |
+| John Tuthill m. Temperance Smith, 23 Nov 1752, Smithtown | Confirmed | ~97% | Rev. Napthali Daggett's register, NYGBR 44:283 |
+| John Tuthill ← James Tuthill & Rachel Browne | Probable | ~75% | Alva p. 311; Leach (1903): James's sons Daniel, James, John, Benjamin; F. K. Smith: brother of Mehitable |
+| Temperance ← James Smith & Jerusha Topping | Probable | ~80% | Thompson 1843, Weygant 1897, Pelletreau 1898, Reynolds 1914, F. K. Smith 1967 ("supposed to have m. John Tuthill, brother of above Mehitable"); Austin Smith m. Mehitable Tuthill |
+| James of Moriches = James son of Job | Probable | ~88% | All compilers; no other grandson James |
+| James ← Job Smith | Confirmed | ~97% | 1736 and 1761 Smithtown divisions (Pelletreau pp. 288, 297, 311–312, 425–426) |
+| Job ← Richard "Bull" Smith & Sarah | Confirmed | ~99% | Deed 30 Aug 1688; will 5 Mar 1691/2; Sarah's deed 3 Jul 1697 |
+| **Overall** | **Probable** | **70–75%** | Every Smithtown Temperance of c.1752 was a Bull Smith descendant, so it turns on Keturah's parentage |
+
+Stanford White's heirs: Pelletreau (1898) gives Ebenezer Smith b. 20 Feb 1712, m. Anna dau. of Job Smith 2d; son Richard 4th; Richard 5th m. Eliza W. Nicoll; Judge J. Lawrence Smith's daughter "Bessie S., wife of Stanford White" (~90% from Bull down). Through Job and Anna, Samuel G. White is John's 8th cousin twice removed.
+
+Records that would settle the Keturah step: Lotta Vail's papers; Orange Co. deeds 1755–1810 (Liber H p. 214, Liber T p. 473); Benjamin Tuthill's will (Liber D p. 67); Yale's Daggett papers; Suffolk deeds Libers C–G; Austin Smith's Loyalist claim.
+

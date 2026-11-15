@@ -1,0 +1,26 @@
+{
+  "id": "M0157",
+  "manual": true,
+  "link": {
+    "confidence": "probable",
+    "note": "DAR lineage sheet: John Linskill, b. 28 Nov 1799, d. Luzerne Co. 18 Aug 1865, of Huntsville, Lehman Twp., second husband (m. 1832) of Mary Steele."
+  },
+  "summary": "John Linskill (1799–1865) of Huntsville, Lehman Township, husband of Mary Steele, granddaughter of Ensign Thomas Lamoreaux.",
+  "bio": "John Linskill was born on 28 November 1799 and lived at Huntsville in Lehman Township, Luzerne County, Pennsylvania. In 1832 he married Mary Steele, a daughter of Peter Steele and Charity Lamoreaux, and they had six children born in Lehman Township between 1833 and 1848, among them Elizabeth, born in 1833. He died on 18 August 1865.",
+  "birth": {
+    "date": "1799-11-28"
+  },
+  "death": {
+    "date": "1865-08-18",
+    "place": "Luzerne County, Pennsylvania, USA"
+  },
+  "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-11-15",
+      "note": "Added from a DAR Genealogical Records Committee lineage sheet (Charity Lamoreaux line) supplied by John."
+    }
+  ]
+}

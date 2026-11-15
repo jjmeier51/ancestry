@@ -1,0 +1,27 @@
+{
+  "id": "M0159",
+  "manual": true,
+  "link": {
+    "confidence": "probable",
+    "note": "DAR lineage sheet: Merrit Sickler, b. 15 Mar 1839 at Huntsville, Lehman Twp., d. Luzerne Co. 20 Jan 1894, m. 18 Mar 1871 Elizabeth Linskill."
+  },
+  "summary": "Merrit Sickler (1839–1894) of Huntsville, Lehman Township, husband of Elizabeth Linskill.",
+  "bio": "Merrit Sickler was born on 15 March 1839 at Huntsville in Lehman Township, Luzerne County, Pennsylvania. On 18 March 1871 he married Elizabeth Linskill, a great-granddaughter of Ensign Thomas Lamoreaux. He died on 20 January 1894.",
+  "birth": {
+    "date": "1839-03-15",
+    "place": "Huntsville, Lehman Township, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1894-01-20",
+    "place": "Luzerne County, Pennsylvania, USA"
+  },
+  "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-11-15",
+      "note": "Added from a DAR Genealogical Records Committee lineage sheet (Charity Lamoreaux line) supplied by John."
+    }
+  ]
+}

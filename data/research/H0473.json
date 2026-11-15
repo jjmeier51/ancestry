@@ -1,8 +1,8 @@
 {
   "id": "H0473",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named as a son of Job Smith in his grandfather Bull Smith's deed of 30 Aug 1688 (Pelletreau pp. 56–58, 70); Pelletreau App. p. 478 gives his birth, 9 Mar 1679, and his daughters Anna (Mrs Ebenezer Smith) and Charity."
   },
   "tags": [],
   "researchLog": [
@@ -21,12 +21,20 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Linked as a child of Job Smith and Elizabeth Thompson so the site can trace the Stanford White heirs' closer descent through Job (8th cousin twice removed)."
     }
   ],
   "bio": "Job Smith was a son of Job Smith 1st and Elizabeth Thompson, and is John's 9th-great-granduncle. Two of his daughters are important to the web of Smith cousins. Anna married first Ebenezer Smith, son of Richard Smith 2d, and second Zephaniah Platt, and died on 12 March 1813. Charity was the first wife of Edmund Smith 2d. Through Anna and Charity, Judge J. Lawrence Smith, James Clinch Smith, Bessie Smith White and the Bailey and Platt cousins all descend from Job Smith 1st, John's own ancestor.",
   "sources": [
-    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466, 475-476 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466, 475-476 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), pp. 56–58, 70 and App. pp. 472, 478: https://archive.org/details/recordsoftownofs00smitrich"
   ],
   "researchNotes": "Son of Job Smith 1st & Elizabeth Thompson (John's 9th-great-granduncle). Pelletreau ([R4-S1]) names two daughters important to the cousin web: Anna, who married first Ebenezer Smith (son of Richard 2d) and second Zephaniah Platt, and died 12 Mar 1813; and Charity, first wife of Edmund Smith 2d. Through Anna and Charity, Judge J. Lawrence Smith, James Clinch Smith, Bessie Smith White and the Bailey and Platt cousins all descend from Job Smith 1st, John's own ancestor.",
-  "summary": "Son of Job Smith and Elizabeth Thompson, whose daughters Anna and Charity tie many Smith, Platt and Bailey cousins to the family; John's 9th-great-granduncle."
+  "summary": "Son of Job Smith and Elizabeth Thompson, whose daughters Anna and Charity tie many Smith, Platt and Bailey cousins to the family; John's 9th-great-granduncle.",
+  "birth": {
+    "date": "1679-03-09"
+  }
 }

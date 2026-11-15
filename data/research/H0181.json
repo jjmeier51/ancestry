@@ -13,7 +13,8 @@
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
     "[R4-S1] FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ",
-    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -36,6 +37,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "DAR lineage sheet: married Patty Ives 12 Dec 1813, supporting the 1793 birth over Alva Tuttle's 1799."
     }
   ],
   "media": [
@@ -63,7 +68,7 @@
       "field": "birth date and wife",
       "site": "Born 30 Aug 1793; married Martha Ives in 1813",
       "found": "Alva Tuttle (1968) p. 356: \"Josh 30Aug1799 m Betty IVES\"",
-      "assessment": "Same day and month, different year. A marriage in December 1813 fits a birth in 1793 far better than 1799, and Alva's 1799 is probably a slip; 'Betty' and 'Martha' (Patty) may be the same Ives wife. Kept as recorded."
+      "assessment": "Same day and month, different year. A DAR lineage sheet gives his marriage to 'Patty Ives' on 12 Dec 1813, which fits a birth in 1793 and the site's Martha (Patty) Ives; Alva's 1799 is probably a slip and 'Betty' a misreading. Kept as recorded."
     }
   ],
   "events": [

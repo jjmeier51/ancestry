@@ -13,7 +13,9 @@
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
     "[R4-S1] FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155",
-    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)",
+    "Luzerne County, PA, Deed Book 105, pp. 266–268 (FamilySearch image group 008086747, images 140–141): Thomas Lamoreaux of Plymouth and Keturah his wife to John Lamoreaux, 22 Aug 1812, $266.67, Lot 28 and east half of Lot 30, third tier, fourth division, Plymouth, 103 acres 107 perches, part of Thomas's Pennsylvania patent of 18 May 1812 (Patent Book H No. 7, p. 170); Keturah signed by mark, examined 21 Feb 1817 before Jacob J. Bogardus; recorded 30 Oct 1865 (images read by John)"
   ],
   "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -36,6 +38,10 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "DAR sheet: wife 'Martha D.' by 14 Jul 1817; probably his first wife before Maria Allen. He witnessed Keturah's mark on the 1812 deed."
     }
   ],
   "media": [
@@ -78,6 +84,12 @@
       "site": "Martha Lum",
       "found": "Alva Tuttle (1968) p. 356: \"Danl m Martha LINN\"",
       "assessment": "Probably one woman with the surname read two ways; a marriage or census record would settle the spelling."
+    },
+    {
+      "field": "first wife",
+      "site": "Maria Allen, m. about 1821",
+      "found": "A DAR lineage sheet gives his wife as 'Martha D.', married before 14 Jul 1817",
+      "assessment": "A wife Martha by 1817 and Maria Allen from about 1821 suggests two marriages: Martha (Lum or Linn) first, Maria Allen second. Witnessed his mother's signature on the 1812 deed."
     }
   ],
   "researchNotes": "Daniel (1796-1838) married Martha Lum/Linn.\n\nFamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father ([R4-S1]). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead."
