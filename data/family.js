@@ -4687,6 +4687,30 @@ window.FAMILY_DATA = {
    "lon": -74.61477,
    "label": "Wantage, Sussex County, New Jersey, 07461, United States",
    "precision": "exact"
+  },
+  "Annapolis County, Nova Scotia, Canada": {
+   "lat": 44.70649,
+   "lon": -65.24981,
+   "label": "Annapolis County, Nova Scotia, Canada",
+   "precision": "exact"
+  },
+  "Huntsville, Lehman Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.30772,
+   "lon": -75.97427,
+   "label": "Huntsville Dam, Lehman Township, Luzerne County, Pennsylvania, 18612, United States",
+   "precision": "exact"
+  },
+  "Lehman Township, Luzerne County, Pennsylvania, USA": {
+   "lat": 41.30246,
+   "lon": -76.03702,
+   "label": "Lehman Township, Luzerne County, Pennsylvania, United States",
+   "precision": "exact"
+  },
+  "Woodbury Clove, Cornwall, Orange County, New York, USA": {
+   "lat": 41.43444,
+   "lon": -74.03583,
+   "label": "Town of Cornwall, Orange County, New York, United States",
+   "precision": "approximate"
   }
  },
  "sample": false,
@@ -9755,7 +9779,7 @@ window.FAMILY_DATA = {
    },
    "link": {
     "confidence": "confirmed",
-    "note": "Named 'my beloved wife Keturah' in Thomas Lamoreaux's will (upgraded to confirmed, Round 3). Her parentage (John Tuthill & Temperance Smith) is probable and belongs to the colonial group."
+    "note": "Named 'my beloved wife Keturah' in Thomas Lamoreaux's will and in the 1812 Luzerne deed (confirmed). Her parentage (John Tuthill & Temperance Smith) is probable, about 80%: the only printed statement of it, Alva Tuttle (1968), comes from the family contributor Lotta (Tuthill) Vail; supporting it are the 1752 Smithtown marriage of John and Temperance (now proved from the church register), her birth at Woodbury Clove where her Smith uncles and the Tuthills lived, the family names, and DAR sheets placing the marriage in Orange County about 1770."
    },
    "aka": [
     "Keturah Tuthill",
@@ -9763,7 +9787,7 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "Orange County-born wife of Ensign Thomas Lamoreaux and the link between the Pennsylvania lines and the colonial Long Island Tuthills and Smiths; John's 6th-great-grandmother.",
-   "bio": "Keturah Tuttle, or Tuthill, was born in December 1755 at Woodbury Clove in Orange County, New York. She was probably a daughter of John Tuthill (about 1730 to about 1770) and Temperance Smith, whose other children were the twins James and John, born 1753, the twins Ezekiel and William, born about 1754, Samuel and Daniel. Keturah's own children James, Temperance and Keturah carry the names of that family, and she was evidently named for her aunt Keturah Smith. Her mother Temperance was a daughter of James Smith and Jerusha Topping, and Temperance's brothers Captain Francis Smith and Captain Austin Smith had settled at Woodbury Clove some twenty years before the Revolution. Through this descent Keturah is the bridge between John's Pennsylvania ancestors and the colonial Tuthill and Smith families of Long Island.\n\nShe married Thomas Lamoreaux, who served as ensign in the Woodbury Clove and Upper Clove militia companies commanded by her uncles in 1775 and 1776; the 1775 Cornwall Precinct association list carries his name alongside those of her brothers James and John. The marriage was probably by banns. In 1790 she moved with her husband to Plymouth in Luzerne County, Pennsylvania, and later to Jackson Township. Thomas's will left her \"my best horse saddle & bridle\" and one hundred dollars.\n\nKeturah died on 10 March 1833 in Jackson Township, her death noticed in the Republican Farmer of Wilkes-Barre, and was buried in the Lamoreaux Family Burying Ground there. A death date of 1842 sometimes given for her belongs to her daughter Keturah. She was John's 6th-great-grandmother.",
+   "bio": "Keturah Tuttle, or Tuthill, was born in December 1755 at Woodbury Clove in Orange County, New York. She was probably a daughter of John Tuthill (about 1730 to about 1770) and Temperance Smith, whose other children were the twins James and John, born 1753, the twins Ezekiel and William, born about 1754, Samuel and Daniel. Her parents had been married at Smithtown on Long Island in November 1752. Keturah's own children James, Temperance and Keturah carry the names of that family, and she was evidently named for her aunt Keturah Smith. Her mother Temperance was a daughter of James Smith and Jerusha Topping, and Temperance's brothers Captain Francis Smith and Captain Austin Smith had settled at Woodbury Clove some twenty years before the Revolution; Austin's wife Mehitable was her father's sister, so the two families were twice joined. Through this descent Keturah is the bridge between John's Pennsylvania ancestors and the colonial Tuthill and Smith families of Long Island.\n\nAbout 1770, in Orange County, she married Thomas Lamoreaux, who served as ensign in the Woodbury Clove and Upper Clove militia companies commanded by her uncles in 1775 and 1776; the 1775 Cornwall Precinct association list carries his name alongside those of her brothers James and John. The marriage was probably by banns. In 1790 she moved with her husband to Plymouth in Luzerne County, Pennsylvania, and later to Jackson Township. In August 1812 she and Thomas sold their son John the homestead lots at Plymouth, 103 acres from Thomas's Pennsylvania patent; Keturah signed the deed with her mark. Thomas's will left her \"my best horse saddle & bridle\" and one hundred dollars.\n\nKeturah died on 10 March 1833 at Plymouth, in the part that later became Jackson Township, \"without a struggle or a groan\". The Republican Farmer of Wilkes-Barre remembered her as one of the earliest settlers of Plymouth, who had raised thirteen children and lived to see 97 grandchildren and 114 great-grandchildren. She was buried in the Lamoreaux Family Burying Ground there. A death date of 1842 sometimes given for her belongs to her daughter Keturah. She was John's 6th-great-grandmother.",
    "facts": [
     {
      "label": "Tree shows",
@@ -9780,6 +9804,18 @@ window.FAMILY_DATA = {
     {
      "label": "Children (Alva Tuttle 1968)",
      "value": "Thirteen: Martha, Elizabeth, James, Daniel, John, Charity, Hannah, Thomas, Amelia, Keturah, Jane, Temperance and Joshua"
+    },
+    {
+     "label": "Marriage (DAR lineage sheets)",
+     "value": "To Thomas Lamoreaux, Orange County, New York, about 1770"
+    },
+    {
+     "label": "Descendants at her death (1833 notice)",
+     "value": "Thirteen children raised, 97 grandchildren, 114 great-grandchildren"
+    },
+    {
+     "label": "Signature",
+     "value": "Signed the 1812 deed of the Plymouth homestead by her mark"
     }
    ],
    "sources": [
@@ -9800,13 +9836,27 @@ window.FAMILY_DATA = {
     "Ruttenber & Clark, History of Orange County (1881): Lamoreaux and Prindle families neighbours at Smith's Clove: https://archive.org/details/historyoforangec00rut",
     "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
     "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
-    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited",
+    "Rev. Napthali Daggett's register, Presbyterian Church of Smithtown, marriages 1752: \"Nov. 23. John Tuthill & Temperance Smith, 8/.\" Printed by W. A. Robbins, \"The Records of the Presbyterian Church of Smithtown,\" NYGBR 44 (1913): 279–284, marriage on p. 283, compared with F. B. Dexter's 1899 certified copy of the original at Yale (primary record, printed transcription): https://archive.org/details/newyorkgenealog44newy/page/283/",
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), pp. ~91–92 and 151–152: \"102. Austin, m. Mehitable Tuthill … 107. Temperance, supposed to have m. John Tuthill, brother of above Mehitable\"; Mehitable is \"daughter of James and ___ Tuthill\" of Fireplace, who \"in 1748 removed with his family to Orange County\" (archive.org full-text snippets; book borrow-only): https://archive.org/details/familyofrichards00smit",
+    "C. H. Weygant, The Family Record (1897), pp. 144–145: James & Jerusha (Topping) Smith's nine children incl. 8. Temperance; Capt. Francis and Capt. Austin Smith 'residents of Woodbury Clove some twenty years or more prior to the commencement of the revolution': https://archive.org/details/familyrecord112weyg",
+    "History of DeKalb County, Indiana (1885), p. 882, biography of Chester P. Hodge: Elizabeth, \"daughter of Thomas Lamoreux and Keturah (Tuttle) his wife\"; Tuttles among his Orange County ancestors (earliest statement found of her maiden name): https://archive.org/details/1885historyofdek00unse",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)",
+    "DAR lineage sheet, National No. 275101 (Josiah C. Lamoreux line): Thomas married 'Keturah Tuthill at Orange Co. N.Y. 1770' (found by John through FamilySearch Full-Text search, 12 Nov 2026)",
+    "Luzerne County, PA, Deed Book 105, pp. 266–268 (FamilySearch image group 008086747, images 140–141): Thomas Lamoreaux of Plymouth and Keturah his wife to John Lamoreaux, 22 Aug 1812, $266.67, Lot 28 and east half of Lot 30, third tier, fourth division, Plymouth, 103 acres 107 perches, part of Thomas's Pennsylvania patent of 18 May 1812 (Patent Book H No. 7, p. 170); Keturah signed by mark, examined 21 Feb 1817 before Jacob J. Bogardus; recorded 30 Oct 1865 (images read by John)",
+    "Orange County, NY, grantor index, letter T, 1765–1828 (read by John, 15 Nov 2026): no deed by John Tuthill (c.1730), Temperance or Keturah",
+    "Ruttenber & Clark, History of Orange County (1881), pp. 68–69: 1775 Cornwall Precinct signers incl. Austin Smith, John Tuthill, Thomas Lamoureux and James Tuttle: https://archive.org/details/historyoforangec00rut",
+    "Death notice, Republican Farmer & Democratic Journal (Wilkes-Barre), 13 Mar 1833, p. 2: \"DIED. In Plymouth, on the 10th inst. without a struggle or a groan, Mrs. KETURAH, widow of the late Mr. Thomas Lamoreaux. She was among the earliest settlers of Plymouth … [15?] children (13 of whom she raised) … 97 grand children — 114 great grand children\" (image on WikiTree Tuthill-530; some digits uncertain)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", sections 6–8 (12–15 Nov 2026, Claude Docs, private to John)",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)"
    ],
    "openQuestions": [
-    "Primary proof of her parents (colonial group): Orange Co. records, Alva Tuttle's sources.",
-    "Is there a Cornwall/Monroe church record (e.g. Bethlehem Presbyterian) of Keturah's marriage to Thomas Lamoreaux, c. 1772?",
-    "Any record naming Keturah Tuttle as the daughter of John Tuthill and Temperance Smith. Every Long Island line, Bull Smith and the presidential cousins included, depends on it.",
-    "Alva Tuttle's source for her parents turns out to be a family contributor, Lotta (Tuthill) Vail (born 1880), not a record. The proof still has to come from an Orange County deed (Thomas Lamoreaux and Keturah his wife selling Tuthill land, 1755–1810) or an administration of John Tuthill's estate."
+    "A record naming Keturah as daughter of John Tuthill and Temperance Smith. Every Long Island line, Bull Smith and the presidential cousins included, depends on it.",
+    "Lotta (Tuthill) Vail's research files (Alva Tuttle's source 'LTV'): Burton Historical Collection (Detroit), Michigan City (Indiana) Public Library, NYG&B collections.",
+    "Orange County deeds 1755–1810 (Goshen; FamilySearch 'Land records, 1703–1869'): any deed by Thomas Lamoreaux and Keturah his wife, or a Tuthill heirs' deed. Open Liber H p. 214 (Daniel Tuthill & wife, c.1802) and Liber T p. 473 (John Tuthill, wife Melicent and others, 1819).",
+    "Baptisms and marriages of the Smith's Clove / Woodbury Clove and Bethlehem (Cornwall) Presbyterian congregations, c.1755–1772.",
+    "Her estate or administration in Luzerne County (d. 1833), and any surviving Lamoreaux family Bible (DAR supplemental files sometimes include Bible pages)."
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -9891,6 +9941,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Alva Tuttle pp. 311–312, 356 read from page images John supplied. His source for Keturah's parents is 'LTV' = Lotta (Tuthill) Vail, a contributing compiler (b. 1880), not a primary record: the link stays probable. New: living in Luzerne Co. in 1816; a thirteenth child, Jane (m. Absalom Case), added as M0150."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Parents' 1752 marriage now proved from the Smithtown church register; added F. K. Smith (Austin–Mehitable), 1885 DeKalb history, three DAR lineage sheets (marriage c.1770, living 1816), the 1812 Luzerne deed she signed by mark, and the 1833 death notice's descendant count. Parentage stays probable (~80%): Lotta Vail is still the only source that states it."
     }
    ],
    "residences": [
@@ -9900,7 +9954,27 @@ window.FAMILY_DATA = {
      "note": "Her husband Thomas Lamoureux and probable brothers James Tuttle and John Tuthill all signed the 1775 Articles of Association in Cornwall Precinct [R4-S3]"
     }
    ],
-   "researchNotes": "Keturah Tuttle was born in Dec 1755 at Woodbury Clove, Orange Co., NY (SAR application ACN 58344 gives 1755 at 'Woodbury Clove', matching Alva Tuttle). She was probably a daughter of John Tuthill (c.1730-c.1770) and Temperance Smith (Alva Tuttle, Tuttle-Tuthill Lines, 1968, p.311: children twins James & John 1753, twins Ezekiel & William c.1754, Keturah ~1755, Samuel and Daniel); her children's names James, Temperance and Keturah follow that family. Her uncles Capt. Francis Smith and Capt. Austin Smith commanded the Woodbury Clove and Upper Clove militia companies in 1775-76, with her husband as ensign. She married Thomas Lamoreaux and moved with him to Plymouth (1790) and Jackson Twp. His will left her 'my best horse saddle & bridle' and $100. She died 10 Mar 1833 (obituary, Republican Farmer, Wilkes-Barre, 13 Mar 1833; WikiTree Tuthill-530; Find a Grave 269816651, Lamoreaux Family Burying Ground, Jackson Twp). The tree's death of 1842 (tree shows 1755-1842) is her daughter Keturah's (Harvey Book p.360). (Her Tuttle/Smith ancestors are covered in the colonial section.)\n\nNo record found this round names Keturah's parents directly, so her parentage stays probable. New circumstantial support: the 1775 Cornwall Precinct association list carries both 'James Tuttle' and 'John Tuthill' as well as her husband Thomas Lamoureux ([R4-S3]). On Alva Tuttle's reconstruction these are her twin brothers James and John (b. 1753). Her mother Temperance Smith's place in the family of James Smith & Jerusha Topping is now backed by two independent printed authorities: Pelletreau (1898) and C. H. Weygant's Family Record (1897), which names James and Jerusha's daughters Eunice, Keturah, Temperance and Jerusha and puts Capt. Austin and Capt. Francis Smith, their sons, at Woodbury Clove 'some twenty years or more' before the Revolution ([R4-S1], [R4-S2]). Keturah was evidently named for her aunt Keturah Smith.\n\nThe printed list of pre-1784 New York marriage licenses has no Lamoreaux-Tuthill (or Tuthill-Smith) entry, so these marriages were probably by banns ([R4-S4]).\n\nAlva Tuttle (1968), p. 356: 'KETURAH TUTHILL c1755 Orange Co,NY da John c1730 & Temp SMITH; liv 1816 Luzerne Co,Pa; m Orange Co,NY Thos d 1829 Luzerne Co,Pa s John & Charity (DAVENPORT) LAMOREAUX  LTV', followed by thirteen children: Martha c1775 m Saml Pringle; Eliz 30 Sep 1776 m Geo Palmer Ransom; Jas m Sarah Hunter, 10 ch; Danl m Martha Linn; John 21 Nov 1780, unm; Charity m Peter Steele; Hannah m Stpn Van Loon; Thos 19 Aug 1787 m Mary Boston; Amelia m Fletcher Case; Keturah 18 Feb 1791 m Saml Ackley; Jane m Absalom Case; Temp m Matthias Van Loon; Josh 30 Aug 1799 m Betty Ives. The source code LTV is Lotta (Tuthill) Vail, a contributing compiler born 7 Sep 1880 (List of Contributing Compilers): Alva credits her, not a primary record, for the whole Tuthill–Smith–Lamoreaux family."
+   "researchNotes": "Keturah Tuttle was born in Dec 1755 at Woodbury Clove, Orange Co., NY (SAR application ACN 58344 gives 1755 at 'Woodbury Clove', matching Alva Tuttle). She was probably a daughter of John Tuthill (c.1730-c.1770) and Temperance Smith (Alva Tuttle, Tuttle-Tuthill Lines, 1968, p.311: children twins James & John 1753, twins Ezekiel & William c.1754, Keturah ~1755, Samuel and Daniel); her children's names James, Temperance and Keturah follow that family. Her uncles Capt. Francis Smith and Capt. Austin Smith commanded the Woodbury Clove and Upper Clove militia companies in 1775-76, with her husband as ensign. She married Thomas Lamoreaux and moved with him to Plymouth (1790) and Jackson Twp. His will left her 'my best horse saddle & bridle' and $100. She died 10 Mar 1833 (obituary, Republican Farmer, Wilkes-Barre, 13 Mar 1833; WikiTree Tuthill-530; Find a Grave 269816651, Lamoreaux Family Burying Ground, Jackson Twp). The tree's death of 1842 (tree shows 1755-1842) is her daughter Keturah's (Harvey Book p.360). (Her Tuttle/Smith ancestors are covered in the colonial section.)\n\nNo record found this round names Keturah's parents directly, so her parentage stays probable. New circumstantial support: the 1775 Cornwall Precinct association list carries both 'James Tuttle' and 'John Tuthill' as well as her husband Thomas Lamoureux ([R4-S3]). On Alva Tuttle's reconstruction these are her twin brothers James and John (b. 1753). Her mother Temperance Smith's place in the family of James Smith & Jerusha Topping is now backed by two independent printed authorities: Pelletreau (1898) and C. H. Weygant's Family Record (1897), which names James and Jerusha's daughters Eunice, Keturah, Temperance and Jerusha and puts Capt. Austin and Capt. Francis Smith, their sons, at Woodbury Clove 'some twenty years or more' before the Revolution ([R4-S1], [R4-S2]). Keturah was evidently named for her aunt Keturah Smith.\n\nThe printed list of pre-1784 New York marriage licenses has no Lamoreaux-Tuthill (or Tuthill-Smith) entry, so these marriages were probably by banns ([R4-S4]).\n\nAlva Tuttle (1968), p. 356: 'KETURAH TUTHILL c1755 Orange Co,NY da John c1730 & Temp SMITH; liv 1816 Luzerne Co,Pa; m Orange Co,NY Thos d 1829 Luzerne Co,Pa s John & Charity (DAVENPORT) LAMOREAUX  LTV', followed by thirteen children: Martha c1775 m Saml Pringle; Eliz 30 Sep 1776 m Geo Palmer Ransom; Jas m Sarah Hunter, 10 ch; Danl m Martha Linn; John 21 Nov 1780, unm; Charity m Peter Steele; Hannah m Stpn Van Loon; Thos 19 Aug 1787 m Mary Boston; Amelia m Fletcher Case; Keturah 18 Feb 1791 m Saml Ackley; Jane m Absalom Case; Temp m Matthias Van Loon; Josh 30 Aug 1799 m Betty Ives. The source code LTV is Lotta (Tuthill) Vail, a contributing compiler born 7 Sep 1880 (List of Contributing Compilers): Alva credits her, not a primary record, for the whole Tuthill–Smith–Lamoreaux family.\n\nRound of 20 Oct–15 Nov 2026 (uploaded notes and the 'Bull Smith and Matt Damon' report). (1) The marriage of her parents is now primary: Rev. Napthali Daggett's Smithtown Presbyterian register, 'Nov. 23. John Tuthill & Temperance Smith, 8/.' (NYGBR 44:283; Robbins compared it with Dexter's 1899 certified copy at Yale). Ancestry's 'NYC Compiled Marriage Index' p. 283 is this same printed page. The register also has Zebulon Smith (Temperance's brother) & Elizabeth Green, 26 Mar 1752. (2) F. K. Smith (1967) no. 102: 'Austin, m. Mehitable Tuthill' (daughter of James Tuthill of Fireplace); no. 107: 'Temperance, supposed to have m. John Tuthill, brother of above Mehitable'. Lotta Vail appears among his authorities too, so F. K. Smith and Alva Tuttle are not fully independent. (3) The earliest statement of her maiden name is the 1885 DeKalb County history (p. 882, Chester P. Hodge), which also places her Tuttle kin in Orange County; the 1919 Lamoureux record agrees. (4) Three DAR GRC lineage sheets (image groups 008978799 img 331 and 008978866 img 616, and National No. 275101) give the marriage ca. 1770 in Orange County, Keturah 'living 4/16/1816' (Alva's 'liv 1816', which SAR files turned into a death year), and the headstone erected by a local chapter of the Daughters of 1812. None names her parents. (5) Luzerne Deed Book 105 pp. 266–268: Thomas and 'Keturah his wife' sold Lot 28 and the east half of Lot 30 (Plymouth, fourth division) to John Lamoreaux, 22 Aug 1812, for $266.67; the land came from Thomas's own PA patent of 18 May 1812, so it says nothing of Tuthill land. Witnesses Jesse Fell and James Lamoreaux for Thomas, Joshua and Daniel Lamoreaux for Keturah, who signed by mark and was examined separately before Jacob J. Bogardus on 21 Feb 1817; recorded 30 Oct 1865. Related deeds: 10 Oct 1798 Jehiel Fuller to James Lamoreaux Jr. (Lot 34); 10 Mar 1800 George P. Ransom to Thomas, a third of Lot 30 (image group 008086454, img 414); 1861 John Steel deed reciting an 1833 deed from Peter Steel and Charity his wife (008086639, img 503). (6) The Orange County grantor index T 1765–1828 has no deed by John (c.1730), Temperance or Keturah; leads are Daniel Tuthill & wife to Timothy Scidmore (c.1802, Liber H p. 214) and John Tuthill, wife Melicent and others to Daniel Tuthill Jr. (1819, Liber T p. 473), possibly a heirs' deed. (7) Lotta (Tuthill) Vail (b. 1880), Alva's source 'LTV', was researching the family from about 1916 (NYGBR queries 50:89, 50:299, 51:94) from Detroit and later Michigan City, Indiana; her papers have not been found (ask the Burton Historical Collection, Detroit Public Library; Michigan City Public Library; NYG&B). Rival Keturahs: Keturah Tuthill who married John Johnson Jr. at Rome, NY in 1832 and Keturah Tuttle Platt (d. 1850, Whippany NJ, b. c.1764) are different women. Overall Keturah link about 80%.",
+   "events": [
+    {
+     "title": "Marriage",
+     "date": "ABT 1770",
+     "place": "Orange County, New York, USA",
+     "description": "To Thomas Lamoreaux, per three DAR lineage sheets; no church record found."
+    },
+    {
+     "title": "Sold the Plymouth homestead lots",
+     "date": "1812-08-22",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA",
+     "description": "With her husband Thomas, sold Lot 28 and the east half of Lot 30 (103 acres) to their son John for $266.67; she signed by mark and was examined separately on 21 Feb 1817 (Luzerne Deed Book 105, pp. 266–268)."
+    },
+    {
+     "title": "Death notice",
+     "date": "1833-03-13",
+     "place": "Wilkes-Barre, Luzerne County, Pennsylvania, USA",
+     "description": "Republican Farmer: died at Plymouth on the 10th, 'among the earliest settlers of Plymouth', with 97 grandchildren and 114 great-grandchildren."
+    }
+   ]
   },
   {
    "id": "I282608055492",
@@ -9927,7 +10001,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "probable",
-    "note": "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968) p. 311 makes him son of James Tuthill (b. 1692) and husband of Temperance Smith; strengthened in Round 3 by the 1756 will of James Tuthill Jr. naming 'my father, James Tuthill … of Orange County' and by Browne executors in two Tuthill branches. No record yet names John (c.1730) as James's son; Akerly (1898) does not list a John among James's children. His being Keturah's father rests on Alva Tuttle, the SAR application (Woodbury Clove 1755) and the naming pattern."
+    "note": "Probable (~75%). His marriage to Temperance Smith at Smithtown, 23 Nov 1752, is proved by Rev. Napthali Daggett's church register (NYGBR 44:283). As son of James Tuthill (b. c.1692): Alva Tuttle (1968) p. 311; F. K. Smith (1967) calls him 'brother of … Mehitable', daughter of James Tuthill of Fireplace; and Leach's 1903 note on the family, independent of Alva, lists James's sons as Daniel, James, John and Benjamin, Benjamin's 1795 will naming 'brother John Tuthill'. A second John Tuthill, son of Jonathan of Goshen, was living in the 1740s and is not ruled out. His being Keturah's father rests on Alva Tuttle (source: Lotta Vail), the Woodbury Clove birthplace and the naming pattern."
    },
    "aka": [
     "Capt. John Tuttle",
@@ -9939,7 +10013,7 @@ window.FAMILY_DATA = {
     "military"
    ],
    "summary": "Brookhaven-born Tuthill who married Temperance Smith and settled at Woodbury Clove in the Orange County highlands; John's 7th-great-grandfather and father of Keturah.",
-   "bio": "John Tuthill, also written Tuttle, was born about 1730 at Brookhaven, Suffolk County, New York, a son of James Tuthill, who was born about 1692 at Oysterponds and held the westernmost fifteen-acre lot in Fireplace Neck by 1737. Fireplace Neck lies a few miles from Moriches, where James Smith, the father of John's future wife, lived, so the two families were near neighbours on Long Island. Between 1742 and 1748 James Tuthill moved his family to the Ulster and Orange county region. An older version of the family record gave John's parents as James M. Tuthill and Hannah S. Reeve, but Hannah Reeve was the wife of Joshua Tuthill, not of James.\n\nFamily compilations record that John married Temperance Smith, daughter of James and Jerusha (Topping) Smith, at Smithtown on 23 November 1752, a date that rests on a single twentieth-century compilation. Their children were the twins James and John, born in 1753; the twins Ezekiel and William, born about 1754; Keturah, born about 1755, who married into the Lamoreaux family and is John's ancestor; and Samuel and Daniel. If Temperance was raised at Moriches, the couple most plausibly lived at Brookhaven before moving to Orange County, perhaps among the company of emigrants whom the Rev. Abner Reeve led from Moriches to Blooming Grove in 1763.\n\nAt Woodbury Clove in Cornwall Precinct he is remembered as \"Capt. John Tuthill\". An 1846 history lists a Capt. J. Tuthill among the Cornwall precinct officers, but the title is unproven, and a Capt. Tuthill who sat on a committee in 1788 was too late to be this John and may have been his son. He appears in the county records in 1769, when the justices cancelled the indenture of the apprentice James Simmons \"by the ill-treatment of his master, John Tuthill\". The family's kin filled the local militia: the Woodbury Clove company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith as first lieutenant and Thomas Lamoreux as ensign, and the Upper Clove company by Capt. Austin Smith; Austin, Francis and Jeremiah Smith were Temperance's brothers.\n\nHe is said to have died at Woodbury Clove about 1770, though some records put his death as late as 1802. A John Tuthill signed the 1775 Articles of Association in Cornwall Precinct alongside James Tuttle and Thomas Lamoureux; either John was still alive then, or the signer was his son John, born in 1753.\n\nA brother, Benjamin Tuthill of New Cornwall, made his will in January 1795 and named his \"Brother – John Tuthill\" as living, which suggests that John lived on in the Woodbury Clove district well after the date of about 1770 usually given for his death. He left no will of his own in Orange County. He is not the Revolutionary adjutant John Tuthill, who was a son of Daniel Tuthill and Mehitable Budd.",
+   "bio": "John Tuthill, also written Tuttle, was born about 1730 at Brookhaven, Suffolk County, New York, a son of James Tuthill, who was born about 1692 at Oysterponds and held the westernmost fifteen-acre lot in Fireplace Neck by 1737. Fireplace Neck lies a few miles from Moriches, where James Smith, the father of John's future wife, lived, so the two families were near neighbours on Long Island. Between 1742 and 1748 James Tuthill moved his family to the Ulster and Orange county region. An older version of the family record gave John's parents as James M. Tuthill and Hannah S. Reeve, but Hannah Reeve was the wife of Joshua Tuthill, not of James.\n\nOn 23 November 1752 John married Temperance Smith, daughter of James and Jerusha (Topping) Smith, at Smithtown. The Rev. Napthali Daggett of the Presbyterian church entered the wedding in his register with his fee of eight shillings; earlier that year he had married Temperance's brother Zebulon to Elizabeth Green. John's sister Mehitable married Temperance's brother Austin Smith, so the two families were doubly joined. Their children were the twins James and John, born in 1753; the twins Ezekiel and William, born about 1754; Keturah, born about 1755, who married into the Lamoreaux family and is John's ancestor; and Samuel and Daniel. If Temperance was raised at Moriches, the couple most plausibly lived at Brookhaven before moving to Orange County, perhaps among the company of emigrants whom the Rev. Abner Reeve led from Moriches to Blooming Grove in 1763.\n\nAt Woodbury Clove in Cornwall Precinct he is remembered as \"Capt. John Tuthill\". An 1846 history lists a Capt. J. Tuthill among the Cornwall precinct officers, but the title is unproven, and a Capt. Tuthill who sat on a committee in 1788 was too late to be this John and may have been his son. He appears in the county records in 1769, when the justices cancelled the indenture of the apprentice James Simmons \"by the ill-treatment of his master, John Tuthill\". The family's kin filled the local militia: the Woodbury Clove company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith as first lieutenant and Thomas Lamoreux as ensign, and the Upper Clove company by Capt. Austin Smith; Austin, Francis and Jeremiah Smith were Temperance's brothers.\n\nHe is said to have died at Woodbury Clove about 1770, though some records put his death as late as 1802. A John Tuthill signed the 1775 Articles of Association in Cornwall Precinct alongside James Tuttle and Thomas Lamoureux; either John was still alive then, or the signer was his son John, born in 1753.\n\nJames Tuthill's sons are listed as Daniel, James, John and Benjamin. Benjamin Tuthill of New Cornwall made his will in January 1795 and named his \"Brother – John Tuthill\" as living, which suggests that John lived on in the Woodbury Clove district well after the date of about 1770 usually given for his death. He left no will of his own in Orange County. He is not the Revolutionary adjutant John Tuthill, who was a son of Daniel Tuthill and Mehitable Budd.",
    "residences": [
     {
      "date": "ABT 1730",
@@ -9967,19 +10041,13 @@ window.FAMILY_DATA = {
      "title": "Marriage",
      "date": "1752-11-23",
      "place": "Smithtown, Suffolk County, New York, USA",
-     "description": "To Temperance Smith, per Alva Tuttle (1968) p. 311; earlier seen only on an unsourced online tree (My Maine Heritage ps409_209). No colonial marriage license pairs them."
+     "description": "To Temperance Smith, by the Rev. Napthali Daggett, Presbyterian Church of Smithtown; register entry 'Nov. 23. John Tuthill & Temperance Smith, 8/.' (NYGBR 44:283). No license was needed for a wedding after banns."
     },
     {
      "title": "Apprentice case",
      "date": "1769",
      "place": "Orange County, New York, USA",
      "description": "Justices cancelled the indenture of apprentice James Simmons 'by the ill-treatment of his master, John Tuthill' (Eager 1846). If this is him, it is the only personal glimpse found."
-    },
-    {
-     "title": "Marriage (compiled date)",
-     "date": "1752-11-23",
-     "place": "Smithtown, Suffolk Co., NY",
-     "description": "Date as given by Alva Tuttle (1968) and repeated by Long Island Surnames and the Ancestry 'NYC Compiled Marriage Index' (p. 283) cited on WikiTree. No original record was found; no license in the pre-1784 NY license list [R4-S4] [R4-S5]"
     }
    ],
    "facts": [
@@ -10021,18 +10089,26 @@ window.FAMILY_DATA = {
     "Ruttenber & Clark, History of Orange County (1881): Lamoreaux and Prindle families neighbours at Smith's Clove: https://archive.org/details/historyoforangec00rut",
     "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
     "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
-    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited"
+    "In Alva Tuttle (1968) the entries for John Tuthill (c.1730), his son John (1753) and Keturah carry the source code \"LTV\", which his List of Contributing Compilers identifies as Lotta (Tuthill) Vail, a family contributor born 7 Sep 1880; no primary record is cited",
+    "Rev. Napthali Daggett's register, Presbyterian Church of Smithtown, marriages 1752: \"Nov. 23. John Tuthill & Temperance Smith, 8/.\" Printed by W. A. Robbins, \"The Records of the Presbyterian Church of Smithtown,\" NYGBR 44 (1913): 279–284, marriage on p. 283, compared with F. B. Dexter's 1899 certified copy of the original at Yale (primary record, printed transcription): https://archive.org/details/newyorkgenealog44newy/page/283/",
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), pp. ~91–92 and 151–152: \"102. Austin, m. Mehitable Tuthill … 107. Temperance, supposed to have m. John Tuthill, brother of above Mehitable\"; Mehitable is \"daughter of James and ___ Tuthill\" of Fireplace, who \"in 1748 removed with his family to Orange County\" (archive.org full-text snippets; book borrow-only): https://archive.org/details/familyofrichards00smit",
+    "J. G. Leach (ed.), The Journal of the Rev. Silas Constant (1903), editor's note on the Tuthills: James (b. c.1685–86) \"had sons Daniel, James, John, and Benjamin\", Benjamin's will of 7 Jan 1795 (proved 2 Dec 1807) naming \"brother John Tuthill\": https://archive.org/details/cu31924028826894",
+    "Ruttenber & Clark, History of Orange County (1881), pp. 68–69: 1775 Cornwall Precinct signers incl. Austin Smith, John Tuthill, Thomas Lamoureux and James Tuttle: https://archive.org/details/historyoforangec00rut",
+    "Orange County, NY, grantor index, letter T, 1765–1828 (read by John, 15 Nov 2026): no deed by John Tuthill (c.1730), Temperance or Keturah",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", sections 6–8 (12–15 Nov 2026, Claude Docs, private to John)",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)",
+    "Will of Mary Tuthill, widow of Jonathan Tuthill of Goshen Precinct, 14 Mar 1746/7, proved 8 May 1747 (NYHS Abstracts of Wills vol. IV, Liber 16, p. 123)"
    ],
    "mediaKnown": [
     "Ancestry tree profile card 'Capt J Tuttle 1727–1802' (IMG_7792–7799)"
    ],
    "openQuestions": [
-    "Which record proves John (c.1730) was son of James Tuthill (b. 1692)? See Alva Tuttle's sources; Orange/Ulster deeds or an administration for John Tuthill (d. c.1770).",
+    "Will of Benjamin Tuthill (Orange Co. Will Liber D p. 67, dated 7 Jan 1795, proved 2 Dec 1807): which 'brother John Tuthill' it names, and whether it names a sister Mehitable (Smith).",
+    "An Orange County administration for John Tuthill after 1795 (Surrogate's Court, Goshen), or a deed by his heirs; Liber T p. 473 (1819, John Tuthill, wife Melicent and others to Daniel Tuthill Jr.) may be one.",
+    "Yale Manuscripts & Archives, Daggett papers: the original Nov 1752 entry (any residence for the groom) and baptisms 1753–55 for the twins James and John.",
     "Was he really a captain? Eager's 'Capt. J. Tuthill' could be him or son John (b. 1753).",
-    "Birth year: tree 1727 vs Alva Tuttle ~1730; death: tree 1802 vs Alva ~1770.",
     "Is the 1775 Cornwall signer John Tuthill the father or son John (b. 1753)?",
-    "Ancestry 'New York City, Compiled Marriage Index, 1600s-1800s' p. 283: what printed source does it cite for the 1752 Smithtown marriage?",
-    "An Orange County administration for John Tuthill after 1795 (Surrogate's Court, Goshen), or a deed by \"Thomas Lamoreaux and Keturah his wife\" selling Tuthill land (Orange County deeds 1755–1810, free on FamilySearch with a login)."
+    "Whom did John, son of Jonathan Tuthill of Goshen, marry? Ruling him out would firm up the identification."
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -10083,6 +10159,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Alva Tuttle p. 311 entry read from the page image (source LTV, Lotta Tuthill Vail). The same page shows several other John Tuthills in Orange County, so the 1795 'brother John' of Benjamin Tuthill is ambiguous. Son John (1753) added as M0153."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Marriage of 23 Nov 1752 proved from the Smithtown Presbyterian register (Daggett, NYGBR 44:283); added Leach (1903) naming John among James Tuthill's sons and F. K. Smith on his sister Mehitable (Mrs Austin Smith); competing John, son of Jonathan of Goshen, logged as a conflict. Confidence stays probable."
     }
    ],
    "media": [
@@ -10121,9 +10201,15 @@ window.FAMILY_DATA = {
      "site": "ABT 1770 (Alva Tuttle, 1968)",
      "found": "A John Tuthill signed in Cornwall Precinct in 1775, and Benjamin Tuthill of New Cornwall named a living \"Brother – John Tuthill\" in his will of 7 Jan 1795",
      "assessment": "If Benjamin's brother is this John, he was alive in 1795 and the c.1770 death date is wrong. No will for any John Tuthill appears in the Orange County index, so he probably died intestate; an administration after 1795 at Goshen would settle it. Alva's own p. 311 lists other John Tuthills of Orange County, among them John (c.1722–1794, son of Nathaniel) of Minisink and John (1735–1787, son of Jonathan) of Goshen, so Benjamin's brother cannot be identified with this John without more evidence."
+    },
+    {
+     "field": "identity",
+     "site": "John Tuthill, son of James Tuthill (b. c.1692) of Brookhaven",
+     "found": "The will of Mary Tuthill, widow of Jonathan Tuthill of Goshen Precinct (14 Mar 1746/7, NY Wills Liber 16 p. 123) leaves 'To John Tuthill, a black horse', so a second John Tuthill was living in Orange County in the 1740s",
+     "assessment": "Not ruled out as the 1752 groom, but a wedding at Smithtown fits the Brookhaven son of James better (James was still in Brookhaven in 1741). Other John Tuthills born c.1728–30 (of Speonk, m. 1750 Sarah Wells; son of Daniel of Southold) married elsewhere."
     }
    ],
-   "researchNotes": "Alva M. Tuttle's 1968 compilation (p. 311, quoted on WikiTree Tuthill-364 and Smith-141655) reads: 'JOHN TUTHILL ~1730 Brookhaven, LI s Jas 1692; d ~1770 Woodbury Clove, Orange, NY; m 23Nov1752 Smithtown, LI Temp d ~1780 da Jas & Jerusha (TOPPING) SMITH.' Children: twins James & John (1753), twins Ezekiel & William (c.1754), Keturah (~1755), Samuel and Daniel. His father James Tuthill (b. ~1692 Oysterponds) moved from Brookhaven to Ulster/Orange between 1742 and 1748. The Woodbury Clove militia company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith 1st lt. and (1776) Thos. Lammoreux ensign; the Upper Clove company had been commanded by Capt. Austin Smith; Austin, Francis and Jeremiah are exactly the sons of James Smith & Jerusha Topping, i.e. Temperance's brothers. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle' (probably John's son James, b. 1753). The 'Capt.' title: S. W. Eager, Outline History of Orange County (1846), pp. 527–529, lists 'Capt. J. Tuthill' among Cornwall precinct officers, records that in 1769 the justices cancelled the indenture of apprentice James Simmons 'by the ill-treatment of his master, John Tuthill', and names a 'Capt. Tuthill' on a 1788 committee (too late for a John who died c.1770; possibly son John b. 1753). Ruttenber also lists 'Clove Co.—1775—Jonathan Tuthill, captain.' The deep-dive report found 'no evidence of the title'. The Hauppauge report found no trace of John or Temperance in Smithtown records and noted that the 23 Nov 1752 Smithtown wedding came from an unsourced online tree (My Maine Heritage); Round 2 then found it in Alva Tuttle (1968). If Temperance was raised in Moriches, the couple most plausibly lived in Brookhaven before moving to Orange County; a possible migration vehicle is Rev. Abner Reeve's 1763 removal 'with a company of emigrants' from Moriches to Blooming Grove (possible). The tree had merged him with a James M. Tuthill & Hannah S. Reeve parentage (wrong: that couple is Joshua Tuthill & Hannah Reeve).\n\nTwo new pieces bear on John's life. First, a 'John Tuthill' signed the 1775 Articles of Association in Cornwall Precinct, on the same list as 'James Tuttle' and Thomas Lamoureux ([R4-S3]). Either John was still alive in 1775, which would undercut Alva Tuttle's c.1770 death and partly vindicate the tree's later death date, or the signer was his son John (b. 1753). Second, the Brookhaven town records show the family's Long Island base. James Tuthill, John's probable father, held the westernmost 15-acre lot in Fireplace Neck by 1737 ([R4-S2]). That is a few miles from Moriches, where Temperance Smith's father James Smith lived, so the two families were close neighbours.\n\nThe printed pre-1784 New York marriage-license list has no Tuthill-Smith entry ([R4-S4]), and the NY will abstracts to 1784 hold no will or administration for him ([R4-S6]). The 23 Nov 1752 Smithtown marriage date therefore still rests on Alva Tuttle alone. It is repeated without sources by Long Island Surnames ([R4-S5]) and in an Ancestry compiled index cited on WikiTree."
+   "researchNotes": "Alva M. Tuttle's 1968 compilation (p. 311, quoted on WikiTree Tuthill-364 and Smith-141655) reads: 'JOHN TUTHILL ~1730 Brookhaven, LI s Jas 1692; d ~1770 Woodbury Clove, Orange, NY; m 23Nov1752 Smithtown, LI Temp d ~1780 da Jas & Jerusha (TOPPING) SMITH.' Children: twins James & John (1753), twins Ezekiel & William (c.1754), Keturah (~1755), Samuel and Daniel. His father James Tuthill (b. ~1692 Oysterponds) moved from Brookhaven to Ulster/Orange between 1742 and 1748. The Woodbury Clove militia company of 1775–76 was commanded by Capt. Francis Smith, with Thomas Smith 1st lt. and (1776) Thos. Lammoreux ensign; the Upper Clove company had been commanded by Capt. Austin Smith; Austin, Francis and Jeremiah are exactly the sons of James Smith & Jerusha Topping, i.e. Temperance's brothers. The 1775 Articles of Association in Cornwall Precinct were signed by 'Thomas Lamoureux' and 'James Tuttle' (probably John's son James, b. 1753). The 'Capt.' title: S. W. Eager, Outline History of Orange County (1846), pp. 527–529, lists 'Capt. J. Tuthill' among Cornwall precinct officers, records that in 1769 the justices cancelled the indenture of apprentice James Simmons 'by the ill-treatment of his master, John Tuthill', and names a 'Capt. Tuthill' on a 1788 committee (too late for a John who died c.1770; possibly son John b. 1753). Ruttenber also lists 'Clove Co.—1775—Jonathan Tuthill, captain.' The deep-dive report found 'no evidence of the title'. The Hauppauge report found no trace of John or Temperance in Smithtown records and noted that the 23 Nov 1752 Smithtown wedding came from an unsourced online tree (My Maine Heritage); Round 2 then found it in Alva Tuttle (1968). If Temperance was raised in Moriches, the couple most plausibly lived in Brookhaven before moving to Orange County; a possible migration vehicle is Rev. Abner Reeve's 1763 removal 'with a company of emigrants' from Moriches to Blooming Grove (possible). The tree had merged him with a James M. Tuthill & Hannah S. Reeve parentage (wrong: that couple is Joshua Tuthill & Hannah Reeve).\n\nTwo new pieces bear on John's life. First, a 'John Tuthill' signed the 1775 Articles of Association in Cornwall Precinct, on the same list as 'James Tuttle' and Thomas Lamoureux ([R4-S3]). Either John was still alive in 1775, which would undercut Alva Tuttle's c.1770 death and partly vindicate the tree's later death date, or the signer was his son John (b. 1753). Second, the Brookhaven town records show the family's Long Island base. James Tuthill, John's probable father, held the westernmost 15-acre lot in Fireplace Neck by 1737 ([R4-S2]). That is a few miles from Moriches, where Temperance Smith's father James Smith lived, so the two families were close neighbours.\n\nThe printed pre-1784 New York marriage-license list has no Tuthill-Smith entry ([R4-S4]), and the NY will abstracts to 1784 hold no will or administration for him ([R4-S6]). The 23 Nov 1752 Smithtown marriage date therefore still rests on Alva Tuttle alone. It is repeated without sources by Long Island Surnames ([R4-S5]) and in an Ancestry compiled index cited on WikiTree.\n\nNov 2026: the marriage is now primary. Daggett's Smithtown register (NYGBR 44, 1913, p. 283, compared with Dexter's 1899 certified copy at Yale): 'Nov. 23. John Tuthill & Temperance Smith, 8/.' The 'NYC Compiled Marriage Index … p. 283' cited on WikiTree is this printed page, and Alva's exact date almost certainly comes from it. Robbins printed Daggett's baptisms (NYGBR 44:282–283) and none is a Tuthill, so the couple probably did not stay in Smithtown parish. Leach (Journal of Rev. Silas Constant, 1903) is the first source independent of Alva naming a John among James Tuthill's sons. F. K. Smith (1967) calls John 'brother of above Mehitable', daughter of James Tuthill of Fireplace, who 'in 1748 removed with his family to Orange County'. The Orange County grantor index T 1765–1828 has no deed by him. WikiTree Tuthill-708 gives his son John (1753) the parents 'William Tuthill and Temperance Smith'; Alva's p. 312 (page images from John) puts that John in this family."
   },
   {
    "id": "I282608055634",
@@ -10140,7 +10226,7 @@ window.FAMILY_DATA = {
    },
    "link": {
     "confidence": "probable",
-    "note": "Alva Tuttle (1968) p. 311 calls her 'da Jas & Jerusha (TOPPING) SMITH'; Pelletreau (1898, App. p. 479) lists a Temperance among James & Jerusha's children; naming pattern (Keturah, Ezekiel, James) fits; the rival candidate (Ebenezer & Anna Smith's Temperance) is ruled out because that Temperance married Jonas Platt and died his widow in 1813. No record names Temperance Tuttle's father outright. Birthplace Moriches is inferred (James 'settled in Moriches')."
+    "note": "Probable (~80%). Her marriage to John Tuthill at Smithtown on 23 Nov 1752 is proved by the church register (NYGBR 44:283), which does not name her father. Five compilers list a Temperance among the children of James Smith & Jerusha Topping (Thompson 1843, Weygant 1897, Pelletreau 1898, Reynolds 1914, F. K. Smith 1967); F. K. Smith adds that she was 'supposed to have m. John Tuthill, brother of above Mehitable', the wife of her brother Austin. Her brothers Austin and Francis were at Woodbury Clove by about 1755, where Keturah was born. The other Smithtown Temperances (Ebenezer's daughter, Mrs Jonas Platt, married Feb 1752; Job 2d's daughter, b. 1714) do not fit, and every candidate is a Bull Smith descendant."
    },
    "aka": [
     "Temperance Tuttle",
@@ -10150,7 +10236,7 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "Daughter of James Smith of Moriches and great-granddaughter of Bull Smith, wife of John Tuthill and mother of Keturah Tuttle; John's 7th-great-grandmother.",
-   "bio": "Temperance Smith was born about 1735 at Moriches, Brookhaven, Suffolk County, New York, probably the daughter of James Smith, who settled at Moriches, and Jerusha Topping, daughter of the younger Elnathan Topping (1664–1751). Through James she was a granddaughter of Job Smith and a great-granddaughter of Richard Bull Smith, the founder of Smithtown. Two early printed genealogies list her among the children of James and Jerusha, with Matthew, born in 1721, Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah and Jeremiah; as one of the youngest she fits a birth about 1732 to 1735.\n\nIn 1752 she married John Tuthill and was known thereafter as Temperance Tuttle. By 1755 the couple were living at Woodbury Clove in Orange County. She named her eldest known daughter Keturah after her sister and a son Ezekiel after her brother, and Keturah in turn named her children James, Temperance and Keturah. In 1775 and 1776 two of her brothers, Captain Francis Smith and Captain Austin Smith, commanded the Woodbury Clove and Upper Clove militia companies in Orange County, with her son-in-law Thomas Lamoreaux serving as ensign under Francis. She died about 1780 in Orange County, New York.\n\nTemperance is the link that carries the whole Smith, Thompson, Topping, Hammond and Paine ancestry down to John, who is her 7th-great-grandson. Neither early genealogy names her husband, so her identification as Mrs. John Tuthill rests on a later family history and on the circumstantial evidence of the militia companies and the family names. She is not to be confused with her first cousin Temperance, daughter of Job Smith 2d, born in 1714 and too old to be the same woman, nor with the Temperance daughter of Ebenezer Smith who married Jonas Platt and died his widow in 1813.",
+   "bio": "Temperance Smith was born about 1735 at Moriches, Brookhaven, Suffolk County, New York, probably the daughter of James Smith, who settled at Moriches, and Jerusha Topping, daughter of the younger Elnathan Topping (1664–1751). Through James she was a granddaughter of Job Smith and a great-granddaughter of Richard Bull Smith, the founder of Smithtown. Two early printed genealogies list her among the children of James and Jerusha, with Matthew, born in 1721, Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah and Jeremiah; as one of the youngest she fits a birth about 1732 to 1735.\n\nOn 23 November 1752 she married John Tuthill in the Presbyterian church at Smithtown, and was known thereafter as Temperance Tuttle. Her brother Zebulon had married there in March of the same year, and her brother Austin married John's sister Mehitable. By 1755 the couple were living at Woodbury Clove in Orange County. She named her eldest known daughter Keturah after her sister and a son Ezekiel after her brother, and Keturah in turn named her children James, Temperance and Keturah. In 1775 and 1776 two of her brothers, Captain Francis Smith and Captain Austin Smith, commanded the Woodbury Clove and Upper Clove militia companies in Orange County, with her son-in-law Thomas Lamoreaux serving as ensign under Francis. She died about 1780 in Orange County, New York.\n\nTemperance is the link that carries the whole Smith, Thompson, Topping, Hammond and Paine ancestry down to John, who is her 7th-great-grandson. The church register proves the wedding but does not name the bride's father. A twentieth-century history of the Smith family says she was \"supposed\" to have married John Tuthill, the brother of her brother Austin's wife, and the double marriage, the militia companies and the family names all point the same way. She is not to be confused with her first cousin Temperance, daughter of Job Smith 2d, born in 1714 and too old to be the same woman, nor with the Temperance daughter of Ebenezer Smith who married Jonas Platt and died his widow in 1813.",
    "residences": [
     {
      "date": "ABT 1735",
@@ -10180,7 +10266,11 @@ window.FAMILY_DATA = {
     },
     {
      "label": "Family ties",
-     "value": "Her brother Austin Smith married a sister of her husband John Tuthill; her sister Keturah Smith is the namesake of her daughter Keturah."
+     "value": "Her brother Austin Smith married Mehitable Tuthill, a sister of her husband John Tuthill (F. K. Smith 1967); her sister Keturah Smith is the namesake of her daughter Keturah."
+    },
+    {
+     "label": "Brother Francis",
+     "value": "Capt. Francis Smith, b. Moriches 4 Jan 1733, d. Woodbury Clove 11 May 1785 (Reynolds 1914)"
     }
    ],
    "sources": [
@@ -10194,14 +10284,22 @@ window.FAMILY_DATA = {
     "[R4-S1] W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix pp. 478-479, 'Descendants of Job Smith, Son of the Patentee' and 'Descendants of James Smith, Son of Job, 1st' (full text read on archive.org) (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S2] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
     "[R4-S3] WikiTree Smith-141655 (Temperance Smith), biography read via api.wikitree.com: quotes Alva Tuttle p. 311; Charles E. Topping, Topping Genealogy (1980) p. 392 / Vail Family notes (NYG&B) giving Josiah & Hannah (Sayre) Topping; and Genealogies of the State of New York vol. 2 giving Jerusha as daughter of 'Jonathan (2) and Mary Topping' (derivative) https://www.wikitree.com/wiki/Smith-141655",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "Rev. Napthali Daggett's register, Presbyterian Church of Smithtown, marriages 1752: \"Nov. 23. John Tuthill & Temperance Smith, 8/.\" Printed by W. A. Robbins, \"The Records of the Presbyterian Church of Smithtown,\" NYGBR 44 (1913): 279–284, marriage on p. 283, compared with F. B. Dexter's 1899 certified copy of the original at Yale (primary record, printed transcription): https://archive.org/details/newyorkgenealog44newy/page/283/",
+    "B. F. Thompson, History of Long Island, 2nd ed. (1843), vol. 2, App. p. 453: \"James, son of Job 1st, married Jerusha Topping, issue, Matthew, Ezekiel, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jerusha\": https://archive.org/details/historyoflongisl02thom",
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), pp. ~91–92 and 151–152: \"102. Austin, m. Mehitable Tuthill … 107. Temperance, supposed to have m. John Tuthill, brother of above Mehitable\"; Mehitable is \"daughter of James and ___ Tuthill\" of Fireplace, who \"in 1748 removed with his family to Orange County\" (archive.org full-text snippets; book borrow-only): https://archive.org/details/familyofrichards00smit",
+    "C. H. Weygant, The Family Record (1897), pp. 144–145: James & Jerusha (Topping) Smith's nine children incl. 8. Temperance; Capt. Francis and Capt. Austin Smith 'residents of Woodbury Clove some twenty years or more prior to the commencement of the revolution': https://archive.org/details/familyrecord112weyg",
+    "C. Reynolds, Genealogical and Family History of Southern New York (1914), vol. 1, pp. 892–893 (Capt. Francis Smith b. Moriches 4 Jan 1733, d. Woodbury Clove 11 May 1785): https://archive.org/details/genealogicalfami01reyn",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", sections 6–8 (12–15 Nov 2026, Claude Docs, private to John)",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)"
    ],
    "mediaKnown": [
     "Ancestry tree card '* T SMITH 1735–1780'"
    ],
    "openQuestions": [
-    "Any Brookhaven/Smithtown church record of the 1752 marriage.",
-    "Borrow F. K. Smith 1967 (archive.org familyofrichards00smit) and read p. 91 and the James Smith entry for the Tuthill marriage."
+    "A deed, will or church entry naming Temperance Tuthill as James Smith's daughter: Brookhaven/Moriches deeds at the Suffolk County Clerk, Libers C–G (1720–1760), by James Smith or his heirs.",
+    "F. K. Smith (1967) pp. 91–92: the full 'Authorities' line after no. 108 (borrow archive.org familyofrichards00smit).",
+    "Loyalist claim of her brother Austin Smith (UK National Archives AO 12/AO 13), which may name his sisters and in-laws at Woodbury Clove."
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -10248,6 +10346,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Parentage rated probable (about 80%): five compilers 1843–1967; brother Austin married John Tuthill's sister."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Marriage proved from the Smithtown church register; added Thompson (1843), Reynolds (1914) and F. K. Smith's 'supposed to have m. John Tuthill, brother of above Mehitable'. Parentage stays probable (~80%)."
     }
    ],
    "conflicts": [
@@ -10258,7 +10360,15 @@ window.FAMILY_DATA = {
      "assessment": "Weygant (1897) independently supports the Elnathan Jr. identification. 'Jonathan' looks like a misreading of Elnathan, since Elnathan Jr.'s wife was also Mary. The Josiah/Sayre version (C. E. Topping 1980) stays rejected."
     }
    ],
-   "researchNotes": "Temperance is the link that carries the whole Smith, Thompson, Topping, Hammond and Paine ancestry. Pelletreau's appendix (p. 479) says James Smith 'settled in Moriches' and married Jerusha Topping, and lists their children as Matthew (b. 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah. Temperance Tuttle named her eldest known daughter Keturah (after her sister) and a son Ezekiel (after her brother); Keturah in turn named children James (1774), Temperance (1778) and Keturah (1791). Two of her brothers, Capt. Francis Smith and Capt. Austin Smith, commanded the Woodbury Clove and Upper Clove militia companies in Orange County in 1775–76, with her son-in-law Thomas Lamoreaux as ensign under Francis. Earlier research had a rival candidate: Ebenezer Smith (son of Richard 2d) whose will of 25 Jul 1747 (proved 7 Jan 1747 O.S.; Pelletreau p. 46) left £100 each to 'my daughters Temperance Anna and Hannah' when 21, with wife Anna daughter of Job Smith 2d (p. 472). Pelletreau's appendix (pp. 465, 475) says twice that this Temperance married Jonas Platt and died 12 Mar 1813 his widow, so she cannot be Mrs. Tuttle; that candidacy is closed. Job Smith 2d's daughter Temperance (b. 1714) is about 20 years too early. A chronology question was raised (Jerusha's father 'died in 1705') and resolved in Round 1: Jerusha's father was the younger Elnathan Topping (1664–1751), not Capt. Elnathan (d. 1705). No grave found. A full-text search of Pelletreau found no Tuthill/Tuttle tied to her.\n\nTemperance is now named as a daughter of James Smith & Jerusha Topping of Moriches in two independent printed genealogies that predate Alva Tuttle (1968). Pelletreau (1898) lists the children as Matthew (b. 3 Sept 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah ([R4-S1]). C. H. Weygant's Family Record (1897), written for the Weygant family, who married into Capt. Francis Smith's line, lists nine children: Nathan [sic, for Matthew], Ezekiel, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jerusha ([R4-S2]). Neither source names her husband, so the step 'this Temperance = Mrs. John Tuthill' still rests on Alva Tuttle and on circumstantial evidence. That evidence is the Woodbury Clove militia under her brothers and the naming of Keturah's children.\n\nTwo cautions. (1) Her first cousin, Temperance daughter of Job Smith 2d, was born 19 June 1714 ([R4-S1]). She is too old to be Mrs. Tuthill (m. 1752), but she is a likely source of confusion in online trees. (2) The eldest brother Matthew was born in 1721, so Temperance, as one of the youngest, fits a birth c.1732-35."
+   "researchNotes": "Temperance is the link that carries the whole Smith, Thompson, Topping, Hammond and Paine ancestry. Pelletreau's appendix (p. 479) says James Smith 'settled in Moriches' and married Jerusha Topping, and lists their children as Matthew (b. 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah. Temperance Tuttle named her eldest known daughter Keturah (after her sister) and a son Ezekiel (after her brother); Keturah in turn named children James (1774), Temperance (1778) and Keturah (1791). Two of her brothers, Capt. Francis Smith and Capt. Austin Smith, commanded the Woodbury Clove and Upper Clove militia companies in Orange County in 1775–76, with her son-in-law Thomas Lamoreaux as ensign under Francis. Earlier research had a rival candidate: Ebenezer Smith (son of Richard 2d) whose will of 25 Jul 1747 (proved 7 Jan 1747 O.S.; Pelletreau p. 46) left £100 each to 'my daughters Temperance Anna and Hannah' when 21, with wife Anna daughter of Job Smith 2d (p. 472). Pelletreau's appendix (pp. 465, 475) says twice that this Temperance married Jonas Platt and died 12 Mar 1813 his widow, so she cannot be Mrs. Tuttle; that candidacy is closed. Job Smith 2d's daughter Temperance (b. 1714) is about 20 years too early. A chronology question was raised (Jerusha's father 'died in 1705') and resolved in Round 1: Jerusha's father was the younger Elnathan Topping (1664–1751), not Capt. Elnathan (d. 1705). No grave found. A full-text search of Pelletreau found no Tuthill/Tuttle tied to her.\n\nTemperance is now named as a daughter of James Smith & Jerusha Topping of Moriches in two independent printed genealogies that predate Alva Tuttle (1968). Pelletreau (1898) lists the children as Matthew (b. 3 Sept 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah ([R4-S1]). C. H. Weygant's Family Record (1897), written for the Weygant family, who married into Capt. Francis Smith's line, lists nine children: Nathan [sic, for Matthew], Ezekiel, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jerusha ([R4-S2]). Neither source names her husband, so the step 'this Temperance = Mrs. John Tuthill' still rests on Alva Tuttle and on circumstantial evidence. That evidence is the Woodbury Clove militia under her brothers and the naming of Keturah's children.\n\nTwo cautions. (1) Her first cousin, Temperance daughter of Job Smith 2d, was born 19 June 1714 ([R4-S1]). She is too old to be Mrs. Tuthill (m. 1752), but she is a likely source of confusion in online trees. (2) The eldest brother Matthew was born in 1721, so Temperance, as one of the youngest, fits a birth c.1732-35.\n\nNov 2026: the marriage is proved by Daggett's Smithtown register (NYGBR 44:283), on the same pages as Jonas Platt & Temperance Smith (Ebenezer's daughter, 10 Feb 1752) and Zebulon Smith & Elizabeth Green (26 Mar 1752). Thompson (1843, vol. 2 App. p. 453), the earliest printed list, already includes Temperance among James & Jerusha's children. F. K. Smith (1967) nos. 102 and 107: Austin m. Mehitable Tuthill; 'Temperance, supposed to have m. John Tuthill, brother of above Mehitable'. A Rock Smith family (Thomas Smith Sr., patent c.1732) also lived at Woodbury Clove, which is why the Smithtown wedding matters: it ties this Temperance to the Bull Smith family. No deed, will or church entry yet names Temperance Tuthill as James Smith's daughter; best targets are Suffolk deeds Libers C–G (a partition of James Smith's estate naming 'John Tuthill and Temperance his wife') and Austin Smith's Loyalist claim (AO 12/13).",
+   "events": [
+    {
+     "title": "Marriage",
+     "date": "1752-11-23",
+     "place": "Smithtown, Suffolk County, New York, USA",
+     "description": "To John Tuthill, by the Rev. Napthali Daggett, Presbyterian Church of Smithtown (register, NYGBR 44:283)."
+    }
+   ]
   },
   {
    "id": "I282608055692",
@@ -13366,7 +13476,7 @@ window.FAMILY_DATA = {
    ],
    "link": {
     "confidence": "probable",
-    "note": "His own parentage ('James Smith (Job, Richard)') and marriage to Jerusha Topping are stated by F. K. Smith (1967) and Pelletreau (1898 App. p. 479); B. F. Thompson lists James among Elizabeth Thompson's sons. Probable as John's ancestor because Temperance's parentage is probable."
+    "note": "James, son of Job Smith, is confirmed by the Smithtown divisions of 1736 and the final division of 1761 ('James Smith son of Job Smith deceased'; Pelletreau pp. 288, 297, 311–312, 400–401, 425–426). That he is the James of Moriches who married Jerusha Topping is probable (~88%): every compiler from Thompson (1843) to F. K. Smith (1967) says so, and Bull Smith had no other grandson named James of the right age. Probable as John's ancestor because Temperance's parentage is probable."
    },
    "aka": [
     "James F Smith (tree)",
@@ -13374,7 +13484,7 @@ window.FAMILY_DATA = {
    ],
    "tags": [],
    "summary": "Grandson of Bull Smith who held land near Hauppauge in the 1736 division of Smithtown and settled at Moriches; John's 8th-great-grandfather.",
-   "bio": "James Smith was born at Smithtown in 1688 or soon after, the son of Job Smith and Elizabeth Thompson and a grandson of Bull Smith. He was once shown as a son of Justice Adam Smith, but Adam's will of 1704 left everything to \"his only son Edmund Smith\", so that link is wrong. James was living in Smithtown in the mid-1720s, when his earmark was recorded, and in the General Division of 1736 he drew 152 acres \"on the east side of Smithtown river, near the northeast branch\", bounded on the south by land laid out to Daniel Smith; a tract of his cousin Daniel Smith 2d at the head of the Northeast Branch was in turn bounded on the north by James's land. This is the closest John's direct line comes to the Hauppauge estate. James then sold his shares to his brothers and settled at Moriches on the south shore of Brookhaven.\n\nAbout 1720 he married Jerusha Topping, daughter of Elnathan and Mary Topping. Their children were Matthew, born 3 September 1721, Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah. Three sons, Austin, Francis and Jeremiah, moved to Orange County, where Austin and Francis became captains and Jeremiah left a will. A James Smith also petitioned in 1721 for 2,000 acres of the annulled Evans grant in Ulster, now Orange, County, and a survey followed in 1722; if this was the same man, the family's interest in the Highlands began a generation before Austin, Francis and Temperance moved to Woodbury Clove, but that identification is not certain, and the land was apparently never settled.\n\nJames died in 1740. He is John's 8th-great-grandfather, and he should not be confused with the later James Smith of Hauppauge, of the Lake Ronkonkoma family, who married Catherine Blydenburgh and died in 1837 aged 95.",
+   "bio": "James Smith was born at Smithtown in 1688 or soon after, the son of Job Smith and Elizabeth Thompson and a grandson of Bull Smith. He was once shown as a son of Justice Adam Smith, but Adam's will of 1704 left everything to \"his only son Edmund Smith\", so that link is wrong. James was living in Smithtown in the mid-1720s, when his earmark was recorded, and in the General Division of 1736 he drew 152 acres \"on the east side of Smithtown river, near the northeast branch\", bounded on the south by land laid out to Daniel Smith; a tract of his cousin Daniel Smith 2d at the head of the Northeast Branch was in turn bounded on the north by James's land. This is the closest John's direct line comes to the Hauppauge estate. James then sold his shares to his brothers and settled at Moriches on the south shore of Brookhaven.\n\nAbout 1720 he married Jerusha Topping, daughter of Elnathan and Mary Topping. Their children were Matthew, born 3 September 1721, Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jeremiah. Three sons, Austin, Francis and Jeremiah, moved to Orange County, where Austin and Francis became captains and Jeremiah left a will. A James Smith also petitioned in 1721 for 2,000 acres of the annulled Evans grant in Ulster, now Orange, County, and a survey followed in 1722; if this was the same man, the family's interest in the Highlands began a generation before Austin, Francis and Temperance moved to Woodbury Clove, but that identification is not certain, and the land was apparently never settled.\n\nThe date of his death is not known; the year 1740 often given for it has no source, and the final division of the Smithtown lands, drawn up after 1747, still names him without calling him deceased. He is John's 8th-great-grandfather, and he should not be confused with the later James Smith of Hauppauge, of the Lake Ronkonkoma family, who married Catherine Blydenburgh and died in 1837 aged 95.",
    "residences": [
     {
      "date": "1725",
@@ -13401,6 +13511,10 @@ window.FAMILY_DATA = {
     {
      "label": "1736 General Division",
      "value": "152 acres, east side of Smithtown river near the northeast branch"
+    },
+    {
+     "label": "Birth (F. K. Smith)",
+     "value": "After August 1688; he is not among Job's sons named in the deed of 30 Aug 1688"
     }
    ],
    "sources": [
@@ -13417,15 +13531,22 @@ window.FAMILY_DATA = {
     "[R4-S5] Pelletreau, Records of the Town of Smithtown (1898), p. 46, 'Will of Adam Smith (Son of Richard the Patentee)': will dated 12 June 1704, witnessed Wm. Jayne Jr. and Wm. Helme, not probated, among the papers of the late Nathaniel Smith of Sherewog (derivative) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S6] WikiTree Smith-105759 (James Smith, b. 1688), biography read via api.wikitree.com: '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey' (no citation given) (derivative) https://www.wikitree.com/wiki/Smith-105759",
     "Smithtown land divisions of 1736 and 1761 naming James as son of Job Smith (cited in the 12 Nov 2026 report)",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), pp. 34–36 (will of Richard and Sarah Smith, 5 Mar 1691/2, proved 2 May 1693), 56–58 and 70 (deeds of 30 Aug 1688), 71 (Sarah's deed to son Job, 3 Jul 1697), 82, 288, 297, 311–312, 400–401, 425–426 (1736 divisions and the final division signed 4 Aug 1761, naming 'James Smith son of Job Smith deceased'): https://archive.org/details/recordsoftownofs00smitrich",
+    "B. F. Thompson, History of Long Island, 2nd ed. (1843), vol. 2, App. p. 453: \"James, son of Job 1st, married Jerusha Topping, issue, Matthew, Ezekiel, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jerusha\": https://archive.org/details/historyoflongisl02thom",
+    "C. Reynolds, Genealogical and Family History of Southern New York (1914), vol. 1, pp. 892–893 (Capt. Francis Smith b. Moriches 4 Jan 1733, d. Woodbury Clove 11 May 1785): https://archive.org/details/genealogicalfami01reyn",
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), pp. ~91–92 and 151–152: \"102. Austin, m. Mehitable Tuthill … 107. Temperance, supposed to have m. John Tuthill, brother of above Mehitable\"; Mehitable is \"daughter of James and ___ Tuthill\" of Fireplace, who \"in 1748 removed with his family to Orange County\" (archive.org full-text snippets; book borrow-only): https://archive.org/details/familyofrichards00smit",
+    "NYHS Abstracts of Wills vol. IV, Liber 18, pp. 391–392 (will of Elnathan Topping of Southampton, 15 Sep 1751): https://archive.org/details/abstractswillso02kellgoog",
+    "The American Genealogist 28:1 (Jan 1952), Queries: daughters of James and Jerusha (Topping) Smith 'Eunice, Keturah, Temperance, and Jerusha'",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)"
    ],
    "mediaKnown": [
     "Tree card 'James F Smith 1688–1740'"
    ],
    "openQuestions": [
-    "F. K. Smith (1967) entry text under James Smith of Moriches (borrow-only on archive.org, familyofrichards00smit).",
     "Is the 1721/22 Evans-patent 'James Smith' the Moriches man? Check the original Land Papers (NY State Archives, vol. 60/63) for a residence.",
-    "WikiTree says '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey'. Find the deed, which conflicts with his supposed 1740 death."
+    "WikiTree says '10 Oct 1740 James Smith of Moriches bought land in St. George's Manor of Captain Isaac Halsey'. Find the deed, which conflicts with his supposed 1740 death.",
+    "A primary record saying 'James Smith of Moriches, son of Job': Suffolk County deeds, Libers C–G (1720–1760)."
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -13468,6 +13589,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Parent link James ← Job Smith rated confirmed from the 1736 and 1761 land divisions (about 97%)."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "James as Job's son confirmed from the 1736 and 1761 Smithtown divisions; identity with the Moriches James rated ~88%; the 1740 death date marked unsourced (conflict added)."
     }
    ],
    "events": [
@@ -13490,9 +13615,15 @@ window.FAMILY_DATA = {
      "site": "Tree: 'Justice, Adam Smith' (1649-1726)",
      "found": "Job Smith (Pelletreau App. p. 478; Weygant p. 144); Adam Smith's 1704 will names an only son, Edmund",
      "assessment": "Adam is disproven as James's father. Use Job Smith."
+    },
+    {
+     "field": "death.date",
+     "site": "1740 (tree)",
+     "found": "The final thatch-bed division (signed 4 Aug 1761, drafted after Ebenezer Smith's death in 1747) calls Aaron, Joseph and Ebenezer 'deceased' but gives a share simply 'to James Smith son of the said Job Smith senior'; WikiTree reports a 10 Oct 1740 land purchase by James Smith of Moriches",
+     "assessment": "The 1740 death is unsourced. He may have lived past 1747. No will or administration found."
     }
    ],
-   "researchNotes": "Son of Job Smith 1st & Elizabeth Thompson. In Smithtown in the mid-1720s; his earmark was recorded in 1725 (Pelletreau pp. 82–83). In the 1736 General Division he drew 152 acres 'on the east side of Smithtown river, near the northeast branch,' bounded south by land laid out to Daniel Smith (pp. 311–312); a tract of his first cousin Daniel Smith 2d's 'at the head of the Northeast Branch, bounded south by Islip line' was bounded north 'by James Smith's land' (p. 361) — the closest John's direct line comes to Hauppauge. He then sold shares to his brothers (pp. 297, 398–400) and 'settled in Moriches' on the Brookhaven south shore (App. p. 479). Married Jerusha Topping, daughter of Elnathan & Mary Topping. Children per Pelletreau: Matthew (b. 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance, Jeremiah. Sons Austin, Francis and Jeremiah went to Orange County (Capts. Austin and Francis Smith; Jeremiah Smith's will 1776/1783). No NY will for James (d. 1740) was found; no Smith will in the Smith Wills volume names Temperance. TREE vs PDF: the tree (and an earlier screenshot version of the chart) shows his father as 'Justice, A Smith' / 'Justice Adam Smith 1649–1726'; the uploaded Bull Smith PDF shows Job Smith + Elizabeth Thompson c.1647–c.1719. Preferred: Job (upload overrides tree; F. K. Smith 'James Smith (Job, Richard)'). Do not confuse with the Hauppauge James Smith (d. 1837 aged 95) from Lake Ronkonkoma, who married Catherine Blydenburgh — a different, non-Bull family.\n\nPelletreau (1898) lists James among Job Smith's children (Job 2d, 'Saint' Richard, Timothy, Aaron, James, Joseph, Elizabeth). He says James 'settled in Moriches' and married Jerusha Topping, and that their eldest child Matthew was born 3 Sept 1721 ([R4-S1]). The 1688 family deed names only four sons of Job (Job, Richard, Joseph, Timothy), which fits James being born in or after 1688 ([R4-S4]). Weygant's Family Record (1897) independently dates the marriage 'about the year 1720' and calls Jerusha a daughter of Elnathan Topping Jr. ([R4-S2]). Weygant also credits James with a 1722 patent for 2,000 acres of the annulled Capt. John Evans grant in Ulster (now Orange) County, which the family apparently never settled. The Calendar of Land Papers confirms a 1721 petition and a 1722 survey for 'James Smith' ([R4-S3]), but nothing in the calendar entry ties that James Smith to Moriches. Treat it as a candidate. If correct, it shows the family's interest in the Highlands a generation before Austin, Francis and Temperance moved to Woodbury Clove.\n\nThe tree names James's father as 'Justice Adam Smith (1649-1726)'. Pelletreau prints Adam Smith's will of 12 June 1704, which leaves all his estate to 'his only son Edmund Smith' ([R4-S5]). Adam therefore had no son James, and the tree's link is wrong: James was the son of Job Smith & Elizabeth Thompson."
+   "researchNotes": "Son of Job Smith 1st & Elizabeth Thompson. In Smithtown in the mid-1720s; his earmark was recorded in 1725 (Pelletreau pp. 82–83). In the 1736 General Division he drew 152 acres 'on the east side of Smithtown river, near the northeast branch,' bounded south by land laid out to Daniel Smith (pp. 311–312); a tract of his first cousin Daniel Smith 2d's 'at the head of the Northeast Branch, bounded south by Islip line' was bounded north 'by James Smith's land' (p. 361) — the closest John's direct line comes to Hauppauge. He then sold shares to his brothers (pp. 297, 398–400) and 'settled in Moriches' on the Brookhaven south shore (App. p. 479). Married Jerusha Topping, daughter of Elnathan & Mary Topping. Children per Pelletreau: Matthew (b. 1721), Ezekiel, Zebulon, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance, Jeremiah. Sons Austin, Francis and Jeremiah went to Orange County (Capts. Austin and Francis Smith; Jeremiah Smith's will 1776/1783). No NY will for James (d. 1740) was found; no Smith will in the Smith Wills volume names Temperance. TREE vs PDF: the tree (and an earlier screenshot version of the chart) shows his father as 'Justice, A Smith' / 'Justice Adam Smith 1649–1726'; the uploaded Bull Smith PDF shows Job Smith + Elizabeth Thompson c.1647–c.1719. Preferred: Job (upload overrides tree; F. K. Smith 'James Smith (Job, Richard)'). Do not confuse with the Hauppauge James Smith (d. 1837 aged 95) from Lake Ronkonkoma, who married Catherine Blydenburgh — a different, non-Bull family.\n\nPelletreau (1898) lists James among Job Smith's children (Job 2d, 'Saint' Richard, Timothy, Aaron, James, Joseph, Elizabeth). He says James 'settled in Moriches' and married Jerusha Topping, and that their eldest child Matthew was born 3 Sept 1721 ([R4-S1]). The 1688 family deed names only four sons of Job (Job, Richard, Joseph, Timothy), which fits James being born in or after 1688 ([R4-S4]). Weygant's Family Record (1897) independently dates the marriage 'about the year 1720' and calls Jerusha a daughter of Elnathan Topping Jr. ([R4-S2]). Weygant also credits James with a 1722 patent for 2,000 acres of the annulled Capt. John Evans grant in Ulster (now Orange) County, which the family apparently never settled. The Calendar of Land Papers confirms a 1721 petition and a 1722 survey for 'James Smith' ([R4-S3]), but nothing in the calendar entry ties that James Smith to Moriches. Treat it as a candidate. If correct, it shows the family's interest in the Highlands a generation before Austin, Francis and Temperance moved to Woodbury Clove.\n\nThe tree names James's father as 'Justice Adam Smith (1649-1726)'. Pelletreau prints Adam Smith's will of 12 June 1704, which leaves all his estate to 'his only son Edmund Smith' ([R4-S5]). Adam therefore had no son James, and the tree's link is wrong: James was the son of Job Smith & Elizabeth Thompson.\n\nNov 2026 (Smith-line notes): Pelletreau pp. 311–312: 'in the year 1736 the sixteenth day of April layd out to James Smith son of Job Smith deceased on the right of the said Job Smith' (152 acres); p. 288 (Aaron's fifth 'next to … his brother James Smith', 2 Nov 1736); p. 297 (41½ acres bought by Job of his brother James, 20 Mar 1735/6); pp. 400–401 (Richard Smith of Stony Brook bought James's thatch share No. 2); pp. 425–426, signed p. 431 (final division, 4 Aug 1761, 'being all sons of the said Job Smith senior'). Earmark 6 Dec 1725 (p. 82). A James Smith witnessed Richard Smith 2d's will (23 Jun 1718; p. 41). F. K. Smith: 'James, born after Aug 1688, married Jerusha Topping'. Jerusha's father is Elnathan Topping, whose will (15 Sep 1751, proved 30 Sep 1751; NYHS Abstracts IV, Liber 18 pp. 391–392) leaves 'daughters, Phebe, Mary, and Jerusha, each 5 shillings'. The only other James Smith of the period in Smithtown, 'an Englishman', first husband of Mary (daughter of Samuel Smith), died before 1736 leaving a son Samuel. Overall Keturah-to-Bull chain ~70–75%."
   },
   {
    "id": "I282608065103",
@@ -13807,7 +13938,7 @@ window.FAMILY_DATA = {
    },
    "link": {
     "confidence": "probable",
-    "note": "Probable, about 70–75%. The records step by step: John back to Thomas and Keturah Lamoreaux, confirmed by censuses, marriage records and Thomas's will (about 97%); Keturah's maiden name Tuttle, confirmed in compiled histories of 1885 and 1919; Keturah as daughter of John Tuthill and Temperance Smith, probable (75–80%, Alva Tuttle 1968, the 1752 Smithtown marriage, naming pattern, birthplace); Temperance as daughter of James Smith and Jerusha Topping, probable (80%, five compilers 1843–1967); James as son of Job Smith, confirmed by the Smithtown land divisions of 1736 and 1761; Job as son of Bull Smith and Sarah, confirmed by the 1688 deed, the 1691/2 will and a 1697 deed. Nothing found contradicts the descent. The one printed statement of Keturah's parentage, Alva Tuttle's 1968 book, takes it from a family contributor, Lotta (Tuthill) Vail, rather than a record."
+    "note": "Probable, about 70–75%. The records step by step: John back to Thomas and Keturah Lamoreaux, confirmed by censuses, marriage records, Thomas's will and the 1812 deed (about 97%); Keturah's maiden name Tuttle, in compiled histories of 1885 and 1919 and three DAR lineage sheets; Keturah as daughter of John Tuthill and Temperance Smith, probable (about 80%; Alva Tuttle 1968 from Lotta Vail's files, her Woodbury Clove birth, the naming pattern); John and Temperance's marriage at Smithtown on 23 Nov 1752, confirmed by the church register (97%); Temperance as daughter of James Smith and Jerusha Topping, probable (80%, five compilers 1843–1967, and her brother Austin's marriage to John's sister Mehitable); James of Moriches as the James son of Job named in the 1736 and 1761 Smithtown divisions, probable (88%); Job as son of Bull Smith and Sarah, confirmed by the 1688 deed, the 1691/2 will and the 1697 deed (99%). Every Temperance Smith marrying at Smithtown around 1752 was a Bull Smith descendant, so the descent hangs on Keturah's parentage more than on Temperance's."
    },
    "occupation": "Patentee and founder of Smithtown",
    "aka": [
@@ -13887,7 +14018,7 @@ window.FAMILY_DATA = {
     },
     {
      "label": "Y-DNA",
-     "value": "Haplogroup R-b1, SmithConnections cluster NE50 (WikiTree Smith-1208)"
+     "value": "Patrilineal descendants fall in haplogroup R1b, SmithConnections Northeastern DNA Project group NE50 (WikiTree Smith-1208). John's line passes through two women, so Y-DNA cannot test it."
     }
    ],
    "sources": [
@@ -13903,7 +14034,11 @@ window.FAMILY_DATA = {
     "Richard_Bull_Smith_Lineage.pdf",
     "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
     "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), pp. 34–36 (will of Richard and Sarah Smith, 5 Mar 1691/2, proved 2 May 1693), 56–58 and 70 (deeds of 30 Aug 1688), 71 (Sarah's deed to son Job, 3 Jul 1697), 82, 288, 297, 311–312, 400–401, 425–426 (1736 divisions and the final division signed 4 Aug 1761, naming 'James Smith son of Job Smith deceased'): https://archive.org/details/recordsoftownofs00smitrich",
+    "Rev. Napthali Daggett's register, Presbyterian Church of Smithtown, marriages 1752: \"Nov. 23. John Tuthill & Temperance Smith, 8/.\" Printed by W. A. Robbins, \"The Records of the Presbyterian Church of Smithtown,\" NYGBR 44 (1913): 279–284, marriage on p. 283, compared with F. B. Dexter's 1899 certified copy of the original at Yale (primary record, printed transcription): https://archive.org/details/newyorkgenealog44newy/page/283/",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", sections 6–8 (12–15 Nov 2026, Claude Docs, private to John)"
    ],
    "mediaKnown": [
     "Tree card 'Maj R B Sm(y)ith 1613–1692'"
@@ -14157,6 +14292,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Alva Tuttle's source for Keturah's parents read: LTV (Lotta Tuthill Vail), a family compiler. The link stays probable; the decisive records are Orange County deeds or an estate administration."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Link note refreshed: the 1752 Tuthill–Smith marriage is now confirmed from the Smithtown register and Job→James from the town divisions; overall still probable (70–75%), resting on Keturah's parentage."
     }
    ],
    "researchNotes": "Origin unknown. Pelletreau (1898, Intro. p. vii): 'Of his previous history we know absolutely nothing… He is said, by some historians, to have come from a certain village in Yorkshire, but the evidence is not sufficient.' F. K. Smith (1967, pp. 15–20): 'It now appears most probable that he was the Richard Smith who sailed from England 2 Oct. 1635, aged 22 years, in the ship John of London, bound for St. Christophers'; from his 'court hand' script, 'in all probability he was brought up in London'; probably unmarried before emigrating (speculative). WikiTree Smith-1208: parents unknown; 'Myreshaw, Bradford, Yorkshire' only as 'Unsourced information'; Y-DNA haplogroup R-b1, cluster NE50 of the SmithConnections project, no English match. Gloucestershire origin is disproven (belongs to Richard Smith of Cocumscussoc/Wickford, RI, earlier of Taunton, who 'left a fair possession in Gloucestershire'; both men died 1691/2, encouraging the merge). Bedfordshire origin: no source; probably cross-wired with Capt. Thomas Topping of Totternhoe. In April 1640 'Mr. Smith' petitioned to be released from his published intention to marry Sarah Hammond; Rev. George Phillips (and William Paine) wrote to Gov. Winthrop on 24 Apr 1640 about 'Smith & my brother Hammond dauter'; he lost and the marriage went ahead. His first home lot at Southampton (1640/1643) was 'at the south end of the village… on the west side of the main street'. F. K. Smith accepts he went back to England in 1654 and returned in 1656 aboard the Speedwell with the first Quaker missionaries to New England (not marked 'Q' on the list); Southampton later banished him (probable that the two Richards are the same; debated). Smithtown: Lion Gardiner received the land for helping recover Sachem Wyandanch's kidnapped daughter, sold it to Smith in 1663; a 1665 patent confirmed Smith's claim. The story that he won Smithtown by riding a bull around it is a myth per local historians. His 1688 deed gave Job 50 acres at the northeast branch. Children: Jonathan (eldest; daughter Deborah m. Joseph Blydenburgh), Richard 2d, Job, Daniel, Adam (b. 1649), Elizabeth (m. William Lawrence, Gov. Philip Carteret, Col. Richard Townley), Deborah (m. Maj. William Lawrence Jr.). TREE: 'Maj R B Sm(y)ith 1613–1692', parents 'Sir Samuel Smith 1575–1618 + Rebecca Buswell 1593–1667' — unsupported, removed (Round 1 correction 3d). His wife was formerly given as 'Sarah Folger of Boston' (Pelletreau) — corrected to Sarah Hammond (NYGBR 121).\n\nPelletreau's 1688 deeds (pp. 56-58, 71) show Richard Smith Sr. 'Gent.' with wife Sarah, acknowledged before Wait Winthrop ([R4-S1]); already in the tree in substance."
@@ -23425,7 +23564,7 @@ window.FAMILY_DATA = {
     "patriot"
    ],
    "summary": "Ensign in the Orange County, New York militia and John's only proven Revolutionary patriot, who went on to pioneer Plymouth and Jackson Township, Pennsylvania; John's 6th-great-grandfather.",
-   "bio": "Thomas Lamoreaux was born about 1745 in Orange County, New York, of Huguenot stock: the family had left France after the revocation of the Edict of Nantes. His parents were probably Jean, or John, Lamoreaux (1723–1809) and Charity Davenport; the Sons of the American Revolution accepted that descent in 2017, though the 1919 Lamoureux family record leaves him in either John's or his brother Peter's family. He married Keturah Tuttle, daughter of John Tuthill and Temperance Smith.\n\nIn 1775 he signed the Articles of Association in Cornwall Precinct, Orange County, alongside James Tuttle, probably his wife's brother. In 1776 he was ensign of the Woodbury Clove militia company under Captain Francis Smith, very probably his wife's uncle, in the regiment of Colonel Woodhull, very probably Colonel Jesse Woodhull, a cousin of Keturah. For this service he is recognised as a patriot ancestor by both the Sons and the Daughters of the American Revolution, and he is John's only proven Revolutionary patriot. A family tradition that he was held on a Long Island prison ship is unverified, and his grave marker's description of him as a private of the War of 1812, when he would have been about 67, probably refers to a son.\n\nIn the spring of 1790 he moved his family to Plymouth, Luzerne County, Pennsylvania, so they had not been in the Wyoming Valley for the massacre of 1778, and by that October he was serving in Captain George P. Ransom's militia company. Before 1800 he and Thomas Case led the pioneers who \"scaled the northern wall of the valley, the Shawnee mountain\" and settled in Jackson Township at Chase. The stone walls on their two farms were \"a matter of marvel in early days\", and one of his six sons was long remembered for the number of feet of wall he laid in a day.\n\nHis will, made on 15 April 1815 with a codicil of 1826, shows a stern father: he disinherited his son James \"on account of his disobedience to me\" while giving James's crippled son Jewel a share equal to his daughters', cut his son John down to fifty dollars in view of \"the privileges already he has had\", cut out Thomas Jr. for \"interference and bad conduct\" and gave that share to a grandson, Wesley, and left his wife Keturah his \"best horse saddle & bridle\" and one hundred dollars. He died in 1829 in Jackson Township. One record places his burial at Shupp's Cemetery, Larksville, but the family burying ground is on the old Lamoreaux farm at Chase, Tilling Point Farm, where the DAR placed a marker in 2017. Five descendants have joined the SAR through his sons James, Thomas and Daniel; none has yet done so through his daughter Martha Pringle, John's ancestress, so John's would be a new line.",
+   "bio": "Thomas Lamoreaux was born about 1745 in Orange County, New York, of Huguenot stock: the family had left France after the revocation of the Edict of Nantes. His parents were probably Jean, or John, Lamoreaux (1723–1809) and Charity Davenport; the Sons of the American Revolution accepted that descent in 2017, though the 1919 Lamoureux family record leaves him in either John's or his brother Peter's family. He married Keturah Tuttle, daughter of John Tuthill and Temperance Smith.\n\nIn 1775 he signed the Articles of Association in Cornwall Precinct, Orange County, alongside James Tuttle, probably his wife's brother. On 2 March 1776 he was elected ensign of the Woodbury Clove militia company under Captain Francis Smith, very probably his wife's uncle, and on 21 February 1778 he was commissioned ensign in that company of Colonel Jesse Woodhull's regiment of Orange County militia; Woodhull was a cousin of Keturah. For this service he is recognised as a patriot ancestor by both the Sons and the Daughters of the American Revolution, and he is John's only proven Revolutionary patriot. A family tradition that he was held on a Long Island prison ship is unverified, and his grave marker's description of him as a private of the War of 1812, when he would have been about 67, probably refers to a son.\n\nIn the spring of 1790 he moved his family to Plymouth, Luzerne County, Pennsylvania, so they had not been in the Wyoming Valley for the massacre of 1778, and by that October he was serving in Captain George P. Ransom's militia company. Before 1800 he and Thomas Case led the pioneers who \"scaled the northern wall of the valley, the Shawnee mountain\" and settled in Jackson Township at Chase. He bought a third of Lot 30 at Plymouth from George P. Ransom, later his son-in-law, in 1800, received a Pennsylvania patent for his land in May 1812, and that August he and Keturah sold the homestead lots, 103 acres, to their son John. The stone walls on their two farms were \"a matter of marvel in early days\", and one of his six sons was long remembered for the number of feet of wall he laid in a day.\n\nHis will, made on 15 April 1815 with a codicil of 1826, shows a stern father: he disinherited his son James \"on account of his disobedience to me\" while giving James's crippled son Jewel a share equal to his daughters', cut his son John down to fifty dollars in view of \"the privileges already he has had\", cut out Thomas Jr. for \"interference and bad conduct\" and gave that share to a grandson, Wesley, and left his wife Keturah his \"best horse saddle & bridle\" and one hundred dollars. He died in 1829 in Jackson Township. One record places his burial at Shupp's Cemetery, Larksville, but the family burying ground is on the old Lamoreaux farm at Chase, Tilling Point Farm, where the DAR placed a marker in 2017. Five descendants have joined the SAR through his sons James, Thomas and Daniel; none has yet done so through his daughter Martha Pringle, John's ancestress, so John's would be a new line.",
    "notable": "SAR Patriot P-232580; DAR A068239; John's only proven patriot route.",
    "funFacts": [
     "His stone walls in Jackson Township were 'a matter of marvel'.",
@@ -23455,9 +23594,9 @@ window.FAMILY_DATA = {
      "branch": "Orange County, New York militia",
      "service": "American Revolution",
      "rank": "Ensign",
-     "unit": "Woodbury Clove Company (Capt. Francis Smith), regiment of Col. Woodhull (probably Col. Jesse Woodhull, 1st Regt Orange Co. militia)",
+     "unit": "Woodbury Clove Company (Capt. Francis Smith), Col. Jesse Woodhull's regiment of Orange County militia",
      "theatre": "Hudson Highlands, New York",
-     "note": "SAR P-232580; DAR A068239; signed 1775 Articles of Association"
+     "note": "Elected ensign 2 Mar 1776; commissioned 21 Feb 1778 (Calendar of Historical Manuscripts relating to the War of the Revolution, per DAR lineage sheet). SAR P-232580; DAR A068239; signed 1775 Articles of Association"
     },
     {
      "branch": "Luzerne County militia",
@@ -23498,6 +23637,10 @@ window.FAMILY_DATA = {
     {
      "label": "SAR qualifying service",
      "value": "NY; Ensign / Patriotic Service: ensign under Capt Francis Smith, Col. Woodhull, militia; signed Articles of Association, Orange Co. References: Fernow, NY in the Rev vol 15 p.289; Ruttenber & Clark vol 1 p.69"
+    },
+    {
+     "label": "DAR lineage sheets",
+     "value": "GRC image groups 008978799 (image 331) and 008978866 (image 616); National No. 275101 (Josiah C. Lamoreux line): marriage to Keturah Tuttle in Orange County about 1770, thirteen children"
     }
    ],
    "sources": [
@@ -23515,7 +23658,11 @@ window.FAMILY_DATA = {
     "[R4-S1] SAR Patriot Research System, Patriot P-232580, Thomas LAMOREUX/LAMOREAUX (patriot detail, member applications, grave detail, user biography) (derivative) https://sarpatriots.sar.org/patriot/display/232580",
     "[R4-S2] New York in the Revolution as Colony and State (Albany, 1898), p.253, Orange County Militia (Land Bounty Rights), First Regiment, enlisted men (secondary) https://archive.org/details/newyorkinrevolut00robe",
     "[R4-S_DAV46] Giles, Thomas Davenport, Pioneer, and His Descendants: transcript of Thomas Davenport's will dated 1746 naming minor children incl. Charity Davenport (secondary) https://archive.org/stream/thomasdavenportp00gile/thomasdavenportp00gile_djvu.txt",
-    "Alva Tuttle (1968) p. 356 names Thomas Lamoreaux's parents as John and Charity (Davenport) Lamoreaux (source LTV, Lotta Tuthill Vail)"
+    "Alva Tuttle (1968) p. 356 names Thomas Lamoreaux's parents as John and Charity (Davenport) Lamoreaux (source LTV, Lotta Tuthill Vail)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)",
+    "DAR lineage sheet, National No. 275101 (Josiah C. Lamoreux line): Thomas married 'Keturah Tuthill at Orange Co. N.Y. 1770' (found by John through FamilySearch Full-Text search, 12 Nov 2026)",
+    "Luzerne County, PA, Deed Book 105, pp. 266–268 (FamilySearch image group 008086747, images 140–141): Thomas Lamoreaux of Plymouth and Keturah his wife to John Lamoreaux, 22 Aug 1812, $266.67, Lot 28 and east half of Lot 30, third tier, fourth division, Plymouth, 103 acres 107 perches, part of Thomas's Pennsylvania patent of 18 May 1812 (Patent Book H No. 7, p. 170); Keturah signed by mark, examined 21 Feb 1817 before Jacob J. Bogardus; recorded 30 Oct 1865 (images read by John)"
    ],
    "mediaKnown": [
     "Tree profile: gravestone photo"
@@ -23557,6 +23704,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Added the 1776 election and 1778 commission as ensign (Col. Jesse Woodhull's regiment) from DAR lineage sheets, and the 1800 purchase, 1812 patent and 1812 sale to son John from Luzerne deeds read by John."
     }
    ],
    "media": [
@@ -23575,6 +23726,37 @@ window.FAMILY_DATA = {
      "source": "WikiTree, profile Lamoreaux-21; https://www.wikitree.com/photo/jpg/Lamoreaux-21",
      "note": "",
      "file": "media/I282695583810/i282695583810-lamoreaux-21.jpg"
+    },
+    {
+     "type": "record",
+     "title": "DAR lineage sheet: Thomas Lamoreaux's service and children",
+     "date": "",
+     "source": "DAR Genealogical Records Committee, via FamilySearch (image group 008978799, image 331)",
+     "note": "Full-text transcript. Elected ensign 2 Mar 1776, commissioned 21 Feb 1778 in Capt. Francis Smith's company, Col. Jesse Woodhull's regiment; married Keturah Tuttle ca. 1770; thirteen children with spouses.",
+     "file": "media/I282695583810/dar-lineage-sheet-thomas-lamoreaux-service.pdf",
+     "people": [
+      "I282608055482",
+      "H0181",
+      "H0182",
+      "M0152"
+     ]
+    },
+    {
+     "type": "record",
+     "title": "DAR lineage sheet: the Charity Lamoreaux and Steele–Linskill line",
+     "date": "",
+     "source": "DAR Genealogical Records Committee, via FamilySearch (image group 008978866, image 616)",
+     "note": "Full-text transcript. Keturah Tuttle living 4/16/1816, married 1770; Charity (b. 1783) m. Peter Steele Jr.; Mary Steele (1808–1876) m. 1832 John Linskill; Elizabeth Linskill (1833–1916) m. 1871 Merrit Sickler.",
+     "file": "media/I282695583810/dar-lineage-sheet-charity-lamoreaux-line.pdf",
+     "people": [
+      "I282608055482",
+      "H0183",
+      "H0449",
+      "H0411",
+      "M0157",
+      "M0158",
+      "M0159"
+     ]
     }
    ],
    "photo": "media/I282695583810/i282695583810-lamoreaux-21.jpg",
@@ -23586,7 +23768,39 @@ window.FAMILY_DATA = {
      "assessment": "His mother Charity Davenport is named in her father's 1746 will as an unmarried minor, and she was a wife by July 1752. A 1745 birth is unlikely unless the will's date is wrong; FamilySearch has 1746. Note only; no record of his birth has been found."
     }
    ],
-   "researchNotes": "Thomas Lamoreaux was born about 1745 (SAR supplemental application gives c.1745-1829; tree 1746-1829), of Huguenot descent (Harvey Book p.135: the family descended from Huguenots who left France after the revocation of the Edict of Nantes). His parents were probably Jean (John) Lamoreaux (1723-1809) and Charity Davenport; the SAR approved a 2017 supplemental application tracing patriot John Lamoreaux to Thomas, though the 1919 Lamoureux Record leaves Thomas in either John's or Peter's family. In 1775 he signed the Articles of Association in Cornwall Precinct, Orange Co., alongside 'James Tuttle' (probably his wife's brother). In 1776 he was ensign of the Woodbury Clove company ('Thos. Lammoreux, ensign') under Capt. Francis Smith - very probably his wife Keturah's uncle - in the regiment of Colonel Woodhull, very probably Col. Jesse Woodhull, a cousin of Keturah. He is SAR Patriot P-232580 and DAR ancestor A068239. He married Keturah Tuttle. In spring 1790 he moved to Plymouth, Luzerne Co., and by October 1790 served in Capt. George P. Ransom's militia company (Harvey Book p.355) - so the family was not in the valley for the 1778 Wyoming Massacre. With Thomas Case he headed the pioneers who 'scaled the northern wall of the valley, the Shawnee mountain' before 1800, settling in Jackson Twp; 'the vast extent and character of the stone wall upon the farms of these two old settlers were a matter of marvel in early days... the miles of it to-day... are a monument of the toil', and one of his six sons was pointed out 'for having laid so many feet of stone wall in a day' (Wright pp.399-400). His will (15 Apr 1815, codicil 9 Nov 1826, registered 5 Oct 1829, Luzerne Will Book A pp.341-3) disinherited son James 'on account of his disobedience to me', gave James's crippled son Jewel ('Jewel Lamoreaux a cripple child') a share equal with his daughters, cut son John's bequest to $50 'considering... the privileges already he has had', cut Thomas Jr. out for 'interference and bad conduct' (his share to grandson Wesley), and left wife Keturah his 'best horse saddle & bridle' and $100. Burial: the SAR record says Shupp's Cemetery, Larksville; the family burying ground is on the Lamoreaux farm at Chase, Jackson Twp (Tilling Point Farm), where a DAR marker was placed in 2017. His Find a Grave grave marker calls him a War of 1812 private - he would have been about 67, so this is possibly his son. WikiTree's tradition that he was held on a Long Island prison ship is unverified. All three approved SAR applications (1995, 2014, 2017) descend through his sons James or Thomas, none through Martha.\n\nThe SAR Patriot Research System entry P-232580 now shows five approved member applications: three already known (1995, 2014, 2017) and two approved in late 2025 - Joshua Paul Lance (NJ, 10 Oct 2025, via son James) and Brian Tyler Baker (PA, 7 Nov 2025, via son Daniel) ([R4-S1]). None descends through Martha (Pringle), so Johnny's line would be a new line for SAR/DAR; the existing applications can be bought from SAR for their proofs of Thomas's service. The SAR page records burial at Shupp's Cemetery, Larksville, but notes 'No entry found in Find-A-Grave - Nov 2024'.\n\nThe page also carries a user-contributed biography (author Robert Stanley Ptaszek) that should not be relied on. It names Thomas's mother as 'Marie (Dubois)', lists children (John m. Sarah Holland, Samuel m. Martha Baker, Mary m. James Hicks, Jacob, Abigail, Rebecca...) that do not match Thomas's own 1815 will, has him moving to Luzerne 'about 1805' (he was in Plymouth by 1790 and in the 1800 census) and as a Luzerne justice 1813-17, and cites a 'Revolutionary-War Pension File NY-RWP-00123' showing a reduction to corporal in 1779. That citation is not in the form of a federal pension file number (S/W/R), no such pension appears in the indexes searched, and Thomas died in 1829, before the 1832 act under which most militia veterans applied ([R4-S1]). It should be treated as unsupported. Separately, the published New York in the Revolution (1898) lists Isaac Lamore, John Lamoreux and Nicolas Lamarux - but not Thomas - among the Orange County First Regiment land-bounty-rights men, alongside Benjamin and David Prindle ([R4-S2])."
+   "researchNotes": "Thomas Lamoreaux was born about 1745 (SAR supplemental application gives c.1745-1829; tree 1746-1829), of Huguenot descent (Harvey Book p.135: the family descended from Huguenots who left France after the revocation of the Edict of Nantes). His parents were probably Jean (John) Lamoreaux (1723-1809) and Charity Davenport; the SAR approved a 2017 supplemental application tracing patriot John Lamoreaux to Thomas, though the 1919 Lamoureux Record leaves Thomas in either John's or Peter's family. In 1775 he signed the Articles of Association in Cornwall Precinct, Orange Co., alongside 'James Tuttle' (probably his wife's brother). In 1776 he was ensign of the Woodbury Clove company ('Thos. Lammoreux, ensign') under Capt. Francis Smith - very probably his wife Keturah's uncle - in the regiment of Colonel Woodhull, very probably Col. Jesse Woodhull, a cousin of Keturah. He is SAR Patriot P-232580 and DAR ancestor A068239. He married Keturah Tuttle. In spring 1790 he moved to Plymouth, Luzerne Co., and by October 1790 served in Capt. George P. Ransom's militia company (Harvey Book p.355) - so the family was not in the valley for the 1778 Wyoming Massacre. With Thomas Case he headed the pioneers who 'scaled the northern wall of the valley, the Shawnee mountain' before 1800, settling in Jackson Twp; 'the vast extent and character of the stone wall upon the farms of these two old settlers were a matter of marvel in early days... the miles of it to-day... are a monument of the toil', and one of his six sons was pointed out 'for having laid so many feet of stone wall in a day' (Wright pp.399-400). His will (15 Apr 1815, codicil 9 Nov 1826, registered 5 Oct 1829, Luzerne Will Book A pp.341-3) disinherited son James 'on account of his disobedience to me', gave James's crippled son Jewel ('Jewel Lamoreaux a cripple child') a share equal with his daughters, cut son John's bequest to $50 'considering... the privileges already he has had', cut Thomas Jr. out for 'interference and bad conduct' (his share to grandson Wesley), and left wife Keturah his 'best horse saddle & bridle' and $100. Burial: the SAR record says Shupp's Cemetery, Larksville; the family burying ground is on the Lamoreaux farm at Chase, Jackson Twp (Tilling Point Farm), where a DAR marker was placed in 2017. His Find a Grave grave marker calls him a War of 1812 private - he would have been about 67, so this is possibly his son. WikiTree's tradition that he was held on a Long Island prison ship is unverified. All three approved SAR applications (1995, 2014, 2017) descend through his sons James or Thomas, none through Martha.\n\nThe SAR Patriot Research System entry P-232580 now shows five approved member applications: three already known (1995, 2014, 2017) and two approved in late 2025 - Joshua Paul Lance (NJ, 10 Oct 2025, via son James) and Brian Tyler Baker (PA, 7 Nov 2025, via son Daniel) ([R4-S1]). None descends through Martha (Pringle), so Johnny's line would be a new line for SAR/DAR; the existing applications can be bought from SAR for their proofs of Thomas's service. The SAR page records burial at Shupp's Cemetery, Larksville, but notes 'No entry found in Find-A-Grave - Nov 2024'.\n\nThe page also carries a user-contributed biography (author Robert Stanley Ptaszek) that should not be relied on. It names Thomas's mother as 'Marie (Dubois)', lists children (John m. Sarah Holland, Samuel m. Martha Baker, Mary m. James Hicks, Jacob, Abigail, Rebecca...) that do not match Thomas's own 1815 will, has him moving to Luzerne 'about 1805' (he was in Plymouth by 1790 and in the 1800 census) and as a Luzerne justice 1813-17, and cites a 'Revolutionary-War Pension File NY-RWP-00123' showing a reduction to corporal in 1779. That citation is not in the form of a federal pension file number (S/W/R), no such pension appears in the indexes searched, and Thomas died in 1829, before the 1832 act under which most militia veterans applied ([R4-S1]). It should be treated as unsupported. Separately, the published New York in the Revolution (1898) lists Isaac Lamore, John Lamoreux and Nicolas Lamarux - but not Thomas - among the Orange County First Regiment land-bounty-rights men, alongside Benjamin and David Prindle ([R4-S2]).",
+   "events": [
+    {
+     "title": "Elected ensign",
+     "date": "1776-03-02",
+     "place": "Cornwall Precinct, Orange County, New York, USA",
+     "description": "Elected ensign in Capt. (Francis) Smith's militia company (DAR lineage sheet, citing the Calendar of Historical Manuscripts relating to the War of the Revolution)."
+    },
+    {
+     "title": "Commissioned ensign",
+     "date": "1778-02-21",
+     "place": "Orange County, New York, USA",
+     "description": "Commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment (East Orange or Cornwall district)."
+    },
+    {
+     "title": "Bought part of Lot 30",
+     "date": "1800-03-10",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA",
+     "description": "Bought a third of Lot 30, fourth division, from George P. Ransom (Luzerne deeds, FamilySearch image group 008086454, image 414)."
+    },
+    {
+     "title": "Pennsylvania patent",
+     "date": "1812-05-18",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA",
+     "description": "Patent from the Commonwealth for his Plymouth land (Patent Book H No. 7, p. 170), recited in the deed of August 1812."
+    },
+    {
+     "title": "Sold the homestead to his son John",
+     "date": "1812-08-22",
+     "place": "Plymouth, Luzerne County, Pennsylvania, USA",
+     "description": "With his wife Keturah sold Lot 28 and the east half of Lot 30, third tier, fourth division (103 acres 107 perches), to John Lamoreaux for $266.67; acknowledged before Associate Judge Jesse Fell at Wilkes-Barre the same day (Luzerne Deed Book 105, pp. 266–268)."
+    }
+   ]
   },
   {
    "id": "I282695583838",
@@ -45946,7 +46160,8 @@ window.FAMILY_DATA = {
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
     "[R4-S1] FamilySearch published tree, Joshua Lamoreaux (M6FQ-CKJ), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/M6FQ-CKJ",
-    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -45969,6 +46184,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "DAR lineage sheet: married Patty Ives 12 Dec 1813, supporting the 1793 birth over Alva Tuttle's 1799."
     }
    ],
    "media": [
@@ -45992,7 +46211,7 @@ window.FAMILY_DATA = {
      "field": "birth date and wife",
      "site": "Born 30 Aug 1793; married Martha Ives in 1813",
      "found": "Alva Tuttle (1968) p. 356: \"Josh 30Aug1799 m Betty IVES\"",
-     "assessment": "Same day and month, different year. A marriage in December 1813 fits a birth in 1793 far better than 1799, and Alva's 1799 is probably a slip; 'Betty' and 'Martha' (Patty) may be the same Ives wife. Kept as recorded."
+     "assessment": "Same day and month, different year. A DAR lineage sheet gives his marriage to 'Patty Ives' on 12 Dec 1813, which fits a birth in 1793 and the site's Martha (Patty) Ives; Alva's 1799 is probably a slip and 'Betty' a misreading. Kept as recorded."
     }
    ],
    "events": [
@@ -46036,7 +46255,9 @@ window.FAMILY_DATA = {
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
     "[R4-S1] FamilySearch published tree, Daniel Lamoreaux (LT7X-155), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/LT7X-155",
-    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)",
+    "Luzerne County, PA, Deed Book 105, pp. 266–268 (FamilySearch image group 008086747, images 140–141): Thomas Lamoreaux of Plymouth and Keturah his wife to John Lamoreaux, 22 Aug 1812, $266.67, Lot 28 and east half of Lot 30, third tier, fourth division, Plymouth, 103 acres 107 perches, part of Thomas's Pennsylvania patent of 18 May 1812 (Patent Book H No. 7, p. 170); Keturah signed by mark, examined 21 Feb 1817 before Jacob J. Bogardus; recorded 30 Oct 1865 (images read by John)"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -46059,6 +46280,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "DAR sheet: wife 'Martha D.' by 14 Jul 1817; probably his first wife before Maria Allen. He witnessed Keturah's mark on the 1812 deed."
     }
    ],
    "media": [
@@ -46097,6 +46322,12 @@ window.FAMILY_DATA = {
      "site": "Martha Lum",
      "found": "Alva Tuttle (1968) p. 356: \"Danl m Martha LINN\"",
      "assessment": "Probably one woman with the surname read two ways; a marriage or census record would settle the spelling."
+    },
+    {
+     "field": "first wife",
+     "site": "Maria Allen, m. about 1821",
+     "found": "A DAR lineage sheet gives his wife as 'Martha D.', married before 14 Jul 1817",
+     "assessment": "A wife Martha by 1817 and Maria Allen from about 1821 suggests two marriages: Martha (Lum or Linn) first, Maria Allen second. Witnessed his mother's signature on the 1812 deed."
     }
    ],
    "researchNotes": "Daniel (1796-1838) married Martha Lum/Linn.\n\nFamilySearch gives Daniel a birth date of 28 Nov 1796 and a wife, Maria Allen (1804-1863), married about 1821, with children born 1822-28. One of them was Samuel A. 'Lemoreux', whose Iowa death record names Daniel as his father ([R4-S1]). The site and the Davenport genealogy give his wife as Martha Lum/Linn; FamilySearch attaches a Martha Linn death record to the John Lamoreux born 1754 instead."
@@ -46131,7 +46362,8 @@ window.FAMILY_DATA = {
     "WikiTree Lamoreaux-21 (Thomas Lamoreaux; full will transcription citing FamilySearch images of Luzerne Will Book A): https://www.wikitree.com/wiki/Lamoreaux-21 ; PAGenWeb will transcription: http://www.pagenweb.org/~luzerne/patk/tomlam.htm",
     "Giles & Franklin, Thomas Davenport, Philipstown Pioneer 1682-1759, and his Descendants (1962): https://archive.org/details/thomasdavenportp00gile (also HathiTrust wu.89066038563: https://babel.hathitrust.org/cgi/pt?id=wu.89066038563&view=1up&seq=395) pp.356-358",
     "David Kendall Martin, The Eighteenth Century Lamoureux Family of the Hudson Valley (2008), pp.40-44",
-    "[R4-S1] FamilySearch published tree, Charity Lamoreaux (KGCY-B9P), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KGCY-B9P"
+    "[R4-S1] FamilySearch published tree, Charity Lamoreaux (KGCY-B9P), with attached index entries (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KGCY-B9P",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
    ],
    "handoff": {
     "section": "3.3 Pringle, Heffernan and the Pennsylvania lines (with Irish, Palatine German and French Huguenot roots)",
@@ -46154,6 +46386,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "DAR lineage sheet: born 1783, m. Peter Steele Jr. (1779–1857); daughter Mary Steele (1808–1876) m. John Linskill."
     }
    ],
    "birth": {
@@ -49250,14 +49486,14 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "probable",
-    "note": "The uploaded Bull Smith PDF, F. K. Smith (1967, 'James Smith (Job, Richard)') and Pelletreau all make Job son of Bull Smith and father of James; probable as an ancestor because Temperance's parentage is probable. The tree's 'Justice, A Smith' is superseded."
+    "note": "Son of Bull Smith: confirmed by primary records (deed of 30 Aug 1688 to 'his well beloved sonne' Job; Richard and Sarah's will of 5 Mar 1691/2 naming 'our son Job'; Sarah's deed to 'son Job Smith', 3 Jul 1697; the 1761 division naming 'Job Smith senior, son of Richard Smith senior, first and sole proprietor'). Father of James: confirmed by the 1736 divisions. Probable as John's ancestor only because Temperance's parentage is probable."
    },
    "aka": [
     "Job Smith 1st"
    ],
    "tags": [],
    "summary": "Son of Bull Smith, with a home lot at Nissequogue and land at the Northeast Branch in Smithtown; John's 9th-great-grandfather.",
-   "bio": "Job Smith was born about 1647, a son of Richard \"Bull\" Smith, the patentee of Smithtown, and his wife Sarah. He married Elizabeth, daughter of John Thompson of Setauket. He lived with his brothers at Nissequogue, where the home lots ran in order from Jonathan's to Richard's to \"the home lot of Job Smith\". On 30 August 1688 his parents settled land by deed on Job and on his sons Job, Richard, Joseph and Timothy, giving Job himself fifty acres \"at the northeast branch, adjoining to the land in the occupation of Daniel Smith\"; the Northeast Branch forms the north edge of Hauppauge Neck. He died about 1719.\n\nHis children were Job 2d, born 9 March 1679, \"Saint\" Richard, Timothy, Aaron, the father of Abner Smith (1734–1782), James, Joseph and Elizabeth, said to have been the second wife of the Rev. Daniel Taylor. The Nissequogue homestead passed down to Job Smith 3d, whose son Woodhull Smith sold it; he may be the Woodhull Smith who subscribed to the Hauppauge Methodist church fund in 1806. Through Job 2d's children Anna, wife of Ebenezer Smith, and Epenetus, Job's great-granddaughters became mistresses of the Hauppauge Smith estate, which makes Judge Joshua Smith and Senator Joshua B. Smith John's 3rd cousins 7x removed, assuming that Elizabeth Thompson was the mother of both Job 2d and James. Some family records give James's father as Job's brother Adam, born 1649, but the evidence favours Job. He was John's 9th-great-grandfather.",
+   "bio": "Job Smith was born about 1647, a son of Richard \"Bull\" Smith, the patentee of Smithtown, and his wife Sarah. He married Elizabeth, daughter of John Thompson of Setauket. He lived with his brothers at Nissequogue, where the home lots ran in order from Jonathan's to Richard's to \"the home lot of Job Smith\". On 30 August 1688 his parents settled land by deed on Job and on his sons Job, Richard, Joseph and Timothy, giving Job himself fifty acres \"at the northeast branch, adjoining to the land in the occupation of Daniel Smith\"; the Northeast Branch forms the north edge of Hauppauge Neck. He died about 1719.\n\nHis children were Job 2d, born 9 March 1679, \"Saint\" Richard, Timothy, Aaron, the father of Abner Smith (1734–1782), James, Joseph and Elizabeth, said to have been the second wife of the Rev. Daniel Taylor. The Nissequogue homestead passed down to Job Smith 3d, whose son Woodhull Smith sold it; he may be the Woodhull Smith who subscribed to the Hauppauge Methodist church fund in 1806. Through Job 2d's children Anna, wife of Ebenezer Smith, and Epenetus, Job's great-granddaughters became mistresses of the Hauppauge Smith estate, which makes Judge Joshua Smith and Senator Joshua B. Smith John's 3rd cousins 7x removed, assuming that Elizabeth Thompson was the mother of both Job 2d and James. Some family records give James's father as Job's brother Adam, born 1649, but Adam's only son was Edmund, and the town's land divisions name James as Job's son. He was John's 9th-great-grandfather.",
    "residences": [
     {
      "date": "1688",
@@ -49289,7 +49525,9 @@ window.FAMILY_DATA = {
     "[R4-S3] Pelletreau, Records of the Town of Smithtown (1898), Introduction: 'Daniel probably died before 1715; Richard died in 1719; Adam is said to have died in 1720; Job died before 1720' (secondary) https://archive.org/details/recordsoftownofs00smitrich",
     "[R4-S4] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
     "Bull Smith's 1688 deed, will of 1691/2 and a 1697 deed naming Job as his son (cited in the 12 Nov 2026 report)",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), pp. 34–36 (will of Richard and Sarah Smith, 5 Mar 1691/2, proved 2 May 1693), 56–58 and 70 (deeds of 30 Aug 1688), 71 (Sarah's deed to son Job, 3 Jul 1697), 82, 288, 297, 311–312, 400–401, 425–426 (1736 divisions and the final division signed 4 Aug 1761, naming 'James Smith son of Job Smith deceased'): https://archive.org/details/recordsoftownofs00smitrich",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)"
    ],
    "openQuestions": [],
    "handoff": {
@@ -49321,6 +49559,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Parent link Job ← Bull Smith rated confirmed from primary records (about 99%)."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Parentage (Bull Smith) and fatherhood of James both confirmed from Pelletreau's printed deeds, will and divisions; added the 1691/2 will and 1697 deed as events."
     }
    ],
    "media": [
@@ -49339,9 +49581,21 @@ window.FAMILY_DATA = {
      "date": "1688-08-30",
      "place": "Smithtown",
      "description": "Richard Smith Sr. and wife Sarah gave Job 20 acres on the North Neck for life, remainder to Job's four sons Job, Richard, Joseph and Timothy, and 180 acres at Stony Brook Neck to grandsons Job and Richard; acknowledged 17 Sept 1688 before Wait Winthrop [R4-S2]"
+    },
+    {
+     "title": "Named in his parents' will",
+     "date": "1692-03-05",
+     "place": "Smithtown, Suffolk County, New York, USA",
+     "description": "Richard and Sarah Smith's joint will: 'To our son Job we give & bequeath our negro Robin for ye terme of twelve years and an equall share of land'; proved 2 May 1693 (Pelletreau pp. 34–36)."
+    },
+    {
+     "title": "Deed from his mother",
+     "date": "1697-07-03",
+     "place": "Smithtown, Suffolk County, New York, USA",
+     "description": "Sarah Smith, widow of Richard, deed to son Job Smith (Pelletreau p. 71)."
     }
    ],
-   "researchNotes": "Lived with his brothers at Nissequogue, where the home lots ran Jonathan's, then Richard's, then 'the home lot of Job Smith' (Pelletreau Intro. pp. xii–xiii). His father's 1688 deed gave him 50 acres 'at the northeast branch, adjoining to the land in the occupation of Daniel Smith' (pp. 58–59); the Northeast Branch forms the north edge of Hauppauge Neck. His Nissequogue homestead descended to Job Smith 3d, 'and his son Woodhull Smith sold it' (pp. 330–331) — possibly the 'Woodhull Smith' who subscribed to the 1806 Hauppauge Methodist church fund (unproven). Children include James, Job 2d and Aaron (father of Abner Smith, 1734–1782). Through Job 2d's children Anna (wife of Ebenezer Smith) and Epenetus, Job's great-granddaughters became mistresses of the Hauppauge Smith estate, making Judge Joshua Smith and Sen. Joshua B. Smith John's 3C7R. Caveat: the Job-line cousin paths assume Elizabeth Thompson mothered both Job 2d and James. TREE vs PDF: tree shows James's father as 'Justice, A Smith' 1649–1726 (Smithtown 350th logo image); the uploaded PDF gives 'Job Smith + Elizabeth Thompson c. 1647–c. 1719 — 9th great-grandfather'. A 1649 birth matches Bull Smith's son Adam (b. 1649, named in William Hammond's will), so the tree likely attached the wrong son.\n\nPelletreau prints the 30 Aug 1688 deeds by which Richard 'Bull' Smith and his wife Sarah settled land on Job and on Job's sons Job, Richard, Joseph and Timothy ([R4-S2]). These are near-primary proof of Job's parentage and of the eldest sons' order. The Appendix (pp. 478-479) gives the full list of Job's children: Job 2d (b. 9 Mar 1679), 'Saint' Richard, Timothy, Aaron, James, Joseph and Elizabeth (said to be the second wife of Rev. Daniel Taylor). His wife is Elizabeth, daughter of John Thompson of Setauket ([R4-S1]). Pelletreau puts Job's death 'about 1719' in the Appendix and 'before 1720' in the Introduction ([R4-S1], [R4-S3]). Weygant (1897) gives the same seven children ([R4-S4])."
+   "researchNotes": "Lived with his brothers at Nissequogue, where the home lots ran Jonathan's, then Richard's, then 'the home lot of Job Smith' (Pelletreau Intro. pp. xii–xiii). His father's 1688 deed gave him 50 acres 'at the northeast branch, adjoining to the land in the occupation of Daniel Smith' (pp. 58–59); the Northeast Branch forms the north edge of Hauppauge Neck. His Nissequogue homestead descended to Job Smith 3d, 'and his son Woodhull Smith sold it' (pp. 330–331) — possibly the 'Woodhull Smith' who subscribed to the 1806 Hauppauge Methodist church fund (unproven). Children include James, Job 2d and Aaron (father of Abner Smith, 1734–1782). Through Job 2d's children Anna (wife of Ebenezer Smith) and Epenetus, Job's great-granddaughters became mistresses of the Hauppauge Smith estate, making Judge Joshua Smith and Sen. Joshua B. Smith John's 3C7R. Caveat: the Job-line cousin paths assume Elizabeth Thompson mothered both Job 2d and James. TREE vs PDF: tree shows James's father as 'Justice, A Smith' 1649–1726 (Smithtown 350th logo image); the uploaded PDF gives 'Job Smith + Elizabeth Thompson c. 1647–c. 1719 — 9th great-grandfather'. A 1649 birth matches Bull Smith's son Adam (b. 1649, named in William Hammond's will), so the tree likely attached the wrong son.\n\nPelletreau prints the 30 Aug 1688 deeds by which Richard 'Bull' Smith and his wife Sarah settled land on Job and on Job's sons Job, Richard, Joseph and Timothy ([R4-S2]). These are near-primary proof of Job's parentage and of the eldest sons' order. The Appendix (pp. 478-479) gives the full list of Job's children: Job 2d (b. 9 Mar 1679), 'Saint' Richard, Timothy, Aaron, James, Joseph and Elizabeth (said to be the second wife of Rev. Daniel Taylor). His wife is Elizabeth, daughter of John Thompson of Setauket ([R4-S1]). Pelletreau puts Job's death 'about 1719' in the Appendix and 'before 1720' in the Introduction ([R4-S1], [R4-S3]). Weygant (1897) gives the same seven children ([R4-S4]).\n\nNov 2026: no will or administration for Job (d. before 1720) appears in the NYHS Abstracts, vols. I–XVII, Wills of the Smith Families (1898) or Unrecorded Wills prior to 1790; his heirs are proved instead by the 1736–61 divisions 'on the right of' Job, which name his sons Job, Aaron, Timothy, Joseph and James."
   },
   {
    "id": "H0225",
@@ -51518,7 +51772,7 @@ window.FAMILY_DATA = {
     "patriot"
    ],
    "summary": "Captain of the Woodbury Clove militia company in 1775-76, under whom Thomas Lamoreaux served as ensign; John's 7th-great-grand-uncle.",
-   "bio": "Captain Francis Smith was a brother of Temperance Smith and an uncle of Keturah Tuttle, which makes him John's 7th-great-grand-uncle. He and Capt. Austin Smith had lived in Woodbury Clove, Orange County, New York, for twenty years or more before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him when it was reorganised a year later, being at the time \"a widower with two grown daughters\".\n\nHe commanded the company in 1775 and 1776, with Thomas Smith as first lieutenant and, in 1776, Thomas Lamoreaux as ensign, serving under Colonel Woodhull. His eldest daughter Elizabeth married John Weygant, and a granddaughter of James and Jerusha Smith, also named Jerusha Smith, married Tobias Weygant.",
+   "bio": "Captain Francis Smith was a brother of Temperance Smith and an uncle of Keturah Tuttle, which makes him John's 7th-great-grand-uncle. He and Capt. Austin Smith had lived in Woodbury Clove, Orange County, New York, for twenty years or more before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him when it was reorganised a year later, being at the time \"a widower with two grown daughters\".\n\nHe commanded the company in 1775 and 1776, with Thomas Smith as first lieutenant and, in 1776, Thomas Lamoreaux as ensign, serving under Colonel Woodhull. His eldest daughter Elizabeth married John Weygant, and a granddaughter of James and Jerusha Smith, also named Jerusha Smith, married Tobias Weygant.\n\nHe was born at Moriches on Long Island on 4 January 1733 and died at Woodbury Clove on 11 May 1785 without a will; letters of administration went to his widow, Caty.",
    "military": [
     {
      "branch": "Orange County, NY militia",
@@ -51533,7 +51787,11 @@ window.FAMILY_DATA = {
     "Pelletreau (1898) App. p. 479",
     "SAR P-232580, https://sarpatriots.sar.org/patriot/display/232580",
     "Round 2 report §2 (Military)",
-    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
+    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
+    "C. Reynolds, Genealogical and Family History of Southern New York (1914), vol. 1, pp. 892–893 (Capt. Francis Smith b. Moriches 4 Jan 1733, d. Woodbury Clove 11 May 1785): https://archive.org/details/genealogicalfami01reyn",
+    "DAR Lineage Book vol. 24 (1898), pp. 178–179: \"Francis Smith, (1733-85), was captain of the Woodbury Clove company\": https://archive.org/details/lineagebook2423daug",
+    "NYHS Abstracts of Wills vol. XIII, Letters of Administration 1785: Francis Smith, yeoman, Cornwall Precinct, to widow Caty: https://archive.org/details/abstractswillso01courgoog",
+    "C. H. Weygant, The Family Record (1897), pp. 144–145: James & Jerusha (Topping) Smith's nine children incl. 8. Temperance; Capt. Francis and Capt. Austin Smith 'residents of Woodbury Clove some twenty years or more prior to the commencement of the revolution': https://archive.org/details/familyrecord112weyg"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -51556,9 +51814,21 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Birth 4 Jan 1733 (Moriches), death 11 May 1785 (Woodbury Clove) and 1785 administration added from Reynolds (1914), the DAR Lineage Book and the NYHS abstracts."
     }
    ],
-   "researchNotes": "Ruttenber & Clark (1881): 'Woodbury Clove Co.—1775—Francis Smith, captain; Thomas Smith, 1st lt.; ... 1776—... Thos. Lammoreux, ensign.' SAR P-232580 says Thomas Lamoreaux served as Ensign under Capt. Francis Smith and Colonel Woodhull.\n\nWeygant (1897) says Capt. Francis and Capt. Austin Smith were residents of Woodbury Clove 'some twenty years or more' before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him at the reorganization a year later, 'at the time a widower with two grown daughters'. Francis's eldest daughter Elizabeth married John Weygant, and a granddaughter of James & Jerusha Smith, Jerusha Smith, married Tobias Weygant ([R4-S1])."
+   "researchNotes": "Ruttenber & Clark (1881): 'Woodbury Clove Co.—1775—Francis Smith, captain; Thomas Smith, 1st lt.; ... 1776—... Thos. Lammoreux, ensign.' SAR P-232580 says Thomas Lamoreaux served as Ensign under Capt. Francis Smith and Colonel Woodhull.\n\nWeygant (1897) says Capt. Francis and Capt. Austin Smith were residents of Woodbury Clove 'some twenty years or more' before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him at the reorganization a year later, 'at the time a widower with two grown daughters'. Francis's eldest daughter Elizabeth married John Weygant, and a granddaughter of James & Jerusha Smith, Jerusha Smith, married Tobias Weygant ([R4-S1]).\n\nReynolds (1914) vol. 1 pp. 892–893: 'Captain Francis Smith, son of James and Jerusha (Topping) Smith, was born in Moriches … January 4, 1733, and died in Woodbury Clove … May 11, 1785.' DAR Lineage Book 24 pp. 178–179: 'Francis Smith, (1733-85), was captain of the Woodbury Clove company. He was born in Long Island; died in Orange Co., N. Y.' Administration c. 21 Jun 1785, 'Francis Smith, yeoman, Cornwall Precinct', to 'Widow, Caty' (NYHS Abstracts of Wills vol. XIII, letters of administration 1785).",
+   "birth": {
+    "date": "1733-01-04",
+    "place": "Moriches, Brookhaven, Suffolk County, New York, USA"
+   },
+   "death": {
+    "date": "1785-05-11",
+    "place": "Woodbury Clove, Cornwall, Orange County, New York, USA"
+   }
   },
   {
    "id": "H0263",
@@ -51568,7 +51838,7 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "probable",
-    "note": "Pelletreau App. p. 479; Ruttenber 1881."
+    "note": "Pelletreau App. p. 479; Thompson 1843; Weygant 1897; F. K. Smith 1967 (marriage to Mehitable Tuthill, Nova Scotia); Ruttenber 1881."
    },
    "aka": [
     "Capt. Austin Smith"
@@ -51577,7 +51847,7 @@ window.FAMILY_DATA = {
     "military"
    ],
    "summary": "Brother of Temperance Smith and John's 7th-great-grand-uncle; captain of the Woodbury Clove militia company in Orange County, New York.",
-   "bio": "Austin Smith was a brother of Temperance Smith, which makes him John's 7th-great-grand-uncle. He was a public man of Woodbury Clove in Orange County, New York. In 1765 he and John Earl served as overseers of roads for the Clove, in 1771 he was captain of the Woodbury Clove military company, and in 1775 he was fence-viewer and assessor. The Upper Clove company was afterwards described as the one 'formerly commanded by Capt. Austin Smith'. His wife may have been Mehitable Tuthill, though that has not been verified.",
+   "bio": "Austin Smith was a brother of Temperance Smith, which makes him John's 7th-great-grand-uncle. He was a public man of Woodbury Clove in Orange County, New York. In 1765 he and John Earl served as overseers of roads for the Clove, in 1771 he was captain of the Woodbury Clove military company, and in 1775 he was fence-viewer and assessor. The Upper Clove company was afterwards described as the one 'formerly commanded by Capt. Austin Smith'. He married Mehitable Tuthill, a daughter of James Tuthill and sister of John Tuthill, the husband of his sister Temperance. He signed the Articles of Association in Cornwall Precinct in 1775, but he later sided with the Crown: he died a Loyalist in 1798, and at least two of his sons went with him to Annapolis County, Nova Scotia.",
    "military": [
     {
      "branch": "Orange County, NY militia",
@@ -51588,7 +51858,12 @@ window.FAMILY_DATA = {
    "sources": [
     "Ruttenber & Clark (1881)",
     "Pelletreau (1898) App. p. 479",
-    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
+    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), pp. ~91–92 and 151–152: \"102. Austin, m. Mehitable Tuthill … 107. Temperance, supposed to have m. John Tuthill, brother of above Mehitable\"; Mehitable is \"daughter of James and ___ Tuthill\" of Fireplace, who \"in 1748 removed with his family to Orange County\" (archive.org full-text snippets; book borrow-only): https://archive.org/details/familyofrichards00smit",
+    "B. F. Thompson, History of Long Island, 2nd ed. (1843), vol. 2, App. p. 453: \"James, son of Job 1st, married Jerusha Topping, issue, Matthew, Ezekiel, Austin, Nathaniel, Francis, Eunice, Keturah, Temperance and Jerusha\": https://archive.org/details/historyoflongisl02thom",
+    "C. H. Weygant, The Family Record (1897), pp. 144–145: James & Jerusha (Topping) Smith's nine children incl. 8. Temperance; Capt. Francis and Capt. Austin Smith 'residents of Woodbury Clove some twenty years or more prior to the commencement of the revolution': https://archive.org/details/familyrecord112weyg",
+    "Ruttenber & Clark, History of Orange County (1881), pp. 68–69: 1775 Cornwall Precinct signers incl. Austin Smith, John Tuthill, Thomas Lamoureux and James Tuttle: https://archive.org/details/historyoforangec00rut",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)"
    ],
    "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -51611,9 +51886,23 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Wife Mehitable Tuthill (sister of John Tuthill) and Loyalist end in Nova Scotia added from F. K. Smith (1967)."
     }
    ],
-   "researchNotes": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.\n\nWeygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company ([R4-S1]). WikiTree gives his wife as Mehitable Tuthill (unverified)."
+   "researchNotes": "The Upper Clove company was 'formerly commanded by Capt. Austin Smith'. Fence-viewer and assessor for Woodbury Clove in 1775.\n\nWeygant (1897): in 1765 Austin Smith and John Earl were 'Overseers of Roads for Woodbury Clove', and in 1771 Austin was captain of the Woodbury Clove military company ([R4-S1]). WikiTree gives his wife as Mehitable Tuthill (unverified).\n\nF. K. Smith (1967) no. 102: 'Austin, m. Mehitable Tuthill, settled in the southeastern part of Orange County, N.Y., about twenty [years before the Revolution]'; 'at least two sons were with him, in Annapolis County' [Nova Scotia]; Mehitable 'daughter of James and ___ Tuthill'. The Home-Nest Chronicles descendant chart gives 'Austin Smith (Loyalist) 1728–1798 + Mehitable Tuthill 1728–'. The death place in Nova Scotia is inferred from F. K. Smith and the Loyalist label; no death record seen. His Loyalist claim (UK National Archives AO 12/13; Library and Archives Canada; Ancestry 'UK, American Loyalist Claims') is unread and may name his Woodbury Clove in-laws. He signed the 1775 Cornwall Articles of Association (Ruttenber & Clark pp. 68–69).",
+   "birth": {
+    "date": "1728"
+   },
+   "death": {
+    "date": "1798",
+    "place": "Annapolis County, Nova Scotia, Canada"
+   },
+   "funFacts": [
+    "He signed the patriot Articles of Association in 1775 while his brother Francis led the Woodbury Clove militia, yet Austin ended his days a Loyalist in Nova Scotia."
+   ]
   },
   {
    "id": "H0264",
@@ -54491,7 +54780,7 @@ window.FAMILY_DATA = {
     "Mrs. Stanford White"
    ],
    "tags": [],
-   "summary": "Daughter of Judge J. Lawrence Smith and wife of the architect Stanford White; John's 6th cousin 5x removed.",
+   "summary": "Daughter of Judge J. Lawrence Smith and wife of the architect Stanford White; John's 5th cousin 5x removed.",
    "sources": [
     "Pelletreau (1898) App. p. 461",
     "[R4-S1] Wikimedia Commons files from the Metropolitan Museum of Art (Open Access): 'Mrs. Stanford White (Bessie Springs Smith)' by Augustus Saint-Gaudens (primary) https://commons.wikimedia.org/wiki/File:Mrs._Stanford_White_(Bessie_Springs_Smith)_MET_DT2594.jpg"
@@ -54517,9 +54806,13 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Cousin label corrected now that Job Smith 2d is linked as Job Smith's son, giving the shorter route through Anna Smith."
     }
    ],
-   "bio": "Bessie Springs Smith was a daughter of Judge J. Lawrence Smith. She married the architect Stanford White and was known thereafter as Bessie Smith White or Mrs. Stanford White. The sculptor Augustus Saint-Gaudens portrayed her twice: in a marble bust modelled in 1884 and carved by 1888, and in a bronze relief medallion of 1884 that was cast in 1893. Both are now in the Metropolitan Museum of Art. Through Job Smith she is John's 6th cousin 5 times removed.",
+   "bio": "Bessie Springs Smith was a daughter of Judge J. Lawrence Smith. She married the architect Stanford White and was known thereafter as Bessie Smith White or Mrs. Stanford White. The sculptor Augustus Saint-Gaudens portrayed her twice: in a marble bust modelled in 1884 and carved by 1888, and in a bronze relief medallion of 1884 that was cast in 1893. Both are now in the Metropolitan Museum of Art. Through Job Smith she is John's 5th cousin 5 times removed.",
    "conflicts": [
     {
      "field": "relationship",
@@ -54570,8 +54863,8 @@ window.FAMILY_DATA = {
     "note": "Wikipedia; path via J. Lawrence Smith."
    },
    "tags": [],
-   "summary": "Architect, partner at McKim, Mead & White and president of the National Academy of Design; John's 7th cousin 4 times removed.",
-   "bio": "Lawrence Grant White (1887–1956) was an architect, a partner in the firm of McKim, Mead & White and president of the National Academy of Design. He was the son of the architect Stanford White and Bessie Springs Smith, of the Smithtown Smiths.\n\nThrough his mother he is John's 7th cousin four times removed, and by a shorter line through Job Smith he can also be reckoned a 6th cousin four times removed. His cousin Lawrence Smith Butler, son of Cornelia Smith Butler and likewise an architect, stands in the same relationship to John. J. Lawrence Smith's daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet, figures in Gilded Age society, are John's 6th cousins five times removed.",
+   "summary": "Architect, partner at McKim, Mead & White and president of the National Academy of Design; John's 6th cousin 4 times removed.",
+   "bio": "Lawrence Grant White (1887–1956) was an architect, a partner in the firm of McKim, Mead & White and president of the National Academy of Design. He was the son of the architect Stanford White and Bessie Springs Smith, of the Smithtown Smiths.\n\nThrough his mother and the line of Job Smith he is John's 6th cousin four times removed. His cousin Lawrence Smith Butler, son of Cornelia Smith Butler and likewise an architect, stands in the same relationship to John. J. Lawrence Smith's daughters Cornelia Smith Butler, Kate Wetherill and Ella Emmet, figures in Gilded Age society, are John's 5th cousins five times removed.",
    "sources": [
     "Wikipedia, https://en.wikipedia.org/wiki/Lawrence_Grant_White",
     "Wikipedia, \"Robert White (sculptor)\": Robert Winthrop White, b. 19 Sep 1921 St. James, N.Y., third of eight children of Lawrence Grant White and Laura Astor Chanler; m. Claire Nicolas Aug 1947; d. 21 Sep 2002 Smithtown, N.Y.; sons Sebastian and Christian: https://en.wikipedia.org/wiki/Robert_White_(sculptor)",
@@ -54598,6 +54891,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Cousin label corrected now that Job Smith 2d is linked as Job Smith's son, giving the shorter route through Anna Smith."
     }
    ],
    "media": [
@@ -61842,8 +62139,8 @@ window.FAMILY_DATA = {
    "sex": "U",
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "DAR lineage sheet (via her daughter Elizabeth Linskill): daughter of Peter Steele Jr. and Charity Lamoreaux, b. 8 Dec 1808, d. 15 Jul 1876, m. 1832 John Linskill as his second wife; FamilySearch Mary Steele (KTZK-6S6)."
    },
    "tags": [],
    "researchLog": [
@@ -61862,23 +62159,40 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Dates, 1832 marriage and daughter Elizabeth from a DAR lineage sheet; sheet's 'Mary Steele Pringle' logged as a conflict."
     }
    ],
-   "bio": "Mary Steele (1808-1876) was a daughter of Peter Steele and Charity Lamoreaux, which made her a first cousin of James Pringle. She married John Linskill, who died in 1865, and was the mother of six Linskill children born in Lehman Township between 1833 and 1848. She was still living in Lehman Township in 1860 and was buried as Mary Steele Linskill at Huntsville in Jackson Township. Some family records make her a second wife of James Pringle, but that appears to arise from confusion with an unrelated Scottish couple, James and Mary Pringle, and she was probably never married to him.",
+   "bio": "Mary Steele (1808-1876) was a daughter of Peter Steele and Charity Lamoreaux, which made her a first cousin of James Pringle. She was born on 8 December 1808 and in 1832 married John Linskill, who died in 1865, and was the mother of six Linskill children born in Lehman Township between 1833 and 1848. She was still living in Lehman Township in 1860 and was buried as Mary Steele Linskill at Huntsville in Jackson Township. Some family records make her a second wife of James Pringle, but that appears to arise from confusion with an unrelated Scottish couple, James and Mary Pringle, and she was probably never married to him.",
    "conflicts": [
     {
      "field": "spouse",
      "site": "James Pringle (I282608053719)",
      "found": "John Linskill (d. 1865); buried as Mary Steele Linskill",
      "assessment": "FamilySearch merge error; treat the James-Mary Steele marriage as unsupported."
+    },
+    {
+     "field": "surname before Linskill",
+     "site": "Mary Steele",
+     "found": "A DAR lineage sheet calls her 'Mary Steele Pringle' and lists John Linskill as her second husband (married 1832)",
+     "assessment": "Suggests a short first marriage to a Pringle before 1832. It cannot have been James Pringle (I282608053719), whose wife Elizabeth Croup was living in 1860; a younger Pringle cousin is possible. No record of it found."
     }
    ],
    "sources": [
     "[R4-S1] FamilySearch published tree, James Pringle 1799-1909 (KP7T-1HK), with attached Ontario marriage register entry for Thomas Murray Pringle, 1867 (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KP7T-1HK",
-    "[R4-S2] FamilySearch published tree, Mary Steele (KTZK-6S6), with 1860 census ('Mary Linchkill') and Find a Grave index 'Mary Steele Linskill' (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KTZK-6S6"
+    "[R4-S2] FamilySearch published tree, Mary Steele (KTZK-6S6), with 1860 census ('Mary Linchkill') and Find a Grave index 'Mary Steele Linskill' (derivative) https://www.familysearch.org/service/tree/tree-data/published/persons/KTZK-6S6",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
    ],
    "researchNotes": "She is probably not James Pringle's wife at all. The 'second marriage' to Mary Steele comes from a merged FamilySearch profile of James Pringle (KP7T-1HK). That profile has absorbed a Scottish James and Mary Pringle, whose son Thomas Murray Pringle married at Toronto in 1867, and the 'Mary' has then been identified with Mary Steele ([R4-S1]). FamilySearch's own profile of Mary Steele (1808-1876) makes her the wife of John Linskill (d. 1865). It shows her as the mother of six Linskill children born in Lehman Twp between 1833 and 1848, living as 'Mary Linchkill' in 1860, and buried as Mary Steele Linskill at Huntsville, Jackson Twp ([R4-S2]). Through her parents, Peter Steele and Charity Lamoreaux, she was James Pringle's first cousin. No record of a marriage to James was found. Recommendation: remove her as James's spouse (see I282608053719).",
-   "summary": "Wife of John Linskill of Lehman Township and a first cousin of James Pringle; probably never James's wife, despite some family records."
+   "summary": "Mary Steele (1808–1876), daughter of Peter Steele and Charity Lamoreaux and wife of John Linskill of Lehman Township; John's 1st cousin 6 times removed.",
+   "birth": {
+    "date": "1808-12-08"
+   },
+   "death": {
+    "date": "1876-07-15"
+   }
   },
   {
    "id": "H0412",
@@ -63710,6 +64024,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Death 13 Aug 1852 from a DAR lineage sheet (entry beside his name)."
     }
    ],
    "residences": [
@@ -63736,10 +64054,14 @@ window.FAMILY_DATA = {
    "sources": [
     "[R4-S1] H. B. Wright, Historical Sketches of Plymouth (1873), pp.387-388 ('Van Loons') (secondary) https://archive.org/details/historicalsketch00wrig_2",
     "[R4-S2] Stewart Pearce, Annals of Luzerne County (1860), list of Plymouth taxables 1796 (secondary) https://archive.org/details/annalsofluzernec01pear",
-    "[R4-S3] Bradsby, History of Luzerne County (1893), Jackson Township chapter (secondary) https://archive.org/details/historyofluzerne00brad"
+    "[R4-S3] Bradsby, History of Luzerne County (1893), Jackson Township chapter (secondary) https://archive.org/details/historyofluzerne00brad",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)"
    ],
-   "researchNotes": "Wright's Historical Sketches of Plymouth (1873) says the Van Loons came to Plymouth from Esopus in 1794, three brothers of Low Dutch origin, Abraham ('Brom'), Mathias and Nicholas, all on the 1796 assessment list, and 'a family of hard workers' ([R4-S1]). Matthias Vanloon is on the 1796 Plymouth taxables list in Pearce's Annals ([R4-S2]). Bradsby names Mathias Van Loon, with Thomas Lamoreaux and others, as one of the 'settlers in the other century' of Jackson Township, the hill country west of Shawnee mountain where the Lamoreuxs settled ([R4-S3]). He married Temperance Lamoreaux (1778-1855), daughter of Ensign Thomas Lamoreaux, and they had eight children (round 2, from Thomas Lamoreaux's will and Giles & Franklin). His nephew Stephen Van Loon (Abraham's eldest son) married her sister Hannah, so uncle and nephew married sisters.",
-   "summary": "Low Dutch settler who came from Esopus, New York, to Plymouth, Pennsylvania, in 1794 and married Temperance Lamoreaux, daughter of Ensign Thomas Lamoreaux."
+   "researchNotes": "Wright's Historical Sketches of Plymouth (1873) says the Van Loons came to Plymouth from Esopus in 1794, three brothers of Low Dutch origin, Abraham ('Brom'), Mathias and Nicholas, all on the 1796 assessment list, and 'a family of hard workers' ([R4-S1]). Matthias Vanloon is on the 1796 Plymouth taxables list in Pearce's Annals ([R4-S2]). Bradsby names Mathias Van Loon, with Thomas Lamoreaux and others, as one of the 'settlers in the other century' of Jackson Township, the hill country west of Shawnee mountain where the Lamoreuxs settled ([R4-S3]). He married Temperance Lamoreaux (1778-1855), daughter of Ensign Thomas Lamoreaux, and they had eight children (round 2, from Thomas Lamoreaux's will and Giles & Franklin). His nephew Stephen Van Loon (Abraham's eldest son) married her sister Hannah, so uncle and nephew married sisters.\n\nA DAR lineage sheet for Thomas Lamoreaux writes 'Matthias Vanloon died 8-13-1852' beside the daughter Temperance; read as his death date (his wife Temperance died in 1855).",
+   "summary": "Low Dutch settler who came from Esopus, New York, to Plymouth, Pennsylvania, in 1794 and married Temperance Lamoreaux, daughter of Ensign Thomas Lamoreaux.",
+   "death": {
+    "date": "1852-08-13"
+   }
   },
   {
    "id": "H0445",
@@ -63896,8 +64218,8 @@ window.FAMILY_DATA = {
    "sex": "U",
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "DAR lineage sheet (Charity Lamoreaux line): Peter Steele Jr., 1779–1857, Jackson Twp., husband of Charity Lamoreaux; Luzerne deed of 1861 recites an 1833 deed by Peter Steel and Charity his wife."
    },
    "tags": [],
    "researchLog": [
@@ -63916,7 +64238,24 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "Round 4 (round4 imported) from research/imported/round4/people/H0449.json."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Identified from a DAR lineage sheet and Luzerne deeds."
     }
+   ],
+   "summary": "Peter Steele Jr. (1779–1857) of Jackson Township, husband of Charity Lamoreaux, daughter of Ensign Thomas Lamoreaux; John's 5th-great-grand-uncle by marriage.",
+   "bio": "Peter Steele Jr. was born in 1779 and farmed in Jackson Township, Luzerne County, Pennsylvania. He married Charity Lamoreaux, born in 1783, a daughter of Ensign Thomas Lamoreaux and Keturah Tuttle. In 1833 Peter and Charity sold land in Jackson Township that later passed to Thomas Lamoreaux. Their daughter Mary, born in 1808, married John Linskill of Lehman Township. Peter died in 1857.",
+   "birth": {
+    "date": "1779"
+   },
+   "death": {
+    "date": "1857",
+    "place": "Jackson Township, Luzerne County, Pennsylvania, USA"
+   },
+   "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)",
+    "Luzerne County deed of 1861, John Steel to Thomas Lamoreaux, reciting an 1833 deed from Peter Steel and Charity his wife (FamilySearch image group 008086639, image 503)"
    ]
   },
   {
@@ -65040,8 +65379,8 @@ window.FAMILY_DATA = {
    "suffix": "2d",
    "source": "research",
    "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "confirmed",
+    "note": "Named as a son of Job Smith in his grandfather Bull Smith's deed of 30 Aug 1688 (Pelletreau pp. 56–58, 70); Pelletreau App. p. 478 gives his birth, 9 Mar 1679, and his daughters Anna (Mrs Ebenezer Smith) and Charity."
    },
    "tags": [],
    "researchLog": [
@@ -65060,14 +65399,22 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Linked as a child of Job Smith and Elizabeth Thompson so the site can trace the Stanford White heirs' closer descent through Job (8th cousin twice removed)."
     }
    ],
    "bio": "Job Smith was a son of Job Smith 1st and Elizabeth Thompson, and is John's 9th-great-granduncle. Two of his daughters are important to the web of Smith cousins. Anna married first Ebenezer Smith, son of Richard Smith 2d, and second Zephaniah Platt, and died on 12 March 1813. Charity was the first wife of Edmund Smith 2d. Through Anna and Charity, Judge J. Lawrence Smith, James Clinch Smith, Bessie Smith White and the Bailey and Platt cousins all descend from Job Smith 1st, John's own ancestor.",
    "sources": [
-    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466, 475-476 (secondary) https://archive.org/details/recordsoftownofs00smitrich"
+    "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Appendix (archive.org full text, scans recordsoftownofs00smitrich and recordstownsmit00pellgoog), App. pp. 465-466, 475-476 (secondary) https://archive.org/details/recordsoftownofs00smitrich",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), pp. 56–58, 70 and App. pp. 472, 478: https://archive.org/details/recordsoftownofs00smitrich"
    ],
    "researchNotes": "Son of Job Smith 1st & Elizabeth Thompson (John's 9th-great-granduncle). Pelletreau ([R4-S1]) names two daughters important to the cousin web: Anna, who married first Ebenezer Smith (son of Richard 2d) and second Zephaniah Platt, and died 12 Mar 1813; and Charity, first wife of Edmund Smith 2d. Through Anna and Charity, Judge J. Lawrence Smith, James Clinch Smith, Bessie Smith White and the Bailey and Platt cousins all descend from Job Smith 1st, John's own ancestor.",
-   "summary": "Son of Job Smith and Elizabeth Thompson, whose daughters Anna and Charity tie many Smith, Platt and Bailey cousins to the family; John's 9th-great-granduncle."
+   "summary": "Son of Job Smith and Elizabeth Thompson, whose daughters Anna and Charity tie many Smith, Platt and Bailey cousins to the family; John's 9th-great-granduncle.",
+   "birth": {
+    "date": "1679-03-09"
+   }
   },
   {
    "id": "H0474",
@@ -71553,14 +71900,16 @@ window.FAMILY_DATA = {
    "source": "research",
    "link": {
     "confidence": "probable",
-    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of H0276 (proven); parent of H0277 (proven); child of H0517 (proven)."
+    "note": "Pelletreau, Records of the Town of Smithtown (1898): Ebenezer Smith, 'Sun of Richard Smith', b. 20 Feb 1712, m. Anna, daughter of Job Smith 2d; their son Richard 4th; Eliza W. Nicoll m. Richard Smith 5th; Judge J. Lawrence Smith's daughter 'Bessie S., wife of Stanford White'. About 90% from Bull Smith down (the page naming J. Lawrence as son of Richard 5th is missing from the scan but every other account states it)."
    },
    "tags": [],
-   "summary": "Son of Ebenezer Smith and grandfather of Judge J. Lawrence Smith; John's 3rd cousin 7 times removed.",
-   "bio": "Richard Smith was the son of Ebenezer Smith and Anna, a daughter of Job Smith 2d. He married Sarah, daughter of Edmund Smith 2d and Charity, who was herself a daughter of Job Smith 2d. He died in 1811. His son Richard Smith 5th (1770–1831) was the father of Judge J. Lawrence Smith, so Richard is the ancestor through whom the judge's family, including James Clinch Smith and Bessie Smith White, descends from Job Smith. Through Job Smith 1st he is John's 3rd cousin 7 times removed.",
+   "summary": "Son of Ebenezer Smith and grandfather of Judge J. Lawrence Smith; John's 2nd cousin 8 times removed.",
+   "bio": "Richard Smith was the son of Ebenezer Smith and Anna, a daughter of Job Smith 2d. He married Sarah, daughter of Edmund Smith 2d and Charity, who was herself a daughter of Job Smith 2d. He died in 1811. His son Richard Smith 5th (1770–1831) was the father of Judge J. Lawrence Smith, so Richard is the ancestor through whom the judge's family, including James Clinch Smith and Bessie Smith White, descends from Job Smith. Through Job Smith 1st he is John's 2nd cousin 8 times removed.",
    "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog",
-    "Smithtown Matters, 11 Oct 2013, \"News of Long Ago: Judge John Lawrence Smith, Part I\": https://www.smithtownmatters.com/article-archive-chronological/2013/10/11/news-of-long-ago-judge-john-lawrence-smith-part-i.html"
+    "Smithtown Matters, 11 Oct 2013, \"News of Long Ago: Judge John Lawrence Smith, Part I\": https://www.smithtownmatters.com/article-archive-chronological/2013/10/11/news-of-long-ago-judge-john-lawrence-smith-part-i.html",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix (Ebenezer Smith b. 20 Feb 1712; Richard 4th; Richard 5th m. Eliza W. Nicoll; 'Bessie S., wife of Stanford White'): https://archive.org/details/recordsoftownofs00smitrich",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", sections 6–8 (12–15 Nov 2026, Claude Docs, private to John)"
    ],
    "manual": true,
    "researchLog": [
@@ -71571,11 +71920,19 @@ window.FAMILY_DATA = {
     {
      "date": "2026-10-08",
      "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "The Ebenezer → Richard 4th → Richard 5th → J. Lawrence Smith link now rests on Pelletreau (1898), not an online tree; ~90% from Bull Smith down."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Cousin label corrected now that Job Smith 2d is linked as Job Smith's son, giving the shorter route through Anna Smith."
     }
    ],
    "researchNotes": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d. Married Sarah, daughter of Edmund Smith 2d and Charity (daughter of Job 2d). Father of Richard Smith 5th (1770-1831) and so grandfather of Judge J. Lawrence Smith. He is the link that puts the J. Lawrence Smith family (James Clinch Smith, Bessie Smith White) on Job Smith's line: 3rd cousin 7 times removed of John via Job 1st.",
    "openQuestions": [
-    "The link Ebenezer Smith → Richard Smith (b. 1735) → Richard Smith (1770–1830, m. Eliza Nicoll) rests on an online tree and a Smithtown Matters article (11 Oct 2013); Pelletreau's appendix or F. K. Smith (1967) would confirm it, and with it the descent of Judge J. Lawrence Smith, the Whites and the Clinch Smiths."
+    "The page of Pelletreau's appendix naming J. Lawrence Smith as son of Richard 5th and Eliza Nicoll is missing from the archive.org scan; check another copy."
    ]
   },
   {
@@ -73756,14 +74113,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Added from the November 2026 notable-relatives research."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Cousin label corrected now that Job Smith 2d is linked as Job Smith's son, giving the shorter route through Anna Smith."
     }
    ],
    "link": {
     "confidence": "probable",
     "note": "Descends from Bull Smith through the Smiths of Smithtown, Judge J. Lawrence Smith, Bessie Springs Smith and Stanford White. Two weak links: on his side, Ebenezer Smith → Richard (1735) → Richard (1770) rests on an online tree and a local-history article; on John's side, Bull Smith descent depends on Keturah Tuttle's parentage (about 70%). Alive as of 2020; a fresher record would confirm."
    },
-   "summary": "Painter and printmaker of Long Island, a master of trompe l'oeil and great-grandson of Stanford White; John's 8th cousin 3 times removed.",
-   "bio": "Christian White is a painter and printmaker known for trompe l'oeil, landscapes and figure painting, and the son of the sculptor Robert White and the poet Claire Nicolas White. Through his father he is a great-grandson of the architect Stanford White and of Bessie Springs Smith, a Bull Smith descendant, which makes him John's eighth cousin three times removed. He learned a sculptor's skills assisting his father, and in 2015 Gallery North in Setauket marked his career with the retrospective Christian White: Fifty Years of Art."
+   "summary": "Painter and printmaker of Long Island, a master of trompe l'oeil and great-grandson of Stanford White; John's 8th cousin twice removed.",
+   "bio": "Christian White is a painter and printmaker known for trompe l'oeil, landscapes and figure painting, and the son of the sculptor Robert White and the poet Claire Nicolas White. Through his father he is a great-grandson of the architect Stanford White and of Bessie Springs Smith, a descendant of Bull Smith's son Job, which makes him John's eighth cousin twice removed. He learned a sculptor's skills assisting his father, and in 2015 Gallery North in Setauket marked his career with the retrospective Christian White: Fifty Years of Art."
   },
   {
    "id": "M0134",
@@ -73811,14 +74172,18 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Added from the November 2026 notable-relatives research."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Cousin label corrected now that Job Smith 2d is linked as Job Smith's son, giving the shorter route through Anna Smith."
     }
    ],
    "link": {
     "confidence": "probable",
     "note": "Descends from Bull Smith through the Smiths of Smithtown, Judge J. Lawrence Smith, Bessie Springs Smith and Stanford White. Two weak links: on his side, Ebenezer Smith → Richard (1735) → Richard (1770) rests on an online tree and a local-history article; on John's side, Bull Smith descent depends on Keturah Tuttle's parentage (about 70%). Which son of Lawrence Grant White is his father is not yet sourced."
    },
-   "summary": "Architect, founding partner of PBDW Architects, National Academician and author of the standard books on Stanford White, his great-grandfather; John's 8th cousin 3 times removed.",
-   "bio": "Samuel G. White is a great-grandson of Stanford White and Bessie Springs Smith through their son Lawrence Grant White, which makes him John's eighth cousin three times removed through Bull Smith. An architect since 1974, he is a founding partner of PBDW Architects in New York, a Fellow of the American Institute of Architects and a National Academician, and taught fine arts at New York University from 2000 to 2012. He has written the standard books on his great-grandfather's firm, among them The Houses of McKim, Mead & White, McKim, Mead & White: The Masterworks and Stanford White: Architect, and in October 2025 he lectured for Preservation Long Island on Stanford White at Box Hill, the family estate at St. James.",
+   "summary": "Architect, founding partner of PBDW Architects, National Academician and author of the standard books on Stanford White, his great-grandfather; John's 8th cousin twice removed.",
+   "bio": "Samuel G. White is a great-grandson of Stanford White and Bessie Springs Smith through their son Lawrence Grant White, which makes him John's eighth cousin twice removed through Bull Smith's son Job. An architect since 1974, he is a founding partner of PBDW Architects in New York, a Fellow of the American Institute of Architects and a National Academician, and taught fine arts at New York University from 2000 to 2012. He has written the standard books on his great-grandfather's firm, among them The Houses of McKim, Mead & White, McKim, Mead & White: The Masterworks and Stanford White: Architect, and in October 2025 he lectured for Preservation Long Island on Stanford White at Box Hill, the family estate at St. James.",
    "media": [
     {
      "url": "https://www.pbdw.com/samuel-white",
@@ -74362,15 +74727,27 @@ window.FAMILY_DATA = {
    "manual": true,
    "tags": [],
    "sources": [
-    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)"
+    "Alva M. Tuttle, Tuttle-Tuthill Lines in America (1968), pp. 311, 312, 356 and the List of Contributing Compilers (page images supplied by John from FamilySearch Books, item 481721)",
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux: elected ensign in Capt. Smith's company, Cornwall Precinct, 2 Mar 1776; commissioned ensign in Capt. Francis Smith's company of Col. Jesse Woodhull's regiment 21 Feb 1778; married Keturah Tuttle ca. 1770; thirteen children with spouses; FamilySearch image group 008978799, image 331: https://www.familysearch.org/ark:/61903/3:1:3QHK-Q3R2-C65J (transcript supplied by John, 15 Nov 2026)"
    ],
-   "researchLog": [],
+   "researchLog": [
+    {
+     "date": "2026-11-15",
+     "note": "Dates 1791–1892 from a DAR lineage sheet."
+    }
+   ],
    "link": {
     "confidence": "probable",
     "note": "Wife of Thomas Lamoreaux Jr. per Alva Tuttle (1968); related by marriage only."
    },
    "summary": "Mary Boston, wife of Thomas Lamoreaux Jr. (1787–1830).",
-   "bio": "Mary Boston married Thomas Lamoreaux Jr., born at Monroe, New York, in 1787, a son of Ensign Thomas Lamoreaux and Keturah Tuttle."
+   "bio": "Mary Boston married Thomas Lamoreaux Jr., born at Monroe, New York, in 1787, a son of Ensign Thomas Lamoreaux and Keturah Tuttle. She was born in 1791 and lived to about 101, dying in 1892.",
+   "birth": {
+    "date": "1791"
+   },
+   "death": {
+    "date": "1892"
+   }
   },
   {
    "id": "M0153",
@@ -74399,6 +74776,10 @@ window.FAMILY_DATA = {
     {
      "date": "2026-11-12",
      "note": "Added from Alva Tuttle (1968) p. 312."
+    },
+    {
+     "date": "2026-11-15",
+     "note": "Logged WikiTree Tuthill-708's 'William Tuthill' parentage as a conflict; Alva p. 312 supports John."
     }
    ],
    "link": {
@@ -74428,6 +74809,14 @@ window.FAMILY_DATA = {
      "people": [
       "I282608055492"
      ]
+    }
+   ],
+   "conflicts": [
+    {
+     "field": "parents",
+     "site": "John Tuthill and Temperance Smith (Alva Tuttle 1968)",
+     "found": "WikiTree Tuthill-708 gives 'William Tuthill and Temperance Smith', citing Alva p. 312",
+     "assessment": "Alva's p. 312 (page images from John) places him in John and Temperance's family; William was his younger brother (b. c.1754). Probably a WikiTree editing slip."
     }
    ]
   },
@@ -74474,6 +74863,129 @@ window.FAMILY_DATA = {
    },
    "summary": "Fanny Brewster, second wife of John Tuthill (1753), daughter of Francis and Mary (Strong) Brewster.",
    "bio": "Fanny Brewster, daughter of Francis and Mary (Strong) Brewster, married John Tuthill, Keturah Tuttle's brother, on 6 March 1788 as his second wife. She was named in his will of 1803."
+  },
+  {
+   "id": "M0156",
+   "given": "Mehitable",
+   "surname": "Tuthill",
+   "sex": "F",
+   "birth": {
+    "date": "ABT 1728"
+   },
+   "source": "research",
+   "manual": true,
+   "link": {
+    "confidence": "probable",
+    "note": "F. K. Smith (1967) pp. 92, 151–152: wife of Austin Smith and 'daughter of James and ___ Tuthill' of Fireplace, Brookhaven; sister of John Tuthill (c.1730). Probable because the whole Tuthill family group rests on compiled sources."
+   },
+   "summary": "Daughter of James Tuthill of Fireplace and wife of the Loyalist Capt. Austin Smith of Woodbury Clove; sister of John's 7th-great-grandfather John Tuthill.",
+   "bio": "Mehitable Tuthill was born about 1728, a daughter of James Tuthill, a landholder of Brookhaven who lived at Fireplace, now South Haven, and moved his family to Orange County in 1748. She married Austin Smith, a son of James Smith of Moriches and a great-grandson of Bull Smith, and settled with him at Woodbury Clove. Her brother John married Austin's sister Temperance in 1752, so the two families were joined twice over, and Mehitable was both aunt by blood and aunt by marriage to Keturah Tuttle. Austin sided with the Crown in the Revolution and ended his days in Annapolis County, Nova Scotia, where at least two of their sons joined him.",
+   "researchNotes": "F. K. Smith (1967): '102. Austin, m. Mehitable Tuthill'; 'Mehitable Tuthill, b. d. daughter of James and ___ Tuthill. James Tuthill was a land holder in Brookhaven, active and prominent in public affairs, with his residence at Fireplace (South Haven). In 1748 he removed with his family to Orange County. Austin Smith and his brother Francis also went there, possibly at the same time'; 'Children of Austin and Mehitable (Tuthill) Smith …' (archive.org full-text snippets; pp. 92, 151–152). Birth year 1728 from the Home-Nest Chronicles descendant chart (compiled). Whether she went to Nova Scotia is not stated.",
+   "sources": [
+    "F. K. Smith, The Family of Richard Smith of Smithtown (1967), pp. ~91–92 and 151–152: \"102. Austin, m. Mehitable Tuthill … 107. Temperance, supposed to have m. John Tuthill, brother of above Mehitable\"; Mehitable is \"daughter of James and ___ Tuthill\" of Fireplace, who \"in 1748 removed with his family to Orange County\" (archive.org full-text snippets; book borrow-only): https://archive.org/details/familyofrichards00smit",
+    "Home-Nest Chronicles descendant chart: 'Austin Smith (Loyalist) 1728–1798 + Mehitable Tuthill 1728–'",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)"
+   ],
+   "openQuestions": [
+    "Does Benjamin Tuthill's will (1795, proved 1807) name a sister Mehitable Smith?"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-15",
+     "note": "Added from F. K. Smith (1967) as wife of Austin Smith and daughter of James Tuthill."
+    }
+   ]
+  },
+  {
+   "id": "M0157",
+   "given": "John",
+   "surname": "Linskill",
+   "sex": "M",
+   "birth": {
+    "date": "1799-11-28"
+   },
+   "death": {
+    "date": "1865-08-18",
+    "place": "Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "link": {
+    "confidence": "probable",
+    "note": "DAR lineage sheet: John Linskill, b. 28 Nov 1799, d. Luzerne Co. 18 Aug 1865, of Huntsville, Lehman Twp., second husband (m. 1832) of Mary Steele."
+   },
+   "summary": "John Linskill (1799–1865) of Huntsville, Lehman Township, husband of Mary Steele, granddaughter of Ensign Thomas Lamoreaux.",
+   "bio": "John Linskill was born on 28 November 1799 and lived at Huntsville in Lehman Township, Luzerne County, Pennsylvania. In 1832 he married Mary Steele, a daughter of Peter Steele and Charity Lamoreaux, and they had six children born in Lehman Township between 1833 and 1848, among them Elizabeth, born in 1833. He died on 18 August 1865.",
+   "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-15",
+     "note": "Added from a DAR Genealogical Records Committee lineage sheet (Charity Lamoreaux line) supplied by John."
+    }
+   ]
+  },
+  {
+   "id": "M0158",
+   "given": "Elizabeth",
+   "surname": "Linskill",
+   "sex": "F",
+   "birth": {
+    "date": "1833-10-10",
+    "place": "Lehman Township, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1916-01-22"
+   },
+   "source": "research",
+   "manual": true,
+   "link": {
+    "confidence": "probable",
+    "note": "DAR lineage sheet: Elizabeth Linskill, b. 10 Oct 1833, d. 22 Jan 1916, daughter of John Linskill and Mary Steele, m. 18 Mar 1871 Merrit Sickler."
+   },
+   "summary": "Elizabeth Linskill (1833–1916), great-granddaughter of Ensign Thomas Lamoreaux and wife of Merrit Sickler; John's 2nd cousin 5 times removed.",
+   "bio": "Elizabeth Linskill was born on 10 October 1833, the daughter of John Linskill and Mary Steele of Lehman Township and a great-granddaughter of Ensign Thomas Lamoreaux and Keturah Tuttle. On 18 March 1871 she married Merrit Sickler of Huntsville. She died on 22 January 1916.",
+   "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-15",
+     "note": "Added from a DAR Genealogical Records Committee lineage sheet (Charity Lamoreaux line) supplied by John."
+    }
+   ]
+  },
+  {
+   "id": "M0159",
+   "given": "Merrit",
+   "surname": "Sickler",
+   "sex": "M",
+   "birth": {
+    "date": "1839-03-15",
+    "place": "Huntsville, Lehman Township, Luzerne County, Pennsylvania, USA"
+   },
+   "death": {
+    "date": "1894-01-20",
+    "place": "Luzerne County, Pennsylvania, USA"
+   },
+   "source": "research",
+   "manual": true,
+   "link": {
+    "confidence": "probable",
+    "note": "DAR lineage sheet: Merrit Sickler, b. 15 Mar 1839 at Huntsville, Lehman Twp., d. Luzerne Co. 20 Jan 1894, m. 18 Mar 1871 Elizabeth Linskill."
+   },
+   "summary": "Merrit Sickler (1839–1894) of Huntsville, Lehman Township, husband of Elizabeth Linskill.",
+   "bio": "Merrit Sickler was born on 15 March 1839 at Huntsville in Lehman Township, Luzerne County, Pennsylvania. On 18 March 1871 he married Elizabeth Linskill, a great-granddaughter of Ensign Thomas Lamoreaux. He died on 20 January 1894.",
+   "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
+   ],
+   "researchLog": [
+    {
+     "date": "2026-11-15",
+     "note": "Added from a DAR Genealogical Records Committee lineage sheet (Charity Lamoreaux line) supplied by John."
+    }
+   ]
   }
  ],
  "families": [
@@ -76906,7 +77418,9 @@ window.FAMILY_DATA = {
   },
   {
    "id": "HF0098",
-   "children": [],
+   "children": [
+    "H0411"
+   ],
    "husband": "H0449",
    "wife": "H0183"
   },
@@ -77015,6 +77529,7 @@ window.FAMILY_DATA = {
     "H0266",
     "H0267",
     "M0147",
+    "M0156",
     "I282608055492"
    ],
    "husband": "I282608055692",
@@ -77034,6 +77549,7 @@ window.FAMILY_DATA = {
   {
    "id": "HF0114",
    "children": [
+    "H0473",
     "I282608065087"
    ],
    "husband": "H0224",
@@ -78226,14 +78742,40 @@ window.FAMILY_DATA = {
    "children": []
   },
   {
-   "id": "CF0439",
+   "id": "MF0059",
+   "husband": "H0263",
+   "wife": "M0156",
+   "children": []
+  },
+  {
+   "id": "MF0060",
+   "husband": "M0157",
+   "wife": "H0411",
+   "marriage": {
+    "date": "1832"
+   },
+   "children": [
+    "M0158"
+   ]
+  },
+  {
+   "id": "MF0061",
+   "husband": "M0159",
+   "wife": "M0158",
+   "marriage": {
+    "date": "1871-03-18"
+   },
+   "children": []
+  },
+  {
+   "id": "CF0442",
    "children": [
     "I282608085304"
    ],
    "husband": "H0007"
   },
   {
-   "id": "CF0440",
+   "id": "CF0443",
    "children": [
     "I282608085305"
    ],
@@ -78242,7 +78784,7 @@ window.FAMILY_DATA = {
  ],
  "counts": {
   "gedcom": 341,
-  "research": 666
+  "research": 670
  },
  "stories": [
   {
@@ -80313,5 +80855,5 @@ window.FAMILY_DATA = {
    "body": "In the spring of 1640 Sarah Hammond of Watertown was sixteen. Six years earlier she had crossed from Ipswich on the Francis with her mother and her brother John to join her father William, a Lavenham clothier's son who had become one of the town's largest landholders. Her older sisters were already married, and that winter a suitor came to the Hammond house: a Mr. Smith, a man of some standing who lived outside the Bay Colony.\n\nThe two promised to marry, and the promise was \"publikely sett vpon our meeting house\", posted on the meeting-house door for the town to read, as the custom was. Then Mr. Smith tried to back out. In late April 1640 two letters went to Governor John Winthrop about the trouble: one from Watertown's minister, the Rev. George Phillips, and one from Sarah's uncle William Paine, who called it a quarrel \"betwixt on Smith and my brother Hammond dauter\". Brought before the governor and the colony's treasurer, Smith admitted that \"her father and he did agree vpon portion\", the sum Hammond would settle on the bride.\n\nThe marriage went ahead. The Mr. Smith of the letters was almost certainly Richard Smith, one of the first settlers of Southampton on Long Island, who would go on to found Smithtown and be remembered as Bull Smith. When William Hammond made his will in 1662 he left bequests to \"daughter Sarah Smith\" and to \"Adam Smith, son of daughter, Sarah\". Sarah outlived her husband by sixteen years and died at Smithtown in 1708, leaving her grandson the family blunderbuss and a cow to the minister of Setauket, another Mr. George Phillips."
   }
  ],
- "generated": "2026-11-12"
+ "generated": "2026-11-15"
 };

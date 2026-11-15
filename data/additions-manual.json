@@ -1473,6 +1473,55 @@
       "given": "Fanny",
       "surname": "Brewster",
       "sex": "F"
+    },
+    {
+      "id": "M0156",
+      "given": "Mehitable",
+      "surname": "Tuthill",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1728"
+      }
+    },
+    {
+      "id": "M0157",
+      "given": "John",
+      "surname": "Linskill",
+      "sex": "M",
+      "birth": {
+        "date": "1799-11-28"
+      },
+      "death": {
+        "date": "1865-08-18",
+        "place": "Luzerne County, Pennsylvania, USA"
+      }
+    },
+    {
+      "id": "M0158",
+      "given": "Elizabeth",
+      "surname": "Linskill",
+      "sex": "F",
+      "birth": {
+        "date": "1833-10-10",
+        "place": "Lehman Township, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1916-01-22"
+      }
+    },
+    {
+      "id": "M0159",
+      "given": "Merrit",
+      "surname": "Sickler",
+      "sex": "M",
+      "birth": {
+        "date": "1839-03-15",
+        "place": "Huntsville, Lehman Township, Luzerne County, Pennsylvania, USA"
+      },
+      "death": {
+        "date": "1894-01-20",
+        "place": "Luzerne County, Pennsylvania, USA"
+      }
     }
   ],
   "families": [
@@ -1932,6 +1981,32 @@
         "date": "1788-03-06"
       },
       "children": []
+    },
+    {
+      "id": "MF0059",
+      "husband": "H0263",
+      "wife": "M0156",
+      "children": []
+    },
+    {
+      "id": "MF0060",
+      "husband": "M0157",
+      "wife": "H0411",
+      "marriage": {
+        "date": "1832"
+      },
+      "children": [
+        "M0158"
+      ]
+    },
+    {
+      "id": "MF0061",
+      "husband": "M0159",
+      "wife": "M0158",
+      "marriage": {
+        "date": "1871-03-18"
+      },
+      "children": []
     }
   ],
   "familyUpdates": [
@@ -2118,6 +2193,27 @@
       "reason": "Alva Tuttle (1968) pp. 311–312: twins James and John born 1753 to John Tuthill and Temperance Smith.",
       "addChildren": [
         "M0153"
+      ]
+    },
+    {
+      "id": "HF0112",
+      "reason": "F. K. Smith (1967): Mehitable Tuthill, wife of Austin Smith, was a daughter of James Tuthill of Fireplace.",
+      "addChildren": [
+        "M0156"
+      ]
+    },
+    {
+      "id": "HF0098",
+      "reason": "DAR lineage sheet: Mary Steele (1808–1876) was a daughter of Peter Steele Jr. and Charity Lamoreaux.",
+      "addChildren": [
+        "H0411"
+      ]
+    },
+    {
+      "id": "HF0114",
+      "reason": "Pelletreau (1898) App. p. 478 and the deed of 30 Aug 1688: Job Smith 2d (b. 9 Mar 1679) was a son of Job Smith and Elizabeth Thompson; his daughter Anna married Ebenezer Smith.",
+      "addChildren": [
+        "H0473"
       ]
     }
   ],

@@ -1,8 +1,8 @@
 {
   "id": "H0449",
   "link": {
-    "confidence": "unverified",
-    "note": "Named only as a relative in another person's handoff record; not researched."
+    "confidence": "probable",
+    "note": "DAR lineage sheet (Charity Lamoreaux line): Peter Steele Jr., 1779–1857, Jackson Twp., husband of Charity Lamoreaux; Luzerne deed of 1861 recites an 1833 deed by Peter Steel and Charity his wife."
   },
   "tags": [],
   "researchLog": [
@@ -21,6 +21,23 @@
     {
       "date": "2026-10-08",
       "note": "Round 4 (round4 imported) from research/imported/round4/people/H0449.json."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Identified from a DAR lineage sheet and Luzerne deeds."
     }
+  ],
+  "summary": "Peter Steele Jr. (1779–1857) of Jackson Township, husband of Charity Lamoreaux, daughter of Ensign Thomas Lamoreaux; John's 5th-great-grand-uncle by marriage.",
+  "bio": "Peter Steele Jr. was born in 1779 and farmed in Jackson Township, Luzerne County, Pennsylvania. He married Charity Lamoreaux, born in 1783, a daughter of Ensign Thomas Lamoreaux and Keturah Tuttle. In 1833 Peter and Charity sold land in Jackson Township that later passed to Thomas Lamoreaux. Their daughter Mary, born in 1808, married John Linskill of Lehman Township. Peter died in 1857.",
+  "birth": {
+    "date": "1779"
+  },
+  "death": {
+    "date": "1857",
+    "place": "Jackson Township, Luzerne County, Pennsylvania, USA"
+  },
+  "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)",
+    "Luzerne County deed of 1861, John Steel to Thomas Lamoreaux, reciting an 1833 deed from Peter Steel and Charity his wife (FamilySearch image group 008086639, image 503)"
   ]
 }

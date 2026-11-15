@@ -1,0 +1,26 @@
+{
+  "id": "M0158",
+  "manual": true,
+  "link": {
+    "confidence": "probable",
+    "note": "DAR lineage sheet: Elizabeth Linskill, b. 10 Oct 1833, d. 22 Jan 1916, daughter of John Linskill and Mary Steele, m. 18 Mar 1871 Merrit Sickler."
+  },
+  "summary": "Elizabeth Linskill (1833–1916), great-granddaughter of Ensign Thomas Lamoreaux and wife of Merrit Sickler; John's 2nd cousin 5 times removed.",
+  "bio": "Elizabeth Linskill was born on 10 October 1833, the daughter of John Linskill and Mary Steele of Lehman Township and a great-granddaughter of Ensign Thomas Lamoreaux and Keturah Tuttle. On 18 March 1871 she married Merrit Sickler of Huntsville. She died on 22 January 1916.",
+  "birth": {
+    "date": "1833-10-10",
+    "place": "Lehman Township, Luzerne County, Pennsylvania, USA"
+  },
+  "death": {
+    "date": "1916-01-22"
+  },
+  "sources": [
+    "DAR Genealogical Records Committee lineage sheet, Thomas Lamoreaux line via Charity Lamoreaux and Peter Steele Jr.: Keturah Tuttle 'living 4/16/1816', married 1770; headstone erected by a local chapter of the Daughters of 1812; FamilySearch image group 008978866, image 616: https://www.familysearch.org/ark:/61903/3:1:3QHK-93R2-ZDG7 (transcript supplied by John, 15 Nov 2026)"
+  ],
+  "researchLog": [
+    {
+      "date": "2026-11-15",
+      "note": "Added from a DAR Genealogical Records Committee lineage sheet (Charity Lamoreaux line) supplied by John."
+    }
+  ]
+}

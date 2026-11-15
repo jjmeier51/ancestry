@@ -13,7 +13,7 @@
     "patriot"
   ],
   "summary": "Captain of the Woodbury Clove militia company in 1775-76, under whom Thomas Lamoreaux served as ensign; John's 7th-great-grand-uncle.",
-  "bio": "Captain Francis Smith was a brother of Temperance Smith and an uncle of Keturah Tuttle, which makes him John's 7th-great-grand-uncle. He and Capt. Austin Smith had lived in Woodbury Clove, Orange County, New York, for twenty years or more before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him when it was reorganised a year later, being at the time \"a widower with two grown daughters\".\n\nHe commanded the company in 1775 and 1776, with Thomas Smith as first lieutenant and, in 1776, Thomas Lamoreaux as ensign, serving under Colonel Woodhull. His eldest daughter Elizabeth married John Weygant, and a granddaughter of James and Jerusha Smith, also named Jerusha Smith, married Tobias Weygant.",
+  "bio": "Captain Francis Smith was a brother of Temperance Smith and an uncle of Keturah Tuttle, which makes him John's 7th-great-grand-uncle. He and Capt. Austin Smith had lived in Woodbury Clove, Orange County, New York, for twenty years or more before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him when it was reorganised a year later, being at the time \"a widower with two grown daughters\".\n\nHe commanded the company in 1775 and 1776, with Thomas Smith as first lieutenant and, in 1776, Thomas Lamoreaux as ensign, serving under Colonel Woodhull. His eldest daughter Elizabeth married John Weygant, and a granddaughter of James and Jerusha Smith, also named Jerusha Smith, married Tobias Weygant.\n\nHe was born at Moriches on Long Island on 4 January 1733 and died at Woodbury Clove on 11 May 1785 without a will; letters of administration went to his widow, Caty.",
   "military": [
     {
       "branch": "Orange County, NY militia",
@@ -28,7 +28,11 @@
     "Pelletreau (1898) App. p. 479",
     "SAR P-232580, https://sarpatriots.sar.org/patriot/display/232580",
     "Round 2 report §2 (Military)",
-    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg"
+    "[R4-S1] C. H. Weygant, The Family Record (1897; devoted to the Sackett, Weygant and Mapes families and intersecting lines), pp. 144-145, 'Smiths of Smithtown', Generations III-V (secondary) https://archive.org/details/familyrecor00weyg",
+    "C. Reynolds, Genealogical and Family History of Southern New York (1914), vol. 1, pp. 892–893 (Capt. Francis Smith b. Moriches 4 Jan 1733, d. Woodbury Clove 11 May 1785): https://archive.org/details/genealogicalfami01reyn",
+    "DAR Lineage Book vol. 24 (1898), pp. 178–179: \"Francis Smith, (1733-85), was captain of the Woodbury Clove company\": https://archive.org/details/lineagebook2423daug",
+    "NYHS Abstracts of Wills vol. XIII, Letters of Administration 1785: Francis Smith, yeoman, Cornwall Precinct, to widow Caty: https://archive.org/details/abstractswillso01courgoog",
+    "C. H. Weygant, The Family Record (1897), pp. 144–145: James & Jerusha (Topping) Smith's nine children incl. 8. Temperance; Capt. Francis and Capt. Austin Smith 'residents of Woodbury Clove some twenty years or more prior to the commencement of the revolution': https://archive.org/details/familyrecord112weyg"
   ],
   "handoff": {
     "section": "3.4 Colonial Long Island, New England and English lines",
@@ -51,7 +55,19 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Birth 4 Jan 1733 (Moriches), death 11 May 1785 (Woodbury Clove) and 1785 administration added from Reynolds (1914), the DAR Lineage Book and the NYHS abstracts."
     }
   ],
-  "researchNotes": "Ruttenber & Clark (1881): 'Woodbury Clove Co.—1775—Francis Smith, captain; Thomas Smith, 1st lt.; ... 1776—... Thos. Lammoreux, ensign.' SAR P-232580 says Thomas Lamoreaux served as Ensign under Capt. Francis Smith and Colonel Woodhull.\n\nWeygant (1897) says Capt. Francis and Capt. Austin Smith were residents of Woodbury Clove 'some twenty years or more' before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him at the reorganization a year later, 'at the time a widower with two grown daughters'. Francis's eldest daughter Elizabeth married John Weygant, and a granddaughter of James & Jerusha Smith, Jerusha Smith, married Tobias Weygant ([R4-S1])."
+  "researchNotes": "Ruttenber & Clark (1881): 'Woodbury Clove Co.—1775—Francis Smith, captain; Thomas Smith, 1st lt.; ... 1776—... Thos. Lammoreux, ensign.' SAR P-232580 says Thomas Lamoreaux served as Ensign under Capt. Francis Smith and Colonel Woodhull.\n\nWeygant (1897) says Capt. Francis and Capt. Austin Smith were residents of Woodbury Clove 'some twenty years or more' before the Revolution. Austin was captain of the Woodbury Clove company in 1771, and Francis succeeded him at the reorganization a year later, 'at the time a widower with two grown daughters'. Francis's eldest daughter Elizabeth married John Weygant, and a granddaughter of James & Jerusha Smith, Jerusha Smith, married Tobias Weygant ([R4-S1]).\n\nReynolds (1914) vol. 1 pp. 892–893: 'Captain Francis Smith, son of James and Jerusha (Topping) Smith, was born in Moriches … January 4, 1733, and died in Woodbury Clove … May 11, 1785.' DAR Lineage Book 24 pp. 178–179: 'Francis Smith, (1733-85), was captain of the Woodbury Clove company. He was born in Long Island; died in Orange Co., N. Y.' Administration c. 21 Jun 1785, 'Francis Smith, yeoman, Cornwall Precinct', to 'Widow, Caty' (NYHS Abstracts of Wills vol. XIII, letters of administration 1785).",
+  "birth": {
+    "date": "1733-01-04",
+    "place": "Moriches, Brookhaven, Suffolk County, New York, USA"
+  },
+  "death": {
+    "date": "1785-05-11",
+    "place": "Woodbury Clove, Cornwall, Orange County, New York, USA"
+  }
 }

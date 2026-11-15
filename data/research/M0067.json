@@ -2,14 +2,16 @@
   "id": "M0067",
   "link": {
     "confidence": "probable",
-    "note": "Added by round-4 research (2026-10-08) from records; relationship: parent of H0276 (proven); parent of H0277 (proven); child of H0517 (proven)."
+    "note": "Pelletreau, Records of the Town of Smithtown (1898): Ebenezer Smith, 'Sun of Richard Smith', b. 20 Feb 1712, m. Anna, daughter of Job Smith 2d; their son Richard 4th; Eliza W. Nicoll m. Richard Smith 5th; Judge J. Lawrence Smith's daughter 'Bessie S., wife of Stanford White'. About 90% from Bull Smith down (the page naming J. Lawrence as son of Richard 5th is missing from the scan but every other account states it)."
   },
   "tags": [],
-  "summary": "Son of Ebenezer Smith and grandfather of Judge J. Lawrence Smith; John's 3rd cousin 7 times removed.",
-  "bio": "Richard Smith was the son of Ebenezer Smith and Anna, a daughter of Job Smith 2d. He married Sarah, daughter of Edmund Smith 2d and Charity, who was herself a daughter of Job Smith 2d. He died in 1811. His son Richard Smith 5th (1770–1831) was the father of Judge J. Lawrence Smith, so Richard is the ancestor through whom the judge's family, including James Clinch Smith and Bessie Smith White, descends from Job Smith. Through Job Smith 1st he is John's 3rd cousin 7 times removed.",
+  "summary": "Son of Ebenezer Smith and grandfather of Judge J. Lawrence Smith; John's 2nd cousin 8 times removed.",
+  "bio": "Richard Smith was the son of Ebenezer Smith and Anna, a daughter of Job Smith 2d. He married Sarah, daughter of Edmund Smith 2d and Charity, who was herself a daughter of Job Smith 2d. He died in 1811. His son Richard Smith 5th (1770–1831) was the father of Judge J. Lawrence Smith, so Richard is the ancestor through whom the judge's family, including James Clinch Smith and Bessie Smith White, descends from Job Smith. Through Job Smith 1st he is John's 2nd cousin 8 times removed.",
   "sources": [
     "[R4-S1] W. S. Pelletreau (ed.), Records of the Town of Smithtown (1898), Google scan (archive.org full text; used where the other scan's OCR drops text), App. pp. 465-466 (secondary) https://archive.org/details/recordstownsmit00pellgoog",
-    "Smithtown Matters, 11 Oct 2013, \"News of Long Ago: Judge John Lawrence Smith, Part I\": https://www.smithtownmatters.com/article-archive-chronological/2013/10/11/news-of-long-ago-judge-john-lawrence-smith-part-i.html"
+    "Smithtown Matters, 11 Oct 2013, \"News of Long Ago: Judge John Lawrence Smith, Part I\": https://www.smithtownmatters.com/article-archive-chronological/2013/10/11/news-of-long-ago-judge-john-lawrence-smith-part-i.html",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), Appendix (Ebenezer Smith b. 20 Feb 1712; Richard 4th; Richard 5th m. Eliza W. Nicoll; 'Bessie S., wife of Stanford White'): https://archive.org/details/recordsoftownofs00smitrich",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", sections 6–8 (12–15 Nov 2026, Claude Docs, private to John)"
   ],
   "manual": true,
   "researchLog": [
@@ -20,10 +22,18 @@
     {
       "date": "2026-10-08",
       "note": "About text rewritten as narrative; the earlier research-note text is kept under Evidence notes."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "The Ebenezer → Richard 4th → Richard 5th → J. Lawrence Smith link now rests on Pelletreau (1898), not an online tree; ~90% from Bull Smith down."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Cousin label corrected now that Job Smith 2d is linked as Job Smith's son, giving the shorter route through Anna Smith."
     }
   ],
   "researchNotes": "Son of Ebenezer Smith (H0276) and Anna, daughter of Job Smith 2d. Married Sarah, daughter of Edmund Smith 2d and Charity (daughter of Job 2d). Father of Richard Smith 5th (1770-1831) and so grandfather of Judge J. Lawrence Smith. He is the link that puts the J. Lawrence Smith family (James Clinch Smith, Bessie Smith White) on Job Smith's line: 3rd cousin 7 times removed of John via Job 1st.",
   "openQuestions": [
-    "The link Ebenezer Smith → Richard Smith (b. 1735) → Richard Smith (1770–1830, m. Eliza Nicoll) rests on an online tree and a Smithtown Matters article (11 Oct 2013); Pelletreau's appendix or F. K. Smith (1967) would confirm it, and with it the descent of Judge J. Lawrence Smith, the Whites and the Clinch Smiths."
+    "The page of Pelletreau's appendix naming J. Lawrence Smith as son of Richard 5th and Eliza Nicoll is missing from the archive.org scan; check another copy."
   ]
 }

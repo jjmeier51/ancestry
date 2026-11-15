@@ -2,7 +2,7 @@
   "id": "I282608065309",
   "link": {
     "confidence": "probable",
-    "note": "Probable, about 70–75%. The records step by step: John back to Thomas and Keturah Lamoreaux, confirmed by censuses, marriage records and Thomas's will (about 97%); Keturah's maiden name Tuttle, confirmed in compiled histories of 1885 and 1919; Keturah as daughter of John Tuthill and Temperance Smith, probable (75–80%, Alva Tuttle 1968, the 1752 Smithtown marriage, naming pattern, birthplace); Temperance as daughter of James Smith and Jerusha Topping, probable (80%, five compilers 1843–1967); James as son of Job Smith, confirmed by the Smithtown land divisions of 1736 and 1761; Job as son of Bull Smith and Sarah, confirmed by the 1688 deed, the 1691/2 will and a 1697 deed. Nothing found contradicts the descent. The one printed statement of Keturah's parentage, Alva Tuttle's 1968 book, takes it from a family contributor, Lotta (Tuthill) Vail, rather than a record."
+    "note": "Probable, about 70–75%. The records step by step: John back to Thomas and Keturah Lamoreaux, confirmed by censuses, marriage records, Thomas's will and the 1812 deed (about 97%); Keturah's maiden name Tuttle, in compiled histories of 1885 and 1919 and three DAR lineage sheets; Keturah as daughter of John Tuthill and Temperance Smith, probable (about 80%; Alva Tuttle 1968 from Lotta Vail's files, her Woodbury Clove birth, the naming pattern); John and Temperance's marriage at Smithtown on 23 Nov 1752, confirmed by the church register (97%); Temperance as daughter of James Smith and Jerusha Topping, probable (80%, five compilers 1843–1967, and her brother Austin's marriage to John's sister Mehitable); James of Moriches as the James son of Job named in the 1736 and 1761 Smithtown divisions, probable (88%); Job as son of Bull Smith and Sarah, confirmed by the 1688 deed, the 1691/2 will and the 1697 deed (99%). Every Temperance Smith marrying at Smithtown around 1752 was a Bull Smith descendant, so the descent hangs on Keturah's parentage more than on Temperance's."
   },
   "given": "Richard",
   "surname": "Smith",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Y-DNA",
-      "value": "Haplogroup R-b1, SmithConnections cluster NE50 (WikiTree Smith-1208)"
+      "value": "Patrilineal descendants fall in haplogroup R1b, SmithConnections Northeastern DNA Project group NE50 (WikiTree Smith-1208). John's line passes through two women, so Y-DNA cannot test it."
     }
   ],
   "sources": [
@@ -108,7 +108,11 @@
     "Richard_Bull_Smith_Lineage.pdf",
     "[R4-S1] Pelletreau, Records of the Town of Smithtown (1898), pp. 56-58 and 71: deed 30 Aug 1688 (acknowledged 17 Sept 1688 before Wait Winthrop) of Richard Smith Sr. and wife Sarah to son Job Smith, with remainder to Job's sons Job, Richard, Joseph and Timothy; and deed of the same date to grandsons Job and Richard, sons of Job (derivative) https://archive.org/details/recordsoftownofs00smitrich",
     "Research report \"Living notable relatives of Johnny Meier\", 11 Nov 2026 (Claude Docs, private to John)",
-    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)"
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", 12 Nov 2026 (Claude Docs, private to John)",
+    "W. S. Pelletreau, Records of the Town of Smithtown (1898), pp. 34–36 (will of Richard and Sarah Smith, 5 Mar 1691/2, proved 2 May 1693), 56–58 and 70 (deeds of 30 Aug 1688), 71 (Sarah's deed to son Job, 3 Jul 1697), 82, 288, 297, 311–312, 400–401, 425–426 (1736 divisions and the final division signed 4 Aug 1761, naming 'James Smith son of Job Smith deceased'): https://archive.org/details/recordsoftownofs00smitrich",
+    "Rev. Napthali Daggett's register, Presbyterian Church of Smithtown, marriages 1752: \"Nov. 23. John Tuthill & Temperance Smith, 8/.\" Printed by W. A. Robbins, \"The Records of the Presbyterian Church of Smithtown,\" NYGBR 44 (1913): 279–284, marriage on p. 283, compared with F. B. Dexter's 1899 certified copy of the original at Yale (primary record, printed transcription): https://archive.org/details/newyorkgenealog44newy/page/283/",
+    "Research notes 'Keturah Tuttle/Tuthill: is she the daughter of John Tuthill & Temperance Smith?' and 'The Smith line: Temperance Smith back to Richard \"Bull\" Smith' (Oct–Nov 2026, uploaded by John 15 Nov 2026)",
+    "Research report \"Bull Smith and Matt Damon: how far the records go\", sections 6–8 (12–15 Nov 2026, Claude Docs, private to John)"
   ],
   "mediaKnown": [
     "Tree card 'Maj R B Sm(y)ith 1613–1692'"
@@ -362,6 +366,10 @@
     {
       "date": "2026-11-12",
       "note": "Alva Tuttle's source for Keturah's parents read: LTV (Lotta Tuthill Vail), a family compiler. The link stays probable; the decisive records are Orange County deeds or an estate administration."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Link note refreshed: the 1752 Tuthill–Smith marriage is now confirmed from the Smithtown register and Job→James from the town divisions; overall still probable (70–75%), resting on Keturah's parentage."
     }
   ],
   "researchNotes": "Origin unknown. Pelletreau (1898, Intro. p. vii): 'Of his previous history we know absolutely nothing… He is said, by some historians, to have come from a certain village in Yorkshire, but the evidence is not sufficient.' F. K. Smith (1967, pp. 15–20): 'It now appears most probable that he was the Richard Smith who sailed from England 2 Oct. 1635, aged 22 years, in the ship John of London, bound for St. Christophers'; from his 'court hand' script, 'in all probability he was brought up in London'; probably unmarried before emigrating (speculative). WikiTree Smith-1208: parents unknown; 'Myreshaw, Bradford, Yorkshire' only as 'Unsourced information'; Y-DNA haplogroup R-b1, cluster NE50 of the SmithConnections project, no English match. Gloucestershire origin is disproven (belongs to Richard Smith of Cocumscussoc/Wickford, RI, earlier of Taunton, who 'left a fair possession in Gloucestershire'; both men died 1691/2, encouraging the merge). Bedfordshire origin: no source; probably cross-wired with Capt. Thomas Topping of Totternhoe. In April 1640 'Mr. Smith' petitioned to be released from his published intention to marry Sarah Hammond; Rev. George Phillips (and William Paine) wrote to Gov. Winthrop on 24 Apr 1640 about 'Smith & my brother Hammond dauter'; he lost and the marriage went ahead. His first home lot at Southampton (1640/1643) was 'at the south end of the village… on the west side of the main street'. F. K. Smith accepts he went back to England in 1654 and returned in 1656 aboard the Speedwell with the first Quaker missionaries to New England (not marked 'Q' on the list); Southampton later banished him (probable that the two Richards are the same; debated). Smithtown: Lion Gardiner received the land for helping recover Sachem Wyandanch's kidnapped daughter, sold it to Smith in 1663; a 1665 patent confirmed Smith's claim. The story that he won Smithtown by riding a bull around it is a myth per local historians. His 1688 deed gave Job 50 acres at the northeast branch. Children: Jonathan (eldest; daughter Deborah m. Joseph Blydenburgh), Richard 2d, Job, Daniel, Adam (b. 1649), Elizabeth (m. William Lawrence, Gov. Philip Carteret, Col. Richard Townley), Deborah (m. Maj. William Lawrence Jr.). TREE: 'Maj R B Sm(y)ith 1613–1692', parents 'Sir Samuel Smith 1575–1618 + Rebecca Buswell 1593–1667' — unsupported, removed (Round 1 correction 3d). His wife was formerly given as 'Sarah Folger of Boston' (Pelletreau) — corrected to Sarah Hammond (NYGBR 121).\n\nPelletreau's 1688 deeds (pp. 56-58, 71) show Richard Smith Sr. 'Gent.' with wife Sarah, acknowledged before Wait Winthrop ([R4-S1]); already in the tree in substance."

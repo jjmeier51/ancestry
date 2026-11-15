@@ -10,6 +10,10 @@
     {
       "date": "2026-11-12",
       "note": "Added from Alva Tuttle (1968) p. 312."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Logged WikiTree Tuthill-708's 'William Tuthill' parentage as a conflict; Alva p. 312 supports John."
     }
   ],
   "link": {
@@ -39,6 +43,14 @@
       "people": [
         "I282608055492"
       ]
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "parents",
+      "site": "John Tuthill and Temperance Smith (Alva Tuttle 1968)",
+      "found": "WikiTree Tuthill-708 gives 'William Tuthill and Temperance Smith', citing Alva p. 312",
+      "assessment": "Alva's p. 312 (page images from John) places him in John and Temperance's family; William was his younger brother (b. c.1754). Probably a WikiTree editing slip."
     }
   ]
 }

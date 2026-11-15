@@ -4,6 +4,50 @@ Newest entries at the top. Every research session adds an entry: date, what
 was asked, what was searched, what was found (with sources), what was ruled
 out, and next steps. Person ids refer to `data/tree.json`.
 
+## 2026-11-15 — Keturah/Smith-line notes, DAR sheets, deeds
+
+- Inputs from John: the notes "Keturah Tuttle/Tuthill: is she the daughter of
+  John Tuthill & Temperance Smith?" and "The Smith line: Temperance Smith back
+  to Richard 'Bull' Smith", two DAR GRC lineage-sheet transcripts
+  (FamilySearch image groups 008978799 img 331 and 008978866 img 616), and
+  sections 6–8 of the "Bull Smith and Matt Damon" report (Luzerne and Orange
+  County deeds, more DAR sheets, White line re-check).
+- Confirmed: John Tuthill & Temperance Smith m. 23 Nov 1752, Smithtown, in
+  Rev. Napthali Daggett's Presbyterian register (NYGBR 44:283; also Zebulon
+  Smith & Elizabeth Green, 26 Mar 1752). Job ← Bull Smith (1688 deed, 1691/2
+  will, 1697 deed) and James ← Job (1736 and 1761 divisions, Pelletreau).
+- Strengthened, still probable: Temperance ← James & Jerusha (~80%; Thompson
+  1843 to F. K. Smith 1967, who adds Austin Smith m. Mehitable Tuthill, John's
+  sister: added `M0156`, `MF0059`, child of `HF0112`); James of Moriches = son
+  of Job (~88%); John (c.1730) ← James Tuthill (~75%; Leach 1903 lists sons
+  Daniel, James, John, Benjamin); Keturah ← John & Temperance (~80%). Bull
+  Smith stays probable, 70–75%.
+- James Smith's 1740 death marked unsourced (1761 division names him without
+  "deceased"). Competing John Tuthill (son of Jonathan of Goshen, 1746/7 will)
+  logged as a conflict. Austin Smith 1728–1798, Loyalist, Annapolis Co., NS.
+  Capt. Francis Smith b. 4 Jan 1733, d. 11 May 1785 (Reynolds 1914).
+- DAR sheets: Thomas elected ensign 2 Mar 1776, commissioned 21 Feb 1778,
+  Col. Jesse Woodhull's regiment; m. Keturah ca. 1770 in Orange County;
+  Keturah living 16 Apr 1816. Joshua m. Patty Ives 12 Dec 1813 (supports
+  1793); Daniel m. "Martha D." by 14 Jul 1817 (likely a first wife before
+  Maria Allen); Mary Boston 1791–1892; Matthias Van Loon d. 13 Aug 1852.
+  Added the Steele–Linskill line: Peter Steele Jr. (1779–1857, `H0449`),
+  Mary Steele (1808–1876, now child of `HF0098`; sheet calls her "Mary Steele
+  Pringle", logged), John Linskill `M0157`, Elizabeth Linskill `M0158`,
+  Merrit Sickler `M0159`. Both sheets attached to Thomas as media.
+- Luzerne Deed Book 105 pp. 266–268: Thomas and Keturah to son John, 22 Aug
+  1812, Lot 28 and east half of Lot 30, Plymouth; Keturah signed by mark.
+  Events added to both. Orange Co. grantor index T 1765–1828: nothing for
+  John (c.1730), Temperance or Keturah.
+- White line now rests on Pelletreau (1898), ~90% from Bull down. Linked Job
+  Smith 2d (`H0473`) as Job's son, so the site now shows Samuel G. and
+  Christian White as 8th cousins twice removed (via Job and Anna); fixed the
+  cousin labels of Richard 4th, Bessie Smith White and Lawrence Grant White.
+- Next: Lotta Vail's papers (Burton Historical Collection, Michigan City PL,
+  NYG&B); Orange Co. Liber H p. 214 and Liber T p. 473; Benjamin Tuthill's
+  will (Liber D p. 67); Yale Daggett papers (baptisms 1753–55); Suffolk deeds
+  Libers C–G; Austin Smith's Loyalist claim (AO 12/13).
+
 ## 2026-11-12 — Alva Tuttle (1968) pages read
 
 - John sent page images of Alva M. Tuttle, Tuttle-Tuthill Lines in America
